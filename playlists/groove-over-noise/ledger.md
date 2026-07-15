@@ -11,6 +11,8 @@
 | 3 | Coyu | Cachoeira | ADD | Percussive transition | Initial ledger |
 | 4 | Marcal | Bionic Jungle | ADD | Bridge into greater rhythmic density | 2026-07-15 |
 | 5 | Skov Bowden | Wurk | ADD | Controlled physical pressure | Initial ledger |
+| 6 | Altinbas | Trail Of | ADD | Restrained post-peak continuation | 2026-07-15 |
+| 7 | Psyk | Eclipse | ADD | Narrowed rhythmic decompression | 2026-07-15 |
 
 ## Current journey
 
@@ -19,7 +21,9 @@
 3. **Percussive transition** — increase bodily rhythm without a dramatic reset.
 4. **Density bridge** — tighten the sequence while preserving continuity.
 5. **Controlled pressure** — arrive at a physical peak without aggression taking over.
+6. **Restrained continuation** — sustain motion after the peak without escalating brightness or force.
+7. **Focused release** — narrow the rhythm and begin decompression without breaking the spell.
 
 ## Next structural need
 
-A restrained continuation after **Skov Bowden — Wurk** that sustains pressure without becoming brighter, harder, or more performative.
+A deeper closing track after **Psyk — Eclipse** that allows pressure to dissolve gradually without becoming ambient, sentimental, or overtly melodic.
