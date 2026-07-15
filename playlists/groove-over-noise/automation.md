@@ -2,6 +2,10 @@
 
 The GitHub repository is the persistent source of truth. Run one orchestrated workflow daily; do not create independent competing tasks.
 
+## Target playlist directory
+
+`playlists/groove-over-noise/`
+
 ## Read before every run
 
 1. `constitution.md`
@@ -10,16 +14,17 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 4. `rejected.md`
 5. `revisit.md`
 6. `notes.md`
-7. every file under `skills/`
+7. repository-level `AGENTS.md`
+8. the relevant skill packages under `.agents/skills/`
 
 ## Execution order
 
-1. **Scout** — follow `skills/scout.md`; return exactly three candidates.
-2. **Evaluator** — follow `skills/evaluator.md`; assign ADD, REVISIT, or REJECT.
-3. **Sequencer** — follow `skills/sequencer.md`; place every provisional ADD.
-4. **Auditor** — follow `skills/auditor.md`; approve, downgrade, reject, or reposition.
-5. **Librarian** — follow `skills/librarian.md`; update persistent GitHub state only after audit.
-6. **Publisher** — follow `skills/publisher.md`; find or create the Spotify playlist, update it when supported, and always produce manual instructions.
+1. **Scout** — use `.agents/skills/scout/SKILL.md`; return exactly three candidates.
+2. **Evaluator** — use `.agents/skills/evaluator/SKILL.md`; assign ADD, REVISIT, or REJECT.
+3. **Sequencer** — use `.agents/skills/sequencer/SKILL.md`; place every provisional ADD.
+4. **Auditor** — use `.agents/skills/auditor/SKILL.md`; approve, downgrade, reject, or reposition.
+5. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
+6. **Publisher** — use `.agents/skills/publisher/SKILL.md`; find or create the Spotify playlist, update it when supported, and always produce manual instructions.
 
 ## Atomicity
 
