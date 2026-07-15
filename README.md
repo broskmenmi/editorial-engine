@@ -4,18 +4,38 @@ A persistent, versioned editorial system for curated playlists.
 
 The repository is the source of truth. Spotify is the publication target.
 
-## Current playlist
+## Included reference playlist
 
 - [`GROOVE OVER NOISE`](playlists/groove-over-noise/)
 
+## How it works
+
+One recurring ChatGPT task orchestrates reusable Agent Skills in this order:
+
+```text
+Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
+```
+
+The skills live under `.agents/skills/<skill-name>/SKILL.md`. Playlist-specific identity and state live under `playlists/<playlist-slug>/`.
+
+## Installation
+
+Downloading or forking the repository does **not** automatically create a recurring task or connect GitHub/Spotify. Each user must connect their own apps and create one account-specific ChatGPT task.
+
+See [`SETUP.md`](SETUP.md) for the complete setup procedure.
+
+The recurring task is created using the [`scheduler` skill](.agents/skills/scheduler/SKILL.md), which contains the canonical task prompt and verification checklist.
+
 ## Workflow
 
-1. Read the playlist constitution.
-2. Read the canonical ordered ledger.
-3. Review prior discoveries, rejections, and editorial notes.
-4. Curate new candidates.
-5. Update the ledger and append the daily decision record.
-6. Sync to Spotify when editing is available.
+1. Read the playlist constitution and canonical ledger.
+2. Review prior discoveries, rejections, revisit candidates, and editorial notes.
+3. Scout exactly three candidates.
+4. Evaluate and sequence them.
+5. Audit the proposed changes.
+6. Update GitHub only after audit approval.
+7. Find or create the Spotify playlist and update it when supported.
+8. Always return exact manual add/remove/reorder instructions.
 
 ## Decision vocabulary
 
