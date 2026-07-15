@@ -13,7 +13,11 @@
 
 ## Current assessment
 
-The opening and central bridge are established. The next priority is a post-peak continuation after **Skov Bowden — Wurk** that sustains motion while reducing performative pressure.
+The opening, central bridge, peak, and restrained post-peak continuation are now established. **Altinbas — Trail Of** sustains motion after **Skov Bowden — Wurk**, and **Psyk — Eclipse** begins the release by narrowing the rhythmic field rather than resetting it.
+
+## Next scouting priority
+
+Find a deep closing track after **Psyk — Eclipse** that lets pressure dissolve gradually while remaining rhythmically alive. Avoid ambient drift, sentimental melody, vocal focus, or an obvious final statement.
 
 ## Candidate verdicts
 
