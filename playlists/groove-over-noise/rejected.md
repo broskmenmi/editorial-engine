@@ -10,4 +10,6 @@ A rejected track may be reconsidered only when:
 
 ## Entries
 
-_No rejected tracks recorded yet._
+| Artist | Track | Reason | Rejected |
+|---|---|---|---|
+| Chlär | Internet Soulmate | Its extroverted, recognisable rhythmic personality shifts the post-peak passage toward playful impact. The canonical ledger now has a more restrained continuation, leaving no necessary structural role for it. | 2026-07-15 |
