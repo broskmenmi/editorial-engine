@@ -26,13 +26,59 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-16 — Run 1
+
+### ADD
+
+- **Track:** Calipso
+- **Artist:** Luigi Tozzi
+- **Spotify:** spotify:track:15QxVy6d8RrbPKmsYyuVbT
+- **Position:** After Psyk — Eclipse, as the final deep dissolution.
+- **Purpose:** Complete the closing descent.
+- **Reason:** Patient motion dissolves pressure without losing pulse.
+
+### REVISIT
+
+- **Track:** Tonal
+- **Artist:** Claudio PRC
+- **Spotify:** spotify:track:04fYJHkqNYRGb1szqgpJYd
+- **Position:** After Psyk — Eclipse, as an alternative closer.
+- **Purpose:** Test a firmer final pulse.
+- **Reason:** Deep and restrained, but close to Eclipse's function.
+- **What needs reassessment:** Whether its firmer pulse resolves the journey or duplicates Eclipse's focused release.
+- **Reassess when:** Compared directly against Calipso after Eclipse.
+
+### REJECT
+
+- **Track:** Parola - Rework
+- **Artist:** Donato Dozzy, Anna Caragnano
+- **Spotify:** spotify:track:0GQZojX9G6n6YADImDzYW4
+- **Position:** After Psyk — Eclipse, as a vocal-led closer.
+- **Purpose:** Introduce a human final texture.
+- **Reason:** Vocal focus turns the ending into a statement.
+- **Why it weakens the identity:** The voice demands attention precisely where the journey should disappear into itself.
+
+### Audit result
+
+Approved Calipso as the sole addition. Tonal remains an alternative closer for direct comparison. Parola - Rework was rejected because vocal focus breaks the intended disappearance.
+
+### Spotify reconciliation
+
+The canonical Spotify playlist exists, but this connection cannot edit track order. Calipso requires manual insertion after Psyk — Eclipse.
+
+### Editorial note
+
+The ending is established; future additions must solve a concrete weakness rather than extend the playlist by default.
+
+---
+
 ## 2026-07-15 — Run 2
 
 ### ADD
 
 - **Track:** Trail Of
 - **Artist:** Altinbas
-- **Spotify:** https://open.spotify.com/track/1BLpNBx8502KRE2TommLp6?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=20ca6668-0fa8-4903-a4da-c34e21d6e596&nl=spotify%3Anl%3ACAASECDKZmgPqEkDpNrDTiHW5ZYaGDU6MUJMcE5CeDg1MDJLUkUyVG9tbUxwNiADMAPgAzXoA%2FzXrv%2F0M%2FADIA%3D%3D&redirect_uri=com.openai.chat%3A%2F%2F
+- **Spotify:** spotify:track:1BLpNBx8502KRE2TommLp6
 - **Position:** After Skov Bowden — Wurk, as the restrained post-peak continuation before the closing section begins.
 - **Purpose:** Sustain physical motion after Wurk while reducing performative pressure rather than escalating it.
 - **Reason:** Tight, controlled percussion carries the track. It preserves momentum through rhythm and progression instead of drops or spectacle.
@@ -41,7 +87,7 @@ This file records every editorial run. New entries are appended in reverse chron
 
 - **Track:** Eclipse
 - **Artist:** Psyk
-- **Spotify:** https://open.spotify.com/track/6mNUIvYYV5JJVlusXEzLw6?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=b2aa1a5e-ecae-4233-8f19-36caf5c72e97&nl=spotify%3Anl%3ACAASELKqGl7srkIzjxk2yvXHLpcaGDU6Nm1OVUl2WVlWNUpKVmx1c1hFekx3NiADMAPgAzXoA427r%2Fr1M%2FADIA%3D%3D&redirect_uri=com.openai.chat%3A%2F%2F
+- **Spotify:** spotify:track:6mNUIvYYV5JJVlusXEzLw6
 - **Position:** After Altinbas — Trail Of, at the start of the decompression phase.
 - **Purpose:** Narrow the rhythmic field and begin releasing pressure without interrupting immersion.
 - **Reason:** Disciplined repetition and gradual tightening make it functional rather than theatrical. It transitions out of the peak by subtraction, not a dramatic reset.
@@ -50,7 +96,7 @@ This file records every editorial run. New entries are appended in reverse chron
 
 - **Track:** Internet Soulmate
 - **Artist:** Chlär
-- **Spotify:** https://open.spotify.com/track/1ErfPo4xsbhLL5wQcq4AIS?utm_source=openai&utm_medium=chatgpt&go=1&nap_web=1&request_id=c08007cf-8f72-42d1-ab3f-7cf7e142a720&nl=spotify%3Anl%3ACAASEMCAB8%2BPckLRqz989%2BFCpyAaGDU6MUVyZlBvNHhzYmhMTDV3UWNxNEFJUyADMAPgAzXoA57GraP2M%2FADIA%3D%3D&redirect_uri=com.openai.chat%3A%2F%2F
+- **Spotify:** spotify:track:1ErfPo4xsbhLL5wQcq4AIS
 - **Why it weakens the identity:** Its more extroverted and recognisable rhythmic personality turns the post-peak passage toward playful impact. The ledger now has a clearer restrained continuation, so this track no longer fills a necessary role.
 
 ### Audit result
