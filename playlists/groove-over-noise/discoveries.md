@@ -30,6 +30,59 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-16 — Restart Run 2
+
+### ADD
+
+- **Track:** Bionic Jungle
+- **Artist:** Marcal
+- **Spotify:** spotify:track:0FuxLvhDsdGu6XpnxGQrAf
+- **Position:** After Coyu — Cachoeira, as the controlled density bridge.
+- **Purpose:** Tighten rhythm before pressure rises.
+- **Reason:** Layered motion increases density without theatrical escalation.
+
+### ADD
+
+- **Track:** Wurk
+- **Artist:** Skov Bowden
+- **Spotify:** spotify:track:4N1qAnhFro9fQdBON4Aqxn
+- **Position:** After Marcal — Bionic Jungle, as controlled physical pressure.
+- **Purpose:** Establish force without aggression.
+- **Reason:** Physical percussion peaks through groove rather than spectacle.
+
+### REVISIT
+
+- **Track:** Trail Of
+- **Artist:** Altinbas
+- **Spotify:** spotify:track:1BLpNBx8502KRE2TommLp6
+- **Position:** After Skov Bowden — Wurk, as restrained post-peak continuation.
+- **Purpose:** Sustain motion while reducing pressure.
+- **Reason:** Its role becomes testable only after pressure settles.
+- **What needs reassessment:** Whether it releases Wurk's pressure without flattening momentum.
+- **Reassess when:** Audited directly after Wurk against other restrained continuations.
+
+### Audit result
+
+Approved Bionic Jungle and Wurk in that order. Trail Of remains unresolved because the post-peak transition needs direct comparison before admission.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Maeksll — Two Glasses of Whisky
+3. Coyu — Cachoeira
+4. Marcal — Bionic Jungle
+5. Skov Bowden — Wurk
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The opening now reaches controlled pressure; the next decision must shape release.
+
+---
+
 ## 2026-07-16 — Restart Run 1
 
 ### ADD
