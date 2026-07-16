@@ -71,7 +71,7 @@ Approved all three additions. The sequence establishes immersion, sustained groo
 
 ### Spotify reconciliation
 
-No canonical Spotify playlist existed after the user deleted the previous generated playlist. Publication must use these exact three track identities in this exact order, with no substitutions.
+A new Spotify playlist was created at `spotify:playlist:3ZGhDUEr4HzlbFmSXkRhhr`, but Spotify classified the result as generative. Exact contents and order could not be read back through the available connection, so publication is PARTIAL until manually verified against the canonical ledger. No future workflow may treat this playlist as synchronized without exact track-level verification.
 
 ### Editorial note
 
