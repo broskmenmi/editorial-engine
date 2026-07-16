@@ -4,11 +4,11 @@
 >
 > Spotify may be deleted, recreated, reordered, or unavailable. The sequence below remains authoritative.
 
-| # | Artist | Track | Decision | Structural role | Added |
-|---:|---|---|---|---|---|
-| 1 | Rene Wise | Deep Under | ADD | Opening immersion layer | 2026-07-16 |
-| 2 | Maeksll | Two Glasses of Whisky | ADD | Deep-groove continuation | 2026-07-16 |
-| 3 | Coyu | Cachoeira | ADD | Percussive expansion | 2026-07-16 |
+| # | Artist | Track | Spotify URI | Decision | Structural role | Added |
+|---:|---|---|---|---|---|---|
+| 1 | Rene Wise | Deep Under | spotify:track:0yI5YgKcF2mXo3NRlXS660 | ADD | Opening immersion layer | 2026-07-16 |
+| 2 | Maeksll | Two Glasses of Whisky | spotify:track:1xbqhGI3Xgntoy56FA91D4 | ADD | Deep-groove continuation | 2026-07-16 |
+| 3 | Coyu | Cachoeira | spotify:track:6uOhAWYxScF7I867ui1a0V | ADD | Percussive expansion | 2026-07-16 |
 
 ## Current journey
 
