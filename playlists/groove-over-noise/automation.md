@@ -23,13 +23,38 @@ These paths remain the normal ChatGPT discovery paths. Do not relocate or duplic
 
 ## Execution order
 
-1. **Pre-audit** — calculate the complete adjacent BPM trajectory and identify unresolved transition defects before scouting.
+1. **Pre-audit** — calculate the complete adjacent BPM trajectory, map the current chapters and peaks, and identify unresolved transition or storytelling defects before scouting.
 2. **Scout** — use `.agents/skills/scout/SKILL.md`; return exactly three track candidates with exact Spotify track URIs and verified BPM.
 3. **Evaluator** — use `.agents/skills/evaluator/SKILL.md`; assign ADD, REVISIT, or REJECT.
 4. **Sequencer** — use `.agents/skills/sequencer/SKILL.md`; place every provisional ADD or proposed repair.
-5. **Auditor** — use `.agents/skills/auditor/SKILL.md`; approve, downgrade, reject, reposition, remove, replace, or reorder.
+5. **Auditor** — use `.agents/skills/auditor/SKILL.md`; approve, downgrade, reject, reposition, remove, replace, reorder, or reclassify chapter roles.
 6. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
 7. **Publisher** — use `.agents/skills/publisher/SKILL.md`; report status from `spotify-status.json` after the GitHub Action publisher runs.
+
+## Long-form storytelling architecture
+
+The playlist may begin as one compact wave, but it must scale into multiple chapters rather than one multi-hour climb.
+
+Canonical long-form shape:
+
+`Arrival → Groove formation → Local crest → Partial release → Re-entry → Deeper crest → Partial release → Main summit → Long decompression → Dissolution`
+
+Rules:
+- Allow multiple local crests, but keep one main summit clearly dominant.
+- Every later crest must reveal a different rhythmic, spatial, textural, or psychological quality.
+- Partial releases reduce pressure without returning to the opening baseline.
+- Re-entry begins from accumulated immersion and must not sound like a restart.
+- The main summit is determined by total pressure, density, duration, and attention demand, not BPM alone.
+- Preserve the final decompression and dissolution as the ending.
+- New waves should normally be inserted before the final descent, never appended after the established closer.
+- Do not repeat the same build-drop pattern across consecutive chapters.
+- Treat a current compact arc as a chapter that may be expanded or reclassified as duration grows.
+
+Duration guidance:
+- Under 60 minutes: one complete wave may be sufficient.
+- 60–120 minutes: normally require at least two waves.
+- Two to three hours: normally require three or four chapters with local crests.
+- Beyond three hours: use several chapters, one dominant summit, and a substantial final decompression.
 
 ## Transition and BPM rules
 
@@ -39,15 +64,15 @@ These paths remain the normal ChatGPT discovery paths. Do not relocate or duplic
 - Above **7 BPM** is prohibited unless a documented half-time/double-time relationship or intentional reset makes the perceived pulse continuous.
 - The first three tracks may not exceed **4 BPM** between neighbours without direct listening evidence.
 - A decompression may descend in BPM, but it must descend progressively rather than collapse abruptly.
-- Avoid tempo sawtoothing: repeated rise-fall-rise movement is a sequence defect.
+- Avoid accidental tempo sawtoothing. Deliberate wave motion is valid only when the chapter and pressure narrative supports it.
 - Spotify Mix, crossfade, and automatic transition processing cannot validate or excuse a defective transition.
 - If the user still hears a jump with Spotify Mix enabled, record the transition as defective.
 - User listening feedback is direct evidence and overrides speculative approval based on metadata.
 
 ## Repair-first policy
 
-- Known transition defects take priority over new playlist growth.
-- When a defect exists, candidates must repair it through a bridge, replacement, removal, or reorder.
+- Known transition or storytelling defects take priority over new playlist growth.
+- When a defect exists, candidates must repair it through a bridge, replacement, removal, reorder, or chapter redesign.
 - Do not add tracks elsewhere while leaving the known defect untouched.
 - Choose the smallest repair that produces a coherent BPM trajectory and preserves the editorial arc.
 - After every repair, audit the entire ledger rather than only the changed pair.
