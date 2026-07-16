@@ -6,11 +6,16 @@
 
 | # | Artist | Track | Decision | Structural role | Added |
 |---:|---|---|---|---|---|
+| 1 | Rene Wise | Deep Under | ADD | Opening immersion layer | 2026-07-16 |
+| 2 | Maeksll | Two Glasses of Whisky | ADD | Deep-groove continuation | 2026-07-16 |
+| 3 | Coyu | Cachoeira | ADD | Percussive expansion | 2026-07-16 |
 
 ## Current journey
 
-Not established yet.
+1. **Immersion** — enter patiently without spectacle.
+2. **Deep groove** — establish sustained movement and continuity.
+3. **Percussive expansion** — increase bodily rhythm without a dramatic reset.
 
 ## Next structural need
 
-Build the opening sequence from a clean start.
+Add a controlled density bridge after **Coyu — Cachoeira** without introducing aggression or spectacle.
