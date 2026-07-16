@@ -70,7 +70,7 @@ As the playlist grows, this eight-track arc must not simply be followed by anoth
 
 ## Next listening and growth priority
 
-Direct-listen the repaired order without relying on Spotify Mix. Prioritize **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), **Bionic Jungle → Eclipse** (-7), and **Eclipse → Calipso** (-5).
+Direct-listen the repaired order without relying on Spotify Mix. Prioritize **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), **Bionic Jungle → Eclipse** (-7), and **Eclipse → Calipso** (-5). Wurk → Cachoeira (+5) violates the opening-three 4 BPM standard and stands under a recorded Auditor exception until direct listening confirms or refutes continuity.
 
 Once those transitions pass, the next growth task is not to append after Calipso. Scout a **re-entry chapter before the final decompression**, allowing the current local crest and partial release to lead into a deeper second wave while preserving Calipso as the final dissolution.
 
@@ -85,3 +85,7 @@ Once those transitions pass, the next growth task is not to append after Calipso
 - **ADD** — belongs in or repairs the canonical ledger now.
 - **REVISIT** — potentially aligned, but a specific uncertainty remains.
 - **REJECT** — weakens, dilutes, or creates a transition defect.
+
+## Manual cleanup
+
+An orphaned generative Spotify playlist at `spotify:playlist:3ZGhDUEr4HzlbFmSXkRhhr` was created during Restart Run 1 by the old connector flow. It is NOT canonical, must never be treated as the published playlist, and should be manually deleted (or deliberately ignored) by the account owner.

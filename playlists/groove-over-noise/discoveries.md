@@ -1,6 +1,6 @@
 # GROOVE OVER NOISE — Discovery Log
 
-This file records every editorial run. New entries are appended in reverse chronological order.
+This file records every editorial run. Runs are recorded newest-first: each new run is prepended above the previous one, directly below the format section.
 
 ## Decision format
 
@@ -27,6 +27,57 @@ This file records every editorial run. New entries are appended in reverse chron
 - **Artist:**
 - **Spotify:**
 - **Why it weakens the identity:**
+
+---
+
+## 2026-07-16 — Repair Run 4 — BPM trajectory reorder
+
+### REORDER
+
+- **Tracks added:** none
+- **Tracks removed:** none
+- **Tracks replaced:** none — a pure reorder repair of the canonical ledger.
+- **Before:** Deep Under → Two Glasses of Whisky → Cachoeira → Bionic Jungle → Wurk → Trail Of → Eclipse → Calipso
+- **After:** Deep Under → Wurk → Cachoeira → Two Glasses of Whisky → Trail Of → Bionic Jungle → Eclipse → Calipso
+- **Purpose:** Repair the BPM trajectory before any expansion.
+- **Reason:** The prior order sawtoothed and contained prohibited transitions.
+
+### Structural role reclassifications
+
+- **Wurk (Skov Bowden):** Controlled physical pressure → Grounded groove reinforcement (position 5 → 2).
+- **Two Glasses of Whisky (Maeksll):** Deep-groove continuation → Controlled rhythmic peak (position 2 → 4). Wurk and Two Glasses of Whisky swap the groove and peak roles.
+- **Cachoeira (Coyu):** Percussive expansion → Percussive rise (position 3 unchanged).
+- **Trail Of (Altinbas):** Restrained post-peak continuation (role unchanged, position 6 → 5).
+- **Bionic Jungle (Marcal):** Controlled density bridge → Density release bridge (position 4 → 6).
+
+### BPM trajectory after run
+
+`134 → 136 → 141 → 145 → 142 → 137 → 130 → 125`
+
+The reorder removes the prohibited +11 BPM opening jump (Deep Under → Two Glasses of Whisky) and the -12 BPM collapse (Trail Of → Eclipse).
+
+### Audit result
+
+Approved the reorder WITH a documented Auditor exception: **Wurk → Cachoeira** is +5 BPM within the opening three positions, exceeding the 4 BPM opening standard; approved provisionally pending direct listening evidence. Flagged transitions: Wurk → Cachoeira (+5), Trail Of → Bionic Jungle (-5), Bionic Jungle → Eclipse (-7), Eclipse → Calipso (-5).
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Coyu — Cachoeira
+4. Maeksll — Two Glasses of Whisky
+5. Altinbas — Trail Of
+6. Marcal — Bionic Jungle
+7. Psyk — Eclipse
+8. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The arc now rises and descends progressively; direct listening must confirm the flagged transitions before expansion.
 
 ---
 

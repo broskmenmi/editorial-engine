@@ -19,7 +19,7 @@
 
 `134 → 136 → 141 → 145 → 142 → 137 → 130 → 125`
 
-The former +11 BPM opening jump and -12 BPM collapse are removed. Remaining flagged transitions are **Wurk → Cachoeira** at +5 BPM, **Trail Of → Bionic Jungle** at -5 BPM, **Bionic Jungle → Eclipse** at -7 BPM, and **Eclipse → Calipso** at -5 BPM; each now falls within the direct-listening review range rather than the prohibited range.
+The former +11 BPM opening jump and -12 BPM collapse are removed. **Wurk → Cachoeira** at +5 BPM sits within the opening three positions, where the standard is 4 BPM; it exceeds that standard and is held under a documented Auditor exception pending direct listening evidence. The remaining flagged transitions — **Trail Of → Bionic Jungle** at -5 BPM, **Bionic Jungle → Eclipse** at -7 BPM, and **Eclipse → Calipso** at -5 BPM — fall within the ordinary 5–7 BPM direct-listening review range rather than the prohibited range.
 
 ## Current journey
 
