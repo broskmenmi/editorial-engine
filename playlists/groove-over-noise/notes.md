@@ -13,11 +13,11 @@
 
 ## Current assessment
 
-The sequence now moves from immersion through deep groove and percussive expansion into a controlled density bridge, then reaches physical pressure with **Skov Bowden — Wurk** without becoming aggressive or theatrical.
+The sequence now forms a complete arc: immersion, deep groove, percussive expansion, density, controlled pressure, restrained continuation, focused decompression, and final dissolution.
 
 ## Next scouting priority
 
-Find a restrained continuation after **Skov Bowden — Wurk** that preserves bodily movement while beginning to reduce pressure. Compare **Altinbas — Trail Of** directly against other post-peak options before promoting it.
+Do not extend the playlist by default. Future candidates must replace or repair a concrete weak transition, beginning with direct listening tests around **Bionic Jungle → Wurk** and **Eclipse → Calipso**.
 
 ## Output discipline
 
