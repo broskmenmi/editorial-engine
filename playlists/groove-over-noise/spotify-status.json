@@ -1,11 +1,11 @@
 {
-  "status": "PENDING",
+  "status": "FAILED",
   "playlistId": null,
   "playlistUrl": null,
-  "ledgerCommit": null,
-  "ledgerTrackCount": 3,
+  "ledgerCommit": "ec4eb05f82aabda1d1e830d7a915804ce568dab3",
+  "ledgerTrackCount": null,
   "spotifyTrackCount": null,
-  "verifiedAt": null,
+  "verifiedAt": "2026-07-16T20:21:06.405Z",
   "snapshotId": null,
-  "error": "Spotify API credentials have not been configured yet."
+  "error": "Missing required environment variable: SPOTIFY_CLIENT_ID"
 }
