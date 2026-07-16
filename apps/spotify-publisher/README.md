@@ -9,6 +9,12 @@ The publisher does not search for playlists by name and never uses generative pl
 The authorization page is hosted through GitHub Pages at:
 
 ```text
+https://<your-github-username>.github.io/<repository-name>/spotify-auth/
+```
+
+For this repository, that is:
+
+```text
 https://broskmenmi.github.io/editorial-engine/spotify-auth/
 ```
 
@@ -31,7 +37,7 @@ The workflow `.github/workflows/deploy-pages.yml` deploys the `docs/` directory.
 
 ## GitHub Action publisher
 
-The workflow `.github/workflows/publish-spotify.yml` runs the publisher whenever an ordered ledger changes. It:
+The workflow `.github/workflows/publish-spotify.yml` runs the publisher whenever an ordered ledger changes. It publishes every playlist directory under `playlists/` that contains both `ledger.md` and `spotify.json`. For each playlist it:
 
 1. reads exact Spotify track URIs from the ledger;
 2. loads the one persisted playlist ID;
@@ -42,7 +48,7 @@ The workflow `.github/workflows/publish-spotify.yml` runs the publisher whenever
 
 ## Optional local execution
 
-Node.js 20 or newer can be used for development, but it is not required by the playlist owner. GitHub Actions runs the publisher.
+The publisher requires Node.js 20 or newer; CI runs Node 24. Local execution is not required by the playlist owner. GitHub Actions runs the publisher.
 
 ```bash
 SPOTIFY_CLIENT_ID=... \

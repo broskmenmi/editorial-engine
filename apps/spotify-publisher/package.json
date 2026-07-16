@@ -7,7 +7,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "publish": "node src/index.js",
+    "sync": "node src/index.js",
     "dry-run": "node src/index.js --dry-run",
     "test": "node --test"
   }

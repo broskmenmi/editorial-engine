@@ -40,3 +40,51 @@ test('rejects empty ledger by default', () => {
   assert.throws(() => parseLedger(empty), /Ledger is empty/);
   assert.deepEqual(parseLedger(empty, { allowEmpty: true }), []);
 });
+
+test('parses escaped pipes inside cells without splitting them', () => {
+  const escaped = `| # | Artist | Track | Spotify URI |
+|---:|---|---|---|
+| 1 | Artist A | Track A \\| Reprise | spotify:track:1234567890123456789012 |
+`;
+  const rows = parseLedger(escaped);
+  assert.equal(rows.length, 1);
+  assert.equal(rows[0].track, 'Track A | Reprise');
+  assert.equal(rows[0].uri, 'spotify:track:1234567890123456789012');
+});
+
+test('parses BPM column values to numbers', () => {
+  const withBpm = `| # | Artist | Track | Spotify URI | BPM |
+|---:|---|---|---|---:|
+| 1 | Artist A | Track A | spotify:track:1234567890123456789012 | 122 |
+| 2 | Artist B | Track B | spotify:track:abcdefghijklmnopqrstuv | 98.5 |
+`;
+  const rows = parseLedger(withBpm);
+  assert.deepEqual(rows.map((row) => row.bpm), [122, 98.5]);
+});
+
+test('rejects invalid BPM values', () => {
+  const invalid = `| # | Artist | Track | Spotify URI | BPM |
+|---:|---|---|---|---:|
+| 1 | Artist A | Track A | spotify:track:1234567890123456789012 | fast |
+`;
+  assert.throws(() => parseLedger(invalid), /Invalid BPM on row 3/);
+});
+
+test('missing BPM cell or column yields null', () => {
+  const withEmptyBpm = `| # | Artist | Track | Spotify URI | BPM |
+|---:|---|---|---|---:|
+| 1 | Artist A | Track A | spotify:track:1234567890123456789012 | |
+`;
+  assert.equal(parseLedger(withEmptyBpm)[0].bpm, null);
+  assert.equal(parseLedger(valid)[0].bpm, null);
+});
+
+test('detects header despite irregular spacing', () => {
+  const irregular = `|  #  |Artist|   Track |  Spotify URI|
+|---:|---|---|---|
+| 1 | Artist A | Track A | spotify:track:1234567890123456789012 |
+`;
+  const rows = parseLedger(irregular);
+  assert.equal(rows.length, 1);
+  assert.equal(rows[0].uri, 'spotify:track:1234567890123456789012');
+});

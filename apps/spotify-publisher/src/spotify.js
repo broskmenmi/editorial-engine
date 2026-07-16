@@ -94,23 +94,24 @@ export class SpotifyClient {
 
   async replacePlaylistItems(playlistId, uris) {
     const firstBatch = uris.slice(0, 100);
-    const response = await this.request(`/playlists/${encodeURIComponent(playlistId)}/items`, {
+    let latest = await this.request(`/playlists/${encodeURIComponent(playlistId)}/items`, {
       method: 'PUT',
       body: { uris: firstBatch },
     });
 
     for (let index = 100; index < uris.length; index += 100) {
-      await this.request(`/playlists/${encodeURIComponent(playlistId)}/items`, {
+      latest = await this.request(`/playlists/${encodeURIComponent(playlistId)}/items`, {
         method: 'POST',
         body: { uris: uris.slice(index, index + 100) },
       });
     }
 
-    return response.body?.snapshot_id ?? null;
+    return latest.body?.snapshot_id ?? null;
   }
 
   async getAllPlaylistUris(playlistId) {
     const uris = [];
+    let skippedCount = 0;
     let offset = 0;
     const limit = 100;
 
@@ -120,13 +121,17 @@ export class SpotifyClient {
       const items = page?.items ?? [];
       for (const entry of items) {
         const uri = entry?.item?.uri;
-        if (uri) uris.push(uri);
+        if (uri) {
+          uris.push(uri);
+        } else {
+          skippedCount += 1;
+        }
       }
       if (!page?.next || items.length === 0) break;
       offset += items.length;
     }
 
-    return uris;
+    return { uris, skippedCount };
   }
 }
 

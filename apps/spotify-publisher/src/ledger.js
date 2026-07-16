@@ -6,16 +6,18 @@ function splitRow(line) {
   return line
     .trim()
     .replace(/^\|/, '')
-    .replace(/\|$/, '')
-    .split('|')
-    .map((value) => value.trim());
+    .replace(/(?<!\\)\|$/, '')
+    .split(/(?<!\\)\|/)
+    .map((value) => value.trim().replaceAll('\\|', '|'));
 }
 
 export function parseLedger(markdown, { allowEmpty = false } = {}) {
   const lines = markdown.split(/\r?\n/);
-  const headerIndex = lines.findIndex((line) =>
-    line.includes('| # |') && line.includes('Spotify URI')
-  );
+  const headerIndex = lines.findIndex((line) => {
+    if (!line.trim().startsWith('|')) return false;
+    const cells = splitRow(line);
+    return cells.includes('#') && cells.includes('Spotify URI');
+  });
 
   if (headerIndex < 0) {
     throw new Error('Ledger table must include a Spotify URI column.');
@@ -38,6 +40,8 @@ export function parseLedger(markdown, { allowEmpty = false } = {}) {
     if (index < 0) throw new Error(`Ledger column is missing: ${name}`);
   }
 
+  const bpmIndex = headers.indexOf('BPM');
+
   const rows = [];
   for (let index = headerIndex + 2; index < lines.length; index += 1) {
     const line = lines[index];
@@ -59,7 +63,18 @@ export function parseLedger(markdown, { allowEmpty = false } = {}) {
       throw new Error(`Invalid Spotify track URI on row ${index + 1}: ${uri || '(empty)'}`);
     }
 
-    rows.push({ position, artist, track, uri });
+    let bpm = null;
+    if (bpmIndex >= 0) {
+      const bpmCell = cells[bpmIndex] ?? '';
+      if (bpmCell !== '') {
+        bpm = Number(bpmCell);
+        if (!Number.isFinite(bpm) || bpm <= 0) {
+          throw new Error(`Invalid BPM on row ${index + 1}: ${bpmCell}`);
+        }
+      }
+    }
+
+    rows.push({ position, artist, track, uri, bpm });
   }
 
   if (rows.length === 0 && !allowEmpty) {

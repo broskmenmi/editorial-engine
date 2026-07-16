@@ -31,15 +31,15 @@ function now() {
   return new Date().toISOString();
 }
 
-async function main() {
-  const repoRoot = path.resolve(option('--repo-root', process.cwd()));
-  const playlistDir = path.resolve(repoRoot, option('--playlist-dir', 'playlists/groove-over-noise'));
-  const ledgerPath = path.join(playlistDir, 'ledger.md');
-  const configPath = path.join(playlistDir, 'spotify.json');
-  const statusPath = path.join(playlistDir, 'spotify-status.json');
-  const dryRun = hasFlag('--dry-run');
-  const allowEmpty = hasFlag('--allow-empty');
+const repoRoot = path.resolve(option('--repo-root', process.cwd()));
+const playlistDir = path.resolve(repoRoot, option('--playlist-dir', 'playlists/groove-over-noise'));
+const ledgerPath = path.join(playlistDir, 'ledger.md');
+const configPath = path.join(playlistDir, 'spotify.json');
+const statusPath = path.join(playlistDir, 'spotify-status.json');
+const dryRun = hasFlag('--dry-run');
+const allowEmpty = hasFlag('--allow-empty');
 
+async function main() {
   const rows = await readLedger(ledgerPath, { allowEmpty });
   const desiredUris = rows.map((row) => row.uri);
   const config = await readJson(configPath);
@@ -66,14 +66,16 @@ async function main() {
   }
 
   if (dryRun) {
-    const currentUris = playlist ? await spotify.getAllPlaylistUris(playlist.id) : [];
+    const readBack = playlist
+      ? await spotify.getAllPlaylistUris(playlist.id)
+      : { uris: [], skippedCount: 0 };
     console.log(JSON.stringify({
       dryRun: true,
       playlistId: playlist?.id ?? null,
       creationRequired,
-      currentTrackCount: currentUris.length,
+      currentTrackCount: readBack.uris.length,
       desiredTrackCount: desiredUris.length,
-      exactMatch: arraysEqual(currentUris, desiredUris),
+      exactMatch: arraysEqual(readBack.uris, desiredUris),
       desired: rows,
     }, null, 2));
     return;
@@ -92,7 +94,10 @@ async function main() {
     if (config.ownerUserId && config.ownerUserId !== me.id) {
       throw new Error('spotify.json ownerUserId does not match the authenticated Spotify user.');
     }
-    config.ownerUserId = me.id;
+    if (config.ownerUserId !== me.id) {
+      config.ownerUserId = me.id;
+      await writeJson(configPath, config);
+    }
   }
 
   await spotify.updatePlaylistDetails(playlist.id, {
@@ -102,8 +107,12 @@ async function main() {
   });
 
   const snapshotId = await spotify.replacePlaylistItems(playlist.id, desiredUris);
-  const actualUris = await spotify.getAllPlaylistUris(playlist.id);
+  const { uris: actualUris, skippedCount } = await spotify.getAllPlaylistUris(playlist.id);
   const exactMatch = arraysEqual(actualUris, desiredUris);
+
+  const mismatchError = skippedCount > 0
+    ? `Spotify read-back did not exactly match ledger URI order (${skippedCount} read-back entries had no URI).`
+    : 'Spotify read-back did not exactly match ledger URI order.';
 
   const status = {
     status: exactMatch ? 'COMPLETE' : 'PARTIAL',
@@ -114,7 +123,7 @@ async function main() {
     spotifyTrackCount: actualUris.length,
     verifiedAt: now(),
     snapshotId,
-    error: exactMatch ? null : 'Spotify read-back did not exactly match ledger URI order.',
+    error: exactMatch ? null : mismatchError,
   };
   await writeJson(statusPath, status);
 
@@ -123,24 +132,23 @@ async function main() {
 }
 
 main().catch(async (error) => {
-  const repoRoot = path.resolve(option('--repo-root', process.cwd()));
-  const playlistDir = path.resolve(repoRoot, option('--playlist-dir', 'playlists/groove-over-noise'));
-  const statusPath = path.join(playlistDir, 'spotify-status.json');
-  const failed = {
-    status: 'FAILED',
-    playlistId: null,
-    playlistUrl: null,
-    ledgerCommit: process.env.GITHUB_SHA ?? null,
-    ledgerTrackCount: null,
-    spotifyTrackCount: null,
-    verifiedAt: now(),
-    snapshotId: null,
-    error: error instanceof Error ? error.message : String(error),
-  };
-  try {
-    await writeJson(statusPath, failed);
-  } catch {
-    // Preserve the original error when status persistence also fails.
+  if (!dryRun) {
+    const failed = {
+      status: 'FAILED',
+      playlistId: null,
+      playlistUrl: null,
+      ledgerCommit: process.env.GITHUB_SHA ?? null,
+      ledgerTrackCount: null,
+      spotifyTrackCount: null,
+      verifiedAt: now(),
+      snapshotId: null,
+      error: error instanceof Error ? error.message : String(error),
+    };
+    try {
+      await writeJson(statusPath, failed);
+    } catch {
+      // Preserve the original error when status persistence also fails.
+    }
   }
   console.error(error);
   process.exitCode = 1;
