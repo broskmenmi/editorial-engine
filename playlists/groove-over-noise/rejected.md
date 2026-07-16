@@ -12,3 +12,4 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Claudio PRC | Tonal | At 125 BPM it duplicates Calipso's terminal function and repairs no unresolved transition. | 2026-07-16 |
