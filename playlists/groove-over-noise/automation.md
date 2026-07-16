@@ -24,7 +24,7 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 3. **Sequencer** — use `.agents/skills/sequencer/SKILL.md`; place every provisional ADD.
 4. **Auditor** — use `.agents/skills/auditor/SKILL.md`; approve, downgrade, reject, or reposition.
 5. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
-6. **Publisher** — use `.agents/skills/publisher/SKILL.md`; find or create the Spotify playlist, update it when supported, and always produce manual instructions.
+6. **Publisher** — use `.agents/skills/publisher/SKILL.md`; publish only through exact track-level creation or editing. Never use generative playlist creation as canonical publication.
 
 ## Atomicity
 
@@ -35,6 +35,8 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 - When an approved change alters surrounding flow, reorder those existing tracks in the same ledger update.
 - GitHub updates define the authoritative outcome even when Spotify synchronization fails.
 - Never create a duplicate Spotify playlist when an owned canonical playlist already exists.
+- Never treat a generated recommendation playlist, a similarly named result, or a search fallback result as the canonical playlist.
+- When exact Spotify reading or editing is unavailable, report MANUAL REQUIRED and provide exact manual instructions.
 
 ## Required daily response
 
