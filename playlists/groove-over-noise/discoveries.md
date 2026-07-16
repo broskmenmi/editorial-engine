@@ -30,6 +30,60 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-16 — Restart Run 3
+
+### ADD
+
+- **Track:** Trail Of
+- **Artist:** Altinbas
+- **Spotify:** spotify:track:1BLpNBx8502KRE2TommLp6
+- **Position:** After Skov Bowden — Wurk, as restrained post-peak continuation.
+- **Purpose:** Sustain motion while releasing pressure.
+- **Reason:** Restrained percussion releases force without flattening momentum.
+
+### ADD
+
+- **Track:** Eclipse
+- **Artist:** Psyk
+- **Spotify:** spotify:track:6mNUIvYYV5JJVlusXEzLw6
+- **Position:** After Altinbas — Trail Of, as focused rhythmic decompression.
+- **Purpose:** Narrow rhythm without breaking immersion.
+- **Reason:** Disciplined repetition reduces pressure through subtraction.
+
+### ADD
+
+- **Track:** Calipso
+- **Artist:** Luigi Tozzi
+- **Spotify:** spotify:track:15QxVy6d8RrbPKmsYyuVbT
+- **Position:** After Psyk — Eclipse, as deep closing dissolution.
+- **Purpose:** Complete the final descent.
+- **Reason:** Patient motion dissolves pressure while preserving pulse.
+
+### Audit result
+
+Approved all three additions. Trail Of resolves the stored revisit question, Eclipse continues decompression without a reset, and Calipso closes the arc without functional duplication.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Maeksll — Two Glasses of Whisky
+3. Coyu — Cachoeira
+4. Marcal — Bionic Jungle
+5. Skov Bowden — Wurk
+6. Altinbas — Trail Of
+7. Psyk — Eclipse
+8. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The complete arc now moves from immersion through pressure into disciplined dissolution.
+
+---
+
 ## 2026-07-16 — Restart Run 2
 
 ### ADD
