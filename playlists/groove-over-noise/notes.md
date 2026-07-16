@@ -13,11 +13,11 @@
 
 ## Current assessment
 
-The restart establishes a coherent opening arc: **Rene Wise — Deep Under** creates immersion, **Maeksll — Two Glasses of Whisky** sustains deep movement, and **Coyu — Cachoeira** expands the percussion without an abrupt reset.
+The sequence now moves from immersion through deep groove and percussive expansion into a controlled density bridge, then reaches physical pressure with **Skov Bowden — Wurk** without becoming aggressive or theatrical.
 
 ## Next scouting priority
 
-Find a controlled density bridge after **Coyu — Cachoeira** that increases physical pressure without aggression, spectacle, or a dramatic breakdown.
+Find a restrained continuation after **Skov Bowden — Wurk** that preserves bodily movement while beginning to reduce pressure. Compare **Altinbas — Trail Of** directly against other post-peak options before promoting it.
 
 ## Output discipline
 
