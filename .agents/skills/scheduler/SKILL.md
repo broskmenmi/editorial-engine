@@ -11,9 +11,9 @@ Create or update the recurring ChatGPT task that runs an editorial workflow for 
 
 ## Preconditions
 1. The GitHub connector must have read/write access to the repository.
-2. Spotify should be connected if publication is desired.
-3. The playlist directory must contain `automation.md`, `constitution.md`, and `ledger.md`.
-4. Repository-level `AGENTS.md` and all required Agent Skills must exist.
+2. The playlist directory must contain `automation.md`, `constitution.md`, `ledger.md`, `spotify.json`, and `spotify-status.json`.
+3. Repository-level `AGENTS.md` and all required Agent Skills must exist.
+4. Spotify API credentials are configured as GitHub Actions secrets when automatic publication is desired.
 
 ## Task creation procedure
 Create one recurring ChatGPT task, not one task per skill.
@@ -25,9 +25,11 @@ The task prompt must:
 4. Execute the configured workflow in order.
 5. Treat GitHub as the persistent source of truth.
 6. Update GitHub only after audit approval.
-7. Search for the canonical Spotify playlist; create it if absent and creation is available; update it if editing is available.
-8. Never create a duplicate canonical playlist.
-9. Always output exact manual add/remove/reorder instructions and the final canonical order.
+7. Require an exact Spotify URI for every candidate and every approved ledger row.
+8. Never use the ChatGPT Spotify connector for playlist search, creation, editing, or publication.
+9. Let the GitHub Action publish from the ledger using the persisted playlist ID.
+10. Read `spotify-status.json` for publication status and never infer success.
+11. Never surface unrelated Spotify playlists or broad fallback results.
 
 ## Default schedule
 Use a daily flexible schedule at approximately 08:00 in the user's timezone unless the user specifies another cadence or time.
@@ -35,7 +37,7 @@ Use a daily flexible schedule at approximately 08:00 in the user's timezone unle
 ## Canonical task prompt template
 
 ```text
-Run the <PLAYLIST_TITLE> editorial workflow using GitHub repository <OWNER/REPO> as the persistent source of truth. Read repository-level AGENTS.md and <PLAYLIST_DIRECTORY>/automation.md first. Load and follow the Agent Skills under .agents/skills/, each from its SKILL.md. Use <PLAYLIST_DIRECTORY>/ as the target playlist directory. Execute the workflow in the order defined by automation.md. Find exactly three candidates. Update GitHub only after audit approval. The Publisher must search for an owned Spotify playlist named <PLAYLIST_TITLE>; create it if it does not exist and creation is available, or update it to match ledger.md if editing is available. Never create a duplicate when the canonical playlist already exists. Always provide exact manual add/remove/reorder instructions and the final canonical order, regardless of Spotify synchronization success. Optimize for ordered listening rather than beatmatching or harmonic mixing. State that Spotify Mix may alter the intended arc and is for discovery rather than the canonical journey.
+Run the <PLAYLIST_TITLE> editorial workflow using GitHub repository <OWNER/REPO> as the persistent source of truth. Read repository-level AGENTS.md and <PLAYLIST_DIRECTORY>/automation.md first. Load and follow the Agent Skills under .agents/skills/, each from its SKILL.md. Use <PLAYLIST_DIRECTORY>/ as the target playlist directory. Execute Scout, Evaluator, Sequencer, Auditor, Librarian, and Publisher in that order. Find exactly three candidate tracks and resolve each to one exact Spotify track URI. Never surface unrelated Spotify playlists or broad search fallback results. Update GitHub only after audit approval. Every approved ledger row must include its exact Spotify URI and remain in recommended listening order. Do not use the ChatGPT Spotify connector to search for, create, edit, or publish the canonical playlist. Spotify publication is handled by the repository GitHub Action using spotify.json and the Spotify Web API. Read spotify-status.json and report COMPLETE only after exact URI-order verification; otherwise report PARTIAL or MANUAL REQUIRED accurately. Only link the canonical playlist URL from spotify-status.json and the three candidate tracks. Keep the user-facing response compact and follow the exact response structure defined in automation.md.
 ```
 
 ## Verification
@@ -43,4 +45,6 @@ After creating or updating the task, verify:
 - it is enabled;
 - the schedule and timezone are correct;
 - the task prompt references the correct repository and playlist directory;
-- the Publisher behavior includes create-if-missing, update-if-present, no duplicates, and manual instructions.
+- it reads `AGENTS.md`, `automation.md`, and Agent Skills from their normal paths;
+- it forbids connector-based Spotify publication;
+- it uses `spotify-status.json` as the only publication-status source.
