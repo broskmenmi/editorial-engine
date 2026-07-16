@@ -1,6 +1,6 @@
 {
   "name": "@editorial-engine/spotify-publisher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "engines": {
@@ -9,7 +9,6 @@
   "scripts": {
     "publish": "node src/index.js",
     "dry-run": "node src/index.js --dry-run",
-    "authorize": "node src/authorize.js",
     "test": "node --test"
   }
 }
