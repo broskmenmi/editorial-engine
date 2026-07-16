@@ -1,4 +1,4 @@
-name: Publish Spotify playlist
+name: Publish Spotify playlists
 
 on:
   push:
@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: spotify-publisher-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -38,43 +38,108 @@ jobs:
         working-directory: apps/spotify-publisher
         run: npm test
 
-      - name: Publish and verify canonical playlist
-        run: node apps/spotify-publisher/src/index.js
+      - name: Publish and verify playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
 
-      - name: Persist playlist identity and verified status
+          found=0
+          failed=0
+          for dir in playlists/*/; do
+            dir="${dir%/}"
+            if [[ ! -f "$dir/ledger.md" || ! -f "$dir/spotify.json" ]]; then
+              continue
+            fi
+            found=1
+            echo "::group::Publishing $dir"
+            if node apps/spotify-publisher/src/index.js --playlist-dir "$dir"; then
+              echo "::endgroup::"
+            else
+              echo "::endgroup::"
+              echo "::error::Publishing $dir failed; continuing with remaining playlists."
+              failed=1
+            fi
+          done
+
+          if [[ "$found" -eq 0 ]]; then
+            echo "No playlist directories with both ledger.md and spotify.json found."
+          fi
+
+          exit "$failed"
+
+      - name: Persist playlist identities and verified statuses
         if: always()
         shell: bash
         run: |
           set -euo pipefail
+          shopt -s nullglob
 
-          if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+          changed_dirs=()
+          created_dirs=()
+          for dir in playlists/*/; do
+            dir="${dir%/}"
+            if [[ ! -f "$dir/ledger.md" || ! -f "$dir/spotify.json" ]]; then
+              continue
+            fi
+            if git diff --quiet -- "$dir/spotify.json" "$dir/spotify-status.json"; then
+              continue
+            fi
+            changed_dirs+=("$dir")
+            if ! git diff --quiet -- "$dir/spotify.json"; then
+              created_dirs+=("$dir")
+            fi
+          done
+
+          if [[ "${#changed_dirs[@]}" -eq 0 ]]; then
             exit 0
           fi
 
           temp_dir="$(mktemp -d)"
-          cp playlists/groove-over-noise/spotify.json "$temp_dir/spotify.json"
-          cp playlists/groove-over-noise/spotify-status.json "$temp_dir/spotify-status.json"
+          for dir in "${changed_dirs[@]}"; do
+            mkdir -p "$temp_dir/$dir"
+            cp "$dir/spotify.json" "$temp_dir/$dir/spotify.json"
+            if [[ -f "$dir/spotify-status.json" ]]; then
+              cp "$dir/spotify-status.json" "$temp_dir/$dir/spotify-status.json"
+            fi
+          done
 
           git config user.name "editorial-engine[bot]"
           git config user.email "editorial-engine[bot]@users.noreply.github.com"
 
           for attempt in 1 2 3 4; do
             git fetch origin main
-
-            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- playlists/groove-over-noise/ledger.md; then
-              echo "A newer ledger commit exists; skipping stale publication status."
-              exit 0
-            fi
-
             git reset --hard origin/main
-            cp "$temp_dir/spotify.json" playlists/groove-over-noise/spotify.json
-            cp "$temp_dir/spotify-status.json" playlists/groove-over-noise/spotify-status.json
 
-            if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+            staged=0
+            for dir in "${changed_dirs[@]}"; do
+              if ! git diff --quiet "$GITHUB_SHA"..origin/main -- "$dir/ledger.md"; then
+                echo "$dir: a newer ledger commit exists; skipping stale publication status."
+                continue
+              fi
+
+              if ! git diff --quiet "$GITHUB_SHA"..origin/main -- "$dir/spotify.json"; then
+                echo "$dir: a newer spotify.json commit exists; skipping spotify.json overwrite."
+              else
+                cp "$temp_dir/$dir/spotify.json" "$dir/spotify.json"
+              fi
+              if [[ -f "$temp_dir/$dir/spotify-status.json" ]]; then
+                cp "$temp_dir/$dir/spotify-status.json" "$dir/spotify-status.json"
+              fi
+
+              if ! git diff --quiet -- "$dir/spotify.json" "$dir/spotify-status.json"; then
+                git add -- "$dir/spotify.json"
+                if [[ -f "$dir/spotify-status.json" ]]; then
+                  git add -- "$dir/spotify-status.json"
+                fi
+                staged=1
+              fi
+            done
+
+            if [[ "$staged" -eq 0 ]]; then
               exit 0
             fi
 
-            git add playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json
             git commit -m "Update Spotify publication status [skip ci]"
 
             if git push origin HEAD:main; then
@@ -86,4 +151,9 @@ jobs:
           done
 
           echo "Could not persist Spotify publication status after four attempts."
+          for dir in "${created_dirs[@]}"; do
+            playlist_id="$(node -p 'JSON.parse(require("fs").readFileSync(process.argv[1], "utf8")).playlistId' "$temp_dir/$dir/spotify.json")"
+            echo "::error::$dir: a Spotify playlist was created this run but its ID was NOT persisted."
+            echo "::error::$dir: add \"playlistId\": \"$playlist_id\" to $dir/spotify.json manually before the next run, or the publisher will create a duplicate playlist."
+          done
           exit 1
