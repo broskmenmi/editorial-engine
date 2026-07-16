@@ -1,11 +1,11 @@
 {
-  "status": "FAILED",
-  "playlistId": null,
-  "playlistUrl": null,
-  "ledgerCommit": "e7d5f724aee59c71fe0c2955febb029797143c6e",
-  "ledgerTrackCount": null,
-  "spotifyTrackCount": null,
-  "verifiedAt": "2026-07-16T20:34:27.142Z",
-  "snapshotId": null,
-  "error": "Missing required environment variable: SPOTIFY_CLIENT_ID"
+  "status": "COMPLETE",
+  "playlistId": "2BymTL3h3ZekXU79TMGNrj",
+  "playlistUrl": "https://open.spotify.com/playlist/2BymTL3h3ZekXU79TMGNrj",
+  "ledgerCommit": "42ce51a878c7138b753f0c1cdc6648fbe0ad2a8f",
+  "ledgerTrackCount": 3,
+  "spotifyTrackCount": 3,
+  "verifiedAt": "2026-07-16T21:00:07.782Z",
+  "snapshotId": "AAAAAgLs8mIYdDXBinQrXHHDG331VN6Q",
+  "error": null
 }
