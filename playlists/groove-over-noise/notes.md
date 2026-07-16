@@ -13,11 +13,11 @@
 
 ## Current assessment
 
-No canonical sequence exists yet.
+The restart establishes a coherent opening arc: **Rene Wise — Deep Under** creates immersion, **Maeksll — Two Glasses of Whisky** sustains deep movement, and **Coyu — Cachoeira** expands the percussion without an abrupt reset.
 
 ## Next scouting priority
 
-Build a coherent opening sequence from a clean start.
+Find a controlled density bridge after **Coyu — Cachoeira** that increases physical pressure without aggression, spectacle, or a dramatic breakdown.
 
 ## Output discipline
 
