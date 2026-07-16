@@ -12,26 +12,28 @@
 | 4 | Maeksll | Two Glasses of Whisky | spotify:track:1xbqhGI3Xgntoy56FA91D4 | 145 | ADD | Controlled rhythmic peak | 2026-07-16 |
 | 5 | Altinbas | Trail Of | spotify:track:1BLpNBx8502KRE2TommLp6 | 142 | ADD | Restrained post-peak continuation | 2026-07-16 |
 | 6 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Density release bridge | 2026-07-16 |
-| 7 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 8 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 7 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Pulse-continuity release bridge | 2026-07-16 |
+| 8 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 9 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 141 → 145 → 142 → 137 → 130 → 125`
+`134 → 136 → 141 → 145 → 142 → 137 → 134 → 130 → 125`
 
-The former +11 BPM opening jump and -12 BPM collapse are removed. Remaining flagged transitions are **Wurk → Cachoeira** at +5 BPM, **Trail Of → Bionic Jungle** at -5 BPM, **Bionic Jungle → Eclipse** at -7 BPM, and **Eclipse → Calipso** at -5 BPM; each now falls within the direct-listening review range rather than the prohibited range.
+The previous **Bionic Jungle → Eclipse** drop of -7 BPM is now split into **Bionic Jungle → Minimum** at -3 BPM and **Minimum → Eclipse** at -4 BPM. Remaining flagged transitions are **Wurk → Cachoeira** at +5 BPM, **Trail Of → Bionic Jungle** at -5 BPM, and **Eclipse → Calipso** at -5 BPM.
 
 ## Current journey
 
 1. **Immersion** — enter patiently without spectacle.
 2. **Grounded groove** — reinforce bodily movement before explicit escalation.
 3. **Percussive rise** — increase motion without a dramatic reset.
-4. **Controlled peak** — reach maximum pace without aggression taking over.
+4. **First local crest** — reach maximum pace without spending the future main summit.
 5. **Restrained continuation** — preserve movement while beginning release.
 6. **Density release** — reduce pressure progressively without dropping the pulse.
-7. **Focused decompression** — narrow the rhythmic field without breaking immersion.
-8. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
+7. **Pulse-continuity release** — bridge the release into focused decompression.
+8. **Focused decompression** — narrow the rhythmic field without breaking immersion.
+9. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
 
 ## Next structural need
 
-Direct-listen the repaired order, prioritizing **Wurk → Cachoeira**, **Trail Of → Bionic Jungle**, and **Bionic Jungle → Eclipse**. Do not expand the playlist unless one of those transitions still feels conspicuous.
+Direct-listen the remaining +5/-5 BPM transitions. If they pass, future growth should create a re-entry chapter before **Minimum → Eclipse**, preserving the existing final decompression and closer.
