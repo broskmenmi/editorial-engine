@@ -1,0 +1,55 @@
+name: Publish Spotify playlist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "playlists/**/ledger.md"
+      - "apps/spotify-publisher/**"
+      - ".github/workflows/publish-spotify.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-publisher-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Test publisher
+        working-directory: apps/spotify-publisher
+        run: npm test
+
+      - name: Publish and verify canonical playlist
+        run: node apps/spotify-publisher/src/index.js
+
+      - name: Persist playlist identity and verified status
+        if: always()
+        run: |
+          if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+            exit 0
+          fi
+          git config user.name "editorial-engine[bot]"
+          git config user.email "editorial-engine[bot]@users.noreply.github.com"
+          git add playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json
+          git commit -m "Update Spotify publication status [skip ci]"
+          git push
