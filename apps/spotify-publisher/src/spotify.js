@@ -14,25 +14,27 @@ async function parseBody(response) {
   }
 }
 
-export async function refreshAccessToken({ clientId, clientSecret, refreshToken }) {
-  const credentials = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
+export async function refreshAccessToken({ clientId, refreshToken }) {
   const response = await fetch(TOKEN_URL, {
     method: 'POST',
     headers: {
-      Authorization: `Basic ${credentials}`,
       'Content-Type': 'application/x-www-form-urlencoded',
     },
     body: new URLSearchParams({
       grant_type: 'refresh_token',
       refresh_token: refreshToken,
+      client_id: clientId,
     }),
   });
 
   const body = await parseBody(response);
   if (!response.ok || !body?.access_token) {
-    throw new Error(`Spotify token refresh failed (${response.status}): ${JSON.stringify(body)}`);
+    throw new Error(`Spotify PKCE token refresh failed (${response.status}): ${JSON.stringify(body)}`);
   }
-  return body.access_token;
+  return {
+    accessToken: body.access_token,
+    refreshToken: body.refresh_token ?? refreshToken,
+  };
 }
 
 export class SpotifyClient {
