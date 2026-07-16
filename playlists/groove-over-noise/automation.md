@@ -30,6 +30,9 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 - Read all source files before making decisions.
 - Do not update `ledger.md` until the Auditor approves the final change set.
+- The row order in `ledger.md` must always equal the recommended final listening order.
+- Insert every approved ADD at its exact sequenced position, then renumber the full ledger consecutively.
+- When an approved change alters surrounding flow, reorder those existing tracks in the same ledger update.
 - GitHub updates define the authoritative outcome even when Spotify synchronization fails.
 - Never create a duplicate Spotify playlist when an owned canonical playlist already exists.
 
