@@ -13,11 +13,11 @@
 
 ## Current assessment
 
-The full arc remains established. **Psyk — Eclipse** narrows the rhythmic field, and **Luigi Tozzi — Calipso** completes the descent by dissolving pressure without removing the pulse.
+No canonical sequence exists yet.
 
 ## Next scouting priority
 
-Stop extending the closing section. Keep **Claudio PRC — Tonal** only as a direct replacement test for Calipso. Future candidates must identify and repair a concrete weakness elsewhere in the sequence before they can qualify for ADD.
+Build a coherent opening sequence from a clean start.
 
 ## Output discipline
 
