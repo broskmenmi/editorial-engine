@@ -6,30 +6,36 @@ description: Persist approved playlist decisions in GitHub by maintaining the ca
 # Librarian
 
 ## Responsibilities
-1. Update `ledger.md` with all approved ADD decisions in canonical listening order.
+1. Update `ledger.md` with all approved ADD, REMOVE, REPLACE, and REORDER decisions in canonical listening order.
 2. Every ledger row must contain the exact verified Spotify URI `spotify:track:<22-character-id>`.
-3. Refuse to persist an ADD whose Spotify URI is missing, malformed, ambiguous, or duplicated.
-4. Treat row order as publication order and renumber all rows consecutively after insertions or reordering.
-5. Append the complete run to `discoveries.md`.
-6. Add REJECT decisions and durable reasons to `rejected.md`.
-7. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
-8. Update `notes.md` with the current structural need.
-9. Preserve valid history; do not silently rewrite prior decisions.
-10. Prevent duplicate track URIs and keep numbering consistent.
+3. Every ledger row must contain verified BPM when reliable metadata is available.
+4. Refuse to persist an ADD whose Spotify URI is missing, malformed, ambiguous, or duplicated.
+5. Treat row order as publication order and renumber all rows consecutively after insertions, removals, or reordering.
+6. Recalculate and review the complete adjacent BPM trajectory whenever the ledger changes.
+7. Do not persist an opening transition above 4 BPM or any transition above 7 BPM without the Auditor's documented exception.
+8. Append the complete run to `discoveries.md`.
+9. Add REJECT decisions and durable reasons to `rejected.md`.
+10. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
+11. Update `notes.md` with the current structural need and any unresolved transition defect.
+12. Preserve valid history; do not silently rewrite prior decisions.
+13. Prevent duplicate track URIs and keep numbering consistent.
 
 ## Required ledger columns
 - `#`
 - `Artist`
 - `Track`
 - `Spotify URI`
+- `BPM`
 - `Decision`
 - `Structural role`
 - `Added`
 
 ## Required run record
 - Date
-- Candidates, exact Spotify URIs, and verdicts
+- Candidates, exact Spotify URIs, BPM, and verdicts
 - Placement and purpose for ADD
+- Removal, replacement, or reordering rationale
+- Adjacent BPM trajectory after the run
 - Reassessment condition for REVISIT
 - Reason for REJECT
 - Audit outcome
