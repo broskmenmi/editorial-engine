@@ -44,12 +44,11 @@ async function main() {
   const desiredUris = rows.map((row) => row.uri);
   const config = await readJson(configPath);
 
-  const accessToken = await refreshAccessToken({
+  const tokenResult = await refreshAccessToken({
     clientId: requiredEnv('SPOTIFY_CLIENT_ID'),
-    clientSecret: requiredEnv('SPOTIFY_CLIENT_SECRET'),
     refreshToken: requiredEnv('SPOTIFY_REFRESH_TOKEN'),
   });
-  const spotify = new SpotifyClient(accessToken);
+  const spotify = new SpotifyClient(tokenResult.accessToken);
   const me = await spotify.getCurrentUser();
 
   let playlist = null;
@@ -63,7 +62,7 @@ async function main() {
 
   const creationRequired = !playlist;
   if (playlist && playlist.owner?.id !== me.id) {
-    throw new Error(`Configured playlist is not owned by the authenticated Spotify user.`);
+    throw new Error('Configured playlist is not owned by the authenticated Spotify user.');
   }
 
   if (dryRun) {
