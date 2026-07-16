@@ -13,11 +13,17 @@
 
 ## Current assessment
 
-The opening, central bridge, peak, and restrained post-peak continuation are now established. **Altinbas — Trail Of** sustains motion after **Skov Bowden — Wurk**, and **Psyk — Eclipse** begins the release by narrowing the rhythmic field rather than resetting it.
+The full arc is now established. **Psyk — Eclipse** narrows the rhythmic field, and **Luigi Tozzi — Calipso** completes the descent by dissolving pressure without removing the pulse.
 
 ## Next scouting priority
 
-Find a deep closing track after **Psyk — Eclipse** that lets pressure dissolve gradually while remaining rhythmically alive. Avoid ambient drift, sentimental melody, vocal focus, or an obvious final statement.
+Protect the ending from overextension. Compare **Claudio PRC — Tonal** directly against Calipso as an alternative closer, but do not add both. Future candidates must replace or repair a concrete weak point rather than merely lengthen the playlist.
+
+## Output discipline
+
+- Purpose: maximum eight words.
+- Reason: one clean sentence, maximum ten words.
+- Avoid explanatory paragraphs in the user-facing report.
 
 ## Candidate verdicts
 
