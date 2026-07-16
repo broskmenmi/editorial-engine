@@ -35,7 +35,7 @@ Required files:
 
 - `constitution.md` — editorial identity and acceptance criteria.
 - `ledger.md` — canonical ordered track list with exact Spotify URIs.
-- `discoveries.md` — append-only run history.
+- `discoveries.md` — newest-first run history (each run is prepended).
 - `rejected.md` — rejected candidates and reasons.
 - `revisit.md` — unresolved candidates.
 - `notes.md` — current structural diagnosis and scouting priority.
@@ -50,7 +50,13 @@ Required files:
 No computer, terminal, npm, localhost callback, or Spotify Client Secret is required.
 
 1. Create or open a Spotify Developer application from a phone browser.
-2. In its settings, add this exact redirect URI:
+2. In its settings, add the repository's exact GitHub Pages redirect URI:
+
+```text
+https://<your-github-username>.github.io/<repository-name>/spotify-auth/
+```
+
+For this repository, that is:
 
 ```text
 https://broskmenmi.github.io/editorial-engine/spotify-auth/
@@ -58,11 +64,7 @@ https://broskmenmi.github.io/editorial-engine/spotify-auth/
 
 3. In GitHub repository settings, open **Pages** and select **GitHub Actions** as the source if Pages is not already enabled.
 4. Wait for the `Deploy Spotify authorization page` workflow to finish.
-5. Open:
-
-```text
-https://broskmenmi.github.io/editorial-engine/spotify-auth/
-```
+5. Open the same redirect URI in the phone browser.
 
 6. Paste the Spotify Client ID and tap **Connect Spotify**.
 7. Approve the requested playlist permissions.
@@ -79,11 +81,15 @@ Do not paste the refresh token into ChatGPT, issues, commits, or Markdown files.
 
 The authorization page uses Authorization Code with PKCE and does not require a Client Secret.
 
+### Fork playlist identity
+
+When forking, clear the `playlistId` and `ownerUserId` values in `playlists/<slug>/spotify.json` (set them to empty strings). The publisher then creates a fresh playlist under the fork owner's account on the first run. Leaving the original values in place makes the ownership check hard-fail against the original owner's playlist.
+
 ## 5. Spotify publication
 
-`.github/workflows/publish-spotify.yml` runs the exact Spotify Web API publisher.
+`.github/workflows/publish-spotify.yml` runs the exact Spotify Web API publisher for every playlist directory under `playlists/` that contains both `ledger.md` and `spotify.json`, not only the reference playlist.
 
-The publisher:
+For each such playlist, the publisher:
 
 1. reads the ordered URI list from `ledger.md`;
 2. uses the persisted playlist ID in `spotify.json`;

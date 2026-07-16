@@ -45,12 +45,13 @@ The recurring task is created using the [`scheduler` skill](.agents/skills/sched
 
 1. Read the playlist constitution and canonical ledger.
 2. Review prior discoveries, rejections, revisit candidates, and editorial notes.
-3. Scout exactly three candidate tracks with exact Spotify URIs.
-4. Evaluate and sequence them.
-5. Audit the proposed changes.
-6. Update GitHub only after audit approval.
-7. Let the GitHub Action replace Spotify from ledger URI order.
-8. Report publication status only from `spotify-status.json`.
+3. Pre-audit the current ledger: compute the complete adjacent BPM trajectory, map chapters and peaks, and identify unresolved transition or storytelling defects before scouting.
+4. Scout exactly three candidate tracks with exact Spotify URIs.
+5. Evaluate and sequence them.
+6. Audit the proposed changes.
+7. Update GitHub only after audit approval.
+8. Let the GitHub Action replace Spotify from ledger URI order.
+9. Report publication status only from `spotify-status.json`.
 
 ## Decision vocabulary
 
