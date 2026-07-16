@@ -19,21 +19,19 @@
 
 ## Current assessment
 
-The structural roles form a complete conceptual arc, but the bodily trajectory does not. Current BPM movement is **134 → 145 → 141 → 137 → 136 → 142 → 130 → 125**. **Deep Under → Two Glasses of Whisky** is a confirmed opening defect, and **Trail Of → Eclipse** is an unresolved -12 BPM collapse.
+The canonical order has been repaired from **134 → 145 → 141 → 137 → 136 → 142 → 130 → 125** to **134 → 136 → 141 → 145 → 142 → 137 → 130 → 125**. The prohibited +11 BPM opening jump and -12 BPM collapse are gone. The new order forms one readable rise to a 145 BPM peak followed by a progressive descent.
 
-## Repair strategy
+## Repair outcome
 
-Use the smallest defensible repair, tested in this order:
+1. **Deep Under → Wurk** establishes a controlled 134 → 136 opening.
+2. **Wurk → Cachoeira → Two Glasses of Whisky** creates a progressive rise of 136 → 141 → 145.
+3. **Trail Of → Bionic Jungle** begins release at 142 → 137.
+4. **Bionic Jungle → Eclipse → Calipso** completes the descent at 137 → 130 → 125.
+5. No adjacent transition now exceeds 7 BPM.
 
-1. **Reorder existing tracks** to create the smoothest possible rise before replacing anything.
-2. **Replace Two Glasses of Whisky** if its 145 BPM cannot be positioned without creating another abrupt jump.
-3. **Insert one bridge** only if it repairs two neighbouring transitions rather than merely lengthening the playlist.
-4. **Replace or bridge Eclipse** if the 142 → 130 drop remains conspicuous after the opening is repaired.
-5. Preserve Calipso only if the final 130 → 125 descent feels progressive rather than detached.
+## Next listening priority
 
-## Next scouting priority
-
-All three candidates must repair the opening. Prefer tracks around **136–141 BPM** that can connect **Deep Under at 134 BPM** to the existing middle sequence without spectacle. Include at least one replacement candidate for **Two Glasses of Whisky**, not only insertion candidates.
+Direct-listen the repaired order without relying on Spotify Mix. Prioritize **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), **Bionic Jungle → Eclipse** (-7), and **Eclipse → Calipso** (-5). Keep the order unless one transition remains bodily conspicuous.
 
 ## Output discipline
 
