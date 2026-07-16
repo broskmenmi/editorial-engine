@@ -12,4 +12,5 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Donato Dozzy, Anna Caragnano | Parola - Rework | Vocal focus interrupts immersion and turns the ending into a statement rather than a disappearance. | 2026-07-16 |
 | Chlär | Internet Soulmate | Its extroverted, recognisable rhythmic personality shifts the post-peak passage toward playful impact. The canonical ledger now has a more restrained continuation, leaving no necessary structural role for it. | 2026-07-15 |
