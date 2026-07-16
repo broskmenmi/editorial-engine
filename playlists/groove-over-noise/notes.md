@@ -19,7 +19,7 @@
 
 ## Long-form storytelling model
 
-The playlist is not intended to become one multi-hour climb toward one isolated peak. It should grow as **multiple waves with one dominant summit**:
+The playlist should grow as **multiple waves with one dominant summit**:
 
 1. **Arrival** — space, patience, low information density.
 2. **Groove formation** — establish trust and sustained bodily movement.
@@ -53,9 +53,9 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical order is **134 → 136 → 141 → 145 → 142 → 137 → 130 → 125**. The prohibited +11 BPM opening jump and -12 BPM collapse are gone. The sequence currently works as a compact first-wave prototype: arrival, groove formation, a local crest at **Two Glasses of Whisky**, and a full descent into **Calipso**.
+The canonical trajectory is now **134 → 136 → 141 → 145 → 142 → 137 → 134 → 130 → 125**. Adding **Maeksll — Minimum** repairs the former 137 → 130 transition by creating two controlled steps: 137 → 134 → 130.
 
-As the playlist grows, this eight-track arc must not simply be followed by another build after Calipso. Future chapters should be inserted before the final descent. The current crest may remain a local crest; the eventual main summit must be earned later and offer a different form of pressure.
+The playlist remains one coherent first wave. It is not a frozen legacy block: every existing track remains eligible for reordering, replacement, or removal when later chapters expose a structural weakness.
 
 ## Current chapter map
 
@@ -65,14 +65,15 @@ As the playlist grows, this eight-track arc must not simply be followed by anoth
 4. **First local crest:** Two Glasses of Whisky
 5. **Partial release:** Trail Of
 6. **Density release:** Bionic Jungle
-7. **Focused decompression:** Eclipse
-8. **Dissolution:** Calipso
+7. **Pulse-continuity release:** Minimum
+8. **Focused decompression:** Eclipse
+9. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-Direct-listen the repaired order without relying on Spotify Mix. Prioritize **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), **Bionic Jungle → Eclipse** (-7), and **Eclipse → Calipso** (-5).
+Direct-listen **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), and **Eclipse → Calipso** (-5). If they pass, the next growth task is to create a re-entry chapter before **Minimum → Eclipse**, preserving the existing final decompression and Calipso as the closer.
 
-Once those transitions pass, the next growth task is not to append after Calipso. Scout a **re-entry chapter before the final decompression**, allowing the current local crest and partial release to lead into a deeper second wave while preserving Calipso as the final dissolution.
+**Maeksll — Tragoidia** remains a future second-wave candidate, but must be compared against non-Maeksll options so the deeper crest introduces a genuinely new form of pressure.
 
 ## Output discipline
 
