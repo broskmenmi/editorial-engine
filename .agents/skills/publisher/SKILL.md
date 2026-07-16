@@ -7,10 +7,13 @@ description: Synchronize the canonical playlist ledger to Spotify when possible 
 
 ## Spotify behavior
 1. Search for an owned playlist whose canonical name matches the target playlist title.
-2. If none exists and playlist creation is available, create one from the canonical ledger and constitution.
-3. If one exists and playlist editing is available, synchronize its tracks and order to `ledger.md`.
-4. Never create a duplicate when the canonical playlist already exists.
-5. If exact editing is unavailable, do not pretend synchronization succeeded.
+2. Treat Spotify creation as available only when the tool can create an exact playlist from explicit track identities in ledger order.
+3. Never use a recommendation-based or generative playlist creation tool as a substitute for exact ledger publication.
+4. If an exact owned playlist does not exist and exact creation is unavailable, report MANUAL REQUIRED; do not create anything.
+5. If an exact owned playlist exists and track editing is available, synchronize its tracks and order to `ledger.md`.
+6. Never create a duplicate when the canonical playlist already exists.
+7. Search fallback results, similarly named playlists, and generated recommendations are not evidence that the canonical playlist was found.
+8. If exact reading or editing is unavailable, do not pretend synchronization or verification succeeded.
 
 ## Manual output — always required
 Regardless of Spotify success, output:
