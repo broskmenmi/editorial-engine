@@ -1,3 +1,8 @@
+---
+name: scheduler
+description: Create or update the single recurring ChatGPT task that runs an editorial playlist workflow against a GitHub repository. Use during initial setup or whenever the schedule, playlist, or task prompt changes.
+---
+
 # Scheduler Skill
 
 ## Responsibility

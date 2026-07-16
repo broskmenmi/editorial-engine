@@ -13,12 +13,13 @@ description: Persist approved playlist decisions in GitHub by maintaining the ca
 5. Treat row order as publication order and renumber all rows consecutively after insertions, removals, or reordering.
 6. Recalculate and review the complete adjacent BPM trajectory whenever the ledger changes.
 7. Do not persist an opening transition above 4 BPM or any transition above 7 BPM without the Auditor's documented exception.
-8. Append the complete run to `discoveries.md`.
+8. Prepend the complete run to `discoveries.md`; runs are recorded newest-first.
 9. Add REJECT decisions and durable reasons to `rejected.md`.
 10. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
-11. Update `notes.md` with the current structural need and any unresolved transition defect.
-12. Preserve valid history; do not silently rewrite prior decisions.
-13. Prevent duplicate track URIs and keep numbering consistent.
+11. When a REVISIT candidate is resolved (promoted to ADD or demoted to REJECT), move its row from the active queue to a "Resolved" section in `revisit.md`, recording the outcome and resolution date; never delete it silently.
+12. Update `notes.md` with the current structural need and any unresolved transition defect.
+13. Preserve valid history; do not silently rewrite prior decisions.
+14. Prevent duplicate track URIs and keep numbering consistent.
 
 ## Required ledger columns
 - `#`
