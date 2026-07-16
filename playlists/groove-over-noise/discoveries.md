@@ -30,6 +30,67 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-16 — Restart Run 4
+
+### ADD
+
+- **Track:** Minimum
+- **Artist:** Maeksll
+- **Spotify:** spotify:track:31FaOVEATLY9PzDv8YPbaI
+- **BPM:** 134
+- **Position:** After Marcal — Bionic Jungle and before Psyk — Eclipse, as a pulse-continuity release bridge.
+- **Purpose:** Smooth release into focused decompression.
+- **Reason:** It repairs two neighbours without reopening pressure.
+
+### REVISIT
+
+- **Track:** Tragoidia
+- **Artist:** Maeksll
+- **Spotify:** spotify:track:0XQ53FHMmonh9WD6DWVZVb
+- **BPM:** 141
+- **Position:** Future re-entry chapter before final decompression.
+- **Purpose:** Test a deeper second-wave crest.
+- **Reason:** Strong re-entry, but repeats the current crest artist.
+- **What needs reassessment:** Whether a later Maeksll crest reveals new pressure or merely reprises Two Glasses of Whisky.
+- **Reassess when:** Compared against non-Maeksll re-entry candidates after the playlist exceeds one hour.
+
+### REJECT
+
+- **Track:** Tonal
+- **Artist:** Claudio PRC
+- **Spotify:** spotify:track:04fYJHkqNYRGb1szqgpJYd
+- **BPM:** 125
+- **Position:** Alternative closer replacing Luigi Tozzi — Calipso.
+- **Purpose:** Test a firmer terminal pulse.
+- **Reason:** It duplicates closure without repairing any transition.
+- **Why it weakens the identity:** Its 125 BPM terminal role duplicates Calipso and adds no new chapter function.
+
+### Audit result
+
+Approved Minimum as the sole repair. It changes **Bionic Jungle → Eclipse** from a -7 BPM transition into -3 and -4 BPM steps. Tragoidia remains a future second-wave candidate; Tonal was rejected as redundant closure.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Coyu — Cachoeira
+4. Maeksll — Two Glasses of Whisky
+5. Altinbas — Trail Of
+6. Marcal — Bionic Jungle
+7. Maeksll — Minimum
+8. Psyk — Eclipse
+9. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The first wave is repaired; future growth must begin before the final descent.
+
+---
+
 ## 2026-07-16 — Restart Run 3
 
 ### ADD
