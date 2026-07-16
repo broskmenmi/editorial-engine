@@ -26,6 +26,64 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-16 — Run 2
+
+### REVISIT
+
+- **Track:** Tonal
+- **Artist:** Claudio PRC
+- **Spotify:** spotify:track:04fYJHkqNYRGb1szqgpJYd
+- **Position:** After Psyk — Eclipse, replacing Calipso as the closer.
+- **Purpose:** Test firmer closing definition.
+- **Reason:** It duplicates release instead of deepening dissolution.
+- **What needs reassessment:** Whether the ending needs firmer definition rather than Calipso's disappearance.
+- **Reassess when:** Directly compared as a replacement for Calipso, never alongside it.
+
+### REJECT
+
+- **Track:** Onirica
+- **Artist:** Claudio PRC, Luigi Tozzi
+- **Spotify:** spotify:track:3ixVwnV6m47DqfUrbfNuQ0
+- **Position:** Between Psyk — Eclipse and Luigi Tozzi — Calipso.
+- **Purpose:** Add an atmospheric closing bridge.
+- **Reason:** It overextends an already complete closing descent.
+- **Why it weakens the identity:** It lengthens the ending and concentrates the closing palette around artists already defining that section.
+
+### REJECT
+
+- **Track:** Velluto
+- **Artist:** Donato Dozzy
+- **Spotify:** spotify:track:0RQ0QSEuVZJkW4Sr48vW9p
+- **Position:** After Luigi Tozzi — Calipso as an extended dissolution.
+- **Purpose:** Prolong the final hypnotic release.
+- **Reason:** Prolonged hypnosis adds length without repairing structure.
+- **Why it weakens the identity:** It duplicates Calipso's closing function and turns disciplined dissolution into overextension.
+
+### Audit result
+
+No additions approved. Tonal remains a replacement-only revisit candidate. Onirica and Velluto were rejected as redundant closing extensions. The canonical order remains unchanged.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Maeksll — Two Glasses of Whisky
+3. Coyu — Cachoeira
+4. Marcal — Bionic Jungle
+5. Skov Bowden — Wurk
+6. Altinbas — Trail Of
+7. Psyk — Eclipse
+8. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+The canonical playlist is known to exist, but this connection cannot edit tracks or order. No new Spotify change is required from this run; the previously pending Calipso insertion remains manual if not already completed.
+
+### Editorial note
+
+The ending passed audit; future scouting must repair a different concrete weakness.
+
+---
+
 ## 2026-07-16 — Run 1
 
 ### ADD
