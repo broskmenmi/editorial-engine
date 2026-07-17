@@ -30,6 +30,68 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-17 — Daily Run 1
+
+### ADD
+
+- **Track:** Ottagone 001
+- **Artist:** Ottagone
+- **Spotify:** spotify:track:2DMBWNzWBrjaYHPdSf7HQA
+- **BPM:** 138
+- **Position:** After Skov Bowden — Wurk and before Coyu — Cachoeira, as the opening pulse bridge.
+- **Purpose:** Repair the opening pulse climb.
+- **Reason:** Restrained propulsion divides the opening jump into compliant steps.
+
+### REVISIT
+
+- **Track:** Kingpin
+- **Artist:** Vinicius Honorio, Ricardo Garduno
+- **Spotify:** spotify:track:7fBEw8o7XxHBEsdrjUbROw
+- **BPM:** 138
+- **Position:** Alternative opening bridge between Wurk and Cachoeira.
+- **Purpose:** Test a heavier opening bridge.
+- **Reason:** Its pressure may spend the first crest too early.
+- **What needs reassessment:** Whether its physical weight reinforces groove or prematurely dominates the opening chapter.
+- **Reassess when:** Directly compared with Ottagone 001 between Wurk and Cachoeira.
+
+### REJECT
+
+- **Track:** Agartha
+- **Artist:** Wata Igarashi
+- **Spotify:** spotify:track:5phzJWdxTLmk8Yd7KOTxSH
+- **BPM:** 130
+- **Position:** Opening bridge comparison between Wurk and Cachoeira.
+- **Purpose:** Test spatial contrast in the opening.
+- **Reason:** Its 130 BPM creates a prohibited eleven-beat rebound.
+- **Why it weakens the identity:** It turns 136 → 141 into 136 → 130 → 141, creating both an opening drop and a prohibited rebound.
+
+### Audit result
+
+Approved Ottagone 001 as the sole repair. It changes **Wurk → Cachoeira** from +5 BPM inside the opening three into +2 and +3 BPM steps. Kingpin remains a direct-listen comparison because its pressure may overstate the opening; the original Agartha was rejected for numeric and perceived-pulse discontinuity.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. Coyu — Cachoeira
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Marcal — Bionic Jungle
+8. Maeksll — Minimum
+9. Psyk — Eclipse
+10. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The opening now climbs by bodily accumulation rather than metadata tolerance.
+
+---
+
 ## 2026-07-16 — Restart Run 4
 
 ### ADD
