@@ -53,7 +53,7 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical trajectory is now **134 → 136 → 141 → 145 → 142 → 137 → 134 → 130 → 125**. Adding **Maeksll — Minimum** repairs the former 137 → 130 transition by creating two controlled steps: 137 → 134 → 130.
+The canonical trajectory is now **134 → 136 → 138 → 141 → 145 → 142 → 137 → 134 → 130 → 125**. Adding **Ottagone — Ottagone 001** repairs the former opening 136 → 141 transition by creating two controlled steps: 136 → 138 → 141.
 
 The playlist remains one coherent first wave. It is not a frozen legacy block: every existing track remains eligible for reordering, replacement, or removal when later chapters expose a structural weakness.
 
@@ -61,19 +61,20 @@ The playlist remains one coherent first wave. It is not a frozen legacy block: e
 
 1. **Arrival:** Deep Under
 2. **Groove formation:** Wurk
-3. **Percussive rise:** Cachoeira
-4. **First local crest:** Two Glasses of Whisky
-5. **Partial release:** Trail Of
-6. **Density release:** Bionic Jungle
-7. **Pulse-continuity release:** Minimum
-8. **Focused decompression:** Eclipse
-9. **Dissolution:** Calipso
+3. **Opening pulse bridge:** Ottagone 001
+4. **Percussive rise:** Cachoeira
+5. **First local crest:** Two Glasses of Whisky
+6. **Partial release:** Trail Of
+7. **Density release:** Bionic Jungle
+8. **Pulse-continuity release:** Minimum
+9. **Focused decompression:** Eclipse
+10. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-Direct-listen **Wurk → Cachoeira** (+5), **Trail Of → Bionic Jungle** (-5), and **Eclipse → Calipso** (-5). If they pass, the next growth task is to create a re-entry chapter before **Minimum → Eclipse**, preserving the existing final decompression and Calipso as the closer.
+Direct-listen **Trail Of → Bionic Jungle** (-5) and **Eclipse → Calipso** (-5). If they pass, the next growth task is to create a re-entry chapter before **Minimum → Eclipse**, preserving the existing final decompression and Calipso as the closer.
 
-**Maeksll — Tragoidia** remains a future second-wave candidate, but must be compared against non-Maeksll options so the deeper crest introduces a genuinely new form of pressure.
+**Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity. **Maeksll — Tragoidia** remains a future second-wave candidate and must be compared against non-Maeksll options so the deeper crest introduces a genuinely new form of pressure.
 
 ## Output discipline
 
