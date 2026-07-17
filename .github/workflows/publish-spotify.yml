@@ -82,11 +82,11 @@ jobs:
             if [[ ! -f "$dir/ledger.md" || ! -f "$dir/spotify.json" ]]; then
               continue
             fi
-            if git diff --quiet -- "$dir/spotify.json" "$dir/spotify-status.json"; then
+            if [[ -z "$(git status --porcelain -- "$dir/spotify.json" "$dir/spotify-status.json")" ]]; then
               continue
             fi
             changed_dirs+=("$dir")
-            if ! git diff --quiet -- "$dir/spotify.json"; then
+            if [[ -n "$(git status --porcelain -- "$dir/spotify.json")" ]]; then
               created_dirs+=("$dir")
             fi
           done
@@ -127,7 +127,7 @@ jobs:
                 cp "$temp_dir/$dir/spotify-status.json" "$dir/spotify-status.json"
               fi
 
-              if ! git diff --quiet -- "$dir/spotify.json" "$dir/spotify-status.json"; then
+              if [[ -n "$(git status --porcelain -- "$dir/spotify.json" "$dir/spotify-status.json")" ]]; then
                 git add -- "$dir/spotify.json"
                 if [[ -f "$dir/spotify-status.json" ]]; then
                   git add -- "$dir/spotify-status.json"

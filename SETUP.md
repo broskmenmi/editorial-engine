@@ -126,7 +126,7 @@ The task must:
 After both GitHub Actions secrets exist:
 
 1. open the repository's **Actions** tab;
-2. choose **Publish Spotify playlist**;
+2. choose **Publish Spotify playlists**;
 3. select **Run workflow**;
 4. verify that `spotify-status.json` becomes `COMPLETE`;
 5. open only the canonical playlist URL recorded in that status file.
