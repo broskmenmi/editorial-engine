@@ -12,4 +12,5 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Wata Igarashi | Agartha | At 130 BPM it creates a 136 → 130 → 141 opening collapse and prohibited rebound; only a materially different version may be reconsidered. | 2026-07-17 |
 | Claudio PRC | Tonal | At 125 BPM it duplicates Calipso's terminal function and repairs no unresolved transition. | 2026-07-16 |
