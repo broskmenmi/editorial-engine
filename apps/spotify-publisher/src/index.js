@@ -31,6 +31,18 @@ function now() {
   return new Date().toISOString();
 }
 
+async function readCoverBase64(playlistDir, config) {
+  if (!config.coverImageBase64Path) return null;
+  const coverPath = path.resolve(playlistDir, config.coverImageBase64Path);
+  const value = (await fs.readFile(coverPath, 'utf8')).replace(/\s+/g, '');
+  if (!value) throw new Error(`Playlist cover file is empty: ${coverPath}`);
+  const bytes = Buffer.from(value, 'base64');
+  if (bytes.length === 0) throw new Error(`Playlist cover is not valid base64: ${coverPath}`);
+  if (bytes.length > 256 * 1024) throw new Error(`Playlist cover exceeds Spotify's 256 KB limit: ${bytes.length} bytes.`);
+  if (bytes[0] !== 0xff || bytes[1] !== 0xd8) throw new Error('Playlist cover must be a JPEG image.');
+  return value;
+}
+
 async function main() {
   const repoRoot = path.resolve(option('--repo-root', process.cwd()));
   const playlistDir = path.resolve(repoRoot, option('--playlist-dir', 'playlists/groove-over-noise'));
@@ -43,6 +55,7 @@ async function main() {
   const rows = await readLedger(ledgerPath, { allowEmpty });
   const desiredUris = rows.map((row) => row.uri);
   const config = await readJson(configPath);
+  const coverBase64 = await readCoverBase64(playlistDir, config);
 
   const tokenResult = await refreshAccessToken({
     clientId: requiredEnv('SPOTIFY_CLIENT_ID'),
@@ -74,6 +87,7 @@ async function main() {
       currentTrackCount: currentUris.length,
       desiredTrackCount: desiredUris.length,
       exactMatch: arraysEqual(currentUris, desiredUris),
+      coverConfigured: Boolean(coverBase64),
       desired: rows,
     }, null, 2));
     return;
@@ -101,25 +115,42 @@ async function main() {
     isPublic: Boolean(config.public),
   });
 
+  let coverUploaded = false;
+  if (coverBase64) {
+    await spotify.uploadPlaylistCover(playlist.id, coverBase64);
+    coverUploaded = true;
+  }
+
   const snapshotId = await spotify.replacePlaylistItems(playlist.id, desiredUris);
   const actualUris = await spotify.getAllPlaylistUris(playlist.id);
   const exactMatch = arraysEqual(actualUris, desiredUris);
+  const actualPlaylist = await spotify.getPlaylist(playlist.id);
+  const metadataMatch = actualPlaylist.name === config.playlistName
+    && actualPlaylist.description === config.description
+    && Boolean(actualPlaylist.public) === Boolean(config.public);
+  const images = coverBase64 ? await spotify.getPlaylistImages(playlist.id) : [];
+  const coverPresent = !coverBase64 || images.length > 0;
+  const complete = exactMatch && metadataMatch && coverPresent;
 
   const status = {
-    status: exactMatch ? 'COMPLETE' : 'PARTIAL',
+    status: complete ? 'COMPLETE' : 'PARTIAL',
     playlistId: playlist.id,
     playlistUrl: `https://open.spotify.com/playlist/${playlist.id}`,
     ledgerCommit: process.env.GITHUB_SHA ?? null,
     ledgerTrackCount: desiredUris.length,
     spotifyTrackCount: actualUris.length,
+    metadataVerified: metadataMatch,
+    coverConfigured: Boolean(coverBase64),
+    coverUploaded,
+    coverPresent,
     verifiedAt: now(),
     snapshotId,
-    error: exactMatch ? null : 'Spotify read-back did not exactly match ledger URI order.',
+    error: complete ? null : 'Spotify read-back did not exactly match ledger, metadata, or cover state.',
   };
   await writeJson(statusPath, status);
 
   console.log(JSON.stringify(status, null, 2));
-  if (!exactMatch) process.exitCode = 1;
+  if (!complete) process.exitCode = 1;
 }
 
 main().catch(async (error) => {
@@ -133,6 +164,10 @@ main().catch(async (error) => {
     ledgerCommit: process.env.GITHUB_SHA ?? null,
     ledgerTrackCount: null,
     spotifyTrackCount: null,
+    metadataVerified: false,
+    coverConfigured: null,
+    coverUploaded: false,
+    coverPresent: false,
     verifiedAt: now(),
     snapshotId: null,
     error: error instanceof Error ? error.message : String(error),
