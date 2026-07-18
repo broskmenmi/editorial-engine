@@ -1,11 +1,15 @@
 {
-  "status": "COMPLETE",
-  "playlistId": "2BymTL3h3ZekXU79TMGNrj",
-  "playlistUrl": "https://open.spotify.com/playlist/2BymTL3h3ZekXU79TMGNrj",
-  "ledgerCommit": "67bcb2b2750384624a0f6d3f4dc38cd17eeba139",
-  "ledgerTrackCount": 12,
-  "spotifyTrackCount": 12,
-  "verifiedAt": "2026-07-18T07:42:58.600Z",
-  "snapshotId": "AAAACRPUHKorVo2UCRI6mo2zVN8a4Kvb",
-  "error": null
+  "status": "FAILED",
+  "playlistId": null,
+  "playlistUrl": null,
+  "ledgerCommit": "d36b6e6e39e5e398a2456af4a0f38d4be3fd3589",
+  "ledgerTrackCount": null,
+  "spotifyTrackCount": null,
+  "metadataVerified": false,
+  "coverConfigured": null,
+  "coverUploaded": false,
+  "coverPresent": false,
+  "verifiedAt": "2026-07-18T07:43:21.020Z",
+  "snapshotId": null,
+  "error": "Spotify API PUT /playlists/2BymTL3h3ZekXU79TMGNrj/images failed (403): {\"error\":{\"status\":403,\"message\":\"Insufficient client scope\"}}"
 }
