@@ -53,9 +53,9 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical trajectory is now **134 → 136 → 138 → 141 → 145 → 142 → 137 → 134 → 130 → 125**. Adding **Ottagone — Ottagone 001** repairs the former opening 136 → 141 transition by creating two controlled steps: 136 → 138 → 141.
+The canonical trajectory is now **134 → 136 → 138 → 141 → 145 → 142 → 139 → 137 → 134 → 130 → 128 → 125**. **Altinbas, Cirkle — Enlightenment** repairs the former 142 → 137 release drop through 142 → 139 → 137, while **Claudio PRC — Haidou** repairs the former 130 → 125 closing drop through 130 → 128 → 125.
 
-The playlist remains one coherent first wave. It is not a frozen legacy block: every existing track remains eligible for reordering, replacement, or removal when later chapters expose a structural weakness.
+Every adjacent BPM difference is now within the 0–4 BPM target. The playlist remains one coherent completed first wave with **Two Glasses of Whisky** as its local crest; no dominant summit has yet been established for the future long-form journey.
 
 ## Current chapter map
 
@@ -65,14 +65,16 @@ The playlist remains one coherent first wave. It is not a frozen legacy block: e
 4. **Percussive rise:** Cachoeira
 5. **First local crest:** Two Glasses of Whisky
 6. **Partial release:** Trail Of
-7. **Density release:** Bionic Jungle
-8. **Pulse-continuity release:** Minimum
-9. **Focused decompression:** Eclipse
-10. **Dissolution:** Calipso
+7. **Post-crest pulse bridge:** Enlightenment
+8. **Density release:** Bionic Jungle
+9. **Pulse-continuity release:** Minimum
+10. **Focused decompression:** Eclipse
+11. **Deep decompression bridge:** Haidou
+12. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-Direct-listen **Trail Of → Bionic Jungle** (-5) and **Eclipse → Calipso** (-5). If they pass, the next growth task is to create a re-entry chapter before **Minimum → Eclipse**, preserving the existing final decompression and Calipso as the closer.
+The next run must develop a genuine re-entry chapter before **Minimum → Eclipse**, preserving **Eclipse → Haidou → Calipso** as the final decompression and dissolution. The new chapter must begin above the opening baseline, reveal a new rhythmic, spatial, textural, or psychological quality, and eventually earn a dominant summit without repeating the first wave.
 
 **Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity. **Maeksll — Tragoidia** remains a future second-wave candidate and must be compared against non-Maeksll options so the deeper crest introduces a genuinely new form of pressure.
 
