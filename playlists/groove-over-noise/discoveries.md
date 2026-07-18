@@ -30,6 +30,71 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-18 — Daily Run 2
+
+### ADD
+
+- **Track:** Enlightenment
+- **Artist:** Altinbas, Cirkle
+- **Spotify:** spotify:track:1LwX0cMaE8susTOodWCMAy
+- **BPM:** 139
+- **BPM source:** Beatport and Spotify-derived SongBPM metadata.
+- **Position:** After Altinbas — Trail Of and before Marcal — Bionic Jungle, as the post-crest pulse bridge.
+- **Purpose:** Repair the first release descent.
+- **Reason:** Its 139 BPM converts the drop into two controlled steps.
+
+### ADD
+
+- **Track:** Haidou
+- **Artist:** Claudio PRC
+- **Spotify:** spotify:track:6lUBGdd9KgbFl7E5GSlm2z
+- **BPM:** 128
+- **BPM source:** Beatport and Spotify-derived SongBPM metadata.
+- **Position:** After Psyk — Eclipse and before Luigi Tozzi — Calipso, as the deep decompression bridge.
+- **Purpose:** Repair the final decompression descent.
+- **Reason:** Deep hypnosis divides the closing drop without reopening pressure.
+
+### REJECT
+
+- **Track:** Lyra I
+- **Artist:** Claudio PRC, Luigi Tozzi
+- **Spotify:** spotify:track:6P0rprIRxsc3aVL0MjfyuJ
+- **BPM:** 128
+- **BPM source:** Beatport and Spotify-derived SongBPM metadata.
+- **Position:** Alternative closing bridge after Eclipse and before Calipso.
+- **Purpose:** Test a longer closing bridge.
+- **Reason:** Its duration and drive overstate the established dissolution.
+- **Why it weakens the identity:** It duplicates Haidou's bridge function and foregrounds Calipso's artist identity instead of disappearing into the ending.
+
+### Audit result
+
+Approved Enlightenment and Haidou as the smallest repairs for both remaining -5 BPM transitions. The resulting trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 137 → 134 → 130 → 128 → 125**, keeping every adjacent difference within 0–4 BPM while preserving the established closer. Lyra I was rejected because its long driving form overstates the terminal chapter and duplicates the approved 128 BPM bridge role.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. Coyu — Cachoeira
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Altinbas, Cirkle — Enlightenment
+8. Marcal — Bionic Jungle
+9. Maeksll — Minimum
+10. Psyk — Eclipse
+11. Claudio PRC — Haidou
+12. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The first wave now descends in controlled stages; growth must re-enter before it.
+
+---
+
 ## 2026-07-17 — Daily Run 1
 
 ### ADD
