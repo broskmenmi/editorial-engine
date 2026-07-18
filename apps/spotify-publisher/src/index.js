@@ -31,6 +31,10 @@ function now() {
   return new Date().toISOString();
 }
 
+function normalizeText(value) {
+  return String(value ?? '').normalize('NFC').replace(/\s+/g, ' ').trim();
+}
+
 async function readCoverBase64(playlistDir, config) {
   if (!config.coverImageBase64Path) return null;
   const coverPath = path.resolve(playlistDir, config.coverImageBase64Path);
@@ -125,9 +129,12 @@ async function main() {
   const actualUris = await spotify.getAllPlaylistUris(playlist.id);
   const exactMatch = arraysEqual(actualUris, desiredUris);
   const actualPlaylist = await spotify.getPlaylist(playlist.id);
-  const metadataMatch = actualPlaylist.name === config.playlistName
-    && actualPlaylist.description === config.description
-    && Boolean(actualPlaylist.public) === Boolean(config.public);
+  const nameMatch = normalizeText(actualPlaylist.name) === normalizeText(config.playlistName);
+  const descriptionMatch = normalizeText(actualPlaylist.description) === normalizeText(config.description);
+  const privacyMatch = actualPlaylist.public == null
+    ? Boolean(config.public) === false
+    : Boolean(actualPlaylist.public) === Boolean(config.public);
+  const metadataMatch = nameMatch && descriptionMatch && privacyMatch;
   const images = coverBase64 ? await spotify.getPlaylistImages(playlist.id) : [];
   const coverPresent = !coverBase64 || images.length > 0;
   const complete = exactMatch && metadataMatch && coverPresent;
@@ -140,6 +147,11 @@ async function main() {
     ledgerTrackCount: desiredUris.length,
     spotifyTrackCount: actualUris.length,
     metadataVerified: metadataMatch,
+    metadataChecks: {
+      nameMatch,
+      descriptionMatch,
+      privacyMatch,
+    },
     coverConfigured: Boolean(coverBase64),
     coverUploaded,
     coverPresent,
