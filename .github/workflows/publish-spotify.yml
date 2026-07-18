@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - "playlists/**/ledger.md"
+      - "playlists/**/spotify.json"
+      - "playlists/**/cover.jpg.base64"
       - "apps/spotify-publisher/**"
       - ".github/workflows/publish-spotify.yml"
   workflow_dispatch:
