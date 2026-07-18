@@ -1,5 +1,6 @@
 name: Publish Spotify playlist
 
+# Manual republish marker: cover and description authorization refreshed.
 on:
   push:
     branches: [main]
