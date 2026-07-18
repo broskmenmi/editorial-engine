@@ -42,14 +42,21 @@ export class SpotifyClient {
     this.accessToken = accessToken;
   }
 
-  async request(path, { method = 'GET', body, attempt = 1 } = {}) {
+  async request(path, {
+    method = 'GET',
+    body,
+    contentType = 'application/json',
+    serializeJson = true,
+    attempt = 1,
+  } = {}) {
+    const hasBody = body !== undefined;
     const response = await fetch(`${API_BASE}${path}`, {
       method,
       headers: {
         Authorization: `Bearer ${this.accessToken}`,
-        ...(body === undefined ? {} : { 'Content-Type': 'application/json' }),
+        ...(hasBody && contentType ? { 'Content-Type': contentType } : {}),
       },
-      ...(body === undefined ? {} : { body: JSON.stringify(body) }),
+      ...(hasBody ? { body: serializeJson ? JSON.stringify(body) : body } : {}),
     });
 
     const parsed = await parseBody(response);
@@ -61,7 +68,13 @@ export class SpotifyClient {
         ? retryAfter * 1000
         : Math.min(8000, 500 * 2 ** (attempt - 1));
       await sleep(baseDelay + Math.floor(Math.random() * 250));
-      return this.request(path, { method, body, attempt: attempt + 1 });
+      return this.request(path, {
+        method,
+        body,
+        contentType,
+        serializeJson,
+        attempt: attempt + 1,
+      });
     }
 
     const error = new Error(`Spotify API ${method} ${path} failed (${response.status}): ${JSON.stringify(parsed)}`);
@@ -90,6 +103,19 @@ export class SpotifyClient {
       method: 'PUT',
       body: { name, description, public: isPublic },
     });
+  }
+
+  async uploadPlaylistCover(playlistId, jpegBase64) {
+    await this.request(`/playlists/${encodeURIComponent(playlistId)}/images`, {
+      method: 'PUT',
+      body: jpegBase64,
+      contentType: 'image/jpeg',
+      serializeJson: false,
+    });
+  }
+
+  async getPlaylistImages(playlistId) {
+    return (await this.request(`/playlists/${encodeURIComponent(playlistId)}/images`)).body ?? [];
   }
 
   async replacePlaylistItems(playlistId, uris) {
