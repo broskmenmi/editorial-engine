@@ -6,6 +6,7 @@ const SCOPES = [
   'playlist-read-private',
   'playlist-modify-private',
   'playlist-modify-public',
+  'ugc-image-upload',
 ];
 
 function option(name, fallback = null) {
