@@ -25,7 +25,7 @@
 <body>
 <main>
   <h1>GROOVE OVER NOISE</h1>
-  <p>Authorize every standard Spotify user permission currently available to a normal Web API app. Partner-only Open Access permissions are excluded because this app cannot use them.</p>
+  <p>Authorize the broadest practical Spotify Web API permissions for this project, including playlist editing and cover-image uploads. SDK-only and restricted scopes are intentionally excluded.</p>
 
   <div id="setup" class="card">
     <p>Register this exact redirect URI in your Spotify app:</p>
@@ -58,8 +58,6 @@
     'user-read-playback-state',
     'user-modify-playback-state',
     'user-read-currently-playing',
-    'app-remote-control',
-    'streaming',
     'playlist-read-private',
     'playlist-read-collaborative',
     'playlist-modify-private',
@@ -72,8 +70,7 @@
     'user-library-modify',
     'user-library-read',
     'user-read-email',
-    'user-read-private',
-    'user-personalized'
+    'user-read-private'
   ].join(' ');
   const $ = (id) => document.getElementById(id);
   $('redirect').value = redirectUri;
