@@ -1,20 +1,20 @@
 {
-  "status": "PARTIAL",
+  "status": "COMPLETE",
   "playlistId": "2BymTL3h3ZekXU79TMGNrj",
   "playlistUrl": "https://open.spotify.com/playlist/2BymTL3h3ZekXU79TMGNrj",
-  "ledgerCommit": "1e19d21c63034f04bb95c746e5a4dd6349a0a1bf",
+  "ledgerCommit": "0c4c0e2dcb0a844a0ec47a3ef074b7764bfc04e0",
   "ledgerTrackCount": 12,
   "spotifyTrackCount": 12,
-  "metadataVerified": false,
+  "metadataVerified": true,
   "metadataChecks": {
     "nameMatch": true,
     "descriptionMatch": true,
-    "privacyMatch": false
+    "privacyMatch": true
   },
   "coverConfigured": true,
   "coverUploaded": true,
   "coverPresent": true,
-  "verifiedAt": "2026-07-18T08:36:57.244Z",
-  "snapshotId": "AAAAC/gTs5d53ZDT9RGBh2BGJ1VzIaBq",
-  "error": "Spotify read-back did not exactly match ledger, metadata, or cover state."
+  "verifiedAt": "2026-07-18T08:37:33.421Z",
+  "snapshotId": "AAAADOzCp3zR+oDVKfLcuRNULxM5F/wr",
+  "error": null
 }
