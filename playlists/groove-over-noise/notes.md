@@ -53,9 +53,9 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical trajectory is now **134 → 136 → 138 → 141 → 145 → 142 → 139 → 137 → 134 → 130 → 128 → 125**. **Altinbas, Cirkle — Enlightenment** repairs the former 142 → 137 release drop through 142 → 139 → 137, while **Claudio PRC — Haidou** repairs the former 130 → 125 closing drop through 130 → 128 → 125.
+The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
 
-Every adjacent BPM difference is now within the 0–4 BPM target. The playlist remains one coherent completed first wave with **Two Glasses of Whisky** as its local crest; no dominant summit has yet been established for the future long-form journey.
+The playlist now contains two distinct waves. **Two Glasses of Whisky** remains the first local crest. **Atlantica Night Ride — GLIA Remix** creates re-entry from the 139 BPM post-crest plateau, and **Tragoidia** becomes a deeper second crest at 141 BPM before **Bionic Jungle → Minimum** releases the chapter into the preserved final decompression.
 
 ## Current chapter map
 
@@ -64,19 +64,21 @@ Every adjacent BPM difference is now within the 0–4 BPM target. The playlist r
 3. **Opening pulse bridge:** Ottagone 001
 4. **Percussive rise:** Cachoeira
 5. **First local crest:** Two Glasses of Whisky
-6. **Partial release:** Trail Of
-7. **Post-crest pulse bridge:** Enlightenment
-8. **Density release:** Bionic Jungle
-9. **Pulse-continuity release:** Minimum
-10. **Focused decompression:** Eclipse
-11. **Deep decompression bridge:** Haidou
-12. **Dissolution:** Calipso
+6. **First partial release:** Trail Of
+7. **Post-crest bridge:** Enlightenment
+8. **Second-wave re-entry:** Atlantica Night Ride — GLIA Remix
+9. **Deeper second crest:** Tragoidia
+10. **Second-wave release:** Bionic Jungle
+11. **Release bridge:** Minimum
+12. **Focused decompression:** Eclipse
+13. **Deep decompression bridge:** Haidou
+14. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-The next run must develop a genuine re-entry chapter before **Minimum → Eclipse**, preserving **Eclipse → Haidou → Calipso** as the final decompression and dissolution. The new chapter must begin above the opening baseline, reveal a new rhythmic, spatial, textural, or psychological quality, and eventually earn a dominant summit without repeating the first wave.
+Direct-listen **Enlightenment → Atlantica Night Ride → Tragoidia → Bionic Jungle** under normal ordered playback. The next growth decision must either deepen the second release or begin a third chapter before **Eclipse**, without repeating either existing crest or disturbing **Eclipse → Haidou → Calipso**.
 
-**Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity. **Maeksll — Tragoidia** remains a future second-wave candidate and must be compared against non-Maeksll options so the deeper crest introduces a genuinely new form of pressure.
+**Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity.
 
 ## Output discipline
 
