@@ -2,11 +2,30 @@ import process from 'node:process';
 
 const AUTHORIZE_URL = 'https://accounts.spotify.com/authorize';
 const TOKEN_URL = 'https://accounts.spotify.com/api/token';
+
+// Request every current standard Spotify user scope available to a normal
+// Web API application. Partner-only Open Access scopes are intentionally excluded.
 const SCOPES = [
+  'ugc-image-upload',
+  'user-read-playback-state',
+  'user-modify-playback-state',
+  'user-read-currently-playing',
+  'app-remote-control',
+  'streaming',
   'playlist-read-private',
+  'playlist-read-collaborative',
   'playlist-modify-private',
   'playlist-modify-public',
-  'ugc-image-upload',
+  'user-follow-modify',
+  'user-follow-read',
+  'user-read-playback-position',
+  'user-top-read',
+  'user-read-recently-played',
+  'user-library-modify',
+  'user-library-read',
+  'user-read-email',
+  'user-read-private',
+  'user-personalized',
 ];
 
 function option(name, fallback = null) {
