@@ -1,15 +1,15 @@
 {
-  "status": "FAILED",
-  "playlistId": null,
-  "playlistUrl": null,
-  "ledgerCommit": "05b8dd5eb12e8fc270e749a8d581f898db1db246",
-  "ledgerTrackCount": null,
-  "spotifyTrackCount": null,
+  "status": "PARTIAL",
+  "playlistId": "2BymTL3h3ZekXU79TMGNrj",
+  "playlistUrl": "https://open.spotify.com/playlist/2BymTL3h3ZekXU79TMGNrj",
+  "ledgerCommit": "1d01443d428ea5265445a267603f9eb5b0186f24",
+  "ledgerTrackCount": 12,
+  "spotifyTrackCount": 12,
   "metadataVerified": false,
-  "coverConfigured": null,
-  "coverUploaded": false,
-  "coverPresent": false,
-  "verifiedAt": "2026-07-18T07:59:31.335Z",
-  "snapshotId": null,
-  "error": "Spotify API PUT /playlists/2BymTL3h3ZekXU79TMGNrj/images failed (403): {\"error\":{\"status\":403,\"message\":\"Insufficient client scope\"}}"
+  "coverConfigured": true,
+  "coverUploaded": true,
+  "coverPresent": true,
+  "verifiedAt": "2026-07-18T08:35:21.982Z",
+  "snapshotId": "AAAACr9qmuxzAQd/lFA1C04t/i5RFsdZ",
+  "error": "Spotify read-back did not exactly match ledger, metadata, or cover state."
 }
