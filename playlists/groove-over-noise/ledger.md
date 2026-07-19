@@ -16,16 +16,17 @@
 | 8 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride - GLIA Remix | spotify:track:1uzQ282FuyyakQnpoRbVN3 | 140 | ADD | Second-wave re-entry | 2026-07-18 |
 | 9 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
 | 10 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
-| 11 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Pulse-continuity release bridge | 2026-07-16 |
-| 12 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 13 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
-| 14 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 11 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
+| 12 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Pulse-continuity release bridge | 2026-07-16 |
+| 13 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 14 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
+| 15 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **Enlightenment → Atlantica Night Ride → Tragoidia** forms a 139 → 140 → 141 re-entry and deeper crest, while **Tragoidia → Bionic Jungle → Minimum** releases through 141 → 137 → 134 without collapsing.
+Every adjacent difference remains within the 0–4 BPM target. **Bionic Jungle → AB01 → Minimum** extends the second-wave release through 137 → 136 → 134 before **Eclipse → Haidou → Calipso** completes the staged final descent.
 
 ## Current journey
 
@@ -39,11 +40,12 @@ Every adjacent difference remains within the 0–4 BPM target. **Enlightenment �
 8. **Second-wave re-entry** — reopen movement from a stronger baseline.
 9. **Deeper crest** — introduce denser, more psychological pressure.
 10. **Second-wave release** — reduce force while keeping the body engaged.
-11. **Release bridge** — prepare the final decompression.
-12. **Focused decompression** — narrow the rhythmic field without breaking immersion.
-13. **Deep decompression bridge** — deepen space while preserving terminal pulse.
-14. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
+11. **Release extension** — brighten rhythmic space without resetting pressure.
+12. **Release bridge** — prepare the final decompression.
+13. **Focused decompression** — narrow the rhythmic field without breaking immersion.
+14. **Deep decompression bridge** — deepen space while preserving terminal pulse.
+15. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
 
 ## Next structural need
 
-The playlist now contains two distinct waves and remains below its future dominant summit. Future growth must either deepen the second release or begin a third chapter before **Eclipse**, without repeating the same crest shape or disturbing the final decompression.
+The second-wave release now has more breathing room while the final decompression remains intact. Future growth must earn a genuine third-wave re-entry and dominant summit before **Eclipse**, without repeating either existing crest or disturbing **Eclipse → Haidou → Calipso**.
