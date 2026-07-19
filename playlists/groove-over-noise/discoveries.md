@@ -30,6 +30,143 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-19 — Daily Run 1
+
+### ADD
+
+- **Track:** AB01
+- **Artist:** Vil
+- **Spotify:** spotify:track:0MYV5AFY0KOXA5QeJFcNCs
+- **BPM:** 136
+- **BPM source:** Beatport and Spotify-linked Mixgraph metadata.
+- **Position:** After Marcal — Bionic Jungle and before Maeksll — Minimum, as the second-wave release extension.
+- **Purpose:** Deepen the second-wave release.
+- **Reason:** Bright groove extends release without resetting accumulated pressure.
+
+### REVISIT
+
+- **Track:** Nasty Tool
+- **Artist:** Arkan
+- **Spotify:** spotify:track:4CDWLgMhxOo57uppdRR690
+- **BPM:** 138
+- **BPM source:** Beatport and Spotify-linked Mixgraph metadata.
+- **Position:** After Vil — AB01 and before Maeksll — Minimum, as a possible restrained third-wave crest.
+- **Purpose:** Test a restrained third-wave crest.
+- **Reason:** Strong groove lacks a clearly dominant summit function.
+- **What needs reassessment:** Whether its bass weight creates a genuinely new crest or only extends the existing release chapter.
+- **Reassess when:** Directly compared after AB01 and before Minimum against other 138–140 BPM summit candidates.
+
+### REJECT
+
+- **Track:** Raubtier
+- **Artist:** Arkan
+- **Spotify:** spotify:track:5tFJO56G80ICGxovcomAFs
+- **BPM:** 141
+- **BPM source:** Beatport metadata.
+- **Position:** After Vil — AB01 and before Maeksll — Minimum, as a stronger crest comparison.
+- **Purpose:** Test a forceful third-wave crest.
+- **Reason:** Its 141 BPM creates two flagged transitions without evidence.
+- **Why it weakens the identity:** It produces 136 → 141 → 134, requiring unsupported +5 and -7 BPM transitions while overstating an unearned crest.
+
+### Audit result
+
+Approved AB01 as the sole addition. It changes **Bionic Jungle → Minimum** from 137 → 134 into 137 → 136 → 134, extending the second-wave release without disturbing the final descent. Nasty Tool remains a direct-listen third-wave comparison; Raubtier was rejected for two flagged transitions and excessive crest pressure.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. Coyu — Cachoeira
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Altinbas, Cirkle — Enlightenment
+8. Kaltblume, Bipolar Disorder Rec., GLIA — Atlantica Night Ride - GLIA Remix
+9. Maeksll — Tragoidia
+10. Marcal — Bionic Jungle
+11. Vil — AB01
+12. Maeksll — Minimum
+13. Psyk — Eclipse
+14. Claudio PRC — Haidou
+15. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The second-wave release now breathes longer; the dominant summit remains unspent.
+
+---
+
+## 2026-07-18 — Daily Run 3
+
+### ADD
+
+- **Track:** Atlantica Night Ride - GLIA Remix
+- **Artist:** Kaltblume, Bipolar Disorder Rec., GLIA
+- **Spotify:** spotify:track:1uzQ282FuyyakQnpoRbVN3
+- **BPM:** 140
+- **BPM source:** Beatport and Spotify-derived metadata.
+- **Position:** After Altinbas, Cirkle — Enlightenment and before Maeksll — Tragoidia, as the second-wave re-entry.
+- **Purpose:** Begin the second-wave re-entry.
+- **Reason:** Spatial propulsion reopens movement without resetting accumulated immersion.
+
+### ADD
+
+- **Track:** Tragoidia
+- **Artist:** Maeksll
+- **Spotify:** spotify:track:0XQ53FHMmonh9WD6DWVZVb
+- **BPM:** 141
+- **BPM source:** Beatport and Spotify-derived metadata.
+- **Position:** After Atlantica Night Ride - GLIA Remix and before Marcal — Bionic Jungle, as the deeper second crest.
+- **Purpose:** Form the deeper second crest.
+- **Reason:** Denser hypnosis forms a distinct second crest.
+
+### REJECT
+
+- **Track:** Elevate
+- **Artist:** Kashpitzky
+- **Spotify:** spotify:track:0K3NQ1b6os764ICvmcWLgf
+- **BPM:** 142
+- **BPM source:** Beatport and Spotify-derived metadata.
+- **Position:** Alternative after Tragoidia as a stronger second crest.
+- **Purpose:** Test a stronger second crest.
+- **Reason:** Extra pace adds pressure without new narrative function.
+- **Why it weakens the identity:** It extends Tragoidia's crest function without introducing a distinct rhythmic, spatial, textural, or psychological chapter.
+
+### Audit result
+
+Approved Atlantica Night Ride - GLIA Remix and Tragoidia as a genuine second wave. The resulting trajectory became **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 134 → 130 → 128 → 125**, keeping every adjacent difference within 0–4 BPM while preserving the established final decompression. Elevate was rejected as functional duplication.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. Coyu — Cachoeira
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Altinbas, Cirkle — Enlightenment
+8. Kaltblume, Bipolar Disorder Rec., GLIA — Atlantica Night Ride - GLIA Remix
+9. Maeksll — Tragoidia
+10. Marcal — Bionic Jungle
+11. Maeksll — Minimum
+12. Psyk — Eclipse
+13. Claudio PRC — Haidou
+14. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The journey now contains two distinct waves without spending its summit.
+
+---
+
 ## 2026-07-18 — Daily Run 2
 
 ### ADD
