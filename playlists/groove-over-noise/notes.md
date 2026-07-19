@@ -53,9 +53,9 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
+The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
 
-The playlist now contains two distinct waves. **Two Glasses of Whisky** remains the first local crest. **Atlantica Night Ride — GLIA Remix** creates re-entry from the 139 BPM post-crest plateau, and **Tragoidia** becomes a deeper second crest at 141 BPM before **Bionic Jungle → Minimum** releases the chapter into the preserved final decompression.
+The playlist contains two distinct waves. **Two Glasses of Whisky** remains the first local crest. **Atlantica Night Ride — GLIA Remix** creates re-entry, and **Tragoidia** forms the deeper second crest. **AB01** now extends the second-wave release through a brighter groove layer before **Minimum** prepares the preserved final decompression. No dominant summit has yet been established.
 
 ## Current chapter map
 
@@ -69,14 +69,15 @@ The playlist now contains two distinct waves. **Two Glasses of Whisky** remains 
 8. **Second-wave re-entry:** Atlantica Night Ride — GLIA Remix
 9. **Deeper second crest:** Tragoidia
 10. **Second-wave release:** Bionic Jungle
-11. **Release bridge:** Minimum
-12. **Focused decompression:** Eclipse
-13. **Deep decompression bridge:** Haidou
-14. **Dissolution:** Calipso
+11. **Second-wave release extension:** AB01
+12. **Release bridge:** Minimum
+13. **Focused decompression:** Eclipse
+14. **Deep decompression bridge:** Haidou
+15. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-Direct-listen **Enlightenment → Atlantica Night Ride → Tragoidia → Bionic Jungle** under normal ordered playback. The next growth decision must either deepen the second release or begin a third chapter before **Eclipse**, without repeating either existing crest or disturbing **Eclipse → Haidou → Calipso**.
+Direct-listen **Bionic Jungle → AB01 → Minimum → Eclipse** under normal ordered playback. **Arkan — Nasty Tool** remains a possible restrained third-wave crest after AB01, but must prove a new summit function rather than merely adding bass weight. Future growth must earn a genuine third-wave re-entry and dominant summit before **Eclipse**, while preserving **Eclipse → Haidou → Calipso**.
 
 **Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity.
 
