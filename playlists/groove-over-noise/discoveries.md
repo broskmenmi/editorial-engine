@@ -30,6 +30,76 @@ This file records every editorial run. New entries are appended in reverse chron
 
 ---
 
+## 2026-07-20 — Daily Run 1
+
+### ADD
+
+- **Track:** Nasty Tool
+- **Artist:** Arkan
+- **Spotify:** spotify:track:4CDWLgMhxOo57uppdRR690
+- **BPM:** 138
+- **BPM source:** Beatport and Spotify-linked Mixgraph metadata.
+- **Position:** After Vil — AB01 and before Alarico — Iruka, as the third-wave re-entry.
+- **Purpose:** Begin the third-wave re-entry.
+- **Reason:** Bass-heavy restraint rebuilds pressure without restarting the journey.
+
+### ADD
+
+- **Track:** Iruka
+- **Artist:** Alarico
+- **Spotify:** spotify:track:3RHjzsJWvCWfrp0QCZHUA2
+- **BPM:** 141
+- **BPM source:** Spotify, SongData, and Trackify metadata.
+- **Position:** After Arkan — Nasty Tool and before Stef Mendesidis — Interlynx, as the dominant main summit.
+- **Purpose:** Establish the dominant main summit.
+- **Reason:** Raw athletic pressure exceeds every earlier crest without spectacle.
+
+### ADD
+
+- **Track:** Interlynx
+- **Artist:** Stef Mendesidis
+- **Spotify:** spotify:track:0RQAFOhBjlcD09X62GmiCS
+- **BPM:** 137
+- **BPM source:** Beatport and Spotify-linked metadata.
+- **Position:** After Alarico — Iruka and before Maeksll — Minimum, as the summit decompression entry.
+- **Purpose:** Begin the long summit decompression.
+- **Reason:** Rolling repetition releases force while preserving bodily immersion.
+
+### Audit result
+
+Approved all three additions as the smallest complete repair for the missing third wave and dominant summit. The resulting trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125**, keeping every adjacent difference within 0–4 BPM. Nasty Tool resolves its revisit uncertainty by serving as re-entry rather than summit; Iruka becomes the dominant summit through combined pressure and density; Interlynx begins the preserved staged decompression.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. Coyu — Cachoeira
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Altinbas, Cirkle — Enlightenment
+8. Kaltblume, Bipolar Disorder Rec., GLIA — Atlantica Night Ride - GLIA Remix
+9. Maeksll — Tragoidia
+10. Marcal — Bionic Jungle
+11. Vil — AB01
+12. Arkan — Nasty Tool
+13. Alarico — Iruka
+14. Stef Mendesidis — Interlynx
+15. Maeksll — Minimum
+16. Psyk — Eclipse
+17. Claudio PRC — Haidou
+18. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow. Exact status must be read from `spotify-status.json` after URI-order verification.
+
+### Editorial note
+
+The third wave now earns one summit before a five-stage dissolution.
+
+---
+
 ## 2026-07-19 — Daily Run 1
 
 ### ADD
