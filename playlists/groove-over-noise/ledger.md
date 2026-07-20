@@ -17,16 +17,19 @@
 | 9 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
 | 10 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
 | 11 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
-| 12 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Pulse-continuity release bridge | 2026-07-16 |
-| 13 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 14 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
-| 15 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 12 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
+| 13 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
+| 14 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression entry | 2026-07-20 |
+| 15 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
+| 16 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 17 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
+| 18 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **Bionic Jungle → AB01 → Minimum** extends the second-wave release through 137 → 136 → 134 before **Eclipse → Haidou → Calipso** completes the staged final descent.
+Every adjacent difference remains within the 0–4 BPM target. **AB01 → Nasty Tool → Iruka** creates a controlled third-wave rise through 136 → 138 → 141, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** completes a progressive 137 → 134 → 130 → 128 → 125 decompression.
 
 ## Current journey
 
@@ -34,18 +37,21 @@ Every adjacent difference remains within the 0–4 BPM target. **Bionic Jungle �
 2. **Grounded groove** — reinforce bodily movement before explicit escalation.
 3. **Opening pulse bridge** — tighten momentum without spending the crest.
 4. **Percussive rise** — increase motion without a dramatic reset.
-5. **First local crest** — establish physical weight without spending the future summit.
+5. **First local crest** — establish physical weight without spending the summit.
 6. **First partial release** — reduce pressure without returning to zero.
 7. **Post-crest bridge** — preserve accumulated immersion.
 8. **Second-wave re-entry** — reopen movement from a stronger baseline.
-9. **Deeper crest** — introduce denser, more psychological pressure.
+9. **Deeper second crest** — introduce denser psychological pressure.
 10. **Second-wave release** — reduce force while keeping the body engaged.
 11. **Release extension** — brighten rhythmic space without resetting pressure.
-12. **Release bridge** — prepare the final decompression.
-13. **Focused decompression** — narrow the rhythmic field without breaking immersion.
-14. **Deep decompression bridge** — deepen space while preserving terminal pulse.
-15. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
+12. **Third-wave re-entry** — rebuild pressure through bass-heavy restraint.
+13. **Dominant main summit** — concentrate the journey's strongest sustained pressure.
+14. **Summit decompression entry** — release force through rolling repetition.
+15. **Decompression pulse bridge** — continue descending without losing bodily trust.
+16. **Focused decompression** — narrow the rhythmic field without breaking immersion.
+17. **Deep decompression bridge** — deepen space while preserving terminal pulse.
+18. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
 
 ## Next structural need
 
-The second-wave release now has more breathing room while the final decompression remains intact. Future growth must earn a genuine third-wave re-entry and dominant summit before **Eclipse**, without repeating either existing crest or disturbing **Eclipse → Haidou → Calipso**.
+Direct-listen **AB01 → Nasty Tool → Iruka → Interlynx → Minimum** under normal ordered playback. Future growth should pause until listening evidence confirms that **Iruka** dominates the earlier crests without spectacle and that **Interlynx** begins a genuine long decompression.
