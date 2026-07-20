@@ -53,9 +53,9 @@ These are editorial guides rather than mechanical quotas.
 
 ## Current assessment
 
-The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
+The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
 
-The playlist contains two distinct waves. **Two Glasses of Whisky** remains the first local crest. **Atlantica Night Ride — GLIA Remix** creates re-entry, and **Tragoidia** forms the deeper second crest. **AB01** now extends the second-wave release through a brighter groove layer before **Minimum** prepares the preserved final decompression. No dominant summit has yet been established.
+The playlist now contains three distinguishable waves. **Two Glasses of Whisky** is the first local crest, **Tragoidia** is the deeper psychological crest, and **Iruka** is the dominant summit through its combined density, sustained pressure, and attention demand rather than its BPM alone. **Nasty Tool** creates restrained third-wave re-entry, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** forms the long staged decompression and dissolution.
 
 ## Current chapter map
 
@@ -70,14 +70,17 @@ The playlist contains two distinct waves. **Two Glasses of Whisky** remains the 
 9. **Deeper second crest:** Tragoidia
 10. **Second-wave release:** Bionic Jungle
 11. **Second-wave release extension:** AB01
-12. **Release bridge:** Minimum
-13. **Focused decompression:** Eclipse
-14. **Deep decompression bridge:** Haidou
-15. **Dissolution:** Calipso
+12. **Third-wave re-entry:** Nasty Tool
+13. **Dominant main summit:** Iruka
+14. **Summit decompression entry:** Interlynx
+15. **Decompression pulse bridge:** Minimum
+16. **Focused decompression:** Eclipse
+17. **Deep decompression bridge:** Haidou
+18. **Dissolution:** Calipso
 
 ## Next listening and growth priority
 
-Direct-listen **Bionic Jungle → AB01 → Minimum → Eclipse** under normal ordered playback. **Arkan — Nasty Tool** remains a possible restrained third-wave crest after AB01, but must prove a new summit function rather than merely adding bass weight. Future growth must earn a genuine third-wave re-entry and dominant summit before **Eclipse**, while preserving **Eclipse → Haidou → Calipso**.
+Direct-listen **AB01 → Nasty Tool → Iruka → Interlynx → Minimum** under normal ordered playback. Confirm that **Nasty Tool** feels like continuation rather than restart, **Iruka** clearly dominates both earlier crests without spectacle, and **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence identifies a specific defect or confirms the summit architecture.
 
 **Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity.
 
