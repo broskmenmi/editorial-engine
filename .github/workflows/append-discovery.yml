@@ -1,0 +1,63 @@
+name: Append editorial discovery record
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "playlists/**/pending-discovery.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discovery-log-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  append:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepend pending discovery record
+        shell: bash
+        run: |
+          set -euo pipefail
+          pending="playlists/groove-over-noise/pending-discovery.md"
+          log="playlists/groove-over-noise/discoveries.md"
+          if [ ! -f "$pending" ]; then
+            exit 0
+          fi
+          python - <<'PY'
+          from pathlib import Path
+
+          pending = Path("playlists/groove-over-noise/pending-discovery.md")
+          log = Path("playlists/groove-over-noise/discoveries.md")
+          entry = pending.read_text(encoding="utf-8").strip() + "\n\n---\n\n"
+          current = log.read_text(encoding="utf-8")
+          marker = "---\n\n"
+          index = current.find(marker)
+          if index < 0:
+              raise SystemExit("Discovery log header separator not found")
+          insert_at = index + len(marker)
+          log.write_text(current[:insert_at] + entry + current[insert_at:], encoding="utf-8")
+          pending.unlink()
+          PY
+
+      - name: Commit discovery record
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            exit 0
+          fi
+          git config user.name "editorial-engine[bot]"
+          git config user.email "editorial-engine[bot]@users.noreply.github.com"
+          git add playlists/groove-over-noise/discoveries.md playlists/groove-over-noise/pending-discovery.md
+          git commit -m "Append editorial discovery record [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
