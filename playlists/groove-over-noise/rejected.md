@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Stef Mendesidis | License To Fly | At 145 BPM as an Iruka replacement, it produces 138 → 145 → 137, including a prohibited -8 BPM drop into Interlynx while defining the summit through pace rather than earned pressure. | 2026-07-21 |
+| Rene Wise, Vault Records | Black Hawk | At 134 BPM after Interlynx, it duplicates Minimum's decompression bridge function and adds no new stage to the long descent. | 2026-07-21 |
 | Arkan | Raubtier | At 141 BPM between AB01 and Minimum it creates +5 and -7 BPM transitions without direct pulse-continuity evidence. | 2026-07-19 |
 | Kashpitzky | Elevate | At 142 BPM it extends the second crest without introducing a distinct rhythmic or psychological function beyond Tragoidia. | 2026-07-18 |
 | Claudio PRC, Luigi Tozzi | Lyra I | At 128 BPM it repairs the closing transition numerically, but its long driving form duplicates Haidou's bridge function and foregrounds Calipso's artist identity instead of dissolving. | 2026-07-18 |
