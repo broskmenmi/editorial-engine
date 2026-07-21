@@ -55,7 +55,7 @@ These are editorial guides rather than mechanical quotas.
 
 The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
 
-The playlist now contains three distinguishable waves. **Two Glasses of Whisky** is the first local crest, **Tragoidia** is the deeper psychological crest, and **Iruka** is the dominant summit through its combined density, sustained pressure, and attention demand rather than its BPM alone. **Nasty Tool** creates restrained third-wave re-entry, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** forms the long staged decompression and dissolution.
+The playlist contains three distinguishable waves. **Two Glasses of Whisky** is the first local crest, **Tragoidia** is the deeper psychological crest, and **Iruka** is provisionally the dominant summit through combined density, sustained pressure, and attention demand rather than BPM alone. **Nasty Tool** creates restrained third-wave re-entry, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** forms the staged decompression and dissolution.
 
 ## Current chapter map
 
@@ -78,11 +78,15 @@ The playlist now contains three distinguishable waves. **Two Glasses of Whisky**
 17. **Deep decompression bridge:** Haidou
 18. **Dissolution:** Calipso
 
+## Latest audit outcome
+
+No addition was approved. **Kingpin** remains a direct comparison for Nasty Tool at the same 138 BPM, but may create an extra crest rather than prepare Iruka. **License To Fly** was rejected as a summit replacement because 138 → 145 → 137 contains a prohibited -8 BPM drop. **Black Hawk** was rejected as functional duplication of Minimum at 134 BPM.
+
 ## Next listening and growth priority
 
 Direct-listen **AB01 → Nasty Tool → Iruka → Interlynx → Minimum** under normal ordered playback. Confirm that **Nasty Tool** feels like continuation rather than restart, **Iruka** clearly dominates both earlier crests without spectacle, and **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence identifies a specific defect or confirms the summit architecture.
 
-**Vinicius Honorio, Ricardo Garduno — Kingpin** remains an opening comparison candidate, but must beat Ottagone 001 on restraint as well as pulse continuity.
+Compare **Kingpin** directly against **Nasty Tool** after AB01 and before Iruka. Promote it only if its heavier pressure strengthens re-entry while making Iruka feel more dominant rather than less.
 
 ## Output discipline
 
