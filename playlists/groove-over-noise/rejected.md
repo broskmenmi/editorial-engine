@@ -12,6 +12,7 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Arkan | Attraction | At 135 BPM replacing Nasty Tool, it produces 136 → 135 → 141: the third wave descends before an unsupported +6 BPM rebound into Iruka, weakening summit preparation. | 2026-07-22 |
 | Stef Mendesidis | License To Fly | At 145 BPM as an Iruka replacement, it produces 138 → 145 → 137, including a prohibited -8 BPM drop into Interlynx while defining the summit through pace rather than earned pressure. | 2026-07-21 |
 | Rene Wise, Vault Records | Black Hawk | At 134 BPM after Interlynx, it duplicates Minimum's decompression bridge function and adds no new stage to the long descent. | 2026-07-21 |
 | Arkan | Raubtier | At 141 BPM between AB01 and Minimum it creates +5 and -7 BPM transitions without direct pulse-continuity evidence. | 2026-07-19 |
