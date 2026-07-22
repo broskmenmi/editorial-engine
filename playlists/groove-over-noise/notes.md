@@ -80,13 +80,13 @@ The playlist contains three distinguishable waves. **Two Glasses of Whisky** is 
 
 ## Latest audit outcome
 
-No addition was approved. **Kingpin** remains a direct comparison for Nasty Tool at the same 138 BPM, but may create an extra crest rather than prepare Iruka. **License To Fly** was rejected as a summit replacement because 138 → 145 → 137 contains a prohibited -8 BPM drop. **Black Hawk** was rejected as functional duplication of Minimum at 134 BPM.
+No addition was approved. **Kingpin** remains a 138 BPM replacement comparison for Nasty Tool, while **Up & Down** enters the revisit queue as a 139 BPM alternative whose unresolved, haunting propulsion may prepare Iruka more cleanly. **Attraction** was rejected because 136 → 135 → 141 creates an unsupported +6 BPM rebound into the summit.
 
 ## Next listening and growth priority
 
-Direct-listen **AB01 → Nasty Tool → Iruka → Interlynx → Minimum** under normal ordered playback. Confirm that **Nasty Tool** feels like continuation rather than restart, **Iruka** clearly dominates both earlier crests without spectacle, and **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence identifies a specific defect or confirms the summit architecture.
+Direct-listen **AB01 → Nasty Tool / Kingpin / Up & Down → Iruka → Interlynx → Minimum** under normal ordered playback. Confirm that the chosen re-entry feels like continuation rather than restart, that **Iruka** clearly dominates both earlier crests without spectacle, and that **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence selects the third-wave re-entry or identifies a specific defect.
 
-Compare **Kingpin** directly against **Nasty Tool** after AB01 and before Iruka. Promote it only if its heavier pressure strengthens re-entry while making Iruka feel more dominant rather than less.
+Promote **Kingpin** only if its heavier pressure makes Iruka feel more dominant. Promote **Up & Down** only if its unresolved tension remains bodily engaging and sharpens the summit without softening the re-entry.
 
 ## Output discipline
 
