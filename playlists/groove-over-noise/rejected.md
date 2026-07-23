@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride - GLIA Remix | Although its 140 BPM placement is numerically smooth, the user experiences too much happening, stress while it plays, and relief when it ends; it therefore fails restraint and immersion as second-wave re-entry. | 2026-07-23 |
+| Arthur Robert | Conformal Invariance | At 140 BPM it fits numerically, but its spacious flow continues the preceding release instead of clearly bringing movement back before Tragoidia. | 2026-07-23 |
 | Arkan | Attraction | At 135 BPM replacing Nasty Tool, it produces 136 → 135 → 141: the third wave descends before an unsupported +6 BPM rebound into Iruka, weakening summit preparation. | 2026-07-22 |
 | Stef Mendesidis | License To Fly | At 145 BPM as an Iruka replacement, it produces 138 → 145 → 137, including a prohibited -8 BPM drop into Interlynx while defining the summit through pace rather than earned pressure. | 2026-07-21 |
 | Rene Wise, Vault Records | Black Hawk | At 134 BPM after Interlynx, it duplicates Minimum's decompression bridge function and adds no new stage to the long descent. | 2026-07-21 |
