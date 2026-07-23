@@ -13,7 +13,7 @@
 | 5 | Maeksll | Two Glasses of Whisky | spotify:track:1xbqhGI3Xgntoy56FA91D4 | 145 | ADD | First local crest | 2026-07-16 |
 | 6 | Altinbas | Trail Of | spotify:track:1BLpNBx8502KRE2TommLp6 | 142 | ADD | First partial release | 2026-07-16 |
 | 7 | Altinbas, Cirkle | Enlightenment | spotify:track:1LwX0cMaE8susTOodWCMAy | 139 | ADD | Post-crest pulse bridge | 2026-07-18 |
-| 8 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride - GLIA Remix | spotify:track:1uzQ282FuyyakQnpoRbVN3 | 140 | ADD | Second-wave re-entry | 2026-07-18 |
+| 8 | Jancen | F Track | spotify:track:5nfyNPgR6kxvdFQ66PIeEB | 140 | ADD | Second-wave re-entry | 2026-07-23 |
 | 9 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
 | 10 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
 | 11 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
@@ -29,7 +29,7 @@
 
 `134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **AB01 → Nasty Tool → Iruka** creates a controlled third-wave rise through 136 → 138 → 141, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** completes a progressive 137 → 134 → 130 → 128 → 125 decompression.
+Every adjacent difference remains within the 0–4 BPM target. **Enlightenment → F Track → Tragoidia** preserves the second-wave return as 139 → 140 → 141 without the stressful busyness reported in Atlantica, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** completes a progressive 137 → 134 → 130 → 128 → 125 decompression.
 
 ## Current journey
 
@@ -40,7 +40,7 @@ Every adjacent difference remains within the 0–4 BPM target. **AB01 → Nasty 
 5. **First local crest** — establish physical weight without spending the summit.
 6. **First partial release** — reduce pressure without returning to zero.
 7. **Post-crest bridge** — preserve accumulated immersion.
-8. **Second-wave re-entry** — reopen movement from a stronger baseline.
+8. **Second-wave re-entry** — return movement through steady dubby groove.
 9. **Deeper second crest** — introduce denser psychological pressure.
 10. **Second-wave release** — reduce force while keeping the body engaged.
 11. **Release extension** — brighten rhythmic space without resetting pressure.
@@ -54,4 +54,4 @@ Every adjacent difference remains within the 0–4 BPM target. **AB01 → Nasty 
 
 ## Next structural need
 
-Direct-listen **AB01 → Nasty Tool → Iruka → Interlynx → Minimum** under normal ordered playback. Future growth should pause until listening evidence confirms that **Iruka** dominates the earlier crests without spectacle and that **Interlynx** begins a genuine long decompression.
+Direct-listen **Enlightenment → F Track → Tragoidia** under normal ordered playback and confirm that movement returns without stress. Future growth remains paused until this repair is confirmed and **AB01 → Nasty Tool / Kingpin / Up & Down → Iruka → Interlynx → Minimum** selects the strongest third-wave re-entry without weakening the summit.
