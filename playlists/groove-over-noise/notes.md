@@ -55,7 +55,9 @@ These are editorial guides rather than mechanical quotas.
 
 The canonical trajectory is **134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 137 → 134 → 130 → 128 → 125**. Every adjacent transition remains within the 0–4 BPM target.
 
-The playlist contains three distinguishable waves. **Two Glasses of Whisky** is the first local crest, **Tragoidia** is the deeper psychological crest, and **Iruka** is provisionally the dominant summit through combined density, sustained pressure, and attention demand rather than BPM alone. **Nasty Tool** creates restrained third-wave re-entry, while **Interlynx → Minimum → Eclipse → Haidou → Calipso** forms the staged decompression and dissolution.
+The playlist contains three distinguishable waves. **Two Glasses of Whisky** is the first local crest, **Tragoidia** is the deeper psychological crest, and **Iruka** is provisionally the dominant summit through combined density, sustained pressure, and attention demand rather than BPM alone. **F Track** now creates the second-wave re-entry through a steadier dubby groove, **Nasty Tool** creates restrained third-wave re-entry, and **Interlynx → Minimum → Eclipse → Haidou → Calipso** forms the staged decompression and dissolution.
+
+The previous re-entry, **Atlantica Night Ride — GLIA Remix**, was reopened after direct user feedback: too much happens at once, it causes stress, and its ending creates relief. Its smooth BPM placement did not compensate for the failed listening experience.
 
 ## Current chapter map
 
@@ -66,7 +68,7 @@ The playlist contains three distinguishable waves. **Two Glasses of Whisky** is 
 5. **First local crest:** Two Glasses of Whisky
 6. **First partial release:** Trail Of
 7. **Post-crest bridge:** Enlightenment
-8. **Second-wave re-entry:** Atlantica Night Ride — GLIA Remix
+8. **Second-wave re-entry:** F Track
 9. **Deeper second crest:** Tragoidia
 10. **Second-wave release:** Bionic Jungle
 11. **Second-wave release extension:** AB01
@@ -80,13 +82,15 @@ The playlist contains three distinguishable waves. **Two Glasses of Whisky** is 
 
 ## Latest audit outcome
 
-No addition was approved. **Kingpin** remains a 138 BPM replacement comparison for Nasty Tool, while **Up & Down** enters the revisit queue as a 139 BPM alternative whose unresolved, haunting propulsion may prepare Iruka more cleanly. **Attraction** was rejected because 136 → 135 → 141 creates an unsupported +6 BPM rebound into the summit.
+**Jancen — F Track** replaces Atlantica as the smallest second-wave repair. Its verified 140 BPM preserves **Enlightenment → re-entry → Tragoidia** as 139 → 140 → 141 while reducing the amount of competing activity. **Arthur Robert — Antimatter** remains a deeper comparison that may soften re-entry too much. **Arthur Robert — Conformal Invariance** is rejected because it continues release instead of clearly bringing movement back.
 
 ## Next listening and growth priority
 
-Direct-listen **AB01 → Nasty Tool / Kingpin / Up & Down → Iruka → Interlynx → Minimum** under normal ordered playback. Confirm that the chosen re-entry feels like continuation rather than restart, that **Iruka** clearly dominates both earlier crests without spectacle, and that **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence selects the third-wave re-entry or identifies a specific defect.
+Direct-listen **Enlightenment → F Track → Tragoidia** under normal ordered playback. Confirm that movement returns without stress, that F Track makes Tragoidia feel prepared rather than abrupt, and that relief comes from the chapter change rather than from escaping the track.
 
-Promote **Kingpin** only if its heavier pressure makes Iruka feel more dominant. Promote **Up & Down** only if its unresolved tension remains bodily engaging and sharpens the summit without softening the re-entry.
+After that repair is confirmed, return to **AB01 → Nasty Tool / Kingpin / Up & Down → Iruka → Interlynx → Minimum**. Confirm that the chosen third-wave re-entry feels like continuation rather than restart, that **Iruka** clearly dominates both earlier crests without spectacle, and that **Interlynx** releases pressure rather than creating another equal peak. Preserve **Eclipse → Haidou → Calipso** unchanged. Do not expand further until listening evidence confirms the repaired second-wave re-entry and selects the third-wave re-entry.
+
+Promote **Antimatter** only if it brings movement back as clearly as F Track with even less stress. Promote **Kingpin** only if its heavier pressure makes Iruka feel more dominant. Promote **Up & Down** only if its unresolved tension remains bodily engaging and sharpens the summit without softening the re-entry.
 
 ## Output discipline
 
