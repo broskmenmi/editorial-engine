@@ -27,6 +27,7 @@ Each playlist has its own directory under `playlists/<playlist-slug>/` containin
 - `discoveries.md`
 - `rejected.md`
 - `revisit.md`
+- `under-review.md`
 - `notes.md`
 - `automation.md`
 - `spotify.json`
@@ -35,6 +36,19 @@ Each playlist has its own directory under `playlists/<playlist-slug>/` containin
 These Markdown paths are the canonical ChatGPT instruction and editorial-state paths. Do not relocate them when adding runtime applications or automation.
 
 The playlist directory is persistent editorial state. The skill packages are generic and must operate on the target playlist directory supplied by the orchestrator.
+
+`revisit.md` is for candidates not yet admitted. `under-review.md` is for tracks already in the canonical ledger whose continued place or position is unresolved.
+
+## Evidence discipline
+
+Every substantive editorial claim must be understood as one of four kinds:
+
+1. **Measured evidence** — BPM, duration, track identity, position, or later lawful audio measurements.
+2. **Craft convention** — useful sequencing practice, not a universal musical law.
+3. **Listener report** — the user's actual experience; highest authority for a personal playlist.
+4. **Editorial interpretation** — chapter, crest, summit, re-entry, decompression, and similar role labels; useful hypotheses rather than facts.
+
+Never imply that Spotify access allows the agent to hear or analyse raw Spotify audio. Never infer busyness, stress, spaciousness, hypnosis, or emotional effect from BPM, artist, genre, title, or metadata alone.
 
 ## Required order
 
