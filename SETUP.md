@@ -33,12 +33,13 @@ playlists/<playlist-slug>/
 
 Required files:
 
-- `constitution.md` — editorial identity and acceptance criteria.
+- `constitution.md` — editorial identity, evidence rules, and acceptance criteria.
 - `ledger.md` — canonical ordered track list with exact Spotify URIs.
 - `discoveries.md` — append-only run history.
 - `rejected.md` — rejected candidates and reasons.
-- `revisit.md` — unresolved candidates.
-- `notes.md` — current structural diagnosis and scouting priority.
+- `revisit.md` — unresolved candidates outside the ledger.
+- `under-review.md` — accepted tracks whose continued place or position is unresolved.
+- `notes.md` — current structural diagnosis, evidence status, and scouting priority.
 - `automation.md` — playlist-specific orchestration.
 - `spotify.json` — canonical Spotify playlist identity.
 - `spotify-status.json` — latest exact publication verification.
@@ -89,11 +90,14 @@ The publisher:
 2. uses the persisted playlist ID in `spotify.json`;
 3. creates one empty playlist only if the stored playlist is absent or was deleted;
 4. replaces the complete playlist item list;
-5. reads the playlist back;
-6. writes `spotify-status.json`;
-7. reports COMPLETE only when every URI and position match.
+5. updates configured metadata and cover art;
+6. reads the playlist back;
+7. writes `spotify-status.json`;
+8. reports COMPLETE only when the configured state matches.
 
 It never searches Spotify by playlist name and never invokes generative playlist creation.
+
+Spotify access does not provide raw audio or lawful waveform analysis to this repository. Any future audio-analysis feature must use audio the user lawfully owns or has permission to process; it must never capture or transfer Spotify streams.
 
 ## 6. Create the recurring ChatGPT task
 
@@ -111,6 +115,8 @@ The task must:
 - read the target playlist's `automation.md`;
 - load skills from `.agents/skills/*/SKILL.md`;
 - treat GitHub as the source of truth;
+- read `under-review.md` before unrelated expansion;
+- distinguish measured evidence, craft convention, listener report, and editorial interpretation;
 - update persistent state only after audit approval;
 - never use ChatGPT's Spotify connector for publication;
 - read `spotify-status.json` for publication status.
@@ -127,6 +133,6 @@ After both GitHub Actions secrets exist:
 
 ## Portability boundary
 
-The repository preserves skills, playlist constitutions, ledgers, history, orchestration instructions, publisher code, and playlist identity.
+The repository preserves skills, playlist constitutions, ledgers, history, accepted-track review state, orchestration instructions, publisher code, and playlist identity.
 
 It does not preserve another user's ChatGPT task, connector authorization, Spotify refresh token, timezone, or notification preferences.
