@@ -12,6 +12,8 @@ Groove is sustained movement.
 
 Noise is anything that interrupts it.
 
+Noise can be loudness or aggression, but it can also be unnecessary complexity, too many things competing for attention, or a track that makes the listener wait for relief instead of wanting the movement to continue.
+
 When selecting music, prefer rhythm over impact.
 
 Prefer progression over spectacle.
@@ -52,6 +54,55 @@ Artists are reference points, not limitations.
 
 The philosophy matters more than the names.
 
+## Evidence and authority
+
+Editorial decisions must distinguish four kinds of evidence:
+
+1. **Measured evidence** — BPM, duration, track identity, sequence position, and any later lawful audio measurements. Measurements describe; they do not decide.
+2. **Craft convention** — sequencing practices learned from DJ sets, mixes, albums, radio, and research. These are useful guides, not universal laws.
+3. **Listener report** — what the user actually experiences: calm, stress, boredom, absorption, restlessness, relief, wanting more, or wanting the track to end. For this personal playlist, listener report has final authority.
+4. **Editorial interpretation** — labels such as arrival, re-entry, local crest, summit, decompression, and dissolution. These are working hypotheses that explain the intended job of a track; they are not objective facts.
+
+A smooth BPM transition does not prove a smooth listening experience.
+
+A track may be numerically compatible and still feel too busy, stressful, empty, disconnected, or like a new playlist has started.
+
+Do not claim to have heard or analysed a Spotify track when only metadata was available. Do not infer that a track is hypnotic, spacious, crowded, steady, or stressful from BPM, title, genre, artist, label, or reputation alone.
+
+When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis and use **REVISIT** for important unresolved roles.
+
+## GROOVE OVER NOISE house style
+
+The playlist's preferred long-form shape is **multiple waves with one dominant summit, followed by staged decompression and dissolution**.
+
+This is the chosen GROOVE OVER NOISE narrative style. It is not presented as a universal rule for techno or playlist sequencing.
+
+The house style should support, not override, the actual listening experience.
+
+## Accepted tracks can be reopened
+
+An ADD decision is not permanent.
+
+When the user questions an accepted track, place it **UNDER REVIEW** while it remains in the ledger. Preserve the user's exact words, explain the track's intended role, and resolve the review as KEEP, MOVE, REPLACE, or REMOVE.
+
+Feeling relieved because a track has ended is strong evidence that the track or its placement may be creating the wrong kind of tension. It should open a focused review, not trigger an automatic deletion without discussion.
+
+## Plain-language rule
+
+User-facing explanations must use words that create a clear picture.
+
+Prefer:
+- too much is happening at once;
+- several sounds pull attention in different directions;
+- the beat feels steady;
+- the track changes too often;
+- it gives the listener room;
+- it feels like the journey starts over;
+- the listener wants it to continue;
+- the listener is waiting for it to end.
+
+Use specialist terms only when they genuinely help, and explain them immediately in plain English.
+
 ## Reject tracks that rely primarily on
 
 - spectacle
@@ -62,6 +113,7 @@ The philosophy matters more than the names.
 - unnecessary complexity
 - aggression without purpose
 - novelty without longevity
+- competing details that repeatedly pull attention away from the groove
 
 ## Accept tracks that
 
@@ -70,6 +122,7 @@ The philosophy matters more than the names.
 - strengthen the identity even when unfamiliar
 - create continuity instead of isolated moments
 - increase immersion without demanding attention
+- deepen, change, or prepare the listener's state without merely occupying time
 
 Every addition should make the playlist more recognisable, not merely more varied.
 
