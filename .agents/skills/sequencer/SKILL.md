@@ -1,22 +1,38 @@
 ---
 name: sequencer
-description: Place accepted tracks into a canonical ordered listening journey using concrete ledger anchors, structural roles, verified pulse continuity, and long-form wave hierarchy. Use after evaluation.
+description: Place accepted tracks into a canonical ordered listening journey using concrete ledger anchors, structural roles, verified pulse continuity, attention continuity, and the GROOVE OVER NOISE long-form house style. Use after evaluation.
 ---
 
 # Sequencer
 
 ## Principles
 - Optimize for ordered listening, not live beatmatching.
-- BPM does not determine artistic value, but adjacent pulse continuity is mandatory.
+- BPM does not determine artistic value. It screens pulse compatibility but does not prove a transition works.
 - Preserve long-form movement through chapters rather than one endless climb.
 - Increase density before intensity.
-- Avoid abrupt resets, redundant peaks, tempo sawtoothing, and clusters of similar artists or textures.
+- Avoid abrupt resets, redundant peaks, accidental tempo sawtoothing, and clusters of similar artists or textures.
 - Do not assume Spotify Mix, crossfade, or tempo correction will repair a weak sequence.
+- Distinguish **bodily continuity** from **attention continuity**. A transition may keep a similar tempo while suddenly asking the listener to follow too many things.
+- Use listener evidence to overrule an elegant-looking sequence on paper.
+
+## Evidence discipline
+
+For each placement, state internally:
+
+- **Measured evidence:** BPM, duration, exact order, and neighbour differences.
+- **Craft convention:** why the transition is plausible as sequencing practice.
+- **Listener report:** any direct reaction relevant to the placement.
+- **Editorial interpretation:** the intended chapter role and predicted effect.
+
+Do not describe a track as busy, hypnotic, spacious, steady, stressful, or emotionally powerful unless that description comes from direct listening, lawful audio evidence, or a clearly attributed source. Otherwise call it a hypothesis.
 
 ## Long-form story architecture
-A compact playlist may use one rise and one descent. As duration grows, sequence it as multiple waves with one dominant summit:
 
-1. **Arrival** — space, patience, low information density.
+The following is the GROOVE OVER NOISE house style, not a universal techno rule.
+
+A compact playlist may use one rise and one descent. As duration grows, prefer multiple waves with one dominant summit:
+
+1. **Arrival** — space, patience, low information demand.
 2. **Groove formation** — establish bodily trust and forward motion.
 3. **Local crest** — prove physical weight without spending the main summit.
 4. **Partial release** — reduce pressure without returning to zero.
@@ -31,10 +47,11 @@ Rules:
 - Allow several local crests, but keep one summit clearly dominant.
 - Every later crest must reveal a new quality, not repeat the same build louder.
 - Partial releases must not reset the listener to the opening baseline.
-- Do not place the main summit merely where BPM is highest; judge density, pressure, attention demand, and duration.
+- Do not place the main summit merely where BPM is highest; judge pressure, attention demand, duration, and listener experience.
 - Preserve the final decompression and dissolution as the ending. New waves should normally be inserted before the final descent, not appended after it.
 - Treat the current short arc as a chapter that may be expanded or reclassified as the playlist grows.
 - Avoid identical build-and-release shapes across consecutive chapters.
+- If the planned story conflicts with the listener's actual response, redesign the story.
 
 ## Duration scaling
 Use duration as guidance, not a rigid quota:
@@ -50,23 +67,36 @@ Use duration as guidance, not a rigid quota:
 4. A difference above **7 BPM** is prohibited unless the tracks have a clear half-time/double-time equivalence or the Auditor approves an intentional reset.
 5. The opening three tracks use the strictest standard: no adjacent difference above **4 BPM** without direct listening evidence.
 6. A deliberate decompression may reduce BPM, but it should descend progressively rather than collapse in one step.
-7. Judge both numeric BPM and perceived pulse. If the tempo change remains conspicuous with normal playback or Spotify Mix, the transition is defective.
-8. Avoid repeated accidental up-down-up movement. Deliberate wave motion is valid only when chapter roles and perceived pressure support it.
+7. Avoid repeated accidental up-down-up movement. Deliberate wave motion is valid only when chapter roles and perceived pressure support it.
+8. Numeric compliance is a filter, not proof of continuity.
+
+## Attention-continuity questions
+
+For each proposed transition, ask in plain language:
+
+- Does the next track suddenly introduce many more things to follow?
+- Do several sounds begin pulling attention in different directions?
+- Does the listener settle more deeply, or become restless?
+- Does the transition feel like continuation, or like a new playlist starting?
+- Does the listener want the track to continue, or wait for it to end?
+
+When these questions cannot be answered from direct evidence, record them as placement risks rather than invented conclusions.
 
 ## Repair precedence
-- Audit the existing ledger before placing new additions.
-- When an existing transition is defective, repair it before extending the playlist.
-- Repairs may insert a bridge, replace a track, remove a track, or reorder existing tracks.
-- Choose the smallest change that restores both structural and bodily continuity.
+- Audit `under-review.md` and the existing ledger before placing new additions.
+- When an accepted track or transition is unresolved, repair it before extending the playlist.
+- Repairs may keep, move, insert a bridge, replace, remove, or reorder.
+- Choose the smallest change that restores structural, bodily, and attention continuity.
 
 ## Placement
 For each ADD combine:
 1. a concrete anchor from `ledger.md`;
 2. a structural role in its chapter and the overall journey;
-3. BPM and perceived-pulse compatibility with both neighbours; and
-4. whether it creates a local crest, partial release, re-entry, main summit, decompression, or dissolution.
+3. BPM compatibility with both neighbours;
+4. attention-continuity risk with both neighbours; and
+5. whether it creates a local crest, partial release, re-entry, main summit, decompression, or dissolution.
 
-Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest without spending the main summit.`
+Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest; exact attention demand remains a listening question.`
 
 ## Output per ADD
 - Position
@@ -75,7 +105,11 @@ Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest wi
 - Chapter and wave role
 - Preceding anchor and BPM
 - Following anchor and BPM
+- Measured transition facts
+- Listener evidence
+- Editorial hypothesis
 - Transition rationale
-- Placement risk
+- Attention-continuity risk
+- Focused-review requirement
 
-Return the complete proposed ledger order after all ADD tracks are placed, including the BPM trajectory and chapter map.
+Return the complete proposed ledger order after all ADD tracks are placed, including the BPM trajectory, chapter map, and unresolved listening questions.
