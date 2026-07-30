@@ -32,6 +32,31 @@ These paths remain the normal ChatGPT discovery paths. Do not relocate or duplic
 6. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
 7. **Publisher** — use `.agents/skills/publisher/SKILL.md`; report status from `spotify-status.json` after the GitHub Action publisher runs.
 
+## Candidate snapshot lifecycle
+
+Candidate resolution is a pre-audit input, not a publication step.
+
+- Write `scout-request.json` at most once per editorial run.
+- Resolve that request into `scout-data.json` at most once per `runId`.
+- When `scout-data.json` contains all three exact candidates for the same request, treat it as an immutable evidence snapshot for that run.
+- Freeze the three candidates before evaluation. Evaluator, Sequencer, Auditor, and Librarian must all use that same snapshot.
+- After the Auditor approves decisions, do not rerun Scout, do not rewrite `scout-request.json`, and do not rebuild `scout-data.json`.
+- A candidate becoming ADD, REVISIT, or REJECT later in the same run must not invalidate the earlier candidate snapshot.
+- Spotify publication must never execute the scout resolver or modify scout files.
+- A new scout snapshot requires a new `runId` and a genuinely new editorial run.
+
+## Runtime and delivery safety
+
+The task must always prioritize delivering a compact final report over repeated polling or secondary housekeeping.
+
+- Do not restart any completed workflow phase.
+- Do not poll the same GitHub file or Action continuously.
+- After the final editorial commit, read `spotify-status.json` once after a reasonable bounded wait when available.
+- If publication has not caught up to the current ledger within the task runtime, report `PARTIAL — publication pending` and finish the chat response. Do not treat pending publication as a task failure.
+- A later Action or next run may confirm COMPLETE.
+- Once the final decisions are persisted, failure of non-authoritative cache or scout metadata must not suppress the user-facing report.
+- `scout-data.json` is diagnostic candidate evidence; `ledger.md` and `spotify-status.json` are authoritative for final reporting.
+
 ## Relaxation-first operating rule
 
 The workflow exists to reduce the user's effort and stress around music discovery.
@@ -164,7 +189,8 @@ Duration guidance:
 
 - The canonical ledger must contain an exact `spotify:track:` URI for every row.
 - A ledger commit triggers `.github/workflows/publish-spotify.yml`.
-- The workflow runs `apps/spotify-publisher/`, uses the persisted playlist ID in `spotify.json`, replaces all playlist items, then verifies the exact URI order.
+- The workflow runs only `apps/spotify-publisher/`, uses the persisted playlist ID in `spotify.json`, replaces all playlist items, then verifies the exact URI order.
+- The publication workflow must not run `apps/spotify-scout/` and must not modify `scout-data.json`.
 - Never use the ChatGPT Spotify connector to search for, create, edit, or publish the canonical playlist.
 - Never surface unrelated playlists, similarly named results, or broad search fallbacks.
 - Never report COMPLETE unless `spotify-status.json` records exact read-back verification for the current ledger publication.
@@ -172,11 +198,14 @@ Duration guidance:
 ## Atomicity
 
 - Read all source files before making decisions.
-- Do not update `ledger.md` until the Auditor approves the final change set.
+- Do not update persistent editorial files until the Auditor approves the final change set.
+- Where the GitHub tools support tree/commit operations, persist all editorial changes in one batched commit.
+- Otherwise minimize writes and never rerun earlier phases between file updates.
+- Target no more than one user-authored editorial commit per run; bot publication-status commits are separate.
 - The row order in `ledger.md` must always equal the recommended final listening order.
 - Insert every approved ADD at its exact sequenced position, then renumber the full ledger consecutively.
 - Every approved ADD must have one verified Spotify track URI and BPM.
-- When an approved change alters surrounding flow, reorder those existing tracks in the same ledger update.
+- When an approved change alters surrounding flow, reorder those existing tracks in the same editorial commit.
 - GitHub updates define the authoritative editorial outcome even when Spotify publication is pending or failed.
 
 ## Required user-facing response
@@ -194,6 +223,8 @@ Purpose must be maximum eight words. Reason must be one sentence, maximum ten wo
 Only link:
 - the canonical playlist URL stored in `spotify-status.json`; and
 - the three candidate tracks.
+
+If Spotify publication is still pending, use `PARTIAL` and state that publication is pending. Do not fail the task or add a manual action merely because the Action has not finished.
 
 ## Playback rule
 
