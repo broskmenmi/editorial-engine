@@ -2,21 +2,20 @@ import fs from 'node:fs/promises';
 
 const API_BASE = 'https://api.spotify.com/v1';
 const TOKEN_URL = 'https://accounts.spotify.com/api/token';
+const REQUEST = 'playlists/groove-over-noise/scout-request.json';
 const OUTPUT = 'playlists/groove-over-noise/scout-data.json';
-
-const seeds = [
-  'Setaoc Mass', 'Temudo', 'Norbak', 'Quelza', 'Ignez', 'Border One',
-  'Pfirter', 'Decoder', 'TWR72', 'Kaiser', 'PWCCA', 'YANT', 'Cravo',
-  'Chlar', 'Linear System', 'Translate', 'Augusto Taito', 'Yan Cook',
-  'Jeroen Search', 'Developer', 'Oscar Mulero', 'Polygonia', 'Rrose',
-  'Donato Dozzy', 'Svarog', 'Mike Parker', 'Dustin Zahn', 'Amotik',
-  'Kashpitzky', 'Arthur Robert', 'Takaaki Itoh', 'Lewis Fautzi',
-  'Kangding Ray', 'Adriana Lopez', 'Marron', 'The Lady Machine',
-  'Dasha Rush', 'Rene Wise', 'Altinbas', 'Alarico', 'Marcal', 'Vil'
-];
 
 function idsFromText(text) {
   return new Set([...text.matchAll(/spotify:track:([A-Za-z0-9]{22})/g)].map((m) => m[1]));
+}
+
+function normalized(value) {
+  return String(value ?? '')
+    .normalize('NFKD')
+    .replace(/[–—]/g, '-')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLowerCase();
 }
 
 async function refreshToken() {
@@ -47,46 +46,37 @@ async function spotifyGet(token, path) {
   return body;
 }
 
-async function getTempoFromSpotify(token, ids) {
-  const tempos = new Map();
-  const errors = [];
-  for (let i = 0; i < ids.length; i += 100) {
-    const batch = ids.slice(i, i + 100);
-    try {
-      const data = await spotifyGet(token, `/audio-features?ids=${batch.join(',')}`);
-      for (const feature of data.audio_features ?? []) {
-        if (feature?.id && Number.isFinite(feature.tempo)) tempos.set(feature.id, feature.tempo);
-      }
-    } catch (error) {
-      errors.push(String(error));
-      break;
-    }
-  }
-  return { tempos, errors };
-}
+function chooseExactTrack(items, request, excluded) {
+  const wantedTrack = normalized(request.track);
+  const wantedArtist = normalized(request.artist);
+  const wantedAlbum = request.album ? normalized(request.album) : null;
 
-async function getTempoFromReccoBeats(id) {
-  const urls = [
-    `https://api.reccobeats.com/v1/track/${id}/audio-features`,
-    `https://api.reccobeats.com/v1/audio-features/${id}`,
-  ];
-  for (const url of urls) {
-    try {
-      const response = await fetch(url, { headers: { Accept: 'application/json' } });
-      if (!response.ok) continue;
-      const body = await response.json();
-      const tempo = body?.tempo ?? body?.bpm ?? body?.audio_features?.tempo;
-      if (Number.isFinite(Number(tempo))) return Number(tempo);
-    } catch {
-      // Try the next public endpoint shape.
-    }
-  }
-  return null;
+  const matches = items.filter((item) => {
+    if (!item?.id || excluded.has(item.id)) return false;
+    const title = normalized(item.name);
+    const titleMatch = title === wantedTrack || title.startsWith(`${wantedTrack} -`);
+    const artistMatch = (item.artists ?? []).some((artist) => normalized(artist.name) === wantedArtist);
+    const albumMatch = !wantedAlbum || normalized(item.album?.name) === wantedAlbum;
+    return titleMatch && artistMatch && albumMatch;
+  });
+
+  matches.sort((a, b) => {
+    const exactA = normalized(a.name) === wantedTrack ? 1 : 0;
+    const exactB = normalized(b.name) === wantedTrack ? 1 : 0;
+    if (exactA !== exactB) return exactB - exactA;
+    return String(b.album?.release_date ?? '').localeCompare(String(a.album?.release_date ?? ''));
+  });
+  return matches[0] ?? null;
 }
 
 async function main() {
   if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_REFRESH_TOKEN) {
     throw new Error('Missing Spotify credentials');
+  }
+
+  const request = JSON.parse(await fs.readFile(REQUEST, 'utf8'));
+  if (!Array.isArray(request.candidates) || request.candidates.length !== 3) {
+    throw new Error('scout-request.json must contain exactly three candidates');
   }
 
   const sourcePaths = [
@@ -95,90 +85,57 @@ async function main() {
     'playlists/groove-over-noise/revisit.md',
     'playlists/groove-over-noise/discoveries.md',
   ];
-  const sourceTexts = await Promise.all(sourcePaths.map((p) => fs.readFile(p, 'utf8')));
+  const sourceTexts = await Promise.all(sourcePaths.map((path) => fs.readFile(path, 'utf8')));
   const excluded = new Set();
   for (const text of sourceTexts) for (const id of idsFromText(text)) excluded.add(id);
 
   const token = await refreshToken();
-  const tracks = new Map();
+  const candidates = [];
+  const unresolved = [];
 
-  for (const artist of seeds) {
+  for (const requested of request.candidates) {
     const query = new URLSearchParams({
-      q: `artist:"${artist}" year:2024-2026`,
+      q: `track:"${requested.track}" artist:"${requested.artist}"`,
       type: 'track',
       market: 'SE',
-      limit: '10',
+      limit: '20',
     });
-    try {
-      const data = await spotifyGet(token, `/search?${query}`);
-      for (const track of data?.tracks?.items ?? []) {
-        if (!track?.id || excluded.has(track.id)) continue;
-        const releaseDate = track.album?.release_date ?? '';
-        if (releaseDate && releaseDate < '2024-01-01') continue;
-        tracks.set(track.id, {
-          id: track.id,
-          uri: track.uri,
-          name: track.name,
-          artists: (track.artists ?? []).map((a) => a.name),
-          album: track.album?.name ?? null,
-          releaseDate,
-          durationMs: track.duration_ms,
-          popularity: track.popularity,
-          explicit: track.explicit,
-          spotifyUrl: track.external_urls?.spotify ?? `https://open.spotify.com/track/${track.id}`,
-          seedArtist: artist,
-        });
-      }
-    } catch (error) {
-      console.error(`Search failed for ${artist}:`, error.message);
+    const data = await spotifyGet(token, `/search?${query}`);
+    const track = chooseExactTrack(data?.tracks?.items ?? [], requested, excluded);
+    if (!track) {
+      unresolved.push({ artist: requested.artist, track: requested.track, album: requested.album ?? null });
+      continue;
     }
+
+    candidates.push({
+      id: track.id,
+      uri: track.uri,
+      name: track.name,
+      artists: (track.artists ?? []).map((artist) => artist.name),
+      album: track.album?.name ?? null,
+      releaseDate: track.album?.release_date ?? null,
+      durationMs: track.duration_ms ?? null,
+      spotifyUrl: track.external_urls?.spotify ?? `https://open.spotify.com/track/${track.id}`,
+      bpm: requested.bpm,
+      tempoSource: requested.bpmSource,
+      discoverySource: requested.discoverySource,
+      requestedIdentity: requested,
+    });
   }
-
-  const ids = [...tracks.keys()];
-  const spotifyTempo = await getTempoFromSpotify(token, ids);
-
-  const candidates = [];
-  for (const track of tracks.values()) {
-    let tempo = spotifyTempo.tempos.get(track.id) ?? null;
-    let tempoSource = tempo ? 'Spotify audio-features' : null;
-    if (!tempo) {
-      tempo = await getTempoFromReccoBeats(track.id);
-      if (tempo) tempoSource = 'ReccoBeats audio-features';
-    }
-    if (!tempo) continue;
-    const roundedBpm = Math.round(tempo);
-    if (roundedBpm < 134 || roundedBpm > 142) continue;
-    if ((track.durationMs ?? 0) < 240000) continue;
-    candidates.push({ ...track, tempo, bpm: roundedBpm, tempoSource });
-  }
-
-  candidates.sort((a, b) => {
-    const targetA = Math.abs(a.bpm - 139);
-    const targetB = Math.abs(b.bpm - 139);
-    if (targetA !== targetB) return targetA - targetB;
-    if (a.popularity !== b.popularity) return a.popularity - b.popularity;
-    return (b.releaseDate ?? '').localeCompare(a.releaseDate ?? '');
-  });
 
   const output = {
     generatedAt: new Date().toISOString(),
-    target: {
-      role: 'summit decompression hinge',
-      neighbours: [
-        { artist: 'Alarico', track: 'Iruka', bpm: 141 },
-        { artist: 'Stef Mendesidis', track: 'Interlynx', bpm: 137 },
-      ],
-      preferredBpm: 139,
-    },
-    source: 'Spotify exact track identity and release metadata; tempo from Spotify audio-features when available, otherwise ReccoBeats.',
-    spotifyAudioFeatureErrors: spotifyTempo.errors,
-    searchedTrackCount: tracks.size,
-    eligibleCount: candidates.length,
-    candidates: candidates.slice(0, 40),
+    target: request.target,
+    source: 'Exact Spotify track identity from Spotify Web API; BPM from the external source declared per request.',
+    requestedCount: request.candidates.length,
+    resolvedCount: candidates.length,
+    unresolved,
+    candidates,
   };
 
   await fs.writeFile(OUTPUT, `${JSON.stringify(output, null, 2)}\n`);
-  console.log(`Wrote ${output.candidates.length} candidates to ${OUTPUT}`);
+  console.log(`Resolved ${candidates.length}/${request.candidates.length} exact candidates`);
+  if (unresolved.length) process.exitCode = 2;
 }
 
 main().catch((error) => {
