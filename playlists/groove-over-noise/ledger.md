@@ -17,20 +17,21 @@
 | 9 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
 | 10 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
 | 11 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
-| 12 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
-| 13 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
-| 14 | RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | 138 | ADD | Summit decompression hinge | 2026-07-30 |
-| 15 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
-| 16 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
-| 17 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 18 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
-| 19 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 12 | Decoder | Flowing | spotify:track:67G0MRoqW60mlqLbWd14Wo | 138 | ADD | Third-wave psychological threshold | 2026-07-30 |
+| 13 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
+| 14 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
+| 15 | RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | 138 | ADD | Summit decompression hinge | 2026-07-30 |
+| 16 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
+| 17 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
+| 18 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 19 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
+| 20 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **Iruka → Session 4 → Interlynx** now stages the summit release as 141 → 138 → 137 before the established 137 → 134 → 130 → 128 → 125 final descent.
+Every adjacent difference remains within the 0–4 BPM target. **AB01 → Flowing → Nasty Tool → Iruka** now stages the third-wave approach as 136 → 138 → 138 → 141 without tempo sawtoothing. **Iruka → Session 4 → Interlynx** preserves the summit release as 141 → 138 → 137 before the established 137 → 134 → 130 → 128 → 125 final descent.
 
 ## Current journey
 
@@ -45,15 +46,16 @@ Every adjacent difference remains within the 0–4 BPM target. **Iruka → Sessi
 9. **Deeper second crest** — introduce a second form of pressure.
 10. **Second-wave release** — reduce force while keeping the body engaged.
 11. **Release extension** — retain immersion while opening rhythmic space.
-12. **Third-wave re-entry** — rebuild pressure before the main summit.
-13. **Dominant main summit** — concentrate the journey's strongest sustained pressure.
-14. **Summit decompression hinge** — convert peak force into evolving repetition.
-15. **Summit decompression continuation** — keep descending without losing movement.
-16. **Decompression pulse bridge** — continue downward without losing bodily trust.
-17. **Focused decompression** — narrow the rhythmic field without breaking immersion.
-18. **Deep decompression bridge** — deepen space while preserving terminal pulse.
-19. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
+12. **Third-wave psychological threshold** — add contrast before physical re-entry.
+13. **Third-wave re-entry** — rebuild pressure before the main summit.
+14. **Dominant main summit** — concentrate the journey's strongest sustained pressure.
+15. **Summit decompression hinge** — convert peak force into evolving repetition.
+16. **Summit decompression continuation** — keep descending without losing movement.
+17. **Decompression pulse bridge** — continue downward without losing bodily trust.
+18. **Focused decompression** — narrow the rhythmic field without breaking immersion.
+19. **Deep decompression bridge** — deepen space while preserving terminal pulse.
+20. **Dissolution** — let remaining pressure evaporate while pulse stays alive.
 
 ## Next structural need
 
-Continue autonomous discovery before the protected final descent. Prioritize a distinct future chapter only when it adds a genuinely new rhythmic, spatial, textural, or psychological quality without weakening the dominant summit or reopening the established ending.
+Continue autonomous discovery before the protected final descent. Avoid further layering between AB01 and Iruka unless new evidence reveals a concrete defect. Prioritize an earlier distinct chapter, a real transition repair, or material that expands the journey without weakening the dominant summit or reopening the established ending.
