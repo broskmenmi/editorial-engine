@@ -53,9 +53,9 @@ This is the GROOVE OVER NOISE house style, not a universal techno rule.
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent transition remains within the 0–4 BPM target.
+Every adjacent transition remains within the 0–4 BPM target. The new **136 → 138 → 138 → 141** third-wave approach avoids both a sharp jump and accidental sawtoothing.
 
 ## Current chapter map
 
@@ -70,22 +70,23 @@ Every adjacent transition remains within the 0–4 BPM target.
 9. **Deeper second crest, provisional:** Tragoidia
 10. **Second-wave release:** Bionic Jungle
 11. **Second-wave release extension:** AB01
-12. **Third-wave re-entry, provisional:** Nasty Tool
-13. **Dominant main summit, provisional:** Iruka
-14. **Summit decompression hinge, provisional:** Session 4 - Original Mix
-15. **Summit decompression continuation:** Interlynx
-16. **Decompression pulse bridge:** Minimum
-17. **Focused decompression:** Eclipse
-18. **Deep decompression bridge:** Haidou
-19. **Dissolution:** Calipso
+12. **Third-wave psychological threshold, provisional:** Flowing
+13. **Third-wave re-entry, provisional:** Nasty Tool
+14. **Dominant main summit, provisional:** Iruka
+15. **Summit decompression hinge, provisional:** Session 4 - Original Mix
+16. **Summit decompression continuation:** Interlynx
+17. **Decompression pulse bridge:** Minimum
+18. **Focused decompression:** Eclipse
+19. **Deep decompression bridge:** Haidou
+20. **Dissolution:** Calipso
 
 ## Current editorial assessment
 
-The summit previously moved directly from **Iruka at 141 BPM** to **Interlynx at 137 BPM**. This was numerically compliant but compressed the first release stage into a single four-BPM step.
+The summit previously moved directly from **Iruka at 141 BPM** to **Interlynx at 137 BPM**. **RTNH — Session 4 - Original Mix at 138 BPM** now forms a dedicated hinge: **141 → 138 → 137**, converting peak force into repetition before the established descent.
 
-**RTNH — Session 4 - Original Mix at 138 BPM** now forms a dedicated hinge: **141 → 138 → 137**. Its documented looping, evolving-form construction supports a provisional role in converting peak force into repetition before the established long descent.
+The third wave previously moved directly from **AB01 at 136 BPM** into **Nasty Tool at 138 BPM**. **Decoder — Flowing at 138 BPM** now creates a provisional psychological threshold before the physical re-entry. Its exact release context is documented as psychedelic and mood-shifting, while the track-specific listening effect remains an editorial hypothesis rather than a measured fact.
 
-**Derode — Initial Pulse** and **Ross Hillier — Someone Is Trying to Get** were rejected for this position. Both fit the BPM window, but their documented tension-building or slow-burning-pressure functions would prolong the summit rather than release it.
+**Setaoc Mass — Evidence** was rejected despite a smooth 136 → 137 → 138 path because no track-specific evidence established a distinct role beyond the accepted threshold and re-entry. **Temudo — U Used to Laugh at My Jokes** was rejected because 136 → 140 → 138 → 141 creates avoidable up-down-up tempo sawtoothing before the summit.
 
 There are no active accepted-track reviews. Parked alternatives remain parked unless their documented trigger occurs.
 
@@ -104,15 +105,16 @@ Continue autonomous discovery without assigning listener homework.
 Priorities:
 
 1. Preserve the complete compliant BPM trajectory.
-2. Allow Session 4's decompression role to remain provisional unless natural feedback contradicts it.
-3. Search future material only when it creates a distinct new chapter before the protected descent.
-4. Avoid functional duplication of existing crests, re-entries, and decompression stages.
+2. Let Flowing's threshold role remain provisional unless natural feedback contradicts it.
+3. Avoid adding another track between AB01 and Iruka without a genuinely distinct function.
+4. Protect Session 4 and the established long decompression.
 5. Keep the dominant summit clearly at Iruka.
+6. Search next for a distinct earlier chapter or structural repair, not another summit approach layer.
 
 ## Output discipline
 
 - Purpose: maximum eight words.
-- Reason: one sentence, maximum ten words.
+- Reason: one clean sentence, maximum ten words.
 - `MANUAL ACTION` is technical only.
 - Do not surface parked comparisons without new evidence.
 
