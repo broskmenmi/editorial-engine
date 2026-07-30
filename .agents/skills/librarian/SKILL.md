@@ -16,10 +16,21 @@ description: Persist approved playlist decisions in GitHub by maintaining the ca
 8. Append the complete run to `discoveries.md`.
 9. Add REJECT decisions and durable reasons to `rejected.md`.
 10. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
-11. Open, update, and resolve accepted-track cases in `under-review.md`.
-12. Update `notes.md` with the current structural need, evidence status, active reviews, and unresolved transition or attention defects.
-13. Preserve valid history; do not silently rewrite prior decisions.
-14. Prevent duplicate track URIs and keep numbering consistent.
+11. Mark inactive alternatives as PARKED so they are not resurfaced without new evidence.
+12. Open, update, and resolve genuine accepted-track cases in `under-review.md`.
+13. Update `notes.md` with the current structural need, evidence status, active reviews, and unresolved transition or attention defects.
+14. Preserve valid history; do not silently rewrite prior decisions.
+15. Prevent duplicate track URIs and keep numbering consistent.
+
+## Relaxation-first persistence
+
+The Librarian must not turn uncertainty into user homework.
+
+- Never record mandatory A/B tests, rankings, or prescribed listening sessions as user obligations.
+- Do not place a track UNDER REVIEW merely because the user has not confirmed its role.
+- Do not let parked alternatives dominate future runs.
+- `MANUAL ACTION` may only describe unavoidable technical steps, never subjective listening.
+- Record provisional editorial roles internally and allow natural feedback to reopen them later.
 
 ## Evidence persistence
 
@@ -34,19 +45,21 @@ Do not store speculative sonic descriptions as facts. When no direct listening o
 
 ## Accepted-track review records
 
-When an accepted track is questioned, `under-review.md` must record:
+Open a review only after actual user concern, a concrete objective defect, or new contradictory evidence.
+
+When an accepted track is genuinely questioned, `under-review.md` must record:
 
 - Artist and track
 - Exact Spotify URI
 - Current ledger position and role
-- Exact listener report or reason the review was opened
+- Exact listener report or objective defect
 - Why the track was originally admitted
-- One concrete question to resolve
-- Comparison sequence or listening test
-- Status: `OPEN`, `LISTENING CHECK`, `RESOLVED — KEEP`, `RESOLVED — MOVE`, `RESOLVED — REPLACE`, or `RESOLVED — REMOVE`
+- One concrete editorial question
+- Autonomous KEEP, MOVE, REPLACE, or REMOVE options
+- Status: `OPEN`, `PROVISIONAL KEEP`, `RESOLVED — KEEP`, `RESOLVED — MOVE`, `RESOLVED — REPLACE`, or `RESOLVED — REMOVE`
 - Resolution date and rationale
 
-The track remains in `ledger.md` until an approved MOVE, REPLACE, or REMOVE decision occurs.
+Do not record a mandatory listening test. The track remains in `ledger.md` until an approved MOVE, REPLACE, or REMOVE decision occurs.
 
 ## Required ledger columns
 - `#`
@@ -65,13 +78,14 @@ The track remains in `ledger.md` until an approved MOVE, REPLACE, or REMOVE deci
 - Placement and purpose for ADD
 - Removal, replacement, or reordering rationale
 - Adjacent BPM trajectory after the run
-- Attention-continuity questions where relevant
-- Focused-review requirement for critical roles
-- Reassessment condition for REVISIT
+- Attention-continuity risks where relevant
+- Internal uncertainty for critical roles
+- Reassessment condition for REVISIT that does not require user homework
+- PARKED status when no new evidence exists
 - Reason for REJECT
 - Audit outcome
 - Canonical ledger after the run
-- Active and resolved accepted-track reviews
+- Genuine active and resolved accepted-track reviews
 - Editorial note
 
 GitHub files are the persistent source of truth. A successful ledger commit triggers exact Spotify publication through the repository workflow; the Librarian never calls a generative playlist tool.
