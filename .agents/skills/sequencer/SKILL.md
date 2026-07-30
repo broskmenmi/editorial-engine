@@ -13,7 +13,16 @@ description: Place accepted tracks into a canonical ordered listening journey us
 - Avoid abrupt resets, redundant peaks, accidental tempo sawtoothing, and clusters of similar artists or textures.
 - Do not assume Spotify Mix, crossfade, or tempo correction will repair a weak sequence.
 - Distinguish **bodily continuity** from **attention continuity**. A transition may keep a similar tempo while suddenly asking the listener to follow too many things.
-- Use listener evidence to overrule an elegant-looking sequence on paper.
+- Use volunteered listener evidence to overrule an elegant-looking sequence on paper.
+
+## Relaxation-first rule
+
+The Sequencer must design the journey without asking the user to become its test department.
+
+- Do not prescribe A/B comparisons or listening exercises.
+- Do not freeze a chapter merely because its intended role has not been explicitly confirmed.
+- Make the best available placement, mark the role provisional internally, and continue.
+- Natural reactions during ordinary listening may reopen any placement later.
 
 ## Evidence discipline
 
@@ -47,11 +56,11 @@ Rules:
 - Allow several local crests, but keep one summit clearly dominant.
 - Every later crest must reveal a new quality, not repeat the same build louder.
 - Partial releases must not reset the listener to the opening baseline.
-- Do not place the main summit merely where BPM is highest; judge pressure, attention demand, duration, and listener experience.
+- Do not place the main summit merely where BPM is highest; judge pressure, attention demand, duration, and available listener evidence.
 - Preserve the final decompression and dissolution as the ending. New waves should normally be inserted before the final descent, not appended after it.
 - Treat the current short arc as a chapter that may be expanded or reclassified as the playlist grows.
 - Avoid identical build-and-release shapes across consecutive chapters.
-- If the planned story conflicts with the listener's actual response, redesign the story.
+- If volunteered listener feedback conflicts with the planned story, redesign the story.
 
 ## Duration scaling
 Use duration as guidance, not a rigid quota:
@@ -70,21 +79,21 @@ Use duration as guidance, not a rigid quota:
 7. Avoid repeated accidental up-down-up movement. Deliberate wave motion is valid only when chapter roles and perceived pressure support it.
 8. Numeric compliance is a filter, not proof of continuity.
 
-## Attention-continuity questions
+## Attention-continuity risks
 
-For each proposed transition, ask in plain language:
+For each proposed transition, assess internally:
 
-- Does the next track suddenly introduce many more things to follow?
-- Do several sounds begin pulling attention in different directions?
-- Does the listener settle more deeply, or become restless?
-- Does the transition feel like continuation, or like a new playlist starting?
-- Does the listener want the track to continue, or wait for it to end?
+- whether the next track may introduce many more things to follow;
+- whether several elements may pull attention in different directions;
+- whether the transition plausibly continues the journey or risks sounding like a restart;
+- whether any direct listener report already supports or contradicts the placement.
 
-When these questions cannot be answered from direct evidence, record them as placement risks rather than invented conclusions.
+When these cannot be answered from evidence, record them as provisional risks. Do not turn them into user assignments.
 
 ## Repair precedence
 - Audit `under-review.md` and the existing ledger before placing new additions.
-- When an accepted track or transition is unresolved, repair it before extending the playlist.
+- Repair actual user-reported or objective defects before unrelated expansion.
+- Mere absence of confirmation is not a defect.
 - Repairs may keep, move, insert a bridge, replace, remove, or reorder.
 - Choose the smallest change that restores structural, bodily, and attention continuity.
 
@@ -93,10 +102,10 @@ For each ADD combine:
 1. a concrete anchor from `ledger.md`;
 2. a structural role in its chapter and the overall journey;
 3. BPM compatibility with both neighbours;
-4. attention-continuity risk with both neighbours; and
+4. provisional attention-continuity risk with both neighbours; and
 5. whether it creates a local crest, partial release, re-entry, main summit, decompression, or dissolution.
 
-Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest; exact attention demand remains a listening question.`
+Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest; attention fit remains a provisional editorial risk.`
 
 ## Output per ADD
 - Position
@@ -106,10 +115,9 @@ Example: `After Coyu — Cachoeira, bridging 141 BPM into a first local crest; e
 - Preceding anchor and BPM
 - Following anchor and BPM
 - Measured transition facts
-- Listener evidence
+- Listener evidence, if any
 - Editorial hypothesis
 - Transition rationale
-- Attention-continuity risk
-- Focused-review requirement
+- Internal attention-continuity risk
 
-Return the complete proposed ledger order after all ADD tracks are placed, including the BPM trajectory, chapter map, and unresolved listening questions.
+Return the complete proposed ledger order after all ADD tracks are placed, including the BPM trajectory, chapter map, and internal uncertainties. Do not assign listening homework.
