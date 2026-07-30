@@ -32,13 +32,31 @@ These paths remain the normal ChatGPT discovery paths. Do not relocate or duplic
 6. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
 7. **Publisher** — use `.agents/skills/publisher/SKILL.md`; report status from `spotify-status.json` after the GitHub Action publisher runs.
 
+## Relaxation-first operating rule
+
+The workflow exists to reduce the user's effort and stress around music discovery.
+
+It must never turn listening into mandatory work.
+
+Rules:
+
+- Do not assign A/B tests, listening homework, ranking tasks, or required subjective confirmation.
+- Do not block normal playlist growth merely because the user has not confirmed a critical role.
+- Do not repeat the same REVISIT candidates on successive runs solely while waiting for user feedback.
+- Natural reactions volunteered during ordinary listening are sufficient evidence; the user is never required to produce them on schedule.
+- When evidence is incomplete, make the best conservative editorial decision available and record uncertainty internally.
+- A critical-role track may be ADD with a provisional editorial label when there is no concrete negative evidence and the measurable sequence is sound.
+- REVISIT requires a real, specific uncertainty—not merely the absence of user confirmation.
+- `MANUAL ACTION` is reserved for unavoidable technical steps such as authorization, secrets, or an API limitation. It must never contain listening instructions.
+- If no technical user action is required, omit `MANUAL ACTION` entirely.
+
 ## Evidence model
 
 Every material editorial statement must be classified internally as one of:
 
 - **Measured evidence:** BPM, duration, exact identity, position, or later lawful audio measurements.
 - **Craft convention:** a useful sequencing practice, not a universal law.
-- **Listener report:** the user's direct experience; final authority for this playlist.
+- **Listener report:** the user's direct experience; final authority when volunteered.
 - **Editorial interpretation:** a proposed role such as re-entry, crest, summit, or dissolution.
 
 Rules:
@@ -55,18 +73,20 @@ Do not analyse every stable track on every run.
 
 A focused review is triggered only when:
 
-- the user questions an accepted track;
-- a REVISIT question concerns busyness, stress, monotony, atmosphere, attention, or emotional fit;
-- a candidate is proposed for opener, re-entry, important crest, main summit, decompression pivot, or closer;
-- measurements and listener reaction disagree.
+- the user naturally questions an accepted track;
+- a REVISIT question concerns a concrete known issue such as busyness, stress, monotony, atmosphere, attention, or emotional fit;
+- measurements and volunteered listener reaction disagree;
+- an objective sequence defect exists.
+
+Lack of explicit user confirmation is not itself a focused-review trigger.
 
 Until a lawful audio-analysis pipeline exists, focused review means:
 
 1. preserve the exact listener report when one exists;
 2. explain the intended role in plain language;
-3. compare the sequence with the track, without it, or in another position;
+3. compare KEEP, MOVE, REPLACE, or REMOVE editorially without assigning the user homework;
 4. distinguish measured facts from predictions about listening;
-5. default an unresolved critical-role candidate to REVISIT rather than pretending metadata proves the fit.
+5. make a best-effort decision or keep the track provisionally when evidence remains incomplete.
 
 Future audio analysis may use only audio the user lawfully owns or has permission to process. Cache such analysis once by exact track/version identity and audio-file hash. Spotify streams must never be captured, transferred, or analysed.
 
@@ -74,18 +94,25 @@ Future audio analysis may use only audio the user lawfully owns or has permissio
 
 `REVISIT` applies to candidates outside the ledger. `UNDER REVIEW` applies to tracks already in the ledger.
 
-When a user questions an accepted track:
+Open UNDER REVIEW only when:
 
-1. add it to `under-review.md` without immediately removing it;
-2. preserve the user's exact words;
-3. state why the track was originally admitted;
-4. define one concrete listening question;
-5. compare KEEP, MOVE, REPLACE, and REMOVE where relevant;
-6. resolve only after listener evidence or an explicit user decision.
+- the user expresses a concern during normal listening;
+- a concrete objective defect is discovered;
+- new evidence directly contradicts the original admission.
+
+Do not open UNDER REVIEW merely because the user has not confirmed an editorial role.
+
+When a review opens:
+
+1. preserve the user's exact words;
+2. state why the track was originally admitted;
+3. evaluate KEEP, MOVE, REPLACE, and REMOVE;
+4. let the workflow scout replacements or redesign the sequence autonomously;
+5. resolve from available evidence, or keep the track provisionally without demanding a user test.
 
 Feeling relieved because a track ends is strong negative evidence about the track or its placement, but it starts a discussion rather than forcing immediate deletion.
 
-High-priority active reviews block unrelated expansion unless the user explicitly postpones them. When no new listener evidence exists, reuse existing review comparisons rather than spending a run on broad speculative discovery.
+Active reviews take priority only when there is actual negative evidence or a concrete defect. They do not automatically freeze unrelated growth.
 
 ## Long-form storytelling architecture
 
@@ -122,14 +149,14 @@ Duration guidance:
 - Avoid accidental tempo sawtoothing. Deliberate wave motion is valid only when the chapter and pressure narrative supports it.
 - Spotify Mix, crossfade, and automatic transition processing cannot validate or excuse a defective transition.
 - If the user still hears a jump with Spotify Mix enabled, record the transition as defective.
-- Numeric compliance is necessary for ordinary transitions under this doctrine, but never sufficient for approval.
+- Numeric compliance is necessary for ordinary transitions under this doctrine, but never sufficient for certainty.
 
 ## Repair-first policy
 
 - Known transition, attention, or storytelling defects take priority over new playlist growth.
-- Active high-priority entries in `under-review.md` take priority over unrelated additions.
+- An actual user complaint or objective defect takes priority over unrelated additions.
+- Mere lack of user confirmation does not count as a defect and does not block growth.
 - When a defect exists, candidates must repair it through a bridge, replacement, removal, reorder, or chapter redesign.
-- Do not add tracks elsewhere while leaving the known defect untouched.
 - Choose the smallest repair that produces a coherent BPM trajectory and preserves the editorial arc.
 - After every repair, audit the entire ledger rather than only the changed pair.
 
@@ -159,7 +186,7 @@ Use exactly these sections:
 1. `TODAY'S DECISIONS` — exactly three candidates; for each show Verdict, Track — Artist, Position, Purpose, and one-sentence Reason.
 2. `LEDGER CHANGE` — list only additions, removals, replacements, or reordering made today.
 3. `SPOTIFY STATUS` — one of COMPLETE, PARTIAL, or MANUAL REQUIRED, based only on `spotify-status.json`.
-4. `MANUAL ACTION` — only exact user steps; omit entirely when none are needed.
+4. `MANUAL ACTION` — only unavoidable technical steps; omit entirely when none are needed. Never include listening tasks or subjective comparisons.
 5. `EDITORIAL NOTE` — one sentence.
 
 Purpose must be maximum eight words. Reason must be one sentence, maximum ten words. Do not print the full canonical ledger unless explicitly requested. Do not include internal GitHub operations, audit details, scoring tables, or long explanations.
