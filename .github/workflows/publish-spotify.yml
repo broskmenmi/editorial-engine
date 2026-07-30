@@ -9,6 +9,7 @@ on:
       - "playlists/**/spotify.json"
       - "playlists/**/cover.jpg.base64"
       - "apps/spotify-publisher/**"
+      - "apps/spotify-scout/**"
       - ".github/workflows/publish-spotify.yml"
   workflow_dispatch:
 
@@ -44,19 +45,25 @@ jobs:
       - name: Publish and verify canonical playlist
         run: node apps/spotify-publisher/src/index.js
 
-      - name: Persist playlist identity and verified status
+      - name: Build scout metadata
+        run: node apps/spotify-scout/src/index.js
+
+      - name: Persist playlist identity, verified status, and scout metadata
         if: always()
         shell: bash
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+          if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json playlists/groove-over-noise/scout-data.json; then
             exit 0
           fi
 
           temp_dir="$(mktemp -d)"
           cp playlists/groove-over-noise/spotify.json "$temp_dir/spotify.json"
           cp playlists/groove-over-noise/spotify-status.json "$temp_dir/spotify-status.json"
+          if [[ -f playlists/groove-over-noise/scout-data.json ]]; then
+            cp playlists/groove-over-noise/scout-data.json "$temp_dir/scout-data.json"
+          fi
 
           git config user.name "editorial-engine[bot]"
           git config user.email "editorial-engine[bot]@users.noreply.github.com"
@@ -72,13 +79,16 @@ jobs:
             git reset --hard origin/main
             cp "$temp_dir/spotify.json" playlists/groove-over-noise/spotify.json
             cp "$temp_dir/spotify-status.json" playlists/groove-over-noise/spotify-status.json
+            if [[ -f "$temp_dir/scout-data.json" ]]; then
+              cp "$temp_dir/scout-data.json" playlists/groove-over-noise/scout-data.json
+            fi
 
-            if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+            if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json playlists/groove-over-noise/scout-data.json; then
               exit 0
             fi
 
-            git add playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json
-            git commit -m "Update Spotify publication status [skip ci]"
+            git add playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json playlists/groove-over-noise/scout-data.json
+            git commit -m "Update Spotify publication and scout status [skip ci]"
 
             if git push origin HEAD:main; then
               exit 0
