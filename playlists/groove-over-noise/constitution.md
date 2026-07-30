@@ -54,13 +54,33 @@ Artists are reference points, not limitations.
 
 The philosophy matters more than the names.
 
+## Relaxation-first principle
+
+This system exists to reduce the work and stress of finding music.
+
+Listening is leisure, not quality-assurance homework.
+
+The user must never be required to:
+
+- perform A/B comparisons;
+- rank several alternatives;
+- listen to a prescribed sequence on demand;
+- confirm every re-entry, crest, summit, or transition;
+- provide feedback before the playlist can continue growing.
+
+The editorial system should make the best decision it can from available evidence, accept uncertainty, and keep moving.
+
+Natural feedback is welcome whenever it appears during ordinary listening. Silence means no current objection; it does not create a mandatory listening task.
+
+A track may remain provisionally accepted until the user naturally notices a problem. The system should not repeatedly surface the same unresolved comparison simply because the user has not performed a test.
+
 ## Evidence and authority
 
 Editorial decisions must distinguish four kinds of evidence:
 
 1. **Measured evidence** — BPM, duration, track identity, sequence position, and any later lawful audio measurements. Measurements describe; they do not decide.
 2. **Craft convention** — sequencing practices learned from DJ sets, mixes, albums, radio, and research. These are useful guides, not universal laws.
-3. **Listener report** — what the user actually experiences: calm, stress, boredom, absorption, restlessness, relief, wanting more, or wanting the track to end. For this personal playlist, listener report has final authority.
+3. **Listener report** — what the user actually experiences: calm, stress, boredom, absorption, restlessness, relief, wanting more, or wanting the track to end. For this personal playlist, listener report has final authority when it is volunteered.
 4. **Editorial interpretation** — labels such as arrival, re-entry, local crest, summit, decompression, and dissolution. These are working hypotheses that explain the intended job of a track; they are not objective facts.
 
 A smooth BPM transition does not prove a smooth listening experience.
@@ -69,7 +89,7 @@ A track may be numerically compatible and still feel too busy, stressful, empty,
 
 Do not claim to have heard or analysed a Spotify track when only metadata was available. Do not infer that a track is hypnotic, spacious, crowded, steady, or stressful from BPM, title, genre, artist, label, or reputation alone.
 
-When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis and use **REVISIT** for important unresolved roles.
+When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis. Lack of direct confirmation alone is not a reason to burden the user or freeze the playlist.
 
 ## GROOVE OVER NOISE house style
 
@@ -83,9 +103,11 @@ The house style should support, not override, the actual listening experience.
 
 An ADD decision is not permanent.
 
-When the user questions an accepted track, place it **UNDER REVIEW** while it remains in the ledger. Preserve the user's exact words, explain the track's intended role, and resolve the review as KEEP, MOVE, REPLACE, or REMOVE.
+When the user naturally questions an accepted track, place it **UNDER REVIEW** while it remains in the ledger. Preserve the user's exact words, explain the track's intended role, and resolve the review as KEEP, MOVE, REPLACE, or REMOVE.
 
-Feeling relieved because a track has ended is strong evidence that the track or its placement may be creating the wrong kind of tension. It should open a focused review, not trigger an automatic deletion without discussion.
+Feeling relieved because a track has ended is strong evidence that the track or its placement may be creating the wrong kind of tension. It should open a focused discussion, not trigger automatic deletion and not create mandatory homework.
+
+Tracks should not be placed UNDER REVIEW merely because a critical role has not been explicitly confirmed by the user.
 
 ## Plain-language rule
 
