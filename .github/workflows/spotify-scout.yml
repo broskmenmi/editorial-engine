@@ -1,0 +1,51 @@
+name: Build Spotify scout data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "apps/spotify-scout/**"
+      - ".github/workflows/spotify-scout.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-scout-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Build scout data
+        run: node apps/spotify-scout/src/index.js
+
+      - name: Persist scout data
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- playlists/groove-over-noise/scout-data.json; then
+            exit 0
+          fi
+          git config user.name "editorial-engine[bot]"
+          git config user.email "editorial-engine[bot]@users.noreply.github.com"
+          git add playlists/groove-over-noise/scout-data.json
+          git commit -m "Update Spotify scout data [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
