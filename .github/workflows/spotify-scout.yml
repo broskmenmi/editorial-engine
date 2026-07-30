@@ -1,5 +1,6 @@
 name: Build Spotify scout data
 
+# Candidate metadata refresh trigger.
 on:
   push:
     branches: [main]
