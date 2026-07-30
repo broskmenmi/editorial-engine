@@ -31,6 +31,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Resolve canonical ledger revision
+        shell: bash
+        run: |
+          echo "LEDGER_COMMIT=$(git log -1 --format=%H -- playlists/groove-over-noise/ledger.md)" >> "$GITHUB_ENV"
+
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
