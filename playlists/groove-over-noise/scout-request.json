@@ -1,0 +1,36 @@
+{
+  "target": {
+    "role": "third-wave psychological threshold",
+    "position": "after Vil — AB01 and before Arkan — Nasty Tool",
+    "neighbours": [
+      { "artist": "Vil", "track": "AB01", "bpm": 136 },
+      { "artist": "Arkan", "track": "Nasty Tool", "bpm": 138 }
+    ],
+    "purpose": "add a distinct quality before the summit climb"
+  },
+  "candidates": [
+    {
+      "artist": "Sandro Galli",
+      "track": "Extra Dimension",
+      "album": "Extra Dimension EP",
+      "bpm": 137,
+      "bpmSource": "Beatport exact release metadata",
+      "discoverySource": "Gynoid Audio release dated 2026-07-24"
+    },
+    {
+      "artist": "Decoder",
+      "track": "Flowing",
+      "album": "Momentum",
+      "bpm": 138,
+      "bpmSource": "Beatport exact release metadata",
+      "discoverySource": "Enemy Records release dated 2026-05-22"
+    },
+    {
+      "artist": "Night Quest",
+      "track": "Eyelid Portal",
+      "bpm": 138,
+      "bpmSource": "Beatport exact track metadata",
+      "discoverySource": "Mind & Me Music release dated 2026-07-10"
+    }
+  ]
+}
