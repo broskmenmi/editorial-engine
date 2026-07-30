@@ -37,7 +37,18 @@ These Markdown paths are the canonical ChatGPT instruction and editorial-state p
 
 The playlist directory is persistent editorial state. The skill packages are generic and must operate on the target playlist directory supplied by the orchestrator.
 
-`revisit.md` is for candidates not yet admitted. `under-review.md` is for tracks already in the canonical ledger whose continued place or position is unresolved.
+`revisit.md` is for candidates not yet admitted. `under-review.md` is for tracks already in the canonical ledger whose continued place or position is unresolved because of actual listener feedback, a concrete defect, or new contradictory evidence.
+
+## Relaxation-first operation
+
+The editorial engine exists to reduce the user's effort and stress around discovering music.
+
+- Never assign mandatory A/B comparisons, rankings, prescribed listening sessions, or subjective confirmation tasks.
+- Do not freeze playlist growth merely because the user has not confirmed a proposed role.
+- Do not repeatedly resurface PARKED candidates while waiting for feedback.
+- Make the best available editorial decision, record uncertainty internally, and continue.
+- Natural listener feedback may reopen any accepted decision later.
+- `MANUAL ACTION` is reserved for unavoidable technical steps and must never contain listening homework.
 
 ## Evidence discipline
 
@@ -45,7 +56,7 @@ Every substantive editorial claim must be understood as one of four kinds:
 
 1. **Measured evidence** — BPM, duration, track identity, position, or later lawful audio measurements.
 2. **Craft convention** — useful sequencing practice, not a universal musical law.
-3. **Listener report** — the user's actual experience; highest authority for a personal playlist.
+3. **Listener report** — the user's actual experience; highest authority when volunteered.
 4. **Editorial interpretation** — chapter, crest, summit, re-entry, decompression, and similar role labels; useful hypotheses rather than facts.
 
 Never imply that Spotify access allows the agent to hear or analyse raw Spotify audio. Never infer busyness, stress, spaciousness, hypnosis, or emotional effect from BPM, artist, genre, title, or metadata alone.
