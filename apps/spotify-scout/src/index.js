@@ -46,27 +46,67 @@ async function spotifyGet(token, path) {
   return body;
 }
 
-function chooseExactTrack(items, request, excluded) {
+function identityMatches(item, request) {
   const wantedTrack = normalized(request.track);
   const wantedArtist = normalized(request.artist);
-  const wantedAlbum = request.album ? normalized(request.album) : null;
+  const title = normalized(item?.name);
+  const titleMatch = title === wantedTrack || title.startsWith(`${wantedTrack} -`);
+  const artistMatch = (item?.artists ?? []).some((artist) => normalized(artist.name) === wantedArtist);
+  return Boolean(item?.id && titleMatch && artistMatch);
+}
 
-  const matches = items.filter((item) => {
-    if (!item?.id || excluded.has(item.id)) return false;
-    const title = normalized(item.name);
-    const titleMatch = title === wantedTrack || title.startsWith(`${wantedTrack} -`);
-    const artistMatch = (item.artists ?? []).some((artist) => normalized(artist.name) === wantedArtist);
-    const albumMatch = !wantedAlbum || normalized(item.album?.name) === wantedAlbum;
-    return titleMatch && artistMatch && albumMatch;
-  });
+function candidateRecord(track, requested, album = null) {
+  return {
+    id: track.id,
+    uri: track.uri ?? `spotify:track:${track.id}`,
+    name: track.name,
+    artists: (track.artists ?? []).map((artist) => artist.name),
+    album: track.album?.name ?? album?.name ?? requested.album ?? null,
+    releaseDate: track.album?.release_date ?? album?.release_date ?? null,
+    durationMs: track.duration_ms ?? null,
+    spotifyUrl: track.external_urls?.spotify ?? `https://open.spotify.com/track/${track.id}`,
+    bpm: requested.bpm,
+    tempoSource: requested.bpmSource,
+    discoverySource: requested.discoverySource,
+    requestedIdentity: requested,
+  };
+}
 
-  matches.sort((a, b) => {
-    const exactA = normalized(a.name) === wantedTrack ? 1 : 0;
-    const exactB = normalized(b.name) === wantedTrack ? 1 : 0;
-    if (exactA !== exactB) return exactB - exactA;
-    return String(b.album?.release_date ?? '').localeCompare(String(a.album?.release_date ?? ''));
-  });
-  return matches[0] ?? null;
+async function resolveRequestedTrack(token, requested, excluded) {
+  if (requested.spotifyTrackId) {
+    const id = requested.spotifyTrackId;
+    if (excluded.has(id)) return { error: 'already present in persistent state' };
+    try {
+      const track = await spotifyGet(token, `/tracks/${id}?market=SE`);
+      if (!identityMatches(track, requested)) return { error: 'direct Spotify track identity mismatch' };
+      return { track: candidateRecord(track, requested) };
+    } catch (error) {
+      // The exact public Spotify ID remains authoritative even if metadata lookup is unavailable.
+      return {
+        track: candidateRecord({
+          id,
+          uri: `spotify:track:${id}`,
+          name: requested.track,
+          artists: [{ name: requested.artist }],
+          external_urls: { spotify: `https://open.spotify.com/track/${id}` },
+        }, requested),
+        warning: String(error),
+      };
+    }
+  }
+
+  if (requested.spotifyAlbumId) {
+    try {
+      const album = await spotifyGet(token, `/albums/${requested.spotifyAlbumId}?market=SE`);
+      const track = (album?.tracks?.items ?? []).find((item) => identityMatches(item, requested) && !excluded.has(item.id));
+      if (!track) return { error: 'exact track not found on supplied Spotify album' };
+      return { track: candidateRecord(track, requested, album) };
+    } catch (error) {
+      return { error: String(error) };
+    }
+  }
+
+  return { error: 'no exact Spotify track or album identifier supplied' };
 }
 
 async function main() {
@@ -92,44 +132,24 @@ async function main() {
   const token = await refreshToken();
   const candidates = [];
   const unresolved = [];
+  const warnings = [];
 
   for (const requested of request.candidates) {
-    const query = new URLSearchParams({
-      q: `track:"${requested.track}" artist:"${requested.artist}"`,
-      type: 'track',
-      market: 'SE',
-      limit: '20',
-    });
-    const data = await spotifyGet(token, `/search?${query}`);
-    const track = chooseExactTrack(data?.tracks?.items ?? [], requested, excluded);
-    if (!track) {
-      unresolved.push({ artist: requested.artist, track: requested.track, album: requested.album ?? null });
-      continue;
-    }
-
-    candidates.push({
-      id: track.id,
-      uri: track.uri,
-      name: track.name,
-      artists: (track.artists ?? []).map((artist) => artist.name),
-      album: track.album?.name ?? null,
-      releaseDate: track.album?.release_date ?? null,
-      durationMs: track.duration_ms ?? null,
-      spotifyUrl: track.external_urls?.spotify ?? `https://open.spotify.com/track/${track.id}`,
-      bpm: requested.bpm,
-      tempoSource: requested.bpmSource,
-      discoverySource: requested.discoverySource,
-      requestedIdentity: requested,
-    });
+    const result = await resolveRequestedTrack(token, requested, excluded);
+    if (result.track) candidates.push(result.track);
+    else unresolved.push({ artist: requested.artist, track: requested.track, error: result.error });
+    if (result.warning) warnings.push({ artist: requested.artist, track: requested.track, warning: result.warning });
   }
 
   const output = {
     generatedAt: new Date().toISOString(),
+    runId: request.runId ?? null,
     target: request.target,
-    source: 'Exact Spotify track identity from Spotify Web API; BPM from the external source declared per request.',
+    source: 'Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.',
     requestedCount: request.candidates.length,
     resolvedCount: candidates.length,
     unresolved,
+    warnings,
     candidates,
   };
 
