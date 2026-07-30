@@ -135,7 +135,6 @@ async function main() {
 
   await fs.writeFile(OUTPUT, `${JSON.stringify(output, null, 2)}\n`);
   console.log(`Resolved ${candidates.length}/${request.candidates.length} exact candidates`);
-  if (unresolved.length) process.exitCode = 2;
 }
 
 main().catch((error) => {
