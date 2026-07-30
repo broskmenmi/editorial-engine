@@ -13,7 +13,7 @@ Every important claim must be identified internally as:
 
 - **Measured evidence** — BPM, duration, exact identity, position, or lawful audio measurements.
 - **Craft convention** — useful professional practice, not a universal law.
-- **Listener report** — direct user experience; highest authority for this personal playlist.
+- **Listener report** — direct user experience; highest authority when volunteered.
 - **Editorial interpretation** — a proposed narrative or structural role.
 
 Reject or revise any decision that:
@@ -24,11 +24,25 @@ Reject or revise any decision that:
 - uses precise-sounding language without an evidence source;
 - ignores listener evidence because BPM or structure looks correct.
 
+## Relaxation-first audit
+
+Reject or revise any workflow outcome that:
+
+- assigns A/B listening tests;
+- asks the user to rank alternatives;
+- requires confirmation of every critical role;
+- blocks all growth only because direct listener confirmation is absent;
+- repeats the same REVISIT choices while waiting for homework;
+- places subjective listening instructions inside `MANUAL ACTION`.
+
+The workflow must carry uncertainty itself and make the best available editorial decision.
+
 ## Core checks
 - No duplicate tracks.
 - No conflict with `rejected.md` unless explicitly justified.
 - No unresolved REVISIT track is silently promoted.
-- No active UNDER REVIEW track is treated as settled.
+- No genuinely active UNDER REVIEW track is treated as settled.
+- Tracks are not placed UNDER REVIEW merely because their editorial role lacks explicit confirmation.
 - Additions strengthen the constitution rather than merely increase variety.
 - Artist, texture, and energy concentration remain balanced.
 - Opening, immersion, groove, pressure, decompression, and dissolution remain coherent.
@@ -41,28 +55,36 @@ Reject or revise any decision that:
 - Decompression descends progressively rather than through an accidental tempo collapse.
 - Spotify Mix, crossfade, or automatic transition features are never treated as proof that a transition works.
 - User listening feedback overrides speculative metadata-based approval.
-- Numeric compliance is never treated as sufficient approval.
+- Numeric compliance is never treated as sufficient certainty.
 
-## Focused-review gate
+## Critical-role handling
 
 For opener, re-entry, important crest, main summit, decompression pivot, and closer candidates:
 
-- require direct listener confirmation or reliable lawful audio evidence before final confidence;
-- if the decisive question concerns how the track feels and only metadata exists, downgrade provisional ADD to REVISIT;
-- when a critical track is already in the ledger without confirmation, add it to `under-review.md` rather than pretending the role is settled.
+- apply stricter internal scrutiny;
+- allow ADD with a provisional editorial role when measurable placement is coherent and no negative evidence exists;
+- do not require direct user confirmation;
+- use REVISIT only for a concrete material concern, not merely missing confirmation;
+- reopen later if natural listener feedback contradicts the admission.
 
 ## Accepted-track review audit
 
-When the user questions an accepted track:
+Open UNDER REVIEW only when:
+
+- the user naturally questions an accepted track;
+- a concrete objective defect is discovered;
+- new evidence directly contradicts the original admission.
+
+When a review opens:
 
 1. preserve the exact listener report;
 2. keep the track in the ledger during discussion unless the user orders immediate removal;
 3. explain the original intended job in plain language;
-4. test KEEP, MOVE, REPLACE, or REMOVE;
+4. evaluate KEEP, MOVE, REPLACE, or REMOVE autonomously;
 5. distinguish whether the problem is the track, its position, or the surrounding tracks;
-6. resolve only after listener evidence or an explicit user decision.
+6. resolve from available evidence or keep provisionally without assigning a test.
 
-Feeling relieved because a track ends is strong evidence that the track or placement is creating unwanted tension. It does not require an instant removal, but it blocks claims that the track is functioning successfully.
+Feeling relieved because a track ends is strong evidence that the track or placement is creating unwanted tension. It does not require instant removal, but it blocks claims that the track is functioning successfully.
 
 ## Long-form storytelling audit
 
@@ -79,7 +101,7 @@ For playlists that grow beyond one compact arc, verify:
 - New material is normally inserted before the final descent rather than appended after the closer.
 - Consecutive chapters do not repeat the same build-drop formula.
 - A compact current sequence may be reclassified as a first wave or chapter when future growth requires it.
-- The actual listener response supports the chapter map; if not, reclassify or repair it.
+- Natural listener feedback supports the chapter map when such feedback exists; absence of feedback is not failure.
 
 ## Duration guidance
 - Under 60 minutes may pass with one complete wave.
@@ -89,9 +111,9 @@ For playlists that grow beyond one compact arc, verify:
 
 ## Repair-first rule
 
-Before approving any extension, audit the current canonical ledger and `under-review.md` for known defects. If a transition, attention problem, accepted track, or chapter is unresolved, prioritize repair through KEEP, MOVE, insertion, replacement, removal, or reordering.
+Before approving any extension, audit the current canonical ledger and `under-review.md` for actual known defects.
 
-A high-priority accepted-track review blocks unrelated growth unless the user explicitly postpones it.
+A genuine complaint or objective defect takes priority. Mere lack of confirmation does not freeze growth.
 
 ## Authority
 The Auditor may:
@@ -111,7 +133,7 @@ The Auditor may:
 - Adjacent BPM trajectory
 - Chapter and wave map
 - Local crests and dominant summit
-- Active accepted-track reviews
+- Genuine active accepted-track reviews
 - Flagged pulse and attention transitions
 - Approved repairs and changes
 - Vetoed or revised changes with reasons
