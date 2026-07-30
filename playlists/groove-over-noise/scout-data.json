@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T07:06:05.556Z",
+  "generatedAt": "2026-07-30T06:58:18.579Z",
   "runId": "2026-07-30T08:30:05+02:00",
   "target": {
     "role": "third-wave psychological threshold",
@@ -20,24 +20,80 @@
   },
   "source": "Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 0,
-  "unresolved": [
-    {
-      "artist": "Decoder",
-      "track": "Flowing",
-      "error": "exact track not found on supplied Spotify album"
-    },
-    {
-      "artist": "Setaoc Mass",
-      "track": "Evidence",
-      "error": "already present in persistent state"
-    },
-    {
-      "artist": "Temudo",
-      "track": "U Used to Laugh at My Jokes",
-      "error": "already present in persistent state"
-    }
-  ],
+  "resolvedCount": 3,
+  "unresolved": [],
   "warnings": [],
-  "candidates": []
+  "candidates": [
+    {
+      "id": "67G0MRoqW60mlqLbWd14Wo",
+      "uri": "spotify:track:67G0MRoqW60mlqLbWd14Wo",
+      "name": "Flowing",
+      "artists": [
+        "Decoder"
+      ],
+      "album": "Momentum",
+      "releaseDate": "2026-05-22",
+      "durationMs": 378287,
+      "spotifyUrl": "https://open.spotify.com/track/67G0MRoqW60mlqLbWd14Wo",
+      "bpm": 138,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Enemy Records release dated 2026-05-22",
+      "requestedIdentity": {
+        "artist": "Decoder",
+        "track": "Flowing",
+        "album": "Momentum",
+        "spotifyAlbumId": "6xeD7pJvzRiIoPk8U2RXrN",
+        "bpm": 138,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Enemy Records release dated 2026-05-22"
+      }
+    },
+    {
+      "id": "6B6OOqzZpF6lQsjK2Zav4S",
+      "uri": "spotify:track:6B6OOqzZpF6lQsjK2Zav4S",
+      "name": "Evidence",
+      "artists": [
+        "Setaoc Mass"
+      ],
+      "album": "53 Degrees North (Part One)",
+      "releaseDate": "2019-03-11",
+      "durationMs": 343826,
+      "spotifyUrl": "https://open.spotify.com/track/6B6OOqzZpF6lQsjK2Zav4S",
+      "bpm": 137,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Overlooked SK_Eleven catalogue track",
+      "requestedIdentity": {
+        "artist": "Setaoc Mass",
+        "track": "Evidence",
+        "spotifyTrackId": "6B6OOqzZpF6lQsjK2Zav4S",
+        "bpm": 137,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Overlooked SK_Eleven catalogue track"
+      }
+    },
+    {
+      "id": "6G4OuJ8hKbNt96UrmPWI2J",
+      "uri": "spotify:track:6G4OuJ8hKbNt96UrmPWI2J",
+      "name": "U Used to Laugh at My Jokes",
+      "artists": [
+        "Temudo"
+      ],
+      "album": "And the Pattern Repeats",
+      "releaseDate": "2026-03-20",
+      "durationMs": 385000,
+      "spotifyUrl": "https://open.spotify.com/track/6G4OuJ8hKbNt96UrmPWI2J",
+      "bpm": 140,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Primal Instinct release dated 2026-03-20",
+      "requestedIdentity": {
+        "artist": "Temudo",
+        "track": "U Used to Laugh at My Jokes",
+        "album": "And the Pattern Repeats",
+        "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
+        "bpm": 140,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Primal Instinct release dated 2026-03-20"
+      }
+    }
+  ]
 }
