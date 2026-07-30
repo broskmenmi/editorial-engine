@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import process from 'node:process';
@@ -35,6 +36,10 @@ function normalizeText(value) {
   return String(value ?? '').normalize('NFC').replace(/\s+/g, ' ').trim();
 }
 
+function fingerprintUris(uris) {
+  return createHash('sha256').update(uris.join('\n'), 'utf8').digest('hex');
+}
+
 async function readCoverBase64(playlistDir, config) {
   if (!config.coverImageBase64Path) return null;
   const coverPath = path.resolve(playlistDir, config.coverImageBase64Path);
@@ -58,6 +63,7 @@ async function main() {
 
   const rows = await readLedger(ledgerPath, { allowEmpty });
   const desiredUris = rows.map((row) => row.uri);
+  const ledgerFingerprint = fingerprintUris(desiredUris);
   const config = await readJson(configPath);
   const coverBase64 = await readCoverBase64(playlistDir, config);
 
@@ -91,6 +97,8 @@ async function main() {
       currentTrackCount: currentUris.length,
       desiredTrackCount: desiredUris.length,
       exactMatch: arraysEqual(currentUris, desiredUris),
+      ledgerCommit: process.env.LEDGER_COMMIT ?? process.env.GITHUB_SHA ?? null,
+      ledgerFingerprint,
       coverConfigured: Boolean(coverBase64),
       desired: rows,
     }, null, 2));
@@ -143,7 +151,8 @@ async function main() {
     status: complete ? 'COMPLETE' : 'PARTIAL',
     playlistId: playlist.id,
     playlistUrl: `https://open.spotify.com/playlist/${playlist.id}`,
-    ledgerCommit: process.env.GITHUB_SHA ?? null,
+    ledgerCommit: process.env.LEDGER_COMMIT ?? process.env.GITHUB_SHA ?? null,
+    ledgerFingerprint,
     ledgerTrackCount: desiredUris.length,
     spotifyTrackCount: actualUris.length,
     metadataVerified: metadataMatch,
@@ -173,7 +182,8 @@ main().catch(async (error) => {
     status: 'FAILED',
     playlistId: null,
     playlistUrl: null,
-    ledgerCommit: process.env.GITHUB_SHA ?? null,
+    ledgerCommit: process.env.LEDGER_COMMIT ?? process.env.GITHUB_SHA ?? null,
+    ledgerFingerprint: null,
     ledgerTrackCount: null,
     spotifyTrackCount: null,
     metadataVerified: false,
