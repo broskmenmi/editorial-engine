@@ -6,7 +6,7 @@ const REQUEST = 'playlists/groove-over-noise/scout-request.json';
 const OUTPUT = 'playlists/groove-over-noise/scout-data.json';
 
 function idsFromText(text) {
-  return new Set([...text.matchAll(/spotify:track:([A-Za-z0-9]{22})/g)].map((m) => m[1]));
+  return new Set([...text.matchAll(/spotify:track:([A-Za-z0-9]{22})/g)].map((match) => match[1]));
 }
 
 function normalized(value) {
@@ -16,6 +16,37 @@ function normalized(value) {
     .replace(/\s+/g, ' ')
     .trim()
     .toLowerCase();
+}
+
+function requestIdentity(requested) {
+  return JSON.stringify({
+    artist: normalized(requested.artist),
+    track: normalized(requested.track),
+    album: normalized(requested.album),
+    spotifyTrackId: requested.spotifyTrackId ?? null,
+    spotifyAlbumId: requested.spotifyAlbumId ?? null,
+    bpm: requested.bpm ?? null,
+  });
+}
+
+async function readJsonIfPresent(filePath) {
+  try {
+    return JSON.parse(await fs.readFile(filePath, 'utf8'));
+  } catch (error) {
+    if (error?.code === 'ENOENT') return null;
+    throw error;
+  }
+}
+
+function isCompleteSnapshotForRequest(existing, request) {
+  if (!existing || !request.runId || existing.runId !== request.runId) return false;
+  if (!Array.isArray(existing.candidates) || existing.candidates.length !== request.candidates.length) return false;
+  if (existing.resolvedCount !== request.candidates.length) return false;
+
+  return request.candidates.every((requested, index) => {
+    const stored = existing.candidates[index]?.requestedIdentity;
+    return stored && requestIdentity(stored) === requestIdentity(requested);
+  });
 }
 
 async function refreshToken() {
@@ -41,7 +72,11 @@ async function spotifyGet(token, path) {
   });
   const text = await response.text();
   let body;
-  try { body = JSON.parse(text); } catch { body = text; }
+  try {
+    body = JSON.parse(text);
+  } catch {
+    body = text;
+  }
   if (!response.ok) throw new Error(`Spotify ${path} failed: ${response.status} ${JSON.stringify(body)}`);
   return body;
 }
@@ -98,8 +133,9 @@ async function resolveRequestedTrack(token, requested, excluded) {
   if (requested.spotifyAlbumId) {
     try {
       const album = await spotifyGet(token, `/albums/${requested.spotifyAlbumId}?market=SE`);
-      const track = (album?.tracks?.items ?? []).find((item) => identityMatches(item, requested) && !excluded.has(item.id));
+      const track = (album?.tracks?.items ?? []).find((item) => identityMatches(item, requested));
       if (!track) return { error: 'exact track not found on supplied Spotify album' };
+      if (excluded.has(track.id)) return { error: 'already present in persistent state' };
       return { track: candidateRecord(track, requested, album) };
     } catch (error) {
       return { error: String(error) };
@@ -119,15 +155,23 @@ async function main() {
     throw new Error('scout-request.json must contain exactly three candidates');
   }
 
+  const existing = await readJsonIfPresent(OUTPUT);
+  if (isCompleteSnapshotForRequest(existing, request)) {
+    console.log(`Preserving complete ${existing.resolvedCount}/${request.candidates.length} scout snapshot for run ${request.runId}`);
+    return;
+  }
+
   const sourcePaths = [
     'playlists/groove-over-noise/ledger.md',
     'playlists/groove-over-noise/rejected.md',
     'playlists/groove-over-noise/revisit.md',
     'playlists/groove-over-noise/discoveries.md',
   ];
-  const sourceTexts = await Promise.all(sourcePaths.map((path) => fs.readFile(path, 'utf8')));
+  const sourceTexts = await Promise.all(sourcePaths.map((filePath) => fs.readFile(filePath, 'utf8')));
   const excluded = new Set();
-  for (const text of sourceTexts) for (const id of idsFromText(text)) excluded.add(id);
+  for (const text of sourceTexts) {
+    for (const id of idsFromText(text)) excluded.add(id);
+  }
 
   const token = await refreshToken();
   const candidates = [];
