@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Setaoc Mass | Evidence | At 137 BPM it creates a clean 136 → 137 → 138 path, but no track-specific evidence establishes a distinct threshold function beyond Flowing and Nasty Tool. | 2026-07-30 |
+| Temudo | U Used to Laugh at My Jokes | At 140 BPM it creates 136 → 140 → 138 → 141, an avoidable up-down-up tempo sawtooth immediately before the summit. | 2026-07-30 |
 | Ross Hillier | Someone Is Trying to Get | At 139 BPM it bridges the summit numerically, but the release description emphasizes tense slow-burning pressure and maximum late-night impact, extending the summit instead of beginning decompression. | 2026-07-30 |
 | Derode | Initial Pulse | At 139 BPM it produces a clean 141 → 139 → 137 curve, but its documented driving momentum and gradual tension-building oppose the required post-summit release. | 2026-07-30 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride - GLIA Remix | Although its 140 BPM placement is numerically smooth, the user experiences too much happening, stress while it plays, and relief when it ends; it therefore fails restraint and immersion as second-wave re-entry. | 2026-07-23 |
