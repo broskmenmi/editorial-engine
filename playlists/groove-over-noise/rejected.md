@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Ross Hillier | Someone Is Trying to Get | At 139 BPM it bridges the summit numerically, but the release description emphasizes tense slow-burning pressure and maximum late-night impact, extending the summit instead of beginning decompression. | 2026-07-30 |
+| Derode | Initial Pulse | At 139 BPM it produces a clean 141 → 139 → 137 curve, but its documented driving momentum and gradual tension-building oppose the required post-summit release. | 2026-07-30 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride - GLIA Remix | Although its 140 BPM placement is numerically smooth, the user experiences too much happening, stress while it plays, and relief when it ends; it therefore fails restraint and immersion as second-wave re-entry. | 2026-07-23 |
 | Arthur Robert | Conformal Invariance | At 140 BPM it fits numerically, but its spacious flow continues the preceding release instead of clearly bringing movement back before Tragoidia. | 2026-07-23 |
 | Arkan | Attraction | At 135 BPM replacing Nasty Tool, it produces 136 → 135 → 141: the third wave descends before an unsupported +6 BPM rebound into Iruka, weakening summit preparation. | 2026-07-22 |
