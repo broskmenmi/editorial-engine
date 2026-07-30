@@ -1,11 +1,12 @@
 name: Build Spotify scout data
 
-# Candidate metadata refresh trigger.
+# Exact candidate identity refresh trigger.
 on:
   push:
     branches: [main]
     paths:
       - "apps/spotify-scout/**"
+      - "playlists/groove-over-noise/scout-request.json"
       - ".github/workflows/spotify-scout.yml"
   workflow_dispatch:
 
