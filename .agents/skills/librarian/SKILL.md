@@ -6,21 +6,34 @@ description: Persist approved playlist decisions in GitHub by maintaining the ca
 # Librarian
 
 ## Responsibilities
-1. Update `ledger.md` with all approved ADD, REMOVE, REPLACE, and REORDER decisions in canonical listening order.
-2. Every ledger row must contain the exact verified Spotify URI `spotify:track:<22-character-id>`.
-3. Every ledger row must contain verified BPM when reliable metadata is available.
-4. Refuse to persist an ADD whose Spotify URI is missing, malformed, ambiguous, or duplicated.
-5. Treat row order as publication order and renumber all rows consecutively after insertions, removals, or reordering.
-6. Recalculate and review the complete adjacent BPM trajectory whenever the ledger changes.
-7. Do not persist an opening transition above 4 BPM or any transition above 7 BPM without the Auditor's documented exception.
-8. Append the complete run to `discoveries.md`.
-9. Add REJECT decisions and durable reasons to `rejected.md`.
-10. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
-11. Mark inactive alternatives as PARKED so they are not resurfaced without new evidence.
-12. Open, update, and resolve genuine accepted-track cases in `under-review.md`.
-13. Update `notes.md` with the current structural need, evidence status, active reviews, and unresolved transition or attention defects.
-14. Preserve valid history; do not silently rewrite prior decisions.
-15. Prevent duplicate track URIs and keep numbering consistent.
+1. Use the frozen three-candidate `scout-data.json` snapshot already approved by the Auditor. Do not rerun Scout or candidate resolution.
+2. Update `ledger.md` with all approved ADD, REMOVE, REPLACE, and REORDER decisions in canonical listening order.
+3. Every ledger row must contain the exact verified Spotify URI `spotify:track:<22-character-id>`.
+4. Every ledger row must contain verified BPM when reliable metadata is available.
+5. Refuse to persist an ADD whose Spotify URI is missing, malformed, ambiguous, or duplicated.
+6. Treat row order as publication order and renumber all rows consecutively after insertions, removals, or reordering.
+7. Recalculate and review the complete adjacent BPM trajectory whenever the ledger changes.
+8. Do not persist an opening transition above 4 BPM or any transition above 7 BPM without the Auditor's documented exception.
+9. Append the complete run to `discoveries.md`.
+10. Add REJECT decisions and durable reasons to `rejected.md`.
+11. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
+12. Mark inactive alternatives as PARKED so they are not resurfaced without new evidence.
+13. Open, update, and resolve genuine accepted-track cases in `under-review.md`.
+14. Update `notes.md` with the current structural need, evidence status, active reviews, and unresolved transition or attention defects.
+15. Preserve valid history; do not silently rewrite prior decisions.
+16. Prevent duplicate track URIs and keep numbering consistent.
+
+## Atomic editorial commit
+
+The approved editorial change set must be persisted as one logical unit.
+
+- Do not write any persistent editorial file before audit approval.
+- Prepare the complete final contents of every changed file first.
+- Where GitHub tree/commit tools are available, write all changed editorial files in one batched commit and update the branch once.
+- Otherwise use the fewest possible writes, never rerun an earlier workflow phase between writes, and target one user-authored editorial commit.
+- Do not create intermediate commits whose only purpose is to queue, prepend, or repair parts of the same run.
+- After the editorial commit, do not modify `scout-request.json` or `scout-data.json`.
+- Publication-status bot commits are separate and do not count as editorial commits.
 
 ## Relaxation-first persistence
 
@@ -74,6 +87,7 @@ Do not record a mandatory listening test. The track remains in `ledger.md` until
 ## Required run record
 - Date
 - Candidates, exact Spotify URIs, BPM, and verdicts
+- The candidate snapshot `runId`
 - Measured evidence, craft convention, listener evidence, and editorial interpretation
 - Placement and purpose for ADD
 - Removal, replacement, or reordering rationale
@@ -88,4 +102,4 @@ Do not record a mandatory listening test. The track remains in `ledger.md` until
 - Genuine active and resolved accepted-track reviews
 - Editorial note
 
-GitHub files are the persistent source of truth. A successful ledger commit triggers exact Spotify publication through the repository workflow; the Librarian never calls a generative playlist tool.
+GitHub files are the persistent source of truth. A successful ledger commit triggers exact Spotify publication through the repository workflow; the Librarian never calls a generative playlist tool and never invokes the Scout after decisions are persisted.
