@@ -11,27 +11,30 @@
   },
   "candidates": [
     {
-      "artist": "Sandro Galli",
-      "track": "Extra Dimension",
-      "album": "Extra Dimension EP",
-      "bpm": 137,
-      "bpmSource": "Beatport exact release metadata",
-      "discoverySource": "Gynoid Audio release dated 2026-07-24"
-    },
-    {
       "artist": "Decoder",
       "track": "Flowing",
       "album": "Momentum",
+      "spotifyAlbumId": "6xeD7pJvzRiIoPk8U2RXrN",
       "bpm": 138,
-      "bpmSource": "Beatport exact release metadata",
+      "bpmSource": "Beatport exact track metadata",
       "discoverySource": "Enemy Records release dated 2026-05-22"
     },
     {
-      "artist": "Night Quest",
-      "track": "Eyelid Portal",
-      "bpm": 138,
+      "artist": "Setaoc Mass",
+      "track": "Evidence",
+      "spotifyTrackId": "6B6OOqzZpF6lQsjK2Zav4S",
+      "bpm": 137,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Mind & Me Music release dated 2026-07-10"
+      "discoverySource": "Overlooked SK_Eleven catalogue track"
+    },
+    {
+      "artist": "Temudo",
+      "track": "U Used to Laugh at My Jokes",
+      "album": "And the Pattern Repeats",
+      "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
+      "bpm": 140,
+      "bpmSource": "Beatport exact track metadata",
+      "discoverySource": "Primal Instinct release dated 2026-03-20"
     }
   ]
 }
