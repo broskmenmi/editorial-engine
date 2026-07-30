@@ -39,6 +39,15 @@ The playlist directory is persistent editorial state. The skill packages are gen
 
 `revisit.md` is for candidates not yet admitted. `under-review.md` is for tracks already in the canonical ledger whose continued place or position is unresolved because of actual listener feedback, a concrete defect, or new contradictory evidence.
 
+## Candidate snapshot lifecycle
+
+- Candidate resolution occurs once before evaluation.
+- One `scout-request.json` `runId` produces one immutable completed `scout-data.json` snapshot.
+- Evaluator, Sequencer, Auditor, and Librarian use the same frozen three-candidate snapshot.
+- After audit approval, do not rerun Scout, rewrite the request, or regenerate the candidate snapshot.
+- The Publisher only publishes the canonical ledger. It never invokes `apps/spotify-scout/` and never modifies scout files.
+- `scout-data.json` is diagnostic evidence. It cannot override the audited ledger or suppress the final response.
+
 ## Relaxation-first operation
 
 The editorial engine exists to reduce the user's effort and stress around discovering music.
@@ -69,10 +78,19 @@ Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
 
 Do not write persistent state before audit approval. GitHub is the source of truth. Spotify is a publication target.
 
+Persist the approved editorial change set as one batched commit when GitHub tree/commit tools are available. Do not create intermediate commits for partial phases of one run.
+
+## Delivery safety
+
+- Do not restart completed phases or poll the same status continuously.
+- If Spotify publication is pending when the task must finish, report PARTIAL and deliver the final response.
+- Pending or secondary-cache failures must not be reported as a failed scheduled task when the editorial commit succeeded.
+- The final report is based on the audited decisions, `ledger.md`, and `spotify-status.json`, never on post-publication scout output.
+
 ## Spotify publication
 
 - Every canonical ledger row must include one exact Spotify track URI.
-- Exact publication is performed by `.github/workflows/publish-spotify.yml` through `apps/spotify-publisher/`.
+- Exact publication is performed by `.github/workflows/publish-spotify.yml` through `apps/spotify-publisher/` only.
 - The canonical playlist ID is persisted in `spotify.json`.
 - Publication is COMPLETE only when `spotify-status.json` records exact URI-order verification.
 - Do not use the ChatGPT Spotify connector for canonical playlist search, creation, editing, or publication.
