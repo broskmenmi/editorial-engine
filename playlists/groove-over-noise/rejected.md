@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| FANK | Badlands | At 145 BPM before Two Glasses of Whisky, it creates a 141 → 145 → 145 approach and duplicates the established first crest instead of shaping the ascent toward it. | 2026-07-31 |
+| No Valentia | Something Beneath | At 145 BPM before Two Glasses of Whisky, it creates a redundant crest plateau and adds no distinct structural function beyond the accepted 145 BPM crest. | 2026-07-31 |
 | Setaoc Mass | Evidence | At 137 BPM it creates a clean 136 → 137 → 138 path, but no track-specific evidence establishes a distinct threshold function beyond Flowing and Nasty Tool. | 2026-07-30 |
 | Temudo | U Used to Laugh at My Jokes | At 140 BPM it creates 136 → 140 → 138 → 141, an avoidable up-down-up tempo sawtooth immediately before the summit. | 2026-07-30 |
 | Ross Hillier | Someone Is Trying to Get | At 139 BPM it bridges the summit numerically, but the release description emphasizes tense slow-burning pressure and maximum late-night impact, extending the summit instead of beginning decompression. | 2026-07-30 |

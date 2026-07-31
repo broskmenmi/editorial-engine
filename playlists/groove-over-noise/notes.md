@@ -53,9 +53,9 @@ This is the GROOVE OVER NOISE house style, not a universal techno rule.
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 141 → 142 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent transition remains within the 0–4 BPM target. The new **136 → 138 → 138 → 141** third-wave approach avoids both a sharp jump and accidental sawtoothing.
+Every adjacent transition remains within the 0–4 BPM target. The new **141 → 142 → 145** first-wave approach divides the earlier +4 BPM rise into +1 and +3 BPM stages without tempo sawtoothing.
 
 ## Current chapter map
 
@@ -63,30 +63,31 @@ Every adjacent transition remains within the 0–4 BPM target. The new **136 →
 2. **Groove formation:** Wurk
 3. **Opening pulse bridge:** Ottagone 001
 4. **Percussive rise:** Cachoeira
-5. **First local crest:** Two Glasses of Whisky
-6. **First partial release:** Trail Of
-7. **Post-crest bridge:** Enlightenment
-8. **Second-wave re-entry, provisional:** F Track
-9. **Deeper second crest, provisional:** Tragoidia
-10. **Second-wave release:** Bionic Jungle
-11. **Second-wave release extension:** AB01
-12. **Third-wave psychological threshold, provisional:** Flowing
-13. **Third-wave re-entry, provisional:** Nasty Tool
-14. **Dominant main summit, provisional:** Iruka
-15. **Summit decompression hinge, provisional:** Session 4 - Original Mix
-16. **Summit decompression continuation:** Interlynx
-17. **Decompression pulse bridge:** Minimum
-18. **Focused decompression:** Eclipse
-19. **Deep decompression bridge:** Haidou
-20. **Dissolution:** Calipso
+5. **First-wave crest approach, provisional:** Miss Perez
+6. **First local crest:** Two Glasses of Whisky
+7. **First partial release:** Trail Of
+8. **Post-crest bridge:** Enlightenment
+9. **Second-wave re-entry, provisional:** F Track
+10. **Deeper second crest, provisional:** Tragoidia
+11. **Second-wave release:** Bionic Jungle
+12. **Second-wave release extension:** AB01
+13. **Third-wave psychological threshold, provisional:** Flowing
+14. **Third-wave re-entry, provisional:** Nasty Tool
+15. **Dominant main summit, provisional:** Iruka
+16. **Summit decompression hinge, provisional:** Session 4 - Original Mix
+17. **Summit decompression continuation:** Interlynx
+18. **Decompression pulse bridge:** Minimum
+19. **Focused decompression:** Eclipse
+20. **Deep decompression bridge:** Haidou
+21. **Dissolution:** Calipso
 
 ## Current editorial assessment
 
-The summit previously moved directly from **Iruka at 141 BPM** to **Interlynx at 137 BPM**. **RTNH — Session 4 - Original Mix at 138 BPM** now forms a dedicated hinge: **141 → 138 → 137**, converting peak force into repetition before the established descent.
+The first wave previously moved directly from **Cachoeira at 141 BPM** into **Two Glasses of Whisky at 145 BPM**. **No Valentia — Miss Perez at 142 BPM** now forms a provisional crest approach: **141 → 142 → 145**. The placement expands the earlier chapter and improves measured pulse staging without changing the established first crest.
 
-The third wave previously moved directly from **AB01 at 136 BPM** into **Nasty Tool at 138 BPM**. **Decoder — Flowing at 138 BPM** now creates a provisional psychological threshold before the physical re-entry. Its exact release context is documented as psychedelic and mood-shifting, while the track-specific listening effect remains an editorial hypothesis rather than a measured fact.
+The boisha release context describes the EP as pulse-focused and tension-driven, while the track-specific listening effect remains an editorial hypothesis rather than a measured fact. Natural listener feedback may reopen the placement later without creating any required comparison.
 
-**Setaoc Mass — Evidence** was rejected despite a smooth 136 → 137 → 138 path because no track-specific evidence established a distinct role beyond the accepted threshold and re-entry. **Temudo — U Used to Laugh at My Jokes** was rejected because 136 → 140 → 138 → 141 creates avoidable up-down-up tempo sawtoothing before the summit.
+**FANK — Badlands** and **No Valentia — Something Beneath** were rejected at this position because both are 145 BPM and would create a crest plateau immediately before the existing 145 BPM first crest. Their rejection is structural, not a claim that either track is intrinsically unsuitable music.
 
 There are no active accepted-track reviews. Parked alternatives remain parked unless their documented trigger occurs.
 
@@ -105,11 +106,12 @@ Continue autonomous discovery without assigning listener homework.
 Priorities:
 
 1. Preserve the complete compliant BPM trajectory.
-2. Let Flowing's threshold role remain provisional unless natural feedback contradicts it.
-3. Avoid adding another track between AB01 and Iruka without a genuinely distinct function.
-4. Protect Session 4 and the established long decompression.
-5. Keep the dominant summit clearly at Iruka.
-6. Search next for a distinct earlier chapter or structural repair, not another summit approach layer.
+2. Let Miss Perez's crest-approach role remain provisional unless natural feedback contradicts it.
+3. Avoid further additions between Cachoeira and Two Glasses of Whisky without a concrete new function.
+4. Avoid adding another track between AB01 and Iruka without a genuinely distinct function.
+5. Protect Session 4 and the established long decompression.
+6. Keep the dominant summit clearly at Iruka.
+7. Search next for a distinct chapter elsewhere or an actual transition repair.
 
 ## Output discipline
 
