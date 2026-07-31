@@ -26,4 +26,5 @@ None.
 
 | Artist | Track | Original role | Listener evidence | Resolution | Date |
 |---|---|---|---|---|---|
+| Slam, Vril | Program - VRIL Remix | Pre-arrival threshold | “Too slow, too much house”; Rene Wise — Deep Under sets the tone of the rest of the playlist. | REMOVE — restore Deep Under as the protected opener. | 2026-07-31 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride — GLIA Remix | Second-wave re-entry | “Too much is happening”; stressful; relieved when it ends. | REPLACE — role retained, track replaced. | 2026-07-18 |
