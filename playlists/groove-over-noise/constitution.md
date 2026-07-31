@@ -103,6 +103,20 @@ A proposed replacement or pre-arrival track must strengthen the same identity im
 
 **Rene Wise — Deep Under is the protected GROOVE OVER NOISE opener until direct listener feedback says otherwise.**
 
+## Protected opening handoff
+
+The first transition can become part of the playlist's identity, not merely a connection between two BPM values.
+
+When the user naturally identifies an opening transition as especially right, preserve that pair and the space between them. Do not insert another track between them or reorder them merely to extend the chapter or improve a numerical curve.
+
+**Rene Wise — Deep Under → Skov Bowden — Wurk is the protected GROOVE OVER NOISE opening handoff.**
+
+- **Measured evidence:** 134 → 136 BPM, a +2 BPM step.
+- **Listener report:** the transition feels very subtle and is strongly liked.
+- **Editorial interpretation:** the second track feels like the same world continuing with slightly firmer movement, rather than a new scene arriving.
+
+The interpretation remains a hypothesis; the positive listener report is the authority. The pair stays intact until direct listener feedback reopens it.
+
 ## GROOVE OVER NOISE house style
 
 The playlist's preferred long-form shape is **multiple waves with one dominant summit, followed by staged decompression and dissolution**.
@@ -133,6 +147,7 @@ Prefer:
 - it gives the listener room;
 - it feels like the journey starts over;
 - the opening gives the wrong idea about the playlist;
+- the next track feels like the same world continuing;
 - the listener wants it to continue;
 - the listener is waiting for it to end.
 
