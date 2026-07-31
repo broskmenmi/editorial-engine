@@ -85,11 +85,23 @@ Editorial decisions must distinguish four kinds of evidence:
 
 A smooth BPM transition does not prove a smooth listening experience.
 
-A track may be numerically compatible and still feel too busy, stressful, empty, disconnected, or like a new playlist has started.
+A track may be numerically compatible and still feel too busy, stressful, empty, disconnected, stylistically wrong, or like a new playlist has started.
 
-Do not claim to have heard or analysed a Spotify track when only metadata was available. Do not infer that a track is hypnotic, spacious, crowded, steady, or stressful from BPM, title, genre, artist, label, or reputation alone.
+Do not claim to have heard or analysed a Spotify track when only metadata was available. Do not infer that a track is hypnotic, spacious, crowded, steady, stressful, house-like, or emotionally powerful from BPM, title, genre, artist, label, or reputation alone.
 
 When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis. Lack of direct confirmation alone is not a reason to burden the user or freeze the playlist.
+
+## Opening identity rule
+
+The first track does more than create a smooth transition. It tells the listener what kind of world the playlist is.
+
+Once the user positively identifies an opener as the track that sets the tone, protect that opener as an identity anchor.
+
+Do not insert a prelude before a protected opener merely to create a smoother BPM curve, extend duration, or add another narrative label.
+
+A proposed replacement or pre-arrival track must strengthen the same identity immediately. If it makes the opening feel slower, more house-like, less focused, or stylistically misleading, remove it even when its BPM placement is perfect.
+
+**Rene Wise — Deep Under is the protected GROOVE OVER NOISE opener until direct listener feedback says otherwise.**
 
 ## GROOVE OVER NOISE house style
 
@@ -120,6 +132,7 @@ Prefer:
 - the track changes too often;
 - it gives the listener room;
 - it feels like the journey starts over;
+- the opening gives the wrong idea about the playlist;
 - the listener wants it to continue;
 - the listener is waiting for it to end.
 
@@ -136,6 +149,7 @@ Use specialist terms only when they genuinely help, and explain them immediately
 - aggression without purpose
 - novelty without longevity
 - competing details that repeatedly pull attention away from the groove
+- an opening identity that misrepresents the rest of the playlist
 
 ## Accept tracks that
 
