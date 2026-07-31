@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-07-30T06:58:18.579Z",
-  "runId": "2026-07-30T08:30:05+02:00",
+  "generatedAt": "2026-07-31T06:15:39.436Z",
+  "runId": "2026-07-31T08:09:07+02:00",
   "target": {
-    "role": "third-wave psychological threshold",
-    "position": "after Vil — AB01 and before Arkan — Nasty Tool",
+    "role": "first-wave crest approach",
+    "position": "after Coyu — Cachoeira and before Maeksll — Two Glasses of Whisky",
     "neighbours": [
       {
-        "artist": "Vil",
-        "track": "AB01",
-        "bpm": 136
+        "artist": "Coyu",
+        "track": "Cachoeira",
+        "bpm": 141
       },
       {
-        "artist": "Arkan",
-        "track": "Nasty Tool",
-        "bpm": 138
+        "artist": "Maeksll",
+        "track": "Two Glasses of Whisky",
+        "bpm": 145
       }
     ],
-    "purpose": "add a distinct quality before the summit climb"
+    "purpose": "expand the earlier chapter without spending the summit"
   },
   "source": "Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.",
   "requestedCount": 3,
@@ -25,74 +25,72 @@
   "warnings": [],
   "candidates": [
     {
-      "id": "67G0MRoqW60mlqLbWd14Wo",
-      "uri": "spotify:track:67G0MRoqW60mlqLbWd14Wo",
-      "name": "Flowing",
+      "id": "4cUXdWBPu6XxWhtQM8iyxc",
+      "uri": "spotify:track:4cUXdWBPu6XxWhtQM8iyxc",
+      "name": "Miss Perez",
       "artists": [
-        "Decoder"
+        "No Valentia"
       ],
-      "album": "Momentum",
-      "releaseDate": "2026-05-22",
-      "durationMs": 378287,
-      "spotifyUrl": "https://open.spotify.com/track/67G0MRoqW60mlqLbWd14Wo",
-      "bpm": 138,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Enemy Records release dated 2026-05-22",
-      "requestedIdentity": {
-        "artist": "Decoder",
-        "track": "Flowing",
-        "album": "Momentum",
-        "spotifyAlbumId": "6xeD7pJvzRiIoPk8U2RXrN",
-        "bpm": 138,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Enemy Records release dated 2026-05-22"
-      }
-    },
-    {
-      "id": "6B6OOqzZpF6lQsjK2Zav4S",
-      "uri": "spotify:track:6B6OOqzZpF6lQsjK2Zav4S",
-      "name": "Evidence",
-      "artists": [
-        "Setaoc Mass"
-      ],
-      "album": "53 Degrees North (Part One)",
-      "releaseDate": "2019-03-11",
-      "durationMs": 343826,
-      "spotifyUrl": "https://open.spotify.com/track/6B6OOqzZpF6lQsjK2Zav4S",
-      "bpm": 137,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Overlooked SK_Eleven catalogue track",
-      "requestedIdentity": {
-        "artist": "Setaoc Mass",
-        "track": "Evidence",
-        "spotifyTrackId": "6B6OOqzZpF6lQsjK2Zav4S",
-        "bpm": 137,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Overlooked SK_Eleven catalogue track"
-      }
-    },
-    {
-      "id": "6G4OuJ8hKbNt96UrmPWI2J",
-      "uri": "spotify:track:6G4OuJ8hKbNt96UrmPWI2J",
-      "name": "U Used to Laugh at My Jokes",
-      "artists": [
-        "Temudo"
-      ],
-      "album": "And the Pattern Repeats",
+      "album": "Miss Perez",
       "releaseDate": "2026-03-20",
-      "durationMs": 385000,
-      "spotifyUrl": "https://open.spotify.com/track/6G4OuJ8hKbNt96UrmPWI2J",
-      "bpm": 140,
+      "durationMs": 340812,
+      "spotifyUrl": "https://open.spotify.com/track/4cUXdWBPu6XxWhtQM8iyxc",
+      "bpm": 142,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Primal Instinct release dated 2026-03-20",
+      "discoverySource": "boisha release dated 2026-03-20",
       "requestedIdentity": {
-        "artist": "Temudo",
-        "track": "U Used to Laugh at My Jokes",
-        "album": "And the Pattern Repeats",
-        "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
-        "bpm": 140,
+        "artist": "No Valentia",
+        "track": "Miss Perez",
+        "spotifyTrackId": "4cUXdWBPu6XxWhtQM8iyxc",
+        "bpm": 142,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Primal Instinct release dated 2026-03-20"
+        "discoverySource": "boisha release dated 2026-03-20"
+      }
+    },
+    {
+      "id": "1srbITX5b9e2RTpxVsIVAo",
+      "uri": "spotify:track:1srbITX5b9e2RTpxVsIVAo",
+      "name": "Badlands",
+      "artists": [
+        "FANK"
+      ],
+      "album": "Badlands",
+      "releaseDate": "2025-09-19",
+      "durationMs": 308125,
+      "spotifyUrl": "https://open.spotify.com/track/1srbITX5b9e2RTpxVsIVAo",
+      "bpm": 145,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "boisha release dated 2025-09-19",
+      "requestedIdentity": {
+        "artist": "FANK",
+        "track": "Badlands",
+        "spotifyTrackId": "1srbITX5b9e2RTpxVsIVAo",
+        "bpm": 145,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "boisha release dated 2025-09-19"
+      }
+    },
+    {
+      "id": "09BS3LG5Devw8GT4j5mnOe",
+      "uri": "spotify:track:09BS3LG5Devw8GT4j5mnOe",
+      "name": "Something Beneath",
+      "artists": [
+        "No Valentia"
+      ],
+      "album": "Knuckle Dragger",
+      "releaseDate": "2025-06-05",
+      "durationMs": 348826,
+      "spotifyUrl": "https://open.spotify.com/track/09BS3LG5Devw8GT4j5mnOe",
+      "bpm": 145,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "RAW release dated 2025-06-05",
+      "requestedIdentity": {
+        "artist": "No Valentia",
+        "track": "Something Beneath",
+        "spotifyTrackId": "09BS3LG5Devw8GT4j5mnOe",
+        "bpm": 145,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "RAW release dated 2025-06-05"
       }
     }
   ]
