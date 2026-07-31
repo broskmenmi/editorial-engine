@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Slam, Linear Phase | Program - Linear Phase Remix | At 134 BPM before Deep Under, it creates 134 → 134 → 136 and duplicates the accepted Program remix's exact pre-arrival function instead of creating a distinct opening stage. | 2026-07-31 |
+| Vril, Pablo Bolivar | 24 Karat - Original | At 128 BPM before Deep Under, it creates a +6 BPM opening transition into 134 BPM, exceeding the opening's 0–4 BPM limit without direct continuity evidence. | 2026-07-31 |
 | FANK | Badlands | At 145 BPM before Two Glasses of Whisky, it creates a 141 → 145 → 145 approach and duplicates the established first crest instead of shaping the ascent toward it. | 2026-07-31 |
 | No Valentia | Something Beneath | At 145 BPM before Two Glasses of Whisky, it creates a redundant crest plateau and adds no distinct structural function beyond the accepted 145 BPM crest. | 2026-07-31 |
 | Setaoc Mass | Evidence | At 137 BPM it creates a clean 136 → 137 → 138 path, but no track-specific evidence establishes a distinct threshold function beyond Flowing and Nasty Tool. | 2026-07-30 |
