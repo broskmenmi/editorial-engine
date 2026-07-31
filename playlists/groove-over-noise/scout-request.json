@@ -1,38 +1,38 @@
 {
-  "runId": "2026-07-31T08:09:07+02:00",
+  "runId": "2026-07-31T10:12:15+02:00",
   "target": {
-    "role": "first-wave crest approach",
-    "position": "after Coyu — Cachoeira and before Maeksll — Two Glasses of Whisky",
+    "role": "pre-arrival threshold",
+    "position": "before Rene Wise — Deep Under",
     "neighbours": [
-      { "artist": "Coyu", "track": "Cachoeira", "bpm": 141 },
-      { "artist": "Maeksll", "track": "Two Glasses of Whisky", "bpm": 145 }
+      { "artist": "Rene Wise", "track": "Deep Under", "bpm": 134 },
+      { "artist": "Skov Bowden", "track": "Wurk", "bpm": 136 }
     ],
-    "purpose": "expand the earlier chapter without spending the summit"
+    "purpose": "extend arrival without weakening later chapters"
   },
   "candidates": [
     {
-      "artist": "No Valentia",
-      "track": "Miss Perez",
-      "spotifyTrackId": "4cUXdWBPu6XxWhtQM8iyxc",
-      "bpm": 142,
+      "artist": "Slam",
+      "track": "Program - VRIL Remix",
+      "spotifyTrackId": "1dLq2G3JpI9hNxuIzWCRKs",
+      "bpm": 133,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "boisha release dated 2026-03-20"
+      "discoverySource": "Soma Records release dated 2026-06-26"
     },
     {
-      "artist": "FANK",
-      "track": "Badlands",
-      "spotifyTrackId": "1srbITX5b9e2RTpxVsIVAo",
-      "bpm": 145,
+      "artist": "Slam",
+      "track": "Program - Linear Phase Remix",
+      "spotifyTrackId": "7m2KpO88JD4QfNqpkMjs4F",
+      "bpm": 134,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "boisha release dated 2025-09-19"
+      "discoverySource": "Soma Records release dated 2026-06-26"
     },
     {
-      "artist": "No Valentia",
-      "track": "Something Beneath",
-      "spotifyTrackId": "09BS3LG5Devw8GT4j5mnOe",
-      "bpm": 145,
+      "artist": "Vril",
+      "track": "24 Karat - Original",
+      "spotifyTrackId": "1IjwfQFjVI0qIEKEkBoIRu",
+      "bpm": 128,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "RAW release dated 2025-06-05"
+      "discoverySource": "Seven Villas release dated 2026-03-27"
     }
   ]
 }
