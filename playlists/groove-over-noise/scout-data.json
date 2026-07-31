@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-07-31T06:15:39.436Z",
-  "runId": "2026-07-31T08:09:07+02:00",
+  "generatedAt": "2026-07-31T08:16:40.439Z",
+  "runId": "2026-07-31T10:12:15+02:00",
   "target": {
-    "role": "first-wave crest approach",
-    "position": "after Coyu — Cachoeira and before Maeksll — Two Glasses of Whisky",
+    "role": "pre-arrival threshold",
+    "position": "before Rene Wise — Deep Under",
     "neighbours": [
       {
-        "artist": "Coyu",
-        "track": "Cachoeira",
-        "bpm": 141
+        "artist": "Rene Wise",
+        "track": "Deep Under",
+        "bpm": 134
       },
       {
-        "artist": "Maeksll",
-        "track": "Two Glasses of Whisky",
-        "bpm": 145
+        "artist": "Skov Bowden",
+        "track": "Wurk",
+        "bpm": 136
       }
     ],
-    "purpose": "expand the earlier chapter without spending the summit"
+    "purpose": "extend arrival without weakening later chapters"
   },
   "source": "Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.",
   "requestedCount": 3,
@@ -25,72 +25,75 @@
   "warnings": [],
   "candidates": [
     {
-      "id": "4cUXdWBPu6XxWhtQM8iyxc",
-      "uri": "spotify:track:4cUXdWBPu6XxWhtQM8iyxc",
-      "name": "Miss Perez",
+      "id": "1dLq2G3JpI9hNxuIzWCRKs",
+      "uri": "spotify:track:1dLq2G3JpI9hNxuIzWCRKs",
+      "name": "Program - VRIL Remix",
       "artists": [
-        "No Valentia"
+        "Slam",
+        "Vril"
       ],
-      "album": "Miss Perez",
-      "releaseDate": "2026-03-20",
-      "durationMs": 340812,
-      "spotifyUrl": "https://open.spotify.com/track/4cUXdWBPu6XxWhtQM8iyxc",
-      "bpm": 142,
+      "album": "Soma 35.1 (Slam Remixes)",
+      "releaseDate": "2026-06-26",
+      "durationMs": 391997,
+      "spotifyUrl": "https://open.spotify.com/track/1dLq2G3JpI9hNxuIzWCRKs",
+      "bpm": 133,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "boisha release dated 2026-03-20",
+      "discoverySource": "Soma Records release dated 2026-06-26",
       "requestedIdentity": {
-        "artist": "No Valentia",
-        "track": "Miss Perez",
-        "spotifyTrackId": "4cUXdWBPu6XxWhtQM8iyxc",
-        "bpm": 142,
+        "artist": "Slam",
+        "track": "Program - VRIL Remix",
+        "spotifyTrackId": "1dLq2G3JpI9hNxuIzWCRKs",
+        "bpm": 133,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "boisha release dated 2026-03-20"
+        "discoverySource": "Soma Records release dated 2026-06-26"
       }
     },
     {
-      "id": "1srbITX5b9e2RTpxVsIVAo",
-      "uri": "spotify:track:1srbITX5b9e2RTpxVsIVAo",
-      "name": "Badlands",
+      "id": "7m2KpO88JD4QfNqpkMjs4F",
+      "uri": "spotify:track:7m2KpO88JD4QfNqpkMjs4F",
+      "name": "Program - Linear Phase Remix",
       "artists": [
-        "FANK"
+        "Slam",
+        "Linear Phase"
       ],
-      "album": "Badlands",
-      "releaseDate": "2025-09-19",
-      "durationMs": 308125,
-      "spotifyUrl": "https://open.spotify.com/track/1srbITX5b9e2RTpxVsIVAo",
-      "bpm": 145,
+      "album": "Soma 35.1 (Slam Remixes)",
+      "releaseDate": "2026-06-26",
+      "durationMs": 319109,
+      "spotifyUrl": "https://open.spotify.com/track/7m2KpO88JD4QfNqpkMjs4F",
+      "bpm": 134,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "boisha release dated 2025-09-19",
+      "discoverySource": "Soma Records release dated 2026-06-26",
       "requestedIdentity": {
-        "artist": "FANK",
-        "track": "Badlands",
-        "spotifyTrackId": "1srbITX5b9e2RTpxVsIVAo",
-        "bpm": 145,
+        "artist": "Slam",
+        "track": "Program - Linear Phase Remix",
+        "spotifyTrackId": "7m2KpO88JD4QfNqpkMjs4F",
+        "bpm": 134,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "boisha release dated 2025-09-19"
+        "discoverySource": "Soma Records release dated 2026-06-26"
       }
     },
     {
-      "id": "09BS3LG5Devw8GT4j5mnOe",
-      "uri": "spotify:track:09BS3LG5Devw8GT4j5mnOe",
-      "name": "Something Beneath",
+      "id": "1IjwfQFjVI0qIEKEkBoIRu",
+      "uri": "spotify:track:1IjwfQFjVI0qIEKEkBoIRu",
+      "name": "24 Karat - Original",
       "artists": [
-        "No Valentia"
+        "Vril",
+        "Pablo Bolivar"
       ],
-      "album": "Knuckle Dragger",
-      "releaseDate": "2025-06-05",
-      "durationMs": 348826,
-      "spotifyUrl": "https://open.spotify.com/track/09BS3LG5Devw8GT4j5mnOe",
-      "bpm": 145,
+      "album": "24 Karat",
+      "releaseDate": "2026-03-27",
+      "durationMs": 379901,
+      "spotifyUrl": "https://open.spotify.com/track/1IjwfQFjVI0qIEKEkBoIRu",
+      "bpm": 128,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "RAW release dated 2025-06-05",
+      "discoverySource": "Seven Villas release dated 2026-03-27",
       "requestedIdentity": {
-        "artist": "No Valentia",
-        "track": "Something Beneath",
-        "spotifyTrackId": "09BS3LG5Devw8GT4j5mnOe",
-        "bpm": 145,
+        "artist": "Vril",
+        "track": "24 Karat - Original",
+        "spotifyTrackId": "1IjwfQFjVI0qIEKEkBoIRu",
+        "bpm": 128,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "RAW release dated 2025-06-05"
+        "discoverySource": "Seven Villas release dated 2026-03-27"
       }
     }
   ]
