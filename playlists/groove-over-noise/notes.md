@@ -7,6 +7,7 @@
 - BPM guides placement but does not prove listening quality.
 - Volunteered feedback overrides editorial theory.
 - The first track defines the playlist's identity, not merely its starting tempo.
+- A positively confirmed opening transition may also become protected.
 - Preserve one dominant summit and the final descent.
 - `MANUAL ACTION` is technical only.
 
@@ -24,6 +25,18 @@ The user experiences it as setting the tone for the rest of GROOVE OVER NOISE. I
 
 **Slam, Vril — Program - VRIL Remix** failed at position 1 because the user experienced it as too slow and too house-like. It gave the wrong first impression of the playlist and has been removed.
 
+## Protected opening handoff
+
+**Deep Under → Wurk** is the protected first transition.
+
+- **Measured:** 134 → 136 BPM, a +2 BPM step.
+- **Listener report:** “I really like the transition to Wurk”; it feels “very subtle.”
+- **Editorial interpretation:** Wurk may feel like the same world continuing with slightly firmer movement instead of a new scene beginning.
+
+The editorial interpretation is provisional, but the positive listener report is decisive. Do not insert another track between Deep Under and Wurk, reverse them, or separate the pair merely to extend the opening or optimize metadata.
+
+This transition is now a positive reference for future sequencing: the listener notices the journey continuing, not the mechanism of the change.
+
 ## Current BPM trajectory
 
 `134 → 136 → 138 → 141 → 142 → 145 → 142 → 139 → 140 → 141 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
@@ -33,7 +46,7 @@ Every adjacent difference remains within 0–4 BPM.
 ## Current chapter map
 
 1. **Arrival and identity anchor:** Deep Under
-2. **Groove formation:** Wurk
+2. **Groove formation and protected handoff:** Wurk
 3. **Opening bridge:** Ottagone 001
 4. **Percussive rise:** Cachoeira
 5. **First crest approach:** Miss Perez
@@ -56,7 +69,9 @@ Every adjacent difference remains within 0–4 BPM.
 
 ## Current assessment
 
-Restoring Deep Under to position 1 repairs the opening identity without damaging the BPM trajectory. The lesson is permanent: a numerically smooth prelude can still weaken the whole journey by giving the wrong stylistic signal.
+Restoring Deep Under to position 1 repairs the opening identity without damaging the BPM trajectory. The positive response to **Deep Under → Wurk** now protects not only the opener but the complete opening handoff.
+
+The lesson is permanent: the best opening transition may be the one that changes the movement subtly while preserving the same world. A numerically smooth prelude can still weaken the journey, while a small and almost unnoticed handoff can define it.
 
 There are no active accepted-track reviews.
 
@@ -67,6 +82,7 @@ There are no active accepted-track reviews.
 ## Next priority
 
 1. Keep Deep Under at position 1 unless the user directly reopens it.
-2. Do not scout another pre-arrival track.
-3. Continue autonomous discovery elsewhere in the journey.
-4. Preserve Iruka as the main summit and the protected final descent.
+2. Preserve **Deep Under → Wurk** as an intact pair.
+3. Do not scout another pre-arrival track or insert anything between the protected opening pair.
+4. Continue autonomous discovery elsewhere in the journey.
+5. Preserve Iruka as the main summit and the protected final descent.
