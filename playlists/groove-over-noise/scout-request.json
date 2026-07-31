@@ -1,40 +1,38 @@
 {
-  "runId": "2026-07-30T08:30:05+02:00",
+  "runId": "2026-07-31T08:09:07+02:00",
   "target": {
-    "role": "third-wave psychological threshold",
-    "position": "after Vil — AB01 and before Arkan — Nasty Tool",
+    "role": "first-wave crest approach",
+    "position": "after Coyu — Cachoeira and before Maeksll — Two Glasses of Whisky",
     "neighbours": [
-      { "artist": "Vil", "track": "AB01", "bpm": 136 },
-      { "artist": "Arkan", "track": "Nasty Tool", "bpm": 138 }
+      { "artist": "Coyu", "track": "Cachoeira", "bpm": 141 },
+      { "artist": "Maeksll", "track": "Two Glasses of Whisky", "bpm": 145 }
     ],
-    "purpose": "add a distinct quality before the summit climb"
+    "purpose": "expand the earlier chapter without spending the summit"
   },
   "candidates": [
     {
-      "artist": "Decoder",
-      "track": "Flowing",
-      "album": "Momentum",
-      "spotifyAlbumId": "6xeD7pJvzRiIoPk8U2RXrN",
-      "bpm": 138,
+      "artist": "No Valentia",
+      "track": "Miss Perez",
+      "spotifyTrackId": "4cUXdWBPu6XxWhtQM8iyxc",
+      "bpm": 142,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Enemy Records release dated 2026-05-22"
+      "discoverySource": "boisha release dated 2026-03-20"
     },
     {
-      "artist": "Setaoc Mass",
-      "track": "Evidence",
-      "spotifyTrackId": "6B6OOqzZpF6lQsjK2Zav4S",
-      "bpm": 137,
+      "artist": "FANK",
+      "track": "Badlands",
+      "spotifyTrackId": "1srbITX5b9e2RTpxVsIVAo",
+      "bpm": 145,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Overlooked SK_Eleven catalogue track"
+      "discoverySource": "boisha release dated 2025-09-19"
     },
     {
-      "artist": "Temudo",
-      "track": "U Used to Laugh at My Jokes",
-      "album": "And the Pattern Repeats",
-      "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
-      "bpm": 140,
+      "artist": "No Valentia",
+      "track": "Something Beneath",
+      "spotifyTrackId": "09BS3LG5Devw8GT4j5mnOe",
+      "bpm": 145,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Primal Instinct release dated 2026-03-20"
+      "discoverySource": "RAW release dated 2025-06-05"
     }
   ]
 }
