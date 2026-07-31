@@ -2,6 +2,32 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-07-31 — Listener Confirmation
+
+### KEEP AND PROTECT
+
+- **Transition:** Rene Wise — Deep Under → Skov Bowden — Wurk
+- **Spotify:** spotify:track:0yI5YgKcF2mXo3NRlXS660 → spotify:track:4N1qAnhFro9fQdBON4Aqxn
+- **BPM:** 134 → 136
+- **Listener report:** “I really like the transition to Wurk”; it feels “very subtle.”
+- **Resolution:** Keep the pair intact and protect the space between them.
+
+### Evidence map
+
+- **Measured:** The transition rises by +2 BPM.
+- **Listener:** The subtle handoff is strongly liked.
+- **Editorial interpretation:** Wurk may feel like the same world continuing with slightly firmer movement rather than a new scene starting.
+
+### Audit result
+
+Protected **Deep Under → Wurk** as the canonical opening handoff. Future runs must not insert between, reverse, or separate the pair without direct listener evidence.
+
+### Editorial note
+
+The opening works because the change is felt without demanding attention.
+
+---
+
 ## 2026-07-31 — Listener Correction
 
 ### REMOVE
