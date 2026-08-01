@@ -1,38 +1,38 @@
 {
-  "runId": "2026-07-31T10:12:15+02:00",
+  "runId": "2026-08-01T08:09:00+02:00",
   "target": {
-    "role": "pre-arrival threshold",
-    "position": "before Rene Wise — Deep Under",
+    "role": "second-wave release hinge",
+    "position": "after Maeksll — Tragoidia and before Marcal — Bionic Jungle",
     "neighbours": [
-      { "artist": "Rene Wise", "track": "Deep Under", "bpm": 134 },
-      { "artist": "Skov Bowden", "track": "Wurk", "bpm": 136 }
+      { "artist": "Maeksll", "track": "Tragoidia", "bpm": 141 },
+      { "artist": "Marcal", "track": "Bionic Jungle", "bpm": 137 }
     ],
-    "purpose": "extend arrival without weakening later chapters"
+    "purpose": "stage the second crest release without touching protected anchors"
   },
   "candidates": [
     {
-      "artist": "Slam",
-      "track": "Program - VRIL Remix",
-      "spotifyTrackId": "1dLq2G3JpI9hNxuIzWCRKs",
-      "bpm": 133,
+      "artist": "Red Rooms",
+      "track": "Blind Spot",
+      "spotifyTrackId": "4Np2wuMWF99jigxD5pyOwh",
+      "bpm": 140,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Soma Records release dated 2026-06-26"
+      "discoverySource": "Phorum Records release dated 2026-05-28"
     },
     {
-      "artist": "Slam",
-      "track": "Program - Linear Phase Remix",
-      "spotifyTrackId": "7m2KpO88JD4QfNqpkMjs4F",
-      "bpm": 134,
+      "artist": "Ricardo Garduno",
+      "track": "My Love",
+      "spotifyTrackId": "0YGe7CTXmSWm3SNAgNfto8",
+      "bpm": 137,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Soma Records release dated 2026-06-26"
+      "discoverySource": "Mind Medizin Records release dated 2026-06-26"
     },
     {
-      "artist": "Vril",
-      "track": "24 Karat - Original",
-      "spotifyTrackId": "1IjwfQFjVI0qIEKEkBoIRu",
-      "bpm": 128,
+      "artist": "Red Rooms",
+      "track": "Limited Sensory",
+      "spotifyTrackId": "2zbJSFwrzuAgXH8oiDhk9Q",
+      "bpm": 142,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Seven Villas release dated 2026-03-27"
+      "discoverySource": "Token release dated 2026-04-17"
     }
   ]
 }
