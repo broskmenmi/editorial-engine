@@ -12,6 +12,7 @@ This file is for tracks already admitted to `ledger.md` whose place in the playl
 - BPM, key, duration, and other measurements may describe a transition but cannot prove that it feels right.
 - Do not claim to have heard Spotify audio when only metadata was available.
 - When the listener feels relieved because the track ends, treat that as strong negative evidence about the track or its placement.
+- Repeatedly pressing next is decisive behavioural evidence and resolves the review as REMOVE unless the user explicitly asks to keep discussing it.
 - Resolve each review as **KEEP**, **MOVE**, **REPLACE**, or **REMOVE**.
 - Do not open a review merely because the user has not confirmed an editorial role.
 - Do not assign A/B tests, mandatory comparisons, or prescribed listening sessions.
@@ -20,13 +21,12 @@ This file is for tracks already admitted to `ledger.md` whose place in the playl
 
 ## Active reviews
 
-| Artist | Track | Spotify URI | Current position and role | Listener evidence | Why originally admitted | Editorial question | Next workflow action | Status |
-|---|---|---|---|---|---|---|---|---|
-| Coyu | Cachoeira | spotify:track:6uOhAWYxScF7I867ui1a0V | Position 4 — percussive rise | “I find Cachoeira too noisy.” | It was admitted to increase bodily rhythm between Ottagone 001 and the first crest approach. | Is the problem the track itself, its early placement, or the amount of contrast it creates? | Prioritize KEEP, MOVE, REPLACE, or REMOVE while preserving Deep Under → Wurk and the first-wave climb. | OPEN |
+None.
 
 ## Resolved reviews
 
 | Artist | Track | Original role | Listener evidence | Resolution | Date |
 |---|---|---|---|---|---|
+| Coyu | Cachoeira | Percussive rise | “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.” | REMOVE — repeated skipping shows the track breaks immersion; no replacement is required because Ottagone 001 → Miss Perez remains compliant. | 2026-08-01 |
 | Slam, Vril | Program - VRIL Remix | Pre-arrival threshold | “Too slow, too much house”; Rene Wise — Deep Under sets the tone of the rest of the playlist. | REMOVE — restore Deep Under as the protected opener. | 2026-07-31 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride — GLIA Remix | Second-wave re-entry | “Too much is happening”; stressful; relieved when it ends. | REPLACE — role retained, track replaced. | 2026-07-18 |
