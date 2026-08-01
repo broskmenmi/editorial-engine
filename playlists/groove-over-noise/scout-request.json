@@ -1,38 +1,38 @@
 {
-  "runId": "2026-08-01T08:09:00+02:00",
+  "runId": "2026-08-01T08:16:34+02:00",
   "target": {
-    "role": "second-wave release hinge",
-    "position": "after Maeksll — Tragoidia and before Marcal — Bionic Jungle",
+    "role": "first-wave rise repair",
+    "position": "replace Coyu — Cachoeira after Ottagone — Ottagone 001 and before No Valentia — Miss Perez",
     "neighbours": [
-      { "artist": "Maeksll", "track": "Tragoidia", "bpm": 141 },
-      { "artist": "Marcal", "track": "Bionic Jungle", "bpm": 137 }
+      { "artist": "Ottagone", "track": "Ottagone 001", "bpm": 138 },
+      { "artist": "No Valentia", "track": "Miss Perez", "bpm": 142 }
     ],
-    "purpose": "stage the second crest release without touching protected anchors"
+    "purpose": "replace a listener-reported noisy transition stage"
   },
   "candidates": [
     {
-      "artist": "Red Rooms",
-      "track": "Blind Spot",
-      "spotifyTrackId": "4Np2wuMWF99jigxD5pyOwh",
+      "artist": "Arthur Robert",
+      "track": "Conformal Invariance",
+      "spotifyTrackId": "5N914CiNjaNQ1F3qIGEYEv",
       "bpm": 140,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Phorum Records release dated 2026-05-28"
+      "discoverySource": "Reconsidered for a new role after direct listener feedback"
     },
     {
-      "artist": "Ricardo Garduno",
-      "track": "My Love",
-      "spotifyTrackId": "0YGe7CTXmSWm3SNAgNfto8",
-      "bpm": 137,
+      "artist": "Arkan",
+      "track": "Up & Down",
+      "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
+      "bpm": 139,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Mind Medizin Records release dated 2026-06-26"
+      "discoverySource": "Reconsidered for a new role after direct listener feedback"
     },
     {
-      "artist": "Red Rooms",
-      "track": "Limited Sensory",
-      "spotifyTrackId": "2zbJSFwrzuAgXH8oiDhk9Q",
-      "bpm": 142,
+      "artist": "Vinicius Honorio",
+      "track": "Kingpin",
+      "spotifyTrackId": "7fBEw8o7XxHBEsdrjUbROw",
+      "bpm": 138,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Token release dated 2026-04-17"
+      "discoverySource": "Reconsidered for a new role after direct listener feedback"
     }
   ]
 }
