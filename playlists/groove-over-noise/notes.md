@@ -6,6 +6,7 @@
 - No listening homework or required comparisons.
 - BPM guides placement but does not prove listening quality.
 - Volunteered feedback overrides editorial theory.
+- Repeated skipping is decisive behavioural evidence.
 - The first track defines the playlist's identity, not merely its starting tempo.
 - A positively confirmed opening transition may also become protected.
 - Preserve one dominant summit and the final descent.
@@ -31,51 +32,52 @@ Do not insert another track before Deep Under or between Deep Under and Wurk wit
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 141 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within 0–4 BPM. **Tragoidia → Blind Spot → Bionic Jungle** changes the former 141 → 137 release into 141 → 140 → 137.
+Every adjacent difference remains within 0–4 BPM. Removing Cachoeira creates **Ottagone 001 → Miss Perez** at 138 → 142, the maximum allowed +4 BPM opening-stage step.
 
 ## Current chapter map
 
 1. **Arrival and identity anchor:** Deep Under
 2. **Groove formation and protected handoff:** Wurk
 3. **Opening bridge:** Ottagone 001
-4. **Percussive rise, under review:** Cachoeira
-5. **First crest approach:** Miss Perez
-6. **First local crest:** Two Glasses of Whisky
-7. **First release:** Trail Of
-8. **Post-crest bridge:** Enlightenment
-9. **Second-wave re-entry:** F Track
-10. **Second crest:** Tragoidia
-11. **Second-wave release hinge, provisional:** Blind Spot
-12. **Second-wave release:** Bionic Jungle
-13. **Release extension:** AB01
-14. **Third-wave threshold:** Flowing
-15. **Third-wave re-entry:** Nasty Tool
-16. **Main summit:** Iruka
-17. **Summit release hinge:** Session 4 - Original Mix
-18. **Release continuation:** Interlynx
-19. **Decompression bridge:** Minimum
-20. **Focused decompression:** Eclipse
-21. **Deep decompression:** Haidou
-22. **Dissolution:** Calipso
+4. **First-wave rise and crest approach:** Miss Perez
+5. **First local crest:** Two Glasses of Whisky
+6. **First release:** Trail Of
+7. **Post-crest bridge:** Enlightenment
+8. **Second-wave re-entry:** F Track
+9. **Second crest:** Tragoidia
+10. **Second-wave release hinge, provisional:** Blind Spot
+11. **Second-wave release:** Bionic Jungle
+12. **Release extension:** AB01
+13. **Third-wave threshold:** Flowing
+14. **Third-wave re-entry:** Nasty Tool
+15. **Main summit:** Iruka
+16. **Summit release hinge:** Session 4 - Original Mix
+17. **Release continuation:** Interlynx
+18. **Decompression bridge:** Minimum
+19. **Focused decompression:** Eclipse
+20. **Deep decompression:** Haidou
+21. **Dissolution:** Calipso
 
-## Active accepted-track review
+## Resolved Cachoeira review
 
-**Coyu — Cachoeira** is now UNDER REVIEW.
+**Coyu — Cachoeira has been removed.**
 
-- **Exact listener report:** “I find Cachoeira too noisy.”
-- **Original purpose:** increase bodily rhythm after Ottagone 001 and before the first crest approach.
-- **Current conflict:** the track may be calling too much attention to itself instead of continuing the subtle opening language established by Deep Under → Wurk.
-- **Next workflow priority:** autonomously decide whether KEEP, MOVE, REPLACE, or REMOVE best preserves the opening identity and first-wave climb.
+- **Listener report:** “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.”
+- **Original purpose:** introduce more percussion between Ottagone 001 and the first crest approach.
+- **Resolution:** REMOVE. Repeated skipping shows that the track itself breaks immersion rather than merely needing another position.
+- **Repair:** no replacement is needed because Ottagone 001 at 138 BPM moves directly into Miss Perez at 142 BPM, remaining within the doctrine's 0–4 BPM target.
 
-Do not ask the user to compare alternatives. Do not expand elsewhere while this direct negative feedback remains unresolved.
+The lesson is durable: a track that is repeatedly skipped does not earn its place through a useful theoretical role or clean metadata.
 
 ## Current assessment
 
-Blind Spot is added provisionally after Tragoidia to stage the second crest's release through -1 and -3 BPM steps. This leaves the protected opening, Iruka's summit role, and the final descent unchanged.
+The early journey is now quieter and more direct: **Deep Under → Wurk → Ottagone 001 → Miss Perez → Two Glasses of Whisky**. The protected opening remains intact, while Miss Perez absorbs the first-wave rise and crest-approach function.
 
-The new Cachoeira feedback now takes priority over further expansion. Its clean 138 → 141 → 142 placement does not override the user's experience that it is too noisy.
+Blind Spot remains provisional after Tragoidia. Iruka remains the dominant summit, and the final descent is unchanged.
+
+There are no active accepted-track reviews.
 
 ## Protected ending
 
@@ -84,7 +86,7 @@ The new Cachoeira feedback now takes priority over further expansion. Its clean 
 ## Next priority
 
 1. Preserve Deep Under → Wurk as an intact opening pair.
-2. Resolve the Cachoeira review through KEEP, MOVE, REPLACE, or REMOVE.
-3. Preserve the first-wave climb into Miss Perez and Two Glasses of Whisky.
-4. Let Blind Spot remain a provisional second-wave release hinge.
+2. Let the simplified Ottagone 001 → Miss Perez ascent settle provisionally.
+3. Do not replace Cachoeira unless a real structural need appears.
+4. Continue autonomous discovery elsewhere.
 5. Preserve Iruka as the main summit and the protected final descent.
