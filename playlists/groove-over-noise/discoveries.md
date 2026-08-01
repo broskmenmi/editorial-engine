@@ -2,6 +2,70 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-08-01 — Daily Run 2
+
+**Candidate snapshot:** `2026-08-01T08:16:34+02:00`
+
+### REJECT
+
+- **Track:** Conformal Invariance
+- **Artist:** Arthur Robert
+- **Spotify:** spotify:track:5N914CiNjaNQ1F3qIGEYEv
+- **BPM:** 140
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Between Ottagone — Ottagone 001 and No Valentia — Miss Perez.
+- **Purpose:** Test a restrained rise replacement.
+- **Reason:** The simplified ascent is already coherent without replacement.
+
+### REVISIT
+
+- **Track:** Up & Down
+- **Artist:** Arkan
+- **Spotify:** spotify:track:0FsRgVOtODhabQaUBhwFga
+- **BPM:** 139
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative between Ottagone 001 and Miss Perez.
+- **Purpose:** Test a tighter rise replacement.
+- **Reason:** Its original third-wave question remains unresolved and parked.
+- **Reassess when:** Nasty Tool receives negative listener feedback, the third wave changes, or new evidence materially strengthens this exact version.
+
+### REVISIT
+
+- **Track:** Kingpin
+- **Artist:** Vinicius Honorio, Ricardo Garduno
+- **Spotify:** spotify:track:7fBEw8o7XxHBEsdrjUbROw
+- **BPM:** 138
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative between Ottagone 001 and Miss Perez.
+- **Purpose:** Test a same-tempo rise replacement.
+- **Reason:** Its original third-wave question remains unresolved and parked.
+- **Reassess when:** Nasty Tool receives negative listener feedback, Iruka's role changes, or new evidence materially strengthens Kingpin.
+
+### Evidence map
+
+- **Measured:** The three alternatives create 138 → 140 → 142, 138 → 139 → 142, and 138 → 138 → 142 respectively; all are numerically compliant.
+- **Craft:** The smallest repair is preferred when removal already restores a coherent sequence.
+- **Listener:** Cachoeira was repeatedly skipped and has been removed.
+- **Editorial interpretation:** Ottagone 001 → Miss Perez now forms a complete first-wave rise without an extra stage.
+
+### Audit result
+
+No addition was approved. Cachoeira's removal already solved the listener-reported defect while preserving a compliant 138 → 142 → 145 ascent. Conformal Invariance was rejected for this role because it repairs no remaining defect. Up & Down and Kingpin remain parked for their original third-wave questions rather than being repurposed into the first wave.
+
+### Ledger change
+
+No further change; the 21-track ledger remains canonical after Cachoeira's removal.
+
+### Spotify reconciliation
+
+The 21-track canonical order is verified COMPLETE in `spotify-status.json`.
+
+### Editorial note
+
+The first wave improves through subtraction, not immediate replacement.
+
+---
+
 ## 2026-08-01 — Listener Resolution
 
 ### REMOVE
