@@ -80,7 +80,7 @@ Editorial decisions must distinguish four kinds of evidence:
 
 1. **Measured evidence** — BPM, duration, track identity, sequence position, and any later lawful audio measurements. Measurements describe; they do not decide.
 2. **Craft convention** — sequencing practices learned from DJ sets, mixes, albums, radio, and research. These are useful guides, not universal laws.
-3. **Listener report** — what the user actually experiences: calm, stress, boredom, absorption, restlessness, relief, wanting more, or wanting the track to end. For this personal playlist, listener report has final authority when it is volunteered.
+3. **Listener report** — what the user actually experiences: calm, stress, boredom, absorption, restlessness, relief, wanting more, wanting the track to end, or repeatedly skipping it. For this personal playlist, listener report has final authority when it is volunteered.
 4. **Editorial interpretation** — labels such as arrival, re-entry, local crest, summit, decompression, and dissolution. These are working hypotheses that explain the intended job of a track; they are not objective facts.
 
 A smooth BPM transition does not prove a smooth listening experience.
@@ -117,6 +117,19 @@ When the user naturally identifies an opening transition as especially right, pr
 
 The interpretation remains a hypothesis; the positive listener report is the authority. The pair stays intact until direct listener feedback reopens it.
 
+## Repeated-skip rule
+
+Repeatedly pressing **next** when the same track appears is decisive behavioural evidence.
+
+It means the track is not merely imperfect in theory: it is repeatedly breaking the user's desire to remain inside the journey.
+
+When the user says a track is always skipped:
+
+- resolve the accepted-track review as **REMOVE**, unless the user explicitly asks to keep discussing it;
+- do not defend the track with BPM, placement, reputation, or its intended role;
+- do not require a replacement when removing it leaves a coherent transition;
+- record the skip behaviour as the durable rejection reason.
+
 ## GROOVE OVER NOISE house style
 
 The playlist's preferred long-form shape is **multiple waves with one dominant summit, followed by staged decompression and dissolution**.
@@ -149,7 +162,8 @@ Prefer:
 - the opening gives the wrong idea about the playlist;
 - the next track feels like the same world continuing;
 - the listener wants it to continue;
-- the listener is waiting for it to end.
+- the listener is waiting for it to end;
+- the listener always skips it.
 
 Use specialist terms only when they genuinely help, and explain them immediately in plain English.
 
