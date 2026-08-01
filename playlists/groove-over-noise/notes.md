@@ -40,7 +40,7 @@ Every adjacent difference remains within 0–4 BPM. **Tragoidia → Blind Spot �
 1. **Arrival and identity anchor:** Deep Under
 2. **Groove formation and protected handoff:** Wurk
 3. **Opening bridge:** Ottagone 001
-4. **Percussive rise:** Cachoeira
+4. **Percussive rise, under review:** Cachoeira
 5. **First crest approach:** Miss Perez
 6. **First local crest:** Two Glasses of Whisky
 7. **First release:** Trail Of
@@ -60,13 +60,22 @@ Every adjacent difference remains within 0–4 BPM. **Tragoidia → Blind Spot �
 21. **Deep decompression:** Haidou
 22. **Dissolution:** Calipso
 
+## Active accepted-track review
+
+**Coyu — Cachoeira** is now UNDER REVIEW.
+
+- **Exact listener report:** “I find Cachoeira too noisy.”
+- **Original purpose:** increase bodily rhythm after Ottagone 001 and before the first crest approach.
+- **Current conflict:** the track may be calling too much attention to itself instead of continuing the subtle opening language established by Deep Under → Wurk.
+- **Next workflow priority:** autonomously decide whether KEEP, MOVE, REPLACE, or REMOVE best preserves the opening identity and first-wave climb.
+
+Do not ask the user to compare alternatives. Do not expand elsewhere while this direct negative feedback remains unresolved.
+
 ## Current assessment
 
 Blind Spot is added provisionally after Tragoidia to stage the second crest's release through -1 and -3 BPM steps. This leaves the protected opening, Iruka's summit role, and the final descent unchanged.
 
-My Love was rejected because it lands at Bionic Jungle's exact 137 BPM and duplicates the same release function. Limited Sensory was rejected because 141 → 142 → 137 creates a flagged -5 BPM drop.
-
-There are no active accepted-track reviews.
+The new Cachoeira feedback now takes priority over further expansion. Its clean 138 → 141 → 142 placement does not override the user's experience that it is too noisy.
 
 ## Protected ending
 
@@ -75,7 +84,7 @@ There are no active accepted-track reviews.
 ## Next priority
 
 1. Preserve Deep Under → Wurk as an intact opening pair.
-2. Let Blind Spot remain a provisional second-wave release hinge.
-3. Avoid another addition between Tragoidia and AB01 without a new function.
-4. Continue autonomous discovery elsewhere.
+2. Resolve the Cachoeira review through KEEP, MOVE, REPLACE, or REMOVE.
+3. Preserve the first-wave climb into Miss Perez and Two Glasses of Whisky.
+4. Let Blind Spot remain a provisional second-wave release hinge.
 5. Preserve Iruka as the main summit and the protected final descent.
