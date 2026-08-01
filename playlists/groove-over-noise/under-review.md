@@ -20,7 +20,9 @@ This file is for tracks already admitted to `ledger.md` whose place in the playl
 
 ## Active reviews
 
-None.
+| Artist | Track | Spotify URI | Current position and role | Listener evidence | Why originally admitted | Editorial question | Next workflow action | Status |
+|---|---|---|---|---|---|---|---|---|
+| Coyu | Cachoeira | spotify:track:6uOhAWYxScF7I867ui1a0V | Position 4 — percussive rise | “I find Cachoeira too noisy.” | It was admitted to increase bodily rhythm between Ottagone 001 and the first crest approach. | Is the problem the track itself, its early placement, or the amount of contrast it creates? | Prioritize KEEP, MOVE, REPLACE, or REMOVE while preserving Deep Under → Wurk and the first-wave climb. | OPEN |
 
 ## Resolved reviews
 
