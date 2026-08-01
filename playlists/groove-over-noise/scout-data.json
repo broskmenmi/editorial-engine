@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-07-31T08:16:40.439Z",
-  "runId": "2026-07-31T10:12:15+02:00",
+  "generatedAt": "2026-08-01T06:08:21.261Z",
+  "runId": "2026-08-01T08:09:00+02:00",
   "target": {
-    "role": "pre-arrival threshold",
-    "position": "before Rene Wise — Deep Under",
+    "role": "second-wave release hinge",
+    "position": "after Maeksll — Tragoidia and before Marcal — Bionic Jungle",
     "neighbours": [
       {
-        "artist": "Rene Wise",
-        "track": "Deep Under",
-        "bpm": 134
+        "artist": "Maeksll",
+        "track": "Tragoidia",
+        "bpm": 141
       },
       {
-        "artist": "Skov Bowden",
-        "track": "Wurk",
-        "bpm": 136
+        "artist": "Marcal",
+        "track": "Bionic Jungle",
+        "bpm": 137
       }
     ],
-    "purpose": "extend arrival without weakening later chapters"
+    "purpose": "stage the second crest release without touching protected anchors"
   },
   "source": "Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.",
   "requestedCount": 3,
@@ -25,75 +25,72 @@
   "warnings": [],
   "candidates": [
     {
-      "id": "1dLq2G3JpI9hNxuIzWCRKs",
-      "uri": "spotify:track:1dLq2G3JpI9hNxuIzWCRKs",
-      "name": "Program - VRIL Remix",
+      "id": "4Np2wuMWF99jigxD5pyOwh",
+      "uri": "spotify:track:4Np2wuMWF99jigxD5pyOwh",
+      "name": "Blind Spot",
       "artists": [
-        "Slam",
-        "Vril"
+        "Red Rooms"
       ],
-      "album": "Soma 35.1 (Slam Remixes)",
-      "releaseDate": "2026-06-26",
-      "durationMs": 391997,
-      "spotifyUrl": "https://open.spotify.com/track/1dLq2G3JpI9hNxuIzWCRKs",
-      "bpm": 133,
+      "album": "Blind Spot",
+      "releaseDate": "2026-05-28",
+      "durationMs": 345428,
+      "spotifyUrl": "https://open.spotify.com/track/4Np2wuMWF99jigxD5pyOwh",
+      "bpm": 140,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Soma Records release dated 2026-06-26",
+      "discoverySource": "Phorum Records release dated 2026-05-28",
       "requestedIdentity": {
-        "artist": "Slam",
-        "track": "Program - VRIL Remix",
-        "spotifyTrackId": "1dLq2G3JpI9hNxuIzWCRKs",
-        "bpm": 133,
+        "artist": "Red Rooms",
+        "track": "Blind Spot",
+        "spotifyTrackId": "4Np2wuMWF99jigxD5pyOwh",
+        "bpm": 140,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Soma Records release dated 2026-06-26"
+        "discoverySource": "Phorum Records release dated 2026-05-28"
       }
     },
     {
-      "id": "7m2KpO88JD4QfNqpkMjs4F",
-      "uri": "spotify:track:7m2KpO88JD4QfNqpkMjs4F",
-      "name": "Program - Linear Phase Remix",
+      "id": "0YGe7CTXmSWm3SNAgNfto8",
+      "uri": "spotify:track:0YGe7CTXmSWm3SNAgNfto8",
+      "name": "My Love",
       "artists": [
-        "Slam",
-        "Linear Phase"
+        "Ricardo Garduno"
       ],
-      "album": "Soma 35.1 (Slam Remixes)",
+      "album": "Night Caller EP",
       "releaseDate": "2026-06-26",
-      "durationMs": 319109,
-      "spotifyUrl": "https://open.spotify.com/track/7m2KpO88JD4QfNqpkMjs4F",
-      "bpm": 134,
+      "durationMs": 298467,
+      "spotifyUrl": "https://open.spotify.com/track/0YGe7CTXmSWm3SNAgNfto8",
+      "bpm": 137,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Soma Records release dated 2026-06-26",
+      "discoverySource": "Mind Medizin Records release dated 2026-06-26",
       "requestedIdentity": {
-        "artist": "Slam",
-        "track": "Program - Linear Phase Remix",
-        "spotifyTrackId": "7m2KpO88JD4QfNqpkMjs4F",
-        "bpm": 134,
+        "artist": "Ricardo Garduno",
+        "track": "My Love",
+        "spotifyTrackId": "0YGe7CTXmSWm3SNAgNfto8",
+        "bpm": 137,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Soma Records release dated 2026-06-26"
+        "discoverySource": "Mind Medizin Records release dated 2026-06-26"
       }
     },
     {
-      "id": "1IjwfQFjVI0qIEKEkBoIRu",
-      "uri": "spotify:track:1IjwfQFjVI0qIEKEkBoIRu",
-      "name": "24 Karat - Original",
+      "id": "2zbJSFwrzuAgXH8oiDhk9Q",
+      "uri": "spotify:track:2zbJSFwrzuAgXH8oiDhk9Q",
+      "name": "Limited Sensory",
       "artists": [
-        "Vril",
-        "Pablo Bolivar"
+        "Red Rooms"
       ],
-      "album": "24 Karat",
-      "releaseDate": "2026-03-27",
-      "durationMs": 379901,
-      "spotifyUrl": "https://open.spotify.com/track/1IjwfQFjVI0qIEKEkBoIRu",
-      "bpm": 128,
+      "album": "Limited Sensory",
+      "releaseDate": "2026-04-17",
+      "durationMs": 328282,
+      "spotifyUrl": "https://open.spotify.com/track/2zbJSFwrzuAgXH8oiDhk9Q",
+      "bpm": 142,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Seven Villas release dated 2026-03-27",
+      "discoverySource": "Token release dated 2026-04-17",
       "requestedIdentity": {
-        "artist": "Vril",
-        "track": "24 Karat - Original",
-        "spotifyTrackId": "1IjwfQFjVI0qIEKEkBoIRu",
-        "bpm": 128,
+        "artist": "Red Rooms",
+        "track": "Limited Sensory",
+        "spotifyTrackId": "2zbJSFwrzuAgXH8oiDhk9Q",
+        "bpm": 142,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Seven Villas release dated 2026-03-27"
+        "discoverySource": "Token release dated 2026-04-17"
       }
     }
   ]
