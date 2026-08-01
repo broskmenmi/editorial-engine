@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Red Rooms | Limited Sensory | At 142 BPM between Tragoidia and Bionic Jungle, it creates 141 → 142 → 137, including a flagged -5 BPM drop instead of staging the release progressively. | 2026-08-01 |
+| Ricardo Garduno | My Love | At 137 BPM it creates 141 → 137 → 137, landing on Bionic Jungle's exact tempo and duplicating its release function rather than shaping the descent. | 2026-08-01 |
 | Slam, Vril | Program - VRIL Remix | The user experiences it as too slow and too house-like at the beginning. Placing it first weakens the playlist's identity, while Rene Wise — Deep Under immediately sets the desired tone for everything that follows. | 2026-07-31 |
 | Slam, Linear Phase | Program - Linear Phase Remix | At 134 BPM before Deep Under, it creates 134 → 134 → 136 and duplicates the accepted Program remix's exact pre-arrival function instead of creating a distinct opening stage. | 2026-07-31 |
 | Vril, Pablo Bolivar | 24 Karat - Original | At 128 BPM before Deep Under, it creates a +6 BPM opening transition into 134 BPM, exceeding the opening's 0–4 BPM limit without direct continuity evidence. | 2026-07-31 |
