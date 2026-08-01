@@ -12,6 +12,7 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Coyu | Cachoeira | The user finds it too noisy and always presses next when it comes on. Repeated skipping shows that it breaks immersion in practice, regardless of its clean BPM placement or intended percussive-rise role. | 2026-08-01 |
 | Red Rooms | Limited Sensory | At 142 BPM between Tragoidia and Bionic Jungle, it creates 141 → 142 → 137, including a flagged -5 BPM drop instead of staging the release progressively. | 2026-08-01 |
 | Ricardo Garduno | My Love | At 137 BPM it creates 141 → 137 → 137, landing on Bionic Jungle's exact tempo and duplicating its release function rather than shaping the descent. | 2026-08-01 |
 | Slam, Vril | Program - VRIL Remix | The user experiences it as too slow and too house-like at the beginning. Placing it first weakens the playlist's identity, while Rene Wise — Deep Under immediately sets the desired tone for everything that follows. | 2026-07-31 |
