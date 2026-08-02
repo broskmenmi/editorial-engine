@@ -118,7 +118,7 @@ async function searchExactTrack(token, requested) {
     q: query,
     type: 'track',
     market: 'SE',
-    limit: '50',
+    limit: '10',
   });
   const result = await spotifyGet(token, `/search?${params.toString()}`);
   const exact = (result?.tracks?.items ?? []).filter(
@@ -141,7 +141,6 @@ async function resolveRequestedTrack(token, requested, excluded) {
       if (!identityMatches(track, requested)) return { error: 'direct Spotify track identity mismatch' };
       return { track: candidateRecord(track, requested) };
     } catch (error) {
-      // The exact public Spotify ID remains authoritative even if metadata lookup is unavailable.
       return {
         track: candidateRecord({
           id,
