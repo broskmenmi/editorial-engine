@@ -23,6 +23,7 @@ function requestIdentity(requested) {
     artist: normalized(requested.artist),
     track: normalized(requested.track),
     album: normalized(requested.album),
+    releaseDate: requested.releaseDate ?? null,
     spotifyTrackId: requested.spotifyTrackId ?? null,
     spotifyAlbumId: requested.spotifyAlbumId ?? null,
     bpm: requested.bpm ?? null,
@@ -90,9 +91,10 @@ function identityMatches(item, request) {
   return Boolean(item?.id && titleMatch && artistMatch);
 }
 
-function albumMatches(item, request) {
-  if (!request.album) return true;
-  return normalized(item?.album?.name) === normalized(request.album);
+function releaseMatches(item, request) {
+  if (request.album && normalized(item?.album?.name) !== normalized(request.album)) return false;
+  if (request.releaseDate && item?.album?.release_date !== request.releaseDate) return false;
+  return true;
 }
 
 function candidateRecord(track, requested, album = null) {
@@ -132,7 +134,7 @@ async function searchExactTrack(token, requested) {
   const matches = [];
   for (const query of queries) {
     const items = await searchSpotifyTracks(token, query);
-    matches.push(...items.filter((item) => identityMatches(item, requested) && albumMatches(item, requested)));
+    matches.push(...items.filter((item) => identityMatches(item, requested) && releaseMatches(item, requested)));
   }
   const unique = [...new Map(matches.map((item) => [item.id, item])).values()];
   if (unique.length === 0) return { error: 'no exact Spotify search match' };
@@ -148,7 +150,9 @@ async function resolveRequestedTrack(token, requested, excluded) {
     if (excluded.has(id)) return { error: 'already present in persistent state' };
     try {
       const track = await spotifyGet(token, `/tracks/${id}?market=SE`);
-      if (!identityMatches(track, requested)) return { error: 'direct Spotify track identity mismatch' };
+      if (!identityMatches(track, requested) || !releaseMatches(track, requested)) {
+        return { error: 'direct Spotify track identity mismatch' };
+      }
       return { track: candidateRecord(track, requested) };
     } catch (error) {
       return {
@@ -169,6 +173,9 @@ async function resolveRequestedTrack(token, requested, excluded) {
       const album = await spotifyGet(token, `/albums/${requested.spotifyAlbumId}?market=SE`);
       const track = (album?.tracks?.items ?? []).find((item) => identityMatches(item, requested));
       if (!track) return { error: 'exact track not found on supplied Spotify album' };
+      if (requested.releaseDate && album?.release_date !== requested.releaseDate) {
+        return { error: 'supplied Spotify album release date mismatch' };
+      }
       if (excluded.has(track.id)) return { error: 'already present in persistent state' };
       return { track: candidateRecord(track, requested, album) };
     } catch (error) {
