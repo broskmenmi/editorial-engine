@@ -90,6 +90,11 @@ function identityMatches(item, request) {
   return Boolean(item?.id && titleMatch && artistMatch);
 }
 
+function albumMatches(item, request) {
+  if (!request.album) return true;
+  return normalized(item?.album?.name) === normalized(request.album);
+}
+
 function candidateRecord(track, requested, album = null) {
   return {
     id: track.id,
@@ -105,6 +110,26 @@ function candidateRecord(track, requested, album = null) {
     discoverySource: requested.discoverySource,
     requestedIdentity: requested,
   };
+}
+
+async function searchExactTrack(token, requested) {
+  const query = `track:"${requested.track}" artist:"${requested.artist}"`;
+  const params = new URLSearchParams({
+    q: query,
+    type: 'track',
+    market: 'SE',
+    limit: '50',
+  });
+  const result = await spotifyGet(token, `/search?${params.toString()}`);
+  const exact = (result?.tracks?.items ?? []).filter(
+    (item) => identityMatches(item, requested) && albumMatches(item, requested),
+  );
+  const unique = [...new Map(exact.map((item) => [item.id, item])).values()];
+  if (unique.length === 0) return { error: 'no exact Spotify search match' };
+  if (unique.length > 1) {
+    return { error: `ambiguous exact Spotify search match (${unique.map((item) => item.id).join(', ')})` };
+  }
+  return { track: unique[0] };
 }
 
 async function resolveRequestedTrack(token, requested, excluded) {
@@ -142,7 +167,14 @@ async function resolveRequestedTrack(token, requested, excluded) {
     }
   }
 
-  return { error: 'no exact Spotify track or album identifier supplied' };
+  try {
+    const result = await searchExactTrack(token, requested);
+    if (!result.track) return { error: result.error };
+    if (excluded.has(result.track.id)) return { error: 'already present in persistent state' };
+    return { track: candidateRecord(result.track, requested) };
+  } catch (error) {
+    return { error: String(error) };
+  }
 }
 
 async function main() {
@@ -189,7 +221,7 @@ async function main() {
     generatedAt: new Date().toISOString(),
     runId: request.runId ?? null,
     target: request.target,
-    source: 'Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.',
+    source: 'Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.',
     requestedCount: request.candidates.length,
     resolvedCount: candidates.length,
     unresolved,
