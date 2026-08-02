@@ -112,8 +112,7 @@ function candidateRecord(track, requested, album = null) {
   };
 }
 
-async function searchExactTrack(token, requested) {
-  const query = `track:"${requested.track}" artist:"${requested.artist}"`;
+async function searchSpotifyTracks(token, query) {
   const params = new URLSearchParams({
     q: query,
     type: 'track',
@@ -121,10 +120,21 @@ async function searchExactTrack(token, requested) {
     limit: '10',
   });
   const result = await spotifyGet(token, `/search?${params.toString()}`);
-  const exact = (result?.tracks?.items ?? []).filter(
-    (item) => identityMatches(item, requested) && albumMatches(item, requested),
-  );
-  const unique = [...new Map(exact.map((item) => [item.id, item])).values()];
+  return result?.tracks?.items ?? [];
+}
+
+async function searchExactTrack(token, requested) {
+  const queries = [
+    `track:"${requested.track}" artist:"${requested.artist}"`,
+    `${requested.track} ${requested.artist}`,
+    `track:${requested.track} artist:${requested.artist}`,
+  ];
+  const matches = [];
+  for (const query of queries) {
+    const items = await searchSpotifyTracks(token, query);
+    matches.push(...items.filter((item) => identityMatches(item, requested) && albumMatches(item, requested)));
+  }
+  const unique = [...new Map(matches.map((item) => [item.id, item])).values()];
   if (unique.length === 0) return { error: 'no exact Spotify search match' };
   if (unique.length > 1) {
     return { error: `ambiguous exact Spotify search match (${unique.map((item) => item.id).join(', ')})` };
