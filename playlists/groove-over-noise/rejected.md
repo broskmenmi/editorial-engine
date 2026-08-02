@@ -12,6 +12,7 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Sandro Galli | Extra Dimension | At 137 BPM between Nasty Tool and Iruka, it creates 138 → 137 → 141, an avoidable down-up tempo motion immediately before the dominant summit. | 2026-08-02 |
 | Coyu | Cachoeira | The user finds it too noisy and always presses next when it comes on. Repeated skipping shows that it breaks immersion in practice, regardless of its clean BPM placement or intended percussive-rise role. | 2026-08-01 |
 | Red Rooms | Limited Sensory | At 142 BPM between Tragoidia and Bionic Jungle, it creates 141 → 142 → 137, including a flagged -5 BPM drop instead of staging the release progressively. | 2026-08-01 |
 | Ricardo Garduno | My Love | At 137 BPM it creates 141 → 137 → 137, landing on Bionic Jungle's exact tempo and duplicating its release function rather than shaping the descent. | 2026-08-01 |
