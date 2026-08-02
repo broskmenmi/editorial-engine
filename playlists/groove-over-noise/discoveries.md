@@ -2,6 +2,69 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-08-02 — Daily Run 1
+
+**Candidate snapshot:** `2026-08-02T08:25:14+02:00`
+
+### ADD
+
+- **Track:** Tenta Tiv
+- **Artist:** ElectroExeL
+- **Spotify:** spotify:track:4EL0YgpfQs5x51JgPy5292
+- **BPM:** 139
+- **BPM source:** Beatport exact track metadata.
+- **Position:** After Arkan — Nasty Tool and before Alarico — Iruka.
+- **Purpose:** Stage the dominant summit approach.
+- **Reason:** It creates the cleanest measured ascent into Iruka.
+
+### REVISIT
+
+- **Track:** Grid Collapse
+- **Artist:** Sandro Galli
+- **Spotify:** spotify:track:6UMvYwbNtStNBNwHiw2xlK
+- **BPM:** 140
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative after Nasty Tool and before Iruka.
+- **Purpose:** Test a steeper summit approach.
+- **Reason:** It duplicates the accepted approach without stronger evidence.
+- **Reassess when:** Tenta Tiv receives negative listener feedback, the summit chapter changes, or lawful audio evidence materially distinguishes Grid Collapse.
+
+### REJECT
+
+- **Track:** Extra Dimension
+- **Artist:** Sandro Galli
+- **Spotify:** spotify:track:0tn6WVCLJxHYeIvMsHs09J
+- **BPM:** 137
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative after Nasty Tool and before Iruka.
+- **Purpose:** Test a lower summit approach.
+- **Reason:** Its dip creates avoidable pre-summit tempo sawtoothing.
+
+### Evidence map
+
+- **Measured:** Tenta Tiv creates 138 → 139 → 141; Grid Collapse creates 138 → 140 → 141; Extra Dimension creates 138 → 137 → 141.
+- **Craft:** A single approach step may lengthen the third wave while keeping one dominant summit.
+- **Listener:** No negative listener evidence exists for the current Nasty Tool → Iruka transition or the three candidates.
+- **Interpretation:** Tenta Tiv is provisionally assigned the summit-approach role; all sonic and attention effects remain unconfirmed listening hypotheses.
+
+### Audit result
+
+Approved Tenta Tiv as the sole addition. Its +1 and +2 BPM path expands the third wave without altering the protected opening, Iruka's declared summit role, or the final descent. Grid Collapse was parked because it duplicates the same function and approaches Iruka at 140 → 141 without stronger evidence. Extra Dimension was rejected because its 138 → 137 → 141 path introduces avoidable down-up motion before the summit.
+
+### Ledger change
+
+Tenta Tiv enters at position 15; Iruka and all following tracks shift one position.
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow for the 22-track ledger.
+
+### Editorial note
+
+The dominant summit now receives one measured approach step.
+
+---
+
 ## 2026-08-01 — Daily Run 2
 
 **Candidate snapshot:** `2026-08-01T08:16:34+02:00`
