@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-02T06:29:48.375Z",
-  "runId": "2026-08-01T08:16:34+02:00",
+  "generatedAt": "2026-08-02T06:30:10.059Z",
+  "runId": "2026-08-02T08:25:14+02:00",
   "target": {
-    "role": "first-wave rise repair",
-    "position": "replace Coyu — Cachoeira after Ottagone — Ottagone 001 and before No Valentia — Miss Perez",
+    "role": "third-wave summit approach",
+    "position": "after Arkan — Nasty Tool and before Alarico — Iruka",
     "neighbours": [
       {
-        "artist": "Ottagone",
-        "track": "Ottagone 001",
+        "artist": "Arkan",
+        "track": "Nasty Tool",
         "bpm": 138
       },
       {
-        "artist": "No Valentia",
-        "track": "Miss Perez",
-        "bpm": 142
+        "artist": "Alarico",
+        "track": "Iruka",
+        "bpm": 141
       }
     ],
-    "purpose": "replace a listener-reported noisy transition stage"
+    "purpose": "test a distinct approach without diluting the summit"
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
   "resolvedCount": 0,
   "unresolved": [
     {
-      "artist": "Arthur Robert",
-      "track": "Conformal Invariance",
-      "error": "already present in persistent state"
+      "artist": "Simone Tavazzi",
+      "track": "Demon Core - Hans Bouffmyhre Remix",
+      "error": "Error: Spotify /search?q=track%3A%22Demon+Core+-+Hans+Bouffmyhre+Remix%22+artist%3A%22Simone+Tavazzi%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
     },
     {
-      "artist": "Arkan",
-      "track": "Up & Down",
-      "error": "already present in persistent state"
+      "artist": "Sandro Galli",
+      "track": "Grid Collapse",
+      "error": "Error: Spotify /search?q=track%3A%22Grid+Collapse%22+artist%3A%22Sandro+Galli%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
     },
     {
-      "artist": "Vinicius Honorio",
-      "track": "Kingpin",
-      "error": "already present in persistent state"
+      "artist": "ElectroExeL",
+      "track": "Tenta Tiv",
+      "error": "Error: Spotify /search?q=track%3A%22Tenta+Tiv%22+artist%3A%22ElectroExeL%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
     }
   ],
   "warnings": [],
