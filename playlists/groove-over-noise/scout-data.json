@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:30:10.059Z",
+  "generatedAt": "2026-08-02T06:30:53.686Z",
   "runId": "2026-08-02T08:25:14+02:00",
   "target": {
     "role": "third-wave summit approach",
@@ -20,24 +20,59 @@
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 0,
+  "resolvedCount": 2,
   "unresolved": [
     {
       "artist": "Simone Tavazzi",
       "track": "Demon Core - Hans Bouffmyhre Remix",
-      "error": "Error: Spotify /search?q=track%3A%22Demon+Core+-+Hans+Bouffmyhre+Remix%22+artist%3A%22Simone+Tavazzi%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
-    },
-    {
-      "artist": "Sandro Galli",
-      "track": "Grid Collapse",
-      "error": "Error: Spotify /search?q=track%3A%22Grid+Collapse%22+artist%3A%22Sandro+Galli%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
-    },
-    {
-      "artist": "ElectroExeL",
-      "track": "Tenta Tiv",
-      "error": "Error: Spotify /search?q=track%3A%22Tenta+Tiv%22+artist%3A%22ElectroExeL%22&type=track&market=SE&limit=50 failed: 400 {\"error\":{\"status\":400,\"message\":\"Invalid limit\"}}"
+      "error": "no exact Spotify search match"
     }
   ],
   "warnings": [],
-  "candidates": []
+  "candidates": [
+    {
+      "id": "6UMvYwbNtStNBNwHiw2xlK",
+      "uri": "spotify:track:6UMvYwbNtStNBNwHiw2xlK",
+      "name": "Grid Collapse",
+      "artists": [
+        "Sandro Galli"
+      ],
+      "album": "Extra Dimension EP",
+      "releaseDate": "2026-07-24",
+      "durationMs": 387428,
+      "spotifyUrl": "https://open.spotify.com/track/6UMvYwbNtStNBNwHiw2xlK",
+      "bpm": 140,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Gynoid Audio release dated 2026-07-24",
+      "requestedIdentity": {
+        "artist": "Sandro Galli",
+        "track": "Grid Collapse",
+        "bpm": 140,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Gynoid Audio release dated 2026-07-24"
+      }
+    },
+    {
+      "id": "4EL0YgpfQs5x51JgPy5292",
+      "uri": "spotify:track:4EL0YgpfQs5x51JgPy5292",
+      "name": "Tenta Tiv",
+      "artists": [
+        "ElectroExeL"
+      ],
+      "album": "First Fragment EP",
+      "releaseDate": "2026-07-22",
+      "durationMs": 303884,
+      "spotifyUrl": "https://open.spotify.com/track/4EL0YgpfQs5x51JgPy5292",
+      "bpm": 139,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Urban Kickz Recordings release dated 2026-07-22",
+      "requestedIdentity": {
+        "artist": "ElectroExeL",
+        "track": "Tenta Tiv",
+        "bpm": 139,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Urban Kickz Recordings release dated 2026-07-22"
+      }
+    }
+  ]
 }
