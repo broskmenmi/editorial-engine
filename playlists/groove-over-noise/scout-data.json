@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:20:32.905Z",
+  "generatedAt": "2026-08-02T06:29:48.375Z",
   "runId": "2026-08-01T08:16:34+02:00",
   "target": {
     "role": "first-wave rise repair",
@@ -18,10 +18,15 @@
     ],
     "purpose": "replace a listener-reported noisy transition stage"
   },
-  "source": "Exact Spotify identity from supplied public track IDs or Spotify album metadata; BPM from the declared external source.",
+  "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 1,
+  "resolvedCount": 0,
   "unresolved": [
+    {
+      "artist": "Arthur Robert",
+      "track": "Conformal Invariance",
+      "error": "already present in persistent state"
+    },
     {
       "artist": "Arkan",
       "track": "Up & Down",
@@ -34,29 +39,5 @@
     }
   ],
   "warnings": [],
-  "candidates": [
-    {
-      "id": "5N914CiNjaNQ1F3qIGEYEv",
-      "uri": "spotify:track:5N914CiNjaNQ1F3qIGEYEv",
-      "name": "Conformal Invariance",
-      "artists": [
-        "Arthur Robert"
-      ],
-      "album": "Hydrostatic Equilibrium",
-      "releaseDate": "2025-01-17",
-      "durationMs": 360917,
-      "spotifyUrl": "https://open.spotify.com/track/5N914CiNjaNQ1F3qIGEYEv",
-      "bpm": 140,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Reconsidered for a new role after direct listener feedback",
-      "requestedIdentity": {
-        "artist": "Arthur Robert",
-        "track": "Conformal Invariance",
-        "spotifyTrackId": "5N914CiNjaNQ1F3qIGEYEv",
-        "bpm": 140,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Reconsidered for a new role after direct listener feedback"
-      }
-    }
-  ]
+  "candidates": []
 }
