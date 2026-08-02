@@ -20,19 +20,20 @@
 | 12 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
 | 13 | Decoder | Flowing | spotify:track:67G0MRoqW60mlqLbWd14Wo | 138 | ADD | Third-wave psychological threshold | 2026-07-30 |
 | 14 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
-| 15 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
-| 16 | RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | 138 | ADD | Summit decompression hinge | 2026-07-30 |
-| 17 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
-| 18 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
-| 19 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 20 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
-| 21 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 15 | ElectroExeL | Tenta Tiv | spotify:track:4EL0YgpfQs5x51JgPy5292 | 139 | ADD | Third-wave summit approach | 2026-08-02 |
+| 16 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
+| 17 | RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | 138 | ADD | Summit decompression hinge | 2026-07-30 |
+| 18 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
+| 19 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
+| 20 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 21 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
+| 22 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **Ottagone 001 → Miss Perez → Two Glasses of Whisky** now forms a direct 138 → 142 → 145 first-wave ascent after Cachoeira's removal.
+Every adjacent difference remains within the 0–4 BPM target. **Nasty Tool → Tenta Tiv → Iruka** now forms a 138 → 139 → 141 approach to the dominant summit without changing the protected opening or final descent.
 
 ## Current journey
 
@@ -50,14 +51,15 @@ Every adjacent difference remains within the 0–4 BPM target. **Ottagone 001 �
 12. **Release extension** — open rhythmic space.
 13. **Third-wave threshold** — add contrast before re-entry.
 14. **Third-wave re-entry** — rebuild pressure.
-15. **Main summit** — concentrate the strongest sustained pressure.
-16. **Summit release hinge** — convert force into repetition.
-17. **Release continuation** — keep descending without losing movement.
-18. **Decompression bridge** — continue downward gradually.
-19. **Focused decompression** — narrow the rhythmic field.
-20. **Deep decompression** — deepen space while preserving pulse.
-21. **Dissolution** — let remaining pressure evaporate.
+15. **Third-wave summit approach** — add one controlled step before the summit.
+16. **Main summit** — concentrate the strongest sustained pressure.
+17. **Summit release hinge** — convert force into repetition.
+18. **Release continuation** — keep descending without losing movement.
+19. **Decompression bridge** — continue downward gradually.
+20. **Focused decompression** — narrow the rhythmic field.
+21. **Deep decompression** — deepen space while preserving pulse.
+22. **Dissolution** — let remaining pressure evaporate.
 
 ## Next structural need
 
-Protect Deep Under → Wurk as the opening identity pair. Let the simplified Ottagone 001 → Miss Perez ascent settle without immediately replacing Cachoeira. Continue autonomous discovery elsewhere while preserving Iruka as the main summit and Interlynx → Minimum → Eclipse → Haidou → Calipso as the ending.
+Protect Deep Under → Wurk as the opening identity pair. Let Tenta Tiv remain a provisional summit approach without adding another stage before Iruka. Continue autonomous discovery elsewhere while preserving Iruka as the main summit and Interlynx → Minimum → Eclipse → Haidou → Calipso as the ending.
