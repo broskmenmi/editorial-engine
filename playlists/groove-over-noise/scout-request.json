@@ -1,38 +1,35 @@
 {
-  "runId": "2026-08-01T08:16:34+02:00",
+  "runId": "2026-08-02T08:25:14+02:00",
   "target": {
-    "role": "first-wave rise repair",
-    "position": "replace Coyu — Cachoeira after Ottagone — Ottagone 001 and before No Valentia — Miss Perez",
+    "role": "third-wave summit approach",
+    "position": "after Arkan — Nasty Tool and before Alarico — Iruka",
     "neighbours": [
-      { "artist": "Ottagone", "track": "Ottagone 001", "bpm": 138 },
-      { "artist": "No Valentia", "track": "Miss Perez", "bpm": 142 }
+      { "artist": "Arkan", "track": "Nasty Tool", "bpm": 138 },
+      { "artist": "Alarico", "track": "Iruka", "bpm": 141 }
     ],
-    "purpose": "replace a listener-reported noisy transition stage"
+    "purpose": "test a distinct approach without diluting the summit"
   },
   "candidates": [
     {
-      "artist": "Arthur Robert",
-      "track": "Conformal Invariance",
-      "spotifyTrackId": "5N914CiNjaNQ1F3qIGEYEv",
+      "artist": "Simone Tavazzi",
+      "track": "Demon Core - Hans Bouffmyhre Remix",
       "bpm": 140,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Reconsidered for a new role after direct listener feedback"
+      "discoverySource": "Unknown Territory release dated 2026-07-24"
     },
     {
-      "artist": "Arkan",
-      "track": "Up & Down",
-      "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
+      "artist": "Sandro Galli",
+      "track": "Grid Collapse",
+      "bpm": 140,
+      "bpmSource": "Beatport exact track metadata",
+      "discoverySource": "Gynoid Audio release dated 2026-07-24"
+    },
+    {
+      "artist": "ElectroExeL",
+      "track": "Tenta Tiv",
       "bpm": 139,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Reconsidered for a new role after direct listener feedback"
-    },
-    {
-      "artist": "Vinicius Honorio",
-      "track": "Kingpin",
-      "spotifyTrackId": "7fBEw8o7XxHBEsdrjUbROw",
-      "bpm": 138,
-      "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Reconsidered for a new role after direct listener feedback"
+      "discoverySource": "Urban Kickz Recordings release dated 2026-07-22"
     }
   ]
 }
