@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T06:33:37.821Z",
+  "generatedAt": "2026-08-02T06:34:31.508Z",
   "runId": "2026-08-02T08:25:14+02:00",
   "target": {
     "role": "third-wave summit approach",
@@ -20,16 +20,33 @@
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 2,
-  "unresolved": [
-    {
-      "artist": "I7HVN",
-      "track": "Phurba",
-      "error": "ambiguous exact Spotify search match (0E8Mgw6eld75bhYQG9pCj5, 497caJpQig2AIifIn28oiR)"
-    }
-  ],
+  "resolvedCount": 3,
+  "unresolved": [],
   "warnings": [],
   "candidates": [
+    {
+      "id": "0tn6WVCLJxHYeIvMsHs09J",
+      "uri": "spotify:track:0tn6WVCLJxHYeIvMsHs09J",
+      "name": "Extra Dimension",
+      "artists": [
+        "Sandro Galli"
+      ],
+      "album": "Extra Dimension EP",
+      "releaseDate": "2026-07-24",
+      "durationMs": 434782,
+      "spotifyUrl": "https://open.spotify.com/track/0tn6WVCLJxHYeIvMsHs09J",
+      "bpm": 137,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Gynoid Audio release dated 2026-07-24",
+      "requestedIdentity": {
+        "artist": "Sandro Galli",
+        "track": "Extra Dimension",
+        "releaseDate": "2026-07-24",
+        "bpm": 137,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Gynoid Audio release dated 2026-07-24"
+      }
+    },
     {
       "id": "6UMvYwbNtStNBNwHiw2xlK",
       "uri": "spotify:track:6UMvYwbNtStNBNwHiw2xlK",
