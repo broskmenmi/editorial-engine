@@ -2,6 +2,93 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-08-03 — Daily Run 1
+
+**Candidate snapshot:** `2026-08-03T08:36:00+02:00`
+
+### ADD
+
+- **Track:** Percussion Work
+- **Artist:** Vakat
+- **Spotify:** spotify:track:2gS1RkrHYJiCiPYk8emz0E
+- **BPM:** 139
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Replace RTNH — Session 4 - Original Mix after Alarico — Iruka and before Stef Mendesidis — Interlynx.
+- **Purpose:** Repair the summit exit.
+- **Reason:** Balanced tempo steps stage decompression more gradually.
+
+### REJECT
+
+- **Track:** Looking For Solution
+- **Artist:** Vakat
+- **Spotify:** spotify:track:0JG6umMExvitYDjmnZ1KaB
+- **BPM:** 140
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative replacement after Iruka and before Interlynx.
+- **Purpose:** Test a shallower first drop.
+- **Reason:** Its uneven descent is less balanced than Percussion Work.
+
+### REJECT
+
+- **Track:** Devotion
+- **Artist:** Vakat
+- **Spotify:** spotify:track:3Oytb4gMa08wb1lRh7BL5E
+- **BPM:** 140
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative replacement after Iruka and before Interlynx.
+- **Purpose:** Test a second 140 BPM repair.
+- **Reason:** It duplicates the approved repair without stronger evidence.
+
+### Evidence map
+
+- **Measured:** Percussion Work creates 141 → 139 → 137; both alternatives create 141 → 140 → 137. Every adjacent difference remains within 0–4 BPM.
+- **Craft:** A balanced summit exit can begin decompression without reopening the journey or altering the protected ending.
+- **Listener:** “Session 4 feels like it comes out abruptly after Alarico.”
+- **Interpretation:** Percussion Work is provisionally assigned the summit decompression-hinge role; its attention continuity remains an unconfirmed listening hypothesis.
+
+### Audit result
+
+Approved Percussion Work as the sole replacement and resolved the Session 4 review as REPLACE. The change preserves Iruka as the dominant summit, keeps the full protected descent intact, and changes the summit exit from 141 → 138 → 137 to 141 → 139 → 137. Looking For Solution and Devotion were rejected because they duplicate the same repair function without stronger evidence.
+
+### Ledger change
+
+Replaced RTNH — Session 4 - Original Mix at position 17 with Vakat — Percussion Work.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. No Valentia — Miss Perez
+5. Maeksll — Two Glasses of Whisky
+6. Altinbas — Trail Of
+7. Altinbas, Cirkle — Enlightenment
+8. Jancen — F Track
+9. Maeksll — Tragoidia
+10. Red Rooms — Blind Spot
+11. Marcal — Bionic Jungle
+12. Vil — AB01
+13. Decoder — Flowing
+14. Arkan — Nasty Tool
+15. ElectroExeL — Tenta Tiv
+16. Alarico — Iruka
+17. Vakat — Percussion Work
+18. Stef Mendesidis — Interlynx
+19. Maeksll — Minimum
+20. Psyk — Eclipse
+21. Claudio PRC — Haidou
+22. Luigi Tozzi — Calipso
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow for the 22-track ledger.
+
+### Editorial note
+
+The summit now exits through balanced steps instead of an abrupt handoff.
+
+---
+
 ## 2026-08-02 — Daily Run 1
 
 **Candidate snapshot:** `2026-08-02T08:25:14+02:00`
