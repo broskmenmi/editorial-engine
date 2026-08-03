@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T06:33:16.721Z",
-  "runId": "2026-08-03T08:30:44+02:00",
+  "generatedAt": "2026-08-03T06:34:12.578Z",
+  "runId": "2026-08-03T08:36:00+02:00",
   "target": {
     "role": "summit-exit repair",
     "position": "after Alarico — Iruka and before Stef Mendesidis — Interlynx",
@@ -20,19 +20,8 @@
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 1,
-  "unresolved": [
-    {
-      "artist": "Hertz, Wehbba",
-      "track": "Cortex",
-      "error": "no exact Spotify search match"
-    },
-    {
-      "artist": "Jnks",
-      "track": "Ember",
-      "error": "no exact Spotify search match"
-    }
-  ],
+  "resolvedCount": 3,
+  "unresolved": [],
   "warnings": [],
   "candidates": [
     {
@@ -54,6 +43,52 @@
         "track": "Percussion Work",
         "releaseDate": "2026-06-26",
         "bpm": 139,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Non Series release dated 2026-06-26"
+      }
+    },
+    {
+      "id": "0JG6umMExvitYDjmnZ1KaB",
+      "uri": "spotify:track:0JG6umMExvitYDjmnZ1KaB",
+      "name": "Looking For Solution",
+      "artists": [
+        "Vakat"
+      ],
+      "album": "Looking For Solution",
+      "releaseDate": "2026-06-26",
+      "durationMs": 385714,
+      "spotifyUrl": "https://open.spotify.com/track/0JG6umMExvitYDjmnZ1KaB",
+      "bpm": 140,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Non Series release dated 2026-06-26",
+      "requestedIdentity": {
+        "artist": "Vakat",
+        "track": "Looking For Solution",
+        "releaseDate": "2026-06-26",
+        "bpm": 140,
+        "bpmSource": "Beatport exact track metadata",
+        "discoverySource": "Non Series release dated 2026-06-26"
+      }
+    },
+    {
+      "id": "3Oytb4gMa08wb1lRh7BL5E",
+      "uri": "spotify:track:3Oytb4gMa08wb1lRh7BL5E",
+      "name": "Devotion",
+      "artists": [
+        "Vakat"
+      ],
+      "album": "Looking For Solution",
+      "releaseDate": "2026-06-26",
+      "durationMs": 358285,
+      "spotifyUrl": "https://open.spotify.com/track/3Oytb4gMa08wb1lRh7BL5E",
+      "bpm": 140,
+      "tempoSource": "Beatport exact track metadata",
+      "discoverySource": "Non Series release dated 2026-06-26",
+      "requestedIdentity": {
+        "artist": "Vakat",
+        "track": "Devotion",
+        "releaseDate": "2026-06-26",
+        "bpm": 140,
         "bpmSource": "Beatport exact track metadata",
         "discoverySource": "Non Series release dated 2026-06-26"
       }
