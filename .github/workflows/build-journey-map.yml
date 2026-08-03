@@ -37,7 +37,7 @@ jobs:
           node-version: 24
 
       - name: Build journey map
-        run: node apps/journey-map/src/index.js
+        run: node --import ./apps/journey-map/src/spotify-fetch-shim.js apps/journey-map/src/index.js
 
       - name: Persist generated map
         shell: bash
