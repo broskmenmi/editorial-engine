@@ -74,6 +74,33 @@ Natural feedback is welcome whenever it appears during ordinary listening. Silen
 
 A track may remain provisionally accepted until the user naturally notices a problem. The system should not repeatedly surface the same unresolved comparison simply because the user has not performed a test.
 
+Short clarifying questions after the user volunteers a problem are not listening homework. They are a collaborative conversation used to understand what the user already noticed.
+
+## Listener-feedback clarification rule
+
+`feedback-protocol.md` is authoritative and overrides conflicting instructions in this constitution.
+
+A complaint is evidence, not permission to edit the playlist.
+
+Unless the user explicitly says to remove, replace, move, reorder, or make another exact change:
+
+1. Keep the current ledger and Spotify playlist unchanged.
+2. Record the complaint as `AWAITING CLARIFICATION`.
+3. Explain why the track was originally placed there.
+4. Ask at most three short questions that can be answered from memory.
+5. Distinguish whether the problem is:
+   - the track itself;
+   - the transition into it;
+   - the transition out of it;
+   - its position or role;
+   - a broader stylistic mismatch.
+6. Summarize the shared diagnosis before proposing KEEP, MOVE, REPLACE, or REMOVE.
+7. If a proposed repair changes neighbouring or additional tracks, name every affected track and obtain explicit approval for that wider scope.
+
+Phrases such as “too noisy,” “too slow,” “it feels abrupt,” “I don't like it,” “I always skip it,” and “could it work elsewhere?” open discussion; they do not authorize automatic change.
+
+Direct instructions such as “remove it,” “take it out,” “move it after X,” or “replace it with Y” authorize the stated action.
+
 ## Evidence and authority
 
 Editorial decisions must distinguish four kinds of evidence:
@@ -89,7 +116,7 @@ A track may be numerically compatible and still feel too busy, stressful, empty,
 
 Do not claim to have heard or analysed a Spotify track when only metadata was available. Do not infer that a track is hypnotic, spacious, crowded, steady, stressful, house-like, or emotionally powerful from BPM, title, genre, artist, label, or reputation alone.
 
-When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis. Lack of direct confirmation alone is not a reason to burden the user or freeze the playlist.
+When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis. Lack of direct confirmation alone is not a reason to burden the user or freeze the whole playlist.
 
 ## Opening identity rule
 
@@ -117,18 +144,13 @@ When the user naturally identifies an opening transition as especially right, pr
 
 The interpretation remains a hypothesis; the positive listener report is the authority. The pair stays intact until direct listener feedback reopens it.
 
-## Repeated-skip rule
+## Behavioural evidence
 
-Repeatedly pressing **next** when the same track appears is decisive behavioural evidence.
+Repeated skipping, stress, relief when a track ends, and a desire to press next are strong evidence that something is wrong.
 
-It means the track is not merely imperfect in theory: it is repeatedly breaking the user's desire to remain inside the journey.
+They strengthen the case for MOVE, REPLACE, or REMOVE, but they do not bypass the clarification rule unless the user explicitly orders the change.
 
-When the user says a track is always skipped:
-
-- resolve the accepted-track review as **REMOVE**, unless the user explicitly asks to keep discussing it;
-- do not defend the track with BPM, placement, reputation, or its intended role;
-- do not require a replacement when removing it leaves a coherent transition;
-- record the skip behaviour as the durable rejection reason.
+The system must first learn whether the problem is the track itself or its context. A repeatedly skipped track may ultimately be removed, but the decision is made with the user, not automatically on the user's behalf.
 
 ## GROOVE OVER NOISE house style
 
@@ -142,11 +164,11 @@ The house style should support, not override, the actual listening experience.
 
 An ADD decision is not permanent.
 
-When the user naturally questions an accepted track, place it **UNDER REVIEW** while it remains in the ledger. Preserve the user's exact words, explain the track's intended role, and resolve the review as KEEP, MOVE, REPLACE, or REMOVE.
+When the user naturally questions an accepted track, place the issue **UNDER REVIEW** while freezing the affected region. Preserve the user's exact words and explain the track's intended role.
 
-Feeling relieved because a track has ended is strong evidence that the track or its placement may be creating the wrong kind of tension. It should open a focused discussion, not trigger automatic deletion and not create mandatory homework.
+Do not resolve the review autonomously unless the user gave an explicit action command. Clarify first, agree on the diagnosis, then consider KEEP, MOVE, REPLACE, or REMOVE.
 
-Tracks should not be placed UNDER REVIEW merely because a critical role has not been explicitly confirmed by the user.
+The rest of the playlist may continue growing outside the frozen region if no broader defect exists.
 
 ## Plain-language rule
 
