@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T11:46:17.965Z",
+  "generatedAt": "2026-08-03T22:05:03.829Z",
   "source": {
     "ledgerPath": "playlists/groove-over-noise/ledger.md",
     "annotationsPath": "playlists/groove-over-noise/journey-annotations.json",
@@ -14,7 +14,8 @@
     "storyHeightMeaning": "Ordinal editorial role for visualization only; not measured energy, loudness, mood, or audio intensity.",
     "compactMapPath": "playlists/groove-over-noise/journey-map.svg",
     "sitesPromptPath": "playlists/groove-over-noise/sites-prompt.md",
-    "detailedSiteStatus": "SITES_READY_NOT_DEPLOYED"
+    "detailedSiteStatus": "PUBLISHED_READ_ONLY",
+    "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
     "trackCount": 23,
