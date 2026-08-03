@@ -1,6 +1,113 @@
 # GROOVE OVER NOISE — Discovery Log
 
 
+## 2026-08-03 — Corrected Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-03T21:54:26Z-explore`
+
+### Fresh exploration receipt
+
+- Inspected approximately 80 track listings across approximately 14 release and catalogue pages.
+- Covered May–July 2026 releases, adjacent and emerging artists and labels, and overlooked catalogue.
+- Excluded the frozen `Iruka → Percussion Work → Interlynx` region, the protected `Deep Under → Wurk` handoff, and the protected ending.
+- Used metadata and clearly attributed release notes only. No raw-audio analysis or candidate listener report was available.
+
+### ADD — provisional
+
+- **Track:** Octagon
+- **Artist:** Basic Channel
+- **Spotify:** spotify:track:0lbeEcQXDMou9NkShtfz9w
+- **BPM:** 141
+- **Duration:** 12:57.340
+- **Position:** After Jancen — F Track and before Maeksll — Tragoidia.
+- **Purpose:** Create a long-form second-wave immersion chamber before the deeper crest.
+- **Playlist belonging:** `BELONGS` provisionally. Track-specific attributed evidence describes an exceptionally reduced, snare-light, hypnotic construction, directly supporting patience, reduction, immersion, and timelessness. This is attributed evidence, not a claim that the workflow heard the track.
+- **Exact neighbours:** `COMPATIBLE` provisionally. F Track 140 → Octagon 141 → Tragoidia 141 creates +1 / 0 BPM steps; actual phrase and attention continuity remain unknown.
+- **Distinct function:** The approximately thirteen-minute reduction chamber deepens the second wave rather than repairing or smoothing an existing defect. It expands that chapter from approximately 27:22 to 40:19 and the full playlist from approximately 2:15:07 to 2:28:04 without touching the dominant summit or protected ending.
+- **Unconfirmed score summary:** groove 4, hypnosis 5, restraint 5, progressive development 4, dancefloor continuity 4, patience 5, spatial openness 4, timelessness 5, pulse compatibility 5, attention continuity 4, clear non-duplicate role 5. Repair value is not applicable. The chapter-duration risk is 2/5.
+- **Internal uncertainty:** The long chamber may delay Tragoidia or cause impatience. Natural listener feedback may reopen the provisional placement; no listening task is assigned.
+
+### REVISIT
+
+- **Track:** Industria Acéfala
+- **Artist:** DJ Dextro
+- **Spotify:** spotify:track:02cniEHoBnELxWX54JkDuF
+- **BPM:** 140
+- **Duration:** 5:03.735
+- **Proposed position:** After Ottagone 001 and before Miss Perez.
+- **Playlist belonging:** `UNCERTAIN`. The official track description supports rolling, hypnotic tension but also emphasizes scratchy texture and unsettling tension.
+- **Exact neighbours:** Pulse is compatible at 138 → 140 → 142; attention continuity is `UNCERTAIN`.
+- **Unconfirmed score summary:** groove 4, hypnosis 4, restraint 2, progressive development 4, dancefloor continuity 4, patience 3, spatial openness 2, timelessness 3, pulse compatibility 5, attention continuity 2, distinct role 4. The attention/noise risk is 3/5.
+- **Reassess when:** Lawful audio evidence clarifies density, transients, and energy trajectory; the first-wave structure materially changes; or the user naturally asks about this role.
+
+### UNRESOLVED IDENTITY — no verdict
+
+- **Requested track:** Deano (ZA) — Kazoo (Stripped Version)
+- **Supplied Spotify ID:** 5ovrfaChUoqnedc5ZmUEvg
+- **Resolver result:** Direct Spotify identity mismatch.
+- **Handling:** Excluded from evaluation with no substitute, rejection, or revisit entry.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identities resolved for two of three requested candidates. Octagon creates 140 → 141 → 141 and adds 12:57.340. Industria Acéfala would create 138 → 140 → 142. All tested steps remain within the 0–4 BPM target.
+- **Craft:** A long reduced chamber can deepen a wave without becoming its crest; a source-described attention risk should not be hidden merely because the BPM path is clean.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Octagon is provisionally assigned a distinct immersion function. Industria Acéfala remains a differentiated hypothesis, not a failed bridge.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, trajectory, and transition features remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved Octagon as the sole canonical addition and Industria Acéfala for REVISIT. The partial resolver snapshot was handled without substitution. The protected opening, frozen summit-exit region, dominant summit, and protected ending remain unchanged. This is the first positive test of the corrected outward-discovery lane: the opportunity was discovered before its placement was proposed.
+
+### Ledger change
+
+Added Basic Channel — Octagon after F Track. Every later track shifts one position without changing relative order.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. Ottagone — Ottagone 001
+4. No Valentia — Miss Perez
+5. Maeksll — Two Glasses of Whisky
+6. FENIM0RE, KYSH Records — My Last Descent
+7. Altinbas — Trail Of
+8. Altinbas, Cirkle — Enlightenment
+9. Jancen — F Track
+10. Basic Channel — Octagon
+11. Maeksll — Tragoidia
+12. Red Rooms — Blind Spot
+13. Marcal — Bionic Jungle
+14. Vil — AB01
+15. Decoder — Flowing
+16. Arkan — Nasty Tool
+17. ElectroExeL — Tenta Tiv
+18. Alarico — Iruka
+19. Vakat — Percussion Work
+20. Stef Mendesidis — Interlynx
+21. Maeksll — Minimum
+22. Psyk — Eclipse
+23. Claudio PRC — Haidou
+24. Luigi Tozzi — Calipso
+
+### Post-change BPM trajectory
+
+`134 → 136 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+
+Every adjacent difference remains within the 0–4 BPM target.
+
+### Journey annotation change
+
+Added Octagon to the `second-wave` chapter with provisional `build` story band and `long-form-immersion` / `reduction-chamber` labels. No other annotation, protected marker, or discussion state changed.
+
+### Editorial note
+
+The engine looked outward, found a new function, and admitted only the candidate strong enough to justify uncertainty.
+
+
 ## 2026-08-03 — Requested Doctrine Run 4
 
 **Pre-audit verdict:** `NO GENUINE SCOUTING TARGET`

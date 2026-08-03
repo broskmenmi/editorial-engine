@@ -39,9 +39,9 @@ Do not insert before Deep Under or between the protected pair without direct pos
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within 0–4 BPM. **Two Glasses of Whisky → My Last Descent → Trail Of** now forms a 145 → 144 → 142 first-wave release.
+Every adjacent difference remains within 0–4 BPM. **F Track → Octagon → Tragoidia** now forms a 140 → 141 → 141 second-wave immersion chamber and crest approach.
 
 ## Current chapter map
 
@@ -54,20 +54,36 @@ Every adjacent difference remains within 0–4 BPM. **Two Glasses of Whisky → 
 7. **First release:** Trail Of
 8. **Post-crest bridge:** Enlightenment
 9. **Second-wave re-entry:** F Track
-10. **Second crest:** Tragoidia
-11. **Second-wave release hinge:** Blind Spot
-12. **Second-wave release:** Bionic Jungle
-13. **Release extension:** AB01
-14. **Third-wave threshold:** Flowing
-15. **Third-wave re-entry:** Nasty Tool
-16. **Summit approach:** Tenta Tiv
-17. **Main summit:** Iruka
-18. **Current summit-exit hinge:** Percussion Work
-19. **Release continuation:** Interlynx
-20. **Decompression bridge:** Minimum
-21. **Focused decompression:** Eclipse
-22. **Deep decompression:** Haidou
-23. **Dissolution:** Calipso
+10. **Long-form second-wave immersion chamber, provisional:** Octagon
+11. **Second crest:** Tragoidia
+12. **Second-wave release hinge:** Blind Spot
+13. **Second-wave release:** Bionic Jungle
+14. **Release extension:** AB01
+15. **Third-wave threshold:** Flowing
+16. **Third-wave re-entry:** Nasty Tool
+17. **Summit approach:** Tenta Tiv
+18. **Main summit:** Iruka
+19. **Current summit-exit hinge:** Percussion Work
+20. **Release continuation:** Interlynx
+21. **Decompression bridge:** Minimum
+22. **Focused decompression:** Eclipse
+23. **Deep decompression:** Haidou
+24. **Dissolution:** Calipso
+
+## Corrected outward-discovery addition
+
+**Basic Channel — Octagon** is added after **F Track** and before **Tragoidia**.
+
+- **Measured placement:** 140 → 141 → 141 BPM; duration 12:57.340.
+- **Source evidence:** track-specific attributed evidence describes an exceptionally reduced, snare-light, hypnotic dub-techno construction. This is not a claim of direct listening or raw-audio analysis.
+- **Editorial interpretation:** it creates a patient long-form immersion chamber between second-wave re-entry and the deeper crest.
+- **Duration effect:** the second wave grows from approximately 27:22 to 40:19; the full playlist grows from approximately 2:15:07 to 2:28:04.
+- **Provisional risk:** the long chamber may delay Tragoidia or cause impatience. Natural feedback may reopen it; no listening homework is assigned.
+- **Scope:** the protected opening, frozen Session 4 region, dominant summit, and protected ending remain unchanged.
+
+**DJ Dextro — Industria Acéfala** is parked for REVISIT. Its clean 138 → 140 → 142 proposal does not override a source-described attention/noise risk.
+
+**Deano (ZA) — Kazoo (Stripped Version)** received no verdict because the supplied Spotify identity did not match; the resolver made no substitution.
 
 ## First-wave release addition
 
@@ -104,6 +120,7 @@ Clarification still needs to establish:
 
 1. Preserve Deep Under → Wurk.
 2. Let My Last Descent remain a provisional first-wave release hinge.
-3. Leave the frozen Session 4 region untouched until clarification.
-4. Preserve Iruka as the summit and the protected ending.
-5. Continue fresh outward discovery outside frozen or protected regions even when no repair target exists; do not invent a gap before finding the track.
+3. Let Octagon remain a provisional long-form second-wave immersion chamber unless natural feedback reopens it.
+4. Leave the frozen Session 4 region untouched until clarification.
+5. Preserve Iruka as the summit and the protected ending.
+6. Continue fresh outward discovery outside frozen or protected regions even when no repair target exists; do not invent a gap before finding the track.
