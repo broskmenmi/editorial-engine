@@ -11,15 +11,18 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 1. `constitution.md`
 2. `feedback-protocol.md`
 3. `ledger.md`
-4. `discoveries.md`
-5. `rejected.md`
-6. `revisit.md`
-7. `under-review.md`
-8. `notes.md`
-9. `spotify.json`
-10. `spotify-status.json`
-11. repository-level `AGENTS.md`
-12. the relevant skill packages under `.agents/skills/`
+4. `journey-annotations.json`
+5. `journey-map-spec.md`
+6. `discoveries.md`
+7. `rejected.md`
+8. `revisit.md`
+9. `under-review.md`
+10. `notes.md`
+11. `spotify.json`
+12. `spotify-status.json`
+13. `journey-map.json` when present
+14. repository-level `AGENTS.md`
+15. the relevant skill packages under `.agents/skills/`
 
 `feedback-protocol.md` overrides any conflicting complaint, repeated-skip, repair-first, or relaxation-first instruction.
 
@@ -34,8 +37,8 @@ Execute:
 3. **Evaluator** — assign ADD, REVISIT, or REJECT.
 4. **Sequencer** — place provisional additions or repairs.
 5. **Auditor** — approve, veto, or revise.
-6. **Librarian** — persist the approved state.
-7. **Publisher** — report from `spotify-status.json`.
+6. **Librarian** — persist the approved state, including `journey-annotations.json` when the journey map changes.
+7. **Publisher** — report from `spotify-status.json` and append the compact journey map.
 
 An active `AWAITING CLARIFICATION` discussion freezes only its affected region. The run may continue elsewhere but must not scout into, edit, reorder, or publish changes to the frozen region.
 
@@ -100,13 +103,44 @@ Candidate resolution is a pre-audit input, not a publication step.
 - Spotify publication never executes the Scout or modifies scout files.
 - A new snapshot requires a new `runId` and a genuinely new run.
 
+## Journey-map lifecycle
+
+The visualization has a compact generated SVG and a Sites-ready detailed JSON model.
+
+Inputs:
+
+- `ledger.md`
+- `journey-annotations.json`
+- current listener-feedback state
+
+Generated outputs:
+
+- `journey-map.json`
+- `journey-map.svg`
+
+Rules:
+
+- The story curve is ordinal editorial interpretation, not measured energy, mood, loudness, or waveform analysis.
+- The BPM curve and duration axis are measured metadata and must remain visually separate.
+- Every ledger ADD, MOVE, REPLACE, REMOVE, chapter change, protected state, provisional state, or frozen discussion must be reflected in `journey-annotations.json` in the same approved editorial change set.
+- `.github/workflows/build-journey-map.yml` generates the derivative files through `apps/journey-map/`.
+- Do not hand-edit generated `journey-map.json` or `journey-map.svg`.
+- The detailed future ChatGPT Site will read `journey-map.json`; `sites-prompt.md` is the build brief.
+- The Site is not deployed until ChatGPT Sites is available to the user. Do not create a temporary website that becomes a second source of truth.
+
+Map currency check:
+
+- Treat the map as current only when the ordered `journey-map.json.tracks[].uri` list exactly matches the current ledger URI order.
+- If the map is pending, finish the editorial response normally and say `Journey map updating` after the editorial note. Do not fail the task.
+
 ## Runtime and delivery safety
 
 - Do not restart completed phases.
 - Do not poll the same status continuously.
-- After the final editorial commit, read `spotify-status.json` once after a bounded wait.
-- If publication is still pending, report `PARTIAL — publication pending` and finish the response.
-- A secondary cache or scout failure must not suppress the user-facing report after decisions are persisted.
+- After the final editorial commit, read `spotify-status.json` and `journey-map.json` once after a bounded wait.
+- If Spotify publication is still pending, report `PARTIAL — publication pending` and finish the response.
+- If map generation is still pending, finish the response with `Journey map updating`.
+- A secondary cache, map, or scout failure must not suppress the user-facing report after decisions are persisted.
 
 ## Relaxation-first rule
 
@@ -126,7 +160,7 @@ Every material claim must be classified internally as:
 - **Measured evidence:** BPM, duration, exact identity, position, or lawful audio measurements.
 - **Craft convention:** a useful sequencing practice, not a universal law.
 - **Listener report:** the user's direct experience.
-- **Editorial interpretation:** a proposed role such as re-entry, crest, summit, or dissolution.
+- **Editorial interpretation:** a proposed role such as re-entry, crest, summit, dissolution, or story height.
 
 Rules:
 
@@ -205,13 +239,14 @@ After diagnosis, choose the smallest approved repair that restores the journey. 
 - Read all source files before decisions.
 - Do not update persistent editorial state before audit approval, except opening an `AWAITING CLARIFICATION` discussion without touching the ledger.
 - Persist approved editorial changes as one logical commit when possible.
+- Update `journey-annotations.json` in that same logical change set whenever the map's editorial state changes.
 - The ledger row order always equals recommended listening order.
 - Renumber after additions, removals, or reordering.
-- GitHub remains authoritative when Spotify is pending or failed.
+- GitHub remains authoritative when Spotify or the map is pending or failed.
 
 ## Required user-facing response for editorial runs
 
-Use exactly:
+Use exactly five numbered sections:
 
 1. `TODAY'S DECISIONS` — exactly three candidates; Verdict, Track — Artist, Position, Purpose, one-sentence Reason.
 2. `LEDGER CHANGE` — only additions, removals, replacements, or reordering.
@@ -219,7 +254,15 @@ Use exactly:
 4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
 5. `EDITORIAL NOTE` — one sentence.
 
-Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist and three candidate tracks.
+Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist, the three candidate tracks, and the generated journey-map image.
+
+Immediately after the one-sentence `EDITORIAL NOTE`, append the compact map without adding a sixth numbered section:
+
+```markdown
+![GROOVE OVER NOISE journey map](https://raw.githubusercontent.com/broskmenmi/editorial-engine/main/playlists/groove-over-noise/journey-map.svg)
+```
+
+When the map is not yet current, write `Journey map updating` instead of embedding a stale visualization.
 
 The exact five-section format does not apply to the clarification conversation before an accepted-track change. During clarification, answer directly and ask the necessary short questions.
 
