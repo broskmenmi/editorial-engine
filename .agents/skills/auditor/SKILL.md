@@ -71,6 +71,18 @@ Reject outcomes that assign A/B listening tests, rankings, prescribed sessions, 
 
 Clarifying questions after a complaint are allowed only when short, conversational, and answerable from memory.
 
+## No-target stop audit
+
+When pre-audit returns `NO GENUINE SCOUTING TARGET`, verify that:
+
+- every objective transition and structural check was completed;
+- active reviews remain frozen and no triggered revisit condition exists;
+- no materially new listener or audio evidence is available;
+- the claimed opportunity would otherwise be metadata-led expansion or functional duplication;
+- Scout, candidate snapshots, ledger changes, and live-mixing edges were skipped.
+
+Approve the stop only when all five conditions hold. A no-target result is a successful run, not a default preference against growth.
+
 ## Core checks
 
 - No duplicate tracks.

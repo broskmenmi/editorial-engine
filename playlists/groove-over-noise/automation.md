@@ -35,13 +35,14 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 Execute:
 
-1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions and `audio-evidence.json`, and identify objective defects without treating missing audio evidence as failure.
-2. **Scout** — return exactly three candidates with exact Spotify track URIs and verified BPM; state whether each search targets playlist belonging, exact-neighbour compatibility, or both.
-3. **Evaluator** — answer playlist belonging and exact-neighbour compatibility separately, then assign ADD, REVISIT, or REJECT.
-4. **Sequencer** — place provisional additions or repairs.
-5. **Auditor** — approve, veto, or revise.
-6. **Librarian** — persist the approved state, including `journey-annotations.json` when the journey map changes.
-7. **Publisher** — report from `spotify-status.json` and append the compact journey map.
+1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions, revisit triggers, recent run history, and `audio-evidence.json`, then identify a genuine scouting target without treating missing audio evidence as failure.
+2. **Target gate** — if no objective defect, triggered review/revisit condition, materially new evidence, or distinct non-duplicative structural opportunity exists, return `NO GENUINE SCOUTING TARGET`, skip Scout through Sequencer, and send the stop to the Auditor. Do not manufacture a slot merely to satisfy a candidate quota.
+3. **Scout** — only when the target gate passes, return exactly three candidates with exact Spotify track URIs and verified BPM; state whether each search targets playlist belonging, exact-neighbour compatibility, or both.
+4. **Evaluator** — answer playlist belonging and exact-neighbour compatibility separately, then assign ADD, REVISIT, or REJECT.
+5. **Sequencer** — place provisional additions or repairs.
+6. **Auditor** — approve, veto, revise, or validate a `NO GENUINE SCOUTING TARGET` stop.
+7. **Librarian** — persist the approved state or concise no-target run record, including `journey-annotations.json` when the journey map changes.
+8. **Publisher** — report from `spotify-status.json` and append the compact journey map.
 
 An active `AWAITING CLARIFICATION` discussion freezes only its affected region. The run may continue elsewhere but must not scout into, edit, reorder, or publish changes to the frozen region.
 
@@ -98,7 +99,8 @@ Before a multi-track change, state the exact before-and-after sequence and ask f
 
 Candidate resolution is a pre-audit input, not a publication step.
 
-- Write `scout-request.json` at most once per editorial run.
+- Create no scout request or snapshot when the target gate returns `NO GENUINE SCOUTING TARGET`.
+- When the target gate passes, write `scout-request.json` at most once per editorial run.
 - Resolve it into `scout-data.json` at most once per `runId`.
 - Freeze the exact three-candidate snapshot before evaluation.
 - Evaluator, Sequencer, Auditor, and Librarian use the same snapshot.
@@ -280,7 +282,9 @@ After diagnosis, choose the smallest approved repair that restores the journey. 
 
 ## Required user-facing response for editorial runs
 
-Use exactly five numbered sections:
+Use exactly five numbered sections.
+
+When the target gate passes:
 
 1. `TODAY'S DECISIONS` — exactly three candidates; Verdict, Track — Artist, Position, Purpose, one-sentence Reason.
 2. `LEDGER CHANGE` — only additions, removals, replacements, or reordering.
@@ -288,7 +292,15 @@ Use exactly five numbered sections:
 4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
 5. `EDITORIAL NOTE` — one sentence.
 
-Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist, the three candidate tracks, and the generated journey-map image.
+When the target gate stops the run:
+
+1. `TODAY'S DECISION` — `NO GENUINE SCOUTING TARGET` plus one short evidence-based reason; no candidate links.
+2. `LEDGER CHANGE` — `None.`
+3. `SPOTIFY STATUS` — COMPLETE, PARTIAL, or MANUAL REQUIRED.
+4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
+5. `EDITORIAL NOTE` — one sentence.
+
+Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist, candidate tracks when scouting occurred, and the generated journey-map image.
 
 Immediately after the one-sentence `EDITORIAL NOTE`, append the compact map without adding a sixth numbered section:
 

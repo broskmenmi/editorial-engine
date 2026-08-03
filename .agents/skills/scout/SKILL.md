@@ -1,6 +1,6 @@
 ---
 name: scout
-description: Discover exactly three candidate tracks for an editorial playlist without making final accept/reject decisions. Use when a playlist workflow needs new releases, adjacent artists, catalogue discoveries, revisit candidates, accepted-track repairs, or known-defect fixes.
+description: Discover exactly three candidate tracks for a genuine editorial target without making final accept/reject decisions. Use only after pre-audit establishes a real need such as a defect, triggered revisit, new evidence, or distinct structural opportunity.
 ---
 
 # Scout
@@ -36,8 +36,12 @@ Do not use a neighbour score as proof of playlist belonging. Do not reject a tra
 
 Read `audio-evidence.md` and `audio-evidence.json` when present. Tool-derived evidence may narrow or rank the search, but unknown measurements stay unknown and no tool score decides admission.
 
+## Entry gate
+
+Scout must not run merely because the workflow is scheduled. The orchestrator must supply a genuine target established by pre-audit. If none exists, return control without candidates or snapshot creation; do not invent a bridge, replacement, or expansion question.
+
 ## Procedure
-1. Find exactly three candidate tracks.
+1. For the supplied genuine target, find exactly three candidate tracks.
 2. Audit `under-review.md`, `notes.md`, and the current ledger first. Actual user complaints and known objective defects take precedence over expansion.
 3. When a genuine accepted-track review exists, search for repositioning or replacement options for that exact role without assigning the user comparison work.
 4. When no new evidence exists for a review, make a best-effort repair recommendation or leave the track provisionally accepted; do not repeat the same comparison indefinitely.

@@ -95,7 +95,7 @@ Do not instruct the user to manually maintain track order or build the map when 
 
 Only link:
 - the canonical playlist URL stored in `spotify-status.json`;
-- the three candidate track links; and
+- candidate track links when scouting occurred; and
 - the generated compact journey-map image.
 
 Never surface broad Spotify search results or unrelated playlists.

@@ -66,7 +66,9 @@ Unless the user explicitly orders an exact removal, movement, replacement, or re
 
 ## Candidate snapshot lifecycle
 
-- Candidate resolution occurs once before evaluation.
+- Pre-audit must first establish a genuine scouting target: an objective defect, a triggered review/revisit condition, materially new evidence, or a distinct structural opportunity supported beyond metadata fit.
+- If no genuine target exists, return `NO GENUINE SCOUTING TARGET`, skip Scout through Sequencer, have the Auditor validate the stop, and do not create or rewrite candidate snapshots.
+- Candidate resolution occurs once before evaluation when a genuine target exists.
 - One `scout-request.json` `runId` produces one immutable completed `scout-data.json` snapshot.
 - Evaluator, Sequencer, Auditor, and Librarian use the same frozen three-candidate snapshot.
 - After audit approval, do not rerun Scout, rewrite the request, or regenerate the candidate snapshot.
@@ -130,9 +132,13 @@ Never imply that Spotify access allows the agent to hear or analyse raw Spotify 
 
 ## Required order
 
-For curation workflows run:
+For curation workflows with a genuine scouting target run:
 
 Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
+
+When pre-audit finds no genuine scouting target, run:
+
+Pre-audit → Auditor → Librarian → Publisher
 
 Do not write persistent state before audit approval. GitHub is the source of truth. Spotify is a publication target.
 

@@ -147,6 +147,8 @@ For each discussion, store:
 
 ## Required run record
 
+For a scouted run:
+
 - Date and candidate snapshot `runId`
 - Candidates, exact URIs, BPM, verdicts
 - Evidence map
@@ -159,5 +161,14 @@ For each discussion, store:
 - Audit outcome
 - Canonical order
 - Editorial note
+
+For an audited `NO GENUINE SCOUTING TARGET` run, record instead:
+
+- date and no-target verdict;
+- completed pre-audit checks;
+- evidence showing why no target exists;
+- preserved frozen/protected state;
+- confirmation that Scout, snapshots, ledger, audio evidence, and live graph were untouched;
+- Spotify reconciliation and editorial note.
 
 GitHub is the persistent source of truth. The Librarian never publishes through a generative playlist tool, never invokes Scout after decisions are persisted, and never hand-edits generated map outputs.
