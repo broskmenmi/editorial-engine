@@ -33,8 +33,13 @@ Each playlist has its own directory under `playlists/<playlist-slug>/` containin
 - `automation.md`
 - `spotify.json`
 - `spotify-status.json`
+- `journey-annotations.json`
+- `journey-map.json`
+- `journey-map.svg`
+- `journey-map-spec.md`
+- `sites-prompt.md`
 
-These Markdown paths are the canonical ChatGPT instruction and editorial-state paths. Do not relocate them when adding runtime applications or automation.
+These Markdown and JSON paths are the canonical ChatGPT instruction, editorial-state, and visualization paths. Do not relocate them when adding runtime applications or automation.
 
 The playlist directory is persistent editorial state. The skill packages are generic and must operate on the target playlist directory supplied by the orchestrator.
 
@@ -65,6 +70,24 @@ Unless the user explicitly orders an exact removal, movement, replacement, or re
 - The Publisher only publishes the canonical ledger. It never invokes `apps/spotify-scout/` and never modifies scout files.
 - `scout-data.json` is diagnostic evidence. It cannot override the audited ledger or suppress the final response.
 
+## Journey-map lifecycle
+
+The playlist visualization has two layers:
+
+1. `journey-map.svg` — compact map for the end of editorial-run responses.
+2. `journey-map.json` — Sites-ready detailed data model.
+
+Rules:
+
+- `journey-annotations.json` is editorial input and must be updated in the same approved change set whenever a ledger change alters chapter, role, protected, provisional, or frozen state.
+- Story height is ordinal editorial interpretation, never measured audio energy, mood, loudness, or waveform analysis.
+- BPM and duration remain separate measured layers.
+- `.github/workflows/build-journey-map.yml` generates JSON and SVG through `apps/journey-map/`.
+- The map is derivative output. `ledger.md`, `journey-annotations.json`, and listener-feedback state remain authoritative.
+- ChatGPT Sites is the intended detailed front end when available; `sites-prompt.md` is the build brief. No temporary replacement website should become a second source of truth.
+- The compact map should appear after `EDITORIAL NOTE` without adding a sixth numbered response section.
+- If map generation is pending, finish the response and label the map as updating rather than failing the editorial run.
+
 ## Relaxation-first operation
 
 The editorial engine exists to reduce the user's effort and stress around discovering music.
@@ -85,7 +108,7 @@ Every substantive editorial claim must be understood as one of four kinds:
 1. **Measured evidence** — BPM, duration, track identity, position, or later lawful audio measurements.
 2. **Craft convention** — useful sequencing practice, not a universal musical law.
 3. **Listener report** — the user's actual experience; highest authority when volunteered.
-4. **Editorial interpretation** — chapter, crest, summit, re-entry, decompression, and similar role labels; useful hypotheses rather than facts.
+4. **Editorial interpretation** — chapter, crest, summit, re-entry, decompression, story height, and similar role labels; useful hypotheses rather than facts.
 
 Never imply that Spotify access allows the agent to hear or analyse raw Spotify audio. Never infer busyness, stress, spaciousness, hypnosis, or emotional effect from BPM, artist, genre, title, or metadata alone.
 
@@ -102,9 +125,9 @@ Persist the approved editorial change set as one batched commit when GitHub tree
 ## Delivery safety
 
 - Do not restart completed phases or poll the same status continuously.
-- If Spotify publication is pending when the task must finish, report PARTIAL and deliver the final response.
+- If Spotify or map publication is pending when the task must finish, report the pending state and deliver the final response.
 - Pending or secondary-cache failures must not be reported as a failed scheduled task when the editorial commit succeeded.
-- The final report is based on the audited decisions, `ledger.md`, and `spotify-status.json`, never on post-publication scout output.
+- The final report is based on the audited decisions, `ledger.md`, `spotify-status.json`, and the latest matching map fingerprint, never on post-publication scout output.
 
 ## Spotify publication
 
@@ -120,6 +143,6 @@ Persist the approved editorial change set as one batched commit when GitHub tree
 For a new user or fork:
 1. Follow `SETUP.md`.
 2. Connect GitHub to ChatGPT.
-3. Configure Spotify Web API credentials as GitHub Actions secrets if automatic publication is desired.
+3. Configure Spotify Web API credentials as GitHub Actions secrets if automatic publication and duration-enriched maps are desired.
 4. Invoke the scheduler skill once to create the recurring task.
 5. Use one orchestrator task per playlist workflow; never create competing per-skill recurring tasks.
