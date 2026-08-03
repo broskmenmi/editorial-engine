@@ -50,6 +50,21 @@ Reject or revise any decision that:
 - infers busyness, stress, spaciousness, hypnosis, steadiness, or emotion from metadata alone;
 - ignores listener evidence because BPM or structure looks correct.
 
+## Audio and compatibility audit
+
+Read `audio-evidence.md`, `audio-evidence.json`, and `live-mixing.md` when present.
+
+Reject or revise any decision that:
+
+- lacks separate playlist-belonging and exact-neighbour conclusions;
+- uses compatibility in one slot as proof that a track belongs;
+- rejects playlist belonging solely because one slot failed;
+- presents model-derived energy, emotion, danceability, genre, similarity, or compatibility as measured listener experience;
+- omits source, tool/version, timestamp, confidence, or evidence class for audio-derived values;
+- invents unknown audio fields;
+- lets DJOID, rekordbox, or another analyser bypass editorial or feedback authority;
+- lets a live-performance edge silently change the canonical ledger, Spotify order, protected state, or frozen region.
+
 ## Relaxation-first audit
 
 Reject outcomes that assign A/B listening tests, rankings, prescribed sessions, or subjective tasks in `MANUAL ACTION`.
@@ -105,6 +120,10 @@ The Auditor may approve, veto, reposition, reopen, or reclassify. It may not res
 
 - Audit verdict
 - Evidence map
+- Playlist-belonging conclusion per candidate
+- Exact-neighbour conclusion per proposed placement
+- Audio-evidence provenance audit
+- Live/canonical boundary audit when applicable
 - BPM trajectory
 - Chapter map
 - Active discussions and their states
