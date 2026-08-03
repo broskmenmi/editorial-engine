@@ -2,6 +2,68 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-08-03 — Daily Run 2
+
+**Candidate snapshot:** `2026-08-03T11:36:00+02:00`
+
+### ADD
+
+- **Track:** My Last Descent
+- **Artist:** FENIM0RE, KYSH Records
+- **Spotify:** spotify:track:4ZURjKKzTjVtOEYbE7p14Q
+- **BPM:** 144
+- **BPM source:** Beatport exact track metadata.
+- **Position:** After Maeksll — Two Glasses of Whisky and before Altinbas — Trail Of.
+- **Purpose:** Begin first release more gradually.
+- **Reason:** Release notes describe restraint while BPM stages descent.
+
+### REJECT
+
+- **Track:** Undersense
+- **Artist:** Axel Karakasis
+- **Spotify:** spotify:track:2JSu2yhFHyXX6aiyOFDniT
+- **BPM:** 143
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative after Two Glasses of Whisky and before Trail Of.
+- **Purpose:** Test a heavier first release.
+- **Reason:** High-drive profile would prolong pressure instead of releasing it.
+
+### REJECT
+
+- **Track:** Activ
+- **Artist:** Seigg, KYSH Records
+- **Spotify:** spotify:track:5yX7hVECoVPLygd3ElVhkt
+- **BPM:** 143
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Alternative after Two Glasses of Whisky and before Trail Of.
+- **Purpose:** Test a sharper first release.
+- **Reason:** Glitch-driven hook would demand attention after the crest.
+
+### Evidence map
+
+- **Measured:** My Last Descent creates 145 → 144 → 142; both alternatives create 145 → 143 → 142. Every adjacent difference remains within 0–4 BPM.
+- **Craft:** A first-wave release hinge can lengthen the descent while leaving later waves and the frozen summit-exit region unchanged.
+- **Listener:** No negative evidence exists for Two Glasses of Whisky, Trail Of, or My Last Descent. The Session 4 discussion remains unresolved and its region was not touched.
+- **Interpretation:** My Last Descent is provisionally assigned a first-wave release-hinge role. The label describes it as restrained, hypnotic, minimal, and groovy; this is source evidence, not direct listening by the workflow.
+
+### Audit result
+
+Approved My Last Descent as the sole addition. It changes the first crest exit from 145 → 142 into 145 → 144 → 142 while preserving Deep Under → Wurk, the complete summit area, and the protected ending. Undersense was rejected for this role because its available profile describes high drive and energy-building behaviour. Activ was rejected because its label description emphasizes a glitch-driven banger and powerful hook, which conflicts with a restrained post-crest release.
+
+### Ledger change
+
+Added My Last Descent after Two Glasses of Whisky; all following tracks shift one position without changing their relative order.
+
+### Spotify reconciliation
+
+Publication is delegated to the Spotify Web API workflow for the 23-track ledger.
+
+### Editorial note
+
+The first crest now releases before the next wave begins.
+
+---
+
 ## 2026-08-03 — Daily Run 1
 
 **Candidate snapshot:** `2026-08-03T08:36:00+02:00`
