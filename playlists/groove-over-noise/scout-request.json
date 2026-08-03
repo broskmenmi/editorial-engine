@@ -1,38 +1,39 @@
 {
-  "runId": "2026-08-03T08:36:00+02:00",
+  "runId": "2026-08-03T11:36:00+02:00",
   "target": {
-    "role": "summit-exit repair",
-    "position": "after Alarico — Iruka and before Stef Mendesidis — Interlynx",
+    "role": "first-wave post-crest release hinge",
+    "position": "after Maeksll — Two Glasses of Whisky and before Altinbas — Trail Of",
     "neighbours": [
-      { "artist": "Alarico", "track": "Iruka", "bpm": 141 },
-      { "artist": "Stef Mendesidis", "track": "Interlynx", "bpm": 137 }
+      { "artist": "Maeksll", "track": "Two Glasses of Whisky", "bpm": 145 },
+      { "artist": "Altinbas", "track": "Trail Of", "bpm": 142 }
     ],
-    "purpose": "replace the abrupt Session 4 summit exit"
+    "purpose": "lengthen the first release outside the frozen summit region"
   },
   "candidates": [
     {
-      "artist": "Vakat",
-      "track": "Percussion Work",
-      "releaseDate": "2026-06-26",
-      "bpm": 139,
+      "artist": "FENIM0RE",
+      "track": "My Last Descent",
+      "album": "KYSH-002",
+      "spotifyAlbumId": "0BAz4Wy4KbuyqCu0jtDkIb",
+      "bpm": 144,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26"
+      "discoverySource": "KYSH Records release dated 2026-06-12"
     },
     {
-      "artist": "Vakat",
-      "track": "Looking For Solution",
-      "releaseDate": "2026-06-26",
-      "bpm": 140,
+      "artist": "Axel Karakasis",
+      "track": "Undersense",
+      "spotifyTrackId": "2JSu2yhFHyXX6aiyOFDniT",
+      "bpm": 143,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26"
+      "discoverySource": "Remain Records release dated 2026-05-29"
     },
     {
-      "artist": "Vakat",
-      "track": "Devotion",
-      "releaseDate": "2026-06-26",
-      "bpm": 140,
+      "artist": "Seigg",
+      "track": "Activ",
+      "spotifyTrackId": "5yX7hVECoVPLygd3ElVhkt",
+      "bpm": 143,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26"
+      "discoverySource": "KYSH Records release dated 2026-06-12"
     }
   ]
 }
