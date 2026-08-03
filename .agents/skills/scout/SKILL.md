@@ -24,6 +24,18 @@ The Scout must find music without turning the user into a tester.
 - Do not treat missing user confirmation as an accepted-track defect.
 - Natural feedback volunteered during ordinary listening is enough; the Scout should continue working without waiting for it.
 
+## Search intent
+
+Before searching, label the need as one of:
+
+- **BELONGING** — find tracks that could belong somewhere in the playlist's world.
+- **NEIGHBOUR** — find tracks for one exact incoming/outgoing transition.
+- **BOTH** — the candidate must satisfy the identity and a concrete slot.
+
+Do not use a neighbour score as proof of playlist belonging. Do not reject a track from the playlist identity merely because one placement fails.
+
+Read `audio-evidence.md` and `audio-evidence.json` when present. Tool-derived evidence may narrow or rank the search, but unknown measurements stay unknown and no tool score decides admission.
+
 ## Procedure
 1. Find exactly three candidate tracks.
 2. Audit `under-review.md`, `notes.md`, and the current ledger first. Actual user complaints and known objective defects take precedence over expansion.
@@ -45,7 +57,10 @@ The Scout must find music without turning the user into a tester.
 18. Do not invoke Spotify playlist creation or publication tools.
 
 ## Evidence fields per candidate
-- **Measured evidence:** exact identity, BPM, duration when available, and neighbour differences.
+- **Search intent:** BELONGING, NEIGHBOUR, or BOTH.
+- **Playlist-belonging hypothesis:** belongs, uncertain, or does not belong, with reasons.
+- **Exact-neighbour hypothesis:** compatible, uncertain, or incompatible for the proposed incoming and outgoing transitions.
+- **Measured evidence:** exact identity, BPM, duration when available, neighbour differences, and sourced lawful audio measurements.
 - **Craft convention:** why the position is plausible as sequencing practice.
 - **Listener evidence:** any direct user reaction relevant to the role.
 - **Editorial hypothesis:** the proposed job and remaining internal uncertainty.
