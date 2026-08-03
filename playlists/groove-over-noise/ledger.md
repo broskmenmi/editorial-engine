@@ -11,29 +11,30 @@
 | 3 | Ottagone | Ottagone 001 | spotify:track:2DMBWNzWBrjaYHPdSf7HQA | 138 | ADD | Opening pulse bridge | 2026-07-17 |
 | 4 | No Valentia | Miss Perez | spotify:track:4cUXdWBPu6XxWhtQM8iyxc | 142 | ADD | First-wave rise and crest approach | 2026-07-31 |
 | 5 | Maeksll | Two Glasses of Whisky | spotify:track:1xbqhGI3Xgntoy56FA91D4 | 145 | ADD | First local crest | 2026-07-16 |
-| 6 | Altinbas | Trail Of | spotify:track:1BLpNBx8502KRE2TommLp6 | 142 | ADD | First partial release | 2026-07-16 |
-| 7 | Altinbas, Cirkle | Enlightenment | spotify:track:1LwX0cMaE8susTOodWCMAy | 139 | ADD | Post-crest pulse bridge | 2026-07-18 |
-| 8 | Jancen | F Track | spotify:track:5nfyNPgR6kxvdFQ66PIeEB | 140 | ADD | Second-wave re-entry | 2026-07-23 |
-| 9 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
-| 10 | Red Rooms | Blind Spot | spotify:track:4Np2wuMWF99jigxD5pyOwh | 140 | ADD | Second-wave release hinge | 2026-08-01 |
-| 11 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
-| 12 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
-| 13 | Decoder | Flowing | spotify:track:67G0MRoqW60mlqLbWd14Wo | 138 | ADD | Third-wave psychological threshold | 2026-07-30 |
-| 14 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
-| 15 | ElectroExeL | Tenta Tiv | spotify:track:4EL0YgpfQs5x51JgPy5292 | 139 | ADD | Third-wave summit approach | 2026-08-02 |
-| 16 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
-| 17 | Vakat | Percussion Work | spotify:track:2gS1RkrHYJiCiPYk8emz0E | 139 | ADD | Summit decompression hinge | 2026-08-03 |
-| 18 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
-| 19 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
-| 20 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
-| 21 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
-| 22 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
+| 6 | FENIM0RE, KYSH Records | My Last Descent | spotify:track:4ZURjKKzTjVtOEYbE7p14Q | 144 | ADD | First-wave release hinge | 2026-08-03 |
+| 7 | Altinbas | Trail Of | spotify:track:1BLpNBx8502KRE2TommLp6 | 142 | ADD | First partial release | 2026-07-16 |
+| 8 | Altinbas, Cirkle | Enlightenment | spotify:track:1LwX0cMaE8susTOodWCMAy | 139 | ADD | Post-crest pulse bridge | 2026-07-18 |
+| 9 | Jancen | F Track | spotify:track:5nfyNPgR6kxvdFQ66PIeEB | 140 | ADD | Second-wave re-entry | 2026-07-23 |
+| 10 | Maeksll | Tragoidia | spotify:track:0XQ53FHMmonh9WD6DWVZVb | 141 | ADD | Deeper second crest | 2026-07-18 |
+| 11 | Red Rooms | Blind Spot | spotify:track:4Np2wuMWF99jigxD5pyOwh | 140 | ADD | Second-wave release hinge | 2026-08-01 |
+| 12 | Marcal | Bionic Jungle | spotify:track:0FuxLvhDsdGu6XpnxGQrAf | 137 | ADD | Second-wave release | 2026-07-16 |
+| 13 | Vil | AB01 | spotify:track:0MYV5AFY0KOXA5QeJFcNCs | 136 | ADD | Second-wave release extension | 2026-07-19 |
+| 14 | Decoder | Flowing | spotify:track:67G0MRoqW60mlqLbWd14Wo | 138 | ADD | Third-wave psychological threshold | 2026-07-30 |
+| 15 | Arkan | Nasty Tool | spotify:track:4CDWLgMhxOo57uppdRR690 | 138 | ADD | Third-wave re-entry | 2026-07-20 |
+| 16 | ElectroExeL | Tenta Tiv | spotify:track:4EL0YgpfQs5x51JgPy5292 | 139 | ADD | Third-wave summit approach | 2026-08-02 |
+| 17 | Alarico | Iruka | spotify:track:3RHjzsJWvCWfrp0QCZHUA2 | 141 | ADD | Dominant main summit | 2026-07-20 |
+| 18 | Vakat | Percussion Work | spotify:track:2gS1RkrHYJiCiPYk8emz0E | 139 | ADD | Summit decompression hinge | 2026-08-03 |
+| 19 | Stef Mendesidis | Interlynx | spotify:track:0RQAFOhBjlcD09X62GmiCS | 137 | ADD | Summit decompression continuation | 2026-07-20 |
+| 20 | Maeksll | Minimum | spotify:track:31FaOVEATLY9PzDv8YPbaI | 134 | ADD | Decompression pulse bridge | 2026-07-16 |
+| 21 | Psyk | Eclipse | spotify:track:6mNUIvYYV5JJVlusXEzLw6 | 130 | ADD | Focused rhythmic decompression | 2026-07-16 |
+| 22 | Claudio PRC | Haidou | spotify:track:6lUBGdd9KgbFl7E5GSlm2z | 128 | ADD | Deep decompression bridge | 2026-07-18 |
+| 23 | Luigi Tozzi | Calipso | spotify:track:15QxVy6d8RrbPKmsYyuVbT | 125 | ADD | Deep closing dissolution | 2026-07-16 |
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within the 0–4 BPM target. **Iruka → Percussion Work → Interlynx** now forms a balanced 141 → 139 → 137 summit exit while preserving the protected opening and final descent.
+Every adjacent difference remains within the 0–4 BPM target. **Two Glasses of Whisky → My Last Descent → Trail Of** now forms a 145 → 144 → 142 first-wave release. The frozen **Iruka → Percussion Work → Interlynx** region remains unchanged.
 
 ## Current journey
 
@@ -42,24 +43,25 @@ Every adjacent difference remains within the 0–4 BPM target. **Iruka → Percu
 3. **Opening bridge** — tighten momentum without spending the crest.
 4. **First-wave rise and crest approach** — carry the early climb directly.
 5. **First local crest** — establish physical weight.
-6. **First release** — reduce pressure without resetting.
-7. **Post-crest bridge** — preserve accumulated immersion.
-8. **Second-wave re-entry** — return movement without restarting.
-9. **Deeper second crest** — introduce another form of pressure.
-10. **Second-wave release hinge** — begin the descent in a smaller step.
-11. **Second-wave release** — reduce force while preserving movement.
-12. **Release extension** — open rhythmic space.
-13. **Third-wave threshold** — add contrast before re-entry.
-14. **Third-wave re-entry** — rebuild pressure.
-15. **Third-wave summit approach** — add one controlled step before the summit.
-16. **Main summit** — concentrate the strongest sustained pressure.
-17. **Summit decompression hinge** — begin the final descent gradually.
-18. **Release continuation** — keep descending without losing movement.
-19. **Decompression bridge** — continue downward gradually.
-20. **Focused decompression** — narrow the rhythmic field.
-21. **Deep decompression** — deepen space while preserving pulse.
-22. **Dissolution** — let remaining pressure evaporate.
+6. **First-wave release hinge** — begin releasing the crest gradually.
+7. **First release** — reduce pressure without resetting.
+8. **Post-crest bridge** — preserve accumulated immersion.
+9. **Second-wave re-entry** — return movement without restarting.
+10. **Deeper second crest** — introduce another form of pressure.
+11. **Second-wave release hinge** — begin the descent in a smaller step.
+12. **Second-wave release** — reduce force while preserving movement.
+13. **Release extension** — open rhythmic space.
+14. **Third-wave threshold** — add contrast before re-entry.
+15. **Third-wave re-entry** — rebuild pressure.
+16. **Third-wave summit approach** — add one controlled step before the summit.
+17. **Main summit** — concentrate the strongest sustained pressure.
+18. **Current summit-exit hinge** — begin the final descent gradually.
+19. **Release continuation** — keep descending without losing movement.
+20. **Decompression bridge** — continue downward gradually.
+21. **Focused decompression** — narrow the rhythmic field.
+22. **Deep decompression** — deepen space while preserving pulse.
+23. **Dissolution** — let remaining pressure evaporate.
 
 ## Next structural need
 
-Protect Deep Under → Wurk as the opening identity pair. Let Percussion Work remain a provisional summit decompression hinge. Continue autonomous discovery outside protected anchors while preserving Iruka as the main summit and Interlynx → Minimum → Eclipse → Haidou → Calipso as the ending.
+Protect Deep Under → Wurk as the opening identity pair. Let My Last Descent remain a provisional first-wave release hinge. Keep the Session 4 discussion region frozen until clarification, and preserve Interlynx → Minimum → Eclipse → Haidou → Calipso as the ending.
