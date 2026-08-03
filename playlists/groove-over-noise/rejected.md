@@ -12,6 +12,9 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| RTNH | Session 4 - Original Mix | The user reports that it arrives abruptly after Alarico — Iruka. Its compliant 141 → 138 → 137 placement does not outweigh the direct evidence that it breaks the summit exit. | 2026-08-03 |
+| Vakat | Looking For Solution | At 140 BPM it creates 141 → 140 → 137, but duplicates the approved summit-exit repair with a less balanced -1/-3 descent. | 2026-08-03 |
+| Vakat | Devotion | At 140 BPM it duplicates the approved summit-exit repair and provides no stronger measured or listener evidence for this role. | 2026-08-03 |
 | Sandro Galli | Extra Dimension | At 137 BPM between Nasty Tool and Iruka, it creates 138 → 137 → 141, an avoidable down-up tempo motion immediately before the dominant summit. | 2026-08-02 |
 | Coyu | Cachoeira | The user finds it too noisy and always presses next when it comes on. Repeated skipping shows that it breaks immersion in practice, regardless of its clean BPM placement or intended percussive-rise role. | 2026-08-01 |
 | Red Rooms | Limited Sensory | At 142 BPM between Tragoidia and Bionic Jungle, it creates 141 → 142 → 137, including a flagged -5 BPM drop instead of staging the release progressively. | 2026-08-01 |
