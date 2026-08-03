@@ -1,11 +1,38 @@
 ---
 name: auditor
-description: Audit proposed playlist changes for duplicates, structural imbalance, tempo discontinuity, attention discontinuity, weak long-form storytelling, unsupported sonic claims, and constitution drift. Use before any repository or Spotify write.
+description: Audit proposed playlist changes for duplicates, structural imbalance, tempo discontinuity, attention discontinuity, unsupported claims, listener-feedback scope violations, and constitution drift. Use before any repository or Spotify write.
 ---
 
 # Auditor
 
-Read `under-review.md` before approving any extension.
+Read `feedback-protocol.md` and `under-review.md` before approving any change.
+
+## Listener-feedback gate
+
+A complaint is not an action command.
+
+Reject any proposed ledger or Spotify change when:
+
+- the user complained about a track or transition but did not explicitly order an exact change;
+- the affected discussion is still `AWAITING CLARIFICATION`;
+- the workflow resolved KEEP, MOVE, REPLACE, or REMOVE before asking clarifying questions;
+- the workflow changed a neighbouring or additional track without naming the wider scope and receiving explicit approval;
+- repeated skipping, stress, relief, or dislike was treated as automatic permission to remove;
+- a user question such as “could this work somewhere else?” was treated as authorization to move or add it.
+
+For non-explicit complaints, the only permitted persistent write before clarification is opening or updating the discussion in `under-review.md`. The ledger and Spotify remain frozen in that region.
+
+## Clarification audit
+
+Before approving a complaint-driven repair, verify:
+
+1. The user's exact words are preserved.
+2. The original role is explained plainly.
+3. At most three short questions were asked, answerable from memory.
+4. The shared diagnosis distinguishes track, transition-in, transition-out, placement, and style where relevant.
+5. The discussion reached `DIAGNOSIS AGREED`.
+6. The user explicitly approved KEEP, MOVE, REPLACE, or REMOVE.
+7. Any multi-track scope was listed and explicitly approved.
 
 ## Evidence audit
 
@@ -18,126 +45,72 @@ Every important claim must be identified internally as:
 
 Reject or revise any decision that:
 
-- presents an editorial interpretation as measured fact;
+- presents interpretation as measured fact;
 - claims the agent heard or waveform-analysed Spotify audio;
-- infers busyness, stress, spaciousness, hypnosis, steadiness, or emotional effect from metadata alone;
-- uses precise-sounding language without an evidence source;
+- infers busyness, stress, spaciousness, hypnosis, steadiness, or emotion from metadata alone;
 - ignores listener evidence because BPM or structure looks correct.
 
 ## Relaxation-first audit
 
-Reject or revise any workflow outcome that:
+Reject outcomes that assign A/B listening tests, rankings, prescribed sessions, or subjective tasks in `MANUAL ACTION`.
 
-- assigns A/B listening tests;
-- asks the user to rank alternatives;
-- requires confirmation of every critical role;
-- blocks all growth only because direct listener confirmation is absent;
-- repeats the same REVISIT choices while waiting for homework;
-- places subjective listening instructions inside `MANUAL ACTION`.
-
-The workflow must carry uncertainty itself and make the best available editorial decision.
+Clarifying questions after a complaint are allowed only when short, conversational, and answerable from memory.
 
 ## Core checks
+
 - No duplicate tracks.
-- No conflict with `rejected.md` unless explicitly justified.
-- No unresolved REVISIT track is silently promoted.
-- No genuinely active UNDER REVIEW track is treated as settled.
-- Tracks are not placed UNDER REVIEW merely because their editorial role lacks explicit confirmation.
+- No conflict with `rejected.md` unless justified.
+- No unresolved REVISIT is silently promoted.
+- No active discussion is treated as settled.
 - Additions strengthen the constitution rather than merely increase variety.
-- Artist, texture, and energy concentration remain balanced.
-- Opening, immersion, groove, pressure, decompression, and dissolution remain coherent.
+- Opening, waves, summit, and decompression remain coherent.
 - The sequence avoids abrupt resets, redundant peaks, and accidental tempo sawtoothing.
-- Every track has verified BPM metadata when available.
-- Every adjacent BPM difference is calculated and reviewed.
-- Opening transitions above 4 BPM are rejected unless direct listening evidence proves continuity.
-- Differences of 5–7 BPM anywhere are explicitly flagged and justified.
-- Differences above 7 BPM are rejected unless a clear half-time/double-time relationship or intentional reset is documented.
-- Decompression descends progressively rather than through an accidental tempo collapse.
-- Spotify Mix, crossfade, or automatic transition features are never treated as proof that a transition works.
-- User listening feedback overrides speculative metadata-based approval.
-- Numeric compliance is never treated as sufficient certainty.
+- Every track has verified BPM when available.
+- Every adjacent BPM difference is reviewed.
+- Opening transitions above 4 BPM require direct evidence.
+- Differences of 5–7 BPM are flagged and justified.
+- Differences above 7 BPM require documented equivalence or intentional reset.
+- Spotify Mix and crossfade are never proof that a transition works.
+- Numeric compliance is never sufficient certainty.
 
 ## Critical-role handling
 
-For opener, re-entry, important crest, main summit, decompression pivot, and closer candidates:
-
-- apply stricter internal scrutiny;
-- allow ADD with a provisional editorial role when measurable placement is coherent and no negative evidence exists;
-- do not require direct user confirmation;
-- use REVISIT only for a concrete material concern, not merely missing confirmation;
-- reopen later if natural listener feedback contradicts the admission.
-
-## Accepted-track review audit
-
-Open UNDER REVIEW only when:
-
-- the user naturally questions an accepted track;
-- a concrete objective defect is discovered;
-- new evidence directly contradicts the original admission.
-
-When a review opens:
-
-1. preserve the exact listener report;
-2. keep the track in the ledger during discussion unless the user orders immediate removal;
-3. explain the original intended job in plain language;
-4. evaluate KEEP, MOVE, REPLACE, or REMOVE autonomously;
-5. distinguish whether the problem is the track, its position, or the surrounding tracks;
-6. resolve from available evidence or keep provisionally without assigning a test.
-
-Feeling relieved because a track ends is strong evidence that the track or placement is creating unwanted tension. It does not require instant removal, but it blocks claims that the track is functioning successfully.
+Openers, re-entry tracks, important crests, the summit, decompression pivots, and closers receive stricter scrutiny. They may be provisionally ADD when placement is coherent and no negative evidence exists. Natural feedback may reopen them later.
 
 ## Long-form storytelling audit
 
 The multiple-waves/one-summit model is the GROOVE OVER NOISE house style, not a universal rule.
 
-For playlists that grow beyond one compact arc, verify:
-- Multiple waves are distinguishable without feeling like separate playlists.
-- Local crests exist where needed, but one main summit remains clearly dominant.
-- Later crests introduce a new rhythmic, spatial, textural, or psychological quality rather than merely becoming louder or faster.
-- Partial releases reduce pressure without returning to the opening baseline.
-- Re-entry begins from accumulated immersion rather than restarting the story.
-- The main summit is earned through prior chapters and is not defined by BPM alone.
-- The final quarter, or an appropriately substantial final chapter, is reserved for staged decompression and dissolution.
-- New material is normally inserted before the final descent rather than appended after the closer.
-- Consecutive chapters do not repeat the same build-drop formula.
-- A compact current sequence may be reclassified as a first wave or chapter when future growth requires it.
-- Natural listener feedback supports the chapter map when such feedback exists; absence of feedback is not failure.
+Verify:
 
-## Duration guidance
-- Under 60 minutes may pass with one complete wave.
-- At 60–120 minutes, challenge a single-peak structure unless it remains unusually compelling.
-- At two hours or more, require multiple local crests, partial releases, and re-entry chapters.
-- At any duration, reject a landscape where every peak has equal importance.
+- waves are distinguishable without sounding like separate playlists;
+- one summit remains dominant;
+- later crests introduce a new quality;
+- releases preserve immersion;
+- re-entry does not restart the story;
+- the ending remains staged decompression and dissolution;
+- actual listener response overrides the chapter map.
 
 ## Repair-first rule
 
-Before approving any extension, audit the current canonical ledger and `under-review.md` for actual known defects.
+Objective defects and clarified, approved complaints take priority.
 
-A genuine complaint or objective defect takes priority. Mere lack of confirmation does not freeze growth.
+An unclarified complaint freezes only its local region and does not authorize autonomous repair.
 
 ## Authority
-The Auditor may:
-- approve;
-- veto;
-- change a verdict;
-- request repositioning;
-- reduce the number of ADD decisions;
-- reopen an existing ledger transition;
-- open or resolve an accepted-track review;
-- reclassify chapter and peak roles;
-- remove or replace an existing track when repair requires it.
+
+The Auditor may approve, veto, reposition, reopen, or reclassify. It may not resolve a listener complaint without completing the clarification and approval gates.
 
 ## Output
-- Audit verdict
-- Evidence map for decisive claims
-- Adjacent BPM trajectory
-- Chapter and wave map
-- Local crests and dominant summit
-- Genuine active accepted-track reviews
-- Flagged pulse and attention transitions
-- Approved repairs and changes
-- Vetoed or revised changes with reasons
-- Structural risks
-- Final proposed canonical order
 
-No persistent files or Spotify state may be changed before audit approval.
+- Audit verdict
+- Evidence map
+- BPM trajectory
+- Chapter map
+- Active discussions and their states
+- Flagged transitions
+- Approved scope
+- Vetoed changes and reasons
+- Final canonical order
+
+No persistent editorial or Spotify state may change before audit approval, except opening an `AWAITING CLARIFICATION` discussion without changing the ledger.
