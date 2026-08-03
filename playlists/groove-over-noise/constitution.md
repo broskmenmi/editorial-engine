@@ -118,6 +118,65 @@ Do not claim to have heard or analysed a Spotify track when only metadata was av
 
 When reliable direct listening or lawful audio analysis is unavailable, describe sonic fit as a hypothesis. Lack of direct confirmation alone is not a reason to burden the user or freeze the whole playlist.
 
+## Audio-aware evidence layer
+
+The engine may use lawful analysis of audio files the user owns or is authorized to analyse, plus exported measurements from tools such as DJOID or rekordbox.
+
+Audio-aware fields may include:
+
+- key and mode;
+- phrase and section boundaries;
+- mix-in and mix-out regions;
+- spectral and rhythmic density;
+- vocal presence;
+- energy trajectory;
+- embedding or fingerprint similarity;
+- transition-specific compatibility features.
+
+Each field must preserve its source, tool and version, timestamp, confidence, and evidence class. Raw measurements and model-derived estimates must remain distinguishable. “Energy,” “emotion,” “danceability,” genre, similarity, or compatibility scores are model outputs—not objective listener experience.
+
+Unknown values remain unknown. Never fabricate them, backfill them from artist or genre stereotypes, or imply that Spotify metadata provides raw-audio access.
+
+Tool outputs are sensors and candidate generators. They may strengthen, weaken, or redirect an editorial hypothesis; they may not make canonical decisions. Volunteered listener experience and the constitution retain authority.
+
+## Two compatibility questions
+
+Every candidate must answer two separate questions:
+
+1. **Does this track belong somewhere in GROOVE OVER NOISE?**  
+   Judge its behavioural fit with the constitution independently of a proposed slot.
+
+2. **Does this track work specifically between these neighbours?**  
+   Judge the exact incoming and outgoing transitions, chapter function, pulse, attention continuity, and any lawful audio evidence.
+
+The answers must not be collapsed into one score.
+
+A track may:
+
+- belong and fit the proposed slot;
+- belong but fail that placement;
+- remain uncertain because evidence is incomplete;
+- fail the playlist identity regardless of numerical compatibility.
+
+Passing playlist belonging does not authorize ADD. Passing neighbour compatibility does not prove playlist belonging. A high tool score cannot override either editorial question or negative listener evidence.
+
+## Separate live-mixing doctrine
+
+The canonical Spotify playlist is an ordered listening composition.
+
+Live performance is a separate graph of possible transitions. It may contain several viable exits from each track, alternate chapter-preserving routes, harmonic options, emergency decompression paths, and notes about mix-in or mix-out regions.
+
+The live graph must follow `live-mixing.md` and must never silently rewrite:
+
+- `ledger.md`;
+- Spotify publication order;
+- `journey-annotations.json`;
+- accepted or rejected state;
+- protected pairs or endings;
+- frozen listener-feedback regions.
+
+A transition may be excellent for beatmatching yet wrong for the canonical journey. A canonical transition may be artistically right yet require preparation or be unsuitable for an improvised mix. Record these as different conclusions.
+
 ## Opening identity rule
 
 The first track does more than create a smooth transition. It tells the listener what kind of world the playlist is.
