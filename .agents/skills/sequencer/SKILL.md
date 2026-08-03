@@ -6,7 +6,7 @@ description: Place accepted tracks into a canonical ordered listening journey us
 # Sequencer
 
 ## Principles
-- Optimize for ordered listening, not live beatmatching.
+- Optimize the canonical ledger for ordered listening. Use `live-mixing.md` for the separate performance graph; never collapse the two outputs.
 - BPM does not determine artistic value. It screens pulse compatibility but does not prove a transition works.
 - Preserve long-form movement through chapters rather than one endless climb.
 - Increase density before intensity.
@@ -96,6 +96,19 @@ When these cannot be answered from evidence, record them as provisional risks. D
 - Mere absence of confirmation is not a defect.
 - Repairs may keep, move, insert a bridge, replace, remove, or reorder.
 - Choose the smallest change that restores structural, bodily, and attention continuity.
+
+## Compatibility separation
+
+Before placement, require two explicit conclusions:
+
+- the track belongs in the playlist's artistic world;
+- the track fits this exact incoming and outgoing transition.
+
+If it belongs but fails the proposed slot, search for another concrete anchor or return it unplaced. Do not treat one failed placement as a global rejection.
+
+Use lawful audio evidence—key, phrase, mix regions, density, vocals, trajectory, or similarity—only when sourced in `audio-evidence.json`. Missing fields are not zeros and must not be guessed.
+
+For live-performance requests, produce a separate directed graph under `live-mixing.md` with multiple exits. Do not change the canonical ledger as a side effect.
 
 ## Placement
 For each ADD combine:
