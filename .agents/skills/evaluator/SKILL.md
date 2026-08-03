@@ -56,6 +56,17 @@ Penalties:
 - Sudden increase in attention demand
 - Too many competing elements, but only when supported by listener or lawful audio evidence
 
+## Two-gate evaluation
+
+Evaluate these independently before assigning a verdict:
+
+1. **Playlist belonging:** BELONGS, UNCERTAIN, or DOES NOT BELONG.
+2. **Exact-neighbour compatibility:** COMPATIBLE, UNCERTAIN, or INCOMPATIBLE for both the incoming and outgoing transition.
+
+A candidate that BELONGS but is INCOMPATIBLE in the proposed slot may be moved to another auditable slot or marked REVISIT; do not reject its identity fit solely because one placement failed. A candidate that DOES NOT BELONG cannot be rescued by harmonic, BPM, or tool compatibility.
+
+When `audio-evidence.json` contains data, distinguish raw measurements from model-derived properties. DJOID, rekordbox, or other scores never count as listener report and cannot override negative listener evidence.
+
 ## Verdicts
 - **ADD** — the best available evidence supports admission now; the editorial role may remain provisional.
 - **REVISIT** — a concrete uncertainty exists that materially affects admission and can be resolved by future evidence without assigning the user homework.
@@ -97,6 +108,8 @@ Measurements support the decision but never make later listener feedback irrelev
 
 ## Output per candidate
 - Verdict
+- Playlist-belonging conclusion
+- Exact-neighbour conclusion for incoming and outgoing transitions
 - BPM
 - Proposed neighbours and their BPM
 - Measured evidence
