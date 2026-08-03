@@ -2,6 +2,75 @@
 
 Latest runs; earlier runs remain in Git history.
 
+## 2026-08-03 — Requested Doctrine Run
+
+**Candidate snapshot:** `2026-08-03T22:03:23+02:00`
+
+### REJECT
+
+- **Track:** Crimson Delta
+- **Artist:** Blue Hour
+- **Spotify:** spotify:track:3lu0fF7jjSx3Dcr1TljvkV
+- **BPM:** 137
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Between Vil — AB01 and Decoder — Flowing.
+- **Purpose:** Test an added chapter-boundary bridge.
+- **Reason:** The existing +2 BPM boundary needs no duplicate stage.
+
+### REJECT
+
+- **Track:** Close Contact
+- **Artist:** Chlär
+- **Spotify:** spotify:track:2VMmEwXdIujvxqwx3Y1buA
+- **BPM:** 137
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Between Vil — AB01 and Decoder — Flowing.
+- **Purpose:** Test an alternate chapter-boundary bridge.
+- **Reason:** Numeric fit alone cannot justify a duplicate threshold role.
+
+### REJECT
+
+- **Track:** Showtime
+- **Artist:** Shabaam
+- **Spotify:** spotify:track:3wbwMycjChJ9Ergw9q7z3v
+- **BPM:** 138
+- **BPM source:** Beatport exact track metadata.
+- **Position:** Between Vil — AB01 and Decoder — Flowing.
+- **Purpose:** Test a same-tempo threshold handoff.
+- **Reason:** It adds length without repairing or deepening the story.
+
+### Compatibility gates
+
+- **Playlist belonging:** UNCERTAIN for all three. Exact Spotify identity and BPM are measured; no lawful audio evidence or listener report establishes behavioural fit.
+- **Exact-neighbour compatibility:** Numerically compatible but editorially incompatible for this slot because the existing AB01 → Flowing +2 BPM boundary is already coherent and none supplies a distinct evidenced function.
+
+### Evidence map
+
+- **Measured:** Crimson Delta and Close Contact create 136 → 137 → 138; Showtime creates 136 → 138 → 138. All steps remain within 0–4 BPM.
+- **Craft:** A bridge should solve a transition or add a distinct chapter function, not merely smooth an already compliant boundary.
+- **Listener:** No negative feedback exists for AB01 → Flowing. The Session 4 summit-exit region remains frozen and untouched.
+- **Interpretation:** The second-wave release already re-enters the main wave cleanly; an extra stage would be functional duplication.
+- **Audio evidence:** The registry remains empty. No key, phrase, density, vocal, trajectory, or transition data was invented.
+- **Live-mixing boundary:** No performance edges were added because no sourced transition evidence exists.
+
+### Audit result
+
+No addition was approved. All three candidates were rejected for this exact bridge role because they repair no defect and add no evidenced function. This does not establish that they can never belong elsewhere; materially new audio evidence or a changed structure may reopen them.
+
+### Ledger change
+
+None. The 23-track canonical order and BPM trajectory remain unchanged.
+
+### Spotify reconciliation
+
+The unchanged 23-track canonical order remains verified COMPLETE in `spotify-status.json`.
+
+### Editorial note
+
+The strongest decision tonight is to leave a complete boundary alone.
+
+---
+
 ## 2026-08-03 — Daily Run 2
 
 **Candidate snapshot:** `2026-08-03T11:36:00+02:00`

@@ -12,6 +12,9 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Blue Hour | Crimson Delta | Rejected only as an extra bridge between AB01 and Flowing. Its 137 BPM creates a compliant 136 → 137 → 138 path, but the existing +2 BPM boundary has no documented defect and no lawful audio or listener evidence establishes a distinct added function. | 2026-08-03 |
+| Chlär | Close Contact | Rejected only as an extra bridge between AB01 and Flowing. Its 137 BPM is numerically compatible, but it duplicates an already complete threshold handoff without evidence that it deepens the chapter. | 2026-08-03 |
+| Shabaam | Showtime | Rejected only as an extra bridge between AB01 and Flowing. Its 138 BPM creates 136 → 138 → 138, but adds length without repairing a transition or establishing a new evidenced role. | 2026-08-03 |
 | Seigg, KYSH Records | Activ | Rejected as a first-wave release hinge. At 143 BPM its placement is compliant, but the label describes a glitch-driven banger with a powerful hook, which would demand attention immediately after the crest instead of beginning release. | 2026-08-03 |
 | Axel Karakasis | Undersense | Rejected as a first-wave release hinge. At 143 BPM its placement is compliant, but the available profile describes high drive and energy-building behaviour, which would prolong crest pressure rather than release it. | 2026-08-03 |
 | RTNH | Session 4 - Original Mix | Rejected only as the immediate track after Alarico — Iruka because the user experienced that handoff as abrupt. The user has explicitly reopened it for a later placement after the new summit-exit hinge; see `revisit.md`. | 2026-08-03 |
