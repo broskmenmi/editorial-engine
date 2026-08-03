@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "playlistSlug": "groove-over-noise",
+  "storyModel": "multiple-waves-one-dominant-summit",
+  "storyHeightMeaning": "Ordinal editorial role for visualization only; not measured energy, loudness, mood, or audio intensity.",
+  "chapters": [
+    { "id": "arrival", "label": "Arrival", "order": 1 },
+    { "id": "first-wave", "label": "First wave", "order": 2 },
+    { "id": "second-wave", "label": "Second wave", "order": 3 },
+    { "id": "main-wave", "label": "Main wave", "order": 4 },
+    { "id": "decompression", "label": "Long decompression", "order": 5 },
+    { "id": "dissolution", "label": "Dissolution", "order": 6 }
+  ],
+  "storyBands": [
+    { "id": "dissolution", "label": "Dissolution", "level": 0.8 },
+    { "id": "arrival", "label": "Arrival", "level": 1.4 },
+    { "id": "groove", "label": "Groove", "level": 2.2 },
+    { "id": "release-low", "label": "Release", "level": 2.8 },
+    { "id": "threshold", "label": "Threshold", "level": 3.4 },
+    { "id": "build", "label": "Build", "level": 4.2 },
+    { "id": "local-crest", "label": "Local crest", "level": 5.2 },
+    { "id": "summit-approach", "label": "Summit approach", "level": 5.9 },
+    { "id": "main-summit", "label": "Main summit", "level": 7.0 }
+  ],
+  "protected": {
+    "opener": "spotify:track:0yI5YgKcF2mXo3NRlXS660",
+    "handoffs": [
+      [
+        "spotify:track:0yI5YgKcF2mXo3NRlXS660",
+        "spotify:track:4N1qAnhFro9fQdBON4Aqxn"
+      ]
+    ],
+    "ending": [
+      "spotify:track:0RQAFOhBjlcD09X62GmiCS",
+      "spotify:track:31FaOVEATLY9PzDv8YPbaI",
+      "spotify:track:6mNUIvYYV5JJVlusXEzLw6",
+      "spotify:track:6lUBGdd9KgbFl7E5GSlm2z",
+      "spotify:track:15QxVy6d8RrbPKmsYyuVbT"
+    ]
+  },
+  "discussions": [
+    {
+      "id": "session-4-summit-exit",
+      "status": "AWAITING_CLARIFICATION",
+      "label": "Session 4 summit-exit discussion",
+      "frozenUris": [
+        "spotify:track:3RHjzsJWvCWfrp0QCZHUA2",
+        "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
+        "spotify:track:0RQAFOhBjlcD09X62GmiCS"
+      ],
+      "externalCandidates": [
+        {
+          "artist": "RTNH",
+          "track": "Session 4 - Original Mix",
+          "uri": "spotify:track:1fSgcyLzPwjgtbM4MmEDCu",
+          "bpm": 138
+        }
+      ]
+    }
+  ],
+  "tracks": {
+    "spotify:track:0yI5YgKcF2mXo3NRlXS660": { "chapter": "arrival", "storyBand": "arrival", "status": "protected", "labels": ["opener", "identity-anchor"] },
+    "spotify:track:4N1qAnhFro9fQdBON4Aqxn": { "chapter": "arrival", "storyBand": "groove", "status": "protected", "labels": ["protected-handoff"] },
+    "spotify:track:2DMBWNzWBrjaYHPdSf7HQA": { "chapter": "arrival", "storyBand": "threshold", "status": "accepted", "labels": ["opening-bridge"] },
+    "spotify:track:4cUXdWBPu6XxWhtQM8iyxc": { "chapter": "first-wave", "storyBand": "build", "status": "provisional", "labels": ["rise", "crest-approach"] },
+    "spotify:track:1xbqhGI3Xgntoy56FA91D4": { "chapter": "first-wave", "storyBand": "local-crest", "status": "accepted", "labels": ["first-local-crest"] },
+    "spotify:track:4ZURjKKzTjVtOEYbE7p14Q": { "chapter": "first-wave", "storyBand": "build", "status": "provisional", "labels": ["release-hinge"] },
+    "spotify:track:1BLpNBx8502KRE2TommLp6": { "chapter": "first-wave", "storyBand": "threshold", "status": "accepted", "labels": ["partial-release"] },
+    "spotify:track:1LwX0cMaE8susTOodWCMAy": { "chapter": "first-wave", "storyBand": "release-low", "status": "accepted", "labels": ["post-crest-bridge"] },
+    "spotify:track:5nfyNPgR6kxvdFQ66PIeEB": { "chapter": "second-wave", "storyBand": "threshold", "status": "accepted", "labels": ["re-entry"] },
+    "spotify:track:0XQ53FHMmonh9WD6DWVZVb": { "chapter": "second-wave", "storyBand": "local-crest", "status": "provisional", "labels": ["deeper-crest"] },
+    "spotify:track:4Np2wuMWF99jigxD5pyOwh": { "chapter": "second-wave", "storyBand": "build", "status": "provisional", "labels": ["release-hinge"] },
+    "spotify:track:0FuxLvhDsdGu6XpnxGQrAf": { "chapter": "second-wave", "storyBand": "threshold", "status": "accepted", "labels": ["release"] },
+    "spotify:track:0MYV5AFY0KOXA5QeJFcNCs": { "chapter": "second-wave", "storyBand": "release-low", "status": "accepted", "labels": ["release-extension"] },
+    "spotify:track:67G0MRoqW60mlqLbWd14Wo": { "chapter": "main-wave", "storyBand": "threshold", "status": "provisional", "labels": ["psychological-threshold"] },
+    "spotify:track:4CDWLgMhxOo57uppdRR690": { "chapter": "main-wave", "storyBand": "build", "status": "accepted", "labels": ["re-entry"] },
+    "spotify:track:4EL0YgpfQs5x51JgPy5292": { "chapter": "main-wave", "storyBand": "summit-approach", "status": "provisional", "labels": ["summit-approach"] },
+    "spotify:track:3RHjzsJWvCWfrp0QCZHUA2": { "chapter": "main-wave", "storyBand": "main-summit", "status": "frozen", "labels": ["main-summit", "discussion-region"] },
+    "spotify:track:2gS1RkrHYJiCiPYk8emz0E": { "chapter": "decompression", "storyBand": "local-crest", "status": "frozen", "labels": ["summit-exit-hinge", "discussion-region"] },
+    "spotify:track:0RQAFOhBjlcD09X62GmiCS": { "chapter": "decompression", "storyBand": "build", "status": "frozen", "labels": ["release-continuation", "protected-ending", "discussion-region"] },
+    "spotify:track:31FaOVEATLY9PzDv8YPbaI": { "chapter": "decompression", "storyBand": "threshold", "status": "protected", "labels": ["decompression-bridge", "protected-ending"] },
+    "spotify:track:6mNUIvYYV5JJVlusXEzLw6": { "chapter": "decompression", "storyBand": "release-low", "status": "protected", "labels": ["focused-decompression", "protected-ending"] },
+    "spotify:track:6lUBGdd9KgbFl7E5GSlm2z": { "chapter": "decompression", "storyBand": "arrival", "status": "protected", "labels": ["deep-decompression", "protected-ending"] },
+    "spotify:track:15QxVy6d8RrbPKmsYyuVbT": { "chapter": "dissolution", "storyBand": "dissolution", "status": "protected", "labels": ["closer", "protected-ending"] }
+  }
+}
