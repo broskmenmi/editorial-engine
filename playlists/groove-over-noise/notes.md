@@ -7,6 +7,7 @@
 - BPM guides placement but does not prove listening quality.
 - Volunteered feedback overrides editorial theory.
 - Repeated skipping is decisive behavioural evidence.
+- A transition that feels abrupt is defective even when its BPM change is compliant.
 - The first track defines the playlist's identity, not merely its starting tempo.
 - A positively confirmed opening transition may also become protected.
 - Preserve one dominant summit and the final descent.
@@ -34,7 +35,7 @@ Do not insert another track before Deep Under or between Deep Under and Wurk wit
 
 `134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within 0–4 BPM. **Nasty Tool → Tenta Tiv → Iruka** creates a 138 → 139 → 141 summit approach.
+Every adjacent difference remains within 0–4 BPM. The current **Iruka → Session 4** transition is 141 → 138 BPM, but the user's direct experience shows that numeric compliance is not enough.
 
 ## Current chapter map
 
@@ -54,22 +55,30 @@ Every adjacent difference remains within 0–4 BPM. **Nasty Tool → Tenta Tiv �
 14. **Third-wave re-entry:** Nasty Tool
 15. **Third-wave summit approach, provisional:** Tenta Tiv
 16. **Main summit:** Iruka
-17. **Summit release hinge:** Session 4 - Original Mix
+17. **Summit release hinge, under review:** Session 4 - Original Mix
 18. **Release continuation:** Interlynx
 19. **Decompression bridge:** Minimum
 20. **Focused decompression:** Eclipse
 21. **Deep decompression:** Haidou
 22. **Dissolution:** Calipso
 
+## Active accepted-track review
+
+**RTNH — Session 4 - Original Mix** is now UNDER REVIEW.
+
+- **Exact listener report:** “Session 4 feels like it comes out abruptly after Alarico.”
+- **Original purpose:** begin the descent from **Alarico — Iruka** before **Interlynx**.
+- **Measured placement:** 141 → 138 → 137 BPM.
+- **Current conflict:** the handoff feels like a sudden new scene instead of a controlled release from the summit.
+- **Next workflow priority:** autonomously decide whether KEEP, MOVE, REPLACE, or REMOVE best preserves Iruka as the dominant summit and the protected long descent.
+
+Do not ask the user to compare alternatives. Do not defend the transition merely because the BPM steps are compliant.
+
 ## Current assessment
 
-**ElectroExeL — Tenta Tiv** is provisionally added after Nasty Tool and before Iruka. Its measured placement creates +1 and +2 BPM steps, lengthening the third-wave approach without changing Iruka's declared summit role.
+**ElectroExeL — Tenta Tiv** remains a provisional summit approach before Iruka. The new Session 4 feedback now takes priority over unrelated expansion because it directly concerns the exit from the main summit.
 
-**Sandro Galli — Extra Dimension** was rejected because 138 → 137 → 141 introduces an avoidable down-up motion immediately before the summit.
-
-**Sandro Galli — Grid Collapse** remains parked. Its 138 → 140 → 141 placement is clean, but it duplicates Tenta Tiv's new role and sits only one BPM below Iruka without evidence that it protects the summit better.
-
-The sonic and attention effects of all three candidates remain unconfirmed listening hypotheses. There are no active accepted-track reviews.
+The likely problem is either Session 4 itself, its immediate placement after Iruka, or the way the summit exit has been shaped. That remains an editorial question; the listener's report that it feels abrupt is the established fact.
 
 ## Resolved Cachoeira review
 
@@ -86,7 +95,7 @@ The sonic and attention effects of all three candidates remain unconfirmed liste
 ## Next priority
 
 1. Preserve Deep Under → Wurk as an intact opening pair.
-2. Let Tenta Tiv remain the sole provisional summit approach.
-3. Do not add another stage between Nasty Tool and Iruka without new evidence.
-4. Continue autonomous discovery elsewhere.
-5. Preserve Iruka as the main summit and the protected final descent.
+2. Resolve the abrupt **Iruka → Session 4** transition through KEEP, MOVE, REPLACE, or REMOVE.
+3. Preserve Iruka as the main summit.
+4. Preserve Interlynx → Minimum → Eclipse → Haidou → Calipso as the protected descent.
+5. Continue autonomous discovery only after the summit-exit defect is addressed.
