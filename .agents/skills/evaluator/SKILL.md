@@ -7,6 +7,8 @@ description: Evaluate playlist candidates against a playlist constitution and cl
 
 Read the target playlist constitution, ledger, notes, rejected list, revisit queue, and accepted-track review queue.
 
+Evaluate the frozen one-to-three-candidate snapshot supplied by Scout. Do not demand a three-track quota and do not rerun discovery.
+
 ## Evidence discipline
 
 For every candidate, separate:
@@ -67,8 +69,22 @@ A candidate that BELONGS but is INCOMPATIBLE in the proposed slot may be moved t
 
 When `audio-evidence.json` contains data, distinguish raw measurements from model-derived properties. DJOID, rekordbox, or other scores never count as listener report and cannot override negative listener evidence.
 
+## Exploration-originated candidates
+
+An EXPLORE candidate does not need a pre-existing playlist defect. A newly discovered track may reveal a distinct function or a stronger way to deepen the journey.
+
+That positive opportunity is still a hypothesis. Before ADD:
+
+- establish playlist belonging independently;
+- identify at least one concrete non-frozen placement;
+- evaluate both exact neighbours;
+- show a distinct function or material improvement rather than novelty, metadata fit, or extra length;
+- verify that the placement does not disturb a protected pair, frozen region, summit authority, or final descent.
+
+If the track belongs but no auditable placement is currently supported, prefer REVISIT over forcing a slot. If neither belonging nor a concrete role is supported beyond metadata, REJECT.
+
 ## Verdicts
-- **ADD** — the best available evidence supports admission now; the editorial role may remain provisional.
+- **ADD** — the best available evidence supports admission now; this may repair a defect or add a distinct evidence-supported function, and the editorial role may remain provisional.
 - **REVISIT** — a concrete uncertainty exists that materially affects admission and can be resolved by future evidence without assigning the user homework.
 - **REJECT** — weakens, dilutes, duplicates, or creates a transition, attention, or storytelling defect.
 

@@ -24,6 +24,8 @@ Examples that authorize direct action:
 
 When intent is unclear, treat it as discussion, not authorization.
 
+An exact action command bypasses the clarification and `DIAGNOSIS AGREED` steps for exactly the named scope. Before persistence, record the matching `APPROVED — MOVE`, `APPROVED — REPLACE`, `APPROVED — REMOVE`, or other exact approved state. It does not authorize changing neighbours, adding a bridge, searching for an unspecified replacement, or widening the reorder; those effects still require named scope and explicit approval.
+
 ## Clarification gate
 
 Unless the user explicitly orders removal, replacement, movement, or another exact change:

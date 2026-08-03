@@ -27,6 +27,12 @@ function requestIdentity(requested) {
     spotifyTrackId: requested.spotifyTrackId ?? null,
     spotifyAlbumId: requested.spotifyAlbumId ?? null,
     bpm: requested.bpm ?? null,
+    bpmSource: requested.bpmSource ?? null,
+    discoverySource: requested.discoverySource ?? null,
+    searchIntent: requested.searchIntent ?? null,
+    proposedPlacements: requested.proposedPlacements ?? null,
+    fitHypothesis: requested.fitHypothesis ?? null,
+    evidence: requested.evidence ?? null,
   });
 }
 
@@ -41,6 +47,19 @@ async function readJsonIfPresent(filePath) {
 
 function isCompleteSnapshotForRequest(existing, request) {
   if (!existing || !request.runId || existing.runId !== request.runId) return false;
+  if ((existing.mode ?? 'REPAIR') !== (request.mode ?? 'REPAIR')) return false;
+  if (JSON.stringify(existing.target ?? null) !== JSON.stringify(request.target ?? null)) return false;
+  if (JSON.stringify(existing.explorationReceipt ?? null) !== JSON.stringify(request.explorationReceipt ?? null)) return false;
+  if (existing.requestedCount !== request.candidates.length || existing.resolvedCount < 1) return false;
+
+  if (Array.isArray(existing.outcomes)) {
+    if (existing.outcomes.length !== request.candidates.length) return false;
+    return request.candidates.every((requested, index) => {
+      const stored = existing.outcomes[index]?.requestedIdentity;
+      return stored && requestIdentity(stored) === requestIdentity(requested);
+    });
+  }
+
   if (!Array.isArray(existing.candidates) || existing.candidates.length !== request.candidates.length) return false;
   if (existing.resolvedCount !== request.candidates.length) return false;
 
@@ -110,6 +129,10 @@ function candidateRecord(track, requested, album = null) {
     bpm: requested.bpm,
     tempoSource: requested.bpmSource,
     discoverySource: requested.discoverySource,
+    searchIntent: requested.searchIntent ?? null,
+    proposedPlacements: requested.proposedPlacements ?? [],
+    fitHypothesis: requested.fitHypothesis ?? null,
+    evidence: requested.evidence ?? null,
     requestedIdentity: requested,
   };
 }
@@ -155,16 +178,7 @@ async function resolveRequestedTrack(token, requested, excluded) {
       }
       return { track: candidateRecord(track, requested) };
     } catch (error) {
-      return {
-        track: candidateRecord({
-          id,
-          uri: `spotify:track:${id}`,
-          name: requested.track,
-          artists: [{ name: requested.artist }],
-          external_urls: { spotify: `https://open.spotify.com/track/${id}` },
-        }, requested),
-        warning: String(error),
-      };
+      return { error: `direct Spotify track lookup failed: ${String(error)}` };
     }
   }
 
@@ -199,13 +213,23 @@ async function main() {
   }
 
   const request = JSON.parse(await fs.readFile(REQUEST, 'utf8'));
-  if (!Array.isArray(request.candidates) || request.candidates.length !== 3) {
-    throw new Error('scout-request.json must contain exactly three candidates');
+  if (typeof request.runId !== 'string' || request.runId.trim() === '') {
+    throw new Error('scout-request.json must contain a non-empty runId');
+  }
+  const mode = request.mode ?? 'REPAIR';
+  if (!['REPAIR', 'EXPLORE'].includes(mode)) {
+    throw new Error('scout-request.json mode must be REPAIR or EXPLORE');
+  }
+  if (mode === 'EXPLORE' && (!request.explorationReceipt || typeof request.explorationReceipt !== 'object')) {
+    throw new Error('EXPLORE scout-request.json must contain explorationReceipt');
+  }
+  if (!Array.isArray(request.candidates) || request.candidates.length < 1 || request.candidates.length > 3) {
+    throw new Error('scout-request.json must contain one to three candidates');
   }
 
   const existing = await readJsonIfPresent(OUTPUT);
   if (isCompleteSnapshotForRequest(existing, request)) {
-    console.log(`Preserving complete ${existing.resolvedCount}/${request.candidates.length} scout snapshot for run ${request.runId}`);
+    console.log(`Preserving terminal ${existing.resolvedCount}/${request.candidates.length} scout snapshot for run ${request.runId}`);
     return;
   }
 
@@ -225,28 +249,45 @@ async function main() {
   const candidates = [];
   const unresolved = [];
   const warnings = [];
+  const outcomes = [];
 
   for (const requested of request.candidates) {
     const result = await resolveRequestedTrack(token, requested, excluded);
-    if (result.track) candidates.push(result.track);
-    else unresolved.push({ artist: requested.artist, track: requested.track, error: result.error });
+    if (result.track) {
+      candidates.push(result.track);
+      outcomes.push({ status: 'RESOLVED', requestedIdentity: requested, spotifyTrackId: result.track.id });
+    } else {
+      const failure = { artist: requested.artist, track: requested.track, error: result.error, requestedIdentity: requested };
+      unresolved.push(failure);
+      outcomes.push({ status: 'UNRESOLVED', requestedIdentity: requested, error: result.error });
+    }
     if (result.warning) warnings.push({ artist: requested.artist, track: requested.track, warning: result.warning });
   }
+
+  if (candidates.length === 0) {
+    throw new Error(`No requested candidates resolved; search cannot continue: ${JSON.stringify(unresolved)}`);
+  }
+
+  const resolutionStatus = candidates.length === request.candidates.length ? 'COMPLETE' : 'PARTIAL';
 
   const output = {
     generatedAt: new Date().toISOString(),
     runId: request.runId ?? null,
+    mode,
     target: request.target,
+    explorationReceipt: request.explorationReceipt ?? null,
     source: 'Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.',
     requestedCount: request.candidates.length,
     resolvedCount: candidates.length,
+    resolutionStatus,
     unresolved,
     warnings,
+    outcomes,
     candidates,
   };
 
   await fs.writeFile(OUTPUT, `${JSON.stringify(output, null, 2)}\n`);
-  console.log(`Resolved ${candidates.length}/${request.candidates.length} exact candidates`);
+  console.log(`${resolutionStatus}: resolved ${candidates.length}/${request.candidates.length} exact candidates`);
 }
 
 main().catch((error) => {

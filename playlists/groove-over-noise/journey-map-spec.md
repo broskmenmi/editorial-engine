@@ -43,9 +43,11 @@ It is intended for the end of every editorial-run response.
 
 ## Detailed Sites experience
 
-The detailed interactive map will be built with ChatGPT Sites when Sites becomes available for the user's region and creation surface.
+The detailed interactive map is published read-only at:
 
-Until then, GitHub holds the complete Sites-ready source:
+`https://groove-over-noise-map.broskmenmi.chatgpt.site`
+
+GitHub continues to hold the complete authoritative source for the published Site:
 
 ```text
 playlists/groove-over-noise/journey-map.json
@@ -154,7 +156,7 @@ The Site must label data accurately:
 3. The app reads the ledger, annotations, and Spotify duration metadata.
 4. The app writes `journey-map.json` and `journey-map.svg`.
 5. The compact SVG appears at the end of editorial-run responses.
-6. The future Site reads `journey-map.json` and updates without becoming authoritative.
+6. The published Site reads `journey-map.json` and updates without becoming authoritative.
 
 ## Scaling
 

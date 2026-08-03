@@ -35,14 +35,15 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 Execute:
 
-1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions, revisit triggers, recent run history, and `audio-evidence.json`, then identify a genuine scouting target without treating missing audio evidence as failure.
-2. **Target gate** — if no objective defect, triggered review/revisit condition, materially new evidence, or distinct non-duplicative structural opportunity exists, return `NO GENUINE SCOUTING TARGET`, skip Scout through Sequencer, and send the stop to the Auditor. Do not manufacture a slot merely to satisfy a candidate quota.
-3. **Scout** — only when the target gate passes, return exactly three candidates with exact Spotify track URIs and verified BPM; state whether each search targets playlist belonging, exact-neighbour compatibility, or both.
-4. **Evaluator** — answer playlist belonging and exact-neighbour compatibility separately, then assign ADD, REVISIT, or REJECT.
-5. **Sequencer** — place provisional additions or repairs.
-6. **Auditor** — approve, veto, revise, or validate a `NO GENUINE SCOUTING TARGET` stop.
-7. **Librarian** — persist the approved state or concise no-target run record, including `journey-annotations.json` when the journey map changes.
-8. **Publisher** — report from `spotify-status.json` and append the compact journey map.
+1. **Pre-audit and lane selection** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions, revisit triggers, recent decisions, and `audio-evidence.json`. Select the repair lane only for an actionable objective defect, triggered REVISIT, clarified and authorized listener repair, or materially new lawful evidence that makes a specific existing repair or revisit actionable. Other new evidence remains an EXPLORE input. Missing audio evidence is not a defect.
+2. **Repair lane** — when an actionable repair exists, Scout one to three evidence-qualified candidates for the highest-priority target. An exact authorized move, removal, reorder, or replacement with an already agreed and resolved track that needs no candidate search may proceed directly to Sequencer.
+3. **Exploration lane** — when no actionable repair exists, Scout must perform a fresh outward discovery scan during this run. Search current releases, adjacent or emerging artists and labels, and overlooked catalogue material. A pre-existing gap is not required: discovery may reveal a distinct opportunity. Rereading unchanged repository state, reusing an old candidate snapshot, or reconsidering old candidates without new evidence does not count.
+4. **Scout result** — apply Scout's objective shortlist floor, select the strongest one to three eligible candidates, resolve exact Spotify track URIs and verified BPM when available, and never pad a weak set. Record scan timestamp, source paths or query windows, inspected scope, exclusions, and shortlist. If EXPLORE finds none, return `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES`. If REPAIR finds none, return `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES`. If the required search did not run or was blocked, return `EXPLORATION NOT COMPLETED` or `REPAIR SEARCH NOT COMPLETED`; never misreport that as playlist completeness or repair exhaustion.
+5. **Evaluator** — answer playlist belonging and exact-neighbour compatibility separately, then assign ADD, REVISIT, or REJECT. Exploration candidates begin with belonging; no pre-existing defect is required for a distinct, evidence-supported function.
+6. **Sequencer** — place provisional additions or repairs only in auditable, non-frozen positions. Discovery may reveal an opportunity, but it does not prove that an insertion is justified.
+7. **Auditor** — approve, veto, or revise decisions; validate lane selection and the fresh-scan receipt; distinguish a genuine post-search zero result from an unperformed scan.
+8. **Librarian** — persist the approved state only when durable editorial state changed, including `journey-annotations.json` when the journey map changes. Do not append or commit an idle or repeated no-change run merely for telemetry.
+9. **Publisher** — report from `spotify-status.json` and append the compact journey map whether or not the Librarian needed to write.
 
 An active `AWAITING CLARIFICATION` discussion freezes only its affected region. The run may continue elsewhere but must not scout into, edit, reorder, or publish changes to the frozen region.
 
@@ -68,6 +69,8 @@ For a complaint or exploration:
 9. If the repair affects any other track, list every affected track and obtain explicit approval before writing the ledger.
 
 Do not reject, replace, move, remove, or resolve the complaint before this gate is complete unless the user's first message was an explicit action command.
+
+For an explicit action command, bypass clarification and `DIAGNOSIS AGREED` only for the exact named scope, record the matching `APPROVED — ...` state, then sequence and audit it. Any wider effect still requires the normal multi-track scope approval.
 
 ## Clarifying questions
 
@@ -97,16 +100,23 @@ Before a multi-track change, state the exact before-and-after sequence and ask f
 
 ## Candidate snapshot lifecycle
 
-Candidate resolution is a pre-audit input, not a publication step.
+Candidate resolution is a scouting input, not a publication step.
 
-- Create no scout request or snapshot when the target gate returns `NO GENUINE SCOUTING TARGET`.
-- When the target gate passes, write `scout-request.json` at most once per editorial run.
+- Run Scout in REPAIR or EXPLORE mode on every scheduled or requested editorial run, except an exact authorized action that requires no alternatives.
+- In EXPLORE mode, complete the outward scan before deciding that no candidate qualifies.
+- When one to three candidates qualify, write `scout-request.json` at most once per editorial run.
+- Set `mode` to `REPAIR` or `EXPLORE`. For EXPLORE, freeze the complete exploration receipt in the request before resolution.
+- For each requested candidate preserve `searchIntent`, `proposedPlacements`, `fitHypothesis`, and separated evidence fields.
 - Resolve it into `scout-data.json` at most once per `runId`.
-- Freeze the exact three-candidate snapshot before evaluation.
+- Freeze the one-to-three-candidate snapshot before evaluation.
+- `scout-data.json` must copy the mode, exploration receipt, and candidate evidence fields rather than reducing the snapshot to identity metadata.
+- Mark resolution `COMPLETE` or `PARTIAL`. A PARTIAL snapshot may proceed with its one or two resolved candidates while preserving every unresolved identity and error; never substitute or pad. If zero resolve, fail the resolver and report the lane's `*_NOT COMPLETED` outcome.
+- If no candidate qualifies, create no padded request or snapshot; send the documented repair or exploration receipt to the Auditor.
 - Evaluator, Sequencer, Auditor, and Librarian use the same snapshot.
 - Do not rerun Scout after audit approval.
 - Spotify publication never executes the Scout or modifies scout files.
 - A new snapshot requires a new `runId` and a genuinely new run.
+- A scan timestamp or zero-result receipt alone is not durable editorial state and must not create an editorial repository commit.
 
 ## Audio-aware evidence lifecycle
 
@@ -161,8 +171,8 @@ Rules:
 - Every ledger ADD, MOVE, REPLACE, REMOVE, chapter change, protected state, provisional state, or frozen discussion must be reflected in `journey-annotations.json` in the same approved editorial change set.
 - `.github/workflows/build-journey-map.yml` generates the derivative files through `apps/journey-map/`.
 - Do not hand-edit generated `journey-map.json` or `journey-map.svg`.
-- The detailed future ChatGPT Site will read `journey-map.json`; `sites-prompt.md` is the build brief.
-- The Site is not deployed until ChatGPT Sites is available to the user. Do not create a temporary website that becomes a second source of truth.
+- The published read-only detailed Site at `https://groove-over-noise-map.broskmenmi.chatgpt.site` reads `journey-map.json`; `sites-prompt.md` remains its maintenance/rebuild brief.
+- The Site visualizes state and is never authoritative. Do not create a substitute website that becomes a second source of truth.
 
 Map currency check:
 
@@ -273,7 +283,7 @@ After diagnosis, choose the smallest approved repair that restores the journey. 
 ## Atomicity
 
 - Read all source files before decisions.
-- Do not update persistent editorial state before audit approval, except opening an `AWAITING CLARIFICATION` discussion without touching the ledger.
+- Do not update durable editorial state before audit approval, except opening an `AWAITING CLARIFICATION` discussion without touching the ledger. The immutable diagnostic `scout-request.json` → `scout-data.json` resolution lifecycle may write before evaluation; it carries no verdict and authorizes no editorial change.
 - Persist approved editorial changes as one logical commit when possible.
 - Update `journey-annotations.json` in that same logical change set whenever the map's editorial state changes.
 - The ledger row order always equals recommended listening order.
@@ -282,25 +292,27 @@ After diagnosis, choose the smallest approved repair that restores the journey. 
 
 ## Required user-facing response for editorial runs
 
-Use exactly five numbered sections.
+Use exactly these five numbered sections for every editorial run:
 
-When the target gate passes:
+1. `TODAY'S DECISIONS` or `TODAY'S DECISION`
+2. `LEDGER CHANGE`
+3. `SPOTIFY STATUS`
+4. `DETAILED MAP` — link exactly `[Detailed GROOVE OVER NOISE Journey Map](https://groove-over-noise-map.broskmenmi.chatgpt.site)`
+5. `EDITORIAL NOTE` — one sentence
 
-1. `TODAY'S DECISIONS` — exactly three candidates; Verdict, Track — Artist, Position, Purpose, one-sentence Reason.
-2. `LEDGER CHANGE` — only additions, removals, replacements, or reordering.
-3. `SPOTIFY STATUS` — COMPLETE, PARTIAL, or MANUAL REQUIRED.
-4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
-5. `EDITORIAL NOTE` — one sentence.
+Section 1 depends on the outcome:
 
-When the target gate stops the run:
+- **One to three evaluated candidates:** include every candidate; Verdict, Track — Artist, Position, Purpose, one-sentence Reason.
+- **Exploration zero:** `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` plus one short evidence-based scan summary; no candidate links.
+- **Repair zero:** `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` plus one short evidence-based targeted-search summary; no candidate links.
+- **Search blocked or unperformed:** `EXPLORATION NOT COMPLETED` or `REPAIR SEARCH NOT COMPLETED` plus the exact technical reason; do not claim that no suitable music or repair exists.
+- **Authorized exact action without candidates:** `DIRECT ACTION` plus the exact approved move, removal, reorder, or replacement with an already agreed and resolved track.
 
-1. `TODAY'S DECISION` — `NO GENUINE SCOUTING TARGET` plus one short evidence-based reason; no candidate links.
-2. `LEDGER CHANGE` — `None.`
-3. `SPOTIFY STATUS` — COMPLETE, PARTIAL, or MANUAL REQUIRED.
-4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
-5. `EDITORIAL NOTE` — one sentence.
+Section 2 contains only audited additions, removals, replacements, or reordering; otherwise `None.`
 
-Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist, candidate tracks when scouting occurred, and the generated journey-map image.
+Section 3 uses COMPLETE, PARTIAL, or MANUAL REQUIRED. When unavoidable user action exists, put the exact technical `MANUAL ACTION` inside this section; never put listening work there.
+
+Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist, evaluated candidate tracks, the detailed map, and the generated journey-map image.
 
 Immediately after the one-sentence `EDITORIAL NOTE`, append the compact map without adding a sixth numbered section:
 

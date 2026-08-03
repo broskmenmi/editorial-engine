@@ -1,6 +1,6 @@
 # ChatGPT Sites Build Prompt — GROOVE OVER NOISE Journey Map
 
-Use this prompt with `@Sites` when ChatGPT Sites becomes available for this account and region.
+This is the maintenance/rebuild brief for the published read-only Site at `https://groove-over-noise-map.broskmenmi.chatgpt.site`.
 
 ---
 

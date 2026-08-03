@@ -97,6 +97,16 @@ When these cannot be answered from evidence, record them as provisional risks. D
 - Repairs may keep, move, insert a bridge, replace, remove, or reorder.
 - Choose the smallest change that restores structural, bodily, and attention continuity.
 
+## Exploration placement
+
+When a candidate originated in EXPLORE mode, do not pretend that its slot was a known defect before discovery. First establish that the track belongs, then test concrete anchors across eligible regions.
+
+- A discovered track may reveal a distinct opportunity without repairing anything.
+- It must still deepen or clarify the journey rather than merely add variety or duration.
+- Do not place it inside an `AWAITING CLARIFICATION` region.
+- Do not split a protected pair or alter the protected ending without direct positive listener evidence or an explicit user instruction.
+- If no exact placement passes both neighbour checks, return the track unplaced for REVISIT or rejection; never manufacture a gap.
+
 ## Compatibility separation
 
 Before placement, require two explicit conclusions:

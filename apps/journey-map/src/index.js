@@ -456,7 +456,8 @@ async function main() {
       storyHeightMeaning: annotations.storyHeightMeaning,
       compactMapPath: 'playlists/groove-over-noise/journey-map.svg',
       sitesPromptPath: 'playlists/groove-over-noise/sites-prompt.md',
-      detailedSiteStatus: 'SITES_READY_NOT_DEPLOYED',
+      detailedSiteStatus: 'PUBLISHED_READ_ONLY',
+      detailedSiteUrl: 'https://groove-over-noise-map.broskmenmi.chatgpt.site',
     },
     totals: {
       trackCount: tracks.length,

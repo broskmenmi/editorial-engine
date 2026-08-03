@@ -11,6 +11,7 @@
 - Any repair affecting more than the complained-about track requires named scope and explicit approval.
 - The first track defines the playlist's identity, not merely its starting tempo.
 - Preserve one dominant summit and the final descent.
+- Outward discovery does not require a pre-existing defect; admission still requires a distinct function and an auditable non-frozen placement.
 - `MANUAL ACTION` is technical only.
 
 ## Authoritative feedback rule
@@ -105,4 +106,4 @@ Clarification still needs to establish:
 2. Let My Last Descent remain a provisional first-wave release hinge.
 3. Leave the frozen Session 4 region untouched until clarification.
 4. Preserve Iruka as the summit and the protected ending.
-5. Continue autonomous discovery only outside frozen or protected regions.
+5. Continue fresh outward discovery outside frozen or protected regions even when no repair target exists; do not invent a gap before finding the track.

@@ -24,7 +24,9 @@ For non-explicit complaints, the only permitted persistent write before clarific
 
 ## Clarification audit
 
-Before approving a complaint-driven repair, verify:
+This audit applies to complaint/exploration messages, not an exact first-message action command. For an exact command, verify that its precise scope is preserved, the matching `APPROVED — ...` state is recorded before persistence, and no wider effect was smuggled in. Any additional track or neighbour still requires explicit scope approval.
+
+Before approving any other complaint-driven repair, verify:
 
 1. The user's exact words are preserved.
 2. The original role is explained plainly.
@@ -71,17 +73,31 @@ Reject outcomes that assign A/B listening tests, rankings, prescribed sessions, 
 
 Clarifying questions after a complaint are allowed only when short, conversational, and answerable from memory.
 
-## No-target stop audit
+## Lane and fresh-exploration audit
 
-When pre-audit returns `NO GENUINE SCOUTING TARGET`, verify that:
+Verify that pre-audit selected the correct lane:
 
-- every objective transition and structural check was completed;
-- active reviews remain frozen and no triggered revisit condition exists;
-- no materially new listener or audio evidence is available;
-- the claimed opportunity would otherwise be metadata-led expansion or functional duplication;
-- Scout, candidate snapshots, ledger changes, and live-mixing edges were skipped.
+- REPAIR only for an actionable objective defect, triggered REVISIT, clarified and authorized listener repair, or materially new lawful evidence that makes a specific existing repair or revisit actionable;
+- EXPLORE whenever no actionable repair exists;
+- an `AWAITING CLARIFICATION` region remained frozen and did not prevent exploration elsewhere.
 
-Approve the stop only when all five conditions hold. A no-target result is a successful run, not a default preference against growth.
+For every EXPLORE run, require a fresh exploration receipt containing timestamp, source paths or query windows, coverage of current releases, adjacent or emerging artists or labels, overlooked catalogue, inspected scope, exclusions, and shortlist.
+
+Reject or revise the run when:
+
+- unchanged repository state or an old snapshot was presented as fresh discovery;
+- Scout stopped before searching merely because no pre-existing gap existed;
+- the candidate set was padded to meet a quota;
+- a candidate was forced into a frozen or protected edge;
+- search failed or did not run but the result was reported as no suitable music.
+
+Approve `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` only after the fresh scan is evidenced and every inspected lead failed the eligibility floor. If search did not run or was blocked, require `EXPLORATION NOT COMPLETED` with the exact reason.
+
+Approve `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` only after the concrete target and targeted search receipt are evidenced and every inspected lead failed the same objective shortlist floor.
+
+If required repair search did not run or was blocked, require `REPAIR SEARCH NOT COMPLETED` with the exact reason. Do not treat it as evidence that no repair exists.
+
+A zero-result scan is not proof that the playlist is complete. It is only evidence that the documented scan found no qualified candidate on that run.
 
 ## Core checks
 
@@ -99,6 +115,9 @@ Approve the stop only when all five conditions hold. A no-target result is a suc
 - Differences above 7 BPM require documented equivalence or intentional reset.
 - Spotify Mix and crossfade are never proof that a transition works.
 - Numeric compliance is never sufficient certainty.
+- The evaluated snapshot contains one to three eligible candidates and was not quota-padded.
+- A PARTIAL resolver snapshot evaluates only its resolved candidates, preserves unresolved identities and errors, and contains no substitutions; zero resolved candidates are reported as the lane's `*_NOT COMPLETED` outcome.
+- Exploration-originated ADD decisions show a distinct function and a concrete non-frozen placement; no pre-existing defect is required.
 
 ## Critical-role handling
 
@@ -144,4 +163,4 @@ The Auditor may approve, veto, reposition, reopen, or reclassify. It may not res
 - Vetoed changes and reasons
 - Final canonical order
 
-No persistent editorial or Spotify state may change before audit approval, except opening an `AWAITING CLARIFICATION` discussion without changing the ledger.
+No durable editorial or Spotify state may change before audit approval, except opening an `AWAITING CLARIFICATION` discussion without changing the ledger. The immutable diagnostic request/data lifecycle may resolve candidate identities before audit, but it carries no verdict and authorizes no editorial change. After approval, a scan receipt, timestamp, or repeated no-change result alone must not create an editorial commit.

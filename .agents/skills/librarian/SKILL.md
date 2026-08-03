@@ -35,6 +35,8 @@ Only these states authorize a ledger change:
 - `APPROVED — REPLACE`
 - `APPROVED — REMOVE`
 
+An exact first-message action command constitutes approval for exactly its named scope and must be recorded as the matching `APPROVED — ...` state before the ledger write. It does not authorize an unspecified replacement, changed neighbour, bridge, or wider reorder.
+
 If a repair changes more than the complained-about track, persist it only after the user explicitly approved the named multi-track scope.
 
 ## Audio-evidence persistence
@@ -65,6 +67,10 @@ If a repair changes more than the complained-about track, persist it only after 
 11. Update `journey-annotations.json` in the same approved change set whenever any track, chapter, story band, protected state, provisional state, or frozen region changes.
 12. Preserve history; do not silently rewrite prior decisions.
 13. Prevent duplicate URIs.
+
+The Librarian is conditional. If the audited result changes no durable editorial state, perform no write and create no commit.
+
+Durable editorial state includes the ledger, rejected or revisit decisions, listener-review state, substantive structural notes, journey annotations, lawful audio evidence, or the live-mixing graph. A scan timestamp, exploration receipt, unchanged Spotify/map status, or repeated no-change result alone is not durable editorial state.
 
 ## Journey-map annotation duties
 
@@ -147,7 +153,7 @@ For each discussion, store:
 
 ## Required run record
 
-For a scouted run:
+For a scouted run with one to three evaluated candidates:
 
 - Date and candidate snapshot `runId`
 - Candidates, exact URIs, BPM, verdicts
@@ -162,13 +168,10 @@ For a scouted run:
 - Canonical order
 - Editorial note
 
-For an audited `NO GENUINE SCOUTING TARGET` run, record instead:
+For `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES`, do not append an idle entry to `discoveries.md` and do not commit merely to preserve scan telemetry. The Auditor's in-run receipt supports the user-facing report. A later aggregation mechanism may retain operational telemetry outside canonical editorial history.
 
-- date and no-target verdict;
-- completed pre-audit checks;
-- evidence showing why no target exists;
-- preserved frozen/protected state;
-- confirmation that Scout, snapshots, ledger, audio evidence, and live graph were untouched;
-- Spotify reconciliation and editorial note.
+For `EXPLORATION NOT COMPLETED`, do not write editorial state. Report the technical blocker accurately.
+
+For `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` or `REPAIR SEARCH NOT COMPLETED`, likewise perform no write unless another independently audited durable state change exists.
 
 GitHub is the persistent source of truth. The Librarian never publishes through a generative playlist tool, never invokes Scout after decisions are persisted, and never hand-edits generated map outputs.

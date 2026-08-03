@@ -1,6 +1,6 @@
 ---
 name: publisher
-description: Report exact Spotify publication status and append the current compact journey map after the Librarian has persisted an audited ledger.
+description: Report exact Spotify publication status and append the current compact journey map after audit, whether the Librarian persisted a durable change or correctly performed no write.
 ---
 
 # Publisher
@@ -12,6 +12,8 @@ Spotify publication is performed by `.github/workflows/publish-spotify.yml` usin
 Journey-map generation is performed separately by `.github/workflows/build-journey-map.yml` using `apps/journey-map/`.
 
 Neither workflow may run the Scout, rebuild candidate metadata, or modify `scout-request.json` or `scout-data.json`.
+
+The Publisher may run after an audited no-write result. It must not require or manufacture a Librarian commit when durable editorial state is unchanged.
 
 The ChatGPT workflow must not:
 - search Spotify for the target playlist;
@@ -96,13 +98,14 @@ Do not instruct the user to manually maintain track order or build the map when 
 Only link:
 - the canonical playlist URL stored in `spotify-status.json`;
 - candidate track links when scouting occurred; and
+- the detailed journey-map URL declared by the target playlist when its generated status is published;
 - the generated compact journey-map image.
 
 Never surface broad Spotify search results or unrelated playlists.
 
 ## Detailed Site
 
-`sites-prompt.md` is the future ChatGPT Sites build brief. Do not deploy a temporary substitute website. The detailed Site remains `SITES_READY_NOT_DEPLOYED` until Sites is available to the user.
+When `journey-map.json` declares a published detailed-site status and URL, link that exact target-playlist URL. The Site visualizes generated GitHub data and is not authoritative. `sites-prompt.md` remains the maintenance/rebuild brief. Do not deploy a substitute that becomes a second source of truth, and never reuse one playlist's Site URL for another playlist or fork.
 
 ## Playback note
 

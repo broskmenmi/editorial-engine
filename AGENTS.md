@@ -54,6 +54,8 @@ Before acting on any user complaint about a track or transition, read the target
 
 A complaint is evidence, not authorization to change Spotify.
 
+An exact first-message action command bypasses clarification and `DIAGNOSIS AGREED` for exactly the named scope. Record it as the matching `APPROVED — ...` state before persistence. Any additional neighbour, bridge, replacement search, or wider reorder still requires explicit scope approval.
+
 Unless the user explicitly orders an exact removal, movement, replacement, or reorder:
 
 - freeze the affected playlist region;
@@ -64,13 +66,26 @@ Unless the user explicitly orders an exact removal, movement, replacement, or re
 
 `feedback-protocol.md` overrides conflicting complaint, repeated-skip, repair-first, and relaxation-first instructions elsewhere in the repository.
 
-## Candidate snapshot lifecycle
+## Editorial lanes and candidate snapshots
 
-- Pre-audit must first establish a genuine scouting target: an objective defect, a triggered review/revisit condition, materially new evidence, or a distinct structural opportunity supported beyond metadata fit.
-- If no genuine target exists, return `NO GENUINE SCOUTING TARGET`, skip Scout through Sequencer, have the Auditor validate the stop, and do not create or rewrite candidate snapshots.
-- Candidate resolution occurs once before evaluation when a genuine target exists.
-- One `scout-request.json` `runId` produces one immutable completed `scout-data.json` snapshot.
-- Evaluator, Sequencer, Auditor, and Librarian use the same frozen three-candidate snapshot.
+Every scheduled or explicitly requested editorial run has two lanes:
+
+1. **Repair lane** — pre-audit first looks for an actionable objective defect, a triggered REVISIT, a clarified and authorized listener repair, or materially new lawful evidence that makes a specific existing repair or revisit actionable.
+2. **Exploration lane** — when no actionable repair exists, Scout must perform a fresh outward discovery scan. A pre-existing gap is not required; a newly found track may reveal a distinct opportunity.
+
+An `AWAITING CLARIFICATION` discussion is frozen and non-actionable. It does not block exploration elsewhere.
+
+- Rereading unchanged repository state, reusing an old snapshot, or reconsidering old candidates without new evidence does not count as fresh discovery.
+- Exploration must search current releases, adjacent or emerging artists and labels, and overlooked catalogue material, with source paths and timestamp recorded in the run evidence.
+- Scout selects one to three evidence-qualified candidates. Never pad the set to meet a quota.
+- If the fresh scan yields none, return `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` and have the Auditor validate the scan itself. If search did not run or was blocked, return `EXPLORATION NOT COMPLETED`; neither result proves that the playlist is complete.
+- If an actionable repair search yields none, return `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` and have the Auditor validate the targeted search.
+- If required exploration or repair search did not run or was blocked, return `EXPLORATION NOT COMPLETED` or `REPAIR SEARCH NOT COMPLETED` with the exact reason; never convert a technical failure into a musical conclusion.
+- Candidate resolution occurs once before evaluation.
+- One `scout-request.json` `runId` produces one immutable terminal `scout-data.json` snapshot containing one to three resolved candidates.
+- The request and snapshot preserve `mode`; EXPLORE also preserves the frozen exploration receipt. Candidate records preserve search intent, proposed placements, fit hypothesis, and evidence fields.
+- `scout-data.json.resolutionStatus` is `COMPLETE` or `PARTIAL`. A partial result may proceed with its one or two resolved candidates while preserving unresolved identities and errors; never substitute or pad. Zero resolved candidates must fail resolution and become the lane's `*_NOT COMPLETED` outcome.
+- Evaluator, Sequencer, Auditor, and Librarian use the same frozen snapshot.
 - After audit approval, do not rerun Scout, rewrite the request, or regenerate the candidate snapshot.
 - The Publisher only publishes the canonical ledger. It never invokes `apps/spotify-scout/` and never modifies scout files.
 - `scout-data.json` is diagnostic evidence. It cannot override the audited ledger or suppress the final response.
@@ -102,7 +117,7 @@ Rules:
 - BPM and duration remain separate measured layers.
 - `.github/workflows/build-journey-map.yml` generates JSON and SVG through `apps/journey-map/`.
 - The map is derivative output. `ledger.md`, `journey-annotations.json`, and listener-feedback state remain authoritative.
-- ChatGPT Sites is the intended detailed front end when available; `sites-prompt.md` is the build brief. No temporary replacement website should become a second source of truth.
+- A published read-only detailed front end must take its status and URL from the target playlist's generated `journey-map.json` or playlist-specific automation contract; `sites-prompt.md` remains its maintenance/rebuild brief. No replacement website should become a second source of truth.
 - The compact map should appear after `EDITORIAL NOTE` without adding a sixth numbered response section.
 - If map generation is pending, finish the response and label the map as updating rather than failing the editorial run.
 
@@ -132,17 +147,29 @@ Never imply that Spotify access allows the agent to hear or analyse raw Spotify 
 
 ## Required order
 
-For curation workflows with a genuine scouting target run:
+For an actionable repair:
 
-Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
+Pre-audit → Repair Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
 
-When pre-audit finds no genuine scouting target, run:
+For an explicitly authorized exact move, removal, reorder, or replacement with an already agreed and resolved track that requires no candidate search:
 
-Pre-audit → Auditor → Librarian → Publisher
+Pre-audit → Sequencer → Auditor → Librarian → Publisher
 
-Do not write persistent state before audit approval. GitHub is the source of truth. Spotify is a publication target.
+When no actionable repair exists:
 
-Persist the approved editorial change set as one batched commit when GitHub tree/commit tools are available. Do not create intermediate commits for partial phases of one run.
+Pre-audit → Exploration Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
+
+When a fresh exploration scan yields no qualified candidate:
+
+Pre-audit → Exploration Scout → Auditor → Publisher
+
+When an actionable repair search yields no qualified candidate:
+
+Pre-audit → Repair Scout → Auditor → Publisher
+
+Do not write durable editorial state before audit approval. The immutable diagnostic `scout-request.json` → `scout-data.json` resolution lifecycle may write before evaluation; it carries no verdict and authorizes no editorial change. GitHub is the source of truth. Spotify is a publication target.
+
+Persist the approved editorial change set as one batched commit when GitHub tree/commit tools are available. Do not create intermediate editorial commits for partial phases of one run. Do not create a repository commit merely to append a repeated no-change or zero-qualified-candidate run record.
 
 ## Delivery safety
 

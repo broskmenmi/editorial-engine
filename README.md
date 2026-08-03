@@ -10,10 +10,10 @@ The repository is the source of truth. Spotify is the publication target.
 
 ## How it works
 
-One recurring ChatGPT task orchestrates reusable Agent Skills in this order:
+One recurring ChatGPT task orchestrates reusable Agent Skills through a repair-first lane or, when no repair is actionable, a fresh outward exploration lane:
 
 ```text
-Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
+Pre-audit → Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
 ```
 
 The skills remain under `.agents/skills/<skill-name>/SKILL.md`. Playlist-specific identity and state remain under `playlists/<playlist-slug>/`, so ChatGPT can discover the same Markdown instruction paths on every run.
@@ -43,14 +43,15 @@ The recurring task is created using the [`scheduler` skill](.agents/skills/sched
 
 ## Workflow
 
-1. Read the playlist constitution and canonical ledger.
-2. Review prior discoveries, rejections, revisit candidates, and editorial notes.
-3. Scout exactly three candidate tracks with exact Spotify URIs.
-4. Evaluate and sequence them.
-5. Audit the proposed changes.
-6. Update GitHub only after audit approval.
-7. Let the GitHub Action replace Spotify from ledger URI order.
-8. Report publication status only from `spotify-status.json`.
+1. Read the playlist constitution, canonical ledger, feedback state, and prior decisions.
+2. Pre-audit for an actionable repair, triggered revisit, or materially new evidence.
+3. If no repair is actionable, perform a fresh outward scan of current releases, adjacent or emerging artists and labels, and overlooked catalogue material.
+4. Scout one to three evidence-qualified tracks with exact Spotify URIs; never pad a weak set.
+5. Evaluate playlist belonging separately from compatibility with exact neighbours, then sequence only justified additions or repairs.
+6. Audit the proposed changes.
+7. Update durable editorial state only after audit approval; diagnostic candidate request/data commits may occur earlier solely to resolve exact identities.
+8. Let the GitHub Action replace Spotify from ledger URI order.
+9. Report publication status only from `spotify-status.json`.
 
 ## Decision vocabulary
 

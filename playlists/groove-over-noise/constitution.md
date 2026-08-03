@@ -160,6 +160,14 @@ A track may:
 
 Passing playlist belonging does not authorize ADD. Passing neighbour compatibility does not prove playlist belonging. A high tool score cannot override either editorial question or negative listener evidence.
 
+## Open discovery rule
+
+The playlist does not need to be broken before the system may look outward.
+
+When no actionable repair exists, fresh discovery may search for music that reveals a distinct new function or deepens the existing journey. The system must find the track before claiming that its opportunity exists; it must not invent a gap merely to justify scouting.
+
+Discovery alone authorizes nothing. Every candidate still needs evidence-supported playlist belonging, a concrete non-frozen placement, exact-neighbour evaluation, and Auditor approval. Novelty, popularity, metadata fit, and additional duration are never sufficient reasons to add.
+
 ## Separate live-mixing doctrine
 
 The canonical Spotify playlist is an ordered listening composition.
