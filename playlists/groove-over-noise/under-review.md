@@ -21,7 +21,9 @@ This file is for tracks already admitted to `ledger.md` whose place in the playl
 
 ## Active reviews
 
-None.
+| Artist | Track | Spotify URI | Current position and role | Listener evidence | Why originally admitted | Editorial question | Next workflow action | Status |
+|---|---|---|---|---|---|---|---|---|
+| RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | Position 17 — summit decompression hinge after Alarico — Iruka | “Session 4 feels like it comes out abruptly after Alarico.” | It was admitted to begin the descent from Iruka through a measured 141 → 138 BPM step before Interlynx. | Is the abruptness caused by Session 4 itself, its placement directly after Iruka, or the missing shape of the summit exit? | Prioritize KEEP, MOVE, REPLACE, or REMOVE while preserving Iruka as the main summit and Interlynx onward as the protected descent. | OPEN |
 
 ## Resolved reviews
 
