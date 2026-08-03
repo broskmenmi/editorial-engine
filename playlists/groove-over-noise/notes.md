@@ -33,9 +33,9 @@ Do not insert another track before Deep Under or between Deep Under and Wurk wit
 
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 138 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within 0–4 BPM. The current **Iruka → Session 4** transition is 141 → 138 BPM, but the user's direct experience shows that numeric compliance is not enough.
+Every adjacent difference remains within 0–4 BPM. **Iruka → Percussion Work → Interlynx** creates a measured 141 → 139 → 137 summit exit.
 
 ## Current chapter map
 
@@ -55,38 +55,32 @@ Every adjacent difference remains within 0–4 BPM. The current **Iruka → Sess
 14. **Third-wave re-entry:** Nasty Tool
 15. **Third-wave summit approach, provisional:** Tenta Tiv
 16. **Main summit:** Iruka
-17. **Summit release hinge, under review:** Session 4 - Original Mix
+17. **Summit decompression hinge, provisional:** Percussion Work
 18. **Release continuation:** Interlynx
 19. **Decompression bridge:** Minimum
 20. **Focused decompression:** Eclipse
 21. **Deep decompression:** Haidou
 22. **Dissolution:** Calipso
 
-## Active accepted-track review
+## Resolved summit-exit review
 
-**RTNH — Session 4 - Original Mix** is now UNDER REVIEW.
+**RTNH — Session 4 - Original Mix has been replaced.**
 
-- **Exact listener report:** “Session 4 feels like it comes out abruptly after Alarico.”
-- **Original purpose:** begin the descent from **Alarico — Iruka** before **Interlynx**.
-- **Measured placement:** 141 → 138 → 137 BPM.
-- **Current conflict:** the handoff feels like a sudden new scene instead of a controlled release from the summit.
-- **Next workflow priority:** autonomously decide whether KEEP, MOVE, REPLACE, or REMOVE best preserves Iruka as the dominant summit and the protected long descent.
+- **Listener report:** “Session 4 feels like it comes out abruptly after Alarico.”
+- **Original purpose:** begin the descent from Iruka before Interlynx.
+- **Resolution:** REPLACE with **Vakat — Percussion Work**.
+- **Measured repair:** 141 → 138 → 137 becomes 141 → 139 → 137, producing balanced -2/-2 BPM steps.
+- **Editorial hypothesis:** the longer replacement may allow a more patient summit exit, but attention continuity remains unconfirmed until natural listening feedback appears.
 
-Do not ask the user to compare alternatives. Do not defend the transition merely because the BPM steps are compliant.
+The direct listener report established the defect. The balanced BPM path supports the replacement but does not prove that the new handoff will feel right.
 
 ## Current assessment
 
-**ElectroExeL — Tenta Tiv** remains a provisional summit approach before Iruka. The new Session 4 feedback now takes priority over unrelated expansion because it directly concerns the exit from the main summit.
+The dominant summit remains **Alarico — Iruka**. Percussion Work now begins the long descent without changing **Interlynx → Minimum → Eclipse → Haidou → Calipso**.
 
-The likely problem is either Session 4 itself, its immediate placement after Iruka, or the way the summit exit has been shaped. That remains an editorial question; the listener's report that it feels abrupt is the established fact.
+**Vakat — Looking For Solution** and **Vakat — Devotion** were rejected for this role because they duplicate the repair at 140 BPM without stronger evidence than the approved 139 BPM option.
 
-## Resolved Cachoeira review
-
-**Coyu — Cachoeira has been removed.**
-
-- **Listener report:** “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.”
-- **Resolution:** REMOVE. Repeated skipping shows that the track itself breaks immersion.
-- **Repair:** no replacement was required; Ottagone 001 → Miss Perez remains compliant.
+There are no active accepted-track reviews.
 
 ## Protected ending
 
@@ -95,7 +89,7 @@ The likely problem is either Session 4 itself, its immediate placement after Iru
 ## Next priority
 
 1. Preserve Deep Under → Wurk as an intact opening pair.
-2. Resolve the abrupt **Iruka → Session 4** transition through KEEP, MOVE, REPLACE, or REMOVE.
-3. Preserve Iruka as the main summit.
+2. Let Percussion Work remain a provisional summit decompression hinge.
+3. Preserve Iruka as the dominant summit.
 4. Preserve Interlynx → Minimum → Eclipse → Haidou → Calipso as the protected descent.
-5. Continue autonomous discovery only after the summit-exit defect is addressed.
+5. Continue autonomous discovery outside protected anchors unless new listener evidence opens another defect.
