@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T11:45:54.092Z",
+  "generatedAt": "2026-08-03T11:46:17.965Z",
   "source": {
     "ledgerPath": "playlists/groove-over-noise/ledger.md",
     "annotationsPath": "playlists/groove-over-noise/journey-annotations.json",
@@ -18,8 +18,8 @@
   },
   "totals": {
     "trackCount": 23,
-    "durationMs": 8280000,
-    "durationLabel": "2h 18m",
+    "durationMs": 8106807,
+    "durationLabel": "2h 15m",
     "bpmMin": 125,
     "bpmMax": 145,
     "latestAddedDate": "2026-08-03"
@@ -32,7 +32,7 @@
       "startPosition": 1,
       "endPosition": 3,
       "startMs": 0,
-      "endMs": 1080000
+      "endMs": 1005769
     },
     {
       "id": "first-wave",
@@ -40,8 +40,8 @@
       "order": 2,
       "startPosition": 4,
       "endPosition": 8,
-      "startMs": 1080000,
-      "endMs": 2880000
+      "startMs": 1005769,
+      "endMs": 2639844
     },
     {
       "id": "second-wave",
@@ -49,8 +49,8 @@
       "order": 3,
       "startPosition": 9,
       "endPosition": 13,
-      "startMs": 2880000,
-      "endMs": 4680000
+      "startMs": 2639844,
+      "endMs": 4282304
     },
     {
       "id": "main-wave",
@@ -58,8 +58,8 @@
       "order": 4,
       "startPosition": 14,
       "endPosition": 17,
-      "startMs": 4680000,
-      "endMs": 6120000
+      "startMs": 4282304,
+      "endMs": 5649346
     },
     {
       "id": "decompression",
@@ -67,8 +67,8 @@
       "order": 5,
       "startPosition": 18,
       "endPosition": 22,
-      "startMs": 6120000,
-      "endMs": 7920000
+      "startMs": 5649346,
+      "endMs": 7551737
     },
     {
       "id": "dissolution",
@@ -76,8 +76,8 @@
       "order": 6,
       "startPosition": 23,
       "endPosition": 23,
-      "startMs": 7920000,
-      "endMs": 8280000
+      "startMs": 7551737,
+      "endMs": 8106807
     }
   ],
   "tracks": [
@@ -98,16 +98,16 @@
         "opener",
         "identity-anchor"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
+      "durationMs": 407919,
+      "durationSource": "spotify-metadata",
       "startMs": 0,
-      "endMs": 360000,
-      "midpointMs": 180000,
+      "endMs": 407919,
+      "midpointMs": 203959.5,
       "spotifyUrl": "https://open.spotify.com/track/0yI5YgKcF2mXo3NRlXS660",
       "protected": true,
       "progressStart": 0,
-      "progressEnd": 0.043478260869565216,
-      "progressMidpoint": 0.021739130434782608
+      "progressEnd": 0.05031808454302662,
+      "progressMidpoint": 0.02515904227151331
     },
     {
       "position": 2,
@@ -125,16 +125,16 @@
       "labels": [
         "protected-handoff"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 360000,
-      "endMs": 720000,
-      "midpointMs": 540000,
+      "durationMs": 331764,
+      "durationSource": "spotify-metadata",
+      "startMs": 407919,
+      "endMs": 739683,
+      "midpointMs": 573801,
       "spotifyUrl": "https://open.spotify.com/track/4N1qAnhFro9fQdBON4Aqxn",
       "protected": true,
-      "progressStart": 0.043478260869565216,
-      "progressEnd": 0.08695652173913043,
-      "progressMidpoint": 0.06521739130434782
+      "progressStart": 0.05031808454302662,
+      "progressEnd": 0.0912422116377015,
+      "progressMidpoint": 0.07078014809036406
     },
     {
       "position": 3,
@@ -152,16 +152,16 @@
       "labels": [
         "opening-bridge"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 720000,
-      "endMs": 1080000,
-      "midpointMs": 900000,
+      "durationMs": 266086,
+      "durationSource": "spotify-metadata",
+      "startMs": 739683,
+      "endMs": 1005769,
+      "midpointMs": 872726,
       "spotifyUrl": "https://open.spotify.com/track/2DMBWNzWBrjaYHPdSf7HQA",
       "protected": false,
-      "progressStart": 0.08695652173913043,
-      "progressEnd": 0.13043478260869565,
-      "progressMidpoint": 0.10869565217391304
+      "progressStart": 0.0912422116377015,
+      "progressEnd": 0.12406475200408743,
+      "progressMidpoint": 0.10765348182089446
     },
     {
       "position": 4,
@@ -180,16 +180,16 @@
         "rise",
         "crest-approach"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 1080000,
-      "endMs": 1440000,
-      "midpointMs": 1260000,
+      "durationMs": 340812,
+      "durationSource": "spotify-metadata",
+      "startMs": 1005769,
+      "endMs": 1346581,
+      "midpointMs": 1176175,
       "spotifyUrl": "https://open.spotify.com/track/4cUXdWBPu6XxWhtQM8iyxc",
       "protected": false,
-      "progressStart": 0.13043478260869565,
-      "progressEnd": 0.17391304347826086,
-      "progressMidpoint": 0.15217391304347827
+      "progressStart": 0.12406475200408743,
+      "progressEnd": 0.16610497819918496,
+      "progressMidpoint": 0.1450848651016362
     },
     {
       "position": 5,
@@ -207,16 +207,16 @@
       "labels": [
         "first-local-crest"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 1440000,
-      "endMs": 1800000,
-      "midpointMs": 1620000,
+      "durationMs": 243413,
+      "durationSource": "spotify-metadata",
+      "startMs": 1346581,
+      "endMs": 1589994,
+      "midpointMs": 1468287.5,
       "spotifyUrl": "https://open.spotify.com/track/1xbqhGI3Xgntoy56FA91D4",
       "protected": false,
-      "progressStart": 0.17391304347826086,
-      "progressEnd": 0.21739130434782608,
-      "progressMidpoint": 0.1956521739130435
+      "progressStart": 0.16610497819918496,
+      "progressEnd": 0.19613073309874035,
+      "progressMidpoint": 0.18111785564896266
     },
     {
       "position": 6,
@@ -234,16 +234,16 @@
       "labels": [
         "release-hinge"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 1800000,
-      "endMs": 2160000,
-      "midpointMs": 1980000,
+      "durationMs": 322000,
+      "durationSource": "spotify-metadata",
+      "startMs": 1589994,
+      "endMs": 1911994,
+      "midpointMs": 1750994,
       "spotifyUrl": "https://open.spotify.com/track/4ZURjKKzTjVtOEYbE7p14Q",
       "protected": false,
-      "progressStart": 0.21739130434782608,
-      "progressEnd": 0.2608695652173913,
-      "progressMidpoint": 0.2391304347826087
+      "progressStart": 0.19613073309874035,
+      "progressEnd": 0.23585044025348081,
+      "progressMidpoint": 0.21599058667611057
     },
     {
       "position": 7,
@@ -261,16 +261,16 @@
       "labels": [
         "partial-release"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 2160000,
-      "endMs": 2520000,
-      "midpointMs": 2340000,
+      "durationMs": 415774,
+      "durationSource": "spotify-metadata",
+      "startMs": 1911994,
+      "endMs": 2327768,
+      "midpointMs": 2119881,
       "spotifyUrl": "https://open.spotify.com/track/1BLpNBx8502KRE2TommLp6",
       "protected": false,
-      "progressStart": 0.2608695652173913,
-      "progressEnd": 0.30434782608695654,
-      "progressMidpoint": 0.2826086956521739
+      "progressStart": 0.23585044025348081,
+      "progressEnd": 0.28713746361545306,
+      "progressMidpoint": 0.26149395193446695
     },
     {
       "position": 8,
@@ -288,16 +288,16 @@
       "labels": [
         "post-crest-bridge"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 2520000,
-      "endMs": 2880000,
-      "midpointMs": 2700000,
+      "durationMs": 312076,
+      "durationSource": "spotify-metadata",
+      "startMs": 2327768,
+      "endMs": 2639844,
+      "midpointMs": 2483806,
       "spotifyUrl": "https://open.spotify.com/track/1LwX0cMaE8susTOodWCMAy",
       "protected": false,
-      "progressStart": 0.30434782608695654,
-      "progressEnd": 0.34782608695652173,
-      "progressMidpoint": 0.32608695652173914
+      "progressStart": 0.28713746361545306,
+      "progressEnd": 0.3256330143298095,
+      "progressMidpoint": 0.30638523897263126
     },
     {
       "position": 9,
@@ -315,16 +315,16 @@
       "labels": [
         "re-entry"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 2880000,
-      "endMs": 3240000,
-      "midpointMs": 3060000,
+      "durationMs": 353428,
+      "durationSource": "spotify-metadata",
+      "startMs": 2639844,
+      "endMs": 2993272,
+      "midpointMs": 2816558,
       "spotifyUrl": "https://open.spotify.com/track/5nfyNPgR6kxvdFQ66PIeEB",
       "protected": false,
-      "progressStart": 0.34782608695652173,
-      "progressEnd": 0.391304347826087,
-      "progressMidpoint": 0.3695652173913043
+      "progressStart": 0.3256330143298095,
+      "progressEnd": 0.36922946358535486,
+      "progressMidpoint": 0.3474312389575822
     },
     {
       "position": 10,
@@ -342,16 +342,16 @@
       "labels": [
         "deeper-crest"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 3240000,
-      "endMs": 3600000,
-      "midpointMs": 3420000,
+      "durationMs": 304736,
+      "durationSource": "spotify-metadata",
+      "startMs": 2993272,
+      "endMs": 3298008,
+      "midpointMs": 3145640,
       "spotifyUrl": "https://open.spotify.com/track/0XQ53FHMmonh9WD6DWVZVb",
       "protected": false,
-      "progressStart": 0.391304347826087,
-      "progressEnd": 0.43478260869565216,
-      "progressMidpoint": 0.41304347826086957
+      "progressStart": 0.36922946358535486,
+      "progressEnd": 0.40681960234158776,
+      "progressMidpoint": 0.38802453296347134
     },
     {
       "position": 11,
@@ -369,16 +369,16 @@
       "labels": [
         "release-hinge"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 3600000,
-      "endMs": 3960000,
-      "midpointMs": 3780000,
+      "durationMs": 345428,
+      "durationSource": "spotify-metadata",
+      "startMs": 3298008,
+      "endMs": 3643436,
+      "midpointMs": 3470722,
       "spotifyUrl": "https://open.spotify.com/track/4Np2wuMWF99jigxD5pyOwh",
       "protected": false,
-      "progressStart": 0.43478260869565216,
-      "progressEnd": 0.4782608695652174,
-      "progressMidpoint": 0.45652173913043476
+      "progressStart": 0.40681960234158776,
+      "progressEnd": 0.4494292265746551,
+      "progressMidpoint": 0.42812441445812144
     },
     {
       "position": 12,
@@ -396,16 +396,16 @@
       "labels": [
         "release"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 3960000,
-      "endMs": 4320000,
-      "midpointMs": 4140000,
+      "durationMs": 298280,
+      "durationSource": "spotify-metadata",
+      "startMs": 3643436,
+      "endMs": 3941716,
+      "midpointMs": 3792576,
       "spotifyUrl": "https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf",
       "protected": false,
-      "progressStart": 0.4782608695652174,
-      "progressEnd": 0.5217391304347826,
-      "progressMidpoint": 0.5
+      "progressStart": 0.4494292265746551,
+      "progressEnd": 0.4862229975377482,
+      "progressMidpoint": 0.46782611205620167
     },
     {
       "position": 13,
@@ -423,16 +423,16 @@
       "labels": [
         "release-extension"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 4320000,
-      "endMs": 4680000,
-      "midpointMs": 4500000,
+      "durationMs": 340588,
+      "durationSource": "spotify-metadata",
+      "startMs": 3941716,
+      "endMs": 4282304,
+      "midpointMs": 4112010,
       "spotifyUrl": "https://open.spotify.com/track/0MYV5AFY0KOXA5QeJFcNCs",
       "protected": false,
-      "progressStart": 0.5217391304347826,
-      "progressEnd": 0.5652173913043478,
-      "progressMidpoint": 0.5434782608695652
+      "progressStart": 0.4862229975377482,
+      "progressEnd": 0.5282355926322163,
+      "progressMidpoint": 0.5072292950849823
     },
     {
       "position": 14,
@@ -450,16 +450,16 @@
       "labels": [
         "psychological-threshold"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 4680000,
-      "endMs": 5040000,
-      "midpointMs": 4860000,
+      "durationMs": 378287,
+      "durationSource": "spotify-metadata",
+      "startMs": 4282304,
+      "endMs": 4660591,
+      "midpointMs": 4471447.5,
       "spotifyUrl": "https://open.spotify.com/track/67G0MRoqW60mlqLbWd14Wo",
       "protected": false,
-      "progressStart": 0.5652173913043478,
-      "progressEnd": 0.6086956521739131,
-      "progressMidpoint": 0.5869565217391305
+      "progressStart": 0.5282355926322163,
+      "progressEnd": 0.5748984772919844,
+      "progressMidpoint": 0.5515670349621004
     },
     {
       "position": 15,
@@ -477,16 +477,16 @@
       "labels": [
         "re-entry"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 5040000,
-      "endMs": 5400000,
-      "midpointMs": 5220000,
+      "durationMs": 327625,
+      "durationSource": "spotify-metadata",
+      "startMs": 4660591,
+      "endMs": 4988216,
+      "midpointMs": 4824403.5,
       "spotifyUrl": "https://open.spotify.com/track/4CDWLgMhxOo57uppdRR690",
       "protected": false,
-      "progressStart": 0.6086956521739131,
-      "progressEnd": 0.6521739130434783,
-      "progressMidpoint": 0.6304347826086957
+      "progressStart": 0.5748984772919844,
+      "progressEnd": 0.6153120457906547,
+      "progressMidpoint": 0.5951052615413195
     },
     {
       "position": 16,
@@ -504,16 +504,16 @@
       "labels": [
         "summit-approach"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 5400000,
-      "endMs": 5760000,
-      "midpointMs": 5580000,
+      "durationMs": 303884,
+      "durationSource": "spotify-metadata",
+      "startMs": 4988216,
+      "endMs": 5292100,
+      "midpointMs": 5140158,
       "spotifyUrl": "https://open.spotify.com/track/4EL0YgpfQs5x51JgPy5292",
       "protected": false,
-      "progressStart": 0.6521739130434783,
-      "progressEnd": 0.6956521739130435,
-      "progressMidpoint": 0.6739130434782609
+      "progressStart": 0.6153120457906547,
+      "progressEnd": 0.6527970876819936,
+      "progressMidpoint": 0.6340545667363242
     },
     {
       "position": 17,
@@ -532,16 +532,16 @@
         "main-summit",
         "discussion-region"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 5760000,
-      "endMs": 6120000,
-      "midpointMs": 5940000,
+      "durationMs": 357246,
+      "durationSource": "spotify-metadata",
+      "startMs": 5292100,
+      "endMs": 5649346,
+      "midpointMs": 5470723,
       "spotifyUrl": "https://open.spotify.com/track/3RHjzsJWvCWfrp0QCZHUA2",
       "protected": false,
-      "progressStart": 0.6956521739130435,
-      "progressEnd": 0.7391304347826086,
-      "progressMidpoint": 0.717391304347826
+      "progressStart": 0.6527970876819936,
+      "progressEnd": 0.6968644991795166,
+      "progressMidpoint": 0.6748307934307551
     },
     {
       "position": 18,
@@ -560,16 +560,16 @@
         "summit-exit-hinge",
         "discussion-region"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 6120000,
-      "endMs": 6480000,
-      "midpointMs": 6300000,
+      "durationMs": 414388,
+      "durationSource": "spotify-metadata",
+      "startMs": 5649346,
+      "endMs": 6063734,
+      "midpointMs": 5856540,
       "spotifyUrl": "https://open.spotify.com/track/2gS1RkrHYJiCiPYk8emz0E",
       "protected": false,
-      "progressStart": 0.7391304347826086,
-      "progressEnd": 0.782608695652174,
-      "progressMidpoint": 0.7608695652173914
+      "progressStart": 0.6968644991795166,
+      "progressEnd": 0.7479805551063445,
+      "progressMidpoint": 0.7224225271429306
     },
     {
       "position": 19,
@@ -589,16 +589,16 @@
         "protected-ending",
         "discussion-region"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 6480000,
-      "endMs": 6840000,
-      "midpointMs": 6660000,
+      "durationMs": 352905,
+      "durationSource": "spotify-metadata",
+      "startMs": 6063734,
+      "endMs": 6416639,
+      "midpointMs": 6240186.5,
       "spotifyUrl": "https://open.spotify.com/track/0RQAFOhBjlcD09X62GmiCS",
       "protected": true,
-      "progressStart": 0.782608695652174,
-      "progressEnd": 0.8260869565217391,
-      "progressMidpoint": 0.8043478260869565
+      "progressStart": 0.7479805551063445,
+      "progressEnd": 0.7915124906760455,
+      "progressMidpoint": 0.769746522891195
     },
     {
       "position": 20,
@@ -617,16 +617,16 @@
         "decompression-bridge",
         "protected-ending"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 6840000,
-      "endMs": 7200000,
-      "midpointMs": 7020000,
+      "durationMs": 275876,
+      "durationSource": "spotify-metadata",
+      "startMs": 6416639,
+      "endMs": 6692515,
+      "midpointMs": 6554577,
       "spotifyUrl": "https://open.spotify.com/track/31FaOVEATLY9PzDv8YPbaI",
       "protected": true,
-      "progressStart": 0.8260869565217391,
-      "progressEnd": 0.8695652173913043,
-      "progressMidpoint": 0.8478260869565217
+      "progressStart": 0.7915124906760455,
+      "progressEnd": 0.8255426581636889,
+      "progressMidpoint": 0.8085275744198671
     },
     {
       "position": 21,
@@ -645,16 +645,16 @@
         "focused-decompression",
         "protected-ending"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 7200000,
-      "endMs": 7560000,
-      "midpointMs": 7380000,
+      "durationMs": 408480,
+      "durationSource": "spotify-metadata",
+      "startMs": 6692515,
+      "endMs": 7100995,
+      "midpointMs": 6896755,
       "spotifyUrl": "https://open.spotify.com/track/6mNUIvYYV5JJVlusXEzLw6",
       "protected": true,
-      "progressStart": 0.8695652173913043,
-      "progressEnd": 0.9130434782608695,
-      "progressMidpoint": 0.8913043478260869
+      "progressStart": 0.8255426581636889,
+      "progressEnd": 0.8759299438114168,
+      "progressMidpoint": 0.8507363009875528
     },
     {
       "position": 22,
@@ -673,16 +673,16 @@
         "deep-decompression",
         "protected-ending"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 7560000,
-      "endMs": 7920000,
-      "midpointMs": 7740000,
+      "durationMs": 450742,
+      "durationSource": "spotify-metadata",
+      "startMs": 7100995,
+      "endMs": 7551737,
+      "midpointMs": 7326366,
       "spotifyUrl": "https://open.spotify.com/track/6lUBGdd9KgbFl7E5GSlm2z",
       "protected": true,
-      "progressStart": 0.9130434782608695,
-      "progressEnd": 0.9565217391304348,
-      "progressMidpoint": 0.9347826086956522
+      "progressStart": 0.8759299438114168,
+      "progressEnd": 0.9315303793466404,
+      "progressMidpoint": 0.9037301615790286
     },
     {
       "position": 23,
@@ -701,16 +701,16 @@
         "closer",
         "protected-ending"
       ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 7920000,
-      "endMs": 8280000,
-      "midpointMs": 8100000,
+      "durationMs": 555070,
+      "durationSource": "spotify-metadata",
+      "startMs": 7551737,
+      "endMs": 8106807,
+      "midpointMs": 7829272,
       "spotifyUrl": "https://open.spotify.com/track/15QxVy6d8RrbPKmsYyuVbT",
       "protected": true,
-      "progressStart": 0.9565217391304348,
+      "progressStart": 0.9315303793466404,
       "progressEnd": 1,
-      "progressMidpoint": 0.9782608695652174
+      "progressMidpoint": 0.9657651896733203
     }
   ],
   "transitions": [
@@ -957,7 +957,5 @@
       "bpm": 138
     }
   ],
-  "warnings": [
-    "Spotify track metadata failed (403). Elapsed time uses fallback durations."
-  ]
+  "warnings": []
 }
