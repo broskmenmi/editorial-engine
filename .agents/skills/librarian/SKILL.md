@@ -1,80 +1,103 @@
 ---
 name: librarian
-description: Persist approved playlist decisions in GitHub by maintaining the canonical ledger, discoveries log, rejected list, revisit queue, accepted-track review queue, and structural notes. Use only after audit approval.
+description: Persist approved playlist decisions in GitHub by maintaining the canonical ledger, discoveries log, rejected list, revisit queue, listener-feedback discussions, and structural notes. Use only after audit approval.
 ---
 
 # Librarian
 
-## Responsibilities
-1. Use the frozen three-candidate `scout-data.json` snapshot already approved by the Auditor. Do not rerun Scout or candidate resolution.
-2. Update `ledger.md` with all approved ADD, REMOVE, REPLACE, and REORDER decisions in canonical listening order.
-3. Every ledger row must contain the exact verified Spotify URI `spotify:track:<22-character-id>`.
-4. Every ledger row must contain verified BPM when reliable metadata is available.
-5. Refuse to persist an ADD whose Spotify URI is missing, malformed, ambiguous, or duplicated.
-6. Treat row order as publication order and renumber all rows consecutively after insertions, removals, or reordering.
-7. Recalculate and review the complete adjacent BPM trajectory whenever the ledger changes.
-8. Do not persist an opening transition above 4 BPM or any transition above 7 BPM without the Auditor's documented exception.
-9. Append the complete run to `discoveries.md`.
-10. Add REJECT decisions and durable reasons to `rejected.md`.
-11. Add or update REVISIT candidates and reassessment conditions in `revisit.md`.
-12. Mark inactive alternatives as PARKED so they are not resurfaced without new evidence.
-13. Open, update, and resolve genuine accepted-track cases in `under-review.md`.
-14. Update `notes.md` with the current structural need, evidence status, active reviews, and unresolved transition or attention defects.
-15. Preserve valid history; do not silently rewrite prior decisions.
-16. Prevent duplicate track URIs and keep numbering consistent.
+## Read first
+
+Read `feedback-protocol.md` and `under-review.md` before writing anything related to a user complaint.
+
+## Complaint persistence gate
+
+A complaint is not authorization to edit the playlist.
+
+When the user comments negatively but does not explicitly order an exact action:
+
+- preserve the exact wording in `under-review.md`;
+- set status to `AWAITING CLARIFICATION`;
+- record the current ledger state and affected region;
+- do not edit `ledger.md`;
+- do not publish Spotify;
+- do not add the track to `rejected.md`;
+- do not resolve the review;
+- do not add, remove, move, or replace any neighbour;
+- do not turn a proposed alternative placement into an active REVISIT candidate before the diagnosis is agreed.
+
+Repeated skipping, stress, dislike, and relief are strong evidence but do not bypass this gate unless the user explicitly orders removal or another exact change.
+
+Only these states authorize a ledger change:
+
+- `APPROVED — KEEP`
+- `APPROVED — MOVE`
+- `APPROVED — REPLACE`
+- `APPROVED — REMOVE`
+
+If a repair changes more than the complained-about track, persist it only after the user explicitly approved the named multi-track scope.
+
+## Responsibilities after approval
+
+1. Use the frozen candidate snapshot approved by the Auditor; do not rerun Scout.
+2. Update `ledger.md` with approved ADD, REMOVE, REPLACE, and REORDER decisions.
+3. Require exact Spotify URI and verified BPM when available.
+4. Keep ledger row order equal to publication order and renumber consecutively.
+5. Recalculate the complete BPM trajectory.
+6. Append the run or feedback resolution to `discoveries.md`.
+7. Add durable REJECT decisions to `rejected.md` only after approval.
+8. Add or update external REVISIT candidates when appropriate.
+9. Maintain feedback discussions and resolutions in `under-review.md`.
+10. Update `notes.md` with current structure, frozen regions, and approved changes.
+11. Preserve history; do not silently rewrite prior decisions.
+12. Prevent duplicate URIs.
 
 ## Atomic editorial commit
 
-The approved editorial change set must be persisted as one logical unit.
+- Do not write partial approved changes.
+- Prepare complete contents first.
+- Use one logical editorial commit when possible.
+- Do not rerun earlier phases between file writes.
+- Do not modify scout request or snapshot after audit.
+- Publication-status bot commits are separate.
 
-- Do not write any persistent editorial file before audit approval.
-- Prepare the complete final contents of every changed file first.
-- Where GitHub tree/commit tools are available, write all changed editorial files in one batched commit and update the branch once.
-- Otherwise use the fewest possible writes, never rerun an earlier workflow phase between writes, and target one user-authored editorial commit.
-- Do not create intermediate commits whose only purpose is to queue, prepend, or repair parts of the same run.
-- After the editorial commit, do not modify `scout-request.json` or `scout-data.json`.
-- Publication-status bot commits are separate and do not count as editorial commits.
+Opening an `AWAITING CLARIFICATION` discussion may be persisted without changing the ledger. This is the only pre-approval editorial write allowed for a complaint.
 
 ## Relaxation-first persistence
 
-The Librarian must not turn uncertainty into user homework.
-
-- Never record mandatory A/B tests, rankings, or prescribed listening sessions as user obligations.
-- Do not place a track UNDER REVIEW merely because the user has not confirmed its role.
-- Do not let parked alternatives dominate future runs.
-- `MANUAL ACTION` may only describe unavoidable technical steps, never subjective listening.
-- Record provisional editorial roles internally and allow natural feedback to reopen them later.
+- Never record mandatory A/B tests, rankings, or prescribed listening sessions.
+- Clarifying questions belong in the conversation, not as user homework.
+- `MANUAL ACTION` is technical only.
+- Park alternatives when no approved action exists.
 
 ## Evidence persistence
 
-For every decisive claim in `discoveries.md` or `under-review.md`, distinguish:
+Distinguish:
 
-- **Measured evidence** — BPM, duration, identity, order, or lawful audio measurements.
-- **Craft convention** — a sequencing guide rather than a fact.
-- **Listener report** — preserve the user's wording as closely as possible.
-- **Editorial interpretation** — the intended role and current hypothesis.
+- **Measured evidence** — BPM, duration, identity, order, lawful audio measurements.
+- **Craft convention** — sequencing guidance.
+- **Listener report** — preserve wording closely.
+- **Editorial interpretation** — proposed role and hypothesis.
 
-Do not store speculative sonic descriptions as facts. When no direct listening or lawful audio evidence exists, write `unconfirmed listening hypothesis`.
+Do not store speculative sonic claims as facts.
 
-## Accepted-track review records
+## Feedback record fields
 
-Open a review only after actual user concern, a concrete objective defect, or new contradictory evidence.
+For each discussion, store:
 
-When an accepted track is genuinely questioned, `under-review.md` must record:
-
-- Artist and track
-- Exact Spotify URI
-- Current ledger position and role
-- Exact listener report or objective defect
-- Why the track was originally admitted
-- One concrete editorial question
-- Autonomous KEEP, MOVE, REPLACE, or REMOVE options
-- Status: `OPEN`, `PROVISIONAL KEEP`, `RESOLVED — KEEP`, `RESOLVED — MOVE`, `RESOLVED — REPLACE`, or `RESOLVED — REMOVE`
-- Resolution date and rationale
-
-Do not record a mandatory listening test. The track remains in `ledger.md` until an approved MOVE, REPLACE, or REMOVE decision occurs.
+- subject track or transition;
+- current ledger and Spotify state;
+- exact user wording;
+- original editorial role;
+- affected region;
+- clarification questions asked;
+- shared diagnosis when reached;
+- possible KEEP, MOVE, REPLACE, REMOVE options;
+- every track affected by a proposed wider repair;
+- approval state;
+- final resolution and date.
 
 ## Required ledger columns
+
 - `#`
 - `Artist`
 - `Track`
@@ -85,21 +108,17 @@ Do not record a mandatory listening test. The track remains in `ledger.md` until
 - `Added`
 
 ## Required run record
-- Date
-- Candidates, exact Spotify URIs, BPM, and verdicts
-- The candidate snapshot `runId`
-- Measured evidence, craft convention, listener evidence, and editorial interpretation
-- Placement and purpose for ADD
-- Removal, replacement, or reordering rationale
-- Adjacent BPM trajectory after the run
-- Attention-continuity risks where relevant
-- Internal uncertainty for critical roles
-- Reassessment condition for REVISIT that does not require user homework
-- PARKED status when no new evidence exists
-- Reason for REJECT
+
+- Date and candidate snapshot `runId`
+- Candidates, exact URIs, BPM, verdicts
+- Evidence map
+- Approved scope
+- Placement and purpose
+- Removal, replacement, or reorder rationale
+- BPM trajectory
+- Review state and resolution
 - Audit outcome
-- Canonical ledger after the run
-- Genuine active and resolved accepted-track reviews
+- Canonical order
 - Editorial note
 
-GitHub files are the persistent source of truth. A successful ledger commit triggers exact Spotify publication through the repository workflow; the Librarian never calls a generative playlist tool and never invokes the Scout after decisions are persisted.
+GitHub is the persistent source of truth. The Librarian never publishes through a generative playlist tool and never invokes Scout after decisions are persisted.
