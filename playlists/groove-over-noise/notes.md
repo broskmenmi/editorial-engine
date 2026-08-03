@@ -62,25 +62,36 @@ Every adjacent difference remains within 0–4 BPM. **Iruka → Percussion Work 
 21. **Deep decompression:** Haidou
 22. **Dissolution:** Calipso
 
-## Resolved summit-exit review
+## Session 4 placement reconsideration
 
-**RTNH — Session 4 - Original Mix has been replaced.**
+**RTNH — Session 4 - Original Mix** was correctly removed from the position directly after Iruka because the user experienced that handoff as abrupt.
 
-- **Listener report:** “Session 4 feels like it comes out abruptly after Alarico.”
-- **Original purpose:** begin the descent from Iruka before Interlynx.
-- **Resolution:** REPLACE with **Vakat — Percussion Work**.
-- **Measured repair:** 141 → 138 → 137 becomes 141 → 139 → 137, producing balanced -2/-2 BPM steps.
-- **Editorial hypothesis:** the longer replacement may allow a more patient summit exit, but attention continuity remains unconfirmed until natural listening feedback appears.
+The user has now explicitly asked whether the track could work elsewhere. The strongest measured relocation is:
 
-The direct listener report established the defect. The balanced BPM path supports the replacement but does not prove that the new handoff will feel right.
+`Iruka 141 → Percussion Work 139 → Session 4 138 → Interlynx 137`
+
+This places Session 4 after the new summit-exit hinge instead of asking it to create the exit itself. The BPM path becomes -2, -1, -1 rather than making Session 4 arrive directly after the summit.
+
+Why this is the strongest option:
+
+- Percussion Work handles the immediate change after Iruka.
+- Session 4 would join the descent only after it has already begun.
+- Interlynx remains the next protected stage.
+- No protected opening or closing anchor is touched.
+
+Remaining uncertainty:
+
+- Session 4 may duplicate Interlynx's release-continuation function.
+- Its entrance could still feel abrupt after Percussion Work; metadata cannot answer that.
+- Other numerically valid positions either duplicate existing roles, create small tempo sawtooths, or interfere with protected sections.
+
+Session 4 is therefore reopened in `revisit.md` for this exact placement. It has not been restored to the ledger or Spotify yet.
 
 ## Current assessment
 
 The dominant summit remains **Alarico — Iruka**. Percussion Work now begins the long descent without changing **Interlynx → Minimum → Eclipse → Haidou → Calipso**.
 
-**Vakat — Looking For Solution** and **Vakat — Devotion** were rejected for this role because they duplicate the repair at 140 BPM without stronger evidence than the approved 139 BPM option.
-
-There are no active accepted-track reviews.
+There are no active accepted-track reviews. Session 4 is an external REVISIT candidate for one later decompression position, not an accepted track under review.
 
 ## Protected ending
 
@@ -89,7 +100,8 @@ There are no active accepted-track reviews.
 ## Next priority
 
 1. Preserve Deep Under → Wurk as an intact opening pair.
-2. Let Percussion Work remain a provisional summit decompression hinge.
-3. Preserve Iruka as the dominant summit.
-4. Preserve Interlynx → Minimum → Eclipse → Haidou → Calipso as the protected descent.
-5. Continue autonomous discovery outside protected anchors unless new listener evidence opens another defect.
+2. Preserve Iruka as the dominant summit.
+3. Keep Percussion Work directly after Iruka.
+4. Reconsider Session 4 only after Percussion Work and before Interlynx.
+5. Preserve Interlynx → Minimum → Eclipse → Haidou → Calipso as the protected descent.
+6. Continue autonomous discovery outside protected anchors unless new listener evidence opens another defect.
