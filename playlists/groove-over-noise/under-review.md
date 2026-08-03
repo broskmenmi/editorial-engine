@@ -1,33 +1,38 @@
-# GROOVE OVER NOISE — Accepted Tracks Under Review
+# GROOVE OVER NOISE — Listener Feedback and Tracks Under Review
 
-This file is for tracks already admitted to `ledger.md` whose place in the playlist is no longer settled because of actual listener feedback, a concrete objective defect, or new contradictory evidence.
+This file records collaborative discussions opened by actual listener feedback.
 
-`REVISIT` is for candidates outside the ledger. `UNDER REVIEW` is for accepted tracks that remain published while a real concern is resolved.
+`feedback-protocol.md` controls this file. A complaint is evidence, not authorization to change the playlist.
 
-## Review principles
+## Rules
 
-- A natural user complaint opens a review; it does not force immediate removal.
-- Preserve the listener's exact words before translating them into editorial language.
-- Explain why the track was admitted and compare that intended job with the actual listening experience.
-- BPM, key, duration, and other measurements may describe a transition but cannot prove that it feels right.
-- Do not claim to have heard Spotify audio when only metadata was available.
-- When the listener feels relieved because the track ends, treat that as strong negative evidence about the track or its placement.
-- Repeatedly pressing next is decisive behavioural evidence and resolves the review as REMOVE unless the user explicitly asks to keep discussing it.
-- Resolve each review as **KEEP**, **MOVE**, **REPLACE**, or **REMOVE**.
-- Do not open a review merely because the user has not confirmed an editorial role.
-- Do not assign A/B tests, mandatory comparisons, or prescribed listening sessions.
-- The workflow should evaluate repairs autonomously and accept natural feedback whenever it appears.
-- Active reviews take priority only when there is actual negative evidence or a concrete defect; they do not automatically freeze unrelated growth.
+- Preserve the user's exact words.
+- Freeze the affected region while status is `AWAITING CLARIFICATION`.
+- Ask short questions before deciding KEEP, MOVE, REPLACE, or REMOVE.
+- Do not assign listening homework.
+- Do not change neighbours or add a bridge without naming the wider scope and receiving explicit approval.
+- Repeated skipping, stress, relief, dislike, and abruptness are strong evidence but do not automatically authorize removal.
 
-## Active reviews
+## Active discussions
 
-None.
+| Subject | Current playlist state | Listener evidence | Original role | Process issue | Frozen region | Status |
+|---|---|---|---|---|---|---|
+| RTNH — Session 4 - Original Mix / summit exit | Session 4 is currently outside the ledger. The published sequence is Alarico — Iruka → Vakat — Percussion Work → Stef Mendesidis — Interlynx. | “Session 4 feels like it comes out abruptly after Alarico.” The user later asked whether Session 4 could work somewhere else. | Session 4 was intended to begin the descent after Iruka. | The workflow prematurely interpreted the complaint as permission to replace Session 4 with Percussion Work before asking what felt abrupt. It later proposed restoring Session 4 after Percussion Work without first establishing whether the problem was the track, its entrance, or its position. | Iruka → Percussion Work → Interlynx, plus any proposed Session 4 placement in this area. | AWAITING CLARIFICATION — NO FURTHER PLAYLIST CHANGES |
+
+## Clarification still needed
+
+The conversation should determine:
+
+1. Whether the abruptness is mainly the first seconds of Session 4, the ending-to-beginning handoff from Iruka, or Session 4's whole character.
+2. Whether the user likes Session 4 once it has settled.
+3. Whether the preferred goal is to preserve and move Session 4 if possible, or to remove it if no natural placement exists.
+
+These are conversational questions answerable from memory, not prescribed listening tasks.
 
 ## Resolved reviews
 
 | Artist | Track | Original role | Listener evidence | Resolution | Date |
 |---|---|---|---|---|---|
-| RTNH | Session 4 - Original Mix | Summit decompression hinge | “Session 4 feels like it comes out abruptly after Alarico.” | REPLACE — Vakat — Percussion Work creates a measured 141 → 139 → 137 descent; its attention fit remains a provisional editorial hypothesis. | 2026-08-03 |
-| Coyu | Cachoeira | Percussive rise | “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.” | REMOVE — repeated skipping shows the track breaks immersion; no replacement is required because Ottagone 001 → Miss Perez remains compliant. | 2026-08-01 |
+| Coyu | Cachoeira | Percussive rise | “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.” | REMOVE — this was resolved before the clarification-first protocol was introduced; future repeated-skip reports require clarification unless removal is explicit. | 2026-08-01 |
 | Slam, Vril | Program - VRIL Remix | Pre-arrival threshold | “Too slow, too much house”; Rene Wise — Deep Under sets the tone of the rest of the playlist. | REMOVE — restore Deep Under as the protected opener. | 2026-07-31 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride — GLIA Remix | Second-wave re-entry | “Too much is happening”; stressful; relieved when it ends. | REPLACE — role retained, track replaced. | 2026-07-18 |
