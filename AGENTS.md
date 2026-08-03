@@ -28,6 +28,7 @@ Each playlist has its own directory under `playlists/<playlist-slug>/` containin
 - `rejected.md`
 - `revisit.md`
 - `under-review.md`
+- `feedback-protocol.md`
 - `notes.md`
 - `automation.md`
 - `spotify.json`
@@ -37,7 +38,23 @@ These Markdown paths are the canonical ChatGPT instruction and editorial-state p
 
 The playlist directory is persistent editorial state. The skill packages are generic and must operate on the target playlist directory supplied by the orchestrator.
 
-`revisit.md` is for candidates not yet admitted. `under-review.md` is for tracks already in the canonical ledger whose continued place or position is unresolved because of actual listener feedback, a concrete defect, or new contradictory evidence.
+`revisit.md` is for candidates not yet admitted. `under-review.md` is for listener-feedback discussions and accepted tracks whose continued place or position is unresolved.
+
+## Listener-feedback authority
+
+Before acting on any user complaint about a track or transition, read the target playlist's `feedback-protocol.md`.
+
+A complaint is evidence, not authorization to change Spotify.
+
+Unless the user explicitly orders an exact removal, movement, replacement, or reorder:
+
+- freeze the affected playlist region;
+- ask short clarifying questions first;
+- do not edit the ledger, reject the track, resolve the review, scout a replacement into that region, or publish a change;
+- summarize the shared diagnosis before proposing action;
+- obtain explicit approval before any repair that changes neighbouring or additional tracks.
+
+`feedback-protocol.md` overrides conflicting complaint, repeated-skip, repair-first, and relaxation-first instructions elsewhere in the repository.
 
 ## Candidate snapshot lifecycle
 
@@ -53,9 +70,11 @@ The playlist directory is persistent editorial state. The skill packages are gen
 The editorial engine exists to reduce the user's effort and stress around discovering music.
 
 - Never assign mandatory A/B comparisons, rankings, prescribed listening sessions, or subjective confirmation tasks.
+- Clarifying conversation after volunteered feedback is not homework; keep it short, plain, and answerable from memory.
 - Do not freeze playlist growth merely because the user has not confirmed a proposed role.
+- Do freeze the specific region named in an unresolved complaint until the clarification gate is complete.
 - Do not repeatedly resurface PARKED candidates while waiting for feedback.
-- Make the best available editorial decision, record uncertainty internally, and continue.
+- Make the best available editorial decision elsewhere, record uncertainty internally, and continue.
 - Natural listener feedback may reopen any accepted decision later.
 - `MANUAL ACTION` is reserved for unavoidable technical steps and must never contain listening homework.
 
