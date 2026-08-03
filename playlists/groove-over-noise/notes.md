@@ -20,10 +20,10 @@ Read `feedback-protocol.md` before acting on listener feedback.
 While a discussion is `AWAITING CLARIFICATION`:
 
 - freeze the affected region;
-- keep the ledger and Spotify unchanged;
+- keep that region's order and membership unchanged;
 - ask at most three short questions answerable from memory;
-- do not reject, restore, move, replace, remove, or add neighbouring tracks;
-- continue autonomous discovery only outside the frozen region.
+- do not reject, restore, move, replace, remove, or add neighbouring tracks there;
+- continue autonomous discovery elsewhere.
 
 ## Protected opener and handoff
 
@@ -36,41 +36,11 @@ While a discussion is `AWAITING CLARIFICATION`:
 
 Do not insert before Deep Under or between the protected pair without direct positive listener evidence.
 
-## Current canonical state
-
-The published summit area is:
-
-`Tenta Tiv 139 → Iruka 141 → Percussion Work 139 → Interlynx 137`
-
-**Session 4 is currently outside the ledger.**
-
-No new playlist change was made when its later placement was discussed. The proposal to put it after Percussion Work was only a proposal and is now paused.
-
-## Active Session 4 discussion
-
-**Exact original complaint:** “Session 4 feels like it comes out abruptly after Alarico.”
-
-**Current process correction:** The workflow replaced Session 4 with Percussion Work before asking what “abrupt” meant. That was premature.
-
-The affected region is frozen:
-
-`Iruka → Percussion Work → Interlynx`
-
-and any possible Session 4 placement around it.
-
-Before proposing a final repair, clarify:
-
-1. Is the abruptness mainly the first seconds of Session 4, the handoff from Iruka, or the whole track?
-2. Once Session 4 settles, does the user like the track itself?
-3. Should the preferred solution try to preserve and move Session 4 before considering removal?
-
-These are conversation prompts, not listening assignments.
-
 ## Current BPM trajectory
 
-`134 → 136 → 138 → 142 → 145 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
 
-Every current adjacent difference remains within 0–4 BPM. This does not resolve the Session 4 question because the complaint concerns felt continuity, not only BPM.
+Every adjacent difference remains within 0–4 BPM. **Two Glasses of Whisky → My Last Descent → Trail Of** now forms a 145 → 144 → 142 first-wave release.
 
 ## Current chapter map
 
@@ -79,23 +49,51 @@ Every current adjacent difference remains within 0–4 BPM. This does not resolv
 3. **Opening bridge:** Ottagone 001
 4. **First-wave rise and crest approach:** Miss Perez
 5. **First local crest:** Two Glasses of Whisky
-6. **First release:** Trail Of
-7. **Post-crest bridge:** Enlightenment
-8. **Second-wave re-entry:** F Track
-9. **Second crest:** Tragoidia
-10. **Second-wave release hinge:** Blind Spot
-11. **Second-wave release:** Bionic Jungle
-12. **Release extension:** AB01
-13. **Third-wave threshold:** Flowing
-14. **Third-wave re-entry:** Nasty Tool
-15. **Summit approach:** Tenta Tiv
-16. **Main summit:** Iruka
-17. **Current summit-exit hinge:** Percussion Work
-18. **Release continuation:** Interlynx
-19. **Decompression bridge:** Minimum
-20. **Focused decompression:** Eclipse
-21. **Deep decompression:** Haidou
-22. **Dissolution:** Calipso
+6. **First-wave release hinge, provisional:** My Last Descent
+7. **First release:** Trail Of
+8. **Post-crest bridge:** Enlightenment
+9. **Second-wave re-entry:** F Track
+10. **Second crest:** Tragoidia
+11. **Second-wave release hinge:** Blind Spot
+12. **Second-wave release:** Bionic Jungle
+13. **Release extension:** AB01
+14. **Third-wave threshold:** Flowing
+15. **Third-wave re-entry:** Nasty Tool
+16. **Summit approach:** Tenta Tiv
+17. **Main summit:** Iruka
+18. **Current summit-exit hinge:** Percussion Work
+19. **Release continuation:** Interlynx
+20. **Decompression bridge:** Minimum
+21. **Focused decompression:** Eclipse
+22. **Deep decompression:** Haidou
+23. **Dissolution:** Calipso
+
+## First-wave release addition
+
+**FENIM0RE, KYSH Records — My Last Descent** is added after **Two Glasses of Whisky** and before **Trail Of**.
+
+- **Measured placement:** 145 → 144 → 142 BPM.
+- **Source evidence:** the release notes describe restrained, hypnotic, minimal, groovy forward movement.
+- **Editorial interpretation:** it begins the first release before Trail Of continues it.
+- **Scope:** the relative order of every later track is unchanged.
+
+**Undersense** and **Activ** were rejected for this role. Their available descriptions emphasize energy-building, high drive, a glitch-driven banger, and a powerful hook—qualities that oppose the requested restrained release function.
+
+## Active Session 4 discussion
+
+The published summit area remains:
+
+`Tenta Tiv 139 → Iruka 141 → Percussion Work 139 → Interlynx 137`
+
+**Session 4 remains outside the ledger.**
+
+The affected region is still frozen while status is `AWAITING CLARIFICATION`. This run did not change its membership or relative order. Adding a track earlier in the playlist only shifted position numbers.
+
+Clarification still needs to establish:
+
+1. whether the abruptness was the first seconds of Session 4, the handoff from Iruka, or the whole track;
+2. whether the user likes Session 4 once it settles;
+3. whether preserving and moving it is preferred before removal.
 
 ## Protected ending
 
@@ -103,7 +101,8 @@ Every current adjacent difference remains within 0–4 BPM. This does not resolv
 
 ## Next priority
 
-1. Clarify the Session 4 complaint together before changing the frozen region.
-2. Do not restore Session 4 or remove Percussion Work yet.
-3. Preserve Deep Under → Wurk and the protected ending.
-4. Scheduled runs may work elsewhere but must leave the frozen summit-exit region untouched.
+1. Preserve Deep Under → Wurk.
+2. Let My Last Descent remain a provisional first-wave release hinge.
+3. Leave the frozen Session 4 region untouched until clarification.
+4. Preserve Iruka as the summit and the protected ending.
+5. Continue autonomous discovery only outside frozen or protected regions.
