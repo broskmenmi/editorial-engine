@@ -1,13 +1,13 @@
 ---
 name: librarian
-description: Persist approved playlist decisions in GitHub by maintaining the canonical ledger, discoveries log, rejected list, revisit queue, listener-feedback discussions, and structural notes. Use only after audit approval.
+description: Persist approved playlist decisions in GitHub by maintaining the canonical ledger, discoveries log, rejected list, revisit queue, listener-feedback discussions, structural notes, and journey-map annotations. Use only after audit approval.
 ---
 
 # Librarian
 
 ## Read first
 
-Read `feedback-protocol.md` and `under-review.md` before writing anything related to a user complaint.
+Read `feedback-protocol.md`, `under-review.md`, `journey-annotations.json`, and `journey-map-spec.md` before writing anything related to a user complaint or visualization state.
 
 ## Complaint persistence gate
 
@@ -18,6 +18,7 @@ When the user comments negatively but does not explicitly order an exact action:
 - preserve the exact wording in `under-review.md`;
 - set status to `AWAITING CLARIFICATION`;
 - record the current ledger state and affected region;
+- update `journey-annotations.json` only to mark the existing region frozen when needed;
 - do not edit `ledger.md`;
 - do not publish Spotify;
 - do not add the track to `rejected.md`;
@@ -48,17 +49,41 @@ If a repair changes more than the complained-about track, persist it only after 
 8. Add or update external REVISIT candidates when appropriate.
 9. Maintain feedback discussions and resolutions in `under-review.md`.
 10. Update `notes.md` with current structure, frozen regions, and approved changes.
-11. Preserve history; do not silently rewrite prior decisions.
-12. Prevent duplicate URIs.
+11. Update `journey-annotations.json` in the same approved change set whenever any track, chapter, story band, protected state, provisional state, or frozen region changes.
+12. Preserve history; do not silently rewrite prior decisions.
+13. Prevent duplicate URIs.
+
+## Journey-map annotation duties
+
+`journey-annotations.json` is editorial input. `journey-map.json` and `journey-map.svg` are generated outputs and must not be hand-edited.
+
+For every canonical ledger track, maintain exactly one annotation keyed by Spotify URI with:
+
+- `chapter`;
+- `storyBand`;
+- `status` — accepted, provisional, protected, or frozen;
+- plain labels describing its role.
+
+Rules:
+
+- Every ledger URI must have an annotation.
+- Remove an annotation when its track leaves the ledger, unless it remains as an external discussion candidate under `discussions`.
+- Story height is ordinal editorial interpretation, not measured audio energy.
+- BPM and duration remain separate measured data.
+- Mark the protected opener, protected handoffs, protected ending, and frozen discussion regions accurately.
+- Add newly approved tracks with provisional status unless positive listener evidence or an explicit rule supports protected status.
+- When a listener discussion opens, freeze the exact current region without changing its ledger membership.
+- When a discussion resolves, update or remove its map overlay in the same approved change set.
 
 ## Atomic editorial commit
 
 - Do not write partial approved changes.
 - Prepare complete contents first.
 - Use one logical editorial commit when possible.
+- Include `journey-annotations.json` in that logical change set whenever map state changes.
 - Do not rerun earlier phases between file writes.
 - Do not modify scout request or snapshot after audit.
-- Publication-status bot commits are separate.
+- Publication-status and generated-map bot commits are separate.
 
 Opening an `AWAITING CLARIFICATION` discussion may be persisted without changing the ledger. This is the only pre-approval editorial write allowed for a complaint.
 
@@ -76,7 +101,7 @@ Distinguish:
 - **Measured evidence** — BPM, duration, identity, order, lawful audio measurements.
 - **Craft convention** — sequencing guidance.
 - **Listener report** — preserve wording closely.
-- **Editorial interpretation** — proposed role and hypothesis.
+- **Editorial interpretation** — proposed role, chapter, story band, and hypothesis.
 
 Do not store speculative sonic claims as facts.
 
@@ -117,8 +142,9 @@ For each discussion, store:
 - Removal, replacement, or reorder rationale
 - BPM trajectory
 - Review state and resolution
+- Journey-map annotation change
 - Audit outcome
 - Canonical order
 - Editorial note
 
-GitHub is the persistent source of truth. The Librarian never publishes through a generative playlist tool and never invokes Scout after decisions are persisted.
+GitHub is the persistent source of truth. The Librarian never publishes through a generative playlist tool, never invokes Scout after decisions are persisted, and never hand-edits generated map outputs.
