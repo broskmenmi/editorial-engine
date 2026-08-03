@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-03T06:34:12.578Z",
-  "runId": "2026-08-03T08:36:00+02:00",
+  "generatedAt": "2026-08-03T09:38:10.824Z",
+  "runId": "2026-08-03T11:36:00+02:00",
   "target": {
-    "role": "summit-exit repair",
-    "position": "after Alarico — Iruka and before Stef Mendesidis — Interlynx",
+    "role": "first-wave post-crest release hinge",
+    "position": "after Maeksll — Two Glasses of Whisky and before Altinbas — Trail Of",
     "neighbours": [
       {
-        "artist": "Alarico",
-        "track": "Iruka",
-        "bpm": 141
+        "artist": "Maeksll",
+        "track": "Two Glasses of Whisky",
+        "bpm": 145
       },
       {
-        "artist": "Stef Mendesidis",
-        "track": "Interlynx",
-        "bpm": 137
+        "artist": "Altinbas",
+        "track": "Trail Of",
+        "bpm": 142
       }
     ],
-    "purpose": "replace the abrupt Session 4 summit exit"
+    "purpose": "lengthen the first release outside the frozen summit region"
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
@@ -25,72 +25,75 @@
   "warnings": [],
   "candidates": [
     {
-      "id": "2gS1RkrHYJiCiPYk8emz0E",
-      "uri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
-      "name": "Percussion Work",
+      "id": "4ZURjKKzTjVtOEYbE7p14Q",
+      "uri": "spotify:track:4ZURjKKzTjVtOEYbE7p14Q",
+      "name": "My Last Descent",
       "artists": [
-        "Vakat"
+        "FENIM0RE",
+        "KYSH Records"
       ],
-      "album": "Looking For Solution",
-      "releaseDate": "2026-06-26",
-      "durationMs": 414388,
-      "spotifyUrl": "https://open.spotify.com/track/2gS1RkrHYJiCiPYk8emz0E",
-      "bpm": 139,
+      "album": "KYSH-002",
+      "releaseDate": "2026-06-12",
+      "durationMs": 322000,
+      "spotifyUrl": "https://open.spotify.com/track/4ZURjKKzTjVtOEYbE7p14Q",
+      "bpm": 144,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26",
+      "discoverySource": "KYSH Records release dated 2026-06-12",
       "requestedIdentity": {
-        "artist": "Vakat",
-        "track": "Percussion Work",
-        "releaseDate": "2026-06-26",
-        "bpm": 139,
+        "artist": "FENIM0RE",
+        "track": "My Last Descent",
+        "album": "KYSH-002",
+        "spotifyAlbumId": "0BAz4Wy4KbuyqCu0jtDkIb",
+        "bpm": 144,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Non Series release dated 2026-06-26"
+        "discoverySource": "KYSH Records release dated 2026-06-12"
       }
     },
     {
-      "id": "0JG6umMExvitYDjmnZ1KaB",
-      "uri": "spotify:track:0JG6umMExvitYDjmnZ1KaB",
-      "name": "Looking For Solution",
+      "id": "2JSu2yhFHyXX6aiyOFDniT",
+      "uri": "spotify:track:2JSu2yhFHyXX6aiyOFDniT",
+      "name": "Undersense",
       "artists": [
-        "Vakat"
+        "Axel Karakasis"
       ],
-      "album": "Looking For Solution",
-      "releaseDate": "2026-06-26",
-      "durationMs": 385714,
-      "spotifyUrl": "https://open.spotify.com/track/0JG6umMExvitYDjmnZ1KaB",
-      "bpm": 140,
+      "album": "No Contour",
+      "releaseDate": "2026-05-29",
+      "durationMs": 324335,
+      "spotifyUrl": "https://open.spotify.com/track/2JSu2yhFHyXX6aiyOFDniT",
+      "bpm": 143,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26",
+      "discoverySource": "Remain Records release dated 2026-05-29",
       "requestedIdentity": {
-        "artist": "Vakat",
-        "track": "Looking For Solution",
-        "releaseDate": "2026-06-26",
-        "bpm": 140,
+        "artist": "Axel Karakasis",
+        "track": "Undersense",
+        "spotifyTrackId": "2JSu2yhFHyXX6aiyOFDniT",
+        "bpm": 143,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Non Series release dated 2026-06-26"
+        "discoverySource": "Remain Records release dated 2026-05-29"
       }
     },
     {
-      "id": "3Oytb4gMa08wb1lRh7BL5E",
-      "uri": "spotify:track:3Oytb4gMa08wb1lRh7BL5E",
-      "name": "Devotion",
+      "id": "5yX7hVECoVPLygd3ElVhkt",
+      "uri": "spotify:track:5yX7hVECoVPLygd3ElVhkt",
+      "name": "Activ",
       "artists": [
-        "Vakat"
+        "Seigg",
+        "KYSH Records"
       ],
-      "album": "Looking For Solution",
-      "releaseDate": "2026-06-26",
-      "durationMs": 358285,
-      "spotifyUrl": "https://open.spotify.com/track/3Oytb4gMa08wb1lRh7BL5E",
-      "bpm": 140,
+      "album": "KYSH-002",
+      "releaseDate": "2026-06-12",
+      "durationMs": 314000,
+      "spotifyUrl": "https://open.spotify.com/track/5yX7hVECoVPLygd3ElVhkt",
+      "bpm": 143,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Non Series release dated 2026-06-26",
+      "discoverySource": "KYSH Records release dated 2026-06-12",
       "requestedIdentity": {
-        "artist": "Vakat",
-        "track": "Devotion",
-        "releaseDate": "2026-06-26",
-        "bpm": 140,
+        "artist": "Seigg",
+        "track": "Activ",
+        "spotifyTrackId": "5yX7hVECoVPLygd3ElVhkt",
+        "bpm": 143,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Non Series release dated 2026-06-26"
+        "discoverySource": "KYSH Records release dated 2026-06-12"
       }
     }
   ]
