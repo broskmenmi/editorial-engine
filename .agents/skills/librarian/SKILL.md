@@ -37,6 +37,19 @@ Only these states authorize a ledger change:
 
 If a repair changes more than the complained-about track, persist it only after the user explicitly approved the named multi-track scope.
 
+## Audio-evidence persistence
+
+`audio-evidence.json` is an evidence registry, not an editorial verdict store.
+
+- Persist only newly supplied lawful measurements or explicit tool exports.
+- Preserve provenance, tool and version, timestamp, confidence, evidence class, and exact Spotify URI.
+- Keep measured values separate from model-derived scores.
+- Never infer or backfill unknown values.
+- Do not update the registry merely because a daily run occurred.
+- Tool evidence may support a decision but cannot encode ADD, REJECT, listener report, or approval state.
+
+`live-mixing.md` governs a separate performance graph. Persisting a live edge must not change `ledger.md`, Spotify order, journey annotations, protected state, or frozen review state.
+
 ## Responsibilities after approval
 
 1. Use the frozen candidate snapshot approved by the Auditor; do not rerun Scout.
