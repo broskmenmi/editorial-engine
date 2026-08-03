@@ -1,6 +1,6 @@
 ---
 name: publisher
-description: Report exact Spotify publication status from repository state after the Librarian has persisted an audited ledger.
+description: Report exact Spotify publication status and append the current compact journey map after the Librarian has persisted an audited ledger.
 ---
 
 # Publisher
@@ -9,56 +9,100 @@ description: Report exact Spotify publication status from repository state after
 
 Spotify publication is performed by `.github/workflows/publish-spotify.yml` using only `apps/spotify-publisher/` and the Spotify Web API.
 
-The publication workflow must not run the Scout, rebuild candidate metadata, or modify `scout-request.json` or `scout-data.json`.
+Journey-map generation is performed separately by `.github/workflows/build-journey-map.yml` using `apps/journey-map/`.
+
+Neither workflow may run the Scout, rebuild candidate metadata, or modify `scout-request.json` or `scout-data.json`.
 
 The ChatGPT workflow must not:
 - search Spotify for the target playlist;
 - call generative playlist creation;
 - create, edit, or verify the canonical playlist through the ChatGPT Spotify connector;
 - infer synchronization from a playlist name or link;
-- rerun candidate discovery or resolution after the Librarian commits decisions.
+- rerun candidate discovery or resolution after the Librarian commits decisions;
+- hand-edit generated journey-map files.
 
 ## Repository inputs
 
 Read:
 - `ledger.md` — exact desired URI order;
 - `spotify.json` — persisted canonical playlist ID and ownership identity;
-- `spotify-status.json` — latest API publication and read-back verification result.
+- `spotify-status.json` — latest API publication and read-back verification result;
+- `journey-map.json` — latest generated Sites-ready map model;
+- `journey-map.svg` — compact visualization;
+- `journey-map-spec.md` — evidence and display boundaries.
 
 `scout-data.json` is not a publication-status source and must not be reread or rebuilt during this phase.
 
-## Status rules
+## Spotify status rules
 
-- **COMPLETE** — use only when `spotify-status.json.status` is `COMPLETE` and its `ledgerCommit` corresponds to the current ledger publication run.
-- **PARTIAL** — use when exact verification mismatched or when publication is still pending for the current ledger.
-- **MANUAL REQUIRED** — credentials, authorization, workflow execution, or another user-controlled technical prerequisite is unavailable; map internal `FAILED` requiring user intervention to this state.
+- **COMPLETE** — use only when `spotify-status.json.status` is `COMPLETE` and its ledger identity corresponds to the current canonical ledger.
+- **PARTIAL** — use when exact verification mismatched or publication is still pending.
+- **MANUAL REQUIRED** — credentials, authorization, workflow execution, or another user-controlled technical prerequisite is unavailable.
 
 Never claim success from a successful ledger commit alone. Exact URI count and exact position-by-position read-back are required.
+
+## Journey-map currency
+
+Treat the compact map as current only when:
+
+- `journey-map.json.tracks[].uri` exactly equals the ledger URI order; and
+- the generated track count equals the ledger track count.
+
+When current, append this image immediately after the one-sentence `EDITORIAL NOTE`, without adding a sixth numbered section:
+
+```markdown
+![GROOVE OVER NOISE journey map](https://raw.githubusercontent.com/broskmenmi/editorial-engine/main/playlists/groove-over-noise/journey-map.svg)
+```
+
+When stale or absent, write:
+
+```text
+Journey map updating
+```
+
+Do not embed a stale visualization and do not fail the editorial run because map generation is pending.
+
+## Evidence boundary
+
+The compact map contains:
+
+- editorial story height;
+- measured BPM;
+- elapsed time from Spotify duration metadata when available;
+- protected, provisional, accepted, and frozen states.
+
+Never describe editorial story height as measured energy, loudness, mood, waveform analysis, or scientific intensity.
 
 ## Bounded finalization
 
 The user-facing response is more important than prolonged status polling.
 
-- Read `spotify-status.json` once after a reasonable bounded wait when available.
-- Do not continuously poll GitHub Actions or the status file.
-- If status is stale but no user action is required, report `PARTIAL — publication pending` and finish the response.
-- Do not mark the scheduled task failed merely because the publisher has not finished.
-- Do not suppress the final response because a non-authoritative cache, scout file, or secondary workflow failed.
-- A later Action or the next editorial run may report COMPLETE.
+- Read `spotify-status.json` and `journey-map.json` once after a reasonable bounded wait.
+- Do not continuously poll GitHub Actions or either file.
+- If Spotify status is stale and no user action is required, report `PARTIAL — publication pending` and finish.
+- If the map is stale, write `Journey map updating` and finish.
+- Do not mark the scheduled task failed merely because either workflow has not finished.
+- Do not suppress the final response because a non-authoritative cache, scout file, or map workflow failed.
+- A later Action or the next editorial run may report the completed state.
 
 ## Manual output
 
 Include `MANUAL ACTION` only when the user must perform an unavoidable technical step. For API setup failures, state the exact missing setup step.
 
-Do not instruct the user to manually maintain track order when the API publisher is configured and merely pending. Never put listening tasks in `MANUAL ACTION`.
+Do not instruct the user to manually maintain track order or build the map when configured workflows are merely pending. Never put listening tasks in `MANUAL ACTION`.
 
 ## Links
 
 Only link:
-- the canonical playlist URL stored in `spotify-status.json`; and
-- the three candidate track links.
+- the canonical playlist URL stored in `spotify-status.json`;
+- the three candidate track links; and
+- the generated compact journey-map image.
 
 Never surface broad Spotify search results or unrelated playlists.
+
+## Detailed Site
+
+`sites-prompt.md` is the future ChatGPT Sites build brief. Do not deploy a temporary substitute website. The detailed Site remains `SITES_READY_NOT_DEPLOYED` until Sites is available to the user.
 
 ## Playback note
 
