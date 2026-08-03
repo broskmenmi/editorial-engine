@@ -37,6 +37,9 @@ Each playlist has its own directory under `playlists/<playlist-slug>/` containin
 - `journey-map.json`
 - `journey-map.svg`
 - `journey-map-spec.md`
+- `audio-evidence.md`
+- `audio-evidence.json`
+- `live-mixing.md`
 - `sites-prompt.md`
 
 These Markdown and JSON paths are the canonical ChatGPT instruction, editorial-state, and visualization paths. Do not relocate them when adding runtime applications or automation.
@@ -69,6 +72,19 @@ Unless the user explicitly orders an exact removal, movement, replacement, or re
 - After audit approval, do not rerun Scout, rewrite the request, or regenerate the candidate snapshot.
 - The Publisher only publishes the canonical ledger. It never invokes `apps/spotify-scout/` and never modifies scout files.
 - `scout-data.json` is diagnostic evidence. It cannot override the audited ledger or suppress the final response.
+
+## Audio-aware compatibility
+
+The editorial engine asks two different questions:
+
+1. **Playlist belonging** — does the track belong anywhere in the playlist's artistic world?
+2. **Neighbour compatibility** — does it work in this exact position between these neighbours?
+
+A track may pass belonging and fail a proposed placement. Evaluate and record both questions separately.
+
+Lawful audio-derived measurements and model outputs are stored under the target playlist's `audio-evidence.json` contract defined by `audio-evidence.md`. Every field requires provenance, tool/version, timestamp, confidence, and evidence class. DJOID, rekordbox, or another analyser may contribute evidence, but its scores never become listener report and never outrank the constitution or volunteered listener experience. Missing audio evidence remains unknown and must never be invented.
+
+Live mixing is a separate performance layer governed by `live-mixing.md`. Its transition graph may offer several exits from a track, but it must not alter the canonical ordered-listening ledger, Spotify order, journey annotations, or frozen review regions unless the user separately authorizes an editorial change.
 
 ## Journey-map lifecycle
 
