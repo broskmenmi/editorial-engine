@@ -1,38 +1,38 @@
 {
-  "runId": "2026-08-02T08:25:14+02:00",
+  "runId": "2026-08-03T08:30:44+02:00",
   "target": {
-    "role": "third-wave summit approach",
-    "position": "after Arkan — Nasty Tool and before Alarico — Iruka",
+    "role": "summit-exit repair",
+    "position": "after Alarico — Iruka and before Stef Mendesidis — Interlynx",
     "neighbours": [
-      { "artist": "Arkan", "track": "Nasty Tool", "bpm": 138 },
-      { "artist": "Alarico", "track": "Iruka", "bpm": 141 }
+      { "artist": "Alarico", "track": "Iruka", "bpm": 141 },
+      { "artist": "Stef Mendesidis", "track": "Interlynx", "bpm": 137 }
     ],
-    "purpose": "test a distinct approach without diluting the summit"
+    "purpose": "replace the abrupt Session 4 summit exit"
   },
   "candidates": [
     {
-      "artist": "Sandro Galli",
-      "track": "Extra Dimension",
-      "releaseDate": "2026-07-24",
-      "bpm": 137,
-      "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Gynoid Audio release dated 2026-07-24"
-    },
-    {
-      "artist": "Sandro Galli",
-      "track": "Grid Collapse",
-      "releaseDate": "2026-07-24",
-      "bpm": 140,
-      "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Gynoid Audio release dated 2026-07-24"
-    },
-    {
-      "artist": "ElectroExeL",
-      "track": "Tenta Tiv",
-      "releaseDate": "2026-07-22",
+      "artist": "Vakat",
+      "track": "Percussion Work",
+      "releaseDate": "2026-06-26",
       "bpm": 139,
       "bpmSource": "Beatport exact track metadata",
-      "discoverySource": "Urban Kickz Recordings release dated 2026-07-22"
+      "discoverySource": "Non Series release dated 2026-06-26"
+    },
+    {
+      "artist": "Hertz, Wehbba",
+      "track": "Cortex",
+      "releaseDate": "2026-06-26",
+      "bpm": 138,
+      "bpmSource": "Beatport exact track metadata",
+      "discoverySource": "Sway release dated 2026-06-26"
+    },
+    {
+      "artist": "Jnks",
+      "track": "Ember",
+      "releaseDate": "2026-06-05",
+      "bpm": 139,
+      "bpmSource": "Beatport exact track metadata",
+      "discoverySource": "Self Coded Records release dated 2026-06-05"
     }
   ]
 }
