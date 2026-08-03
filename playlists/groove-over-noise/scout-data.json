@@ -1,96 +1,306 @@
 {
-  "generatedAt": "2026-08-03T20:03:48.440Z",
-  "runId": "2026-08-03T22:03:23+02:00",
+  "generatedAt": "2026-08-03T22:10:27.031Z",
+  "runId": "2026-08-03T21:54:26Z-explore",
+  "mode": "EXPLORE",
   "target": {
-    "role": "second-wave release to main-wave threshold bridge",
-    "position": "after Vil — AB01 and before Decoder — Flowing",
-    "neighbours": [
-      {
-        "artist": "Vil",
-        "track": "AB01",
-        "bpm": 136
-      },
-      {
-        "artist": "Decoder",
-        "track": "Flowing",
-        "bpm": 138
-      }
-    ],
-    "purpose": "test whether the chapter boundary needs one distinct bridge"
+    "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
+    "position": "outside all frozen and protected regions; placement selected only after belonging",
+    "neighbours": [],
+    "purpose": "test whether fresh music or overlooked catalogue creates a meaningful new possibility without inventing a pre-existing gap"
+  },
+  "explorationReceipt": {
+    "timestamp": "2026-08-03T21:54:26Z",
+    "scope": "approximately 80 track listings across approximately 14 release and catalogue pages, followed by exact Spotify identity and BPM resolution",
+    "sourceFamilies": {
+      "currentReleases": [
+        "Mutual Rytm releases from May to July 2026",
+        "HAYES releases from May to July 2026",
+        "AURA, Ostgut Ton, Token, MindTrip and SK_Eleven releases"
+      ],
+      "adjacentAndEmerging": [
+        "Phil Berg, Deano (ZA), Bürt, Kaan Pirecioglu, Oisel and DJ Dextro",
+        "labels adjacent to VIL, Alarico, Altinbas and Rene Wise"
+      ],
+      "overlookedCatalogue": [
+        "Basic Channel",
+        "Fergus Sweetland and older HAYES catalogue",
+        "older Token compilations and Nørbak"
+      ]
+    },
+    "boundaries": "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso.",
+    "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report."
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 3,
-  "unresolved": [],
+  "resolvedCount": 2,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
+    {
+      "artist": "Deano (ZA)",
+      "track": "Kazoo (Stripped Version)",
+      "error": "direct Spotify track identity mismatch",
+      "requestedIdentity": {
+        "artist": "Deano (ZA)",
+        "track": "Kazoo (Stripped Version)",
+        "spotifyTrackId": "5ovrfaChUoqnedc5ZmUEvg",
+        "bpm": 136,
+        "bpmSource": "Volumo exact track metadata: https://volumo.com/track/6191412-kazoo-stripped-version",
+        "discoverySource": "Official HAYES release, 2026-05-08: https://hayescollective.bandcamp.com/album/kazoo",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Ottagone 001",
+            "incomingBpm": 136,
+            "candidateBpm": 136,
+            "outgoingBpm": 138,
+            "role": "opening groove-formation extension after the protected handoff"
+          }
+        ],
+        "fitHypothesis": "It may extend bodily trust after Wurk without making the opening feel like a new scene, but even a restrained extra stage may dilute the concise opening identity.",
+        "evidence": {
+          "measured": [
+            "136 BPM",
+            "5:17 duration",
+            "released 2026-05-08"
+          ],
+          "attributedDescription": "HAYES describes the release as a meeting of restraint and precision.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Deano (ZA)",
+        "track": "Kazoo (Stripped Version)",
+        "spotifyTrackId": "5ovrfaChUoqnedc5ZmUEvg",
+        "bpm": 136,
+        "bpmSource": "Volumo exact track metadata: https://volumo.com/track/6191412-kazoo-stripped-version",
+        "discoverySource": "Official HAYES release, 2026-05-08: https://hayescollective.bandcamp.com/album/kazoo",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Ottagone 001",
+            "incomingBpm": 136,
+            "candidateBpm": 136,
+            "outgoingBpm": 138,
+            "role": "opening groove-formation extension after the protected handoff"
+          }
+        ],
+        "fitHypothesis": "It may extend bodily trust after Wurk without making the opening feel like a new scene, but even a restrained extra stage may dilute the concise opening identity.",
+        "evidence": {
+          "measured": [
+            "136 BPM",
+            "5:17 duration",
+            "released 2026-05-08"
+          ],
+          "attributedDescription": "HAYES describes the release as a meeting of restraint and precision.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "error": "direct Spotify track identity mismatch"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "DJ Dextro",
+        "track": "Industria Acéfala",
+        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
+        "bpm": 140,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
+        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after Ottagone 001 and before Miss Perez",
+            "incomingBpm": 138,
+            "candidateBpm": 140,
+            "outgoingBpm": 142,
+            "role": "early first-wave groove-development stage before crest approach"
+          }
+        ],
+        "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "5:03 duration",
+            "released 2026-06-05"
+          ],
+          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "02cniEHoBnELxWX54JkDuF"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Basic Channel",
+        "track": "Octagon",
+        "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
+        "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Tragoidia",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "long-form second-wave immersion chamber before the deeper crest"
+          }
+        ],
+        "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
+        "evidence": {
+          "measured": [
+            "141 BPM",
+            "approximately 12:58 duration",
+            "original single released 1994"
+          ],
+          "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w"
+    }
+  ],
   "candidates": [
     {
-      "id": "3lu0fF7jjSx3Dcr1TljvkV",
-      "uri": "spotify:track:3lu0fF7jjSx3Dcr1TljvkV",
-      "name": "Crimson Delta",
+      "id": "02cniEHoBnELxWX54JkDuF",
+      "uri": "spotify:track:02cniEHoBnELxWX54JkDuF",
+      "name": "Industria Acéfala",
       "artists": [
-        "Blue Hour"
+        "DJ Dextro"
       ],
-      "album": "Selva",
-      "releaseDate": "2026-04-10",
-      "durationMs": 341279,
-      "spotifyUrl": "https://open.spotify.com/track/3lu0fF7jjSx3Dcr1TljvkV",
-      "bpm": 137,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Blue Hour release dated 2026-04-10",
+      "album": "Planets and Stars",
+      "releaseDate": "2026-06-05",
+      "durationMs": 303735,
+      "spotifyUrl": "https://open.spotify.com/track/02cniEHoBnELxWX54JkDuF",
+      "bpm": 140,
+      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
+      "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
+      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "proposedPlacements": [
+        {
+          "position": "after Ottagone 001 and before Miss Perez",
+          "incomingBpm": 138,
+          "candidateBpm": 140,
+          "outgoingBpm": 142,
+          "role": "early first-wave groove-development stage before crest approach"
+        }
+      ],
+      "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+      "evidence": {
+        "measured": [
+          "140 BPM",
+          "5:03 duration",
+          "released 2026-06-05"
+        ],
+        "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
       "requestedIdentity": {
-        "artist": "Blue Hour",
-        "track": "Crimson Delta",
-        "spotifyTrackId": "3lu0fF7jjSx3Dcr1TljvkV",
-        "bpm": 137,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Blue Hour release dated 2026-04-10"
+        "artist": "DJ Dextro",
+        "track": "Industria Acéfala",
+        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
+        "bpm": 140,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
+        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after Ottagone 001 and before Miss Perez",
+            "incomingBpm": 138,
+            "candidateBpm": 140,
+            "outgoingBpm": 142,
+            "role": "early first-wave groove-development stage before crest approach"
+          }
+        ],
+        "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "5:03 duration",
+            "released 2026-06-05"
+          ],
+          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
       }
     },
     {
-      "id": "2VMmEwXdIujvxqwx3Y1buA",
-      "uri": "spotify:track:2VMmEwXdIujvxqwx3Y1buA",
-      "name": "Close Contact",
+      "id": "0lbeEcQXDMou9NkShtfz9w",
+      "uri": "spotify:track:0lbeEcQXDMou9NkShtfz9w",
+      "name": "Octagon",
       "artists": [
-        "Chlär"
+        "Basic Channel"
       ],
-      "album": "Breakthrough",
-      "releaseDate": "2025-12-12",
-      "durationMs": 288546,
-      "spotifyUrl": "https://open.spotify.com/track/2VMmEwXdIujvxqwx3Y1buA",
-      "bpm": 137,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Primal Instinct release dated 2025-12-12",
-      "requestedIdentity": {
-        "artist": "Chlär",
-        "track": "Close Contact",
-        "spotifyTrackId": "2VMmEwXdIujvxqwx3Y1buA",
-        "bpm": 137,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Primal Instinct release dated 2025-12-12"
-      }
-    },
-    {
-      "id": "3wbwMycjChJ9Ergw9q7z3v",
-      "uri": "spotify:track:3wbwMycjChJ9Ergw9q7z3v",
-      "name": "Showtime",
-      "artists": [
-        "Shabaam"
+      "album": "Octagon",
+      "releaseDate": "1994",
+      "durationMs": 777340,
+      "spotifyUrl": "https://open.spotify.com/track/0lbeEcQXDMou9NkShtfz9w",
+      "bpm": 141,
+      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
+      "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
+      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "proposedPlacements": [
+        {
+          "position": "after F Track and before Tragoidia",
+          "incomingBpm": 140,
+          "candidateBpm": 141,
+          "outgoingBpm": 141,
+          "role": "long-form second-wave immersion chamber before the deeper crest"
+        }
       ],
-      "album": "The Party Is Not Over EP",
-      "releaseDate": "2026-03-13",
-      "durationMs": 285264,
-      "spotifyUrl": "https://open.spotify.com/track/3wbwMycjChJ9Ergw9q7z3v",
-      "bpm": 138,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Planet Rhythm release dated 2026-03-13",
+      "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
+      "evidence": {
+        "measured": [
+          "141 BPM",
+          "approximately 12:58 duration",
+          "original single released 1994"
+        ],
+        "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
       "requestedIdentity": {
-        "artist": "Shabaam",
-        "track": "Showtime",
-        "spotifyTrackId": "3wbwMycjChJ9Ergw9q7z3v",
-        "bpm": 138,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Planet Rhythm release dated 2026-03-13"
+        "artist": "Basic Channel",
+        "track": "Octagon",
+        "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
+        "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
+        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Tragoidia",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "long-form second-wave immersion chamber before the deeper crest"
+          }
+        ],
+        "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
+        "evidence": {
+          "measured": [
+            "141 BPM",
+            "approximately 12:58 duration",
+            "original single released 1994"
+          ],
+          "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
       }
     }
   ]
