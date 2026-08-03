@@ -44,9 +44,12 @@ jobs:
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- \
-            playlists/groove-over-noise/journey-map.json \
-            playlists/groove-over-noise/journey-map.svg; then
+          map_paths=(
+            playlists/groove-over-noise/journey-map.json
+            playlists/groove-over-noise/journey-map.svg
+          )
+
+          if [ -z "$(git status --porcelain -- "${map_paths[@]}")" ]; then
             exit 0
           fi
 
@@ -73,15 +76,11 @@ jobs:
             cp "$temp_dir/journey-map.json" playlists/groove-over-noise/journey-map.json
             cp "$temp_dir/journey-map.svg" playlists/groove-over-noise/journey-map.svg
 
-            if git diff --quiet -- \
-              playlists/groove-over-noise/journey-map.json \
-              playlists/groove-over-noise/journey-map.svg; then
+            if [ -z "$(git status --porcelain -- "${map_paths[@]}")" ]; then
               exit 0
             fi
 
-            git add \
-              playlists/groove-over-noise/journey-map.json \
-              playlists/groove-over-noise/journey-map.svg
+            git add "${map_paths[@]}"
             git commit -m "Update GROOVE OVER NOISE journey map [skip ci]"
 
             if git push origin HEAD:main; then
