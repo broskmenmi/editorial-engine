@@ -10,19 +10,22 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 1. `constitution.md`
 2. `feedback-protocol.md`
-3. `ledger.md`
-4. `journey-annotations.json`
-5. `journey-map-spec.md`
-6. `discoveries.md`
-7. `rejected.md`
-8. `revisit.md`
-9. `under-review.md`
-10. `notes.md`
-11. `spotify.json`
-12. `spotify-status.json`
-13. `journey-map.json` when present
-14. repository-level `AGENTS.md`
-15. the relevant skill packages under `.agents/skills/`
+3. `audio-evidence.md`
+4. `audio-evidence.json`
+5. `live-mixing.md`
+6. `ledger.md`
+7. `journey-annotations.json`
+8. `journey-map-spec.md`
+9. `discoveries.md`
+10. `rejected.md`
+11. `revisit.md`
+12. `under-review.md`
+13. `notes.md`
+14. `spotify.json`
+15. `spotify-status.json`
+16. `journey-map.json` when present
+17. repository-level `AGENTS.md`
+18. the relevant skill packages under `.agents/skills/`
 
 `feedback-protocol.md` overrides any conflicting complaint, repeated-skip, repair-first, or relaxation-first instruction.
 
@@ -32,9 +35,9 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 Execute:
 
-1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions, and identify objective defects.
-2. **Scout** — return exactly three candidates with exact Spotify track URIs and verified BPM.
-3. **Evaluator** — assign ADD, REVISIT, or REJECT.
+1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions and `audio-evidence.json`, and identify objective defects without treating missing audio evidence as failure.
+2. **Scout** — return exactly three candidates with exact Spotify track URIs and verified BPM; state whether each search targets playlist belonging, exact-neighbour compatibility, or both.
+3. **Evaluator** — answer playlist belonging and exact-neighbour compatibility separately, then assign ADD, REVISIT, or REJECT.
 4. **Sequencer** — place provisional additions or repairs.
 5. **Auditor** — approve, veto, or revise.
 6. **Librarian** — persist the approved state, including `journey-annotations.json` when the journey map changes.
@@ -102,6 +105,37 @@ Candidate resolution is a pre-audit input, not a publication step.
 - Do not rerun Scout after audit approval.
 - Spotify publication never executes the Scout or modifies scout files.
 - A new snapshot requires a new `runId` and a genuinely new run.
+
+## Audio-aware evidence lifecycle
+
+`audio-evidence.md` defines the contract and `audio-evidence.json` stores available evidence.
+
+- Accept only lawful audio analysis or explicit exports from identified tools.
+- Preserve source, tool/version, timestamp, confidence, and whether a value is measured or model-derived.
+- Never relabel DJOID or rekordbox “energy,” “emotion,” “danceability,” genre, similarity, or compatibility scores as listener report or objective truth.
+- Never infer missing values from metadata, artist, label, title, or genre.
+- Missing audio evidence is allowed and remains unknown.
+- Tool evidence may generate or rank candidates, but cannot bypass the Evaluator, Auditor, feedback gate, or user approval.
+- Update the registry only when genuinely new evidence is available; do not rewrite it during every daily run.
+
+## Compatibility gate
+
+For every candidate and placement, record two independent conclusions:
+
+1. **Playlist belonging:** belongs, uncertain, or does not belong.
+2. **Neighbour compatibility:** compatible, uncertain, or incompatible for the exact proposed incoming and outgoing transitions.
+
+A candidate cannot be ADD unless it belongs and has at least one auditable placement. A track that belongs but fails one slot may be considered elsewhere without being rejected from the playlist identity.
+
+## Live-mixing mode
+
+Live-mixing work follows `live-mixing.md` and is separate from the daily canonical editorial run.
+
+- Build a directed performance graph with multiple possible exits rather than one fixed order.
+- Use key, phrase, mix-region, rhythmic, spectral, vocal, and trajectory evidence only when present and sourced.
+- Preserve chapter intent and distinguish smooth continuation, pressure increase, release, reset, and emergency exit.
+- Never publish the live graph to Spotify or treat it as authorization to edit `ledger.md`.
+- Never route through a frozen region or alter a protected pair unless the user explicitly asks to design an exception.
 
 ## Journey-map lifecycle
 
@@ -268,4 +302,6 @@ The exact five-section format does not apply to the clarification conversation b
 
 ## Playback rule
 
-Optimize for an ordered listening journey, not live beatmatching. Bodily pulse and attention continuity matter. Mention Spotify Mix only when directly relevant.
+The canonical ledger optimizes for an ordered listening journey. Bodily pulse and attention continuity matter.
+
+Live beatmatching and harmonic alternatives belong to the separate performance graph governed by `live-mixing.md`. Neither conclusion silently overrides the other. Mention Spotify Mix, DJOID, or rekordbox only when directly relevant and label their outputs by evidence class.
