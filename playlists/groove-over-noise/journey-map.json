@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-03T22:05:03.829Z",
+  "generatedAt": "2026-08-03T22:20:32.193Z",
   "source": {
     "ledgerPath": "playlists/groove-over-noise/ledger.md",
     "annotationsPath": "playlists/groove-over-noise/journey-annotations.json",
-    "ledgerFingerprint": "7de06021fdf0b1b72eb9a4b923a6e4bd01ef3bf0a67c08569b0c4373deba0d34",
-    "annotationsFingerprint": "09ae5ae5475864dd16965cd5c37f6d4a8c59cac9925539b423f34aecfa01440a"
+    "ledgerFingerprint": "141e76c28fe396fd45a69c5c2ebd40847c20847d30978cc71b9ad63338a8a2fa",
+    "annotationsFingerprint": "c12153673588a8fccf620ef619da655614c557a5e2cc7f5faff54cc4996a841d"
   },
   "playlist": {
     "slug": "groove-over-noise",
@@ -18,9 +18,9 @@
     "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
-    "trackCount": 23,
-    "durationMs": 8106807,
-    "durationLabel": "2h 15m",
+    "trackCount": 24,
+    "durationMs": 8466807,
+    "durationLabel": "2h 21m",
     "bpmMin": 125,
     "bpmMax": 145,
     "latestAddedDate": "2026-08-03"
@@ -49,36 +49,36 @@
       "label": "Second wave",
       "order": 3,
       "startPosition": 9,
-      "endPosition": 13,
+      "endPosition": 14,
       "startMs": 2639844,
-      "endMs": 4282304
+      "endMs": 4642304
     },
     {
       "id": "main-wave",
       "label": "Main wave",
       "order": 4,
-      "startPosition": 14,
-      "endPosition": 17,
-      "startMs": 4282304,
-      "endMs": 5649346
+      "startPosition": 15,
+      "endPosition": 18,
+      "startMs": 4642304,
+      "endMs": 6009346
     },
     {
       "id": "decompression",
       "label": "Long decompression",
       "order": 5,
-      "startPosition": 18,
-      "endPosition": 22,
-      "startMs": 5649346,
-      "endMs": 7551737
+      "startPosition": 19,
+      "endPosition": 23,
+      "startMs": 6009346,
+      "endMs": 7911737
     },
     {
       "id": "dissolution",
       "label": "Dissolution",
       "order": 6,
-      "startPosition": 23,
-      "endPosition": 23,
-      "startMs": 7551737,
-      "endMs": 8106807
+      "startPosition": 24,
+      "endPosition": 24,
+      "startMs": 7911737,
+      "endMs": 8466807
     }
   ],
   "tracks": [
@@ -107,8 +107,8 @@
       "spotifyUrl": "https://open.spotify.com/track/0yI5YgKcF2mXo3NRlXS660",
       "protected": true,
       "progressStart": 0,
-      "progressEnd": 0.05031808454302662,
-      "progressMidpoint": 0.02515904227151331
+      "progressEnd": 0.04817861089782725,
+      "progressMidpoint": 0.024089305448913623
     },
     {
       "position": 2,
@@ -133,9 +133,9 @@
       "midpointMs": 573801,
       "spotifyUrl": "https://open.spotify.com/track/4N1qAnhFro9fQdBON4Aqxn",
       "protected": true,
-      "progressStart": 0.05031808454302662,
-      "progressEnd": 0.0912422116377015,
-      "progressMidpoint": 0.07078014809036406
+      "progressStart": 0.04817861089782725,
+      "progressEnd": 0.08736268583894731,
+      "progressMidpoint": 0.06777064836838728
     },
     {
       "position": 3,
@@ -160,9 +160,9 @@
       "midpointMs": 872726,
       "spotifyUrl": "https://open.spotify.com/track/2DMBWNzWBrjaYHPdSf7HQA",
       "protected": false,
-      "progressStart": 0.0912422116377015,
-      "progressEnd": 0.12406475200408743,
-      "progressMidpoint": 0.10765348182089446
+      "progressStart": 0.08736268583894731,
+      "progressEnd": 0.11878964525824198,
+      "progressMidpoint": 0.10307616554859465
     },
     {
       "position": 4,
@@ -188,9 +188,9 @@
       "midpointMs": 1176175,
       "spotifyUrl": "https://open.spotify.com/track/4cUXdWBPu6XxWhtQM8iyxc",
       "protected": false,
-      "progressStart": 0.12406475200408743,
-      "progressEnd": 0.16610497819918496,
-      "progressMidpoint": 0.1450848651016362
+      "progressStart": 0.11878964525824198,
+      "progressEnd": 0.15904236390412585,
+      "progressMidpoint": 0.13891600458118392
     },
     {
       "position": 5,
@@ -215,9 +215,9 @@
       "midpointMs": 1468287.5,
       "spotifyUrl": "https://open.spotify.com/track/1xbqhGI3Xgntoy56FA91D4",
       "protected": false,
-      "progressStart": 0.16610497819918496,
-      "progressEnd": 0.19613073309874035,
-      "progressMidpoint": 0.18111785564896266
+      "progressStart": 0.15904236390412585,
+      "progressEnd": 0.18779145432274527,
+      "progressMidpoint": 0.17341690911343557
     },
     {
       "position": 6,
@@ -242,9 +242,9 @@
       "midpointMs": 1750994,
       "spotifyUrl": "https://open.spotify.com/track/4ZURjKKzTjVtOEYbE7p14Q",
       "protected": false,
-      "progressStart": 0.19613073309874035,
-      "progressEnd": 0.23585044025348081,
-      "progressMidpoint": 0.21599058667611057
+      "progressStart": 0.18779145432274527,
+      "progressEnd": 0.22582232003162467,
+      "progressMidpoint": 0.20680688717718498
     },
     {
       "position": 7,
@@ -269,9 +269,9 @@
       "midpointMs": 2119881,
       "spotifyUrl": "https://open.spotify.com/track/1BLpNBx8502KRE2TommLp6",
       "protected": false,
-      "progressStart": 0.23585044025348081,
-      "progressEnd": 0.28713746361545306,
-      "progressMidpoint": 0.26149395193446695
+      "progressStart": 0.22582232003162467,
+      "progressEnd": 0.2749286714578471,
+      "progressMidpoint": 0.2503754957447359
     },
     {
       "position": 8,
@@ -296,9 +296,9 @@
       "midpointMs": 2483806,
       "spotifyUrl": "https://open.spotify.com/track/1LwX0cMaE8susTOodWCMAy",
       "protected": false,
-      "progressStart": 0.28713746361545306,
-      "progressEnd": 0.3256330143298095,
-      "progressMidpoint": 0.30638523897263126
+      "progressStart": 0.2749286714578471,
+      "progressEnd": 0.31178743060991,
+      "progressMidpoint": 0.2933580510338785
     },
     {
       "position": 9,
@@ -323,12 +323,40 @@
       "midpointMs": 2816558,
       "spotifyUrl": "https://open.spotify.com/track/5nfyNPgR6kxvdFQ66PIeEB",
       "protected": false,
-      "progressStart": 0.3256330143298095,
-      "progressEnd": 0.36922946358535486,
-      "progressMidpoint": 0.3474312389575822
+      "progressStart": 0.31178743060991,
+      "progressEnd": 0.35353020329859886,
+      "progressMidpoint": 0.3326588169542544
     },
     {
       "position": 10,
+      "artist": "Basic Channel",
+      "track": "Octagon",
+      "uri": "spotify:track:0lbeEcQXDMou9NkShtfz9w",
+      "bpm": 141,
+      "role": "Long-form second-wave immersion chamber",
+      "added": "2026-08-03",
+      "chapter": "second-wave",
+      "chapterOrder": 3,
+      "storyBand": "build",
+      "storyLevel": 4.2,
+      "status": "provisional",
+      "labels": [
+        "long-form-immersion",
+        "reduction-chamber"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 2993272,
+      "endMs": 3353272,
+      "midpointMs": 3173272,
+      "spotifyUrl": "https://open.spotify.com/track/0lbeEcQXDMou9NkShtfz9w",
+      "protected": false,
+      "progressStart": 0.35353020329859886,
+      "progressEnd": 0.3960491835942404,
+      "progressMidpoint": 0.37478969344641966
+    },
+    {
+      "position": 11,
       "artist": "Maeksll",
       "track": "Tragoidia",
       "uri": "spotify:track:0XQ53FHMmonh9WD6DWVZVb",
@@ -345,17 +373,17 @@
       ],
       "durationMs": 304736,
       "durationSource": "spotify-metadata",
-      "startMs": 2993272,
-      "endMs": 3298008,
-      "midpointMs": 3145640,
+      "startMs": 3353272,
+      "endMs": 3658008,
+      "midpointMs": 3505640,
       "spotifyUrl": "https://open.spotify.com/track/0XQ53FHMmonh9WD6DWVZVb",
       "protected": false,
-      "progressStart": 0.36922946358535486,
-      "progressEnd": 0.40681960234158776,
-      "progressMidpoint": 0.38802453296347134
+      "progressStart": 0.3960491835942404,
+      "progressEnd": 0.4320410279813866,
+      "progressMidpoint": 0.4140451057878135
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Red Rooms",
       "track": "Blind Spot",
       "uri": "spotify:track:4Np2wuMWF99jigxD5pyOwh",
@@ -372,17 +400,17 @@
       ],
       "durationMs": 345428,
       "durationSource": "spotify-metadata",
-      "startMs": 3298008,
-      "endMs": 3643436,
-      "midpointMs": 3470722,
+      "startMs": 3658008,
+      "endMs": 4003436,
+      "midpointMs": 3830722,
       "spotifyUrl": "https://open.spotify.com/track/4Np2wuMWF99jigxD5pyOwh",
       "protected": false,
-      "progressStart": 0.40681960234158776,
-      "progressEnd": 0.4494292265746551,
-      "progressMidpoint": 0.42812441445812144
+      "progressStart": 0.4320410279813866,
+      "progressEnd": 0.4728389344412835,
+      "progressMidpoint": 0.45243998121133505
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Marcal",
       "track": "Bionic Jungle",
       "uri": "spotify:track:0FuxLvhDsdGu6XpnxGQrAf",
@@ -399,17 +427,17 @@
       ],
       "durationMs": 298280,
       "durationSource": "spotify-metadata",
-      "startMs": 3643436,
-      "endMs": 3941716,
-      "midpointMs": 3792576,
+      "startMs": 4003436,
+      "endMs": 4301716,
+      "midpointMs": 4152576,
       "spotifyUrl": "https://open.spotify.com/track/0FuxLvhDsdGu6XpnxGQrAf",
       "protected": false,
-      "progressStart": 0.4494292265746551,
-      "progressEnd": 0.4862229975377482,
-      "progressMidpoint": 0.46782611205620167
+      "progressStart": 0.4728389344412835,
+      "progressEnd": 0.5080682717817945,
+      "progressMidpoint": 0.49045360311153896
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Vil",
       "track": "AB01",
       "uri": "spotify:track:0MYV5AFY0KOXA5QeJFcNCs",
@@ -426,17 +454,17 @@
       ],
       "durationMs": 340588,
       "durationSource": "spotify-metadata",
-      "startMs": 3941716,
-      "endMs": 4282304,
-      "midpointMs": 4112010,
+      "startMs": 4301716,
+      "endMs": 4642304,
+      "midpointMs": 4472010,
       "spotifyUrl": "https://open.spotify.com/track/0MYV5AFY0KOXA5QeJFcNCs",
       "protected": false,
-      "progressStart": 0.4862229975377482,
-      "progressEnd": 0.5282355926322163,
-      "progressMidpoint": 0.5072292950849823
+      "progressStart": 0.5080682717817945,
+      "progressEnd": 0.5482945341732721,
+      "progressMidpoint": 0.5281814029775334
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Decoder",
       "track": "Flowing",
       "uri": "spotify:track:67G0MRoqW60mlqLbWd14Wo",
@@ -453,17 +481,17 @@
       ],
       "durationMs": 378287,
       "durationSource": "spotify-metadata",
-      "startMs": 4282304,
-      "endMs": 4660591,
-      "midpointMs": 4471447.5,
+      "startMs": 4642304,
+      "endMs": 5020591,
+      "midpointMs": 4831447.5,
       "spotifyUrl": "https://open.spotify.com/track/67G0MRoqW60mlqLbWd14Wo",
       "protected": false,
-      "progressStart": 0.5282355926322163,
-      "progressEnd": 0.5748984772919844,
-      "progressMidpoint": 0.5515670349621004
+      "progressStart": 0.5482945341732721,
+      "progressEnd": 0.5929733605596537,
+      "progressMidpoint": 0.5706339473664629
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Arkan",
       "track": "Nasty Tool",
       "uri": "spotify:track:4CDWLgMhxOo57uppdRR690",
@@ -480,17 +508,17 @@
       ],
       "durationMs": 327625,
       "durationSource": "spotify-metadata",
-      "startMs": 4660591,
-      "endMs": 4988216,
-      "midpointMs": 4824403.5,
+      "startMs": 5020591,
+      "endMs": 5348216,
+      "midpointMs": 5184403.5,
       "spotifyUrl": "https://open.spotify.com/track/4CDWLgMhxOo57uppdRR690",
       "protected": false,
-      "progressStart": 0.5748984772919844,
-      "progressEnd": 0.6153120457906547,
-      "progressMidpoint": 0.5951052615413195
+      "progressStart": 0.5929733605596537,
+      "progressEnd": 0.6316685853356525,
+      "progressMidpoint": 0.6123209729476531
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "ElectroExeL",
       "track": "Tenta Tiv",
       "uri": "spotify:track:4EL0YgpfQs5x51JgPy5292",
@@ -507,17 +535,17 @@
       ],
       "durationMs": 303884,
       "durationSource": "spotify-metadata",
-      "startMs": 4988216,
-      "endMs": 5292100,
-      "midpointMs": 5140158,
+      "startMs": 5348216,
+      "endMs": 5652100,
+      "midpointMs": 5500158,
       "spotifyUrl": "https://open.spotify.com/track/4EL0YgpfQs5x51JgPy5292",
       "protected": false,
-      "progressStart": 0.6153120457906547,
-      "progressEnd": 0.6527970876819936,
-      "progressMidpoint": 0.6340545667363242
+      "progressStart": 0.6316685853356525,
+      "progressEnd": 0.6675598014694324,
+      "progressMidpoint": 0.6496141934025425
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Alarico",
       "track": "Iruka",
       "uri": "spotify:track:3RHjzsJWvCWfrp0QCZHUA2",
@@ -535,17 +563,17 @@
       ],
       "durationMs": 357246,
       "durationSource": "spotify-metadata",
-      "startMs": 5292100,
-      "endMs": 5649346,
-      "midpointMs": 5470723,
+      "startMs": 5652100,
+      "endMs": 6009346,
+      "midpointMs": 5830723,
       "spotifyUrl": "https://open.spotify.com/track/3RHjzsJWvCWfrp0QCZHUA2",
       "protected": false,
-      "progressStart": 0.6527970876819936,
-      "progressEnd": 0.6968644991795166,
-      "progressMidpoint": 0.6748307934307551
+      "progressStart": 0.6675598014694324,
+      "progressEnd": 0.7097535115658122,
+      "progressMidpoint": 0.6886566565176223
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Vakat",
       "track": "Percussion Work",
       "uri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
@@ -563,17 +591,17 @@
       ],
       "durationMs": 414388,
       "durationSource": "spotify-metadata",
-      "startMs": 5649346,
-      "endMs": 6063734,
-      "midpointMs": 5856540,
+      "startMs": 6009346,
+      "endMs": 6423734,
+      "midpointMs": 6216540,
       "spotifyUrl": "https://open.spotify.com/track/2gS1RkrHYJiCiPYk8emz0E",
       "protected": false,
-      "progressStart": 0.6968644991795166,
-      "progressEnd": 0.7479805551063445,
-      "progressMidpoint": 0.7224225271429306
+      "progressStart": 0.7097535115658122,
+      "progressEnd": 0.7586961649178965,
+      "progressMidpoint": 0.7342248382418544
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Stef Mendesidis",
       "track": "Interlynx",
       "uri": "spotify:track:0RQAFOhBjlcD09X62GmiCS",
@@ -592,17 +620,17 @@
       ],
       "durationMs": 352905,
       "durationSource": "spotify-metadata",
-      "startMs": 6063734,
-      "endMs": 6416639,
-      "midpointMs": 6240186.5,
+      "startMs": 6423734,
+      "endMs": 6776639,
+      "midpointMs": 6600186.5,
       "spotifyUrl": "https://open.spotify.com/track/0RQAFOhBjlcD09X62GmiCS",
       "protected": true,
-      "progressStart": 0.7479805551063445,
-      "progressEnd": 0.7915124906760455,
-      "progressMidpoint": 0.769746522891195
+      "progressStart": 0.7586961649178965,
+      "progressEnd": 0.8003771669768781,
+      "progressMidpoint": 0.7795366659473872
     },
     {
-      "position": 20,
+      "position": 21,
       "artist": "Maeksll",
       "track": "Minimum",
       "uri": "spotify:track:31FaOVEATLY9PzDv8YPbaI",
@@ -620,17 +648,17 @@
       ],
       "durationMs": 275876,
       "durationSource": "spotify-metadata",
-      "startMs": 6416639,
-      "endMs": 6692515,
-      "midpointMs": 6554577,
+      "startMs": 6776639,
+      "endMs": 7052515,
+      "midpointMs": 6914577,
       "spotifyUrl": "https://open.spotify.com/track/31FaOVEATLY9PzDv8YPbaI",
       "protected": true,
-      "progressStart": 0.7915124906760455,
-      "progressEnd": 0.8255426581636889,
-      "progressMidpoint": 0.8085275744198671
+      "progressStart": 0.8003771669768781,
+      "progressEnd": 0.832960406443657,
+      "progressMidpoint": 0.8166687867102675
     },
     {
-      "position": 21,
+      "position": 22,
       "artist": "Psyk",
       "track": "Eclipse",
       "uri": "spotify:track:6mNUIvYYV5JJVlusXEzLw6",
@@ -648,17 +676,17 @@
       ],
       "durationMs": 408480,
       "durationSource": "spotify-metadata",
-      "startMs": 6692515,
-      "endMs": 7100995,
-      "midpointMs": 6896755,
+      "startMs": 7052515,
+      "endMs": 7460995,
+      "midpointMs": 7256755,
       "spotifyUrl": "https://open.spotify.com/track/6mNUIvYYV5JJVlusXEzLw6",
       "protected": true,
-      "progressStart": 0.8255426581636889,
-      "progressEnd": 0.8759299438114168,
-      "progressMidpoint": 0.8507363009875528
+      "progressStart": 0.832960406443657,
+      "progressEnd": 0.8812052760857783,
+      "progressMidpoint": 0.8570828412647176
     },
     {
-      "position": 22,
+      "position": 23,
       "artist": "Claudio PRC",
       "track": "Haidou",
       "uri": "spotify:track:6lUBGdd9KgbFl7E5GSlm2z",
@@ -676,17 +704,17 @@
       ],
       "durationMs": 450742,
       "durationSource": "spotify-metadata",
-      "startMs": 7100995,
-      "endMs": 7551737,
-      "midpointMs": 7326366,
+      "startMs": 7460995,
+      "endMs": 7911737,
+      "midpointMs": 7686366,
       "spotifyUrl": "https://open.spotify.com/track/6lUBGdd9KgbFl7E5GSlm2z",
       "protected": true,
-      "progressStart": 0.8759299438114168,
-      "progressEnd": 0.9315303793466404,
-      "progressMidpoint": 0.9037301615790286
+      "progressStart": 0.8812052760857783,
+      "progressEnd": 0.9344416377980507,
+      "progressMidpoint": 0.9078234569419145
     },
     {
-      "position": 23,
+      "position": 24,
       "artist": "Luigi Tozzi",
       "track": "Calipso",
       "uri": "spotify:track:15QxVy6d8RrbPKmsYyuVbT",
@@ -704,14 +732,14 @@
       ],
       "durationMs": 555070,
       "durationSource": "spotify-metadata",
-      "startMs": 7551737,
-      "endMs": 8106807,
-      "midpointMs": 7829272,
+      "startMs": 7911737,
+      "endMs": 8466807,
+      "midpointMs": 8189272,
       "spotifyUrl": "https://open.spotify.com/track/15QxVy6d8RrbPKmsYyuVbT",
       "protected": true,
-      "progressStart": 0.9315303793466404,
+      "progressStart": 0.9344416377980507,
       "progressEnd": 1,
-      "progressMidpoint": 0.9657651896733203
+      "progressMidpoint": 0.9672208188990253
     }
   ],
   "transitions": [
@@ -789,7 +817,7 @@
     },
     {
       "fromUri": "spotify:track:5nfyNPgR6kxvdFQ66PIeEB",
-      "toUri": "spotify:track:0XQ53FHMmonh9WD6DWVZVb",
+      "toUri": "spotify:track:0lbeEcQXDMou9NkShtfz9w",
       "fromPosition": 9,
       "toPosition": 10,
       "bpmDelta": 1,
@@ -797,10 +825,19 @@
       "frozen": false
     },
     {
-      "fromUri": "spotify:track:0XQ53FHMmonh9WD6DWVZVb",
-      "toUri": "spotify:track:4Np2wuMWF99jigxD5pyOwh",
+      "fromUri": "spotify:track:0lbeEcQXDMou9NkShtfz9w",
+      "toUri": "spotify:track:0XQ53FHMmonh9WD6DWVZVb",
       "fromPosition": 10,
       "toPosition": 11,
+      "bpmDelta": 0,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:0XQ53FHMmonh9WD6DWVZVb",
+      "toUri": "spotify:track:4Np2wuMWF99jigxD5pyOwh",
+      "fromPosition": 11,
+      "toPosition": 12,
       "bpmDelta": -1,
       "protected": false,
       "frozen": false
@@ -808,8 +845,8 @@
     {
       "fromUri": "spotify:track:4Np2wuMWF99jigxD5pyOwh",
       "toUri": "spotify:track:0FuxLvhDsdGu6XpnxGQrAf",
-      "fromPosition": 11,
-      "toPosition": 12,
+      "fromPosition": 12,
+      "toPosition": 13,
       "bpmDelta": -3,
       "protected": false,
       "frozen": false
@@ -817,8 +854,8 @@
     {
       "fromUri": "spotify:track:0FuxLvhDsdGu6XpnxGQrAf",
       "toUri": "spotify:track:0MYV5AFY0KOXA5QeJFcNCs",
-      "fromPosition": 12,
-      "toPosition": 13,
+      "fromPosition": 13,
+      "toPosition": 14,
       "bpmDelta": -1,
       "protected": false,
       "frozen": false
@@ -826,8 +863,8 @@
     {
       "fromUri": "spotify:track:0MYV5AFY0KOXA5QeJFcNCs",
       "toUri": "spotify:track:67G0MRoqW60mlqLbWd14Wo",
-      "fromPosition": 13,
-      "toPosition": 14,
+      "fromPosition": 14,
+      "toPosition": 15,
       "bpmDelta": 2,
       "protected": false,
       "frozen": false
@@ -835,8 +872,8 @@
     {
       "fromUri": "spotify:track:67G0MRoqW60mlqLbWd14Wo",
       "toUri": "spotify:track:4CDWLgMhxOo57uppdRR690",
-      "fromPosition": 14,
-      "toPosition": 15,
+      "fromPosition": 15,
+      "toPosition": 16,
       "bpmDelta": 0,
       "protected": false,
       "frozen": false
@@ -844,8 +881,8 @@
     {
       "fromUri": "spotify:track:4CDWLgMhxOo57uppdRR690",
       "toUri": "spotify:track:4EL0YgpfQs5x51JgPy5292",
-      "fromPosition": 15,
-      "toPosition": 16,
+      "fromPosition": 16,
+      "toPosition": 17,
       "bpmDelta": 1,
       "protected": false,
       "frozen": false
@@ -853,8 +890,8 @@
     {
       "fromUri": "spotify:track:4EL0YgpfQs5x51JgPy5292",
       "toUri": "spotify:track:3RHjzsJWvCWfrp0QCZHUA2",
-      "fromPosition": 16,
-      "toPosition": 17,
+      "fromPosition": 17,
+      "toPosition": 18,
       "bpmDelta": 2,
       "protected": false,
       "frozen": false
@@ -862,15 +899,6 @@
     {
       "fromUri": "spotify:track:3RHjzsJWvCWfrp0QCZHUA2",
       "toUri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
-      "fromPosition": 17,
-      "toPosition": 18,
-      "bpmDelta": -2,
-      "protected": false,
-      "frozen": true
-    },
-    {
-      "fromUri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
-      "toUri": "spotify:track:0RQAFOhBjlcD09X62GmiCS",
       "fromPosition": 18,
       "toPosition": 19,
       "bpmDelta": -2,
@@ -878,10 +906,19 @@
       "frozen": true
     },
     {
-      "fromUri": "spotify:track:0RQAFOhBjlcD09X62GmiCS",
-      "toUri": "spotify:track:31FaOVEATLY9PzDv8YPbaI",
+      "fromUri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
+      "toUri": "spotify:track:0RQAFOhBjlcD09X62GmiCS",
       "fromPosition": 19,
       "toPosition": 20,
+      "bpmDelta": -2,
+      "protected": false,
+      "frozen": true
+    },
+    {
+      "fromUri": "spotify:track:0RQAFOhBjlcD09X62GmiCS",
+      "toUri": "spotify:track:31FaOVEATLY9PzDv8YPbaI",
+      "fromPosition": 20,
+      "toPosition": 21,
       "bpmDelta": -3,
       "protected": false,
       "frozen": false
@@ -889,8 +926,8 @@
     {
       "fromUri": "spotify:track:31FaOVEATLY9PzDv8YPbaI",
       "toUri": "spotify:track:6mNUIvYYV5JJVlusXEzLw6",
-      "fromPosition": 20,
-      "toPosition": 21,
+      "fromPosition": 21,
+      "toPosition": 22,
       "bpmDelta": -4,
       "protected": false,
       "frozen": false
@@ -898,8 +935,8 @@
     {
       "fromUri": "spotify:track:6mNUIvYYV5JJVlusXEzLw6",
       "toUri": "spotify:track:6lUBGdd9KgbFl7E5GSlm2z",
-      "fromPosition": 21,
-      "toPosition": 22,
+      "fromPosition": 22,
+      "toPosition": 23,
       "bpmDelta": -2,
       "protected": false,
       "frozen": false
@@ -907,8 +944,8 @@
     {
       "fromUri": "spotify:track:6lUBGdd9KgbFl7E5GSlm2z",
       "toUri": "spotify:track:15QxVy6d8RrbPKmsYyuVbT",
-      "fromPosition": 22,
-      "toPosition": 23,
+      "fromPosition": 23,
+      "toPosition": 24,
       "bpmDelta": -3,
       "protected": false,
       "frozen": false
