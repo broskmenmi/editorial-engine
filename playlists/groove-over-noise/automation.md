@@ -6,226 +6,223 @@ The GitHub repository is the persistent source of truth. Run one orchestrated wo
 
 `playlists/groove-over-noise/`
 
-## Read before every run
+## Read before every run or feedback action
 
 1. `constitution.md`
-2. `ledger.md`
-3. `discoveries.md`
-4. `rejected.md`
-5. `revisit.md`
-6. `under-review.md`
-7. `notes.md`
-8. `spotify.json`
-9. `spotify-status.json`
-10. repository-level `AGENTS.md`
-11. the relevant skill packages under `.agents/skills/`
+2. `feedback-protocol.md`
+3. `ledger.md`
+4. `discoveries.md`
+5. `rejected.md`
+6. `revisit.md`
+7. `under-review.md`
+8. `notes.md`
+9. `spotify.json`
+10. `spotify-status.json`
+11. repository-level `AGENTS.md`
+12. the relevant skill packages under `.agents/skills/`
 
-These paths remain the normal ChatGPT discovery paths. Do not relocate or duplicate the instruction files.
+`feedback-protocol.md` overrides any conflicting complaint, repeated-skip, repair-first, or relaxation-first instruction.
 
-## Execution order
+## Two operating modes
 
-1. **Pre-audit** — calculate the adjacent BPM trajectory, map current chapters and peaks, inspect `under-review.md`, and identify unresolved transition, attention, or storytelling defects before scouting.
-2. **Scout** — use `.agents/skills/scout/SKILL.md`; return exactly three track candidates with exact Spotify track URIs and verified BPM.
-3. **Evaluator** — use `.agents/skills/evaluator/SKILL.md`; assign ADD, REVISIT, or REJECT while separating evidence from hypothesis.
-4. **Sequencer** — use `.agents/skills/sequencer/SKILL.md`; place every provisional ADD or proposed repair.
-5. **Auditor** — use `.agents/skills/auditor/SKILL.md`; approve, downgrade, reject, reposition, remove, replace, reorder, reclassify chapter roles, or open/resolve accepted-track reviews.
-6. **Librarian** — use `.agents/skills/librarian/SKILL.md`; update persistent GitHub state only after audit.
-7. **Publisher** — use `.agents/skills/publisher/SKILL.md`; report status from `spotify-status.json` after the GitHub Action publisher runs.
+### A. Scheduled or requested editorial run
+
+Execute:
+
+1. **Pre-audit** — calculate the adjacent BPM trajectory, map chapters and peaks, inspect active discussions, and identify objective defects.
+2. **Scout** — return exactly three candidates with exact Spotify track URIs and verified BPM.
+3. **Evaluator** — assign ADD, REVISIT, or REJECT.
+4. **Sequencer** — place provisional additions or repairs.
+5. **Auditor** — approve, veto, or revise.
+6. **Librarian** — persist the approved state.
+7. **Publisher** — report from `spotify-status.json`.
+
+An active `AWAITING CLARIFICATION` discussion freezes only its affected region. The run may continue elsewhere but must not scout into, edit, reorder, or publish changes to the frozen region.
+
+### B. User complaint or question about an accepted track
+
+Do **not** automatically run Scout → Publisher.
+
+First classify the user's statement:
+
+- **Explicit action:** “remove it,” “move it after X,” “replace it with Y,” or another exact command.
+- **Complaint / exploration:** “I don't like it,” “too noisy,” “abrupt,” “too slow,” “I skip it,” “could it work somewhere else?” or uncertain wording.
+
+For a complaint or exploration:
+
+1. Freeze the affected region.
+2. Keep `ledger.md` and Spotify unchanged.
+3. Record the exact words in `under-review.md` as `AWAITING CLARIFICATION`.
+4. Explain the track's original role in plain language.
+5. Ask at most three short questions answerable from memory; do not assign listening or A/B homework.
+6. Distinguish track, incoming transition, outgoing transition, placement, and broader style.
+7. Summarize the shared diagnosis.
+8. Propose KEEP, MOVE, REPLACE, or REMOVE.
+9. If the repair affects any other track, list every affected track and obtain explicit approval before writing the ledger.
+
+Do not reject, replace, move, remove, or resolve the complaint before this gate is complete unless the user's first message was an explicit action command.
+
+## Clarifying questions
+
+Choose only those needed:
+
+- Is the problem mainly the first seconds, the whole track, or the transition from the previous track?
+- Once the track settles, do you like the track itself?
+- What changes too suddenly: speed, heaviness, rhythm, amount of sound, mood, or the feeling that another scene starts?
+- Is the transition out also a problem?
+- Should we try to preserve and move the track before considering removal?
+
+Clarification is collaborative conversation, not quality-assurance homework.
+
+## Scope-control rule
+
+A complaint about one track authorizes no change by itself.
+
+A repair is a **multi-track change** when it:
+
+- adds a bridge;
+- adds or removes a replacement;
+- changes either neighbour;
+- reorders a chapter;
+- keeps a new substitute while restoring the complained-about track elsewhere.
+
+Before a multi-track change, state the exact before-and-after sequence and ask for explicit approval.
 
 ## Candidate snapshot lifecycle
 
 Candidate resolution is a pre-audit input, not a publication step.
 
 - Write `scout-request.json` at most once per editorial run.
-- Resolve that request into `scout-data.json` at most once per `runId`.
-- When `scout-data.json` contains all three exact candidates for the same request, treat it as an immutable evidence snapshot for that run.
-- Freeze the three candidates before evaluation. Evaluator, Sequencer, Auditor, and Librarian must all use that same snapshot.
-- After the Auditor approves decisions, do not rerun Scout, do not rewrite `scout-request.json`, and do not rebuild `scout-data.json`.
-- A candidate becoming ADD, REVISIT, or REJECT later in the same run must not invalidate the earlier candidate snapshot.
-- Spotify publication must never execute the scout resolver or modify scout files.
-- A new scout snapshot requires a new `runId` and a genuinely new editorial run.
+- Resolve it into `scout-data.json` at most once per `runId`.
+- Freeze the exact three-candidate snapshot before evaluation.
+- Evaluator, Sequencer, Auditor, and Librarian use the same snapshot.
+- Do not rerun Scout after audit approval.
+- Spotify publication never executes the Scout or modifies scout files.
+- A new snapshot requires a new `runId` and a genuinely new run.
 
 ## Runtime and delivery safety
 
-The task must always prioritize delivering a compact final report over repeated polling or secondary housekeeping.
+- Do not restart completed phases.
+- Do not poll the same status continuously.
+- After the final editorial commit, read `spotify-status.json` once after a bounded wait.
+- If publication is still pending, report `PARTIAL — publication pending` and finish the response.
+- A secondary cache or scout failure must not suppress the user-facing report after decisions are persisted.
 
-- Do not restart any completed workflow phase.
-- Do not poll the same GitHub file or Action continuously.
-- After the final editorial commit, read `spotify-status.json` once after a reasonable bounded wait when available.
-- If publication has not caught up to the current ledger within the task runtime, report `PARTIAL — publication pending` and finish the chat response. Do not treat pending publication as a task failure.
-- A later Action or next run may confirm COMPLETE.
-- Once the final decisions are persisted, failure of non-authoritative cache or scout metadata must not suppress the user-facing report.
-- `scout-data.json` is diagnostic candidate evidence; `ledger.md` and `spotify-status.json` are authoritative for final reporting.
+## Relaxation-first rule
 
-## Relaxation-first operating rule
+The workflow exists to reduce effort and stress.
 
-The workflow exists to reduce the user's effort and stress around music discovery.
-
-It must never turn listening into mandatory work.
-
-Rules:
-
-- Do not assign A/B tests, listening homework, ranking tasks, or required subjective confirmation.
-- Do not block normal playlist growth merely because the user has not confirmed a critical role.
-- Do not repeat the same REVISIT candidates on successive runs solely while waiting for user feedback.
-- Natural reactions volunteered during ordinary listening are sufficient evidence; the user is never required to produce them on schedule.
-- When evidence is incomplete, make the best conservative editorial decision available and record uncertainty internally.
-- A critical-role track may be ADD with a provisional editorial label when there is no concrete negative evidence and the measurable sequence is sound.
-- REVISIT requires a real, specific uncertainty—not merely the absence of user confirmation.
-- `MANUAL ACTION` is reserved for unavoidable technical steps such as authorization, secrets, or an API limitation. It must never contain listening instructions.
-- If no technical user action is required, omit `MANUAL ACTION` entirely.
+- Never assign mandatory listening tests, rankings, or prescribed comparisons.
+- Natural reactions during ordinary listening are sufficient evidence.
+- Clarifying questions must be few, plain, and answerable from memory.
+- Lack of confirmation is not a defect.
+- An unresolved complaint freezes only its local region, not the whole playlist.
+- `MANUAL ACTION` is reserved for unavoidable technical steps and never contains listening instructions.
 
 ## Evidence model
 
-Every material editorial statement must be classified internally as one of:
+Every material claim must be classified internally as:
 
-- **Measured evidence:** BPM, duration, exact identity, position, or later lawful audio measurements.
+- **Measured evidence:** BPM, duration, exact identity, position, or lawful audio measurements.
 - **Craft convention:** a useful sequencing practice, not a universal law.
-- **Listener report:** the user's direct experience; final authority when volunteered.
+- **Listener report:** the user's direct experience.
 - **Editorial interpretation:** a proposed role such as re-entry, crest, summit, or dissolution.
 
 Rules:
 
-- BPM and other measurements screen and describe transitions; they do not prove that a transition works.
-- Never infer busyness, stress, spaciousness, hypnosis, emotional effect, or attention demand from BPM, artist, genre, title, label, or reputation alone.
-- Never claim to have listened to or waveform-analysed Spotify audio through the Spotify Web API.
-- When direct listening or lawful audio evidence is unavailable, describe sonic claims as hypotheses.
-- Use plain English in user-facing explanations. Explain specialist terms immediately when they are necessary.
+- BPM screens and describes transitions; it does not prove they work.
+- Never infer busyness, stress, spaciousness, hypnosis, emotional effect, or attention demand from metadata alone.
+- Never claim to have listened to or waveform-analysed Spotify audio through the Web API.
+- Use plain English in user-facing explanations.
 
-## Selective focused-review gate
+## Accepted-track discussion states
 
-Do not analyse every stable track on every run.
+- `AWAITING CLARIFICATION` — no playlist edits allowed in the affected region.
+- `DIAGNOSIS AGREED` — the problem is jointly understood; options may be proposed.
+- `APPROVED — KEEP`
+- `APPROVED — MOVE`
+- `APPROVED — REPLACE`
+- `APPROVED — REMOVE`
 
-A focused review is triggered only when:
+Only an `APPROVED` state may change `ledger.md` or Spotify.
 
-- the user naturally questions an accepted track;
-- a REVISIT question concerns a concrete known issue such as busyness, stress, monotony, atmosphere, attention, or emotional fit;
-- measurements and volunteered listener reaction disagree;
-- an objective sequence defect exists.
-
-Lack of explicit user confirmation is not itself a focused-review trigger.
-
-Until a lawful audio-analysis pipeline exists, focused review means:
-
-1. preserve the exact listener report when one exists;
-2. explain the intended role in plain language;
-3. compare KEEP, MOVE, REPLACE, or REMOVE editorially without assigning the user homework;
-4. distinguish measured facts from predictions about listening;
-5. make a best-effort decision or keep the track provisionally when evidence remains incomplete.
-
-Future audio analysis may use only audio the user lawfully owns or has permission to process. Cache such analysis once by exact track/version identity and audio-file hash. Spotify streams must never be captured, transferred, or analysed.
-
-## Accepted-track review protocol
-
-`REVISIT` applies to candidates outside the ledger. `UNDER REVIEW` applies to tracks already in the ledger.
-
-Open UNDER REVIEW only when:
-
-- the user expresses a concern during normal listening;
-- a concrete objective defect is discovered;
-- new evidence directly contradicts the original admission.
-
-Do not open UNDER REVIEW merely because the user has not confirmed an editorial role.
-
-When a review opens:
-
-1. preserve the user's exact words;
-2. state why the track was originally admitted;
-3. evaluate KEEP, MOVE, REPLACE, and REMOVE;
-4. let the workflow scout replacements or redesign the sequence autonomously;
-5. resolve from available evidence, or keep the track provisionally without demanding a user test.
-
-Feeling relieved because a track ends is strong negative evidence about the track or its placement, but it starts a discussion rather than forcing immediate deletion.
-
-Active reviews take priority only when there is actual negative evidence or a concrete defect. They do not automatically freeze unrelated growth.
+Repeated skipping, stress, and relief when a track ends are strong evidence, but they do not bypass clarification unless the user explicitly orders removal.
 
 ## Long-form storytelling architecture
 
-The following is the chosen GROOVE OVER NOISE house style, not a universal law for techno:
+The GROOVE OVER NOISE house style is:
 
 `Arrival → Groove formation → Local crest → Partial release → Re-entry → Deeper crest → Partial release → Main summit → Long decompression → Dissolution`
 
 Rules:
-- Allow multiple local crests, but keep one main summit clearly dominant.
-- Every later crest must reveal a different rhythmic, spatial, textural, or psychological quality.
-- Partial releases reduce pressure without returning to the opening baseline.
-- Re-entry begins from accumulated immersion and must not sound like a restart.
-- The main summit is determined by total pressure, density, duration, attention demand, and listener experience, not BPM alone.
-- Preserve the final decompression and dissolution as the ending.
-- New waves should normally be inserted before the final descent, never appended after the established closer.
-- Do not repeat the same build-drop pattern across consecutive chapters.
-- Treat a current compact arc as a chapter that may be expanded or reclassified as duration grows.
-- If the listener's actual experience contradicts the planned story, the planned story loses.
+
+- Allow multiple local crests but one dominant summit.
+- Later crests must reveal something new.
+- Partial releases reduce pressure without returning to zero.
+- Re-entry continues accumulated immersion rather than restarting.
+- The main summit is not defined by BPM alone.
+- Preserve the final decompression and dissolution.
+- New waves normally enter before the final descent.
+- If the listener's experience contradicts the planned story, the planned story loses.
 
 Duration guidance:
-- Under 60 minutes: one complete wave may be sufficient.
-- 60–120 minutes: normally require at least two waves.
-- Two to three hours: normally require three or four chapters with local crests.
-- Beyond three hours: use several chapters, one dominant summit, and a substantial final decompression.
 
-## Transition and BPM rules
+- Under 60 minutes: one wave may be sufficient.
+- 60–120 minutes: normally at least two waves.
+- Two to three hours: normally three or four chapters.
+- Beyond three hours: several chapters, one summit, substantial decompression.
 
-- Every ledger row must contain verified BPM when reliable metadata is available.
-- Target adjacent BPM difference: **0–4 BPM**.
-- **5–7 BPM** requires explicit pulse-continuity evidence and Auditor approval.
-- Above **7 BPM** is prohibited unless a documented half-time/double-time relationship or intentional reset makes the perceived pulse continuous.
-- The first three tracks may not exceed **4 BPM** between neighbours without direct listening evidence.
-- A decompression may descend in BPM, but it must descend progressively rather than collapse abruptly.
-- Avoid accidental tempo sawtoothing. Deliberate wave motion is valid only when the chapter and pressure narrative supports it.
-- Spotify Mix, crossfade, and automatic transition processing cannot validate or excuse a defective transition.
-- If the user still hears a jump with Spotify Mix enabled, record the transition as defective.
-- Numeric compliance is necessary for ordinary transitions under this doctrine, but never sufficient for certainty.
+## BPM and transition rules
+
+- Record verified BPM when reliable metadata is available.
+- Target adjacent differences of **0–4 BPM**.
+- **5–7 BPM** requires explicit continuity evidence and Auditor approval.
+- Above **7 BPM** is prohibited unless a documented half-time/double-time relationship or intentional reset preserves perceived pulse.
+- The opening three tracks use the strictest standard.
+- Decompression descends progressively.
+- Avoid accidental tempo sawtoothing.
+- Spotify Mix or crossfade cannot validate or excuse a defective transition.
+- Numeric compliance is never sufficient certainty.
 
 ## Repair-first policy
 
-- Known transition, attention, or storytelling defects take priority over new playlist growth.
-- An actual user complaint or objective defect takes priority over unrelated additions.
-- Mere lack of user confirmation does not count as a defect and does not block growth.
-- When a defect exists, candidates must repair it through a bridge, replacement, removal, reorder, or chapter redesign.
-- Choose the smallest repair that produces a coherent BPM trajectory and preserves the editorial arc.
-- After every repair, audit the entire ledger rather than only the changed pair.
+Objective defects and clarified, approved listener complaints take priority over unrelated growth.
 
-## Spotify publication architecture
+An unclarified complaint is not yet an approved repair instruction. Freeze its region and continue elsewhere if appropriate.
 
-- The canonical ledger must contain an exact `spotify:track:` URI for every row.
-- A ledger commit triggers `.github/workflows/publish-spotify.yml`.
-- The workflow runs only `apps/spotify-publisher/`, uses the persisted playlist ID in `spotify.json`, replaces all playlist items, then verifies the exact URI order.
-- The publication workflow must not run `apps/spotify-scout/` and must not modify `scout-data.json`.
-- Never use the ChatGPT Spotify connector to search for, create, edit, or publish the canonical playlist.
-- Never surface unrelated playlists, similarly named results, or broad search fallbacks.
-- Never report COMPLETE unless `spotify-status.json` records exact read-back verification for the current ledger publication.
+After diagnosis, choose the smallest approved repair that restores the journey. Audit the complete ledger after any change.
+
+## Spotify publication
+
+- Every ledger row must contain an exact `spotify:track:` URI.
+- `.github/workflows/publish-spotify.yml` publishes through `apps/spotify-publisher/`.
+- The publisher uses the persisted playlist ID in `spotify.json` and verifies exact order.
+- Never use the ChatGPT Spotify connector for canonical playlist search, creation, editing, or publication.
+- Never report COMPLETE unless `spotify-status.json` records exact read-back verification.
 
 ## Atomicity
 
-- Read all source files before making decisions.
-- Do not update persistent editorial files until the Auditor approves the final change set.
-- Where the GitHub tools support tree/commit operations, persist all editorial changes in one batched commit.
-- Otherwise minimize writes and never rerun earlier phases between file updates.
-- Target no more than one user-authored editorial commit per run; bot publication-status commits are separate.
-- The row order in `ledger.md` must always equal the recommended final listening order.
-- Insert every approved ADD at its exact sequenced position, then renumber the full ledger consecutively.
-- Every approved ADD must have one verified Spotify track URI and BPM.
-- When an approved change alters surrounding flow, reorder those existing tracks in the same editorial commit.
-- GitHub updates define the authoritative editorial outcome even when Spotify publication is pending or failed.
+- Read all source files before decisions.
+- Do not update persistent editorial state before audit approval, except opening an `AWAITING CLARIFICATION` discussion without touching the ledger.
+- Persist approved editorial changes as one logical commit when possible.
+- The ledger row order always equals recommended listening order.
+- Renumber after additions, removals, or reordering.
+- GitHub remains authoritative when Spotify is pending or failed.
 
-## Required user-facing response
+## Required user-facing response for editorial runs
 
-Use exactly these sections:
+Use exactly:
 
-1. `TODAY'S DECISIONS` — exactly three candidates; for each show Verdict, Track — Artist, Position, Purpose, and one-sentence Reason.
-2. `LEDGER CHANGE` — list only additions, removals, replacements, or reordering made today.
-3. `SPOTIFY STATUS` — one of COMPLETE, PARTIAL, or MANUAL REQUIRED, based only on `spotify-status.json`.
-4. `MANUAL ACTION` — only unavoidable technical steps; omit entirely when none are needed. Never include listening tasks or subjective comparisons.
+1. `TODAY'S DECISIONS` — exactly three candidates; Verdict, Track — Artist, Position, Purpose, one-sentence Reason.
+2. `LEDGER CHANGE` — only additions, removals, replacements, or reordering.
+3. `SPOTIFY STATUS` — COMPLETE, PARTIAL, or MANUAL REQUIRED.
+4. `MANUAL ACTION` — unavoidable technical steps only; omit otherwise.
 5. `EDITORIAL NOTE` — one sentence.
 
-Purpose must be maximum eight words. Reason must be one sentence, maximum ten words. Do not print the full canonical ledger unless explicitly requested. Do not include internal GitHub operations, audit details, scoring tables, or long explanations.
+Purpose: maximum eight words. Reason: maximum ten words. Do not print the full ledger unless asked. Only link the canonical playlist and three candidate tracks.
 
-Only link:
-- the canonical playlist URL stored in `spotify-status.json`; and
-- the three candidate tracks.
-
-If Spotify publication is still pending, use `PARTIAL` and state that publication is pending. Do not fail the task or add a manual action merely because the Action has not finished.
+The exact five-section format does not apply to the clarification conversation before an accepted-track change. During clarification, answer directly and ask the necessary short questions.
 
 ## Playback rule
 
-Optimize for a curated listening journey, not a live DJ set. Beatmatching is not required, but bodily pulse and attention continuity are. Mention Spotify Mix only when directly relevant.
+Optimize for an ordered listening journey, not live beatmatching. Bodily pulse and attention continuity matter. Mention Spotify Mix only when directly relevant.
