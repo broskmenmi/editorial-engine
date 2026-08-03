@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-03T09:38:10.824Z",
-  "runId": "2026-08-03T11:36:00+02:00",
+  "generatedAt": "2026-08-03T20:03:48.440Z",
+  "runId": "2026-08-03T22:03:23+02:00",
   "target": {
-    "role": "first-wave post-crest release hinge",
-    "position": "after Maeksll — Two Glasses of Whisky and before Altinbas — Trail Of",
+    "role": "second-wave release to main-wave threshold bridge",
+    "position": "after Vil — AB01 and before Decoder — Flowing",
     "neighbours": [
       {
-        "artist": "Maeksll",
-        "track": "Two Glasses of Whisky",
-        "bpm": 145
+        "artist": "Vil",
+        "track": "AB01",
+        "bpm": 136
       },
       {
-        "artist": "Altinbas",
-        "track": "Trail Of",
-        "bpm": 142
+        "artist": "Decoder",
+        "track": "Flowing",
+        "bpm": 138
       }
     ],
-    "purpose": "lengthen the first release outside the frozen summit region"
+    "purpose": "test whether the chapter boundary needs one distinct bridge"
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
@@ -25,75 +25,72 @@
   "warnings": [],
   "candidates": [
     {
-      "id": "4ZURjKKzTjVtOEYbE7p14Q",
-      "uri": "spotify:track:4ZURjKKzTjVtOEYbE7p14Q",
-      "name": "My Last Descent",
+      "id": "3lu0fF7jjSx3Dcr1TljvkV",
+      "uri": "spotify:track:3lu0fF7jjSx3Dcr1TljvkV",
+      "name": "Crimson Delta",
       "artists": [
-        "FENIM0RE",
-        "KYSH Records"
+        "Blue Hour"
       ],
-      "album": "KYSH-002",
-      "releaseDate": "2026-06-12",
-      "durationMs": 322000,
-      "spotifyUrl": "https://open.spotify.com/track/4ZURjKKzTjVtOEYbE7p14Q",
-      "bpm": 144,
+      "album": "Selva",
+      "releaseDate": "2026-04-10",
+      "durationMs": 341279,
+      "spotifyUrl": "https://open.spotify.com/track/3lu0fF7jjSx3Dcr1TljvkV",
+      "bpm": 137,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "KYSH Records release dated 2026-06-12",
+      "discoverySource": "Blue Hour release dated 2026-04-10",
       "requestedIdentity": {
-        "artist": "FENIM0RE",
-        "track": "My Last Descent",
-        "album": "KYSH-002",
-        "spotifyAlbumId": "0BAz4Wy4KbuyqCu0jtDkIb",
-        "bpm": 144,
+        "artist": "Blue Hour",
+        "track": "Crimson Delta",
+        "spotifyTrackId": "3lu0fF7jjSx3Dcr1TljvkV",
+        "bpm": 137,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "KYSH Records release dated 2026-06-12"
+        "discoverySource": "Blue Hour release dated 2026-04-10"
       }
     },
     {
-      "id": "2JSu2yhFHyXX6aiyOFDniT",
-      "uri": "spotify:track:2JSu2yhFHyXX6aiyOFDniT",
-      "name": "Undersense",
+      "id": "2VMmEwXdIujvxqwx3Y1buA",
+      "uri": "spotify:track:2VMmEwXdIujvxqwx3Y1buA",
+      "name": "Close Contact",
       "artists": [
-        "Axel Karakasis"
+        "Chlär"
       ],
-      "album": "No Contour",
-      "releaseDate": "2026-05-29",
-      "durationMs": 324335,
-      "spotifyUrl": "https://open.spotify.com/track/2JSu2yhFHyXX6aiyOFDniT",
-      "bpm": 143,
+      "album": "Breakthrough",
+      "releaseDate": "2025-12-12",
+      "durationMs": 288546,
+      "spotifyUrl": "https://open.spotify.com/track/2VMmEwXdIujvxqwx3Y1buA",
+      "bpm": 137,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Remain Records release dated 2026-05-29",
+      "discoverySource": "Primal Instinct release dated 2025-12-12",
       "requestedIdentity": {
-        "artist": "Axel Karakasis",
-        "track": "Undersense",
-        "spotifyTrackId": "2JSu2yhFHyXX6aiyOFDniT",
-        "bpm": 143,
+        "artist": "Chlär",
+        "track": "Close Contact",
+        "spotifyTrackId": "2VMmEwXdIujvxqwx3Y1buA",
+        "bpm": 137,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Remain Records release dated 2026-05-29"
+        "discoverySource": "Primal Instinct release dated 2025-12-12"
       }
     },
     {
-      "id": "5yX7hVECoVPLygd3ElVhkt",
-      "uri": "spotify:track:5yX7hVECoVPLygd3ElVhkt",
-      "name": "Activ",
+      "id": "3wbwMycjChJ9Ergw9q7z3v",
+      "uri": "spotify:track:3wbwMycjChJ9Ergw9q7z3v",
+      "name": "Showtime",
       "artists": [
-        "Seigg",
-        "KYSH Records"
+        "Shabaam"
       ],
-      "album": "KYSH-002",
-      "releaseDate": "2026-06-12",
-      "durationMs": 314000,
-      "spotifyUrl": "https://open.spotify.com/track/5yX7hVECoVPLygd3ElVhkt",
-      "bpm": 143,
+      "album": "The Party Is Not Over EP",
+      "releaseDate": "2026-03-13",
+      "durationMs": 285264,
+      "spotifyUrl": "https://open.spotify.com/track/3wbwMycjChJ9Ergw9q7z3v",
+      "bpm": 138,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "KYSH Records release dated 2026-06-12",
+      "discoverySource": "Planet Rhythm release dated 2026-03-13",
       "requestedIdentity": {
-        "artist": "Seigg",
-        "track": "Activ",
-        "spotifyTrackId": "5yX7hVECoVPLygd3ElVhkt",
-        "bpm": 143,
+        "artist": "Shabaam",
+        "track": "Showtime",
+        "spotifyTrackId": "3wbwMycjChJ9Ergw9q7z3v",
+        "bpm": 138,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "KYSH Records release dated 2026-06-12"
+        "discoverySource": "Planet Rhythm release dated 2026-03-13"
       }
     }
   ]
