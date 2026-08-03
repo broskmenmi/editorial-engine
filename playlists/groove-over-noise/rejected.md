@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Seigg, KYSH Records | Activ | Rejected as a first-wave release hinge. At 143 BPM its placement is compliant, but the label describes a glitch-driven banger with a powerful hook, which would demand attention immediately after the crest instead of beginning release. | 2026-08-03 |
+| Axel Karakasis | Undersense | Rejected as a first-wave release hinge. At 143 BPM its placement is compliant, but the available profile describes high drive and energy-building behaviour, which would prolong crest pressure rather than release it. | 2026-08-03 |
 | RTNH | Session 4 - Original Mix | Rejected only as the immediate track after Alarico — Iruka because the user experienced that handoff as abrupt. The user has explicitly reopened it for a later placement after the new summit-exit hinge; see `revisit.md`. | 2026-08-03 |
 | Vakat | Looking For Solution | At 140 BPM it creates 141 → 140 → 137, but duplicates the approved summit-exit repair with a less balanced -1/-3 descent. | 2026-08-03 |
 | Vakat | Devotion | At 140 BPM it duplicates the approved summit-exit repair and provides no stronger measured or listener evidence for this role. | 2026-08-03 |
