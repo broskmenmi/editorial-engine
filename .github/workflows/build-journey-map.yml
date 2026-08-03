@@ -1,0 +1,96 @@
+name: Build GROOVE OVER NOISE journey map
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "playlists/groove-over-noise/ledger.md"
+      - "playlists/groove-over-noise/journey-annotations.json"
+      - "playlists/groove-over-noise/under-review.md"
+      - "apps/journey-map/**"
+      - ".github/workflows/build-journey-map.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: journey-map-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Build journey map
+        run: node apps/journey-map/src/index.js
+
+      - name: Persist generated map
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- \
+            playlists/groove-over-noise/journey-map.json \
+            playlists/groove-over-noise/journey-map.svg; then
+            exit 0
+          fi
+
+          temp_dir="$(mktemp -d)"
+          cp playlists/groove-over-noise/journey-map.json "$temp_dir/journey-map.json"
+          cp playlists/groove-over-noise/journey-map.svg "$temp_dir/journey-map.svg"
+
+          git config user.name "editorial-engine[bot]"
+          git config user.email "editorial-engine[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+
+            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- \
+              playlists/groove-over-noise/ledger.md \
+              playlists/groove-over-noise/journey-annotations.json \
+              playlists/groove-over-noise/under-review.md \
+              apps/journey-map; then
+              echo "Newer map inputs exist; skipping stale generated map."
+              exit 0
+            fi
+
+            git reset --hard origin/main
+            cp "$temp_dir/journey-map.json" playlists/groove-over-noise/journey-map.json
+            cp "$temp_dir/journey-map.svg" playlists/groove-over-noise/journey-map.svg
+
+            if git diff --quiet -- \
+              playlists/groove-over-noise/journey-map.json \
+              playlists/groove-over-noise/journey-map.svg; then
+              exit 0
+            fi
+
+            git add \
+              playlists/groove-over-noise/journey-map.json \
+              playlists/groove-over-noise/journey-map.svg
+            git commit -m "Update GROOVE OVER NOISE journey map [skip ci]"
+
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Journey-map push raced with another commit; retrying attempt $attempt."
+            sleep $((attempt * 2))
+          done
+
+          echo "Could not persist journey map after four attempts."
+          exit 1
