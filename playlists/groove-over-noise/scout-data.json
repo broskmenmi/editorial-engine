@@ -1,96 +1,61 @@
 {
-  "generatedAt": "2026-08-02T06:34:31.508Z",
-  "runId": "2026-08-02T08:25:14+02:00",
+  "generatedAt": "2026-08-03T06:33:16.721Z",
+  "runId": "2026-08-03T08:30:44+02:00",
   "target": {
-    "role": "third-wave summit approach",
-    "position": "after Arkan — Nasty Tool and before Alarico — Iruka",
+    "role": "summit-exit repair",
+    "position": "after Alarico — Iruka and before Stef Mendesidis — Interlynx",
     "neighbours": [
-      {
-        "artist": "Arkan",
-        "track": "Nasty Tool",
-        "bpm": 138
-      },
       {
         "artist": "Alarico",
         "track": "Iruka",
         "bpm": 141
+      },
+      {
+        "artist": "Stef Mendesidis",
+        "track": "Interlynx",
+        "bpm": 137
       }
     ],
-    "purpose": "test a distinct approach without diluting the summit"
+    "purpose": "replace the abrupt Session 4 summit exit"
   },
   "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 3,
-  "unresolved": [],
+  "resolvedCount": 1,
+  "unresolved": [
+    {
+      "artist": "Hertz, Wehbba",
+      "track": "Cortex",
+      "error": "no exact Spotify search match"
+    },
+    {
+      "artist": "Jnks",
+      "track": "Ember",
+      "error": "no exact Spotify search match"
+    }
+  ],
   "warnings": [],
   "candidates": [
     {
-      "id": "0tn6WVCLJxHYeIvMsHs09J",
-      "uri": "spotify:track:0tn6WVCLJxHYeIvMsHs09J",
-      "name": "Extra Dimension",
+      "id": "2gS1RkrHYJiCiPYk8emz0E",
+      "uri": "spotify:track:2gS1RkrHYJiCiPYk8emz0E",
+      "name": "Percussion Work",
       "artists": [
-        "Sandro Galli"
+        "Vakat"
       ],
-      "album": "Extra Dimension EP",
-      "releaseDate": "2026-07-24",
-      "durationMs": 434782,
-      "spotifyUrl": "https://open.spotify.com/track/0tn6WVCLJxHYeIvMsHs09J",
-      "bpm": 137,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Gynoid Audio release dated 2026-07-24",
-      "requestedIdentity": {
-        "artist": "Sandro Galli",
-        "track": "Extra Dimension",
-        "releaseDate": "2026-07-24",
-        "bpm": 137,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Gynoid Audio release dated 2026-07-24"
-      }
-    },
-    {
-      "id": "6UMvYwbNtStNBNwHiw2xlK",
-      "uri": "spotify:track:6UMvYwbNtStNBNwHiw2xlK",
-      "name": "Grid Collapse",
-      "artists": [
-        "Sandro Galli"
-      ],
-      "album": "Extra Dimension EP",
-      "releaseDate": "2026-07-24",
-      "durationMs": 387428,
-      "spotifyUrl": "https://open.spotify.com/track/6UMvYwbNtStNBNwHiw2xlK",
-      "bpm": 140,
-      "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Gynoid Audio release dated 2026-07-24",
-      "requestedIdentity": {
-        "artist": "Sandro Galli",
-        "track": "Grid Collapse",
-        "releaseDate": "2026-07-24",
-        "bpm": 140,
-        "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Gynoid Audio release dated 2026-07-24"
-      }
-    },
-    {
-      "id": "4EL0YgpfQs5x51JgPy5292",
-      "uri": "spotify:track:4EL0YgpfQs5x51JgPy5292",
-      "name": "Tenta Tiv",
-      "artists": [
-        "ElectroExeL"
-      ],
-      "album": "First Fragment EP",
-      "releaseDate": "2026-07-22",
-      "durationMs": 303884,
-      "spotifyUrl": "https://open.spotify.com/track/4EL0YgpfQs5x51JgPy5292",
+      "album": "Looking For Solution",
+      "releaseDate": "2026-06-26",
+      "durationMs": 414388,
+      "spotifyUrl": "https://open.spotify.com/track/2gS1RkrHYJiCiPYk8emz0E",
       "bpm": 139,
       "tempoSource": "Beatport exact track metadata",
-      "discoverySource": "Urban Kickz Recordings release dated 2026-07-22",
+      "discoverySource": "Non Series release dated 2026-06-26",
       "requestedIdentity": {
-        "artist": "ElectroExeL",
-        "track": "Tenta Tiv",
-        "releaseDate": "2026-07-22",
+        "artist": "Vakat",
+        "track": "Percussion Work",
+        "releaseDate": "2026-06-26",
         "bpm": 139,
         "bpmSource": "Beatport exact track metadata",
-        "discoverySource": "Urban Kickz Recordings release dated 2026-07-22"
+        "discoverySource": "Non Series release dated 2026-06-26"
       }
     }
   ]
