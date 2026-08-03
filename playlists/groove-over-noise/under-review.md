@@ -21,14 +21,13 @@ This file is for tracks already admitted to `ledger.md` whose place in the playl
 
 ## Active reviews
 
-| Artist | Track | Spotify URI | Current position and role | Listener evidence | Why originally admitted | Editorial question | Next workflow action | Status |
-|---|---|---|---|---|---|---|---|---|
-| RTNH | Session 4 - Original Mix | spotify:track:1fSgcyLzPwjgtbM4MmEDCu | Position 17 — summit decompression hinge after Alarico — Iruka | “Session 4 feels like it comes out abruptly after Alarico.” | It was admitted to begin the descent from Iruka through a measured 141 → 138 BPM step before Interlynx. | Is the abruptness caused by Session 4 itself, its placement directly after Iruka, or the missing shape of the summit exit? | Prioritize KEEP, MOVE, REPLACE, or REMOVE while preserving Iruka as the main summit and Interlynx onward as the protected descent. | OPEN |
+None.
 
 ## Resolved reviews
 
 | Artist | Track | Original role | Listener evidence | Resolution | Date |
 |---|---|---|---|---|---|
+| RTNH | Session 4 - Original Mix | Summit decompression hinge | “Session 4 feels like it comes out abruptly after Alarico.” | REPLACE — Vakat — Percussion Work creates a measured 141 → 139 → 137 descent; its attention fit remains a provisional editorial hypothesis. | 2026-08-03 |
 | Coyu | Cachoeira | Percussive rise | “I find Cachoeira too noisy” and “I always press the next song when Cachoeira comes on.” | REMOVE — repeated skipping shows the track breaks immersion; no replacement is required because Ottagone 001 → Miss Perez remains compliant. | 2026-08-01 |
 | Slam, Vril | Program - VRIL Remix | Pre-arrival threshold | “Too slow, too much house”; Rene Wise — Deep Under sets the tone of the rest of the playlist. | REMOVE — restore Deep Under as the protected opener. | 2026-07-31 |
 | Kaltblume, Bipolar Disorder Rec., GLIA | Atlantica Night Ride — GLIA Remix | Second-wave re-entry | “Too much is happening”; stressful; relieved when it ends. | REPLACE — role retained, track replaced. | 2026-07-18 |
