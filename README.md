@@ -46,10 +46,10 @@ The recurring task is created using the [`scheduler` skill](.agents/skills/sched
 1. Read the playlist constitution, canonical ledger, feedback state, and prior decisions.
 2. Pre-audit for an actionable repair, triggered revisit, or materially new evidence.
 3. If no repair is actionable, perform a fresh outward scan of current releases, adjacent or emerging artists and labels, and overlooked catalogue material.
-4. Scout one to three evidence-qualified tracks with exact Spotify URIs; never pad a weak set.
+4. Rank one to nine honest resolution leads, then freeze at most three exact Spotify identities as candidates; never pad either set.
 5. Evaluate playlist belonging separately from compatibility with exact neighbours, then sequence only justified additions or repairs.
 6. Audit the proposed changes.
-7. Update durable editorial state only after audit approval; diagnostic candidate request/data commits may occur earlier solely to resolve exact identities.
+7. Update durable editorial state only after audit approval; diagnostic lead-request/candidate-snapshot commits may occur earlier solely to resolve exact identities.
 8. Let the GitHub Action replace Spotify from ledger URI order.
 9. Report publication status only from `spotify-status.json`.
 

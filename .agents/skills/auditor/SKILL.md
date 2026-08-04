@@ -81,7 +81,11 @@ Verify that pre-audit selected the correct lane:
 - EXPLORE whenever no actionable repair exists;
 - an `AWAITING CLARIFICATION` region remained frozen and did not prevent exploration elsewhere.
 
-For every EXPLORE run, require a fresh exploration receipt containing timestamp, source paths or query windows, coverage of current releases, adjacent or emerging artists or labels, overlooked catalogue, inspected scope, exclusions, and shortlist.
+For every EXPLORE run, require a fresh exploration receipt containing timestamp, source paths or query windows, coverage of current releases, adjacent or emerging artists or labels, overlooked catalogue, inspected scope, exclusions, and ranked resolution leads.
+
+Treat request entries and candidates separately. New `schemaVersion: 2` requests contain a canonical-input `sourceCommit` and one to nine ranked `leads`; only unique exact identities selected into a matching terminal `scout-data.json.candidates` array are candidates. Verify that the request was written once, that no changed content reused its `runId` anywhere in history, that resolver inputs did not drift after `sourceCommit`, and that the final snapshot fingerprint, `runId`, mode, target, counts, selection partition, uniqueness, outcomes, and exploration receipt are internally valid and match exactly.
+
+For a resolver-only recovery, require a new `runId`, `recoveryOfRunId`, a concrete `recoveryReason`, `sourceCommit` equal to the commit containing the failed request, unchanged canonical resolver inputs, and exact preservation of the original mode, target, receipt, and ranked leads apart from schema-v2 migration. Audit it as completion of the original scan at its original timestamp, not as a second fresh exploration run.
 
 Reject or revise the run when:
 
@@ -91,9 +95,11 @@ Reject or revise the run when:
 - a candidate was forced into a frozen or protected edge;
 - search failed or did not run but the result was reported as no suitable music.
 
-Approve `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` only after the fresh scan is evidenced and every inspected lead failed the eligibility floor. If search did not run or was blocked, require `EXPLORATION NOT COMPLETED` with the exact reason.
+Approve `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` only after the fresh scan is evidenced and every inspected lead failed the eligibility floor. A terminal `resolutionStatus: NONE` is a completed identity check, not a resolver crash; require every lead and exact error in the outcome. Credentials, network, authentication, rate limits, Spotify 5xx responses, stale inputs, or malformed/conflicting snapshots cannot become NONE. If search did not run, the resolver failed operationally, or no matching valid terminal snapshot arrived, require `EXPLORATION NOT COMPLETED`, name the request leads, and forbid use of stale scout data.
 
 Approve `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` only after the concrete target and targeted search receipt are evidenced and every inspected lead failed the same objective shortlist floor.
+
+A matching terminal NONE snapshot may support that repair-zero outcome when it preserves every ranked lead and exact identity error.
 
 If required repair search did not run or was blocked, require `REPAIR SEARCH NOT COMPLETED` with the exact reason. Do not treat it as evidence that no repair exists.
 
@@ -115,8 +121,10 @@ A zero-result scan is not proof that the playlist is complete. It is only eviden
 - Differences above 7 BPM require documented equivalence or intentional reset.
 - Spotify Mix and crossfade are never proof that a transition works.
 - Numeric compliance is never sufficient certainty.
-- The evaluated snapshot contains one to three eligible candidates and was not quota-padded.
-- A PARTIAL resolver snapshot evaluates only its resolved candidates, preserves unresolved identities and errors, and contains no substitutions; zero resolved candidates are reported as the lane's `*_NOT COMPLETED` outcome.
+- The evaluated snapshot contains one to three selected exact candidates from the ranked lead pool and was not quota-padded.
+- A PARTIAL resolver snapshot evaluates only its selected candidates, preserves unresolved identities and errors plus resolved-but-unselected alternates, and contains no substitutions.
+- Exact-identity candidates preserve album or release-date variance warnings; the warning is not erased or presented as an exact release-metadata match.
+- A NONE resolver snapshot evaluates no candidates, names every unresolved lead and error, and becomes the documented zero-qualified-candidate outcome. Operational failure or a missing matching snapshot becomes the lane's `*_NOT_COMPLETED` outcome.
 - Exploration-originated ADD decisions show a distinct function and a concrete non-frozen placement; no pre-existing defect is required.
 
 ## Critical-role handling

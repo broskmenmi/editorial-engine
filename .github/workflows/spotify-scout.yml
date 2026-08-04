@@ -14,7 +14,7 @@ permissions:
 
 concurrency:
   group: spotify-scout-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   scout:
@@ -33,6 +33,46 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 24
+
+      - name: Validate immutable scout request history
+        run: node apps/spotify-scout/src/validate-request-history.js playlists/groove-over-noise/scout-request.json
+
+      - name: Validate resolver source state
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          request_path="playlists/groove-over-noise/scout-request.json"
+          snapshot_path="playlists/groove-over-noise/scout-data.json"
+          if node apps/spotify-scout/src/check-terminal-snapshot.js "$request_path" "$snapshot_path"; then
+            exit 0
+          else
+            snapshot_state=$?
+            if [[ "$snapshot_state" -eq 2 ]]; then
+              echo "A conflicting terminal snapshot already exists for this runId."
+              exit 1
+            fi
+          fi
+
+          source_commit="$(node -e 'const fs=require("fs"); process.stdout.write(JSON.parse(fs.readFileSync(process.argv[1], "utf8")).sourceCommit)' "$request_path")"
+          if ! git merge-base --is-ancestor "$source_commit" "$GITHUB_SHA"; then
+            echo "scout-request sourceCommit is not an ancestor of this workflow commit."
+            exit 1
+          fi
+
+          resolver_inputs=(
+            "playlists/groove-over-noise/ledger.md"
+            "playlists/groove-over-noise/rejected.md"
+            "playlists/groove-over-noise/revisit.md"
+            "playlists/groove-over-noise/discoveries.md"
+          )
+          if ! git diff --quiet "$source_commit" "$GITHUB_SHA" -- "${resolver_inputs[@]}"; then
+            echo "Resolver inputs changed after scout-request sourceCommit; create a new runId from current state."
+            exit 1
+          fi
+
+      - name: Test scout lifecycle
+        run: node --test apps/spotify-scout/test/*.test.js
 
       - name: Build scout data
         run: node apps/spotify-scout/src/index.js
@@ -55,9 +95,30 @@ jobs:
           for attempt in 1 2 3 4; do
             git fetch origin main
 
-            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- playlists/groove-over-noise/scout-request.json; then
-              echo "A newer scout request exists; skipping stale candidate data."
+            resolver_inputs=(
+              "playlists/groove-over-noise/scout-request.json"
+              "playlists/groove-over-noise/ledger.md"
+              "playlists/groove-over-noise/rejected.md"
+              "playlists/groove-over-noise/revisit.md"
+              "playlists/groove-over-noise/discoveries.md"
+            )
+            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- "${resolver_inputs[@]}"; then
+              echo "A newer scout request or resolver input exists; skipping stale candidate data."
               exit 0
+            fi
+
+            origin_snapshot="$temp_dir/origin-scout-data.json"
+            if git show origin/main:playlists/groove-over-noise/scout-data.json > "$origin_snapshot" 2>/dev/null; then
+              if node apps/spotify-scout/src/check-terminal-snapshot.js playlists/groove-over-noise/scout-request.json "$origin_snapshot"; then
+                echo "Matching terminal scout snapshot already exists; preserving it."
+                exit 0
+              else
+                snapshot_state=$?
+                if [[ "$snapshot_state" -eq 2 ]]; then
+                  echo "A conflicting terminal snapshot already exists on origin/main."
+                  exit 1
+                fi
+              fi
             fi
 
             git reset --hard origin/main

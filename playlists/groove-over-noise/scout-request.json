@@ -1,5 +1,9 @@
 {
-  "runId": "2026-08-04T06:25:44Z-explore",
+  "schemaVersion": 2,
+  "runId": "2026-08-04T13:56:41Z-explore-recovery",
+  "sourceCommit": "973338f33568c99176a4c75fa09617b9bbd27e61",
+  "recoveryOfRunId": "2026-08-04T06:25:44Z-explore",
+  "recoveryReason": "Resolve the already documented 2026-08-04 outward scan under the repaired immutable lead-to-candidate lifecycle; no new discovery scan is claimed.",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
@@ -34,14 +38,14 @@
       "Tracks supported only by generic release-level language, without a concrete belonging hypothesis, were excluded.",
       "No candidate placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
     ],
-    "shortlist": [
+    "rankedResolutionLeads": [
       "Micha Machine — Umbral",
       "Kaspiann — Henkinen",
       "Vinicius Honorio — La Luna"
     ],
     "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report. Unknown BPM remains unknown."
   },
-  "candidates": [
+  "leads": [
     {
       "artist": "Micha Machine",
       "track": "Umbral",
@@ -50,7 +54,7 @@
       "bpm": 137,
       "bpmSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
       "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
-      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after AB01 and before Flowing",
@@ -80,7 +84,7 @@
       "bpm": null,
       "bpmSource": null,
       "discoverySource": "Official Vala release, 2026-07-31: https://valaseries.bandcamp.com/album/vala-5",
-      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "second-wave or third-wave interior only if verified BPM preserves both neighbour steps",
@@ -108,7 +112,7 @@
       "bpm": null,
       "bpmSource": null,
       "discoverySource": "Official Liberta Records release, 2026-07-31: https://libertarecords.bandcamp.com/album/corpo-fechado",
-      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "a non-protected release or bridge stage only if verified BPM preserves both neighbour steps",
