@@ -101,6 +101,8 @@ jobs:
               "playlists/groove-over-noise/rejected.md"
               "playlists/groove-over-noise/revisit.md"
               "playlists/groove-over-noise/discoveries.md"
+              "apps/spotify-scout"
+              ".github/workflows/spotify-scout.yml"
             )
             if ! git diff --quiet "$GITHUB_SHA"..origin/main -- "${resolver_inputs[@]}"; then
               echo "A newer scout request or resolver input exists; skipping stale candidate data."

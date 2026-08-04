@@ -4,6 +4,8 @@ import { pathToFileURL } from 'node:url';
 
 import { canonicalJson, validateRequest } from './index.js';
 
+const LEGACY_SALVAGE_CUTOFF_COMMIT = '973338f33568c99176a4c75fa09617b9bbd27e61';
+
 function normalizedRecoveryReceipt(receipt) {
   if (!receipt || typeof receipt !== 'object') return receipt;
   const normalized = structuredClone(receipt);
@@ -22,7 +24,7 @@ function normalizedRecoveryLeads(request) {
   });
 }
 
-export function validateRequestHistory(current, historicalRequests) {
+export function validateRequestHistory(current, historicalRequests, { isLegacyCommitAllowed = () => false } = {}) {
   validateRequest(current, { requireCurrentSchema: true });
   const currentContent = canonicalJson(current);
   const entries = historicalRequests.map((historical) => (
@@ -41,7 +43,8 @@ export function validateRequestHistory(current, historicalRequests) {
   }
 
   if (current.recoveryOfRunId) {
-    const recovered = entries.find(({ request: historical }) => historical.runId === current.recoveryOfRunId);
+    const recoveredEntries = entries.filter(({ request: historical }) => historical.runId === current.recoveryOfRunId);
+    const recovered = recoveredEntries[0];
     if (!recovered) {
       throw new Error(`Recovery source runId ${current.recoveryOfRunId} does not exist in scout-request history`);
     }
@@ -56,6 +59,20 @@ export function validateRequestHistory(current, historicalRequests) {
       === canonicalJson(normalizedRecoveryLeads(current));
     if (!sameMode || !sameTarget || !sameReceipt || !sameLeads) {
       throw new Error('Recovery request must preserve the source run mode, target, receipt, and ranked leads exactly');
+    }
+
+    const sourceVariants = new Set(recoveredEntries.map(({ request: historical }) => canonicalJson(historical)));
+    const sourceCommits = [...new Set(recoveredEntries.map(({ commit }) => commit).filter(Boolean))].sort();
+    if (sourceVariants.size > 1) {
+      const declaredCommits = [...(current.legacySalvage?.sourceCommits ?? [])].sort();
+      if (!current.legacySalvage || canonicalJson(declaredCommits) !== canonicalJson(sourceCommits)) {
+        throw new Error('Recovery source runId was mutated; legacySalvage must enumerate every conflicting source commit');
+      }
+      if (sourceCommits.some((commit) => !isLegacyCommitAllowed(commit))) {
+        throw new Error('legacySalvage is restricted to source commits at or before immutable-history enforcement');
+      }
+    } else if (current.legacySalvage) {
+      throw new Error('legacySalvage is allowed only for a historically mutated recovery source');
     }
   }
 }
@@ -79,7 +96,16 @@ async function main() {
     }
   }
 
-  validateRequestHistory(current, historicalRequests);
+  const isLegacyCommitAllowed = (commit) => {
+    try {
+      execFileSync('git', ['merge-base', '--is-ancestor', commit, LEGACY_SALVAGE_CUTOFF_COMMIT], { stdio: 'ignore' });
+      return true;
+    } catch (error) {
+      if (error?.status === 1) return false;
+      throw error;
+    }
+  };
+  validateRequestHistory(current, historicalRequests, { isLegacyCommitAllowed });
   console.log(`Validated schemaVersion ${current.schemaVersion} request history for ${current.runId}`);
 }
 

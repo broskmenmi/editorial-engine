@@ -107,6 +107,8 @@ If the terminal snapshot is PARTIAL, evaluate only its unique selected candidate
 
 A resolver-only recovery of a technical failure is not another outward scan. Use a new `runId`, `recoveryOfRunId`, and `recoveryReason`; pin `sourceCommit` to the commit containing the failed request; and preserve the original mode, target, receipt, and ranked leads exactly apart from their schema-v2 migration. Continue only if canonical resolver inputs are unchanged. Attribute the result to the original scan timestamp and never present it as fresh discovery performed during recovery.
 
+If the source request itself has multiple historical contents from before enforcement, recovery additionally requires a concrete `legacySalvage.reason` and an exhaustive `legacySalvage.sourceCommits` list for every conflicting variant. The validator must prove every listed commit is at or before the hard immutable-history cutoff. Never use salvage to excuse or continue a new same-`runId` mutation.
+
 ## Evidence fields per candidate
 - **Search intent:** BELONGING, NEIGHBOUR, or BOTH.
 - **Playlist-belonging hypothesis:** belongs, uncertain, or does not belong, with reasons.

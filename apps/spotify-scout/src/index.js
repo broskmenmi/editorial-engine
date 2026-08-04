@@ -216,6 +216,16 @@ export function validateRequest(request, { requireCurrentSchema = false } = {}) 
         || typeof request.recoveryReason !== 'string' || request.recoveryReason.trim() === '')) {
       throw new Error('A recovery request must name a different recoveryOfRunId and a non-empty recoveryReason');
     }
+    if (request.legacySalvage !== undefined) {
+      if (!request.recoveryOfRunId || !request.legacySalvage || typeof request.legacySalvage !== 'object'
+        || typeof request.legacySalvage.reason !== 'string' || request.legacySalvage.reason.trim() === ''
+        || !Array.isArray(request.legacySalvage.sourceCommits)
+        || request.legacySalvage.sourceCommits.length < 2
+        || request.legacySalvage.sourceCommits.some((commit) => !/^[0-9a-f]{40}$/.test(commit))
+        || new Set(request.legacySalvage.sourceCommits).size !== request.legacySalvage.sourceCommits.length) {
+        throw new Error('legacySalvage requires a recovery, a reason, and at least two unique 40-character sourceCommits');
+      }
+    }
     request.leads.forEach((lead, index) => {
       if (typeof lead?.artist !== 'string' || lead.artist.trim() === '') {
         throw new Error(`Lead ${index + 1} must contain an artist`);

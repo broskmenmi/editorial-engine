@@ -1,9 +1,16 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-04T13:56:41Z-explore-recovery",
+  "runId": "2026-08-04T14:19:29Z-explore-legacy-recovery",
   "sourceCommit": "973338f33568c99176a4c75fa09617b9bbd27e61",
   "recoveryOfRunId": "2026-08-04T06:25:44Z-explore",
   "recoveryReason": "Resolve the already documented 2026-08-04 outward scan under the repaired immutable lead-to-candidate lifecycle; no new discovery scan is claimed.",
+  "legacySalvage": {
+    "reason": "The source request was edited under one runId before immutable-history enforcement existed; this recovery preserves the final intended request while explicitly accounting for both historical variants.",
+    "sourceCommits": [
+      "a25c567b1f2fd8d85c8eae95dfd859379348a384",
+      "973338f33568c99176a4c75fa09617b9bbd27e61"
+    ]
+  },
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",

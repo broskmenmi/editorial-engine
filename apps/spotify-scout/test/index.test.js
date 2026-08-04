@@ -259,6 +259,39 @@ test('a recovery request preserves the failed run and cites its exact commit', (
   );
 });
 
+test('recovery from a mutated source requires an exhaustive legacy salvage record', () => {
+  const newestCommit = '973338f33568c99176a4c75fa09617b9bbd27e61';
+  const olderCommit = 'a25c567b1f2fd8d85c8eae95dfd859379348a384';
+  const failed = request({ runId: '2026-08-04T11:00:00Z-explore', sourceCommit: newestCommit });
+  const older = { ...failed, target: { purpose: 'older purpose' } };
+  const recovery = request({
+    runId: '2026-08-04T12:00:00Z-explore-recovery',
+    sourceCommit: newestCommit,
+    recoveryOfRunId: failed.runId,
+    recoveryReason: 'Complete identity resolution without claiming another scan.',
+  });
+  const history = [
+    { commit: newestCommit, request: failed },
+    { commit: olderCommit, request: older },
+  ];
+
+  assert.throws(() => validateRequestHistory(recovery, history), /legacySalvage must enumerate/);
+  assert.doesNotThrow(() => validateRequestHistory({
+    ...recovery,
+    legacySalvage: {
+      reason: 'Explicitly account for the pre-enforcement mutation.',
+      sourceCommits: [olderCommit, newestCommit],
+    },
+  }, history, { isLegacyCommitAllowed: () => true }));
+  assert.throws(() => validateRequestHistory({
+    ...recovery,
+    legacySalvage: {
+      reason: 'Attempt to salvage a post-enforcement mutation.',
+      sourceCommits: [olderCommit, newestCommit],
+    },
+  }, history), /restricted to source commits/);
+});
+
 test('malformed terminal snapshots are rejected even when request identities match', () => {
   const current = request();
   const valid = buildSnapshot({

@@ -87,6 +87,8 @@ Treat request entries and candidates separately. New `schemaVersion: 2` requests
 
 For a resolver-only recovery, require a new `runId`, `recoveryOfRunId`, a concrete `recoveryReason`, `sourceCommit` equal to the commit containing the failed request, unchanged canonical resolver inputs, and exact preservation of the original mode, target, receipt, and ranked leads apart from schema-v2 migration. Audit it as completion of the original scan at its original timestamp, not as a second fresh exploration run.
 
+If that source run has conflicting historical contents, require `legacySalvage.reason`, an exhaustive `legacySalvage.sourceCommits` list covering every variant, and mechanical proof that every listed commit is at or before the immutable-history cutoff. Missing disclosure or a post-cutoff source is a veto. Treat salvage only as an explicit migration of pre-enforcement history, never as permission for a new mutation.
+
 Reject or revise the run when:
 
 - unchanged repository state or an old snapshot was presented as fresh discovery;
