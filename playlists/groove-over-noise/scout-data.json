@@ -1,6 +1,9 @@
 {
-  "generatedAt": "2026-08-03T22:10:27.031Z",
-  "runId": "2026-08-03T21:54:26Z-explore",
+  "schemaVersion": 2,
+  "requestFingerprint": "469b80b7d131c74b314b5b74dd0b8ea80e1ffc410dc6728c30bfb9b907bf549d",
+  "generatedAt": "2026-08-04T14:13:41.333Z",
+  "runId": "2026-08-04T13:56:41Z-explore-recovery",
+  "sourceCommit": "973338f33568c99176a4c75fa09617b9bbd27e61",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
@@ -9,299 +12,289 @@
     "purpose": "test whether fresh music or overlooked catalogue creates a meaningful new possibility without inventing a pre-existing gap"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-03T21:54:26Z",
-    "scope": "approximately 80 track listings across approximately 14 release and catalogue pages, followed by exact Spotify identity and BPM resolution",
+    "timestamp": "2026-08-04T06:25:44Z",
+    "scope": "approximately 70 track listings across approximately 18 current-release, adjacent-label and catalogue pages, followed by exact Spotify identity resolution for the three strongest evidence-qualified candidates",
     "sourceFamilies": {
       "currentReleases": [
-        "Mutual Rytm releases from May to July 2026",
-        "HAYES releases from May to July 2026",
-        "AURA, Ostgut Ton, Token, MindTrip and SK_Eleven releases"
+        "Bandcamp release window 2026-07-31 through 2026-08-04: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "Bandcamp release window 2026-07-31 through 2026-08-04: https://libertarecords.bandcamp.com/album/corpo-fechado",
+        "Bandcamp release window 2026-07-31 through 2026-08-04: https://enoraeb.bandcamp.com/album/mer"
       ],
       "adjacentAndEmerging": [
-        "Phil Berg, Deano (ZA), Bürt, Kaan Pirecioglu, Oisel and DJ Dextro",
-        "labels adjacent to VIL, Alarico, Altinbas and Rene Wise"
+        "Vala label and Kaspiann/Konduku release window: https://valaseries.bandcamp.com/album/vala-5",
+        "Mind Medizin Hermanas series and Micha Machine/Valesuchi release window: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "Liberta Records and Vinicius Honorio release window: https://libertarecords.bandcamp.com/album/corpo-fechado"
       ],
       "overlookedCatalogue": [
-        "Basic Channel",
-        "Fergus Sweetland and older HAYES catalogue",
-        "older Token compilations and Nørbak"
+        "Boomkat catalogue query window for hypnotic, syncopated and percussive techno; inspected Plebeian's 2021 Tannins EP: https://boomkat.com/products/tannins",
+        "Official Eternal Ocean catalogue source for Plebeian's 2021 Tannins EP: https://plebeian.bandcamp.com/album/tannins-ep",
+        "Beatport raw/deep/hypnotic catalogue query window through 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks"
       ]
     },
-    "boundaries": "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso.",
-    "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report."
+    "exclusions": [
+      "Impact-, distortion- or relentless-pressure-led material was excluded before shortlist evaluation.",
+      "Valesuchi — MV was excluded at 115 BPM because it has no lawful position in the canonical tempo path.",
+      "Plebeian — Tannins was excluded at 123 BPM because its only numerically plausible area would disturb the protected ending.",
+      "Tracks supported only by generic release-level language, without a concrete belonging hypothesis, were excluded.",
+      "No candidate placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
+    ],
+    "rankedResolutionLeads": [
+      "Micha Machine — Umbral",
+      "Kaspiann — Henkinen",
+      "Vinicius Honorio — La Luna"
+    ],
+    "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report. Unknown BPM remains unknown."
   },
-  "source": "Exact Spotify identity from supplied public IDs, album metadata, or one unambiguous exact Spotify search match; BPM from the declared external source.",
+  "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 2,
+  "resolvedCount": 1,
+  "candidateCount": 1,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Deano (ZA)",
-      "track": "Kazoo (Stripped Version)",
-      "error": "direct Spotify track identity mismatch",
+      "artist": "Kaspiann",
+      "track": "Henkinen",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Deano (ZA)",
-        "track": "Kazoo (Stripped Version)",
-        "spotifyTrackId": "5ovrfaChUoqnedc5ZmUEvg",
-        "bpm": 136,
-        "bpmSource": "Volumo exact track metadata: https://volumo.com/track/6191412-kazoo-stripped-version",
-        "discoverySource": "Official HAYES release, 2026-05-08: https://hayescollective.bandcamp.com/album/kazoo",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "artist": "Kaspiann",
+        "track": "Henkinen",
+        "album": "VALA 5",
+        "releaseDate": "2026-07-31",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Vala release, 2026-07-31: https://valaseries.bandcamp.com/album/vala-5",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Wurk and before Ottagone 001",
-            "incomingBpm": 136,
-            "candidateBpm": 136,
-            "outgoingBpm": 138,
-            "role": "opening groove-formation extension after the protected handoff"
+            "position": "second-wave or third-wave interior only if verified BPM preserves both neighbour steps",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "role": "taut loop-minimal immersion stage"
           }
         ],
-        "fitHypothesis": "It may extend bodily trust after Wurk without making the opening feel like a new scene, but even a restrained extra stage may dilute the concise opening identity.",
+        "fitHypothesis": "The attributed taut, looped-up minimalism may provide restrained cyclical immersion, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
         "evidence": {
           "measured": [
-            "136 BPM",
-            "5:17 duration",
-            "released 2026-05-08"
+            "released 2026-07-31"
           ],
-          "attributedDescription": "HAYES describes the release as a meeting of restraint and precision.",
+          "attributedDescription": "Vala describes this exact track as taut, looped-up minimalism, and the release as precision-built for immersive drawn-out blends.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "Vinicius Honorio",
+      "track": "La Luna",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Vinicius Honorio",
+        "track": "La Luna",
+        "album": "Corpo Fechado",
+        "releaseDate": "2026-07-31",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Liberta Records release, 2026-07-31: https://libertarecords.bandcamp.com/album/corpo-fechado",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "a non-protected release or bridge stage only if verified BPM preserves both neighbour steps",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "role": "warm swinging minimal release stage"
+          }
+        ],
+        "fitHypothesis": "Its attributed warm samba-influenced swing and minimal framework may add bodily groove without spectacle, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
+        "evidence": {
+          "measured": [
+            "4:08 duration",
+            "released 2026-07-31"
+          ],
+          "attributedDescription": "Liberta Records describes this exact track as hypnotic nocturnal space with subtle samba influence, a warm swinging undercurrent and a minimal framework.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "artist": "Micha Machine",
+      "track": "Umbral",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Lady Tazz presents Hermanas (Part Four)\" but Spotify returned \"Lady Tazz Presents Hermanas, Pt. 4\""
+    }
+  ],
   "outcomes": [
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Micha Machine",
+        "track": "Umbral",
+        "album": "Lady Tazz presents Hermanas (Part Four)",
+        "releaseDate": "2026-07-31",
+        "bpm": 137,
+        "bpmSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
+        "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": 137,
+            "outgoingBpm": 138,
+            "role": "organic rhythmic threshold into the third-wave rebuild"
+          }
+        ],
+        "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
+        "evidence": {
+          "measured": [
+            "137 BPM",
+            "6:04 duration",
+            "released 2026-07-31"
+          ],
+          "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "2ggGyAvH67AT1gXtlfuB7s",
+      "selected": true
+    },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Deano (ZA)",
-        "track": "Kazoo (Stripped Version)",
-        "spotifyTrackId": "5ovrfaChUoqnedc5ZmUEvg",
-        "bpm": 136,
-        "bpmSource": "Volumo exact track metadata: https://volumo.com/track/6191412-kazoo-stripped-version",
-        "discoverySource": "Official HAYES release, 2026-05-08: https://hayescollective.bandcamp.com/album/kazoo",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "artist": "Kaspiann",
+        "track": "Henkinen",
+        "album": "VALA 5",
+        "releaseDate": "2026-07-31",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Vala release, 2026-07-31: https://valaseries.bandcamp.com/album/vala-5",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Wurk and before Ottagone 001",
-            "incomingBpm": 136,
-            "candidateBpm": 136,
-            "outgoingBpm": 138,
-            "role": "opening groove-formation extension after the protected handoff"
+            "position": "second-wave or third-wave interior only if verified BPM preserves both neighbour steps",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "role": "taut loop-minimal immersion stage"
           }
         ],
-        "fitHypothesis": "It may extend bodily trust after Wurk without making the opening feel like a new scene, but even a restrained extra stage may dilute the concise opening identity.",
+        "fitHypothesis": "The attributed taut, looped-up minimalism may provide restrained cyclical immersion, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
         "evidence": {
           "measured": [
-            "136 BPM",
-            "5:17 duration",
-            "released 2026-05-08"
+            "released 2026-07-31"
           ],
-          "attributedDescription": "HAYES describes the release as a meeting of restraint and precision.",
+          "attributedDescription": "Vala describes this exact track as taut, looped-up minimalism, and the release as precision-built for immersive drawn-out blends.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       },
-      "error": "direct Spotify track identity mismatch"
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Dextro",
-        "track": "Industria Acéfala",
-        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
-        "bpm": 140,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "artist": "Vinicius Honorio",
+        "track": "La Luna",
+        "album": "Corpo Fechado",
+        "releaseDate": "2026-07-31",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Liberta Records release, 2026-07-31: https://libertarecords.bandcamp.com/album/corpo-fechado",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Ottagone 001 and before Miss Perez",
-            "incomingBpm": 138,
-            "candidateBpm": 140,
-            "outgoingBpm": 142,
-            "role": "early first-wave groove-development stage before crest approach"
+            "position": "a non-protected release or bridge stage only if verified BPM preserves both neighbour steps",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "role": "warm swinging minimal release stage"
           }
         ],
-        "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+        "fitHypothesis": "Its attributed warm samba-influenced swing and minimal framework may add bodily groove without spectacle, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "5:03 duration",
-            "released 2026-06-05"
+            "4:08 duration",
+            "released 2026-07-31"
           ],
-          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+          "attributedDescription": "Liberta Records describes this exact track as hypnotic nocturnal space with subtle samba influence, a warm swinging undercurrent and a minimal framework.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "02cniEHoBnELxWX54JkDuF"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Basic Channel",
-        "track": "Octagon",
-        "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w",
-        "bpm": 141,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
-        "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
-        "proposedPlacements": [
-          {
-            "position": "after F Track and before Tragoidia",
-            "incomingBpm": 140,
-            "candidateBpm": 141,
-            "outgoingBpm": 141,
-            "role": "long-form second-wave immersion chamber before the deeper crest"
-          }
-        ],
-        "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
-        "evidence": {
-          "measured": [
-            "141 BPM",
-            "approximately 12:58 duration",
-            "original single released 1994"
-          ],
-          "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w"
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "02cniEHoBnELxWX54JkDuF",
-      "uri": "spotify:track:02cniEHoBnELxWX54JkDuF",
-      "name": "Industria Acéfala",
+      "id": "2ggGyAvH67AT1gXtlfuB7s",
+      "uri": "spotify:track:2ggGyAvH67AT1gXtlfuB7s",
+      "name": "Umbral",
       "artists": [
-        "DJ Dextro"
+        "Micha Machine"
       ],
-      "album": "Planets and Stars",
-      "releaseDate": "2026-06-05",
-      "durationMs": 303735,
-      "spotifyUrl": "https://open.spotify.com/track/02cniEHoBnELxWX54JkDuF",
-      "bpm": 140,
-      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-      "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
-      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+      "album": "Lady Tazz Presents Hermanas, Pt. 4",
+      "releaseDate": "2026-07-31",
+      "durationMs": 364379,
+      "spotifyUrl": "https://open.spotify.com/track/2ggGyAvH67AT1gXtlfuB7s",
+      "bpm": 137,
+      "tempoSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
+      "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+      "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Ottagone 001 and before Miss Perez",
-          "incomingBpm": 138,
-          "candidateBpm": 140,
-          "outgoingBpm": 142,
-          "role": "early first-wave groove-development stage before crest approach"
+          "position": "after AB01 and before Flowing",
+          "incomingBpm": 136,
+          "candidateBpm": 137,
+          "outgoingBpm": 138,
+          "role": "organic rhythmic threshold into the third-wave rebuild"
         }
       ],
-      "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+      "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
       "evidence": {
         "measured": [
-          "140 BPM",
-          "5:03 duration",
-          "released 2026-06-05"
+          "137 BPM",
+          "6:04 duration",
+          "released 2026-07-31"
         ],
-        "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+        "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null
       },
       "requestedIdentity": {
-        "artist": "DJ Dextro",
-        "track": "Industria Acéfala",
-        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
-        "bpm": 140,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
+        "artist": "Micha Machine",
+        "track": "Umbral",
+        "album": "Lady Tazz presents Hermanas (Part Four)",
+        "releaseDate": "2026-07-31",
+        "bpm": 137,
+        "bpmSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
+        "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Ottagone 001 and before Miss Perez",
-            "incomingBpm": 138,
-            "candidateBpm": 140,
-            "outgoingBpm": 142,
-            "role": "early first-wave groove-development stage before crest approach"
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": 137,
+            "outgoingBpm": 138,
+            "role": "organic rhythmic threshold into the third-wave rebuild"
           }
         ],
-        "fitHypothesis": "It may lengthen the first rise through repetition and tension rather than spectacle, but the attributed scratchy texture and unsettling tension may cross the playlist's attention-over-groove boundary.",
+        "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "5:03 duration",
-            "released 2026-06-05"
+            "137 BPM",
+            "6:04 duration",
+            "released 2026-07-31"
           ],
-          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "0lbeEcQXDMou9NkShtfz9w",
-      "uri": "spotify:track:0lbeEcQXDMou9NkShtfz9w",
-      "name": "Octagon",
-      "artists": [
-        "Basic Channel"
-      ],
-      "album": "Octagon",
-      "releaseDate": "1994",
-      "durationMs": 777340,
-      "spotifyUrl": "https://open.spotify.com/track/0lbeEcQXDMou9NkShtfz9w",
-      "bpm": 141,
-      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
-      "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
-      "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
-      "proposedPlacements": [
-        {
-          "position": "after F Track and before Tragoidia",
-          "incomingBpm": 140,
-          "candidateBpm": 141,
-          "outgoingBpm": 141,
-          "role": "long-form second-wave immersion chamber before the deeper crest"
-        }
-      ],
-      "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
-      "evidence": {
-        "measured": [
-          "141 BPM",
-          "approximately 12:58 duration",
-          "original single released 1994"
-        ],
-        "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Basic Channel",
-        "track": "Octagon",
-        "spotifyTrackId": "0lbeEcQXDMou9NkShtfz9w",
-        "bpm": 141,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/octagon-original-mix/4730447/",
-        "discoverySource": "Boomkat catalogue and repress review: https://boomkat.com/products/octagon-fead08c5-d51d-4acf-988d-b1c6456e2fc5",
-        "searchIntent": "BELONGING_THEN_EXACT_NEIGHBOURS",
-        "proposedPlacements": [
-          {
-            "position": "after F Track and before Tragoidia",
-            "incomingBpm": 140,
-            "candidateBpm": 141,
-            "outgoingBpm": 141,
-            "role": "long-form second-wave immersion chamber before the deeper crest"
-          }
-        ],
-        "fitHypothesis": "It may add extended historical dub-techno reduction rather than another short contemporary bridge, but its approximately thirteen-minute duration may dominate the second wave or weaken Tragoidia's crest authority.",
-        "evidence": {
-          "measured": [
-            "141 BPM",
-            "approximately 12:58 duration",
-            "original single released 1994"
-          ],
-          "attributedDescription": "Boomkat describes an exceptionally reduced, snare-light, hypnotic dub-techno construction sustained through minimal elements and effects.",
+          "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       }
     }
-  ]
+  ],
+  "resolvedAlternates": []
 }
