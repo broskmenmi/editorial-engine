@@ -1,193 +1,233 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "4f22344df31cc6cec549555410d06eb776c6e89497d429b7c0ce9d47bfca63e5",
-  "generatedAt": "2026-08-04T14:21:29.958Z",
-  "runId": "2026-08-04T14:19:29Z-explore-legacy-recovery",
-  "sourceCommit": "973338f33568c99176a4c75fa09617b9bbd27e61",
+  "requestFingerprint": "14e48e666939035018541a20f2b346da9109e8def25680f6d63afb17ed5a21b0",
+  "generatedAt": "2026-08-04T16:59:47.990Z",
+  "runId": "2026-08-04T16:59:32Z-explore",
+  "sourceCommit": "736e58596c5df5fa4e5f1053d8d4c73910f49a5a",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
     "position": "outside all frozen and protected regions; placement selected only after belonging",
     "neighbours": [],
-    "purpose": "test whether fresh music or overlooked catalogue creates a meaningful new possibility without inventing a pre-existing gap"
+    "purpose": "test whether current releases, adjacent artists, or overlooked catalogue create a meaningful new possibility without inventing a pre-existing gap"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-04T06:25:44Z",
-    "scope": "approximately 70 track listings across approximately 18 current-release, adjacent-label and catalogue pages, followed by exact Spotify identity resolution for the three strongest evidence-qualified candidates",
+    "timestamp": "2026-08-04T16:59:32Z",
+    "scope": "approximately 167 named track listings across approximately 37 official release or catalogue pages, plus 64 catalogue tiles screened across current releases, adjacent and emerging artists, and overlooked 2019–2025 catalogue",
     "sourceFamilies": {
       "currentReleases": [
-        "Bandcamp release window 2026-07-31 through 2026-08-04: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
-        "Bandcamp release window 2026-07-31 through 2026-08-04: https://libertarecords.bandcamp.com/album/corpo-fechado",
-        "Bandcamp release window 2026-07-31 through 2026-08-04: https://enoraeb.bandcamp.com/album/mer"
+        "Official We Are The Brave release, 2026-07-31: https://wearethebraveofficial.bandcamp.com/album/clueless-ep",
+        "Official Oslated anniversary release, 2026-07-31: https://oslated.bandcamp.com/album/oslated-10th-anniversary-presence-ii-osc010",
+        "Official CEP Records release, 2026-07-31: https://cep-records.bandcamp.com/album/cepx002-metalwork",
+        "Official Navigare Audio release, 2026-07-31: https://navigareaudio.bandcamp.com/album/uncharted-echoes-incl-luigi-tozzi-remix"
       ],
       "adjacentAndEmerging": [
-        "Vala label and Kaspiann/Konduku release window: https://valaseries.bandcamp.com/album/vala-5",
-        "Mind Medizin Hermanas series and Micha Machine/Valesuchi release window: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
-        "Liberta Records and Vinicius Honorio release window: https://libertarecords.bandcamp.com/album/corpo-fechado"
+        "Official Nexe Records release: https://nexerecords.bandcamp.com/album/nx1-deprogramation-ep",
+        "Official Sublunar release: https://sublunarrecords.bandcamp.com/album/one-touch",
+        "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/d-rin"
       ],
       "overlookedCatalogue": [
-        "Boomkat catalogue query window for hypnotic, syncopated and percussive techno; inspected Plebeian's 2021 Tannins EP: https://boomkat.com/products/tannins",
-        "Official Eternal Ocean catalogue source for Plebeian's 2021 Tannins EP: https://plebeian.bandcamp.com/album/tannins-ep",
-        "Beatport raw/deep/hypnotic catalogue query window through 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks"
+        "Official Border One Records catalogue release: https://borderonerecords.bandcamp.com/album/echoes-from-the-abyss",
+        "Official Token Records catalogue release: https://tokenrecords.bandcamp.com/album/voyage-ep",
+        "Official Token Records catalogue release: https://tokenrecords.bandcamp.com/album/flauta",
+        "SK_eleven, Hayes, Klockworks, and Token catalogues screened across 2019–2025"
       ]
     },
     "exclusions": [
-      "Impact-, distortion- or relentless-pressure-led material was excluded before shortlist evaluation.",
-      "Valesuchi — MV was excluded at 115 BPM because it has no lawful position in the canonical tempo path.",
-      "Plebeian — Tannins was excluded at 123 BPM because its only numerically plausible area would disturb the protected ending.",
-      "Tracks supported only by generic release-level language, without a concrete belonging hypothesis, were excluded.",
-      "No candidate placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
+      "The prior 2026-08-04 leads Umbral, Henkinen and La Luna were not reused.",
+      "Current ledger, rejected history and dormant revisit entries were excluded before ranking.",
+      "Impact-, distortion-, metallic-attention- or relentless-pressure-led material was excluded unless it offered a clearly distinct low-attention function.",
+      "Reeko — Gathering 1 and Gathering 2 were excluded at an official 160 BPM because they have no lawful canonical position.",
+      "Tracks supported only by generic release-level language, without a concrete belonging hypothesis and non-frozen test position, were excluded.",
+      "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
     ],
     "rankedResolutionLeads": [
-      "Micha Machine — Umbral",
-      "Kaspiann — Henkinen",
-      "Vinicius Honorio — La Luna"
+      "Border One — Echoes From The Abyss",
+      "Altinbas — Voyage",
+      "NX1 — Deprogramation 2",
+      "JSPR — Warme Soep (Extended Mix)",
+      "Nørbak — Camarada",
+      "Clotur — Endless Pattern",
+      "Phil Berg — Tanoo"
     ],
-    "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report. Unknown BPM remains unknown."
+    "evidenceLimit": "Metadata, exact BPM listings and attributed release notes only; no raw-audio analysis and no candidate listener report. Unknown BPM remains unknown."
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 1,
-  "candidateCount": 1,
+  "requestedCount": 7,
+  "resolvedCount": 6,
+  "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Kaspiann",
-      "track": "Henkinen",
+      "artist": "JSPR",
+      "track": "Warme Soep (Extended Mix)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Kaspiann",
-        "track": "Henkinen",
-        "album": "VALA 5",
+        "artist": "JSPR",
+        "track": "Warme Soep (Extended Mix)",
+        "album": "Clueless EP",
         "releaseDate": "2026-07-31",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "Official Vala release, 2026-07-31: https://valaseries.bandcamp.com/album/vala-5",
+        "discoverySource": "Official We Are The Brave release: https://wearethebraveofficial.bandcamp.com/album/clueless-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "second-wave or third-wave interior only if verified BPM preserves both neighbour steps",
-            "incomingBpm": null,
+            "position": "after Bionic Jungle and before AB01 only if verified BPM preserves both neighbour steps",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "role": "taut loop-minimal immersion stage"
+            "outgoingBpm": 136,
+            "role": "spacious second-wave release pocket"
           }
         ],
-        "fitHypothesis": "The attributed taut, looped-up minimalism may provide restrained cyclical immersion, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
+        "fitHypothesis": "Its attributed groove-led, spaced-out, hypnotic character may offer a roomy release pocket, but it may duplicate the existing Bionic Jungle to AB01 release function.",
         "evidence": {
           "measured": [
+            "6:38 duration",
             "released 2026-07-31"
           ],
-          "attributedDescription": "Vala describes this exact track as taut, looped-up minimalism, and the release as precision-built for immersive drawn-out blends.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "Vinicius Honorio",
-      "track": "La Luna",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Vinicius Honorio",
-        "track": "La Luna",
-        "album": "Corpo Fechado",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "Official Liberta Records release, 2026-07-31: https://libertarecords.bandcamp.com/album/corpo-fechado",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "a non-protected release or bridge stage only if verified BPM preserves both neighbour steps",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "role": "warm swinging minimal release stage"
-          }
-        ],
-        "fitHypothesis": "Its attributed warm samba-influenced swing and minimal framework may add bodily groove without spectacle, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
-        "evidence": {
-          "measured": [
-            "4:08 duration",
-            "released 2026-07-31"
-          ],
-          "attributedDescription": "Liberta Records describes this exact track as hypnotic nocturnal space with subtle samba influence, a warm swinging undercurrent and a minimal framework.",
+          "attributedDescription": "We Are The Brave describes this exact extended mix as groove-led, with spaced-out atmospheres, rolling percussion, subtle tech textures and hypnotic spacious energy.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       }
     }
   ],
-  "warnings": [
-    {
-      "artist": "Micha Machine",
-      "track": "Umbral",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Lady Tazz presents Hermanas (Part Four)\" but Spotify returned \"Lady Tazz Presents Hermanas, Pt. 4\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Micha Machine",
-        "track": "Umbral",
-        "album": "Lady Tazz presents Hermanas (Part Four)",
-        "releaseDate": "2026-07-31",
-        "bpm": 137,
-        "bpmSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
-        "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "artist": "Border One",
+        "track": "Echoes From The Abyss",
+        "album": "Echoes From The Abyss",
+        "releaseDate": "2024-11-29",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/t/19687238",
+        "discoverySource": "Official Border One Records release: https://borderonerecords.bandcamp.com/album/echoes-from-the-abyss",
+        "spotifyAlbumId": "2IiFNaaVtIJxsvZqYPnoCv",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": 137,
-            "outgoingBpm": 138,
-            "role": "organic rhythmic threshold into the third-wave rebuild"
+            "position": "after Nasty Tool and before Tenta Tiv",
+            "incomingBpm": 138,
+            "candidateBpm": 138,
+            "outgoingBpm": 139,
+            "role": "third-wave groove reservoir before the summit approach"
           }
         ],
-        "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
+        "fitHypothesis": "Its attributed cerebral but bouncy groove, shimmering synth veil and hypnotic character may deepen the third-wave interior without adding another crest; the synth layer may instead become attention-forward or delay the summit.",
         "evidence": {
           "measured": [
-            "137 BPM",
-            "6:04 duration",
-            "released 2026-07-31"
+            "138 BPM",
+            "released 2024-11-29"
           ],
-          "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
+          "attributedDescription": "Border One Records describes the release in terms of resonant, cerebral yet bouncy groove, a shimmering synth veil and hypnotic motion.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "2ggGyAvH67AT1gXtlfuB7s",
+      "spotifyTrackId": "7d8XQq6ahVMIl19LoudVb2",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Altinbas",
+        "track": "Voyage",
+        "album": "Voyage EP",
+        "releaseDate": "2025-01-24",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/voyage/19916710",
+        "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/voyage-ep",
+        "spotifyTrackId": "1n9Mhcj5CrRS5Xtb5E3yv5",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Ottagone 001",
+            "incomingBpm": 136,
+            "candidateBpm": 138,
+            "outgoingBpm": 138,
+            "role": "warm early-immersion shelf after the protected opening pair"
+          }
+        ],
+        "fitHypothesis": "Its attributed smooth, introspective roller character, warmth and space may let the opening settle before the first rise; it may duplicate Ottagone 001 or overrepresent Altinbas.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2025-01-24 on the official label page"
+          ],
+          "attributedDescription": "Token Records describes this exact track as a smooth introspective club roller with warmth, anticipation and space to breathe.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "1n9Mhcj5CrRS5Xtb5E3yv5",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "NX1",
+        "track": "Deprogramation 2",
+        "album": "Deprogramation EP",
+        "releaseDate": "2026-05-25",
+        "bpm": 137,
+        "bpmSource": "Volumo exact-track listing: https://volumo.com/track/6248398-deprogramation-2",
+        "discoverySource": "Official Nexe Records release: https://nexerecords.bandcamp.com/album/nx1-deprogramation-ep",
+        "spotifyTrackId": "1l5dWskc7A9d3DkjYuS5B9",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Bionic Jungle and before AB01",
+            "incomingBpm": 137,
+            "candidateBpm": 137,
+            "outgoingBpm": 136,
+            "role": "late second-wave rhythmic suspension before the release extension"
+          }
+        ],
+        "fitHypothesis": "Its attributed impeccable groove, steady pulse and subtle variation may create a restrained rhythmic suspension; it may merely duplicate Bionic Jungle and AB01's existing release work.",
+        "evidence": {
+          "measured": [
+            "137 BPM",
+            "6:12 duration",
+            "released 2026-05-25"
+          ],
+          "attributedDescription": "Nexe Records describes this exact track as a loopy pattern with impeccable groove, steady pulse, subtle variations and functional efficiency.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "1l5dWskc7A9d3DkjYuS5B9",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Kaspiann",
-        "track": "Henkinen",
-        "album": "VALA 5",
+        "artist": "JSPR",
+        "track": "Warme Soep (Extended Mix)",
+        "album": "Clueless EP",
         "releaseDate": "2026-07-31",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "Official Vala release, 2026-07-31: https://valaseries.bandcamp.com/album/vala-5",
+        "discoverySource": "Official We Are The Brave release: https://wearethebraveofficial.bandcamp.com/album/clueless-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "second-wave or third-wave interior only if verified BPM preserves both neighbour steps",
-            "incomingBpm": null,
+            "position": "after Bionic Jungle and before AB01 only if verified BPM preserves both neighbour steps",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "role": "taut loop-minimal immersion stage"
+            "outgoingBpm": 136,
+            "role": "spacious second-wave release pocket"
           }
         ],
-        "fitHypothesis": "The attributed taut, looped-up minimalism may provide restrained cyclical immersion, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
+        "fitHypothesis": "Its attributed groove-led, spaced-out, hypnotic character may offer a roomy release pocket, but it may duplicate the existing Bionic Jungle to AB01 release function.",
         "evidence": {
           "measured": [
+            "6:38 duration",
             "released 2026-07-31"
           ],
-          "attributedDescription": "Vala describes this exact track as taut, looped-up minimalism, and the release as precision-built for immersive drawn-out blends.",
+          "attributedDescription": "We Are The Brave describes this exact extended mix as groove-led, with spaced-out atmospheres, rolling percussion, subtle tech textures and hypnotic spacious energy.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
@@ -195,106 +235,505 @@
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Vinicius Honorio",
-        "track": "La Luna",
-        "album": "Corpo Fechado",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "Official Liberta Records release, 2026-07-31: https://libertarecords.bandcamp.com/album/corpo-fechado",
+        "artist": "Nørbak",
+        "track": "Camarada",
+        "album": "Flauta",
+        "releaseDate": "2024-11-08",
+        "bpm": 139,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/camarada/19619411",
+        "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/flauta",
+        "spotifyTrackId": "2g6av51BGlZUNmms7Ha5gB",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "a non-protected release or bridge stage only if verified BPM preserves both neighbour steps",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "role": "warm swinging minimal release stage"
+            "position": "after Blind Spot and before Bionic Jungle",
+            "incomingBpm": 140,
+            "candidateBpm": 139,
+            "outgoingBpm": 137,
+            "role": "restrained swing release inside the second wave"
           }
         ],
-        "fitHypothesis": "Its attributed warm samba-influenced swing and minimal framework may add bodily groove without spectacle, but exact-neighbour compatibility cannot be claimed until reliable BPM evidence exists.",
+        "fitHypothesis": "Its attributed minimal construction, question-and-answer swing and restraint may articulate a clean release stage; the squelching lead may be attention-forward and the role may already be occupied.",
         "evidence": {
           "measured": [
-            "4:08 duration",
-            "released 2026-07-31"
+            "139 BPM",
+            "released 2024-11-08"
           ],
-          "attributedDescription": "Liberta Records describes this exact track as hypnotic nocturnal space with subtle samba influence, a warm swinging undercurrent and a minimal framework.",
+          "attributedDescription": "Token Records describes this exact track through minimal construction, question-and-answer swing, restraint and efficiency, while also noting a squelching lead.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "2g6av51BGlZUNmms7Ha5gB",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Clotur",
+        "track": "Endless Pattern",
+        "album": "One Touch",
+        "releaseDate": "2026-06-19",
+        "bpm": 140,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/endless-pattern/29105652",
+        "discoverySource": "Official Sublunar release: https://sublunarrecords.bandcamp.com/album/one-touch",
+        "spotifyTrackId": "1tO6FbeEHT2FK0PmQA5mDj",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Tragoidia and before Blind Spot",
+            "incomingBpm": 141,
+            "candidateBpm": 140,
+            "outgoingBpm": 140,
+            "role": "deep repetitive plateau before the second-wave release"
+          }
+        ],
+        "fitHypothesis": "Its attributed deep repetitive structures may sustain immersion, but the proposed plateau may duplicate Tragoidia and Blind Spot rather than deepen the journey.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-06-19"
+          ],
+          "attributedDescription": "Sublunar describes this exact track through deep repetitive structures and a balance between modern and old-school techno.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "1tO6FbeEHT2FK0PmQA5mDj",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Phil Berg",
+        "track": "Tanoo",
+        "album": "Dārin",
+        "releaseDate": "2026-07-17",
+        "bpm": 142,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/tanoo/29375196",
+        "discoverySource": "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/d-rin",
+        "spotifyTrackId": "5ARDqlSZZXwxaYOICsCjoK",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after My Last Descent and before Trail Of",
+            "incomingBpm": 144,
+            "candidateBpm": 142,
+            "outgoingBpm": 142,
+            "role": "luminous first-wave pressure release"
+          }
+        ],
+        "fitHypothesis": "Its attributed pressure-release turn, luminous synth and trance pull may widen the first descent; linear racing drums may retain too much drive and duplicate Trail Of.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-07-17"
+          ],
+          "attributedDescription": "Mutual Rytm describes this exact track as releasing pressure through luminous synth, trance pull and linear racing drums.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "5ARDqlSZZXwxaYOICsCjoK",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "2ggGyAvH67AT1gXtlfuB7s",
-      "uri": "spotify:track:2ggGyAvH67AT1gXtlfuB7s",
-      "name": "Umbral",
+      "id": "7d8XQq6ahVMIl19LoudVb2",
+      "uri": "spotify:track:7d8XQq6ahVMIl19LoudVb2",
+      "name": "Echoes From The Abyss",
       "artists": [
-        "Micha Machine"
+        "Border One"
       ],
-      "album": "Lady Tazz Presents Hermanas, Pt. 4",
-      "releaseDate": "2026-07-31",
-      "durationMs": 364379,
-      "spotifyUrl": "https://open.spotify.com/track/2ggGyAvH67AT1gXtlfuB7s",
-      "bpm": 137,
-      "tempoSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
-      "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+      "album": "Echoes From The Abyss",
+      "releaseDate": "2024-11-29",
+      "durationMs": 316521,
+      "spotifyUrl": "https://open.spotify.com/track/7d8XQq6ahVMIl19LoudVb2",
+      "bpm": 138,
+      "tempoSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/t/19687238",
+      "discoverySource": "Official Border One Records release: https://borderonerecords.bandcamp.com/album/echoes-from-the-abyss",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after AB01 and before Flowing",
-          "incomingBpm": 136,
-          "candidateBpm": 137,
-          "outgoingBpm": 138,
-          "role": "organic rhythmic threshold into the third-wave rebuild"
+          "position": "after Nasty Tool and before Tenta Tiv",
+          "incomingBpm": 138,
+          "candidateBpm": 138,
+          "outgoingBpm": 139,
+          "role": "third-wave groove reservoir before the summit approach"
         }
       ],
-      "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
+      "fitHypothesis": "Its attributed cerebral but bouncy groove, shimmering synth veil and hypnotic character may deepen the third-wave interior without adding another crest; the synth layer may instead become attention-forward or delay the summit.",
       "evidence": {
         "measured": [
-          "137 BPM",
-          "6:04 duration",
-          "released 2026-07-31"
+          "138 BPM",
+          "released 2024-11-29"
         ],
-        "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
+        "attributedDescription": "Border One Records describes the release in terms of resonant, cerebral yet bouncy groove, a shimmering synth veil and hypnotic motion.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null
       },
       "requestedIdentity": {
-        "artist": "Micha Machine",
-        "track": "Umbral",
-        "album": "Lady Tazz presents Hermanas (Part Four)",
-        "releaseDate": "2026-07-31",
-        "bpm": 137,
-        "bpmSource": "Beatport exact genre listing, inspected 2026-08-04: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks",
-        "discoverySource": "Official Mind Medizin release, 2026-07-31: https://mindmedizinrecords.bandcamp.com/album/lady-tazz-presents-hermanas-part-four",
+        "artist": "Border One",
+        "track": "Echoes From The Abyss",
+        "album": "Echoes From The Abyss",
+        "releaseDate": "2024-11-29",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/t/19687238",
+        "discoverySource": "Official Border One Records release: https://borderonerecords.bandcamp.com/album/echoes-from-the-abyss",
+        "spotifyAlbumId": "2IiFNaaVtIJxsvZqYPnoCv",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": 137,
-            "outgoingBpm": 138,
-            "role": "organic rhythmic threshold into the third-wave rebuild"
+            "position": "after Nasty Tool and before Tenta Tiv",
+            "incomingBpm": 138,
+            "candidateBpm": 138,
+            "outgoingBpm": 139,
+            "role": "third-wave groove reservoir before the summit approach"
           }
         ],
-        "fitHypothesis": "Its attributed organic movement and intricate rhythmic detail may create a bodily threshold into the third wave, but it may duplicate Flowing's existing threshold function rather than reveal a distinct one.",
+        "fitHypothesis": "Its attributed cerebral but bouncy groove, shimmering synth veil and hypnotic character may deepen the third-wave interior without adding another crest; the synth layer may instead become attention-forward or delay the summit.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2024-11-29"
+          ],
+          "attributedDescription": "Border One Records describes the release in terms of resonant, cerebral yet bouncy groove, a shimmering synth veil and hypnotic motion.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "1n9Mhcj5CrRS5Xtb5E3yv5",
+      "uri": "spotify:track:1n9Mhcj5CrRS5Xtb5E3yv5",
+      "name": "Voyage",
+      "artists": [
+        "Altinbas"
+      ],
+      "album": "Voyage EP",
+      "releaseDate": "2025-01-24",
+      "durationMs": 424347,
+      "spotifyUrl": "https://open.spotify.com/track/1n9Mhcj5CrRS5Xtb5E3yv5",
+      "bpm": 138,
+      "tempoSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/voyage/19916710",
+      "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/voyage-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Wurk and before Ottagone 001",
+          "incomingBpm": 136,
+          "candidateBpm": 138,
+          "outgoingBpm": 138,
+          "role": "warm early-immersion shelf after the protected opening pair"
+        }
+      ],
+      "fitHypothesis": "Its attributed smooth, introspective roller character, warmth and space may let the opening settle before the first rise; it may duplicate Ottagone 001 or overrepresent Altinbas.",
+      "evidence": {
+        "measured": [
+          "138 BPM",
+          "released 2025-01-24 on the official label page"
+        ],
+        "attributedDescription": "Token Records describes this exact track as a smooth introspective club roller with warmth, anticipation and space to breathe.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Altinbas",
+        "track": "Voyage",
+        "album": "Voyage EP",
+        "releaseDate": "2025-01-24",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track listing, inspected 2026-08-04: https://www.beatport.com/track/voyage/19916710",
+        "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/voyage-ep",
+        "spotifyTrackId": "1n9Mhcj5CrRS5Xtb5E3yv5",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Ottagone 001",
+            "incomingBpm": 136,
+            "candidateBpm": 138,
+            "outgoingBpm": 138,
+            "role": "warm early-immersion shelf after the protected opening pair"
+          }
+        ],
+        "fitHypothesis": "Its attributed smooth, introspective roller character, warmth and space may let the opening settle before the first rise; it may duplicate Ottagone 001 or overrepresent Altinbas.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2025-01-24 on the official label page"
+          ],
+          "attributedDescription": "Token Records describes this exact track as a smooth introspective club roller with warmth, anticipation and space to breathe.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "1l5dWskc7A9d3DkjYuS5B9",
+      "uri": "spotify:track:1l5dWskc7A9d3DkjYuS5B9",
+      "name": "Deprogramation 2",
+      "artists": [
+        "NX1"
+      ],
+      "album": "Deprogramation EP",
+      "releaseDate": "2026-05-25",
+      "durationMs": 372203,
+      "spotifyUrl": "https://open.spotify.com/track/1l5dWskc7A9d3DkjYuS5B9",
+      "bpm": 137,
+      "tempoSource": "Volumo exact-track listing: https://volumo.com/track/6248398-deprogramation-2",
+      "discoverySource": "Official Nexe Records release: https://nexerecords.bandcamp.com/album/nx1-deprogramation-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Bionic Jungle and before AB01",
+          "incomingBpm": 137,
+          "candidateBpm": 137,
+          "outgoingBpm": 136,
+          "role": "late second-wave rhythmic suspension before the release extension"
+        }
+      ],
+      "fitHypothesis": "Its attributed impeccable groove, steady pulse and subtle variation may create a restrained rhythmic suspension; it may merely duplicate Bionic Jungle and AB01's existing release work.",
+      "evidence": {
+        "measured": [
+          "137 BPM",
+          "6:12 duration",
+          "released 2026-05-25"
+        ],
+        "attributedDescription": "Nexe Records describes this exact track as a loopy pattern with impeccable groove, steady pulse, subtle variations and functional efficiency.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "NX1",
+        "track": "Deprogramation 2",
+        "album": "Deprogramation EP",
+        "releaseDate": "2026-05-25",
+        "bpm": 137,
+        "bpmSource": "Volumo exact-track listing: https://volumo.com/track/6248398-deprogramation-2",
+        "discoverySource": "Official Nexe Records release: https://nexerecords.bandcamp.com/album/nx1-deprogramation-ep",
+        "spotifyTrackId": "1l5dWskc7A9d3DkjYuS5B9",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Bionic Jungle and before AB01",
+            "incomingBpm": 137,
+            "candidateBpm": 137,
+            "outgoingBpm": 136,
+            "role": "late second-wave rhythmic suspension before the release extension"
+          }
+        ],
+        "fitHypothesis": "Its attributed impeccable groove, steady pulse and subtle variation may create a restrained rhythmic suspension; it may merely duplicate Bionic Jungle and AB01's existing release work.",
         "evidence": {
           "measured": [
             "137 BPM",
-            "6:04 duration",
-            "released 2026-07-31"
+            "6:12 duration",
+            "released 2026-05-25"
           ],
-          "attributedDescription": "Mind Medizin describes this exact track as combining organic movement, intricate rhythmic detail and atmospheric depth.",
+          "attributedDescription": "Nexe Records describes this exact track as a loopy pattern with impeccable groove, steady pulse, subtle variations and functional efficiency.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "2g6av51BGlZUNmms7Ha5gB",
+      "uri": "spotify:track:2g6av51BGlZUNmms7Ha5gB",
+      "name": "Camarada",
+      "artists": [
+        "Nørbak"
+      ],
+      "album": "Flauta",
+      "releaseDate": "2024-11-08",
+      "durationMs": 310758,
+      "spotifyUrl": "https://open.spotify.com/track/2g6av51BGlZUNmms7Ha5gB",
+      "bpm": 139,
+      "tempoSource": "Beatport exact-track listing: https://www.beatport.com/track/camarada/19619411",
+      "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/flauta",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Blind Spot and before Bionic Jungle",
+          "incomingBpm": 140,
+          "candidateBpm": 139,
+          "outgoingBpm": 137,
+          "role": "restrained swing release inside the second wave"
+        }
+      ],
+      "fitHypothesis": "Its attributed minimal construction, question-and-answer swing and restraint may articulate a clean release stage; the squelching lead may be attention-forward and the role may already be occupied.",
+      "evidence": {
+        "measured": [
+          "139 BPM",
+          "released 2024-11-08"
+        ],
+        "attributedDescription": "Token Records describes this exact track through minimal construction, question-and-answer swing, restraint and efficiency, while also noting a squelching lead.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Nørbak",
+        "track": "Camarada",
+        "album": "Flauta",
+        "releaseDate": "2024-11-08",
+        "bpm": 139,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/camarada/19619411",
+        "discoverySource": "Official Token Records release: https://tokenrecords.bandcamp.com/album/flauta",
+        "spotifyTrackId": "2g6av51BGlZUNmms7Ha5gB",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Blind Spot and before Bionic Jungle",
+            "incomingBpm": 140,
+            "candidateBpm": 139,
+            "outgoingBpm": 137,
+            "role": "restrained swing release inside the second wave"
+          }
+        ],
+        "fitHypothesis": "Its attributed minimal construction, question-and-answer swing and restraint may articulate a clean release stage; the squelching lead may be attention-forward and the role may already be occupied.",
+        "evidence": {
+          "measured": [
+            "139 BPM",
+            "released 2024-11-08"
+          ],
+          "attributedDescription": "Token Records describes this exact track through minimal construction, question-and-answer swing, restraint and efficiency, while also noting a squelching lead.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "1tO6FbeEHT2FK0PmQA5mDj",
+      "uri": "spotify:track:1tO6FbeEHT2FK0PmQA5mDj",
+      "name": "Endless Pattern",
+      "artists": [
+        "Clotur"
+      ],
+      "album": "One Touch",
+      "releaseDate": "2026-06-19",
+      "durationMs": 329142,
+      "spotifyUrl": "https://open.spotify.com/track/1tO6FbeEHT2FK0PmQA5mDj",
+      "bpm": 140,
+      "tempoSource": "Beatport exact-track listing: https://www.beatport.com/track/endless-pattern/29105652",
+      "discoverySource": "Official Sublunar release: https://sublunarrecords.bandcamp.com/album/one-touch",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Tragoidia and before Blind Spot",
+          "incomingBpm": 141,
+          "candidateBpm": 140,
+          "outgoingBpm": 140,
+          "role": "deep repetitive plateau before the second-wave release"
+        }
+      ],
+      "fitHypothesis": "Its attributed deep repetitive structures may sustain immersion, but the proposed plateau may duplicate Tragoidia and Blind Spot rather than deepen the journey.",
+      "evidence": {
+        "measured": [
+          "140 BPM",
+          "released 2026-06-19"
+        ],
+        "attributedDescription": "Sublunar describes this exact track through deep repetitive structures and a balance between modern and old-school techno.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Clotur",
+        "track": "Endless Pattern",
+        "album": "One Touch",
+        "releaseDate": "2026-06-19",
+        "bpm": 140,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/endless-pattern/29105652",
+        "discoverySource": "Official Sublunar release: https://sublunarrecords.bandcamp.com/album/one-touch",
+        "spotifyTrackId": "1tO6FbeEHT2FK0PmQA5mDj",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Tragoidia and before Blind Spot",
+            "incomingBpm": 141,
+            "candidateBpm": 140,
+            "outgoingBpm": 140,
+            "role": "deep repetitive plateau before the second-wave release"
+          }
+        ],
+        "fitHypothesis": "Its attributed deep repetitive structures may sustain immersion, but the proposed plateau may duplicate Tragoidia and Blind Spot rather than deepen the journey.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-06-19"
+          ],
+          "attributedDescription": "Sublunar describes this exact track through deep repetitive structures and a balance between modern and old-school techno.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "5ARDqlSZZXwxaYOICsCjoK",
+      "uri": "spotify:track:5ARDqlSZZXwxaYOICsCjoK",
+      "name": "Tanoo",
+      "artists": [
+        "Phil Berg"
+      ],
+      "album": "Dārin",
+      "releaseDate": "2026-07-17",
+      "durationMs": 311770,
+      "spotifyUrl": "https://open.spotify.com/track/5ARDqlSZZXwxaYOICsCjoK",
+      "bpm": 142,
+      "tempoSource": "Beatport exact-track listing: https://www.beatport.com/track/tanoo/29375196",
+      "discoverySource": "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/d-rin",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after My Last Descent and before Trail Of",
+          "incomingBpm": 144,
+          "candidateBpm": 142,
+          "outgoingBpm": 142,
+          "role": "luminous first-wave pressure release"
+        }
+      ],
+      "fitHypothesis": "Its attributed pressure-release turn, luminous synth and trance pull may widen the first descent; linear racing drums may retain too much drive and duplicate Trail Of.",
+      "evidence": {
+        "measured": [
+          "142 BPM",
+          "released 2026-07-17"
+        ],
+        "attributedDescription": "Mutual Rytm describes this exact track as releasing pressure through luminous synth, trance pull and linear racing drums.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Phil Berg",
+        "track": "Tanoo",
+        "album": "Dārin",
+        "releaseDate": "2026-07-17",
+        "bpm": 142,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/tanoo/29375196",
+        "discoverySource": "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/d-rin",
+        "spotifyTrackId": "5ARDqlSZZXwxaYOICsCjoK",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after My Last Descent and before Trail Of",
+            "incomingBpm": 144,
+            "candidateBpm": 142,
+            "outgoingBpm": 142,
+            "role": "luminous first-wave pressure release"
+          }
+        ],
+        "fitHypothesis": "Its attributed pressure-release turn, luminous synth and trance pull may widen the first descent; linear racing drums may retain too much drive and duplicate Trail Of.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-07-17"
+          ],
+          "attributedDescription": "Mutual Rytm describes this exact track as releasing pressure through luminous synth, trance pull and linear racing drums.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ]
 }
