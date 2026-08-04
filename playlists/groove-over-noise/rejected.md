@@ -12,6 +12,8 @@ A rejected track may be reconsidered only when:
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Altinbas | Voyage | Rejected only as an added early-immersion shelf in the current journey. Its 136 → 138 → 138 proposal is numerically compliant and its identity fit is plausible, but Wurk and Ottagone 001 already perform groove formation and opening bridging; it would create a redundant 138 BPM plateau and add another Altinbas appearance without a distinct stage. | 2026-08-04 |
+| Border One | Echoes From The Abyss | Rejected only for insertion between Nasty Tool and Tenta Tiv. Its 138 → 138 → 139 proposal is numerically compliant and its identity fit is plausible, but the main wave already has threshold, re-entry and summit approach while Octagon owns the distinct hypnosis-chamber role; the insertion would lengthen or blur the climb without an evidenced new function. | 2026-08-04 |
 | Blue Hour | Crimson Delta | Rejected only as an extra bridge between AB01 and Flowing. Its 137 BPM creates a compliant 136 → 137 → 138 path, but the existing +2 BPM boundary has no documented defect and no lawful audio or listener evidence establishes a distinct added function. | 2026-08-03 |
 | Chlär | Close Contact | Rejected only as an extra bridge between AB01 and Flowing. Its 137 BPM is numerically compatible, but it duplicates an already complete threshold handoff without evidence that it deepens the chapter. | 2026-08-03 |
 | Shabaam | Showtime | Rejected only as an extra bridge between AB01 and Flowing. Its 138 BPM creates 136 → 138 → 138, but adds length without repairing a transition or establishing a new evidenced role. | 2026-08-03 |

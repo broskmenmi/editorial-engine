@@ -1,6 +1,123 @@
 # GROOVE OVER NOISE — Discovery Log
 
 
+## 2026-08-04 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-04T16:59:32Z-explore`
+
+### Fresh exploration receipt
+
+- Screened approximately 167 named track listings across approximately 37 official release or catalogue pages, plus 64 catalogue tiles.
+- Covered current releases, adjacent and emerging artists, and overlooked 2019–2025 catalogue.
+- The prior 2026-08-04 leads Umbral, Henkinen and La Luna were not reused.
+- Requested seven ranked identities. Spotify resolved six, selected the strongest three, preserved three resolved alternates, and returned one exact-version miss.
+- Used identity, duration, BPM metadata and clearly attributed release notes only. No raw-audio analysis or candidate listener report was available.
+
+### ADD — provisional
+
+- **Track:** Deprogramation 2
+- **Artist:** NX1
+- **Spotify:** spotify:track:1l5dWskc7A9d3DkjYuS5B9
+- **BPM:** 137
+- **Duration:** 6:12.203
+- **Position:** After Skov Bowden — Wurk and before Ottagone — Ottagone 001.
+- **Purpose:** Create an opening groove-lock shelf after the protected identity pair.
+- **Playlist belonging:** `BELONGS` provisionally. Nexe's track-specific description emphasizes a loopy pattern, impeccable groove, steady pulse, subtle variation and functional efficiency. This is attributed evidence, not a claim that the workflow heard the track.
+- **Exact neighbours:** `COMPATIBLE` provisionally. Wurk 136 → Deprogramation 2 137 → Ottagone 001 138 creates +1 / +1 BPM steps and does not split Deep Under → Wurk.
+- **Distinct function:** Wurk establishes movement, Deprogramation 2 lets that pulse settle, and Ottagone 001 resumes the opening climb. The narrower groove-lock role is distinct from both groove formation and pulse bridging.
+- **Unconfirmed score summary:** groove 5, hypnosis 4, restraint 4, progressive development 3, dancefloor continuity 5, patience 4, spatial openness 3, timelessness 4, pulse compatibility 5, attention continuity 4, clear non-duplicate role 4. Repair value is not applicable. Functional-duplication risk is 1/5.
+- **Internal uncertainty:** The extra six-minute shelf may make the arrival feel too long. Natural listener feedback may reopen the provisional placement; no listening task is assigned.
+
+### REJECT — current journey only
+
+- **Track:** Voyage
+- **Artist:** Altinbas
+- **Spotify:** spotify:track:1n9Mhcj5CrRS5Xtb5E3yv5
+- **BPM:** 138
+- **Proposed position:** After Wurk and before Ottagone 001.
+- **Playlist belonging:** `BELONGS` provisionally. The official description supports an introspective roller with warmth and space.
+- **Exact neighbours:** Numerically compliant at 136 → 138 → 138, but structurally `INCOMPATIBLE` with the current arrival.
+- **Reason:** Its early-immersion and anticipation functions are already covered by Wurk and Ottagone 001. The 138 plateau adds duration and another Altinbas appearance without establishing a new stage.
+- **Unconfirmed score summary:** groove 4, hypnosis 4, restraint 4, progressive development 3, dancefloor continuity 4, patience 5, spatial openness 5, timelessness 4, pulse compatibility 5, attention continuity 4, clear non-duplicate role 1. Functional-duplication penalty is 4/5.
+
+- **Track:** Echoes From The Abyss
+- **Artist:** Border One
+- **Spotify:** spotify:track:7d8XQq6ahVMIl19LoudVb2
+- **BPM:** 138
+- **Proposed position:** After Nasty Tool and before Tenta Tiv.
+- **Playlist belonging:** `BELONGS` provisionally. The official description supports cerebral, bouncy and hypnotic groove.
+- **Exact neighbours:** Numerically compliant at 138 → 138 → 139, but structurally `INCOMPATIBLE` with the current main-wave climb.
+- **Reason:** Flowing, Nasty Tool and Tenta Tiv already provide threshold, re-entry and summit approach, while Octagon already owns the distinct long-form hypnosis-chamber role. This insertion would blur or lengthen the approach without an evidenced new stage.
+- **Unconfirmed score summary:** groove 4, hypnosis 4, restraint 3, progressive development 3, dancefloor continuity 4, patience 3, spatial openness 3, timelessness 4, pulse compatibility 5, attention continuity 3, clear non-duplicate role 2. Functional-duplication penalty is 4/5; the attributed shimmering synth creates a provisional attention-risk penalty of 2/5.
+
+### Identity and selection handling
+
+- **UNRESOLVED — no verdict:** JSPR — Warme Soep (Extended Mix). Spotify returned `no exact Spotify title/artist search match in market SE`; no shorter version was substituted.
+- **Resolved alternates — not evaluated:** Nørbak — Camarada; Clotur — Endless Pattern; Phil Berg — Tanoo. They remain part of the immutable resolver receipt, not editorial decisions.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identities for all three evaluated candidates; durations 5:16.521, 7:04.347 and 6:12.203; verified BPM 138, 138 and 137. The approved placement creates 136 → 137 → 138.
+- **Craft:** A restrained shelf can deepen arrival when it settles an established pulse before the climb; numerically smooth insertions should still be rejected when their roles are already occupied.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Deprogramation 2 is provisionally assigned a groove-lock role. Voyage and Echoes From The Abyss plausibly fit the playlist's world but do not earn a distinct function in the current journey.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, trajectory and transition features remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved Deprogramation 2 as the sole canonical addition between Wurk and Ottagone 001. Approved Voyage and Echoes From The Abyss as durable rejections for their tested current-journey functions. The PARTIAL resolver snapshot was handled without substitution: its exact miss and resolved alternates remain visible. The protected Deep Under → Wurk handoff, dominant Iruka summit, frozen summit-exit region and protected ending remain unchanged.
+
+### Ledger change
+
+Added NX1 — Deprogramation 2 as track #3. Every later track shifts one position without changing relative order.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. NX1 — Deprogramation 2
+4. Ottagone — Ottagone 001
+5. No Valentia — Miss Perez
+6. Maeksll — Two Glasses of Whisky
+7. FENIM0RE, KYSH Records — My Last Descent
+8. Altinbas — Trail Of
+9. Altinbas, Cirkle — Enlightenment
+10. Jancen — F Track
+11. Basic Channel — Octagon
+12. Maeksll — Tragoidia
+13. Red Rooms — Blind Spot
+14. Marcal — Bionic Jungle
+15. Vil — AB01
+16. Decoder — Flowing
+17. Arkan — Nasty Tool
+18. ElectroExeL — Tenta Tiv
+19. Alarico — Iruka
+20. Vakat — Percussion Work
+21. Stef Mendesidis — Interlynx
+22. Maeksll — Minimum
+23. Psyk — Eclipse
+24. Claudio PRC — Haidou
+25. Luigi Tozzi — Calipso
+
+### Post-change BPM trajectory
+
+`134 → 136 → 137 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+
+Every adjacent difference remains within the 0–4 BPM target.
+
+### Journey annotation change
+
+Added Deprogramation 2 to the `arrival` chapter with provisional `groove` story band and `groove-lock` / `steady-pulse-shelf` labels. No other annotation, protected state or frozen state changed.
+
+### Editorial note
+
+A fresh scan found seven honest leads; the engine admitted the one that revealed a new stage and rejected two smoother-looking duplicates.
+
+---
+
 ## 2026-08-03 — Corrected Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
