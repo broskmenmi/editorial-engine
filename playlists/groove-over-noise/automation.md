@@ -326,6 +326,24 @@ Immediately after the one-sentence `EDITORIAL NOTE`, append the compact map with
 
 When the map is not yet current, write `Journey map updating` instead of embedding a stale visualization.
 
+After the map or `Journey map updating`, always append an unnumbered `## RUN ANALYSIS` section. It is mandatory for every scheduled or explicitly requested editorial run, including ADD, REJECT-only, REVISIT, PARTIAL, NONE, no-change, blocked, recovery, and direct-action outcomes. It is not a sixth numbered status section.
+
+This must be a critical analysis of the persisted evidence, not a recap or congratulatory summary. It must include:
+
+1. **Overall judgment and real funnel** — identify the exact run timestamp and candidate-snapshot `runId` when present. Separate multiple same-day scheduled runs, recoveries, or reruns. Reconstruct only evidenced stages and counts: material inspected → evidence-qualified leads → exact Spotify resolutions → evaluated candidates → ADD / REJECT / REVISIT / NO VERDICT → verified published additions. Name where and why candidates were lost; do not invent unavailable counts.
+2. **Run-specific findings** — give at least two substantive observations from different completed phases, such as discovery breadth, lead diversity, identity resolution, classification, alternate-placement reasoning, persistence, or publication. If the run stopped early, instead identify the exact last completed phase, blocker, affected leads, artifacts present or missing, confirmed cause versus inference, and whether state remained safe.
+3. **Critical challenge** — state the strongest plausible alternative explanation, anomaly, doctrine violation, or reason to distrust or qualify the run's main conclusion. Then state explicitly what the result proves and what it does not prove. Do not manufacture criticism when the evidence is clean; explain why the conclusion survived challenge.
+4. **Outcome-specific scrutiny** —
+   - For **ADD**, explain the distinct journey function earned, why the chosen placement beats credible alternatives, duplication risk, publication verification, and why the placement remains provisional without lawful audio or listener evidence.
+   - For **REJECT**, state separately whether the track belongs and whether the tested placement works. Missing evidence or a concrete future trigger belongs in REVISIT or NO VERDICT, not durable rejection.
+   - For **REVISIT**, name the exact uncertainty, the evidence or event that would reopen it, and verify that it remains eligible rather than silently excluded.
+   - For **no addition or NONE**, distinguish fresh-scan zero leads, identity-resolution loss, editorial rejection after resolution, and unperformed or blocked discovery. Never infer playlist completeness.
+   - For **technical failure**, call the editorial result inconclusive and analyze pipeline reliability. Do not issue musical verdicts for unevaluated tracks.
+5. **Pattern and implication** — compare with the immediately preceding completed run or other recent runs only when genuinely comparable evidence exists. Classify any supported relationship as a new capability, useful repeat confirmation, regression, recurring pattern, or inconclusive. Repeated unchanged inputs are not independent evidence, and more ADD decisions are not inherently better. Name capability status only for stages materially exercised or expected in this run; unexercised stages are `NOT TESTED`.
+6. **Closing insight** — finish with the most important non-obvious insight and the strongest remaining weakness or risk. Give a single highest-value next action only when an evidenced defect or opportunity justifies one; otherwise state that no workflow change is justified by this run. End with a one-sentence overall verdict.
+
+The analysis must explicitly mark audio-evidence and live-mixing capabilities `NOT TESTED` unless lawful evidence actually exercised them. BPM, metadata, and compatible numbers are never sonic proof. The analysis must not rerun Scout, mutate the frozen request/snapshot, revise audited decisions, write editorial state, or create a commit merely to preserve analysis.
+
 The exact five-section format does not apply to the clarification conversation before an accepted-track change. During clarification, answer directly and ask the necessary short questions.
 
 ## Playback rule

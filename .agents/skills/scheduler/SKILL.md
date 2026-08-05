@@ -42,13 +42,14 @@ The task prompt must:
 21. Never use the ChatGPT Spotify connector for playlist search, creation, editing, or publication.
 22. Let GitHub Actions publish Spotify and generate the journey map.
 23. Read `spotify-status.json` for publication status and never infer success.
-24. Read `journey-map.json` and append the current compact SVG after `EDITORIAL NOTE` without adding a sixth numbered section.
+24. Read `journey-map.json` and append the current compact SVG after `EDITORIAL NOTE` without adding a sixth numbered section. Then follow the target playlist's mandatory unnumbered end-of-run analysis contract when present.
 25. Read `audio-evidence.md`, `audio-evidence.json`, and `live-mixing.md`.
 26. Evaluate playlist belonging separately from exact-neighbour compatibility.
 27. Preserve provenance and evidence class for DJOID, rekordbox, or other analysis; tool scores never override listener or editorial authority.
 28. Keep the live-mixing graph separate from the canonical ledger and Spotify publication.
 29. Never surface unrelated Spotify playlists or broad fallback results.
 30. Require matching request fingerprint and `runId` values, treat terminal NONE as a completed zero-qualified-candidate result only when every lookup completed normally, and name every unresolved or duplicate lead plus exact error. Operational Spotify failures, stale inputs, and malformed, conflicting, stale, or missing snapshots are `*_NOT_COMPLETED`, never evidence from a prior run.
+31. Honor the target playlist's end-of-run analysis contract. When it requires `RUN ANALYSIS`, make the section mandatory after the map, ground it in the Auditor's evidence packet and persisted final state, and forbid it from reopening Scout, changing audited decisions, or creating telemetry-only commits.
 
 ## Default schedule
 Use a daily flexible schedule at approximately 08:00 in the user's timezone unless the user specifies another cadence or time.
@@ -72,7 +73,11 @@ Freeze one immutable lead request and its one matching terminal candidate snapsh
 
 After Auditor approval, persist one batched editorial commit only when durable editorial state changed, such as the ledger, rejected or revisit decisions, listener-review state, substantive notes or annotations, audio evidence, or live-mixing state. A scan timestamp, repeated no-change result, or appended nothing-changed record alone must not create an editorial commit.
 
-Let GitHub Actions publish Spotify and generate the journey map. Read spotify-status.json and report COMPLETE only after exact verification. Follow automation.md's five-section response format, include the target playlist's published detailed-site URL from its automation contract or journey-map.json, and append the current generated journey-map SVG after EDITORIAL NOTE. If the compact map is stale, write Journey map updating. Never use the ChatGPT Spotify connector for canonical search, publication, or verification, and never surface unrelated Spotify playlists or broad fallback results.
+Let GitHub Actions publish Spotify and generate the journey map. Read spotify-status.json and report COMPLETE only after exact verification. Follow automation.md's five-section response format, include the target playlist's published detailed-site URL from its automation contract or journey-map.json, and append the current generated journey-map SVG after EDITORIAL NOTE. If the compact map is stale, write Journey map updating.
+
+After the map, follow the target automation.md's end-of-run analysis contract. When it requires an unnumbered RUN ANALYSIS, always include it. Base it on the Auditor's evidence packet and persisted final state; identify the exact run and funnel, give run-specific observations, challenge the strongest conclusion, state what the result proves and does not prove, apply outcome-specific scrutiny, and compare only with genuinely comparable recent evidence. Recommend a next action only when an evidenced defect or opportunity exists. Technical failure is editorially inconclusive, and unexercised audio or live-mixing capability is NOT TESTED. The analysis must not rerun Scout, mutate frozen artifacts, revise audited decisions, or create an analysis-only commit.
+
+Never use the ChatGPT Spotify connector for canonical search, publication, or verification, and never surface unrelated Spotify playlists or broad fallback results.
 ```
 
 ## Verification
@@ -93,4 +98,5 @@ After creating or updating the task, verify:
 - it handles repair-zero and explicitly authorized direct-action branches without inventing candidates;
 - it creates no repository commit when durable editorial state remains unchanged;
 - it uses `spotify-status.json` as the only Spotify publication-status source;
-- it appends the current compact journey map after the fifth section.
+- it appends the current compact journey map after the fifth section;
+- it honors the target playlist's mandatory end-of-run analysis contract and grounds the analysis in audited, persisted evidence without reopening the workflow.

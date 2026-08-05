@@ -123,7 +123,7 @@ Rules:
 - `.github/workflows/build-journey-map.yml` generates JSON and SVG through `apps/journey-map/`.
 - The map is derivative output. `ledger.md`, `journey-annotations.json`, and listener-feedback state remain authoritative.
 - A published read-only detailed front end must take its status and URL from the target playlist's generated `journey-map.json` or playlist-specific automation contract; `sites-prompt.md` remains its maintenance/rebuild brief. No replacement website should become a second source of truth.
-- The compact map should appear after `EDITORIAL NOTE` without adding a sixth numbered response section.
+- The compact map should appear after `EDITORIAL NOTE` without adding a sixth numbered response section. When the target playlist's `automation.md` requires an unnumbered `RUN ANALYSIS`, append it after the map.
 - If map generation is pending, finish the response and label the map as updating rather than failing the editorial run.
 
 ## Relaxation-first operation
@@ -182,6 +182,7 @@ Persist the approved editorial change set as one batched commit when GitHub tree
 - If Spotify or map publication is pending when the task must finish, report the pending state and deliver the final response.
 - Pending or secondary-cache failures must not be reported as a failed scheduled task when the editorial commit succeeded.
 - The final report is based on the audited decisions, `ledger.md`, `spotify-status.json`, and the latest matching map fingerprint, never on post-publication scout output.
+- When the target playlist requires end-of-run analysis, base it on the Auditor's evidence packet and persisted final state. The analysis may challenge the run but must not reopen Scout, alter audited decisions, or create a telemetry-only commit.
 
 ## Spotify publication
 

@@ -107,6 +107,22 @@ If required repair search did not run or was blocked, require `REPAIR SEARCH NOT
 
 A zero-result scan is not proof that the playlist is complete. It is only evidence that the documented scan found no qualified candidate on that run.
 
+## Run-analysis evidence packet
+
+When the target playlist requires a user-facing `RUN ANALYSIS`, return a compact evidence packet to the orchestrator before persistence. This is transient audit output, not durable editorial state.
+
+Include:
+
+- exact run timestamp and candidate snapshot `runId`, separating same-day scheduled runs, recoveries, and reruns;
+- the evidenced funnel from inspected material through verified publication, with the stage and reason for material losses;
+- at least two run-specific observations from distinct completed phases, or the exact last completed phase and blocker when the run stopped early;
+- what the run genuinely proves and does not prove;
+- the strongest alternative explanation, anomaly, or contract challenge to the main conclusion;
+- outcome-specific facts needed to assess ADD, REJECT, REVISIT, zero-result, or technical-failure handling;
+- comparison-ready facts only when a genuinely comparable prior run is available.
+
+Do not approve an analysis packet that merely restates verdicts, treats repeated unchanged inputs as independent evidence, presents a technical failure as a musical conclusion, or marks audio/live capability as tested without lawful evidence. Producing the packet must not reopen Scout or change the audited result.
+
 ## Core checks
 
 - No duplicate tracks.
@@ -172,5 +188,5 @@ The Auditor may approve, veto, reposition, reopen, or reclassify. It may not res
 - Approved scope
 - Vetoed changes and reasons
 - Final canonical order
-
+- Run-analysis evidence packet when required by the target automation
 No durable editorial or Spotify state may change before audit approval, except opening an `AWAITING CLARIFICATION` discussion without changing the ledger. The immutable diagnostic request/data lifecycle may resolve candidate identities before audit, but it carries no verdict and authorizes no editorial change. After approval, a scan receipt, timestamp, or repeated no-change result alone must not create an editorial commit.
