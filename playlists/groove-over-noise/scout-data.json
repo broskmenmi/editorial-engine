@@ -1,365 +1,280 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "8903debe18dfe2177e0384b776cbb2965eaa593bce74af0fe395b27a5d7425f1",
-  "generatedAt": "2026-08-05T06:36:37.751Z",
-  "runId": "2026-08-05T06:34:23Z-explore",
-  "sourceCommit": "a3d3ffda8b2b765a732749bef5a1b014b5ffe1ad",
+  "requestFingerprint": "32daa749d832b87a0c1559200faf20617e88befb222702b4dcab292e59a448d1",
+  "generatedAt": "2026-08-05T08:20:13.036Z",
+  "runId": "2026-08-05T08:18:30Z-explore",
+  "sourceCommit": "7ac6d0c13ffb3b72d8ec43ca531bc5fe15e45bf3",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
     "position": "outside all frozen and protected regions; placement selected only after belonging",
     "neighbours": [],
-    "purpose": "test whether a new release, an adjacent emerging voice, or overlooked catalogue material creates a meaningful possibility without inventing a pre-existing gap"
+    "purpose": "test whether current releases, adjacent emerging voices, or overlooked catalogue material reveal a distinct function without inventing a pre-existing defect"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-05T06:34:23Z",
-    "scope": "approximately 94 named track listings across 24 release, label, distributor and catalogue pages, plus approximately 38 search-result entries screened across all three source families",
+    "timestamp": "2026-08-05T08:18:30Z",
+    "scope": "approximately 78 named track listings across 16 release, label, distributor and catalogue pages, plus approximately 52 search-result entries screened across all three required source families",
     "sourceFamilies": {
       "currentReleases": [
-        "Beatport raw/deep/hypnotic new-release windows for 2026-08-01 through 2026-08-05",
-        "Official/distributor Backspin Records Periodical release, 2026-07-31: https://www.deejay.de/BACKSPIN_RECORDS__L306804",
-        "Word and Sound Periodical listing, 2026-07-31: https://wordandsound.net/release/169176-BSP008-Isaiah-Periodical",
-        "KR Records KR079 release, 2026-08-04: https://ketrobinsonrecords.bandcamp.com/album/kr079"
+        "Beatport Techno (Raw / Deep / Hypnotic) released-track window centred on 2026-07-10: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
+        "Official Algumritmo Records Some Tools release, 2026-07-10: https://alg1ritmo.bandcamp.com/album/some-tools",
+        "Official FLASH Recordings Nitrox EP release, 2026-07-10: https://flashrec.bandcamp.com/album/nitrox-ep",
+        "Pitchfork Entre Nous review published 2026-08-04: https://pitchfork.com/reviews/albums/eden-aurelius-entre-nous"
       ],
       "adjacentAndEmerging": [
-        "Official Z.I.P.P.O / SK_eleven release: https://zippomusicofficial.bandcamp.com/album/eleven",
-        "Official RAUM Records Anobium and 2026 catalogue: https://raumrecords.bandcamp.com/album/anobium-raum004",
-        "Official Renegade Methodz Mesh Convergence release: https://renegademethodz.bandcamp.com/album/never-ask-why",
-        "Official Liberta Records current catalogue: https://libertarecords.bandcamp.com/album/corpo-fechado"
+        "Official SubNorium current catalogue including DREKSLR and Afonso Maia July 2026 releases: https://subnorium.bandcamp.com/",
+        "Official Algumritmo Records R 417 release: https://alg1ritmo.bandcamp.com/album/some-tools",
+        "Official FLASH Recordings Leümas Wähs / Yonto release: https://flashrec.bandcamp.com/album/nitrox-ep",
+        "Official Tustra catalogue and Systemfehler track page: https://tustra.bandcamp.com/track/systemfehler"
       ],
       "overlookedCatalogue": [
-        "Official Tresor Records Surgeon premiere: https://soundcloud.com/tresorberlin/surgeon-serpent-void",
-        "Official Surgeon release page: https://dj-surgeon.bandcamp.com/track/serpent-void",
-        "Official Newworldaquarium catalogue release: https://newworldaquarium.bandcamp.com/album/chubby-knuckles-ep",
-        "Boomkat catalogue searches for restrained, loop-led and hypnotic techno from 2000 through 2025"
+        "Yukio Bergholdt IZA.3 (Single Edit), released 2025-04-16: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "Tustra Systemfehler, released 2025-05-01: https://tustra.bandcamp.com/track/systemfehler",
+        "Beatport raw/deep/hypnotic catalogue searches covering 2019 through 2025 for restrained, subtle, loop-led and evolving tracks",
+        "Official Bandcamp catalogue searches for exact track-level descriptions with declared BPM or a concrete lawful neighbour test"
       ]
     },
     "exclusions": [
-      "All seven 2026-08-04 leads were excluded: Border One — Echoes From The Abyss, Altinbas — Voyage, NX1 — Deprogramation 2, JSPR — Warme Soep (Extended Mix), Nørbak — Camarada, Clotur — Endless Pattern and Phil Berg — Tanoo.",
-      "Current ledger, rejected history and dormant revisit entries were excluded before ranking.",
-      "The Third Room Curation One, SLANY Together, Hiroyuki Arakawa Rave Strings and aM.IT Nonexistent were excluded as future releases not yet lawfully available for exact Spotify resolution on 2026-08-05.",
-      "WHM — KR079, Antony Well — Granite Voltage Core and Bulah — Opportunistic Predator were excluded because only date, genre or BPM metadata was available, without track-specific qualitative evidence.",
-      "Newworldaquarium — Chubby Knuckles and house-leaning material were excluded because their documented character did not establish canonical techno belonging strongly enough.",
-      "Impact-, peak-time-, distortion-, metallic-attention- and relentless-pressure-led material was excluded unless it offered a clearly distinct restrained function.",
+      "Every lead and candidate from the 2026-08-05T06:34:23Z-explore and 2026-08-04T16:59:32Z-explore runs was excluded before ranking.",
+      "All current ledger tracks, durable rejected entries and untriggered PARKED revisit entries were excluded.",
+      "Eden Aurelius feat. Pontiac Streator — Ion was excluded because the available sources conflict between a current digital review and a 2026-09-18 physical listing, and no lawful BPM source established a concrete neighbour test.",
+      "Tustra — Systemfehler was excluded from the ranked set because no lawful exact BPM source was found and its own description foregrounds distortion, overdrive and industrial edges that create a material attention-risk hypothesis.",
+      "WHM — KR079 and other listings supported only by release date, genre tags or BPM metadata were excluded for lacking track-specific constitution evidence.",
+      "Future preorders, house-leaning material, impact-led material, aggressive peak-time material and sample-pack/demo content were excluded.",
       "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
     ],
     "rankedResolutionLeads": [
-      "Isaiah — Hourly",
-      "Z.I.P.P.O — Kaus",
-      "Surgeon — Serpent Void"
+      "R 417 — Bones (Bulah Remix)",
+      "Leümas Wähs, Yonto — Germanium",
+      "Yukio Bergholdt — IZA.3 (Single Edit)"
     ],
-    "evidenceLimit": "Metadata and attributed release notes only; no raw-audio analysis and no candidate listener report. Isaiah — Hourly BPM remains unknown; every sonic property not stated by a source remains unknown."
+    "evidenceLimit": "Metadata and attributed track or release descriptions only; no raw-audio analysis and no candidate listener report. Beatport reports Bones (Bulah Remix) at 69 BPM and Germanium at 68 BPM; 138 and 136 are explicit double-time pulse hypotheses, not additional measured BPM values."
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 3,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
+  "unresolved": [
+    {
+      "artist": "R 417",
+      "track": "Bones (Bulah Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "R 417",
+        "track": "Bones (Bulah Remix)",
+        "album": "Some Tools",
+        "releaseDate": "2026-07-10",
+        "bpm": 69,
+        "bpmSource": "Beatport Techno (Raw / Deep / Hypnotic) exact listing in the 2026-07-10 release window: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
+        "discoverySource": "Official Algumritmo Records release: https://alg1ritmo.bandcamp.com/album/some-tools",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Blind Spot and before Bionic Jungle",
+            "incomingBpm": 140,
+            "candidateBpm": 69,
+            "pulseHypothesisBpm": 138,
+            "outgoingBpm": 137,
+            "role": "groove-focused second-wave release contour"
+          }
+        ],
+        "fitHypothesis": "The label's track-specific groove-focused approach and refined tension may shape a controlled 140 → 138 → 137 release contour; it may instead duplicate Blind Spot and Bionic Jungle's already complete release functions.",
+        "evidence": {
+          "measured": [
+            "69 BPM as reported by Beatport",
+            "5:47 duration",
+            "released 2026-07-10"
+          ],
+          "attributedDescription": "Algumritmo Records says Bulah reworks Bones with a groove-focused approach and refined tension.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 69 BPM analyser reading may be tested as an explicit 138 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
+        }
+      }
+    },
+    {
+      "artist": "Leümas Wähs, Yonto",
+      "track": "Germanium",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Leümas Wähs, Yonto",
+        "track": "Germanium",
+        "album": "Nitrox EP",
+        "releaseDate": "2026-07-10",
+        "bpm": 68,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AGeneral+Content&facets%5B1%5D=releaseTypeName%3ARelease&page=4&perPage=50&per_page=150&sortBy=genreName+ASC",
+        "discoverySource": "Official FLASH Recordings release: https://flashrec.bandcamp.com/album/nitrox-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Bionic Jungle and before AB01",
+            "incomingBpm": 137,
+            "candidateBpm": 68,
+            "pulseHypothesisBpm": 136,
+            "outgoingBpm": 136,
+            "role": "droning absorption shelf inside second-wave release"
+          }
+        ],
+        "fitHypothesis": "The official description's long, hypnotic route through monotonous and droning textures may deepen absorption at the bottom of the second-wave release; it may instead repeat AB01's release-extension work and lengthen an already complete descent.",
+        "evidence": {
+          "measured": [
+            "68 BPM as reported by Beatport",
+            "5:33 duration on the official release",
+            "released 2026-07-10"
+          ],
+          "attributedDescription": "FLASH Recordings says the Leümas Wähs and Yonto collaboration takes a long, hypnotic route through monotonous and droning textures.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 68 BPM analyser reading may be tested as an explicit 136 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
+        }
+      }
+    },
+    {
+      "artist": "Yukio Bergholdt",
+      "track": "IZA.3 (Single Edit)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Yukio Bergholdt",
+        "track": "IZA.3 (Single Edit)",
+        "album": "IZA.3 (Single Edit)",
+        "releaseDate": "2025-04-16",
+        "bpm": 138,
+        "bpmSource": "Artist's official Bandcamp track description: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "discoverySource": "Artist's official Bandcamp track page: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": 138,
+            "outgoingBpm": 140,
+            "role": "subtle deep-techno pre-entry hinge"
+          }
+        ],
+        "fitHypothesis": "The artist's description of subtle driving flow, atmospheric synths and deep immersion may create a low-contrast hinge before second-wave re-entry; its melodic emphasis may demand attention or duplicate F Track's return function.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "single edit duration 5:36",
+            "released 2025-04-16"
+          ],
+          "attributedDescription": "The artist describes IZA.3 as a hypnotic yet melodic deep-techno journey with pulsating rhythms, atmospheric synths, trance-like flow, subtle drive and deep immersion.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Isaiah",
-        "track": "Hourly",
-        "album": "Periodical",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "Backspin Records distributor page: https://www.deejay.de/BACKSPIN_RECORDS__L306804",
+        "artist": "R 417",
+        "track": "Bones (Bulah Remix)",
+        "album": "Some Tools",
+        "releaseDate": "2026-07-10",
+        "bpm": 69,
+        "bpmSource": "Beatport Techno (Raw / Deep / Hypnotic) exact listing in the 2026-07-10 release window: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
+        "discoverySource": "Official Algumritmo Records release: https://alg1ritmo.bandcamp.com/album/some-tools",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Enlightenment and before F Track only if a lawful BPM source preserves both neighbour steps",
-            "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "role": "rhythm-first re-entry shelf before the dub chamber"
+            "position": "after Blind Spot and before Bionic Jungle",
+            "incomingBpm": 140,
+            "candidateBpm": 69,
+            "pulseHypothesisBpm": 138,
+            "outgoingBpm": 137,
+            "role": "groove-focused second-wave release contour"
           }
         ],
-        "fitHypothesis": "Its attributed steady groove, bouncing bassline and rhythm-first construction may reinforce re-entry without spectacle; dense percussion and bright pad accents may instead duplicate or overstate the existing shelf.",
+        "fitHypothesis": "The label's track-specific groove-focused approach and refined tension may shape a controlled 140 → 138 → 137 release contour; it may instead duplicate Blind Spot and Bionic Jungle's already complete release functions.",
         "evidence": {
           "measured": [
-            "released 2026-07-31",
-            "BPM unknown"
+            "69 BPM as reported by Beatport",
+            "5:47 duration",
+            "released 2026-07-10"
           ],
-          "attributedDescription": "Backspin's distributor describes Hourly as rhythm-focused, with dense percussion, a bouncing bassline locking into a steady groove and occasional bright pad accents.",
+          "attributedDescription": "Algumritmo Records says Bulah reworks Bones with a groove-focused approach and refined tension.",
           "listenerEvidence": null,
-          "lawfulAudioEvidence": null
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 69 BPM analyser reading may be tested as an explicit 138 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
         }
       },
-      "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Z.I.P.P.O",
-        "track": "Kaus",
-        "album": "Eleven",
-        "releaseDate": "2025-05-02",
-        "bpm": 136,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/kaus/20416132",
-        "discoverySource": "Official Z.I.P.P.O / SK_eleven release: https://zippomusicofficial.bandcamp.com/album/eleven",
+        "artist": "Leümas Wähs, Yonto",
+        "track": "Germanium",
+        "album": "Nitrox EP",
+        "releaseDate": "2026-07-10",
+        "bpm": 68,
+        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AGeneral+Content&facets%5B1%5D=releaseTypeName%3ARelease&page=4&perPage=50&per_page=150&sortBy=genreName+ASC",
+        "discoverySource": "Official FLASH Recordings release: https://flashrec.bandcamp.com/album/nitrox-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Bionic Jungle and before AB01",
             "incomingBpm": 137,
-            "candidateBpm": 136,
+            "candidateBpm": 68,
+            "pulseHypothesisBpm": 136,
             "outgoingBpm": 136,
-            "role": "evolving deep release shelf inside the second wave"
+            "role": "droning absorption shelf inside second-wave release"
           }
         ],
-        "fitHypothesis": "Its attributed continuous evolution, elegant depth and tribal rhythm may extend release through progression rather than impact; swelling chords may become attention-forward or duplicate AB01's release work.",
+        "fitHypothesis": "The official description's long, hypnotic route through monotonous and droning textures may deepen absorption at the bottom of the second-wave release; it may instead repeat AB01's release-extension work and lengthen an already complete descent.",
         "evidence": {
           "measured": [
-            "136 BPM",
-            "5:16 duration",
-            "released 2025-05-02"
+            "68 BPM as reported by Beatport",
+            "5:33 duration on the official release",
+            "released 2026-07-10"
           ],
-          "attributedDescription": "The official release describes Kaus as continuously evolving, elegant and deep, driven by tribal rhythms and swelling chords that move into trance-like dimensions.",
+          "attributedDescription": "FLASH Recordings says the Leümas Wähs and Yonto collaboration takes a long, hypnotic route through monotonous and droning textures.",
           "listenerEvidence": null,
-          "lawfulAudioEvidence": null
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 68 BPM analyser reading may be tested as an explicit 136 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
         }
       },
-      "spotifyTrackId": "6G7N24YfVXXwOJ0OJL9YmY",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Surgeon",
-        "track": "Serpent Void",
-        "album": "Shell~Wave",
-        "releaseDate": "2025-05-02",
+        "artist": "Yukio Bergholdt",
+        "track": "IZA.3 (Single Edit)",
+        "album": "IZA.3 (Single Edit)",
+        "releaseDate": "2025-04-16",
         "bpm": 138,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/t/20198671",
-        "discoverySource": "Official Tresor Records premiere: https://soundcloud.com/tresorberlin/surgeon-serpent-void",
+        "bpmSource": "Artist's official Bandcamp track description: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "discoverySource": "Artist's official Bandcamp track page: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": 138,
-            "outgoingBpm": 138,
-            "role": "minimal live-loop re-entry into the third wave"
-          }
-        ],
-        "fitHypothesis": "Its documented minimal live-take process, synchronized loops and branching delay may create evolving immersion without obvious events; the release's harder character may instead interrupt AB01's restraint or duplicate Flowing.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "5:45 duration",
-            "released 2025-05-02"
-          ],
-          "attributedDescription": "Tresor describes Shell~Wave as single-take, hard yet minimal explorations made from a minimal equipment setup, with synchronized loops repeating while delay and effects branch into unique eddies.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "75OlPiuElgRxfxZb8LsGeM",
-      "selected": true
-    }
-  ],
-  "candidates": [
-    {
-      "id": "4uV8iMMJPUPEJkw0O2YawT",
-      "uri": "spotify:track:4uV8iMMJPUPEJkw0O2YawT",
-      "name": "Hourly",
-      "artists": [
-        "Isaiah"
-      ],
-      "album": "Periodical",
-      "releaseDate": "2026-07-31",
-      "durationMs": 276000,
-      "spotifyUrl": "https://open.spotify.com/track/4uV8iMMJPUPEJkw0O2YawT",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "Backspin Records distributor page: https://www.deejay.de/BACKSPIN_RECORDS__L306804",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Enlightenment and before F Track only if a lawful BPM source preserves both neighbour steps",
-          "incomingBpm": 139,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "role": "rhythm-first re-entry shelf before the dub chamber"
-        }
-      ],
-      "fitHypothesis": "Its attributed steady groove, bouncing bassline and rhythm-first construction may reinforce re-entry without spectacle; dense percussion and bright pad accents may instead duplicate or overstate the existing shelf.",
-      "evidence": {
-        "measured": [
-          "released 2026-07-31",
-          "BPM unknown"
-        ],
-        "attributedDescription": "Backspin's distributor describes Hourly as rhythm-focused, with dense percussion, a bouncing bassline locking into a steady groove and occasional bright pad accents.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Isaiah",
-        "track": "Hourly",
-        "album": "Periodical",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "Backspin Records distributor page: https://www.deejay.de/BACKSPIN_RECORDS__L306804",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Enlightenment and before F Track only if a lawful BPM source preserves both neighbour steps",
+            "position": "after Enlightenment and before F Track",
             "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "role": "rhythm-first re-entry shelf before the dub chamber"
-          }
-        ],
-        "fitHypothesis": "Its attributed steady groove, bouncing bassline and rhythm-first construction may reinforce re-entry without spectacle; dense percussion and bright pad accents may instead duplicate or overstate the existing shelf.",
-        "evidence": {
-          "measured": [
-            "released 2026-07-31",
-            "BPM unknown"
-          ],
-          "attributedDescription": "Backspin's distributor describes Hourly as rhythm-focused, with dense percussion, a bouncing bassline locking into a steady groove and occasional bright pad accents.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "6G7N24YfVXXwOJ0OJL9YmY",
-      "uri": "spotify:track:6G7N24YfVXXwOJ0OJL9YmY",
-      "name": "Kaus",
-      "artists": [
-        "Z.I.P.P.O"
-      ],
-      "album": "Eleven",
-      "releaseDate": "2025-05-02",
-      "durationMs": 316310,
-      "spotifyUrl": "https://open.spotify.com/track/6G7N24YfVXXwOJ0OJL9YmY",
-      "bpm": 136,
-      "tempoSource": "Beatport exact-track listing: https://www.beatport.com/track/kaus/20416132",
-      "discoverySource": "Official Z.I.P.P.O / SK_eleven release: https://zippomusicofficial.bandcamp.com/album/eleven",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Bionic Jungle and before AB01",
-          "incomingBpm": 137,
-          "candidateBpm": 136,
-          "outgoingBpm": 136,
-          "role": "evolving deep release shelf inside the second wave"
-        }
-      ],
-      "fitHypothesis": "Its attributed continuous evolution, elegant depth and tribal rhythm may extend release through progression rather than impact; swelling chords may become attention-forward or duplicate AB01's release work.",
-      "evidence": {
-        "measured": [
-          "136 BPM",
-          "5:16 duration",
-          "released 2025-05-02"
-        ],
-        "attributedDescription": "The official release describes Kaus as continuously evolving, elegant and deep, driven by tribal rhythms and swelling chords that move into trance-like dimensions.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Z.I.P.P.O",
-        "track": "Kaus",
-        "album": "Eleven",
-        "releaseDate": "2025-05-02",
-        "bpm": 136,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/kaus/20416132",
-        "discoverySource": "Official Z.I.P.P.O / SK_eleven release: https://zippomusicofficial.bandcamp.com/album/eleven",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Bionic Jungle and before AB01",
-            "incomingBpm": 137,
-            "candidateBpm": 136,
-            "outgoingBpm": 136,
-            "role": "evolving deep release shelf inside the second wave"
-          }
-        ],
-        "fitHypothesis": "Its attributed continuous evolution, elegant depth and tribal rhythm may extend release through progression rather than impact; swelling chords may become attention-forward or duplicate AB01's release work.",
-        "evidence": {
-          "measured": [
-            "136 BPM",
-            "5:16 duration",
-            "released 2025-05-02"
-          ],
-          "attributedDescription": "The official release describes Kaus as continuously evolving, elegant and deep, driven by tribal rhythms and swelling chords that move into trance-like dimensions.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "75OlPiuElgRxfxZb8LsGeM",
-      "uri": "spotify:track:75OlPiuElgRxfxZb8LsGeM",
-      "name": "Serpent Void",
-      "artists": [
-        "Surgeon"
-      ],
-      "album": "Shell~Wave",
-      "releaseDate": "2025-05-02",
-      "durationMs": 345809,
-      "spotifyUrl": "https://open.spotify.com/track/75OlPiuElgRxfxZb8LsGeM",
-      "bpm": 138,
-      "tempoSource": "Beatport exact-track listing: https://www.beatport.com/track/t/20198671",
-      "discoverySource": "Official Tresor Records premiere: https://soundcloud.com/tresorberlin/surgeon-serpent-void",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after AB01 and before Flowing",
-          "incomingBpm": 136,
-          "candidateBpm": 138,
-          "outgoingBpm": 138,
-          "role": "minimal live-loop re-entry into the third wave"
-        }
-      ],
-      "fitHypothesis": "Its documented minimal live-take process, synchronized loops and branching delay may create evolving immersion without obvious events; the release's harder character may instead interrupt AB01's restraint or duplicate Flowing.",
-      "evidence": {
-        "measured": [
-          "138 BPM",
-          "5:45 duration",
-          "released 2025-05-02"
-        ],
-        "attributedDescription": "Tresor describes Shell~Wave as single-take, hard yet minimal explorations made from a minimal equipment setup, with synchronized loops repeating while delay and effects branch into unique eddies.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Surgeon",
-        "track": "Serpent Void",
-        "album": "Shell~Wave",
-        "releaseDate": "2025-05-02",
-        "bpm": 138,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/track/t/20198671",
-        "discoverySource": "Official Tresor Records premiere: https://soundcloud.com/tresorberlin/surgeon-serpent-void",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
             "candidateBpm": 138,
-            "outgoingBpm": 138,
-            "role": "minimal live-loop re-entry into the third wave"
+            "outgoingBpm": 140,
+            "role": "subtle deep-techno pre-entry hinge"
           }
         ],
-        "fitHypothesis": "Its documented minimal live-take process, synchronized loops and branching delay may create evolving immersion without obvious events; the release's harder character may instead interrupt AB01's restraint or duplicate Flowing.",
+        "fitHypothesis": "The artist's description of subtle driving flow, atmospheric synths and deep immersion may create a low-contrast hinge before second-wave re-entry; its melodic emphasis may demand attention or duplicate F Track's return function.",
         "evidence": {
           "measured": [
             "138 BPM",
-            "5:45 duration",
-            "released 2025-05-02"
+            "single edit duration 5:36",
+            "released 2025-04-16"
           ],
-          "attributedDescription": "Tresor describes Shell~Wave as single-take, hard yet minimal explorations made from a minimal equipment setup, with synchronized loops repeating while delay and effects branch into unique eddies.",
+          "attributedDescription": "The artist describes IZA.3 as a hypnotic yet melodic deep-techno journey with pulsating rhythms, atmospheric synths, trance-like flow, subtle drive and deep immersion.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null
         }
-      }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
+  "candidates": [],
   "resolvedAlternates": []
 }
