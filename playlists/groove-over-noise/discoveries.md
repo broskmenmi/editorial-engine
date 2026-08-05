@@ -1,6 +1,75 @@
 # GROOVE OVER NOISE — Discovery Log
 
 
+## 2026-08-05 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-05T06:34:23Z-explore`
+
+### Fresh exploration receipt
+
+- Screened approximately 94 named track listings across 24 release, label, distributor and catalogue pages, plus approximately 38 search-result entries.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked 2000–2025 catalogue.
+- Excluded every 2026-08-04 lead, all accepted, rejected and parked tracks, the frozen summit-exit region, the protected opening handoff and the protected ending.
+- Excluded future preorders, house-leaning material, impact-led material and listings supported only by date, genre or BPM metadata.
+- Requested three ranked identities. Spotify resolved all three exact tracks, with no warnings, unresolved leads, duplicates or alternates.
+- Used exact identity, duration, declared BPM where available and attributed release notes only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** Hourly
+- **Artist:** Isaiah
+- **Spotify:** spotify:track:4uV8iMMJPUPEJkw0O2YawT
+- **BPM:** Unknown
+- **Proposed position:** After Enlightenment and before F Track.
+- **Playlist belonging:** `BELONGS` provisionally. Backspin's track-specific description supports rhythm focus, a bouncing bassline and a steady groove.
+- **Exact neighbours:** `NOT ESTABLISHED`. No lawful exact BPM source was found, so compatibility with Enlightenment 139 and F Track 140 cannot be asserted.
+- **Reason:** Belonging cannot substitute for the independent neighbour gate. The documented dense percussion and bright pad accents also leave attention continuity uncertain.
+- **Reconsider only if:** A lawful exact BPM source and materially stronger transition evidence establish compatibility without duplicating F Track's re-entry role.
+
+- **Track:** Kaus
+- **Artist:** Z.I.P.P.O
+- **Spotify:** spotify:track:6G7N24YfVXXwOJ0OJL9YmY
+- **BPM:** 136
+- **Proposed position:** After Bionic Jungle and before AB01.
+- **Playlist belonging:** `BELONGS` provisionally. The official description supports continuous evolution, elegant depth and tribal rhythm.
+- **Exact neighbours:** Numerically compliant at 137 → 136 → 136, but structurally `INCOMPATIBLE` with the current second-wave release.
+- **Reason:** Bionic Jungle and AB01 already perform release and release extension. Another evolving deep shelf lengthens that descent without establishing a distinct stage; the attributed swelling chords also leave attention continuity uncertain.
+
+- **Track:** Serpent Void
+- **Artist:** Surgeon
+- **Spotify:** spotify:track:75OlPiuElgRxfxZb8LsGeM
+- **BPM:** 138
+- **Proposed position:** After AB01 and before Flowing.
+- **Playlist belonging:** `BELONGS` provisionally. Tresor's release description supports minimal live-take construction, synchronized loops and evolving delay.
+- **Exact neighbours:** Numerically compliant at 136 → 138 → 138, but structurally `INCOMPATIBLE` with the current third-wave threshold.
+- **Reason:** AB01 already opens space and Flowing already supplies the psychological threshold before Nasty Tool's re-entry. Serpent Void's proposed live-loop hinge would duplicate that complete boundary, while the release's documented harder character leaves restraint uncertain.
+
+### Evidence map
+
+- **Measured:** Three exact Spotify identities resolved. Kaus is 136 BPM and 5:16.310; Serpent Void is 138 BPM and 5:45.809; Hourly is 4:36 with BPM unknown.
+- **Craft:** Playlist belonging and neighbour compatibility were assessed independently. A legal BPM path did not justify a duplicated role, and an unknown path was not treated as compatible.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** All three candidates plausibly inhabit the playlist's world, but none establishes a distinct current-journey function with sufficient neighbour evidence.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, trajectory and transition features remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved all three as durable current-journey rejections for their tested positions. No canonical addition, removal, replacement or reorder was approved. The resolver snapshot is COMPLETE, and all three selected candidates were evaluated. The protected Deep Under → Wurk handoff, dominant Iruka summit, frozen summit-exit region and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 25 tracks in the same order.
+
+### Editorial note
+
+The scan found three plausible residents of the playlist's world, but none earned a new stage in the current journey.
+
+---
+
+
 ## 2026-08-04 — Fresh Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
