@@ -1,167 +1,75 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "32daa749d832b87a0c1559200faf20617e88befb222702b4dcab292e59a448d1",
-  "generatedAt": "2026-08-05T08:20:13.036Z",
-  "runId": "2026-08-05T08:18:30Z-explore",
-  "sourceCommit": "7ac6d0c13ffb3b72d8ec43ca531bc5fe15e45bf3",
-  "mode": "EXPLORE",
+  "requestFingerprint": "d0c3562b50e5fdeaa0c6775bae5ecde7400f1c8d55da072d1ad3d8141caef819",
+  "generatedAt": "2026-08-05T21:24:43.930Z",
+  "runId": "2026-08-05T21:22:12Z-repair",
+  "sourceCommit": "65148ab92dee5b45622470ce989adc39d4213f95",
+  "mode": "REPAIR",
   "target": {
-    "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
-    "position": "outside all frozen and protected regions; placement selected only after belonging",
-    "neighbours": [],
-    "purpose": "test whether current releases, adjacent emerging voices, or overlooked catalogue material reveal a distinct function without inventing a pre-existing defect"
-  },
-  "explorationReceipt": {
-    "timestamp": "2026-08-05T08:18:30Z",
-    "scope": "approximately 78 named track listings across 16 release, label, distributor and catalogue pages, plus approximately 52 search-result entries screened across all three required source families",
-    "sourceFamilies": {
-      "currentReleases": [
-        "Beatport Techno (Raw / Deep / Hypnotic) released-track window centred on 2026-07-10: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
-        "Official Algumritmo Records Some Tools release, 2026-07-10: https://alg1ritmo.bandcamp.com/album/some-tools",
-        "Official FLASH Recordings Nitrox EP release, 2026-07-10: https://flashrec.bandcamp.com/album/nitrox-ep",
-        "Pitchfork Entre Nous review published 2026-08-04: https://pitchfork.com/reviews/albums/eden-aurelius-entre-nous"
-      ],
-      "adjacentAndEmerging": [
-        "Official SubNorium current catalogue including DREKSLR and Afonso Maia July 2026 releases: https://subnorium.bandcamp.com/",
-        "Official Algumritmo Records R 417 release: https://alg1ritmo.bandcamp.com/album/some-tools",
-        "Official FLASH Recordings Leümas Wähs / Yonto release: https://flashrec.bandcamp.com/album/nitrox-ep",
-        "Official Tustra catalogue and Systemfehler track page: https://tustra.bandcamp.com/track/systemfehler"
-      ],
-      "overlookedCatalogue": [
-        "Yukio Bergholdt IZA.3 (Single Edit), released 2025-04-16: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
-        "Tustra Systemfehler, released 2025-05-01: https://tustra.bandcamp.com/track/systemfehler",
-        "Beatport raw/deep/hypnotic catalogue searches covering 2019 through 2025 for restrained, subtle, loop-led and evolving tracks",
-        "Official Bandcamp catalogue searches for exact track-level descriptions with declared BPM or a concrete lawful neighbour test"
-      ]
-    },
-    "exclusions": [
-      "Every lead and candidate from the 2026-08-05T06:34:23Z-explore and 2026-08-04T16:59:32Z-explore runs was excluded before ranking.",
-      "All current ledger tracks, durable rejected entries and untriggered PARKED revisit entries were excluded.",
-      "Eden Aurelius feat. Pontiac Streator — Ion was excluded because the available sources conflict between a current digital review and a 2026-09-18 physical listing, and no lawful BPM source established a concrete neighbour test.",
-      "Tustra — Systemfehler was excluded from the ranked set because no lawful exact BPM source was found and its own description foregrounds distortion, overdrive and industrial edges that create a material attention-risk hypothesis.",
-      "WHM — KR079 and other listings supported only by release date, genre tags or BPM metadata were excluded for lacking track-specific constitution evidence.",
-      "Future preorders, house-leaning material, impact-led material, aggressive peak-time material and sample-pack/demo content were excluded.",
-      "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
+    "role": "correct Isaiah — Hourly's durable classification and reevaluate it with newly verified tempo evidence",
+    "position": "test Enlightenment → Hourly → F Track first, then eligible non-frozen alternatives if that function duplicates existing stages",
+    "neighbours": [
+      "Altinbas, Cirkle — Enlightenment (139 BPM)",
+      "Jancen — F Track (140 BPM)"
     ],
-    "rankedResolutionLeads": [
-      "R 417 — Bones (Bulah Remix)",
-      "Leümas Wähs, Yonto — Germanium",
-      "Yukio Bergholdt — IZA.3 (Single Edit)"
-    ],
-    "evidenceLimit": "Metadata and attributed track or release descriptions only; no raw-audio analysis and no candidate listener report. Beatport reports Bones (Bulah Remix) at 69 BPM and Germanium at 68 BPM; 138 and 136 are explicit double-time pulse hypotheses, not additional measured BPM values."
+    "purpose": "replace the prior unknown-BPM premise with verified 140 BPM evidence and determine the correct ADD, REVISIT, or REJECT state"
   },
+  "explorationReceipt": null,
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
+  "requestedCount": 1,
   "resolvedCount": 0,
   "candidateCount": 0,
   "resolutionStatus": "NONE",
   "unresolved": [
     {
-      "artist": "R 417",
-      "track": "Bones (Bulah Remix)",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Isaiah",
+      "track": "Hourly",
+      "error": "already present in persistent state",
       "requestedIdentity": {
-        "artist": "R 417",
-        "track": "Bones (Bulah Remix)",
-        "album": "Some Tools",
-        "releaseDate": "2026-07-10",
-        "bpm": 69,
-        "bpmSource": "Beatport Techno (Raw / Deep / Hypnotic) exact listing in the 2026-07-10 release window: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
-        "discoverySource": "Official Algumritmo Records release: https://alg1ritmo.bandcamp.com/album/some-tools",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Blind Spot and before Bionic Jungle",
-            "incomingBpm": 140,
-            "candidateBpm": 69,
-            "pulseHypothesisBpm": 138,
-            "outgoingBpm": 137,
-            "role": "groove-focused second-wave release contour"
-          }
-        ],
-        "fitHypothesis": "The label's track-specific groove-focused approach and refined tension may shape a controlled 140 → 138 → 137 release contour; it may instead duplicate Blind Spot and Bionic Jungle's already complete release functions.",
-        "evidence": {
-          "measured": [
-            "69 BPM as reported by Beatport",
-            "5:47 duration",
-            "released 2026-07-10"
-          ],
-          "attributedDescription": "Algumritmo Records says Bulah reworks Bones with a groove-focused approach and refined tension.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A 69 BPM analyser reading may be tested as an explicit 138 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
-        }
-      }
-    },
-    {
-      "artist": "Leümas Wähs, Yonto",
-      "track": "Germanium",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Leümas Wähs, Yonto",
-        "track": "Germanium",
-        "album": "Nitrox EP",
-        "releaseDate": "2026-07-10",
-        "bpm": 68,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AGeneral+Content&facets%5B1%5D=releaseTypeName%3ARelease&page=4&perPage=50&per_page=150&sortBy=genreName+ASC",
-        "discoverySource": "Official FLASH Recordings release: https://flashrec.bandcamp.com/album/nitrox-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Bionic Jungle and before AB01",
-            "incomingBpm": 137,
-            "candidateBpm": 68,
-            "pulseHypothesisBpm": 136,
-            "outgoingBpm": 136,
-            "role": "droning absorption shelf inside second-wave release"
-          }
-        ],
-        "fitHypothesis": "The official description's long, hypnotic route through monotonous and droning textures may deepen absorption at the bottom of the second-wave release; it may instead repeat AB01's release-extension work and lengthen an already complete descent.",
-        "evidence": {
-          "measured": [
-            "68 BPM as reported by Beatport",
-            "5:33 duration on the official release",
-            "released 2026-07-10"
-          ],
-          "attributedDescription": "FLASH Recordings says the Leümas Wähs and Yonto collaboration takes a long, hypnotic route through monotonous and droning textures.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A 68 BPM analyser reading may be tested as an explicit 136 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
-        }
-      }
-    },
-    {
-      "artist": "Yukio Bergholdt",
-      "track": "IZA.3 (Single Edit)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Yukio Bergholdt",
-        "track": "IZA.3 (Single Edit)",
-        "album": "IZA.3 (Single Edit)",
-        "releaseDate": "2025-04-16",
-        "bpm": 138,
-        "bpmSource": "Artist's official Bandcamp track description: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
-        "discoverySource": "Artist's official Bandcamp track page: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "artist": "Isaiah",
+        "track": "Hourly",
+        "album": "Periodical",
+        "releaseDate": "2026-07-31",
+        "bpm": 140,
+        "bpmSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
+        "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
+        "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Enlightenment and before F Track",
             "incomingBpm": 139,
-            "candidateBpm": 138,
+            "candidateBpm": 140,
             "outgoingBpm": 140,
-            "role": "subtle deep-techno pre-entry hinge"
+            "role": "rhythm-first re-entry shelf before the dub chamber"
+          },
+          {
+            "position": "after Ottagone 001 and before Miss Perez",
+            "incomingBpm": 138,
+            "candidateBpm": 140,
+            "outgoingBpm": 142,
+            "role": "first-wave groove-development step"
+          },
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "re-entry consolidation before long immersion"
           }
         ],
-        "fitHypothesis": "The artist's description of subtle driving flow, atmospheric synths and deep immersion may create a low-contrast hinge before second-wave re-entry; its melodic emphasis may demand attention or duplicate F Track's return function.",
+        "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "single edit duration 5:36",
-            "released 2025-04-16"
+            "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
+            "140 BPM from Beatport's exact Isaiah catalogue listing",
+            "4:36 duration",
+            "released 2026-07-31"
           ],
-          "attributedDescription": "The artist describes IZA.3 as a hypnotic yet melodic deep-techno journey with pulsating rhythms, atmospheric synths, trance-like flow, subtle drive and deep immersion.",
+          "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
           "listenerEvidence": null,
-          "lawfulAudioEvidence": null
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
         }
       }
     }
@@ -171,108 +79,53 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "R 417",
-        "track": "Bones (Bulah Remix)",
-        "album": "Some Tools",
-        "releaseDate": "2026-07-10",
-        "bpm": 69,
-        "bpmSource": "Beatport Techno (Raw / Deep / Hypnotic) exact listing in the 2026-07-10 release window: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AExclusive&page=5&perPage=100&per_page=150&preorders=false&sortBy=labelName+ASC",
-        "discoverySource": "Official Algumritmo Records release: https://alg1ritmo.bandcamp.com/album/some-tools",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Blind Spot and before Bionic Jungle",
-            "incomingBpm": 140,
-            "candidateBpm": 69,
-            "pulseHypothesisBpm": 138,
-            "outgoingBpm": 137,
-            "role": "groove-focused second-wave release contour"
-          }
-        ],
-        "fitHypothesis": "The label's track-specific groove-focused approach and refined tension may shape a controlled 140 → 138 → 137 release contour; it may instead duplicate Blind Spot and Bionic Jungle's already complete release functions.",
-        "evidence": {
-          "measured": [
-            "69 BPM as reported by Beatport",
-            "5:47 duration",
-            "released 2026-07-10"
-          ],
-          "attributedDescription": "Algumritmo Records says Bulah reworks Bones with a groove-focused approach and refined tension.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A 69 BPM analyser reading may be tested as an explicit 138 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Leümas Wähs, Yonto",
-        "track": "Germanium",
-        "album": "Nitrox EP",
-        "releaseDate": "2026-07-10",
-        "bpm": 68,
-        "bpmSource": "Beatport exact-track listing: https://www.beatport.com/genre/techno-raw-deep-hypnotic/92/tracks?facets%5B0%5D=currentStatus%3AGeneral+Content&facets%5B1%5D=releaseTypeName%3ARelease&page=4&perPage=50&per_page=150&sortBy=genreName+ASC",
-        "discoverySource": "Official FLASH Recordings release: https://flashrec.bandcamp.com/album/nitrox-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Bionic Jungle and before AB01",
-            "incomingBpm": 137,
-            "candidateBpm": 68,
-            "pulseHypothesisBpm": 136,
-            "outgoingBpm": 136,
-            "role": "droning absorption shelf inside second-wave release"
-          }
-        ],
-        "fitHypothesis": "The official description's long, hypnotic route through monotonous and droning textures may deepen absorption at the bottom of the second-wave release; it may instead repeat AB01's release-extension work and lengthen an already complete descent.",
-        "evidence": {
-          "measured": [
-            "68 BPM as reported by Beatport",
-            "5:33 duration on the official release",
-            "released 2026-07-10"
-          ],
-          "attributedDescription": "FLASH Recordings says the Leümas Wähs and Yonto collaboration takes a long, hypnotic route through monotonous and droning textures.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A 68 BPM analyser reading may be tested as an explicit 136 BPM double-time pulse hypothesis; the hypothesis must not be treated as a second measured BPM."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Yukio Bergholdt",
-        "track": "IZA.3 (Single Edit)",
-        "album": "IZA.3 (Single Edit)",
-        "releaseDate": "2025-04-16",
-        "bpm": 138,
-        "bpmSource": "Artist's official Bandcamp track description: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
-        "discoverySource": "Artist's official Bandcamp track page: https://yukiobergholdt.bandcamp.com/track/iza-3-single-edit?label=3453736512&tab=music",
+        "artist": "Isaiah",
+        "track": "Hourly",
+        "album": "Periodical",
+        "releaseDate": "2026-07-31",
+        "bpm": 140,
+        "bpmSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
+        "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
+        "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Enlightenment and before F Track",
             "incomingBpm": 139,
-            "candidateBpm": 138,
+            "candidateBpm": 140,
             "outgoingBpm": 140,
-            "role": "subtle deep-techno pre-entry hinge"
+            "role": "rhythm-first re-entry shelf before the dub chamber"
+          },
+          {
+            "position": "after Ottagone 001 and before Miss Perez",
+            "incomingBpm": 138,
+            "candidateBpm": 140,
+            "outgoingBpm": 142,
+            "role": "first-wave groove-development step"
+          },
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "re-entry consolidation before long immersion"
           }
         ],
-        "fitHypothesis": "The artist's description of subtle driving flow, atmospheric synths and deep immersion may create a low-contrast hinge before second-wave re-entry; its melodic emphasis may demand attention or duplicate F Track's return function.",
+        "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "single edit duration 5:36",
-            "released 2025-04-16"
+            "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
+            "140 BPM from Beatport's exact Isaiah catalogue listing",
+            "4:36 duration",
+            "released 2026-07-31"
           ],
-          "attributedDescription": "The artist describes IZA.3 as a hypnotic yet melodic deep-techno journey with pulsating rhythms, atmospheric synths, trance-like flow, subtle drive and deep immersion.",
+          "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
           "listenerEvidence": null,
-          "lawfulAudioEvidence": null
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "error": "already present in persistent state"
     }
   ],
   "candidates": [],
