@@ -1,5 +1,97 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-06 — Hourly Classification Repair
+
+**Operating mode:** `REPAIR`
+
+**Candidate snapshot:** `2026-08-06T06:50:17Z-repair-recovery`
+
+**Recovered request:** `2026-08-05T21:22:12Z-repair`
+
+### Repair receipt
+
+- Recovered the exact failed Hourly request after correcting the resolver guard that had wrongly treated every persistent-state identity as ineligible in REPAIR mode.
+- Preserved the original repair target, discovery receipt, evidence, three proposed placements and source commit. The recovery changed no editorial inputs.
+- Spotify resolved the exact Isaiah — Hourly identity with no warnings, unresolved leads, duplicates or alternates.
+- Used exact identity, duration, verified BPM and attributed release notes only. No raw-audio analysis or candidate listener report was available.
+
+### ADD — provisional
+
+- **Track:** Hourly
+- **Artist:** Isaiah
+- **Spotify:** spotify:track:4uV8iMMJPUPEJkw0O2YawT
+- **BPM:** 140
+- **Duration:** 4:36
+- **Position:** After Ottagone — Ottagone 001 and before No Valentia — Miss Perez.
+- **Purpose:** Begin first-wave groove development through rhythm.
+- **Playlist belonging:** `BELONGS` provisionally. Attributed track-specific evidence supports dense percussion, a bouncing bassline locked into a steady groove and pad accents. This is not a claim that the workflow heard the track.
+- **Exact neighbours:** `COMPATIBLE` provisionally. Ottagone 001 138 → Hourly 140 → Miss Perez 142 creates +2 / +2 BPM steps and leaves the protected opening pair intact.
+- **Distinct function:** Ottagone 001 completes the arrival bridge, Hourly begins first-wave movement through a narrower rhythm-led step, and Miss Perez continues the rise toward the first crest.
+- **Rejected placements:** After Enlightenment and after F Track were not selected because both would duplicate the established second-wave re-entry function.
+- **Internal uncertainty:** The attributed dense percussion and pad accents could draw more attention than the role permits, and Hourly may functionally overlap the earlier NX1 groove shelf. Natural feedback may reopen the provisional placement; no listening task is assigned.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identity; 140 BPM from the exact Beatport catalogue listing; 4:36 duration; approved placement creates 138 → 140 → 142.
+- **Craft:** The accepted slot begins a new wave after the arrival bridge. The two post-crest alternatives were rejected because a clean BPM path cannot justify duplicating F Track's re-entry.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Hourly is provisionally assigned a first-wave groove-development role, distinct from NX1's earlier arrival shelf and F Track's later re-entry.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, trajectory and transition features remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved Hourly as the sole canonical addition between Ottagone 001 and Miss Perez. The previous current-journey rejection is superseded because materially new BPM evidence enabled the independent neighbour gate, and the successful recovery enabled exact identity evaluation. All 25 resulting adjacent BPM differences remain within 0–4. The protected Deep Under → Wurk handoff, dominant Iruka summit, frozen summit-exit region and protected ending remain unchanged.
+
+### Ledger change
+
+Added Isaiah — Hourly as track #5. Every later track shifts one position without changing relative order.
+
+### Canonical ledger after run
+
+1. Rene Wise — Deep Under
+2. Skov Bowden — Wurk
+3. NX1 — Deprogramation 2
+4. Ottagone — Ottagone 001
+5. Isaiah — Hourly
+6. No Valentia — Miss Perez
+7. Maeksll — Two Glasses of Whisky
+8. FENIM0RE, KYSH Records — My Last Descent
+9. Altinbas — Trail Of
+10. Altinbas, Cirkle — Enlightenment
+11. Jancen — F Track
+12. Basic Channel — Octagon
+13. Maeksll — Tragoidia
+14. Red Rooms — Blind Spot
+15. Marcal — Bionic Jungle
+16. Vil — AB01
+17. Decoder — Flowing
+18. Arkan — Nasty Tool
+19. ElectroExeL — Tenta Tiv
+20. Alarico — Iruka
+21. Vakat — Percussion Work
+22. Stef Mendesidis — Interlynx
+23. Maeksll — Minimum
+24. Psyk — Eclipse
+25. Claudio PRC — Haidou
+26. Luigi Tozzi — Calipso
+
+### Post-change BPM trajectory
+
+`134 → 136 → 137 → 138 → 140 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+
+Every adjacent difference remains within the 0–4 BPM target.
+
+### Journey annotation change
+
+Added Hourly to the `first-wave` chapter with provisional `build` story band and `groove-development` / `first-wave-entry` labels. No other annotation, protected state or frozen state changed.
+
+### Editorial note
+
+New tempo evidence reopened Hourly and earned it a distinct provisional first-wave role.
+
+---
+
 
 ## 2026-08-05 — Fresh Outward Discovery Run
 

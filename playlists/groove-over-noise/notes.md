@@ -39,9 +39,9 @@ Do not insert before Deep Under or between the protected pair without direct pos
 
 ## Current BPM trajectory
 
-`134 → 136 → 137 → 138 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
+`134 → 136 → 137 → 138 → 140 → 142 → 145 → 144 → 142 → 139 → 140 → 141 → 141 → 140 → 137 → 136 → 138 → 138 → 139 → 141 → 139 → 137 → 134 → 130 → 128 → 125`
 
-Every adjacent difference remains within 0–4 BPM. **Deep Under → Wurk → Deprogramation 2 → Ottagone 001** now forms a 134 → 136 → 137 → 138 arrival with a provisional groove-lock shelf. **F Track → Octagon → Tragoidia** remains the 140 → 141 → 141 second-wave immersion chamber and crest approach.
+Every adjacent difference remains within 0–4 BPM. **Deep Under → Wurk → Deprogramation 2 → Ottagone 001** remains a 134 → 136 → 137 → 138 arrival with a provisional groove-lock shelf. **Ottagone 001 → Hourly → Miss Perez** now begins the first wave through a provisional 138 → 140 → 142 groove-development step. **F Track → Octagon → Tragoidia** remains the 140 → 141 → 141 second-wave immersion chamber and crest approach.
 
 ## Current chapter map
 
@@ -49,27 +49,40 @@ Every adjacent difference remains within 0–4 BPM. **Deep Under → Wurk → De
 2. **Groove formation and protected handoff:** Wurk
 3. **Opening groove-lock shelf, provisional:** Deprogramation 2
 4. **Opening bridge:** Ottagone 001
-5. **First-wave rise and crest approach:** Miss Perez
-6. **First local crest:** Two Glasses of Whisky
-7. **First-wave release hinge, provisional:** My Last Descent
-8. **First release:** Trail Of
-9. **Post-crest bridge:** Enlightenment
-10. **Second-wave re-entry:** F Track
-11. **Long-form second-wave immersion chamber, provisional:** Octagon
-12. **Second crest:** Tragoidia
-13. **Second-wave release hinge:** Blind Spot
-14. **Second-wave release:** Bionic Jungle
-15. **Release extension:** AB01
-16. **Third-wave threshold:** Flowing
-17. **Third-wave re-entry:** Nasty Tool
-18. **Summit approach:** Tenta Tiv
-19. **Main summit:** Iruka
-20. **Current summit-exit hinge:** Percussion Work
-21. **Release continuation:** Interlynx
-22. **Decompression bridge:** Minimum
-23. **Focused decompression:** Eclipse
-24. **Deep decompression:** Haidou
-25. **Dissolution:** Calipso
+5. **First-wave groove-development step, provisional:** Hourly
+6. **First-wave rise and crest approach:** Miss Perez
+7. **First local crest:** Two Glasses of Whisky
+8. **First-wave release hinge, provisional:** My Last Descent
+9. **First release:** Trail Of
+10. **Post-crest bridge:** Enlightenment
+11. **Second-wave re-entry:** F Track
+12. **Long-form second-wave immersion chamber, provisional:** Octagon
+13. **Second crest:** Tragoidia
+14. **Second-wave release hinge:** Blind Spot
+15. **Second-wave release:** Bionic Jungle
+16. **Release extension:** AB01
+17. **Third-wave threshold:** Flowing
+18. **Third-wave re-entry:** Nasty Tool
+19. **Summit approach:** Tenta Tiv
+20. **Main summit:** Iruka
+21. **Current summit-exit hinge:** Percussion Work
+22. **Release continuation:** Interlynx
+23. **Decompression bridge:** Minimum
+24. **Focused decompression:** Eclipse
+25. **Deep decompression:** Haidou
+26. **Dissolution:** Calipso
+
+## 2026-08-06 Hourly classification repair
+
+**Isaiah — Hourly** is added after **Ottagone 001** and before **Miss Perez**.
+
+- **Measured placement:** 138 → 140 → 142 BPM; duration 4:36.
+- **Source evidence:** attributed track-specific evidence describes dense percussion, a bouncing bassline locked into a steady groove and pad accents. This is not a claim of direct listening or raw-audio analysis.
+- **Editorial interpretation:** it begins the first wave through rhythm after the arrival bridge, before Miss Perez continues the climb.
+- **Classification correction:** the 2026-08-05 rejection is superseded. The exact 140 BPM evidence closes the independent neighbour gate that was previously unknown.
+- **Rejected alternatives:** positions after Enlightenment and after F Track would duplicate the established second-wave re-entry.
+- **Provisional risk:** it may overlap NX1's earlier groove shelf or draw too much attention through dense percussion and pads. Natural feedback may reopen it; no listening homework is assigned.
+- **Scope:** the protected Deep Under → Wurk pair, frozen Session 4 region, dominant summit and protected ending remain unchanged.
 
 ## 2026-08-04 outward-discovery addition
 
@@ -135,8 +148,9 @@ Clarification still needs to establish:
 
 1. Preserve Deep Under → Wurk.
 2. Let Deprogramation 2 remain a provisional opening groove-lock shelf unless natural feedback reopens it.
-3. Let My Last Descent remain a provisional first-wave release hinge.
-4. Let Octagon remain a provisional long-form second-wave immersion chamber unless natural feedback reopens it.
-5. Leave the frozen Session 4 region untouched until clarification.
-6. Preserve Iruka as the summit and the protected ending.
-7. Continue fresh outward discovery outside frozen or protected regions even when no repair target exists; do not invent a gap before finding the track.
+3. Let Hourly remain a provisional first-wave groove-development step unless natural feedback reopens it.
+4. Let My Last Descent remain a provisional first-wave release hinge.
+5. Let Octagon remain a provisional long-form second-wave immersion chamber unless natural feedback reopens it.
+6. Leave the frozen Session 4 region untouched until clarification.
+7. Preserve Iruka as the summit and the protected ending.
+8. Continue fresh outward discovery outside frozen or protected regions even when no repair target exists; do not invent a gap before finding the track.
