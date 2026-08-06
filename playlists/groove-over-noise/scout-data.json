@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "d0c3562b50e5fdeaa0c6775bae5ecde7400f1c8d55da072d1ad3d8141caef819",
-  "generatedAt": "2026-08-05T21:24:43.930Z",
-  "runId": "2026-08-05T21:22:12Z-repair",
-  "sourceCommit": "65148ab92dee5b45622470ce989adc39d4213f95",
+  "requestFingerprint": "bb36a2a282a68f0ca4b4db38a450e2e9084812b78f85c5595d6651a7bdd83d6b",
+  "generatedAt": "2026-08-06T06:51:28.910Z",
+  "runId": "2026-08-06T06:50:17Z-repair-recovery",
+  "sourceCommit": "c09cfaf030a9919e56dd35a15eaf992ba322c9da",
   "mode": "REPAIR",
   "target": {
     "role": "correct Isaiah — Hourly's durable classification and reevaluate it with newly verified tempo evidence",
@@ -17,14 +17,117 @@
   "explorationReceipt": null,
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 1,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
+  "warnings": [],
+  "outcomes": [
     {
-      "artist": "Isaiah",
-      "track": "Hourly",
-      "error": "already present in persistent state",
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Isaiah",
+        "track": "Hourly",
+        "album": "Periodical",
+        "releaseDate": "2026-07-31",
+        "bpm": 140,
+        "bpmSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
+        "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
+        "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": 140,
+            "outgoingBpm": 140,
+            "role": "rhythm-first re-entry shelf before the dub chamber"
+          },
+          {
+            "position": "after Ottagone 001 and before Miss Perez",
+            "incomingBpm": 138,
+            "candidateBpm": 140,
+            "outgoingBpm": 142,
+            "role": "first-wave groove-development step"
+          },
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "re-entry consolidation before long immersion"
+          }
+        ],
+        "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
+            "140 BPM from Beatport's exact Isaiah catalogue listing",
+            "4:36 duration",
+            "released 2026-07-31"
+          ],
+          "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
+        }
+      },
+      "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
+      "selected": true
+    }
+  ],
+  "candidates": [
+    {
+      "id": "4uV8iMMJPUPEJkw0O2YawT",
+      "uri": "spotify:track:4uV8iMMJPUPEJkw0O2YawT",
+      "name": "Hourly",
+      "artists": [
+        "Isaiah"
+      ],
+      "album": "Periodical",
+      "releaseDate": "2026-07-31",
+      "durationMs": 276000,
+      "spotifyUrl": "https://open.spotify.com/track/4uV8iMMJPUPEJkw0O2YawT",
+      "bpm": 140,
+      "tempoSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
+      "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Enlightenment and before F Track",
+          "incomingBpm": 139,
+          "candidateBpm": 140,
+          "outgoingBpm": 140,
+          "role": "rhythm-first re-entry shelf before the dub chamber"
+        },
+        {
+          "position": "after Ottagone 001 and before Miss Perez",
+          "incomingBpm": 138,
+          "candidateBpm": 140,
+          "outgoingBpm": 142,
+          "role": "first-wave groove-development step"
+        },
+        {
+          "position": "after F Track and before Octagon",
+          "incomingBpm": 140,
+          "candidateBpm": 140,
+          "outgoingBpm": 141,
+          "role": "re-entry consolidation before long immersion"
+        }
+      ],
+      "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
+      "evidence": {
+        "measured": [
+          "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
+          "140 BPM from Beatport's exact Isaiah catalogue listing",
+          "4:36 duration",
+          "released 2026-07-31"
+        ],
+        "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
+      },
       "requestedIdentity": {
         "artist": "Isaiah",
         "track": "Hourly",
@@ -74,60 +177,5 @@
       }
     }
   ],
-  "warnings": [],
-  "outcomes": [
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Isaiah",
-        "track": "Hourly",
-        "album": "Periodical",
-        "releaseDate": "2026-07-31",
-        "bpm": 140,
-        "bpmSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
-        "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
-        "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Enlightenment and before F Track",
-            "incomingBpm": 139,
-            "candidateBpm": 140,
-            "outgoingBpm": 140,
-            "role": "rhythm-first re-entry shelf before the dub chamber"
-          },
-          {
-            "position": "after Ottagone 001 and before Miss Perez",
-            "incomingBpm": 138,
-            "candidateBpm": 140,
-            "outgoingBpm": 142,
-            "role": "first-wave groove-development step"
-          },
-          {
-            "position": "after F Track and before Octagon",
-            "incomingBpm": 140,
-            "candidateBpm": 140,
-            "outgoingBpm": 141,
-            "role": "re-entry consolidation before long immersion"
-          }
-        ],
-        "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
-        "evidence": {
-          "measured": [
-            "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
-            "140 BPM from Beatport's exact Isaiah catalogue listing",
-            "4:36 duration",
-            "released 2026-07-31"
-          ],
-          "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
-        }
-      },
-      "error": "already present in persistent state"
-    }
-  ],
-  "candidates": [],
   "resolvedAlternates": []
 }
