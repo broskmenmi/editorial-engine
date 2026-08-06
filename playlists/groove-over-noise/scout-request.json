@@ -1,7 +1,9 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-05T21:22:12Z-repair",
-  "sourceCommit": "65148ab92dee5b45622470ce989adc39d4213f95",
+  "runId": "2026-08-06T06:50:17Z-repair-recovery",
+  "sourceCommit": "c09cfaf030a9919e56dd35a15eaf992ba322c9da",
+  "recoveryOfRunId": "2026-08-05T21:22:12Z-repair",
+  "recoveryReason": "The source run failed at resolver execution because REPAIR incorrectly treated a rejected identity as an absolute persistent-state exclusion; resolver code now permits REPAIR to reopen non-ledger identities while preserving the canonical-ledger exclusion.",
   "mode": "REPAIR",
   "target": {
     "role": "correct Isaiah — Hourly's durable classification and reevaluate it with newly verified tempo evidence",
