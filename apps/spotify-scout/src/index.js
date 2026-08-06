@@ -48,6 +48,17 @@ function idsFromText(text) {
   return new Set([...text.matchAll(/spotify:track:([A-Za-z0-9]{22})/g)].map((match) => match[1]));
 }
 
+export function persistentExclusions(mode, sourceTexts) {
+  const paths = mode === 'REPAIR' ? [SOURCE_PATHS[0]] : SOURCE_PATHS;
+  const excluded = new Set();
+
+  for (const path of paths) {
+    for (const id of idsFromText(sourceTexts[path] ?? '')) excluded.add(id);
+  }
+
+  return excluded;
+}
+
 export function normalized(value) {
   return String(value ?? '')
     .normalize('NFKD')
@@ -505,11 +516,10 @@ export async function main() {
     throw new Error(`runId ${request.runId} already has a different immutable terminal snapshot; create a new runId`);
   }
 
-  const sourceTexts = await Promise.all(SOURCE_PATHS.map((filePath) => fs.readFile(filePath, 'utf8')));
-  const excluded = new Set();
-  for (const text of sourceTexts) {
-    for (const id of idsFromText(text)) excluded.add(id);
-  }
+  const sourceEntries = await Promise.all(SOURCE_PATHS.map(async (filePath) => (
+    [filePath, await fs.readFile(filePath, 'utf8')]
+  )));
+  const excluded = persistentExclusions(mode, Object.fromEntries(sourceEntries));
 
   const token = await refreshToken();
   const resolved = [];
