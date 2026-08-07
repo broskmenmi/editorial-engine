@@ -1,19 +1,20 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "68f8aa68a719094a4ee8856907aeb3b763b7502ecc0dc50c347312fc776795fb",
-  "generatedAt": "2026-08-07T06:26:28.621Z",
-  "runId": "2026-08-07T06:24:54Z-repair",
-  "sourceCommit": "12ace6bd6fa5ca68bf0e4c3c945da402313d064e",
+  "requestFingerprint": "252b271177679dbda0be8bf77a8356b153096ffefb4394a29dfb74e272bd5acc",
+  "generatedAt": "2026-08-07T08:42:35.735Z",
+  "runId": "2026-08-07T08:41:52Z-repair",
+  "sourceCommit": "5e06711eae1e7c56f0ffc8c9f5dad2c000b0b830",
   "mode": "REPAIR",
   "target": {
-    "role": "reassess DJ Dextro — Industria Acéfala after its documented first-wave structure trigger fired",
-    "position": "test non-frozen first-wave placements around the newly added Hourly stage, then the later re-entry only if functionally distinct",
+    "role": "reassess Arthur Robert — Antimatter after its documented second-wave structure trigger fired",
+    "position": "test Antimatter against the changed non-frozen second-wave structure created by Octagon, including its original re-entry role and only structurally distinct insertion alternatives",
     "neighbours": [
-      "Ottagone — Ottagone 001 (138 BPM)",
-      "Isaiah — Hourly (140 BPM)",
-      "No Valentia — Miss Perez (142 BPM)"
+      "Altinbas, Cirkle — Enlightenment (139 BPM)",
+      "Jancen — F Track (140 BPM)",
+      "Basic Channel — Octagon (141 BPM)",
+      "Maeksll — Tragoidia (141 BPM)"
     ],
-    "purpose": "determine whether the changed first-wave structure creates a distinct role or makes the parked candidate a durable duplicate"
+    "purpose": "determine whether Octagon's addition gives the parked candidate a distinct second-wave function or confirms functional duplication"
   },
   "explorationReceipt": null,
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
@@ -27,154 +28,154 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Dextro",
-        "track": "Industria Acéfala",
-        "releaseDate": "2026-06-05",
+        "artist": "Arthur Robert",
+        "track": "Antimatter",
+        "releaseDate": "2025-01-17",
         "bpm": 140,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
-        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/t/19730447?currency=USD",
+        "discoverySource": "Persisted REVISIT first seen 2026-07-23; exact hereandthere Bandcamp track https://herenthere.bandcamp.com/track/antimatter; targeted attributed-description check https://www.juno.co.uk/products/arthur-robert-hydrostatic-equilibrium-vinyl/1059312-01/",
+        "spotifyTrackId": "4ingsyWWkWq4LEZhDXicYd",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Ottagone 001 and before Hourly",
-            "incomingBpm": 138,
-            "candidateBpm": 140,
-            "outgoingBpm": 140,
-            "role": "first-wave threshold before Hourly's groove development"
-          },
-          {
-            "position": "after Hourly and before Miss Perez",
-            "incomingBpm": 140,
-            "candidateBpm": 140,
-            "outgoingBpm": 142,
-            "role": "first-wave tension extension before the crest approach"
-          },
-          {
-            "position": "after Enlightenment and before F Track",
+            "position": "replace F Track after Enlightenment and before Octagon",
             "incomingBpm": 139,
             "candidateBpm": 140,
-            "outgoingBpm": 140,
-            "role": "post-crest re-entry threshold"
+            "outgoingBpm": 141,
+            "role": "second-wave re-entry alternative under the changed downstream structure"
+          },
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "deepening step between re-entry and the long-form immersion chamber"
+          },
+          {
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "post-chamber spacer before the deeper crest"
           }
         ],
-        "fitHypothesis": "The attributed rolling bass, rooted kicks and one-note loops may support groove-led continuity, but the source-described scratchy texture and unsettling tension remain an attention risk; Hourly now occupies the candidate's original first-wave function, so every legal placement may be functionally duplicative.",
+        "fitHypothesis": "The attributed deep-techno, dub and psychedelic-synth description may support patient second-wave continuity, and Octagon materially changed Antimatter's downstream context; however Octagon now owns the long-form deepening function, so Antimatter may still duplicate either F Track's re-entry or Octagon's immersion chamber rather than earn a separate stage.",
         "evidence": {
           "measured": [
-            "exact Spotify identity 02cniEHoBnELxWX54JkDuF",
+            "known Spotify track ID 4ingsyWWkWq4LEZhDXicYd requires resolver verification",
             "140 BPM from Beatport exact track metadata",
-            "5:03.735 duration",
-            "released 2026-06-05",
-            "the first-wave structure changed on 2026-08-06 when Hourly entered at the candidate's former 138 → 140 → 142 position"
+            "6:00 Beatport duration metadata",
+            "released 2025-01-17",
+            "the second-wave structure changed on 2026-08-03 when Basic Channel — Octagon was added after F Track; Antimatter's persisted Last reviewed date remains 2026-07-29"
           ],
-          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+          "attributedDescription": "Juno describes this exact track as combining deep techno, dub and psychedelic synth colours; hereandthere identifies it as Antimatter on Hydrostatic Equilibrium. This is attributed source evidence, not direct listening or raw-audio analysis.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A triggered revisit must be reassessed against the new structure; compliant BPM paths do not justify a duplicated stage."
+          "craftConvention": "A documented structural-change trigger reopens the parked candidate, but a compliant BPM path cannot justify replacement or insertion without a distinct second-wave function."
         }
       },
-      "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
+      "spotifyTrackId": "4ingsyWWkWq4LEZhDXicYd",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "02cniEHoBnELxWX54JkDuF",
-      "uri": "spotify:track:02cniEHoBnELxWX54JkDuF",
-      "name": "Industria Acéfala",
+      "id": "4ingsyWWkWq4LEZhDXicYd",
+      "uri": "spotify:track:4ingsyWWkWq4LEZhDXicYd",
+      "name": "Antimatter",
       "artists": [
-        "DJ Dextro"
+        "Arthur Robert"
       ],
-      "album": "Planets and Stars",
-      "releaseDate": "2026-06-05",
-      "durationMs": 303735,
-      "spotifyUrl": "https://open.spotify.com/track/02cniEHoBnELxWX54JkDuF",
+      "album": "Hydrostatic Equilibrium",
+      "releaseDate": "2025-01-17",
+      "durationMs": 360081,
+      "spotifyUrl": "https://open.spotify.com/track/4ingsyWWkWq4LEZhDXicYd",
       "bpm": 140,
-      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-      "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
+      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/t/19730447?currency=USD",
+      "discoverySource": "Persisted REVISIT first seen 2026-07-23; exact hereandthere Bandcamp track https://herenthere.bandcamp.com/track/antimatter; targeted attributed-description check https://www.juno.co.uk/products/arthur-robert-hydrostatic-equilibrium-vinyl/1059312-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Ottagone 001 and before Hourly",
-          "incomingBpm": 138,
-          "candidateBpm": 140,
-          "outgoingBpm": 140,
-          "role": "first-wave threshold before Hourly's groove development"
-        },
-        {
-          "position": "after Hourly and before Miss Perez",
-          "incomingBpm": 140,
-          "candidateBpm": 140,
-          "outgoingBpm": 142,
-          "role": "first-wave tension extension before the crest approach"
-        },
-        {
-          "position": "after Enlightenment and before F Track",
+          "position": "replace F Track after Enlightenment and before Octagon",
           "incomingBpm": 139,
           "candidateBpm": 140,
-          "outgoingBpm": 140,
-          "role": "post-crest re-entry threshold"
+          "outgoingBpm": 141,
+          "role": "second-wave re-entry alternative under the changed downstream structure"
+        },
+        {
+          "position": "after F Track and before Octagon",
+          "incomingBpm": 140,
+          "candidateBpm": 140,
+          "outgoingBpm": 141,
+          "role": "deepening step between re-entry and the long-form immersion chamber"
+        },
+        {
+          "position": "after Octagon and before Tragoidia",
+          "incomingBpm": 141,
+          "candidateBpm": 140,
+          "outgoingBpm": 141,
+          "role": "post-chamber spacer before the deeper crest"
         }
       ],
-      "fitHypothesis": "The attributed rolling bass, rooted kicks and one-note loops may support groove-led continuity, but the source-described scratchy texture and unsettling tension remain an attention risk; Hourly now occupies the candidate's original first-wave function, so every legal placement may be functionally duplicative.",
+      "fitHypothesis": "The attributed deep-techno, dub and psychedelic-synth description may support patient second-wave continuity, and Octagon materially changed Antimatter's downstream context; however Octagon now owns the long-form deepening function, so Antimatter may still duplicate either F Track's re-entry or Octagon's immersion chamber rather than earn a separate stage.",
       "evidence": {
         "measured": [
-          "exact Spotify identity 02cniEHoBnELxWX54JkDuF",
+          "known Spotify track ID 4ingsyWWkWq4LEZhDXicYd requires resolver verification",
           "140 BPM from Beatport exact track metadata",
-          "5:03.735 duration",
-          "released 2026-06-05",
-          "the first-wave structure changed on 2026-08-06 when Hourly entered at the candidate's former 138 → 140 → 142 position"
+          "6:00 Beatport duration metadata",
+          "released 2025-01-17",
+          "the second-wave structure changed on 2026-08-03 when Basic Channel — Octagon was added after F Track; Antimatter's persisted Last reviewed date remains 2026-07-29"
         ],
-        "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+        "attributedDescription": "Juno describes this exact track as combining deep techno, dub and psychedelic synth colours; hereandthere identifies it as Antimatter on Hydrostatic Equilibrium. This is attributed source evidence, not direct listening or raw-audio analysis.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A triggered revisit must be reassessed against the new structure; compliant BPM paths do not justify a duplicated stage."
+        "craftConvention": "A documented structural-change trigger reopens the parked candidate, but a compliant BPM path cannot justify replacement or insertion without a distinct second-wave function."
       },
       "requestedIdentity": {
-        "artist": "DJ Dextro",
-        "track": "Industria Acéfala",
-        "releaseDate": "2026-06-05",
+        "artist": "Arthur Robert",
+        "track": "Antimatter",
+        "releaseDate": "2025-01-17",
         "bpm": 140,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
-        "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
-        "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/t/19730447?currency=USD",
+        "discoverySource": "Persisted REVISIT first seen 2026-07-23; exact hereandthere Bandcamp track https://herenthere.bandcamp.com/track/antimatter; targeted attributed-description check https://www.juno.co.uk/products/arthur-robert-hydrostatic-equilibrium-vinyl/1059312-01/",
+        "spotifyTrackId": "4ingsyWWkWq4LEZhDXicYd",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Ottagone 001 and before Hourly",
-            "incomingBpm": 138,
-            "candidateBpm": 140,
-            "outgoingBpm": 140,
-            "role": "first-wave threshold before Hourly's groove development"
-          },
-          {
-            "position": "after Hourly and before Miss Perez",
-            "incomingBpm": 140,
-            "candidateBpm": 140,
-            "outgoingBpm": 142,
-            "role": "first-wave tension extension before the crest approach"
-          },
-          {
-            "position": "after Enlightenment and before F Track",
+            "position": "replace F Track after Enlightenment and before Octagon",
             "incomingBpm": 139,
             "candidateBpm": 140,
-            "outgoingBpm": 140,
-            "role": "post-crest re-entry threshold"
+            "outgoingBpm": 141,
+            "role": "second-wave re-entry alternative under the changed downstream structure"
+          },
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "deepening step between re-entry and the long-form immersion chamber"
+          },
+          {
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 140,
+            "outgoingBpm": 141,
+            "role": "post-chamber spacer before the deeper crest"
           }
         ],
-        "fitHypothesis": "The attributed rolling bass, rooted kicks and one-note loops may support groove-led continuity, but the source-described scratchy texture and unsettling tension remain an attention risk; Hourly now occupies the candidate's original first-wave function, so every legal placement may be functionally duplicative.",
+        "fitHypothesis": "The attributed deep-techno, dub and psychedelic-synth description may support patient second-wave continuity, and Octagon materially changed Antimatter's downstream context; however Octagon now owns the long-form deepening function, so Antimatter may still duplicate either F Track's re-entry or Octagon's immersion chamber rather than earn a separate stage.",
         "evidence": {
           "measured": [
-            "exact Spotify identity 02cniEHoBnELxWX54JkDuF",
+            "known Spotify track ID 4ingsyWWkWq4LEZhDXicYd requires resolver verification",
             "140 BPM from Beatport exact track metadata",
-            "5:03.735 duration",
-            "released 2026-06-05",
-            "the first-wave structure changed on 2026-08-06 when Hourly entered at the candidate's former 138 → 140 → 142 position"
+            "6:00 Beatport duration metadata",
+            "released 2025-01-17",
+            "the second-wave structure changed on 2026-08-03 when Basic Channel — Octagon was added after F Track; Antimatter's persisted Last reviewed date remains 2026-07-29"
           ],
-          "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
+          "attributedDescription": "Juno describes this exact track as combining deep techno, dub and psychedelic synth colours; hereandthere identifies it as Antimatter on Hydrostatic Equilibrium. This is attributed source evidence, not direct listening or raw-audio analysis.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A triggered revisit must be reassessed against the new structure; compliant BPM paths do not justify a duplicated stage."
+          "craftConvention": "A documented structural-change trigger reopens the parked candidate, but a compliant BPM path cannot justify replacement or insertion without a distinct second-wave function."
         }
       }
     }
