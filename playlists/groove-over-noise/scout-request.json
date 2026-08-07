@@ -1,65 +1,64 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-06T06:50:17Z-repair-recovery",
-  "sourceCommit": "c09cfaf030a9919e56dd35a15eaf992ba322c9da",
-  "recoveryOfRunId": "2026-08-05T21:22:12Z-repair",
-  "recoveryReason": "The source run failed at resolver execution because REPAIR incorrectly treated a rejected identity as an absolute persistent-state exclusion; resolver code now permits REPAIR to reopen non-ledger identities while preserving the canonical-ledger exclusion.",
+  "runId": "2026-08-07T06:24:54Z-repair",
+  "sourceCommit": "12ace6bd6fa5ca68bf0e4c3c945da402313d064e",
   "mode": "REPAIR",
   "target": {
-    "role": "correct Isaiah — Hourly's durable classification and reevaluate it with newly verified tempo evidence",
-    "position": "test Enlightenment → Hourly → F Track first, then eligible non-frozen alternatives if that function duplicates existing stages",
+    "role": "reassess DJ Dextro — Industria Acéfala after its documented first-wave structure trigger fired",
+    "position": "test non-frozen first-wave placements around the newly added Hourly stage, then the later re-entry only if functionally distinct",
     "neighbours": [
-      "Altinbas, Cirkle — Enlightenment (139 BPM)",
-      "Jancen — F Track (140 BPM)"
+      "Ottagone — Ottagone 001 (138 BPM)",
+      "Isaiah — Hourly (140 BPM)",
+      "No Valentia — Miss Perez (142 BPM)"
     ],
-    "purpose": "replace the prior unknown-BPM premise with verified 140 BPM evidence and determine the correct ADD, REVISIT, or REJECT state"
+    "purpose": "determine whether the changed first-wave structure creates a distinct role or makes the parked candidate a durable duplicate"
   },
   "leads": [
     {
-      "artist": "Isaiah",
-      "track": "Hourly",
-      "album": "Periodical",
-      "releaseDate": "2026-07-31",
+      "artist": "DJ Dextro",
+      "track": "Industria Acéfala",
+      "releaseDate": "2026-06-05",
       "bpm": 140,
-      "bpmSource": "Beatport exact artist-catalogue listing for Isaiah — Hourly (Original Mix): https://www.beatport.com/artist/isaiah/53533/tracks?page=1&per_page=100&preorders=false",
-      "discoverySource": "Isaiah's artist-owned Bandcamp track page: https://isaj.bandcamp.com/track/hourly",
-      "spotifyTrackId": "4uV8iMMJPUPEJkw0O2YawT",
+      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/industria-acefala/28740789",
+      "discoverySource": "Official Mutual Rytm release, 2026-06-05: https://mutual-rytm.bandcamp.com/album/planets-and-stars",
+      "spotifyTrackId": "02cniEHoBnELxWX54JkDuF",
       "searchIntent": "BOTH",
       "proposedPlacements": [
+        {
+          "position": "after Ottagone 001 and before Hourly",
+          "incomingBpm": 138,
+          "candidateBpm": 140,
+          "outgoingBpm": 140,
+          "role": "first-wave threshold before Hourly's groove development"
+        },
+        {
+          "position": "after Hourly and before Miss Perez",
+          "incomingBpm": 140,
+          "candidateBpm": 140,
+          "outgoingBpm": 142,
+          "role": "first-wave tension extension before the crest approach"
+        },
         {
           "position": "after Enlightenment and before F Track",
           "incomingBpm": 139,
           "candidateBpm": 140,
           "outgoingBpm": 140,
-          "role": "rhythm-first re-entry shelf before the dub chamber"
-        },
-        {
-          "position": "after Ottagone 001 and before Miss Perez",
-          "incomingBpm": 138,
-          "candidateBpm": 140,
-          "outgoingBpm": 142,
-          "role": "first-wave groove-development step"
-        },
-        {
-          "position": "after F Track and before Octagon",
-          "incomingBpm": 140,
-          "candidateBpm": 140,
-          "outgoingBpm": 141,
-          "role": "re-entry consolidation before long immersion"
+          "role": "post-crest re-entry threshold"
         }
       ],
-      "fitHypothesis": "The attributed rhythm-first construction, bouncing bassline and steady groove may create a patient transitional shelf; dense percussion and pad accents may instead increase attention demand, and every tested role may duplicate an existing re-entry, rise, or immersion stage.",
+      "fitHypothesis": "The attributed rolling bass, rooted kicks and one-note loops may support groove-led continuity, but the source-described scratchy texture and unsettling tension remain an attention risk; Hourly now occupies the candidate's original first-wave function, so every legal placement may be functionally duplicative.",
       "evidence": {
         "measured": [
-          "exact Spotify identity 4uV8iMMJPUPEJkw0O2YawT",
-          "140 BPM from Beatport's exact Isaiah catalogue listing",
-          "4:36 duration",
-          "released 2026-07-31"
+          "exact Spotify identity 02cniEHoBnELxWX54JkDuF",
+          "140 BPM from Beatport exact track metadata",
+          "5:03.735 duration",
+          "released 2026-06-05",
+          "the first-wave structure changed on 2026-08-06 when Hourly entered at the candidate's former 138 → 140 → 142 position"
         ],
-        "attributedDescription": "Isaiah's artist-owned Periodical EP notes describe Hourly as dense percussion over a bouncing bassline locked into a steady groove, with occasional pad accents.",
+        "attributedDescription": "Mutual Rytm attributes deep rolling bass, rooted kicks, hypnotic one-note loops, scratchy texture and unsettling tension to this exact track.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A 139 → 140 → 140 path is numerically compatible, but an insertion must earn a distinct non-duplicative journey function."
+        "craftConvention": "A triggered revisit must be reassessed against the new structure; compliant BPM paths do not justify a duplicated stage."
       }
     }
   ]
