@@ -1,5 +1,56 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-07 — Triggered Antimatter Revisit
+
+**Operating mode:** `REPAIR`
+
+**Candidate snapshot:** `2026-08-07T08:41:52Z-repair`
+
+### Trigger and resolution receipt
+
+- Arthur Robert — Antimatter's parked REVISIT explicitly allowed reassessment when the second-wave structure changed.
+- That trigger fired when Basic Channel — Octagon was added after F Track on 2026-08-03; Antimatter's recorded last review remained 2026-07-29.
+- Submitted one exact known identity for renewed Spotify verification. The resolver returned one exact candidate with `COMPLETE` resolution and no warnings, unresolved leads, duplicates or alternates.
+- Used exact identity, duration, verified BPM, the changed canonical structure and attributed track/release descriptions only. No raw-audio analysis or candidate listener report was available.
+
+### REVISIT — parked after triggered reassessment
+
+- **Track:** Antimatter
+- **Artist:** Arthur Robert
+- **Spotify:** spotify:track:4ingsyWWkWq4LEZhDXicYd
+- **BPM:** 140
+- **Duration:** 6:00.081
+- **Playlist belonging:** `BELONGS` provisionally. Attributed source evidence places the exact track in a deep-techno, dub and psychedelic-synth context compatible with the playlist's reduction-oriented world; this is not a claim of direct listening.
+- **Placement 1:** Replace F Track after Enlightenment and before Octagon gives 139 → 140 → 141. Numerically `COMPATIBLE`; exact-neighbour superiority is `UNCERTAIN` because no listener or lawful audio evidence shows Antimatter improves the accepted F Track re-entry.
+- **Placement 2:** After F Track and before Octagon gives 140 → 140 → 141. Numerically compliant but structurally `INCOMPATIBLE`: F Track already performs re-entry and Octagon already supplies the long-form immersion chamber, leaving no distinct intermediate stage.
+- **Placement 3:** After Octagon and before Tragoidia gives 141 → 140 → 141. Numerically compliant but structurally `INCOMPATIBLE`: it introduces avoidable down-up pulse motion and another spacer after the established long-form chamber before the deeper crest.
+- **Uncertainty:** The trigger has been consumed, but replacement fit and attention continuity remain genuinely unknown rather than disproven.
+- **Reassess when:** F Track receives negative listener feedback, new lawful audio evidence materially distinguishes Antimatter from F Track or Octagon, or the second-wave structure changes again in a way that removes the current re-entry/immersion duplication.
+- **Scope:** No ledger change was approved. The protected opening, frozen Session 4 region, dominant summit and protected ending remain unchanged.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identity; 140 BPM; 6:00.081 duration; three tested paths of 139 → 140 → 141, 140 → 140 → 141 and 141 → 140 → 141.
+- **Craft:** A structural trigger requires reassessment, but numeric compatibility cannot justify displacing an accepted re-entry or inserting another occupied stage.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Antimatter remains a plausible deeper re-entry alternative, but the current F Track → Octagon architecture leaves no evidenced distinct insertion function.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, trajectory and transition behaviour remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved REVISIT with the structural-change trigger consumed and a narrower future reassessment condition. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Editorial note
+
+Octagon legitimately reopened Antimatter, but the current second wave still gives it no distinct evidenced job.
+
+---
+
 ## 2026-08-07 — Triggered Industria Acéfala Revisit
 
 **Operating mode:** `REPAIR`
