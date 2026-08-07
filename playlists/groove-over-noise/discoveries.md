@@ -1,5 +1,55 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-07 — Triggered Industria Acéfala Revisit
+
+**Operating mode:** `REPAIR`
+
+**Candidate snapshot:** `2026-08-07T06:24:54Z-repair`
+
+### Trigger and resolution receipt
+
+- The parked REVISIT explicitly allowed reassessment when the first-wave structure materially changed.
+- That trigger fired when Hourly entered the former Ottagone 001 → candidate → Miss Perez position on 2026-08-06.
+- Submitted one exact known identity for renewed Spotify verification. The resolver returned one exact candidate with no warnings, unresolved leads, duplicates or alternates.
+- Used exact identity, duration, verified BPM, the changed canonical structure and attributed release notes only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** Industria Acéfala
+- **Artist:** DJ Dextro
+- **Spotify:** spotify:track:02cniEHoBnELxWX54JkDuF
+- **BPM:** 140
+- **Duration:** 5:03.735
+- **Playlist belonging:** `UNCERTAIN`, but plausible. Mutual Rytm's track-specific description supports deep rolling bass, rooted kicks and hypnotic one-note loops while also describing scratchy texture and unsettling tension.
+- **Placement 1:** After Ottagone 001 and before Hourly gives 138 → 140 → 140. Numerically compliant, structurally `INCOMPATIBLE`: it inserts another threshold before Hourly's established first-wave development.
+- **Placement 2:** After Hourly and before Miss Perez gives 140 → 140 → 142. Numerically compliant, structurally `INCOMPATIBLE`: it extends the same development stage before Miss Perez's rise without a distinct function.
+- **Placement 3:** After Enlightenment and before F Track gives 139 → 140 → 140. Numerically compliant, structurally `INCOMPATIBLE`: it duplicates F Track's established second-wave re-entry.
+- **Reason:** The trigger made the candidate more testable but less necessary. Hourly now owns the only differentiated role previously available to it, and every alternative repeats an occupied stage.
+- **Scope:** This is a current-journey rejection, not a claim that the track does not belong artistically. A materially different future structure or lawful audio evidence may justify reconsideration under the rejected-track exception.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identity; 140 BPM; 5:03.735 duration; three tested paths of 138 → 140 → 140, 140 → 140 → 142 and 139 → 140 → 140.
+- **Craft:** All three paths satisfy the tempo screen, but none earns a distinct stage after Hourly's addition.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** The candidate's former differentiated hypothesis has become functional duplication in the current journey.
+- **Audio evidence:** The registry remains empty. Density, transients, phrase structure, vocals, trajectory and transition behaviour remain unknown beyond attributed description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved a durable current-journey rejection and removal from REVISIT. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Editorial note
+
+Hourly's addition resolved Industria Acéfala's uncertainty by occupying its only distinct current role.
+
+---
+
 ## 2026-08-06 — Hourly Classification Repair
 
 **Operating mode:** `REPAIR`

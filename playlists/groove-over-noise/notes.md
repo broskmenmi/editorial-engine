@@ -109,7 +109,7 @@ Every adjacent difference remains within 0–4 BPM. **Deep Under → Wurk → De
 - **Provisional risk:** the long chamber may delay Tragoidia or cause impatience. Natural feedback may reopen it; no listening homework is assigned.
 - **Scope:** the protected opening, frozen Session 4 region, dominant summit, and protected ending remain unchanged.
 
-**DJ Dextro — Industria Acéfala** is parked for REVISIT. Its clean 138 → 140 → 142 proposal does not override a source-described attention/noise risk.
+**DJ Dextro — Industria Acéfala** was initially parked for REVISIT. After Hourly entered its former 138 → 140 → 142 role, the triggered 2026-08-07 reassessment rejected it only for the current journey: every tested placement now duplicates Hourly's first-wave development or F Track's later re-entry. Its source-described attention risk remains unresolved and was not treated as audio evidence.
 
 **Deano (ZA) — Kazoo (Stripped Version)** received no verdict because the supplied Spotify identity did not match; the resolver made no substitution.
 
