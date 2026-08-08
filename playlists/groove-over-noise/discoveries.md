@@ -1,5 +1,58 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-08 — Triggered Up & Down Revisit
+
+**Operating mode:** `REPAIR`
+
+**Candidate snapshot:** `2026-08-08T06:26:29Z-repair`
+
+### Trigger and resolution receipt
+
+- Arkan — Up & Down's parked REVISIT explicitly allowed reassessment when the third-wave structure changed.
+- That trigger fired when ElectroExeL — Tenta Tiv was added after Nasty Tool on 2026-08-02; Up & Down's recorded last review remained 2026-08-01.
+- A complete queue audit found no other actionable entry: Grid Collapse was reviewed in the run that established Tenta Tiv, Kingpin's named dependencies remain unchanged, Antimatter is current, and Session 4 remains frozen.
+- Submitted one exact known identity for renewed Spotify verification. The resolver returned one exact candidate with `COMPLETE` resolution, no unresolved leads, duplicates or alternates, and one preserved album-title variance warning.
+- Used exact identity, duration, verified BPM, the changed canonical structure and attributed artist-owned release notes only. No raw-audio analysis or candidate listener report was available.
+
+### REVISIT — parked after triggered reassessment
+
+- **Track:** Up & Down
+- **Artist:** Arkan
+- **Spotify:** spotify:track:0FsRgVOtODhabQaUBhwFga
+- **BPM:** 139
+- **Duration:** 5:38.250
+- **Identity warning:** Exact title and artist matched; the requested album text `Attraction [SK11X032]` appears on Spotify as `Attraction`.
+- **Playlist belonging:** `BELONGS` provisionally. Arkan's artist-owned page describes a deep, hypnotic and minimalist focus, while the exact track's bouncing tension and chord-led description remains attributed evidence rather than direct listening.
+- **Placement 1:** Replace Nasty Tool after Flowing and before Tenta Tiv gives 138 → 139 → 139. Numerically `COMPATIBLE`; exact-neighbour superiority is `UNCERTAIN` because no listener or lawful audio evidence shows Up & Down improves the accepted Nasty Tool re-entry.
+- **Placement 2:** After Flowing and before Nasty Tool gives 138 → 139 → 138. Numerically compliant but structurally `INCOMPATIBLE`: it creates avoidable up-down motion and another threshold before the established re-entry.
+- **Placement 3:** After Nasty Tool and before Tenta Tiv gives 138 → 139 → 139. Numerically compliant but structurally `INCOMPATIBLE`: Nasty Tool already performs re-entry and Tenta Tiv already supplies summit approach, leaving no distinct intermediate stage.
+- **Uncertainty:** The trigger has been consumed, but replacement fit, chord prominence and attention continuity remain genuinely unknown rather than disproven.
+- **Reassess when:** Nasty Tool receives negative listener feedback, lawful audio evidence materially distinguishes Up & Down from Nasty Tool or Tenta Tiv, or the third-wave structure changes again in a way that removes the current duplication.
+- **Scope:** No ledger change was approved. The protected opening, frozen Session 4 region, dominant summit and protected ending remain unchanged.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identity; 139 BPM; 5:38.250 duration; tested paths of 138 → 139 → 139, 138 → 139 → 138 and 138 → 139 → 139.
+- **Craft:** A structural trigger requires reassessment, but numeric compatibility cannot justify displacing an accepted re-entry or inserting another occupied stage.
+- **Listener:** No candidate-specific report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Up & Down remains a plausible alternative re-entry, but the current Flowing → Nasty Tool → Tenta Tiv architecture leaves no evidenced insertion function.
+- **Audio evidence:** The registry remains empty. Key, phrase structure, density, vocals, chord prominence, trajectory and transition behaviour remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved REVISIT with the August 2 structural trigger consumed and a narrower future reassessment condition. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Editorial note
+
+Tenta Tiv legitimately reopened Up & Down, but the current third wave still gives it no distinct evidenced job.
+
+---
+
 ## 2026-08-07 — Triggered Antimatter Revisit
 
 **Operating mode:** `REPAIR`
