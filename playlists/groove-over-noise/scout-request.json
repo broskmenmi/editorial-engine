@@ -1,65 +1,66 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-07T08:41:52Z-repair",
-  "sourceCommit": "5e06711eae1e7c56f0ffc8c9f5dad2c000b0b830",
+  "runId": "2026-08-08T06:26:29Z-repair",
+  "sourceCommit": "a72a17d566b0731b94e2df37c19199cc233e30a9",
   "mode": "REPAIR",
   "target": {
-    "role": "reassess Arthur Robert — Antimatter after its documented second-wave structure trigger fired",
-    "position": "test Antimatter against the changed non-frozen second-wave structure created by Octagon, including its original re-entry role and only structurally distinct insertion alternatives",
+    "role": "reassess Arkan — Up & Down after its documented third-wave structure trigger fired",
+    "position": "test replacement and insertion roles around Flowing, Nasty Tool and Tenta Tiv without touching the frozen summit exit",
     "neighbours": [
-      "Altinbas, Cirkle — Enlightenment (139 BPM)",
-      "Jancen — F Track (140 BPM)",
-      "Basic Channel — Octagon (141 BPM)",
-      "Maeksll — Tragoidia (141 BPM)"
+      "Decoder — Flowing (138 BPM)",
+      "Arkan — Nasty Tool (138 BPM)",
+      "ElectroExeL — Tenta Tiv (139 BPM)",
+      "Alarico — Iruka (141 BPM)"
     ],
-    "purpose": "determine whether Octagon's addition gives the parked candidate a distinct second-wave function or confirms functional duplication"
+    "purpose": "consume the missed August 2 trigger and determine whether the changed third wave creates a distinct role"
   },
   "leads": [
     {
-      "artist": "Arthur Robert",
-      "track": "Antimatter",
-      "releaseDate": "2025-01-17",
-      "bpm": 140,
-      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/t/19730447?currency=USD",
-      "discoverySource": "Persisted REVISIT first seen 2026-07-23; exact hereandthere Bandcamp track https://herenthere.bandcamp.com/track/antimatter; targeted attributed-description check https://www.juno.co.uk/products/arthur-robert-hydrostatic-equilibrium-vinyl/1059312-01/",
-      "spotifyTrackId": "4ingsyWWkWq4LEZhDXicYd",
+      "artist": "Arkan",
+      "track": "Up & Down",
+      "album": "Attraction [SK11X032]",
+      "releaseDate": "2025-06-13",
+      "bpm": 139,
+      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/up-down/20525895",
+      "discoverySource": "Arkan's artist-owned Bandcamp track page: https://arkanberlin.bandcamp.com/track/up-down",
+      "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "replace F Track after Enlightenment and before Octagon",
-          "incomingBpm": 139,
-          "candidateBpm": 140,
-          "outgoingBpm": 141,
-          "role": "second-wave re-entry alternative under the changed downstream structure"
+          "position": "replace Nasty Tool after Flowing and before Tenta Tiv",
+          "incomingBpm": 138,
+          "candidateBpm": 139,
+          "outgoingBpm": 139,
+          "role": "alternative third-wave re-entry"
         },
         {
-          "position": "after F Track and before Octagon",
-          "incomingBpm": 140,
-          "candidateBpm": 140,
-          "outgoingBpm": 141,
-          "role": "deepening step between re-entry and the long-form immersion chamber"
+          "position": "after Flowing and before Nasty Tool",
+          "incomingBpm": 138,
+          "candidateBpm": 139,
+          "outgoingBpm": 138,
+          "role": "third-wave tension threshold before re-entry"
         },
         {
-          "position": "after Octagon and before Tragoidia",
-          "incomingBpm": 141,
-          "candidateBpm": 140,
-          "outgoingBpm": 141,
-          "role": "post-chamber spacer before the deeper crest"
+          "position": "after Nasty Tool and before Tenta Tiv",
+          "incomingBpm": 138,
+          "candidateBpm": 139,
+          "outgoingBpm": 139,
+          "role": "third-wave development before the summit approach"
         }
       ],
-      "fitHypothesis": "The attributed deep-techno, dub and psychedelic-synth description may support patient second-wave continuity, and Octagon materially changed Antimatter's downstream context; however Octagon now owns the long-form deepening function, so Antimatter may still duplicate either F Track's re-entry or Octagon's immersion chamber rather than earn a separate stage.",
+      "fitHypothesis": "Arkan's attributed deep, hypnotic and minimalist identity plus the track's bouncing tension may support playlist belonging, but its chord-led, unresolved and quietly haunting description leaves attention and melodic dominance uncertain; replacement fit against Nasty Tool is unsupported, while both insertion roles may duplicate the established threshold, re-entry or Tenta Tiv approach.",
       "evidence": {
         "measured": [
-          "known Spotify track ID 4ingsyWWkWq4LEZhDXicYd requires resolver verification",
-          "140 BPM from Beatport exact track metadata",
-          "6:00 Beatport duration metadata",
-          "released 2025-01-17",
-          "the second-wave structure changed on 2026-08-03 when Basic Channel — Octagon was added after F Track; Antimatter's persisted Last reviewed date remains 2026-07-29"
+          "exact Spotify identity 0FsRgVOtODhabQaUBhwFga",
+          "139 BPM from Beatport exact track metadata",
+          "5:38 duration",
+          "released 2025-06-13",
+          "the third-wave structure changed on 2026-08-02 when Tenta Tiv entered after Nasty Tool; the candidate's recorded last review remained 2026-08-01"
         ],
-        "attributedDescription": "Juno describes this exact track as combining deep techno, dub and psychedelic synth colours; hereandthere identifies it as Antimatter on Hydrostatic Equilibrium. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "attributedDescription": "Arkan's artist-owned release page describes Up & Down through bouncing tension lines and elusive chord progressions as unresolved, nostalgic and quietly haunting; the artist profile describes a deep, hypnotic and minimalist techno focus.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A documented structural-change trigger reopens the parked candidate, but a compliant BPM path cannot justify replacement or insertion without a distinct second-wave function."
+        "craftConvention": "A fired structure trigger requires renewed evaluation, but compliant BPM paths cannot justify displacing accepted roles or inserting a duplicate stage."
       }
     }
   ]
