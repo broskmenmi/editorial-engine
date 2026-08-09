@@ -1,189 +1,422 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "7ad56aae06f2d53aad7395f5234e0ed2000636ef46f9d3ca87bfbd191bd9862e",
-  "generatedAt": "2026-08-08T06:27:30.043Z",
-  "runId": "2026-08-08T06:26:29Z-repair",
-  "sourceCommit": "a72a17d566b0731b94e2df37c19199cc233e30a9",
-  "mode": "REPAIR",
+  "requestFingerprint": "c804ffac6c59682f202fc877e8a0967d44806b18f829918d5f4e5a231ab0caa8",
+  "generatedAt": "2026-08-09T06:18:54.852Z",
+  "runId": "2026-08-09T06:14:42Z-explore",
+  "sourceCommit": "d15d629720c1ac4273bf86f66b2f5960979dfbf3",
+  "mode": "EXPLORE",
   "target": {
-    "role": "reassess Arkan — Up & Down after its documented third-wave structure trigger fired",
-    "position": "test replacement and insertion roles around Flowing, Nasty Tool and Tenta Tiv without touching the frozen summit exit",
-    "neighbours": [
-      "Decoder — Flowing (138 BPM)",
-      "Arkan — Nasty Tool (138 BPM)",
-      "ElectroExeL — Tenta Tiv (139 BPM)",
-      "Alarico — Iruka (141 BPM)"
-    ],
-    "purpose": "consume the missed August 2 trigger and determine whether the changed third wave creates a distinct role"
+    "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
+    "position": "outside all frozen and protected regions; placement selected only after belonging",
+    "neighbours": [],
+    "purpose": "test whether current releases, adjacent emerging voices, or overlooked catalogue material reveal a distinct function without inventing a pre-existing defect"
   },
-  "explorationReceipt": null,
+  "explorationReceipt": {
+    "timestamp": "2026-08-09T06:14:42Z",
+    "scope": "approximately 96 named track and release listings across 21 official release, label, retailer, catalogue and search-result pages screened across all three required source families",
+    "sourceFamilies": {
+      "currentReleases": [
+        "Electrobuzz Techno (Raw / Deep / Hypnotic) 2026 index through July: https://www.electrobuzz.net/genre/techno-raw-deep-hypnotic/releases/2026/",
+        "Official Unrilis Kinkaku EP released 2026-07-31: https://unrilis.bandcamp.com/album/kinkaku",
+        "Official X-Kalay Survival of the Fittest EP released 2026-08-04: https://x-kalay.bandcamp.com/album/survival-of-the-fittest-ep",
+        "Official Amsys Nonexistent release dated 2026-08-09: https://amsysrecords.bandcamp.com/album/nonexistent",
+        "Official Cocoon FUMAXOHN preorder dated 2026-08-21: https://cocoonrecordings.bandcamp.com/album/fumaxohn"
+      ],
+      "adjacentAndEmerging": [
+        "Official Introspective Lizoto Conversation EP released 2026-05-01: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
+        "Beatport exact New Place metadata: https://www.beatport.com/track/new-place/28586819",
+        "Official Acid Mind Recordings Sabrj Below & Beyond release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
+        "Beatport exact Root Signal metadata: https://www.beatport.com/track/root-signal/20730359",
+        "Official Rhod GEØMMETRISCH Mensaje Codificado release: https://rhodrecords.bandcamp.com/album/mensaje-codificado-2"
+      ],
+      "overlookedCatalogue": [
+        "Official Hush Recordz Slaveone Schiebung back-catalog page for the 2009 release: https://hushrecordz.bandcamp.com/album/schiebung-back-catalog",
+        "Official STØK Fin Cormack Graviton release: https://stokrecordings.bandcamp.com/album/graviton",
+        "Official Ground16 Structural Disruption EP: https://ground16.bandcamp.com/album/structural-disruption-ep",
+        "Official Acid Mind Recordings 2025 raw/hypnotic catalogue pages for Sabrj, turan. and Jazzing II"
+      ]
+    },
+    "exclusions": [
+      "Every lead and candidate from all earlier immutable requests was excluded before ranking; this specifically removed Germanium and both R 417 remix leads surfaced again by today's scan.",
+      "All current ledger tracks, durable rejected entries, frozen Session 4 material and untriggered PARKED revisit entries were excluded.",
+      "Yuuta's Kinkaku EP was excluded because its official description foregrounds fast hardgroove, warped vocals, dramatic stabs and dancefloor energy rather than restraint.",
+      "COZi's available Touch Deeper track was excluded because the release is explicitly progressive-house leaning and its track-specific function is not documented.",
+      "aM.IT's Nonexistent and GEØMMETRISCH's Mensaje Codificado tracks were excluded from ranking because only genre or release-level metadata was available without a concrete track-level hypothesis.",
+      "Robag Wruhme's FUMAXOHN was excluded because it is a future preorder on the scan date and most tracks were not yet available for exact identity resolution.",
+      "Fin Cormack's Graviton and impact-led, industrial, peak-time, acid-rave and aggressive material were excluded because the available descriptions foreground relentless motion, raw energy or spectacle risk.",
+      "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
+    ],
+    "rankedResolutionLeads": [
+      "Lizoto — New Place",
+      "Sabrj — Root Signal",
+      "Slaveone — Schiebung"
+    ],
+    "evidenceLimit": "Metadata and attributed release or track descriptions only; no raw-audio analysis and no candidate listener report. Schiebung's BPM remains unknown."
+  },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 1,
-  "resolvedCount": 1,
-  "candidateCount": 1,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [
+  "requestedCount": 3,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "artist": "Arkan",
-      "track": "Up & Down",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Attraction [SK11X032]\" but Spotify returned \"Attraction\""
+      "artist": "Slaveone",
+      "track": "Schiebung",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Slaveone",
+        "track": "Schiebung",
+        "album": "Schiebung",
+        "releaseDate": "2009",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Hush Recordz back-catalog release: https://hushrecordz.bandcamp.com/album/schiebung-back-catalog",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "role": "minimal transition shelf into the third-wave threshold"
+          },
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "role": "functional post-crest transition into re-entry"
+          }
+        ],
+        "fitHypothesis": "The label's track-specific description of tight percussion, controlled low-end, gradual evolution and hypnotic rhythmic flow strongly supports belonging; neighbour compatibility remains unknown because no lawful exact BPM source was found.",
+        "evidence": {
+          "measured": [
+            "6:08 duration on the official release",
+            "originally released in 2009",
+            "reissued as back catalogue on 2026-05-09"
+          ],
+          "attributedDescription": "Hush Recordz describes Schiebung as stripped, functional minimal techno with tight percussion, controlled low-end, hypnotic rhythmic flow, gradual evolution and space for longer transitions.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Strong belonging evidence cannot bypass an unknown tempo and unknown exact-neighbour test."
+        }
+      }
     }
   ],
+  "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Arkan",
-        "track": "Up & Down",
-        "album": "Attraction [SK11X032]",
-        "releaseDate": "2025-06-13",
-        "bpm": 139,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/up-down/20525895",
-        "discoverySource": "Arkan's artist-owned Bandcamp track page: https://arkanberlin.bandcamp.com/track/up-down",
-        "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
+        "artist": "Lizoto",
+        "track": "New Place",
+        "album": "Conversation EP",
+        "releaseDate": "2026-05-01",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/new-place/28586819",
+        "discoverySource": "Official Introspective release: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "replace Nasty Tool after Flowing and before Tenta Tiv",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 139,
-            "role": "alternative third-wave re-entry"
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "rhythm-and-space threshold into second-wave immersion"
           },
           {
-            "position": "after Flowing and before Nasty Tool",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 138,
-            "role": "third-wave tension threshold before re-entry"
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "patient groove-development inside the immersion chamber"
           },
           {
-            "position": "after Nasty Tool and before Tenta Tiv",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 139,
-            "role": "third-wave development before the summit approach"
+            "position": "after Tragoidia and before Blind Spot",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 140,
+            "role": "rhythm-led second-crest release hinge"
           }
         ],
-        "fitHypothesis": "Arkan's attributed deep, hypnotic and minimalist identity plus the track's bouncing tension may support playlist belonging, but its chord-led, unresolved and quietly haunting description leaves attention and melodic dominance uncertain; replacement fit against Nasty Tool is unsupported, while both insertion roles may duplicate the established threshold, re-entry or Tenta Tiv approach.",
+        "fitHypothesis": "The label's description of groove, restraint, dub influence, rolling rhythm, space and patient progression supports provisional playlist belonging; each legal 140–141 BPM placement may instead duplicate F Track, Octagon or Blind Spot's established second-wave function.",
         "evidence": {
           "measured": [
-            "exact Spotify identity 0FsRgVOtODhabQaUBhwFga",
-            "139 BPM from Beatport exact track metadata",
-            "5:38 duration",
-            "released 2025-06-13",
-            "the third-wave structure changed on 2026-08-02 when Tenta Tiv entered after Nasty Tool; the candidate's recorded last review remained 2026-08-01"
+            "141 BPM from Beatport exact track metadata",
+            "4:05 duration",
+            "released 2026-05-01"
           ],
-          "attributedDescription": "Arkan's artist-owned release page describes Up & Down through bouncing tension lines and elusive chord progressions as unresolved, nostalgic and quietly haunting; the artist profile describes a deep, hypnotic and minimalist techno focus.",
+          "attributedDescription": "Introspective describes the Conversation EP as groove-driven, restrained and dub-influenced, with rolling grooves, subtle progression and patient builds that let rhythm and space carry uninterrupted momentum.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A fired structure trigger requires renewed evaluation, but compliant BPM paths cannot justify displacing accepted roles or inserting a duplicate stage."
+          "craftConvention": "A numerically legal insertion is only a test; it cannot justify extending an already complete second wave."
         }
       },
-      "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
+      "spotifyTrackId": "11Fz03BEQH5XtYWp4RnM4S",
       "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Sabrj",
+        "track": "Root Signal",
+        "album": "Below & Beyond",
+        "releaseDate": "2025-08-07",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/root-signal/20730359",
+        "discoverySource": "Official Acid Mind Recordings release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "raw-hypnotic threshold into the immersion chamber"
+          },
+          {
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "introspective pulse continuation before the second crest"
+          }
+        ],
+        "fitHypothesis": "The label's dry, introspective, raw and hypnotic release description supports provisional belonging, but neither proposed 141 BPM role is yet distinct from Octagon's immersion chamber or Tragoidia's crest approach.",
+        "evidence": {
+          "measured": [
+            "141 BPM from Beatport exact track metadata",
+            "6:28 duration",
+            "released 2025-08-07"
+          ],
+          "attributedDescription": "The Acid Mind Recordings describes Below & Beyond as dry, pure, introspective raw and hypnotic techno intended to work through body and mind.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Release-level identity evidence may establish a belonging hypothesis, but not exact attentional behaviour or neighbour fit."
+        }
+      },
+      "spotifyTrackId": "2M08cZv7PGSnt2JNCGdoLH",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Slaveone",
+        "track": "Schiebung",
+        "album": "Schiebung",
+        "releaseDate": "2009",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Hush Recordz back-catalog release: https://hushrecordz.bandcamp.com/album/schiebung-back-catalog",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "role": "minimal transition shelf into the third-wave threshold"
+          },
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "role": "functional post-crest transition into re-entry"
+          }
+        ],
+        "fitHypothesis": "The label's track-specific description of tight percussion, controlled low-end, gradual evolution and hypnotic rhythmic flow strongly supports belonging; neighbour compatibility remains unknown because no lawful exact BPM source was found.",
+        "evidence": {
+          "measured": [
+            "6:08 duration on the official release",
+            "originally released in 2009",
+            "reissued as back catalogue on 2026-05-09"
+          ],
+          "attributedDescription": "Hush Recordz describes Schiebung as stripped, functional minimal techno with tight percussion, controlled low-end, hypnotic rhythmic flow, gradual evolution and space for longer transitions.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Strong belonging evidence cannot bypass an unknown tempo and unknown exact-neighbour test."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "0FsRgVOtODhabQaUBhwFga",
-      "uri": "spotify:track:0FsRgVOtODhabQaUBhwFga",
-      "name": "Up & Down",
+      "id": "11Fz03BEQH5XtYWp4RnM4S",
+      "uri": "spotify:track:11Fz03BEQH5XtYWp4RnM4S",
+      "name": "New Place",
       "artists": [
-        "Arkan"
+        "Lizoto"
       ],
-      "album": "Attraction",
-      "releaseDate": "2025-06-13",
-      "durationMs": 338250,
-      "spotifyUrl": "https://open.spotify.com/track/0FsRgVOtODhabQaUBhwFga",
-      "bpm": 139,
-      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/up-down/20525895",
-      "discoverySource": "Arkan's artist-owned Bandcamp track page: https://arkanberlin.bandcamp.com/track/up-down",
+      "album": "Conversation EP",
+      "releaseDate": "2026-05-01",
+      "durationMs": 245106,
+      "spotifyUrl": "https://open.spotify.com/track/11Fz03BEQH5XtYWp4RnM4S",
+      "bpm": 141,
+      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/new-place/28586819",
+      "discoverySource": "Official Introspective release: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "replace Nasty Tool after Flowing and before Tenta Tiv",
-          "incomingBpm": 138,
-          "candidateBpm": 139,
-          "outgoingBpm": 139,
-          "role": "alternative third-wave re-entry"
+          "position": "after F Track and before Octagon",
+          "incomingBpm": 140,
+          "candidateBpm": 141,
+          "outgoingBpm": 141,
+          "role": "rhythm-and-space threshold into second-wave immersion"
         },
         {
-          "position": "after Flowing and before Nasty Tool",
-          "incomingBpm": 138,
-          "candidateBpm": 139,
-          "outgoingBpm": 138,
-          "role": "third-wave tension threshold before re-entry"
+          "position": "after Octagon and before Tragoidia",
+          "incomingBpm": 141,
+          "candidateBpm": 141,
+          "outgoingBpm": 141,
+          "role": "patient groove-development inside the immersion chamber"
         },
         {
-          "position": "after Nasty Tool and before Tenta Tiv",
-          "incomingBpm": 138,
-          "candidateBpm": 139,
-          "outgoingBpm": 139,
-          "role": "third-wave development before the summit approach"
+          "position": "after Tragoidia and before Blind Spot",
+          "incomingBpm": 141,
+          "candidateBpm": 141,
+          "outgoingBpm": 140,
+          "role": "rhythm-led second-crest release hinge"
         }
       ],
-      "fitHypothesis": "Arkan's attributed deep, hypnotic and minimalist identity plus the track's bouncing tension may support playlist belonging, but its chord-led, unresolved and quietly haunting description leaves attention and melodic dominance uncertain; replacement fit against Nasty Tool is unsupported, while both insertion roles may duplicate the established threshold, re-entry or Tenta Tiv approach.",
+      "fitHypothesis": "The label's description of groove, restraint, dub influence, rolling rhythm, space and patient progression supports provisional playlist belonging; each legal 140–141 BPM placement may instead duplicate F Track, Octagon or Blind Spot's established second-wave function.",
       "evidence": {
         "measured": [
-          "exact Spotify identity 0FsRgVOtODhabQaUBhwFga",
-          "139 BPM from Beatport exact track metadata",
-          "5:38 duration",
-          "released 2025-06-13",
-          "the third-wave structure changed on 2026-08-02 when Tenta Tiv entered after Nasty Tool; the candidate's recorded last review remained 2026-08-01"
+          "141 BPM from Beatport exact track metadata",
+          "4:05 duration",
+          "released 2026-05-01"
         ],
-        "attributedDescription": "Arkan's artist-owned release page describes Up & Down through bouncing tension lines and elusive chord progressions as unresolved, nostalgic and quietly haunting; the artist profile describes a deep, hypnotic and minimalist techno focus.",
+        "attributedDescription": "Introspective describes the Conversation EP as groove-driven, restrained and dub-influenced, with rolling grooves, subtle progression and patient builds that let rhythm and space carry uninterrupted momentum.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A fired structure trigger requires renewed evaluation, but compliant BPM paths cannot justify displacing accepted roles or inserting a duplicate stage."
+        "craftConvention": "A numerically legal insertion is only a test; it cannot justify extending an already complete second wave."
       },
       "requestedIdentity": {
-        "artist": "Arkan",
-        "track": "Up & Down",
-        "album": "Attraction [SK11X032]",
-        "releaseDate": "2025-06-13",
-        "bpm": 139,
-        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/up-down/20525895",
-        "discoverySource": "Arkan's artist-owned Bandcamp track page: https://arkanberlin.bandcamp.com/track/up-down",
-        "spotifyTrackId": "0FsRgVOtODhabQaUBhwFga",
+        "artist": "Lizoto",
+        "track": "New Place",
+        "album": "Conversation EP",
+        "releaseDate": "2026-05-01",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/new-place/28586819",
+        "discoverySource": "Official Introspective release: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "replace Nasty Tool after Flowing and before Tenta Tiv",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 139,
-            "role": "alternative third-wave re-entry"
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "rhythm-and-space threshold into second-wave immersion"
           },
           {
-            "position": "after Flowing and before Nasty Tool",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 138,
-            "role": "third-wave tension threshold before re-entry"
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "patient groove-development inside the immersion chamber"
           },
           {
-            "position": "after Nasty Tool and before Tenta Tiv",
-            "incomingBpm": 138,
-            "candidateBpm": 139,
-            "outgoingBpm": 139,
-            "role": "third-wave development before the summit approach"
+            "position": "after Tragoidia and before Blind Spot",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 140,
+            "role": "rhythm-led second-crest release hinge"
           }
         ],
-        "fitHypothesis": "Arkan's attributed deep, hypnotic and minimalist identity plus the track's bouncing tension may support playlist belonging, but its chord-led, unresolved and quietly haunting description leaves attention and melodic dominance uncertain; replacement fit against Nasty Tool is unsupported, while both insertion roles may duplicate the established threshold, re-entry or Tenta Tiv approach.",
+        "fitHypothesis": "The label's description of groove, restraint, dub influence, rolling rhythm, space and patient progression supports provisional playlist belonging; each legal 140–141 BPM placement may instead duplicate F Track, Octagon or Blind Spot's established second-wave function.",
         "evidence": {
           "measured": [
-            "exact Spotify identity 0FsRgVOtODhabQaUBhwFga",
-            "139 BPM from Beatport exact track metadata",
-            "5:38 duration",
-            "released 2025-06-13",
-            "the third-wave structure changed on 2026-08-02 when Tenta Tiv entered after Nasty Tool; the candidate's recorded last review remained 2026-08-01"
+            "141 BPM from Beatport exact track metadata",
+            "4:05 duration",
+            "released 2026-05-01"
           ],
-          "attributedDescription": "Arkan's artist-owned release page describes Up & Down through bouncing tension lines and elusive chord progressions as unresolved, nostalgic and quietly haunting; the artist profile describes a deep, hypnotic and minimalist techno focus.",
+          "attributedDescription": "Introspective describes the Conversation EP as groove-driven, restrained and dub-influenced, with rolling grooves, subtle progression and patient builds that let rhythm and space carry uninterrupted momentum.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A fired structure trigger requires renewed evaluation, but compliant BPM paths cannot justify displacing accepted roles or inserting a duplicate stage."
+          "craftConvention": "A numerically legal insertion is only a test; it cannot justify extending an already complete second wave."
+        }
+      }
+    },
+    {
+      "id": "2M08cZv7PGSnt2JNCGdoLH",
+      "uri": "spotify:track:2M08cZv7PGSnt2JNCGdoLH",
+      "name": "Root Signal",
+      "artists": [
+        "Sabrj"
+      ],
+      "album": "Below & Beyond",
+      "releaseDate": "2025-08-07",
+      "durationMs": 388045,
+      "spotifyUrl": "https://open.spotify.com/track/2M08cZv7PGSnt2JNCGdoLH",
+      "bpm": 141,
+      "tempoSource": "Beatport exact track metadata: https://www.beatport.com/track/root-signal/20730359",
+      "discoverySource": "Official Acid Mind Recordings release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after F Track and before Octagon",
+          "incomingBpm": 140,
+          "candidateBpm": 141,
+          "outgoingBpm": 141,
+          "role": "raw-hypnotic threshold into the immersion chamber"
+        },
+        {
+          "position": "after Octagon and before Tragoidia",
+          "incomingBpm": 141,
+          "candidateBpm": 141,
+          "outgoingBpm": 141,
+          "role": "introspective pulse continuation before the second crest"
+        }
+      ],
+      "fitHypothesis": "The label's dry, introspective, raw and hypnotic release description supports provisional belonging, but neither proposed 141 BPM role is yet distinct from Octagon's immersion chamber or Tragoidia's crest approach.",
+      "evidence": {
+        "measured": [
+          "141 BPM from Beatport exact track metadata",
+          "6:28 duration",
+          "released 2025-08-07"
+        ],
+        "attributedDescription": "The Acid Mind Recordings describes Below & Beyond as dry, pure, introspective raw and hypnotic techno intended to work through body and mind.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Release-level identity evidence may establish a belonging hypothesis, but not exact attentional behaviour or neighbour fit."
+      },
+      "requestedIdentity": {
+        "artist": "Sabrj",
+        "track": "Root Signal",
+        "album": "Below & Beyond",
+        "releaseDate": "2025-08-07",
+        "bpm": 141,
+        "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/root-signal/20730359",
+        "discoverySource": "Official Acid Mind Recordings release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "raw-hypnotic threshold into the immersion chamber"
+          },
+          {
+            "position": "after Octagon and before Tragoidia",
+            "incomingBpm": 141,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "introspective pulse continuation before the second crest"
+          }
+        ],
+        "fitHypothesis": "The label's dry, introspective, raw and hypnotic release description supports provisional belonging, but neither proposed 141 BPM role is yet distinct from Octagon's immersion chamber or Tragoidia's crest approach.",
+        "evidence": {
+          "measured": [
+            "141 BPM from Beatport exact track metadata",
+            "6:28 duration",
+            "released 2025-08-07"
+          ],
+          "attributedDescription": "The Acid Mind Recordings describes Below & Beyond as dry, pure, introspective raw and hypnotic techno intended to work through body and mind.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Release-level identity evidence may establish a belonging hypothesis, but not exact attentional behaviour or neighbour fit."
         }
       }
     }
