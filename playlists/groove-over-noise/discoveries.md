@@ -1,5 +1,78 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-09 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-09T06:14:42Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 96 named track and release listings across 21 official release, label, retailer, catalogue and search-result pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material.
+- Excluded every earlier request lead and candidate, all canonical and durable rejected tracks, all untriggered PARKED entries, the frozen Session 4 region, the protected opening pair and the protected ending.
+- The history exclusion removed Leümas Wähs, Yonto — Germanium and the R 417 remixes after they resurfaced during the outward scan; they were not reused as fresh leads.
+- Submitted three new ranked leads. Spotify resolved Lizoto — New Place and Sabrj — Root Signal exactly. Slaveone — Schiebung remained unresolved with `no exact Spotify title/artist search match in market SE`.
+- The matching snapshot is `PARTIAL`: two selected exact candidates, one preserved unresolved lead, no warnings, duplicates or resolved-but-unselected alternates.
+- Used exact identity, duration, verified BPM and attributed release descriptions only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** New Place
+- **Artist:** Lizoto
+- **Spotify:** spotify:track:11Fz03BEQH5XtYWp4RnM4S
+- **BPM:** 141
+- **Duration:** 4:05.106
+- **Playlist belonging:** `BELONGS` provisionally. Introspective's release description supports groove, restraint, dub influence, rolling rhythm, space and patient progression; this is attributed release evidence, not direct listening.
+- **Placement 1:** After F Track and before Octagon gives 140 → 141 → 141. Numerically compliant but structurally `INCOMPATIBLE`: F Track already performs re-entry and Octagon already begins the immersion chamber.
+- **Placement 2:** After Octagon and before Tragoidia gives 141 → 141 → 141. Numerically compliant but structurally `INCOMPATIBLE`: it extends the chamber without an evidenced function before the established second crest.
+- **Placement 3:** After Tragoidia and before Blind Spot gives 141 → 141 → 140. Numerically compliant but structurally `INCOMPATIBLE`: Blind Spot already provides the release hinge.
+- **Reason:** Every legal tested position repeats an occupied second-wave role; clean tempo paths do not justify another stage.
+
+- **Track:** Root Signal
+- **Artist:** Sabrj
+- **Spotify:** spotify:track:2M08cZv7PGSnt2JNCGdoLH
+- **BPM:** 141
+- **Duration:** 6:28.045
+- **Playlist belonging:** `UNCERTAIN`, but plausible. The Acid Mind Recordings describes the release as dry, introspective, raw and hypnotic techno for body and mind, but provides no distinct exact-track behavioural description.
+- **Placement 1:** After F Track and before Octagon gives 140 → 141 → 141. Numerically compliant but structurally `INCOMPATIBLE`: it duplicates the existing threshold into Octagon's immersion chamber.
+- **Placement 2:** After Octagon and before Tragoidia gives 141 → 141 → 141. Numerically compliant but structurally `INCOMPATIBLE`: it repeats the chamber-to-crest progression without a differentiated role.
+- **Reason:** Both tested positions are already occupied, and release-level identity evidence cannot establish a distinct exact-track function.
+
+### NO VERDICT — unresolved identity
+
+- **Track:** Schiebung
+- **Artist:** Slaveone
+- **Resolver error:** `no exact Spotify title/artist search match in market SE`
+- **State:** The official back-catalog description remains discovery evidence only. No exact Spotify identity was selected, so Evaluator, Sequencer and Librarian assigned no musical verdict and created no REVISIT or rejection entry.
+
+### Evidence map
+
+- **Measured:** Exact Spotify identities for New Place and Root Signal; both are 141 BPM; tested paths are 140 → 141 → 141, 141 → 141 → 141 and, for New Place, 141 → 141 → 140.
+- **Craft:** A numerically legal shelf must still create a distinct function; it should not extend a complete re-entry, chamber, crest approach or release.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Both resolved candidates plausibly inhabit the playlist's world, but the present second wave already performs every evidenced role they could occupy.
+- **Audio evidence:** The registry remains empty. Density, phrases, vocals, attention behaviour and transition sound remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved two durable current-journey rejections and no verdict on unresolved Schiebung. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Fresh discovery found plausible music, but no distinct unoccupied function.
+
+---
+
 ## 2026-08-08 — Triggered Up & Down Revisit
 
 **Operating mode:** `REPAIR`
