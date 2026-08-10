@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-09T06:14:42Z-explore",
-  "sourceCommit": "d15d629720c1ac4273bf86f66b2f5960979dfbf3",
+  "runId": "2026-08-10T06:33:10Z-explore",
+  "sourceCommit": "0c704d7ede78e057cfdbf025ec529fdd04dc594a",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
@@ -10,139 +10,167 @@
     "purpose": "test whether current releases, adjacent emerging voices, or overlooked catalogue material reveal a distinct function without inventing a pre-existing defect"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-09T06:14:42Z",
-    "scope": "approximately 96 named track and release listings across 21 official release, label, retailer, catalogue and search-result pages screened across all three required source families",
+    "timestamp": "2026-08-10T06:33:10Z",
+    "scope": "approximately 118 named track and release listings across 26 official release, label, retailer, catalogue and search-result pages screened across all three required source families",
     "sourceFamilies": {
       "currentReleases": [
-        "Electrobuzz Techno (Raw / Deep / Hypnotic) 2026 index through July: https://www.electrobuzz.net/genre/techno-raw-deep-hypnotic/releases/2026/",
-        "Official Unrilis Kinkaku EP released 2026-07-31: https://unrilis.bandcamp.com/album/kinkaku",
-        "Official X-Kalay Survival of the Fittest EP released 2026-08-04: https://x-kalay.bandcamp.com/album/survival-of-the-fittest-ep",
-        "Official Amsys Nonexistent release dated 2026-08-09: https://amsysrecords.bandcamp.com/album/nonexistent",
-        "Official Cocoon FUMAXOHN preorder dated 2026-08-21: https://cocoonrecordings.bandcamp.com/album/fumaxohn"
+        "Official Absence of Facts Orion Mindworks release dated 2026-07-30: https://absenceoffacts.bandcamp.com/album/orion-mindworks",
+        "Official Anodynic Frequencies SHAWN Spirit EP preorder dated 2026-08-15: https://anodynicfrequencies.bandcamp.com/album/shawn-spirit-ep",
+        "Official Message 431 current catalogue through August 2026: https://message431.bandcamp.com/album/primitive-motion",
+        "Official Children Of Tomorrow current catalogue through August 2026: https://childrenoftomorrowrecords.bandcamp.com/album/frack-ep"
       ],
       "adjacentAndEmerging": [
-        "Official Introspective Lizoto Conversation EP released 2026-05-01: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
-        "Beatport exact New Place metadata: https://www.beatport.com/track/new-place/28586819",
-        "Official Acid Mind Recordings Sabrj Below & Beyond release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
-        "Beatport exact Root Signal metadata: https://www.beatport.com/track/root-signal/20730359",
-        "Official Rhod GEØMMETRISCH Mensaje Codificado release: https://rhodrecords.bandcamp.com/album/mensaje-codificado-2"
+        "Official Message 431 pranch Primitive Motion release: https://message431.bandcamp.com/album/primitive-motion",
+        "Official MEUK Records GI-RO47 Orbit EP: https://meukrecords.bandcamp.com/album/orbit-ep-meuk018",
+        "Beatport exact Drifting metadata: https://www.beatport.com/track/drifting/26891834",
+        "Official Refraction Records Aeikus Follow You Tonight EP: https://refractionrecords.bandcamp.com/album/aeikus-follow-you-tonight-ep",
+        "Official Refraction Records Prism compilation: https://refractionrecords.bandcamp.com/album/va-prism-ep"
       ],
       "overlookedCatalogue": [
-        "Official Hush Recordz Slaveone Schiebung back-catalog page for the 2009 release: https://hushrecordz.bandcamp.com/album/schiebung-back-catalog",
-        "Official STØK Fin Cormack Graviton release: https://stokrecordings.bandcamp.com/album/graviton",
-        "Official Ground16 Structural Disruption EP: https://ground16.bandcamp.com/album/structural-disruption-ep",
-        "Official Acid Mind Recordings 2025 raw/hypnotic catalogue pages for Sabrj, turan. and Jazzing II"
+        "Official Hush Recordz Destiny back-catalog release documenting the 2009 material: https://hushrecordz.bandcamp.com/album/destiny-back-catalog",
+        "Official Hush Recordz Hush Me Luck back-catalog compilation: https://hushrecordz.bandcamp.com/album/hush-me-luck-back-catalog",
+        "Official Refraction Records two-year catalogue survey: https://refractionrecords.bandcamp.com/album/va-refraction-2-years",
+        "Official Children Of Tomorrow Frack EP and label catalogue: https://childrenoftomorrowrecords.bandcamp.com/album/frack-ep"
       ]
     },
     "exclusions": [
-      "Every lead and candidate from all earlier immutable requests was excluded before ranking; this specifically removed Germanium and both R 417 remix leads surfaced again by today's scan.",
+      "Every lead and candidate from all earlier immutable requests was excluded before ranking, including New Place, Root Signal, Schiebung, Germanium, the R 417 remixes, NX1, Voyage and Echoes From The Abyss.",
       "All current ledger tracks, durable rejected entries, frozen Session 4 material and untriggered PARKED revisit entries were excluded.",
-      "Yuuta's Kinkaku EP was excluded because its official description foregrounds fast hardgroove, warped vocals, dramatic stabs and dancefloor energy rather than restraint.",
-      "COZi's available Touch Deeper track was excluded because the release is explicitly progressive-house leaning and its track-specific function is not documented.",
-      "aM.IT's Nonexistent and GEØMMETRISCH's Mensaje Codificado tracks were excluded from ranking because only genre or release-level metadata was available without a concrete track-level hypothesis.",
-      "Robag Wruhme's FUMAXOHN was excluded because it is a future preorder on the scan date and most tracks were not yet available for exact identity resolution.",
-      "Fin Cormack's Graviton and impact-led, industrial, peak-time, acid-rave and aggressive material were excluded because the available descriptions foreground relentless motion, raw energy or spectacle risk.",
+      "SHAWN's Spirit EP was excluded because it remains a preorder on the scan date and only one track is available; unreleased versions were not submitted for Spotify resolution.",
+      "Aeikus — Isolated and D. Diggler — Boulder Dash were excluded because their verified 132 and 124 BPM values leave no concrete non-protected placement in the current 134–145 BPM body and protected final descent.",
+      "Orion — The Veil of Bells was excluded because its track-specific closer framing conflicts with the protected ending; industrial, hard, relentless, acid-rave and impact-led material was excluded for spectacle or pressure risk.",
+      "Hush Me Luck tracks supported only by compilation-level minimal or groove language were excluded when no concrete track-specific role could be stated honestly.",
       "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
     ],
     "rankedResolutionLeads": [
-      "Lizoto — New Place",
-      "Sabrj — Root Signal",
-      "Slaveone — Schiebung"
+      "Orion — Mindworks",
+      "pranch — Flash",
+      "GI-RO47 — Drifting",
+      "Hutch — Setmode"
     ],
-    "evidenceLimit": "Metadata and attributed release or track descriptions only; no raw-audio analysis and no candidate listener report. Schiebung's BPM remains unknown."
+    "evidenceLimit": "Metadata and attributed official release or track descriptions only; no raw-audio analysis and no candidate listener report. Mindworks, Flash and Setmode BPM values remain unknown until exact resolution."
   },
   "leads": [
     {
-      "artist": "Lizoto",
-      "track": "New Place",
-      "album": "Conversation EP",
-      "releaseDate": "2026-05-01",
-      "bpm": 141,
-      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/new-place/28586819",
-      "discoverySource": "Official Introspective release: https://introspectiverecords1ntr.bandcamp.com/album/lizoto-conversation-ep",
+      "artist": "Orion",
+      "track": "Mindworks",
+      "album": "Mindworks",
+      "releaseDate": "2026-07-30",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "Official Absence of Facts release: https://absenceoffacts.bandcamp.com/album/orion-mindworks",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after F Track and before Octagon",
+          "position": "after Hourly and before Miss Perez",
           "incomingBpm": 140,
-          "candidateBpm": 141,
-          "outgoingBpm": 141,
-          "role": "rhythm-and-space threshold into second-wave immersion"
+          "candidateBpm": null,
+          "outgoingBpm": 142,
+          "role": "cyclical rhythmic-funk development inside the first wave"
         },
         {
-          "position": "after Octagon and before Tragoidia",
-          "incomingBpm": 141,
-          "candidateBpm": 141,
-          "outgoingBpm": 141,
-          "role": "patient groove-development inside the immersion chamber"
+          "position": "after Tenta Tiv and before Striking Distance",
+          "incomingBpm": 144,
+          "candidateBpm": null,
+          "outgoingBpm": 142,
+          "role": "tight-percussion release from the first crest"
+        }
+      ],
+      "fitHypothesis": "The label's track-specific description of a heavy cyclical floor-filler driven by rhythmic funk and tight percussion supports provisional belonging, while its pressure level and exact neighbour compatibility remain unknown.",
+      "evidence": {
+        "measured": [
+          "5:20 duration on the official release",
+          "released 2026-07-30"
+        ],
+        "attributedDescription": "Absence of Facts describes Mindworks as raw, hypnotic techno and a heavy, cyclical floor-filler driven by rhythmic funk and tight percussion.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A compact cyclical tool may develop or release a wave, but unknown tempo and pressure prevent assuming either placement works."
+      }
+    },
+    {
+      "artist": "pranch",
+      "track": "Flash",
+      "album": "Primitive Motion",
+      "releaseDate": "2026-06-21",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "Official Message 431 release: https://message431.bandcamp.com/album/primitive-motion",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Miss Perez and before Nasty",
+          "incomingBpm": 142,
+          "candidateBpm": null,
+          "outgoingBpm": 145,
+          "role": "reduced functional pressure step toward the first crest"
         },
         {
-          "position": "after Tragoidia and before Blind Spot",
-          "incomingBpm": 141,
-          "candidateBpm": 141,
+          "position": "after Tenta Tiv and before Striking Distance",
+          "incomingBpm": 144,
+          "candidateBpm": null,
+          "outgoingBpm": 142,
+          "role": "controlled-movement crest release"
+        }
+      ],
+      "fitHypothesis": "Message 431's description of rhythm, controlled movement, no excess and functional pressure supports provisional belonging; the track-specific attention demand and exact tempo remain unknown.",
+      "evidence": {
+        "measured": [
+          "4:51 duration on the official release",
+          "released 2026-06-21"
+        ],
+        "attributedDescription": "Message 431 describes Primitive Motion as raw, hypnotic techno reduced to rhythm, tension and controlled movement, with no excess or decoration and an emphasis on functional pressure.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A reduced functional track may connect or release a wave, but release-level language cannot prove Flash's individual behaviour."
+      }
+    },
+    {
+      "artist": "GI-RO47",
+      "track": "Drifting",
+      "album": "Orbit EP",
+      "releaseDate": "2026-04-21",
+      "bpm": 142,
+      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/drifting/26891834",
+      "discoverySource": "Official MEUK Records release: https://meukrecords.bandcamp.com/album/orbit-ep-meuk018",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Hourly and before Miss Perez",
+          "incomingBpm": 140,
+          "candidateBpm": 142,
+          "outgoingBpm": 142,
+          "role": "atmospheric preparation inside first-wave development"
+        },
+        {
+          "position": "after Striking Distance and before Blind Spot",
+          "incomingBpm": 142,
+          "candidateBpm": 142,
           "outgoingBpm": 140,
-          "role": "rhythm-led second-crest release hinge"
+          "role": "brief atmospheric reset after the first crest"
         }
       ],
-      "fitHypothesis": "The label's description of groove, restraint, dub influence, rolling rhythm, space and patient progression supports provisional playlist belonging; each legal 140–141 BPM placement may instead duplicate F Track, Octagon or Blind Spot's established second-wave function.",
+      "fitHypothesis": "The label's track-specific framing of Drifting as preparation for an atmospheric successor supports a restrained transition hypothesis, but the release's raw edge may duplicate or disturb existing first-wave roles.",
       "evidence": {
         "measured": [
-          "141 BPM from Beatport exact track metadata",
-          "4:05 duration",
-          "released 2026-05-01"
+          "142 BPM from Beatport exact track metadata",
+          "4:47 duration",
+          "released 2026-04-21"
         ],
-        "attributedDescription": "Introspective describes the Conversation EP as groove-driven, restrained and dub-influenced, with rolling grooves, subtle progression and patient builds that let rhythm and space carry uninterrupted momentum.",
+        "attributedDescription": "MEUK Records says the EP uses hypnotic hardware-generated rhythms, immersive atmospheres, dark grooves and a raw imperfect edge, and specifically says Drifting prepares the listener for atmospheric Orbit.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A numerically legal insertion is only a test; it cannot justify extending an already complete second wave."
+        "craftConvention": "A short preparation track can clarify a wave transition only if it adds a distinct function rather than extra staging."
       }
     },
     {
-      "artist": "Sabrj",
-      "track": "Root Signal",
-      "album": "Below & Beyond",
-      "releaseDate": "2025-08-07",
-      "bpm": 141,
-      "bpmSource": "Beatport exact track metadata: https://www.beatport.com/track/root-signal/20730359",
-      "discoverySource": "Official Acid Mind Recordings release: https://theacidmindrecordings.bandcamp.com/album/below-beyond",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after F Track and before Octagon",
-          "incomingBpm": 140,
-          "candidateBpm": 141,
-          "outgoingBpm": 141,
-          "role": "raw-hypnotic threshold into the immersion chamber"
-        },
-        {
-          "position": "after Octagon and before Tragoidia",
-          "incomingBpm": 141,
-          "candidateBpm": 141,
-          "outgoingBpm": 141,
-          "role": "introspective pulse continuation before the second crest"
-        }
-      ],
-      "fitHypothesis": "The label's dry, introspective, raw and hypnotic release description supports provisional belonging, but neither proposed 141 BPM role is yet distinct from Octagon's immersion chamber or Tragoidia's crest approach.",
-      "evidence": {
-        "measured": [
-          "141 BPM from Beatport exact track metadata",
-          "6:28 duration",
-          "released 2025-08-07"
-        ],
-        "attributedDescription": "The Acid Mind Recordings describes Below & Beyond as dry, pure, introspective raw and hypnotic techno intended to work through body and mind.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Release-level identity evidence may establish a belonging hypothesis, but not exact attentional behaviour or neighbour fit."
-      }
-    },
-    {
-      "artist": "Slaveone",
-      "track": "Schiebung",
-      "album": "Schiebung",
+      "artist": "Hutch",
+      "track": "Setmode",
+      "album": "Destiny",
       "releaseDate": "2009",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "Official Hush Recordz back-catalog release: https://hushrecordz.bandcamp.com/album/schiebung-back-catalog",
+      "discoverySource": "Official Hush Recordz back-catalog release: https://hushrecordz.bandcamp.com/album/destiny-back-catalog",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -150,27 +178,27 @@
           "incomingBpm": 136,
           "candidateBpm": null,
           "outgoingBpm": 138,
-          "role": "minimal transition shelf into the third-wave threshold"
+          "role": "deeper atmospheric threshold into the third wave"
         },
         {
-          "position": "after Enlightenment and before F Track",
-          "incomingBpm": 139,
+          "position": "after Anticlimax and before Rifts",
+          "incomingBpm": 137,
           "candidateBpm": null,
-          "outgoingBpm": 140,
-          "role": "functional post-crest transition into re-entry"
+          "outgoingBpm": 136,
+          "role": "extended evolving-groove decompression shelf"
         }
       ],
-      "fitHypothesis": "The label's track-specific description of tight percussion, controlled low-end, gradual evolution and hypnotic rhythmic flow strongly supports belonging; neighbour compatibility remains unknown because no lawful exact BPM source was found.",
+      "fitHypothesis": "The label's track-specific description of a deeper atmospheric approach, subtle textures and evolving grooves supports provisional belonging and a long-form threshold role; exact identity and tempo remain unknown.",
       "evidence": {
         "measured": [
-          "6:08 duration on the official release",
+          "8:06 duration on the official release",
           "originally released in 2009",
-          "reissued as back catalogue on 2026-05-09"
+          "reissued as back catalogue on 2026-06-04"
         ],
-        "attributedDescription": "Hush Recordz describes Schiebung as stripped, functional minimal techno with tight percussion, controlled low-end, hypnotic rhythmic flow, gradual evolution and space for longer transitions.",
+        "attributedDescription": "Hush Recordz says Setmode takes a deeper and more atmospheric approach, using subtle textures and evolving grooves to build tension over its extended runtime.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "Strong belonging evidence cannot bypass an unknown tempo and unknown exact-neighbour test."
+        "craftConvention": "An extended atmospheric tool may deepen a threshold or decompression shelf, but duration and catalogue framing do not prove exact neighbour fit."
       }
     }
   ]
