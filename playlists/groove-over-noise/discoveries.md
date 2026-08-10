@@ -1,5 +1,85 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-10 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-10T06:33:10Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 118 named track and release listings across 26 official release, label, retailer, catalogue and search-result pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material.
+- Excluded every earlier request lead and candidate, all canonical and durable rejected tracks, all untriggered PARKED entries, the frozen Session 4 region, the protected opening pair and the protected ending.
+- Submitted four new ranked leads. Spotify resolved all four exactly. The strongest three—Orion — Mindworks, pranch — Flash and GI-RO47 — Drifting—advanced; Hutch — Setmode remained a resolved-but-unselected alternate with a preserved album/date variance warning.
+- The matching snapshot is `COMPLETE`: four requested, four resolved, three selected, no unresolved leads or duplicates, one warning and one resolved alternate.
+- Used exact identity, duration, verified BPM where available and attributed release descriptions only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** Mindworks
+- **Artist:** Orion
+- **Spotify:** spotify:track:3vLH224FYPedpImJMm3Lzb
+- **BPM:** 139
+- **BPM source:** Beatport exact Orion track listing, retrieved 2026-08-10.
+- **Duration:** 5:20
+- **Playlist belonging:** `UNCERTAIN`, but plausible. Absence of Facts describes raw, hypnotic construction, rhythmic funk and tight percussion; its additional “heavy floor-filler” framing leaves restraint and pressure uncertain. This is attributed description, not direct listening.
+- **Placement 1:** After Hourly and before Miss Perez gives 140 → 139 → 142. Numerically compliant but structurally `INCOMPATIBLE`: it dips inside the established rise and repeats Hourly's development before Miss Perez.
+- **Placement 2:** After Enlightenment and before F Track gives 139 → 139 → 140. Numerically compliant but structurally `INCOMPATIBLE`: Enlightenment and F Track already perform bridge and re-entry.
+- **Placement 3:** After AB01 and before Flowing gives 136 → 139 → 138. Numerically compliant but structurally `INCOMPATIBLE`: it creates an avoidable up-down threshold and duplicates Flowing's job.
+- **Reason:** Every legal tested position adds pressure or repeats an occupied role without an evidenced improvement.
+
+- **Track:** Flash
+- **Artist:** pranch
+- **Spotify:** spotify:track:34ImEZFRVK2PMUdI6iycmt
+- **BPM:** 140
+- **BPM source:** Electrobuzz exact Primitive Motion track listing, retrieved 2026-08-10.
+- **Duration:** 4:51.727
+- **Playlist belonging:** `UNCERTAIN`, but plausible. Message 431 describes the release as raw and hypnotic, reduced to rhythm, tension and controlled movement with no excess; this is release-level evidence and does not establish Flash's exact behaviour.
+- **Placement 1:** After Hourly and before Miss Perez gives 140 → 140 → 142. Numerically compliant but structurally `INCOMPATIBLE`: it extends Hourly's groove-development shelf without a distinct stage.
+- **Placement 2:** After Enlightenment and before F Track gives 139 → 140 → 140. Numerically compliant but structurally `INCOMPATIBLE`: it duplicates the existing post-crest bridge into re-entry.
+- **Placement 3:** After Bionic Jungle and before AB01 gives 137 → 140 → 136. Numerically compliant but structurally `INCOMPATIBLE`: it reverses the release before dropping again and adds pressure during descent.
+- **Request anomaly:** The immutable request included stale or non-adjacent names in Flash's proposed placements. Those strings were not treated as valid neighbour evidence; evaluation used the current canonical ledger and exact 140 BPM source instead.
+- **Reason:** The exact track has no distinct current role beyond already occupied development, re-entry or release stages.
+
+- **Track:** Drifting
+- **Artist:** GI-RO47
+- **Spotify:** spotify:track:5sJI9k2nwMfogjaQI5CKcf
+- **BPM:** 142
+- **Duration:** 4:47.881
+- **Playlist belonging:** `UNCERTAIN`, but plausible. MEUK describes hypnotic rhythms, immersive atmospheres and dark grooves, and specifically frames Drifting as preparation for the atmospheric Orbit; the same source's raw imperfect edge leaves attention continuity unknown.
+- **Placement 1:** After Hourly and before Miss Perez gives 140 → 142 → 142. Numerically compliant but structurally `INCOMPATIBLE`: it pre-empts and duplicates Miss Perez's rise-and-approach function.
+- **Placement 2:** After My Last Descent and before Trail Of gives 144 → 142 → 142. Numerically compliant but structurally `INCOMPATIBLE`: it duplicates the established first-release stage.
+- **Placement 3:** After Trail Of and before Enlightenment gives 142 → 142 → 139. Numerically compliant but structurally `INCOMPATIBLE`: it adds another release shelf before the existing post-crest bridge.
+- **Reason:** Atmospheric preparation is plausible, but every legal position adds redundant staging to a complete wave.
+
+### Evidence map
+
+- **Measured:** Three exact Spotify identities; 139 BPM for Mindworks, 140 BPM for Flash and 142 BPM for Drifting; exact durations; nine canonical placements tested.
+- **Craft:** A numerically legal insertion must create a distinct journey function rather than extend a complete development, crest release, threshold or re-entry.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** All three candidates plausibly inhabit adjacent parts of the playlist's world, but none earns a current canonical job.
+- **Audio evidence:** The registry remains empty. Density, phrases, vocals, attention behaviour and transition sound remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved three durable current-journey rejections. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged. The stale-neighbour request anomaly is recorded as a workflow limitation, not musical evidence.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Fresh discovery broadened the source mix, but all three resolved candidates repeated existing functions.
+
+---
+
 ## 2026-08-09 — Fresh Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
