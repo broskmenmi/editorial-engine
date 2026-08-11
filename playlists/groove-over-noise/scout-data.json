@@ -1,136 +1,322 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "c1c1fb4e2c8b18798063506f8de742ebaa2c089dfae087a6d6dc60f3a11965c0",
-  "generatedAt": "2026-08-10T08:34:50.958Z",
-  "runId": "2026-08-10T08:34:07Z-explore",
-  "sourceCommit": "3007fa092d2f586b8eb76aede02045b2df47f3da",
+  "requestFingerprint": "92d4c02442a4aecf1c1a223d587e1b114dc5f38ac233d3ca483b1a11d00abfb6",
+  "generatedAt": "2026-08-11T06:41:42.558Z",
+  "runId": "2026-08-11T06:40:17Z-explore",
+  "sourceCommit": "37efcdbaf1c2ae8a82e7342830a16cfb0a4c3ab2",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
     "position": "outside all frozen and protected regions; placement selected only after belonging",
     "neighbours": [],
-    "purpose": "test whether current releases, adjacent or emerging artists and labels, or overlooked catalogue material reveal a distinct function without inventing a pre-existing defect"
+    "purpose": "test whether fresh current, adjacent or emerging, and overlooked catalogue evidence reveals a distinct function without inventing a defect"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-10T08:34:07Z",
-    "scope": "approximately 118 named track and release listings across 17 primary release pages or bounded catalogue query windows screened across all three required source families",
+    "timestamp": "2026-08-11T06:40:17Z",
+    "scope": "approximately 126 named track and release listings across 22 official release pages or bounded catalogue/search windows screened across all three required source families",
     "sourceFamilies": {
       "currentReleases": [
-        "2026-08-01 through 2026-08-10 window; approximately 43 track listings across eight primary release pages",
-        "Official The Third Room Curation 04: https://thethirdroom.bandcamp.com/album/curation-04-freddy-k",
-        "Official Oslated Presence II: https://oslated.bandcamp.com/album/oslated-10th-anniversary-presence-ii-osc010",
-        "Official Codec Communications: https://codecrecordings.bandcamp.com/album/communications",
-        "Official Duplicity Together EP: https://duplicityrecords.bandcamp.com/album/together-ep-dp019",
-        "Official Mistress Recordings MISTRESS 19: https://dvs1mistress.bandcamp.com/album/mistress-19",
-        "Official Keep On Techno Dromnell EP: https://keepontechno.bandcamp.com/album/dromnell-ep",
-        "Official Diffuse Reality Residual Emotions: https://diffusereality.bandcamp.com/album/neik-residual-emotions"
+        "2026-07-01 through 2026-08-11 window; approximately 49 named tracks across eight official release pages and two bounded search windows",
+        "Official Nadja Lind Autophagy release: https://nadjalind.bandcamp.com/album/nadja-lind-autophagy-lf381",
+        "Official Systolic unknw release: https://systoliclabel.bandcamp.com/album/unknw",
+        "Official Analogue Network The Cycle release: https://analoguenetwork.bandcamp.com/album/the-cycle-an021",
+        "Official T&NE VA.TNEREC 010 compilation: https://tnerecords.bandcamp.com/album/various-artists-va-tnerec-010-tnerec-040",
+        "Official Sound Avenue Sweet Motion release: https://soundavenue.bandcamp.com/album/sweet-motion"
       ],
       "adjacentAndEmerging": [
-        "Approximately 48 named listings across official MALöR, Rekids/RSPX, Mutual Rytm, Float and Semantica catalogue pages, with exact-version BPM checks",
-        "Official Mutual Rytm Virtus Occulta release: https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "Beatport exact Virtus Persistens metadata surfaced at track id 23964115: 143 BPM, 4:58, released 2026-03-13",
-        "Official Rekids/RSPX Here And Present EP: https://rekids.bandcamp.com/album/here-and-present-ep"
+        "Approximately 46 named tracks across official UTCH, Sonic Perception, Sotor, Systolic and T&NE catalogue pages",
+        "Official UTCH v/a 0010: https://utch.bandcamp.com/album/utch-v-a-0010",
+        "Official Sonic Perception DHARANA compilation: https://sonicperception.bandcamp.com/album/dh-ra",
+        "Official Sotor Meditation release: https://sotor.bandcamp.com/album/meditation"
       ],
       "overlookedCatalogue": [
-        "Four bounded Bandcamp query windows covering steady pulse and groove, subtle variation and groove, rolling groove and hypnotic techno, and patient deep techno; approximately 27 named results screened",
-        "Official Cinematic Desert Labrinth XDB Remix page: https://cinematiclabel.bandcamp.com/track/desert-labrinth-xdb-remix",
-        "Official Enneatrax Neglected Patient page: https://enneatrax.bandcamp.com/track/neglected-patient"
+        "Approximately 31 named tracks across five official catalogue pages and four bounded exact-track metadata searches",
+        "Official The Third Room Stone Techno Series Cubic EP: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
+        "Beatport exact VNNN. Groove Attack metadata: https://www.beatport.com/track/groove-attack/15557080",
+        "Official Autonome Connor Wall Reduction release: https://autonomerecords.bandcamp.com/album/reduction",
+        "Official Tejavu The Field release: https://tejavu11.bandcamp.com/album/the-field-ds02"
       ]
     },
     "exclusions": [
-      "Every lead and candidate from earlier immutable requests was excluded, including the 2026-08-10 Mindworks, Flash, Drifting and Setmode request.",
+      "Every lead and candidate from all earlier immutable requests was excluded, including both 2026-08-10 request sets.",
       "All current ledger identities, durable rejected entries, frozen Session 4 material and untriggered PARKED revisit entries were excluded.",
-      "The current-release lane returned no lead because its strongest tracks lacked either exact BPM, exact-track behavioural evidence, or a distinct non-frozen placement; no weak lead was padded into the request.",
-      "The overlooked-catalogue lane returned no lead because the strongest older tracks had unresolved exact BPM or identity and descriptions emphasizing manic melody, dramatic pads, hard-tool weight or drive; no weak lead was padded.",
-      "Adjacent alternatives were excluded when their legal placements duplicated existing groove-development, re-entry, release or threshold stages, or when source language introduced unresolved melody or pressure risk without a distinct role.",
-      "No proposed placement enters Iruka → Percussion Work → Interlynx, splits Deep Under → Wurk, or touches Interlynx → Minimum → Eclipse → Haidou → Calipso."
+      "Current-release tracks were excluded when official descriptions emphasized peak-time impact, dense driving flow, high energy, pronounced melody or only broad release-level fit without a distinct restrained behaviour; no current-release lead met the shortlist floor.",
+      "Adjacent and emerging alternatives were excluded when only compilation-level genre language supported them, exact identity was too ambiguous, or their likely functions duplicated occupied re-entry, immersion and release stages.",
+      "Overlooked catalogue alternatives were excluded when they required touching the protected ending, splitting Deep Under to Wurk, entering Iruka to Percussion Work to Interlynx, or relied on impact, hooks or industrial pressure.",
+      "No lead was admitted for novelty, popularity, duration, BPM, artist reputation or quota completion."
     ],
     "rankedResolutionLeads": [
-      "Ribé & Roll Dann — Virtus Persistens"
+      "Developer — Allure90",
+      "VNNN. — Groove Attack"
     ],
-    "evidenceLimit": "Exact identity, BPM and duration from official release and reliable retailer metadata plus attributed track-specific label description only; no raw-audio analysis and no candidate listener report."
+    "evidenceLimit": "Official release and exact retailer metadata plus attributed label descriptions only; no raw-audio analysis and no candidate-specific listener report."
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 1,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
+  "requestedCount": 2,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
+  "warnings": [
     {
-      "artist": "Ribé & Roll Dann",
-      "track": "Virtus Persistens",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Developer",
+      "track": "Allure90",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-05-05\" but Spotify returned \"2026-05-14\""
+    }
+  ],
+  "outcomes": [
+    {
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Ribé & Roll Dann",
-        "track": "Virtus Persistens",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "bpm": 143,
-        "bpmSource": "Beatport exact track metadata surfaced for track id 23964115: 143 BPM, 4:58, released 2026-03-13",
-        "discoverySource": "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/virtus-occulta",
+        "artist": "Developer",
+        "track": "Allure90",
+        "album": "UTCH v/a 0010",
+        "releaseDate": "2026-05-05",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after My Last Descent and before Trail Of",
-            "incomingBpm": 144,
-            "candidateBpm": 143,
-            "outgoingBpm": 142,
-            "role": "compact first-wave release-continuation step"
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 141,
+            "role": "second-wave internal-movement test"
+          },
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "role": "controlled threshold test"
           }
         ],
-        "fitHypothesis": "Mutual Rytm's track-specific description of continuity, steady pulse and a non-explosive ending supports provisional belonging and a gradual release hypothesis, while functional duplication with the existing two-stage first release remains the principal risk.",
+        "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
         "evidence": {
           "measured": [
-            "143 BPM from Beatport exact track metadata",
-            "4:58 duration on the official release",
-            "released 2026-03-13"
+            "6:20 duration on the official release",
+            "released 2026-05-05",
+            "exact BPM unknown"
           ],
-          "attributedDescription": "Mutual Rytm says Virtus Persistens delivers continuity and a steady pulse rather than an explosive ending, keeping the listener locked throughout.",
+          "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A compact -1/-1 BPM step may continue a crest release, but it earns admission only if it adds a distinct function rather than duplicating My Last Descent and Trail Of."
+          "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
+        }
+      },
+      "spotifyTrackId": "3WFBJZTMLyEOJVAw8v7rS2",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "VNNN.",
+        "track": "Groove Attack",
+        "album": "Stone Techno Series - Cubic EP",
+        "releaseDate": "2021-08-27",
+        "bpm": 134,
+        "bpmSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
+        "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Deprogramation 2",
+            "incomingBpm": 136,
+            "candidateBpm": 134,
+            "outgoingBpm": 137,
+            "role": "early long-form groove test"
+          },
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": 134,
+            "outgoingBpm": 138,
+            "role": "late release-to-threshold test"
+          }
+        ],
+        "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
+        "evidence": {
+          "measured": [
+            "134 BPM from Beatport exact track metadata",
+            "5:18 duration on the official release",
+            "released 2021-08-27"
+          ],
+          "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
+        }
+      },
+      "spotifyTrackId": "3QejvyYug7lKvRkYOLSQ49",
+      "selected": true
+    }
+  ],
+  "candidates": [
+    {
+      "id": "3WFBJZTMLyEOJVAw8v7rS2",
+      "uri": "spotify:track:3WFBJZTMLyEOJVAw8v7rS2",
+      "name": "Allure90",
+      "artists": [
+        "Developer"
+      ],
+      "album": "UTCH v/a 0010",
+      "releaseDate": "2026-05-14",
+      "durationMs": 380395,
+      "spotifyUrl": "https://open.spotify.com/track/3WFBJZTMLyEOJVAw8v7rS2",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after F Track and before Octagon",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 141,
+          "role": "second-wave internal-movement test"
+        },
+        {
+          "position": "after AB01 and before Flowing",
+          "incomingBpm": 136,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "role": "controlled threshold test"
+        }
+      ],
+      "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
+      "evidence": {
+        "measured": [
+          "6:20 duration on the official release",
+          "released 2026-05-05",
+          "exact BPM unknown"
+        ],
+        "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
+      },
+      "requestedIdentity": {
+        "artist": "Developer",
+        "track": "Allure90",
+        "album": "UTCH v/a 0010",
+        "releaseDate": "2026-05-05",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 141,
+            "role": "second-wave internal-movement test"
+          },
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "role": "controlled threshold test"
+          }
+        ],
+        "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
+        "evidence": {
+          "measured": [
+            "6:20 duration on the official release",
+            "released 2026-05-05",
+            "exact BPM unknown"
+          ],
+          "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
+        }
+      }
+    },
+    {
+      "id": "3QejvyYug7lKvRkYOLSQ49",
+      "uri": "spotify:track:3QejvyYug7lKvRkYOLSQ49",
+      "name": "Groove Attack",
+      "artists": [
+        "VNNN."
+      ],
+      "album": "Stone Techno Series - Cubic EP",
+      "releaseDate": "2021-08-27",
+      "durationMs": 318197,
+      "spotifyUrl": "https://open.spotify.com/track/3QejvyYug7lKvRkYOLSQ49",
+      "bpm": 134,
+      "tempoSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
+      "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Wurk and before Deprogramation 2",
+          "incomingBpm": 136,
+          "candidateBpm": 134,
+          "outgoingBpm": 137,
+          "role": "early long-form groove test"
+        },
+        {
+          "position": "after AB01 and before Flowing",
+          "incomingBpm": 136,
+          "candidateBpm": 134,
+          "outgoingBpm": 138,
+          "role": "late release-to-threshold test"
+        }
+      ],
+      "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
+      "evidence": {
+        "measured": [
+          "134 BPM from Beatport exact track metadata",
+          "5:18 duration on the official release",
+          "released 2021-08-27"
+        ],
+        "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
+      },
+      "requestedIdentity": {
+        "artist": "VNNN.",
+        "track": "Groove Attack",
+        "album": "Stone Techno Series - Cubic EP",
+        "releaseDate": "2021-08-27",
+        "bpm": 134,
+        "bpmSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
+        "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Deprogramation 2",
+            "incomingBpm": 136,
+            "candidateBpm": 134,
+            "outgoingBpm": 137,
+            "role": "early long-form groove test"
+          },
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": 134,
+            "outgoingBpm": 138,
+            "role": "late release-to-threshold test"
+          }
+        ],
+        "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
+        "evidence": {
+          "measured": [
+            "134 BPM from Beatport exact track metadata",
+            "5:18 duration on the official release",
+            "released 2021-08-27"
+          ],
+          "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
         }
       }
     }
   ],
-  "warnings": [],
-  "outcomes": [
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Ribé & Roll Dann",
-        "track": "Virtus Persistens",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "bpm": 143,
-        "bpmSource": "Beatport exact track metadata surfaced for track id 23964115: 143 BPM, 4:58, released 2026-03-13",
-        "discoverySource": "Official Mutual Rytm release: https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after My Last Descent and before Trail Of",
-            "incomingBpm": 144,
-            "candidateBpm": 143,
-            "outgoingBpm": 142,
-            "role": "compact first-wave release-continuation step"
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm's track-specific description of continuity, steady pulse and a non-explosive ending supports provisional belonging and a gradual release hypothesis, while functional duplication with the existing two-stage first release remains the principal risk.",
-        "evidence": {
-          "measured": [
-            "143 BPM from Beatport exact track metadata",
-            "4:58 duration on the official release",
-            "released 2026-03-13"
-          ],
-          "attributedDescription": "Mutual Rytm says Virtus Persistens delivers continuity and a steady pulse rather than an explosive ending, keeping the listener locked throughout.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A compact -1/-1 BPM step may continue a crest release, but it earns admission only if it adds a distinct function rather than duplicating My Last Descent and Trail Of."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    }
-  ],
-  "candidates": [],
   "resolvedAlternates": []
 }
