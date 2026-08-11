@@ -1,5 +1,73 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-11 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-11T06:40:17Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 126 named track and release listings across 22 official release pages or bounded catalogue and exact-metadata search windows.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material.
+- Excluded both August 10 request sets, every accepted and durable rejected identity, untriggered PARKED entries, the frozen Session 4 region, protected opening pair and protected ending.
+- Submitted two honest leads without padding. Spotify resolved Developer — Allure90 and VNNN. — Groove Attack exactly; both advanced.
+- The matching snapshot is `COMPLETE`: two requested, two resolved, two selected, no unresolved or duplicate leads, no alternates, and one preserved Allure90 release-date variance warning.
+- Used exact identity, duration, externally sourced BPM where available and attributed release descriptions only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** Allure90
+- **Artist:** Developer
+- **Spotify:** spotify:track:3WFBJZTMLyEOJVAw8v7rS2
+- **Duration:** 6:20.395
+- **Release variance:** The official Bandcamp page says 2026-05-05; Spotify and retailer metadata say 2026-05-14. The exact title, artist and album match.
+- **BPM evidence:** Volumo lists the exact ISRC GBRKQ2628495 at 128 BPM; Shazam reports 127 BPM. The one-BPM disagreement remains preserved, but both values fail the same placements.
+- **Playlist belonging:** `UNCERTAIN`, but plausible. UTCH describes the four-track release through restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts. This is release-level evidence and does not establish Allure90's exact behaviour.
+- **Placement 1:** After F Track and before Octagon gives 140 → 127/128 → 141. Numerically `INCOMPATIBLE`: both adjacent differences exceed the 0–4 BPM screen.
+- **Placement 2:** After AB01 and before Flowing gives 136 → 127/128 → 138. Numerically `INCOMPATIBLE`: both adjacent differences exceed the screen.
+- **Protected-placement check:** Its tempo could approach Eclipse → Haidou numerically, but that route is inside the protected ending and cannot be disturbed without direct listener evidence.
+- **Reason:** It may belong artistically, but no lawful unfrozen placement survives the independent neighbour gate.
+
+- **Track:** Groove Attack
+- **Artist:** VNNN.
+- **Spotify:** spotify:track:3QejvyYug7lKvRkYOLSQ49
+- **BPM:** 134
+- **BPM source:** Beatport exact track metadata, track id 15557080.
+- **Duration:** 5:18.197
+- **Playlist belonging:** `BELONGS` provisionally. The Third Room specifically describes VNNN. as bringing hypnotic grooves to the late hours of an extensive musical journey. This is attributed track-specific description, not direct listening.
+- **Placement 1:** After Wurk and before Deprogramation 2 gives 136 → 134 → 137. Numerically compliant but structurally `INCOMPATIBLE`: it reverses opening momentum and extends an already provisional groove shelf before NX1.
+- **Placement 2:** After AB01 and before Flowing gives 136 → 134 → 138. Numerically compliant but structurally `INCOMPATIBLE`: it introduces a down-up detour and duplicates the complete release-extension to threshold boundary.
+- **Protected-placement check:** Its most natural late-tempo neighbourhood would touch the frozen summit exit or protected ending and was not considered actionable.
+- **Reason:** The track plausibly belongs, but every lawful current position repeats a role or disrupts progression.
+
+### Evidence map
+
+- **Measured:** Two exact Spotify identities; 134 BPM for Groove Attack; conflicting 127/128 BPM external metadata for Allure90; exact durations; four proposed placements and one protected-placement check per candidate.
+- **Craft:** Playlist belonging does not override the exact-neighbour gate. A compliant BPM route must preserve direction and create a distinct function; a protected region is not an available solution to an otherwise incompatible candidate.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Both candidates plausibly inhabit the playlist's broader world, but neither earns a current canonical job.
+- **Audio evidence:** The registry remains empty. Density, phrases, vocals, attention behaviour and transition sound remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved two durable current-journey rejections. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged. The Allure90 release-date and tempo discrepancies are preserved as evidence limitations rather than silently normalized.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Two plausible identities resolved, but neither earned a lawful distinct position.
+
+---
+
 ## 2026-08-10 — Fresh Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
