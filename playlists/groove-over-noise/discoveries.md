@@ -1,5 +1,67 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-12 — Fresh Outward Discovery Run
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-12T06:53:57Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 61 named track and release listings across 18 official release, distributor, retailer, catalogue and bounded exact-track query pages.
+- Covered June–August 2026 current releases, adjacent and emerging artists and labels, and overlooked catalogue material.
+- Excluded every prior immutable request lead through August 11, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected opening and ending, and the frozen Session 4 region.
+- Submitted three honest leads without padding. Spotify resolved Dillect — Artificial Intelligence exactly; Joves — Morphosis and Advanced Human — The Ritual (Original Mix) remained unresolved.
+- The matching snapshot is `PARTIAL`: three requested, one resolved and selected, two unresolved, no warnings, duplicates or resolved alternates.
+- Used exact identity, duration, externally sourced BPM and attributed release descriptions only. No raw-audio analysis or candidate listener report was available.
+
+### REJECT — current journey only
+
+- **Track:** Artificial Intelligence
+- **Artist:** Dillect
+- **Spotify:** spotify:track:3CVKj9DYspJFRYIaPb8P8L
+- **BPM:** 141
+- **BPM source:** Volumo exact track listing, released 2026-03-27.
+- **Duration:** 5:30.638
+- **Playlist belonging:** `BELONGS` provisionally. Algumritmo groups Artificial Intelligence with Facts and Values as rooted in hypnotic flow, steady rhythm, evolving textures and subtle shifts. This is attributed pair-level evidence, not direct listening or exact-track audio analysis.
+- **Placement 1:** After F Track and before Octagon gives 140 → 141 → 141. Numerically compliant but structurally `INCOMPATIBLE`: F Track already performs re-entry and Octagon already provides the long-form immersion chamber.
+- **Placement 2:** After Hourly and before Miss Perez gives 140 → 141 → 142. Numerically compliant but structurally `INCOMPATIBLE`: Hourly already initiates first-wave development and Miss Perez already advances that rise.
+- **Additional lawful-position check:** Other non-frozen 141 BPM placements either repeat Tragoidia's crest/release boundary or create an avoidable down-up detour. No distinct current job is evidenced.
+- **Reason:** The track plausibly belongs, but every lawful current position repeats an occupied development function.
+
+### NO VERDICT — unresolved identities
+
+- **Joves — Morphosis:** `no exact Spotify title/artist search match in market SE`.
+- **Advanced Human — The Ritual (Original Mix):** `no exact Spotify title/artist search match in market SE`.
+- Neither unresolved lead was substituted, evaluated, rejected or parked.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 141 BPM; 5:30.638 duration; tested paths of 140 → 141 → 141 and 140 → 141 → 142.
+- **Craft:** A smooth numeric insertion must still create a distinct stage rather than lengthen an already complete development or re-entry.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Artificial Intelligence plausibly inhabits the playlist's world but does not earn a current canonical function.
+- **Audio evidence:** The registry remains empty. Density, phrases, vocals, attention behaviour and transition sound remain unknown.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no verdict on the two unresolved identities. No canonical addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged. The PARTIAL resolver receipt is preserved without substitution.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Fresh discovery found one plausible identity, but its legal functions are already occupied.
+
+---
+
 ## 2026-08-11 — Fresh Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
