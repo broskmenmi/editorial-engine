@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "92d4c02442a4aecf1c1a223d587e1b114dc5f38ac233d3ca483b1a11d00abfb6",
-  "generatedAt": "2026-08-11T06:41:42.558Z",
-  "runId": "2026-08-11T06:40:17Z-explore",
-  "sourceCommit": "37efcdbaf1c2ae8a82e7342830a16cfb0a4c3ab2",
+  "requestFingerprint": "8329a4b9ade88d235a3fa1594818f31c07eb7fe8bb04b43b31a28b96631667dc",
+  "generatedAt": "2026-08-12T06:55:32.415Z",
+  "runId": "2026-08-12T06:53:57Z-explore",
+  "sourceCommit": "f85c92ced10eeab711905062b9557486094fbc7b",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh outward discovery for a distinct GROOVE OVER NOISE function",
@@ -12,308 +12,345 @@
     "purpose": "test whether fresh current, adjacent or emerging, and overlooked catalogue evidence reveals a distinct function without inventing a defect"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-11T06:40:17Z",
-    "scope": "approximately 126 named track and release listings across 22 official release pages or bounded catalogue/search windows screened across all three required source families",
+    "timestamp": "2026-08-12T06:53:57Z",
+    "scope": "approximately 61 named track and release listings across 18 official release, distributor, retailer, catalogue, and bounded exact-track query pages screened across all three required source families",
     "sourceFamilies": {
       "currentReleases": [
-        "2026-07-01 through 2026-08-11 window; approximately 49 named tracks across eight official release pages and two bounded search windows",
-        "Official Nadja Lind Autophagy release: https://nadjalind.bandcamp.com/album/nadja-lind-autophagy-lf381",
-        "Official Systolic unknw release: https://systoliclabel.bandcamp.com/album/unknw",
-        "Official Analogue Network The Cycle release: https://analoguenetwork.bandcamp.com/album/the-cycle-an021",
-        "Official T&NE VA.TNEREC 010 compilation: https://tnerecords.bandcamp.com/album/various-artists-va-tnerec-010-tnerec-040",
-        "Official Sound Avenue Sweet Motion release: https://soundavenue.bandcamp.com/album/sweet-motion"
+        "2026-06-01 through 2026-08-12 window; approximately 24 named tracks across seven official release and distributor pages plus two bounded searches",
+        "Official Joves Escape release: https://josephtagliabue.bandcamp.com/album/escape",
+        "Official One Eye Witness Joves Escape distribution page: https://www.one-eye-witness.com/release/1781074879/joves-escape",
+        "Official Aawadh Tomorrow Comes Early release: https://aawadh.bandcamp.com/album/tomorrow-comes-early",
+        "Official Sublunar Clotur One Touch release: https://sublunarrecords.bandcamp.com/album/one-touch"
       ],
       "adjacentAndEmerging": [
-        "Approximately 46 named tracks across official UTCH, Sonic Perception, Sotor, Systolic and T&NE catalogue pages",
-        "Official UTCH v/a 0010: https://utch.bandcamp.com/album/utch-v-a-0010",
-        "Official Sonic Perception DHARANA compilation: https://sonicperception.bandcamp.com/album/dh-ra",
-        "Official Sotor Meditation release: https://sotor.bandcamp.com/album/meditation"
+        "Approximately 20 named tracks across five official label release pages and three bounded exact-track searches",
+        "Official Gynoid Audio Advanced Human Nocturnal EP: https://gynoidaudio.bandcamp.com/album/nocturnal-ep",
+        "Official Wave Motion DELARA Inner Orbit release: https://wavemotionrec.bandcamp.com/album/inner-orbit",
+        "Official Arms & Legs Hypnotic Image Hypno Grooves release: https://armsandlegsrecords.bandcamp.com/album/hypno-grooves"
       ],
       "overlookedCatalogue": [
-        "Approximately 31 named tracks across five official catalogue pages and four bounded exact-track metadata searches",
-        "Official The Third Room Stone Techno Series Cubic EP: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
-        "Beatport exact VNNN. Groove Attack metadata: https://www.beatport.com/track/groove-attack/15557080",
-        "Official Autonome Connor Wall Reduction release: https://autonomerecords.bandcamp.com/album/reduction",
-        "Official Tejavu The Field release: https://tejavu11.bandcamp.com/album/the-field-ds02"
+        "Approximately 17 named tracks across four official catalogue pages and three bounded exact-track metadata searches",
+        "Official Algumritmo Dillect Deluge release: https://alg1ritmo.bandcamp.com/album/deluge",
+        "Beatport exact Dillect Facts and Values metadata window: https://www.beatport.com/track/facts-and-values/26876421",
+        "Official Steyoyoke Navid Kaya Soul Resonance release: https://steyoyoke.bandcamp.com/album/soul-resonance"
       ]
     },
     "exclusions": [
-      "Every lead and candidate from all earlier immutable requests was excluded, including both 2026-08-10 request sets.",
-      "All current ledger identities, durable rejected entries, frozen Session 4 material and untriggered PARKED revisit entries were excluded.",
-      "Current-release tracks were excluded when official descriptions emphasized peak-time impact, dense driving flow, high energy, pronounced melody or only broad release-level fit without a distinct restrained behaviour; no current-release lead met the shortlist floor.",
-      "Adjacent and emerging alternatives were excluded when only compilation-level genre language supported them, exact identity was too ambiguous, or their likely functions duplicated occupied re-entry, immersion and release stages.",
-      "Overlooked catalogue alternatives were excluded when they required touching the protected ending, splitting Deep Under to Wurk, entering Iruka to Percussion Work to Interlynx, or relied on impact, hooks or industrial pressure.",
-      "No lead was admitted for novelty, popularity, duration, BPM, artist reputation or quota completion."
+      "Every lead and candidate in prior immutable requests through 2026-08-11 was excluded, including Developer, VNNN., Orion Mindworks, pranch, GI-RO47, Lizoto, Sabrj and Slaveone.",
+      "All 26 ledger identities, durable rejected entries, frozen Session 4 material, protected opening and ending, and untriggered PARKED revisit entries were excluded.",
+      "Current-release alternatives were excluded when descriptions emphasized peak-time impact, relentless pressure, vocal or melodic dominance, or supplied only release-level style language without a track-level restrained-behaviour hypothesis.",
+      "Adjacent and emerging alternatives were excluded when house, melodic, euphoric, high-energy, or direct-impact framing outweighed patient functional progression, or when the likely role was already fully occupied.",
+      "Overlooked catalogue alternatives were excluded when their metadata required a protected/frozen placement, their exact identity was ambiguous, or their evidence supported only genre, BPM, popularity, or dancefloor intent.",
+      "No lead was admitted for novelty, popularity, duration, BPM, artist reputation, label reputation, or quota completion."
     ],
     "rankedResolutionLeads": [
-      "Developer — Allure90",
-      "VNNN. — Groove Attack"
+      "Joves — Morphosis",
+      "Advanced Human — The Ritual (Original Mix)",
+      "Dillect — Artificial Intelligence"
     ],
-    "evidenceLimit": "Official release and exact retailer metadata plus attributed label descriptions only; no raw-audio analysis and no candidate-specific listener report."
+    "evidenceLimit": "Official release and distributor descriptions plus exact retailer metadata only; no Spotify audio analysis, no raw-audio measurement, and no candidate-specific listener report."
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 2,
-  "resolvedCount": 2,
-  "candidateCount": 2,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [
+  "requestedCount": 3,
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "artist": "Developer",
-      "track": "Allure90",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-05-05\" but Spotify returned \"2026-05-14\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
+      "artist": "Joves",
+      "track": "Morphosis",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Developer",
-        "track": "Allure90",
-        "album": "UTCH v/a 0010",
-        "releaseDate": "2026-05-05",
+        "artist": "Joves",
+        "track": "Morphosis",
+        "album": "Escape",
+        "releaseDate": "2026-07-20",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after F Track and before Octagon",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 141,
-            "role": "second-wave internal-movement test"
-          },
-          {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "role": "controlled threshold test"
-          }
-        ],
-        "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
-        "evidence": {
-          "measured": [
-            "6:20 duration on the official release",
-            "released 2026-05-05",
-            "exact BPM unknown"
-          ],
-          "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
-        }
-      },
-      "spotifyTrackId": "3WFBJZTMLyEOJVAw8v7rS2",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "VNNN.",
-        "track": "Groove Attack",
-        "album": "Stone Techno Series - Cubic EP",
-        "releaseDate": "2021-08-27",
-        "bpm": 134,
-        "bpmSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
-        "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
+        "discoverySource": "Official Joves release: https://josephtagliabue.bandcamp.com/album/escape",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Wurk and before Deprogramation 2",
             "incomingBpm": 136,
-            "candidateBpm": 134,
+            "candidateBpm": null,
             "outgoingBpm": 137,
-            "role": "early long-form groove test"
+            "role": "early minimal-movement test"
           },
           {
             "position": "after AB01 and before Flowing",
             "incomingBpm": 136,
-            "candidateBpm": 134,
+            "candidateBpm": null,
             "outgoingBpm": 138,
-            "role": "late release-to-threshold test"
+            "role": "controlled threshold-movement test"
           }
         ],
-        "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
+        "fitHypothesis": "The official release describes Morphosis specifically as a lean rolling minimal groove built around subtle movement and tension, supporting provisional belonging; exact tempo and whether either restrained-movement role is distinct remain unknown.",
         "evidence": {
           "measured": [
-            "134 BPM from Beatport exact track metadata",
-            "5:18 duration on the official release",
-            "released 2021-08-27"
+            "released 2026-07-20 on the official Bandcamp page",
+            "exact BPM and duration unknown"
           ],
-          "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
+          "attributedDescription": "The artist's official release page describes Morphosis as leaner territory: a rolling minimal groove built around subtle movement, tension and alien electronics.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
+          "craftConvention": "A reduced groove can deepen an existing shelf only if exact identity and neighbour evaluation show a distinct progression rather than extra duration."
+        }
+      }
+    },
+    {
+      "artist": "Advanced Human",
+      "track": "The Ritual (Original Mix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Advanced Human",
+        "track": "The Ritual (Original Mix)",
+        "album": "Nocturnal EP",
+        "releaseDate": "2026-03-06",
+        "bpm": 139,
+        "bpmSource": "Electrobuzz exact Nocturnal EP listing: 139 BPM, 6:06, released 2026-03-06",
+        "discoverySource": "Official Gynoid Audio release: https://gynoidaudio.bandcamp.com/album/nocturnal-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": 139,
+            "outgoingBpm": 140,
+            "role": "re-entry continuity test"
+          },
+          {
+            "position": "after Flowing and before Sentena",
+            "incomingBpm": 138,
+            "candidateBpm": 139,
+            "outgoingBpm": 138,
+            "role": "controlled threshold extension test"
+          }
+        ],
+        "fitHypothesis": "Gynoid Audio describes The Ritual specifically through repetition, subtle movement, stripped-back function and extended-transition momentum, supporting provisional belonging; both proposed functions may already be occupied.",
+        "evidence": {
+          "measured": [
+            "139 BPM from an exact retailer release listing",
+            "6:06 duration on the official release",
+            "released 2026-03-06"
+          ],
+          "attributedDescription": "Gynoid Audio describes The Ritual as a hypnotic groove relying on repetition and subtle movement: stripped back, functional and made for extended transitions and sustained momentum.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A numerically smooth insertion earns a place only if it clarifies the wave rather than duplicating an existing transition function."
+        }
+      }
+    }
+  ],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Joves",
+        "track": "Morphosis",
+        "album": "Escape",
+        "releaseDate": "2026-07-20",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "Official Joves release: https://josephtagliabue.bandcamp.com/album/escape",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Wurk and before Deprogramation 2",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "role": "early minimal-movement test"
+          },
+          {
+            "position": "after AB01 and before Flowing",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "role": "controlled threshold-movement test"
+          }
+        ],
+        "fitHypothesis": "The official release describes Morphosis specifically as a lean rolling minimal groove built around subtle movement and tension, supporting provisional belonging; exact tempo and whether either restrained-movement role is distinct remain unknown.",
+        "evidence": {
+          "measured": [
+            "released 2026-07-20 on the official Bandcamp page",
+            "exact BPM and duration unknown"
+          ],
+          "attributedDescription": "The artist's official release page describes Morphosis as leaner territory: a rolling minimal groove built around subtle movement, tension and alien electronics.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A reduced groove can deepen an existing shelf only if exact identity and neighbour evaluation show a distinct progression rather than extra duration."
         }
       },
-      "spotifyTrackId": "3QejvyYug7lKvRkYOLSQ49",
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Advanced Human",
+        "track": "The Ritual (Original Mix)",
+        "album": "Nocturnal EP",
+        "releaseDate": "2026-03-06",
+        "bpm": 139,
+        "bpmSource": "Electrobuzz exact Nocturnal EP listing: 139 BPM, 6:06, released 2026-03-06",
+        "discoverySource": "Official Gynoid Audio release: https://gynoidaudio.bandcamp.com/album/nocturnal-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Enlightenment and before F Track",
+            "incomingBpm": 139,
+            "candidateBpm": 139,
+            "outgoingBpm": 140,
+            "role": "re-entry continuity test"
+          },
+          {
+            "position": "after Flowing and before Sentena",
+            "incomingBpm": 138,
+            "candidateBpm": 139,
+            "outgoingBpm": 138,
+            "role": "controlled threshold extension test"
+          }
+        ],
+        "fitHypothesis": "Gynoid Audio describes The Ritual specifically through repetition, subtle movement, stripped-back function and extended-transition momentum, supporting provisional belonging; both proposed functions may already be occupied.",
+        "evidence": {
+          "measured": [
+            "139 BPM from an exact retailer release listing",
+            "6:06 duration on the official release",
+            "released 2026-03-06"
+          ],
+          "attributedDescription": "Gynoid Audio describes The Ritual as a hypnotic groove relying on repetition and subtle movement: stripped back, functional and made for extended transitions and sustained momentum.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A numerically smooth insertion earns a place only if it clarifies the wave rather than duplicating an existing transition function."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Dillect",
+        "track": "Artificial Intelligence",
+        "album": "Deluge",
+        "releaseDate": "2026-03-27",
+        "bpm": 141,
+        "bpmSource": "Volumo exact Artificial Intelligence listing: 141 BPM, 5:30, released 2026-03-27",
+        "discoverySource": "Official Algumritmo release: https://alg1ritmo.bandcamp.com/album/deluge",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after F Track and before Octagon",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 141,
+            "role": "second-wave hypnosis-development test"
+          },
+          {
+            "position": "after Hourly and before Miss Perez",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 142,
+            "role": "first-wave progression test"
+          }
+        ],
+        "fitHypothesis": "Algumritmo groups Artificial Intelligence with a hypnotic-flow pair built from steady rhythm, evolving textures and subtle shifts, supporting provisional belonging; the evidence is partly pair-level and both proposed development roles may duplicate current tracks.",
+        "evidence": {
+          "measured": [
+            "141 BPM from an exact retailer track listing",
+            "5:30 duration from the exact retailer listing",
+            "released 2026-03-27"
+          ],
+          "attributedDescription": "Algumritmo describes Artificial Intelligence and Facts and Values together as rooted in hypnotic flow, using steady rhythms, evolving textures and subtle shifts to emphasize repetition and atmosphere.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A development track may enter a wave only if its role is distinct from the current groove shelf, re-entry and long-form chamber."
+        }
+      },
+      "spotifyTrackId": "3CVKj9DYspJFRYIaPb8P8L",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "3WFBJZTMLyEOJVAw8v7rS2",
-      "uri": "spotify:track:3WFBJZTMLyEOJVAw8v7rS2",
-      "name": "Allure90",
+      "id": "3CVKj9DYspJFRYIaPb8P8L",
+      "uri": "spotify:track:3CVKj9DYspJFRYIaPb8P8L",
+      "name": "Artificial Intelligence",
       "artists": [
-        "Developer"
+        "Dillect"
       ],
-      "album": "UTCH v/a 0010",
-      "releaseDate": "2026-05-14",
-      "durationMs": 380395,
-      "spotifyUrl": "https://open.spotify.com/track/3WFBJZTMLyEOJVAw8v7rS2",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
+      "album": "Deluge",
+      "releaseDate": "2026-03-27",
+      "durationMs": 330638,
+      "spotifyUrl": "https://open.spotify.com/track/3CVKj9DYspJFRYIaPb8P8L",
+      "bpm": 141,
+      "tempoSource": "Volumo exact Artificial Intelligence listing: 141 BPM, 5:30, released 2026-03-27",
+      "discoverySource": "Official Algumritmo release: https://alg1ritmo.bandcamp.com/album/deluge",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after F Track and before Octagon",
           "incomingBpm": 140,
-          "candidateBpm": null,
+          "candidateBpm": 141,
           "outgoingBpm": 141,
-          "role": "second-wave internal-movement test"
+          "role": "second-wave hypnosis-development test"
         },
         {
-          "position": "after AB01 and before Flowing",
-          "incomingBpm": 136,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "role": "controlled threshold test"
+          "position": "after Hourly and before Miss Perez",
+          "incomingBpm": 140,
+          "candidateBpm": 141,
+          "outgoingBpm": 142,
+          "role": "first-wave progression test"
         }
       ],
-      "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
+      "fitHypothesis": "Algumritmo groups Artificial Intelligence with a hypnotic-flow pair built from steady rhythm, evolving textures and subtle shifts, supporting provisional belonging; the evidence is partly pair-level and both proposed development roles may duplicate current tracks.",
       "evidence": {
         "measured": [
-          "6:20 duration on the official release",
-          "released 2026-05-05",
-          "exact BPM unknown"
+          "141 BPM from an exact retailer track listing",
+          "5:30 duration from the exact retailer listing",
+          "released 2026-03-27"
         ],
-        "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
+        "attributedDescription": "Algumritmo describes Artificial Intelligence and Facts and Values together as rooted in hypnotic flow, using steady rhythms, evolving textures and subtle shifts to emphasize repetition and atmosphere.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
+        "craftConvention": "A development track may enter a wave only if its role is distinct from the current groove shelf, re-entry and long-form chamber."
       },
       "requestedIdentity": {
-        "artist": "Developer",
-        "track": "Allure90",
-        "album": "UTCH v/a 0010",
-        "releaseDate": "2026-05-05",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "Official UTCH release: https://utch.bandcamp.com/album/utch-v-a-0010",
+        "artist": "Dillect",
+        "track": "Artificial Intelligence",
+        "album": "Deluge",
+        "releaseDate": "2026-03-27",
+        "bpm": 141,
+        "bpmSource": "Volumo exact Artificial Intelligence listing: 141 BPM, 5:30, released 2026-03-27",
+        "discoverySource": "Official Algumritmo release: https://alg1ritmo.bandcamp.com/album/deluge",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after F Track and before Octagon",
             "incomingBpm": 140,
-            "candidateBpm": null,
+            "candidateBpm": 141,
             "outgoingBpm": 141,
-            "role": "second-wave internal-movement test"
+            "role": "second-wave hypnosis-development test"
           },
           {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "role": "controlled threshold test"
+            "position": "after Hourly and before Miss Perez",
+            "incomingBpm": 140,
+            "candidateBpm": 141,
+            "outgoingBpm": 142,
+            "role": "first-wave progression test"
           }
         ],
-        "fitHypothesis": "UTCH frames the four-track release around restraint, continuity, reduced elements, subtle modulation and internal movement rather than dramatic shifts; Allure90 may provisionally belong, but the description is release-level and its proposed functions may already be occupied.",
+        "fitHypothesis": "Algumritmo groups Artificial Intelligence with a hypnotic-flow pair built from steady rhythm, evolving textures and subtle shifts, supporting provisional belonging; the evidence is partly pair-level and both proposed development roles may duplicate current tracks.",
         "evidence": {
           "measured": [
-            "6:20 duration on the official release",
-            "released 2026-05-05",
-            "exact BPM unknown"
+            "141 BPM from an exact retailer track listing",
+            "5:30 duration from the exact retailer listing",
+            "released 2026-03-27"
           ],
-          "attributedDescription": "UTCH describes the release as prioritizing structure over excess and immersion over immediate impact, with reduced elements, sustained low-end pressure, subtle modulation and continuity.",
+          "attributedDescription": "Algumritmo describes Artificial Intelligence and Facts and Values together as rooted in hypnotic flow, using steady rhythms, evolving textures and subtle shifts to emphasize repetition and atmosphere.",
           "listenerEvidence": null,
           "lawfulAudioEvidence": null,
-          "craftConvention": "A candidate may deepen a wave or threshold only if exact identity and neighbour evaluation show a distinct function rather than another occupied shelf."
-        }
-      }
-    },
-    {
-      "id": "3QejvyYug7lKvRkYOLSQ49",
-      "uri": "spotify:track:3QejvyYug7lKvRkYOLSQ49",
-      "name": "Groove Attack",
-      "artists": [
-        "VNNN."
-      ],
-      "album": "Stone Techno Series - Cubic EP",
-      "releaseDate": "2021-08-27",
-      "durationMs": 318197,
-      "spotifyUrl": "https://open.spotify.com/track/3QejvyYug7lKvRkYOLSQ49",
-      "bpm": 134,
-      "tempoSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
-      "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Wurk and before Deprogramation 2",
-          "incomingBpm": 136,
-          "candidateBpm": 134,
-          "outgoingBpm": 137,
-          "role": "early long-form groove test"
-        },
-        {
-          "position": "after AB01 and before Flowing",
-          "incomingBpm": 136,
-          "candidateBpm": 134,
-          "outgoingBpm": 138,
-          "role": "late release-to-threshold test"
-        }
-      ],
-      "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
-      "evidence": {
-        "measured": [
-          "134 BPM from Beatport exact track metadata",
-          "5:18 duration on the official release",
-          "released 2021-08-27"
-        ],
-        "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
-      },
-      "requestedIdentity": {
-        "artist": "VNNN.",
-        "track": "Groove Attack",
-        "album": "Stone Techno Series - Cubic EP",
-        "releaseDate": "2021-08-27",
-        "bpm": 134,
-        "bpmSource": "Beatport exact Groove Attack metadata, track id 15557080: 134 BPM, 5:18, released 2021-08-27",
-        "discoverySource": "Official The Third Room release: https://thethirdroom.bandcamp.com/album/stone-techno-series-cubic-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Wurk and before Deprogramation 2",
-            "incomingBpm": 136,
-            "candidateBpm": 134,
-            "outgoingBpm": 137,
-            "role": "early long-form groove test"
-          },
-          {
-            "position": "after AB01 and before Flowing",
-            "incomingBpm": 136,
-            "candidateBpm": 134,
-            "outgoingBpm": 138,
-            "role": "late release-to-threshold test"
-          }
-        ],
-        "fitHypothesis": "The Third Room specifically describes Groove Attack through hypnotic grooves for the late hours of an extensive musical journey, supporting provisional belonging; its low 134 BPM creates compliant but directionally awkward paths and may duplicate existing groove or threshold functions.",
-        "evidence": {
-          "measured": [
-            "134 BPM from Beatport exact track metadata",
-            "5:18 duration on the official release",
-            "released 2021-08-27"
-          ],
-          "attributedDescription": "The Third Room says VNNN. hails with hypnotic grooves for the late hours of an extensive musical journey.",
-          "listenerEvidence": null,
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A compliant BPM path must still preserve directional progression and add a distinct journey function."
+          "craftConvention": "A development track may enter a wave only if its role is distinct from the current groove shelf, re-entry and long-form chamber."
         }
       }
     }
