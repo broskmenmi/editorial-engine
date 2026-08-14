@@ -43,6 +43,15 @@ Do not insert before Deep Under or between the protected pair without direct pos
 
 Every adjacent difference remains within 0–4 BPM. **Deep Under → Wurk → Deprogramation 2 → Ottagone 001** remains a 134 → 136 → 137 → 138 arrival with a provisional groove-lock shelf. **Ottagone 001 → Hourly → Miss Perez** now begins the first wave through a provisional 138 → 140 → 142 groove-development step. **F Track → Octagon → Tragoidia** remains the 140 → 141 → 141 second-wave immersion chamber and crest approach.
 
+## 2026-08-14 saturation signal
+
+The latest outward scan deliberately searched for functions outside the established groove-development, re-entry, immersion and release vocabulary. It found cross-rhythmic dub-space material more readily than a supported improvement to the current canonical journey.
+
+- Terrain — Barossa Dub and Hive were structurally different but objectively outside the current 125–145 BPM continuity contract at 80 and 110 BPM.
+- RÖM — Whispering Dub resolved exactly and is parked for REVISIT because its tempo is unknown and its exact-track description foregrounds whispered voices and pressure shifts alongside half-time dub space.
+- This does not prove the current playlist is complete. It is evidence that continued same-volume expansion now has diminishing returns and that the strongest genuinely different material may require a separate narrative and tempo grammar.
+- Do not create another volume automatically. Any future volume must begin with an explicitly chosen story and must leave this 26-track canonical volume playable, shareable and unchanged.
+
 ## Current chapter map
 
 1. **Arrival and identity anchor:** Deep Under

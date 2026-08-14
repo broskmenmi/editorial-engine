@@ -1,5 +1,61 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-14 — Fresh Outward Saturation Test
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-14T06:35:32Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 82 named track and release listings across 24 official release, label, retailer, catalogue and bounded query pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material while deliberately looking for half-time weight, dub space, restrained broken rhythm and other functions not already expressed by the current waves.
+- Excluded every prior immutable request lead through August 13, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected opening and ending, and the frozen Session 4 region.
+- Terrain — Barossa Dub and Hive revealed genuinely different functions but failed before resolution because exact retailer metadata places them at 80 and 110 BPM, leaving no canonical neighbour within the required 0–4 BPM range.
+- Submitted one honest lead without padding. Spotify resolved RÖM — Whispering Dub exactly with no warnings, unresolved identities, duplicates or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected.
+- Used exact identity, duration and attributed exact-track description only. Exact BPM, lawful audio analysis and candidate-specific listener evidence remain unavailable.
+
+### REVISIT — parked
+
+- **Track:** Whispering Dub
+- **Artist:** RÖM
+- **Spotify:** spotify:track:420u337EB5Xzn2KsoMgx6E
+- **BPM:** Unknown
+- **Duration:** 5:25.324
+- **Playlist belonging:** `UNCERTAIN`. The official release describes dub space, half-time weight and meditation, which supports a distinct cross-rhythmic possibility. The same exact-track description foregrounds pressure shifts and whispers bleeding through cavernous reverb, leaving restraint and attention continuity materially uncertain. This is attributed source evidence, not direct listening or Spotify audio analysis.
+- **Placement 1:** After Trail Of and before Enlightenment would test a first-release cross-rhythmic negative-space function. With candidate tempo unknown, the 142 → ? → 139 path is `UNCERTAIN`; described voice and pressure changes also leave continuity unproved.
+- **Placement 2:** After Blind Spot and before Bionic Jungle would test the same idea in the second release. With candidate tempo unknown, the 140 → ? → 137 path is `UNCERTAIN`; the role may reveal contrast, but could instead sound like a new story beginning.
+- **Reason:** The candidate is too distinct to dismiss as another occupied groove-development track, but neither belonging nor either exact placement is supported strongly enough for admission.
+- **Reassessment condition:** A reliable exact BPM source must establish a lawful canonical path, and lawful audio evidence or natural listener feedback must materially clarify whether the whispered-voice and pressure-shift elements preserve immersion. No listening task is assigned.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 5:25.324 duration; release date 2026-04-30; exact BPM unknown.
+- **Craft:** A cross-rhythmic partial release is useful only when its pulse remains compatible and it deepens the same journey rather than starting another one.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Whispering Dub may point toward a different dub-space/half-time narrative more readily than it improves the current canonical story.
+- **Audio evidence:** The registry remains empty. Vocal prominence, pulse, density, phrases and transition sound remain unknown beyond the attributed release description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable PARKED REVISIT and no canonical change. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+The saturation test found a genuinely different direction, but not a supported improvement to the current journey.
+
+---
+
 ## 2026-08-12 — Fresh Outward Discovery Run
 
 **Operating mode:** `EXPLORE`
