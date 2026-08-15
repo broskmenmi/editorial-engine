@@ -1,5 +1,61 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-15 — Fresh Outward Restraint and Saturation Test
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-15T06:11:45Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 73 named track and release listings across 26 official release, label, retailer, catalogue, premiere and bounded query pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material while testing whether Volume 1 still has room for a pressure-neutral functional hold inside its existing tempo and narrative grammar.
+- Excluded every prior immutable lead through August 14, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected opening and ending, and the frozen Session 4 region.
+- Excluded otherwise plausible material when only collection-level language existed, exact-track behaviour or BPM was unsupported, the only clean placement touched a protected region, or the source foregrounded relentless, peak-time, volatile or impact-led behaviour.
+- Submitted one honest lead without padding. Spotify resolved Fluctt — Rush B exactly with no warnings, unresolved identities, duplicates or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected.
+- Used exact identity, duration, verified retailer BPM and attributed official-premiere text only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Rush B
+- **Artist:** Fluctt
+- **Spotify:** spotify:track:3m7bgoeoYByIgAIHd9W63J
+- **BPM:** 138
+- **Duration:** 4:24.347
+- **Playlist belonging:** `BELONGS — provisional`. The official exact-track premiere carries Makhunik's description of stripped, restrained, functional techno with patient controlled rhythms, carefully placed details and usefulness in long transitions. This is attributed source evidence, not direct listening or Spotify audio analysis.
+- **Placement 1:** After Enlightenment and before F Track creates 139 → 138 → 140. It is numerically compliant but `INCOMPATIBLE`: the small down-up motion adds another continuity shelf between the established post-crest bridge and second-wave re-entry without an evidenced new job.
+- **Placement 2:** After AB01 and before Flowing creates 136 → 138 → 138. It is numerically compliant but `INCOMPATIBLE`: AB01 already opens rhythmic space and Flowing already supplies the third-wave threshold, so another functional hold repeats a complete boundary.
+- **Reason:** The candidate plausibly belongs, but both legal placements lengthen occupied functions. Clean BPM and constitution-aligned release language do not establish a distinct current role.
+- **Scope:** This is not a permanent artistic rejection. A materially changed middle-journey structure or new lawful evidence of a distinct function could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 4:24.347 duration; release date 2026-05-01; exact 138 BPM retailer listing; both proposed paths remain within the 0–4 BPM target.
+- **Craft:** A functional hold strengthens a long-form journey only when it changes the listener's structural state rather than merely adding duration between already legible stages.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Rush B may fit the playlist's aesthetic world, but its evidenced role is already performed by Enlightenment → F Track and AB01 → Flowing.
+- **Audio evidence:** The registry remains empty. Density, phrase shape, attention demand and transition sound remain unknown beyond the attributed source description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+A cleanly resolved, constitution-aligned track still failed to reveal a distinct job inside the saturated current journey.
+
+---
+
 ## 2026-08-14 — Fresh Outward Saturation Test
 
 **Operating mode:** `EXPLORE`
