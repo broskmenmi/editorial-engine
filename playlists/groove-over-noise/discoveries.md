@@ -1,5 +1,61 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-17 — Fresh Outward Minimal-Funk Saturation Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-17T06:44:58Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 61 named track and release listings across 24 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material while testing whether stripped-back minimal funk could reveal a distinct function inside the existing Volume 1 tempo and narrative grammar.
+- Excluded every prior immutable lead through August 15, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected opening and ending, Iruka summit, and the frozen Session 4 region. The August 16 zero-lead scan supplied no identity to recycle.
+- SIM — 3rd Space was the strongest excluded near-miss: its official exact-track description strongly supported controlled repetition and reduction, but no reliable exact BPM source was found and therefore no auditable legal placement could be proposed.
+- Submitted one honest lead without padding. Spotify resolved Robert Hood — Untitled (Invincible - B) exactly with no warnings, unresolved identities, duplicates or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected.
+- Used exact identity, duration, verified retailer BPM and attributed official release text only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Untitled (Invincible - B)
+- **Artist:** Robert Hood
+- **Spotify:** spotify:track:4RJTIQKo2U3FxZZ0UASxnO
+- **BPM:** 139
+- **Duration:** 6:07.957
+- **Playlist belonging:** `BELONGS — provisional`. M-Plant's official notes describe the three-track release through stripped-back techno, tough funk, groove, subtle percussion shifts, looping synths, driving basslines, meditative momentum and restraint. This is attributed release-level evidence, not direct listening or exact-track audio analysis.
+- **Placement 1:** After Enlightenment and before F Track creates 139 → 139 → 140. It is numerically compliant but `INCOMPATIBLE`: Enlightenment already preserves the post-crest pulse and F Track already performs second-wave re-entry, so another continuity step repeats an occupied handoff.
+- **Placement 2:** After Nasty Tool and before Tenta Tiv creates 138 → 139 → 139. It is numerically compliant but `INCOMPATIBLE`: Nasty Tool already re-enters the third wave and Tenta Tiv already supplies the controlled summit approach, so an additional 139 BPM stage lengthens the approach without an evidenced new job.
+- **Reason:** The candidate plausibly belongs, but both legal placements extend complete functions. Historical importance, clean BPM and release-level constitution fit do not establish a distinct current role.
+- **Scope:** This is not a permanent artistic rejection. A materially changed post-crest or third-wave structure, or new lawful evidence specific to this B-side, could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 6:07.957 duration; original 2001 release restored and remastered for 2026-07-17; exact 139 BPM retailer listing; both proposed paths remain within the 0–4 BPM target.
+- **Craft:** A minimal-funk transition strengthens a long-form journey only when it changes the listener's structural state rather than adding another stage between roles that are already legible.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** The B-side may fit the playlist's aesthetic world, but its evidenced functions are already supplied by Enlightenment → F Track and Nasty Tool → Tenta Tiv.
+- **Audio evidence:** The registry remains empty. Exact-track density, phrase shape, attention demand and transition sound remain unknown beyond the attributed release description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+A foundational minimal-techno identity passed the belonging gate but still did not reveal an unoccupied function.
+
+---
+
 ## 2026-08-15 — Fresh Outward Restraint and Saturation Test
 
 **Operating mode:** `EXPLORE`
