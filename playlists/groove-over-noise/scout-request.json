@@ -1,88 +1,90 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-08-18T06:16:42Z-explore",
-  "sourceCommit": "25f2b08a11dd438505a670d11811df8e38a93cc2",
+  "runId": "2026-08-19T06:33:29Z-explore",
+  "sourceCommit": "0f9ed0fc3f89936027ab3f0647017216b16fd321",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh outward rhythmic-perspective challenge inside the existing Volume 1 tempo and narrative grammar",
-    "position": "outside the protected opening handoff, frozen Session 4 region, Iruka summit, and protected ending; placement proposed only after belonging",
+    "role": "fresh outward narrative-saturation challenge inside the existing Volume 1 tempo and sequencing grammar",
+    "position": "outside the protected Deep Under to Wurk opening handoff, frozen Session 4 region, Iruka summit, and protected ending; placement proposed only after belonging",
     "neighbours": [],
-    "purpose": "test whether documented restrained polyrhythm changes rhythmic perspective without adding another generic continuity shelf"
+    "purpose": "test whether a documented warm bass-led rhythmic colour creates a distinct early perspective rather than another generic arrival shelf"
   },
   "explorationReceipt": {
-    "timestamp": "2026-08-18T06:16:42Z",
-    "scope": "approximately 79 named track and release listings across 23 official artist, label, retailer, catalogue, and bounded-query result pages screened across all three required source families",
+    "timestamp": "2026-08-19T06:33:29Z",
+    "scope": "approximately 85 named track and release listings across 29 official artist, label, retailer, catalogue, and bounded-query result pages screened across all three required source families",
     "sourceFamilies": {
       "currentReleases": [
-        "2026-07-17 through 2026-08-18 window; approximately 31 named tracks across eight official release or retailer pages and four bounded searches",
-        "Official Amsys aM.IT Nonexistent: https://amsysrecords.bandcamp.com/album/nonexistent",
-        "Official Unrilis Yuuta Kinkaku: https://unrilis.bandcamp.com/album/kinkaku",
-        "Official Aum Recordings AUM008 VA: https://aumrecordings.bandcamp.com/album/aum008-va",
-        "Official Palinoia Eric Cloutier My Friend The Abyss: https://palinoiarecords.bandcamp.com/album/my-friend-the-abyss",
-        "Official Tronic More Than Machine 05: https://tronicmusic.bandcamp.com/album/more-than-machine-05"
+        "2026-07-03 through 2026-08-19 window; approximately 27 named tracks across eight official release pages and five bounded exact-track or release searches",
+        "Official The Third Room Curation One: Oscar Mulero: https://thethirdroom.bandcamp.com/album/curation-one-oscar-mulero",
+        "Official The Third Room release notes: https://www.thethirdroom.de/label/t3r022-curation-one-oscar-mulero.html",
+        "Official Tzunami Ashley Nield Primitive EP: https://tzunami1.bandcamp.com/album/primitive-ep",
+        "Official KR Records WHM KR079: https://ketrobinsonrecords.bandcamp.com/album/kr079",
+        "Official R&S Dino Lenny Heartbeat Changes: https://randsrecords.bandcamp.com/album/heartbeat-changes",
+        "Official Message 431 Inspired Groove Follow The Signal: https://message431.bandcamp.com/album/follow-the-signal"
       ],
       "adjacentAndEmerging": [
-        "Approximately 24 named tracks across nine official Kynant, Non Series, Crescent London, TUTU, and independent artist pages plus four bounded label searches emphasizing patient dub space, controlled broken rhythm, polyrhythm, and restrained synthetic texture",
-        "Official Non Series Scøpe Mire: https://nonseries.bandcamp.com/album/mire",
-        "Official Non Series Orbe & Psyk Temporal Rift LP: https://nonseries.bandcamp.com/album/temporal-rift-lp",
-        "Official Kynant Priori 9: https://kynantrecords.bandcamp.com/album/priori-9",
-        "Official Crescent London Floating Machine & Inerte Mato: https://crescentlondon.bandcamp.com/album/mato-crscnt31",
-        "Official TUTU Isgang Ecos: https://tutu.bandcamp.com/album/ecos"
+        "Approximately 25 named tracks across nine official Casanova Bar, IO, Techenie, Amsys, and emerging-artist pages plus four bounded label and metadata searches emphasizing patient movement, non-obvious rhythmic colour, and reduced long-form function",
+        "Official IO GLOME [2]: https://io-records.bandcamp.com/album/glome-2",
+        "IO exact catalogue metadata: https://volumo.com/label/302446-io-records",
+        "Official Casanova Bar Hannah Addams Que no te eduquen, aprende!: https://casanovabarberlin.bandcamp.com/album/que-no-te-eduquen-aprende-ep",
+        "Official Techenie Cossmann Ghost Signal EP: https://techenie-rec.bandcamp.com/album/ghost-signal-ep",
+        "Official Amsys aM.IT Nonexistent: https://amsysrecords.bandcamp.com/album/nonexistent"
       ],
       "overlookedCatalogue": [
-        "Approximately 24 named tracks across six official catalogue pages and eight bounded exact-track or metadata searches for 2021–2025 restrained polyrhythm, simplified drum states, dub space, and broken-rhythm immersion",
-        "Official Cogo Border One Contour exact-track page: https://cogo.bandcamp.com/track/contour-2",
-        "Official Cogo Various Artists VA.02 catalogue context: https://cogo.bandcamp.com/album/various-artists-va-02",
-        "Official Vakuum Confusion Vakuum EP: https://vakuum-label.bandcamp.com/album/vakuum-ep",
-        "Official Profundo Eafhm featuring Lila Language Without Alphabet: https://profundo.bandcamp.com/album/language-without-alphabet",
-        "Cogo catalogue metadata window: https://volumo.com/label/332912-cogo"
+        "Approximately 33 named tracks across twelve official Hypnus, IO, and Systolic catalogue pages plus four bounded exact-track tempo searches covering 2019 through 2024",
+        "Official Hypnus Feral Ultraviolet Radiation: https://hypnus.bandcamp.com/album/ultraviolet-radiation",
+        "Official Hypnus Wa Wu We exact-track window: https://hypnus.bandcamp.com/track/into-a-dance-of-the-early-morning-fog",
+        "Official IO Sphere Vol. 3: https://io-records.bandcamp.com/album/sphere-vol-3-2",
+        "Official IO Ground Work: https://io-records.bandcamp.com/album/ground-work",
+        "Official IO GLOME [1]: https://io-records.bandcamp.com/album/glome-1",
+        "Official Systolic Inherent Axis: https://systoliclabel.bandcamp.com/album/axis"
       ]
     },
     "exclusions": [
-      "Every lead and candidate in prior immutable requests through 2026-08-17 was excluded, together with all 26 canonical identities, durable rejected entries, frozen Session 4 material, protected Deep Under → Wurk opening handoff, Iruka summit, protected ending, and untriggered PARKED entries.",
-      "Current-release aM.IT and Yuuta material was excluded where official descriptions foregrounded hard, fast-paced, dramatic, suspenseful, vocal, acid, or jackin' impact rather than restraint and continuity.",
-      "AUM008 VA and More Than Machine 05 material was excluded because the available evidence was compilation- or label-level, not sufficient to distinguish exact-track belonging; electro, house, vocal, and peak-time entries were also outside the present canonical function.",
-      "Eric Cloutier's documented broken-rhythm and dub-wise tracks were excluded after exact retailer tempos of 84, 123, and 133 BPM left no lawful unprotected placement without splitting the opening pair; no double-time reinterpretation was invented.",
-      "Scøpe, Orbe & Psyk, Priori, Floating Machine & Inerte, Isgang, Confusion, and Eafhm material was excluded where descriptions remained release-level, vocals or dramatic/broken behaviour left continuity uncertain, exact BPM was unsupported, or measured tempos left no lawful non-frozen path.",
-      "Border One — Contour (Tonske Remix), Jeroen Search — Observer, ORBE — Wolheim, and Tonske — Droid were excluded to avoid padding: only Contour's original mix had both exact-track restrained-polyrhythm evidence and a concrete legal placement relevant to today's search intent.",
+      "Every lead and candidate in prior immutable requests through 2026-08-18 was excluded, together with all 26 canonical identities, durable rejected entries, frozen Session 4 material, protected Deep Under to Wurk opening handoff, Iruka summit, protected ending, and untriggered PARKED entries.",
+      "The Third Room Curation One tracks were strong belonging evidence but excluded before resolution because no reliable exact-track tempo source was found; artist stature, release recency, and constitution-like copy were not allowed to substitute for a lawful neighbour test.",
+      "Ashley Nield, Hannah Addams, aM.IT, WHM, Inspired Groove, and Dino Lenny material was excluded where available descriptions foregrounded peak-time drive, raw intensity, pressure, pummelling kicks, vocals, explicit impact, or release-level qualities that could not establish exact-track restraint.",
+      "Cossmann and other dub-oriented material was excluded where exact BPM remained unsupported or the evidence stayed release-level rather than distinguishing an individual track and a non-frozen placement.",
+      "Tenzia Soft Push was excluded at 150 BPM; Mordio C7RT was excluded because relentless drive and 140 BPM duplicated occupied pressure functions; Vanta Subkutan was excluded at 77 BPM. Mitra Hush alone retained exact-track role language and a lawful early path.",
+      "Overlooked Feral material at 126 BPM would require altering the protected ending, while Dycide and Polygonia Elasticity at 95 BPM and the remaining Hypnus, IO, and Systolic material lacked either exact-track role evidence or a lawful non-protected placement.",
       "No lead was admitted for novelty, release recency, popularity, duration, BPM, key, artist reputation, label reputation, or quota completion."
     ],
     "rankedResolutionLeads": [
-      "Border One — Contour"
+      "Mitra — Hush"
     ],
-    "evidenceLimit": "Official exact-track description plus exact retailer identity, duration, and tempo metadata only; no Spotify audio analysis, no raw-audio measurement, and no candidate-specific listener report."
+    "evidenceLimit": "Official release-level description explicitly naming Hush plus exact retailer identity, duration, tempo, and ISRC metadata only; no Spotify audio analysis, no raw-audio measurement, and no candidate-specific listener report."
   },
   "leads": [
     {
-      "artist": "Border One",
-      "track": "Contour",
-      "album": "Various Artists - VA.02",
-      "releaseDate": "2024-06-07",
-      "bpm": 136,
-      "bpmSource": "Volumo Cogo catalogue exact-track listing: https://volumo.com/label/332912-cogo",
-      "discoverySource": "Official Cogo exact-track page: https://cogo.bandcamp.com/track/contour-2",
+      "artist": "Mitra",
+      "track": "Hush",
+      "album": "GLOME [ 2 ]",
+      "releaseDate": "2026-04-23",
+      "bpm": 137,
+      "bpmSource": "Volumo IO-Records exact-track listing: https://volumo.com/track/6115428-hush",
+      "discoverySource": "Official IO GLOME [2] release page: https://io-records.bandcamp.com/album/glome-2",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Wurk and before Deprogramation 2",
           "incomingBpm": 136,
-          "candidateBpm": 136,
+          "candidateBpm": 137,
           "outgoingBpm": 137,
-          "role": "restrained polyrhythmic perspective shift after the protected opening handoff"
+          "role": "warm bass-led colour shift after the protected opening handoff"
         }
       ],
-      "fitHypothesis": "Cogo's official exact-track note describes polyrhythmic ideas evolving into a simplified, restrained drum state and a large immersive environment; at 136 BPM the original mix can be tested after the protected Deep Under → Wurk pair without splitting it, but whether that perspective shift earns a distinct early function rather than extending NX1's arrival shelf remains unknown.",
+      "fitHypothesis": "IO's release note explicitly describes Hush as opening with bass-heavy, bubbly textures and a warm, energetic tone; at 137 BPM it can be tested only after the protected Deep Under to Wurk handoff as a possible early colour shift, but whether that warmth and bass movement create a distinct perspective rather than duplicate Deprogramation 2's arrival groove-lock shelf remains unknown.",
       "evidence": {
         "measured": [
-          "5:52 duration on the official Cogo page and exact Volumo listing",
-          "released 2024-06-07 on Cogo as part of Various Artists - VA.02",
-          "136 BPM on the exact Volumo Cogo catalogue listing",
-          "proposed path 136 → 136 → 137 remains within the 0–4 BPM target and begins only after the protected opening handoff"
+          "5:11 duration on the official IO page and exact Volumo listing",
+          "released 2026-04-23 on IO-Records as part of GLOME [ 2 ]",
+          "137 BPM and ISRC NLCK42604560 on the exact Volumo track listing",
+          "proposed path 136 to 137 to 137 remains within the 0 to 4 BPM target and begins only after the protected opening handoff"
         ],
-        "attributedDescription": "Cogo's official exact-track notes describe Contour as continuing a minimalistic aesthetic through polyrhythmic ideas and evolving dissociative synths, culminating in a simplified and restrained drum track that opens a large immersive sonic environment.",
+        "attributedDescription": "IO's official release note explicitly says the A-side opens with Mitra's Hush and describes its bass-heavy, bubbly textures as setting a warm, energetic tone.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "A restrained polyrhythmic stage may change bodily perspective without spectacle, but it earns a canonical slot only if that change is structurally distinct from the existing arrival pulse and early groove-development shelves."
+        "craftConvention": "A bounded change in bass colour after a protected opening handoff can establish a new bodily perspective without spectacle, but it earns a canonical slot only if it is functionally distinct from the existing arrival and first-wave shelves."
       }
     }
   ]
