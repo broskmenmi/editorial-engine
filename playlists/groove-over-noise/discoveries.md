@@ -1,5 +1,63 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-19 — Fresh Outward Narrative-Saturation Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-19T06:33:29Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 85 named track and release listings across 29 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered current releases, adjacent and emerging artists and labels, and overlooked catalogue material while testing whether a warm bass-led rhythmic colour could reveal a genuinely different early perspective inside the existing Volume 1 tempo and sequencing grammar.
+- Excluded every prior immutable lead through August 18, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending, and frozen Session 4 region.
+- The Third Room's current Curation One release supplied strong constitution-level belonging language, but its tracks were excluded because no reliable exact-track BPM source was found. Peak-time, forceful, vocal, or release-level-only material was excluded before Spotify resolution rather than padded into the request.
+- Overlooked Feral material at 126 BPM could only approach the protected ending; Dycide and Polygonia — Elasticity at 95 BPM and other catalogue material lacked either a lawful non-protected placement or exact-track role evidence.
+- Submitted one honest lead without padding. Spotify resolved Mitra — Hush exactly with no warnings, unresolved identities, duplicates or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected. Its canonical request fingerprint matches the frozen schema-v2 request.
+- Used exact identity, duration, verified retailer BPM and attributed official release text only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Hush
+- **Artist:** Mitra
+- **Spotify:** spotify:track:6AG1Tv6tkPMYnA7xrB94KT
+- **BPM:** 137
+- **Duration:** 5:11
+- **Playlist belonging:** `BELONGS — provisional`. IO's official release note explicitly names Hush and describes bass-heavy, bubbly textures setting a warm, energetic tone. This is attributed source evidence, not direct listening or Spotify audio analysis.
+- **Placement 1:** After Wurk and before Deprogramation 2 creates 136 → 137 → 137. It is numerically compliant but `INCOMPATIBLE`: Deprogramation 2 already supplies the opening groove-lock shelf, so Hush repeats the same arrival job immediately after the protected handoff.
+- **Placement 2:** After Deprogramation 2 and before Ottagone 001 creates 137 → 137 → 138. It is numerically compliant but `INCOMPATIBLE`: the extra warm bass-led stage lengthens the settled arrival before Ottagone's existing opening bridge without an evidenced structural change.
+- **Placement 3:** After AB01 and before Flowing creates 136 → 137 → 138. It is numerically compliant but `INCOMPATIBLE`: AB01 already extends the second-wave release and Flowing already supplies the third-wave threshold, so another rhythmic-colour step repeats a complete boundary.
+- **Reason:** The candidate plausibly belongs, but colour difference alone is not a new journey function. All three lawful placements extend roles already occupied by Deprogramation 2, Ottagone 001 or Flowing.
+- **Scope:** This is not a permanent artistic rejection. A materially changed arrival or middle-journey structure, or new lawful exact-track evidence establishing a distinct function, could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 5:11 duration; release date 2026-04-23; exact 137 BPM and ISRC NLCK42604560 from the retailer listing; all three tested paths remain within the 0–4 BPM target.
+- **Craft:** A change in bass colour strengthens a long-form journey only when it changes the structural state rather than adding another stage between already legible roles.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Hush may fit the playlist's aesthetic world, but the current evidence supports texture and tone rather than an unoccupied narrative function.
+- **Audio evidence:** The registry remains empty. Exact-track density, phrase shape, attention demand and transition sound remain unknown beyond the attributed release description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+A new colour still needs a new function; Hush found neither inside the current journey.
+
+---
+
 ## 2026-08-17 — Fresh Outward Minimal-Funk Saturation Challenge
 
 **Operating mode:** `EXPLORE`
