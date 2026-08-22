@@ -1,5 +1,62 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-22 — Fresh Outward Negative-Space Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-22T06:48:00Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 63 named track and release listings across 22 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered August 2026 current releases, adjacent and emerging independent labels, and February–July 2026 overlooked catalogue material while testing sparse percussion, micro-timing, fractured rhythm and negative space rather than another generic hypnotic-development function.
+- Excluded every prior immutable lead through August 20, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending and frozen Session 4 region.
+- Alex Milya — Groove and Centeno — Caso Apartado lacked track-specific behavioural evidence; Marwan's Troebel Water had useful exact-track descriptions but no reliable exact BPM; Dawn Razor and ArcheTech lacked a sufficiently specific restrained placement; Oran Ray — UseMe is documented as dense liquid atmospheric jungle outside the current grammar.
+- Submitted one honest lead without padding. Spotify resolved Stanislav Tolkachev — Drift C exactly with no warnings, unresolved identities, duplicates or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected. Its canonical fingerprint matches the frozen schema-v2 request, and its 2026-08-22T06:50:44.455Z generation time follows the 2026-08-22T06:48:00Z exploration receipt.
+- Used exact identity, duration, official exact-track BPM and attributed exact-track release text only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Drift C
+- **Artist:** Stanislav Tolkachev
+- **Spotify:** spotify:track:4RIx37vtGnlH1bEQe18u4N
+- **BPM:** 140
+- **Duration:** 5:09.041
+- **Playlist belonging:** `BELONGS — provisional`. Furatena's exact-track note describes a cavernous, relentlessly repetitive 140 BPM construction without hi-hats and with a stripped percussive core that locks in. This supports reduction, repetition and patience as an attributed hypothesis, not direct listening or Spotify audio analysis. The same description's “floorless” quality leaves bodily continuity uncertain.
+- **Placement 1:** After F Track and before Octagon creates 140 → 140 → 141. It is numerically compliant but `INCOMPATIBLE`: F Track already performs second-wave re-entry and Octagon already owns the long-form reduction and immersion chamber. An intervening negative-space latch would lengthen that handoff without an evidenced distinct state and could weaken re-entry before the chamber.
+- **Placement 2:** After Hourly and before Miss Perez creates 140 → 140 → 142. It is numerically compliant but `INCOMPATIBLE`: Hourly already supplies rhythm-led first-wave development and Miss Perez already begins the direct rise. A second 140 BPM stripped shelf delays that progression without evidence that suspension is a new function.
+- **Broader position check:** Other 140 BPM non-protected placements either repeat Enlightenment → F Track's post-crest bridge and re-entry, extend Octagon's chamber, or reverse an established release. The frozen summit-exit region and protected ending were not tested.
+- **Reason:** Exact-track evidence makes the candidate more specific than recent generic hypnosis leads, but neither lawful placement reveals an unoccupied job. A different rhythmic colour is not enough to justify another stage.
+- **Scope:** This is not a permanent artistic rejection. A materially changed first- or second-wave structure, or new lawful evidence showing that its floorless pulse creates a distinct continuous state, could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 5:09.041 duration; release date 2026-07-03; official exact-track 140 BPM; both proposed paths remain within the 0–4 BPM target.
+- **Craft:** Negative space strengthens a long-form journey only when it changes the structural state without interrupting bodily continuity or duplicating the surrounding development and immersion roles.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Drift C may fit the playlist's aesthetic world, but the present structure already expresses the two functions its available evidence supports.
+- **Audio evidence:** The registry remains empty. Kick presence, rhythmic density, phrase shape, attention demand and transition sound remain unknown beyond the attributed exact-track description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. Lane selection, fresh-scan coverage, immutable fingerprint, chronology, exact identity, evidence separation and both placement gates pass. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Drift C brought sharper evidence, but its negative space still landed inside functions the journey already owns.
+
+---
+
 ## 2026-08-19 — Fresh Outward Narrative-Saturation Challenge
 
 **Operating mode:** `EXPLORE`
