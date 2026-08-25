@@ -1,5 +1,63 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-25 — Fresh Outward Low-Pressure Asymmetry Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-25T07:03:30Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 82 named track and release listings across 25 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered August 2026 current releases, adjacent and emerging independent ecosystems, and late-2025 through July-2026 overlooked catalogue while testing lurching shuffle, understated microtiming, restrained syncopation and low-pressure asymmetry rather than another generic hypnotic-development function.
+- Excluded every prior immutable lead through August 22, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending and frozen Session 4 region.
+- Current A.Morgan material foregrounded pummeling rhythm, vocal pressure or destabilization; Avraxas — Orgánico supplied one exact 133 BPM listing but no exact-track behavioural evidence; Franco Rossi's current Clergy split supplied exact 135–140 BPM identities but no track-specific behavioural evidence. None was padded into resolution.
+- Flux Rope, The Witching Hour and Infinity were excluded because their attributed heavy toms, fizzing hats, upward pads, driving beats or weaving arpeggios did not support a clearer low-pressure function than Marauder.
+- Submitted one honest lead. Spotify resolved Inigo Kennedy — Marauder exactly with no warnings, unresolved identities, duplicates, substitutions or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected. Its canonical request fingerprint matches the frozen schema-v2 request. Chronology is valid: the 2026-08-25T07:03:30Z receipt precedes the 07:04:06Z request commit and 07:04:15.848Z snapshot.
+- Used exact identity, duration, official attributed exact-track behaviour and conflicting exact tempo metadata only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Marauder
+- **Artist:** Inigo Kennedy
+- **Spotify:** spotify:track:4YhLd9gtkp0vLWu4RNJ716
+- **BPM:** 136 working grid; exact metadata also reports 68
+- **Duration:** 7:10.111
+- **Playlist belonging:** `BELONGS — provisional`. Asymmetric's exact-track description says Marauder keeps a four-to-the-floor feel while lurching, with shuffling hats, bleep-style bass and an ice-cold pad entering as it evolves. This supports a groove-led asymmetry hypothesis, not direct listening or Spotify audio analysis. The bass and pad may demand more attention than the source language establishes.
+- **Placement 1:** After AB01 and before Flowing creates a provisional perceived-pulse path of 136 → 136 → 138. It is numerically compliant on the 136 grid but `INCOMPATIBLE`: AB01 already extends the second-wave release and Flowing already supplies the third-wave psychological threshold. A lurching shuffle pivot adds another stage to a complete boundary without an evidenced new state.
+- **Placement 2:** After Bionic Jungle and before AB01 creates a provisional perceived-pulse path of 137 → 136 → 136. It is numerically compliant on the 136 grid but `INCOMPATIBLE`: Bionic Jungle already performs second-wave release and AB01 already extends it. An intervening lateral step lengthens that release rather than establishing a distinct function.
+- **Broader position check:** Other non-protected 136 BPM placements extend the provisional opening shelf, create a down-up detour before an established arrival, or repeat the post-crest bridge. The frozen summit-exit region, Iruka summit and protected ending were not tested.
+- **Reason:** The candidate introduces a better-evidenced gait difference, but neither lawful placement reveals an unoccupied job. Numerical smoothness and rhythmic colour do not justify an extra release stage.
+- **Scope:** This is not a permanent artistic rejection. A materially changed middle-journey structure or new lawful evidence establishing that the lurch creates a distinct continuous state could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 7:10.111 duration; release date 2026-02-13; exact sources report 68 and 136 BPM in a strict 2:1 relationship; both proposed paths remain within the 0–4 BPM target only on the 136 perceived-pulse grid.
+- **Craft:** A gait change strengthens a long-form journey only when it changes the structural state without duplicating the surrounding release or threshold.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Marauder may fit the playlist's aesthetic world, but its evidenced function is already supplied by Bionic Jungle → AB01 → Flowing.
+- **Audio evidence:** The registry remains empty. Perceived pulse, kick relation, density, phrase shape, attention demand and transition sound remain unknown beyond the attributed description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. Lane selection, fresh-scan coverage, immutable fingerprint, chronology, exact identity, evidence separation and both placement gates pass. The 68/136 variance remains explicit and no sonic verdict was inferred from it. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Marauder changed the gait, not the journey's available function.
+
+---
+
 ## 2026-08-22 — Fresh Outward Negative-Space Challenge
 
 **Operating mode:** `EXPLORE`
