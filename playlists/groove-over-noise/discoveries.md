@@ -1,5 +1,77 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-26 — Fresh Outward Gradual-Mutation Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-26T06:58:27Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 76 named track and release listings across 24 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered August 2026 current releases, adjacent and emerging independent ecosystems, and late-2025 through July-2026 overlooked catalogue while testing sustained low-intensity tension, gradual internal mutation, subtle swing and peakless forward motion.
+- Excluded every prior immutable lead through August 25, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending and frozen Session 4 region.
+- Current A.Morgan, KUSS and Message 431 material stopped before resolution where exact descriptions foregrounded pummeling rhythm, vocals, metallic mass, dense distortion, heavy low-end or physical pressure. Vakat Legato and POL// Stellar supplied relevant release-level language but insufficient exact-track behavioural distinction.
+- Submitted two honest leads without padding. Spotify resolved Oscar Mulero — Sonic Synergy and IGLO — Alive exactly, with no unresolved identities, duplicates, substitutions or alternates.
+- The matching snapshot is `COMPLETE`: two requested, two resolved and selected. Its canonical request fingerprint matches the frozen schema-v2 request. Chronology is valid: the 2026-08-26T06:58:27Z receipt precedes the 06:59:21Z request commit and 06:59:32.468Z snapshot.
+- Preserved one resolver warning: Sonic Synergy's requested album `Curation 01: Oscar Mulero` and release date 2026-08-07 differ from Spotify's `Curation One: Oscar Mulero` and 2026-08-14.
+- Used exact identities, durations, attributed exact-track behaviour and external tempo metadata only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Sonic Synergy
+- **Artist:** Oscar Mulero
+- **Spotify:** spotify:track:6eH9THqxr5yGxAAdzXOJbm
+- **BPM:** 135
+- **Duration:** 5:55.755
+- **Playlist belonging:** `BELONGS — provisional`. The Third Room describes Sonic Synergy as restrained, dub-influenced and immersive, built on warm low-end and gradual development. This supports a constitution-aligned hypothesis, not direct listening or Spotify audio analysis.
+- **Placement 1:** After Wurk and before Deprogramation 2 creates 136 → 135 → 137. It is numerically compliant but `INCOMPATIBLE`: Wurk already establishes movement and Deprogramation 2 already supplies the provisional groove-lock shelf. Another gradual stage lengthens the arrival and introduces a down-up detour without a distinct state.
+- **Placement 2:** After Bionic Jungle and before AB01 creates 137 → 135 → 136. It is numerically compliant but `INCOMPATIBLE`: Bionic Jungle already performs second-wave release and AB01 already extends it. Another controlled mutation repeats that complete function.
+- **Broader position check:** Other non-protected 135 BPM placements extend the opening shelf, repeat AB01 → Flowing's release-to-threshold boundary, or add a down-up detour before an established arrival. The frozen summit-exit region, Iruka summit and protected ending were not tested.
+- **Reason:** The candidate plausibly belongs, but gradual development remains an occupied function.
+- **Scope:** This is not a permanent artistic rejection. A materially changed arrival or middle-release structure could create a different role.
+
+### REJECT — current journey only
+
+- **Track:** Alive
+- **Artist:** IGLO
+- **Spotify:** spotify:track:0MmaQ3p8j4x65ATx9pdwYO
+- **BPM:** 141
+- **Duration:** 6:16
+- **Playlist belonging:** `BELONGS — provisional`. Figure describes Alive as open and flowing, with warmer tonal elements and subtle swing softening the edges while the groove remains anchored and forward-moving. This supports a belonging hypothesis, not direct listening or Spotify audio analysis. Exact attention demand remains unknown.
+- **Placement 1:** After F Track and before Octagon creates 140 → 141 → 141. It is numerically compliant but `INCOMPATIBLE`: F Track already performs second-wave re-entry and Octagon already opens the long-form immersion chamber. Alive adds another hinge to a complete transition.
+- **Placement 2:** After Hourly and before Miss Perez creates 140 → 141 → 142. It is numerically compliant but `INCOMPATIBLE`: Hourly already supplies first-wave development and Miss Perez already begins the direct rise. Another subtle lift delays rather than changes that progression.
+- **Broader position check:** Other legal non-protected 141 BPM positions extend Octagon's chamber, duplicate the first-wave release hinge, repeat the post-crest re-entry, or create unnecessary up-down motion. The frozen summit-exit region, Iruka summit and protected ending were not tested.
+- **Reason:** Both legal placements duplicate established development or immersion handoffs.
+- **Scope:** This is not a permanent artistic rejection. A materially changed first- or second-wave structure could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** Two exact Spotify identities; 135 and 141 BPM; durations 5:55.755 and 6:16; every proposed path remains within the 0–4 BPM target; one album and release-date warning is preserved.
+- **Craft:** Gradual mutation or subtle swing strengthens the journey only when it creates a new structural state rather than inserting another stage between already legible roles.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Both tracks may fit the playlist's aesthetic world, but the functions their descriptions support are already supplied by the current opening, release, development and immersion handoffs.
+- **Audio evidence:** The registry remains empty. Density, phrase shape, tonal prominence, perceived pressure, attention demand and transition sound remain unknown beyond attributed descriptions.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved two durable current-journey rejections and no canonical change. Lane selection, fresh-scan coverage, immutable fingerprint, chronology, identity uniqueness, warning preservation, evidence separation and all four proposed placement gates pass. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Two well-evidenced mutations still landed inside functions the journey already owns.
+
+---
+
 ## 2026-08-25 — Fresh Outward Low-Pressure Asymmetry Challenge
 
 **Operating mode:** `EXPLORE`
