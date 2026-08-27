@@ -1,5 +1,63 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-27 — Fresh Outward Polymetric-Perspective Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-27T07:01:41Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 83 named track and release listings across 27 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered August 21–27 current releases, adjacent and emerging independent ecosystems, and 2023 through mid-2026 overlooked catalogue while testing off-beat groove, subtraction, negative space, polymetric motion and quiet rhythmic instability.
+- Excluded every prior immutable lead through August 26, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending and frozen Session 4 region.
+- Current C-poch and Vadzilla material foregrounded peak-hour force, relentless cuts, a male voice or physical weight. Chizawa Q, OOO and Erro supplied only release- or genre-level framing. DF90's documented subtle material was mostly 108 BPM, while its 141 BPM track lacked exact-track behavioural evidence.
+- MSTRBLSTR — Pattern Clear Pattern Write supplied precise polymetric evidence but its exact 124 BPM has no lawful non-protected path. Kiefer Ian — Mysterious Club Tool lacked reliable exact BPM. Scott Avery — System Drift remained unchanged prior evidence without exact BPM. None was padded into resolution.
+- Submitted one honest lead. Spotify verified Sevish — Mystify exactly from the supplied public ID, with no warnings, unresolved identities, duplicates, substitutions or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected. Its canonical request fingerprint matches the frozen schema-v2 request. Chronology is valid: the 2026-08-27T07:01:41Z receipt precedes the 07:04:22Z request commit and 07:04:32.179Z snapshot.
+- Used exact identity, duration, artist-authored exact-track framing and declared tempo only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Mystify
+- **Artist:** Sevish
+- **Spotify:** spotify:track:7sHN0QPVxD7NjkSCH6NTZi
+- **BPM:** 140
+- **Duration:** 16:31.071
+- **Playlist belonging:** `UNCERTAIN`. The artist identifies the track as raw, deep and hypnotic polymetric techno and documents 43-tone equal temperament. That establishes a different rhythmic and tuning construction, but it does not establish restraint, low attention demand or bodily continuity. The artist's broader description of unconventional but approachable music is not direct listener or audio evidence for this exact playlist.
+- **Placement 1:** After Enlightenment and before F Track creates 139 → 140 → 140. It is numerically compliant but `INCOMPATIBLE`: Enlightenment already preserves the post-crest pulse and F Track already performs second-wave re-entry. A 16:31 polymetric perspective stage lengthens that complete handoff without evidence that it changes the journey rather than restarts attention.
+- **Placement 2:** After F Track and before Octagon creates 140 → 140 → 141. It is numerically compliant but `INCOMPATIBLE`: F Track already re-enters and Octagon already supplies a 12:57 immersion chamber. Adding another 16:31 stage creates a double chamber before Tragoidia instead of a distinct transition.
+- **Broader position check:** Other lawful non-protected 140 BPM positions repeat Hourly's first-wave development, Blind Spot's crest release, or the established Bionic Jungle → AB01 second-wave release. The protected opening, frozen summit-exit region, Iruka summit and protected ending were not tested.
+- **Reason:** The construction is distinct, but no current function is.
+- **Scope:** This is not a permanent artistic rejection. A materially changed chapter grammar or lawful audio/listener evidence establishing low-attention polymetric continuity could justify reconsideration.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 140 BPM; 16:31.071 duration; both proposed paths remain within the 0–4 BPM target; no resolver warnings or alternates.
+- **Craft:** An unusual meter or tuning strengthens the journey only when it changes the structural state while preserving bodily and attentional continuity; novelty alone is not a role.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Mystify may offer a genuinely different rhythmic perspective, but available evidence does not show that this difference belongs in Volume 1 or improves either tested handoff.
+- **Audio evidence:** The registry remains empty. Perceived meter, density, phrase shape, tonal prominence, bodily lock and attention demand remain unknown beyond the artist's description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. Lane selection, fresh-scan coverage, immutable fingerprint, chronology, exact identity, evidence separation and both proposed placement gates pass. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Mystify changed the meter, but not the journey's available function.
+
+---
+
 ## 2026-08-26 — Fresh Outward Gradual-Mutation Challenge
 
 **Operating mode:** `EXPLORE`
