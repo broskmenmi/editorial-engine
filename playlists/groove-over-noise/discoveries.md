@@ -1,5 +1,62 @@
 # GROOVE OVER NOISE — Discovery Log
 
+## 2026-08-30 — Fresh Outward Quiet-Instability Challenge
+
+**Operating mode:** `EXPLORE`
+
+**Candidate snapshot:** `2026-08-30T06:11:54Z-explore`
+
+### Fresh exploration and resolution receipt
+
+- Screened approximately 61 named track and release listings across 21 official artist, label, retailer, catalogue and bounded-query result pages.
+- Covered August 29–30 current releases, adjacent and emerging independent ecosystems, and 2024 through mid-2026 overlooked catalogue while testing quiet insistence, understated rhythmic change, subtle instability, percussive repetition and low-attention groove.
+- Excluded every prior immutable lead through August 29, all 26 canonical identities, durable rejected entries, untriggered PARKED entries, the protected Deep Under → Wurk handoff, Iruka summit, protected ending and frozen Session 4 region.
+- Same-day Olsvanger material foregrounded hyper-kinetic, melodic, vocal and breakbeat behaviour; Anna Reusch supplied no exact-track behavioural evidence. John Ov3rblast — Dunes, AMPLIFIED BY NIGHT — Flamingo and Ron Flatter — Ikarus supplied relevant descriptions but their exact 152, 130 and 124 BPM placements are lawful only outside the current non-protected grammar. None was padded into resolution.
+- Submitted one honest lead. Spotify verified Aaron Schwarz — Some Letters exactly, with no warnings, unresolved identities, duplicates, substitutions or alternates.
+- The matching snapshot is `COMPLETE`: one requested, one resolved and selected. Its canonical request fingerprint matches the frozen schema-v2 request. Chronology is valid: the 2026-08-30T06:11:54Z receipt precedes the 06:12:56Z request commit and 06:13:05.261Z snapshot.
+- Used exact identity, duration, attributed exact-track behaviour and external tempo metadata only. No Spotify audio analysis, lawful audio measurement or candidate-specific listener evidence exists.
+
+### REJECT — current journey only
+
+- **Track:** Some Letters
+- **Artist:** Aaron Schwarz
+- **Spotify:** spotify:track:5w6iz8tYxh77iPm6YdeMC2
+- **BPM:** 137
+- **Duration:** 6:51.535
+- **Playlist belonging:** `BELONGS — provisional`. Ucker describes percussive fragments repeating with quiet insistence, subtle instability and hypnotic drift. That supports patience, repetition and controlled change inside the constitution, while the described restlessness leaves exact attention continuity unknown.
+- **Placement 1:** After Wurk and before Deprogramation 2 creates 136 → 137 → 137. It is numerically compliant but `INCOMPATIBLE`: Wurk already establishes movement and Deprogramation 2 already supplies the opening groove-lock shelf. Another subtle-instability stage lengthens that complete arrival function without creating a new state.
+- **Placement 2:** After Bionic Jungle and before AB01 creates 137 → 137 → 136. It is numerically compliant but `INCOMPATIBLE`: Bionic Jungle already performs second-wave release and AB01 already extends it. A memory-loop perspective adds another shelf inside a completed descent.
+- **Broader position check:** Other lawful non-protected 137 BPM positions repeat Deprogramation 2's opening shelf, Blind Spot and Bionic Jungle's release stages, or the AB01 → Flowing threshold boundary. Positions near the summit either disturb its direct approach or touch the frozen discussion region; the protected ending was not tested.
+- **Reason:** The candidate belongs provisionally, but every lawful role is occupied.
+- **Scope:** This is not a permanent artistic rejection. A materially changed arrival, release or threshold structure could create a distinct role.
+
+### Evidence map
+
+- **Measured:** One exact Spotify identity; 137 BPM; 6:51.535 duration; both proposed paths remain within the 0–4 BPM target; no resolver warnings or alternates; retailer release date 2026-04-27 and official Bandcamp publication date 2026-04-29 are preserved.
+- **Craft:** Subtle instability strengthens the journey only when it changes the structural state while preserving bodily and attentional continuity; a different texture alone is not a new stage.
+- **Listener:** No candidate-specific listener report exists. The Session 4 discussion remains frozen and untouched.
+- **Interpretation:** Some Letters plausibly fits the playlist's aesthetic world, but its supported jobs are already performed by the opening groove-lock shelf and second-wave release.
+- **Audio evidence:** The registry remains empty. Perceived pulse, density, phrase shape, texture prominence, bodily lock and attention demand remain unknown beyond the label's description.
+- **Live-mixing boundary:** No performance edge was inferred or added.
+
+### Audit result
+
+Approved one durable current-journey rejection and no canonical change. Lane selection, fresh-scan coverage, immutable fingerprint, chronology, exact identity, evidence separation, both proposed placement gates and the broader non-frozen position check pass. No addition, removal, replacement or reorder was approved. The 26-track ledger, all 25 compliant BPM transitions, protected opening, frozen summit-exit region, dominant summit and protected ending remain unchanged.
+
+### Ledger change
+
+None. The canonical ledger remains 26 tracks in the same order.
+
+### Journey annotation change
+
+None. No canonical track, chapter, protected state, provisional state or frozen state changed.
+
+### Editorial note
+
+Some Letters looped quietly, but only inside functions the journey already owns.
+
+---
+
 ## 2026-08-27 — Fresh Outward Polymetric-Perspective Challenge
 
 **Operating mode:** `EXPLORE`
