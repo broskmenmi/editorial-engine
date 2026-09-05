@@ -9,18 +9,19 @@
 | 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — lurching 4/4 trust anchor | 2026-09-05 |
 | 2 | Aaron Schwarz | Some Letters | spotify:track:5w6iz8tYxh77iPm6YdeMC2 | 137 | ADD | Ground extension — quiet instability | 2026-09-05 |
 | 3 | IGLO | Alive | spotify:track:0MmaQ3p8j4x65ATx9pdwYO | 141 | ADD | Tilt — subtle swing, anchored flow | 2026-09-05 |
+| 4 | Stanislav Tolkachev | Drift C | spotify:track:79X0clB7D8ESeyiDre340a | 140 | ADD | Lock — floorless stripped-percussion repetition | 2026-09-05 |
 
 ## Current state
 
-**BOOTSTRAP BASELINE COMPLETE — 3 canonical tracks.**
+**4 canonical tracks — Ground → Tilt → Lock established.**
 
-Marauder establishes a lurching physical frame; Some Letters changes the deformation mechanism to quiet instability; Alive makes the first explicit Tilt through source-described subtle swing while remaining firmly anchored and forward-moving.
+Marauder establishes bodily trust; Some Letters shifts to quiet instability; Alive makes the first explicit Tilt through subtle swing; Drift C removes hi-hats/floor cues while source-described relentless repetition stabilizes the altered grammar into Lock.
 
-Normal sequencing now applies where both neighbours exist. No track is protected yet.
+No track or handoff is protected yet.
 
-## Next structural need
+## Next structural opportunity
 
-After Tilt, the journey needs a **Lock**: a track that makes the altered gait feel natural through repetition or bodily coherence rather than escalating spectacle.
+With a canonical Lock now present, the parked Mystify revisit condition is satisfied again. The next run should pre-audit Mystify against the concrete Drift C neighbour before normal exploration.
 
 ## Target story
 
