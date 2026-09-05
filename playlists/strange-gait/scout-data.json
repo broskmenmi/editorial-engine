@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 2,
+  "requestFingerprint": "dc7000bdc529b24c1447e14fb933cdc3b495359c0819f61b104a95f10aa6af94",
+  "generatedAt": "2026-09-05T14:30:40.468Z",
+  "runId": "2026-09-05T14:29:48Z-explore-recovery",
+  "sourceCommit": "b41fdeb177f9d55a630ab33e7f3a3f2f053a8594",
+  "mode": "EXPLORE",
+  "target": {
+    "role": "bootstrap STRANGE GAIT opener that establishes bodily trust while making the crooked rhythmic grammar audible immediately",
+    "position": "bootstrap opener — track 1 in empty ledger",
+    "neighbours": [],
+    "purpose": "establish Ground without spending Tilt or turning rhythmic complexity into spectacle"
+  },
+  "explorationReceipt": {
+    "timestampUtc": "2026-09-05T14:26:48Z",
+    "sourceWindows": [
+      "Current and recent 2026 raw/deep/hypnotic techno releases with track-specific swing, lurch, syncopation, organic percussion or displaced-pulse evidence",
+      "Adjacent artist/label catalogues around Asymmetric, microtonal/polymetric techno, broken four-to-the-floor and mechanically human groove",
+      "Overlooked 2025–2026 catalogue previously incompatible with GROOVE OVER NOISE but freshly re-evidenced from official artist/label sources under the STRANGE GAIT constitution",
+      "Official Inigo Kennedy / Asymmetric Flux Rope release: https://inigokennedy.bandcamp.com/album/flux-rope",
+      "Exact Marauder metadata: https://www.shazam.com/song/1871676537/marauder and https://www.beatport.com/track/marauder/23756013",
+      "Official Sevish Mystify track: https://sevish.bandcamp.com/track/mystify"
+    ],
+    "approximateInspectedScope": "approximately 60 named tracks/releases across roughly 20 official artist, label, retailer and bounded-search result pages",
+    "exclusions": [
+      "industrial or peak-time impact as the primary argument",
+      "hardgroove cliché or ornamental tribal percussion",
+      "IDM/glitch complexity whose main effect is technical display",
+      "melodic or vocal dominance",
+      "straight functional techno with no evidenced gait deformation",
+      "tracks lacking enough exact identity/tempo/behaviour evidence to support the bootstrap opener gate"
+    ],
+    "rankedLeadSummary": [
+      "1. Inigo Kennedy — Marauder: lurching four-to-the-floor, shuffled hats and bleep bass make crookedness bodily first",
+      "2. Sevish — Mystify: explicit 140 BPM polymetric techno with strong identity but higher complexity-as-spectacle risk"
+    ]
+  },
+  "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
+  "requestedCount": 2,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Inigo Kennedy",
+        "track": "Marauder",
+        "album": "Flux Rope",
+        "releaseDate": "2026-02-13",
+        "bpm": 136,
+        "bpmSource": "Shazam exact track metadata reports 136 BPM (https://www.shazam.com/song/1871676537/marauder); Beatport exact track metadata reports 68 BPM (https://www.beatport.com/track/marauder/23756013). Preserve the documented half-time/double-time variance; 136 is the working dance grid.",
+        "discoverySource": "Fresh official Inigo Kennedy / Asymmetric release description: https://inigokennedy.bandcamp.com/album/flux-rope",
+        "spotifyTrackId": "4YhLd9gtkp0vLWu4RNJ716",
+        "searchIntent": "BELONGING",
+        "proposedPlacements": [
+          {
+            "position": "bootstrap opener — track 1 in empty ledger",
+            "candidateBpm": 136,
+            "role": "Ground — lurching four-to-the-floor trust anchor"
+          }
+        ],
+        "fitHypothesis": "The source-described four-to-the-floor foundation, lurching gait, bleep-style bass and shuffling hats may establish immediate bodily trust while making STRANGE GAIT's crookedness physical rather than intellectual; the evolving cold pad is the main attention-continuity risk.",
+        "evidence": {
+          "measured": [
+            "known Spotify track ID 4YhLd9gtkp0vLWu4RNJ716 requires resolver verification",
+            "Shazam exact track metadata reports 136 BPM",
+            "Beatport exact track metadata reports 68 BPM, preserving a half-time/double-time notation variance",
+            "duration 7:10 from official release and exact retailer metadata",
+            "released 2026-02-13"
+          ],
+          "attributedDescription": "Inigo Kennedy / Asymmetric describes Marauder as keeping a four-to-the-floor feel while lurching, with bleep-style bass, shuffling hats and an ice-cold pad that evolves. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A bootstrap opener should establish a trustworthy bodily grid while revealing enough deformation to define the playlist immediately without spending its later Tilt/Fracture vocabulary."
+        }
+      },
+      "spotifyTrackId": "4YhLd9gtkp0vLWu4RNJ716",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Sevish",
+        "track": "Mystify",
+        "releaseDate": "2025-10-31",
+        "bpm": 140,
+        "bpmSource": "Artist-owned exact track page: https://sevish.bandcamp.com/track/mystify",
+        "discoverySource": "Fresh artist-owned exact track evidence: https://sevish.bandcamp.com/track/mystify",
+        "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+        "searchIntent": "BELONGING",
+        "proposedPlacements": [
+          {
+            "position": "bootstrap opener — track 1 in empty ledger",
+            "candidateBpm": 140,
+            "role": "Ground — explicit polymetric identity challenge"
+          }
+        ],
+        "fitHypothesis": "The artist explicitly frames Mystify as approachable polymetric techno at 140 BPM, which strongly signals STRANGE GAIT identity, but foregrounded 43-tone tuning and polymetric construction may make the concept arrive before bodily trust and therefore suit a later Fracture or Deep Lock role better than Track 1.",
+        "evidence": {
+          "measured": [
+            "known Spotify track ID 7sHN0QPVxD7NjkSCH6NTZi requires resolver verification",
+            "140 BPM from the artist-owned exact track page",
+            "released 2025-10-31"
+          ],
+          "attributedDescription": "Sevish explicitly calls the track polymetric techno and says the project combines unconventional tunings and rhythms while keeping the music approachable; the same exact page documents 43EDO tuning. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "The opener should make the body accept the world before a later chapter foregrounds more radical rhythmic or tuning logic."
+        }
+      },
+      "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+      "selected": true
+    }
+  ],
+  "candidates": [
+    {
+      "id": "4YhLd9gtkp0vLWu4RNJ716",
+      "uri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+      "name": "Marauder",
+      "artists": [
+        "Inigo Kennedy"
+      ],
+      "album": "Flux Rope",
+      "releaseDate": "2026-02-13",
+      "durationMs": 430111,
+      "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
+      "bpm": 136,
+      "tempoSource": "Shazam exact track metadata reports 136 BPM (https://www.shazam.com/song/1871676537/marauder); Beatport exact track metadata reports 68 BPM (https://www.beatport.com/track/marauder/23756013). Preserve the documented half-time/double-time variance; 136 is the working dance grid.",
+      "discoverySource": "Fresh official Inigo Kennedy / Asymmetric release description: https://inigokennedy.bandcamp.com/album/flux-rope",
+      "searchIntent": "BELONGING",
+      "proposedPlacements": [
+        {
+          "position": "bootstrap opener — track 1 in empty ledger",
+          "candidateBpm": 136,
+          "role": "Ground — lurching four-to-the-floor trust anchor"
+        }
+      ],
+      "fitHypothesis": "The source-described four-to-the-floor foundation, lurching gait, bleep-style bass and shuffling hats may establish immediate bodily trust while making STRANGE GAIT's crookedness physical rather than intellectual; the evolving cold pad is the main attention-continuity risk.",
+      "evidence": {
+        "measured": [
+          "known Spotify track ID 4YhLd9gtkp0vLWu4RNJ716 requires resolver verification",
+          "Shazam exact track metadata reports 136 BPM",
+          "Beatport exact track metadata reports 68 BPM, preserving a half-time/double-time notation variance",
+          "duration 7:10 from official release and exact retailer metadata",
+          "released 2026-02-13"
+        ],
+        "attributedDescription": "Inigo Kennedy / Asymmetric describes Marauder as keeping a four-to-the-floor feel while lurching, with bleep-style bass, shuffling hats and an ice-cold pad that evolves. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A bootstrap opener should establish a trustworthy bodily grid while revealing enough deformation to define the playlist immediately without spending its later Tilt/Fracture vocabulary."
+      },
+      "requestedIdentity": {
+        "artist": "Inigo Kennedy",
+        "track": "Marauder",
+        "album": "Flux Rope",
+        "releaseDate": "2026-02-13",
+        "bpm": 136,
+        "bpmSource": "Shazam exact track metadata reports 136 BPM (https://www.shazam.com/song/1871676537/marauder); Beatport exact track metadata reports 68 BPM (https://www.beatport.com/track/marauder/23756013). Preserve the documented half-time/double-time variance; 136 is the working dance grid.",
+        "discoverySource": "Fresh official Inigo Kennedy / Asymmetric release description: https://inigokennedy.bandcamp.com/album/flux-rope",
+        "spotifyTrackId": "4YhLd9gtkp0vLWu4RNJ716",
+        "searchIntent": "BELONGING",
+        "proposedPlacements": [
+          {
+            "position": "bootstrap opener — track 1 in empty ledger",
+            "candidateBpm": 136,
+            "role": "Ground — lurching four-to-the-floor trust anchor"
+          }
+        ],
+        "fitHypothesis": "The source-described four-to-the-floor foundation, lurching gait, bleep-style bass and shuffling hats may establish immediate bodily trust while making STRANGE GAIT's crookedness physical rather than intellectual; the evolving cold pad is the main attention-continuity risk.",
+        "evidence": {
+          "measured": [
+            "known Spotify track ID 4YhLd9gtkp0vLWu4RNJ716 requires resolver verification",
+            "Shazam exact track metadata reports 136 BPM",
+            "Beatport exact track metadata reports 68 BPM, preserving a half-time/double-time notation variance",
+            "duration 7:10 from official release and exact retailer metadata",
+            "released 2026-02-13"
+          ],
+          "attributedDescription": "Inigo Kennedy / Asymmetric describes Marauder as keeping a four-to-the-floor feel while lurching, with bleep-style bass, shuffling hats and an ice-cold pad that evolves. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A bootstrap opener should establish a trustworthy bodily grid while revealing enough deformation to define the playlist immediately without spending its later Tilt/Fracture vocabulary."
+        }
+      }
+    },
+    {
+      "id": "7sHN0QPVxD7NjkSCH6NTZi",
+      "uri": "spotify:track:7sHN0QPVxD7NjkSCH6NTZi",
+      "name": "Mystify",
+      "artists": [
+        "Sevish"
+      ],
+      "album": "Mystify",
+      "releaseDate": "2025-10-31",
+      "durationMs": 991071,
+      "spotifyUrl": "https://open.spotify.com/track/7sHN0QPVxD7NjkSCH6NTZi",
+      "bpm": 140,
+      "tempoSource": "Artist-owned exact track page: https://sevish.bandcamp.com/track/mystify",
+      "discoverySource": "Fresh artist-owned exact track evidence: https://sevish.bandcamp.com/track/mystify",
+      "searchIntent": "BELONGING",
+      "proposedPlacements": [
+        {
+          "position": "bootstrap opener — track 1 in empty ledger",
+          "candidateBpm": 140,
+          "role": "Ground — explicit polymetric identity challenge"
+        }
+      ],
+      "fitHypothesis": "The artist explicitly frames Mystify as approachable polymetric techno at 140 BPM, which strongly signals STRANGE GAIT identity, but foregrounded 43-tone tuning and polymetric construction may make the concept arrive before bodily trust and therefore suit a later Fracture or Deep Lock role better than Track 1.",
+      "evidence": {
+        "measured": [
+          "known Spotify track ID 7sHN0QPVxD7NjkSCH6NTZi requires resolver verification",
+          "140 BPM from the artist-owned exact track page",
+          "released 2025-10-31"
+        ],
+        "attributedDescription": "Sevish explicitly calls the track polymetric techno and says the project combines unconventional tunings and rhythms while keeping the music approachable; the same exact page documents 43EDO tuning. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "listenerEvidence": null,
+        "lawfulAudioEvidence": null,
+        "craftConvention": "The opener should make the body accept the world before a later chapter foregrounds more radical rhythmic or tuning logic."
+      },
+      "requestedIdentity": {
+        "artist": "Sevish",
+        "track": "Mystify",
+        "releaseDate": "2025-10-31",
+        "bpm": 140,
+        "bpmSource": "Artist-owned exact track page: https://sevish.bandcamp.com/track/mystify",
+        "discoverySource": "Fresh artist-owned exact track evidence: https://sevish.bandcamp.com/track/mystify",
+        "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+        "searchIntent": "BELONGING",
+        "proposedPlacements": [
+          {
+            "position": "bootstrap opener — track 1 in empty ledger",
+            "candidateBpm": 140,
+            "role": "Ground — explicit polymetric identity challenge"
+          }
+        ],
+        "fitHypothesis": "The artist explicitly frames Mystify as approachable polymetric techno at 140 BPM, which strongly signals STRANGE GAIT identity, but foregrounded 43-tone tuning and polymetric construction may make the concept arrive before bodily trust and therefore suit a later Fracture or Deep Lock role better than Track 1.",
+        "evidence": {
+          "measured": [
+            "known Spotify track ID 7sHN0QPVxD7NjkSCH6NTZi requires resolver verification",
+            "140 BPM from the artist-owned exact track page",
+            "released 2025-10-31"
+          ],
+          "attributedDescription": "Sevish explicitly calls the track polymetric techno and says the project combines unconventional tunings and rhythms while keeping the music approachable; the same exact page documents 43EDO tuning. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": null,
+          "lawfulAudioEvidence": null,
+          "craftConvention": "The opener should make the body accept the world before a later chapter foregrounds more radical rhythmic or tuning logic."
+        }
+      }
+    }
+  ],
+  "resolvedAlternates": []
+}
