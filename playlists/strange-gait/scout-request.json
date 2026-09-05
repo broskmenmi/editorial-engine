@@ -1,8 +1,10 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T14:26:48Z-explore",
-  "sourceCommit": "aa7cb77b0168ba3b1838d6d18fd26e41e6934d02",
+  "runId": "2026-09-05T14:29:48Z-explore-recovery",
+  "sourceCommit": "b41fdeb177f9d55a630ab33e7f3a3f2f053a8594",
   "mode": "EXPLORE",
+  "recoveryOfRunId": "2026-09-05T14:26:48Z-explore",
+  "recoveryReason": "The Spotify resolver completed both exact identity lookups successfully, but the generalized workflow used git diff to detect the first untracked scout-data.json and therefore failed to persist the terminal snapshot. The workflow persistence defect is fixed; this request preserves the original scan, target, receipt and leads exactly.",
   "target": {
     "role": "bootstrap STRANGE GAIT opener that establishes bodily trust while making the crooked rhythmic grammar audible immediately",
     "position": "bootstrap opener — track 1 in empty ledger",
