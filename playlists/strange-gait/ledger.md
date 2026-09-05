@@ -7,20 +7,19 @@
 | # | Artist | Track | Spotify URI | BPM | Decision | Structural role | Added |
 |---:|---|---|---|---:|---|---|---|
 | 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — lurching 4/4 trust anchor | 2026-09-05 |
+| 2 | Aaron Schwarz | Some Letters | spotify:track:5w6iz8tYxh77iPm6YdeMC2 | 137 | ADD | Ground extension — quiet instability | 2026-09-05 |
 
 ## Current state
 
-**BOOTSTRAP — 1 canonical track.**
+**BOOTSTRAP — 2 canonical tracks.**
 
-Marauder establishes the Ground chapter through a familiar four-to-the-floor base whose source-described lurch, shuffling hats and bleep bass make the gait crooked without abandoning bodily orientation.
+Marauder establishes bodily trust through a lurching four-to-the-floor frame. Some Letters continues at 137 BPM but changes the mechanism of crookedness: source-described repeated percussive fragments and restless LFO motion introduce subtler instability instead of another shuffle/lurch pattern.
 
-Tempo evidence preserves a notation variance: Shazam reports 136 BPM while Beatport reports 68 BPM. The ledger uses **136 BPM as the working dance grid** and keeps the 68 BPM value documented as the exact half-time reading; this is metadata interpretation, not raw-audio analysis.
-
-Until three canonical tracks exist, follow the bootstrap rule in `constitution.md` and `automation.md` and admit at most one track per run.
+Until three canonical tracks exist, follow the bootstrap rule and admit at most one track per run.
 
 ## Next structural need
 
-Track 2 must prove **continuation** from Marauder without merely cloning its shuffle or normalizing STRANGE GAIT into ordinary straight techno. Only the incoming transition is evaluated while the ledger has two tracks.
+Track 3 must prove a real **Tilt**: a clearly different displacement, syncopation, polymetric relation, organic/mechanical interaction, or other auditable gait change that keeps the body oriented after Some Letters.
 
 ## Target story
 
