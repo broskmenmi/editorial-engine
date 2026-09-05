@@ -2,6 +2,22 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Vibe-first Run 5 — Track 2 candidate
+
+### REVISIT — Rene Wise — Cave
+
+- Candidate snapshot: `2026-09-05T23:53:30Z-explore-vibe-5`.
+- Exact Spotify identity: `spotify:track:2Z0j3jb573fveL4Pf3NkP1`.
+- Measured tempo: 134 BPM; duration 6:01.
+- Proposed placement: after Marauder as Track 2, remaining Ground.
+- Fresh scan covered approximately 50 named tracks/releases across about 15 current, adjacent and overlooked catalogue/search pages.
+- Moving Pressure gives unusually track-specific evidence: Cave is framed through foggy/sinister atmosphere, grounded physicality, hypnosis and restraint rather than impact spectacle.
+- The 136 → 134 step is numerically calm and the artist/label lineage is coherent, but those facts still do not prove perceived energy/pressure continuity.
+- Direct listener evidence from the failed opening makes that missing same-room evidence decisive.
+- **Verdict: REVISIT.** Strongest evidence package in this five-run batch, but still not enough to force Track 2.
+
+No canonical ledger change was made. No lawful raw-audio evidence was available or invented.
+
 ## 2026-09-06 — Vibe-first Run 2 — Track 2 candidate
 
 ### REJECT — current opening role — Steve Rachmad — Ostinato 2.0
