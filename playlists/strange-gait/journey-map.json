@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T16:32:55.427Z",
+  "generatedAt": "2026-09-05T16:38:53.763Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "11dadaed4203b7f5a6e80e0e0d2bc29c7e72df56962ead4dfc82b4a7ab09c15f",
-    "annotationsFingerprint": "232debaa56d3cde758eae688cd53a4d9e50686f7f1502dca3971337ce979d9ba"
+    "ledgerFingerprint": "6b9f456066eff066f20b35c8ee99026e11c03fc35de14ac4ed8369f1e40e231c",
+    "annotationsFingerprint": "dc4028ab2cd37aebf1afc1a0341f33aa814730ed94ce6e5b6ef5a7b79dfafefb"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,11 +18,11 @@
     "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
-    "trackCount": 2,
-    "durationMs": 720000,
-    "durationLabel": "12m",
+    "trackCount": 3,
+    "durationMs": 1080000,
+    "durationLabel": "18m",
     "bpmMin": 136,
-    "bpmMax": 137,
+    "bpmMax": 141,
     "latestAddedDate": "2026-09-05"
   },
   "chapters": [
@@ -34,6 +34,15 @@
       "endPosition": 2,
       "startMs": 0,
       "endMs": 720000
+    },
+    {
+      "id": "tilt",
+      "label": "Tilt",
+      "order": 2,
+      "startPosition": 3,
+      "endPosition": 3,
+      "startMs": 720000,
+      "endMs": 1080000
     }
   ],
   "tracks": [
@@ -63,8 +72,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.25
+      "progressEnd": 0.3333333333333333,
+      "progressMidpoint": 0.16666666666666666
     },
     {
       "position": 2,
@@ -91,9 +100,38 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/5w6iz8tYxh77iPm6YdeMC2",
       "protected": false,
-      "progressStart": 0.5,
+      "progressStart": 0.3333333333333333,
+      "progressEnd": 0.6666666666666666,
+      "progressMidpoint": 0.5
+    },
+    {
+      "position": 3,
+      "artist": "IGLO",
+      "track": "Alive",
+      "uri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
+      "bpm": 141,
+      "role": "Tilt — subtle swing, anchored flow",
+      "added": "2026-09-05",
+      "chapter": "tilt",
+      "chapterOrder": 2,
+      "storyBand": "tilt",
+      "storyLevel": 2.7,
+      "status": "provisional",
+      "labels": [
+        "tilt",
+        "subtle-swing",
+        "anchored-flow"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 720000,
+      "endMs": 1080000,
+      "midpointMs": 900000,
+      "spotifyUrl": "https://open.spotify.com/track/0MmaQ3p8j4x65ATx9pdwYO",
+      "protected": false,
+      "progressStart": 0.6666666666666666,
       "progressEnd": 1,
-      "progressMidpoint": 0.75
+      "progressMidpoint": 0.8333333333333334
     }
   ],
   "transitions": [
@@ -103,6 +141,15 @@
       "fromPosition": 1,
       "toPosition": 2,
       "bpmDelta": 1,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
+      "toUri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
+      "fromPosition": 2,
+      "toPosition": 3,
+      "bpmDelta": 4,
       "protected": false,
       "frozen": false
     }
