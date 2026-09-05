@@ -2,6 +2,22 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Vibe-first Run 2 — Track 2 candidate
+
+### REJECT — current opening role — Steve Rachmad — Ostinato 2.0
+
+- Candidate snapshot: `2026-09-05T23:44:30Z-explore-vibe-2`.
+- Exact Spotify identity: `spotify:track:4vLdXJEHEdsTg9pm6S2VAh`.
+- Measured tempo: 138 BPM; duration 5:10.
+- Proposed placement: after Marauder as Track 2, remaining Ground.
+- Fresh scan covered approximately 45 named tracks/releases across about 14 current, adjacent and overlooked catalogue/search pages.
+- The release is explicitly curated around beginnings/endings, restrained energy, atmosphere and control, and the 136 → 138 transition is numerically calm.
+- However, that sonic framing applies to the compilation as a whole rather than specifically to Ostinato 2.0.
+- After the listener-authorized vibe reset, compilation-level framing plus BPM cannot establish that the exact track inhabits Marauder's room.
+- **Verdict: REJECT for the current Track-2 opening role.** No global sonic-incompatibility claim; materially new track-specific or lawful audio/listener evidence may reopen it later.
+
+No canonical ledger change was made. No lawful raw-audio evidence was available or invented.
+
 ## 2026-09-06 — Vibe-first Run 1 — Track 2 candidate
 
 ### REVISIT — Inigo Kennedy — The Witching Hour

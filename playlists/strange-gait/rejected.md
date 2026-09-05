@@ -6,6 +6,7 @@ A track rejected from GROOVE OVER NOISE is not automatically rejected here, and 
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Steve Rachmad | Ostinato 2.0 | Rejected for the current Track 2 / opening role. Exact 138 BPM and opening-set placement are viable, but the evidence for restrained energy, atmosphere and control is compilation-level rather than track-specific. After direct listener feedback that paper-coherent transitions can still reset the room, that evidence is insufficient to pass the vibe-continuity gate. No global incompatibility claim. | 2026-09-06 |
 | Aaron Schwarz | Some Letters | Removed from Track 2/current opening after direct listener feedback that the four-track sequence changed energy with each track and failed to create one coherent vibe. This is a rejection of the current opening placement, not a global incompatibility claim. | 2026-09-06 |
 | IGLO | Alive | Removed from Track 3/current opening after direct listener feedback that the four-track sequence changed energy with each track and sounded like disconnected favourite tracks rather than one curated vibe. This is a current-journey rejection only. | 2026-09-06 |
 | Stanislav Tolkachev | Drift C | Removed from Track 4/current opening after direct listener feedback that the four-track sequence changed energy with each track. Its prior Lock role is invalidated by the vibe-first reset; no global sonic-incompatibility claim. | 2026-09-06 |
