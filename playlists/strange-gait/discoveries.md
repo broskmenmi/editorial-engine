@@ -2,6 +2,22 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Vibe-first Run 1 — Track 2 candidate
+
+### REVISIT — Inigo Kennedy — The Witching Hour
+
+- Candidate snapshot: `2026-09-05T23:39:30Z-explore-vibe-1`.
+- Exact Spotify identity: `spotify:track:6zBPgkGHHiZfxg5eSjSCRd`.
+- Measured tempo: 136 BPM; duration 5:15.
+- Proposed placement: after Inigo Kennedy — Marauder as Track 2, remaining in Ground.
+- Fresh scan covered approximately 40 named tracks/releases across about 12 current, adjacent and overlooked catalogue/search pages.
+- The candidate is from the same `Flux Rope` release as Marauder and the official release description characterizes it through rolling bass-heavy percussion and pads.
+- The 136 → 136 tempo relation and same-release production context make it the strongest current continuity hypothesis, but neither proves perceived energy/pressure continuity.
+- Direct listener evidence from the previous opening makes this uncertainty material: the prior sequence looked coherent on paper but changed energy track by track in actual listening.
+- **Verdict: REVISIT.** Do not force Track 2 until evidence directly supports one shared room.
+
+No canonical ledger change was made. No lawful raw-audio evidence was available or invented.
+
 ## 2026-09-06 — Listener-authorized opening reset
 
 ### REPAIR — rebuild around vibe continuity
