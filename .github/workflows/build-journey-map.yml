@@ -64,7 +64,7 @@ jobs:
           set -euo pipefail
           changed=()
           while IFS= read -r -d '' file; do
-            if ! git diff --quiet -- "$file"; then
+            if [[ -n "$(git status --porcelain -- "$file")" ]]; then
               changed+=("$file")
             fi
           done < <(find playlists -mindepth 2 -maxdepth 2 -type f \( -name journey-map.json -o -name journey-map.svg \) -print0 | sort -z)
@@ -101,7 +101,14 @@ jobs:
               cp "$temp_dir/$file" "$file"
             done
 
-            if git diff --quiet -- "${changed[@]}"; then
+            map_changes=false
+            for file in "${changed[@]}"; do
+              if [[ -n "$(git status --porcelain -- "$file")" ]]; then
+                map_changes=true
+                break
+              fi
+            done
+            if [[ "$map_changes" != "true" ]]; then
               exit 0
             fi
 
