@@ -1,62 +1,63 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T16:42:30Z-explore-5",
-  "sourceCommit": "b0f60dfac037d9e0328502e0b3b4ff53966cc510",
+  "runId": "2026-09-05T23:39:30Z-explore-vibe-1",
+  "sourceCommit": "66e16124fbd18fc72ff931b823dffffa60658716",
   "mode": "EXPLORE",
   "target": {
-    "role": "first canonical Lock after IGLO — Alive",
-    "position": "after IGLO — Alive at end of current ledger",
-    "neighbours": ["spotify:track:0MmaQ3p8j4x65ATx9pdwYO"],
-    "purpose": "make the altered gait feel natural through repetition"
+    "role": "vibe-first STRANGE GAIT Track 2 continuation",
+    "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
+    "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
+    "purpose": "prove Marauder begins one coherent room"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-05T16:42:30Z",
+    "timestampUtc": "2026-09-05T23:39:30Z",
     "sourceWindows": [
-      "Fresh current/recent raw deep hypnotic techno scan for repetition, controlled movement, stripped percussion and bodily Lock functions",
-      "Fresh current Beatport windows around 140–143 BPM raw/deep/hypnotic releases and adjacent label catalogues",
-      "Fresh overlooked catalogue scan for repetition without peak-time impact, including Furatena and The Third Room",
-      "Materially new exact Drift C identity evidence: dedicated Spotify single https://open.spotify.com/album/1BaXWWVf5Aw75JkMRRNam6",
-      "Exact Drift C metadata: https://www.beatport.com/track/drift-c/29264819 and official Furatena description https://binaryalgorithms.bandcamp.com/album/drift-remain"
+      "Fresh current/recent raw, deep and hypnotic techno search for restrained pressure and same-room continuation",
+      "Fresh Asymmetric / Inigo Kennedy 2026 catalogue scan around Flux Rope and adjacent releases",
+      "Fresh adjacent label scan including Message 431, INHERIT, Apnea, RNDM and overlooked 2026 catalogue material",
+      "Official Flux Rope release description: https://inigokennedy.bandcamp.com/album/flux-rope",
+      "Exact tempo metadata window: https://www.beatport.com/artist/inigo-kennedy/11952/tracks?page=1&per_page=100"
     ],
-    "approximateInspectedScope": "approximately 65 named tracks/releases across roughly 22 current, adjacent and overlooked catalogue/search pages",
+    "approximateInspectedScope": "approximately 40 named tracks/releases across about 12 current, adjacent and overlooked catalogue/search pages",
     "exclusions": [
-      "peak-time, industrial or hardgroove pressure",
-      "another subtle-swing Tilt rather than a Lock",
-      "tracks whose repetition is merely straight functional drive with no STRANGE GAIT identity",
-      "large tempo resets without a documented metrical relation",
-      "Mystify, which was just re-parked until a canonical Lock exists"
+      "peak-time or industrial pressure that clearly advertises a new energy zone",
+      "drum-and-bass or major tempo resets",
+      "tracks whose admission argument is mainly a new rhythmic technique",
+      "previously rejected current-opening tracks without materially new evidence",
+      "candidates lacking enough attributed track/release evidence to plausibly preserve the Marauder room"
     ],
     "rankedLeadSummary": [
-      "1. Stanislav Tolkachev — Drift C: 140 BPM floorless, hi-hat-free stripped percussion that locks relentlessly; new one-track Spotify single now disambiguates the intended recording"
+      "1. Inigo Kennedy — The Witching Hour: same Flux Rope release and 136 BPM; official description emphasizes rolling bass-heavy percussion and pads rather than a chapter/impact reset"
     ]
   },
   "leads": [
     {
-      "artist": "Stanislav Tolkachev",
-      "track": "Drift C",
-      "bpm": 140,
-      "bpmSource": "Beatport exact-track metadata: https://www.beatport.com/track/drift-c/29264819",
-      "discoverySource": "Fresh official Furatena/Binary Algorithms exact-track description: https://binaryalgorithms.bandcamp.com/album/drift-remain; materially new dedicated Spotify single identity evidence: https://open.spotify.com/album/1BaXWWVf5Aw75JkMRRNam6",
-      "spotifyAlbumId": "1BaXWWVf5Aw75JkMRRNam6",
+      "artist": "Inigo Kennedy",
+      "track": "The Witching Hour",
+      "album": "Flux Rope",
+      "releaseDate": "2026-02-13",
+      "bpm": 136,
+      "bpmSource": "Beatport exact artist-track metadata reports 136 BPM: https://www.beatport.com/artist/inigo-kennedy/11952/tracks?page=1&per_page=100",
+      "discoverySource": "Fresh official Flux Rope release description: https://inigokennedy.bandcamp.com/album/flux-rope",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after IGLO — Alive at end of current ledger",
-          "candidateBpm": 140,
-          "role": "Lock — floorless stripped-percussion repetition"
+          "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
+          "candidateBpm": 136,
+          "role": "Ground continuation — same-release pressure envelope"
         }
       ],
-      "fitHypothesis": "Alive's 141 BPM anchored swing can step down to 140 without tempo shock; Drift C then removes hi-hats and floor cues while source-described relentless repetition preserves bodily orientation, making the altered grammar feel inhabitable rather than escalating into spectacle.",
+      "fitHypothesis": "Same artist, release and 136 BPM plus source-described rolling percussion/pads make this the strongest same-room continuation hypothesis; actual perceived energy continuity remains unmeasured.",
       "evidence": {
         "measured": [
-          "140 BPM and 5:09 from exact Beatport metadata",
-          "dedicated Spotify single is one song, 5:09, by Stanislav Tolkachev, ©/℗ Furatena",
-          "released June/July 2026 depending platform metadata"
+          "136 BPM from Beatport exact artist-track metadata",
+          "5:15 duration from official Bandcamp release",
+          "released 2026-02-13"
         ],
-        "attributedDescription": "Furatena describes Drift C as cavernous and relentlessly repetitive, 140-BPM floorless techno without hi-hats, built from a stripped percussive core that locks in and refuses to leave. This is attributed source evidence, not direct listening or raw-audio analysis.",
-        "listenerEvidence": null,
+        "attributedDescription": "Inigo Kennedy / Asymmetric describes The Witching Hour as classic Asymmetric, with rolling bass-heavy percussion against yearnful pads that tip upward occasionally. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "listenerEvidence": "The listener rejected the prior four-track opening because each track felt like an energy shift; any new Track 2 must therefore prioritize same-room continuity above novelty.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A Lock should turn the preceding Tilt into a stable bodily system through repetition, not simply increase intensity."
+        "craftConvention": "A same-release, same-tempo continuation can reduce production-context variance, but it cannot by itself prove perceived-energy continuity."
       }
     }
   ]
