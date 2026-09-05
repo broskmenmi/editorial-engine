@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-05T14:35:18.025Z",
+  "source": {
+    "ledgerPath": "playlists/strange-gait/ledger.md",
+    "annotationsPath": "playlists/strange-gait/journey-annotations.json",
+    "ledgerFingerprint": "16dca9a4138179a054539b18147e53ce790c8dc0563fccb203235403525b280a",
+    "annotationsFingerprint": "0bc8ccc9ad3683000226cd2a8de767b63754b6eff6492be03bd6fcf7dba73c8e"
+  },
+  "playlist": {
+    "slug": "strange-gait",
+    "title": "STRANGE GAIT",
+    "storyModel": "ground-tilt-lock-fracture-deep-lock-escape",
+    "storyHeightMeaning": "Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
+    "compactMapPath": "playlists/strange-gait/journey-map.svg",
+    "sitesPromptPath": "playlists/strange-gait/sites-prompt.md",
+    "detailedSiteStatus": "NOT_PUBLISHED",
+    "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
+  },
+  "totals": {
+    "trackCount": 1,
+    "durationMs": 360000,
+    "durationLabel": "6m",
+    "bpmMin": 136,
+    "bpmMax": 136,
+    "latestAddedDate": "2026-09-05"
+  },
+  "chapters": [
+    {
+      "id": "ground",
+      "label": "Ground",
+      "order": 1,
+      "startPosition": 1,
+      "endPosition": 1,
+      "startMs": 0,
+      "endMs": 360000
+    }
+  ],
+  "tracks": [
+    {
+      "position": 1,
+      "artist": "Inigo Kennedy",
+      "track": "Marauder",
+      "uri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+      "bpm": 136,
+      "role": "Ground — lurching 4/4 trust anchor",
+      "added": "2026-09-05",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "opener",
+        "ground-anchor",
+        "lurching-four-to-floor"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 0,
+      "endMs": 360000,
+      "midpointMs": 180000,
+      "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
+      "protected": false,
+      "progressStart": 0,
+      "progressEnd": 1,
+      "progressMidpoint": 0.5
+    }
+  ],
+  "transitions": [],
+  "protected": {
+    "opener": null,
+    "handoffs": [],
+    "ending": []
+  },
+  "discussions": [],
+  "externalCandidates": [],
+  "warnings": []
+}
