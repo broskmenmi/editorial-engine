@@ -43,8 +43,9 @@ Required files:
 - `under-review.md` — collaborative listener-feedback discussions.
 - `notes.md` — current structural diagnosis, evidence status, and scouting priority.
 - `automation.md` — playlist-specific orchestration.
-- `spotify.json` — canonical Spotify playlist identity.
+- `spotify.json` — canonical Spotify playlist identity, public name, description, and cover path.
 - `spotify-status.json` — latest exact publication verification.
+- `cover.jpg.base64` — intentional square JPEG cover for a production volume.
 - `journey-annotations.json` — editorial chapters, story bands, protected states, and frozen regions.
 - `journey-map-spec.md` — compact-map and detailed-Site specification.
 - `sites-prompt.md` — future ChatGPT Sites build prompt.
@@ -55,6 +56,22 @@ Generated files:
 - `journey-map.svg` — compact visualization for editorial-run responses.
 
 `playlists/groove-over-noise/` is the included reference implementation.
+
+### New-volume completion checklist
+
+A new volume is not complete merely because the directory, empty ledger, recurring task, or Spotify playlist exists.
+
+Before declaring the volume active:
+
+1. Choose the final public playlist name.
+2. Write the public Spotify description into `spotify.json`.
+3. Generate an intentional square cover for that specific volume.
+4. Persist the JPEG as `cover.jpg.base64` and set `spotify.json.coverImageBase64Path` to that file.
+5. Publish through the repository Spotify Action.
+6. Require `spotify-status.json` to verify the name, description, privacy, cover, and exact ledger state with `status: COMPLETE`.
+7. Only then describe the new volume as fully created/activated.
+
+Do not reuse another volume's cover or public description simply for consistency. Related volumes may share a visual system, but each needs its own deliberate identity.
 
 ## 4. Phone-only Spotify authorization
 
@@ -156,10 +173,11 @@ After both GitHub Actions secrets exist:
 
 1. open the repository's **Actions** tab;
 2. choose **Publish Spotify playlist** and run it;
-3. choose **Build GROOVE OVER NOISE journey map** and run it if no map exists yet;
+3. choose **Build playlist journey maps** and run it if the target has a non-empty ledger and no map yet;
 4. verify that `spotify-status.json` becomes `COMPLETE`;
-5. verify that `journey-map.json` and `journey-map.svg` exist;
-6. open only the canonical playlist URL recorded in the status file.
+5. verify `metadataVerified: true`, `coverConfigured: true`, and `coverPresent: true` for a production volume;
+6. verify that `journey-map.json` and `journey-map.svg` exist once the ledger is non-empty;
+7. open only the canonical playlist URL recorded in the status file.
 
 ## Portability boundary
 
