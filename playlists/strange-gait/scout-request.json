@@ -1,90 +1,82 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T16:28:03Z-explore-2",
-  "sourceCommit": "f1225eba14668575a6743f0e3473f55b3b71fb4e",
+  "runId": "2026-09-05T16:34:30Z-explore-3",
+  "sourceCommit": "3a39e685c8ce9ebf9baad3db53e8b409f55488a0",
   "mode": "EXPLORE",
   "target": {
-    "role": "bootstrap STRANGE GAIT track 2 that continues bodily trust from Marauder while introducing a different form of crookedness",
-    "position": "after Inigo Kennedy — Marauder — track 2 at end of ledger",
-    "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
-    "purpose": "prove continuation without cloning Marauder's shuffle"
+    "role": "bootstrap STRANGE GAIT track 3 that proves a real Tilt after Some Letters",
+    "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
+    "neighbours": ["spotify:track:5w6iz8tYxh77iPm6YdeMC2"],
+    "purpose": "prove displacement without losing bodily orientation"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-05T16:28:03Z",
+    "timestampUtc": "2026-09-05T16:34:30Z",
     "sourceWindows": [
-      "Fresh September 2026 and recent raw/deep/hypnotic techno searches for syncopation, subtle instability, organic percussion and groove mutation",
-      "Current Marcal / The Third Room Four Small Escapes material, including syncopated and organic-percussion track descriptions",
-      "Fresh exact Aaron Schwarz / Ucker Some Letters evidence: https://uckerrecords.bandcamp.com/track/aaron-schwarz-some-letters and exact 137 BPM metadata",
-      "Fresh Mitra / IO Records Hush evidence: https://io-records.bandcamp.com/album/glome-2 and exact 137 BPM metadata"
+      "Fresh current/recent raw deep hypnotic techno scan for floorless rhythm, missing-beat tension, subtle swing and anchored displacement",
+      "Fresh Stanislav Tolkachev / Furatena Drift / Remain exact-track evidence: https://binaryalgorithms.bandcamp.com/album/drift-remain and exact Beatport metadata",
+      "Fresh IGLO / Figure Severance exact-release evidence: https://iglo1.bandcamp.com/album/severance and exact Beatport metadata",
+      "Adjacent July–September 2026 catalogue searches for stripped percussion and rhythmic systems that change gait without peak-time spectacle"
     ],
-    "approximateInspectedScope": "approximately 55 named tracks/releases across roughly 18 current, adjacent and overlooked catalogue pages",
+    "approximateInspectedScope": "approximately 50 named tracks/releases across roughly 17 current, adjacent and overlooked catalogue pages",
     "exclusions": [
-      "Marauder-like lurch/shuffle clones",
-      "peak-time or industrial impact",
-      "hardgroove cliché and ornamental tribalism",
-      "tracks without exact tempo or enough behavioural evidence for the one-sided bootstrap transition",
-      "pre-release material whose exact Spotify identity or tempo could not yet be verified"
+      "another quiet-instability Ground extension",
+      "impact-led hard techno and industrial pressure",
+      "tracks whose unusualness is primarily melodic or timbral",
+      "large tempo resets without documented pulse relation",
+      "polymetric spectacle reserved for later chapters while bootstrap is still establishing bodily grammar"
     ],
     "rankedLeadSummary": [
-      "1. Aaron Schwarz — Some Letters: 137 BPM quiet percussive insistence with subtle instability and hypnotic drift",
-      "2. Mitra — Hush: 137 BPM bass-heavy bubbly textures with warm club-focused propulsion"
+      "1. Stanislav Tolkachev — Drift C: 140 BPM floorless, hi-hat-free stripped percussion that locks relentlessly",
+      "2. IGLO — Alive: 141 BPM open flowing groove with subtle swing and anchored forward motion"
     ]
   },
   "leads": [
     {
-      "artist": "Aaron Schwarz",
-      "track": "Some Letters",
-      "bpm": 137,
-      "bpmSource": "Beatport/Volumo exact-track metadata reports 137 BPM: https://www.beatport.com/artist/aaron-schwarz/1091267/tracks and https://volumo.com/track/6190403-some-letters-original-mix",
-      "discoverySource": "Fresh artist/label exact-track description: https://uckerrecords.bandcamp.com/track/aaron-schwarz-some-letters",
+      "artist": "Stanislav Tolkachev",
+      "track": "Drift C",
+      "bpm": 140,
+      "bpmSource": "Beatport exact-track metadata reports 140 BPM: https://www.beatport.com/track/drift-c/29264819",
+      "discoverySource": "Fresh official release description: https://binaryalgorithms.bandcamp.com/album/drift-remain",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Inigo Kennedy — Marauder — track 2 at end of ledger",
-          "candidateBpm": 137,
-          "role": "Ground-to-Tilt precursor — quiet instability"
+          "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
+          "candidateBpm": 140,
+          "role": "Tilt — floorless stripped-percussion displacement"
         }
       ],
-      "fitHypothesis": "The 136→137 handoff is numerically calm while the source-described repeated percussive fragments and restless LFO movement introduce a different, subtler instability than Marauder's lurch without spending the stronger Track 3 tilt.",
+      "fitHypothesis": "The 137→140 step is within normal tempo grammar while the source-described floorless, hi-hat-free percussive core provides a clearly different bodily logic from both Marauder and Some Letters; relentless lock may preserve orientation despite the more obvious displacement.",
       "evidence": {
-        "measured": [
-          "137 BPM from exact retailer metadata",
-          "duration 6:51 from exact label/retailer metadata",
-          "released April 2026"
-        ],
-        "attributedDescription": "Ucker describes percussive fragments repeating with quiet insistence while restless LFO movements warp the texture, creating subtle instability and hypnotic drift. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "measured": ["140 BPM from exact Beatport metadata","duration 5:09","released July 2026"],
+        "attributedDescription": "The official release describes Drift C as cavernous and relentlessly repetitive: 140-BPM floorless techno without hi-hats, built from a stripped percussive core that locks in and refuses to leave. This is attributed source evidence, not direct listening or raw-audio analysis.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "Track 2 should preserve bodily trust from Marauder while changing the mechanism of crookedness rather than escalating intensity."
+        "craftConvention": "Track 3 should create a perceptible rhythmic tilt while keeping enough repetitive lock for the body to stay oriented."
       }
     },
     {
-      "artist": "Mitra",
-      "track": "Hush",
-      "album": "GLOME [ 2 ]",
-      "releaseDate": "2026-04-23",
-      "bpm": 137,
-      "bpmSource": "Volumo exact-track metadata reports 137 BPM: https://volumo.com/track/6115428-hush",
-      "discoverySource": "Fresh official IO Records release description: https://io-records.bandcamp.com/album/glome-2",
+      "artist": "IGLO",
+      "track": "Alive",
+      "album": "Severance",
+      "releaseDate": "2026-02-27",
+      "bpm": 141,
+      "bpmSource": "Beatport exact-track metadata reports 141 BPM: https://www.beatport.com/track/t/24001451?currency=EUR",
+      "discoverySource": "Fresh official Figure/artist release description: https://iglo1.bandcamp.com/album/severance",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Inigo Kennedy — Marauder — track 2 at end of ledger",
-          "candidateBpm": 137,
-          "role": "Ground continuation — bass-led elastic colour"
+          "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
+          "candidateBpm": 141,
+          "role": "Tilt alternative — subtle swing and flowing anchor"
         }
       ],
-      "fitHypothesis": "The 136→137 transition is numerically calm and the label-described bass-heavy bubbly textures may change bodily feel without a hard reset, but the evidence is less explicit about rhythmic deformation than Some Letters.",
+      "fitHypothesis": "The 137→141 step remains within the normal range and the source-described subtle swing changes gait while the groove stays anchored, but it may be too soft a displacement to prove the Track 3 Tilt as clearly as Drift C.",
       "evidence": {
-        "measured": [
-          "137 BPM from exact retailer metadata",
-          "duration 5:11",
-          "released 2026-04-23"
-        ],
-        "attributedDescription": "IO Records describes Hush through bass-heavy, bubbly textures that set a warm energetic tone within a deep driving club-focused release. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "measured": ["141 BPM from exact Beatport metadata","duration 6:16","released 2026-02-27"],
+        "attributedDescription": "Figure/IGLO describes Alive as more open and flowing, with warmer tones and a subtle swing softening the edges while the groove remains firmly anchored and forward-moving. This is attributed source evidence, not direct listening or raw-audio analysis.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "Track 2 should continue Marauder physically while opening a distinct rhythmic/low-end perspective."
+        "craftConvention": "A bootstrap Tilt should be more legible than Track 2 while retaining bodily trust."
       }
     }
   ]
