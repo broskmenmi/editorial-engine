@@ -1,63 +1,63 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T23:44:30Z-explore-vibe-2",
-  "sourceCommit": "0289c5e404928a36355d8a7678838fb7262c247f",
+  "runId": "2026-09-05T23:53:30Z-explore-vibe-5",
+  "sourceCommit": "61c56ea629682713b2846d746fbd5409d55ccf55",
   "mode": "EXPLORE",
   "target": {
     "role": "vibe-first STRANGE GAIT Track 2 continuation",
     "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
     "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
-    "purpose": "find a restrained same-room Ground continuation"
+    "purpose": "test a grounded restrained same-room continuation"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-05T23:44:30Z",
+    "timestampUtc": "2026-09-05T23:53:30Z",
     "sourceWindows": [
-      "Fresh September 2026 Bandcamp search for restrained pressure, rolling low end and calibrated rhythmic tension",
-      "Fresh current and overlooked opening-set / intro-techno catalogue scan",
-      "Fresh adjacent Endemit, TECHNO Records, Figure, Message 431 and Neurovision material",
-      "TECH040 official opening-set concept: https://technorecords.bandcamp.com/album/tech040",
-      "Exact tempo metadata: https://www.traxsource.com/track/14673505/ostinato-2-0"
+      "Fresh current Beatport raw/deep/hypnotic window around 133–140 BPM and September 2026 releases",
+      "Fresh current Bandcamp deep/hypnotic catalogue window, excluding overt peak-time framing",
+      "Fresh overlooked Moving Pressure catalogue scan focused on track-specific descriptions and body/soundsystem continuity",
+      "Official Moving Pressure 03 track/release evidence: https://movingpressure.bandcamp.com/album/moving-pressure-03 and https://movingpressure.bandcamp.com/track/cave",
+      "Exact Cave metadata: https://www.beatport.com/track/cave/20238588"
     ],
-    "approximateInspectedScope": "approximately 45 named tracks/releases across about 14 current, adjacent and overlooked catalogue/search pages",
+    "approximateInspectedScope": "approximately 50 named tracks/releases across about 15 current, adjacent and overlooked catalogue/search pages",
     "exclusions": [
-      "material explicitly framed as peak-time, industrial or high-intensity",
-      "broken-bass or post-punk material outside the current Ground room",
-      "tracks without a reliable opening-compatible tempo relation",
-      "candidates whose only evidence was title, artist reputation or genre tag",
-      "parked/rejected current-opening material without a valid trigger"
+      "current September listings with only genre/BPM metadata and no track-specific continuity evidence",
+      "pre-release material without a resolvable released Spotify identity",
+      "peak-time, industrial or hardgroove pressure",
+      "Relax because its vocal and mighty-sub framing introduces a larger attention-continuity uncertainty for Track 2",
+      "previously parked or rejected current-opening candidates without a valid trigger"
     ],
     "rankedLeadSummary": [
-      "1. Steve Rachmad — Ostinato 2.0: 138 BPM contribution to an explicitly restrained opening-set compilation built around atmosphere and control; track-specific energy evidence remains limited"
+      "1. Rene Wise — Cave: exact 134 BPM and track-specific Moving Pressure description of foggy, grounded, hypnotic tension; strong same-world evidence but actual energy continuity with Marauder remains unmeasured"
     ]
   },
   "leads": [
     {
-      "artist": "Steve Rachmad",
-      "track": "Ostinato 2.0",
-      "album": "TECH040 - INTRO: Designated by Nastia",
-      "releaseDate": "2026-05-28",
-      "bpm": 138,
-      "bpmSource": "Traxsource exact-track metadata reports 138 BPM and 5:10: https://www.traxsource.com/track/14673505/ostinato-2-0",
-      "discoverySource": "Fresh official TECHNO Records release context: https://technorecords.bandcamp.com/album/tech040",
+      "artist": "Rene Wise",
+      "track": "Cave",
+      "album": "Moving Pressure 03",
+      "releaseDate": "2025-04-11",
+      "bpm": 134,
+      "bpmSource": "Beatport exact-track metadata reports 134 BPM and 6:01: https://www.beatport.com/track/cave/20238588",
+      "discoverySource": "Fresh official Moving Pressure track/release evidence: https://movingpressure.bandcamp.com/album/moving-pressure-03 and https://movingpressure.bandcamp.com/track/cave",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-          "candidateBpm": 138,
-          "role": "Ground continuation — restrained opening-set hypothesis"
+          "candidateBpm": 134,
+          "role": "Ground continuation — grounded murky restraint"
         }
       ],
-      "fitHypothesis": "The 136→138 relation is calm and the release was explicitly curated around restrained opening energy, atmosphere and control, but the available evidence is compilation-level rather than track-specific and cannot prove same-room energy with Marauder.",
+      "fitHypothesis": "The 136→134 step is calm, and the artist/label's track-specific description combines foggy atmospherics with grounded physicality, hypnosis and restrained immersion; whether that feels like Marauder's exact energy room is still unmeasured.",
       "evidence": {
         "measured": [
-          "138 BPM from exact Traxsource metadata",
-          "5:10 duration from exact Traxsource metadata",
-          "released 2026-05-28"
+          "134 BPM from exact Beatport metadata",
+          "6:01 duration from Beatport and official Bandcamp",
+          "released 2025-04-11"
         ],
-        "attributedDescription": "TECHNO Records describes the INTRO compilation as focused on beginnings/endings and the subtle tension between anticipation and resolution, with tracks selected from deep hypnotism to restrained energy and stripped of excess. This is release-level attributed evidence, not a direct description of Ostinato 2.0 and not raw-audio analysis.",
-        "listenerEvidence": "The prior opening failed because the listener perceived an energy shift at each track; release-level curation language alone cannot override that evidence.",
+        "attributedDescription": "Moving Pressure describes Cave as plunging into murkier terrain with fog, sinister atmospherics, sci-fi surrealism and grounded physicality; the bleeps are softened by a cavernous embrace, and the track is framed as hypnotic and unsettling in equal measure. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "listenerEvidence": "The listener rejected the prior opening because each track changed energy; Cave therefore must not be admitted merely because it shares artist/label lineage and a close BPM.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Opening-set programming and a two-BPM step make the placement plausible enough to resolve, but not enough to establish vibe continuity."
+        "craftConvention": "A two-BPM reduction and shared body-first label language make this an auditable continuation hypothesis, but do not prove perceived-energy continuity."
       }
     }
   ]
