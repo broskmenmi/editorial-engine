@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T16:38:53.763Z",
+  "generatedAt": "2026-09-05T16:45:55.951Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "6b9f456066eff066f20b35c8ee99026e11c03fc35de14ac4ed8369f1e40e231c",
-    "annotationsFingerprint": "dc4028ab2cd37aebf1afc1a0341f33aa814730ed94ce6e5b6ef5a7b79dfafefb"
+    "ledgerFingerprint": "5cf74db8e258cd3283ed9ea7b183c6dcaa3ba5ed7166f00add237a2c07782e0a",
+    "annotationsFingerprint": "f5e4df60e58d3df220d020bdc37c44e47ce4a5f0e3af070fb442e4b708c5bfe7"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,9 +18,9 @@
     "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
-    "trackCount": 3,
-    "durationMs": 1080000,
-    "durationLabel": "18m",
+    "trackCount": 4,
+    "durationMs": 1440000,
+    "durationLabel": "24m",
     "bpmMin": 136,
     "bpmMax": 141,
     "latestAddedDate": "2026-09-05"
@@ -43,6 +43,15 @@
       "endPosition": 3,
       "startMs": 720000,
       "endMs": 1080000
+    },
+    {
+      "id": "lock",
+      "label": "Lock",
+      "order": 3,
+      "startPosition": 4,
+      "endPosition": 4,
+      "startMs": 1080000,
+      "endMs": 1440000
     }
   ],
   "tracks": [
@@ -72,8 +81,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.3333333333333333,
-      "progressMidpoint": 0.16666666666666666
+      "progressEnd": 0.25,
+      "progressMidpoint": 0.125
     },
     {
       "position": 2,
@@ -100,9 +109,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/5w6iz8tYxh77iPm6YdeMC2",
       "protected": false,
-      "progressStart": 0.3333333333333333,
-      "progressEnd": 0.6666666666666666,
-      "progressMidpoint": 0.5
+      "progressStart": 0.25,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.375
     },
     {
       "position": 3,
@@ -129,9 +138,39 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/0MmaQ3p8j4x65ATx9pdwYO",
       "protected": false,
-      "progressStart": 0.6666666666666666,
+      "progressStart": 0.5,
+      "progressEnd": 0.75,
+      "progressMidpoint": 0.625
+    },
+    {
+      "position": 4,
+      "artist": "Stanislav Tolkachev",
+      "track": "Drift C",
+      "uri": "spotify:track:79X0clB7D8ESeyiDre340a",
+      "bpm": 140,
+      "role": "Lock — floorless stripped-percussion repetition",
+      "added": "2026-09-05",
+      "chapter": "lock",
+      "chapterOrder": 3,
+      "storyBand": "lock",
+      "storyLevel": 3.5,
+      "status": "provisional",
+      "labels": [
+        "lock",
+        "floorless",
+        "stripped-percussion",
+        "relentless-repetition"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 1080000,
+      "endMs": 1440000,
+      "midpointMs": 1260000,
+      "spotifyUrl": "https://open.spotify.com/track/79X0clB7D8ESeyiDre340a",
+      "protected": false,
+      "progressStart": 0.75,
       "progressEnd": 1,
-      "progressMidpoint": 0.8333333333333334
+      "progressMidpoint": 0.875
     }
   ],
   "transitions": [
@@ -150,6 +189,15 @@
       "fromPosition": 2,
       "toPosition": 3,
       "bpmDelta": 4,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
+      "toUri": "spotify:track:79X0clB7D8ESeyiDre340a",
+      "fromPosition": 3,
+      "toPosition": 4,
+      "bpmDelta": -1,
       "protected": false,
       "frozen": false
     }
