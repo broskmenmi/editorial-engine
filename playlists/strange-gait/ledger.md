@@ -8,18 +8,19 @@
 |---:|---|---|---|---:|---|---|---|
 | 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — lurching 4/4 trust anchor | 2026-09-05 |
 | 2 | Aaron Schwarz | Some Letters | spotify:track:5w6iz8tYxh77iPm6YdeMC2 | 137 | ADD | Ground extension — quiet instability | 2026-09-05 |
+| 3 | IGLO | Alive | spotify:track:0MmaQ3p8j4x65ATx9pdwYO | 141 | ADD | Tilt — subtle swing, anchored flow | 2026-09-05 |
 
 ## Current state
 
-**BOOTSTRAP — 2 canonical tracks.**
+**BOOTSTRAP BASELINE COMPLETE — 3 canonical tracks.**
 
-Marauder establishes bodily trust through a lurching four-to-the-floor frame. Some Letters continues at 137 BPM but changes the mechanism of crookedness: source-described repeated percussive fragments and restless LFO motion introduce subtler instability instead of another shuffle/lurch pattern.
+Marauder establishes a lurching physical frame; Some Letters changes the deformation mechanism to quiet instability; Alive makes the first explicit Tilt through source-described subtle swing while remaining firmly anchored and forward-moving.
 
-Until three canonical tracks exist, follow the bootstrap rule and admit at most one track per run.
+Normal sequencing now applies where both neighbours exist. No track is protected yet.
 
 ## Next structural need
 
-Track 3 must prove a real **Tilt**: a clearly different displacement, syncopation, polymetric relation, organic/mechanical interaction, or other auditable gait change that keeps the body oriented after Some Letters.
+After Tilt, the journey needs a **Lock**: a track that makes the altered gait feel natural through repetition or bodily coherence rather than escalating spectacle.
 
 ## Target story
 

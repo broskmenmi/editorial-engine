@@ -3,47 +3,33 @@
 ## Current state
 
 - Created: 2026-09-05.
-- Canonical tracks: 2.
-- Status: bootstrap — Ground established; first Tilt precursor present.
-- Track 1: Inigo Kennedy — Marauder, 136 BPM working dance grid with exact 68 BPM half-time metadata variance preserved.
-- Track 2: Aaron Schwarz — Some Letters, 137 BPM, quiet percussive insistence with source-described subtle instability.
+- Canonical tracks: 3.
+- Status: bootstrap baseline complete — Ground and first Tilt established.
+- Track 1: Inigo Kennedy — Marauder, 136 BPM working dance grid.
+- Track 2: Aaron Schwarz — Some Letters, 137 BPM quiet instability.
+- Track 3: IGLO — Alive, 141 BPM subtle swing with anchored forward motion.
 - Active listener discussions: none.
 - Audio evidence registry: empty.
-- Protected opener/handoffs/ending: none; both accepted tracks are provisional.
+- Protected opener/handoffs/ending: none; all accepted tracks remain provisional.
 - Spotify public identity: verified description and intentional cover.
-- Detailed Site: not published yet.
 
-## Identity
+## Baseline grammar
 
-**The body understands before the pattern does.**
+1. **Marauder** — lurch inside four-to-the-floor trust.
+2. **Some Letters** — quieter instability via repeated fragments and warped texture.
+3. **Alive** — first explicit Tilt via subtle swing while the groove remains anchored.
 
-STRANGE GAIT is physical techno whose pattern bends without losing the body.
+The playlist now demonstrates three different mechanisms of deformation without abandoning bodily continuity. The bootstrap one-add limit ends after this run.
 
-## Bootstrap sequence
+## Pre-audit priority
 
-1. **Marauder** — familiar four-to-the-floor frame, source-described lurch and shuffle.
-2. **Some Letters** — 136→137 continuation, but the deformation mechanism changes to quiet repeated fragments and warped texture rather than another lurch.
+**Sevish — Mystify** is now a TRIGGERED REVISIT because the three-track baseline condition has been satisfied. The next run must use REPAIR mode to test a concrete current role/placement before any fresh exploration elsewhere.
 
-This two-track state is intentionally conservative. The first two tracks establish trust and show that crookedness can arrive through more than one mechanism.
+A likely question is whether Mystify can function after Alive as an early Fracture/Deep Lock statement, or whether the journey needs a canonical Lock before that degree of polymetric/43EDO foregrounding.
 
-## Next scouting priority — Track 3
+## Structural priority after the revisit
 
-Track 3 must prove a real **Tilt**.
-
-It should:
-
-1. remain bodily legible after Some Letters;
-2. introduce a clearer displacement than Track 2 without becoming spectacle;
-3. prefer syncopation, asymmetry, organic/mechanical interaction, cross-rhythm, polymeter, delayed resolution, or another auditable gait change;
-4. avoid merely increasing intensity or copying the first two mechanisms;
-5. make the incoming Some Letters → candidate transition auditable;
-6. leave Mystify parked unless its existing revisit trigger becomes active after Track 3 is persisted.
-
-Because the ledger contains two tracks, Track 3 still follows the one-add-per-run bootstrap limit. After Track 3, normal two-neighbour evaluation applies where both neighbours exist.
-
-## Parked identity hypothesis
-
-**Sevish — Mystify** remains PARKED until at least three canonical tracks establish the baseline grammar or a concrete Fracture/Deep Lock role exists.
+The canonical journey currently needs a **Lock** after Alive: a track that makes the altered gait feel natural through repetition or bodily coherence rather than simple intensity escalation.
 
 ## Volume boundary
 
