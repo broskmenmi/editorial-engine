@@ -6,23 +6,34 @@
 
 | # | Artist | Track | Spotify URI | BPM | Decision | Structural role | Added |
 |---:|---|---|---|---:|---|---|---|
-| 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — lurching 4/4 trust anchor | 2026-09-05 |
-| 2 | Aaron Schwarz | Some Letters | spotify:track:5w6iz8tYxh77iPm6YdeMC2 | 137 | ADD | Ground extension — quiet instability | 2026-09-05 |
-| 3 | IGLO | Alive | spotify:track:0MmaQ3p8j4x65ATx9pdwYO | 141 | ADD | Tilt — subtle swing, anchored flow | 2026-09-05 |
-| 4 | Stanislav Tolkachev | Drift C | spotify:track:79X0clB7D8ESeyiDre340a | 140 | ADD | Lock — floorless stripped-percussion repetition | 2026-09-05 |
+| 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — provisional vibe anchor | 2026-09-05 |
 
 ## Current state
 
-**4 canonical tracks — Ground → Tilt → Lock established.**
+**REPAIR RESET — 1 canonical track.**
 
-Marauder establishes bodily trust; Some Letters shifts to quiet instability; Alive makes the first explicit Tilt through subtle swing; Drift C removes hi-hats/floor cues while source-described relentless repetition stabilizes the altered grammar into Lock.
+Listener feedback on 2026-09-05 reported that the energy shifted with each track and that the sequence felt like a beginner DJ compiling favourite tracks without creating a coherent vibe. On 2026-09-06 the user approved the proposed multi-track repair: keep Marauder as the only provisional anchor, remove Tracks 2–4, and rebuild under a vibe-first doctrine.
 
-No track or handoff is protected yet.
+Removed from the canonical opening/current journey:
 
-## Next structural opportunity
+- Aaron Schwarz — Some Letters
+- IGLO — Alive
+- Stanislav Tolkachev — Drift C
 
-With a canonical Lock now present, the parked Mystify revisit condition is satisfied again. The next run should pre-audit Mystify against the concrete Drift C neighbour before normal exploration.
+This repair is a verdict on the **four-track sequence and those opening placements**, not proof that the removed tracks are globally incompatible with STRANGE GAIT.
+
+No track or handoff is protected.
+
+## Next structural need
+
+Track 2 must remain in **Ground** and make Marauder feel like the beginning of a room rather than an isolated favourite. Track 3 should normally remain Ground as well. Do not force Tilt until a coherent multi-track vibe exists.
+
+Priority order for every next placement:
+
+`same room / energy envelope → bodily continuity → rhythmic evolution`
 
 ## Target story
 
 `Ground → Tilt → Lock → Fracture → Deep Lock → Escape`
+
+Chapters are multi-track zones, not one-track assignments.

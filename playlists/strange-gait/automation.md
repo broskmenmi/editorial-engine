@@ -22,12 +22,29 @@ Read repository-level `AGENTS.md`, this file, `feedback-protocol.md`, and all se
 
 `feedback-protocol.md` overrides conflicting complaint-handling rules.
 
+## Governing priority
+
+STRANGE GAIT is now **vibe-first**.
+
+Apply these priorities in order:
+
+1. preserve one coherent vibe / energy / pressure / atmosphere envelope;
+2. preserve bodily continuity;
+3. evolve the rhythmic gait gradually inside that envelope;
+4. value novelty or role diversity only after the first three gates pass.
+
+A candidate that looks structurally clever, has compatible BPM, or introduces a new rhythmic mechanism is not an ADD if it makes the playlist feel like disconnected favourite tracks.
+
+Listener reports about vibe and energy continuity outrank an elegant paper sequence.
+
 ## Operating lanes
 
 ### REPAIR
 Choose REPAIR only for an actionable objective defect, a triggered STRANGE GAIT REVISIT, a clarified and authorized listener repair, or materially new lawful evidence that makes a specific repair/revisit actionable.
 
 An `AWAITING CLARIFICATION` region is frozen and non-actionable. It does not block work elsewhere.
+
+An explicitly approved exact removal, move, reorder, or replacement using already resolved identities may proceed directly to Sequencer and audit without Scout.
 
 ### EXPLORE
 When no actionable repair exists, perform a genuinely fresh outward scan during this run. Search:
@@ -36,27 +53,27 @@ When no actionable repair exists, perform a genuinely fresh outward scan during 
 - adjacent or emerging artists and labels;
 - overlooked catalogue material.
 
-Prioritize rhythmic behaviours central to STRANGE GAIT: displacement, asymmetry, swing, polymeter, syncopation, elastic low end, organic/mechanical percussion, half-time illusion, phase-like drift, negative space, and controlled rhythmic fracture.
+Begin with **playlist belonging and vibe continuity**, not with a missing chapter role.
 
-Do not search only for genre tags. Do not recycle old leads without materially new evidence. Begin with playlist belonging; discover the track before claiming a missing slot.
+Search for tracks that plausibly inhabit the current room before asking how their rhythm differs. Rhythmic behaviours central to STRANGE GAIT remain useful — displacement, asymmetry, swing, polymeter, syncopation, elastic low end, organic/mechanical percussion, half-time illusion, phase-like drift, negative space and controlled fracture — but they are secondary to atmosphere/energy continuity.
 
-Record a fresh UTC receipt with source URLs or bounded query windows, approximate inspected scope, exclusions, and ranked leads.
+Do not search only for genre tags. Do not recycle old leads without materially new evidence. Record a fresh UTC receipt with source URLs or bounded query windows, approximate inspected scope, exclusions, and ranked leads.
 
 ## Volume boundary
 
 GROOVE OVER NOISE is context, not this playlist's state. Do not mutate it, copy its ledger, or mechanically migrate its rejected/revisit queues.
 
-A prior Volume I track may be considered only through fresh evidence under the STRANGE GAIT constitution.
+## Bootstrap and opening handling
 
-## Bootstrap handling
+When the ledger has fewer than three tracks, follow `constitution.md`'s vibe-first bootstrap rule.
 
-When the ledger is empty or has fewer than three tracks, follow `constitution.md`'s bootstrap rule.
-
-- A lead may use the concrete placement `bootstrap opener — track 1 in empty ledger` when no neighbours exist.
-- Track 1 neighbour compatibility is `N/A — empty ledger`.
-- Track 2 evaluates the incoming neighbour only.
+- Track 1 establishes the room.
+- Track 2 remains Ground and must prove continuation of the same vibe/energy envelope.
+- Track 3 remains Ground by default and must prove a three-track vibe; it does not need to prove Tilt.
 - Until three canonical tracks exist, approve at most **one ADD per run**.
-- Do not manufacture two-sided neighbour evidence where no neighbour exists.
+- Do not manufacture chapter progression merely because another track was added.
+
+After three tracks, chapter changes still span multiple tracks by default. Do not map successive tracks mechanically to Ground → Tilt → Lock → Fracture.
 
 ## Scout and resolver lifecycle
 
@@ -75,45 +92,64 @@ A resolver-only recovery follows repository-level recovery rules and never satis
 
 If no lead clears the floor before resolution, create no padded request or snapshot; send the fresh receipt directly to Auditor.
 
-## Evaluation
+## Evaluation — three gates
 
-For every selected candidate separate:
+For every selected candidate evaluate separately:
 
-- playlist belonging;
-- exact-neighbour compatibility (or the documented bootstrap `N/A` case);
-- measured evidence;
-- craft convention;
-- listener evidence;
-- editorial interpretation;
-- unknown audio properties.
+1. **Playlist belonging** — does it belong in STRANGE GAIT?
+2. **Vibe / energy continuity** — does this exact placement preserve the existing room, pressure, atmosphere and attention envelope?
+3. **Exact-neighbour compatibility** — does it work rhythmically and structurally with the concrete neighbours?
 
-Novelty, popularity, BPM, key, complexity, extra length, artist reputation, or a tool score never justifies admission.
+An ADD requires every applicable gate. Passing BPM or rhythmic compatibility never rescues a vibe-continuity failure.
+
+Keep measured evidence, attributed descriptions, listener evidence, lawful audio evidence, craft convention, editorial interpretation and unknown properties visibly separate.
+
+Never infer perceived energy, pressure, density, space, swing, hypnosis, emotional temperature or attention demand from BPM, artist, genre, title, label or Spotify metadata alone.
+
+When no lawful audio or listener evidence exists, vibe continuity is provisional. For the opening and chapter boundaries, material uncertainty about the shared vibe envelope should normally produce REVISIT rather than a forced ADD.
 
 STRANGE GAIT-specific scrutiny:
 
-- Does asymmetry strengthen bodily pull or merely show complexity?
-- Does a noticeable transition preserve the physical thread?
-- Does the candidate introduce a distinct gait/function rather than another version of an occupied tilt/lock/fracture?
-- Is the candidate becoming IDM spectacle, industrial impact, hardgroove cliché, or ornamental tribalism?
+- Does the candidate sound-on-paper like a new room rather than the same room bending?
+- Is the admission argument mostly “different rhythmic mechanism”? If so, that is insufficient.
+- Does asymmetry strengthen bodily pull or merely display complexity?
+- Does the transition preserve vibe and bodily thread before introducing rhythmic change?
+- Is the candidate becoming IDM spectacle, industrial impact, hardgroove cliché or ornamental tribalism?
 - Does a half/double-time relation have evidence, or is it being invented from numbers?
 
-Unknown perceived pulse remains unknown.
+Novelty, popularity, BPM, key, complexity, extra length, artist reputation, or a tool score never justifies admission.
 
 ## Sequencing
 
-Preferred story:
+Preferred long-form story remains:
 
 `Ground → Tilt → Lock → Fracture → Deep Lock → Escape`
 
-The shape is flexible. No dominant summit is required. A transition may be perceptible; it must not eject the body from the journey.
+But these are **multi-track zones**.
 
-Default adjacent BPM target is 0–5. Differences of 6–9 require concrete continuity evidence. Above 9 normally requires documented half/double-time equivalence or an audited intentional reset. BPM compliance is never sonic proof.
+- Protect the room before advancing the story.
+- Keep several tracks inside one chapter when that strengthens vibe continuity.
+- Do not introduce a new chapter simply to give a candidate a distinct role.
+- A transition may be perceptible rhythmically; an unplanned perceived-energy reset is a defect.
+- First meaningful Tilt should normally come only after a coherent multi-track Ground exists.
+- Default adjacent BPM target remains 0–5. Differences of 6–9 require concrete continuity evidence. Above 9 normally requires documented half/double-time equivalence or an audited intentional reset.
+- BPM compliance is never proof of vibe or neighbour continuity.
 
 Preserve protected and frozen regions. Live-mixing alternatives remain separate from canonical order.
 
+## Listener-feedback repair
+
+When the user reports that the sequence lacks taste, vibe, energy continuity, or sounds like disconnected favourite tracks:
+
+- treat that as high-value listener evidence about the sequence, not a minor metadata mismatch;
+- do not defend the chapter map merely because BPM transitions are valid;
+- if the user approves a multi-track repair scope, prefer the smallest reset that restores one coherent room;
+- removed tracks may be rejected for the current opening/journey without making a global sonic-incompatibility claim;
+- invalidate revisit triggers that depended on structural chapters removed by the repair.
+
 ## Audit and persistence
 
-Auditor validates lane selection, fresh evidence, resolver integrity, belonging/placement separation, bootstrap handling, tempo reasoning, protected/frozen state, and unsupported sonic claims.
+Auditor validates lane selection, listener-feedback scope, vibe-first hierarchy, resolver integrity when used, bootstrap/chapter pacing, tempo reasoning, protected/frozen state, and unsupported sonic claims.
 
 After approval, Librarian persists one logical editorial commit only when durable state changed. Update `journey-annotations.json` with every canonical track/chapter/status change. Do not append telemetry-only or repeated no-change commits.
 
@@ -153,7 +189,7 @@ For blocked discovery/resolution: `EXPLORATION NOT COMPLETED` or `REPAIR SEARCH 
 
 Section 2 contains only audited canonical additions/removals/replacements/reordering; otherwise `None.`
 
-Section 3 uses only `spotify-status.json`. While the initial empty Spotify playlist is being created, report its actual persisted state rather than inferring success.
+Section 3 uses only `spotify-status.json`.
 
 Section 4:
 - if `journey-map.json` declares a published detailed site, link its exact URL;
@@ -175,18 +211,20 @@ Purpose: maximum eight words. Reason: maximum ten words. Do not print the full l
 
 ## RUN ANALYSIS
 
-Every scheduled/requested editorial run must end with a critical analysis grounded in the Auditor evidence packet and persisted final state.
+Every scheduled/requested editorial run must end with critical analysis grounded in the Auditor evidence packet and persisted final state.
 
 It must:
 
 1. identify exact run timestamp and candidate runId when present;
-2. reconstruct the real funnel from material inspected → leads → exact resolutions → evaluated candidates → ADD/REJECT/REVISIT/NO VERDICT → verified published additions;
+2. reconstruct the real funnel;
 3. give at least two run-specific observations from distinct completed phases, or identify the last completed phase and blocker;
 4. challenge the strongest conclusion with a plausible alternative explanation or contract issue;
-5. state what the run proves and does not prove;
+5. state what the result proves and does not prove;
 6. apply outcome-specific scrutiny;
 7. compare recent runs only when genuinely comparable;
 8. recommend a next action only when an evidenced defect/opportunity justifies one;
 9. mark audio-evidence and live-mixing capabilities `NOT TESTED` unless actually exercised.
+
+For listener repairs, explicitly distinguish what the listener report proves about the **current sequence** from what it does not prove about each removed track globally.
 
 The analysis may not rerun Scout, mutate frozen request/snapshot data, revise audited decisions, write editorial state, or create an analysis-only commit.

@@ -6,17 +6,30 @@
   "storyHeightMeaning": "Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
   "detailedSite": {"status":"NOT_PUBLISHED","url":null},
   "chapters": [
-    {"id":"ground","label":"Ground","order":1},{"id":"tilt","label":"Tilt","order":2},{"id":"lock","label":"Lock","order":3},{"id":"fracture","label":"Fracture","order":4},{"id":"deep-lock","label":"Deep lock","order":5},{"id":"escape","label":"Escape","order":6}
+    {"id":"ground","label":"Ground","order":1},
+    {"id":"tilt","label":"Tilt","order":2},
+    {"id":"lock","label":"Lock","order":3},
+    {"id":"fracture","label":"Fracture","order":4},
+    {"id":"deep-lock","label":"Deep lock","order":5},
+    {"id":"escape","label":"Escape","order":6}
   ],
   "storyBands": [
-    {"id":"ground","label":"Ground","level":1.2},{"id":"escape","label":"Escape","level":1.8},{"id":"tilt","label":"Tilt","level":2.7},{"id":"lock","label":"Lock","level":3.5},{"id":"displacement","label":"Displacement","level":4.5},{"id":"deep-lock","label":"Deep lock","level":4.9},{"id":"fracture","label":"Fracture","level":5.9}
+    {"id":"ground","label":"Ground","level":1.2},
+    {"id":"escape","label":"Escape","level":1.8},
+    {"id":"tilt","label":"Tilt","level":2.7},
+    {"id":"lock","label":"Lock","level":3.5},
+    {"id":"displacement","label":"Displacement","level":4.5},
+    {"id":"deep-lock","label":"Deep lock","level":4.9},
+    {"id":"fracture","label":"Fracture","level":5.9}
   ],
   "protected":{"opener":null,"handoffs":[],"ending":[]},
   "discussions":[],
   "tracks":{
-    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["opener","ground-anchor","lurching-four-to-floor"]},
-    "spotify:track:5w6iz8tYxh77iPm6YdeMC2":{"chapter":"ground","storyBand":"tilt","status":"provisional","labels":["ground-extension","tilt-precursor","quiet-instability"]},
-    "spotify:track:0MmaQ3p8j4x65ATx9pdwYO":{"chapter":"tilt","storyBand":"tilt","status":"provisional","labels":["tilt","subtle-swing","anchored-flow"]},
-    "spotify:track:79X0clB7D8ESeyiDre340a":{"chapter":"lock","storyBand":"lock","status":"provisional","labels":["lock","floorless","stripped-percussion","relentless-repetition"]}
+    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{
+      "chapter":"ground",
+      "storyBand":"ground",
+      "status":"provisional",
+      "labels":["opener","ground-anchor","vibe-anchor","repair-anchor"]
+    }
   }
 }
