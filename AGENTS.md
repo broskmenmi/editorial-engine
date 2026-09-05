@@ -48,6 +48,20 @@ The playlist directory is persistent editorial state. The skill packages are gen
 
 `revisit.md` is for candidates not yet admitted. `under-review.md` is for listener-feedback discussions and accepted tracks whose continued place or position is unresolved.
 
+## New volume completion gate
+
+Creating a new playlist volume is not complete when the directory, empty ledger, or Spotify playlist ID merely exists.
+
+Before declaring a new volume active, require all of the following:
+
+- an intentionally chosen public playlist name;
+- a concise public Spotify description stored in `spotify.json` and verified by exact publisher read-back;
+- an intentional square JPEG cover designed for that volume, persisted as `cover.jpg.base64` and referenced by `spotify.json.coverImageBase64Path`;
+- a successful Spotify publication where `spotify-status.json` reports `metadataVerified: true`, `coverConfigured: true`, `coverPresent: true`, and `status: COMPLETE`;
+- the volume's own constitution, automation, canonical state, journey-map inputs, and recurring task when the volume is meant to be active.
+
+Do not inherit another volume's cover, description, rejected/revisit history, frozen discussions, journey map, or Spotify playlist identity. A new volume must have its own public identity as well as its own editorial doctrine.
+
 ## Listener-feedback authority
 
 Before acting on any user complaint about a track or transition, read the target playlist's `feedback-protocol.md`.
@@ -138,66 +152,3 @@ The editorial engine exists to reduce the user's effort and stress around discov
 - Make the best available editorial decision elsewhere, record uncertainty internally, and continue.
 - Natural listener feedback may reopen any accepted decision later.
 - `MANUAL ACTION` is reserved for unavoidable technical steps and must never contain listening homework.
-
-## Evidence discipline
-
-Every substantive editorial claim must be understood as one of four kinds:
-
-1. **Measured evidence** — BPM, duration, track identity, position, or later lawful audio measurements.
-2. **Craft convention** — useful sequencing practice, not a universal musical law.
-3. **Listener report** — the user's actual experience; highest authority when volunteered.
-4. **Editorial interpretation** — chapter, crest, summit, re-entry, decompression, story height, and similar role labels; useful hypotheses rather than facts.
-
-Never imply that Spotify access allows the agent to hear or analyse raw Spotify audio. Never infer busyness, stress, spaciousness, hypnosis, or emotional effect from BPM, artist, genre, title, or metadata alone.
-
-## Required order
-
-For an actionable repair:
-
-Pre-audit → Repair Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
-
-For an explicitly authorized exact move, removal, reorder, or replacement with an already agreed and resolved track that requires no candidate search:
-
-Pre-audit → Sequencer → Auditor → Librarian → Publisher
-
-When no actionable repair exists:
-
-Pre-audit → Exploration Scout → Evaluator → Sequencer → Auditor → Librarian → Publisher
-
-When a fresh exploration scan yields no qualified candidate:
-
-Pre-audit → Exploration Scout → Auditor → Publisher
-
-When an actionable repair search yields no qualified candidate:
-
-Pre-audit → Repair Scout → Auditor → Publisher
-
-Do not write durable editorial state before audit approval. The immutable diagnostic `scout-request.json` → `scout-data.json` resolution lifecycle may write before evaluation; it carries no verdict and authorizes no editorial change. GitHub is the source of truth. Spotify is a publication target.
-
-Persist the approved editorial change set as one batched commit when GitHub tree/commit tools are available. Do not create intermediate editorial commits for partial phases of one run. Do not create a repository commit merely to append a repeated no-change or zero-qualified-candidate run record.
-
-## Delivery safety
-
-- Do not restart completed phases or poll the same status continuously.
-- If Spotify or map publication is pending when the task must finish, report the pending state and deliver the final response.
-- Pending or secondary-cache failures must not be reported as a failed scheduled task when the editorial commit succeeded.
-- The final report is based on the audited decisions, `ledger.md`, `spotify-status.json`, and the latest matching map fingerprint, never on post-publication scout output.
-- When the target playlist requires end-of-run analysis, base it on the Auditor's evidence packet and persisted final state. The analysis may challenge the run but must not reopen Scout, alter audited decisions, or create a telemetry-only commit.
-
-## Spotify publication
-
-- Every canonical ledger row must include one exact Spotify track URI.
-- Exact publication is performed by `.github/workflows/publish-spotify.yml` through `apps/spotify-publisher/` only.
-- The canonical playlist ID is persisted in `spotify.json`.
-- Publication is COMPLETE only when `spotify-status.json` records exact URI-order verification.
-- Do not use the ChatGPT Spotify connector for canonical playlist search, creation, editing, or publication.
-- Do not surface unrelated Spotify playlists or broad search fallback results.
-
-## Installation behavior
-
-For a new user or fork:
-1. Follow `SETUP.md`.
-2. Connect GitHub to ChatGPT.
-3. Configure Spotify Web API credentials as GitHub Actions secrets if automatic publication and duration-enriched maps are desired.
-4. Invoke the scheduler skill once to create the recurring task.
-5. Use one orchestrator task per playlist workflow; never create competing per-skill recurring tasks.
