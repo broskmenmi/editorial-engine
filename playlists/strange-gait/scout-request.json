@@ -1,82 +1,43 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T16:34:30Z-explore-3",
-  "sourceCommit": "3a39e685c8ce9ebf9baad3db53e8b409f55488a0",
-  "mode": "EXPLORE",
+  "runId": "2026-09-05T16:40:15Z-repair-4",
+  "sourceCommit": "2be5502ef8d3f6099a39273b6b5fd10a58eacab6",
+  "mode": "REPAIR",
   "target": {
-    "role": "bootstrap STRANGE GAIT track 3 that proves a real Tilt after Some Letters",
-    "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
-    "neighbours": ["spotify:track:5w6iz8tYxh77iPm6YdeMC2"],
-    "purpose": "prove displacement without losing bodily orientation"
-  },
-  "explorationReceipt": {
-    "timestampUtc": "2026-09-05T16:34:30Z",
-    "sourceWindows": [
-      "Fresh current/recent raw deep hypnotic techno scan for floorless rhythm, missing-beat tension, subtle swing and anchored displacement",
-      "Fresh Stanislav Tolkachev / Furatena Drift / Remain exact-track evidence: https://binaryalgorithms.bandcamp.com/album/drift-remain and exact Beatport metadata",
-      "Fresh IGLO / Figure Severance exact-release evidence: https://iglo1.bandcamp.com/album/severance and exact Beatport metadata",
-      "Adjacent July–September 2026 catalogue searches for stripped percussion and rhythmic systems that change gait without peak-time spectacle"
-    ],
-    "approximateInspectedScope": "approximately 50 named tracks/releases across roughly 17 current, adjacent and overlooked catalogue pages",
-    "exclusions": [
-      "another quiet-instability Ground extension",
-      "impact-led hard techno and industrial pressure",
-      "tracks whose unusualness is primarily melodic or timbral",
-      "large tempo resets without documented pulse relation",
-      "polymetric spectacle reserved for later chapters while bootstrap is still establishing bodily grammar"
-    ],
-    "rankedLeadSummary": [
-      "1. Stanislav Tolkachev — Drift C: 140 BPM floorless, hi-hat-free stripped percussion that locks relentlessly",
-      "2. IGLO — Alive: 141 BPM open flowing groove with subtle swing and anchored forward motion"
-    ]
+    "role": "triggered REVISIT evaluation of Sevish — Mystify after the three-track STRANGE GAIT baseline exists",
+    "position": "after IGLO — Alive at end of current ledger",
+    "neighbours": ["spotify:track:0MmaQ3p8j4x65ATx9pdwYO"],
+    "purpose": "test whether polymetric 43EDO belongs now or needs a Lock first"
   },
   "leads": [
     {
-      "artist": "Stanislav Tolkachev",
-      "track": "Drift C",
+      "artist": "Sevish",
+      "track": "Mystify",
+      "releaseDate": "2025-10-31",
       "bpm": 140,
-      "bpmSource": "Beatport exact-track metadata reports 140 BPM: https://www.beatport.com/track/drift-c/29264819",
-      "discoverySource": "Fresh official release description: https://binaryalgorithms.bandcamp.com/album/drift-remain",
+      "bpmSource": "Artist-owned exact track page: https://sevish.bandcamp.com/track/mystify",
+      "discoverySource": "Triggered STRANGE GAIT revisit; artist-owned exact-track evidence retained from the original evaluated identity: https://sevish.bandcamp.com/track/mystify",
+      "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
+          "position": "after IGLO — Alive at end of current ledger",
           "candidateBpm": 140,
-          "role": "Tilt — floorless stripped-percussion displacement"
+          "role": "possible early Fracture / Deep Lock statement"
         }
       ],
-      "fitHypothesis": "The 137→140 step is within normal tempo grammar while the source-described floorless, hi-hat-free percussive core provides a clearly different bodily logic from both Marauder and Some Letters; relentless lock may preserve orientation despite the more obvious displacement.",
+      "fitHypothesis": "The 141→140 handoff is numerically calm and the established three-track baseline now permits a real test of Mystify's polymetric identity; however, a 16:31 43EDO/polymetric statement immediately after the first Tilt may skip the journey's Lock phase and foreground technique before the altered gait has become natural.",
       "evidence": {
-        "measured": ["140 BPM from exact Beatport metadata","duration 5:09","released July 2026"],
-        "attributedDescription": "The official release describes Drift C as cavernous and relentlessly repetitive: 140-BPM floorless techno without hi-hats, built from a stripped percussive core that locks in and refuses to leave. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "measured": [
+          "known Spotify track ID 7sHN0QPVxD7NjkSCH6NTZi requires resolver re-verification",
+          "140 BPM from artist-owned exact track page",
+          "Spotify-resolved duration approximately 16:31 from the prior immutable snapshot",
+          "released 2025-10-31"
+        ],
+        "attributedDescription": "Sevish explicitly describes Mystify as polymetric techno and documents 43EDO tuning while describing the wider project as unconventional rhythms/tunings kept approachable. This is attributed source evidence, not direct listening or raw-audio analysis.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "Track 3 should create a perceptible rhythmic tilt while keeping enough repetitive lock for the body to stay oriented."
-      }
-    },
-    {
-      "artist": "IGLO",
-      "track": "Alive",
-      "album": "Severance",
-      "releaseDate": "2026-02-27",
-      "bpm": 141,
-      "bpmSource": "Beatport exact-track metadata reports 141 BPM: https://www.beatport.com/track/t/24001451?currency=EUR",
-      "discoverySource": "Fresh official Figure/artist release description: https://iglo1.bandcamp.com/album/severance",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Aaron Schwarz — Some Letters — track 3 at end of ledger",
-          "candidateBpm": 141,
-          "role": "Tilt alternative — subtle swing and flowing anchor"
-        }
-      ],
-      "fitHypothesis": "The 137→141 step remains within the normal range and the source-described subtle swing changes gait while the groove stays anchored, but it may be too soft a displacement to prove the Track 3 Tilt as clearly as Drift C.",
-      "evidence": {
-        "measured": ["141 BPM from exact Beatport metadata","duration 6:16","released 2026-02-27"],
-        "attributedDescription": "Figure/IGLO describes Alive as more open and flowing, with warmer tones and a subtle swing softening the edges while the groove remains firmly anchored and forward-moving. This is attributed source evidence, not direct listening or raw-audio analysis.",
-        "listenerEvidence": null,
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A bootstrap Tilt should be more legible than Track 2 while retaining bodily trust."
+        "craftConvention": "After Ground and Tilt, an early Fracture should not substitute for the Lock chapter unless the transition itself demonstrates bodily reorientation rather than concept escalation."
       }
     }
   ]
