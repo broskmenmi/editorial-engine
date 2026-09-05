@@ -141,7 +141,7 @@ jobs:
           request_path="$PLAYLIST_DIR/scout-request.json"
           snapshot_path="$PLAYLIST_DIR/scout-data.json"
 
-          if git diff --quiet -- "$snapshot_path"; then
+          if [[ -z "$(git status --porcelain -- "$snapshot_path")" ]]; then
             exit 0
           fi
 
@@ -185,7 +185,7 @@ jobs:
             git reset --hard origin/main
             cp "$temp_dir/scout-data.json" "$snapshot_path"
 
-            if git diff --quiet -- "$snapshot_path"; then
+            if [[ -z "$(git status --porcelain -- "$snapshot_path")" ]]; then
               exit 0
             fi
 
