@@ -1,4 +1,4 @@
-name: Publish Spotify playlist
+name: Publish Spotify playlists
 
 on:
   push:
@@ -31,11 +31,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Resolve canonical ledger revision
-        shell: bash
-        run: |
-          echo "LEDGER_COMMIT=$(git log -1 --format=%H -- playlists/groove-over-noise/ledger.md)" >> "$GITHUB_ENV"
-
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
@@ -45,22 +40,50 @@ jobs:
         working-directory: apps/spotify-publisher
         run: npm test
 
-      - name: Publish and verify canonical playlist
-        run: node apps/spotify-publisher/src/index.js
+      - name: Publish and verify configured playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+          found=0
+          while IFS= read -r -d '' playlist_dir; do
+            if [[ ! -f "$playlist_dir/ledger.md" || ! -f "$playlist_dir/spotify.json" ]]; then
+              continue
+            fi
+            found=1
+            ledger_commit="$(git log -1 --format=%H -- "$playlist_dir/ledger.md")"
+            echo "Publishing $playlist_dir from ledger commit $ledger_commit"
+            LEDGER_COMMIT="$ledger_commit" node apps/spotify-publisher/src/index.js \
+              --playlist-dir "$playlist_dir" \
+              --allow-empty
+          done < <(find playlists -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
 
-      - name: Persist playlist identity and verified status
+          if [[ "$found" -eq 0 ]]; then
+            echo "No configured playlist directories found."
+            exit 1
+          fi
+
+      - name: Persist playlist identities and verified statuses
         if: always()
         shell: bash
         run: |
           set -euo pipefail
 
-          if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+          changed=()
+          while IFS= read -r -d '' file; do
+            if ! git diff --quiet -- "$file"; then
+              changed+=("$file")
+            fi
+          done < <(find playlists -mindepth 2 -maxdepth 2 -type f \( -name spotify.json -o -name spotify-status.json \) -print0 | sort -z)
+
+          if [[ "${#changed[@]}" -eq 0 ]]; then
             exit 0
           fi
 
           temp_dir="$(mktemp -d)"
-          cp playlists/groove-over-noise/spotify.json "$temp_dir/spotify.json"
-          cp playlists/groove-over-noise/spotify-status.json "$temp_dir/spotify-status.json"
+          for file in "${changed[@]}"; do
+            mkdir -p "$temp_dir/$(dirname "$file")"
+            cp "$file" "$temp_dir/$file"
+          done
 
           git config user.name "editorial-engine[bot]"
           git config user.email "editorial-engine[bot]@users.noreply.github.com"
@@ -68,24 +91,26 @@ jobs:
           for attempt in 1 2 3 4; do
             git fetch origin main
 
-            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- \
-              playlists/groove-over-noise/ledger.md \
-              playlists/groove-over-noise/spotify.json \
-              playlists/groove-over-noise/cover.jpg.base64 \
-              apps/spotify-publisher; then
+            if git diff --name-only "$GITHUB_SHA"..origin/main -- \
+              ':(glob)playlists/*/ledger.md' \
+              ':(glob)playlists/*/spotify.json' \
+              ':(glob)playlists/*/cover.jpg.base64' \
+              apps/spotify-publisher | grep -q .; then
               echo "Newer publication inputs exist; skipping stale Spotify status."
               exit 0
             fi
 
             git reset --hard origin/main
-            cp "$temp_dir/spotify.json" playlists/groove-over-noise/spotify.json
-            cp "$temp_dir/spotify-status.json" playlists/groove-over-noise/spotify-status.json
+            for file in "${changed[@]}"; do
+              mkdir -p "$(dirname "$file")"
+              cp "$temp_dir/$file" "$file"
+            done
 
-            if git diff --quiet -- playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json; then
+            if git diff --quiet -- "${changed[@]}"; then
               exit 0
             fi
 
-            git add playlists/groove-over-noise/spotify.json playlists/groove-over-noise/spotify-status.json
+            git add -- "${changed[@]}"
             git commit -m "Update Spotify publication status [skip ci]"
 
             if git push origin HEAD:main; then

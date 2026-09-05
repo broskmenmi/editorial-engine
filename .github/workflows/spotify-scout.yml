@@ -5,9 +5,14 @@ on:
     branches: [main]
     paths:
       - "apps/spotify-scout/**"
-      - "playlists/groove-over-noise/scout-request.json"
+      - "playlists/**/scout-request.json"
       - ".github/workflows/spotify-scout.yml"
   workflow_dispatch:
+    inputs:
+      playlist_dir:
+        description: Playlist directory containing scout-request.json
+        required: false
+        default: playlists/groove-over-noise
 
 permissions:
   contents: write
@@ -29,21 +34,57 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Resolve target playlist
+        id: resolve
+        shell: bash
+        run: |
+          set -euo pipefail
+          playlist_dir=""
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            playlist_dir="${{ inputs.playlist_dir }}"
+          else
+            request_path="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- ':(glob)playlists/*/scout-request.json' | head -n 1)"
+            if [[ -n "$request_path" ]]; then
+              playlist_dir="$(dirname "$request_path")"
+            fi
+          fi
+
+          if [[ -z "$playlist_dir" || ! -f "$playlist_dir/scout-request.json" ]]; then
+            echo "No scout request changed in this workflow commit; nothing to resolve."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          case "$playlist_dir" in
+            playlists/*) ;;
+            *) echo "Invalid playlist directory: $playlist_dir"; exit 1 ;;
+          esac
+
+          echo "playlist_dir=$playlist_dir" >> "$GITHUB_OUTPUT"
+          echo "should_run=true" >> "$GITHUB_OUTPUT"
+
       - name: Set up Node.js
+        if: steps.resolve.outputs.should_run == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 24
 
       - name: Validate immutable scout request history
-        run: node apps/spotify-scout/src/validate-request-history.js playlists/groove-over-noise/scout-request.json
+        if: steps.resolve.outputs.should_run == 'true'
+        env:
+          PLAYLIST_DIR: ${{ steps.resolve.outputs.playlist_dir }}
+        run: node apps/spotify-scout/src/validate-request-history.js "$PLAYLIST_DIR/scout-request.json"
 
       - name: Validate resolver source state
+        if: steps.resolve.outputs.should_run == 'true'
+        env:
+          PLAYLIST_DIR: ${{ steps.resolve.outputs.playlist_dir }}
         shell: bash
         run: |
           set -euo pipefail
+          request_path="$PLAYLIST_DIR/scout-request.json"
+          snapshot_path="$PLAYLIST_DIR/scout-data.json"
 
-          request_path="playlists/groove-over-noise/scout-request.json"
-          snapshot_path="playlists/groove-over-noise/scout-data.json"
           if node apps/spotify-scout/src/check-terminal-snapshot.js "$request_path" "$snapshot_path"; then
             exit 0
           else
@@ -61,10 +102,10 @@ jobs:
           fi
 
           resolver_inputs=(
-            "playlists/groove-over-noise/ledger.md"
-            "playlists/groove-over-noise/rejected.md"
-            "playlists/groove-over-noise/revisit.md"
-            "playlists/groove-over-noise/discoveries.md"
+            "$PLAYLIST_DIR/ledger.md"
+            "$PLAYLIST_DIR/rejected.md"
+            "$PLAYLIST_DIR/revisit.md"
+            "$PLAYLIST_DIR/discoveries.md"
           )
           if ! git diff --quiet "$source_commit" "$GITHUB_SHA" -- "${resolver_inputs[@]}"; then
             echo "Resolver inputs changed after scout-request sourceCommit; create a new runId from current state."
@@ -72,22 +113,40 @@ jobs:
           fi
 
       - name: Test scout lifecycle
+        if: steps.resolve.outputs.should_run == 'true'
         run: node --test apps/spotify-scout/test/*.test.js
 
-      - name: Build scout data
-        run: node apps/spotify-scout/src/index.js
-
-      - name: Persist scout data
+      - name: Build scout data for target playlist
+        if: steps.resolve.outputs.should_run == 'true'
+        env:
+          PLAYLIST_DIR: ${{ steps.resolve.outputs.playlist_dir }}
         shell: bash
         run: |
           set -euo pipefail
+          sandbox="$(mktemp -d)"
+          mkdir -p "$sandbox/playlists"
+          ln -s "$GITHUB_WORKSPACE/$PLAYLIST_DIR" "$sandbox/playlists/groove-over-noise"
+          (
+            cd "$sandbox"
+            node "$GITHUB_WORKSPACE/apps/spotify-scout/src/index.js"
+          )
 
-          if git diff --quiet -- playlists/groove-over-noise/scout-data.json; then
+      - name: Persist scout data
+        if: steps.resolve.outputs.should_run == 'true'
+        env:
+          PLAYLIST_DIR: ${{ steps.resolve.outputs.playlist_dir }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          request_path="$PLAYLIST_DIR/scout-request.json"
+          snapshot_path="$PLAYLIST_DIR/scout-data.json"
+
+          if git diff --quiet -- "$snapshot_path"; then
             exit 0
           fi
 
           temp_dir="$(mktemp -d)"
-          cp playlists/groove-over-noise/scout-data.json "$temp_dir/scout-data.json"
+          cp "$snapshot_path" "$temp_dir/scout-data.json"
 
           git config user.name "editorial-engine[bot]"
           git config user.email "editorial-engine[bot]@users.noreply.github.com"
@@ -96,11 +155,11 @@ jobs:
             git fetch origin main
 
             resolver_inputs=(
-              "playlists/groove-over-noise/scout-request.json"
-              "playlists/groove-over-noise/ledger.md"
-              "playlists/groove-over-noise/rejected.md"
-              "playlists/groove-over-noise/revisit.md"
-              "playlists/groove-over-noise/discoveries.md"
+              "$PLAYLIST_DIR/scout-request.json"
+              "$PLAYLIST_DIR/ledger.md"
+              "$PLAYLIST_DIR/rejected.md"
+              "$PLAYLIST_DIR/revisit.md"
+              "$PLAYLIST_DIR/discoveries.md"
               "apps/spotify-scout"
               ".github/workflows/spotify-scout.yml"
             )
@@ -110,8 +169,8 @@ jobs:
             fi
 
             origin_snapshot="$temp_dir/origin-scout-data.json"
-            if git show origin/main:playlists/groove-over-noise/scout-data.json > "$origin_snapshot" 2>/dev/null; then
-              if node apps/spotify-scout/src/check-terminal-snapshot.js playlists/groove-over-noise/scout-request.json "$origin_snapshot"; then
+            if git show origin/main:"$snapshot_path" > "$origin_snapshot" 2>/dev/null; then
+              if node apps/spotify-scout/src/check-terminal-snapshot.js "$request_path" "$origin_snapshot"; then
                 echo "Matching terminal scout snapshot already exists; preserving it."
                 exit 0
               else
@@ -124,13 +183,13 @@ jobs:
             fi
 
             git reset --hard origin/main
-            cp "$temp_dir/scout-data.json" playlists/groove-over-noise/scout-data.json
+            cp "$temp_dir/scout-data.json" "$snapshot_path"
 
-            if git diff --quiet -- playlists/groove-over-noise/scout-data.json; then
+            if git diff --quiet -- "$snapshot_path"; then
               exit 0
             fi
 
-            git add playlists/groove-over-noise/scout-data.json
+            git add "$snapshot_path"
             git commit -m "Update Spotify scout data [skip ci]"
 
             if git push origin HEAD:main; then

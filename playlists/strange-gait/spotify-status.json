@@ -1,0 +1,21 @@
+{
+  "status": "PENDING",
+  "playlistId": null,
+  "playlistUrl": null,
+  "ledgerCommit": null,
+  "ledgerFingerprint": null,
+  "ledgerTrackCount": 0,
+  "spotifyTrackCount": null,
+  "metadataVerified": false,
+  "metadataChecks": {
+    "nameMatch": false,
+    "descriptionMatch": false,
+    "privacyMatch": false
+  },
+  "coverConfigured": false,
+  "coverUploaded": false,
+  "coverPresent": false,
+  "verifiedAt": null,
+  "snapshotId": null,
+  "error": "Initial Spotify publication has not completed yet."
+}

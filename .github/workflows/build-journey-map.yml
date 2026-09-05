@@ -1,12 +1,13 @@
-name: Build GROOVE OVER NOISE journey map
+name: Build playlist journey maps
 
 on:
   push:
     branches: [main]
     paths:
-      - "playlists/groove-over-noise/ledger.md"
-      - "playlists/groove-over-noise/journey-annotations.json"
-      - "playlists/groove-over-noise/under-review.md"
+      - "playlists/**/ledger.md"
+      - "playlists/**/journey-annotations.json"
+      - "playlists/**/under-review.md"
+      - "playlists/**/spotify.json"
       - "apps/journey-map/**"
       - ".github/workflows/build-journey-map.yml"
   workflow_dispatch:
@@ -36,26 +37,47 @@ jobs:
         with:
           node-version: 24
 
-      - name: Build journey map
-        run: node --import ./apps/journey-map/src/spotify-fetch-shim.js apps/journey-map/src/index.js
-
-      - name: Persist generated map
+      - name: Build non-empty journey maps
         shell: bash
         run: |
           set -euo pipefail
+          while IFS= read -r -d '' playlist_dir; do
+            ledger="$playlist_dir/ledger.md"
+            annotations="$playlist_dir/journey-annotations.json"
+            if [[ ! -f "$ledger" || ! -f "$annotations" ]]; then
+              continue
+            fi
+            if ! grep -q 'spotify:track:' "$ledger"; then
+              echo "Skipping empty ledger: $playlist_dir"
+              continue
+            fi
+            echo "Building journey map for $playlist_dir"
+            node --import ./apps/journey-map/src/spotify-fetch-shim.js \
+              apps/journey-map/src/index.js \
+              --playlist-dir "$playlist_dir"
+            node apps/journey-map/src/normalize-playlist.js "$playlist_dir"
+          done < <(find playlists -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
 
-          map_paths=(
-            playlists/groove-over-noise/journey-map.json
-            playlists/groove-over-noise/journey-map.svg
-          )
+      - name: Persist generated maps
+        shell: bash
+        run: |
+          set -euo pipefail
+          changed=()
+          while IFS= read -r -d '' file; do
+            if ! git diff --quiet -- "$file"; then
+              changed+=("$file")
+            fi
+          done < <(find playlists -mindepth 2 -maxdepth 2 -type f \( -name journey-map.json -o -name journey-map.svg \) -print0 | sort -z)
 
-          if [ -z "$(git status --porcelain -- "${map_paths[@]}")" ]; then
+          if [[ "${#changed[@]}" -eq 0 ]]; then
             exit 0
           fi
 
           temp_dir="$(mktemp -d)"
-          cp playlists/groove-over-noise/journey-map.json "$temp_dir/journey-map.json"
-          cp playlists/groove-over-noise/journey-map.svg "$temp_dir/journey-map.svg"
+          for file in "${changed[@]}"; do
+            mkdir -p "$temp_dir/$(dirname "$file")"
+            cp "$file" "$temp_dir/$file"
+          done
 
           git config user.name "editorial-engine[bot]"
           git config user.email "editorial-engine[bot]@users.noreply.github.com"
@@ -63,25 +85,28 @@ jobs:
           for attempt in 1 2 3 4; do
             git fetch origin main
 
-            if ! git diff --quiet "$GITHUB_SHA"..origin/main -- \
-              playlists/groove-over-noise/ledger.md \
-              playlists/groove-over-noise/journey-annotations.json \
-              playlists/groove-over-noise/under-review.md \
-              apps/journey-map; then
-              echo "Newer map inputs exist; skipping stale generated map."
+            if git diff --name-only "$GITHUB_SHA"..origin/main -- \
+              ':(glob)playlists/*/ledger.md' \
+              ':(glob)playlists/*/journey-annotations.json' \
+              ':(glob)playlists/*/under-review.md' \
+              ':(glob)playlists/*/spotify.json' \
+              apps/journey-map | grep -q .; then
+              echo "Newer map inputs exist; skipping stale generated maps."
               exit 0
             fi
 
             git reset --hard origin/main
-            cp "$temp_dir/journey-map.json" playlists/groove-over-noise/journey-map.json
-            cp "$temp_dir/journey-map.svg" playlists/groove-over-noise/journey-map.svg
+            for file in "${changed[@]}"; do
+              mkdir -p "$(dirname "$file")"
+              cp "$temp_dir/$file" "$file"
+            done
 
-            if [ -z "$(git status --porcelain -- "${map_paths[@]}")" ]; then
+            if git diff --quiet -- "${changed[@]}"; then
               exit 0
             fi
 
-            git add "${map_paths[@]}"
-            git commit -m "Update GROOVE OVER NOISE journey map [skip ci]"
+            git add -- "${changed[@]}"
+            git commit -m "Update playlist journey maps [skip ci]"
 
             if git push origin HEAD:main; then
               exit 0
@@ -91,5 +116,5 @@ jobs:
             sleep $((attempt * 2))
           done
 
-          echo "Could not persist journey map after four attempts."
+          echo "Could not persist journey maps after four attempts."
           exit 1

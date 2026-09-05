@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "playlistSlug": "strange-gait",
+  "playlistTitle": "STRANGE GAIT",
+  "storyModel": "ground-tilt-lock-fracture-deep-lock-escape",
+  "storyHeightMeaning": "Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
+  "detailedSite": {
+    "status": "NOT_PUBLISHED",
+    "url": null
+  },
+  "chapters": [
+    { "id": "ground", "label": "Ground", "order": 1 },
+    { "id": "tilt", "label": "Tilt", "order": 2 },
+    { "id": "lock", "label": "Lock", "order": 3 },
+    { "id": "fracture", "label": "Fracture", "order": 4 },
+    { "id": "deep-lock", "label": "Deep lock", "order": 5 },
+    { "id": "escape", "label": "Escape", "order": 6 }
+  ],
+  "storyBands": [
+    { "id": "ground", "label": "Ground", "level": 1.2 },
+    { "id": "escape", "label": "Escape", "level": 1.8 },
+    { "id": "tilt", "label": "Tilt", "level": 2.7 },
+    { "id": "lock", "label": "Lock", "level": 3.5 },
+    { "id": "displacement", "label": "Displacement", "level": 4.5 },
+    { "id": "deep-lock", "label": "Deep lock", "level": 4.9 },
+    { "id": "fracture", "label": "Fracture", "level": 5.9 }
+  ],
+  "protected": {
+    "opener": null,
+    "handoffs": [],
+    "ending": []
+  },
+  "discussions": [],
+  "tracks": {}
+}
