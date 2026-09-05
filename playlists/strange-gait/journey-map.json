@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T16:45:55.951Z",
+  "generatedAt": "2026-09-05T22:51:51.767Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "5cf74db8e258cd3283ed9ea7b183c6dcaa3ba5ed7166f00add237a2c07782e0a",
-    "annotationsFingerprint": "f5e4df60e58d3df220d020bdc37c44e47ce4a5f0e3af070fb442e4b708c5bfe7"
+    "ledgerFingerprint": "aff200ff82232d09747777e1cb39a880e921c6ce39e828d360f3b2447de3bd33",
+    "annotationsFingerprint": "4f3ea9550c19568f7924b3a1c8a322657cdde29b8b37d75219eff832ad18664e"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,11 +18,11 @@
     "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
-    "trackCount": 4,
-    "durationMs": 1440000,
-    "durationLabel": "24m",
+    "trackCount": 1,
+    "durationMs": 360000,
+    "durationLabel": "6m",
     "bpmMin": 136,
-    "bpmMax": 141,
+    "bpmMax": 136,
     "latestAddedDate": "2026-09-05"
   },
   "chapters": [
@@ -31,27 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 2,
+      "endPosition": 1,
       "startMs": 0,
-      "endMs": 720000
-    },
-    {
-      "id": "tilt",
-      "label": "Tilt",
-      "order": 2,
-      "startPosition": 3,
-      "endPosition": 3,
-      "startMs": 720000,
-      "endMs": 1080000
-    },
-    {
-      "id": "lock",
-      "label": "Lock",
-      "order": 3,
-      "startPosition": 4,
-      "endPosition": 4,
-      "startMs": 1080000,
-      "endMs": 1440000
+      "endMs": 360000
     }
   ],
   "tracks": [
@@ -61,7 +43,7 @@
       "track": "Marauder",
       "uri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
       "bpm": 136,
-      "role": "Ground — lurching 4/4 trust anchor",
+      "role": "Ground — provisional vibe anchor",
       "added": "2026-09-05",
       "chapter": "ground",
       "chapterOrder": 1,
@@ -71,7 +53,8 @@
       "labels": [
         "opener",
         "ground-anchor",
-        "lurching-four-to-floor"
+        "vibe-anchor",
+        "repair-anchor"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -81,127 +64,11 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.25,
-      "progressMidpoint": 0.125
-    },
-    {
-      "position": 2,
-      "artist": "Aaron Schwarz",
-      "track": "Some Letters",
-      "uri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
-      "bpm": 137,
-      "role": "Ground extension — quiet instability",
-      "added": "2026-09-05",
-      "chapter": "ground",
-      "chapterOrder": 1,
-      "storyBand": "tilt",
-      "storyLevel": 2.7,
-      "status": "provisional",
-      "labels": [
-        "ground-extension",
-        "tilt-precursor",
-        "quiet-instability"
-      ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 360000,
-      "endMs": 720000,
-      "midpointMs": 540000,
-      "spotifyUrl": "https://open.spotify.com/track/5w6iz8tYxh77iPm6YdeMC2",
-      "protected": false,
-      "progressStart": 0.25,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.375
-    },
-    {
-      "position": 3,
-      "artist": "IGLO",
-      "track": "Alive",
-      "uri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
-      "bpm": 141,
-      "role": "Tilt — subtle swing, anchored flow",
-      "added": "2026-09-05",
-      "chapter": "tilt",
-      "chapterOrder": 2,
-      "storyBand": "tilt",
-      "storyLevel": 2.7,
-      "status": "provisional",
-      "labels": [
-        "tilt",
-        "subtle-swing",
-        "anchored-flow"
-      ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 720000,
-      "endMs": 1080000,
-      "midpointMs": 900000,
-      "spotifyUrl": "https://open.spotify.com/track/0MmaQ3p8j4x65ATx9pdwYO",
-      "protected": false,
-      "progressStart": 0.5,
-      "progressEnd": 0.75,
-      "progressMidpoint": 0.625
-    },
-    {
-      "position": 4,
-      "artist": "Stanislav Tolkachev",
-      "track": "Drift C",
-      "uri": "spotify:track:79X0clB7D8ESeyiDre340a",
-      "bpm": 140,
-      "role": "Lock — floorless stripped-percussion repetition",
-      "added": "2026-09-05",
-      "chapter": "lock",
-      "chapterOrder": 3,
-      "storyBand": "lock",
-      "storyLevel": 3.5,
-      "status": "provisional",
-      "labels": [
-        "lock",
-        "floorless",
-        "stripped-percussion",
-        "relentless-repetition"
-      ],
-      "durationMs": 360000,
-      "durationSource": "fallback-six-minutes",
-      "startMs": 1080000,
-      "endMs": 1440000,
-      "midpointMs": 1260000,
-      "spotifyUrl": "https://open.spotify.com/track/79X0clB7D8ESeyiDre340a",
-      "protected": false,
-      "progressStart": 0.75,
       "progressEnd": 1,
-      "progressMidpoint": 0.875
+      "progressMidpoint": 0.5
     }
   ],
-  "transitions": [
-    {
-      "fromUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-      "toUri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
-      "fromPosition": 1,
-      "toPosition": 2,
-      "bpmDelta": 1,
-      "protected": false,
-      "frozen": false
-    },
-    {
-      "fromUri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
-      "toUri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
-      "fromPosition": 2,
-      "toPosition": 3,
-      "bpmDelta": 4,
-      "protected": false,
-      "frozen": false
-    },
-    {
-      "fromUri": "spotify:track:0MmaQ3p8j4x65ATx9pdwYO",
-      "toUri": "spotify:track:79X0clB7D8ESeyiDre340a",
-      "fromPosition": 3,
-      "toPosition": 4,
-      "bpmDelta": -1,
-      "protected": false,
-      "frozen": false
-    }
-  ],
+  "transitions": [],
   "protected": {
     "opener": null,
     "handoffs": [],
