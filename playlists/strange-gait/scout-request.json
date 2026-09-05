@@ -1,43 +1,62 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T16:40:15Z-repair-4",
-  "sourceCommit": "2be5502ef8d3f6099a39273b6b5fd10a58eacab6",
-  "mode": "REPAIR",
+  "runId": "2026-09-05T16:42:30Z-explore-5",
+  "sourceCommit": "b0f60dfac037d9e0328502e0b3b4ff53966cc510",
+  "mode": "EXPLORE",
   "target": {
-    "role": "triggered REVISIT evaluation of Sevish — Mystify after the three-track STRANGE GAIT baseline exists",
+    "role": "first canonical Lock after IGLO — Alive",
     "position": "after IGLO — Alive at end of current ledger",
     "neighbours": ["spotify:track:0MmaQ3p8j4x65ATx9pdwYO"],
-    "purpose": "test whether polymetric 43EDO belongs now or needs a Lock first"
+    "purpose": "make the altered gait feel natural through repetition"
+  },
+  "explorationReceipt": {
+    "timestampUtc": "2026-09-05T16:42:30Z",
+    "sourceWindows": [
+      "Fresh current/recent raw deep hypnotic techno scan for repetition, controlled movement, stripped percussion and bodily Lock functions",
+      "Fresh current Beatport windows around 140–143 BPM raw/deep/hypnotic releases and adjacent label catalogues",
+      "Fresh overlooked catalogue scan for repetition without peak-time impact, including Furatena and The Third Room",
+      "Materially new exact Drift C identity evidence: dedicated Spotify single https://open.spotify.com/album/1BaXWWVf5Aw75JkMRRNam6",
+      "Exact Drift C metadata: https://www.beatport.com/track/drift-c/29264819 and official Furatena description https://binaryalgorithms.bandcamp.com/album/drift-remain"
+    ],
+    "approximateInspectedScope": "approximately 65 named tracks/releases across roughly 22 current, adjacent and overlooked catalogue/search pages",
+    "exclusions": [
+      "peak-time, industrial or hardgroove pressure",
+      "another subtle-swing Tilt rather than a Lock",
+      "tracks whose repetition is merely straight functional drive with no STRANGE GAIT identity",
+      "large tempo resets without a documented metrical relation",
+      "Mystify, which was just re-parked until a canonical Lock exists"
+    ],
+    "rankedLeadSummary": [
+      "1. Stanislav Tolkachev — Drift C: 140 BPM floorless, hi-hat-free stripped percussion that locks relentlessly; new one-track Spotify single now disambiguates the intended recording"
+    ]
   },
   "leads": [
     {
-      "artist": "Sevish",
-      "track": "Mystify",
-      "releaseDate": "2025-10-31",
+      "artist": "Stanislav Tolkachev",
+      "track": "Drift C",
       "bpm": 140,
-      "bpmSource": "Artist-owned exact track page: https://sevish.bandcamp.com/track/mystify",
-      "discoverySource": "Triggered STRANGE GAIT revisit; artist-owned exact-track evidence retained from the original evaluated identity: https://sevish.bandcamp.com/track/mystify",
-      "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+      "bpmSource": "Beatport exact-track metadata: https://www.beatport.com/track/drift-c/29264819",
+      "discoverySource": "Fresh official Furatena/Binary Algorithms exact-track description: https://binaryalgorithms.bandcamp.com/album/drift-remain; materially new dedicated Spotify single identity evidence: https://open.spotify.com/album/1BaXWWVf5Aw75JkMRRNam6",
+      "spotifyAlbumId": "1BaXWWVf5Aw75JkMRRNam6",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after IGLO — Alive at end of current ledger",
           "candidateBpm": 140,
-          "role": "possible early Fracture / Deep Lock statement"
+          "role": "Lock — floorless stripped-percussion repetition"
         }
       ],
-      "fitHypothesis": "The 141→140 handoff is numerically calm and the established three-track baseline now permits a real test of Mystify's polymetric identity; however, a 16:31 43EDO/polymetric statement immediately after the first Tilt may skip the journey's Lock phase and foreground technique before the altered gait has become natural.",
+      "fitHypothesis": "Alive's 141 BPM anchored swing can step down to 140 without tempo shock; Drift C then removes hi-hats and floor cues while source-described relentless repetition preserves bodily orientation, making the altered grammar feel inhabitable rather than escalating into spectacle.",
       "evidence": {
         "measured": [
-          "known Spotify track ID 7sHN0QPVxD7NjkSCH6NTZi requires resolver re-verification",
-          "140 BPM from artist-owned exact track page",
-          "Spotify-resolved duration approximately 16:31 from the prior immutable snapshot",
-          "released 2025-10-31"
+          "140 BPM and 5:09 from exact Beatport metadata",
+          "dedicated Spotify single is one song, 5:09, by Stanislav Tolkachev, ©/℗ Furatena",
+          "released June/July 2026 depending platform metadata"
         ],
-        "attributedDescription": "Sevish explicitly describes Mystify as polymetric techno and documents 43EDO tuning while describing the wider project as unconventional rhythms/tunings kept approachable. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "attributedDescription": "Furatena describes Drift C as cavernous and relentlessly repetitive, 140-BPM floorless techno without hi-hats, built from a stripped percussive core that locks in and refuses to leave. This is attributed source evidence, not direct listening or raw-audio analysis.",
         "listenerEvidence": null,
         "lawfulAudioEvidence": null,
-        "craftConvention": "After Ground and Tilt, an early Fracture should not substitute for the Lock chapter unless the transition itself demonstrates bodily reorientation rather than concept escalation."
+        "craftConvention": "A Lock should turn the preceding Tilt into a stable bodily system through repetition, not simply increase intensity."
       }
     }
   ]
