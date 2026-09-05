@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T14:35:18.025Z",
+  "generatedAt": "2026-09-05T16:32:55.427Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "16dca9a4138179a054539b18147e53ce790c8dc0563fccb203235403525b280a",
-    "annotationsFingerprint": "0bc8ccc9ad3683000226cd2a8de767b63754b6eff6492be03bd6fcf7dba73c8e"
+    "ledgerFingerprint": "11dadaed4203b7f5a6e80e0e0d2bc29c7e72df56962ead4dfc82b4a7ab09c15f",
+    "annotationsFingerprint": "232debaa56d3cde758eae688cd53a4d9e50686f7f1502dca3971337ce979d9ba"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,11 +18,11 @@
     "detailedSiteUrl": "https://groove-over-noise-map.broskmenmi.chatgpt.site"
   },
   "totals": {
-    "trackCount": 1,
-    "durationMs": 360000,
-    "durationLabel": "6m",
+    "trackCount": 2,
+    "durationMs": 720000,
+    "durationLabel": "12m",
     "bpmMin": 136,
-    "bpmMax": 136,
+    "bpmMax": 137,
     "latestAddedDate": "2026-09-05"
   },
   "chapters": [
@@ -31,9 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 1,
+      "endPosition": 2,
       "startMs": 0,
-      "endMs": 360000
+      "endMs": 720000
     }
   ],
   "tracks": [
@@ -63,11 +63,50 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.25
+    },
+    {
+      "position": 2,
+      "artist": "Aaron Schwarz",
+      "track": "Some Letters",
+      "uri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
+      "bpm": 137,
+      "role": "Ground extension — quiet instability",
+      "added": "2026-09-05",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "tilt",
+      "storyLevel": 2.7,
+      "status": "provisional",
+      "labels": [
+        "ground-extension",
+        "tilt-precursor",
+        "quiet-instability"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 360000,
+      "endMs": 720000,
+      "midpointMs": 540000,
+      "spotifyUrl": "https://open.spotify.com/track/5w6iz8tYxh77iPm6YdeMC2",
+      "protected": false,
+      "progressStart": 0.5,
       "progressEnd": 1,
-      "progressMidpoint": 0.5
+      "progressMidpoint": 0.75
     }
   ],
-  "transitions": [],
+  "transitions": [
+    {
+      "fromUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+      "toUri": "spotify:track:5w6iz8tYxh77iPm6YdeMC2",
+      "fromPosition": 1,
+      "toPosition": 2,
+      "bpmDelta": 1,
+      "protected": false,
+      "frozen": false
+    }
+  ],
   "protected": {
     "opener": null,
     "handoffs": [],
