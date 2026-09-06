@@ -1,313 +1,331 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "711e1b7b5de8527e04de044b30d15fccafe49f576f34963c20efff908bcf7254",
-  "generatedAt": "2026-09-06T12:42:28.511Z",
-  "runId": "2026-09-06T12:42:00Z-explore-28",
-  "sourceCommit": "aa08ceaf0741dd21d18ec1ddb228e39e665ee41c",
+  "requestFingerprint": "8992e649a9c57d050716374bc59a39241fd9ad335259c3fe2d52b53bbc53bbcb",
+  "generatedAt": "2026-09-06T12:45:56.897Z",
+  "runId": "2026-09-06T12:46:00Z-explore-29",
+  "sourceCommit": "7191983d226165a97ae82e595012b62ea0e45804",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 9 discovery via Message 431",
-    "position": "after CHANCEKNOT — Fragments as Track 9",
+    "role": "fresh STRANGE GAIT Track 10 discovery via OECUS and Monday Off",
+    "position": "after Inspired Groove — Truth in Noise as Track 10",
     "neighbours": [
-      "spotify:track:3wsskKLpimIuiDDCb6eHVv"
+      "spotify:track:12xuyGHICBNwJnQYqBlKcY"
     ],
-    "purpose": "test whether persistent groove, nocturnal percussion or tightly controlled physical pressure can deepen the post-Fragments run without simply escalating harder"
+    "purpose": "test stripped hypnotic/bouncy techno and current psychedelic vinyl material after groove consolidation, while preserving conflicting tempo evidence rather than choosing convenient metadata"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T12:42:00Z",
+    "timestampUtc": "2026-09-06T12:46:00Z",
     "sourceWindows": [
-      "Message 431 / Inspired Groove — Follow The Signal, released 2026-08-21 with track-specific notes",
-      "Beatport exact Message 431 metadata for Truth In Noise, Arabic Night and Impact Distance"
+      "Current OECUS / Uväll — Arcane EP, released 2026-08-28",
+      "Current Monday Off / Viels — Luci, vinyl-only release 2026-09-04",
+      "OECUS/Volumo and Beatport exact metadata were compared; conflicting tempo values were retained as conflicts"
     ],
-    "approximateInspectedScope": "Follow The Signal's four-track arc plus current/adjacent Message 431 catalogue; Stage Separation retained as inspiration rather than a resolver lead because its measured 101 BPM would require a separate reset hypothesis",
+    "approximateInspectedScope": "approximately 24 current/adjacent tracks across OECUS, Uväll and Monday Off/Viels catalogue corridors",
     "exclusions": [
-      "close BPM values were not treated as flow proof",
-      "Impact Distance's physical-max framing was not rewarded automatically",
-      "Stage Separation was not promoted merely because it opens the source EP effectively"
+      "release-level minimal/dark/hypnotic framing was not converted into exact-track sonic fact",
+      "conflicting Arcane/Phantom tempo metadata was not silently normalised",
+      "vinyl-only status was treated as identity/publication risk, not musical failure",
+      "parked candidates were not recycled"
     ],
     "rankedLeadSummary": [
-      "1. Inspired Groove — Truth In Noise: persistent groove inside dense textures/distorted signals and controlled chaos; 138 BPM",
-      "2. Inspired Groove — Arabic Night: darker nocturnal atmosphere with driving percussion and hypnotic melodic detail; 139 BPM",
-      "3. Inspired Groove — Impact Distance: heavy low-end, repetitive movement and tightly controlled rhythmic pressure; 138 BPM"
+      "1. Viels — Luci: track-specific pummelling groove through smoky textures with lonely dub chords; vinyl-only September 4 release",
+      "2. Uväll — Vault: exact 140 BPM agreement across Beatport and Volumo; Arcane EP framed as minimal/dark, hypnotic and bouncy",
+      "3. Viels — Silenzio Nascosto: futuristic sequence coiling around a steady kick while tripped-out hits dart through the mix; vinyl-only",
+      "4. Uväll — Arcane: current exact track from the same stripped hypnotic/bouncy EP; external tempo sources conflict materially"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 3,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "requestedCount": 4,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
+    {
+      "artist": "Viels",
+      "track": "Luci",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Viels",
+        "track": "Luci",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Monday Off official Luci release; track-specific notes describe a pummelling groove pushing through smoky textures while lonely dub chords cut through the haze; release is vinyl-only",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
+          }
+        ],
+        "fitHypothesis": "A pummelling but dub-textured groove could continue physical focus after Truth in Noise while changing space and emotional colour; exact Spotify identity and measured pulse may be unavailable because the release is vinyl-only.",
+        "evidence": {
+          "measured": [
+            "released 2026-09-04",
+            "vinyl-only release"
+          ],
+          "attributedDescription": "Monday Off describes a pummelling groove, smoky textures and lonely dub chords.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Vinyl-only availability does not weaken musical relevance, but canonical Spotify publication requires an exact resolvable identity."
+        }
+      }
+    },
+    {
+      "artist": "Viels",
+      "track": "Silenzio Nascosto",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Viels",
+        "track": "Silenzio Nascosto",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Monday Off official Luci release; track-specific notes describe a futuristic sequence coiling around a steady kick drum while tripped-out hits dart through the mix; vinyl-only",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
+          }
+        ],
+        "fitHypothesis": "Steady-kick/futuristic-sequence framing is relevant to STRANGE GAIT's structural curiosity while preserving body, but exact Spotify identity and measured pulse may be unavailable.",
+        "evidence": {
+          "measured": [
+            "released 2026-09-04",
+            "vinyl-only release"
+          ],
+          "attributedDescription": "Monday Off describes a futuristic sequence around a steady kick with tripped-out hits.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Interesting structural detail can remain discovery value even if it cannot publish canonically to Spotify."
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Truth In Noise",
-        "releaseDate": "2026-08-21",
-        "bpm": 138,
-        "bpmSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
+        "artist": "Viels",
+        "track": "Luci",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Monday Off official Luci release; track-specific notes describe a pummelling groove pushing through smoky textures while lonely dub chords cut through the haze; release is vinyl-only",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
           }
         ],
-        "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
+        "fitHypothesis": "A pummelling but dub-textured groove could continue physical focus after Truth in Noise while changing space and emotional colour; exact Spotify identity and measured pulse may be unavailable because the release is vinyl-only.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "5:20 duration",
-            "released 2026-08-21"
+            "released 2026-09-04",
+            "vinyl-only release"
           ],
-          "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
-          "listenerEvidence": "No direct listener evidence for this track.",
+          "attributedDescription": "Monday Off describes a pummelling groove, smoky textures and lonely dub chords.",
+          "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
+          "craftConvention": "Vinyl-only availability does not weaken musical relevance, but canonical Spotify publication requires an exact resolvable identity."
         }
       },
-      "spotifyTrackId": "12xuyGHICBNwJnQYqBlKcY",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Arabic Night",
-        "releaseDate": "2026-08-21",
-        "bpm": 139,
-        "bpmSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+        "artist": "Uvall",
+        "track": "Vault",
+        "releaseDate": "2026-08-28",
+        "bpm": 140,
+        "bpmSource": "Beatport and Volumo both report Uväll — Vault at 140 BPM",
+        "discoverySource": "OECUS official Arcane EP; release is framed as minimal and dark with hypnotic atmospheres, bouncy grooves, stripped to essentials and built for the floor",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
           }
         ],
-        "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+        "fitHypothesis": "Vault is a credible stripped floor-focused continuation after Truth in Noise, but current source evidence is release-level rather than track-specific.",
         "evidence": {
           "measured": [
-            "139 BPM",
-            "6:26 duration",
-            "released 2026-08-21"
+            "140 BPM",
+            "5:29 duration",
+            "released 2026-08-28"
           ],
-          "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+          "attributedDescription": "OECUS describes the EP collectively as minimal/dark, hypnotic, bouncy and stripped to essentials.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
+          "craftConvention": "Reliable tempo and coherent release context earn evaluation, not automatic admission."
         }
       },
-      "spotifyTrackId": "3mcemKXocgbBW25e360O3m",
+      "spotifyTrackId": "7cfNIcrf7ftw7w9mwvopn2",
       "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Viels",
+        "track": "Silenzio Nascosto",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Monday Off official Luci release; track-specific notes describe a futuristic sequence coiling around a steady kick drum while tripped-out hits dart through the mix; vinyl-only",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
+          }
+        ],
+        "fitHypothesis": "Steady-kick/futuristic-sequence framing is relevant to STRANGE GAIT's structural curiosity while preserving body, but exact Spotify identity and measured pulse may be unavailable.",
+        "evidence": {
+          "measured": [
+            "released 2026-09-04",
+            "vinyl-only release"
+          ],
+          "attributedDescription": "Monday Off describes a futuristic sequence around a steady kick with tripped-out hits.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Interesting structural detail can remain discovery value even if it cannot publish canonically to Spotify."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Impact Distance",
-        "releaseDate": "2026-08-21",
-        "bpm": 138,
-        "bpmSource": "Beatport exact Impact Distance listing reports 138 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
+        "artist": "Uvall",
+        "track": "Arcane",
+        "releaseDate": "2026-08-28",
+        "discoverySource": "OECUS official Arcane EP; exact title track from a minimal/dark, hypnotic and bouncy floor-focused release",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
           }
         ],
-        "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
+        "fitHypothesis": "Arcane belongs plausibly in the volume, but its exact-track behavior is underdescribed and external tempo providers conflict materially, so no tempo claim is supplied.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "6:29 duration",
-            "released 2026-08-21"
+            "5:38 duration",
+            "released 2026-08-28",
+            "tempo conflict: Volumo reports 136 BPM while Beatport reports 68 BPM"
           ],
-          "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
+          "attributedDescription": "OECUS release-level minimal/dark, hypnotic and bouncy framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
+          "craftConvention": "Conflicting tempo evidence must remain unresolved; release belonging cannot substitute for exact placement evidence."
         }
       },
-      "spotifyTrackId": "3CUQiFlwuZCmrsSAMZzw3B",
+      "spotifyTrackId": "1fCjHCLuIU7uefSg8Uh4Pc",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "12xuyGHICBNwJnQYqBlKcY",
-      "uri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-      "name": "Truth in Noise",
+      "id": "7cfNIcrf7ftw7w9mwvopn2",
+      "uri": "spotify:track:7cfNIcrf7ftw7w9mwvopn2",
+      "name": "Vault",
       "artists": [
-        "Inspired Groove"
+        "Uväll"
       ],
-      "album": "Follow the Signal",
-      "releaseDate": "2026-08-21",
-      "durationMs": 320000,
-      "spotifyUrl": "https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY",
-      "bpm": 138,
-      "tempoSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
-      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
+      "album": "Arcane EP",
+      "releaseDate": "2026-08-28",
+      "durationMs": 329142,
+      "spotifyUrl": "https://open.spotify.com/track/7cfNIcrf7ftw7w9mwvopn2",
+      "bpm": 140,
+      "tempoSource": "Beatport and Volumo both report Uväll — Vault at 140 BPM",
+      "discoverySource": "OECUS official Arcane EP; release is framed as minimal and dark with hypnotic atmospheres, bouncy grooves, stripped to essentials and built for the floor",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after CHANCEKNOT — Fragments as Track 9"
+          "position": "after Inspired Groove — Truth in Noise as Track 10"
         }
       ],
-      "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
+      "fitHypothesis": "Vault is a credible stripped floor-focused continuation after Truth in Noise, but current source evidence is release-level rather than track-specific.",
       "evidence": {
         "measured": [
-          "138 BPM",
-          "5:20 duration",
-          "released 2026-08-21"
+          "140 BPM",
+          "5:29 duration",
+          "released 2026-08-28"
         ],
-        "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
-        "listenerEvidence": "No direct listener evidence for this track.",
+        "attributedDescription": "OECUS describes the EP collectively as minimal/dark, hypnotic, bouncy and stripped to essentials.",
+        "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
+        "craftConvention": "Reliable tempo and coherent release context earn evaluation, not automatic admission."
       },
       "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Truth In Noise",
-        "releaseDate": "2026-08-21",
-        "bpm": 138,
-        "bpmSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
+        "artist": "Uvall",
+        "track": "Vault",
+        "releaseDate": "2026-08-28",
+        "bpm": 140,
+        "bpmSource": "Beatport and Volumo both report Uväll — Vault at 140 BPM",
+        "discoverySource": "OECUS official Arcane EP; release is framed as minimal and dark with hypnotic atmospheres, bouncy grooves, stripped to essentials and built for the floor",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
           }
         ],
-        "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
+        "fitHypothesis": "Vault is a credible stripped floor-focused continuation after Truth in Noise, but current source evidence is release-level rather than track-specific.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "5:20 duration",
-            "released 2026-08-21"
+            "140 BPM",
+            "5:29 duration",
+            "released 2026-08-28"
           ],
-          "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
-          "listenerEvidence": "No direct listener evidence for this track.",
+          "attributedDescription": "OECUS describes the EP collectively as minimal/dark, hypnotic, bouncy and stripped to essentials.",
+          "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
+          "craftConvention": "Reliable tempo and coherent release context earn evaluation, not automatic admission."
         }
       }
     },
     {
-      "id": "3mcemKXocgbBW25e360O3m",
-      "uri": "spotify:track:3mcemKXocgbBW25e360O3m",
-      "name": "Arabic Night",
+      "id": "1fCjHCLuIU7uefSg8Uh4Pc",
+      "uri": "spotify:track:1fCjHCLuIU7uefSg8Uh4Pc",
+      "name": "Arcane",
       "artists": [
-        "Inspired Groove"
+        "Uväll"
       ],
-      "album": "Follow the Signal",
-      "releaseDate": "2026-08-21",
-      "durationMs": 386762,
-      "spotifyUrl": "https://open.spotify.com/track/3mcemKXocgbBW25e360O3m",
-      "bpm": 139,
-      "tempoSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
-      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+      "album": "Arcane EP",
+      "releaseDate": "2026-08-28",
+      "durationMs": 338823,
+      "spotifyUrl": "https://open.spotify.com/track/1fCjHCLuIU7uefSg8Uh4Pc",
+      "discoverySource": "OECUS official Arcane EP; exact title track from a minimal/dark, hypnotic and bouncy floor-focused release",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after CHANCEKNOT — Fragments as Track 9"
+          "position": "after Inspired Groove — Truth in Noise as Track 10"
         }
       ],
-      "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+      "fitHypothesis": "Arcane belongs plausibly in the volume, but its exact-track behavior is underdescribed and external tempo providers conflict materially, so no tempo claim is supplied.",
       "evidence": {
         "measured": [
-          "139 BPM",
-          "6:26 duration",
-          "released 2026-08-21"
+          "5:38 duration",
+          "released 2026-08-28",
+          "tempo conflict: Volumo reports 136 BPM while Beatport reports 68 BPM"
         ],
-        "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+        "attributedDescription": "OECUS release-level minimal/dark, hypnotic and bouncy framing only.",
         "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
+        "craftConvention": "Conflicting tempo evidence must remain unresolved; release belonging cannot substitute for exact placement evidence."
       },
       "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Arabic Night",
-        "releaseDate": "2026-08-21",
-        "bpm": 139,
-        "bpmSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+        "artist": "Uvall",
+        "track": "Arcane",
+        "releaseDate": "2026-08-28",
+        "discoverySource": "OECUS official Arcane EP; exact title track from a minimal/dark, hypnotic and bouncy floor-focused release",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
+            "position": "after Inspired Groove — Truth in Noise as Track 10"
           }
         ],
-        "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+        "fitHypothesis": "Arcane belongs plausibly in the volume, but its exact-track behavior is underdescribed and external tempo providers conflict materially, so no tempo claim is supplied.",
         "evidence": {
           "measured": [
-            "139 BPM",
-            "6:26 duration",
-            "released 2026-08-21"
+            "5:38 duration",
+            "released 2026-08-28",
+            "tempo conflict: Volumo reports 136 BPM while Beatport reports 68 BPM"
           ],
-          "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+          "attributedDescription": "OECUS release-level minimal/dark, hypnotic and bouncy framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
-        }
-      }
-    },
-    {
-      "id": "3CUQiFlwuZCmrsSAMZzw3B",
-      "uri": "spotify:track:3CUQiFlwuZCmrsSAMZzw3B",
-      "name": "Impact Distance",
-      "artists": [
-        "Inspired Groove"
-      ],
-      "album": "Follow the Signal",
-      "releaseDate": "2026-08-21",
-      "durationMs": 389565,
-      "spotifyUrl": "https://open.spotify.com/track/3CUQiFlwuZCmrsSAMZzw3B",
-      "bpm": 138,
-      "tempoSource": "Beatport exact Impact Distance listing reports 138 BPM",
-      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after CHANCEKNOT — Fragments as Track 9"
-        }
-      ],
-      "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
-      "evidence": {
-        "measured": [
-          "138 BPM",
-          "6:29 duration",
-          "released 2026-08-21"
-        ],
-        "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
-      },
-      "requestedIdentity": {
-        "artist": "Inspired Groove",
-        "track": "Impact Distance",
-        "releaseDate": "2026-08-21",
-        "bpm": 138,
-        "bpmSource": "Beatport exact Impact Distance listing reports 138 BPM",
-        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after CHANCEKNOT — Fragments as Track 9"
-          }
-        ],
-        "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "6:29 duration",
-            "released 2026-08-21"
-          ],
-          "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
+          "craftConvention": "Conflicting tempo evidence must remain unresolved; release belonging cannot substitute for exact placement evidence."
         }
       }
     }
