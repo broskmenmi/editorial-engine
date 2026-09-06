@@ -1,47 +1,74 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T12:46:00Z-explore-29",
-  "sourceCommit": "7191983d226165a97ae82e595012b62ea0e45804",
-  "mode": "EXPLORE",
+  "runId": "2026-09-06T19:12:00Z-repair-listener-trio-30",
+  "sourceCommit": "a0377d343df35c3cb44d878b0d776cdb53f419e2",
+  "mode": "REPAIR",
   "target": {
-    "role": "fresh STRANGE GAIT Track 10 discovery via OECUS and Monday Off",
-    "position": "after Inspired Groove — Truth in Noise as Track 10",
+    "role": "resolve intentional Spotify/ledger divergence created by three listener-added tracks",
+    "position": "evaluate Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer as an intact ordered block, currently after Inspired Groove — Truth in Noise",
     "neighbours": ["spotify:track:12xuyGHICBNwJnQYqBlKcY"],
-    "purpose": "test stripped hypnotic/bouncy techno and current psychedelic vinyl material after groove consolidation, while preserving conflicting tempo evidence rather than choosing convenient metadata"
-  },
-  "explorationReceipt": {
-    "timestampUtc": "2026-09-06T12:46:00Z",
-    "sourceWindows": [
-      "Current OECUS / Uväll — Arcane EP, released 2026-08-28",
-      "Current Monday Off / Viels — Luci, vinyl-only release 2026-09-04",
-      "OECUS/Volumo and Beatport exact metadata were compared; conflicting tempo values were retained as conflicts"
-    ],
-    "approximateInspectedScope": "approximately 24 current/adjacent tracks across OECUS, Uväll and Monday Off/Viels catalogue corridors",
-    "exclusions": [
-      "release-level minimal/dark/hypnotic framing was not converted into exact-track sonic fact",
-      "conflicting Arcane/Phantom tempo metadata was not silently normalised",
-      "vinyl-only status was treated as identity/publication risk, not musical failure",
-      "parked candidates were not recycled"
-    ],
-    "rankedLeadSummary": [
-      "1. Viels — Luci: track-specific pummelling groove through smoky textures with lonely dub chords; vinyl-only September 4 release",
-      "2. Uväll — Vault: exact 140 BPM agreement across Beatport and Volumo; Arcane EP framed as minimal/dark, hypnotic and bouncy",
-      "3. Viels — Silenzio Nascosto: futuristic sequence coiling around a steady kick while tripped-out hits dart through the mix; vinyl-only",
-      "4. Uväll — Arcane: current exact track from the same stripped hypnotic/bouncy EP; external tempo sources conflict materially"
-    ]
+    "purpose": "decide KEEP/MOVE/REMOVE for the listener-added trio while preserving the user's preferred internal order; internal handoffs have positive listener evidence, but the Truth in Noise → Transparency entry remains unverified by listener report"
   },
   "leads": [
     {
-      "artist":"Viels","track":"Luci","releaseDate":"2026-09-04","discoverySource":"Monday Off official Luci release; track-specific notes describe a pummelling groove pushing through smoky textures while lonely dub chords cut through the haze; release is vinyl-only","searchIntent":"BOTH","proposedPlacements":[{"position":"after Inspired Groove — Truth in Noise as Track 10"}],"fitHypothesis":"A pummelling but dub-textured groove could continue physical focus after Truth in Noise while changing space and emotional colour; exact Spotify identity and measured pulse may be unavailable because the release is vinyl-only.","evidence":{"measured":["released 2026-09-04","vinyl-only release"],"attributedDescription":"Monday Off describes a pummelling groove, smoky textures and lonely dub chords.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Vinyl-only availability does not weaken musical relevance, but canonical Spotify publication requires an exact resolvable identity."}
+      "artist": "Linear System",
+      "track": "Transparency",
+      "album": "SR043",
+      "releaseDate": "2025-04-10",
+      "spotifyTrackId": "6vBGCwTYRiKYCDD52zXZtf",
+      "bpm": 143,
+      "bpmSource": "SongData and independent DJ-pool metadata report 143 BPM; Beatport reports a conflicting 107 BPM, preserved as an anomaly",
+      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Subhills official SR043 release confirms identity and 6:21 duration.",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Inspired Groove — Truth in Noise as Track 10, beginning the listener-ordered three-track block"}],
+      "fitHypothesis": "Transparency plausibly opens a new high-130s/low-140s hypnotic run after Truth in Noise, but the exact entry handoff has not been reported by the listener; its main current value is as the required first member of a listener-confirmed internal trio.",
+      "evidence": {
+        "measured": ["exact Spotify ID from live playlist read-back","6:21 duration","released 2025-04-10","tempo evidence conflict: 143 BPM from SongData/DJ-pool metadata vs 107 BPM on Beatport"],
+        "attributedDescription": "Subhills official release confirms SR043 identity but provides no exact-track sonic description; Beatport classifies the track as Techno (Raw / Deep / Hypnotic).",
+        "listenerEvidence": "User reports the manually added three-track sequence Transparency → When We Froze → Stardancer comes in perfect harmony in that order using Spotify Mix; this does not explicitly establish the preceding Truth in Noise → Transparency handoff.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A listener-confirmed micro-sequence may be kept intact even if the first entry into that block remains provisional."
+      }
     },
     {
-      "artist":"Uvall","track":"Vault","releaseDate":"2026-08-28","bpm":140,"bpmSource":"Beatport and Volumo both report Uväll — Vault at 140 BPM","discoverySource":"OECUS official Arcane EP; release is framed as minimal and dark with hypnotic atmospheres, bouncy grooves, stripped to essentials and built for the floor","searchIntent":"BOTH","proposedPlacements":[{"position":"after Inspired Groove — Truth in Noise as Track 10"}],"fitHypothesis":"Vault is a credible stripped floor-focused continuation after Truth in Noise, but current source evidence is release-level rather than track-specific.","evidence":{"measured":["140 BPM","5:29 duration","released 2026-08-28"],"attributedDescription":"OECUS describes the EP collectively as minimal/dark, hypnotic, bouncy and stripped to essentials.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Reliable tempo and coherent release context earn evaluation, not automatic admission."}
+      "artist": "Ignez",
+      "track": "When We Froze",
+      "album": "When We Froze",
+      "releaseDate": "2026-09-04",
+      "spotifyTrackId": "1POzqasdMpIDgI4gQSdPrV",
+      "bpm": 140,
+      "bpmSource": "Beatport and Volumo exact listings report 140 BPM",
+      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Primal Instinct official release confirms title track identity and describes an underlying flow continuing beneath a frozen surface.",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"immediately after Linear System — Transparency inside the listener-ordered block"}],
+      "fitHypothesis": "When We Froze has strong volume belonging through Primal Instinct's groove/organic-design doctrine and an explicit listener-confirmed handoff from Transparency.",
+      "evidence": {
+        "measured": ["exact Spotify ID from live playlist read-back","140 BPM","7:06 duration","released 2026-09-04"],
+        "attributedDescription": "Primal Instinct describes the release as a world where quiet flow continues beneath a frozen surface; the label's broader doctrine emphasizes complex groovy patterns and organic advanced sound design.",
+        "listenerEvidence": "User reports Transparency → When We Froze is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Direct positive listener evidence of the actual handoff outranks a paper-only placement hypothesis."
+      }
     },
     {
-      "artist":"Viels","track":"Silenzio Nascosto","releaseDate":"2026-09-04","discoverySource":"Monday Off official Luci release; track-specific notes describe a futuristic sequence coiling around a steady kick drum while tripped-out hits dart through the mix; vinyl-only","searchIntent":"BOTH","proposedPlacements":[{"position":"after Inspired Groove — Truth in Noise as Track 10"}],"fitHypothesis":"Steady-kick/futuristic-sequence framing is relevant to STRANGE GAIT's structural curiosity while preserving body, but exact Spotify identity and measured pulse may be unavailable.","evidence":{"measured":["released 2026-09-04","vinyl-only release"],"attributedDescription":"Monday Off describes a futuristic sequence around a steady kick with tripped-out hits.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Interesting structural detail can remain discovery value even if it cannot publish canonically to Spotify."}
-    },
-    {
-      "artist":"Uvall","track":"Arcane","releaseDate":"2026-08-28","discoverySource":"OECUS official Arcane EP; exact title track from a minimal/dark, hypnotic and bouncy floor-focused release","searchIntent":"BOTH","proposedPlacements":[{"position":"after Inspired Groove — Truth in Noise as Track 10"}],"fitHypothesis":"Arcane belongs plausibly in the volume, but its exact-track behavior is underdescribed and external tempo providers conflict materially, so no tempo claim is supplied.","evidence":{"measured":["5:38 duration","released 2026-08-28","tempo conflict: Volumo reports 136 BPM while Beatport reports 68 BPM"],"attributedDescription":"OECUS release-level minimal/dark, hypnotic and bouncy framing only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Conflicting tempo evidence must remain unresolved; release belonging cannot substitute for exact placement evidence."}
+      "artist": "Len Faki",
+      "track": "Stardancer",
+      "album": "One Hundred Fifty",
+      "releaseDate": "2025-12-05",
+      "spotifyTrackId": "6i3HRqnSMoSohzwSgq035u",
+      "bpm": 137,
+      "bpmSource": "Beatport exact listing reports 137 BPM",
+      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Figure official One Hundred Fifty release confirms identity and 5:52 duration.",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"immediately after Ignez — When We Froze, closing the listener-ordered block"}],
+      "fitHypothesis": "Stardancer can close the listener-confirmed trio as a raw/deep/hypnotic continuation with a measured 140→137 movement; listener evidence, not BPM proximity, is the placement authority.",
+      "evidence": {
+        "measured": ["exact Spotify ID from live playlist read-back","137 BPM","5:52 duration","released 2025-12-05"],
+        "attributedDescription": "Beatport classifies Stardancer as Techno (Raw / Deep / Hypnotic); Figure's official compilation confirms the exact track.",
+        "listenerEvidence": "User reports When We Froze → Stardancer is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A positively heard handoff can earn protection even when surrounding future sequence design remains provisional."
+      }
     }
   ]
 }
