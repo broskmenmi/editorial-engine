@@ -1,7 +1,10 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 24 — EXPLORE
+4 → 0 exact → 0 candidates → 0 ADD. Unresolved: Minniemen — Basic Rhythm; Minniemen — Non-dual; Human Space Machine — Gallop (ambiguous exact Spotify title/artist match); Keplrr — Plumes. Plumes retained as a strong track-specific research lead because Midgar describes it as a subtle, percussive and playful techno groover.
+
 ## Run 23 — EXPLORE
-4 → 1 exact → 1 candidate → 0 ADD. Nils Edte — Actus (`spotify:track:6GmpT0egn0ei4dufzayWbB`) PARKED; release-date variance requested 2026-05-01 vs Spotify 2026-06-05 preserved. Grain 2 (A Ras Edit), Erionitum and Cinnabrax unresolved in Spotify SE.
+Nils Edte — Actus PARKED; Grain 2 (A Ras Edit), Erionitum and Cinnabrax unresolved.
 
 ## Run 22 — EXPLORE
 Peryl — FORM 04, Pyramidal Decode — Morso and Peryl — FORM 06 PARKED; Utero remix unresolved.

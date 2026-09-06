@@ -4,6 +4,9 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| RESEARCH LEAD | Keplrr / Midgar | Plumes | https://midgar-records.bandcamp.com/album/plumes | Track-specific subtle/percussive/playful techno-groover evidence; unresolved Spotify SE |
+| RESEARCH LEAD | Human Space Machine / Midgar | Gallop / Perception Field | https://midgar-records.bandcamp.com/ | Ambiguous Spotify exact match; release explores foreground/background, texture and negative space |
+| RESEARCH LEAD | Minniemen / Orbe | Basic Rhythm / Non-dual | https://orberecords.bandcamp.com/ | Sep 4 physical/deep-rhythm release; unresolved Spotify SE |
 | EXACT TRACK | Nils Edte | Actus | https://open.spotify.com/track/6GmpT0egn0ei4dufzayWbB | PARKED Run 23; release-date variance preserved |
 | RESEARCH LEAD | Javier Marimon / A Ras / Affin | Grain 2 (A Ras Edit) | https://affin.bandcamp.com/album/affinity-7 | Warm-dub/abstract-electronics corridor; unresolved Spotify SE |
 | RESEARCH LEAD | Notzing x Plague / Affin | Erionitum / Lithal | https://affin.bandcamp.com/album/lithal | Density/tension/acoustic-mass corridor; unresolved Spotify SE |
