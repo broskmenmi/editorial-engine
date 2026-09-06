@@ -4,80 +4,28 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="color-scheme" content="dark">
-  <title>Editorial Engine — Journey Maps</title>
-  <style>
-    :root{--bg:#0c0d0f;--panel:#131519;--panel2:#101216;--line:#292d34;--text:#ece8e0;--muted:#969ca5;--steel:#b8bec8;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--text);background:var(--bg)}
-    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:linear-gradient(180deg,#0b0c0e,#111318);color:var(--text)}
-    .shell{max-width:1220px;margin:auto;padding:18px 14px 70px}.top{padding:8px 0 24px}.eyebrow{font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:#9da6b3;font-weight:800}.top h1{font-size:clamp(2.2rem,9vw,5.5rem);line-height:.9;letter-spacing:-.055em;margin:.45rem 0 1rem}.top p{max-width:760px;color:#c0c3c8;line-height:1.55;margin:0}
-    .nav{position:sticky;top:0;z-index:20;display:flex;gap:8px;overflow:auto;padding:10px 0 12px;background:linear-gradient(180deg,rgba(12,13,15,.98),rgba(12,13,15,.9),transparent)}.nav a{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:9px 13px;color:#cdd1d7;text-decoration:none;background:#121419;font-size:.82rem}.nav a:focus-visible,.nav a:hover{outline:none;border-color:#6f7987;color:white}
-    .playlist{--accent:#78879a;--accent2:#a36c49;scroll-margin-top:72px;border-top:1px solid var(--line);padding:34px 0 54px}.playlist.sg{--accent:#7767a8;--accent2:#a06b4a}.playlist.gon{--accent:#607f9e;--accent2:#8399ae}.playlistHead{display:grid;gap:12px;margin-bottom:18px}.playlist h2{font-size:clamp(2rem,8vw,4.6rem);line-height:.92;letter-spacing:-.045em;margin:0}.playlistLead{color:#b9bdc4;max-width:790px;line-height:1.5;margin:0}.meta{display:flex;flex-wrap:wrap;gap:7px}.pill{border:1px solid var(--line);background:#111319;border-radius:999px;padding:7px 10px;color:#b7bdc6;font-size:.76rem}
-    .toolbar{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:14px 0 10px}.toggle{border:1px solid var(--line);background:var(--panel);color:#aeb5bf;border-radius:10px;padding:10px 11px;font:inherit;font-size:.78rem;text-align:left;cursor:pointer}.toggle[aria-pressed="true"]{border-color:var(--accent);color:white;background:#17191f}
-    .chartWrap{border:1px solid var(--line);border-radius:15px;background:radial-gradient(circle at 20% 0%,color-mix(in srgb,var(--accent) 15%,transparent),transparent 36%),var(--panel2);overflow:hidden}.chartScroll{overflow-x:auto}.chart{width:100%;min-width:760px;height:360px;display:block}.legend{display:flex;flex-wrap:wrap;gap:13px;padding:10px 14px 14px;color:var(--muted);font-size:.73rem}.sw{display:inline-block;width:13px;height:2px;margin-right:6px;vertical-align:middle}.sw.story{background:var(--accent)}.sw.bpm{background:var(--steel)}
-    .chapters{display:grid;gap:9px;margin:13px 0}.chapter{border-left:2px solid var(--accent);padding:10px 12px;background:#111319}.chapter b{display:block}.chapter span{color:var(--muted);font-size:.8rem}.detail{border:1px solid var(--line);border-radius:13px;background:var(--panel);padding:14px;margin:12px 0}.detail h3{margin:0 0 9px;font-size:1.12rem}.detailGrid{display:grid;grid-template-columns:1fr 1fr;gap:9px}.kv{border-top:1px solid #292d34;padding-top:7px}.k{display:block;color:var(--muted);font-size:.66rem;text-transform:uppercase;letter-spacing:.1em}.v{display:block;margin-top:4px;font-size:.86rem}.detail a{color:#d5d9ff}
-    details.trackPanel{border:1px solid var(--line);border-radius:13px;background:#101216;margin-top:12px}details.trackPanel>summary{cursor:pointer;padding:13px 14px;color:#c8cdd4;font-weight:700}.tracks{display:grid;gap:8px;padding:0 10px 10px}.track{width:100%;text-align:left;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:10px;padding:11px;display:grid;grid-template-columns:38px 1fr auto;gap:9px;align-items:center;cursor:pointer}.track:hover,.track:focus-visible{outline:none;border-color:var(--accent)}.num{font-variant-numeric:tabular-nums;color:var(--accent2);font-weight:800}.name{font-weight:750}.artist{display:block;color:var(--muted);font-size:.76rem;margin-top:2px}.state{display:block;font-size:.7rem;color:#9eb2a0;margin-top:3px}.bpm{font-variant-numeric:tabular-nums;color:var(--steel);font-size:.8rem;text-align:right}.error{border:1px solid #694444;background:#211717;color:#e8aaaa;border-radius:10px;padding:13px}.siteNote{color:#858c96;font-size:.75rem;line-height:1.45;margin-top:12px}footer{border-top:1px solid var(--line);padding-top:18px;color:#858c96;font-size:.76rem;line-height:1.5}
-    @media(min-width:760px){.shell{padding:30px 24px 80px}.playlistHead{grid-template-columns:1.3fr .7fr;align-items:end}.meta{justify-content:flex-end}.toolbar{display:flex}.toggle{width:auto}.chapters{grid-template-columns:repeat(3,1fr)}.detailGrid{grid-template-columns:repeat(4,1fr)}.tracks{grid-template-columns:1fr 1fr}}
-  </style>
+  <meta name="theme-color" content="#101113">
+  <meta name="description" content="Explore the ordered journeys of GROOVE OVER NOISE and STRANGE GAIT. Tracks, chapters and protected transitions in one place.">
+  <title>Editorial Engine — Playlist Journeys</title>
+  <link rel="stylesheet" href="./journeys.css">
+  <script src="./journeys.js" defer></script>
 </head>
 <body>
-<main class="shell">
-  <header class="top">
-    <div class="eyebrow">Editorial Engine · read-only</div>
-    <h1>JOURNEY<br>MAPS</h1>
-    <p>One site for the canonical playlist journeys. GitHub remains authoritative. Story height is editorial interpretation; BPM and duration are metadata. No waveform, loudness, mood, energy or microtiming analysis is implied unless explicitly present in the source data.</p>
+  <a class="skip-link" href="#journeys">Skip to journeys</a>
+  <header class="masthead">
+    <a class="wordmark" href="#" aria-label="Editorial Engine, top of page">EDITORIAL<span>ENGINE</span></a>
+    <h1 class="masthead-note">Playlist journeys</h1>
   </header>
-  <nav class="nav" aria-label="Playlists">
-    <a href="#groove-over-noise">GROOVE OVER NOISE</a>
-    <a href="#strange-gait">STRANGE GAIT</a>
+  <nav class="playlist-nav" aria-label="Playlists">
+    <div class="nav-inner">
+      <a href="#groove-over-noise" class="nav-link gon"><span class="nav-index">01</span> Groove over noise</a>
+      <a href="#strange-gait" class="nav-link sg"><span class="nav-index">02</span> Strange gait</a>
+    </div>
   </nav>
-  <div id="mount"></div>
-  <footer>Live data is fetched from <code>main</code> in <code>broskmenmi/editorial-engine</code>. This site visualizes repository state and never edits playlists or Spotify.</footer>
-</main>
-<script>
-(() => {
-  'use strict';
-  const ROOT='https://raw.githubusercontent.com/broskmenmi/editorial-engine/main/playlists/';
-  const configs=[
-    {slug:'groove-over-noise',cls:'gon',title:'GROOVE OVER NOISE',lead:'Long-form techno journey: waves, releases, summit, decompression and dissolution.'},
-    {slug:'strange-gait',cls:'sg',title:'STRANGE GAIT',lead:'Techno selected through rhythmic and structural freedom, with deliberate changes of character rather than one fixed sonic room.'}
-  ];
-  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const fmtMs=ms=>{const m=Math.round((ms||0)/60000);return m>=60?`${Math.floor(m/60)}h ${m%60}m`:`${m}m`};
-  const mount=document.getElementById('mount');
-
-  function scaffold(c){
-    const s=document.createElement('section');s.className=`playlist ${c.cls}`;s.id=c.slug;
-    s.innerHTML=`<div class="playlistHead"><div><div class="eyebrow">Playlist subsection</div><h2>${esc(c.title)}</h2><p class="playlistLead">${esc(c.lead)}</p></div><div class="meta" data-meta></div></div>
-      <div class="toolbar" aria-label="${esc(c.title)} chart layers">
-        <button class="toggle" data-layer="story" aria-pressed="true">Editorial story</button>
-        <button class="toggle" data-layer="bpm" aria-pressed="true">Measured BPM</button>
-        <button class="toggle" data-layer="chapters" aria-pressed="true">Chapter bands</button>
-        <button class="toggle" data-layer="states" aria-pressed="true">Track states</button>
-      </div>
-      <div class="chartWrap"><div class="chartScroll"><svg class="chart" viewBox="0 0 1000 360" role="img" aria-label="${esc(c.title)} journey timeline"></svg></div><div class="legend"><span><i class="sw story"></i>Editorial story</span><span><i class="sw bpm"></i>Measured BPM</span><span>Tap a point or track for details</span></div></div>
-      <div class="chapters" data-chapters></div><div class="detail" data-detail aria-live="polite"></div>
-      <details class="trackPanel"><summary data-track-summary>Canonical tracks</summary><div class="tracks" data-tracks></div></details>
-      <p class="siteNote">Source: <code>playlists/${esc(c.slug)}/journey-map.json</code>. Canonical order is preserved exactly.</p><p class="error" data-error hidden></p>`;
-    mount.appendChild(s);return s;
-  }
-
-  function init(c){
-    const el=scaffold(c), state={model:null,selected:0,layers:{story:true,bpm:true,chapters:true,states:true}};
-    const q=x=>el.querySelector(x);
-    q('.toolbar').addEventListener('click',e=>{const b=e.target.closest('[data-layer]');if(!b)return;const k=b.dataset.layer;state.layers[k]=!state.layers[k];b.setAttribute('aria-pressed',String(state.layers[k]));renderChart();renderTracks();});
-
-    function renderMeta(){const t=state.model.totals;q('[data-meta]').innerHTML=[`${t.trackCount} tracks`,`${t.durationLabel||fmtMs(t.durationMs)} duration`,`${t.bpmMin}–${t.bpmMax} BPM`,`Updated ${new Date(state.model.generatedAt).toLocaleString()}`].map(x=>`<span class="pill">${esc(x)}</span>`).join('');q('[data-track-summary]').textContent=`Canonical tracks · ${t.trackCount}`;}
-    function renderChapters(){q('[data-chapters]').innerHTML=(state.model.chapters||[]).map(ch=>`<div class="chapter"><b>${esc(ch.label)}</b><span>Tracks ${ch.startPosition}–${ch.endPosition} · ${fmtMs(ch.endMs-ch.startMs)}</span></div>`).join('');}
-    function renderDetail(){const m=state.model,t=m.tracks[state.selected]||m.tracks[0];if(!t)return;const prev=m.transitions?.find(x=>x.toPosition===t.position),next=m.transitions?.find(x=>x.fromPosition===t.position);q('[data-detail]').innerHTML=`<h3>${t.position}. ${esc(t.artist)} — ${esc(t.track)}</h3><div class="detailGrid"><div class="kv"><span class="k">Chapter</span><span class="v">${esc(t.chapter)}</span></div><div class="kv"><span class="k">Role</span><span class="v">${esc(t.role)}</span></div><div class="kv"><span class="k">BPM</span><span class="v">${esc(t.bpm)} · metadata</span></div><div class="kv"><span class="k">Duration</span><span class="v">${fmtMs(t.durationMs)} · ${esc(t.durationSource||'metadata')}</span></div><div class="kv"><span class="k">State</span><span class="v">${esc(t.status)}${t.protected?' · protected':''}</span></div><div class="kv"><span class="k">Labels</span><span class="v">${esc((t.labels||[]).join(', ')||'—')}</span></div><div class="kv"><span class="k">From previous</span><span class="v">${prev?`${prev.bpmDelta>0?'+':''}${prev.bpmDelta} BPM${prev.protected?' · protected':''}`:'—'}</span></div><div class="kv"><span class="k">To next</span><span class="v">${next?`${next.bpmDelta>0?'+':''}${next.bpmDelta} BPM${next.protected?' · protected':''}`:'—'}</span></div></div><p><a href="${esc(t.spotifyUrl)}" target="_blank" rel="noopener">Open on Spotify ↗</a></p>`;}
-    function renderTracks(){q('[data-tracks]').innerHTML=state.model.tracks.map((t,i)=>`<button class="track" data-i="${i}"><span class="num">${String(t.position).padStart(2,'0')}</span><span><span class="name">${esc(t.track)}</span><span class="artist">${esc(t.artist)} · ${esc(t.role)}</span>${state.layers.states?`<span class="state">${esc(t.status)}${t.protected?' · protected':''}</span>`:''}</span><span class="bpm">${esc(t.bpm)}<br>BPM</span></button>`).join('');q('[data-tracks]').querySelectorAll('.track').forEach(b=>b.addEventListener('click',()=>{state.selected=Number(b.dataset.i);renderDetail();renderChart();q('[data-detail]').scrollIntoView({behavior:'smooth',block:'nearest'});}));}
-    function renderChart(){const m=state.model;if(!m)return;const svg=q('.chart'),ts=m.tracks,W=1000,H=360,p={l:58,r:34,t:30,b:48},pw=W-p.l-p.r;const x=t=>p.l+t.progressMidpoint*pw;const bpms=ts.map(t=>t.bpm),minB=Math.min(...bpms)-2,maxB=Math.max(...bpms)+2,yB=t=>p.t+(maxB-t.bpm)/(maxB-minB)*(H-p.t-p.b);const levels=ts.map(t=>t.storyLevel),minS=Math.min(...levels)-.5,maxS=Math.max(...levels)+.5,yS=t=>p.t+(maxS-t.storyLevel)/(maxS-minS)*(H-p.t-p.b);let out='<rect width="1000" height="360" fill="#101216"/>';
-      if(state.layers.chapters){(m.chapters||[]).forEach((ch,j)=>{const a=ts[ch.startPosition-1],z=ts[ch.endPosition-1];if(!a||!z)return;const xs=p.l+a.progressStart*pw,xe=p.l+z.progressEnd*pw;out+=`<rect x="${xs}" y="${p.t}" width="${xe-xs}" height="${H-p.t-p.b}" fill="${j%2?'#15171c':'#121419'}"/><text x="${xs+7}" y="${p.t+15}" fill="#737984" font-size="10" letter-spacing="1.2">${esc(ch.label).toUpperCase()}</text>`;});}
-      for(let n=Math.ceil(minB/2)*2;n<=maxB;n+=2){const yy=p.t+(maxB-n)/(maxB-minB)*(H-p.t-p.b);out+=`<line x1="${p.l}" x2="${W-p.r}" y1="${yy}" y2="${yy}" stroke="#242830"/><text x="${p.l-9}" y="${yy+4}" text-anchor="end" fill="#666d78" font-size="10">${n}</text>`;}
-      const path=fn=>ts.map((t,i)=>`${i?'L':'M'} ${x(t).toFixed(1)} ${fn(t).toFixed(1)}`).join(' ');if(state.layers.story)out+=`<path d="${path(yS)}" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/>`;if(state.layers.bpm)out+=`<path d="${path(yB)}" fill="none" stroke="#b8bec8" stroke-width="1.7" stroke-dasharray="5 5"/>`;
-      ts.forEach((t,i)=>{const yy=state.layers.story?yS(t):yB(t),active=i===state.selected,fill=t.status==='frozen'?'#c58d43':t.protected?'#8db7dc':active?'var(--accent2)':'#ddd8cf';out+=`<g data-point="${i}" tabindex="0" role="button" style="cursor:pointer"><circle cx="${x(t)}" cy="${yy}" r="${active?9:6}" fill="${fill}" stroke="#101216" stroke-width="3"/><text x="${x(t)}" y="${H-19}" text-anchor="middle" fill="${active?'#d7aa8d':'#7f858e'}" font-size="10">${t.position}</text></g>`;});svg.innerHTML=out;svg.querySelectorAll('[data-point]').forEach(g=>{const pick=()=>{state.selected=Number(g.dataset.point);renderDetail();renderChart();};g.addEventListener('click',pick);g.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();pick();}});});}
-    fetch(`${ROOT}${c.slug}/journey-map.json`,{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(`GitHub data fetch failed (${r.status})`);return r.json();}).then(m=>{state.model=m;renderMeta();renderChapters();renderDetail();renderTracks();renderChart();}).catch(err=>{const e=q('[data-error]');e.hidden=false;e.textContent=err.message;});
-  }
-  configs.forEach(init);
-})();
-</script>
+  <main id="journeys" class="shell" tabindex="-1">
+    <div id="mount"></div>
+    <noscript><p>Enable JavaScript to explore the journey maps, or read the <a href="https://github.com/broskmenmi/editorial-engine/tree/main/playlists">canonical playlists on GitHub</a>.</p></noscript>
+  </main>
+  <footer class="footer"><span>Curated for the journey.</span><a href="https://github.com/broskmenmi/editorial-engine" target="_blank" rel="noopener noreferrer">View source on GitHub ↗</a></footer>
 </body>
 </html>
