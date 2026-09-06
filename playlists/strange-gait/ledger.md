@@ -13,19 +13,28 @@
 | 7 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
 | 8 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
 | 9 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 10 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 11 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 12 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 9 canonical tracks.**
+**ACTIVE EXPANSION — 12 canonical tracks.**
 
-Run `2026-09-06T12:42:00Z-explore-28` added Inspired Groove — Truth in Noise after Fragments. Message 431 provides track-specific evidence of dense textures, distorted signals and persistent groove inside controlled chaos; exact external metadata reports 138 BPM. Its editorial purpose is groove-led consolidation after Fragments' driving re-escalation, not a new novelty move. The measured 140→138 step does not prove perceived flow.
+Run `2026-09-06T19:12:00Z-repair-listener-trio-30` resolved the intentional Spotify/ledger divergence created by the listener-added trio Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer. All three exact Spotify identities resolved and are KEPT in the listener's existing end-of-playlist order.
 
-All tracks remain provisional; no protected handoffs.
+The user directly reports that the three tracks come in "perfect harmony" in this exact order when using Spotify Mix. That report earns protection for the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. It does not establish `Truth in Noise → Transparency`, so that entry remains provisional and unprotected.
+
+All twelve tracks remain provisional as individual tracks. The two listener-confirmed internal handoffs are protected; no ending is protected.
+
+Transparency uses 143 BPM as the working canonical tempo because independent SongData/DJ-pool metadata report 143 BPM, while Beatport reports a conflicting 107 BPM. The conflict remains explicitly documented; tempo does not supply the placement rationale.
 
 ## Next structural need
 
-No actionable REPAIR remains. Fresh EXPLORE should test what follows the Capa → Tehutis Law → Fragments → Truth in Noise run without forcing further escalation or immediate release.
+No actionable REPAIR remains. Fresh EXPLORE should preserve the protected three-track internal order and test what follows Stardancer. The trio may move as an intact block later if stronger long-form placement evidence emerges, but its internal order should not be broken without new listener evidence or explicit user instruction.
 
-## Current measured tempo trajectory
+## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 140 → 140 → 137 → 139 → 140 → 138 BPM`
+`136 → 136 → 134 → 140 → 140 → 137 → 139 → 140 → 138 → 143* → 140 → 137 BPM`
+
+`* Transparency tempo conflict preserved: independent sources 143 BPM; Beatport 107 BPM.`
