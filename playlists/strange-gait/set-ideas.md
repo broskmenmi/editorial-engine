@@ -82,6 +82,22 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Unknown / risk:** Pre-release material is not yet a resolved track pool. Reassess after release rather than inventing identities or tempo data.
 
+### 5. Different worlds, continuous intent
+
+**Direction:** Build a long-form arc that can move between hypnotic techno, leftfield rhythmic mutation, dub/ambient edges and other techno-adjacent vocabularies while preserving a believable thread rather than one fixed sonic room.
+
+**Ingredients:**
+
+- natsumi hirota — `Migi` / `Zahyo` — elastic rhythmic mutation research lead
+- Djrum — `I Wander` — long-form soundsystem-rooted composition research lead
+- ESTADO DE BIENESTAR — `Capítulo IV: La Fiesta Seria y Nuevas Formas de Tecnaco` — deliberately cross-vocabulary release research
+- Endemit — `Tessera Rubin` — calibrated pressure and contrasting emotional registers
+- James Ruskin — `Further Design (2026 Remaster)` — stripped-back linear techno reference
+
+**Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a stronger model for a skilled DJ's long-form taste than enforcing one permanent sonic identity.
+
+**Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This direction also exceeds the current canonical STRANGE GAIT constitution's stricter same-room doctrine, so it must not silently rewrite the ledger.
+
 ## Maintenance rules
 
 1. Keep this file small and useful; prefer a few strong directions over a catalogue dump.
