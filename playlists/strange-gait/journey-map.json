@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T07:00:41.886Z",
+  "generatedAt": "2026-09-06T08:57:12.951Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "aff200ff82232d09747777e1cb39a880e921c6ce39e828d360f3b2447de3bd33",
-    "annotationsFingerprint": "4f3ea9550c19568f7924b3a1c8a322657cdde29b8b37d75219eff832ad18664e"
+    "ledgerFingerprint": "85e860d551853ff23c8f331dda72c9d50a7676abf5f9e1871aebb54e020ac83a",
+    "annotationsFingerprint": "41e7e76675c2a45d83d57fc9bdee3d0be3ec16c4c61a10f71ace050a55af12b2"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,12 +18,12 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 1,
-    "durationMs": 360000,
-    "durationLabel": "6m",
+    "trackCount": 2,
+    "durationMs": 720000,
+    "durationLabel": "12m",
     "bpmMin": 136,
     "bpmMax": 136,
-    "latestAddedDate": "2026-09-05"
+    "latestAddedDate": "2026-09-06"
   },
   "chapters": [
     {
@@ -31,9 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 1,
+      "endPosition": 2,
       "startMs": 0,
-      "endMs": 360000
+      "endMs": 720000
     }
   ],
   "tracks": [
@@ -43,7 +43,7 @@
       "track": "Marauder",
       "uri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
       "bpm": 136,
-      "role": "Ground — provisional vibe anchor",
+      "role": "Ground — provisional opening anchor",
       "added": "2026-09-05",
       "chapter": "ground",
       "chapterOrder": 1,
@@ -53,7 +53,6 @@
       "labels": [
         "opener",
         "ground-anchor",
-        "vibe-anchor",
         "repair-anchor"
       ],
       "durationMs": 360000,
@@ -64,11 +63,51 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.25
+    },
+    {
+      "position": 2,
+      "artist": "Inigo Kennedy",
+      "track": "The Witching Hour",
+      "uri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+      "bpm": 136,
+      "role": "Ground — provisional controlled continuation",
+      "added": "2026-09-06",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "track-2",
+        "controlled-continuation",
+        "doctrine-correction-add",
+        "same-release-context"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 360000,
+      "endMs": 720000,
+      "midpointMs": 540000,
+      "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
+      "protected": false,
+      "progressStart": 0.5,
       "progressEnd": 1,
-      "progressMidpoint": 0.5
+      "progressMidpoint": 0.75
     }
   ],
-  "transitions": [],
+  "transitions": [
+    {
+      "fromUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+      "toUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+      "fromPosition": 1,
+      "toPosition": 2,
+      "bpmDelta": 0,
+      "protected": false,
+      "frozen": false
+    }
+  ],
   "protected": {
     "opener": null,
     "handoffs": [],
