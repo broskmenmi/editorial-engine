@@ -2,6 +2,25 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Repair Run 9 — Mystify Track-4 evaluation
+
+### REVISIT — Sevish — Mystify
+
+- Candidate snapshot: `2026-09-06T09:23:00Z-repair-mystify-9`.
+- Repair trigger: Mystify was the final actionable doctrine-triggered revisit after repair run 8 verified it exactly but left it as the unselected alternate; the three-track opening then materially changed the concrete placement problem.
+- Resolver funnel: 1 lead → 1 exact resolution → 1 selected candidate → 0 ADD.
+- No unresolved identities and no resolver warnings.
+- Exact Spotify identity: `spotify:track:7sHN0QPVxD7NjkSCH6NTZi`.
+- Measured tempo: 140 BPM; Spotify duration 16:31.
+- Proposed placement: after Rene Wise — Cave as canonical Track 4, as an intentionally conspicuous structural turn.
+- Volume fit: passes. Repository history documents polymetric/43EDO structure that is directly relevant to STRANGE GAIT's rhythmic/structural-freedom curiosity, but technical novelty is not itself an admission reason.
+- Placement: does not clear ADD. A hard left turn is allowed after the current three-track run, but the available evidence does not establish why Cave → Mystify should be that turn now. Its 16:31 duration makes a mistimed early commitment structurally expensive, while the exact felt transition, bodily pulse relation, phrase fit and perceived energy remain unknown.
+- Listener evidence: the failed prior four-track opening remains a warning against conspicuous changes that feel accidental; Mystify was not part of that sequence and is not globally rejected by that feedback.
+- Audio evidence: NOT TESTED. Live mixing: NOT TESTED.
+- **Verdict: REVISIT/PARKED for the current Track-4 placement.** Reopen with materially new lawful/listener/track-specific transition evidence or a later concrete long-form need for an extended structural rupture.
+
+No canonical ledger change was made. This evaluation clears the final currently triggered REVISIT; unless new actionable repair evidence appears, the next editorial run should return to a genuinely fresh outward EXPLORE scan.
+
 ## 2026-09-06 — Repair Run 8 — Track 3
 
 ### ADD — Rene Wise — Cave
