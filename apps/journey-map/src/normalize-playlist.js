@@ -5,6 +5,7 @@ import process from 'node:process';
 const playlistDir = process.argv[2];
 if (!playlistDir) throw new Error('Usage: node normalize-playlist.js <playlist-dir>');
 
+const UNIFIED_SITE_URL = 'https://broskmenmi.github.io/editorial-engine/';
 const spotifyPath = path.join(playlistDir, 'spotify.json');
 const annotationsPath = path.join(playlistDir, 'journey-annotations.json');
 const modelPath = path.join(playlistDir, 'journey-map.json');
@@ -20,7 +21,7 @@ const [spotify, annotations, model, svg] = await Promise.all([
 const title = spotify.playlistName ?? annotations.playlistTitle ?? model.playlist?.title ?? annotations.playlistSlug;
 const posixDir = playlistDir.split(path.sep).join('/');
 const detailed = annotations.detailedSite ?? {};
-const hasDetailedSiteUrl = Object.prototype.hasOwnProperty.call(detailed, 'url');
+const detailedSiteStatus = detailed.status ?? model.playlist?.detailedSiteStatus ?? 'NOT_PUBLISHED';
 
 model.playlist = {
   ...model.playlist,
@@ -30,8 +31,8 @@ model.playlist = {
   storyHeightMeaning: annotations.storyHeightMeaning ?? model.playlist?.storyHeightMeaning,
   compactMapPath: `${posixDir}/journey-map.svg`,
   sitesPromptPath: `${posixDir}/sites-prompt.md`,
-  detailedSiteStatus: detailed.status ?? model.playlist?.detailedSiteStatus ?? 'NOT_PUBLISHED',
-  detailedSiteUrl: hasDetailedSiteUrl ? detailed.url : (model.playlist?.detailedSiteUrl ?? null),
+  detailedSiteStatus,
+  detailedSiteUrl: detailedSiteStatus === 'NOT_PUBLISHED' ? null : UNIFIED_SITE_URL,
 };
 
 let normalizedSvg = svg;
