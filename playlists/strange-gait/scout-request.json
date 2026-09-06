@@ -1,67 +1,103 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T06:52:56Z-explore-6",
-  "sourceCommit": "6abfcbd67d60f3183fdceaafcc7683ece26a339f",
-  "mode": "EXPLORE",
+  "runId": "2026-09-06T08:52:08Z-repair-doctrine-7",
+  "sourceCommit": "544d08a7296b3ad39311ba7ab19172d19b972d58",
+  "mode": "REPAIR",
   "target": {
-    "role": "vibe-first STRANGE GAIT Track 2 continuation",
+    "role": "STRANGE GAIT Track 2 after doctrine correction",
     "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
     "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
-    "purpose": "test a restrained continuous Ground continuation while harvesting broader long-form set discoveries"
-  },
-  "explorationReceipt": {
-    "timestampUtc": "2026-09-06T06:52:56Z",
-    "sourceWindows": [
-      "Fresh September 1-6, 2026 Bandcamp and label pages for current raw/deep/hypnotic, leftfield and dancefloor techno releases",
-      "Fresh adjacent/emerging-label scan across Endemit, early reflex, Message 431, Dosis Records and Newrhythmic material",
-      "Fresh overlooked-catalogue/remaster scan including Blueprint's James Ruskin — Further Design (2026 Remaster) and Numbers' Hallucinator — Landlocked reissue",
-      "Official Blueprint/Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
-      "Exact tempo metadata for James Ruskin — Unknown Destination (Remaster): https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
-      "Official Endemit Tessera Rubin evidence: https://endemit.org/en/store/albums/tessera-rubin-vinyl-ep",
-      "Official early reflex Zahyo evidence: https://earlyreflex.bandcamp.com/album/zahyo",
-      "Official Djrum I Wander evidence: https://djrum.bandcamp.com/album/i-wander",
-      "Official Oráculo/ESTADO DE BIENESTAR evidence: https://oraculorecords.bandcamp.com/album/cap-tulo-iv-la-fiesta-seria-y-nuevas-formas-de-tecnaco"
-    ],
-    "approximateInspectedScope": "approximately 35 named tracks/releases across about 12 current, adjacent/emerging and overlooked-catalogue pages",
-    "exclusions": [
-      "overt peak-time/industrial material whose source framing emphasized force over continuity",
-      "pre-release tracks without a currently resolvable exact identity",
-      "tracks with interesting descriptions but no reliable tempo evidence for the strict current Track 2 gate",
-      "previously parked/rejected Track 2 candidates without a valid trigger",
-      "broad inspiration findings retained for discovery-pool consideration rather than forced into the canonical candidate funnel"
-    ],
-    "rankedLeadSummary": [
-      "1. James Ruskin — Unknown Destination (Remaster): released 2026-09-04, exact 136 BPM metadata, with Blueprint describing liquid synth work looping around hypnotic rhythms; a strong paper-level continuity hypothesis but felt energy remains unmeasured"
-    ]
+    "purpose": "re-evaluate doctrine-triggered exact candidates under transition, local-run and long-form DJ logic without imposing the retired same-room or fixed-Ground admission rule"
   },
   "leads": [
     {
-      "artist": "James Ruskin",
-      "track": "Unknown Destination (Remaster)",
-      "album": "Further Design (2026 Remaster)",
-      "releaseDate": "2026-09-04",
+      "artist": "Inigo Kennedy",
+      "track": "The Witching Hour",
+      "spotifyTrackId": "6zBPgkGHHiZfxg5eSjSCRd",
       "bpm": 136,
-      "bpmSource": "Music Worx exact release metadata reports Unknown Destination Remaster at 136 BPM and 4:39: https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
-      "discoverySource": "Fresh official Blueprint/James Ruskin Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
+      "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
+      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 1; same Flux Rope release as Marauder with official release description referencing rolling bass-heavy percussion and pads",
       "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-          "candidateBpm": 136,
-          "role": "Ground continuation — linear hypnotic pressure hypothesis"
-        }
-      ],
-      "fitHypothesis": "The exact 136→136 tempo relation and Blueprint's track-specific description of liquid synth work looping around hypnotic rhythms make this a credible continuation candidate on paper, but perceived energy and pressure continuity with Marauder remain unmeasured.",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
+      "fitHypothesis": "Same-release context, exact 136 BPM identity and prior source-backed rhythmic description make this the strongest controlled continuation hypothesis, while the revised doctrine no longer requires proof of one identical felt-energy room.",
       "evidence": {
-        "measured": [
-          "136 BPM from Music Worx exact release metadata",
-          "4:39 duration from Music Worx exact release metadata",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Blueprint/James Ruskin describes Further Design as stripped-back, bold and linear techno; Unknown Destination specifically is described through liquid synth work looping around hypnotic rhythms. This is attributed source evidence, not direct listening or raw-audio analysis.",
-        "listenerEvidence": "The listener rejected the prior opening because each track changed energy and the sequence lacked DJ-like flow; this candidate therefore cannot be admitted from BPM and source language alone.",
+        "measured": ["spotify:track:6zBPgkGHHiZfxg5eSjSCRd previously exactly resolved", "136 BPM previously verified", "5:15 duration previously resolved"],
+        "attributedDescription": "Prior official Flux Rope release evidence described rolling bass-heavy percussion and pads; this is attributed source language, not direct listening.",
+        "listenerEvidence": "The listener reported that the prior four-track opening changed energy awkwardly track by track; that evidence applies to that failed sequence and requires deliberate flow here, but does not prove all vibe changes fail.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A same-tempo handoff and restrained linear source framing make Track 2 plausible enough to resolve, but they do not prove a shared felt-energy envelope."
+        "craftConvention": "A same-release handoff is a useful controlled sequencing hypothesis, but not proof of perceived continuity."
+      }
+    },
+    {
+      "artist": "Rene Wise",
+      "track": "Cave",
+      "spotifyTrackId": "2Z0j3jb573fveL4Pf3NkP1",
+      "bpm": 134,
+      "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
+      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 5; Moving Pressure track-specific evidence around grounded physicality, hypnosis, murk and tension",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
+      "fitHypothesis": "Track-specific source evidence supports a body-first, restrained techno hypothesis that could make a deliberate move after Marauder; the 136→134 tempo change is measured context only, not the reason for admission.",
+      "evidence": {
+        "measured": ["spotify:track:2Z0j3jb573fveL4Pf3NkP1 previously exactly resolved", "134 BPM previously verified", "6:01 duration previously resolved"],
+        "attributedDescription": "Moving Pressure source evidence previously recorded grounded physicality, hypnosis, murk and tension; this remains attributed evidence rather than model listening.",
+        "listenerEvidence": "The failed prior opening warns against paper-only energy assumptions, but Cave was not part of that rejected sequence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A modest tempo step and track-specific restraint framing make the placement worth exact reassessment without treating similarity as mandatory."
+      }
+    },
+    {
+      "artist": "Mitra",
+      "track": "Hush",
+      "spotifyTrackId": "6AG1Tv6tkPMYnA7xrB94KT",
+      "bpm": 137,
+      "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/revisit.md and discoveries.md",
+      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening after the prior bootstrap rejection penalized warmth and insufficiently distinct gait deformation",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
+      "fitHypothesis": "The revised constitution explicitly allows warmer or straighter material when it contributes to the journey, so the earlier structural-novelty rejection no longer blocks a concrete Track-2 reassessment.",
+      "evidence": {
+        "measured": ["spotify:track:6AG1Tv6tkPMYnA7xrB94KT previously exactly resolved", "137 BPM previously verified"],
+        "attributedDescription": null,
+        "listenerEvidence": "No direct listener verdict exists for Hush in this placement; the user objected to the previous four-track sequence as a whole, not to Hush.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Warmth or a straighter gait is neither a virtue nor defect; the relevant question is whether the move is deliberate and useful in the opening run."
+      }
+    },
+    {
+      "artist": "Steve Rachmad",
+      "track": "Ostinato 2.0",
+      "spotifyTrackId": "4vLdXJEHEdsTg9pm6S2VAh",
+      "bpm": 138,
+      "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
+      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 2; release-level evidence emphasized beginnings/endings, restraint, atmosphere and control",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
+      "fitHypothesis": "Its old rejection depended on proving one identical restrained envelope from release-level evidence; that gate is retired, so it deserves exact reassessment as a deliberate opening move while preserving the weakness of the evidence as release-level rather than track-specific.",
+      "evidence": {
+        "measured": ["spotify:track:4vLdXJEHEdsTg9pm6S2VAh previously exactly resolved", "138 BPM previously verified", "5:10 duration previously resolved"],
+        "attributedDescription": "The compilation-level source framing emphasized beginnings, atmosphere, restraint and control; it is not track-specific evidence of Ostinato 2.0's perceived energy.",
+        "listenerEvidence": "No direct listener verdict exists for Ostinato 2.0 in this placement.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "The placement is plausible enough to evaluate, but release-level framing is weaker than track-specific evidence."
+      }
+    },
+    {
+      "artist": "Sevish",
+      "track": "Mystify",
+      "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+      "bpm": 140,
+      "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/discoveries.md and revisit.md",
+      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening because its prior trigger depended on a fixed Lock chapter and one-vibe protection; its polymetric/43EDO identity remains relevant to the volume lens",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2 as an intentionally conspicuous contrast"}],
+      "fitHypothesis": "Mystify strongly engages the structural-freedom selection lens and the global doctrine permits hard left turns, but its 16:31 duration and technical foregrounding make an opening placement a materially higher-risk hypothesis.",
+      "evidence": {
+        "measured": ["spotify:track:7sHN0QPVxD7NjkSCH6NTZi previously exactly resolved", "140 BPM previously verified", "16:31 duration previously resolved"],
+        "attributedDescription": "Repository history identifies polymetric/43EDO structure as part of the track's documented identity; this is not a claim about perceived energy or exact mixability.",
+        "listenerEvidence": "The listener disliked arbitrary-feeling energy resets in the prior opening, so any deliberate contrast here carries a higher burden of sequencing rationale.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A conspicuous early contrast can work in long-form sequencing, but it should not be used merely to advertise rhythmic novelty."
       }
     }
   ]
