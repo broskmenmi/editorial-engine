@@ -20,6 +20,7 @@ const [spotify, annotations, model, svg] = await Promise.all([
 const title = spotify.playlistName ?? annotations.playlistTitle ?? model.playlist?.title ?? annotations.playlistSlug;
 const posixDir = playlistDir.split(path.sep).join('/');
 const detailed = annotations.detailedSite ?? {};
+const hasDetailedSiteUrl = Object.prototype.hasOwnProperty.call(detailed, 'url');
 
 model.playlist = {
   ...model.playlist,
@@ -30,7 +31,7 @@ model.playlist = {
   compactMapPath: `${posixDir}/journey-map.svg`,
   sitesPromptPath: `${posixDir}/sites-prompt.md`,
   detailedSiteStatus: detailed.status ?? model.playlist?.detailedSiteStatus ?? 'NOT_PUBLISHED',
-  detailedSiteUrl: detailed.url ?? model.playlist?.detailedSiteUrl ?? null,
+  detailedSiteUrl: hasDetailedSiteUrl ? detailed.url : (model.playlist?.detailedSiteUrl ?? null),
 };
 
 let normalizedSvg = svg;
