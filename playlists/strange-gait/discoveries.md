@@ -1,18 +1,13 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 19 — EXPLORE
+4 leads → 1 exact resolution → 1 candidate → 1 ADD. **ADD Jayson Wynters — Tehutis Law** (`spotify:track:79yeMWxkbiNZ4su5UuhS6z`), 139 BPM, as provisional Track 7. Track-specific Delsin description: Motor City funk with wiggling groove accents. Release-date variance preserved. Unresolved: The Hunted (ambiguous); Farron — Vert Button; Farron — Anti Pinch.
+
 ## Run 18 — EXPLORE
-4 leads → 2 exact resolutions → 2 candidates → 0 ADD. BLNDR — Stomias (`spotify:track:5kCQNdRFByLABUhmTQFtth`) and Valentino Mora — Hailstorm (`spotify:track:1ZJ42qYfvm0efCJshaKrQ7`) → PARKED for Track 7 because usable official evidence remains release-level. Unresolved in Spotify SE: LNS & DJ Sotofett — Destination 909; Vinicius Honorio & R.M.K — Mellow.
+4 leads → 2 exact resolutions → 2 candidates → 0 ADD. BLNDR — Stomias and Valentino Mora — Hailstorm PARKED. Destination 909 and Mellow unresolved.
 
 ## Run 17 — EXPLORE
-4 leads → 1 exact resolution → 1 candidate → 1 ADD. **ADD Nørbak — Capa** (`spotify:track:5np6Qsak6d5kIdkktjblRB`), 137 BPM / 5:43, as provisional Track 6. Token's track-specific evidence describes a rhythmically expressive track bending almost to a break with bassline and dry-percussion drive. Unresolved: Porteix — Ad Libitum; MAL HOMBRE — Critical Velocity; Connor Wall — The Strategy.
+ADD Nørbak — Capa as provisional Track 6.
 
-## Run 16 — EXPLORE
-4 leads → 4 resolutions → 3 candidates → 0 ADD. Hadone — Sit in Their Seat, Hadone — Bite the Hand That Feeds You, Temudo — U Used to Laugh at My Jokes → PARKED. Temudo — And the Pattern Repeats resolved alternate.
-
-## Runs 12–15
-Chimera; Enstikto; Gunma Rain; Nnamael title track; Seeking; Parallel Shift → PARKED in their evaluated placements. Multiple unresolved research leads retained in the discovery pool.
-
-## Runs 10–11
-ADD Sciahri — Too Much Time Track 4; ADD Sciahri — Moonwake Track 5 after triggered repair.
-
-Earlier: Mystify PARKED; ADD Cave; ADD The Witching Hour; listener-authorized reset removed Some Letters, Alive, Drift C; Marauder remains anchor.
+## Runs 10–16
+ADD Too Much Time; ADD Moonwake after repair; later outward candidates remained parked/unresolved until Capa.

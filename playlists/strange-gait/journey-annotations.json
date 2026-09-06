@@ -1,20 +1,21 @@
 {
-  "version": 1,
-  "playlistSlug": "strange-gait",
-  "playlistTitle": "STRANGE GAIT",
-  "storyModel": "ground-tilt-lock-fracture-deep-lock-escape",
-  "storyHeightMeaning": "Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
-  "detailedSite": {"status":"NOT_PUBLISHED","url":null},
+  "version":1,
+  "playlistSlug":"strange-gait",
+  "playlistTitle":"STRANGE GAIT",
+  "storyModel":"ground-tilt-lock-fracture-deep-lock-escape",
+  "storyHeightMeaning":"Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
+  "detailedSite":{"status":"NOT_PUBLISHED","url":null},
   "chapters":[{"id":"ground","label":"Ground","order":1},{"id":"tilt","label":"Tilt","order":2},{"id":"lock","label":"Lock","order":3},{"id":"fracture","label":"Fracture","order":4},{"id":"deep-lock","label":"Deep lock","order":5},{"id":"escape","label":"Escape","order":6}],
   "storyBands":[{"id":"ground","label":"Ground","level":1.2},{"id":"escape","label":"Escape","level":1.8},{"id":"tilt","label":"Tilt","level":2.7},{"id":"lock","label":"Lock","level":3.5},{"id":"displacement","label":"Displacement","level":4.5},{"id":"deep-lock","label":"Deep lock","level":4.9},{"id":"fracture","label":"Fracture","level":5.9}],
   "protected":{"opener":null,"handoffs":[],"ending":[]},
   "discussions":[],
   "tracks":{
-    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["opener","ground-anchor","repair-anchor"]},
-    "spotify:track:6zBPgkGHHiZfxg5eSjSCRd":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-2","controlled-continuation"]},
-    "spotify:track:2Z0j3jb573fveL4Pf3NkP1":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-3","widening-move"]},
-    "spotify:track:7db90RzgCxJSu9XzKJhxKO":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-4","physical-widening","mutual-rytm"]},
-    "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-5","intensification","mutual-rytm","repair-run-11-add"]},
-    "spotify:track:5np6Qsak6d5kIdkktjblRB":{"chapter":"tilt","storyBand":"tilt","status":"provisional","labels":["track-6","rhythmic-redirection","token","explore-run-17-add"]}
+    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["opener"]},
+    "spotify:track:6zBPgkGHHiZfxg5eSjSCRd":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-2"]},
+    "spotify:track:2Z0j3jb573fveL4Pf3NkP1":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-3"]},
+    "spotify:track:7db90RzgCxJSu9XzKJhxKO":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-4","physical-widening"]},
+    "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-5","intensification"]},
+    "spotify:track:5np6Qsak6d5kIdkktjblRB":{"chapter":"tilt","storyBand":"tilt","status":"provisional","labels":["track-6","rhythmic-redirection"]},
+    "spotify:track:79yeMWxkbiNZ4su5UuhS6z":{"chapter":"tilt","storyBand":"tilt","status":"provisional","labels":["track-7","funk-re-grounding","explore-run-19-add"]}
   }
 }
