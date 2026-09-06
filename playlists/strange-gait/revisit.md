@@ -4,6 +4,8 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Fail_ed | Lucid Granules | spotify:track:2l6V8BTPgmklh7FxoEDh9F | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
+| Torres De Lara | Guadalajara | spotify:track:7Moq5cHtt4ar9AT3cVPRA7 | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | Stereoimagery | auto SHK (late edition) | spotify:track:4v3kWcECa3IaZPcXlXvBjd | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | MarekSPolzki | Tempus Fractum | spotify:track:5QFLRhUta0I2tQTGZejTQU | Exact 135 BPM identity; title does not establish fracture function and source offers genre metadata only. | PARKED |
 | MarekSPolzki | The Surface | spotify:track:3ioA2MrKrmAI0afHXH7kOt | Exact 139 BPM identity; post-Stardancer role remains underdescribed. | PARKED |
