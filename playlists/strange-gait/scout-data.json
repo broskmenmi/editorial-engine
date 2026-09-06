@@ -1,217 +1,131 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "bdd2160829bc907be976fba0aafe44930a7ceed0a05c46424959b5952c2ce1da",
-  "generatedAt": "2026-09-06T19:41:27.770Z",
-  "runId": "2026-09-06T19:42:00Z-explore-32",
-  "sourceCommit": "f091c013f5fe80d32d8966d2c06fa6ddca815367",
+  "requestFingerprint": "bd289e5ee9b897eba1a897f3d314628c7b3a4a0ed527b52f23bc3beec39d3f34",
+  "generatedAt": "2026-09-06T19:42:45.236Z",
+  "runId": "2026-09-06T19:44:00Z-explore-33",
+  "sourceCommit": "6f4cd4349dfba1504c51a036a486712ee355bd69",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via current FJAAK material",
+    "role": "fresh STRANGE GAIT Track 13 discovery via Perc Trax",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test a different current raw/deep/hypnotic production world after the protected trio"
+    "purpose": "test whether stripped groove-led techno can extend the protected listener block without merely continuing artist/label familiarity"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:42:00Z",
+    "timestampUtc": "2026-09-06T19:44:00Z",
     "sourceWindows": [
-      "Beatport September 3 2026 FJAAK self-released material",
-      "adjacent current FJAAK catalogue and raw/deep/hypnotic listings"
+      "Perc Trax / Jerm — Chill Pill, released 2026-09-04 with track-specific notes",
+      "Beatport current release metadata reports 140 BPM"
     ],
-    "approximateInspectedScope": "approximately 20 current/adjacent FJAAK and peer tracks; three exact-tempo leads retained",
+    "approximateInspectedScope": "current Perc Trax/Jerm material plus adjacent raw/deep/hypnotic releases; one lead clears the evidence floor without padding",
     "exclusions": [
-      "artist reputation was not treated as fit proof",
-      "BPM was not treated as flow proof",
-      "protected listener trio remained intact"
+      "140 BPM was not treated as flow proof",
+      "Perc Trax reputation was not treated as fit proof",
+      "protected trio remained intact"
     ],
     "rankedLeadSummary": [
-      "1. FJAAK — Bio Data: 137 BPM",
-      "2. FJAAK — Wax Pack: 139 BPM",
-      "3. FJAAK — Threshold: 139 BPM"
+      "1. Jerm — Chill Pill: driving drums form an irresistible groove that keeps pushing forwards; stripped to base techno elements; 140 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
-    {
-      "artist": "FJAAK",
-      "track": "Bio Data",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Bio Data",
-        "releaseDate": "2026-09-03",
-        "bpm": 137,
-        "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible new production world after the listener block, but exact sonic behaviour is underdescribed.",
-        "evidence": {
-          "measured": [
-            "137 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "FJAAK",
-      "track": "Wax Pack",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Wax Pack",
-        "releaseDate": "2026-09-03",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could reintroduce firmer drive after Stardancer, but metadata cannot establish that function.",
-        "evidence": {
-          "measured": [
-            "139 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "FJAAK",
-      "track": "Threshold",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Threshold",
-        "releaseDate": "2026-09-03",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Title cannot be used to infer threshold function; placement remains unproven.",
-        "evidence": {
-          "measured": [
-            "139 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ],
+  "requestedCount": 1,
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Bio Data",
-        "releaseDate": "2026-09-03",
-        "bpm": 137,
-        "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
+        "artist": "Jerm",
+        "track": "Chill Pill",
+        "releaseDate": "2026-09-04",
+        "bpm": 140,
+        "bpmSource": "Beatport exact release listing reports 140 BPM",
+        "discoverySource": "Perc Trax official Chill Pill release; track-specific notes describe driving drums forming an irresistible groove that keeps pushing forwards, with no big synth/vocal hooks and techno boiled to base elements",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Stardancer as Track 13"
+            "position": "after Len Faki — Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible new production world after the listener block, but exact sonic behaviour is underdescribed.",
+        "fitHypothesis": "A stripped, groove-led continuation could give the journey a deliberate forward re-entry after the listener-confirmed trio without needing a new novelty move.",
         "evidence": {
           "measured": [
-            "137 BPM",
-            "released 2026-09-03"
+            "140 BPM",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
+          "attributedDescription": "Perc Trax describes driving drums, irresistible forward groove and a stripped base-elements arrangement.",
+          "listenerEvidence": "No direct listener evidence for this track; the preceding trio's internal order is listener-protected.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A stripped groove-led continuation after a coherent block can extend motion without forcing escalation."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Wax Pack",
-        "releaseDate": "2026-09-03",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could reintroduce firmer drive after Stardancer, but metadata cannot establish that function.",
-        "evidence": {
-          "measured": [
-            "139 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "FJAAK",
-        "track": "Threshold",
-        "releaseDate": "2026-09-03",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Title cannot be used to infer threshold function; placement remains unproven.",
-        "evidence": {
-          "measured": [
-            "139 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "2aUeOujxNatqUctb6MpTlg",
+      "selected": true
     }
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "2aUeOujxNatqUctb6MpTlg",
+      "uri": "spotify:track:2aUeOujxNatqUctb6MpTlg",
+      "name": "Chill Pill",
+      "artists": [
+        "Jerm"
+      ],
+      "album": "Chill Pill",
+      "releaseDate": "2026-09-04",
+      "durationMs": 324000,
+      "spotifyUrl": "https://open.spotify.com/track/2aUeOujxNatqUctb6MpTlg",
+      "bpm": 140,
+      "tempoSource": "Beatport exact release listing reports 140 BPM",
+      "discoverySource": "Perc Trax official Chill Pill release; track-specific notes describe driving drums forming an irresistible groove that keeps pushing forwards, with no big synth/vocal hooks and techno boiled to base elements",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Len Faki — Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "A stripped, groove-led continuation could give the journey a deliberate forward re-entry after the listener-confirmed trio without needing a new novelty move.",
+      "evidence": {
+        "measured": [
+          "140 BPM",
+          "released 2026-09-04"
+        ],
+        "attributedDescription": "Perc Trax describes driving drums, irresistible forward groove and a stripped base-elements arrangement.",
+        "listenerEvidence": "No direct listener evidence for this track; the preceding trio's internal order is listener-protected.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A stripped groove-led continuation after a coherent block can extend motion without forcing escalation."
+      },
+      "requestedIdentity": {
+        "artist": "Jerm",
+        "track": "Chill Pill",
+        "releaseDate": "2026-09-04",
+        "bpm": 140,
+        "bpmSource": "Beatport exact release listing reports 140 BPM",
+        "discoverySource": "Perc Trax official Chill Pill release; track-specific notes describe driving drums forming an irresistible groove that keeps pushing forwards, with no big synth/vocal hooks and techno boiled to base elements",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Len Faki — Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "A stripped, groove-led continuation could give the journey a deliberate forward re-entry after the listener-confirmed trio without needing a new novelty move.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Perc Trax describes driving drums, irresistible forward groove and a stripped base-elements arrangement.",
+          "listenerEvidence": "No direct listener evidence for this track; the preceding trio's internal order is listener-protected.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A stripped groove-led continuation after a coherent block can extend motion without forcing escalation."
+        }
+      }
+    }
+  ],
   "resolvedAlternates": []
 }
