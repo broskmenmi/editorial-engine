@@ -1,0 +1,63 @@
+name: Inspect STRANGE GAIT Spotify playlist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/inspect-strange-gait-spotify.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      PLAYLIST_ID: 27FiSBGPcDDgqjBpELBNo0
+    steps:
+      - name: Read current playlist without mutation
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          const tokenResponse = await fetch('https://accounts.spotify.com/api/token', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+            body: new URLSearchParams({
+              grant_type: 'refresh_token',
+              refresh_token: process.env.SPOTIFY_REFRESH_TOKEN,
+              client_id: process.env.SPOTIFY_CLIENT_ID,
+            }),
+          });
+          const tokenBody = await tokenResponse.json();
+          if (!tokenResponse.ok || !tokenBody.access_token) throw new Error(`token refresh failed ${tokenResponse.status}`);
+          const headers = {Authorization: `Bearer ${tokenBody.access_token}`};
+          const tracks = [];
+          let offset = 0;
+          while (true) {
+            const q = new URLSearchParams({limit:'100', offset:String(offset)});
+            const r = await fetch(`https://api.spotify.com/v1/playlists/${process.env.PLAYLIST_ID}/items?${q}`, {headers});
+            const b = await r.json();
+            if (!r.ok) throw new Error(`playlist read failed ${r.status}: ${JSON.stringify(b)}`);
+            const items = b.items ?? [];
+            for (const entry of items) {
+              const t = entry?.item;
+              if (!t) continue;
+              tracks.push({
+                position: tracks.length + 1,
+                uri: t.uri,
+                name: t.name,
+                artists: (t.artists ?? []).map(a => a.name),
+                album: t.album?.name ?? null,
+                durationMs: t.duration_ms ?? null,
+              });
+            }
+            if (!b.next || items.length === 0) break;
+            offset += items.length;
+          }
+          console.log('STRANGE_GAIT_CURRENT_PLAYLIST_JSON');
+          console.log(JSON.stringify({count: tracks.length, tracks}, null, 2));
+          NODE
