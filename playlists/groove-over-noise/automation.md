@@ -174,7 +174,7 @@ Rules:
 - Every ledger ADD, MOVE, REPLACE, REMOVE, chapter change, protected state, provisional state, or frozen discussion must be reflected in `journey-annotations.json` in the same approved editorial change set.
 - `.github/workflows/build-journey-map.yml` generates the derivative files through `apps/journey-map/`.
 - Do not hand-edit generated `journey-map.json` or `journey-map.svg`.
-- The published read-only detailed Site at `https://groove-over-noise-map.broskmenmi.chatgpt.site` reads `journey-map.json`; `sites-prompt.md` remains its maintenance/rebuild brief.
+- The published read-only detailed Site at `https://broskmenmi.github.io/editorial-engine/` reads `journey-map.json`; `sites-prompt.md` remains its maintenance/rebuild brief.
 - The Site visualizes state and is never authoritative. Do not create a substitute website that becomes a second source of truth.
 
 Map currency check:
@@ -300,7 +300,7 @@ Use exactly these five numbered sections for every editorial run:
 1. `TODAY'S DECISIONS` or `TODAY'S DECISION`
 2. `LEDGER CHANGE`
 3. `SPOTIFY STATUS`
-4. `DETAILED MAP` — link exactly `[Detailed GROOVE OVER NOISE Journey Map](https://groove-over-noise-map.broskmenmi.chatgpt.site)`
+4. `DETAILED MAP` — link exactly `[Detailed GROOVE OVER NOISE Journey Map](https://broskmenmi.github.io/editorial-engine/)`
 5. `EDITORIAL NOTE` — one sentence
 
 Section 1 depends on the outcome:

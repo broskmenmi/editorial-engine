@@ -457,7 +457,7 @@ async function main() {
       compactMapPath: 'playlists/groove-over-noise/journey-map.svg',
       sitesPromptPath: 'playlists/groove-over-noise/sites-prompt.md',
       detailedSiteStatus: 'PUBLISHED_READ_ONLY',
-      detailedSiteUrl: 'https://groove-over-noise-map.broskmenmi.chatgpt.site',
+      detailedSiteUrl: 'https://broskmenmi.github.io/editorial-engine/',
     },
     totals: {
       trackCount: tracks.length,
