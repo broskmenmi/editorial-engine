@@ -1,81 +1,103 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T10:57:00Z-explore-13",
-  "sourceCommit": "057fb051956606a73841a3d7209ca23de76fb60c",
+  "runId": "2026-09-06T11:00:00Z-explore-14",
+  "sourceCommit": "f877b370679995b0ce237fdb479eb0bef908029c",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 6 discovery after the Sciahri run",
+    "role": "fresh STRANGE GAIT Track 6 discovery after two no-add outward scans",
     "position": "after Sciahri — Moonwake as Track 6",
     "neighbours": ["spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"],
-    "purpose": "test an intentional release or redirection after the current intensification while maintaining broad volume belonging"
+    "purpose": "test current/adjacent/overlooked hypnotic and structurally flexible techno for a deliberate continuation, release or redirection after the Sciahri run"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T10:57:00Z",
+    "timestampUtc": "2026-09-06T11:00:00Z",
     "sourceWindows": [
-      "Fresh September 3 Endemit Tessera Rubin scan: https://endemit.bandcamp.com/album/tessera-rubin",
-      "Fresh August 21 Butter Sessions Syphon Filter scan: https://buttersessions.bandcamp.com/album/syphon-filter",
-      "Adjacent ARA/AgainstMe UTIL 08 scan: https://againstmeofficial.bandcamp.com/album/util-08",
-      "Overlooked Butter Sessions 15 Years catalogue scan including OK EG — Gunma Rain",
-      "Beatport exact tempo metadata for Sleep D/Mosam Howieson and OK EG material"
+      "Current August Signal Rec / Nnamael — Beauty in Order, Tragedy in Repetition: https://signalrec1.bandcamp.com/album/beauty-in-order-tragedy-in-repetition",
+      "Adjacent Signal Rec / Yunze Ou — Boot_NVL incl. Drop-E Remix: https://signalrec1.bandcamp.com/album/boot-nvl-incl-drop-e-remix",
+      "Overlooked 2026 Ilian Tape / Fireground — Core Waves: https://iliantape.bandcamp.com/album/it079-core-waves",
+      "Overlooked 2026 Ilian Tape / Deetron presents Soulmate — Sequence catalogue corridor",
+      "Planet Rhythm September catalogue and Signal Distopía September 18 pre-release were scanned as current/future label context; unreleased material was retained as watch only"
     ],
-    "approximateInspectedScope": "approximately 32 named tracks/releases across Endemit, Butter Sessions, ARA and overlooked Butter Sessions catalogue",
+    "approximateInspectedScope": "approximately 28 named tracks/releases across Signal Rec, Planet Rhythm and Ilian Tape current/adjacent/overlooked catalogues",
     "exclusions": [
-      "material whose case depended only on genre or BPM was not promoted",
-      "the 94 BPM metadata for the Konduku remix was not used to infer half-time relation or compatibility",
-      "parked candidates were not recycled",
-      "source descriptions remain attributed rather than treated as direct listening"
+      "September 18 Planet Rhythm and Signal pre-releases were not promoted as currently released canonical candidates",
+      "label-wide descriptions were kept weaker than track/release-specific evidence",
+      "genre and artist reputation were not used as admission evidence",
+      "parked candidates were not recycled without trigger"
     ],
     "rankedLeadSummary": [
-      "1. Sleep D & Mosam Howieson — Inertia: 135 BPM; label explicitly frames Inertia and Mirror Pool as respite with a psychedelic/emotive strain after peak-time pressure",
-      "2. MMali — Fall of Man: current Sep 3; track-specific patient deep-techno excursion with cavernous atmosphere, layered synthesis and spatial depth",
-      "3. AgainstMe — Enstikto: Aug 14 ARA release framed as first-class dancefloor hypnosis with class and funk knowledge",
-      "4. OK EG — Gunma Rain: overlooked Butter Sessions compilation cut described as zoned psychoactive techno; 130 BPM metadata"
+      "1. Nnamael — Beauty in Order, Tragedy in Repetition: Aug 21; 6:07; release explicitly frames deep powerful sound, introspection/emotion, hypnotic and experimental influence",
+      "2. Yunze Ou — Boot_NVL_54 (Drop-E Remix): Jul 3; 5:28; release says Drop-E turns the title from punch toward deepness and sci-fi",
+      "3. Fireground — Core Waves: Jun 11; 5:13; overlooked Ilian Tape exact track in a four-track techno EP",
+      "4. Deetron presents Soulmate — Sequence: Apr 30; 6:08; overlooked Ilian Tape catalogue lead"
     ]
   },
   "leads": [
     {
-      "artist":"Sleep D, Mosam Howieson",
-      "track":"Inertia",
-      "releaseDate":"2026-08-21",
-      "bpm":135,
-      "bpmSource":"Beatport exact Butter Sessions listing reports Inertia Original Mix at 135 BPM",
-      "discoverySource":"Butter Sessions official Syphon Filter release; label says Inertia and Mirror Pool offer respite with a psychedelic and emotive strain of techno",
-      "searchIntent":"BOTH",
-      "proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis":"The label explicitly gives Inertia a respite function, making it a credible deliberate release after the two-track Sciahri intensification; exact felt transition remains unknown.",
-      "evidence":{"measured":["135 BPM","7:20 duration","released 2026-08-21","incoming 140→135 BPM"],"attributedDescription":"Butter Sessions describes Inertia/Mirror Pool as respite with a psychedelic and emotive techno strain.","listenerEvidence":"The earlier listener complaint makes intentionality of any energy shift critical; a documented respite function gives this move a concrete purpose.","lawfulAudioEvidence":null,"craftConvention":"A deliberate release after a short intensification is valid long-form sequencing; the tempo drop is context, not proof."}
+      "artist": "Nnamael",
+      "track": "Beauty in Order, Tragedy in Repetition",
+      "releaseDate": "2026-08-21",
+      "discoverySource": "Signal Rec official Bandcamp release; Nnamael's EP is described as deep powerful sound, introspective yet emotional, influenced by hypnotic and experimental sounds, with darker-to-brighter landscape movement",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
+      "fitHypothesis": "The title track has a credible broader-volume belonging case through a release explicitly built around deep, hypnotic and experimental movement and could redirect the sequence after the Sciahri rise; exact track-level energy and handoff remain unknown.",
+      "evidence": {
+        "measured": ["6:07 duration from official Bandcamp", "released 2026-08-21"],
+        "attributedDescription": "Signal/Nnamael frame the release through deep powerful sound, introspection/emotion and hypnotic/experimental influence; release-level evidence.",
+        "listenerEvidence": "The listener's prior flow complaint means the move must feel intentional rather than simply different; no direct listener evidence exists for this track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A darker-to-brighter deep/hypnotic corridor can function as redirection after a short intensification, but release-level framing cannot prove the exact transition."
+      }
     },
     {
-      "artist":"MMali",
-      "track":"Fall of Man",
-      "releaseDate":"2026-09-03",
-      "discoverySource":"Endemit official Tessera Rubin release; track-specific description calls Fall of Man a patient deep techno excursion shaped by cavernous atmospherics, layered synthesis and carefully sculpted spatial depth",
-      "searchIntent":"BOTH",
-      "proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis":"Track-specific patient/deep framing gives Fall of Man a credible decompression/redirection hypothesis after Moonwake, while exact pulse and energy remain unknown.",
-      "evidence":{"measured":["5:41 duration","released 2026-09-03"],"attributedDescription":"Endemit describes a patient deep techno excursion with cavernous atmospherics, layered synthesis and spatial depth.","listenerEvidence":"No direct listener evidence exists for this track.","lawfulAudioEvidence":null,"craftConvention":"Patient deep material can serve release or reorientation, but source language does not prove exact neighbour flow."}
+      "artist": "Yunze Ou",
+      "track": "Boot_NVL_54 (Drop-E Remix)",
+      "releaseDate": "2026-07-03",
+      "discoverySource": "Signal Rec official Boot_NVL release; label says Drop-E reviews the main title in his cosmic mood, where there was punch now its deepness and sci-fi",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
+      "fitHypothesis": "The remix has a source-backed deepening/sci-fi transformation that could supply a deliberate release/redirection after Moonwake; exact bodily continuity and energy remain unknown.",
+      "evidence": {
+        "measured": ["5:28 duration from official Bandcamp", "released 2026-07-03"],
+        "attributedDescription": "Signal says the Drop-E remix moves the title from punch toward deepness and sci-fi; attributed track-specific transformation language.",
+        "listenerEvidence": "No direct listener evidence exists for this track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A deliberately deepened remix can plausibly release pressure without abandoning techno drive, but source language is not direct transition evidence."
+      }
     },
     {
-      "artist":"AgainstMe",
-      "track":"Enstikto",
-      "releaseDate":"2026-08-14",
-      "discoverySource":"ARA/AgainstMe official UTIL 08 release; the seven-track set is described as mindbending techno hypnotizers and first-class dancefloor hypnosis distilled with class and funk knowledge",
-      "searchIntent":"BOTH",
-      "proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis":"The release-level hypnosis/funk framing supports volume belonging, but track-specific placement evidence for Enstikto remains limited.",
-      "evidence":{"measured":["4:52 duration","released 2026-08-14"],"attributedDescription":"ARA frames UTIL 08 at release level as mindbending techno hypnotizers and first-class dancefloor hypnosis with funk knowledge.","listenerEvidence":"No direct listener evidence exists for Enstikto.","lawfulAudioEvidence":null,"craftConvention":"Functional hypnotic material can extend bodily continuity, but release-level evidence is weak for an exact slot."}
+      "artist": "Fireground",
+      "track": "Core Waves",
+      "releaseDate": "2026-06-11",
+      "discoverySource": "Ilian Tape official IT079 Core Waves release; exact track is 5:13 and part of Fireground's four-track 2026 techno EP",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
+      "fitHypothesis": "Core Waves is a credible overlooked-catalogue techno belonging lead from Ilian Tape, but absent track-specific sonic description its exact post-Moonwake function is materially uncertain.",
+      "evidence": {
+        "measured": ["5:13 duration from official Bandcamp", "released 2026-06-11"],
+        "attributedDescription": "No track-specific sonic description beyond the official Ilian Tape release context.",
+        "listenerEvidence": "No direct listener evidence exists for Core Waves.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A known techno catalogue context earns resolution, not admission; exact placement requires stronger evidence."
+      }
     },
     {
-      "artist":"OK EG",
-      "track":"Gunma Rain",
-      "releaseDate":"2026-02-13",
-      "bpm":130,
-      "bpmSource":"Beatport Butter Sessions listing reports Gunma Rain Original Mix at 130 BPM",
-      "discoverySource":"Butter Sessions 15 Years Disc Three; label specifically describes OK EG's contribution as zoned, psychoactive techno",
-      "searchIntent":"BOTH",
-      "proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis":"Gunma Rain is a strong overlooked-catalogue belonging lead and could create a conspicuous decompression, but the 10 BPM numerical drop and source wording do not establish a viable exact transition.",
-      "evidence":{"measured":["130 BPM","released 2026-02-13","incoming 140→130 BPM"],"attributedDescription":"Butter Sessions describes OK EG's contribution as zoned, psychoactive techno.","listenerEvidence":"The earlier failed opening increases scrutiny of conspicuous energy/pulse changes.","lawfulAudioEvidence":null,"craftConvention":"A large tempo shift can work as an intentional reset, but no metrical or audio evidence currently supports that exact move."}
+      "artist": "Deetron presents Soulmate",
+      "track": "Sequence",
+      "releaseDate": "2026-04-30",
+      "bpm": 136,
+      "bpmSource": "Previously surfaced exact external catalogue metadata reports Sequence at 136 BPM",
+      "discoverySource": "Ilian Tape official IT078 Sequence release; exact title track Sequence is 6:08 in the 2026 Soulmate EP",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
+      "fitHypothesis": "Sequence is an overlooked exact techno lead with a measured tempo context that could plausibly redirect the run, but no track-specific sonic evidence currently establishes the exact handoff.",
+      "evidence": {
+        "measured": ["136 BPM from external exact metadata", "6:08 duration from official Ilian Tape", "released 2026-04-30"],
+        "attributedDescription": "Official Ilian Tape release identity only; no track-specific sonic claim used.",
+        "listenerEvidence": "No direct listener evidence exists for Sequence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A numerical tempo reduction may accompany redirection, but it cannot prove flow or energy relation."
+      }
     }
   ]
 }
