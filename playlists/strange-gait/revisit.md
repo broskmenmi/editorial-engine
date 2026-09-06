@@ -4,6 +4,7 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Stereoimagery | auto SHK (late edition) | spotify:track:4v3kWcECa3IaZPcXlXvBjd | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | MarekSPolzki | Tempus Fractum | spotify:track:5QFLRhUta0I2tQTGZejTQU | Exact 135 BPM identity; title does not establish fracture function and source offers genre metadata only. | PARKED |
 | MarekSPolzki | The Surface | spotify:track:3ioA2MrKrmAI0afHXH7kOt | Exact 139 BPM identity; post-Stardancer role remains underdescribed. | PARKED |
 | Melvin Spix | Get the funk | spotify:track:3DrbkAaaBxWRtSRrxjlcfC | Exact 138 BPM identity; genre/title do not establish funk character or post-Stardancer function. | PARKED |
