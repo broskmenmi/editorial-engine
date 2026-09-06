@@ -11,19 +11,20 @@
 | 5 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
 | 6 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
 | 7 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
+| 8 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 7 canonical tracks.**
+**ACTIVE EXPANSION — 8 canonical tracks.**
 
-Run `2026-09-06T11:38:00Z-explore-19` added Jayson Wynters — Tehutis Law after Capa. Delsin describes the exact track as distinct Motor City funk with wiggling groove accents, and exact external metadata reports 139 BPM. Its editorial purpose is body re-grounding through funk after Capa's broken-gait redirection; neither the 137→139 step nor source language proves perceived flow.
+Run `2026-09-06T12:39:00Z-explore-27` added CHANCEKNOT — Fragments after Tehutis Law. OFF Recordings gives track-specific evidence of hypnotic grooves, pulsating rhythm, commanding percussion and tension-building/releasing arrangements; exact external metadata reports 140 BPM. The editorial purpose is a deliberate return to driving hypnosis after the Capa → Tehutis rhythmic/funk turn. The 139→140 step does not prove perceived flow or energy continuity.
 
 All tracks remain provisional; no protected handoffs.
 
 ## Next structural need
 
-No actionable REPAIR remains. Fresh EXPLORE should test what follows the Capa → Tehutis Law two-track rhythmic/funk turn without forcing further Tilt or immediate escalation.
+No actionable REPAIR remains. Fresh EXPLORE should test what follows the three-track Capa → Tehutis Law → Fragments turn without assuming continued escalation or a forced chapter progression.
 
 ## Current measured tempo trajectory
 
-`136 → 136 → 134 → 140 → 140 → 137 → 139 BPM`
+`136 → 136 → 134 → 140 → 140 → 137 → 139 → 140 BPM`

@@ -1,27 +1,21 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 7 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Tehutis Law. All provisional; none protected. Audio/live NOT TESTED.
+Canonical: 8 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Tehutis Law → Fragments. All provisional; none protected. Audio/live NOT TESTED.
 
-## Run 26 — EXPLORE
-4 leads → 3 exact resolutions → 3 selected candidates → 0 ADD. Dino Sabatini — Subsurface Light (`spotify:track:4wltdS59dJoR1mzj6SS2tz`, 100 BPM), Lost Few — Broken Dawn (`spotify:track:6lKumoF3IkXSEQZyhtK7tk`, 110 BPM) and Lost Few — Light Before The Haze (`spotify:track:3YBxqg982cclIygXUQ5zj3`, 90 BPM) are PARKED. Track-specific Southern Lights evidence is strong, but the measured 139→100/110/90 shifts are large and no documented metrical relation or listener/audio evidence establishes bodily continuity. Lost Few — Light Before The Haze (Dino Sabatini Remix) unresolved in Spotify SE. No repair trigger; next run EXPLORE.
+## Run 27 — EXPLORE
+1 lead → 1 exact resolution → 1 selected candidate → 1 ADD. **ADD CHANCEKNOT — Fragments** (`spotify:track:3wsskKLpimIuiDDCb6eHVv`, 140 BPM) as Track 8. OFF Recordings' exact-track description supplies hypnotic-groove, pulsating-rhythm, commanding-percussion and tension-building evidence. The editorial purpose is a deliberate re-escalation after Capa's rhythmic redirection and Tehutis Law's funk re-grounding; peak-time framing and 139→140 BPM are context, not proof of felt flow. No repair trigger; next run EXPLORE.
+
+## Run 26
+Subsurface Light (100 BPM), Broken Dawn (110 BPM), Light Before The Haze (90 BPM) PARKED; Sabatini remix unresolved.
 
 ## Run 25
-4 exact → 3 selected → 0 ADD. Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate. Nankuru blocked from canonical persistence because exact BPM unavailable and current schema requires finite BPM.
+Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate.
 
 ## Run 24
-4 leads → 0 exact → 0 candidates → 0 ADD. Minniemen unresolved; Gallop ambiguous; Plumes unresolved but retained.
+Minniemen unresolved; Gallop ambiguous; Plumes unresolved but retained.
 
-## Run 23
-Nils Edte — Actus PARKED.
-
-## Run 22
-FORM 04, Morso and FORM 06 PARKED.
-
-## Run 21
-Diffusion and Soundview Plaza PARKED.
-
-## Run 20
-Alpaca Vision, The Atrocity Exhibition, Unpaid Moral Debts PARKED.
+## Runs 20–23
+Multiple exact discoveries PARKED; no canonical ADD.
 
 ## Run 19
 ADD Tehutis Law Track 7.
