@@ -1,99 +1,100 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T11:10:00Z-explore-17",
-  "sourceCommit": "e7bdf6586c33965f96666c372467a46049ddadd1",
+  "runId": "2026-09-06T11:34:00Z-explore-18",
+  "sourceCommit": "93b3253778e83a1a00e5b91e8ec7f2ff012ab4bd",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 6 discovery via Token",
-    "position": "after Sciahri — Moonwake as Track 6",
-    "neighbours": ["spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"],
-    "purpose": "test track-specifically described rhythmic redirections after several evidence-limited no-add scans"
+    "role": "fresh STRANGE GAIT Track 7 discovery after Capa",
+    "position": "after Nørbak — Capa as Track 7",
+    "neighbours": ["spotify:track:5np6Qsak6d5kIdkktjblRB"],
+    "purpose": "look outside Token for material that can stabilize, deepen, or deliberately redirect the new broken-gait move without requiring another novelty step"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:10:00Z",
+    "timestampUtc": "2026-09-06T11:34:00Z",
     "sourceWindows": [
-      "Current Token 2026 discography through September, with unretrieved September Allure material used only as current label context",
-      "Token / Nørbak — Chuva, released 2026-02-06: https://tokenrecords.bandcamp.com/album/chuva",
-      "Token / Various Artists — Fuga VII, released 2026-04-17: https://tokenrecords.bandcamp.com/album/fuga-vii",
-      "Exact Token track pages for Capa, Critical Velocity, The Strategy and Ad Libitum"
+      "Current Hypnus Records catalogue led by BLNDR — Stomiidae, released 2026-07-29",
+      "Current MORD/Herdersmat Part 49-52 material, released 2026-08-28, including Vinicius Honorio & R.M.K — Mellow",
+      "Adjacent Hypnus catalogue including Valentino Mora — Hailstorm, released 2026-04-02",
+      "Overlooked Tresor catalogue: LNS & DJ Sotofett — Globus Trax / Destination 909, released 2025-06-06",
+      "MORD Vinicius Honorio — Inframundo EP and PoleGroup K.O.M.S. — Beyond The Noise were scanned but retained as September pre-release watches"
     ],
-    "approximateInspectedScope": "approximately 30 named tracks/releases across Token's 2026 current, adjacent and overlooked catalogue",
+    "approximateInspectedScope": "approximately 32 tracks/releases across Hypnus current/adjacent catalogue, MORD current material, and overlooked Tresor club material",
     "exclusions": [
-      "Token September Allure material was not promoted without a sufficiently concrete retrievable track evidence page",
-      "artist reputation and Token identity were not treated as admission evidence",
-      "high-pressure framing was not automatically rejected, but had to serve a concrete long-form purpose",
-      "parked STRANGE GAIT candidates were not recycled without trigger"
+      "September 11 and September 25 pre-releases were retained as watches rather than canonical leads",
+      "Hypnus genre/tag identity was treated as belonging context rather than proof of exact placement",
+      "Destination 909's unusual tempo metadata was not used to infer pulse relation",
+      "parked STRANGE GAIT material was not recycled without a trigger"
     ],
     "rankedLeadSummary": [
-      "1. Nørbak — Capa: track-specific Token description says it bends almost to a break, is rhythmically expressive, and rides a dangerous bassline with dry percussion",
-      "2. Porteix — Ad Libitum: track-specific Token description says synths slither around a pulsating rhythm creating uninterrupted motion, sustaining mystery and suspense",
-      "3. MAL HOMBRE — Critical Velocity: elastic sound design with intensity snowballing halfway, snare rolls, bells and hats driving the course",
-      "4. Connor Wall — The Strategy: focuses on pace rather than melody, metallic texture and a deep dancefloor experience, with ambience marking breaks and drops"
+      "1. LNS & DJ Sotofett — Destination 909: Tresor gives track-specific evidence of jacking TR-909 beats, galactic strings, synthetic bass and a slamming machine-centered break",
+      "2. BLNDR — Stomias: current Hypnus closing track from Stomiidae; deep/hypnotic/atmospheric release context and 5:31 duration",
+      "3. Vinicius Honorio & R.M.K — Mellow: current Aug 28 MORD compilation cut, 5:22, exact current catalogue lead",
+      "4. Valentino Mora — Hailstorm: 10:00 Hypnus track from an atmospheric/deep/hypnotic two-track 2026 release"
     ]
   },
   "leads": [
     {
-      "artist": "Nørbak",
-      "track": "Capa",
-      "releaseDate": "2026-02-06",
-      "discoverySource": "Token official Chuva release; track-specific description says Capa bends almost to a break, is rhythmically expressive, and drives with a dangerous bassline and dry percussion",
+      "artist": "LNS, DJ Sotofett",
+      "track": "Destination 909",
+      "releaseDate": "2025-06-06",
+      "discoverySource": "Tresor official Globus Trax release and track description: Destination 909 is a TR-909 manifesto with jacking beats, galactic strings and synthetic bass, broken open by a slamming machine-centered break",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "Capa has unusually strong track-specific evidence for STRANGE GAIT's rhythmic-freedom lens and could deliberately redirect the current straightened Sciahri run toward a more broken gait without requiring novelty for its own sake; exact felt energy and neighbour transition remain unknown.",
+      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
+      "fitHypothesis": "Its explicit jack/break design could lock the body after Capa while keeping rhythmic character alive, but genre/pulse and exact felt transition remain unknown and must not be inferred from metadata.",
       "evidence": {
-        "measured": ["5:43 duration from official Token Bandcamp", "released 2026-02-06"],
-        "attributedDescription": "Token says Capa bends almost to a break, is rhythmically expressive, and uses a dangerous bassline with dry percussion; attributed track-specific evidence.",
-        "listenerEvidence": "The listener rejected an earlier sequence whose energy changed arbitrarily track by track. Capa must therefore function as an intentional rhythmic redirection rather than merely a different technique.",
+        "measured": ["6:03 duration", "released 2025-06-06"],
+        "attributedDescription": "Tresor describes jacking TR-909 beats, galactic strings, synthetic bass and a slamming break where the drum machine cuts in and out.",
+        "listenerEvidence": "No direct listener evidence exists for this track.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "After a two-track intensification, a controlled change in rhythmic grammar can reopen the journey if it retains bodily purpose; source description supports the hypothesis but does not prove perceived flow."
+        "craftConvention": "A jacking post-break redirection can preserve bodily trust, but the source description does not prove Capa → Destination 909 flow."
       }
     },
     {
-      "artist": "Porteix",
-      "track": "Ad Libitum",
-      "releaseDate": "2026-04-17",
-      "discoverySource": "Token official Fuga VII release; track-specific description says synths slither around a pulsating rhythm creating uninterrupted motion, with mystery and suspense maintained through the conclusion",
+      "artist": "BLNDR",
+      "track": "Stomias",
+      "releaseDate": "2026-07-29",
+      "discoverySource": "Hypnus Records official Stomiidae release; current psychedelic deep-techno release tagged atmospheric/deep/hypnotic techno, with Stomias as the 5:31 closing track",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "Ad Libitum offers a strong uninterrupted-motion belonging hypothesis and could continue bodily drive while changing texture and suspense after Moonwake; exact energy/pressure relation remains unknown.",
+      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
+      "fitHypothesis": "Stomias is a current deep/hypnotic belonging lead that could stabilize the journey after Capa, but available official evidence is release-level rather than track-specific.",
       "evidence": {
-        "measured": ["5:54 duration from official Token Bandcamp", "released 2026-04-17"],
-        "attributedDescription": "Token describes pulsating rhythm, slithering synths, uninterrupted motion, mystery and suspense; track-specific source evidence.",
-        "listenerEvidence": "No direct listener evidence exists for Ad Libitum.",
+        "measured": ["5:31 duration", "released 2026-07-29"],
+        "attributedDescription": "Hypnus release identity and official atmospheric/deep/hypnotic tags only.",
+        "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Uninterrupted-motion framing makes a continuation plausible without demanding sameness, but does not prove exact neighbour flow."
+        "craftConvention": "Current deep-techno context earns resolution, not admission."
       }
     },
     {
-      "artist": "MAL HOMBRE",
-      "track": "Critical Velocity",
-      "releaseDate": "2026-04-17",
-      "discoverySource": "Token official Fuga VII release; track-specific description highlights elastic sound design, intensity snowballing halfway, cutoff melody, snare rolls, bells and ringing hats driving the track onward",
+      "artist": "Vinicius Honorio, R.M.K",
+      "track": "Mellow",
+      "releaseDate": "2026-08-28",
+      "discoverySource": "MORD official Herdersmat Part 49-52; Mellow is a current 2026 Vinicius Honorio & R.M.K cut in an 18-track MORD compilation",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "Critical Velocity strongly engages elastic/rhythmic STRANGE GAIT territory, but its documented snowballing intensity makes an immediate post-Moonwake placement a higher-risk continuation rather than an obvious release.",
+      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
+      "fitHypothesis": "Mellow is a current MORD exact-track lead worth resolving as a possible stabilizing techno move, but no track-specific sonic evidence currently establishes its function.",
       "evidence": {
-        "measured": ["6:00 duration from official Token Bandcamp", "released 2026-04-17"],
-        "attributedDescription": "Token describes elastic sound design and intensity snowballing halfway, driven by snare rolls, bells and hats; track-specific evidence.",
-        "listenerEvidence": "The current sequence already contains a two-track intensification, so another escalation needs a clear long-form reason.",
+        "measured": ["released 2026-08-28"],
+        "attributedDescription": "Official MORD release identity only; no track-level sonic claim used.",
+        "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Escalation can be excellent, but stacking intensity without a larger purpose risks flattening the journey."
+        "craftConvention": "Current respected catalogue context cannot substitute for exact placement evidence."
       }
     },
     {
-      "artist": "Connor Wall",
-      "track": "The Strategy",
-      "releaseDate": "2026-04-17",
-      "discoverySource": "Token official Fuga VII release; track-specific description says The Strategy focuses on pace rather than melody, weaponizes metallic texture for a deep dancefloor experience, and uses ambience to mark breaks and drops",
+      "artist": "Valentino Mora",
+      "track": "Hailstorm",
+      "releaseDate": "2026-04-02",
+      "discoverySource": "Hypnus Records official Hailstorm release; 10:00 title track in a two-track atmospheric/deep/hypnotic techno release",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "The Strategy has credible physical/deep dancefloor belonging and a pace-first identity, but its exact role after Moonwake is less distinctive than Capa's rhythmic redirection or Ad Libitum's uninterrupted-motion hypothesis.",
+      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
+      "fitHypothesis": "The long-form deep/atmospheric release context makes Hailstorm a plausible spacious redirection after Capa, but the exact track's pressure and bodily relation are unknown.",
       "evidence": {
-        "measured": ["6:49 duration from official Token Bandcamp", "released 2026-04-17"],
-        "attributedDescription": "Token describes pace over melody, metallic texture, deep dancefloor function and ambience marking breaks/drops; track-specific evidence.",
-        "listenerEvidence": "No direct listener evidence exists for The Strategy.",
+        "measured": ["10:00 duration", "released 2026-04-02"],
+        "attributedDescription": "Official Hypnus release context and deep/atmospheric/hypnotic tags only.",
+        "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Pace-focused deep techno can preserve movement, but exact post-Moonwake purpose still needs evaluation."
+        "craftConvention": "Longer atmospheric material can create space in a journey, but duration and tags do not prove that role."
       }
     }
   ]
