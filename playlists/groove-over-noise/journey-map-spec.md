@@ -41,13 +41,15 @@ It is intended for the end of every editorial-run response.
 - **Provisional:** current placement with an editorial interpretation that may be reopened naturally.
 - **Frozen:** part of an unresolved listener-feedback discussion; no changes allowed without clarification and approval.
 
-## Detailed Sites experience
+## Unified detailed site
 
-The detailed interactive map is published read-only at:
+All playlist journey maps share one published read-only site:
 
-`https://groove-over-noise-map.broskmenmi.chatgpt.site`
+`https://broskmenmi.github.io/editorial-engine/`
 
-GitHub continues to hold the complete authoritative source for the published Site:
+GROOVE OVER NOISE is a subsection of that site rather than a separately hosted page. The site also contains the other canonical playlist subsections and reads each playlist's generated `journey-map.json` independently.
+
+GitHub continues to hold the complete authoritative source for this subsection:
 
 ```text
 playlists/groove-over-noise/journey-map.json
@@ -55,7 +57,7 @@ playlists/groove-over-noise/journey-annotations.json
 playlists/groove-over-noise/sites-prompt.md
 ```
 
-The detailed Site must not become a second source of truth. It reads the generated JSON; GitHub's ledger and annotations remain authoritative.
+The site must not become a second source of truth. It reads generated JSON; GitHub's ledger and annotations remain authoritative.
 
 ## Detailed interaction model
 
@@ -69,14 +71,14 @@ The detailed Site must not become a second source of truth. It reads the generat
 
 ### Track interaction
 
-Tapping a track opens a drawer with:
+Tapping a track opens details with:
 
 - position;
 - track and artist;
 - Spotify link;
 - BPM;
 - duration;
-- elapsed start and end time;
+- elapsed start and end time when exposed by the model;
 - structural role;
 - chapter;
 - evidence status;
@@ -87,9 +89,9 @@ Tapping a track opens a drawer with:
 
 ### Chapter interaction
 
-Tapping a chapter zooms to that region and lists:
+The subsection exposes:
 
-- chapter purpose;
+- chapter purpose and range;
 - local crest or release points;
 - duration;
 - tracks in order;
@@ -98,19 +100,19 @@ Tapping a chapter zooms to that region and lists:
 
 ### Discussion interaction
 
-Frozen regions appear with restrained amber outlines. They show:
+Frozen regions use restrained amber state treatment and may show:
 
-- exact listener wording;
+- exact listener wording when present in the model;
 - current published sequence;
 - external candidate tracks under discussion;
 - status such as `AWAITING CLARIFICATION`;
 - no edit controls.
 
-The Site visualizes state; it does not make editorial decisions or modify Spotify.
+The site visualizes state; it does not make editorial decisions or modify Spotify.
 
 ## Visual identity
 
-Match the canonical cover:
+Match the canonical cover while remaining coherent with the shared site shell:
 
 - black and charcoal base;
 - graphite texture;
@@ -126,47 +128,45 @@ Match the canonical cover:
 
 ### Phone
 
-- horizontal pan and pinch zoom;
-- sticky chapter mini-map;
+- horizontal pan for the journey plot;
 - tap targets at least 44 px;
-- track details in a bottom sheet;
+- track details usable without hover;
 - story and BPM toggles above the map;
-- no hover-only information.
+- playlist subsection navigation remains thumb-friendly.
 
 ### Desktop
 
 - full-width landscape;
-- hover preview plus click drawer;
-- optional chapter overview rail;
-- keyboard navigation between tracks.
+- click/tap track detail;
+- keyboard navigation for interactive points;
+- preserve full-journey context.
 
 ## Evidence boundary
 
-The Site must label data accurately:
+The site must label data accurately:
 
 - BPM and duration are measured metadata.
 - Story height, crest, summit, release, and chapter are editorial interpretations.
 - Listener wording is attributed as listener evidence.
-- The Site must never claim waveform, loudness, mood, or energy analysis unless a lawful future audio-analysis source is explicitly present in the JSON.
+- The site must never claim waveform, loudness, mood, or energy analysis unless a lawful future audio-analysis source is explicitly present in the JSON.
 
 ## Update lifecycle
 
 1. Librarian updates `ledger.md` and `journey-annotations.json` in the approved editorial change set.
-2. GitHub Action runs `apps/journey-map/src/index.js`.
+2. GitHub Action runs `apps/journey-map/src/index.js` and normalization.
 3. The app reads the ledger, annotations, and Spotify duration metadata.
 4. The app writes `journey-map.json` and `journey-map.svg`.
 5. The compact SVG appears at the end of editorial-run responses.
-6. The published Site reads `journey-map.json` and updates without becoming authoritative.
+6. The unified site reads `journey-map.json` and updates without becoming authoritative.
 
 ## Scaling
 
 The compact map keeps all tracks as numbered points but labels only key tracks.
 
-The detailed Site must remain usable beyond 100 tracks through:
+The shared detailed site must remain usable as playlists grow through:
 
-- time-based zoom;
-- chapter filtering;
-- label collision avoidance;
-- virtualized track lists;
-- overview and detail modes;
-- preserved full-journey context while zoomed.
+- time-scaled plots;
+- chapter grouping;
+- collapsible track lists;
+- preserved full-journey context;
+- independent playlist subsections rather than separate sites.
