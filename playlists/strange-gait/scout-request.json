@@ -1,103 +1,20 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T11:00:00Z-explore-14",
-  "sourceCommit": "f877b370679995b0ce237fdb479eb0bef908029c",
+  "runId": "2026-09-06T11:04:00Z-explore-15",
+  "sourceCommit": "a7a7bedd8183fb5771b88abfa4a94b6c3ea03f90",
   "mode": "EXPLORE",
-  "target": {
-    "role": "fresh STRANGE GAIT Track 6 discovery after two no-add outward scans",
-    "position": "after Sciahri — Moonwake as Track 6",
-    "neighbours": ["spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"],
-    "purpose": "test current/adjacent/overlooked hypnotic and structurally flexible techno for a deliberate continuation, release or redirection after the Sciahri run"
-  },
+  "target": {"role":"fresh Track 6 discovery via HAYES current catalogue","position":"after Sciahri — Moonwake as Track 6","neighbours":["spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"],"purpose":"test current disciplined/minimalist techno as a deliberate post-Sciahri move"},
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:00:00Z",
-    "sourceWindows": [
-      "Current August Signal Rec / Nnamael — Beauty in Order, Tragedy in Repetition: https://signalrec1.bandcamp.com/album/beauty-in-order-tragedy-in-repetition",
-      "Adjacent Signal Rec / Yunze Ou — Boot_NVL incl. Drop-E Remix: https://signalrec1.bandcamp.com/album/boot-nvl-incl-drop-e-remix",
-      "Overlooked 2026 Ilian Tape / Fireground — Core Waves: https://iliantape.bandcamp.com/album/it079-core-waves",
-      "Overlooked 2026 Ilian Tape / Deetron presents Soulmate — Sequence catalogue corridor",
-      "Planet Rhythm September catalogue and Signal Distopía September 18 pre-release were scanned as current/future label context; unreleased material was retained as watch only"
-    ],
-    "approximateInspectedScope": "approximately 28 named tracks/releases across Signal Rec, Planet Rhythm and Ilian Tape current/adjacent/overlooked catalogues",
-    "exclusions": [
-      "September 18 Planet Rhythm and Signal pre-releases were not promoted as currently released canonical candidates",
-      "label-wide descriptions were kept weaker than track/release-specific evidence",
-      "genre and artist reputation were not used as admission evidence",
-      "parked candidates were not recycled without trigger"
-    ],
-    "rankedLeadSummary": [
-      "1. Nnamael — Beauty in Order, Tragedy in Repetition: Aug 21; 6:07; release explicitly frames deep powerful sound, introspection/emotion, hypnotic and experimental influence",
-      "2. Yunze Ou — Boot_NVL_54 (Drop-E Remix): Jul 3; 5:28; release says Drop-E turns the title from punch toward deepness and sci-fi",
-      "3. Fireground — Core Waves: Jun 11; 5:13; overlooked Ilian Tape exact track in a four-track techno EP",
-      "4. Deetron presents Soulmate — Sequence: Apr 30; 6:08; overlooked Ilian Tape catalogue lead"
-    ]
+    "timestampUtc":"2026-09-06T11:04:00Z",
+    "sourceWindows":["Current HAYES HYS007 released 2026-09-04: https://hayescollective.bandcamp.com/album/hys007","Adjacent HAYES Space Brutalism July 2026","Overlooked HAYES Kazoo / Quatro Níveis / Everzero 2026 catalogue"],
+    "approximateInspectedScope":"approximately 30 tracks/releases across current HYS007, adjacent 2026 HAYES releases and overlooked catalogue",
+    "exclusions":["future HAYES releases were not treated as released","HYS007's release-level 'precision and intent' framing was not silently converted into track-level sonic fact","parked candidates were not recycled"],
+    "rankedLeadSummary":["1. Red Rooms — Seeking: current HYS007, 4:29","2. Temudo, Kwartz — Recentering: current HYS007, 5:15","3. Uväll — Parallel Shift: current HYS007, 5:16","4. Deano — Kazoo (Stripped Version): overlooked May 2026 psychedelic/minimal techno track"]
   },
-  "leads": [
-    {
-      "artist": "Nnamael",
-      "track": "Beauty in Order, Tragedy in Repetition",
-      "releaseDate": "2026-08-21",
-      "discoverySource": "Signal Rec official Bandcamp release; Nnamael's EP is described as deep powerful sound, introspective yet emotional, influenced by hypnotic and experimental sounds, with darker-to-brighter landscape movement",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "The title track has a credible broader-volume belonging case through a release explicitly built around deep, hypnotic and experimental movement and could redirect the sequence after the Sciahri rise; exact track-level energy and handoff remain unknown.",
-      "evidence": {
-        "measured": ["6:07 duration from official Bandcamp", "released 2026-08-21"],
-        "attributedDescription": "Signal/Nnamael frame the release through deep powerful sound, introspection/emotion and hypnotic/experimental influence; release-level evidence.",
-        "listenerEvidence": "The listener's prior flow complaint means the move must feel intentional rather than simply different; no direct listener evidence exists for this track.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A darker-to-brighter deep/hypnotic corridor can function as redirection after a short intensification, but release-level framing cannot prove the exact transition."
-      }
-    },
-    {
-      "artist": "Yunze Ou",
-      "track": "Boot_NVL_54 (Drop-E Remix)",
-      "releaseDate": "2026-07-03",
-      "discoverySource": "Signal Rec official Boot_NVL release; label says Drop-E reviews the main title in his cosmic mood, where there was punch now its deepness and sci-fi",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "The remix has a source-backed deepening/sci-fi transformation that could supply a deliberate release/redirection after Moonwake; exact bodily continuity and energy remain unknown.",
-      "evidence": {
-        "measured": ["5:28 duration from official Bandcamp", "released 2026-07-03"],
-        "attributedDescription": "Signal says the Drop-E remix moves the title from punch toward deepness and sci-fi; attributed track-specific transformation language.",
-        "listenerEvidence": "No direct listener evidence exists for this track.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A deliberately deepened remix can plausibly release pressure without abandoning techno drive, but source language is not direct transition evidence."
-      }
-    },
-    {
-      "artist": "Fireground",
-      "track": "Core Waves",
-      "releaseDate": "2026-06-11",
-      "discoverySource": "Ilian Tape official IT079 Core Waves release; exact track is 5:13 and part of Fireground's four-track 2026 techno EP",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "Core Waves is a credible overlooked-catalogue techno belonging lead from Ilian Tape, but absent track-specific sonic description its exact post-Moonwake function is materially uncertain.",
-      "evidence": {
-        "measured": ["5:13 duration from official Bandcamp", "released 2026-06-11"],
-        "attributedDescription": "No track-specific sonic description beyond the official Ilian Tape release context.",
-        "listenerEvidence": "No direct listener evidence exists for Core Waves.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A known techno catalogue context earns resolution, not admission; exact placement requires stronger evidence."
-      }
-    },
-    {
-      "artist": "Deetron presents Soulmate",
-      "track": "Sequence",
-      "releaseDate": "2026-04-30",
-      "bpm": 136,
-      "bpmSource": "Previously surfaced exact external catalogue metadata reports Sequence at 136 BPM",
-      "discoverySource": "Ilian Tape official IT078 Sequence release; exact title track Sequence is 6:08 in the 2026 Soulmate EP",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position":"after Sciahri — Moonwake as Track 6"}],
-      "fitHypothesis": "Sequence is an overlooked exact techno lead with a measured tempo context that could plausibly redirect the run, but no track-specific sonic evidence currently establishes the exact handoff.",
-      "evidence": {
-        "measured": ["136 BPM from external exact metadata", "6:08 duration from official Ilian Tape", "released 2026-04-30"],
-        "attributedDescription": "Official Ilian Tape release identity only; no track-specific sonic claim used.",
-        "listenerEvidence": "No direct listener evidence exists for Sequence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A numerical tempo reduction may accompany redirection, but it cannot prove flow or energy relation."
-      }
-    }
+  "leads":[
+    {"artist":"Red Rooms","track":"Seeking","releaseDate":"2026-09-04","discoverySource":"HAYES HYS007 official release; current compilation is framed as precision and intent navigating minimalism through discipline, dissonance and bold force with a singular aesthetic direction","searchIntent":"BOTH","proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],"fitHypothesis":"Seeking is a current exact-track lead inside a deliberately coherent minimalist HAYES statement and could redirect the sequence through discipline rather than another escalation; track-specific feel remains unknown.","evidence":{"measured":["4:29 duration","released 2026-09-04"],"attributedDescription":"HYS007 release-level precision/minimalism/discipline/dissonance framing; not track-specific.","listenerEvidence":"No direct listener evidence for Seeking.","lawfulAudioEvidence":null,"craftConvention":"A disciplined post-escalation move is plausible, but compilation coherence does not prove this exact transition."}},
+    {"artist":"Temudo, Kwartz","track":"Recentering","releaseDate":"2026-09-04","discoverySource":"HAYES HYS007 official release; current compilation framed as precision and intent, minimalism, discipline, dissonance and bold force","searchIntent":"BOTH","proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],"fitHypothesis":"The title Recentering suggests no sonic fact, but the exact current HYS007 identity earns resolution as a possible controlled post-Sciahri move; placement remains evidence-limited.","evidence":{"measured":["5:15 duration","released 2026-09-04"],"attributedDescription":"HYS007 release-level description only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Resolve for current coherent-label context, not because title or artist reputation proves a role."}},
+    {"artist":"Uväll","track":"Parallel Shift","releaseDate":"2026-09-04","discoverySource":"HAYES HYS007 official release; current compilation framed as a harmonic journey with singular aesthetic direction and disciplined minimalism","searchIntent":"BOTH","proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],"fitHypothesis":"Parallel Shift has current belonging relevance in a disciplined/minimalist compilation but no track-specific evidence yet establishes its exact post-Moonwake role.","evidence":{"measured":["5:16 duration","released 2026-09-04"],"attributedDescription":"HYS007 release-level description only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Current coherent compilation context earns evaluation, not admission."}},
+    {"artist":"Deano","track":"Kazoo (Stripped Version)","releaseDate":"2026-05-08","discoverySource":"HAYES official Kazoo release; exact track is tagged minimal techno / psychedelic techno and is the stripped version of the title","searchIntent":"BOTH","proposedPlacements":[{"position":"after Sciahri — Moonwake as Track 6"}],"fitHypothesis":"An overlooked stripped psychedelic/minimal techno track is constitution-relevant as a possible simplification, but tags/title cannot establish felt function.","evidence":{"measured":["released 2026-05-08"],"attributedDescription":"Official HAYES track context and tags only; no direct sonic description used.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"A stripped version may warrant investigation as simplification, but the name itself is not sonic evidence."}}
   ]
 }
