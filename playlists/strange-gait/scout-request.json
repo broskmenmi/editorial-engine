@@ -1,104 +1,76 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T11:38:00Z-explore-19",
-  "sourceCommit": "92352a4b76405810db6c489c21280abe204cc8b5",
+  "runId": "2026-09-06T11:41:00Z-explore-20",
+  "sourceCommit": "ca741add41ca70b977dddb685e6dff2e694f8432",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 7 discovery via Delsin",
-    "position": "after Nørbak — Capa as Track 7",
-    "neighbours": ["spotify:track:5np6Qsak6d5kIdkktjblRB"],
-    "purpose": "test current broken/dub techno and overlooked track-specifically described electro/funk material as a deliberate answer to Capa"
+    "role": "fresh STRANGE GAIT Track 8 discovery after Tehutis Law",
+    "position": "after Jayson Wynters — Tehutis Law as Track 8",
+    "neighbours": ["spotify:track:79yeMWxkbiNZ4su5UuhS6z"],
+    "purpose": "test whether the new Capa→Tehutis funk/rhythm turn should deepen, simplify, or deliberately destabilize next"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:38:00Z",
+    "timestampUtc": "2026-09-06T11:41:00Z",
     "sourceWindows": [
-      "Current Delsin Inertia / Farron — Since Eleven, released 2026-08-28, plus current Beatport Delsin metadata",
-      "Delsin 2026 current catalogue including Deprogramming Of Reality and Djax-Up archival series",
-      "Overlooked Delsin / Jayson Wynters — The Affect Heuristic with track-specific release notes",
-      "Upcoming Delsin / Artefakt — Flow Tide was scanned as September context but retained as a watch until clearly released"
+      "Current Northern Electronics / Vanity Productions — The Vanity Project, released 2026-04-10",
+      "Adjacent Northern Electronics catalogue and 2026 current label context",
+      "Overlooked Avian / Shifted — The Cold Light and Plants Army Revolver — Yguana loop-techno catalogue",
+      "Overlooked Northern Electronics / Lundin Oil — Exploit Divisions rhythmic-noise corridor"
     ],
-    "approximateInspectedScope": "approximately 30 current, adjacent and overlooked Delsin tracks/releases",
+    "approximateInspectedScope": "approximately 28 tracks/releases across current Northern Electronics plus overlooked Avian/Northern catalogue",
     "exclusions": [
-      "unreleased Flow Tide material was not promoted",
-      "Since Eleven's broken/dub framing is release-level and was not converted to track-specific sonic claims",
-      "BPM differences were not treated as transition quality",
+      "ambient/noise material was not assumed to belong merely because it is experimental",
+      "supporter comments were not used as canonical evidence",
+      "loop-techno framing was not treated as exact-neighbour proof",
       "parked candidates were not recycled"
     ],
     "rankedLeadSummary": [
-      "1. Jayson Wynters — The Hunted: Delsin specifically describes springy electro-techno, offering a concrete rhythmic counterpoint after Capa",
-      "2. Jayson Wynters — Tehutis Law: Delsin specifically describes Motor City funk with wiggling groove accents across the spectrum",
-      "3. Farron — Vert Button: current Since Eleven cut, 136 BPM, from an EP explicitly centered on playful broken and dub-driven techno",
-      "4. Farron — Anti Pinch: current Since Eleven cut, 140 BPM, same broken/dub-driven release context"
+      "1. Shifted — Cold Light (Sektor A): Avian explicitly frames The Cold Light as meditative loop techno stripped to the bones with order and control",
+      "2. Plants Army Revolver — Alpaca Vision: Avian frames Yguana around muted, tentatively melodic loop techno with focus on texture and tone",
+      "3. Vanity Productions — The Atrocity Exhibition: current 2026 Northern Electronics material from a dense uneven collage of noise, interference and emotional residue",
+      "4. Lundin Oil — Unpaid Moral Debts: overlooked Northern Electronics project framed around jagged rhythmic noise that barely meets metrical demands"
     ]
   },
   "leads": [
     {
-      "artist": "Jayson Wynters",
-      "track": "The Hunted",
-      "releaseDate": "2021-09-27",
-      "discoverySource": "Delsin official The Affect Heuristic notes describe The Hunted specifically as springy electro-techno",
+      "artist": "Shifted",
+      "track": "Cold Light (Sektor A)",
+      "releaseDate": "2013-05-27",
+      "discoverySource": "Avian official The Cold Light release; explicitly described as meditative loop techno stripped back to the bones with order and control",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
-      "fitHypothesis": "The Hunted could keep rhythmic flexibility after Capa while shifting toward an electro-techno spring rather than simply extending the same gait; exact bodily/energy continuity remains unknown.",
-      "evidence": {
-        "measured": ["7:50 duration", "released 2021-09-27"],
-        "attributedDescription": "Delsin describes The Hunted as springy electro-techno; track-specific source evidence.",
-        "listenerEvidence": "No direct listener evidence exists for this track.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A deliberate rhythmic counterpoint can work after Capa if body continuity survives; source wording supports investigation, not proof."
-      }
+      "proposedPlacements": [{"position": "after Jayson Wynters — Tehutis Law as Track 8"}],
+      "fitHypothesis": "A disciplined meditative-loop move could deepen and simplify after Tehutis Law's funk without abandoning repetition; exact felt transition remains unknown.",
+      "evidence": {"measured":["5:49 duration"],"attributedDescription":"Avian frames The Cold Light as meditative loop techno stripped to essential elements with a powerful sense of order and control.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Simplification after a funk turn can deepen a long-form journey, but source framing does not prove the exact handoff."}
     },
     {
-      "artist": "Jayson Wynters",
-      "track": "Tehutis Law",
-      "releaseDate": "2021-09-27",
-      "discoverySource": "Delsin official The Affect Heuristic notes describe Tehutis Law specifically as distinct Motor City funk loaded with wiggling accents throughout the groove",
+      "artist": "Plants Army Revolver",
+      "track": "Alpaca Vision",
+      "releaseDate": "2019-06-28",
+      "discoverySource": "Avian official Yguana release; the project is framed around muted, tentatively melodic loop techno with focus on sound texture and tone",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
-      "fitHypothesis": "Tehutis Law offers a source-backed funk/groove answer to Capa that could preserve bodily trust while changing stylistic world; exact transition remains unknown.",
-      "evidence": {
-        "measured": ["9:17 duration", "released 2021-09-27"],
-        "attributedDescription": "Delsin describes distinct Motor City funk with wiggling accents from low to high frequencies.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Funk can be a continuity thread across a stylistic change, but metadata/source language cannot prove the felt handoff."
-      }
+      "proposedPlacements": [{"position": "after Jayson Wynters — Tehutis Law as Track 8"}],
+      "fitHypothesis": "Alpaca Vision could move the sequence toward texture-focused loop techno after the funk re-grounding, while exact track-specific behavior remains underdescribed.",
+      "evidence": {"measured":["6:42 duration"],"attributedDescription":"Yguana release-level muted/melodic loop-techno, texture/tone framing.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Texture-focused loop material is a plausible deepening route, but release-level evidence is limited."}
     },
     {
-      "artist": "Farron",
-      "track": "Vert Button",
-      "releaseDate": "2026-08-28",
-      "bpm": 136,
-      "bpmSource": "Beatport current Delsin listing reports Vert Button at 136 BPM",
-      "discoverySource": "Delsin official Since Eleven release; the current EP is framed as playful, broken and dub-driven techno",
+      "artist": "Vanity Productions",
+      "track": "The Atrocity Exhibition",
+      "releaseDate": "2026-04-10",
+      "discoverySource": "Northern Electronics official The Vanity Project; current LP is described as a dense uneven collage of found sound, environmental interference and emotional residue processed through noise electronics and tape manipulation",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
-      "fitHypothesis": "A current broken/dub-techno cut is a credible belonging and stabilization lead after Capa, but the available description is release-level.",
-      "evidence": {
-        "measured": ["136 BPM", "6:55 duration", "released 2026-08-28"],
-        "attributedDescription": "Since Eleven is described at release level as playful broken and dub-driven techno.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Broken/dub context earns resolution; it does not prove exact placement."
-      }
+      "proposedPlacements": [{"position": "after Jayson Wynters — Tehutis Law as Track 8 as a deliberate rupture"}],
+      "fitHypothesis": "The current track is worth resolving as an intentional rupture candidate, but experimental/noise relevance does not automatically establish STRANGE GAIT belonging or dancefloor continuity.",
+      "evidence": {"measured":["5:44 duration","released 2026-04-10"],"attributedDescription":"Northern Electronics describes the LP as dense uneven collage/noise/tape manipulation with quiet but insistent melancholy.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"A rupture can work, but it requires a reason stronger than experimental novelty."}
     },
     {
-      "artist": "Farron",
-      "track": "Anti Pinch",
-      "releaseDate": "2026-08-28",
-      "bpm": 140,
-      "bpmSource": "Beatport current Delsin listing reports Anti Pinch at 140 BPM",
-      "discoverySource": "Delsin official Since Eleven release; the current EP is framed as playful, broken and dub-driven techno",
+      "artist": "Lundin Oil",
+      "track": "Unpaid Moral Debts",
+      "releaseDate": "2024-08-23",
+      "discoverySource": "Northern Electronics official Exploit Divisions; album is framed as seismic static waves and jagged rhythmic noise barely meeting metrical demands, with melodic-drone excursions",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Nørbak — Capa as Track 7"}],
-      "fitHypothesis": "Anti Pinch belongs plausibly in the current broken/dub corridor, but release-level evidence and a 137→140 tempo step cannot establish the exact handoff.",
-      "evidence": {
-        "measured": ["140 BPM", "5:07 duration", "released 2026-08-28"],
-        "attributedDescription": "Since Eleven release-level broken/dub techno framing only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Do not use a close current genre corridor or BPM as automatic admission."
-      }
+      "proposedPlacements": [{"position": "after Jayson Wynters — Tehutis Law as Track 8 as a fracture hypothesis"}],
+      "fitHypothesis": "This is a high-risk structural-fracture lead directly relevant to rhythmic freedom, but its bodily continuity and exact track behavior are unknown.",
+      "evidence": {"measured":["5:08 duration","released 2024-08-23"],"attributedDescription":"Northern Electronics release-level jagged rhythmic-noise / barely metrical framing.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Barely metrical material may be useful later as fracture, but novelty or extremity cannot justify the current slot by itself."}
     }
   ]
 }
