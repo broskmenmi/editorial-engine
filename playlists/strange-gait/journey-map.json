@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T12:44:24.564Z",
+  "generatedAt": "2026-09-06T15:21:04.842Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
     "ledgerFingerprint": "845304dbc757e6fc9a32032f5265e8da2afdba81efd32face4334c54b99cbfea",
-    "annotationsFingerprint": "f0cd28817fdaf3707c6a8a2a8f1d268a7c6bfb7683669455b22165671f34b66c"
+    "annotationsFingerprint": "8ad519fa9263a3b1ab84f81782f9573ab1f7937dba7aee1a180b1b289ee720ef"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -14,8 +14,8 @@
     "storyHeightMeaning": "Ordinal editorial rhythmic displacement and narrative tension for visualization only; not measured energy, loudness, mood, density or audio intensity.",
     "compactMapPath": "playlists/strange-gait/journey-map.svg",
     "sitesPromptPath": "playlists/strange-gait/sites-prompt.md",
-    "detailedSiteStatus": "NOT_PUBLISHED",
-    "detailedSiteUrl": null
+    "detailedSiteStatus": "PUBLISHED_READ_ONLY",
+    "detailedSiteUrl": "https://broskmenmi.github.io/editorial-engine/strange-gait/"
   },
   "totals": {
     "trackCount": 9,
