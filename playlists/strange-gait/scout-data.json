@@ -1,40 +1,38 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "79b2164c452eb20b31269c06a9baa2e62279d979f13e726c30b651c98c47a206",
-  "generatedAt": "2026-09-06T19:57:08.127Z",
-  "runId": "2026-09-06T20:03:00Z-explore-41",
-  "sourceCommit": "8ad37e2d6d9428e1eb291790444c0bb45b35c306",
+  "requestFingerprint": "f3be1281462685e289c7000166eb58649ba4b708c45295ead5544bbe60c8ced5",
+  "generatedAt": "2026-09-06T19:58:32.221Z",
+  "runId": "2026-09-06T20:05:00Z-explore-42",
+  "sourceCommit": "d8436e69d238da6f0d3ede23e551e10ddb7efc8d",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via Unity",
+    "role": "fresh STRANGE GAIT Track 13 discovery via Counter Pulse",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test current Melvin Spix raw/deep/hypnotic material without treating BPM or track titles as sequencing proof"
+    "purpose": "test current MarekSPolzki identities with exact tempo but minimal descriptive evidence"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T20:03:00Z",
+    "timestampUtc": "2026-09-06T20:05:00Z",
     "sourceWindows": [
-      "Beatport current Unity / Melvin Spix September 4 2026 listings"
+      "Beatport current Counter Pulse / MarekSPolzki September 4 2026 listings"
     ],
-    "approximateInspectedScope": "current four-track Unity release plus adjacent September techno",
+    "approximateInspectedScope": "current Counter Pulse release plus adjacent raw/deep/hypnotic listings",
     "exclusions": [
-      "titles were not interpreted as sonic behavior",
+      "titles not treated as structure claims",
       "BPM/genre not treated as flow proof",
       "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. Melvin Spix — Get the funk: 138 BPM",
-      "2. Melvin Spix — Rhythm: 135 BPM",
-      "3. Melvin Spix — Get Up: 140 BPM",
-      "4. Melvin Spix — Directors Bay: 140 BPM"
+      "1. MarekSPolzki — Tempus Fractum: 135 BPM",
+      "2. MarekSPolzki — The Surface: 139 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 4,
-  "resolvedCount": 4,
-  "candidateCount": 3,
+  "requestedCount": 2,
+  "resolvedCount": 2,
+  "candidateCount": 2,
   "resolutionStatus": "COMPLETE",
   "unresolved": [],
   "warnings": [],
@@ -42,48 +40,19 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Get the funk",
-        "releaseDate": "2026-09-04",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible continuation, but title cannot prove funk or groove character.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "3DrbkAaaBxWRtSRrxjlcfC",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Rhythm",
+        "artist": "MarekSPolzki",
+        "track": "Tempus Fractum",
         "releaseDate": "2026-09-04",
         "bpm": 135,
         "bpmSource": "Beatport exact listing reports 135 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible identity; title cannot establish rhythmic function.",
+        "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
         "evidence": {
           "measured": [
             "135 BPM",
@@ -94,28 +63,28 @@
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "5ehxIQY6wbqDzWf8DYi4bZ",
+      "spotifyTrackId": "5QFLRhUta0I2tQTGZejTQU",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Get Up",
+        "artist": "MarekSPolzki",
+        "track": "The Surface",
         "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
+        "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
         "evidence": {
           "measured": [
-            "140 BPM",
+            "139 BPM",
             "released 2026-09-04"
           ],
           "attributedDescription": "Beatport genre classification only.",
@@ -123,116 +92,32 @@
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "2h1YSf3KrnSnUbEARQ17az",
+      "spotifyTrackId": "3ioA2MrKrmAI0afHXH7kOt",
       "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Directors Bay",
-        "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
-        "evidence": {
-          "measured": [
-            "140 BPM",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "45NmZALxEtoeNwvjQVEo4o",
-      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "3DrbkAaaBxWRtSRrxjlcfC",
-      "uri": "spotify:track:3DrbkAaaBxWRtSRrxjlcfC",
-      "name": "Get the funk",
+      "id": "5QFLRhUta0I2tQTGZejTQU",
+      "uri": "spotify:track:5QFLRhUta0I2tQTGZejTQU",
+      "name": "Tempus Fractum",
       "artists": [
-        "Melvin Spix"
+        "MarekSPolzki"
       ],
-      "album": "Get the Funk",
+      "album": "Tempus Fractum",
       "releaseDate": "2026-09-04",
-      "durationMs": 344516,
-      "spotifyUrl": "https://open.spotify.com/track/3DrbkAaaBxWRtSRrxjlcfC",
-      "bpm": 138,
-      "tempoSource": "Beatport exact listing reports 138 BPM",
-      "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Plausible continuation, but title cannot prove funk or groove character.",
-      "evidence": {
-        "measured": [
-          "138 BPM",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Get the funk",
-        "releaseDate": "2026-09-04",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible continuation, but title cannot prove funk or groove character.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "5ehxIQY6wbqDzWf8DYi4bZ",
-      "uri": "spotify:track:5ehxIQY6wbqDzWf8DYi4bZ",
-      "name": "Rhythm",
-      "artists": [
-        "Melvin Spix"
-      ],
-      "album": "Get the Funk",
-      "releaseDate": "2026-09-04",
-      "durationMs": 317419,
-      "spotifyUrl": "https://open.spotify.com/track/5ehxIQY6wbqDzWf8DYi4bZ",
+      "durationMs": 320000,
+      "spotifyUrl": "https://open.spotify.com/track/5QFLRhUta0I2tQTGZejTQU",
       "bpm": 135,
       "tempoSource": "Beatport exact listing reports 135 BPM",
-      "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+      "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Stardancer as Track 13"
         }
       ],
-      "fitHypothesis": "Plausible identity; title cannot establish rhythmic function.",
+      "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
       "evidence": {
         "measured": [
           "135 BPM",
@@ -243,19 +128,19 @@
         "lawfulAudioEvidence": null
       },
       "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Rhythm",
+        "artist": "MarekSPolzki",
+        "track": "Tempus Fractum",
         "releaseDate": "2026-09-04",
         "bpm": 135,
         "bpmSource": "Beatport exact listing reports 135 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible identity; title cannot establish rhythmic function.",
+        "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
         "evidence": {
           "measured": [
             "135 BPM",
@@ -268,29 +153,29 @@
       }
     },
     {
-      "id": "2h1YSf3KrnSnUbEARQ17az",
-      "uri": "spotify:track:2h1YSf3KrnSnUbEARQ17az",
-      "name": "Get Up",
+      "id": "3ioA2MrKrmAI0afHXH7kOt",
+      "uri": "spotify:track:3ioA2MrKrmAI0afHXH7kOt",
+      "name": "The Surface",
       "artists": [
-        "Melvin Spix"
+        "MarekSPolzki"
       ],
-      "album": "Get the Funk",
+      "album": "Tempus Fractum",
       "releaseDate": "2026-09-04",
-      "durationMs": 332903,
-      "spotifyUrl": "https://open.spotify.com/track/2h1YSf3KrnSnUbEARQ17az",
-      "bpm": 140,
-      "tempoSource": "Beatport exact listing reports 140 BPM",
-      "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+      "durationMs": 309062,
+      "spotifyUrl": "https://open.spotify.com/track/3ioA2MrKrmAI0afHXH7kOt",
+      "bpm": 139,
+      "tempoSource": "Beatport exact listing reports 139 BPM",
+      "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Stardancer as Track 13"
         }
       ],
-      "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
+      "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
       "evidence": {
         "measured": [
-          "140 BPM",
+          "139 BPM",
           "released 2026-09-04"
         ],
         "attributedDescription": "Beatport genre classification only.",
@@ -298,22 +183,22 @@
         "lawfulAudioEvidence": null
       },
       "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Get Up",
+        "artist": "MarekSPolzki",
+        "track": "The Surface",
         "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
+        "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
         "evidence": {
           "measured": [
-            "140 BPM",
+            "139 BPM",
             "released 2026-09-04"
           ],
           "attributedDescription": "Beatport genre classification only.",
@@ -323,61 +208,5 @@
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "45NmZALxEtoeNwvjQVEo4o",
-      "uri": "spotify:track:45NmZALxEtoeNwvjQVEo4o",
-      "name": "Directors Bay",
-      "artists": [
-        "Melvin Spix"
-      ],
-      "album": "Get the Funk",
-      "releaseDate": "2026-09-04",
-      "durationMs": 389032,
-      "spotifyUrl": "https://open.spotify.com/track/45NmZALxEtoeNwvjQVEo4o",
-      "bpm": 140,
-      "tempoSource": "Beatport exact listing reports 140 BPM",
-      "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
-      "evidence": {
-        "measured": [
-          "140 BPM",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Melvin Spix",
-        "track": "Directors Bay",
-        "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current Unity listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible current techno identity; placement underdescribed.",
-        "evidence": {
-          "measured": [
-            "140 BPM",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
