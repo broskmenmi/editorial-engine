@@ -4,6 +4,7 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Jerm | Chill Pill | spotify:track:2aUeOujxNatqUctb6MpTlg | Strong track-specific forward-groove evidence at 140 BPM; exact Stardancer → Chill Pill handoff remains unheard/untested. | PARKED |
 | P.E.A.R.L. | Paradise | spotify:track:6gXPFBOws0FT59I5KU5ZX8 | 137 BPM and strong release-level hypnotic/driving context; no track-specific post-Stardancer placement evidence. | PARKED |
 | P.E.A.R.L. | Destello | spotify:track:3IDeoq1igxJdX4ioNVJBnu | 138 BPM and strong release-level hypnotic/driving context; exact placement underdescribed. | PARKED |
 | P.E.A.R.L. | Silencio | spotify:track:6U5Fj8N00XunCJIpjhlMnv | 138 BPM; release-level evidence only and title cannot justify inferred restraint/space. | PARKED |
