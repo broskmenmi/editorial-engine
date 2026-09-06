@@ -1,16 +1,19 @@
 # STRANGE GAIT — Discovery Log
 
-## Run 24 — EXPLORE
-4 → 0 exact → 0 candidates → 0 ADD. Unresolved: Minniemen — Basic Rhythm; Minniemen — Non-dual; Human Space Machine — Gallop (ambiguous exact Spotify title/artist match); Keplrr — Plumes. Plumes retained as a strong track-specific research lead because Midgar describes it as a subtle, percussive and playful techno groover.
+## Run 25 — EXPLORE
+4 → 4 exact → 3 candidates → 0 ADD. Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate. Nankuru's canonical ADD was blocked at persistence because exact BPM is unknown and the current ledger/map schema requires a finite BPM; no value was invented.
 
-## Run 23 — EXPLORE
-Nils Edte — Actus PARKED; Grain 2 (A Ras Edit), Erionitum and Cinnabrax unresolved.
+## Run 24
+4 → 0 exact → 0 candidates → 0 ADD. Minniemen — Basic Rhythm / Non-dual unresolved; Human Space Machine — Gallop ambiguous; Keplrr — Plumes unresolved but retained as strong research lead.
 
-## Run 22 — EXPLORE
-Peryl — FORM 04, Pyramidal Decode — Morso and Peryl — FORM 06 PARKED; Utero remix unresolved.
+## Run 23
+Nils Edte — Actus PARKED.
+
+## Run 22
+FORM 04, Morso, FORM 06 PARKED.
 
 ## Run 21
-Diffusion and Soundview Plaza PARKED; Lyonesse/Struktur unresolved.
+Diffusion and Soundview Plaza PARKED.
 
 ## Run 20
 Alpaca Vision, The Atrocity Exhibition, Unpaid Moral Debts PARKED.

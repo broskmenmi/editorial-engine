@@ -4,7 +4,10 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
-| Nils Edte | Actus | spotify:track:6GmpT0egn0ei4dufzayWbB | Organic-deep-techno/ambient-texture evidence is contribution/release-level; exact post-Tehutis role unproven. Release-date variance preserved. | PARKED |
+| Neen | Restos De Algo Que Nunca Fue | spotify:track:7z4ckVkTxXu95Jbz2uuX4V | Strong track-specific hypnotic-groove evidence; exact post-Tehutis transition remains untested. | PARKED |
+| John Plaza | Nankuru | spotify:track:214KF0T41MQwyLtuzMJ68c | Strong track-specific physical-depth evidence; exact BPM unavailable and current canonical schema requires finite BPM. | PARKED |
+| Qitula | Işık | spotify:track:2yqy9Ca17sI346sLqvMhNv | Strong broken-rhythm evidence; another immediate gait break needs stronger long-form purpose. | PARKED |
+| Nils Edte | Actus | spotify:track:6GmpT0egn0ei4dufzayWbB | Contribution/release-level evidence; release-date variance preserved. | PARKED |
 | Peryl | FORM 04 | spotify:track:69V8KqoUYrTQ4YVqaXj9YZ | 133 BPM/current raw-deep-dub context; exact placement underdescribed. | PARKED |
 | Pyramidal Decode | Morso | spotify:track:5jkHgYKushNKZjGOQ8uPI6 | Current exact Semantica identity; track-specific behavior absent. | PARKED |
 | Peryl | FORM 06 | spotify:track:17srggg9AEHwYGAnBTDFyC | 132 BPM/current context; exact placement underdescribed. | PARKED |
