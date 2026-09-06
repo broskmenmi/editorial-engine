@@ -2,6 +2,43 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Repair Run 8 — Track 3
+
+### ADD — Rene Wise — Cave
+
+- Candidate snapshot: `2026-09-06T09:11:40Z-repair-track3-8`.
+- Repair trigger: doctrine-triggered revisits remained actionable and the addition of Track 2 materially changed the concrete Track-3 placement problem.
+- Resolver funnel: 4 leads → 4 exact resolutions → 3 selected candidates → 1 ADD.
+- Selected candidates: Rene Wise — Cave; Steve Rachmad — Ostinato 2.0; Mitra — Hush.
+- Resolved unselected alternate: Sevish — Mystify.
+- No unresolved identities and no resolver warnings.
+- Exact Spotify identity: `spotify:track:2Z0j3jb573fveL4Pf3NkP1`.
+- Measured tempo: 134 BPM; Spotify duration 6:01.
+- Placement: after Inigo Kennedy — The Witching Hour as canonical Track 3.
+- Volume fit: passes. Track-specific Moving Pressure evidence around grounded physicality, hypnosis, murk and tension is relevant to STRANGE GAIT's broad bodily/rhythmic curiosity without being treated as direct listening.
+- Placement: passes provisionally. After two same-release Inigo Kennedy tracks, Cave is the strongest evidence-backed candidate for a deliberate widening move into a different production world. The 136 → 134 tempo change is context only and does not prove the transition.
+- Listener evidence: the failed prior four-track opening remains a warning against accidental resets, but no direct listener evidence rejects this exact pair or Cave itself.
+- Audio evidence: NOT TESTED. Live mixing: NOT TESTED.
+- **Verdict: ADD — provisional Track 3.**
+
+### REVISIT — Steve Rachmad — Ostinato 2.0
+
+- Exact identity: `spotify:track:4vLdXJEHEdsTg9pm6S2VAh`, 138 BPM, 5:10.
+- Volume fit remains plausible, but the available source framing is compilation/release-level rather than track-specific.
+- **Verdict: REVISIT/PARKED for Track 3.** Reopen with materially new track-specific/lawful/listener evidence or a later concrete journey function.
+
+### REVISIT — Mitra — Hush
+
+- Exact identity: `spotify:track:6AG1Tv6tkPMYnA7xrB94KT`, 137 BPM.
+- The old warmth/gait-novelty rejection remains superseded, but there is little track-specific attributed evidence for why this exact Track-3 move should beat stronger options.
+- **Verdict: REVISIT/PARKED for Track 3.** Reopen with materially new evidence or a later concrete journey function.
+
+### NO VERDICT — Sevish — Mystify
+
+- Exact identity verified again: `spotify:track:7sHN0QPVxD7NjkSCH6NTZi`, 140 BPM, 16:31.
+- It was the resolved unselected alternate and therefore was not evaluated in this frozen snapshot.
+- It remains TRIGGERED for a future concrete placement evaluation.
+
 ## 2026-09-06 — Doctrine-correction Repair Run 7 — Track 2
 
 ### ADD — Inigo Kennedy — The Witching Hour
@@ -140,7 +177,6 @@ This listener report proves that the **current four-track sequence failed as a c
 
 ### ADD — IGLO — Alive
 - `spotify:track:0MmaQ3p8j4x65ATx9pdwYO`, 141 BPM.
-- Role at the time: Tilt.
 
 ### NO VERDICT — Stanislav Tolkachev — Drift C
 - Resolver error at that time: `ambiguous exact Spotify release match (79X0clB7D8ESeyiDre340a, 4RIx37vtGnlH1bEQe18u4N)`.
