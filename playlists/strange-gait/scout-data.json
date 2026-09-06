@@ -1,359 +1,157 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "16e4723cf2db5425fcb1ae0c560487a8bdb90e7b3c5cf09da3e936e9cc8378e3",
-  "generatedAt": "2026-09-06T19:53:47.308Z",
-  "runId": "2026-09-06T19:57:00Z-explore-39",
-  "sourceCommit": "36da90119bd086ebd5ff99bb9fe82b095bcc7305",
+  "requestFingerprint": "09f8de6a994610cb85bdc70bfc07a40cd1a9e75b917199ebc43da1533f5ae50a",
+  "generatedAt": "2026-09-06T19:55:59.484Z",
+  "runId": "2026-09-06T20:01:00Z-explore-40",
+  "sourceCommit": "1eb11d69fd27ad029469810a1173c16d236d42fc",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via Unterwegs",
+    "role": "fresh STRANGE GAIT Track 13 discovery via Rawsery",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test current deep/Detroit techno identities without pretending title or label metadata proves flow"
+    "purpose": "test current exact raw/deep/hypnotic identities without converting genre metadata into flow claims"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:57:00Z",
+    "timestampUtc": "2026-09-06T20:01:00Z",
     "sourceWindows": [
-      "Anika Kunst — The Power of Presence, Unterwegs Records, released 2026-09-04"
+      "Beatport current Rawsery / Bulah September 4 2026 listings"
     ],
-    "approximateInspectedScope": "complete four-track current EP plus adjacent Unterwegs catalogue",
+    "approximateInspectedScope": "current Rawsery release and adjacent September raw/deep/hypnotic material",
     "exclusions": [
-      "titles such as Inner Peace/Mental Chaos were not converted into mood claims",
-      "no BPM invented",
+      "genre/BPM not treated as energy or mixability",
       "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. Anika Kunst — Robe",
-      "2. Anika Kunst — Inner Peace",
-      "3. Anika Kunst — Mental Chaos",
-      "4. Anika Kunst — The Witness"
+      "1. Bulah — The Shadow Knows: 140 BPM",
+      "2. Bulah — Slow Burner: 141 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 4,
-  "resolvedCount": 4,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "requestedCount": 2,
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
+  "unresolved": [
+    {
+      "artist": "Bulah",
+      "track": "The Shadow Knows",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Bulah",
+        "track": "The Shadow Knows",
+        "releaseDate": "2026-09-04",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current Rawsery listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible current raw/deep/hypnotic continuation, but exact behavior and handoff are unknown.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "Bulah",
+      "track": "Slow Burner",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Bulah",
+        "track": "Slow Burner",
+        "releaseDate": "2026-09-04",
+        "bpm": 141,
+        "bpmSource": "Beatport exact listing reports 141 BPM",
+        "discoverySource": "Beatport current Rawsery listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Identity/tempo are plausible, but title cannot establish slow-burn energy or placement function.",
+        "evidence": {
+          "measured": [
+            "141 BPM",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Robe",
+        "artist": "Bulah",
+        "track": "The Shadow Knows",
         "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current Rawsery listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
+        "fitHypothesis": "Plausible current raw/deep/hypnotic continuation, but exact behavior and handoff are unknown.",
         "evidence": {
           "measured": [
-            "5:09 duration",
+            "140 BPM",
             "released 2026-09-04"
           ],
-          "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
+          "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "0tmvZwRLwzLSvXeJkGJi1C",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Inner Peace",
+        "artist": "Bulah",
+        "track": "Slow Burner",
         "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "bpm": 141,
+        "bpmSource": "Beatport exact listing reports 141 BPM",
+        "discoverySource": "Beatport current Rawsery listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
+        "fitHypothesis": "Identity/tempo are plausible, but title cannot establish slow-burn energy or placement function.",
         "evidence": {
           "measured": [
-            "5:50 duration",
+            "141 BPM",
             "released 2026-09-04"
           ],
-          "attributedDescription": "Official tags only.",
+          "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "3zATr3fJDURUSJoslD1pGK",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Mental Chaos",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
-        "evidence": {
-          "measured": [
-            "5:27 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official tags only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "3BvT71O3hBS64Y5FbQ3bKr",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "The Witness",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
-        "evidence": {
-          "measured": [
-            "5:42 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official tags only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "0G4Pb3m28s49au12Qz6qwH",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [
-    {
-      "id": "0tmvZwRLwzLSvXeJkGJi1C",
-      "uri": "spotify:track:0tmvZwRLwzLSvXeJkGJi1C",
-      "name": "Robe",
-      "artists": [
-        "Anika Kunst"
-      ],
-      "album": "The Power of Presence",
-      "releaseDate": "2026-09-04",
-      "durationMs": 309267,
-      "spotifyUrl": "https://open.spotify.com/track/0tmvZwRLwzLSvXeJkGJi1C",
-      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
-      "evidence": {
-        "measured": [
-          "5:09 duration",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Robe",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
-        "evidence": {
-          "measured": [
-            "5:09 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "3zATr3fJDURUSJoslD1pGK",
-      "uri": "spotify:track:3zATr3fJDURUSJoslD1pGK",
-      "name": "Inner Peace",
-      "artists": [
-        "Anika Kunst"
-      ],
-      "album": "The Power of Presence",
-      "releaseDate": "2026-09-04",
-      "durationMs": 350442,
-      "spotifyUrl": "https://open.spotify.com/track/3zATr3fJDURUSJoslD1pGK",
-      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
-      "evidence": {
-        "measured": [
-          "5:50 duration",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Official tags only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Inner Peace",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
-        "evidence": {
-          "measured": [
-            "5:50 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official tags only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "3BvT71O3hBS64Y5FbQ3bKr",
-      "uri": "spotify:track:3BvT71O3hBS64Y5FbQ3bKr",
-      "name": "Mental Chaos",
-      "artists": [
-        "Anika Kunst"
-      ],
-      "album": "The Power of Presence",
-      "releaseDate": "2026-09-04",
-      "durationMs": 327890,
-      "spotifyUrl": "https://open.spotify.com/track/3BvT71O3hBS64Y5FbQ3bKr",
-      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
-      "evidence": {
-        "measured": [
-          "5:27 duration",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Official tags only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "Mental Chaos",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
-        "evidence": {
-          "measured": [
-            "5:27 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official tags only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "0G4Pb3m28s49au12Qz6qwH",
-      "uri": "spotify:track:0G4Pb3m28s49au12Qz6qwH",
-      "name": "The Witness",
-      "artists": [
-        "Anika Kunst"
-      ],
-      "album": "The Power of Presence",
-      "releaseDate": "2026-09-04",
-      "durationMs": 342578,
-      "spotifyUrl": "https://open.spotify.com/track/0G4Pb3m28s49au12Qz6qwH",
-      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
-      "evidence": {
-        "measured": [
-          "5:42 duration",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Official tags only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Anika Kunst",
-        "track": "The Witness",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
-        "evidence": {
-          "measured": [
-            "5:42 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Official tags only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ]
+  "candidates": [],
+  "resolvedAlternates": []
 }
