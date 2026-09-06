@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T10:50:04.711Z",
+  "generatedAt": "2026-09-06T10:53:23.350Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "f82a1e17c3802bea994e55b5a2b0beb07396b714f5c157671c5e1dcacc7aaa4e",
-    "annotationsFingerprint": "8f594549f669e336af1def3a486d62aedea16620a3be1d9c727fd15fb655ad47"
+    "ledgerFingerprint": "bb018b20b7c336bbc35744fb821f28ada814117d722cd5b7eacce19ff958f10d",
+    "annotationsFingerprint": "2cafe17b6d330b65fceb20babeef7966f0e4b77884f31a1dae0a3dd5c0cc8181"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,9 +18,9 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 4,
-    "durationMs": 1440000,
-    "durationLabel": "24m",
+    "trackCount": 5,
+    "durationMs": 1800000,
+    "durationLabel": "30m",
     "bpmMin": 134,
     "bpmMax": 140,
     "latestAddedDate": "2026-09-06"
@@ -31,9 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 4,
+      "endPosition": 5,
       "startMs": 0,
-      "endMs": 1440000
+      "endMs": 1800000
     }
   ],
   "tracks": [
@@ -63,8 +63,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.25,
-      "progressMidpoint": 0.125
+      "progressEnd": 0.2,
+      "progressMidpoint": 0.1
     },
     {
       "position": 2,
@@ -81,9 +81,7 @@
       "status": "provisional",
       "labels": [
         "track-2",
-        "controlled-continuation",
-        "doctrine-correction-add",
-        "same-release-context"
+        "controlled-continuation"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -92,9 +90,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.25,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.375
+      "progressStart": 0.2,
+      "progressEnd": 0.4,
+      "progressMidpoint": 0.3
     },
     {
       "position": 3,
@@ -111,9 +109,7 @@
       "status": "provisional",
       "labels": [
         "track-3",
-        "widening-move",
-        "different-production-world",
-        "repair-run-8-add"
+        "widening-move"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -122,9 +118,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.5,
-      "progressEnd": 0.75,
-      "progressMidpoint": 0.625
+      "progressStart": 0.4,
+      "progressEnd": 0.6,
+      "progressMidpoint": 0.5
     },
     {
       "position": 4,
@@ -142,8 +138,7 @@
       "labels": [
         "track-4",
         "physical-widening",
-        "mutual-rytm",
-        "explore-run-10-add"
+        "mutual-rytm"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -152,9 +147,39 @@
       "midpointMs": 1260000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.75,
+      "progressStart": 0.6,
+      "progressEnd": 0.8,
+      "progressMidpoint": 0.7
+    },
+    {
+      "position": 5,
+      "artist": "Sciahri",
+      "track": "Moonwake",
+      "uri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+      "bpm": 140,
+      "role": "Ground — provisional intensification",
+      "added": "2026-09-06",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "track-5",
+        "intensification",
+        "mutual-rytm",
+        "repair-run-11-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 1440000,
+      "endMs": 1800000,
+      "midpointMs": 1620000,
+      "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
+      "protected": false,
+      "progressStart": 0.8,
       "progressEnd": 1,
-      "progressMidpoint": 0.875
+      "progressMidpoint": 0.9
     }
   ],
   "transitions": [
@@ -182,6 +207,15 @@
       "fromPosition": 3,
       "toPosition": 4,
       "bpmDelta": 6,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+      "toUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+      "fromPosition": 4,
+      "toPosition": 5,
+      "bpmDelta": 0,
       "protected": false,
       "frozen": false
     }
