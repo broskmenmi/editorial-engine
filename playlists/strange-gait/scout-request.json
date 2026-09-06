@@ -1,63 +1,67 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-05T23:53:30Z-explore-vibe-5",
-  "sourceCommit": "61c56ea629682713b2846d746fbd5409d55ccf55",
+  "runId": "2026-09-06T06:52:56Z-explore-6",
+  "sourceCommit": "6abfcbd67d60f3183fdceaafcc7683ece26a339f",
   "mode": "EXPLORE",
   "target": {
     "role": "vibe-first STRANGE GAIT Track 2 continuation",
     "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
     "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
-    "purpose": "test a grounded restrained same-room continuation"
+    "purpose": "test a restrained continuous Ground continuation while harvesting broader long-form set discoveries"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-05T23:53:30Z",
+    "timestampUtc": "2026-09-06T06:52:56Z",
     "sourceWindows": [
-      "Fresh current Beatport raw/deep/hypnotic window around 133–140 BPM and September 2026 releases",
-      "Fresh current Bandcamp deep/hypnotic catalogue window, excluding overt peak-time framing",
-      "Fresh overlooked Moving Pressure catalogue scan focused on track-specific descriptions and body/soundsystem continuity",
-      "Official Moving Pressure 03 track/release evidence: https://movingpressure.bandcamp.com/album/moving-pressure-03 and https://movingpressure.bandcamp.com/track/cave",
-      "Exact Cave metadata: https://www.beatport.com/track/cave/20238588"
+      "Fresh September 1-6, 2026 Bandcamp and label pages for current raw/deep/hypnotic, leftfield and dancefloor techno releases",
+      "Fresh adjacent/emerging-label scan across Endemit, early reflex, Message 431, Dosis Records and Newrhythmic material",
+      "Fresh overlooked-catalogue/remaster scan including Blueprint's James Ruskin — Further Design (2026 Remaster) and Numbers' Hallucinator — Landlocked reissue",
+      "Official Blueprint/Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
+      "Exact tempo metadata for James Ruskin — Unknown Destination (Remaster): https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
+      "Official Endemit Tessera Rubin evidence: https://endemit.org/en/store/albums/tessera-rubin-vinyl-ep",
+      "Official early reflex Zahyo evidence: https://earlyreflex.bandcamp.com/album/zahyo",
+      "Official Djrum I Wander evidence: https://djrum.bandcamp.com/album/i-wander",
+      "Official Oráculo/ESTADO DE BIENESTAR evidence: https://oraculorecords.bandcamp.com/album/cap-tulo-iv-la-fiesta-seria-y-nuevas-formas-de-tecnaco"
     ],
-    "approximateInspectedScope": "approximately 50 named tracks/releases across about 15 current, adjacent and overlooked catalogue/search pages",
+    "approximateInspectedScope": "approximately 35 named tracks/releases across about 12 current, adjacent/emerging and overlooked-catalogue pages",
     "exclusions": [
-      "current September listings with only genre/BPM metadata and no track-specific continuity evidence",
-      "pre-release material without a resolvable released Spotify identity",
-      "peak-time, industrial or hardgroove pressure",
-      "Relax because its vocal and mighty-sub framing introduces a larger attention-continuity uncertainty for Track 2",
-      "previously parked or rejected current-opening candidates without a valid trigger"
+      "overt peak-time/industrial material whose source framing emphasized force over continuity",
+      "pre-release tracks without a currently resolvable exact identity",
+      "tracks with interesting descriptions but no reliable tempo evidence for the strict current Track 2 gate",
+      "previously parked/rejected Track 2 candidates without a valid trigger",
+      "broad inspiration findings retained for discovery-pool consideration rather than forced into the canonical candidate funnel"
     ],
     "rankedLeadSummary": [
-      "1. Rene Wise — Cave: exact 134 BPM and track-specific Moving Pressure description of foggy, grounded, hypnotic tension; strong same-world evidence but actual energy continuity with Marauder remains unmeasured"
+      "1. James Ruskin — Unknown Destination (Remaster): released 2026-09-04, exact 136 BPM metadata, with Blueprint describing liquid synth work looping around hypnotic rhythms; a strong paper-level continuity hypothesis but felt energy remains unmeasured"
     ]
   },
   "leads": [
     {
-      "artist": "Rene Wise",
-      "track": "Cave",
-      "album": "Moving Pressure 03",
-      "releaseDate": "2025-04-11",
-      "bpm": 134,
-      "bpmSource": "Beatport exact-track metadata reports 134 BPM and 6:01: https://www.beatport.com/track/cave/20238588",
-      "discoverySource": "Fresh official Moving Pressure track/release evidence: https://movingpressure.bandcamp.com/album/moving-pressure-03 and https://movingpressure.bandcamp.com/track/cave",
+      "artist": "James Ruskin",
+      "track": "Unknown Destination (Remaster)",
+      "album": "Further Design (2026 Remaster)",
+      "releaseDate": "2026-09-04",
+      "bpm": 136,
+      "bpmSource": "Music Worx exact release metadata reports Unknown Destination Remaster at 136 BPM and 4:39: https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
+      "discoverySource": "Fresh official Blueprint/James Ruskin Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-          "candidateBpm": 134,
-          "role": "Ground continuation — grounded murky restraint"
+          "candidateBpm": 136,
+          "role": "Ground continuation — linear hypnotic pressure hypothesis"
         }
       ],
-      "fitHypothesis": "The 136→134 step is calm, and the artist/label's track-specific description combines foggy atmospherics with grounded physicality, hypnosis and restrained immersion; whether that feels like Marauder's exact energy room is still unmeasured.",
+      "fitHypothesis": "The exact 136→136 tempo relation and Blueprint's track-specific description of liquid synth work looping around hypnotic rhythms make this a credible continuation candidate on paper, but perceived energy and pressure continuity with Marauder remain unmeasured.",
       "evidence": {
         "measured": [
-          "134 BPM from exact Beatport metadata",
-          "6:01 duration from Beatport and official Bandcamp",
-          "released 2025-04-11"
+          "136 BPM from Music Worx exact release metadata",
+          "4:39 duration from Music Worx exact release metadata",
+          "released 2026-09-04"
         ],
-        "attributedDescription": "Moving Pressure describes Cave as plunging into murkier terrain with fog, sinister atmospherics, sci-fi surrealism and grounded physicality; the bleeps are softened by a cavernous embrace, and the track is framed as hypnotic and unsettling in equal measure. This is attributed source evidence, not direct listening or raw-audio analysis.",
-        "listenerEvidence": "The listener rejected the prior opening because each track changed energy; Cave therefore must not be admitted merely because it shares artist/label lineage and a close BPM.",
+        "attributedDescription": "Blueprint/James Ruskin describes Further Design as stripped-back, bold and linear techno; Unknown Destination specifically is described through liquid synth work looping around hypnotic rhythms. This is attributed source evidence, not direct listening or raw-audio analysis.",
+        "listenerEvidence": "The listener rejected the prior opening because each track changed energy and the sequence lacked DJ-like flow; this candidate therefore cannot be admitted from BPM and source language alone.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A two-BPM reduction and shared body-first label language make this an auditable continuation hypothesis, but do not prove perceived-energy continuity."
+        "craftConvention": "A same-tempo handoff and restrained linear source framing make Track 2 plausible enough to resolve, but they do not prove a shared felt-energy envelope."
       }
     }
   ]
