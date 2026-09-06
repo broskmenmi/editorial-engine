@@ -1,21 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 8 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Tehutis Law → Fragments. All provisional; none protected. Audio/live NOT TESTED.
+Canonical: 9 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Tehutis Law → Fragments → Truth in Noise. All provisional; none protected. Audio/live NOT TESTED.
 
-## Run 27 — EXPLORE
-1 lead → 1 exact resolution → 1 selected candidate → 1 ADD. **ADD CHANCEKNOT — Fragments** (`spotify:track:3wsskKLpimIuiDDCb6eHVv`, 140 BPM) as Track 8. OFF Recordings' exact-track description supplies hypnotic-groove, pulsating-rhythm, commanding-percussion and tension-building evidence. The editorial purpose is a deliberate re-escalation after Capa's rhythmic redirection and Tehutis Law's funk re-grounding; peak-time framing and 139→140 BPM are context, not proof of felt flow. No repair trigger; next run EXPLORE.
+## Run 28 — EXPLORE
+3 leads → 3 exact resolutions → 3 selected candidates → 1 ADD. **ADD Inspired Groove — Truth in Noise** (`spotify:track:12xuyGHICBNwJnQYqBlKcY`, 138 BPM) as Track 9. Message 431 gives track-specific dense-texture/distorted-signal/persistent-groove evidence; its editorial purpose is consolidation after Fragments rather than further escalation. Inspired Groove — Arabic Night (`spotify:track:3mcemKXocgbBW25e360O3m`, 139 BPM) and Impact Distance (`spotify:track:3CUQiFlwuZCmrsSAMZzw3B`, 138 BPM) are PARKED for this slot. No repair trigger; next run EXPLORE.
+
+## Run 27
+ADD CHANCEKNOT — Fragments Track 8, 140 BPM.
 
 ## Run 26
-Subsurface Light (100 BPM), Broken Dawn (110 BPM), Light Before The Haze (90 BPM) PARKED; Sabatini remix unresolved.
+Subsurface Light, Broken Dawn, Light Before The Haze PARKED.
 
 ## Run 25
-Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate.
+Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language alternate.
 
-## Run 24
-Minniemen unresolved; Gallop ambiguous; Plumes unresolved but retained.
-
-## Runs 20–23
-Multiple exact discoveries PARKED; no canonical ADD.
-
-## Run 19
-ADD Tehutis Law Track 7.
+## Runs 20–24
+Multiple useful exact discoveries/research leads; no ADD.
