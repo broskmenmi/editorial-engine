@@ -1,8 +1,7 @@
 # STRANGE GAIT — Editorial Notes
 
-Current canonical sequence remains 5 tracks: Marauder → The Witching Hour → Cave → Too Much Time → Moonwake. BPM 136 → 136 → 134 → 140 → 140. All provisional; none protected. Audio/live evidence NOT TESTED.
+Canonical remains 5 tracks: Marauder → The Witching Hour → Cave → Too Much Time → Moonwake. BPM 136→136→134→140→140. All provisional; none protected. Audio/live NOT TESTED.
 
-## Run 14 — EXPLORE
-Fresh Signal Rec / Planet Rhythm / Ilian Tape scan. 4 leads → 1 exact resolution → 1 candidate → 0 ADD. Nnamael — Beauty in Order, Tragedy in Repetition (`spotify:track:4H3oH8dj47YZRBsqiwjl7a`) passes broad belonging but is PARKED because evidence is release-level for the exact post-Moonwake placement. Yunze Ou — Boot_NVL_54 (Drop-E Remix), Fireground — Core Waves, and Deetron presents Soulmate — Sequence returned `no exact Spotify title/artist search match in market SE` and remain pool research.
+Run 15 EXPLORE: current HAYES HYS007 plus adjacent/overlooked HAYES. 4 leads → 2 exact resolutions → 2 candidates → 0 ADD. Red Rooms — Seeking (`spotify:track:6EGTYidCgcQSY4rePxJMRl`) and Uväll — Parallel Shift (`spotify:track:3tJewIq0D10r423Nln9qV2`) are PARKED because HYS007's precision/minimalism/discipline framing is compilation-level. Temudo & Kwartz — Recentering and Deano — Kazoo (Stripped Version) unresolved in Spotify SE.
 
-Next run: fresh EXPLORE; no actionable repair.
+Next run: fresh EXPLORE.

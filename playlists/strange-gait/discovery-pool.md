@@ -1,22 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
-Non-canonical inspiration; pool membership never proves canonical placement.
+Non-canonical inspiration; never proves canonical placement.
 
-| Class | Artist / source | Track / release | Spotify / source | Why keep it | Status |
-|---|---|---|---|---|---|
-| EXACT TRACK | Nnamael | Beauty in Order, Tragedy in Repetition | https://open.spotify.com/track/4H3oH8dj47YZRBsqiwjl7a | Deep/hypnotic/experimental Signal corridor; exact Track-6 evidence insufficient. | PARKED |
-| RESEARCH LEAD | Yunze Ou / Signal | Boot_NVL_54 (Drop-E Remix) | https://signalrec1.bandcamp.com/album/boot-nvl-incl-drop-e-remix | Track-specific deepness/sci-fi transformation; Spotify SE unresolved. | POOL ONLY |
-| RESEARCH LEAD | Fireground / Ilian Tape | Core Waves | https://iliantape.bandcamp.com/album/it079-core-waves | Overlooked 2026 Ilian Tape exact track; Spotify SE unresolved. | POOL ONLY |
-| RESEARCH LEAD | Deetron presents Soulmate / Ilian Tape | Sequence | https://iliantape.bandcamp.com/ | 136 BPM external metadata; exact Spotify title/artist unresolved in SE. | POOL ONLY |
-| EXACT TRACK | AgainstMe | Enstikto | https://open.spotify.com/track/7zZnyDqxltlHicihZEIYyF | Hypnosis/funk corridor. | PARKED |
-| EXACT TRACK | OK EG | Gunma Rain | https://open.spotify.com/track/2NdwTwaxX2s6MseatkfopL | Zoned psychoactive techno; 130 BPM. | PARKED |
-| RESEARCH LEAD | Sleep D & Mosam Howieson | Inertia | https://buttersessions.bandcamp.com/album/syphon-filter | Label-defined psychedelic/emotive respite; Spotify SE unresolved. | POOL ONLY |
-| RESEARCH LEAD | MMali / Endemit | Fall of Man | https://endemit.bandcamp.com/album/tessera-rubin | Patient deep techno/spatial-depth lead; Spotify SE unresolved. | POOL ONLY |
-| EXACT TRACK | Phil Berg | Chimera | https://open.spotify.com/track/2rWGw0Yoslr9rBEQ1EBf3F | Disciplined shifting-loop corridor. | PARKED |
-| EXACT TRACK | Sciahri | Too Much Time | https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO | Groove-centered Mutual Rytm track. | ADD Track 4 |
-| EXACT TRACK | Sciahri | Moonwake | https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j | Robust drums/futuristic synths. | ADD Track 5 |
-| RELEASE WATCH | Signal Rec | Nemesis & Obseth — Distopía EP | https://signalrec1.bandcamp.com/album/distop-a-ep | Sep 18; flanged continuous synths, floating textures, hypnotic drones. | WATCH |
-| RELEASE WATCH | Planet Rhythm | Andrei Morant — Cease Fire EP | https://planetrhythm.bandcamp.com/track/parliament-of-error | Sep 18 Planet Rhythm pre-release. | WATCH |
-| RELEASE WATCH | SK_eleven | Confusion — In Cycles | https://skeleven.bandcamp.com/album/in-cycles-sk11corp001 | Sep 11 long-form club statement. | WATCH |
+| Class | Artist | Track / release | Link | Status |
+|---|---|---|---|---|
+| EXACT TRACK | Red Rooms | Seeking | https://open.spotify.com/track/6EGTYidCgcQSY4rePxJMRl | PARKED |
+| EXACT TRACK | Uväll | Parallel Shift | https://open.spotify.com/track/3tJewIq0D10r423Nln9qV2 | PARKED |
+| RESEARCH LEAD | Temudo, Kwartz | Recentering | https://hayescollective.bandcamp.com/album/hys007 | Spotify SE unresolved |
+| RESEARCH LEAD | Deano | Kazoo (Stripped Version) | https://hayescollective.bandcamp.com/track/kazoo-stripped-version | Spotify SE unresolved |
+| EXACT TRACK | Nnamael | Beauty in Order, Tragedy in Repetition | https://open.spotify.com/track/4H3oH8dj47YZRBsqiwjl7a | PARKED |
+| RESEARCH LEAD | Yunze Ou | Boot_NVL_54 (Drop-E Remix) | https://signalrec1.bandcamp.com/album/boot-nvl-incl-drop-e-remix | Spotify SE unresolved |
+| EXACT TRACK | AgainstMe | Enstikto | https://open.spotify.com/track/7zZnyDqxltlHicihZEIYyF | PARKED |
+| EXACT TRACK | OK EG | Gunma Rain | https://open.spotify.com/track/2NdwTwaxX2s6MseatkfopL | PARKED |
+| RESEARCH LEAD | Sleep D & Mosam Howieson | Inertia | https://buttersessions.bandcamp.com/album/syphon-filter | Spotify SE unresolved |
+| RESEARCH LEAD | MMali | Fall of Man | https://endemit.bandcamp.com/album/tessera-rubin | Spotify SE unresolved |
+| EXACT TRACK | Phil Berg | Chimera | https://open.spotify.com/track/2rWGw0Yoslr9rBEQ1EBf3F | PARKED |
+| EXACT TRACK | Sciahri | Too Much Time | https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO | ADD Track 4 |
+| EXACT TRACK | Sciahri | Moonwake | https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j | ADD Track 5 |
+| RELEASE WATCH | Signal Rec | Nemesis & Obseth — Distopía EP | https://signalrec1.bandcamp.com/album/distop-a-ep | Sep 18 |
+| RELEASE WATCH | SK_eleven | Confusion — In Cycles | https://skeleven.bandcamp.com/album/in-cycles-sk11corp001 | Sep 11 |
 
-Unresolved status must remain explicit; never infer missing sonic/mix facts.
+Unresolved status stays explicit; no invented sonic/mix facts.
