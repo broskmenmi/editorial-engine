@@ -1,323 +1,304 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "b441299465692dd2deb6e633fce9ad164d04c805634a97bb524a8ae9ff7cb0f5",
-  "generatedAt": "2026-09-06T19:09:26.681Z",
-  "runId": "2026-09-06T19:12:00Z-repair-listener-trio-30",
-  "sourceCommit": "a0377d343df35c3cb44d878b0d776cdb53f419e2",
-  "mode": "REPAIR",
+  "requestFingerprint": "66a5dd0e6eb4e2db2612bf7537ac0aa453cf31f171334bdd1272d46f195a7217",
+  "generatedAt": "2026-09-06T19:40:11.935Z",
+  "runId": "2026-09-06T19:18:00Z-explore-31",
+  "sourceCommit": "1d8c9866c5fd066cd4b9728587ef5695240b3b1c",
+  "mode": "EXPLORE",
   "target": {
-    "role": "resolve intentional Spotify/ledger divergence created by three listener-added tracks",
-    "position": "evaluate Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer as an intact ordered block, currently after Inspired Groove — Truth in Noise",
+    "role": "fresh STRANGE GAIT Track 13 discovery after listener-protected trio",
+    "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
-      "spotify:track:12xuyGHICBNwJnQYqBlKcY"
+      "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "decide KEEP/MOVE/REMOVE for the listener-added trio while preserving the user's preferred internal order; internal handoffs have positive listener evidence, but the Truth in Noise → Transparency entry remains unverified by listener report"
+    "purpose": "test whether current Falling Ethics raw/deep/hypnotic material can continue or redirect the post-Stardancer run without breaking the protected trio"
   },
-  "explorationReceipt": null,
+  "explorationReceipt": {
+    "timestampUtc": "2026-09-06T19:18:00Z",
+    "sourceWindows": [
+      "Beatport September 2026 raw/deep/hypnotic new releases, including Falling Ethics September 1 material",
+      "adjacent current raw/deep/hypnotic releases and overlooked Falling Ethics catalogue context"
+    ],
+    "approximateInspectedScope": "approximately 30 current/adjacent raw-deep-hypnotic tracks; three P.E.A.R.L. leads retained because exact tempo/release metadata are secure",
+    "exclusions": [
+      "genre classification was not treated as energy or flow proof",
+      "close BPM was not treated as mixability proof",
+      "protected Transparency → When We Froze → Stardancer order was not disturbed"
+    ],
+    "rankedLeadSummary": [
+      "1. P.E.A.R.L. — Paradise: 137 BPM, Falling Ethics, released 2026-09-01",
+      "2. P.E.A.R.L. — Destello: 138 BPM, Falling Ethics, released 2026-09-01",
+      "3. P.E.A.R.L. — Silencio: 138 BPM, Falling Ethics, released 2026-09-01"
+    ]
+  },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
   "resolvedCount": 3,
   "candidateCount": 3,
   "resolutionStatus": "COMPLETE",
   "unresolved": [],
-  "warnings": [
-    {
-      "artist": "Len Faki",
-      "track": "Stardancer",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"One Hundred Fifty\" but Spotify returned \"Stardancer\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Linear System",
-        "track": "Transparency",
-        "album": "SR043",
-        "releaseDate": "2025-04-10",
-        "spotifyTrackId": "6vBGCwTYRiKYCDD52zXZtf",
-        "bpm": 143,
-        "bpmSource": "SongData and independent DJ-pool metadata report 143 BPM; Beatport reports a conflicting 107 BPM, preserved as an anomaly",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Subhills official SR043 release confirms identity and 6:21 duration.",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Inspired Groove — Truth in Noise as Track 10, beginning the listener-ordered three-track block"
-          }
-        ],
-        "fitHypothesis": "Transparency plausibly opens a new high-130s/low-140s hypnotic run after Truth in Noise, but the exact entry handoff has not been reported by the listener; its main current value is as the required first member of a listener-confirmed internal trio.",
-        "evidence": {
-          "measured": [
-            "exact Spotify ID from live playlist read-back",
-            "6:21 duration",
-            "released 2025-04-10",
-            "tempo evidence conflict: 143 BPM from SongData/DJ-pool metadata vs 107 BPM on Beatport"
-          ],
-          "attributedDescription": "Subhills official release confirms SR043 identity but provides no exact-track sonic description; Beatport classifies the track as Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "User reports the manually added three-track sequence Transparency → When We Froze → Stardancer comes in perfect harmony in that order using Spotify Mix; this does not explicitly establish the preceding Truth in Noise → Transparency handoff.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A listener-confirmed micro-sequence may be kept intact even if the first entry into that block remains provisional."
-        }
-      },
-      "spotifyTrackId": "6vBGCwTYRiKYCDD52zXZtf",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Ignez",
-        "track": "When We Froze",
-        "album": "When We Froze",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "1POzqasdMpIDgI4gQSdPrV",
-        "bpm": 140,
-        "bpmSource": "Beatport and Volumo exact listings report 140 BPM",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Primal Instinct official release confirms title track identity and describes an underlying flow continuing beneath a frozen surface.",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "immediately after Linear System — Transparency inside the listener-ordered block"
-          }
-        ],
-        "fitHypothesis": "When We Froze has strong volume belonging through Primal Instinct's groove/organic-design doctrine and an explicit listener-confirmed handoff from Transparency.",
-        "evidence": {
-          "measured": [
-            "exact Spotify ID from live playlist read-back",
-            "140 BPM",
-            "7:06 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Primal Instinct describes the release as a world where quiet flow continues beneath a frozen surface; the label's broader doctrine emphasizes complex groovy patterns and organic advanced sound design.",
-          "listenerEvidence": "User reports Transparency → When We Froze is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Direct positive listener evidence of the actual handoff outranks a paper-only placement hypothesis."
-        }
-      },
-      "spotifyTrackId": "1POzqasdMpIDgI4gQSdPrV",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Len Faki",
-        "track": "Stardancer",
-        "album": "One Hundred Fifty",
-        "releaseDate": "2025-12-05",
-        "spotifyTrackId": "6i3HRqnSMoSohzwSgq035u",
+        "artist": "P.E.A.R.L.",
+        "track": "Paradise",
+        "releaseDate": "2026-09-01",
         "bpm": 137,
         "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Figure official One Hundred Fifty release confirms identity and 5:52 duration.",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "immediately after Ignez — When We Froze, closing the listener-ordered block"
+            "position": "after Len Faki — Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Stardancer can close the listener-confirmed trio as a raw/deep/hypnotic continuation with a measured 140→137 movement; listener evidence, not BPM proximity, is the placement authority.",
+        "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
         "evidence": {
           "measured": [
-            "exact Spotify ID from live playlist read-back",
             "137 BPM",
-            "5:52 duration",
-            "released 2025-12-05"
+            "released 2026-09-01"
           ],
-          "attributedDescription": "Beatport classifies Stardancer as Techno (Raw / Deep / Hypnotic); Figure's official compilation confirms the exact track.",
-          "listenerEvidence": "User reports When We Froze → Stardancer is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence for this track.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A positively heard handoff can earn protection even when surrounding future sequence design remains provisional."
+          "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
         }
       },
-      "spotifyTrackId": "6i3HRqnSMoSohzwSgq035u",
+      "spotifyTrackId": "6gXPFBOws0FT59I5KU5ZX8",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "P.E.A.R.L.",
+        "track": "Destello",
+        "releaseDate": "2026-09-01",
+        "bpm": 138,
+        "bpmSource": "Beatport exact listing reports 138 BPM",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Len Faki — Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2026-09-01"
+          ],
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Plausible territory earns evaluation, not admission."
+        }
+      },
+      "spotifyTrackId": "3IDeoq1igxJdX4ioNVJBnu",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "P.E.A.R.L.",
+        "track": "Silencio",
+        "releaseDate": "2026-09-01",
+        "bpm": 138,
+        "bpmSource": "Beatport exact listing reports 138 BPM",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Len Faki — Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2026-09-01"
+          ],
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Do not infer sonic restraint from title or metadata."
+        }
+      },
+      "spotifyTrackId": "6U5Fj8N00XunCJIpjhlMnv",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "6vBGCwTYRiKYCDD52zXZtf",
-      "uri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-      "name": "Transparency",
+      "id": "6gXPFBOws0FT59I5KU5ZX8",
+      "uri": "spotify:track:6gXPFBOws0FT59I5KU5ZX8",
+      "name": "Paradise",
       "artists": [
-        "Linear System"
+        "P.E.A.R.L."
       ],
-      "album": "SR043",
-      "releaseDate": "2025-04-10",
-      "durationMs": 381034,
-      "spotifyUrl": "https://open.spotify.com/track/6vBGCwTYRiKYCDD52zXZtf",
-      "bpm": 143,
-      "tempoSource": "SongData and independent DJ-pool metadata report 143 BPM; Beatport reports a conflicting 107 BPM, preserved as an anomaly",
-      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Subhills official SR043 release confirms identity and 6:21 duration.",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Inspired Groove — Truth in Noise as Track 10, beginning the listener-ordered three-track block"
-        }
-      ],
-      "fitHypothesis": "Transparency plausibly opens a new high-130s/low-140s hypnotic run after Truth in Noise, but the exact entry handoff has not been reported by the listener; its main current value is as the required first member of a listener-confirmed internal trio.",
-      "evidence": {
-        "measured": [
-          "exact Spotify ID from live playlist read-back",
-          "6:21 duration",
-          "released 2025-04-10",
-          "tempo evidence conflict: 143 BPM from SongData/DJ-pool metadata vs 107 BPM on Beatport"
-        ],
-        "attributedDescription": "Subhills official release confirms SR043 identity but provides no exact-track sonic description; Beatport classifies the track as Techno (Raw / Deep / Hypnotic).",
-        "listenerEvidence": "User reports the manually added three-track sequence Transparency → When We Froze → Stardancer comes in perfect harmony in that order using Spotify Mix; this does not explicitly establish the preceding Truth in Noise → Transparency handoff.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A listener-confirmed micro-sequence may be kept intact even if the first entry into that block remains provisional."
-      },
-      "requestedIdentity": {
-        "artist": "Linear System",
-        "track": "Transparency",
-        "album": "SR043",
-        "releaseDate": "2025-04-10",
-        "spotifyTrackId": "6vBGCwTYRiKYCDD52zXZtf",
-        "bpm": 143,
-        "bpmSource": "SongData and independent DJ-pool metadata report 143 BPM; Beatport reports a conflicting 107 BPM, preserved as an anomaly",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Subhills official SR043 release confirms identity and 6:21 duration.",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Inspired Groove — Truth in Noise as Track 10, beginning the listener-ordered three-track block"
-          }
-        ],
-        "fitHypothesis": "Transparency plausibly opens a new high-130s/low-140s hypnotic run after Truth in Noise, but the exact entry handoff has not been reported by the listener; its main current value is as the required first member of a listener-confirmed internal trio.",
-        "evidence": {
-          "measured": [
-            "exact Spotify ID from live playlist read-back",
-            "6:21 duration",
-            "released 2025-04-10",
-            "tempo evidence conflict: 143 BPM from SongData/DJ-pool metadata vs 107 BPM on Beatport"
-          ],
-          "attributedDescription": "Subhills official release confirms SR043 identity but provides no exact-track sonic description; Beatport classifies the track as Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "User reports the manually added three-track sequence Transparency → When We Froze → Stardancer comes in perfect harmony in that order using Spotify Mix; this does not explicitly establish the preceding Truth in Noise → Transparency handoff.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A listener-confirmed micro-sequence may be kept intact even if the first entry into that block remains provisional."
-        }
-      }
-    },
-    {
-      "id": "1POzqasdMpIDgI4gQSdPrV",
-      "uri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
-      "name": "When We Froze",
-      "artists": [
-        "Ignez"
-      ],
-      "album": "When We Froze",
-      "releaseDate": "2026-09-04",
-      "durationMs": 426613,
-      "spotifyUrl": "https://open.spotify.com/track/1POzqasdMpIDgI4gQSdPrV",
-      "bpm": 140,
-      "tempoSource": "Beatport and Volumo exact listings report 140 BPM",
-      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Primal Instinct official release confirms title track identity and describes an underlying flow continuing beneath a frozen surface.",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "immediately after Linear System — Transparency inside the listener-ordered block"
-        }
-      ],
-      "fitHypothesis": "When We Froze has strong volume belonging through Primal Instinct's groove/organic-design doctrine and an explicit listener-confirmed handoff from Transparency.",
-      "evidence": {
-        "measured": [
-          "exact Spotify ID from live playlist read-back",
-          "140 BPM",
-          "7:06 duration",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Primal Instinct describes the release as a world where quiet flow continues beneath a frozen surface; the label's broader doctrine emphasizes complex groovy patterns and organic advanced sound design.",
-        "listenerEvidence": "User reports Transparency → When We Froze is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Direct positive listener evidence of the actual handoff outranks a paper-only placement hypothesis."
-      },
-      "requestedIdentity": {
-        "artist": "Ignez",
-        "track": "When We Froze",
-        "album": "When We Froze",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "1POzqasdMpIDgI4gQSdPrV",
-        "bpm": 140,
-        "bpmSource": "Beatport and Volumo exact listings report 140 BPM",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Primal Instinct official release confirms title track identity and describes an underlying flow continuing beneath a frozen surface.",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "immediately after Linear System — Transparency inside the listener-ordered block"
-          }
-        ],
-        "fitHypothesis": "When We Froze has strong volume belonging through Primal Instinct's groove/organic-design doctrine and an explicit listener-confirmed handoff from Transparency.",
-        "evidence": {
-          "measured": [
-            "exact Spotify ID from live playlist read-back",
-            "140 BPM",
-            "7:06 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Primal Instinct describes the release as a world where quiet flow continues beneath a frozen surface; the label's broader doctrine emphasizes complex groovy patterns and organic advanced sound design.",
-          "listenerEvidence": "User reports Transparency → When We Froze is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Direct positive listener evidence of the actual handoff outranks a paper-only placement hypothesis."
-        }
-      }
-    },
-    {
-      "id": "6i3HRqnSMoSohzwSgq035u",
-      "uri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-      "name": "Stardancer",
-      "artists": [
-        "Len Faki"
-      ],
-      "album": "Stardancer",
-      "releaseDate": "2025-12-05",
-      "durationMs": 352116,
-      "spotifyUrl": "https://open.spotify.com/track/6i3HRqnSMoSohzwSgq035u",
+      "album": "Dreams Versus Nightmares",
+      "releaseDate": "2026-09-01",
+      "durationMs": 330879,
+      "spotifyUrl": "https://open.spotify.com/track/6gXPFBOws0FT59I5KU5ZX8",
       "bpm": 137,
       "tempoSource": "Beatport exact listing reports 137 BPM",
-      "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Figure official One Hundred Fifty release confirms identity and 5:52 duration.",
+      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "immediately after Ignez — When We Froze, closing the listener-ordered block"
+          "position": "after Len Faki — Stardancer as Track 13"
         }
       ],
-      "fitHypothesis": "Stardancer can close the listener-confirmed trio as a raw/deep/hypnotic continuation with a measured 140→137 movement; listener evidence, not BPM proximity, is the placement authority.",
+      "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
       "evidence": {
         "measured": [
-          "exact Spotify ID from live playlist read-back",
           "137 BPM",
-          "5:52 duration",
-          "released 2025-12-05"
+          "released 2026-09-01"
         ],
-        "attributedDescription": "Beatport classifies Stardancer as Techno (Raw / Deep / Hypnotic); Figure's official compilation confirms the exact track.",
-        "listenerEvidence": "User reports When We Froze → Stardancer is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
+        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+        "listenerEvidence": "No direct listener evidence for this track.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A positively heard handoff can earn protection even when surrounding future sequence design remains provisional."
+        "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
       },
       "requestedIdentity": {
-        "artist": "Len Faki",
-        "track": "Stardancer",
-        "album": "One Hundred Fifty",
-        "releaseDate": "2025-12-05",
-        "spotifyTrackId": "6i3HRqnSMoSohzwSgq035u",
+        "artist": "P.E.A.R.L.",
+        "track": "Paradise",
+        "releaseDate": "2026-09-01",
         "bpm": 137,
         "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Listener manually added the exact Spotify track from Spotify recommendations. Figure official One Hundred Fifty release confirms identity and 5:52 duration.",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "immediately after Ignez — When We Froze, closing the listener-ordered block"
+            "position": "after Len Faki — Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Stardancer can close the listener-confirmed trio as a raw/deep/hypnotic continuation with a measured 140→137 movement; listener evidence, not BPM proximity, is the placement authority.",
+        "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
         "evidence": {
           "measured": [
-            "exact Spotify ID from live playlist read-back",
             "137 BPM",
-            "5:52 duration",
-            "released 2025-12-05"
+            "released 2026-09-01"
           ],
-          "attributedDescription": "Beatport classifies Stardancer as Techno (Raw / Deep / Hypnotic); Figure's official compilation confirms the exact track.",
-          "listenerEvidence": "User reports When We Froze → Stardancer is part of a three-track sequence that comes in perfect harmony in this exact order using Spotify Mix.",
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence for this track.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A positively heard handoff can earn protection even when surrounding future sequence design remains provisional."
+          "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
+        }
+      }
+    },
+    {
+      "id": "3IDeoq1igxJdX4ioNVJBnu",
+      "uri": "spotify:track:3IDeoq1igxJdX4ioNVJBnu",
+      "name": "Destello",
+      "artists": [
+        "P.E.A.R.L."
+      ],
+      "album": "Dreams Versus Nightmares",
+      "releaseDate": "2026-09-01",
+      "durationMs": 316370,
+      "spotifyUrl": "https://open.spotify.com/track/3IDeoq1igxJdX4ioNVJBnu",
+      "bpm": 138,
+      "tempoSource": "Beatport exact listing reports 138 BPM",
+      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Len Faki — Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
+      "evidence": {
+        "measured": [
+          "138 BPM",
+          "released 2026-09-01"
+        ],
+        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Plausible territory earns evaluation, not admission."
+      },
+      "requestedIdentity": {
+        "artist": "P.E.A.R.L.",
+        "track": "Destello",
+        "releaseDate": "2026-09-01",
+        "bpm": 138,
+        "bpmSource": "Beatport exact listing reports 138 BPM",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Len Faki — Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2026-09-01"
+          ],
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Plausible territory earns evaluation, not admission."
+        }
+      }
+    },
+    {
+      "id": "6U5Fj8N00XunCJIpjhlMnv",
+      "uri": "spotify:track:6U5Fj8N00XunCJIpjhlMnv",
+      "name": "Silencio",
+      "artists": [
+        "P.E.A.R.L."
+      ],
+      "album": "Dreams Versus Nightmares",
+      "releaseDate": "2026-09-01",
+      "durationMs": 323195,
+      "spotifyUrl": "https://open.spotify.com/track/6U5Fj8N00XunCJIpjhlMnv",
+      "bpm": 138,
+      "tempoSource": "Beatport exact listing reports 138 BPM",
+      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Len Faki — Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
+      "evidence": {
+        "measured": [
+          "138 BPM",
+          "released 2026-09-01"
+        ],
+        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Do not infer sonic restraint from title or metadata."
+      },
+      "requestedIdentity": {
+        "artist": "P.E.A.R.L.",
+        "track": "Silencio",
+        "releaseDate": "2026-09-01",
+        "bpm": 138,
+        "bpmSource": "Beatport exact listing reports 138 BPM",
+        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Len Faki — Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "released 2026-09-01"
+          ],
+          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Do not infer sonic restraint from title or metadata."
         }
       }
     }
