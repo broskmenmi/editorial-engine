@@ -1,121 +1,319 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "6123723217f1783c0b63a03b2a40885b157297316e3de749a6c172a306b8c22b",
-  "generatedAt": "2026-09-06T10:50:44.688Z",
-  "runId": "2026-09-06T10:50:30Z-repair-moonwake-11",
-  "sourceCommit": "4f2ba9dc3a5b7a0e6b80bcab912b377460ee0ae5",
-  "mode": "REPAIR",
+  "requestFingerprint": "ad4f082766ebac0c51678233bb10c5681d815dd93bcf713f6afc77e77a69ab3b",
+  "generatedAt": "2026-09-06T10:54:44.819Z",
+  "runId": "2026-09-06T10:54:30Z-explore-12",
+  "sourceCommit": "7235de8d3a071077d635f55653abc7abb110c795",
+  "mode": "EXPLORE",
   "target": {
-    "role": "STRANGE GAIT Track 5 after Too Much Time",
-    "position": "after Sciahri — Too Much Time as Track 5 at end of ledger",
+    "role": "fresh STRANGE GAIT expansion beyond the Sciahri run",
+    "position": "test discovered material after Sciahri — Moonwake as Track 6 while preserving broader belonging separately",
     "neighbours": [
-      "spotify:track:7db90RzgCxJSu9XzKJhxKO"
+      "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"
     ],
-    "purpose": "reassess the triggered Moonwake revisit in the materially changed Track-5 context as a deliberate continuation/escalation after Too Much Time, without using same-release identity or 140→140 BPM as proof of flow"
+    "purpose": "look outward from the two-track Mutual Rytm run for a deliberate continuation, release or redirection without treating tempo, key, genre or novelty as flow evidence"
   },
-  "explorationReceipt": null,
+  "explorationReceipt": {
+    "timestampUtc": "2026-09-06T10:54:30Z",
+    "sourceWindows": [
+      "Fresh September 4 Hardspace H010 scan: https://hardspace.bandcamp.com/album/hardspace-h010",
+      "Fresh September 4 Space Textures / John Darque Contour EP scan: https://spacetextures.bandcamp.com/album/contour-ep",
+      "Adjacent SK_eleven catalogue scan including Phil Berg — Iso: https://skeleven.bandcamp.com/album/iso-sk11x037",
+      "Overlooked 2026 Ilian Tape catalogue scan including Deetron presents Soulmate — Sequence",
+      "Beatport exact tempo metadata for Hardspace H010 and Phil Berg Iso material",
+      "Upcoming SK_eleven In Cycles was retained as a release watch rather than treated as currently released material"
+    ],
+    "approximateInspectedScope": "approximately 30 named tracks/releases across current Hardspace/Space Textures material, adjacent SK_eleven and overlooked Ilian Tape catalogue",
+    "exclusions": [
+      "future September 11 SK_eleven material retained as watch only",
+      "peak-time framing was not automatically excluded but was penalized when it supplied no useful long-form purpose",
+      "same-label or close-BPM relations were not treated as proof of flow",
+      "no parked STRANGE GAIT revisit was recycled without a trigger"
+    ],
+    "rankedLeadSummary": [
+      "1. UMFANG — Complete Your Collection (Hardspace Mix): current Sep 4; 135 BPM; Hardspace specifically describes layered rhythmic complexity, shifting bass weight and a trippy floor-focused drive",
+      "2. Phil Berg — Chimera: 138 BPM; SK_eleven's Iso release is framed as reduction/discipline with rhythmic loops that breathe and shift",
+      "3. John Darque — Contour: current Sep 4 Space Textures release; release framing centers meditations on rhythm, drift and spaces between certainty and dream",
+      "4. Snuff Crew — Where's The Bad? (Hardspace Mix): current Sep 4; 135 BPM; track-specific description says it is stripped to a singular hypnotic loop for peak-time impact"
+    ]
+  },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 1,
+  "requestedCount": 4,
   "resolvedCount": 1,
   "candidateCount": 1,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [],
-  "outcomes": [
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "status": "RESOLVED",
+      "artist": "UMFANG",
+      "track": "Complete Your Collection (Hardspace Mix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Sciahri",
-        "track": "Moonwake",
-        "spotifyTrackId": "3Hyop0Bj9V3eCSFT6Hbe6j",
+        "artist": "UMFANG",
+        "track": "Complete Your Collection (Hardspace Mix)",
         "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport Sciahri artist listing reports Moonwake Original Mix at 140 BPM, released 2026-09-04",
-        "discoverySource": "EXPLORE run 10 / Mutual Rytm official Bandcamp Moonwake release; track-specific description says Moonwake is built on robust, rumbling drums with flashy synths bringing stark futurism to the dancefloor",
+        "bpm": 135,
+        "bpmSource": "Beatport/Volumo H010 exact metadata reports Complete Your Collection at 135 BPM and 4:31",
+        "discoverySource": "Hardspace official Bandcamp H010; track-specific description says the rework adds layered rhythmic complexity and shifting bass weight for a trippy but floor-focused drive",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Sciahri — Too Much Time as Track 5"
+            "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "After Too Much Time has already opened the Mutual Rytm/Sciahri production world, Moonwake can now be tested as an intentional intensification/continuation rather than as a competing Track-4 reset; exact felt energy and phrase relationship remain unknown.",
+        "fitHypothesis": "After the short Sciahri intensification, this track offers a credible deliberate redirection through documented rhythmic complexity and floor focus, but its exact felt pressure and transition remain unknown.",
         "evidence": {
           "measured": [
-            "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j exactly resolved in EXPLORE run 10",
-            "140 BPM from Beatport",
-            "5:19 duration from official Bandcamp",
-            "incoming measured tempo step 140→140 BPM"
+            "135 BPM",
+            "4:31 duration",
+            "released 2026-09-04",
+            "incoming measured tempo step 140→135 BPM"
           ],
-          "attributedDescription": "Mutual Rytm describes robust rumbling drums and flashy synths bringing stark futurism to the dancefloor; attributed track-specific evidence, not direct listening.",
-          "listenerEvidence": "The listener rejected an earlier sequence whose track-to-track energy shifts felt accidental. Moonwake was not part of that sequence, and its new placement after another Sciahri track is materially different from the prior Cave-only proposal.",
+          "attributedDescription": "Hardspace describes layered rhythmic complexity, shifting bass weight and a trippy floor-focused drive; attributed evidence only.",
+          "listenerEvidence": "The listener's earlier sequence feedback raises the burden against arbitrary energy resets; this track was not part of that failed sequence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A same-release second step can create a deliberate short run and allow intensification without requiring sameness across the whole playlist; same artist, release and BPM remain supporting context only."
+          "craftConvention": "A measured tempo drop can accompany a deliberate release/redirection, but the number itself proves nothing about felt continuity."
+        }
+      }
+    },
+    {
+      "artist": "John Darque",
+      "track": "Contour",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "John Darque",
+        "track": "Contour",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Space Textures official Contour EP; the release is framed as five meditations on rhythm, drift and the spaces between certainty and dream",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "Contour has a plausible deep/hypnotic belonging case and could function as a spatial redirection, but the source framing is release-level and the exact transition remains unknown.",
+        "evidence": {
+          "measured": [
+            "5:15 duration from official Bandcamp",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Space Textures frames the EP as meditations on rhythm, drift and spaces between certainty and dream; release-level evidence only.",
+          "listenerEvidence": "No direct listener evidence exists for Contour.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A spatially framed deep-techno move can be useful after a short intensification, but source language alone cannot establish exact flow."
+        }
+      }
+    },
+    {
+      "artist": "Snuff Crew",
+      "track": "Where's The Bad? (Hardspace Mix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Snuff Crew",
+        "track": "Where's The Bad? (Hardspace Mix)",
+        "releaseDate": "2026-09-04",
+        "bpm": 135,
+        "bpmSource": "Beatport/Volumo H010 exact metadata reports Where's The Bad? at 135 BPM and 4:30",
+        "discoverySource": "Hardspace official Bandcamp H010; track-specific description says the edit strips the track to a singular hypnotic loop for peak-time impact",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "The singular-loop framing is constitution-relevant, but explicit peak-time impact creates a higher-risk post-Moonwake placement hypothesis and cannot be admitted from hypnosis language alone.",
+        "evidence": {
+          "measured": [
+            "135 BPM",
+            "4:30 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Hardspace describes a singular hypnotic loop for peak-time impact; attributed source evidence only.",
+          "listenerEvidence": "The earlier listener complaint makes another abrupt impact-focused reset a material risk.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A hard reset can work if it has a clear role, but peak-time framing by itself is not that role."
+        }
+      }
+    }
+  ],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "UMFANG",
+        "track": "Complete Your Collection (Hardspace Mix)",
+        "releaseDate": "2026-09-04",
+        "bpm": 135,
+        "bpmSource": "Beatport/Volumo H010 exact metadata reports Complete Your Collection at 135 BPM and 4:31",
+        "discoverySource": "Hardspace official Bandcamp H010; track-specific description says the rework adds layered rhythmic complexity and shifting bass weight for a trippy but floor-focused drive",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "After the short Sciahri intensification, this track offers a credible deliberate redirection through documented rhythmic complexity and floor focus, but its exact felt pressure and transition remain unknown.",
+        "evidence": {
+          "measured": [
+            "135 BPM",
+            "4:31 duration",
+            "released 2026-09-04",
+            "incoming measured tempo step 140→135 BPM"
+          ],
+          "attributedDescription": "Hardspace describes layered rhythmic complexity, shifting bass weight and a trippy floor-focused drive; attributed evidence only.",
+          "listenerEvidence": "The listener's earlier sequence feedback raises the burden against arbitrary energy resets; this track was not part of that failed sequence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A measured tempo drop can accompany a deliberate release/redirection, but the number itself proves nothing about felt continuity."
         }
       },
-      "spotifyTrackId": "3Hyop0Bj9V3eCSFT6Hbe6j",
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Phil Berg",
+        "track": "Chimera",
+        "releaseDate": "2026-04-17",
+        "bpm": 138,
+        "bpmSource": "Beatport exact Phil Berg listing reports Chimera Original Mix at 138 BPM",
+        "discoverySource": "SK_eleven official Iso release; release-level description frames the EP as reduction and discipline with rhythmic loops that breathe and shift",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "Chimera is a credible overlooked-catalogue belonging lead through the release's disciplined shifting-loop design, but the evidence is release-level and does not establish the exact Moonwake handoff.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "5:36 duration",
+            "released 2026-04-17"
+          ],
+          "attributedDescription": "SK_eleven describes Iso at release level as a study in reduction and discipline with rhythmic loops that breathe and shift.",
+          "listenerEvidence": "No direct listener evidence exists for Chimera.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Disciplined loop material may offer a useful settling move after a more outward run, but release-level evidence keeps placement confidence limited."
+        }
+      },
+      "spotifyTrackId": "2rWGw0Yoslr9rBEQ1EBf3F",
       "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "John Darque",
+        "track": "Contour",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Space Textures official Contour EP; the release is framed as five meditations on rhythm, drift and the spaces between certainty and dream",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "Contour has a plausible deep/hypnotic belonging case and could function as a spatial redirection, but the source framing is release-level and the exact transition remains unknown.",
+        "evidence": {
+          "measured": [
+            "5:15 duration from official Bandcamp",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Space Textures frames the EP as meditations on rhythm, drift and spaces between certainty and dream; release-level evidence only.",
+          "listenerEvidence": "No direct listener evidence exists for Contour.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A spatially framed deep-techno move can be useful after a short intensification, but source language alone cannot establish exact flow."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Snuff Crew",
+        "track": "Where's The Bad? (Hardspace Mix)",
+        "releaseDate": "2026-09-04",
+        "bpm": 135,
+        "bpmSource": "Beatport/Volumo H010 exact metadata reports Where's The Bad? at 135 BPM and 4:30",
+        "discoverySource": "Hardspace official Bandcamp H010; track-specific description says the edit strips the track to a singular hypnotic loop for peak-time impact",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "The singular-loop framing is constitution-relevant, but explicit peak-time impact creates a higher-risk post-Moonwake placement hypothesis and cannot be admitted from hypnosis language alone.",
+        "evidence": {
+          "measured": [
+            "135 BPM",
+            "4:30 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Hardspace describes a singular hypnotic loop for peak-time impact; attributed source evidence only.",
+          "listenerEvidence": "The earlier listener complaint makes another abrupt impact-focused reset a material risk.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A hard reset can work if it has a clear role, but peak-time framing by itself is not that role."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "3Hyop0Bj9V3eCSFT6Hbe6j",
-      "uri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-      "name": "Moonwake",
+      "id": "2rWGw0Yoslr9rBEQ1EBf3F",
+      "uri": "spotify:track:2rWGw0Yoslr9rBEQ1EBf3F",
+      "name": "Chimera",
       "artists": [
-        "Sciahri"
+        "Phil Berg"
       ],
-      "album": "Moonwake",
-      "releaseDate": "2026-09-04",
-      "durationMs": 319860,
-      "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
-      "bpm": 140,
-      "tempoSource": "Beatport Sciahri artist listing reports Moonwake Original Mix at 140 BPM, released 2026-09-04",
-      "discoverySource": "EXPLORE run 10 / Mutual Rytm official Bandcamp Moonwake release; track-specific description says Moonwake is built on robust, rumbling drums with flashy synths bringing stark futurism to the dancefloor",
+      "album": "Iso",
+      "releaseDate": "2026-04-17",
+      "durationMs": 336098,
+      "spotifyUrl": "https://open.spotify.com/track/2rWGw0Yoslr9rBEQ1EBf3F",
+      "bpm": 138,
+      "tempoSource": "Beatport exact Phil Berg listing reports Chimera Original Mix at 138 BPM",
+      "discoverySource": "SK_eleven official Iso release; release-level description frames the EP as reduction and discipline with rhythmic loops that breathe and shift",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Sciahri — Too Much Time as Track 5"
+          "position": "after Sciahri — Moonwake as Track 6"
         }
       ],
-      "fitHypothesis": "After Too Much Time has already opened the Mutual Rytm/Sciahri production world, Moonwake can now be tested as an intentional intensification/continuation rather than as a competing Track-4 reset; exact felt energy and phrase relationship remain unknown.",
+      "fitHypothesis": "Chimera is a credible overlooked-catalogue belonging lead through the release's disciplined shifting-loop design, but the evidence is release-level and does not establish the exact Moonwake handoff.",
       "evidence": {
         "measured": [
-          "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j exactly resolved in EXPLORE run 10",
-          "140 BPM from Beatport",
-          "5:19 duration from official Bandcamp",
-          "incoming measured tempo step 140→140 BPM"
+          "138 BPM",
+          "5:36 duration",
+          "released 2026-04-17"
         ],
-        "attributedDescription": "Mutual Rytm describes robust rumbling drums and flashy synths bringing stark futurism to the dancefloor; attributed track-specific evidence, not direct listening.",
-        "listenerEvidence": "The listener rejected an earlier sequence whose track-to-track energy shifts felt accidental. Moonwake was not part of that sequence, and its new placement after another Sciahri track is materially different from the prior Cave-only proposal.",
+        "attributedDescription": "SK_eleven describes Iso at release level as a study in reduction and discipline with rhythmic loops that breathe and shift.",
+        "listenerEvidence": "No direct listener evidence exists for Chimera.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A same-release second step can create a deliberate short run and allow intensification without requiring sameness across the whole playlist; same artist, release and BPM remain supporting context only."
+        "craftConvention": "Disciplined loop material may offer a useful settling move after a more outward run, but release-level evidence keeps placement confidence limited."
       },
       "requestedIdentity": {
-        "artist": "Sciahri",
-        "track": "Moonwake",
-        "spotifyTrackId": "3Hyop0Bj9V3eCSFT6Hbe6j",
-        "releaseDate": "2026-09-04",
-        "bpm": 140,
-        "bpmSource": "Beatport Sciahri artist listing reports Moonwake Original Mix at 140 BPM, released 2026-09-04",
-        "discoverySource": "EXPLORE run 10 / Mutual Rytm official Bandcamp Moonwake release; track-specific description says Moonwake is built on robust, rumbling drums with flashy synths bringing stark futurism to the dancefloor",
+        "artist": "Phil Berg",
+        "track": "Chimera",
+        "releaseDate": "2026-04-17",
+        "bpm": 138,
+        "bpmSource": "Beatport exact Phil Berg listing reports Chimera Original Mix at 138 BPM",
+        "discoverySource": "SK_eleven official Iso release; release-level description frames the EP as reduction and discipline with rhythmic loops that breathe and shift",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Sciahri — Too Much Time as Track 5"
+            "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "After Too Much Time has already opened the Mutual Rytm/Sciahri production world, Moonwake can now be tested as an intentional intensification/continuation rather than as a competing Track-4 reset; exact felt energy and phrase relationship remain unknown.",
+        "fitHypothesis": "Chimera is a credible overlooked-catalogue belonging lead through the release's disciplined shifting-loop design, but the evidence is release-level and does not establish the exact Moonwake handoff.",
         "evidence": {
           "measured": [
-            "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j exactly resolved in EXPLORE run 10",
-            "140 BPM from Beatport",
-            "5:19 duration from official Bandcamp",
-            "incoming measured tempo step 140→140 BPM"
+            "138 BPM",
+            "5:36 duration",
+            "released 2026-04-17"
           ],
-          "attributedDescription": "Mutual Rytm describes robust rumbling drums and flashy synths bringing stark futurism to the dancefloor; attributed track-specific evidence, not direct listening.",
-          "listenerEvidence": "The listener rejected an earlier sequence whose track-to-track energy shifts felt accidental. Moonwake was not part of that sequence, and its new placement after another Sciahri track is materially different from the prior Cave-only proposal.",
+          "attributedDescription": "SK_eleven describes Iso at release level as a study in reduction and discipline with rhythmic loops that breathe and shift.",
+          "listenerEvidence": "No direct listener evidence exists for Chimera.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A same-release second step can create a deliberate short run and allow intensification without requiring sameness across the whole playlist; same artist, release and BPM remain supporting context only."
+          "craftConvention": "Disciplined loop material may offer a useful settling move after a more outward run, but release-level evidence keeps placement confidence limited."
         }
       }
     }
