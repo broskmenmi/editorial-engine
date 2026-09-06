@@ -1,190 +1,183 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "4c53a23bf4c7b81d0079335384fd69b2cc057f8ca6f78756c72e71562da35c29",
-  "generatedAt": "2026-09-06T11:49:04.558Z",
-  "runId": "2026-09-06T11:50:00Z-explore-23",
-  "sourceCommit": "2544cddb91b6b9337a150b01511918424f30c7fb",
+  "requestFingerprint": "2d85cb5706b009cff88e961ebf4a1cf3a742d0d7a88291a5b1ef739585f29db7",
+  "generatedAt": "2026-09-06T11:53:02.851Z",
+  "runId": "2026-09-06T11:53:00Z-explore-24",
+  "sourceCommit": "dfcf9ff03cb5e81a2536bb3af58589b8c0748db9",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 8 discovery via Affin",
+    "role": "fresh STRANGE GAIT Track 8 discovery via Orbe/Midgar",
     "position": "after Jayson Wynters — Tehutis Law as Track 8",
     "neighbours": [
       "spotify:track:79yeMWxkbiNZ4su5UuhS6z"
     ],
-    "purpose": "test organic deep-techno, dub abstraction and density/tension structures as a deliberate deepening after the funk turn"
+    "purpose": "test physical deep rhythm, fluid foreground/background and playful percussion as a deliberate post-funk move"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:50:00Z",
+    "timestampUtc": "2026-09-06T11:53:00Z",
     "sourceWindows": [
-      "Current Affin — Lithal by Notzing x Plague, released 2026-07-03",
-      "Current Affin — Affinity 7, released 2026-05-01",
-      "Current/adjacent Affin Serial One, released 2026-01-09",
-      "Overlooked Affin deep-techno catalogue and ambient-works context"
+      "Current Orbe Records / Minniemen — Basic Rhythm, released 2026-09-04",
+      "Current Midgar / Human Space Machine — Perception Field, released 2026-04-16",
+      "Adjacent Orbe / ORBE & PSYK — Temporal Rift, released 2026-03-20",
+      "Overlooked Midgar / Keplrr — Plumes, with track-specific playful/percussive and airy-afterhouse description"
     ],
-    "approximateInspectedScope": "approximately 30 tracks/releases across current, adjacent and overlooked Affin catalogue",
+    "approximateInspectedScope": "approximately 30 tracks/releases across current Orbe and Midgar, adjacent 2026 catalogue and overlooked Midgar material",
     "exclusions": [
-      "ambient-only context was not used as canonical proof",
-      "release-level natural-flow language was not converted into exact transition evidence",
-      "track titles were not treated as sonic facts",
-      "parked candidates not recycled"
+      "fan comments were not used as canonical evidence",
+      "Basic Rhythm and Perception Field release-level descriptions were not converted to exact-track claims",
+      "tempo or title language was not used as perceived-flow evidence",
+      "parked candidates were not recycled"
     ],
     "rankedLeadSummary": [
-      "1. Nils Edte — Actus: current Affinity 7; artist contribution described through organic deep techno and ambient textures",
-      "2. Javier Marimon — Grain 2 (A Ras Edit): current Affinity 7; A Ras contribution framed as abstract electronics and warm dub chords",
-      "3. Notzing x Plague — Erionitum: current Lithal; release says each piece has internal geometry formed through density, tension and acoustic mass",
-      "4. Notzing x Plague — Cinnabrax: current Lithal opener from same density/tension series"
+      "1. Minniemen — Basic Rhythm: current Sep 4; release balances mental deep techno, club grooves, atmospheric passages and physical rhythms",
+      "2. Minniemen — Non-dual: same current release, 5:34, candidate for a less literal deep-rhythm move",
+      "3. Human Space Machine — Gallop: current 2026 Midgar release built around shifting perception, foreground/background exchange, subtle textures and negative space",
+      "4. Keplrr — Plumes: overlooked Midgar track specifically described as a subtle, percussive and playful techno groover"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 1,
-  "candidateCount": 1,
-  "resolutionStatus": "PARTIAL",
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
   "unresolved": [
     {
-      "artist": "Javier Marimon",
-      "track": "Grain 2 (A Ras Edit)",
+      "artist": "Minniemen",
+      "track": "Basic Rhythm",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Javier Marimon",
-        "track": "Grain 2 (A Ras Edit)",
-        "releaseDate": "2026-05-01",
-        "discoverySource": "Affin official Affinity 7; A Ras is described as moving between abstract electronics and warm dub chords",
+        "artist": "Minniemen",
+        "track": "Basic Rhythm",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Orbe Records official Basic Rhythm EP; release balances mental deep techno with club grooves, atmospheric passages and physical rhythms, with surgical and immersive sound design",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Warm dub abstraction is a plausible textural deepening after Tehutis Law, but the source framing is contribution-level rather than exact-track evidence.",
+        "fitHypothesis": "The title track belongs plausibly in a physical/deep rhythm corridor after Tehutis Law, but the available source description covers the EP rather than this track specifically.",
         "evidence": {
           "measured": [
-            "7:01 duration",
-            "released 2026-05-01"
+            "5:34 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Affin frames A Ras through abstract electronics and warm dub chords.",
+          "attributedDescription": "Orbe release-level mental-deep/club-groove/physical-rhythm framing.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Dub warmth can connect worlds, but the exact neighbour relation remains unknown."
+          "craftConvention": "A physical deep-rhythm move may extend bodily trust, but release-level evidence cannot prove the exact handoff."
         }
       }
     },
     {
-      "artist": "Notzing x Plague",
-      "track": "Erionitum",
+      "artist": "Minniemen",
+      "track": "Non-dual",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Notzing x Plague",
-        "track": "Erionitum",
-        "releaseDate": "2026-07-03",
-        "discoverySource": "Affin official Lithal; each of three pieces is described as a distinct compound with internal geometry formed through density, tension and acoustic mass",
+        "artist": "Minniemen",
+        "track": "Non-dual",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Orbe Records official Basic Rhythm EP; same current four-track release balancing mental deep techno and club functionality",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Erionitum is a current density/tension lead relevant to structural curiosity, but release-level geometry language does not establish bodily continuity or exact placement.",
+        "fitHypothesis": "Non-dual is a fresh exact-release lead from a relevant rhythm-focused EP, but exact track behavior remains underdescribed.",
         "evidence": {
           "measured": [
-            "7:55 duration",
-            "released 2026-07-03"
+            "5:34 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Affin describes the Lithal pieces collectively as internal geometries formed through density, tension and acoustic mass.",
+          "attributedDescription": "Release-level Orbe framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Structural density earns evaluation, not novelty-based admission."
+          "craftConvention": "Current relevance earns resolution, not automatic admission."
         }
       }
     },
     {
-      "artist": "Notzing x Plague",
-      "track": "Cinnabrax",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Human Space Machine",
+      "track": "Gallop",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2BWjFjCHKgx0RBqGXMWzUz, 72lUKzx25l8PqvKlnwZhXe)",
       "requestedIdentity": {
-        "artist": "Notzing x Plague",
-        "track": "Cinnabrax",
-        "releaseDate": "2026-07-03",
-        "discoverySource": "Affin official Lithal; current opener in the same three-piece density/tension work",
+        "artist": "Human Space Machine",
+        "track": "Gallop",
+        "releaseDate": "2026-04-16",
+        "discoverySource": "Midgar/Human Space Machine official Perception Field; the record explores fluid perception across a wide tempo range, foreground/background role exchange, subtle textures and negative space",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Cinnabrax is another current structural-density lead, with the same limitation: exact track/body relation is unknown.",
+        "fitHypothesis": "Gallop is worth resolving as part of a fluid-context deep-techno release that could deepen the journey after funk, but the official description is release-level.",
         "evidence": {
           "measured": [
-            "7:13 duration",
-            "released 2026-07-03"
+            "6:14 duration",
+            "released 2026-04-16"
           ],
-          "attributedDescription": "Lithal release-level density/tension/acoustic-mass framing.",
+          "attributedDescription": "Perception Field release-level description of shifting context, textures, negative space and rhythmic foreground/background exchange.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Do not reward abstract structural framing without exact-placement evidence."
+          "craftConvention": "Fluid-context material is relevant to long-form sequencing, but the exact transition remains unknown."
+        }
+      }
+    },
+    {
+      "artist": "Keplrr",
+      "track": "Plumes",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Keplrr",
+        "track": "Plumes",
+        "releaseDate": "2024-05-24",
+        "discoverySource": "Midgar official Plumes release; title track is specifically described as a subtle, percussive and playful techno groover",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          }
+        ],
+        "fitHypothesis": "Plumes has unusually specific groove/percussion evidence and could keep Tehutis Law's body/funk thread while changing production world; exact felt continuity remains unknown.",
+        "evidence": {
+          "measured": [
+            "official Midgar exact-track identity"
+          ],
+          "attributedDescription": "Midgar describes the original Plumes as a subtle, percussive and playful techno groover.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Percussive playfulness may bridge from funk without repeating it, but source wording is not direct transition evidence."
         }
       }
     }
   ],
-  "warnings": [
-    {
-      "artist": "Nils Edte",
-      "track": "Actus",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-05-01\" but Spotify returned \"2026-06-05\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Nils Edte",
-        "track": "Actus",
-        "releaseDate": "2026-05-01",
-        "discoverySource": "Affin official Affinity 7; Nils Edte's contribution is framed through organic deep techno and ambient textures with introspective quality",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
-          }
-        ],
-        "fitHypothesis": "Actus could deepen and soften the funk turn through organic deep-techno texture, but source evidence describes the artist contribution/release rather than exact track behavior.",
-        "evidence": {
-          "measured": [
-            "6:24 duration",
-            "released 2026-05-01"
-          ],
-          "attributedDescription": "Affin describes Nils Edte's organic deep techno and ambient textures as lending introspective quality to Affinity 7.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A deepening move can follow funk, but release-level framing cannot prove exact flow."
-        }
-      },
-      "spotifyTrackId": "6GmpT0egn0ei4dufzayWbB",
-      "selected": true
-    },
-    {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Javier Marimon",
-        "track": "Grain 2 (A Ras Edit)",
-        "releaseDate": "2026-05-01",
-        "discoverySource": "Affin official Affinity 7; A Ras is described as moving between abstract electronics and warm dub chords",
+        "artist": "Minniemen",
+        "track": "Basic Rhythm",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Orbe Records official Basic Rhythm EP; release balances mental deep techno with club grooves, atmospheric passages and physical rhythms, with surgical and immersive sound design",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Warm dub abstraction is a plausible textural deepening after Tehutis Law, but the source framing is contribution-level rather than exact-track evidence.",
+        "fitHypothesis": "The title track belongs plausibly in a physical/deep rhythm corridor after Tehutis Law, but the available source description covers the EP rather than this track specifically.",
         "evidence": {
           "measured": [
-            "7:01 duration",
-            "released 2026-05-01"
+            "5:34 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Affin frames A Ras through abstract electronics and warm dub chords.",
+          "attributedDescription": "Orbe release-level mental-deep/club-groove/physical-rhythm framing.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Dub warmth can connect worlds, but the exact neighbour relation remains unknown."
+          "craftConvention": "A physical deep-rhythm move may extend bodily trust, but release-level evidence cannot prove the exact handoff."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -192,26 +185,26 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Notzing x Plague",
-        "track": "Erionitum",
-        "releaseDate": "2026-07-03",
-        "discoverySource": "Affin official Lithal; each of three pieces is described as a distinct compound with internal geometry formed through density, tension and acoustic mass",
+        "artist": "Minniemen",
+        "track": "Non-dual",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Orbe Records official Basic Rhythm EP; same current four-track release balancing mental deep techno and club functionality",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Erionitum is a current density/tension lead relevant to structural curiosity, but release-level geometry language does not establish bodily continuity or exact placement.",
+        "fitHypothesis": "Non-dual is a fresh exact-release lead from a relevant rhythm-focused EP, but exact track behavior remains underdescribed.",
         "evidence": {
           "measured": [
-            "7:55 duration",
-            "released 2026-07-03"
+            "5:34 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Affin describes the Lithal pieces collectively as internal geometries formed through density, tension and acoustic mass.",
+          "attributedDescription": "Release-level Orbe framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Structural density earns evaluation, not novelty-based admission."
+          "craftConvention": "Current relevance earns resolution, not automatic admission."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -219,85 +212,57 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Notzing x Plague",
-        "track": "Cinnabrax",
-        "releaseDate": "2026-07-03",
-        "discoverySource": "Affin official Lithal; current opener in the same three-piece density/tension work",
+        "artist": "Human Space Machine",
+        "track": "Gallop",
+        "releaseDate": "2026-04-16",
+        "discoverySource": "Midgar/Human Space Machine official Perception Field; the record explores fluid perception across a wide tempo range, foreground/background role exchange, subtle textures and negative space",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Cinnabrax is another current structural-density lead, with the same limitation: exact track/body relation is unknown.",
+        "fitHypothesis": "Gallop is worth resolving as part of a fluid-context deep-techno release that could deepen the journey after funk, but the official description is release-level.",
         "evidence": {
           "measured": [
-            "7:13 duration",
-            "released 2026-07-03"
+            "6:14 duration",
+            "released 2026-04-16"
           ],
-          "attributedDescription": "Lithal release-level density/tension/acoustic-mass framing.",
+          "attributedDescription": "Perception Field release-level description of shifting context, textures, negative space and rhythmic foreground/background exchange.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Do not reward abstract structural framing without exact-placement evidence."
+          "craftConvention": "Fluid-context material is relevant to long-form sequencing, but the exact transition remains unknown."
+        }
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2BWjFjCHKgx0RBqGXMWzUz, 72lUKzx25l8PqvKlnwZhXe)"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Keplrr",
+        "track": "Plumes",
+        "releaseDate": "2024-05-24",
+        "discoverySource": "Midgar official Plumes release; title track is specifically described as a subtle, percussive and playful techno groover",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          }
+        ],
+        "fitHypothesis": "Plumes has unusually specific groove/percussion evidence and could keep Tehutis Law's body/funk thread while changing production world; exact felt continuity remains unknown.",
+        "evidence": {
+          "measured": [
+            "official Midgar exact-track identity"
+          ],
+          "attributedDescription": "Midgar describes the original Plumes as a subtle, percussive and playful techno groover.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Percussive playfulness may bridge from funk without repeating it, but source wording is not direct transition evidence."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [
-    {
-      "id": "6GmpT0egn0ei4dufzayWbB",
-      "uri": "spotify:track:6GmpT0egn0ei4dufzayWbB",
-      "name": "Actus",
-      "artists": [
-        "Nils Edte"
-      ],
-      "album": "Affinity 7",
-      "releaseDate": "2026-06-05",
-      "durationMs": 384360,
-      "spotifyUrl": "https://open.spotify.com/track/6GmpT0egn0ei4dufzayWbB",
-      "discoverySource": "Affin official Affinity 7; Nils Edte's contribution is framed through organic deep techno and ambient textures with introspective quality",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Jayson Wynters — Tehutis Law as Track 8"
-        }
-      ],
-      "fitHypothesis": "Actus could deepen and soften the funk turn through organic deep-techno texture, but source evidence describes the artist contribution/release rather than exact track behavior.",
-      "evidence": {
-        "measured": [
-          "6:24 duration",
-          "released 2026-05-01"
-        ],
-        "attributedDescription": "Affin describes Nils Edte's organic deep techno and ambient textures as lending introspective quality to Affinity 7.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A deepening move can follow funk, but release-level framing cannot prove exact flow."
-      },
-      "requestedIdentity": {
-        "artist": "Nils Edte",
-        "track": "Actus",
-        "releaseDate": "2026-05-01",
-        "discoverySource": "Affin official Affinity 7; Nils Edte's contribution is framed through organic deep techno and ambient textures with introspective quality",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
-          }
-        ],
-        "fitHypothesis": "Actus could deepen and soften the funk turn through organic deep-techno texture, but source evidence describes the artist contribution/release rather than exact track behavior.",
-        "evidence": {
-          "measured": [
-            "6:24 duration",
-            "released 2026-05-01"
-          ],
-          "attributedDescription": "Affin describes Nils Edte's organic deep techno and ambient textures as lending introspective quality to Affinity 7.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A deepening move can follow funk, but release-level framing cannot prove exact flow."
-        }
-      }
-    }
-  ],
+  "candidates": [],
   "resolvedAlternates": []
 }
