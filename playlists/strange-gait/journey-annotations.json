@@ -25,23 +25,9 @@
   "protected":{"opener":null,"handoffs":[],"ending":[]},
   "discussions":[],
   "tracks":{
-    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{
-      "chapter":"ground",
-      "storyBand":"ground",
-      "status":"provisional",
-      "labels":["opener","ground-anchor","repair-anchor"]
-    },
-    "spotify:track:6zBPgkGHHiZfxg5eSjSCRd":{
-      "chapter":"ground",
-      "storyBand":"ground",
-      "status":"provisional",
-      "labels":["track-2","controlled-continuation","doctrine-correction-add","same-release-context"]
-    },
-    "spotify:track:2Z0j3jb573fveL4Pf3NkP1":{
-      "chapter":"ground",
-      "storyBand":"ground",
-      "status":"provisional",
-      "labels":["track-3","widening-move","different-production-world","repair-run-8-add"]
-    }
+    "spotify:track:4YhLd9gtkp0vLWu4RNJ716":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["opener","ground-anchor","repair-anchor"]},
+    "spotify:track:6zBPgkGHHiZfxg5eSjSCRd":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-2","controlled-continuation","doctrine-correction-add","same-release-context"]},
+    "spotify:track:2Z0j3jb573fveL4Pf3NkP1":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-3","widening-move","different-production-world","repair-run-8-add"]},
+    "spotify:track:7db90RzgCxJSu9XzKJhxKO":{"chapter":"ground","storyBand":"ground","status":"provisional","labels":["track-4","physical-widening","mutual-rytm","explore-run-10-add"]}
   }
 }

@@ -9,34 +9,26 @@
 | 1 | Inigo Kennedy | Marauder | spotify:track:4YhLd9gtkp0vLWu4RNJ716 | 136 | ADD | Ground — provisional opening anchor | 2026-09-05 |
 | 2 | Inigo Kennedy | The Witching Hour | spotify:track:6zBPgkGHHiZfxg5eSjSCRd | 136 | ADD | Ground — provisional controlled continuation | 2026-09-06 |
 | 3 | Rene Wise | Cave | spotify:track:2Z0j3jb573fveL4Pf3NkP1 | 134 | ADD | Ground — provisional widening move | 2026-09-06 |
+| 4 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
 
 ## Current state
 
-**DOCTRINE-CORRECTED REBUILD — 3 canonical tracks.**
+**ACTIVE EXPANSION — 4 canonical tracks.**
 
-Direct listener feedback established that the prior four-track opening `Marauder → Some Letters → Alive → Drift C` failed because its energy shifts felt like disconnected favourite tracks rather than a DJ-shaped flow. The authorized repair removed Tracks 2–4 and kept Marauder provisionally.
+The listener's earlier rejection of `Marauder → Some Letters → Alive → Drift C` remains authoritative evidence against accidental-feeling energy resets, but it does not impose one permanent sonic room.
 
-The repository-wide DJ doctrine then clarified that this evidence condemns that specific sequence, not all vibe or energy change. The retired over-correction — requiring every next track to prove one identical sonic room — is no longer an admission rule.
+EXPLORE run `2026-09-06T10:44:30Z-explore-10` scanned fresh September material across Mutual Rytm, Dosis, Mona Records, [R]3volution and current raw/deep/hypnotic catalogue listings. Five honest leads were sent to the resolver; Sciahri — Moonwake and Sciahri — Too Much Time resolved exactly in Spotify market SE, while KNTZ — Kernel, Hypatia — Riddles in the Dark and Rødder — Horizonte de Sucesos remained unresolved. Too Much Time was approved as the strongest current Track-4 move; Moonwake remains a triggered revisit for the newly created Track-5 context.
 
-Repair run `2026-09-06T09:11:40Z-repair-track3-8` reassessed four triggered exact candidates in the new Track-3 context. The resolver verified 4/4 identities and selected Rene Wise — Cave, Steve Rachmad — Ostinato 2.0 and Mitra — Hush. Cave was approved as the single ADD for this under-three-track run.
-
-No track or handoff is protected. All three current tracks remain provisional.
+No track or handoff is protected. All four current tracks remain provisional.
 
 ## Next structural need
 
-Track 4 should build on the now-established three-track local run without mechanically assigning a new chapter. It may deepen, contrast, release or destabilize, but the move must have a clear sequencing purpose at transition, local-run and long-form scale.
+The addition of Too Much Time materially changes the next placement. Pre-audit should therefore use REPAIR for the triggered Moonwake revisit before returning to normal outward exploration.
 
-Do not require:
-
-- one identical vibe or pressure envelope;
-- a new rhythmic mechanism;
-- a forced chapter change;
-- BPM similarity as proof of flow.
-
-The bootstrap safeguard limiting runs to one ADD only applied while fewer than three canonical tracks existed; that condition is now satisfied.
+Do not require one identical vibe, a new rhythmic mechanism, a forced chapter change, or BPM similarity as proof of flow.
 
 ## Current measured tempo trajectory
 
-`136 → 136 → 134 BPM`
+`136 → 136 → 134 → 140 BPM`
 
 Tempo is measured context only and is not evidence of perceived energy, density, hypnosis, phrase compatibility or mixability.
