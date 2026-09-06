@@ -1,10 +1,13 @@
 # STRANGE GAIT — Discovery Log
 
-## Run 25 — EXPLORE
-4 → 4 exact → 3 candidates → 0 ADD. Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate. Nankuru's canonical ADD was blocked at persistence because exact BPM is unknown and the current ledger/map schema requires a finite BPM; no value was invented.
+## Run 26 — EXPLORE
+4 → 3 exact → 3 candidates → 0 ADD. Subsurface Light (100 BPM), Broken Dawn (110 BPM), Light Before The Haze (90 BPM) PARKED; Dino Sabatini remix unresolved. Strong track-specific source evidence, but no documented metrical relation supports the large post-139 BPM reset.
+
+## Run 25
+4 → 4 exact → 3 candidates → 0 ADD. Restos De Algo Que Nunca Fue, Nankuru and Işık PARKED; Ancient Language resolved alternate.
 
 ## Run 24
-4 → 0 exact → 0 candidates → 0 ADD. Minniemen — Basic Rhythm / Non-dual unresolved; Human Space Machine — Gallop ambiguous; Keplrr — Plumes unresolved but retained as strong research lead.
+4 → 0 exact → 0 candidates → 0 ADD. Minniemen unresolved; Gallop ambiguous; Plumes unresolved but retained as research lead.
 
 ## Run 23
 Nils Edte — Actus PARKED.
@@ -20,6 +23,3 @@ Alpaca Vision, The Atrocity Exhibition, Unpaid Moral Debts PARKED.
 
 ## Run 19
 ADD Tehutis Law Track 7.
-
-## Runs 17–18
-ADD Capa Track 6; Stomias/Hailstorm PARKED.
