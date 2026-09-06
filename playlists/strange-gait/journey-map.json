@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T10:53:23.350Z",
+  "generatedAt": "2026-09-06T11:31:46.762Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "bb018b20b7c336bbc35744fb821f28ada814117d722cd5b7eacce19ff958f10d",
-    "annotationsFingerprint": "2cafe17b6d330b65fceb20babeef7966f0e4b77884f31a1dae0a3dd5c0cc8181"
+    "ledgerFingerprint": "9d0bbb03e948c3a05226c0b8e9ecf3596219446fe8475582e5f325404368f547",
+    "annotationsFingerprint": "c471013522aceb4382c72e73e1aef3179f430a8247ad0e54a6cecd7d7e83039b"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,9 +18,9 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 5,
-    "durationMs": 1800000,
-    "durationLabel": "30m",
+    "trackCount": 6,
+    "durationMs": 2160000,
+    "durationLabel": "36m",
     "bpmMin": 134,
     "bpmMax": 140,
     "latestAddedDate": "2026-09-06"
@@ -34,6 +34,15 @@
       "endPosition": 5,
       "startMs": 0,
       "endMs": 1800000
+    },
+    {
+      "id": "tilt",
+      "label": "Tilt",
+      "order": 2,
+      "startPosition": 6,
+      "endPosition": 6,
+      "startMs": 1800000,
+      "endMs": 2160000
     }
   ],
   "tracks": [
@@ -63,8 +72,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.2,
-      "progressMidpoint": 0.1
+      "progressEnd": 0.16666666666666666,
+      "progressMidpoint": 0.08333333333333333
     },
     {
       "position": 2,
@@ -90,9 +99,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.2,
-      "progressEnd": 0.4,
-      "progressMidpoint": 0.3
+      "progressStart": 0.16666666666666666,
+      "progressEnd": 0.3333333333333333,
+      "progressMidpoint": 0.25
     },
     {
       "position": 3,
@@ -118,9 +127,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.4,
-      "progressEnd": 0.6,
-      "progressMidpoint": 0.5
+      "progressStart": 0.3333333333333333,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.4166666666666667
     },
     {
       "position": 4,
@@ -147,9 +156,9 @@
       "midpointMs": 1260000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.6,
-      "progressEnd": 0.8,
-      "progressMidpoint": 0.7
+      "progressStart": 0.5,
+      "progressEnd": 0.6666666666666666,
+      "progressMidpoint": 0.5833333333333334
     },
     {
       "position": 5,
@@ -177,9 +186,39 @@
       "midpointMs": 1620000,
       "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
       "protected": false,
-      "progressStart": 0.8,
+      "progressStart": 0.6666666666666666,
+      "progressEnd": 0.8333333333333334,
+      "progressMidpoint": 0.75
+    },
+    {
+      "position": 6,
+      "artist": "Nørbak",
+      "track": "Capa",
+      "uri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+      "bpm": 137,
+      "role": "Tilt — provisional rhythmic redirection",
+      "added": "2026-09-06",
+      "chapter": "tilt",
+      "chapterOrder": 2,
+      "storyBand": "tilt",
+      "storyLevel": 2.7,
+      "status": "provisional",
+      "labels": [
+        "track-6",
+        "rhythmic-redirection",
+        "token",
+        "explore-run-17-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 1800000,
+      "endMs": 2160000,
+      "midpointMs": 1980000,
+      "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
+      "protected": false,
+      "progressStart": 0.8333333333333334,
       "progressEnd": 1,
-      "progressMidpoint": 0.9
+      "progressMidpoint": 0.9166666666666666
     }
   ],
   "transitions": [
@@ -216,6 +255,15 @@
       "fromPosition": 4,
       "toPosition": 5,
       "bpmDelta": 0,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+      "toUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+      "fromPosition": 5,
+      "toPosition": 6,
+      "bpmDelta": -3,
       "protected": false,
       "frozen": false
     }
