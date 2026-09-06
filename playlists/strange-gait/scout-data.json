@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "dd47191d9ff09ee0390d8696dc603f61954f689ee78986dee8fe76e272338041",
-  "generatedAt": "2026-09-06T20:01:21.541Z",
-  "runId": "2026-09-06T20:09:00Z-explore-44",
-  "sourceCommit": "d40db1d589d05a21a2f523b76cfc141681bf7bb6",
+  "requestFingerprint": "443931c9b27d0876b863b080e84b4582340ca0839e692895b58bdc338700e1a8",
+  "generatedAt": "2026-09-06T20:02:33.455Z",
+  "runId": "2026-09-06T20:11:00Z-explore-45",
+  "sourceCommit": "4583c049ac1ea487b535b138940a81d5a89d9276",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh STRANGE GAIT Track 13 mixed-current scan",
@@ -11,97 +11,37 @@
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test three unrelated current raw/deep/hypnotic identities to avoid label-family overfitting"
+    "purpose": "test two unrelated current raw/deep/hypnotic identities from overlooked September releases"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T20:09:00Z",
+    "timestampUtc": "2026-09-06T20:11:00Z",
     "sourceWindows": [
-      "Beatport current September 3 2026 raw/deep/hypnotic listings across separate labels/artists"
+      "Beatport current September 2026 raw/deep/hypnotic listings"
     ],
-    "approximateInspectedScope": "mixed current new-release scan across multiple labels",
+    "approximateInspectedScope": "mixed current new-release scan across smaller labels",
     "exclusions": [
-      "no artist/label continuity assumptions",
+      "no title-based sonic inference",
       "BPM/genre not treated as flow proof",
       "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. Stereoimagery — auto SHK (late edition): 140 BPM",
-      "2. Maccari, Serge André — Amethyst: 140 BPM",
-      "3. Lucas Sosa (AR) — X4: 141 BPM"
+      "1. Fail_ed — Lucid Granules: 140 BPM",
+      "2. Torres De Lara — Guadalajara: 140 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 1,
-  "candidateCount": 1,
-  "resolutionStatus": "PARTIAL",
-  "unresolved": [
-    {
-      "artist": "Maccari, Serge André",
-      "track": "Amethyst",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Maccari, Serge André",
-        "track": "Amethyst",
-        "releaseDate": "2026-09-03",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
-        "evidence": {
-          "measured": [
-            "140 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "Lucas Sosa (AR)",
-      "track": "X4",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Lucas Sosa (AR)",
-        "track": "X4",
-        "releaseDate": "2026-09-03",
-        "bpm": 141,
-        "bpmSource": "Beatport exact listing reports 141 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
-        "evidence": {
-          "measured": [
-            "141 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ],
+  "requestedCount": 2,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Stereoimagery",
-        "track": "auto SHK (late edition)",
+        "artist": "Fail_ed",
+        "track": "Lucid Granules",
         "releaseDate": "2026-09-03",
         "bpm": 140,
         "bpmSource": "Beatport exact listing reports 140 BPM",
@@ -112,7 +52,7 @@
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
         "evidence": {
           "measured": [
             "140 BPM",
@@ -123,15 +63,15 @@
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "4v3kWcECa3IaZPcXlXvBjd",
+      "spotifyTrackId": "2l6V8BTPgmklh7FxoEDh9F",
       "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Maccari, Serge André",
-        "track": "Amethyst",
-        "releaseDate": "2026-09-03",
+        "artist": "Torres De Lara",
+        "track": "Guadalajara",
+        "releaseDate": "2026-09-01",
         "bpm": 140,
         "bpmSource": "Beatport exact listing reports 140 BPM",
         "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
@@ -141,60 +81,33 @@
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
+        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
         "evidence": {
           "measured": [
             "140 BPM",
-            "released 2026-09-03"
+            "released 2026-09-01"
           ],
           "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Lucas Sosa (AR)",
-        "track": "X4",
-        "releaseDate": "2026-09-03",
-        "bpm": 141,
-        "bpmSource": "Beatport exact listing reports 141 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
-        "evidence": {
-          "measured": [
-            "141 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "7Moq5cHtt4ar9AT3cVPRA7",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "4v3kWcECa3IaZPcXlXvBjd",
-      "uri": "spotify:track:4v3kWcECa3IaZPcXlXvBjd",
-      "name": "auto SHK (late edition)",
+      "id": "2l6V8BTPgmklh7FxoEDh9F",
+      "uri": "spotify:track:2l6V8BTPgmklh7FxoEDh9F",
+      "name": "Lucid Granules",
       "artists": [
-        "Stereoimagery"
+        "Fail_ed"
       ],
-      "album": "AUTO DREME EP",
+      "album": "Fragments",
       "releaseDate": "2026-09-03",
-      "durationMs": 246857,
-      "spotifyUrl": "https://open.spotify.com/track/4v3kWcECa3IaZPcXlXvBjd",
+      "durationMs": 301875,
+      "spotifyUrl": "https://open.spotify.com/track/2l6V8BTPgmklh7FxoEDh9F",
       "bpm": 140,
       "tempoSource": "Beatport exact listing reports 140 BPM",
       "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
@@ -204,7 +117,7 @@
           "position": "after Stardancer as Track 13"
         }
       ],
-      "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+      "fitHypothesis": "Plausible current identity; exact behavior unknown.",
       "evidence": {
         "measured": [
           "140 BPM",
@@ -215,8 +128,8 @@
         "lawfulAudioEvidence": null
       },
       "requestedIdentity": {
-        "artist": "Stereoimagery",
-        "track": "auto SHK (late edition)",
+        "artist": "Fail_ed",
+        "track": "Lucid Granules",
         "releaseDate": "2026-09-03",
         "bpm": 140,
         "bpmSource": "Beatport exact listing reports 140 BPM",
@@ -227,11 +140,66 @@
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
         "evidence": {
           "measured": [
             "140 BPM",
             "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "7Moq5cHtt4ar9AT3cVPRA7",
+      "uri": "spotify:track:7Moq5cHtt4ar9AT3cVPRA7",
+      "name": "Guadalajara",
+      "artists": [
+        "Torres De Lara"
+      ],
+      "album": "Guadalajara",
+      "releaseDate": "2026-09-01",
+      "durationMs": 438857,
+      "spotifyUrl": "https://open.spotify.com/track/7Moq5cHtt4ar9AT3cVPRA7",
+      "bpm": 140,
+      "tempoSource": "Beatport exact listing reports 140 BPM",
+      "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Plausible current identity; exact behavior unknown.",
+      "evidence": {
+        "measured": [
+          "140 BPM",
+          "released 2026-09-01"
+        ],
+        "attributedDescription": "Beatport genre classification only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Torres De Lara",
+        "track": "Guadalajara",
+        "releaseDate": "2026-09-01",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-01"
           ],
           "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
