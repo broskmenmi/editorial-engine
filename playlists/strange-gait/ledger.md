@@ -11,23 +11,22 @@
 | 3 | Rene Wise | Cave | spotify:track:2Z0j3jb573fveL4Pf3NkP1 | 134 | ADD | Ground — provisional widening move | 2026-09-06 |
 | 4 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
 | 5 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
+| 6 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 5 canonical tracks.**
+**ACTIVE EXPANSION — 6 canonical tracks.**
 
-The listener's earlier rejection of `Marauder → Some Letters → Alive → Drift C` remains authoritative evidence against accidental-feeling energy resets, but it does not impose one permanent sonic room.
+Run `2026-09-06T11:10:00Z-explore-17` found the first post-Sciahri candidate with sufficiently specific track-level evidence to justify a canonical move. Token describes Capa as rhythmically expressive, bending almost to a break, with bassline and dry-percussion drive; exact Beatport metadata gives 137 BPM and 5:43. This supports a deliberate rhythmic redirection after the two-track Sciahri rise without claiming that metadata proves perceived flow.
 
-EXPLORE run `2026-09-06T10:44:30Z-explore-10` added Sciahri — Too Much Time as Track 4 and triggered Moonwake for the changed next-placement context. REPAIR run `2026-09-06T10:50:30Z-repair-moonwake-11` then resolved Moonwake exactly and approved it as Track 5. The short Sciahri/Mutual Rytm run is intentional; same artist, release and 140→140 BPM are context rather than proof of felt flow.
-
-No track or handoff is protected. All five current tracks remain provisional.
+No track or handoff is protected. All six tracks remain provisional.
 
 ## Next structural need
 
-No actionable REPAIR remains. The next run should return to genuinely fresh EXPLORE and look outward beyond the current Sciahri run.
+No actionable REPAIR remains. Continue genuinely fresh EXPLORE from the changed Track-7 context; do not mechanically continue Tilt or force a new chapter.
 
 ## Current measured tempo trajectory
 
-`136 → 136 → 134 → 140 → 140 BPM`
+`136 → 136 → 134 → 140 → 140 → 137 BPM`
 
 Tempo is measured context only and is not evidence of perceived energy, density, hypnosis, phrase compatibility or mixability.

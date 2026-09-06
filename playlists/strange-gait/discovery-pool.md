@@ -4,6 +4,10 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | Nørbak | Capa | https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB | ADD Track 6 |
+| RESEARCH LEAD | Porteix / Token | Ad Libitum | https://tokenrecords.bandcamp.com/album/fuga-vii | Ambiguous exact Spotify release match; strong track-specific uninterrupted-motion lead |
+| RESEARCH LEAD | MAL HOMBRE / Token | Critical Velocity | https://tokenrecords.bandcamp.com/album/fuga-vii | No exact Spotify match in SE; track-specific elastic/snowballing-intensity lead |
+| RESEARCH LEAD | Connor Wall / Token | The Strategy | https://tokenrecords.bandcamp.com/album/fuga-vii | Ambiguous exact Spotify release match; track-specific pace/deep-dancefloor lead |
 | EXACT TRACK | Hadone | Sit in Their Seat | https://open.spotify.com/track/6zP3CvVy8oDEytCGXqH1wu | PARKED |
 | EXACT TRACK | Hadone | Bite the Hand That Feeds You | https://open.spotify.com/track/0eZ2nfNNzWW1T7T3wPbkHC | PARKED |
 | EXACT TRACK | Temudo | U Used to Laugh at My Jokes | https://open.spotify.com/track/6G4OuJ8hKbNt96UrmPWI2J | PARKED |

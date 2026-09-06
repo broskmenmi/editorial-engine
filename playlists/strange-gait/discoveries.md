@@ -1,5 +1,8 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 17 — EXPLORE
+4 leads → 1 exact resolution → 1 candidate → 1 ADD. **ADD Nørbak — Capa** (`spotify:track:5np6Qsak6d5kIdkktjblRB`), 137 BPM / 5:43, as provisional Track 6. Token's track-specific evidence describes a rhythmically expressive track bending almost to a break with bassline and dry-percussion drive. Unresolved: Porteix — Ad Libitum (ambiguous exact Spotify release match); MAL HOMBRE — Critical Velocity (no exact Spotify title/artist match in SE); Connor Wall — The Strategy (ambiguous exact Spotify release match).
+
 ## Run 16 — EXPLORE
 4 leads → 4 resolutions → 3 candidates → 0 ADD. Hadone — Sit in Their Seat, Hadone — Bite the Hand That Feeds You, Temudo — U Used to Laugh at My Jokes → PARKED. Temudo — And the Pattern Repeats resolved alternate.
 
