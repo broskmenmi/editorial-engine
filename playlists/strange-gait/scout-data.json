@@ -1,205 +1,210 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "26dbd54999cafc2645b2eccf4c56ad25c5e82cd328e06bdde39a51966669c7d8",
-  "generatedAt": "2026-09-06T19:48:33.825Z",
-  "runId": "2026-09-06T19:49:00Z-explore-35",
-  "sourceCommit": "8e206fbb843fa266f2b148ad11e371d2b72f213e",
+  "requestFingerprint": "e71c233dd999e29804f78010d7df80cd76ae81bf06af303f8030cc91dfd0ae03",
+  "generatedAt": "2026-09-06T19:50:08.609Z",
+  "runId": "2026-09-06T19:51:00Z-explore-36",
+  "sourceCommit": "33b746b8734156bba6fb7cb1979207d8809e617e",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via Matasism",
+    "role": "fresh STRANGE GAIT Track 13 discovery via Palms Trax",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test whether raw underground house/acid material can make an earned adjacent-style move after the protected trio"
+    "purpose": "test an intentional deep/melodic reset after the protected trio rather than another high-130s continuation"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:49:00Z",
+    "timestampUtc": "2026-09-06T19:51:00Z",
     "sourceWindows": [
-      "Matasism — The Music In Downtown, released 2026-09-03 on official Bandcamp",
-      "current adjacent underground house/techno catalogue"
+      "Palms Trax — Keys To A Printed Garden, official fabric/Bandcamp release 2026-08-21",
+      "current deep-house metadata for exact tempo"
     ],
-    "approximateInspectedScope": "the full new three-track EP plus adjacent Matasism catalogue; three track-specific leads retained",
+    "approximateInspectedScope": "the two-track EP plus adjacent Palms Trax catalogue; both tracks retained because source descriptions are track-specific",
     "exclusions": [
-      "house classification was not treated as disqualifying",
-      "titles were not converted into sonic claims",
+      "126 BPM was treated as a reset flag, not an automatic failure",
+      "melodic/house framing was not treated as disqualifying",
       "protected trio remained intact"
     ],
     "rankedLeadSummary": [
-      "1. Matasism — The Music In Downtown: raw groove-driven house with own voice",
-      "2. Matasism — Acid Waves: hypnotic house groove with sharp acid and stripped underground character",
-      "3. Matasism — This Is House: acid-infused, dancefloor-built hypnotic rhythms"
+      "1. Palms Trax — Keys to a Printed Garden: steady percussion/rolling groove beneath dreamlike melodic/IDM drift; 126 BPM",
+      "2. Palms Trax — Soft Trance, Hard Gossip: bold basslines, acid lines, hopeful synths; measured yet punchy"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
-    {
-      "artist": "Matasism",
-      "track": "The Music In Downtown",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "The Music In Downtown",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp; track-specific notes call it a raw, groove-driven house cut built around his own voice and original lyrics",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "A raw vocal groove could be a purposeful adjacent-style turn after the protected trio, but the exact handoff remains unknown.",
-        "evidence": {
-          "measured": [
-            "4:59 duration",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Official source describes raw groove-driven house and a personal vocal identity.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "Matasism",
-      "track": "Acid Waves",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "Acid Waves",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp tracklist; release notes describe the second cut as hypnotic house grooves with sharp acid elements and stripped underground character",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Acid/hypnotic groove could preserve bodily focus while changing grammar; exact Spotify identity and handoff need verification.",
-        "evidence": {
-          "measured": [
-            "4:32 duration",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Official source describes hypnotic house groove, sharp acid and stripped underground character for the second cut.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "Matasism",
-      "track": "This Is House",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "This Is House",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp; track-specific notes describe an acid-infused dancefloor journey with hypnotic rhythms and late-night house energy",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could create a deliberate house-facing left turn while retaining hypnotic dancefloor function; exact transition remains untested.",
-        "evidence": {
-          "measured": [
-            "5:23 duration",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Official source describes acid textures, hypnotic rhythms and dancefloor construction.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ],
+  "requestedCount": 2,
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "The Music In Downtown",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp; track-specific notes call it a raw, groove-driven house cut built around his own voice and original lyrics",
+        "artist": "Palms Trax",
+        "track": "Keys to a Printed Garden",
+        "releaseDate": "2026-08-21",
+        "bpm": 126,
+        "bpmSource": "Traxsource and Beatport weekend metadata report 126 BPM",
+        "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe warm deep-house grooves, hazy nu-groove, subtle IDM flourishes, steady percussion and rolling groove",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "A raw vocal groove could be a purposeful adjacent-style turn after the protected trio, but the exact handoff remains unknown.",
+        "fitHypothesis": "Could serve as a deliberate spacious reset while retaining rolling bodily pulse; the 137→126 change requires a convincing reset function rather than tempo continuity.",
         "evidence": {
           "measured": [
-            "4:59 duration",
-            "released 2026-09-03"
+            "126 BPM",
+            "6:19 duration",
+            "released 2026-08-21"
           ],
-          "attributedDescription": "Official source describes raw groove-driven house and a personal vocal identity.",
+          "attributedDescription": "Official source describes steady percussion, rolling groove, melodic/IDM drift and reflective atmosphere.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "2LAH029XWCxiNdb6JIlQlv",
+      "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "Acid Waves",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp tracklist; release notes describe the second cut as hypnotic house grooves with sharp acid elements and stripped underground character",
+        "artist": "Palms Trax",
+        "track": "Soft Trance, Hard Gossip",
+        "releaseDate": "2026-08-21",
+        "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe bold basslines, acid lines, hopeful synth melodies and measured-but-punchy club temperament",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Acid/hypnotic groove could preserve bodily focus while changing grammar; exact Spotify identity and handoff need verification.",
+        "fitHypothesis": "Could create a clear character change while keeping club intent; exact pulse and handoff remain underdetermined.",
         "evidence": {
           "measured": [
-            "4:32 duration",
-            "released 2026-09-03"
+            "6:26 duration",
+            "released 2026-08-21"
           ],
-          "attributedDescription": "Official source describes hypnotic house groove, sharp acid and stripped underground character for the second cut.",
+          "attributedDescription": "Official source describes bold bass, acid, hopeful synths and measured-but-punchy club function.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Matasism",
-        "track": "This Is House",
-        "releaseDate": "2026-09-03",
-        "discoverySource": "Matasism official Bandcamp; track-specific notes describe an acid-infused dancefloor journey with hypnotic rhythms and late-night house energy",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could create a deliberate house-facing left turn while retaining hypnotic dancefloor function; exact transition remains untested.",
-        "evidence": {
-          "measured": [
-            "5:23 duration",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Official source describes acid textures, hypnotic rhythms and dancefloor construction.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "5b2cUvCPHEEZ003F8hpFtl",
+      "selected": true
     }
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "2LAH029XWCxiNdb6JIlQlv",
+      "uri": "spotify:track:2LAH029XWCxiNdb6JIlQlv",
+      "name": "Keys to a Printed Garden",
+      "artists": [
+        "Palms Trax"
+      ],
+      "album": "Keys To A Printed Garden",
+      "releaseDate": "2026-08-21",
+      "durationMs": 379631,
+      "spotifyUrl": "https://open.spotify.com/track/2LAH029XWCxiNdb6JIlQlv",
+      "bpm": 126,
+      "tempoSource": "Traxsource and Beatport weekend metadata report 126 BPM",
+      "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe warm deep-house grooves, hazy nu-groove, subtle IDM flourishes, steady percussion and rolling groove",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Could serve as a deliberate spacious reset while retaining rolling bodily pulse; the 137→126 change requires a convincing reset function rather than tempo continuity.",
+      "evidence": {
+        "measured": [
+          "126 BPM",
+          "6:19 duration",
+          "released 2026-08-21"
+        ],
+        "attributedDescription": "Official source describes steady percussion, rolling groove, melodic/IDM drift and reflective atmosphere.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Palms Trax",
+        "track": "Keys to a Printed Garden",
+        "releaseDate": "2026-08-21",
+        "bpm": 126,
+        "bpmSource": "Traxsource and Beatport weekend metadata report 126 BPM",
+        "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe warm deep-house grooves, hazy nu-groove, subtle IDM flourishes, steady percussion and rolling groove",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Could serve as a deliberate spacious reset while retaining rolling bodily pulse; the 137→126 change requires a convincing reset function rather than tempo continuity.",
+        "evidence": {
+          "measured": [
+            "126 BPM",
+            "6:19 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Official source describes steady percussion, rolling groove, melodic/IDM drift and reflective atmosphere.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "5b2cUvCPHEEZ003F8hpFtl",
+      "uri": "spotify:track:5b2cUvCPHEEZ003F8hpFtl",
+      "name": "Soft Trance, Hard Gossip",
+      "artists": [
+        "Palms Trax"
+      ],
+      "album": "Keys To A Printed Garden",
+      "releaseDate": "2026-08-21",
+      "durationMs": 386082,
+      "spotifyUrl": "https://open.spotify.com/track/5b2cUvCPHEEZ003F8hpFtl",
+      "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe bold basslines, acid lines, hopeful synth melodies and measured-but-punchy club temperament",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Could create a clear character change while keeping club intent; exact pulse and handoff remain underdetermined.",
+      "evidence": {
+        "measured": [
+          "6:26 duration",
+          "released 2026-08-21"
+        ],
+        "attributedDescription": "Official source describes bold bass, acid, hopeful synths and measured-but-punchy club function.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Palms Trax",
+        "track": "Soft Trance, Hard Gossip",
+        "releaseDate": "2026-08-21",
+        "discoverySource": "Palms Trax official Bandcamp/fabric release; track-specific notes describe bold basslines, acid lines, hopeful synth melodies and measured-but-punchy club temperament",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Could create a clear character change while keeping club intent; exact pulse and handoff remain underdetermined.",
+        "evidence": {
+          "measured": [
+            "6:26 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Official source describes bold bass, acid, hopeful synths and measured-but-punchy club function.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "resolvedAlternates": []
 }
