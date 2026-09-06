@@ -4,6 +4,9 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Melvin Spix | Get the funk | spotify:track:3DrbkAaaBxWRtSRrxjlcfC | Exact 138 BPM identity; genre/title do not establish funk character or post-Stardancer function. | PARKED |
+| Melvin Spix | Rhythm | spotify:track:5ehxIQY6wbqDzWf8DYi4bZ | Exact 135 BPM identity; title cannot establish rhythmic role and source offers genre metadata only. | PARKED |
+| Melvin Spix | Get Up | spotify:track:2h1YSf3KrnSnUbEARQ17az | Exact 140 BPM identity; post-Stardancer placement underdescribed. | PARKED |
 | Anika Kunst | Robe | spotify:track:0tmvZwRLwzLSvXeJkGJi1C | Exact identity and deep/Detroit-techno context; exact track behavior and post-Stardancer function are underdescribed. | PARKED |
 | Anika Kunst | Inner Peace | spotify:track:3zATr3fJDURUSJoslD1pGK | Exact identity; title cannot establish calm/release function and source offers tags only. | PARKED |
 | Anika Kunst | Mental Chaos | spotify:track:3BvT71O3hBS64Y5FbQ3bKr | Exact identity; title cannot establish fracture/chaos function and source offers tags only. | PARKED |
