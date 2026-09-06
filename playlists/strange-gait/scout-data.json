@@ -1,38 +1,40 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "87fd03bf68f9ac694d3649d68a48b9c4fc6223d4e55a708fec25fbd19819a721",
-  "generatedAt": "2026-09-06T12:38:53.051Z",
-  "runId": "2026-09-06T12:39:00Z-explore-27",
-  "sourceCommit": "f2b64f43860771f9da685d7fdeae30c0beff5233",
+  "requestFingerprint": "711e1b7b5de8527e04de044b30d15fccafe49f576f34963c20efff908bcf7254",
+  "generatedAt": "2026-09-06T12:42:28.511Z",
+  "runId": "2026-09-06T12:42:00Z-explore-28",
+  "sourceCommit": "aa08ceaf0741dd21d18ec1ddb228e39e665ee41c",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 8 discovery via OFF Recordings",
-    "position": "after Jayson Wynters — Tehutis Law as Track 8",
+    "role": "fresh STRANGE GAIT Track 9 discovery via Message 431",
+    "position": "after CHANCEKNOT — Fragments as Track 9",
     "neighbours": [
-      "spotify:track:79yeMWxkbiNZ4su5UuhS6z"
+      "spotify:track:3wsskKLpimIuiDDCb6eHVv"
     ],
-    "purpose": "test whether a precisely documented 140 BPM hypnotic-driving return improves the post-funk arc or merely re-escalates too soon"
+    "purpose": "test whether persistent groove, nocturnal percussion or tightly controlled physical pressure can deepen the post-Fragments run without simply escalating harder"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T12:39:00Z",
+    "timestampUtc": "2026-09-06T12:42:00Z",
     "sourceWindows": [
-      "Current OFF Recordings / CHANCEKNOT — Fragments, released on Bandcamp 2026-08-28",
-      "Beatport exact CHANCEKNOT Fragments metadata: 140 BPM"
+      "Message 431 / Inspired Groove — Follow The Signal, released 2026-08-21 with track-specific notes",
+      "Beatport exact Message 431 metadata for Truth In Noise, Arabic Night and Impact Distance"
     ],
-    "approximateInspectedScope": "current OFF Recordings catalogue plus adjacent CHANCEKNOT material; one lead clears the canonical resolver floor without padding",
+    "approximateInspectedScope": "Follow The Signal's four-track arc plus current/adjacent Message 431 catalogue; Stage Separation retained as inspiration rather than a resolver lead because its measured 101 BPM would require a separate reset hypothesis",
     "exclusions": [
-      "peak-time framing was not treated as automatic suitability",
-      "140 BPM was kept as measured context, not energy or flow proof",
-      "no extra leads were added merely to fill the request"
+      "close BPM values were not treated as flow proof",
+      "Impact Distance's physical-max framing was not rewarded automatically",
+      "Stage Separation was not promoted merely because it opens the source EP effectively"
     ],
     "rankedLeadSummary": [
-      "1. CHANCEKNOT — Fragments: track-specific hypnotic grooves, pulsating rhythms, evolving atmosphere, commanding percussion and tension-building arrangements; 140 BPM"
+      "1. Inspired Groove — Truth In Noise: persistent groove inside dense textures/distorted signals and controlled chaos; 138 BPM",
+      "2. Inspired Groove — Arabic Night: darker nocturnal atmosphere with driving percussion and hypnotic melodic detail; 139 BPM",
+      "3. Inspired Groove — Impact Distance: heavy low-end, repetitive movement and tightly controlled rhythmic pressure; 138 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 1,
-  "resolvedCount": 1,
-  "candidateCount": 1,
+  "requestedCount": 3,
+  "resolvedCount": 3,
+  "candidateCount": 3,
   "resolutionStatus": "COMPLETE",
   "unresolved": [],
   "warnings": [],
@@ -40,92 +42,272 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "CHANCEKNOT",
-        "track": "Fragments",
-        "releaseDate": "2026-08-28",
-        "bpm": 140,
-        "bpmSource": "Beatport exact CHANCEKNOT — Fragments listing reports 140 BPM",
-        "discoverySource": "OFF Recordings official Fragments release; track-specific description says hypnotic grooves, pulsating rhythms and evolving atmospheres intertwine with dark textures, relentless momentum, commanding percussion and tension-building arrangements",
+        "artist": "Inspired Groove",
+        "track": "Truth In Noise",
+        "releaseDate": "2026-08-21",
+        "bpm": 138,
+        "bpmSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+            "position": "after CHANCEKNOT — Fragments as Track 9"
           }
         ],
-        "fitHypothesis": "Fragments could return the sequence to tightly controlled driving hypnosis after Tehutis Law's funk re-grounding, but the source also frames relentless peak-time momentum, so the risk is premature re-escalation rather than insufficient belonging.",
+        "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "5:46 duration",
-            "released 2026-08-28 on OFF Recordings Bandcamp"
+            "138 BPM",
+            "5:20 duration",
+            "released 2026-08-21"
           ],
-          "attributedDescription": "OFF Recordings describes hypnotic grooves, pulsating rhythms, dark textures, relentless momentum, commanding percussion, subtle tension, and arrangements that build/release tension.",
-          "listenerEvidence": "Earlier listener feedback rejected arbitrary track-by-track energy shifts; a return to peak-time force must therefore serve the larger local run rather than simply be another strong track.",
+          "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
+          "listenerEvidence": "No direct listener evidence for this track.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A deliberate re-escalation can follow a funk re-grounding, but close tempo and source language do not prove that now is the right moment."
+          "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
         }
       },
-      "spotifyTrackId": "3wsskKLpimIuiDDCb6eHVv",
+      "spotifyTrackId": "12xuyGHICBNwJnQYqBlKcY",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Inspired Groove",
+        "track": "Arabic Night",
+        "releaseDate": "2026-08-21",
+        "bpm": 139,
+        "bpmSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after CHANCEKNOT — Fragments as Track 9"
+          }
+        ],
+        "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+        "evidence": {
+          "measured": [
+            "139 BPM",
+            "6:26 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
+        }
+      },
+      "spotifyTrackId": "3mcemKXocgbBW25e360O3m",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Inspired Groove",
+        "track": "Impact Distance",
+        "releaseDate": "2026-08-21",
+        "bpm": 138,
+        "bpmSource": "Beatport exact Impact Distance listing reports 138 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after CHANCEKNOT — Fragments as Track 9"
+          }
+        ],
+        "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "6:29 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
+        }
+      },
+      "spotifyTrackId": "3CUQiFlwuZCmrsSAMZzw3B",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "3wsskKLpimIuiDDCb6eHVv",
-      "uri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-      "name": "Fragments",
+      "id": "12xuyGHICBNwJnQYqBlKcY",
+      "uri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+      "name": "Truth in Noise",
       "artists": [
-        "CHANCEKNOT"
+        "Inspired Groove"
       ],
-      "album": "Fragments",
-      "releaseDate": "2026-08-28",
-      "durationMs": 346125,
-      "spotifyUrl": "https://open.spotify.com/track/3wsskKLpimIuiDDCb6eHVv",
-      "bpm": 140,
-      "tempoSource": "Beatport exact CHANCEKNOT — Fragments listing reports 140 BPM",
-      "discoverySource": "OFF Recordings official Fragments release; track-specific description says hypnotic grooves, pulsating rhythms and evolving atmospheres intertwine with dark textures, relentless momentum, commanding percussion and tension-building arrangements",
+      "album": "Follow the Signal",
+      "releaseDate": "2026-08-21",
+      "durationMs": 320000,
+      "spotifyUrl": "https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY",
+      "bpm": 138,
+      "tempoSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
+      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          "position": "after CHANCEKNOT — Fragments as Track 9"
         }
       ],
-      "fitHypothesis": "Fragments could return the sequence to tightly controlled driving hypnosis after Tehutis Law's funk re-grounding, but the source also frames relentless peak-time momentum, so the risk is premature re-escalation rather than insufficient belonging.",
+      "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
       "evidence": {
         "measured": [
-          "140 BPM",
-          "5:46 duration",
-          "released 2026-08-28 on OFF Recordings Bandcamp"
+          "138 BPM",
+          "5:20 duration",
+          "released 2026-08-21"
         ],
-        "attributedDescription": "OFF Recordings describes hypnotic grooves, pulsating rhythms, dark textures, relentless momentum, commanding percussion, subtle tension, and arrangements that build/release tension.",
-        "listenerEvidence": "Earlier listener feedback rejected arbitrary track-by-track energy shifts; a return to peak-time force must therefore serve the larger local run rather than simply be another strong track.",
+        "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
+        "listenerEvidence": "No direct listener evidence for this track.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A deliberate re-escalation can follow a funk re-grounding, but close tempo and source language do not prove that now is the right moment."
+        "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
       },
       "requestedIdentity": {
-        "artist": "CHANCEKNOT",
-        "track": "Fragments",
-        "releaseDate": "2026-08-28",
-        "bpm": 140,
-        "bpmSource": "Beatport exact CHANCEKNOT — Fragments listing reports 140 BPM",
-        "discoverySource": "OFF Recordings official Fragments release; track-specific description says hypnotic grooves, pulsating rhythms and evolving atmospheres intertwine with dark textures, relentless momentum, commanding percussion and tension-building arrangements",
+        "artist": "Inspired Groove",
+        "track": "Truth In Noise",
+        "releaseDate": "2026-08-21",
+        "bpm": 138,
+        "bpmSource": "Beatport Message 431 exact listing reports Truth in Noise at 138 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe dense textures, distorted signals and a persistent groove searching for clarity inside controlled chaos",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+            "position": "after CHANCEKNOT — Fragments as Track 9"
           }
         ],
-        "fitHypothesis": "Fragments could return the sequence to tightly controlled driving hypnosis after Tehutis Law's funk re-grounding, but the source also frames relentless peak-time momentum, so the risk is premature re-escalation rather than insufficient belonging.",
+        "fitHypothesis": "Persistent groove could consolidate Fragments' driving return while changing texture and lowering the emphasis on peak-time attack; exact perceived-pressure relation remains unknown.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "5:46 duration",
-            "released 2026-08-28 on OFF Recordings Bandcamp"
+            "138 BPM",
+            "5:20 duration",
+            "released 2026-08-21"
           ],
-          "attributedDescription": "OFF Recordings describes hypnotic grooves, pulsating rhythms, dark textures, relentless momentum, commanding percussion, subtle tension, and arrangements that build/release tension.",
-          "listenerEvidence": "Earlier listener feedback rejected arbitrary track-by-track energy shifts; a return to peak-time force must therefore serve the larger local run rather than simply be another strong track.",
+          "attributedDescription": "Message 431 describes dense textures, distorted signals and persistent groove inside controlled chaos.",
+          "listenerEvidence": "No direct listener evidence for this track.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A deliberate re-escalation can follow a funk re-grounding, but close tempo and source language do not prove that now is the right moment."
+          "craftConvention": "After a deliberate re-escalation, a groove-led consolidation can deepen the run without forcing another novelty move."
+        }
+      }
+    },
+    {
+      "id": "3mcemKXocgbBW25e360O3m",
+      "uri": "spotify:track:3mcemKXocgbBW25e360O3m",
+      "name": "Arabic Night",
+      "artists": [
+        "Inspired Groove"
+      ],
+      "album": "Follow the Signal",
+      "releaseDate": "2026-08-21",
+      "durationMs": 386762,
+      "spotifyUrl": "https://open.spotify.com/track/3mcemKXocgbBW25e360O3m",
+      "bpm": 139,
+      "tempoSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
+      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after CHANCEKNOT — Fragments as Track 9"
+        }
+      ],
+      "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+      "evidence": {
+        "measured": [
+          "139 BPM",
+          "6:26 duration",
+          "released 2026-08-21"
+        ],
+        "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
+      },
+      "requestedIdentity": {
+        "artist": "Inspired Groove",
+        "track": "Arabic Night",
+        "releaseDate": "2026-08-21",
+        "bpm": 139,
+        "bpmSource": "Beatport Message 431 exact listing reports Arabic Night at 139 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe darker nocturnal atmosphere combining driving percussion with hypnotic melodic details",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after CHANCEKNOT — Fragments as Track 9"
+          }
+        ],
+        "fitHypothesis": "A darker nocturnal turn could preserve drive after Fragments while changing atmosphere, but exact energy and local-run effect remain unknown.",
+        "evidence": {
+          "measured": [
+            "139 BPM",
+            "6:26 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Message 431 describes darker nocturnal atmosphere, driving percussion and hypnotic melodic details.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Atmospheric darkening can be deliberate if the physical thread remains intact; BPM does not prove it."
+        }
+      }
+    },
+    {
+      "id": "3CUQiFlwuZCmrsSAMZzw3B",
+      "uri": "spotify:track:3CUQiFlwuZCmrsSAMZzw3B",
+      "name": "Impact Distance",
+      "artists": [
+        "Inspired Groove"
+      ],
+      "album": "Follow the Signal",
+      "releaseDate": "2026-08-21",
+      "durationMs": 389565,
+      "spotifyUrl": "https://open.spotify.com/track/3CUQiFlwuZCmrsSAMZzw3B",
+      "bpm": 138,
+      "tempoSource": "Beatport exact Impact Distance listing reports 138 BPM",
+      "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after CHANCEKNOT — Fragments as Track 9"
+        }
+      ],
+      "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
+      "evidence": {
+        "measured": [
+          "138 BPM",
+          "6:29 duration",
+          "released 2026-08-21"
+        ],
+        "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
+      },
+      "requestedIdentity": {
+        "artist": "Inspired Groove",
+        "track": "Impact Distance",
+        "releaseDate": "2026-08-21",
+        "bpm": 138,
+        "bpmSource": "Beatport exact Impact Distance listing reports 138 BPM",
+        "discoverySource": "Message 431 official Follow The Signal release; track-specific notes describe the EP's most physical point through heavy low-end, repetitive movement and tightly controlled rhythmic pressure",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after CHANCEKNOT — Fragments as Track 9"
+          }
+        ],
+        "fitHypothesis": "Impact Distance is strong volume material but risks extending peak physical pressure too literally immediately after Fragments rather than shaping a larger journey.",
+        "evidence": {
+          "measured": [
+            "138 BPM",
+            "6:29 duration",
+            "released 2026-08-21"
+          ],
+          "attributedDescription": "Message 431 describes heavy low-end, repetitive movement and tightly controlled rhythmic pressure at the EP's most physical point.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Maximum physical pressure is useful only when the long-form arc benefits; intensity itself is not admission evidence."
         }
       }
     }
