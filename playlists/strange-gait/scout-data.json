@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "8b240373fdbb130454603d986bdc04db5d5bbd1568262e0641568e8ae3a3cfdd",
-  "generatedAt": "2026-09-05T23:42:17.237Z",
-  "runId": "2026-09-05T23:44:30Z-explore-vibe-2",
-  "sourceCommit": "0289c5e404928a36355d8a7678838fb7262c247f",
+  "requestFingerprint": "d1e53a2632299da11cf9332f6bde3aa464d6615ed9899e8693c1f6fde2fca38f",
+  "generatedAt": "2026-09-06T06:56:35.056Z",
+  "runId": "2026-09-06T06:52:56Z-explore-6",
+  "sourceCommit": "6abfcbd67d60f3183fdceaafcc7683ece26a339f",
   "mode": "EXPLORE",
   "target": {
     "role": "vibe-first STRANGE GAIT Track 2 continuation",
@@ -11,137 +11,110 @@
     "neighbours": [
       "spotify:track:4YhLd9gtkp0vLWu4RNJ716"
     ],
-    "purpose": "find a restrained same-room Ground continuation"
+    "purpose": "test a restrained continuous Ground continuation while harvesting broader long-form set discoveries"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-05T23:44:30Z",
+    "timestampUtc": "2026-09-06T06:52:56Z",
     "sourceWindows": [
-      "Fresh September 2026 Bandcamp search for restrained pressure, rolling low end and calibrated rhythmic tension",
-      "Fresh current and overlooked opening-set / intro-techno catalogue scan",
-      "Fresh adjacent Endemit, TECHNO Records, Figure, Message 431 and Neurovision material",
-      "TECH040 official opening-set concept: https://technorecords.bandcamp.com/album/tech040",
-      "Exact tempo metadata: https://www.traxsource.com/track/14673505/ostinato-2-0"
+      "Fresh September 1-6, 2026 Bandcamp and label pages for current raw/deep/hypnotic, leftfield and dancefloor techno releases",
+      "Fresh adjacent/emerging-label scan across Endemit, early reflex, Message 431, Dosis Records and Newrhythmic material",
+      "Fresh overlooked-catalogue/remaster scan including Blueprint's James Ruskin — Further Design (2026 Remaster) and Numbers' Hallucinator — Landlocked reissue",
+      "Official Blueprint/Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
+      "Exact tempo metadata for James Ruskin — Unknown Destination (Remaster): https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
+      "Official Endemit Tessera Rubin evidence: https://endemit.org/en/store/albums/tessera-rubin-vinyl-ep",
+      "Official early reflex Zahyo evidence: https://earlyreflex.bandcamp.com/album/zahyo",
+      "Official Djrum I Wander evidence: https://djrum.bandcamp.com/album/i-wander",
+      "Official Oráculo/ESTADO DE BIENESTAR evidence: https://oraculorecords.bandcamp.com/album/cap-tulo-iv-la-fiesta-seria-y-nuevas-formas-de-tecnaco"
     ],
-    "approximateInspectedScope": "approximately 45 named tracks/releases across about 14 current, adjacent and overlooked catalogue/search pages",
+    "approximateInspectedScope": "approximately 35 named tracks/releases across about 12 current, adjacent/emerging and overlooked-catalogue pages",
     "exclusions": [
-      "material explicitly framed as peak-time, industrial or high-intensity",
-      "broken-bass or post-punk material outside the current Ground room",
-      "tracks without a reliable opening-compatible tempo relation",
-      "candidates whose only evidence was title, artist reputation or genre tag",
-      "parked/rejected current-opening material without a valid trigger"
+      "overt peak-time/industrial material whose source framing emphasized force over continuity",
+      "pre-release tracks without a currently resolvable exact identity",
+      "tracks with interesting descriptions but no reliable tempo evidence for the strict current Track 2 gate",
+      "previously parked/rejected Track 2 candidates without a valid trigger",
+      "broad inspiration findings retained for discovery-pool consideration rather than forced into the canonical candidate funnel"
     ],
     "rankedLeadSummary": [
-      "1. Steve Rachmad — Ostinato 2.0: 138 BPM contribution to an explicitly restrained opening-set compilation built around atmosphere and control; track-specific energy evidence remains limited"
+      "1. James Ruskin — Unknown Destination (Remaster): released 2026-09-04, exact 136 BPM metadata, with Blueprint describing liquid synth work looping around hypnotic rhythms; a strong paper-level continuity hypothesis but felt energy remains unmeasured"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 1,
-  "resolvedCount": 1,
-  "candidateCount": 1,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [],
-  "outcomes": [
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
+  "unresolved": [
     {
-      "status": "RESOLVED",
+      "artist": "James Ruskin",
+      "track": "Unknown Destination (Remaster)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Steve Rachmad",
-        "track": "Ostinato 2.0",
-        "album": "TECH040 - INTRO: Designated by Nastia",
-        "releaseDate": "2026-05-28",
-        "bpm": 138,
-        "bpmSource": "Traxsource exact-track metadata reports 138 BPM and 5:10: https://www.traxsource.com/track/14673505/ostinato-2-0",
-        "discoverySource": "Fresh official TECHNO Records release context: https://technorecords.bandcamp.com/album/tech040",
+        "artist": "James Ruskin",
+        "track": "Unknown Destination (Remaster)",
+        "album": "Further Design (2026 Remaster)",
+        "releaseDate": "2026-09-04",
+        "bpm": 136,
+        "bpmSource": "Music Worx exact release metadata reports Unknown Destination Remaster at 136 BPM and 4:39: https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
+        "discoverySource": "Fresh official Blueprint/James Ruskin Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-            "candidateBpm": 138,
-            "role": "Ground continuation — restrained opening-set hypothesis"
+            "candidateBpm": 136,
+            "role": "Ground continuation — linear hypnotic pressure hypothesis"
           }
         ],
-        "fitHypothesis": "The 136→138 relation is calm and the release was explicitly curated around restrained opening energy, atmosphere and control, but the available evidence is compilation-level rather than track-specific and cannot prove same-room energy with Marauder.",
+        "fitHypothesis": "The exact 136→136 tempo relation and Blueprint's track-specific description of liquid synth work looping around hypnotic rhythms make this a credible continuation candidate on paper, but perceived energy and pressure continuity with Marauder remain unmeasured.",
         "evidence": {
           "measured": [
-            "138 BPM from exact Traxsource metadata",
-            "5:10 duration from exact Traxsource metadata",
-            "released 2026-05-28"
+            "136 BPM from Music Worx exact release metadata",
+            "4:39 duration from Music Worx exact release metadata",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "TECHNO Records describes the INTRO compilation as focused on beginnings/endings and the subtle tension between anticipation and resolution, with tracks selected from deep hypnotism to restrained energy and stripped of excess. This is release-level attributed evidence, not a direct description of Ostinato 2.0 and not raw-audio analysis.",
-          "listenerEvidence": "The prior opening failed because the listener perceived an energy shift at each track; release-level curation language alone cannot override that evidence.",
+          "attributedDescription": "Blueprint/James Ruskin describes Further Design as stripped-back, bold and linear techno; Unknown Destination specifically is described through liquid synth work looping around hypnotic rhythms. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": "The listener rejected the prior opening because each track changed energy and the sequence lacked DJ-like flow; this candidate therefore cannot be admitted from BPM and source language alone.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Opening-set programming and a two-BPM step make the placement plausible enough to resolve, but not enough to establish vibe continuity."
-        }
-      },
-      "spotifyTrackId": "4vLdXJEHEdsTg9pm6S2VAh",
-      "selected": true
-    }
-  ],
-  "candidates": [
-    {
-      "id": "4vLdXJEHEdsTg9pm6S2VAh",
-      "uri": "spotify:track:4vLdXJEHEdsTg9pm6S2VAh",
-      "name": "Ostinato 2.0",
-      "artists": [
-        "Steve Rachmad"
-      ],
-      "album": "TECH040 - INTRO: Designated by Nastia",
-      "releaseDate": "2026-05-28",
-      "durationMs": 310420,
-      "spotifyUrl": "https://open.spotify.com/track/4vLdXJEHEdsTg9pm6S2VAh",
-      "bpm": 138,
-      "tempoSource": "Traxsource exact-track metadata reports 138 BPM and 5:10: https://www.traxsource.com/track/14673505/ostinato-2-0",
-      "discoverySource": "Fresh official TECHNO Records release context: https://technorecords.bandcamp.com/album/tech040",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-          "candidateBpm": 138,
-          "role": "Ground continuation — restrained opening-set hypothesis"
-        }
-      ],
-      "fitHypothesis": "The 136→138 relation is calm and the release was explicitly curated around restrained opening energy, atmosphere and control, but the available evidence is compilation-level rather than track-specific and cannot prove same-room energy with Marauder.",
-      "evidence": {
-        "measured": [
-          "138 BPM from exact Traxsource metadata",
-          "5:10 duration from exact Traxsource metadata",
-          "released 2026-05-28"
-        ],
-        "attributedDescription": "TECHNO Records describes the INTRO compilation as focused on beginnings/endings and the subtle tension between anticipation and resolution, with tracks selected from deep hypnotism to restrained energy and stripped of excess. This is release-level attributed evidence, not a direct description of Ostinato 2.0 and not raw-audio analysis.",
-        "listenerEvidence": "The prior opening failed because the listener perceived an energy shift at each track; release-level curation language alone cannot override that evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Opening-set programming and a two-BPM step make the placement plausible enough to resolve, but not enough to establish vibe continuity."
-      },
-      "requestedIdentity": {
-        "artist": "Steve Rachmad",
-        "track": "Ostinato 2.0",
-        "album": "TECH040 - INTRO: Designated by Nastia",
-        "releaseDate": "2026-05-28",
-        "bpm": 138,
-        "bpmSource": "Traxsource exact-track metadata reports 138 BPM and 5:10: https://www.traxsource.com/track/14673505/ostinato-2-0",
-        "discoverySource": "Fresh official TECHNO Records release context: https://technorecords.bandcamp.com/album/tech040",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-            "candidateBpm": 138,
-            "role": "Ground continuation — restrained opening-set hypothesis"
-          }
-        ],
-        "fitHypothesis": "The 136→138 relation is calm and the release was explicitly curated around restrained opening energy, atmosphere and control, but the available evidence is compilation-level rather than track-specific and cannot prove same-room energy with Marauder.",
-        "evidence": {
-          "measured": [
-            "138 BPM from exact Traxsource metadata",
-            "5:10 duration from exact Traxsource metadata",
-            "released 2026-05-28"
-          ],
-          "attributedDescription": "TECHNO Records describes the INTRO compilation as focused on beginnings/endings and the subtle tension between anticipation and resolution, with tracks selected from deep hypnotism to restrained energy and stripped of excess. This is release-level attributed evidence, not a direct description of Ostinato 2.0 and not raw-audio analysis.",
-          "listenerEvidence": "The prior opening failed because the listener perceived an energy shift at each track; release-level curation language alone cannot override that evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Opening-set programming and a two-BPM step make the placement plausible enough to resolve, but not enough to establish vibe continuity."
+          "craftConvention": "A same-tempo handoff and restrained linear source framing make Track 2 plausible enough to resolve, but they do not prove a shared felt-energy envelope."
         }
       }
     }
   ],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "James Ruskin",
+        "track": "Unknown Destination (Remaster)",
+        "album": "Further Design (2026 Remaster)",
+        "releaseDate": "2026-09-04",
+        "bpm": 136,
+        "bpmSource": "Music Worx exact release metadata reports Unknown Destination Remaster at 136 BPM and 4:39: https://pro.music-worx.com/release/further-design-james-ruskin-blueprint-records",
+        "discoverySource": "Fresh official Blueprint/James Ruskin Bandcamp release evidence: https://jamesruskin.bandcamp.com/album/further-design-2026-remaster",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
+            "candidateBpm": 136,
+            "role": "Ground continuation — linear hypnotic pressure hypothesis"
+          }
+        ],
+        "fitHypothesis": "The exact 136→136 tempo relation and Blueprint's track-specific description of liquid synth work looping around hypnotic rhythms make this a credible continuation candidate on paper, but perceived energy and pressure continuity with Marauder remain unmeasured.",
+        "evidence": {
+          "measured": [
+            "136 BPM from Music Worx exact release metadata",
+            "4:39 duration from Music Worx exact release metadata",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Blueprint/James Ruskin describes Further Design as stripped-back, bold and linear techno; Unknown Destination specifically is described through liquid synth work looping around hypnotic rhythms. This is attributed source evidence, not direct listening or raw-audio analysis.",
+          "listenerEvidence": "The listener rejected the prior opening because each track changed energy and the sequence lacked DJ-like flow; this candidate therefore cannot be admitted from BPM and source language alone.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A same-tempo handoff and restrained linear source framing make Track 2 plausible enough to resolve, but they do not prove a shared felt-energy envelope."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    }
+  ],
+  "candidates": [],
   "resolvedAlternates": []
 }
