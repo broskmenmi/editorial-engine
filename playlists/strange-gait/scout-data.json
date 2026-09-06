@@ -1,204 +1,359 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "315c45606eb54dbf3ad35e6fa49fb81ba6e384d77f4079a14cfdba13dc09c9bc",
-  "generatedAt": "2026-09-06T19:52:32.283Z",
-  "runId": "2026-09-06T19:55:00Z-explore-38",
-  "sourceCommit": "7a10adfa4a38ee1baf1ec5d6b1a7b69ecc7c038a",
+  "requestFingerprint": "16e4723cf2db5425fcb1ae0c560487a8bdb90e7b3c5cf09da3e936e9cc8378e3",
+  "generatedAt": "2026-09-06T19:53:47.308Z",
+  "runId": "2026-09-06T19:57:00Z-explore-39",
+  "sourceCommit": "36da90119bd086ebd5ff99bb9fe82b095bcc7305",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via KODE REK",
+    "role": "fresh STRANGE GAIT Track 13 discovery via Unterwegs",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test layered percussion, Latin-influenced groove and emotional tension/release as a new post-block direction"
+    "purpose": "test current deep/Detroit techno identities without pretending title or label metadata proves flow"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:55:00Z",
+    "timestampUtc": "2026-09-06T19:57:00Z",
     "sourceWindows": [
-      "ANANDA — Cavalo de fogo, official KODE REK/Bandcamp release 2026-08-28"
+      "Anika Kunst — The Power of Presence, Unterwegs Records, released 2026-09-04"
     ],
-    "approximateInspectedScope": "full current four-track digital EP plus adjacent KODE material; three leads retained",
+    "approximateInspectedScope": "complete four-track current EP plus adjacent Unterwegs catalogue",
     "exclusions": [
-      "release-level language was not assigned to exact tracks beyond what the source states",
+      "titles such as Inner Peace/Mental Chaos were not converted into mood claims",
       "no BPM invented",
-      "protected trio remained intact"
+      "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. ANANDA — Cavalo de fogo",
-      "2. ANANDA — Baile deep",
-      "3. ANANDA — Todo és agua"
+      "1. Anika Kunst — Robe",
+      "2. Anika Kunst — Inner Peace",
+      "3. Anika Kunst — Mental Chaos",
+      "4. Anika Kunst — The Witness"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
-    {
-      "artist": "ANANDA",
-      "track": "Cavalo de fogo",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Cavalo de fogo",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; EP is driven by layered percussion, hypnotic grooves and Latin-influenced rhythms, balancing physical intensity with storytelling",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could open a more percussive/Latin-inflected direction after Stardancer, but evidence is release-level and exact handoff remains unknown.",
-        "evidence": {
-          "measured": [
-            "5:20 duration",
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Official release-level description: layered percussion, hypnotic grooves, Latin-influenced rhythms, tension/introspection/release.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "ANANDA",
-      "track": "Baile deep",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Baile deep",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; same current EP with layered percussion and hypnotic Latin-influenced rhythmic framing",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Potential bodily deepening through percussion, but track-specific behavior is not documented.",
-        "evidence": {
-          "measured": [
-            "4:03 duration",
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Release-level layered-percussion/hypnotic-groove framing only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "ANANDA",
-      "track": "Todo és agua",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Todo és agua",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; same current EP with physical rhythmic intensity and emotional storytelling framing",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Potential change of cultural/rhythmic texture while staying body-led; exact placement remains underdescribed.",
-        "evidence": {
-          "measured": [
-            "4:54 duration",
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Release-level physical/introspective/hypnotic framing only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    }
-  ],
+  "requestedCount": 4,
+  "resolvedCount": 4,
+  "candidateCount": 3,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Cavalo de fogo",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; EP is driven by layered percussion, hypnotic grooves and Latin-influenced rhythms, balancing physical intensity with storytelling",
+        "artist": "Anika Kunst",
+        "track": "Robe",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Could open a more percussive/Latin-inflected direction after Stardancer, but evidence is release-level and exact handoff remains unknown.",
+        "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
         "evidence": {
           "measured": [
-            "5:20 duration",
-            "released 2026-08-28"
+            "5:09 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Official release-level description: layered percussion, hypnotic grooves, Latin-influenced rhythms, tension/introspection/release.",
+          "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "0tmvZwRLwzLSvXeJkGJi1C",
+      "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Baile deep",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; same current EP with layered percussion and hypnotic Latin-influenced rhythmic framing",
+        "artist": "Anika Kunst",
+        "track": "Inner Peace",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Potential bodily deepening through percussion, but track-specific behavior is not documented.",
+        "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
         "evidence": {
           "measured": [
-            "4:03 duration",
-            "released 2026-08-28"
+            "5:50 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Release-level layered-percussion/hypnotic-groove framing only.",
+          "attributedDescription": "Official tags only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "3zATr3fJDURUSJoslD1pGK",
+      "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "ANANDA",
-        "track": "Todo és agua",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "ANANDA official Bandcamp/KODE REK release; same current EP with physical rhythmic intensity and emotional storytelling framing",
+        "artist": "Anika Kunst",
+        "track": "Mental Chaos",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Potential change of cultural/rhythmic texture while staying body-led; exact placement remains underdescribed.",
+        "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
         "evidence": {
           "measured": [
-            "4:54 duration",
-            "released 2026-08-28"
+            "5:27 duration",
+            "released 2026-09-04"
           ],
-          "attributedDescription": "Release-level physical/introspective/hypnotic framing only.",
+          "attributedDescription": "Official tags only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "3BvT71O3hBS64Y5FbQ3bKr",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Anika Kunst",
+        "track": "The Witness",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
+        "evidence": {
+          "measured": [
+            "5:42 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Official tags only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "0G4Pb3m28s49au12Qz6qwH",
+      "selected": false
     }
   ],
-  "candidates": [],
-  "resolvedAlternates": []
+  "candidates": [
+    {
+      "id": "0tmvZwRLwzLSvXeJkGJi1C",
+      "uri": "spotify:track:0tmvZwRLwzLSvXeJkGJi1C",
+      "name": "Robe",
+      "artists": [
+        "Anika Kunst"
+      ],
+      "album": "The Power of Presence",
+      "releaseDate": "2026-09-04",
+      "durationMs": 309267,
+      "spotifyUrl": "https://open.spotify.com/track/0tmvZwRLwzLSvXeJkGJi1C",
+      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
+      "evidence": {
+        "measured": [
+          "5:09 duration",
+          "released 2026-09-04"
+        ],
+        "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Anika Kunst",
+        "track": "Robe",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible deep-techno continuation, but exact track behavior is not described.",
+        "evidence": {
+          "measured": [
+            "5:09 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Official release/track tags only: deep techno, Detroit techno, techno.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "3zATr3fJDURUSJoslD1pGK",
+      "uri": "spotify:track:3zATr3fJDURUSJoslD1pGK",
+      "name": "Inner Peace",
+      "artists": [
+        "Anika Kunst"
+      ],
+      "album": "The Power of Presence",
+      "releaseDate": "2026-09-04",
+      "durationMs": 350442,
+      "spotifyUrl": "https://open.spotify.com/track/3zATr3fJDURUSJoslD1pGK",
+      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
+      "evidence": {
+        "measured": [
+          "5:50 duration",
+          "released 2026-09-04"
+        ],
+        "attributedDescription": "Official tags only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Anika Kunst",
+        "track": "Inner Peace",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Volume belonging plausible; title does not prove calmness or release function.",
+        "evidence": {
+          "measured": [
+            "5:50 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Official tags only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "id": "3BvT71O3hBS64Y5FbQ3bKr",
+      "uri": "spotify:track:3BvT71O3hBS64Y5FbQ3bKr",
+      "name": "Mental Chaos",
+      "artists": [
+        "Anika Kunst"
+      ],
+      "album": "The Power of Presence",
+      "releaseDate": "2026-09-04",
+      "durationMs": 327890,
+      "spotifyUrl": "https://open.spotify.com/track/3BvT71O3hBS64Y5FbQ3bKr",
+      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
+      "evidence": {
+        "measured": [
+          "5:27 duration",
+          "released 2026-09-04"
+        ],
+        "attributedDescription": "Official tags only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Anika Kunst",
+        "track": "Mental Chaos",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Volume belonging plausible; title does not prove fracture/chaos function.",
+        "evidence": {
+          "measured": [
+            "5:27 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Official tags only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
+  "resolvedAlternates": [
+    {
+      "id": "0G4Pb3m28s49au12Qz6qwH",
+      "uri": "spotify:track:0G4Pb3m28s49au12Qz6qwH",
+      "name": "The Witness",
+      "artists": [
+        "Anika Kunst"
+      ],
+      "album": "The Power of Presence",
+      "releaseDate": "2026-09-04",
+      "durationMs": 342578,
+      "spotifyUrl": "https://open.spotify.com/track/0G4Pb3m28s49au12Qz6qwH",
+      "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
+      "evidence": {
+        "measured": [
+          "5:42 duration",
+          "released 2026-09-04"
+        ],
+        "attributedDescription": "Official tags only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Anika Kunst",
+        "track": "The Witness",
+        "releaseDate": "2026-09-04",
+        "discoverySource": "Unterwegs Records official Bandcamp; exact track on The Power of Presence EP, tagged deep techno / Detroit techno / techno",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible catalogue fit but exact journey role is underdescribed.",
+        "evidence": {
+          "measured": [
+            "5:42 duration",
+            "released 2026-09-04"
+          ],
+          "attributedDescription": "Official tags only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ]
 }
