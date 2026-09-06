@@ -4,7 +4,9 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
-| Inspired Groove | Arabic Night | spotify:track:3mcemKXocgbBW25e360O3m | Strong nocturnal/driving/hypnotic track evidence; less distinct Track-9 purpose than Truth in Noise. | PARKED |
+| Uväll | Vault | spotify:track:7cfNIcrf7ftw7w9mwvopn2 | Reliable 140 BPM; Arcane EP evidence is release-level rather than exact-track placement evidence. | PARKED |
+| Uväll | Arcane | spotify:track:1fCjHCLuIU7uefSg8Uh4Pc | Release-level evidence only; external tempo conflict preserved (Volumo 136 vs Beatport 68). | PARKED |
+| Inspired Groove | Arabic Night | spotify:track:3mcemKXocgbBW25e360O3m | Strong nocturnal/driving/hypnotic evidence; less distinct Track-9 purpose than Truth in Noise. | PARKED |
 | Inspired Groove | Impact Distance | spotify:track:3CUQiFlwuZCmrsSAMZzw3B | Strong physical-pressure evidence; risks stacking maximum pressure immediately after Fragments. | PARKED |
 | Dino Sabatini | Subsurface Light | spotify:track:4wltdS59dJoR1mzj6SS2tz | Strong ritual/deep-pressure evidence; 100 BPM vs current high-130s and no documented metrical relation. | PARKED |
 | Lost Few | Broken Dawn | spotify:track:6lKumoF3IkXSEQZyhtK7tk | Strong slow-emergence evidence; 110 BPM reset unsupported. | PARKED |

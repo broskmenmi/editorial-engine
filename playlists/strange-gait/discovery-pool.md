@@ -4,6 +4,10 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| RESEARCH LEAD | Viels / Monday Off | Luci | https://mondayoff.bandcamp.com/album/luci | Vinyl-only Sep 4; pummelling groove / smoky texture / dub-chord evidence; unresolved Spotify SE |
+| RESEARCH LEAD | Viels / Monday Off | Silenzio Nascosto | https://mondayoff.bandcamp.com/album/luci | Vinyl-only Sep 4; steady-kick futuristic-sequence evidence; unresolved Spotify SE |
+| EXACT TRACK | Uväll | Vault | https://open.spotify.com/track/7cfNIcrf7ftw7w9mwvopn2 | PARKED Run 29; 140 BPM |
+| EXACT TRACK | Uväll | Arcane | https://open.spotify.com/track/1fCjHCLuIU7uefSg8Uh4Pc | PARKED Run 29; tempo conflict 136/68 |
 | EXACT TRACK | Inspired Groove | Truth in Noise | https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY | ADD Track 9; 138 BPM |
 | EXACT TRACK | Inspired Groove | Arabic Night | https://open.spotify.com/track/3mcemKXocgbBW25e360O3m | PARKED Run 28; 139 BPM |
 | EXACT TRACK | Inspired Groove | Impact Distance | https://open.spotify.com/track/3CUQiFlwuZCmrsSAMZzw3B | PARKED Run 28; 138 BPM |
