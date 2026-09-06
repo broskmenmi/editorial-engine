@@ -1,10 +1,10 @@
-# ChatGPT Sites Build Prompt — GROOVE OVER NOISE Journey Map
+# Unified Journey Site Subsection Brief — GROOVE OVER NOISE
 
-This is the maintenance/rebuild brief for the published read-only Site at `https://groove-over-noise-map.broskmenmi.chatgpt.site`.
+GROOVE OVER NOISE is a read-only subsection of the single published editorial journey site:
 
----
+`https://broskmenmi.github.io/editorial-engine/`
 
-Build a responsive interactive website called **GROOVE OVER NOISE — Journey Map**.
+Do not create or maintain a separate playlist-specific website or hostname.
 
 ## Source of truth
 
@@ -13,25 +13,32 @@ Read these public GitHub files from repository `broskmenmi/editorial-engine`:
 - `playlists/groove-over-noise/journey-map.json`
 - `playlists/groove-over-noise/journey-map-spec.md`
 
-The generated `journey-map.json` is the only runtime data source for the Site. Do not invent tracks, roles, chapters, durations, evidence, listener feedback, or Spotify links. Do not modify GitHub or Spotify.
+The generated `journey-map.json` is the runtime data source for this subsection. Do not invent tracks, roles, chapters, durations, evidence, listener feedback, or Spotify links. Do not modify GitHub or Spotify.
 
 ## Purpose
 
-Visualize a long-form techno playlist as two distinct layers:
+Visualize the playlist as two distinct layers:
 
 1. **Editorial story landscape** — arrival, builds, local crests, releases, re-entry, main summit, decompression, and dissolution.
 2. **Measured BPM trajectory** — shown separately and clearly labeled as metadata.
 
 Never present story height as measured audio energy, mood, loudness, waveform analysis, or scientific fact.
 
+## Shared-site behaviour
+
+- The site has one global shell and one canonical URL.
+- GROOVE OVER NOISE appears as its own clearly named subsection alongside other playlists.
+- Playlist navigation must not navigate to a separately hosted site.
+- Deep links may use ordinary in-page anchors, but the canonical site remains the root URL.
+- Each playlist subsection fetches and renders its own `journey-map.json` independently.
+- Failure to load one playlist must not suppress other playlist subsections.
+
 ## Visual direction
 
-Match the GROOVE OVER NOISE cover identity:
+Within the shared shell, preserve GROOVE OVER NOISE's identity:
 
-- square-cover visual language expanded into a landscape;
 - black and charcoal background;
-- graphite and subtle concrete texture;
-- layered topographic contour lines;
+- graphite / subtle concrete feel;
 - steel-grey typography;
 - restrained deep-blue protected elements;
 - amber only for frozen listener-discussion regions;
@@ -40,108 +47,66 @@ Match the GROOVE OVER NOISE cover identity:
 - no cyberpunk neon;
 - no generic business-dashboard styling.
 
-## Main screen
+The global site should remain visually coherent with STRANGE GAIT rather than feeling like two unrelated microsites pasted together.
 
-Create a full-width time-scaled journey map.
+## Subsection contents
 
 Show:
 
+- playlist title and short description;
+- track count, mapped duration, BPM range and update timestamp;
+- time-scaled journey map;
+- independently toggleable editorial story and BPM layers;
 - chapter bands;
-- smooth editorial story curve;
-- separately toggleable BPM curve;
-- track markers positioned by actual elapsed time;
-- protected, accepted, provisional, and frozen states;
-- opener, local crests, main summit, closer, and latest additions;
-- total duration, track count, and BPM range;
-- a persistent note: **Story height is editorial, not measured audio energy.**
+- protected, accepted, provisional and frozen states;
+- ordered canonical track list;
+- track details on interaction;
+- a persistent evidence-boundary note.
 
 ## Phone-first interaction
 
-The primary user uses a Samsung Galaxy phone.
+- mobile-first layout;
+- horizontal pan for the map rather than forcing the entire journey into phone width;
+- tap targets of at least 44 px;
+- no hover-only information;
+- thumb-friendly layer controls;
+- collapsible track list to avoid an unnecessarily huge default page;
+- sticky or easily reachable playlist navigation.
 
-- support horizontal pan and pinch zoom;
-- use a sticky mini-map or overview rail;
-- use tap targets of at least 44 px;
-- open track details in a bottom sheet;
-- never rely on hover;
-- keep chapter and curve toggles thumb-friendly;
-- maintain excellent performance with 100+ tracks.
+## Track detail
 
-## Track detail sheet
-
-On track tap, show only data present in JSON:
+On track interaction show only data present in JSON:
 
 - position;
 - track and artist;
 - Spotify link;
 - BPM;
 - duration;
-- elapsed start and end time;
 - structural role;
 - chapter;
-- story band;
-- accepted/provisional/protected/frozen state;
+- story band/state;
 - labels;
-- transition BPM deltas to neighbours;
-- relevant discussion status when present.
-
-## Chapter view
-
-Allow chapter selection and zoom.
-
-Show:
-
-- chapter label and duration;
-- ordered tracks;
-- crest, release, re-entry, summit, or dissolution points;
-- protected and frozen elements;
-- a button to return to the full journey.
-
-## Discussion regions
-
-Render `discussions` as restrained amber overlays.
-
-Show:
-
-- status;
-- label;
-- frozen canonical tracks;
-- external candidates;
-- no edit or approval controls.
-
-The Site visualizes the discussion state; the conversation and GitHub workflow govern decisions.
+- transition BPM deltas;
+- protected/frozen status where present.
 
 ## Accessibility
 
 - WCAG AA contrast;
-- keyboard navigation on desktop;
-- reduced-motion mode;
-- text alternatives for the map;
-- screen-reader track list in canonical order;
-- do not communicate state by color alone.
+- keyboard-operable interactive chart points;
+- reduced reliance on color alone for state;
+- clear text track list in canonical order;
+- no essential hover interactions.
 
 ## Technical behaviour
 
-- fetch the GitHub JSON on load;
-- show a clear stale-data or load-error state;
-- cache carefully but support refresh;
+- fetch GitHub JSON on load;
+- preserve canonical order exactly;
+- show a clear load-error state per subsection;
 - never expose credentials;
-- do not require a backend;
-- do not use Spotify embeds for the full map;
-- use the exact Spotify links already present in JSON;
-- preserve canonical order exactly.
-
-## Pages
-
-Create:
-
-1. **Journey** — the full interactive map.
-2. **Tracks** — searchable canonical track list with filters for chapter and state.
-3. **Doctrine** — a short plain-English explanation of measured evidence versus editorial interpretation, sourced from the JSON and map specification.
-4. **About the map** — legend, evidence boundaries, and update timestamp.
+- require no backend;
+- use exact Spotify links already present in JSON;
+- remain read-only.
 
 ## Final result
 
-The Site should feel like an interactive extension of the GROOVE OVER NOISE cover: elegant enough to explore for pleasure, precise enough to understand the playlist architecture, and honest about which parts are measured and which parts are editorial interpretation.
-
----
+The site should feel like one editorial system containing multiple distinct playlist journeys. GROOVE OVER NOISE keeps its own story and visual accent, but not its own website.
