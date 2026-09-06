@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T11:39:45.494Z",
+  "generatedAt": "2026-09-06T12:40:50.921Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "f680118d1c39dda44d43d86f0626e82617ba9211f990bddeb974195db4b2e826",
-    "annotationsFingerprint": "a8f279e1aea157b3a4c92bc78709260d42488d818b6d6465cc3c5bc216facc75"
+    "ledgerFingerprint": "5cf7fa9b62d66eedfe8f5d0dc17bfc8c85965a0a216a6e4232007ae900c9e0a4",
+    "annotationsFingerprint": "b963f8d051b5473afe13ff60fc645fee6c5efde7b69a1caa0ae5b5afb82ecb5b"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,9 +18,9 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 7,
-    "durationMs": 2520000,
-    "durationLabel": "42m",
+    "trackCount": 8,
+    "durationMs": 2880000,
+    "durationLabel": "48m",
     "bpmMin": 134,
     "bpmMax": 140,
     "latestAddedDate": "2026-09-06"
@@ -40,9 +40,9 @@
       "label": "Tilt",
       "order": 2,
       "startPosition": 6,
-      "endPosition": 7,
+      "endPosition": 8,
       "startMs": 1800000,
-      "endMs": 2520000
+      "endMs": 2880000
     }
   ],
   "tracks": [
@@ -70,8 +70,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.14285714285714285,
-      "progressMidpoint": 0.07142857142857142
+      "progressEnd": 0.125,
+      "progressMidpoint": 0.0625
     },
     {
       "position": 2,
@@ -96,9 +96,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.14285714285714285,
-      "progressEnd": 0.2857142857142857,
-      "progressMidpoint": 0.21428571428571427
+      "progressStart": 0.125,
+      "progressEnd": 0.25,
+      "progressMidpoint": 0.1875
     },
     {
       "position": 3,
@@ -123,9 +123,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.2857142857142857,
-      "progressEnd": 0.42857142857142855,
-      "progressMidpoint": 0.35714285714285715
+      "progressStart": 0.25,
+      "progressEnd": 0.375,
+      "progressMidpoint": 0.3125
     },
     {
       "position": 4,
@@ -151,9 +151,9 @@
       "midpointMs": 1260000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.42857142857142855,
-      "progressEnd": 0.5714285714285714,
-      "progressMidpoint": 0.5
+      "progressStart": 0.375,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.4375
     },
     {
       "position": 5,
@@ -179,9 +179,9 @@
       "midpointMs": 1620000,
       "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
       "protected": false,
-      "progressStart": 0.5714285714285714,
-      "progressEnd": 0.7142857142857143,
-      "progressMidpoint": 0.6428571428571429
+      "progressStart": 0.5,
+      "progressEnd": 0.625,
+      "progressMidpoint": 0.5625
     },
     {
       "position": 6,
@@ -207,9 +207,9 @@
       "midpointMs": 1980000,
       "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
       "protected": false,
-      "progressStart": 0.7142857142857143,
-      "progressEnd": 0.8571428571428571,
-      "progressMidpoint": 0.7857142857142857
+      "progressStart": 0.625,
+      "progressEnd": 0.75,
+      "progressMidpoint": 0.6875
     },
     {
       "position": 7,
@@ -226,8 +226,7 @@
       "status": "provisional",
       "labels": [
         "track-7",
-        "funk-re-grounding",
-        "explore-run-19-add"
+        "funk-re-grounding"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -236,9 +235,38 @@
       "midpointMs": 2340000,
       "spotifyUrl": "https://open.spotify.com/track/79yeMWxkbiNZ4su5UuhS6z",
       "protected": false,
-      "progressStart": 0.8571428571428571,
+      "progressStart": 0.75,
+      "progressEnd": 0.875,
+      "progressMidpoint": 0.8125
+    },
+    {
+      "position": 8,
+      "artist": "CHANCEKNOT",
+      "track": "Fragments",
+      "uri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+      "bpm": 140,
+      "role": "Tilt — provisional driving re-escalation",
+      "added": "2026-09-06",
+      "chapter": "tilt",
+      "chapterOrder": 2,
+      "storyBand": "tilt",
+      "storyLevel": 2.7,
+      "status": "provisional",
+      "labels": [
+        "track-8",
+        "driving-re-escalation",
+        "explore-run-27-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 2520000,
+      "endMs": 2880000,
+      "midpointMs": 2700000,
+      "spotifyUrl": "https://open.spotify.com/track/3wsskKLpimIuiDDCb6eHVv",
+      "protected": false,
+      "progressStart": 0.875,
       "progressEnd": 1,
-      "progressMidpoint": 0.9285714285714286
+      "progressMidpoint": 0.9375
     }
   ],
   "transitions": [
@@ -293,6 +321,15 @@
       "fromPosition": 6,
       "toPosition": 7,
       "bpmDelta": 2,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+      "toUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+      "fromPosition": 7,
+      "toPosition": 8,
+      "bpmDelta": 1,
       "protected": false,
       "frozen": false
     }
