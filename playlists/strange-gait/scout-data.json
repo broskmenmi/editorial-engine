@@ -1,212 +1,274 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "f3be1281462685e289c7000166eb58649ba4b708c45295ead5544bbe60c8ced5",
-  "generatedAt": "2026-09-06T19:58:32.221Z",
-  "runId": "2026-09-06T20:05:00Z-explore-42",
-  "sourceCommit": "d8436e69d238da6f0d3ede23e551e10ddb7efc8d",
+  "requestFingerprint": "8742c51a521d6d6eec2014d3e252218a25ac1f5d96d6f54d92388d13ce855224",
+  "generatedAt": "2026-09-06T19:59:57.205Z",
+  "runId": "2026-09-06T20:07:00Z-explore-43",
+  "sourceCommit": "2c706d64583508ad5fc645773541c3844ec9e57a",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via Counter Pulse",
+    "role": "fresh STRANGE GAIT Track 13 discovery via ONHCET",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test current MarekSPolzki identities with exact tempo but minimal descriptive evidence"
+    "purpose": "test current A.Paul identities with measured tempo while keeping sonic unknowns explicit"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T20:05:00Z",
+    "timestampUtc": "2026-09-06T20:07:00Z",
     "sourceWindows": [
-      "Beatport current Counter Pulse / MarekSPolzki September 4 2026 listings"
+      "Beatport current A.Paul / ONHCET September 3 2026 listings"
     ],
-    "approximateInspectedScope": "current Counter Pulse release plus adjacent raw/deep/hypnotic listings",
+    "approximateInspectedScope": "current ONHCET EP plus adjacent high-130s/low-140s techno",
     "exclusions": [
-      "titles not treated as structure claims",
-      "BPM/genre not treated as flow proof",
+      "titles not treated as mood/role evidence",
+      "BPM not treated as energy/flow proof",
       "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. MarekSPolzki — Tempus Fractum: 135 BPM",
-      "2. MarekSPolzki — The Surface: 139 BPM"
+      "1. A.Paul — Aesthetics: 140 BPM",
+      "2. A.Paul — Vice: 142 BPM",
+      "3. A.Paul — Chemistry: 142 BPM",
+      "4. A.Paul — Dizzy: 142 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 2,
-  "resolvedCount": 2,
-  "candidateCount": 2,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "requestedCount": 4,
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
+  "unresolved": [
+    {
+      "artist": "A.Paul",
+      "track": "Aesthetics",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "A.Paul",
+        "track": "Aesthetics",
+        "releaseDate": "2026-09-03",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "A.Paul",
+      "track": "Vice",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "A.Paul",
+        "track": "Vice",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "A.Paul",
+      "track": "Chemistry",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "A.Paul",
+        "track": "Chemistry",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible identity; title does not establish transition chemistry.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "A.Paul",
+      "track": "Dizzy",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "A.Paul",
+        "track": "Dizzy",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible identity; title does not establish destabilization.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "MarekSPolzki",
-        "track": "Tempus Fractum",
-        "releaseDate": "2026-09-04",
-        "bpm": 135,
-        "bpmSource": "Beatport exact listing reports 135 BPM",
-        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
+        "artist": "A.Paul",
+        "track": "Aesthetics",
+        "releaseDate": "2026-09-03",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
+        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
         "evidence": {
           "measured": [
-            "135 BPM",
-            "released 2026-09-04"
+            "140 BPM",
+            "released 2026-09-03"
           ],
           "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "5QFLRhUta0I2tQTGZejTQU",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "MarekSPolzki",
-        "track": "The Surface",
-        "releaseDate": "2026-09-04",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
+        "artist": "A.Paul",
+        "track": "Vice",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
+        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
         "evidence": {
           "measured": [
-            "139 BPM",
-            "released 2026-09-04"
+            "142 BPM",
+            "released 2026-09-03"
           ],
           "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "3ioA2MrKrmAI0afHXH7kOt",
-      "selected": true
-    }
-  ],
-  "candidates": [
-    {
-      "id": "5QFLRhUta0I2tQTGZejTQU",
-      "uri": "spotify:track:5QFLRhUta0I2tQTGZejTQU",
-      "name": "Tempus Fractum",
-      "artists": [
-        "MarekSPolzki"
-      ],
-      "album": "Tempus Fractum",
-      "releaseDate": "2026-09-04",
-      "durationMs": 320000,
-      "spotifyUrl": "https://open.spotify.com/track/5QFLRhUta0I2tQTGZejTQU",
-      "bpm": 135,
-      "tempoSource": "Beatport exact listing reports 135 BPM",
-      "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
-      "evidence": {
-        "measured": [
-          "135 BPM",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "MarekSPolzki",
-        "track": "Tempus Fractum",
-        "releaseDate": "2026-09-04",
-        "bpm": 135,
-        "bpmSource": "Beatport exact listing reports 135 BPM",
-        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Exact current techno identity; title does not establish fracture function.",
-        "evidence": {
-          "measured": [
-            "135 BPM",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "id": "3ioA2MrKrmAI0afHXH7kOt",
-      "uri": "spotify:track:3ioA2MrKrmAI0afHXH7kOt",
-      "name": "The Surface",
-      "artists": [
-        "MarekSPolzki"
-      ],
-      "album": "Tempus Fractum",
-      "releaseDate": "2026-09-04",
-      "durationMs": 309062,
-      "spotifyUrl": "https://open.spotify.com/track/3ioA2MrKrmAI0afHXH7kOt",
-      "bpm": 139,
-      "tempoSource": "Beatport exact listing reports 139 BPM",
-      "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
-      "evidence": {
-        "measured": [
-          "139 BPM",
-          "released 2026-09-04"
-        ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "MarekSPolzki",
-        "track": "The Surface",
-        "releaseDate": "2026-09-04",
-        "bpm": 139,
-        "bpmSource": "Beatport exact listing reports 139 BPM",
-        "discoverySource": "Beatport current Counter Pulse listing; Techno (Raw / Deep / Hypnotic)",
+        "artist": "A.Paul",
+        "track": "Chemistry",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Exact current techno identity; post-Stardancer role remains underdescribed.",
+        "fitHypothesis": "Plausible identity; title does not establish transition chemistry.",
         "evidence": {
           "measured": [
-            "139 BPM",
-            "released 2026-09-04"
+            "142 BPM",
+            "released 2026-09-03"
           ],
           "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null
         }
-      }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "A.Paul",
+        "track": "Dizzy",
+        "releaseDate": "2026-09-03",
+        "bpm": 142,
+        "bpmSource": "Beatport exact listing reports 142 BPM",
+        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible identity; title does not establish destabilization.",
+        "evidence": {
+          "measured": [
+            "142 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
+  "candidates": [],
   "resolvedAlternates": []
 }
