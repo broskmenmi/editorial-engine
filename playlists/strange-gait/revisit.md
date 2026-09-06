@@ -4,6 +4,8 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| MarekSPolzki | Tempus Fractum | spotify:track:5QFLRhUta0I2tQTGZejTQU | Exact 135 BPM identity; title does not establish fracture function and source offers genre metadata only. | PARKED |
+| MarekSPolzki | The Surface | spotify:track:3ioA2MrKrmAI0afHXH7kOt | Exact 139 BPM identity; post-Stardancer role remains underdescribed. | PARKED |
 | Melvin Spix | Get the funk | spotify:track:3DrbkAaaBxWRtSRrxjlcfC | Exact 138 BPM identity; genre/title do not establish funk character or post-Stardancer function. | PARKED |
 | Melvin Spix | Rhythm | spotify:track:5ehxIQY6wbqDzWf8DYi4bZ | Exact 135 BPM identity; title cannot establish rhythmic role and source offers genre metadata only. | PARKED |
 | Melvin Spix | Get Up | spotify:track:2h1YSf3KrnSnUbEARQ17az | Exact 140 BPM identity; post-Stardancer placement underdescribed. | PARKED |
