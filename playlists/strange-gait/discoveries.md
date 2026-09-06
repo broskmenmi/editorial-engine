@@ -1,13 +1,16 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 20 — EXPLORE
+4 leads → 3 exact resolutions → 3 candidates → 0 ADD. Plants Army Revolver — Alpaca Vision (`spotify:track:6XohAaY4Nz3QT7WVQymHX7`), Vanity Productions — The Atrocity Exhibition (`spotify:track:0aTxujpB99DJRjMyMPxs3V`), Lundin Oil — Unpaid Moral Debts (`spotify:track:2j1HCFZatAMw79XkqAUNfk`) → PARKED. Shifted — Cold Light (Sektor A) unresolved in Spotify SE. Alpaca Vision release-date variance preserved.
+
 ## Run 19 — EXPLORE
-4 leads → 1 exact resolution → 1 candidate → 1 ADD. **ADD Jayson Wynters — Tehutis Law** (`spotify:track:79yeMWxkbiNZ4su5UuhS6z`), 139 BPM, as provisional Track 7. Track-specific Delsin description: Motor City funk with wiggling groove accents. Release-date variance preserved. Unresolved: The Hunted (ambiguous); Farron — Vert Button; Farron — Anti Pinch.
+ADD Jayson Wynters — Tehutis Law Track 7.
 
 ## Run 18 — EXPLORE
-4 leads → 2 exact resolutions → 2 candidates → 0 ADD. BLNDR — Stomias and Valentino Mora — Hailstorm PARKED. Destination 909 and Mellow unresolved.
+Stomias and Hailstorm PARKED; Destination 909 and Mellow unresolved.
 
 ## Run 17 — EXPLORE
-ADD Nørbak — Capa as provisional Track 6.
+ADD Nørbak — Capa Track 6.
 
 ## Runs 10–16
-ADD Too Much Time; ADD Moonwake after repair; later outward candidates remained parked/unresolved until Capa.
+ADD Too Much Time; ADD Moonwake after repair; later outward candidates parked/unresolved until Capa.

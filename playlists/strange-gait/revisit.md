@@ -4,16 +4,19 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
-| BLNDR | Stomias | spotify:track:5kCQNdRFByLABUhmTQFtth | Current Hypnus belonging is clear; official evidence is release-level and does not establish Capa → Stomias. | PARKED |
-| Valentino Mora | Hailstorm | spotify:track:1ZJ42qYfvm0efCJshaKrQ7 | Long-form deep/atmospheric belonging is plausible; no track-specific evidence establishes Capa → Hailstorm. | PARKED |
-| Hadone | Sit in Their Seat | spotify:track:6zP3CvVy8oDEytCGXqH1wu | Strong Primal Instinct belonging context; project/label evidence does not establish exact placement. | PARKED |
-| Hadone | Bite the Hand That Feeds You | spotify:track:0eZ2nfNNzWW1T7T3wPbkHC | Strong belonging context; no exact role evidence. | PARKED |
-| Temudo | U Used to Laugh at My Jokes | spotify:track:6G4OuJ8hKbNt96UrmPWI2J | Artist/label aesthetic alignment is release-level, not exact transition evidence. | PARKED |
-| Red Rooms | Seeking | spotify:track:6EGTYidCgcQSY4rePxJMRl | HYS007 compilation-level evidence only. | PARKED |
-| Uväll | Parallel Shift | spotify:track:3tJewIq0D10r423Nln9qV2 | HYS007 compilation-level evidence only. | PARKED |
-| Nnamael | Beauty in Order, Tragedy in Repetition | spotify:track:4H3oH8dj47YZRBsqiwjl7a | Release-level deep/hypnotic evidence. | PARKED |
-| AgainstMe | Enstikto | spotify:track:7zZnyDqxltlHicihZEIYyF | Release-level hypnosis/funk evidence. | PARKED |
-| OK EG | Gunma Rain | spotify:track:2NdwTwaxX2s6MseatkfopL | Prior 140→130 reset unsupported. | PARKED |
+| Plants Army Revolver | Alpaca Vision | spotify:track:6XohAaY4Nz3QT7WVQymHX7 | Loop-techno/texture framing is release-level; Tehutis Law → track unproven. | PARKED |
+| Vanity Productions | The Atrocity Exhibition | spotify:track:0aTxujpB99DJRjMyMPxs3V | Strong rupture inspiration; album-level noise/collage evidence, bodily continuity unknown. | PARKED |
+| Lundin Oil | Unpaid Moral Debts | spotify:track:2j1HCFZatAMw79XkqAUNfk | Strong fracture inspiration; release-level barely-metrical framing, exact track/body relation unknown. | PARKED |
+| BLNDR | Stomias | spotify:track:5kCQNdRFByLABUhmTQFtth | Release-level deep/hypnotic evidence only. | PARKED |
+| Valentino Mora | Hailstorm | spotify:track:1ZJ42qYfvm0efCJshaKrQ7 | Release-level deep/atmospheric evidence only. | PARKED |
+| Hadone | Sit in Their Seat | spotify:track:6zP3CvVy8oDEytCGXqH1wu | Label/project-level evidence only. | PARKED |
+| Hadone | Bite the Hand That Feeds You | spotify:track:0eZ2nfNNzWW1T7T3wPbkHC | Label/project-level evidence only. | PARKED |
+| Temudo | U Used to Laugh at My Jokes | spotify:track:6G4OuJ8hKbNt96UrmPWI2J | Label/project-level evidence only. | PARKED |
+| Red Rooms | Seeking | spotify:track:6EGTYidCgcQSY4rePxJMRl | Compilation-level evidence only. | PARKED |
+| Uväll | Parallel Shift | spotify:track:3tJewIq0D10r423Nln9qV2 | Compilation-level evidence only. | PARKED |
+| Nnamael | Beauty in Order, Tragedy in Repetition | spotify:track:4H3oH8dj47YZRBsqiwjl7a | Release-level evidence only. | PARKED |
+| AgainstMe | Enstikto | spotify:track:7zZnyDqxltlHicihZEIYyF | Release-level evidence only. | PARKED |
+| OK EG | Gunma Rain | spotify:track:2NdwTwaxX2s6MseatkfopL | Prior reset unsupported. | PARKED |
 | Phil Berg | Chimera | spotify:track:2rWGw0Yoslr9rBEQ1EBf3F | Release-level evidence. | PARKED |
 | Steve Rachmad | Ostinato 2.0 | spotify:track:4vLdXJEHEdsTg9pm6S2VAh | Release-level evidence. | PARKED |
 | Mitra | Hush | spotify:track:6AG1Tv6tkPMYnA7xrB94KT | Limited track-specific evidence. | PARKED |

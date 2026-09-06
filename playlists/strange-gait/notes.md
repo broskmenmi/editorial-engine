@@ -2,14 +2,11 @@
 
 Canonical: 7 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Tehutis Law. All provisional; none protected. Audio/live NOT TESTED.
 
+## Run 20 — EXPLORE
+4 leads → 3 exact resolutions → 3 candidates → 0 ADD. Plants Army Revolver — Alpaca Vision, Vanity Productions — The Atrocity Exhibition and Lundin Oil — Unpaid Moral Debts are PARKED for Track 8. Alpaca Vision has release-level loop-techno evidence; the two Northern Electronics tracks are strong rupture/fracture inspiration but current evidence is album-level and bodily continuity after Tehutis Law is unknown. Shifted — Cold Light (Sektor A) did not resolve in Spotify SE. Alpaca Vision release-date variance preserved. No REPAIR trigger.
+
 ## Run 19 — EXPLORE
-- 4 leads → 1 exact Spotify resolution → 1 selected candidate → 1 ADD.
-- ADD Jayson Wynters — Tehutis Law (`spotify:track:79yeMWxkbiNZ4su5UuhS6z`) as Track 7.
-- Delsin track-specific evidence: distinct Motor City funk with wiggling groove accents across the spectrum.
-- Exact Beatport metadata: 139 BPM, release 2021-09-24. Resolver preserved the requested/Spotify release-date variance.
-- Editorial function: re-ground bodily trust through funk after Capa's rhythmic redirection. Exact felt transition, energy, phrasing and mixability remain unknown.
-- Unresolved: The Hunted (ambiguous exact title/artist match), Farron — Vert Button, Farron — Anti Pinch (no exact Spotify match in SE).
-- No actionable REPAIR created; next run EXPLORE.
+ADD Jayson Wynters — Tehutis Law (`spotify:track:79yeMWxkbiNZ4su5UuhS6z`) as Track 7, 139 BPM, with Delsin track-specific Motor City funk/groove evidence.
 
 ## Run 18
 Stomias and Hailstorm PARKED; Destination 909 and Mellow unresolved.
