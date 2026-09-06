@@ -28,17 +28,17 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 ### 1. Asymmetric pressure corridor
 
-**Direction:** Stay close to Marauder's production world and explore how far one aesthetic can bend before it becomes a new room.
+**Direction:** Use the current two-track opening as a controlled reference and explore how far the surrounding Asymmetric/Flux Rope world can bend before a deliberately different production world becomes more useful.
 
 **Ingredients:**
 
-- Inigo Kennedy — Marauder — canonical reference
-- Inigo Kennedy — The Witching Hour — discovery pool / PARKED REVISIT
+- Inigo Kennedy — Marauder — canonical Track 1
+- Inigo Kennedy — The Witching Hour — canonical Track 2
 - wider `Flux Rope` / Asymmetric catalogue research
 
-**Why interesting:** Same artist/release context gives a controlled way to explore variation without immediately jumping labels and production worlds.
+**Why interesting:** Same artist/release context gives a controlled reference point for variation without making sameness a rule for the full set.
 
-**Unknown / risk:** Same release and tempo do not prove equal felt energy or a good sequential transition. This is a crate direction, not a canonical order.
+**Unknown / risk:** Same release and tempo do not prove equal felt energy, mixability or that a third same-world track would deepen rather than flatten the opening.
 
 ### 2. Murky physical restraint
 
@@ -46,13 +46,13 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
-- Rene Wise — Cave — discovery pool / PARKED REVISIT
+- Rene Wise — Cave — discovery pool / TRIGGERED REVISIT
 - Moving Pressure catalogue
-- restrained, body-first tools around 132–138 BPM
+- restrained, body-first tools around 132–138 BPM as search territory only
 
-**Why interesting:** Cave's official description explicitly combines murk, grounded physicality, hypnosis and tension, making it a strong seed for a deeper crate even if it never becomes Track 2.
+**Why interesting:** Cave's official description explicitly combines murk, grounded physicality, hypnosis and tension, making it a strong seed for a deeper crate even if its canonical placement changes.
 
-**Unknown / risk:** The exact energy relationship to Marauder and other candidates is unmeasured. Do not infer a set sequence from the theme.
+**Unknown / risk:** The exact energy relationship to the current opening and other candidates is unmeasured. Do not infer a set sequence from the theme.
 
 ### 3. Opening-set restraint
 
@@ -60,11 +60,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
-- Steve Rachmad — Ostinato 2.0 — discovery pool; rejected only for current STRANGE GAIT Track 2
+- Steve Rachmad — Ostinato 2.0 — discovery pool / TRIGGERED REVISIT
 - `TECH040 - INTRO: Designated by Nastia`
 - adjacent tracks whose own track-level evidence supports restrained pressure
 
-**Why interesting:** The compilation is explicitly conceived around beginnings, endings, restraint, atmosphere and control, which makes it a useful discovery map even though compilation-level framing was too weak for canonical admission.
+**Why interesting:** The compilation is explicitly conceived around beginnings, endings, restraint, atmosphere and control, which makes it a useful discovery map even though compilation-level framing is weaker than track-level evidence.
 
 **Unknown / risk:** Individual tracks can still vary widely in energy. The compilation concept is a search corridor, not a guarantee of cohesion.
 
@@ -94,9 +94,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Endemit — `Tessera Rubin` — calibrated pressure and contrasting emotional registers
 - James Ruskin — `Further Design (2026 Remaster)` — stripped-back linear techno reference
 
-**Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a stronger model for a skilled DJ's long-form taste than enforcing one permanent sonic identity.
+**Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
-**Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This direction also exceeds the current canonical STRANGE GAIT constitution's stricter same-room doctrine, so it must not silently rewrite the ledger.
+**Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This is a non-canonical research direction, not evidence for a specific ledger sequence.
 
 ## Maintenance rules
 
@@ -106,5 +106,5 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 4. Never convert a set idea into a canonical playlist change automatically.
 5. Never claim transition quality, harmonic compatibility, phrase fit, or energy match without evidence.
 6. A canonical REJECT may remain an excellent set-inspiration ingredient when the rejection was placement-specific.
-7. A PARKED REVISIT may be used as inspiration without triggering canonical reconsideration.
+7. A PARKED or TRIGGERED REVISIT may be used as inspiration without itself proving canonical fit.
 8. Do not ask the user to curate or maintain this file. The engine owns the housekeeping.

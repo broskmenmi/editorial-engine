@@ -13,7 +13,7 @@ The editorial engine should help discover music, not turn every useful find into
 A run can therefore be successful in several different ways:
 
 - add a track to the canonical playlist;
-- identify a strong but unresolved same-room hypothesis;
+- identify a strong but unresolved placement hypothesis;
 - uncover a track worth knowing even though its current playlist placement fails;
 - find an artist, label, release, or aesthetic corridor worth following;
 - create a useful set-direction hypothesis without changing the playlist.
@@ -30,9 +30,9 @@ The canonical playlist remains stricter than this pool.
 
 | Class | Artist / source | Track / release | Spotify / source | Why keep it | Canonical status |
 |---|---|---|---|---|---|
-| EXACT TRACK | Inigo Kennedy | The Witching Hour | https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd | Same `Flux Rope` release and 136 BPM grid as Marauder; official description points to rolling bass-heavy percussion and pads. Useful same-production-world reference even though felt energy continuity is unmeasured. | `REVISIT` — PARKED for Track 2 |
-| EXACT TRACK | Rene Wise | Cave | https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1 | 134 BPM; unusually specific Moving Pressure description around grounded physicality, murk, hypnosis and tension. Strong discovery regardless of current placement uncertainty. | `REVISIT` — PARKED for Track 2 |
-| EXACT TRACK | Steve Rachmad | Ostinato 2.0 | https://open.spotify.com/track/4vLdXJEHEdsTg9pm6S2VAh | 138 BPM and part of a compilation explicitly programmed around beginnings, atmosphere, restraint and control. Worth keeping as an opening-set reference even though the evidence was too release-level to pass the current STRANGE GAIT slot. | `REJECT` — current Track 2 role only |
+| EXACT TRACK | Inigo Kennedy | The Witching Hour | https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd | Same `Flux Rope` release and 136 BPM grid as Marauder; official description points to rolling bass-heavy percussion and pads. Useful same-production-world reference without pretending that same release proves felt-energy continuity. | `ADD` — canonical Track 2, provisional |
+| EXACT TRACK | Rene Wise | Cave | https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1 | 134 BPM; unusually specific Moving Pressure description around grounded physicality, murk, hypnosis and tension. Strong discovery regardless of current placement uncertainty. | `REVISIT` — TRIGGERED for changed Track-3 context |
+| EXACT TRACK | Steve Rachmad | Ostinato 2.0 | https://open.spotify.com/track/4vLdXJEHEdsTg9pm6S2VAh | 138 BPM and part of a compilation explicitly programmed around beginnings, atmosphere, restraint and control. Worth keeping as an opening-set reference even though its evidence remains release-level. | `REVISIT` — TRIGGERED; resolver alternate in repair run 7 |
 | RELEASE WATCH | Moving Pressure | Moving Pressure 07 | https://movingpressure.bandcamp.com/album/moving-pressure-07 | Label framing emphasizes restraint, repetition, evolving texture and patient intensity — highly relevant to future STRANGE GAIT and set research. | Pre-release watch; reassess after release |
 | RESEARCH LEAD | James Ruskin / Blueprint | Unknown Destination (Remaster) / Further Design (2026 Remaster) | https://jamesruskin.bandcamp.com/album/further-design-2026-remaster | Released 2026-09-04; external exact-release metadata reports 136 BPM and Blueprint describes liquid synth work looping around hypnotic rhythms. The repository resolver found no exact Spotify title/artist match in market SE, so it remains a research lead rather than a canonical candidate. | `POOL ONLY` — exact Spotify identity unresolved in SE |
 | RESEARCH LEAD | natsumi hirota / early reflex | Migi / Zahyo | https://earlyreflex.bandcamp.com/album/zahyo | `Migi` was released 2026-09-03 ahead of the full EP. The label describes wonky syncopation and leftfield rhythms repeatedly realigning around an elastic, locked-in groove — useful rhythmic-disruption material without treating disruption as a purity test. Exact Spotify identity and BPM remain unresolved here. | `POOL ONLY` — identity/tempo unresolved |

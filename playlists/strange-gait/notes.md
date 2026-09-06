@@ -4,12 +4,13 @@
 
 ## Current state
 
-- Canonical tracks: 1.
-- Current anchor: Inigo Kennedy — Marauder, 136 BPM working grid.
-- No protected tracks/handoffs; Marauder remains provisional.
+- Canonical tracks: 2.
+- Current opening: Inigo Kennedy — Marauder → Inigo Kennedy — The Witching Hour.
+- Measured working grid: 136 → 136 BPM.
+- No protected tracks/handoffs; both tracks remain provisional.
 - Audio evidence registry: empty.
 - Inspiration layer active: `discovery-pool.md` + `set-ideas.md`.
-- Repository-level `LONG-FORM-DJ-DOCTRINE.md` now governs sequencing for **all volumes**.
+- Repository-level `LONG-FORM-DJ-DOCTRINE.md` governs sequencing for **all volumes**.
 
 ## What the listener feedback actually established
 
@@ -23,11 +24,24 @@ That evidence proves the **specific sequence failed**.
 
 It does **not** prove that good flow requires one sustained vibe, one sonic room, invisible transitions, or minimal energy change.
 
-The immediate repair over-corrected by turning "same room" into a hard admission rule. The 2026-09-06 global doctrine correction removes that overreach.
+The immediate repair over-corrected by turning "same room" into a hard admission rule. The 2026-09-06 global doctrine correction removed that overreach.
+
+## Doctrine-correction repair run
+
+Run `2026-09-06T08:52:08Z-repair-doctrine-7` repaired the candidate funnel created by that over-correction.
+
+- Five doctrine-triggered exact leads were sent to the resolver.
+- All five resolved successfully.
+- The resolver selected The Witching Hour, Cave and Hush for evaluation.
+- The Witching Hour was approved as Track 2, the only ADD allowed while the ledger had fewer than three tracks.
+- Cave and Hush remain live REVISIT material for the changed Track-3 context.
+- Ostinato 2.0 and Mystify resolved as alternates and were not evaluated in this frozen snapshot.
+
+The Witching Hour was not admitted because 136 BPM proves continuity. It was admitted provisionally because its exact identity, same-release context, source-backed rhythmic framing and absence of direct negative listener evidence made it the strongest controlled move available under the corrected doctrine.
 
 ## Global sequencing principle
 
-The music may change character. The flow must not feel accidental.
+**The music may change character. The flow must not feel accidental.**
 
 Different vibes, energy levels, grooves, textures, production worlds and left turns are allowed.
 
@@ -51,21 +65,18 @@ Tracks do not need to be weird, broken, polymetric, cold, dark, or technically u
 
 Do not use "proper techno" orthodoxy as an editorial argument.
 
-## Reopened candidates
+## Revisit state
 
-The doctrine change invalidated several PARKED/REJECT reasons that depended on same-room proof, fixed chapter progression, or distinct-gait quotas.
+The doctrine correction legitimately reopened material whose old verdict depended on same-room proof, fixed chapter progression, or rhythmic novelty quotas.
 
-Now TRIGGERED for fresh evaluation:
+After the current repair run:
 
-- Rene Wise — **Cave**
-- Inigo Kennedy — **The Witching Hour**
-- Sevish — **Mystify**
-- Steve Rachmad — **Ostinato 2.0**
-- Mitra — **Hush**
+- Rene Wise — **Cave** — REVISIT; the new Track-3 context is materially different from its prior Marauder-only proposal.
+- Mitra — **Hush** — REVISIT; the new Track-3 context is materially different from its prior Marauder-only proposal.
+- Steve Rachmad — **Ostinato 2.0** — TRIGGERED; resolved as an unselected alternate in the current run, so no new evaluator verdict was assigned.
+- Sevish — **Mystify** — TRIGGERED; resolved as an unselected alternate in the current run, so no new evaluator verdict was assigned.
 
-TRIGGERED means re-evaluate; it does not mean ADD.
-
-Some Letters, Alive and Drift C remain rejected for their **prior placements/sequence** because that decision is supported by direct listener evidence, not by the retired doctrine.
+Some Letters, Alive and Drift C remain rejected for their **prior placements/sequence** because that decision is supported by direct listener evidence.
 
 ## Inspiration layer
 
@@ -79,9 +90,7 @@ The user should not be asked to rank, A/B test, maintain, or administer these la
 
 ## Next run
 
-Pre-audit sees several TRIGGERED revisits created by the doctrine correction, so the next run should use REPAIR before normal fresh exploration.
-
-Evaluate candidates under the global DJ doctrine rather than asking whether they preserve Marauder's exact vibe.
+Pre-audit still sees actionable doctrine-triggered revisits, including candidates whose placement context has now materially changed because Track 2 exists. Use REPAIR before normal EXPLORE while those triggers remain actionable.
 
 Until three canonical tracks exist, admit at most one ADD per run as a pacing safeguard only.
 

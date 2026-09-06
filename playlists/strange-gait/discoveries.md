@@ -2,6 +2,37 @@
 
 Editorial runs are recorded in reverse chronological order only when they create durable editorial state. Diagnostic scout request/snapshot commits are separate and carry no verdict.
 
+## 2026-09-06 — Doctrine-correction Repair Run 7 — Track 2
+
+### ADD — Inigo Kennedy — The Witching Hour
+
+- Candidate snapshot: `2026-09-06T08:52:08Z-repair-doctrine-7`.
+- Repair trigger: the repository-wide doctrine correction invalidated the prior same-room rejection gate and legitimately reopened five exact candidates.
+- Resolver funnel: 5 leads → 5 exact resolutions → 3 selected candidates → 1 ADD.
+- Selected candidates: Inigo Kennedy — The Witching Hour; Rene Wise — Cave; Mitra — Hush.
+- Resolved unselected alternates: Steve Rachmad — Ostinato 2.0; Sevish — Mystify.
+- No unresolved identities and no resolver warnings.
+- Exact Spotify identity: `spotify:track:6zBPgkGHHiZfxg5eSjSCRd`.
+- Measured tempo: 136 BPM; Spotify duration 5:15.
+- Placement: after Inigo Kennedy — Marauder as canonical Track 2.
+- Volume fit: passes. The track remains relevant to STRANGE GAIT's broad rhythmic/structural-freedom lens without needing to demonstrate a novel gait mechanism.
+- Placement: passes provisionally. Same `Flux Rope` release context and source-backed rolling bass-heavy percussion/pads make it the strongest controlled current move; the decision does not claim that same release or same BPM proves felt energy continuity.
+- Listener evidence: the failed prior four-track opening remains a warning against accidental track-to-track resets, but no direct listener evidence rejects Marauder → The Witching Hour.
+- Audio evidence: NOT TESTED. Live mixing: NOT TESTED.
+- **Verdict: ADD — provisional Track 2.**
+
+### REVISIT — Rene Wise — Cave
+
+- Exact identity verified again: `spotify:track:2Z0j3jb573fveL4Pf3NkP1`, 134 BPM.
+- Strong track-specific source evidence remains valuable, but only one ADD was permitted in this under-three-track run.
+- The newly created Track-3 context after The Witching Hour is materially different from the frozen Marauder-only proposal and legitimately re-triggers placement evaluation.
+
+### REVISIT — Mitra — Hush
+
+- Exact identity verified again: `spotify:track:6AG1Tv6tkPMYnA7xrB94KT`, 137 BPM.
+- Its old bootstrap rejection is superseded, but the current evidence is weaker and less track-specific than the selected ADD.
+- The changed Track-3 context may be assessed in a later REPAIR run without treating warmth or straightness as a defect.
+
 ## 2026-09-06 — Vibe-first Run 5 — Track 2 candidate
 
 ### REVISIT — Rene Wise — Cave
@@ -74,14 +105,14 @@ No Scout run was required: this was an explicitly authorized exact multi-track r
 
 ### Doctrine repair
 
-STRANGE GAIT now applies this priority hierarchy:
+STRANGE GAIT then applied this priority hierarchy:
 
 1. vibe / energy / atmosphere continuity;
 2. bodily continuity;
 3. gradual rhythmic evolution;
 4. novelty and role diversity.
 
-Chapters are multi-track zones. Tracks 1–3 should normally remain Ground while the playlist proves one coherent room. A new track must no longer earn admission by demonstrating a different rhythmic mechanism or chapter function.
+Chapters were treated as multi-track zones and Tracks 1–3 were expected to remain Ground while the playlist proved one coherent room. The later 2026-09-06 repository-wide doctrine correction superseded the universal same-room requirement while preserving the listener verdict on this exact failed sequence.
 
 ### Evidence boundary
 
@@ -132,4 +163,4 @@ This listener report proves that the **current four-track sequence failed as a c
 
 ## 2026-09-05 — Volume charter
 
-STRANGE GAIT identity began as bodily continuity under rhythmic deformation. The 2026-09-06 listener repair clarified that this must operate inside a coherent vibe/energy envelope rather than through track-by-track rhythmic role changes.
+STRANGE GAIT identity began as bodily continuity under rhythmic deformation. Listener feedback and the later global DJ doctrine correction now separate two lessons: the failed opening lacked convincing flow, but long-form flow is not reducible to sameness.
