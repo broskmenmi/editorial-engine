@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T08:57:12.951Z",
+  "generatedAt": "2026-09-06T09:16:44.667Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "85e860d551853ff23c8f331dda72c9d50a7676abf5f9e1871aebb54e020ac83a",
-    "annotationsFingerprint": "41e7e76675c2a45d83d57fc9bdee3d0be3ec16c4c61a10f71ace050a55af12b2"
+    "ledgerFingerprint": "7869d63f801643845c6371a9c596467c0d8f0504c15457ac3ead7a74053d37e7",
+    "annotationsFingerprint": "79a5473ccd39f90b698bd8d6f161e9a32a9a308001773d1513b09f918aab1611"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,10 +18,10 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 2,
-    "durationMs": 720000,
-    "durationLabel": "12m",
-    "bpmMin": 136,
+    "trackCount": 3,
+    "durationMs": 1080000,
+    "durationLabel": "18m",
+    "bpmMin": 134,
     "bpmMax": 136,
     "latestAddedDate": "2026-09-06"
   },
@@ -31,9 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 2,
+      "endPosition": 3,
       "startMs": 0,
-      "endMs": 720000
+      "endMs": 1080000
     }
   ],
   "tracks": [
@@ -63,8 +63,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.25
+      "progressEnd": 0.3333333333333333,
+      "progressMidpoint": 0.16666666666666666
     },
     {
       "position": 2,
@@ -92,9 +92,39 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.5,
+      "progressStart": 0.3333333333333333,
+      "progressEnd": 0.6666666666666666,
+      "progressMidpoint": 0.5
+    },
+    {
+      "position": 3,
+      "artist": "Rene Wise",
+      "track": "Cave",
+      "uri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+      "bpm": 134,
+      "role": "Ground — provisional widening move",
+      "added": "2026-09-06",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "track-3",
+        "widening-move",
+        "different-production-world",
+        "repair-run-8-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 720000,
+      "endMs": 1080000,
+      "midpointMs": 900000,
+      "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
+      "protected": false,
+      "progressStart": 0.6666666666666666,
       "progressEnd": 1,
-      "progressMidpoint": 0.75
+      "progressMidpoint": 0.8333333333333334
     }
   ],
   "transitions": [
@@ -104,6 +134,15 @@
       "fromPosition": 1,
       "toPosition": 2,
       "bpmDelta": 0,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+      "toUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+      "fromPosition": 2,
+      "toPosition": 3,
+      "bpmDelta": -2,
       "protected": false,
       "frozen": false
     }
