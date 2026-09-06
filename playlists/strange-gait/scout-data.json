@@ -1,60 +1,59 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "8742c51a521d6d6eec2014d3e252218a25ac1f5d96d6f54d92388d13ce855224",
-  "generatedAt": "2026-09-06T19:59:57.205Z",
-  "runId": "2026-09-06T20:07:00Z-explore-43",
-  "sourceCommit": "2c706d64583508ad5fc645773541c3844ec9e57a",
+  "requestFingerprint": "dd47191d9ff09ee0390d8696dc603f61954f689ee78986dee8fe76e272338041",
+  "generatedAt": "2026-09-06T20:01:21.541Z",
+  "runId": "2026-09-06T20:09:00Z-explore-44",
+  "sourceCommit": "d40db1d589d05a21a2f523b76cfc141681bf7bb6",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery via ONHCET",
+    "role": "fresh STRANGE GAIT Track 13 mixed-current scan",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test current A.Paul identities with measured tempo while keeping sonic unknowns explicit"
+    "purpose": "test three unrelated current raw/deep/hypnotic identities to avoid label-family overfitting"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T20:07:00Z",
+    "timestampUtc": "2026-09-06T20:09:00Z",
     "sourceWindows": [
-      "Beatport current A.Paul / ONHCET September 3 2026 listings"
+      "Beatport current September 3 2026 raw/deep/hypnotic listings across separate labels/artists"
     ],
-    "approximateInspectedScope": "current ONHCET EP plus adjacent high-130s/low-140s techno",
+    "approximateInspectedScope": "mixed current new-release scan across multiple labels",
     "exclusions": [
-      "titles not treated as mood/role evidence",
-      "BPM not treated as energy/flow proof",
+      "no artist/label continuity assumptions",
+      "BPM/genre not treated as flow proof",
       "protected trio unchanged"
     ],
     "rankedLeadSummary": [
-      "1. A.Paul — Aesthetics: 140 BPM",
-      "2. A.Paul — Vice: 142 BPM",
-      "3. A.Paul — Chemistry: 142 BPM",
-      "4. A.Paul — Dizzy: 142 BPM"
+      "1. Stereoimagery — auto SHK (late edition): 140 BPM",
+      "2. Maccari, Serge André — Amethyst: 140 BPM",
+      "3. Lucas Sosa (AR) — X4: 141 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 4,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
+  "requestedCount": 3,
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "A.Paul",
-      "track": "Aesthetics",
+      "artist": "Maccari, Serge André",
+      "track": "Amethyst",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Aesthetics",
+        "artist": "Maccari, Serge André",
+        "track": "Amethyst",
         "releaseDate": "2026-09-03",
         "bpm": 140,
         "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
         "evidence": {
           "measured": [
             "140 BPM",
@@ -67,84 +66,26 @@
       }
     },
     {
-      "artist": "A.Paul",
-      "track": "Vice",
+      "artist": "Lucas Sosa (AR)",
+      "track": "X4",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Vice",
+        "artist": "Lucas Sosa (AR)",
+        "track": "X4",
         "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "bpm": 141,
+        "bpmSource": "Beatport exact listing reports 141 BPM",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
         "evidence": {
           "measured": [
-            "142 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "A.Paul",
-      "track": "Chemistry",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Chemistry",
-        "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible identity; title does not establish transition chemistry.",
-        "evidence": {
-          "measured": [
-            "142 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "artist": "A.Paul",
-      "track": "Dizzy",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Dizzy",
-        "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible identity; title does not establish destabilization.",
-        "evidence": {
-          "measured": [
-            "142 BPM",
+            "141 BPM",
             "released 2026-09-03"
           ],
           "attributedDescription": "Beatport genre classification only.",
@@ -157,21 +98,50 @@
   "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Aesthetics",
+        "artist": "Stereoimagery",
+        "track": "auto SHK (late edition)",
         "releaseDate": "2026-09-03",
         "bpm": 140,
         "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      },
+      "spotifyTrackId": "4v3kWcECa3IaZPcXlXvBjd",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Maccari, Serge André",
+        "track": "Amethyst",
+        "releaseDate": "2026-09-03",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
         "evidence": {
           "measured": [
             "140 BPM",
@@ -187,78 +157,22 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Vice",
+        "artist": "Lucas Sosa (AR)",
+        "track": "X4",
         "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
+        "bpm": 141,
+        "bpmSource": "Beatport exact listing reports 141 BPM",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Plausible current techno identity; exact role unknown.",
+        "fitHypothesis": "Current exact-tempo candidate; exact behavior unknown.",
         "evidence": {
           "measured": [
-            "142 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Chemistry",
-        "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible identity; title does not establish transition chemistry.",
-        "evidence": {
-          "measured": [
-            "142 BPM",
-            "released 2026-09-03"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "A.Paul",
-        "track": "Dizzy",
-        "releaseDate": "2026-09-03",
-        "bpm": 142,
-        "bpmSource": "Beatport exact listing reports 142 BPM",
-        "discoverySource": "Beatport current ONHCET listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible identity; title does not establish destabilization.",
-        "evidence": {
-          "measured": [
-            "142 BPM",
+            "141 BPM",
             "released 2026-09-03"
           ],
           "attributedDescription": "Beatport genre classification only.",
@@ -269,6 +183,62 @@
       "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "4v3kWcECa3IaZPcXlXvBjd",
+      "uri": "spotify:track:4v3kWcECa3IaZPcXlXvBjd",
+      "name": "auto SHK (late edition)",
+      "artists": [
+        "Stereoimagery"
+      ],
+      "album": "AUTO DREME EP",
+      "releaseDate": "2026-09-03",
+      "durationMs": 246857,
+      "spotifyUrl": "https://open.spotify.com/track/4v3kWcECa3IaZPcXlXvBjd",
+      "bpm": 140,
+      "tempoSource": "Beatport exact listing reports 140 BPM",
+      "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Stardancer as Track 13"
+        }
+      ],
+      "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+      "evidence": {
+        "measured": [
+          "140 BPM",
+          "released 2026-09-03"
+        ],
+        "attributedDescription": "Beatport genre classification only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null
+      },
+      "requestedIdentity": {
+        "artist": "Stereoimagery",
+        "track": "auto SHK (late edition)",
+        "releaseDate": "2026-09-03",
+        "bpm": 140,
+        "bpmSource": "Beatport exact listing reports 140 BPM",
+        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Current exact-tempo candidate; sonic role unknown.",
+        "evidence": {
+          "measured": [
+            "140 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "resolvedAlternates": []
 }
