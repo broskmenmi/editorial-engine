@@ -1,40 +1,124 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T09:23:00Z-repair-mystify-9",
-  "sourceCommit": "41adca6a2c9de6472a516f8efeff37c8c6ca832a",
-  "mode": "REPAIR",
+  "runId": "2026-09-06T10:44:30Z-explore-10",
+  "sourceCommit": "7fedb8d14dc15f7b9ba43aadd142abccc98d6b66",
+  "mode": "EXPLORE",
   "target": {
-    "role": "STRANGE GAIT Track 4 after the established three-track local run",
-    "position": "after Rene Wise — Cave as Track 4 at end of ledger",
+    "role": "fresh STRANGE GAIT expansion after the three-track opening",
+    "position": "test discovered material after Rene Wise — Cave as Track 4 at end of ledger, while preserving broader belonging conclusions separately",
     "neighbours": ["spotify:track:2Z0j3jb573fveL4Pf3NkP1"],
-    "purpose": "evaluate the final actionable triggered revisit in the materially changed three-track context and decide whether a conspicuous structural turn now has a justified sequencing purpose without using novelty, fixed chapter progression, or BPM as proof of flow"
+    "purpose": "discover current and adjacent techno that can extend or deliberately redirect the established three-track run without imposing sameness, novelty quotas, fixed chapter progression, or BPM-as-flow logic"
+  },
+  "explorationReceipt": {
+    "timestampUtc": "2026-09-06T10:44:30Z",
+    "sourceWindows": [
+      "Fresh September 2026 Mutual Rytm / Sciahri Moonwake release scan: https://mutual-rytm.bandcamp.com/album/moonwake",
+      "Fresh September 2026 Dosis Records / KNTZ Hive scan: https://dosisrecords.bandcamp.com/album/hive-dosis050",
+      "Fresh September 2026 Mona Records / Hypatia Riddles in the Dark scan: https://monarecords.bandcamp.com/album/hypatia-riddles-in-the-dark-ep",
+      "Fresh September 2026 [R]3volution / Rødder Horizonte de Sucesos scan: https://r3volutionrecords.bandcamp.com/album/horizonte-de-sucesos-ep",
+      "Current Beatport raw/deep/hypnotic track and artist listings used only for measured tempo/release metadata, including Sciahri and Rødder",
+      "Adjacent/emerging-label coverage included Mutual Rytm, Dosis, Mona Records and [R]3volution; overlooked catalogue context included current Beatport raw/deep/hypnotic listings and adjacent label discographies"
+    ],
+    "approximateInspectedScope": "approximately 35 named tracks/releases across current September releases, four adjacent/emerging label catalogues, and current/overlooked raw-deep-hypnotic catalogue listings",
+    "exclusions": [
+      "future-dated releases not yet broadly available were retained as watches rather than forced into canonical resolution",
+      "tracks whose only apparent case was genre tag, artist prestige or tempo were not promoted to leads",
+      "previously rejected or parked STRANGE GAIT material was not recycled without a trigger",
+      "source descriptions were kept attributed and were not treated as direct listening or audio analysis"
+    ],
+    "rankedLeadSummary": [
+      "1. Sciahri — Moonwake: current 2026-09-04 Mutual Rytm release; exact 140 BPM Beatport metadata; track-specific label description of robust rumbling drums and stark futuristic synth framing",
+      "2. Sciahri — Too Much Time: same current release; exact 140 BPM Beatport metadata; track-specific label description of a wall-rattling groove with subtle shadowed synth motifs",
+      "3. KNTZ — Kernel: current 2026-09-04 Dosis release; release-level evidence emphasizes dense layers, precise rhythmic structures and dancefloor-built tools",
+      "4. Hypatia — Riddles in the Dark: current 2026-09-01 release; source describes hypnotic/meditative long-form development and steady rhythmic propulsion at release level",
+      "5. Rødder — Horizonte de Sucesos: current release with exact 138 BPM metadata; source positions the EP in darker underground raw/deep/hypnotic techno"
+    ]
   },
   "leads": [
     {
-      "artist": "Sevish",
-      "track": "Mystify",
-      "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
+      "artist": "Sciahri",
+      "track": "Moonwake",
+      "releaseDate": "2026-09-04",
       "bpm": 140,
-      "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/discoveries.md and revisit.md",
-      "discoverySource": "playlists/strange-gait/discoveries.md and revisit.md — exact identity repeatedly verified; doctrine-triggered reopening after prior gating depended on fixed Lock progression and one-vibe protection; repository history documents polymetric/43EDO structure as relevant to the volume lens",
+      "bpmSource": "Beatport Sciahri artist listing reports Moonwake Original Mix at 140 BPM, released 2026-09-04",
+      "discoverySource": "Mutual Rytm official Bandcamp Moonwake release; track-specific description says Moonwake is built on robust, rumbling drums with flashy synths bringing stark futurism to the dancefloor",
       "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Rene Wise — Cave as Track 4 as an intentionally conspicuous structural turn"
-        }
-      ],
-      "fitHypothesis": "Mystify strongly engages STRANGE GAIT's rhythmic/structural-freedom lens, and after three canonical tracks a deliberate structural turn is more plausible than it was earlier; however its 16:31 duration and technical foregrounding could overcommit the early journey, while the exact Cave → Mystify felt transition remains unknown without lawful audio or listener evidence.",
+      "proposedPlacements": [{"position": "after Rene Wise — Cave as Track 4"}],
+      "fitHypothesis": "Track-specific source evidence gives Moonwake a credible bodily and futuristic-techno belonging case, and after the restrained three-track opening it could function as a deliberate outward widening rather than a novelty reset; exact felt energy and transition quality remain unknown.",
       "evidence": {
-        "measured": [
-          "spotify:track:7sHN0QPVxD7NjkSCH6NTZi previously exactly resolved",
-          "140 BPM previously verified",
-          "16:31 duration previously resolved",
-          "incoming measured tempo step 134→140 BPM"
-        ],
-        "attributedDescription": "Repository history documents polymetric/43EDO structure as part of the track's identity; this is not a claim about perceived energy, density, phrase fit, bodily pulse or mixability.",
-        "listenerEvidence": "The listener rejected the earlier Marauder → Some Letters → Alive → Drift C sequence because track-to-track energy resets felt accidental. Mystify was not part of that sequence, but any conspicuous Track-4 turn must therefore have a clear sequencing purpose rather than merely advertise rhythmic novelty.",
+        "measured": ["140 BPM from Beatport", "released 2026-09-04", "5:19 duration from official Bandcamp"],
+        "attributedDescription": "Mutual Rytm describes robust rumbling drums and flashy synths bringing stark futurism to the dancefloor; attributed source evidence only.",
+        "listenerEvidence": "The listener rejected an earlier opening whose energy shifted awkwardly track by track; Moonwake must therefore earn any widening move through a coherent sequencing purpose rather than mere freshness.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Once a three-track local run exists, a hard left turn can be useful if it creates a deliberate new path; its unusually long duration raises the cost of a mistimed turn and must be treated as a structural risk rather than a reason for novelty value."
+        "craftConvention": "After three established tracks, a controlled increase in outward character can be useful if it opens the journey rather than restarting it; 134→140 BPM is measured context, not proof of that effect."
+      }
+    },
+    {
+      "artist": "Sciahri",
+      "track": "Too Much Time",
+      "releaseDate": "2026-09-04",
+      "bpm": 140,
+      "bpmSource": "Beatport Sciahri artist listing reports Too Much Time Original Mix at 140 BPM, released 2026-09-04",
+      "discoverySource": "Mutual Rytm official Bandcamp Moonwake release; track-specific description says Too Much Time closes with a wall-rattling groove and subtle synth motifs creeping in the shadows",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Rene Wise — Cave as Track 4"}],
+      "fitHypothesis": "The source-backed groove emphasis makes Too Much Time a credible physical continuation/widening hypothesis without relying on rhythmic cleverness; its exact pressure and transition relation to Cave remain unmeasured.",
+      "evidence": {
+        "measured": ["140 BPM from Beatport", "released 2026-09-04", "5:03 duration from official Bandcamp"],
+        "attributedDescription": "Mutual Rytm describes a wall-rattling groove and subtle shadowed synth motifs; attributed source evidence only.",
+        "listenerEvidence": "Direct listener evidence warns against arbitrary energy resets but does not address this track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A groove-centered move can deepen bodily trust even while changing production world, but the 6 BPM numeric step does not establish felt continuity."
+      }
+    },
+    {
+      "artist": "KNTZ",
+      "track": "Kernel",
+      "releaseDate": "2026-09-04",
+      "discoverySource": "Dosis Records official Bandcamp Hive [DOSIS050]; the seven-track EP is described as dancefloor-built around dense layers, precise rhythmic structures and carefully crafted tools",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Rene Wise — Cave as Track 4"}],
+      "fitHypothesis": "Kernel has a credible volume-belonging hypothesis through the release's dancefloor focus and precise rhythmic construction, but its track-specific felt character and exact neighbour relationship are unknown.",
+      "evidence": {
+        "measured": ["6:02 duration from official Bandcamp", "released 2026-09-04"],
+        "attributedDescription": "Dosis describes Hive at release level through dense layers, precise rhythmic structures and carefully crafted dancefloor tools; not track-specific listening evidence.",
+        "listenerEvidence": "No direct listener evidence exists for Kernel.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A precise dancefloor tool can plausibly extend the journey, but release-level evidence is weaker than track-specific evidence for an exact Track-4 decision."
+      }
+    },
+    {
+      "artist": "Hypatia",
+      "track": "Riddles in the Dark",
+      "releaseDate": "2026-09-01",
+      "discoverySource": "Mona Records official Bandcamp Riddles in the Dark EP; release framing emphasizes hypnotic/meditative character, steady rhythmic propulsion, subtle evolution and long-form development",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Rene Wise — Cave as Track 4"}],
+      "fitHypothesis": "The title track is a legitimate broader-volume lead because the release is explicitly built around gradual development, hypnosis and rhythmic propulsion, but the description applies at EP level and the exact track's felt placement remains uncertain.",
+      "evidence": {
+        "measured": ["5:24 duration from official Bandcamp", "released 2026-09-01"],
+        "attributedDescription": "Mona Records describes the EP through eerie atmosphere, deep low-end, rhythmic propulsion, hypnotic/meditative character and gradual long-form development; release-level attributed evidence.",
+        "listenerEvidence": "No direct listener evidence exists for this track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Gradual-development material is worth resolving for a long-form playlist, but release-level source language cannot by itself prove the exact Cave handoff."
+      }
+    },
+    {
+      "artist": "Rødder",
+      "track": "Horizonte de Sucesos",
+      "releaseDate": "2026-08-21",
+      "bpm": 138,
+      "bpmSource": "Beatport/Electrobuzz exact track metadata reports Horizonte de Sucesos Original Mix at 138 BPM and 5:41",
+      "discoverySource": "[R]3volution official Bandcamp Horizonte de Sucesos EP plus exact release metadata; release framing places the project in darker underground raw/deep/hypnotic techno",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Rene Wise — Cave as Track 4"}],
+      "fitHypothesis": "The exact track is worth resolving as a darker raw/deep/hypnotic continuation hypothesis with measured 138 BPM context, while its actual bodily pull, energy and transition feel remain unknown.",
+      "evidence": {
+        "measured": ["138 BPM from Beatport/Electrobuzz", "5:41 duration", "released 2026-08-21 on digital services; Bandcamp page published/reissued 2026-09-04"],
+        "attributedDescription": "[R]3volution frames the EP around darker underground techno; this is release-level source language, not a claim about this exact track's perceived energy.",
+        "listenerEvidence": "No direct listener evidence exists for this track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A modest measured tempo step makes the placement practical to investigate but cannot rescue a weak sonic fit; evaluation must remain evidence-limited."
       }
     }
   ]
