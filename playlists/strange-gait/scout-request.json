@@ -1,37 +1,48 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T12:34:00Z-explore-26",
-  "sourceCommit": "19024d7821a846768e3687c25cb51d66d77401cd",
+  "runId": "2026-09-06T12:39:00Z-explore-27",
+  "sourceCommit": "f2b64f43860771f9da685d7fdeae30c0beff5233",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 8 discovery via Southern Lights",
+    "role": "fresh STRANGE GAIT Track 8 discovery via OFF Recordings",
     "position": "after Jayson Wynters — Tehutis Law as Track 8",
     "neighbours": ["spotify:track:79yeMWxkbiNZ4su5UuhS6z"],
-    "purpose": "test restrained emergence, ritualised deep pressure and inward reset as possible post-funk moves"
+    "purpose": "test whether a precisely documented 140 BPM hypnotic-driving return improves the post-funk arc or merely re-escalates too soon"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T12:34:00Z",
+    "timestampUtc": "2026-09-06T12:39:00Z",
     "sourceWindows": [
-      "Current Southern Lights — Lost Few & Dino Sabatini, Light Before The Haze, released 2026-08-28",
-      "Track-specific official notes for Broken Dawn, Light Before The Haze, Subsurface Light and Dino Sabatini's remix"
+      "Current OFF Recordings / CHANCEKNOT — Fragments, released on Bandcamp 2026-08-28",
+      "Beatport exact CHANCEKNOT Fragments metadata: 140 BPM"
     ],
-    "approximateInspectedScope": "approximately 20 current/adjacent Southern Lights and related deep-techno tracks/releases",
+    "approximateInspectedScope": "current OFF Recordings catalogue plus adjacent CHANCEKNOT material; one lead clears the canonical resolver floor without padding",
     "exclusions": [
-      "patient/ambient framing was not treated as automatic suitability after Tehutis Law",
-      "release coherence was not substituted for exact track placement evidence",
-      "parked candidates were not recycled"
+      "peak-time framing was not treated as automatic suitability",
+      "140 BPM was kept as measured context, not energy or flow proof",
+      "no extra leads were added merely to fill the request"
     ],
     "rankedLeadSummary": [
-      "1. Dino Sabatini — Subsurface Light: hypnotic descent into pressurised depths where rhythm becomes ritual",
-      "2. Lost Few — Light Before The Haze (Dino Sabatini Remix): closing meditation pulled inward and slowed into a deep-techno shadow",
-      "3. Lost Few — Broken Dawn: layered pads and rhythmic pulse with slow-emergence function",
-      "4. Lost Few — Light Before The Haze: melodic, restrained and weightless deepening"
+      "1. CHANCEKNOT — Fragments: track-specific hypnotic grooves, pulsating rhythms, evolving atmosphere, commanding percussion and tension-building arrangements; 140 BPM"
     ]
   },
   "leads": [
-    {"artist":"Dino Sabatini","track":"Subsurface Light","releaseDate":"2026-08-28","discoverySource":"Southern Lights official release; track-specific notes describe a hypnotic descent into pressurised depths where rhythm becomes ritual and texture carries ancient resonance","searchIntent":"BOTH","proposedPlacements":[{"position":"after Jayson Wynters — Tehutis Law as Track 8"}],"fitHypothesis":"The ritualised deep-pressure description could deepen the journey after the funk re-grounding without requiring another conspicuous rhythmic trick; exact felt transition remains unknown.","evidence":{"measured":["6:44 duration","released 2026-08-28"],"attributedDescription":"Southern Lights describes hypnotic pressurised depth, ritualised rhythm and weighty texture.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"A pressure-deepening move after funk can be deliberate if bodily trust remains intact."}},
-    {"artist":"Lost Few","track":"Light Before The Haze (Dino Sabatini Remix)","releaseDate":"2026-08-28","discoverySource":"Southern Lights official release; remix is described as a closing meditation pulled inward, with a slowed pulse and deep-techno shadow","searchIntent":"BOTH","proposedPlacements":[{"position":"after Jayson Wynters — Tehutis Law as Track 8"}],"fitHypothesis":"An inward/slower reset could create space after Tehutis Law, but the exact metrical relation and body continuity are unknown.","evidence":{"measured":["6:45 duration","released 2026-08-28"],"attributedDescription":"Southern Lights describes the remix as inward, slower and meditative in a deep-techno shadow.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"A reset can be valid when intentional, but slowing language alone cannot prove the handoff."}},
-    {"artist":"Lost Few","track":"Broken Dawn","releaseDate":"2026-08-28","discoverySource":"Southern Lights official release; track-specific notes describe slow emergence through layered pads and rhythmic pulse before sunrise","searchIntent":"BOTH","proposedPlacements":[{"position":"after Jayson Wynters — Tehutis Law as Track 8"}],"fitHypothesis":"Slow-emergence rhythmic pulse is a possible spacious redirection, but may be too opening-coded for this exact slot.","evidence":{"measured":["6:02 duration","released 2026-08-28"],"attributedDescription":"Southern Lights describes layered pads and rhythmic pulse with slow emergence.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Opening-like material can work mid-journey only if it meaningfully resets the arc."}},
-    {"artist":"Lost Few","track":"Light Before The Haze","releaseDate":"2026-08-28","discoverySource":"Southern Lights official release; track-specific notes describe a longing, weightless, melodic and restrained deepening","searchIntent":"BOTH","proposedPlacements":[{"position":"after Jayson Wynters — Tehutis Law as Track 8"}],"fitHypothesis":"Restrained melodic weightlessness could provide contrast after Tehutis Law, but body continuity is materially uncertain.","evidence":{"measured":["6:04 duration","released 2026-08-28"],"attributedDescription":"Southern Lights describes the track as longing, weightless, melodic and restrained.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Contrast needs purpose; restraint alone is not proof of good placement."}}
+    {
+      "artist": "CHANCEKNOT",
+      "track": "Fragments",
+      "releaseDate": "2026-08-28",
+      "bpm": 140,
+      "bpmSource": "Beatport exact CHANCEKNOT — Fragments listing reports 140 BPM",
+      "discoverySource": "OFF Recordings official Fragments release; track-specific description says hypnotic grooves, pulsating rhythms and evolving atmospheres intertwine with dark textures, relentless momentum, commanding percussion and tension-building arrangements",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position":"after Jayson Wynters — Tehutis Law as Track 8"}],
+      "fitHypothesis": "Fragments could return the sequence to tightly controlled driving hypnosis after Tehutis Law's funk re-grounding, but the source also frames relentless peak-time momentum, so the risk is premature re-escalation rather than insufficient belonging.",
+      "evidence": {
+        "measured": ["140 BPM", "5:46 duration", "released 2026-08-28 on OFF Recordings Bandcamp"],
+        "attributedDescription": "OFF Recordings describes hypnotic grooves, pulsating rhythms, dark textures, relentless momentum, commanding percussion, subtle tension, and arrangements that build/release tension.",
+        "listenerEvidence": "Earlier listener feedback rejected arbitrary track-by-track energy shifts; a return to peak-time force must therefore serve the larger local run rather than simply be another strong track.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A deliberate re-escalation can follow a funk re-grounding, but close tempo and source language do not prove that now is the right moment."
+      }
+    }
   ]
 }
