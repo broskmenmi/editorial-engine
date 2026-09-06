@@ -1,41 +1,13 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T19:18:00Z-explore-31",
-  "sourceCommit": "1d8c9866c5fd066cd4b9728587ef5695240b3b1c",
+  "runId": "2026-09-06T19:42:00Z-explore-32",
+  "sourceCommit": "f091c013f5fe80d32d8966d2c06fa6ddca815367",
   "mode": "EXPLORE",
-  "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery after listener-protected trio",
-    "position": "after Len Faki — Stardancer as Track 13",
-    "neighbours": ["spotify:track:6i3HRqnSMoSohzwSgq035u"],
-    "purpose": "test whether current Falling Ethics raw/deep/hypnotic material can continue or redirect the post-Stardancer run without breaking the protected trio"
-  },
-  "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:18:00Z",
-    "sourceWindows": [
-      "Beatport September 2026 raw/deep/hypnotic new releases, including Falling Ethics September 1 material",
-      "adjacent current raw/deep/hypnotic releases and overlooked Falling Ethics catalogue context"
-    ],
-    "approximateInspectedScope": "approximately 30 current/adjacent raw-deep-hypnotic tracks; three P.E.A.R.L. leads retained because exact tempo/release metadata are secure",
-    "exclusions": [
-      "genre classification was not treated as energy or flow proof",
-      "close BPM was not treated as mixability proof",
-      "protected Transparency → When We Froze → Stardancer order was not disturbed"
-    ],
-    "rankedLeadSummary": [
-      "1. P.E.A.R.L. — Paradise: 137 BPM, Falling Ethics, released 2026-09-01",
-      "2. P.E.A.R.L. — Destello: 138 BPM, Falling Ethics, released 2026-09-01",
-      "3. P.E.A.R.L. — Silencio: 138 BPM, Falling Ethics, released 2026-09-01"
-    ]
-  },
+  "target": {"role":"fresh STRANGE GAIT Track 13 discovery via current FJAAK material","position":"after Len Faki — Stardancer as Track 13","neighbours":["spotify:track:6i3HRqnSMoSohzwSgq035u"],"purpose":"test a different current raw/deep/hypnotic production world after the protected trio"},
+  "explorationReceipt": {"timestampUtc":"2026-09-06T19:42:00Z","sourceWindows":["Beatport September 3 2026 FJAAK self-released material","adjacent current FJAAK catalogue and raw/deep/hypnotic listings"],"approximateInspectedScope":"approximately 20 current/adjacent FJAAK and peer tracks; three exact-tempo leads retained","exclusions":["artist reputation was not treated as fit proof","BPM was not treated as flow proof","protected listener trio remained intact"],"rankedLeadSummary":["1. FJAAK — Bio Data: 137 BPM","2. FJAAK — Wax Pack: 139 BPM","3. FJAAK — Threshold: 139 BPM"]},
   "leads": [
-    {
-      "artist":"P.E.A.R.L.","track":"Paradise","releaseDate":"2026-09-01","bpm":137,"bpmSource":"Beatport exact listing reports 137 BPM","discoverySource":"Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Len Faki — Stardancer as Track 13"}],"fitHypothesis":"Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.","evidence":{"measured":["137 BPM","released 2026-09-01"],"attributedDescription":"Beatport genre classification only: Techno (Raw / Deep / Hypnotic).","listenerEvidence":"No direct listener evidence for this track.","lawfulAudioEvidence":null,"craftConvention":"A genre-continuous move can work, but genre and BPM alone do not establish the handoff."}
-    },
-    {
-      "artist":"P.E.A.R.L.","track":"Destello","releaseDate":"2026-09-01","bpm":138,"bpmSource":"Beatport exact listing reports 138 BPM","discoverySource":"Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Len Faki — Stardancer as Track 13"}],"fitHypothesis":"Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.","evidence":{"measured":["138 BPM","released 2026-09-01"],"attributedDescription":"Beatport genre classification only: Techno (Raw / Deep / Hypnotic).","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Plausible territory earns evaluation, not admission."}
-    },
-    {
-      "artist":"P.E.A.R.L.","track":"Silencio","releaseDate":"2026-09-01","bpm":138,"bpmSource":"Beatport exact listing reports 138 BPM","discoverySource":"Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Len Faki — Stardancer as Track 13"}],"fitHypothesis":"Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.","evidence":{"measured":["138 BPM","released 2026-09-01"],"attributedDescription":"Beatport genre classification only: Techno (Raw / Deep / Hypnotic).","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null,"craftConvention":"Do not infer sonic restraint from title or metadata."}
-    }
+    {"artist":"FJAAK","track":"Bio Data","releaseDate":"2026-09-03","bpm":137,"bpmSource":"Beatport exact listing reports 137 BPM","discoverySource":"Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Stardancer as Track 13"}],"fitHypothesis":"Plausible new production world after the listener block, but exact sonic behaviour is underdescribed.","evidence":{"measured":["137 BPM","released 2026-09-03"],"attributedDescription":"Beatport genre classification only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null}},
+    {"artist":"FJAAK","track":"Wax Pack","releaseDate":"2026-09-03","bpm":139,"bpmSource":"Beatport exact listing reports 139 BPM","discoverySource":"Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Stardancer as Track 13"}],"fitHypothesis":"Could reintroduce firmer drive after Stardancer, but metadata cannot establish that function.","evidence":{"measured":["139 BPM","released 2026-09-03"],"attributedDescription":"Beatport genre classification only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null}},
+    {"artist":"FJAAK","track":"Threshold","releaseDate":"2026-09-03","bpm":139,"bpmSource":"Beatport exact listing reports 139 BPM","discoverySource":"Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)","searchIntent":"BOTH","proposedPlacements":[{"position":"after Stardancer as Track 13"}],"fitHypothesis":"Title cannot be used to infer threshold function; placement remains unproven.","evidence":{"measured":["139 BPM","released 2026-09-03"],"attributedDescription":"Beatport genre classification only.","listenerEvidence":"No direct listener evidence.","lawfulAudioEvidence":null}}
   ]
 }
