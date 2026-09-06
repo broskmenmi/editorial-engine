@@ -4,6 +4,9 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| P.E.A.R.L. | Paradise | spotify:track:6gXPFBOws0FT59I5KU5ZX8 | 137 BPM and strong release-level hypnotic/driving context; no track-specific post-Stardancer placement evidence. | PARKED |
+| P.E.A.R.L. | Destello | spotify:track:3IDeoq1igxJdX4ioNVJBnu | 138 BPM and strong release-level hypnotic/driving context; exact placement underdescribed. | PARKED |
+| P.E.A.R.L. | Silencio | spotify:track:6U5Fj8N00XunCJIpjhlMnv | 138 BPM; release-level evidence only and title cannot justify inferred restraint/space. | PARKED |
 | Uväll | Vault | spotify:track:7cfNIcrf7ftw7w9mwvopn2 | Reliable 140 BPM; Arcane EP evidence is release-level rather than exact-track placement evidence. | PARKED |
 | Uväll | Arcane | spotify:track:1fCjHCLuIU7uefSg8Uh4Pc | Release-level evidence only; external tempo conflict preserved (Volumo 136 vs Beatport 68). | PARKED |
 | Inspired Groove | Arabic Night | spotify:track:3mcemKXocgbBW25e360O3m | Strong nocturnal/driving/hypnotic evidence; less distinct Track-9 purpose than Truth in Noise. | PARKED |
