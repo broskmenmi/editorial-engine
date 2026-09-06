@@ -4,8 +4,10 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
-| Hadone | Sit in Their Seat | spotify:track:6zP3CvVy8oDEytCGXqH1wu | Strong Primal Instinct belonging context; project/label evidence does not establish Moonwake → track. | PARKED |
-| Hadone | Bite the Hand That Feeds You | spotify:track:0eZ2nfNNzWW1T7T3wPbkHC | Strong belonging context; no exact Track-6 role evidence. | PARKED |
+| BLNDR | Stomias | spotify:track:5kCQNdRFByLABUhmTQFtth | Current Hypnus belonging is clear; official evidence is release-level and does not establish Capa → Stomias. | PARKED |
+| Valentino Mora | Hailstorm | spotify:track:1ZJ42qYfvm0efCJshaKrQ7 | Long-form deep/atmospheric belonging is plausible; no track-specific evidence establishes Capa → Hailstorm. | PARKED |
+| Hadone | Sit in Their Seat | spotify:track:6zP3CvVy8oDEytCGXqH1wu | Strong Primal Instinct belonging context; project/label evidence does not establish exact placement. | PARKED |
+| Hadone | Bite the Hand That Feeds You | spotify:track:0eZ2nfNNzWW1T7T3wPbkHC | Strong belonging context; no exact role evidence. | PARKED |
 | Temudo | U Used to Laugh at My Jokes | spotify:track:6G4OuJ8hKbNt96UrmPWI2J | Artist/label aesthetic alignment is release-level, not exact transition evidence. | PARKED |
 | Red Rooms | Seeking | spotify:track:6EGTYidCgcQSY4rePxJMRl | HYS007 compilation-level evidence only. | PARKED |
 | Uväll | Parallel Shift | spotify:track:3tJewIq0D10r423Nln9qV2 | HYS007 compilation-level evidence only. | PARKED |

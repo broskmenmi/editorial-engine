@@ -2,15 +2,16 @@
 
 Canonical: 6 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa. All provisional; none protected. Audio/live NOT TESTED.
 
+## Run 18 — EXPLORE
+
+Run `2026-09-06T11:34:00Z-explore-18` scanned current Hypnus, current MORD/Herdersmat, adjacent Hypnus and overlooked Tresor material from the changed post-Capa context.
+
+- 4 leads → 2 exact Spotify resolutions → 2 candidates → 0 ADD.
+- BLNDR — Stomias (`spotify:track:5kCQNdRFByLABUhmTQFtth`) and Valentino Mora — Hailstorm (`spotify:track:1ZJ42qYfvm0efCJshaKrQ7`) both pass broad volume belonging but are PARKED because official evidence is release-level rather than sufficient for Capa → Track 7.
+- LNS & DJ Sotofett — Destination 909 and Vinicius Honorio & R.M.K — Mellow returned no exact Spotify title/artist match in market SE. Preserve as research leads; this is not a musical rejection.
+- No resolver warnings.
+
+No actionable REPAIR is created. Next run: fresh EXPLORE.
+
 ## Run 17 — EXPLORE
-
-Run `2026-09-06T11:10:00Z-explore-17` scanned Token's current/adjacent/overlooked 2026 catalogue with preference for track-specific descriptions after several evidence-limited no-add scans.
-
-- 4 leads → 1 exact Spotify resolution → 1 selected candidate → 1 ADD.
-- ADD Nørbak — Capa (`spotify:track:5np6Qsak6d5kIdkktjblRB`) as Track 6.
-- Beatport exact metadata: 137 BPM, 5:43, released 2026-02-06.
-- Token's track-specific description says Capa bends almost to a break and is rhythmically expressive with bassline/dry-percussion drive. This is attributed evidence, not model listening.
-- Porteix — Ad Libitum and Connor Wall — The Strategy remained ambiguous exact Spotify matches; MAL HOMBRE — Critical Velocity had no exact Spotify title/artist match in market SE. Preserve them as research leads, not negative musical verdicts.
-- Capa's role is a provisional rhythmic redirection after the Sciahri intensification. Exact felt energy, phrase fit and mixability remain unknown.
-
-No actionable REPAIR is created. Next run: fresh EXPLORE from the changed Track-7 context.
+ADD Nørbak — Capa (`spotify:track:5np6Qsak6d5kIdkktjblRB`) as Track 6 from track-specific Token evidence; exact felt flow remains provisional.
