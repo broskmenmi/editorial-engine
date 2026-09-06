@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T09:16:44.667Z",
+  "generatedAt": "2026-09-06T10:50:04.711Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "7869d63f801643845c6371a9c596467c0d8f0504c15457ac3ead7a74053d37e7",
-    "annotationsFingerprint": "79a5473ccd39f90b698bd8d6f161e9a32a9a308001773d1513b09f918aab1611"
+    "ledgerFingerprint": "f82a1e17c3802bea994e55b5a2b0beb07396b714f5c157671c5e1dcacc7aaa4e",
+    "annotationsFingerprint": "8f594549f669e336af1def3a486d62aedea16620a3be1d9c727fd15fb655ad47"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,11 +18,11 @@
     "detailedSiteUrl": null
   },
   "totals": {
-    "trackCount": 3,
-    "durationMs": 1080000,
-    "durationLabel": "18m",
+    "trackCount": 4,
+    "durationMs": 1440000,
+    "durationLabel": "24m",
     "bpmMin": 134,
-    "bpmMax": 136,
+    "bpmMax": 140,
     "latestAddedDate": "2026-09-06"
   },
   "chapters": [
@@ -31,9 +31,9 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 3,
+      "endPosition": 4,
       "startMs": 0,
-      "endMs": 1080000
+      "endMs": 1440000
     }
   ],
   "tracks": [
@@ -63,8 +63,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.3333333333333333,
-      "progressMidpoint": 0.16666666666666666
+      "progressEnd": 0.25,
+      "progressMidpoint": 0.125
     },
     {
       "position": 2,
@@ -92,9 +92,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.3333333333333333,
-      "progressEnd": 0.6666666666666666,
-      "progressMidpoint": 0.5
+      "progressStart": 0.25,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.375
     },
     {
       "position": 3,
@@ -122,9 +122,39 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.6666666666666666,
+      "progressStart": 0.5,
+      "progressEnd": 0.75,
+      "progressMidpoint": 0.625
+    },
+    {
+      "position": 4,
+      "artist": "Sciahri",
+      "track": "Too Much Time",
+      "uri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+      "bpm": 140,
+      "role": "Ground — provisional physical widening",
+      "added": "2026-09-06",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "track-4",
+        "physical-widening",
+        "mutual-rytm",
+        "explore-run-10-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 1080000,
+      "endMs": 1440000,
+      "midpointMs": 1260000,
+      "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
+      "protected": false,
+      "progressStart": 0.75,
       "progressEnd": 1,
-      "progressMidpoint": 0.8333333333333334
+      "progressMidpoint": 0.875
     }
   ],
   "transitions": [
@@ -143,6 +173,15 @@
       "fromPosition": 2,
       "toPosition": 3,
       "bpmDelta": -2,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+      "toUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+      "fromPosition": 3,
+      "toPosition": 4,
+      "bpmDelta": 6,
       "protected": false,
       "frozen": false
     }
