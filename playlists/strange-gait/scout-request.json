@@ -1,67 +1,31 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-06T08:52:08Z-repair-doctrine-7",
-  "sourceCommit": "544d08a7296b3ad39311ba7ab19172d19b972d58",
+  "runId": "2026-09-06T09:11:40Z-repair-track3-8",
+  "sourceCommit": "e4fbea29bde0b3a52be43d893a2ea7b2992ff24f",
   "mode": "REPAIR",
   "target": {
-    "role": "STRANGE GAIT Track 2 after doctrine correction",
-    "position": "after Inigo Kennedy — Marauder — Track 2 at end of ledger",
-    "neighbours": ["spotify:track:4YhLd9gtkp0vLWu4RNJ716"],
-    "purpose": "re-evaluate doctrine-triggered exact candidates under transition, local-run and long-form DJ logic without imposing the retired same-room or fixed-Ground admission rule"
+    "role": "STRANGE GAIT Track 3 after doctrine-corrected two-track opening",
+    "position": "after Inigo Kennedy — The Witching Hour as Track 3 at end of ledger",
+    "neighbours": ["spotify:track:6zBPgkGHHiZfxg5eSjSCRd"],
+    "purpose": "reassess triggered candidates in the materially changed Track-3 context and establish a convincing three-track local run without imposing sameness, novelty quotas, fixed chapter progression, or BPM-as-flow logic"
   },
   "leads": [
-    {
-      "artist": "Inigo Kennedy",
-      "track": "The Witching Hour",
-      "spotifyTrackId": "6zBPgkGHHiZfxg5eSjSCRd",
-      "bpm": 136,
-      "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
-      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 1; same Flux Rope release as Marauder with official release description referencing rolling bass-heavy percussion and pads",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
-      "fitHypothesis": "Same-release context, exact 136 BPM identity and prior source-backed rhythmic description make this the strongest controlled continuation hypothesis, while the revised doctrine no longer requires proof of one identical felt-energy room.",
-      "evidence": {
-        "measured": ["spotify:track:6zBPgkGHHiZfxg5eSjSCRd previously exactly resolved", "136 BPM previously verified", "5:15 duration previously resolved"],
-        "attributedDescription": "Prior official Flux Rope release evidence described rolling bass-heavy percussion and pads; this is attributed source language, not direct listening.",
-        "listenerEvidence": "The listener reported that the prior four-track opening changed energy awkwardly track by track; that evidence applies to that failed sequence and requires deliberate flow here, but does not prove all vibe changes fail.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A same-release handoff is a useful controlled sequencing hypothesis, but not proof of perceived continuity."
-      }
-    },
     {
       "artist": "Rene Wise",
       "track": "Cave",
       "spotifyTrackId": "2Z0j3jb573fveL4Pf3NkP1",
       "bpm": 134,
       "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
-      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 5; Moving Pressure track-specific evidence around grounded physicality, hypnosis, murk and tension",
+      "discoverySource": "playlists/strange-gait/discoveries.md and revisit.md — track-specific Moving Pressure evidence around grounded physicality, hypnosis, murk and tension; re-triggered because The Witching Hour materially changed the concrete placement context",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
-      "fitHypothesis": "Track-specific source evidence supports a body-first, restrained techno hypothesis that could make a deliberate move after Marauder; the 136→134 tempo change is measured context only, not the reason for admission.",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — The Witching Hour as Track 3"}],
+      "fitHypothesis": "Cave has the strongest track-specific source evidence among the triggered options and could turn the current controlled pair into a broader but still deliberate local run; its exact felt transition remains unknown because no lawful audio or listener evidence covers this pair.",
       "evidence": {
-        "measured": ["spotify:track:2Z0j3jb573fveL4Pf3NkP1 previously exactly resolved", "134 BPM previously verified", "6:01 duration previously resolved"],
-        "attributedDescription": "Moving Pressure source evidence previously recorded grounded physicality, hypnosis, murk and tension; this remains attributed evidence rather than model listening.",
-        "listenerEvidence": "The failed prior opening warns against paper-only energy assumptions, but Cave was not part of that rejected sequence.",
+        "measured": ["spotify:track:2Z0j3jb573fveL4Pf3NkP1 previously exactly resolved", "134 BPM previously verified", "6:01 duration previously resolved", "incoming measured tempo step 136→134 BPM"],
+        "attributedDescription": "Moving Pressure source evidence previously recorded grounded physicality, hypnosis, murk and tension; this is attributed track-specific evidence, not direct model listening.",
+        "listenerEvidence": "The listener rejected the earlier Marauder → Some Letters → Alive → Drift C sequence for awkward energy resets. Cave was not part of that sequence, but Track 3 must help the current opening feel curated rather than restart it accidentally.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A modest tempo step and track-specific restraint framing make the placement worth exact reassessment without treating similarity as mandatory."
-      }
-    },
-    {
-      "artist": "Mitra",
-      "track": "Hush",
-      "spotifyTrackId": "6AG1Tv6tkPMYnA7xrB94KT",
-      "bpm": 137,
-      "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/revisit.md and discoveries.md",
-      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening after the prior bootstrap rejection penalized warmth and insufficiently distinct gait deformation",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
-      "fitHypothesis": "The revised constitution explicitly allows warmer or straighter material when it contributes to the journey, so the earlier structural-novelty rejection no longer blocks a concrete Track-2 reassessment.",
-      "evidence": {
-        "measured": ["spotify:track:6AG1Tv6tkPMYnA7xrB94KT previously exactly resolved", "137 BPM previously verified"],
-        "attributedDescription": null,
-        "listenerEvidence": "No direct listener verdict exists for Hush in this placement; the user objected to the previous four-track sequence as a whole, not to Hush.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Warmth or a straighter gait is neither a virtue nor defect; the relevant question is whether the move is deliberate and useful in the opening run."
+        "craftConvention": "After two same-release tracks, a carefully framed move into a different production world may establish breadth without making sameness permanent; the 2 BPM decrease is context only, not proof of continuity."
       }
     },
     {
@@ -70,16 +34,34 @@
       "spotifyTrackId": "4vLdXJEHEdsTg9pm6S2VAh",
       "bpm": 138,
       "bpmSource": "Previously verified repository resolver snapshot recorded in playlists/strange-gait/discoveries.md",
-      "discoverySource": "playlists/strange-gait/discoveries.md — 2026-09-06 Vibe-first Run 2; release-level evidence emphasized beginnings/endings, restraint, atmosphere and control",
+      "discoverySource": "playlists/strange-gait/discoveries.md and revisit.md — release-level evidence emphasized beginnings/endings, restraint, atmosphere and control; exact identity resolved as an unselected alternate in repair run 7",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2"}],
-      "fitHypothesis": "Its old rejection depended on proving one identical restrained envelope from release-level evidence; that gate is retired, so it deserves exact reassessment as a deliberate opening move while preserving the weakness of the evidence as release-level rather than track-specific.",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — The Witching Hour as Track 3"}],
+      "fitHypothesis": "Ostinato 2.0 may extend opening-set restraint while changing artist and production context, but its source framing is release-level rather than track-specific and therefore weaker than Cave's evidence package.",
       "evidence": {
-        "measured": ["spotify:track:4vLdXJEHEdsTg9pm6S2VAh previously exactly resolved", "138 BPM previously verified", "5:10 duration previously resolved"],
-        "attributedDescription": "The compilation-level source framing emphasized beginnings, atmosphere, restraint and control; it is not track-specific evidence of Ostinato 2.0's perceived energy.",
-        "listenerEvidence": "No direct listener verdict exists for Ostinato 2.0 in this placement.",
+        "measured": ["spotify:track:4vLdXJEHEdsTg9pm6S2VAh previously exactly resolved", "138 BPM previously verified", "5:10 duration previously resolved", "incoming measured tempo step 136→138 BPM"],
+        "attributedDescription": "The compilation-level source framing emphasized beginnings, atmosphere, restraint and control; it is not track-specific evidence of Ostinato 2.0's perceived energy or exact transition feel.",
+        "listenerEvidence": "No direct listener verdict exists for Ostinato 2.0 in this placement; the prior sequence complaint raises the burden against arbitrary-feeling resets.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "The placement is plausible enough to evaluate, but release-level framing is weaker than track-specific evidence."
+        "craftConvention": "A modestly rising tempo and opening-oriented release context make the placement plausible enough to evaluate, but neither proves flow."
+      }
+    },
+    {
+      "artist": "Mitra",
+      "track": "Hush",
+      "spotifyTrackId": "6AG1Tv6tkPMYnA7xrB94KT",
+      "bpm": 137,
+      "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/revisit.md and discoveries.md",
+      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening after its old rejection wrongly penalized warmth and insufficient gait novelty; re-triggered for the changed Track-3 context",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — The Witching Hour as Track 3"}],
+      "fitHypothesis": "Hush remains a legitimate broader-volume candidate because warmth and straightness are not defects, but there is little track-specific attributed evidence to explain why this exact Track-3 move would be stronger than the alternatives.",
+      "evidence": {
+        "measured": ["spotify:track:6AG1Tv6tkPMYnA7xrB94KT previously exactly resolved", "137 BPM previously verified", "incoming measured tempo step 136→137 BPM"],
+        "attributedDescription": null,
+        "listenerEvidence": "No direct listener verdict exists for Hush in this placement; the user objected to the prior failed sequence as a whole, not to Hush.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A warmer or straighter third track could be a deliberate widening move, but without track-specific evidence this remains a weaker paper hypothesis."
       }
     },
     {
@@ -88,16 +70,16 @@
       "spotifyTrackId": "7sHN0QPVxD7NjkSCH6NTZi",
       "bpm": 140,
       "bpmSource": "Previously verified repository resolver state recorded in playlists/strange-gait/discoveries.md and revisit.md",
-      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening because its prior trigger depended on a fixed Lock chapter and one-vibe protection; its polymetric/43EDO identity remains relevant to the volume lens",
+      "discoverySource": "playlists/strange-gait/revisit.md — doctrine-triggered reopening because its prior gating depended on a fixed Lock chapter and one-vibe protection; its documented polymetric/43EDO identity remains relevant to the selection lens",
       "searchIntent": "BOTH",
-      "proposedPlacements": [{"position": "after Inigo Kennedy — Marauder as Track 2 as an intentionally conspicuous contrast"}],
-      "fitHypothesis": "Mystify strongly engages the structural-freedom selection lens and the global doctrine permits hard left turns, but its 16:31 duration and technical foregrounding make an opening placement a materially higher-risk hypothesis.",
+      "proposedPlacements": [{"position": "after Inigo Kennedy — The Witching Hour as Track 3 as an intentionally conspicuous structural turn"}],
+      "fitHypothesis": "Mystify strongly engages STRANGE GAIT's structural-freedom lens, but its 16:31 duration and technical foregrounding create a higher-risk early-run contrast, so novelty alone cannot justify placing it third.",
       "evidence": {
-        "measured": ["spotify:track:7sHN0QPVxD7NjkSCH6NTZi previously exactly resolved", "140 BPM previously verified", "16:31 duration previously resolved"],
-        "attributedDescription": "Repository history identifies polymetric/43EDO structure as part of the track's documented identity; this is not a claim about perceived energy or exact mixability.",
-        "listenerEvidence": "The listener disliked arbitrary-feeling energy resets in the prior opening, so any deliberate contrast here carries a higher burden of sequencing rationale.",
+        "measured": ["spotify:track:7sHN0QPVxD7NjkSCH6NTZi previously exactly resolved", "140 BPM previously verified", "16:31 duration previously resolved", "incoming measured tempo step 136→140 BPM"],
+        "attributedDescription": "Repository history documents polymetric/43EDO structure as part of the track's identity; this is not a claim about perceived energy, phrase fit or mixability.",
+        "listenerEvidence": "The listener disliked arbitrary-feeling energy resets in the earlier opening, so a conspicuous Track-3 turn carries a high burden of sequencing purpose.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A conspicuous early contrast can work in long-form sequencing, but it should not be used merely to advertise rhythmic novelty."
+        "craftConvention": "A hard left turn can work, but Track 3 should not spend contrast merely to demonstrate rhythmic novelty before the local run has established trust."
       }
     }
   ]
