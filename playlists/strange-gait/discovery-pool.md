@@ -1,31 +1,20 @@
 # STRANGE GAIT — Discovery Pool
 
-This is a non-canonical inspiration layer. Pool membership never overrides canonical REJECT/REVISIT state and never publishes to Spotify.
-
-## Current pool
+Non-canonical inspiration layer. Pool membership never proves canonical fit or publishes to Spotify.
 
 | Class | Artist / source | Track / release | Spotify / source | Why keep it | Canonical status |
 |---|---|---|---|---|---|
-| EXACT TRACK | Inigo Kennedy | The Witching Hour | https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd | Same Flux Rope release as Marauder; source-backed rolling bass-heavy percussion/pads. | `ADD` — Track 2, provisional |
-| EXACT TRACK | Rene Wise | Cave | https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1 | Track-specific Moving Pressure evidence around grounded physicality, murk, hypnosis and tension. | `ADD` — Track 3, provisional |
-| EXACT TRACK | Sciahri | Too Much Time | https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO | Mutual Rytm specifically frames a wall-rattling groove with subtle synth motifs. | `ADD` — Track 4, provisional |
-| EXACT TRACK | Sciahri | Moonwake | https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j | Mutual Rytm specifically frames robust rumbling drums and stark futuristic synths. | `ADD` — Track 5, provisional |
-| EXACT TRACK | Steve Rachmad | Ostinato 2.0 | https://open.spotify.com/track/4vLdXJEHEdsTg9pm6S2VAh | Useful restraint/opening reference though evidence remains release-level. | `REVISIT` — PARKED |
-| RESEARCH LEAD | KNTZ / Dosis Records | Kernel / Hive [DOSIS050] | https://dosisrecords.bandcamp.com/album/hive-dosis050 | Current release; Dosis frames the EP through dense layers, precise rhythmic structures and dancefloor-built tools. Resolver found no exact Spotify match in SE. | `POOL ONLY` |
-| RESEARCH LEAD | Hypatia / Mona Records | Riddles in the Dark | https://monarecords.bandcamp.com/album/hypatia-riddles-in-the-dark-ep | Hypnosis, rhythmic propulsion, subtle evolution and long-form development in release framing. Resolver found no exact Spotify match in SE. | `POOL ONLY` |
-| RESEARCH LEAD | Rødder / [R]3volution | Horizonte de Sucesos | https://r3volutionrecords.bandcamp.com/album/horizonte-de-sucesos-ep | External exact metadata gives 138 BPM; release is framed in darker raw/deep/hypnotic techno. Resolver found no exact Spotify match in SE. | `POOL ONLY` |
-| RELEASE WATCH | Moving Pressure | Moving Pressure 07 | https://movingpressure.bandcamp.com/album/moving-pressure-07 | Restraint, repetition, evolving texture and patient intensity. | Pre-release watch |
-| RESEARCH LEAD | James Ruskin / Blueprint | Unknown Destination (Remaster) | https://jamesruskin.bandcamp.com/album/further-design-2026-remaster | External 136 BPM metadata; Spotify identity unresolved in SE. | `POOL ONLY` |
-| RESEARCH LEAD | natsumi hirota / early reflex | Migi / Zahyo | https://earlyreflex.bandcamp.com/album/zahyo | Wonky syncopation repeatedly realigning around an elastic locked-in groove. | `POOL ONLY` |
-| RESEARCH LEAD | Pulso / Endemit | Aerials / Tessera Rubin | https://endemit.bandcamp.com/album/tessera-rubin | Crisp 909s, looming pads and restrained intensity in source framing. | `POOL ONLY` |
-| RESEARCH LEAD | ESTADO DE BIENESTAR / Oráculo Records | Capítulo IV | https://oraculorecords.bandcamp.com/album/cap-tulo-iv-la-fiesta-seria-y-nuevas-formas-de-tecnaco | Cross-vocabulary long-form coherence research. | `POOL ONLY` |
-| RESEARCH LEAD | Djrum / Houndstooth | I Wander | https://djrum.bandcamp.com/album/i-wander | Long-form soundsystem-rooted composition research corridor. | `POOL ONLY` |
-| RELEASE WATCH | Hallucinator / Numbers | Landlocked | https://nmbrs.bandcamp.com/album/landlocked | Remastered late-1990s Chain Reaction route into dub-techno lineage. | `RELEASE WATCH` |
+| EXACT TRACK | Phil Berg | Chimera | https://open.spotify.com/track/2rWGw0Yoslr9rBEQ1EBf3F | 138 BPM; SK_eleven's Iso is framed around reduction/discipline and loops that breathe and shift. | `REVISIT` — PARKED after run 12 |
+| RESEARCH LEAD | UMFANG / Hardspace | Complete Your Collection (Hardspace Mix) | https://hardspace.bandcamp.com/album/hardspace-h010 | Current Sep 4; track-specific layered rhythmic complexity, shifting bass weight and trippy floor-focused drive; exact Spotify title/artist match unresolved in SE. | `POOL ONLY` |
+| RESEARCH LEAD | John Darque / Space Textures | Contour | https://spacetextures.bandcamp.com/album/contour-ep | Current Sep 4; meditations on rhythm, drift and uncertainty/dream at release level; exact Spotify match unresolved in SE. | `POOL ONLY` |
+| RESEARCH LEAD | Snuff Crew / Hardspace | Where's The Bad? (Hardspace Mix) | https://hardspace.bandcamp.com/album/hardspace-h010 | Current Sep 4; singular hypnotic loop for peak-time impact in track-specific source framing; exact Spotify match unresolved in SE. | `POOL ONLY` |
+| EXACT TRACK | Sciahri | Too Much Time | https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO | Track-specific groove-centered Mutual Rytm evidence. | `ADD` — Track 4 |
+| EXACT TRACK | Sciahri | Moonwake | https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j | Track-specific robust drums/futuristic synth framing. | `ADD` — Track 5 |
+| EXACT TRACK | Rene Wise | Cave | https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1 | Track-specific grounded physicality, murk, hypnosis and tension. | `ADD` — Track 3 |
+| RESEARCH LEAD | KNTZ / Dosis | Kernel | https://dosisrecords.bandcamp.com/album/hive-dosis050 | Current rhythmic/dancefloor release; unresolved Spotify SE. | `POOL ONLY` |
+| RESEARCH LEAD | Hypatia / Mona | Riddles in the Dark | https://monarecords.bandcamp.com/album/hypatia-riddles-in-the-dark-ep | Hypnosis, propulsion and gradual development; unresolved Spotify SE. | `POOL ONLY` |
+| RESEARCH LEAD | Rødder / [R]3volution | Horizonte de Sucesos | https://r3volutionrecords.bandcamp.com/album/horizonte-de-sucesos-ep | 138 BPM external metadata; darker raw/deep/hypnotic corridor; unresolved Spotify SE. | `POOL ONLY` |
+| RELEASE WATCH | SK_eleven | Confusion — In Cycles | https://skeleven.bandcamp.com/album/in-cycles-sk11corp001 | Sep 11 long-form club statement; dense rhythmic structures, repetition/surprise and recursive changes. | `RELEASE WATCH` |
+| RELEASE WATCH | Hallucinator / Numbers | Landlocked | https://nmbrs.bandcamp.com/album/landlocked | Sep 18 remastered Chain Reaction lineage. | `RELEASE WATCH` |
 
-## Rules
-
-1. Pool membership never proves canonical fit or neighbour compatibility.
-2. Do not promote directly from this file.
-3. REJECT/REVISIT state remains authoritative.
-4. Do not invent identity, BPM, availability, sonic facts or transition quality.
-5. Avoid duplicates and do not ask the user to administer the pool.
+Rules: do not promote directly; preserve unresolved status; do not invent sonic facts; avoid duplicates.
