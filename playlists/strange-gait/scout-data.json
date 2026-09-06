@@ -1,374 +1,297 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "5222d1dc9121aa2ffb0ba2ce2bb268b4ff21f742e6cfb123b059e5ccb72f1086",
-  "generatedAt": "2026-09-06T11:06:37.472Z",
-  "runId": "2026-09-06T11:07:00Z-explore-16",
-  "sourceCommit": "8789957aace84454c0209b2b2c622ff4eb7b0831",
+  "requestFingerprint": "092449c8f7e9647b8f7fad785282b4fda531299433cee2f429b8d4c9bfc88903",
+  "generatedAt": "2026-09-06T11:10:14.685Z",
+  "runId": "2026-09-06T11:10:00Z-explore-17",
+  "sourceCommit": "e7bdf6586c33965f96666c372467a46049ddadd1",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh Track 6 discovery via Primal Instinct",
+    "role": "fresh STRANGE GAIT Track 6 discovery via Token",
     "position": "after Sciahri — Moonwake as Track 6",
     "neighbours": [
       "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"
     ],
-    "purpose": "test groove/organic-design material after four no-add outward scans"
+    "purpose": "test track-specifically described rhythmic redirections after several evidence-limited no-add scans"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:07:00Z",
+    "timestampUtc": "2026-09-06T11:10:00Z",
     "sourceWindows": [
-      "Primal Instinct current catalogue incl. upcoming Ignez — When We Froze watch",
-      "Hadone — Bite The Hand That Feeds You, May 15 2026",
-      "Temudo — And The Pattern Repeats, Mar 20 2026",
-      "overlooked Primal Instinct catalogue"
+      "Current Token 2026 discography through September, with unretrieved September Allure material used only as current label context",
+      "Token / Nørbak — Chuva, released 2026-02-06: https://tokenrecords.bandcamp.com/album/chuva",
+      "Token / Various Artists — Fuga VII, released 2026-04-17: https://tokenrecords.bandcamp.com/album/fuga-vii",
+      "Exact Token track pages for Capa, Critical Velocity, The Strategy and Ad Libitum"
     ],
-    "approximateInspectedScope": "about 28 tracks/releases across current/adjacent/overlooked Primal Instinct",
+    "approximateInspectedScope": "approximately 30 named tracks/releases across Token's 2026 current, adjacent and overlooked catalogue",
     "exclusions": [
-      "When We Froze remains pre-order and was not promoted",
-      "conceptual titles/descriptions were not used as sonic evidence",
-      "parked candidates not recycled"
+      "Token September Allure material was not promoted without a sufficiently concrete retrievable track evidence page",
+      "artist reputation and Token identity were not treated as admission evidence",
+      "high-pressure framing was not automatically rejected, but had to serve a concrete long-form purpose",
+      "parked STRANGE GAIT candidates were not recycled without trigger"
     ],
     "rankedLeadSummary": [
-      "Hadone — Sit In Their Seat, 5:18",
-      "Hadone — Bite The Hand That Feeds You, 4:49",
-      "Temudo — U Used to Laugh at My Jokes, 6:25",
-      "Temudo — And the Pattern Repeats, 6:55"
+      "1. Nørbak — Capa: track-specific Token description says it bends almost to a break, is rhythmically expressive, and rides a dangerous bassline with dry percussion",
+      "2. Porteix — Ad Libitum: track-specific Token description says synths slither around a pulsating rhythm creating uninterrupted motion, sustaining mystery and suspense",
+      "3. MAL HOMBRE — Critical Velocity: elastic sound design with intensity snowballing halfway, snare rolls, bells and hats driving the course",
+      "4. Connor Wall — The Strategy: focuses on pace rather than melody, metallic texture and a deep dancefloor experience, with ambience marking breaks and drops"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 4,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
+    {
+      "artist": "Porteix",
+      "track": "Ad Libitum",
+      "error": "ambiguous exact Spotify release match (6GUWGzFMSqsXnU3j8xgFtZ, 6I412EIbTpQDItxpeSqGkf)",
+      "requestedIdentity": {
+        "artist": "Porteix",
+        "track": "Ad Libitum",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description says synths slither around a pulsating rhythm creating uninterrupted motion, with mystery and suspense maintained through the conclusion",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "Ad Libitum offers a strong uninterrupted-motion belonging hypothesis and could continue bodily drive while changing texture and suspense after Moonwake; exact energy/pressure relation remains unknown.",
+        "evidence": {
+          "measured": [
+            "5:54 duration from official Token Bandcamp",
+            "released 2026-04-17"
+          ],
+          "attributedDescription": "Token describes pulsating rhythm, slithering synths, uninterrupted motion, mystery and suspense; track-specific source evidence.",
+          "listenerEvidence": "No direct listener evidence exists for Ad Libitum.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Uninterrupted-motion framing makes a continuation plausible without demanding sameness, but does not prove exact neighbour flow."
+        }
+      }
+    },
+    {
+      "artist": "MAL HOMBRE",
+      "track": "Critical Velocity",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "MAL HOMBRE",
+        "track": "Critical Velocity",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description highlights elastic sound design, intensity snowballing halfway, cutoff melody, snare rolls, bells and ringing hats driving the track onward",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "Critical Velocity strongly engages elastic/rhythmic STRANGE GAIT territory, but its documented snowballing intensity makes an immediate post-Moonwake placement a higher-risk continuation rather than an obvious release.",
+        "evidence": {
+          "measured": [
+            "6:00 duration from official Token Bandcamp",
+            "released 2026-04-17"
+          ],
+          "attributedDescription": "Token describes elastic sound design and intensity snowballing halfway, driven by snare rolls, bells and hats; track-specific evidence.",
+          "listenerEvidence": "The current sequence already contains a two-track intensification, so another escalation needs a clear long-form reason.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Escalation can be excellent, but stacking intensity without a larger purpose risks flattening the journey."
+        }
+      }
+    },
+    {
+      "artist": "Connor Wall",
+      "track": "The Strategy",
+      "error": "ambiguous exact Spotify release match (4XgwKPUqoS8I2eGWc1atkl, 5VWxg0Lxa0PO17kgQ6oS6n)",
+      "requestedIdentity": {
+        "artist": "Connor Wall",
+        "track": "The Strategy",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description says The Strategy focuses on pace rather than melody, weaponizes metallic texture for a deep dancefloor experience, and uses ambience to mark breaks and drops",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "The Strategy has credible physical/deep dancefloor belonging and a pace-first identity, but its exact role after Moonwake is less distinctive than Capa's rhythmic redirection or Ad Libitum's uninterrupted-motion hypothesis.",
+        "evidence": {
+          "measured": [
+            "6:49 duration from official Token Bandcamp",
+            "released 2026-04-17"
+          ],
+          "attributedDescription": "Token describes pace over melody, metallic texture, deep dancefloor function and ambience marking breaks/drops; track-specific evidence.",
+          "listenerEvidence": "No direct listener evidence exists for The Strategy.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Pace-focused deep techno can preserve movement, but exact post-Moonwake purpose still needs evaluation."
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Hadone",
-        "track": "Sit In Their Seat",
-        "releaseDate": "2026-05-15",
-        "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
+        "artist": "Nørbak",
+        "track": "Capa",
+        "releaseDate": "2026-02-06",
+        "discoverySource": "Token official Chuva release; track-specific description says Capa bends almost to a break, is rhythmically expressive, and drives with a dangerous bassline and dry percussion",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
+        "fitHypothesis": "Capa has unusually strong track-specific evidence for STRANGE GAIT's rhythmic-freedom lens and could deliberately redirect the current straightened Sciahri run toward a more broken gait without requiring novelty for its own sake; exact felt energy and neighbour transition remain unknown.",
         "evidence": {
           "measured": [
-            "5:18 duration",
-            "released 2026-05-15"
+            "5:43 duration from official Token Bandcamp",
+            "released 2026-02-06"
           ],
-          "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
-          "listenerEvidence": "No direct listener evidence.",
+          "attributedDescription": "Token says Capa bends almost to a break, is rhythmically expressive, and uses a dangerous bassline with dry percussion; attributed track-specific evidence.",
+          "listenerEvidence": "The listener rejected an earlier sequence whose energy changed arbitrarily track by track. Capa must therefore function as an intentional rhythmic redirection rather than merely a different technique.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Groove-focused label context earns resolution, not placement."
+          "craftConvention": "After a two-track intensification, a controlled change in rhythmic grammar can reopen the journey if it retains bodily purpose; source description supports the hypothesis but does not prove perceived flow."
         }
       },
-      "spotifyTrackId": "6zP3CvVy8oDEytCGXqH1wu",
+      "spotifyTrackId": "5np6Qsak6d5kIdkktjblRB",
       "selected": true
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Hadone",
-        "track": "Bite The Hand That Feeds You",
-        "releaseDate": "2026-05-15",
-        "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
+        "artist": "Porteix",
+        "track": "Ad Libitum",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description says synths slither around a pulsating rhythm creating uninterrupted motion, with mystery and suspense maintained through the conclusion",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
+        "fitHypothesis": "Ad Libitum offers a strong uninterrupted-motion belonging hypothesis and could continue bodily drive while changing texture and suspense after Moonwake; exact energy/pressure relation remains unknown.",
         "evidence": {
           "measured": [
-            "4:49 duration",
-            "released 2026-05-15"
+            "5:54 duration from official Token Bandcamp",
+            "released 2026-04-17"
           ],
-          "attributedDescription": "Release concept and label groove/organic-design framing only.",
-          "listenerEvidence": "No direct listener evidence.",
+          "attributedDescription": "Token describes pulsating rhythm, slithering synths, uninterrupted motion, mystery and suspense; track-specific source evidence.",
+          "listenerEvidence": "No direct listener evidence exists for Ad Libitum.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Do not convert project concept into a sequencing claim."
+          "craftConvention": "Uninterrupted-motion framing makes a continuation plausible without demanding sameness, but does not prove exact neighbour flow."
         }
       },
-      "spotifyTrackId": "0eZ2nfNNzWW1T7T3wPbkHC",
-      "selected": true
+      "error": "ambiguous exact Spotify release match (6GUWGzFMSqsXnU3j8xgFtZ, 6I412EIbTpQDItxpeSqGkf)"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Temudo",
-        "track": "U Used to Laugh at My Jokes",
-        "releaseDate": "2026-03-20",
-        "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
+        "artist": "MAL HOMBRE",
+        "track": "Critical Velocity",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description highlights elastic sound design, intensity snowballing halfway, cutoff melody, snare rolls, bells and ringing hats driving the track onward",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
+        "fitHypothesis": "Critical Velocity strongly engages elastic/rhythmic STRANGE GAIT territory, but its documented snowballing intensity makes an immediate post-Moonwake placement a higher-risk continuation rather than an obvious release.",
         "evidence": {
           "measured": [
-            "6:25 duration",
-            "released 2026-03-20"
+            "6:00 duration from official Token Bandcamp",
+            "released 2026-04-17"
           ],
-          "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
-          "listenerEvidence": "No direct listener evidence.",
+          "attributedDescription": "Token describes elastic sound design and intensity snowballing halfway, driven by snare rolls, bells and hats; track-specific evidence.",
+          "listenerEvidence": "The current sequence already contains a two-track intensification, so another escalation needs a clear long-form reason.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
+          "craftConvention": "Escalation can be excellent, but stacking intensity without a larger purpose risks flattening the journey."
         }
       },
-      "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Temudo",
-        "track": "And the Pattern Repeats",
-        "releaseDate": "2026-03-20",
-        "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
+        "artist": "Connor Wall",
+        "track": "The Strategy",
+        "releaseDate": "2026-04-17",
+        "discoverySource": "Token official Fuga VII release; track-specific description says The Strategy focuses on pace rather than melody, weaponizes metallic texture for a deep dancefloor experience, and uses ambience to mark breaks and drops",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
+        "fitHypothesis": "The Strategy has credible physical/deep dancefloor belonging and a pace-first identity, but its exact role after Moonwake is less distinctive than Capa's rhythmic redirection or Ad Libitum's uninterrupted-motion hypothesis.",
         "evidence": {
           "measured": [
-            "6:55 duration",
-            "released 2026-03-20"
+            "6:49 duration from official Token Bandcamp",
+            "released 2026-04-17"
           ],
-          "attributedDescription": "Label/release-level framing only.",
-          "listenerEvidence": "No direct listener evidence.",
+          "attributedDescription": "Token describes pace over melody, metallic texture, deep dancefloor function and ambience marking breaks/drops; track-specific evidence.",
+          "listenerEvidence": "No direct listener evidence exists for The Strategy.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
+          "craftConvention": "Pace-focused deep techno can preserve movement, but exact post-Moonwake purpose still needs evaluation."
         }
       },
-      "spotifyTrackId": "3nwkJwA2laLtQ3v75IaUDy",
-      "selected": false
+      "error": "ambiguous exact Spotify release match (4XgwKPUqoS8I2eGWc1atkl, 5VWxg0Lxa0PO17kgQ6oS6n)"
     }
   ],
   "candidates": [
     {
-      "id": "6zP3CvVy8oDEytCGXqH1wu",
-      "uri": "spotify:track:6zP3CvVy8oDEytCGXqH1wu",
-      "name": "Sit in Their Seat",
+      "id": "5np6Qsak6d5kIdkktjblRB",
+      "uri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+      "name": "Capa",
       "artists": [
-        "Hadone"
+        "Nørbak"
       ],
-      "album": "Bite the Hand That Feeds You",
-      "releaseDate": "2026-05-15",
-      "durationMs": 318946,
-      "spotifyUrl": "https://open.spotify.com/track/6zP3CvVy8oDEytCGXqH1wu",
-      "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
+      "album": "Chuva",
+      "releaseDate": "2026-02-06",
+      "durationMs": 343357,
+      "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
+      "discoverySource": "Token official Chuva release; track-specific description says Capa bends almost to a break, is rhythmically expressive, and drives with a dangerous bassline and dry percussion",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Sciahri — Moonwake as Track 6"
         }
       ],
-      "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
+      "fitHypothesis": "Capa has unusually strong track-specific evidence for STRANGE GAIT's rhythmic-freedom lens and could deliberately redirect the current straightened Sciahri run toward a more broken gait without requiring novelty for its own sake; exact felt energy and neighbour transition remain unknown.",
       "evidence": {
         "measured": [
-          "5:18 duration",
-          "released 2026-05-15"
+          "5:43 duration from official Token Bandcamp",
+          "released 2026-02-06"
         ],
-        "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
-        "listenerEvidence": "No direct listener evidence.",
+        "attributedDescription": "Token says Capa bends almost to a break, is rhythmically expressive, and uses a dangerous bassline with dry percussion; attributed track-specific evidence.",
+        "listenerEvidence": "The listener rejected an earlier sequence whose energy changed arbitrarily track by track. Capa must therefore function as an intentional rhythmic redirection rather than merely a different technique.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Groove-focused label context earns resolution, not placement."
+        "craftConvention": "After a two-track intensification, a controlled change in rhythmic grammar can reopen the journey if it retains bodily purpose; source description supports the hypothesis but does not prove perceived flow."
       },
       "requestedIdentity": {
-        "artist": "Hadone",
-        "track": "Sit In Their Seat",
-        "releaseDate": "2026-05-15",
-        "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
+        "artist": "Nørbak",
+        "track": "Capa",
+        "releaseDate": "2026-02-06",
+        "discoverySource": "Token official Chuva release; track-specific description says Capa bends almost to a break, is rhythmically expressive, and drives with a dangerous bassline and dry percussion",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
+        "fitHypothesis": "Capa has unusually strong track-specific evidence for STRANGE GAIT's rhythmic-freedom lens and could deliberately redirect the current straightened Sciahri run toward a more broken gait without requiring novelty for its own sake; exact felt energy and neighbour transition remain unknown.",
         "evidence": {
           "measured": [
-            "5:18 duration",
-            "released 2026-05-15"
+            "5:43 duration from official Token Bandcamp",
+            "released 2026-02-06"
           ],
-          "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
-          "listenerEvidence": "No direct listener evidence.",
+          "attributedDescription": "Token says Capa bends almost to a break, is rhythmically expressive, and uses a dangerous bassline with dry percussion; attributed track-specific evidence.",
+          "listenerEvidence": "The listener rejected an earlier sequence whose energy changed arbitrarily track by track. Capa must therefore function as an intentional rhythmic redirection rather than merely a different technique.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Groove-focused label context earns resolution, not placement."
-        }
-      }
-    },
-    {
-      "id": "0eZ2nfNNzWW1T7T3wPbkHC",
-      "uri": "spotify:track:0eZ2nfNNzWW1T7T3wPbkHC",
-      "name": "Bite the Hand That Feeds You",
-      "artists": [
-        "Hadone"
-      ],
-      "album": "Bite the Hand That Feeds You",
-      "releaseDate": "2026-05-15",
-      "durationMs": 289466,
-      "spotifyUrl": "https://open.spotify.com/track/0eZ2nfNNzWW1T7T3wPbkHC",
-      "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Sciahri — Moonwake as Track 6"
-        }
-      ],
-      "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
-      "evidence": {
-        "measured": [
-          "4:49 duration",
-          "released 2026-05-15"
-        ],
-        "attributedDescription": "Release concept and label groove/organic-design framing only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Do not convert project concept into a sequencing claim."
-      },
-      "requestedIdentity": {
-        "artist": "Hadone",
-        "track": "Bite The Hand That Feeds You",
-        "releaseDate": "2026-05-15",
-        "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
-        "evidence": {
-          "measured": [
-            "4:49 duration",
-            "released 2026-05-15"
-          ],
-          "attributedDescription": "Release concept and label groove/organic-design framing only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Do not convert project concept into a sequencing claim."
-        }
-      }
-    },
-    {
-      "id": "6G4OuJ8hKbNt96UrmPWI2J",
-      "uri": "spotify:track:6G4OuJ8hKbNt96UrmPWI2J",
-      "name": "U Used to Laugh at My Jokes",
-      "artists": [
-        "Temudo"
-      ],
-      "album": "And the Pattern Repeats",
-      "releaseDate": "2026-03-20",
-      "durationMs": 385000,
-      "spotifyUrl": "https://open.spotify.com/track/6G4OuJ8hKbNt96UrmPWI2J",
-      "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Sciahri — Moonwake as Track 6"
-        }
-      ],
-      "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
-      "evidence": {
-        "measured": [
-          "6:25 duration",
-          "released 2026-03-20"
-        ],
-        "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
-      },
-      "requestedIdentity": {
-        "artist": "Temudo",
-        "track": "U Used to Laugh at My Jokes",
-        "releaseDate": "2026-03-20",
-        "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
-        "evidence": {
-          "measured": [
-            "6:25 duration",
-            "released 2026-03-20"
-          ],
-          "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
+          "craftConvention": "After a two-track intensification, a controlled change in rhythmic grammar can reopen the journey if it retains bodily purpose; source description supports the hypothesis but does not prove perceived flow."
         }
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "3nwkJwA2laLtQ3v75IaUDy",
-      "uri": "spotify:track:3nwkJwA2laLtQ3v75IaUDy",
-      "name": "And the Pattern Repeats",
-      "artists": [
-        "Temudo"
-      ],
-      "album": "And the Pattern Repeats",
-      "releaseDate": "2026-03-20",
-      "durationMs": 415386,
-      "spotifyUrl": "https://open.spotify.com/track/3nwkJwA2laLtQ3v75IaUDy",
-      "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Sciahri — Moonwake as Track 6"
-        }
-      ],
-      "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
-      "evidence": {
-        "measured": [
-          "6:55 duration",
-          "released 2026-03-20"
-        ],
-        "attributedDescription": "Label/release-level framing only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
-      },
-      "requestedIdentity": {
-        "artist": "Temudo",
-        "track": "And the Pattern Repeats",
-        "releaseDate": "2026-03-20",
-        "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
-        "evidence": {
-          "measured": [
-            "6:55 duration",
-            "released 2026-03-20"
-          ],
-          "attributedDescription": "Label/release-level framing only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
