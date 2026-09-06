@@ -1,319 +1,374 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "5ce0201dbca4cf331bd5c2eea67cd725ba9cb73e56ee7de00e820afb4a049d8e",
-  "generatedAt": "2026-09-06T11:04:27.636Z",
-  "runId": "2026-09-06T11:04:00Z-explore-15",
-  "sourceCommit": "a7a7bedd8183fb5771b88abfa4a94b6c3ea03f90",
+  "requestFingerprint": "5222d1dc9121aa2ffb0ba2ce2bb268b4ff21f742e6cfb123b059e5ccb72f1086",
+  "generatedAt": "2026-09-06T11:06:37.472Z",
+  "runId": "2026-09-06T11:07:00Z-explore-16",
+  "sourceCommit": "8789957aace84454c0209b2b2c622ff4eb7b0831",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh Track 6 discovery via HAYES current catalogue",
+    "role": "fresh Track 6 discovery via Primal Instinct",
     "position": "after Sciahri — Moonwake as Track 6",
     "neighbours": [
       "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j"
     ],
-    "purpose": "test current disciplined/minimalist techno as a deliberate post-Sciahri move"
+    "purpose": "test groove/organic-design material after four no-add outward scans"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T11:04:00Z",
+    "timestampUtc": "2026-09-06T11:07:00Z",
     "sourceWindows": [
-      "Current HAYES HYS007 released 2026-09-04: https://hayescollective.bandcamp.com/album/hys007",
-      "Adjacent HAYES Space Brutalism July 2026",
-      "Overlooked HAYES Kazoo / Quatro Níveis / Everzero 2026 catalogue"
+      "Primal Instinct current catalogue incl. upcoming Ignez — When We Froze watch",
+      "Hadone — Bite The Hand That Feeds You, May 15 2026",
+      "Temudo — And The Pattern Repeats, Mar 20 2026",
+      "overlooked Primal Instinct catalogue"
     ],
-    "approximateInspectedScope": "approximately 30 tracks/releases across current HYS007, adjacent 2026 HAYES releases and overlooked catalogue",
+    "approximateInspectedScope": "about 28 tracks/releases across current/adjacent/overlooked Primal Instinct",
     "exclusions": [
-      "future HAYES releases were not treated as released",
-      "HYS007's release-level 'precision and intent' framing was not silently converted into track-level sonic fact",
-      "parked candidates were not recycled"
+      "When We Froze remains pre-order and was not promoted",
+      "conceptual titles/descriptions were not used as sonic evidence",
+      "parked candidates not recycled"
     ],
     "rankedLeadSummary": [
-      "1. Red Rooms — Seeking: current HYS007, 4:29",
-      "2. Temudo, Kwartz — Recentering: current HYS007, 5:15",
-      "3. Uväll — Parallel Shift: current HYS007, 5:16",
-      "4. Deano — Kazoo (Stripped Version): overlooked May 2026 psychedelic/minimal techno track"
+      "Hadone — Sit In Their Seat, 5:18",
+      "Hadone — Bite The Hand That Feeds You, 4:49",
+      "Temudo — U Used to Laugh at My Jokes, 6:25",
+      "Temudo — And the Pattern Repeats, 6:55"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 2,
-  "candidateCount": 2,
-  "resolutionStatus": "PARTIAL",
-  "unresolved": [
-    {
-      "artist": "Temudo, Kwartz",
-      "track": "Recentering",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Temudo, Kwartz",
-        "track": "Recentering",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation framed as precision and intent, minimalism, discipline, dissonance and bold force",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "The title Recentering suggests no sonic fact, but the exact current HYS007 identity earns resolution as a possible controlled post-Sciahri move; placement remains evidence-limited.",
-        "evidence": {
-          "measured": [
-            "5:15 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "HYS007 release-level description only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Resolve for current coherent-label context, not because title or artist reputation proves a role."
-        }
-      }
-    },
-    {
-      "artist": "Deano",
-      "track": "Kazoo (Stripped Version)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Deano",
-        "track": "Kazoo (Stripped Version)",
-        "releaseDate": "2026-05-08",
-        "discoverySource": "HAYES official Kazoo release; exact track is tagged minimal techno / psychedelic techno and is the stripped version of the title",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "An overlooked stripped psychedelic/minimal techno track is constitution-relevant as a possible simplification, but tags/title cannot establish felt function.",
-        "evidence": {
-          "measured": [
-            "released 2026-05-08"
-          ],
-          "attributedDescription": "Official HAYES track context and tags only; no direct sonic description used.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A stripped version may warrant investigation as simplification, but the name itself is not sonic evidence."
-        }
-      }
-    }
-  ],
+  "resolvedCount": 4,
+  "candidateCount": 3,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Red Rooms",
-        "track": "Seeking",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation is framed as precision and intent navigating minimalism through discipline, dissonance and bold force with a singular aesthetic direction",
+        "artist": "Hadone",
+        "track": "Sit In Their Seat",
+        "releaseDate": "2026-05-15",
+        "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Seeking is a current exact-track lead inside a deliberately coherent minimalist HAYES statement and could redirect the sequence through discipline rather than another escalation; track-specific feel remains unknown.",
+        "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
         "evidence": {
           "measured": [
-            "4:29 duration",
-            "released 2026-09-04"
+            "5:18 duration",
+            "released 2026-05-15"
           ],
-          "attributedDescription": "HYS007 release-level precision/minimalism/discipline/dissonance framing; not track-specific.",
-          "listenerEvidence": "No direct listener evidence for Seeking.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A disciplined post-escalation move is plausible, but compilation coherence does not prove this exact transition."
-        }
-      },
-      "spotifyTrackId": "6EGTYidCgcQSY4rePxJMRl",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Temudo, Kwartz",
-        "track": "Recentering",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation framed as precision and intent, minimalism, discipline, dissonance and bold force",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Sciahri — Moonwake as Track 6"
-          }
-        ],
-        "fitHypothesis": "The title Recentering suggests no sonic fact, but the exact current HYS007 identity earns resolution as a possible controlled post-Sciahri move; placement remains evidence-limited.",
-        "evidence": {
-          "measured": [
-            "5:15 duration",
-            "released 2026-09-04"
-          ],
-          "attributedDescription": "HYS007 release-level description only.",
+          "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Resolve for current coherent-label context, not because title or artist reputation proves a role."
+          "craftConvention": "Groove-focused label context earns resolution, not placement."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "6zP3CvVy8oDEytCGXqH1wu",
+      "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Uväll",
-        "track": "Parallel Shift",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation framed as a harmonic journey with singular aesthetic direction and disciplined minimalism",
+        "artist": "Hadone",
+        "track": "Bite The Hand That Feeds You",
+        "releaseDate": "2026-05-15",
+        "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Parallel Shift has current belonging relevance in a disciplined/minimalist compilation but no track-specific evidence yet establishes its exact post-Moonwake role.",
+        "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
         "evidence": {
           "measured": [
-            "5:16 duration",
-            "released 2026-09-04"
+            "4:49 duration",
+            "released 2026-05-15"
           ],
-          "attributedDescription": "HYS007 release-level description only.",
+          "attributedDescription": "Release concept and label groove/organic-design framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Current coherent compilation context earns evaluation, not admission."
+          "craftConvention": "Do not convert project concept into a sequencing claim."
         }
       },
-      "spotifyTrackId": "3tJewIq0D10r423Nln9qV2",
+      "spotifyTrackId": "0eZ2nfNNzWW1T7T3wPbkHC",
       "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Deano",
-        "track": "Kazoo (Stripped Version)",
-        "releaseDate": "2026-05-08",
-        "discoverySource": "HAYES official Kazoo release; exact track is tagged minimal techno / psychedelic techno and is the stripped version of the title",
+        "artist": "Temudo",
+        "track": "U Used to Laugh at My Jokes",
+        "releaseDate": "2026-03-20",
+        "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "An overlooked stripped psychedelic/minimal techno track is constitution-relevant as a possible simplification, but tags/title cannot establish felt function.",
+        "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
         "evidence": {
           "measured": [
-            "released 2026-05-08"
+            "6:25 duration",
+            "released 2026-03-20"
           ],
-          "attributedDescription": "Official HAYES track context and tags only; no direct sonic description used.",
+          "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A stripped version may warrant investigation as simplification, but the name itself is not sonic evidence."
+          "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "6G4OuJ8hKbNt96UrmPWI2J",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Temudo",
+        "track": "And the Pattern Repeats",
+        "releaseDate": "2026-03-20",
+        "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
+        "evidence": {
+          "measured": [
+            "6:55 duration",
+            "released 2026-03-20"
+          ],
+          "attributedDescription": "Label/release-level framing only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
+        }
+      },
+      "spotifyTrackId": "3nwkJwA2laLtQ3v75IaUDy",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "6EGTYidCgcQSY4rePxJMRl",
-      "uri": "spotify:track:6EGTYidCgcQSY4rePxJMRl",
-      "name": "Seeking",
+      "id": "6zP3CvVy8oDEytCGXqH1wu",
+      "uri": "spotify:track:6zP3CvVy8oDEytCGXqH1wu",
+      "name": "Sit in Their Seat",
       "artists": [
-        "Red Rooms"
+        "Hadone"
       ],
-      "album": "HYS007",
-      "releaseDate": "2026-09-04",
-      "durationMs": 269946,
-      "spotifyUrl": "https://open.spotify.com/track/6EGTYidCgcQSY4rePxJMRl",
-      "discoverySource": "HAYES HYS007 official release; current compilation is framed as precision and intent navigating minimalism through discipline, dissonance and bold force with a singular aesthetic direction",
+      "album": "Bite the Hand That Feeds You",
+      "releaseDate": "2026-05-15",
+      "durationMs": 318946,
+      "spotifyUrl": "https://open.spotify.com/track/6zP3CvVy8oDEytCGXqH1wu",
+      "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Sciahri — Moonwake as Track 6"
         }
       ],
-      "fitHypothesis": "Seeking is a current exact-track lead inside a deliberately coherent minimalist HAYES statement and could redirect the sequence through discipline rather than another escalation; track-specific feel remains unknown.",
+      "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
       "evidence": {
         "measured": [
-          "4:29 duration",
-          "released 2026-09-04"
+          "5:18 duration",
+          "released 2026-05-15"
         ],
-        "attributedDescription": "HYS007 release-level precision/minimalism/discipline/dissonance framing; not track-specific.",
-        "listenerEvidence": "No direct listener evidence for Seeking.",
+        "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
+        "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A disciplined post-escalation move is plausible, but compilation coherence does not prove this exact transition."
+        "craftConvention": "Groove-focused label context earns resolution, not placement."
       },
       "requestedIdentity": {
-        "artist": "Red Rooms",
-        "track": "Seeking",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation is framed as precision and intent navigating minimalism through discipline, dissonance and bold force with a singular aesthetic direction",
+        "artist": "Hadone",
+        "track": "Sit In Their Seat",
+        "releaseDate": "2026-05-15",
+        "discoverySource": "Primal Instinct official release; label identity emphasizes complex groovy patterns and advanced organic sound design, while the Hadone project frames a primal rejection of control",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Seeking is a current exact-track lead inside a deliberately coherent minimalist HAYES statement and could redirect the sequence through discipline rather than another escalation; track-specific feel remains unknown.",
+        "fitHypothesis": "Hadone's exact track belongs plausibly in a groove/organic techno corridor, but project concepts do not establish the exact post-Moonwake transition.",
         "evidence": {
           "measured": [
-            "4:29 duration",
-            "released 2026-09-04"
+            "5:18 duration",
+            "released 2026-05-15"
           ],
-          "attributedDescription": "HYS007 release-level precision/minimalism/discipline/dissonance framing; not track-specific.",
-          "listenerEvidence": "No direct listener evidence for Seeking.",
+          "attributedDescription": "Primal Instinct label/project framing only; no invented track-level energy claim.",
+          "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A disciplined post-escalation move is plausible, but compilation coherence does not prove this exact transition."
+          "craftConvention": "Groove-focused label context earns resolution, not placement."
         }
       }
     },
     {
-      "id": "3tJewIq0D10r423Nln9qV2",
-      "uri": "spotify:track:3tJewIq0D10r423Nln9qV2",
-      "name": "Parallel Shift",
+      "id": "0eZ2nfNNzWW1T7T3wPbkHC",
+      "uri": "spotify:track:0eZ2nfNNzWW1T7T3wPbkHC",
+      "name": "Bite the Hand That Feeds You",
       "artists": [
-        "Uväll"
+        "Hadone"
       ],
-      "album": "HYS007",
-      "releaseDate": "2026-09-04",
-      "durationMs": 316521,
-      "spotifyUrl": "https://open.spotify.com/track/3tJewIq0D10r423Nln9qV2",
-      "discoverySource": "HAYES HYS007 official release; current compilation framed as a harmonic journey with singular aesthetic direction and disciplined minimalism",
+      "album": "Bite the Hand That Feeds You",
+      "releaseDate": "2026-05-15",
+      "durationMs": 289466,
+      "spotifyUrl": "https://open.spotify.com/track/0eZ2nfNNzWW1T7T3wPbkHC",
+      "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Sciahri — Moonwake as Track 6"
         }
       ],
-      "fitHypothesis": "Parallel Shift has current belonging relevance in a disciplined/minimalist compilation but no track-specific evidence yet establishes its exact post-Moonwake role.",
+      "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
       "evidence": {
         "measured": [
-          "5:16 duration",
-          "released 2026-09-04"
+          "4:49 duration",
+          "released 2026-05-15"
         ],
-        "attributedDescription": "HYS007 release-level description only.",
+        "attributedDescription": "Release concept and label groove/organic-design framing only.",
         "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Current coherent compilation context earns evaluation, not admission."
+        "craftConvention": "Do not convert project concept into a sequencing claim."
       },
       "requestedIdentity": {
-        "artist": "Uväll",
-        "track": "Parallel Shift",
-        "releaseDate": "2026-09-04",
-        "discoverySource": "HAYES HYS007 official release; current compilation framed as a harmonic journey with singular aesthetic direction and disciplined minimalism",
+        "artist": "Hadone",
+        "track": "Bite The Hand That Feeds You",
+        "releaseDate": "2026-05-15",
+        "discoverySource": "Primal Instinct official title track and release; label mission centers complex groovy patterns generated by advanced yet organic sound design",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Sciahri — Moonwake as Track 6"
           }
         ],
-        "fitHypothesis": "Parallel Shift has current belonging relevance in a disciplined/minimalist compilation but no track-specific evidence yet establishes its exact post-Moonwake role.",
+        "fitHypothesis": "The title track is a credible belonging lead but lacks specific evidence for its role after Moonwake.",
         "evidence": {
           "measured": [
-            "5:16 duration",
-            "released 2026-09-04"
+            "4:49 duration",
+            "released 2026-05-15"
           ],
-          "attributedDescription": "HYS007 release-level description only.",
+          "attributedDescription": "Release concept and label groove/organic-design framing only.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Current coherent compilation context earns evaluation, not admission."
+          "craftConvention": "Do not convert project concept into a sequencing claim."
+        }
+      }
+    },
+    {
+      "id": "6G4OuJ8hKbNt96UrmPWI2J",
+      "uri": "spotify:track:6G4OuJ8hKbNt96UrmPWI2J",
+      "name": "U Used to Laugh at My Jokes",
+      "artists": [
+        "Temudo"
+      ],
+      "album": "And the Pattern Repeats",
+      "releaseDate": "2026-03-20",
+      "durationMs": 385000,
+      "spotifyUrl": "https://open.spotify.com/track/6G4OuJ8hKbNt96UrmPWI2J",
+      "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Sciahri — Moonwake as Track 6"
+        }
+      ],
+      "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
+      "evidence": {
+        "measured": [
+          "6:25 duration",
+          "released 2026-03-20"
+        ],
+        "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
+      },
+      "requestedIdentity": {
+        "artist": "Temudo",
+        "track": "U Used to Laugh at My Jokes",
+        "releaseDate": "2026-03-20",
+        "discoverySource": "Primal Instinct official And The Pattern Repeats release; project developed through close label/artist collaboration where two aesthetics align, with label mission centered on complex groovy patterns and organic design",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "A jointly shaped groove-focused Primal Instinct track may belong and could redirect the sequence, but exact track behavior is not directly described.",
+        "evidence": {
+          "measured": [
+            "6:25 duration",
+            "released 2026-03-20"
+          ],
+          "attributedDescription": "Release collaboration and label-level groove/organic-design framing.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Alignment of artist/label aesthetics supports investigation, not exact flow."
         }
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "3nwkJwA2laLtQ3v75IaUDy",
+      "uri": "spotify:track:3nwkJwA2laLtQ3v75IaUDy",
+      "name": "And the Pattern Repeats",
+      "artists": [
+        "Temudo"
+      ],
+      "album": "And the Pattern Repeats",
+      "releaseDate": "2026-03-20",
+      "durationMs": 415386,
+      "spotifyUrl": "https://open.spotify.com/track/3nwkJwA2laLtQ3v75IaUDy",
+      "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "after Sciahri — Moonwake as Track 6"
+        }
+      ],
+      "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
+      "evidence": {
+        "measured": [
+          "6:55 duration",
+          "released 2026-03-20"
+        ],
+        "attributedDescription": "Label/release-level framing only.",
+        "listenerEvidence": "No direct listener evidence.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
+      },
+      "requestedIdentity": {
+        "artist": "Temudo",
+        "track": "And the Pattern Repeats",
+        "releaseDate": "2026-03-20",
+        "discoverySource": "Primal Instinct official title track; label mission describes complex groovy patterns, primitivism and innovation",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Sciahri — Moonwake as Track 6"
+          }
+        ],
+        "fitHypothesis": "The exact title track is relevant to repetition/groove interests but needs stronger evidence for the specific Track-6 handoff.",
+        "evidence": {
+          "measured": [
+            "6:55 duration",
+            "released 2026-03-20"
+          ],
+          "attributedDescription": "Label/release-level framing only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Repetition in a title is not evidence; resolve identity then evaluate conservatively."
+        }
+      }
+    }
+  ]
 }
