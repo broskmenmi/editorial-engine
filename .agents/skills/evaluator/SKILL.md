@@ -1,141 +1,116 @@
 ---
 name: evaluator
-description: Evaluate playlist candidates against a playlist constitution and classify each as ADD, REVISIT, or REJECT, including their ability to repair known transition, attention, or storytelling defects. Use after scouting and before sequencing.
+description: Evaluate resolved candidates against the target volume's selection lens and the repository-wide long-form DJ doctrine. Classify ADD, REVISIT, or REJECT without imposing novelty, sameness, or genre-purity quotas.
 ---
 
 # Evaluator
 
-Read the target playlist constitution, ledger, notes, rejected list, revisit queue, and accepted-track review queue.
+Read repository-level `LONG-FORM-DJ-DOCTRINE.md` first, then the target volume constitution, ledger, notes, rejected list, revisit queue, listener-feedback state, and available audio evidence.
 
-Evaluate the frozen one-to-three-candidate snapshot supplied by Scout. Do not demand a three-track quota and do not rerun discovery.
+Use only the frozen one-to-three-candidate snapshot supplied by Scout. Do not rerun discovery or pad the candidate set.
+
+## Governing distinction
+
+Evaluate two different things:
+
+1. **Volume fit** — is this track relevant enough to the volume's selection lens to belong somewhere?
+2. **Placement quality** — does it work in this concrete position under the global long-form DJ doctrine?
+
+A volume lens is not automatically a purity test. Do not reject a track merely because it is too house-like, dubby, melodic, broken, straight, warm, cold, hard, soft, minimal, tribal, or otherwise imperfect according to an expert genre taxonomy unless the volume explicitly defines that boundary for a concrete artistic reason.
 
 ## Evidence discipline
 
-For every candidate, separate:
+Keep separate:
 
-1. **Measured evidence** — BPM, duration, exact identity, position, and neighbour differences.
-2. **Craft convention** — useful sequencing practice, not a universal law.
-3. **Listener report** — direct user experience; highest authority when volunteered.
-4. **Editorial interpretation** — the proposed role and predicted effect; a hypothesis until heard.
+- **Listener report** — direct volunteered experience; highest authority about actual flow.
+- **Measured evidence** — BPM, duration, identity, order, lawful audio measurements.
+- **Attributed description** — artist/label/reviewer statements.
+- **Craft convention** — useful DJ practice, not law.
+- **Editorial interpretation** — proposed role, function, contrast or narrative.
 
-Never claim that Spotify metadata proves how a track sounds or feels. Never infer busyness, stress, hypnosis, space, steadiness, or emotional effect from BPM, artist, genre, title, label, or reputation alone.
+Never infer perceived energy, density, space, hypnosis, emotional temperature, phrase structure or mixability from BPM, genre, artist, title, label or reputation alone.
+
+## Placement evaluation
+
+For each candidate test:
+
+### Transition scale
+Does the immediate move make sense? A transition may be smooth or conspicuous. Identify what changes, what remains connected, and why the move is useful here.
+
+### Local-run scale
+Does the candidate improve or preserve the surrounding three-to-five-track run? Similarity may deepen immersion; contrast may create an arc. Neither is automatically superior.
+
+### Long-form scale
+Does the candidate improve the larger journey and create useful possibilities for what follows?
+
+Do not require a new role, groove, technique, artist, texture or chapter merely to justify admission.
+
+Do not require the candidate to stay in one sonic room with its neighbours.
+
+## Tempo
+
+Record verified BPM when reliable metadata exists, but treat BPM as one input only.
+
+A small tempo difference does not prove placement quality. A larger difference is not an automatic veto; require a convincing pulse relation, transition intent, intentional reset, or other evidence when the change is material.
+
+Volume-specific tempo grammar may impose stricter rules when explicitly intended.
+
+## Verdicts
+
+### ADD
+The best available evidence supports both volume fit and a convincing current placement. The candidate may deepen an existing function, create contrast, bridge worlds, release pressure, disrupt deliberately, or contribute another useful move. Novelty is not required.
+
+### REVISIT
+The track is materially interesting or plausibly belongs, but a concrete uncertainty prevents confident current placement. State exactly what future evidence or changed structural context could reopen it. Never turn this into user homework.
+
+### REJECT
+Use only when the evidence supports one of these:
+
+- it does not fit the volume lens sufficiently;
+- the current placement damages flow or long-form structure;
+- it duplicates without deepening;
+- its contrast is arbitrary or mistimed;
+- it violates protected/frozen state;
+- another constitution-level or evidence-level defect is concrete.
+
+Scope the rejection accurately. A failed placement is not a global rejection unless the evidence supports that stronger claim.
 
 ## Relaxation-first rule
 
-The evaluator must make decisions rather than transfer the evaluation burden to the user.
+The Evaluator makes decisions; the user is not the test department.
 
-- Do not require A/B comparisons, ranked alternatives, prescribed listening sessions, or subjective confirmation.
-- Lack of direct user confirmation alone is not a defect and not a reason to freeze a candidate in REVISIT.
-- Natural feedback may later reopen any ADD decision.
-- Uncertainty should be recorded internally and expressed as a provisional editorial interpretation, not converted into homework.
+Do not assign A/B comparisons, rankings, prescribed listening sessions, or required subjective confirmation.
 
-## Score 0–5
-Positive dimensions:
-- Groove
-- Hypnosis
-- Restraint
-- Progressive development
-- Dancefloor continuity
-- Patience
-- Spatial openness
-- Timelessness
-- Pulse compatibility with proposed neighbours
-- Attention continuity with proposed neighbours
-- Repair value for known defects
-- Clear role without functional duplication
-
-Scores for sonic or listener-response dimensions must be marked **unconfirmed** when no direct listening or lawful audio evidence exists.
-
-Penalties:
-- Spectacle
-- Aggression without purpose
-- Melodic or vocal dominance
-- Dramatic-breakdown dependence
-- Gimmick or trend dependence
-- Abrupt BPM discontinuity
-- Tempo sawtoothing
-- Functional duplication
-- Sudden increase in attention demand
-- Too many competing elements, but only when supported by listener or lawful audio evidence
-
-## Two-gate evaluation
-
-Evaluate these independently before assigning a verdict:
-
-1. **Playlist belonging:** BELONGS, UNCERTAIN, or DOES NOT BELONG.
-2. **Exact-neighbour compatibility:** COMPATIBLE, UNCERTAIN, or INCOMPATIBLE for both the incoming and outgoing transition.
-
-A candidate that BELONGS but is INCOMPATIBLE in the proposed slot may be moved to another auditable slot or marked REVISIT; do not reject its identity fit solely because one placement failed. A candidate that DOES NOT BELONG cannot be rescued by harmonic, BPM, or tool compatibility.
-
-When `audio-evidence.json` contains data, distinguish raw measurements from model-derived properties. DJOID, rekordbox, or other scores never count as listener report and cannot override negative listener evidence.
-
-## Exploration-originated candidates
-
-An EXPLORE candidate does not need a pre-existing playlist defect. A newly discovered track may reveal a distinct function or a stronger way to deepen the journey.
-
-That positive opportunity is still a hypothesis. Before ADD:
-
-- establish playlist belonging independently;
-- identify at least one concrete non-frozen placement;
-- evaluate both exact neighbours;
-- show a distinct function or material improvement rather than novelty, metadata fit, or extra length;
-- verify that the placement does not disturb a protected pair, frozen region, summit authority, or final descent.
-
-If the track belongs but no auditable placement is currently supported, prefer REVISIT over forcing a slot. If neither belonging nor a concrete role is supported beyond metadata, REJECT.
-
-## Verdicts
-- **ADD** — the best available evidence supports admission now; this may repair a defect or add a distinct evidence-supported function, and the editorial role may remain provisional.
-- **REVISIT** — a concrete uncertainty exists that materially affects admission and can be resolved by future evidence without assigning the user homework.
-- **REJECT** — weakens, dilutes, duplicates, or creates a transition, attention, or storytelling defect.
-
-## Critical-role handling
-
-Candidates proposed for opener, re-entry, important crest, main summit, decompression pivot, or closer deserve stricter internal scrutiny, but not mandatory user confirmation.
-
-A critical-role candidate may be ADD when:
-
-- measurable placement is coherent;
-- no direct negative listener evidence exists;
-- no known objective defect exists;
-- it is the strongest available editorial choice;
-- uncertainty is recorded as a provisional role rather than hidden.
-
-Use REVISIT only when there is a specific material concern beyond the mere absence of user confirmation.
-
-Measurements support the decision but never make later listener feedback irrelevant.
+Natural listener feedback may reopen any ADD later.
 
 ## Rules
+
 1. Artist reputation is not evidence.
-2. Reject functional duplication even when the track is individually strong.
-3. Prefer continuity over isolated impact.
-4. Actual user complaints and objective ledger defects take precedence over playlist expansion.
-5. Mere lack of confirmation does not count as an active defect.
-6. Every candidate must include verified BPM when reliable metadata is available.
-7. Evaluate the candidate against both proposed neighbours, not in isolation.
-8. A candidate that creates an adjacent difference above 7 BPM cannot be ADD without documented half-time/double-time equivalence or intentional-reset evidence.
-9. In the opening three positions, prefer candidates that keep adjacent differences within 4 BPM.
-10. Numeric compliance is necessary under the normal doctrine but never sufficient for certainty.
-11. Listener feedback overrides speculative metadata-based approval.
-12. Feeling relieved because a track ends is strong evidence for UNDER REVIEW, repositioning, or replacement.
-13. REVISIT must state the concrete uncertainty and what future evidence—not mandatory user work—would justify reconsideration.
-14. Do not resurface a parked REVISIT on successive runs without new evidence, a changed structural need, or a user request.
-15. REJECT must cite a constitution-level, transition-level, attention-level, or storytelling reason.
-16. Use plain language in user-facing rationale; explain any specialist term immediately.
+2. Genre orthodoxy is not evidence of quality.
+3. Listener feedback outranks speculative paper fit.
+4. Actual sequence defects take precedence over expansion.
+5. Mere absence of confirmation is not a defect.
+6. Preserve exact Spotify identity and verified BPM when available.
+7. Evaluate concrete placement, not isolated track quality.
+8. Preserve rejected, revisit, protected and frozen state.
+9. Discovery-pool or set-idea membership never authorizes canonical admission.
+10. Use plain language in user-facing rationale.
 
 ## Output per candidate
+
 - Verdict
-- Playlist-belonging conclusion
-- Exact-neighbour conclusion for incoming and outgoing transitions
-- BPM
-- Proposed neighbours and their BPM
+- Volume-fit conclusion
+- Concrete placement conclusion
+- Proposed position and neighbours
+- BPM when verified
 - Measured evidence
-- Craft convention
+- Attributed descriptions
 - Listener evidence
+- Craft convention
 - Editorial interpretation
-- Scores, unconfirmed scores, and penalties
-- Concise plain-language rationale
-- Proposed structural role if ADD
-- Repair function if relevant
-- Internal uncertainty, if any
+- Transition-scale assessment
+- Local-run assessment
+- Long-form assessment
+- Principal uncertainty / risk
 - Reassessment condition if REVISIT
-- Rejection reason if REJECT
+- Scoped rejection reason if REJECT
