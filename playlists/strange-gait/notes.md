@@ -1,87 +1,90 @@
 # STRANGE GAIT — Editorial Notes
 
+> Working title only. The public name is under reconsideration.
+
 ## Current state
 
 - Canonical tracks: 1.
-- Status: listener-authorized opening reset.
 - Current anchor: Inigo Kennedy — Marauder, 136 BPM working grid.
 - No protected tracks/handoffs; Marauder remains provisional.
 - Audio evidence registry: empty.
-- Spotify public identity: verified description and intentional cover.
 - Inspiration layer active: `discovery-pool.md` + `set-ideas.md`.
+- Repository-level `LONG-FORM-DJ-DOCTRINE.md` now governs sequencing for **all volumes**.
 
-## Listener diagnosis — 2026-09-06
+## What the listener feedback actually established
 
-The user reported that the energy shifted with each track and that the four-track opening felt like a beginner DJ compiling favourite tracks without taste in creating a vibe.
+The user reported that the previous opening:
 
-This overrides the prior paper architecture. The sequence failed the most important real-world gate: **one coherent room**.
+`Marauder → Some Letters → Alive → Drift C`
 
-The approved repair removed Some Letters, Alive and Drift C from the canonical opening and retained only Marauder as a provisional anchor.
+felt like a beginner DJ compiling favourite tracks without taste in creating a vibe because the energy changed awkwardly from track to track.
 
-## Governing hierarchy
+That evidence proves the **specific sequence failed**.
 
-1. **Vibe / energy continuity** — protect one atmosphere, pressure and attention envelope.
-2. **Bodily continuity** — keep physical orientation.
-3. **Rhythmic evolution** — let the pattern bend gradually inside that room.
-4. **Role novelty** — lowest priority.
+It does **not** prove that good flow requires one sustained vibe, one sonic room, invisible transitions, or minimal energy change.
 
-A close BPM transition is not evidence of a good vibe transition.
+The immediate repair over-corrected by turning "same room" into a hard admission rule. The 2026-09-06 global doctrine correction removes that overreach.
 
-## Opening rule
+## Global sequencing principle
 
-Tracks 1–3 should normally all remain **Ground**.
+The music may change character. The flow must not feel accidental.
 
-Track 2 must make Marauder feel like the beginning of a coherent world rather than an isolated favourite. Track 3 should prove that the same room can survive multiple tracks. Do not force Tilt simply because the third track exists.
+Different vibes, energy levels, grooves, textures, production worlds and left turns are allowed.
 
-Chapter changes should normally emerge over several tracks.
+For every placement evaluate:
 
-## Scouting priority
+1. the immediate transition;
+2. the surrounding three-to-five-track run;
+3. the long-form journey.
 
-The next EXPLORE run should search outward for a Track 2 candidate that:
+A hard left turn may pass. A smooth transition may fail.
 
-1. belongs clearly in STRANGE GAIT;
-2. preserves Marauder's vibe/energy/pressure envelope as far as available evidence can support;
-3. preserves bodily continuity;
-4. introduces at most a subtle rhythmic mutation rather than a new editorial idea;
-5. remains Ground;
-6. does not rely on BPM similarity as the continuity argument.
+There is no universal requirement for one summit, fixed waves, one sonic room, a new role per track, or hard BPM cutoffs.
 
-When vibe continuity is materially uncertain and no listener/lawful-audio evidence resolves it, prefer REVISIT over forcing an ADD.
+## Volume selection lens
 
-## Inspiration layer — discovery without playlist pressure
+This working volume remains especially interested in techno that resists one fixed correct form, including rhythmic and structural freedom.
 
-The user wants the system to remain fun: discover new music and generate set ideas without requiring every useful find to become a canonical playlist decision.
+That is a curiosity, not a purity test.
 
-Two non-canonical files now preserve that value:
+Tracks do not need to be weird, broken, polymetric, cold, dark, or technically unusual. Warm, straight, dubby, melodic, sparse, hard, funky or otherwise contrasting material may belong when it contributes to the journey.
 
-- `discovery-pool.md` — exact tracks, research leads and release watches worth knowing about even when the current playlist slot fails;
-- `set-ideas.md` — small creative crates/directions that may inspire DJ/set exploration without claiming proven mix compatibility.
+Do not use "proper techno" orthodoxy as an editorial argument.
 
-Rules:
+## Reopened candidates
 
-- Canonical admission remains strict and vibe-first.
-- A track may be rejected for the current slot and still remain a valuable discovery.
-- A parked REVISIT can be surfaced as music worth knowing without triggering canonical reconsideration.
-- Inspiration-only state never publishes to Spotify or changes the journey map.
-- Runs may create durable inspiration value even with zero ADDs, but never create commits merely for scan telemetry or repeated wording.
-- Batch runs should return a deduplicated harvest of the best new music and set directions rather than five repetitive run receipts.
-- The user should not be asked to maintain, rank, A/B test, or administer the inspiration layer.
+The doctrine change invalidated several PARKED/REJECT reasons that depended on same-room proof, fixed chapter progression, or distinct-gait quotas.
 
-## Current inspiration highlights
+Now TRIGGERED for fresh evaluation:
 
-- Inigo Kennedy — **The Witching Hour** — exact 136 BPM; PARKED same-room hypothesis.
-- Rene Wise — **Cave** — exact 134 BPM; PARKED grounded/murky hypothesis.
-- Steve Rachmad — **Ostinato 2.0** — rejected only for current Track 2; retained as opening-set discovery.
-- **Moving Pressure 07** — release watch for restraint/repetition/patient-intensity material.
+- Rene Wise — **Cave**
+- Inigo Kennedy — **The Witching Hour**
+- Sevish — **Mystify**
+- Steve Rachmad — **Ostinato 2.0**
+- Mitra — **Hush**
 
-Current set-direction sketches live in `set-ideas.md` and include Asymmetric pressure, murky physical restraint, opening-set restraint, and patient-pressure research corridors.
+TRIGGERED means re-evaluate; it does not mean ADD.
 
-## Parked material
+Some Letters, Alive and Drift C remain rejected for their **prior placements/sequence** because that decision is supported by direct listener evidence, not by the retired doctrine.
 
-- Some Letters, Alive and Drift C are rejected for their prior opening/current-journey placements after direct listener feedback. Do not recycle them into the opening without materially new evidence.
-- The Witching Hour and Cave are PARKED because same-room felt energy continuity remains unmeasured.
-- Mystify is PARKED. Its previous trigger was invalidated when the Lock chapter was removed. Reconsider only after a coherent multi-track Ground and later Lock exist under the repaired doctrine.
+## Inspiration layer
+
+`discovery-pool.md` preserves tracks/releases worth knowing even when they do not currently enter the canonical playlist.
+
+`set-ideas.md` preserves non-canonical creative directions without pretending untested tracks are proven mixes.
+
+A failed ADD may still be a successful discovery run.
+
+The user should not be asked to rank, A/B test, maintain, or administer these layers.
+
+## Next run
+
+Pre-audit sees several TRIGGERED revisits created by the doctrine correction, so the next run should use REPAIR before normal fresh exploration.
+
+Evaluate candidates under the global DJ doctrine rather than asking whether they preserve Marauder's exact vibe.
+
+Until three canonical tracks exist, admit at most one ADD per run as a pacing safeguard only.
 
 ## Identity
 
-**The body understands before the pattern does — but the room comes first.**
+The public name and any slogan remain undecided. Do not let the working title steer the music.
