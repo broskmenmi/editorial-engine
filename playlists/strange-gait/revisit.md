@@ -4,6 +4,7 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Nils Edte | Actus | spotify:track:6GmpT0egn0ei4dufzayWbB | Organic-deep-techno/ambient-texture evidence is contribution/release-level; exact post-Tehutis role unproven. Release-date variance preserved. | PARKED |
 | Peryl | FORM 04 | spotify:track:69V8KqoUYrTQ4YVqaXj9YZ | 133 BPM/current raw-deep-dub context; exact placement underdescribed. | PARKED |
 | Pyramidal Decode | Morso | spotify:track:5jkHgYKushNKZjGOQ8uPI6 | Current exact Semantica identity; track-specific behavior absent. | PARKED |
 | Peryl | FORM 06 | spotify:track:17srggg9AEHwYGAnBTDFyC | 132 BPM/current context; exact placement underdescribed. | PARKED |

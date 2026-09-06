@@ -1,7 +1,10 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 23 — EXPLORE
+4 → 1 exact → 1 candidate → 0 ADD. Nils Edte — Actus (`spotify:track:6GmpT0egn0ei4dufzayWbB`) PARKED; release-date variance requested 2026-05-01 vs Spotify 2026-06-05 preserved. Grain 2 (A Ras Edit), Erionitum and Cinnabrax unresolved in Spotify SE.
+
 ## Run 22 — EXPLORE
-4 → 3 exact → 3 candidates → 0 ADD. Peryl — FORM 04 (`spotify:track:69V8KqoUYrTQ4YVqaXj9YZ`, 133 BPM), Pyramidal Decode — Morso (`spotify:track:5jkHgYKushNKZjGOQ8uPI6`), Peryl — FORM 06 (`spotify:track:17srggg9AEHwYGAnBTDFyC`, 132 BPM) PARKED. Utero (Pulso & Translate Remix) unresolved in Spotify SE.
+Peryl — FORM 04, Pyramidal Decode — Morso and Peryl — FORM 06 PARKED; Utero remix unresolved.
 
 ## Run 21
 Diffusion and Soundview Plaza PARKED; Lyonesse/Struktur unresolved.

@@ -4,12 +4,14 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | Nils Edte | Actus | https://open.spotify.com/track/6GmpT0egn0ei4dufzayWbB | PARKED Run 23; release-date variance preserved |
+| RESEARCH LEAD | Javier Marimon / A Ras / Affin | Grain 2 (A Ras Edit) | https://affin.bandcamp.com/album/affinity-7 | Warm-dub/abstract-electronics corridor; unresolved Spotify SE |
+| RESEARCH LEAD | Notzing x Plague / Affin | Erionitum / Lithal | https://affin.bandcamp.com/album/lithal | Density/tension/acoustic-mass corridor; unresolved Spotify SE |
 | EXACT TRACK | Peryl | FORM 04 | https://open.spotify.com/track/69V8KqoUYrTQ4YVqaXj9YZ | PARKED, 133 BPM |
 | EXACT TRACK | Pyramidal Decode | Morso | https://open.spotify.com/track/5jkHgYKushNKZjGOQ8uPI6 | PARKED |
 | EXACT TRACK | Peryl | FORM 06 | https://open.spotify.com/track/17srggg9AEHwYGAnBTDFyC | PARKED, 132 BPM |
 | RELEASE WATCH | Oscar Mulero / Semantica | Between Two Worlds | https://semanticarecords.bandcamp.com/album/between-two-worlds-semantica-199 | Sep 25 |
 | EXACT TRACK | Mata Disk | Diffusion | https://open.spotify.com/track/2MK8BvPB66YlcllJcyvt9t | PARKED; 70/140 BPM variance |
-| EXACT TRACK | Mata Disk | Soundview Plaza | https://open.spotify.com/track/1tubuJtVrdxzyWsEQHmXOI | PARKED |
 | EXACT TRACK | Jayson Wynters | Tehutis Law | https://open.spotify.com/track/79yeMWxkbiNZ4su5UuhS6z | ADD Track 7 |
 | EXACT TRACK | Nørbak | Capa | https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB | ADD Track 6 |
 | EXACT TRACK | Sciahri | Too Much Time | https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO | ADD Track 4 |
