@@ -1,307 +1,217 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "66a5dd0e6eb4e2db2612bf7537ac0aa453cf31f171334bdd1272d46f195a7217",
-  "generatedAt": "2026-09-06T19:40:11.935Z",
-  "runId": "2026-09-06T19:18:00Z-explore-31",
-  "sourceCommit": "1d8c9866c5fd066cd4b9728587ef5695240b3b1c",
+  "requestFingerprint": "bdd2160829bc907be976fba0aafe44930a7ceed0a05c46424959b5952c2ce1da",
+  "generatedAt": "2026-09-06T19:41:27.770Z",
+  "runId": "2026-09-06T19:42:00Z-explore-32",
+  "sourceCommit": "f091c013f5fe80d32d8966d2c06fa6ddca815367",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 discovery after listener-protected trio",
+    "role": "fresh STRANGE GAIT Track 13 discovery via current FJAAK material",
     "position": "after Len Faki — Stardancer as Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test whether current Falling Ethics raw/deep/hypnotic material can continue or redirect the post-Stardancer run without breaking the protected trio"
+    "purpose": "test a different current raw/deep/hypnotic production world after the protected trio"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T19:18:00Z",
+    "timestampUtc": "2026-09-06T19:42:00Z",
     "sourceWindows": [
-      "Beatport September 2026 raw/deep/hypnotic new releases, including Falling Ethics September 1 material",
-      "adjacent current raw/deep/hypnotic releases and overlooked Falling Ethics catalogue context"
+      "Beatport September 3 2026 FJAAK self-released material",
+      "adjacent current FJAAK catalogue and raw/deep/hypnotic listings"
     ],
-    "approximateInspectedScope": "approximately 30 current/adjacent raw-deep-hypnotic tracks; three P.E.A.R.L. leads retained because exact tempo/release metadata are secure",
+    "approximateInspectedScope": "approximately 20 current/adjacent FJAAK and peer tracks; three exact-tempo leads retained",
     "exclusions": [
-      "genre classification was not treated as energy or flow proof",
-      "close BPM was not treated as mixability proof",
-      "protected Transparency → When We Froze → Stardancer order was not disturbed"
+      "artist reputation was not treated as fit proof",
+      "BPM was not treated as flow proof",
+      "protected listener trio remained intact"
     ],
     "rankedLeadSummary": [
-      "1. P.E.A.R.L. — Paradise: 137 BPM, Falling Ethics, released 2026-09-01",
-      "2. P.E.A.R.L. — Destello: 138 BPM, Falling Ethics, released 2026-09-01",
-      "3. P.E.A.R.L. — Silencio: 138 BPM, Falling Ethics, released 2026-09-01"
+      "1. FJAAK — Bio Data: 137 BPM",
+      "2. FJAAK — Wax Pack: 139 BPM",
+      "3. FJAAK — Threshold: 139 BPM"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 3,
-  "resolvedCount": 3,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
+  "unresolved": [
+    {
+      "artist": "FJAAK",
+      "track": "Bio Data",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "FJAAK",
+        "track": "Bio Data",
+        "releaseDate": "2026-09-03",
+        "bpm": 137,
+        "bpmSource": "Beatport exact listing reports 137 BPM",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Plausible new production world after the listener block, but exact sonic behaviour is underdescribed.",
+        "evidence": {
+          "measured": [
+            "137 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "FJAAK",
+      "track": "Wax Pack",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "FJAAK",
+        "track": "Wax Pack",
+        "releaseDate": "2026-09-03",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Could reintroduce firmer drive after Stardancer, but metadata cannot establish that function.",
+        "evidence": {
+          "measured": [
+            "139 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    },
+    {
+      "artist": "FJAAK",
+      "track": "Threshold",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "FJAAK",
+        "track": "Threshold",
+        "releaseDate": "2026-09-03",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Stardancer as Track 13"
+          }
+        ],
+        "fitHypothesis": "Title cannot be used to infer threshold function; placement remains unproven.",
+        "evidence": {
+          "measured": [
+            "139 BPM",
+            "released 2026-09-03"
+          ],
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Paradise",
-        "releaseDate": "2026-09-01",
+        "artist": "FJAAK",
+        "track": "Bio Data",
+        "releaseDate": "2026-09-03",
         "bpm": 137,
         "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Len Faki — Stardancer as Track 13"
+            "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
+        "fitHypothesis": "Plausible new production world after the listener block, but exact sonic behaviour is underdescribed.",
         "evidence": {
           "measured": [
             "137 BPM",
-            "released 2026-09-01"
+            "released 2026-09-03"
           ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "No direct listener evidence for this track.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
+          "attributedDescription": "Beatport genre classification only.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "6gXPFBOws0FT59I5KU5ZX8",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Destello",
-        "releaseDate": "2026-09-01",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "artist": "FJAAK",
+        "track": "Wax Pack",
+        "releaseDate": "2026-09-03",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Len Faki — Stardancer as Track 13"
+            "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
+        "fitHypothesis": "Could reintroduce firmer drive after Stardancer, but metadata cannot establish that function.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "released 2026-09-01"
+            "139 BPM",
+            "released 2026-09-03"
           ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Plausible territory earns evaluation, not admission."
+          "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "3IDeoq1igxJdX4ioNVJBnu",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Silencio",
-        "releaseDate": "2026-09-01",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
+        "artist": "FJAAK",
+        "track": "Threshold",
+        "releaseDate": "2026-09-03",
+        "bpm": 139,
+        "bpmSource": "Beatport exact listing reports 139 BPM",
+        "discoverySource": "Beatport current FJAAK release; Techno (Raw / Deep / Hypnotic)",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "after Len Faki — Stardancer as Track 13"
+            "position": "after Stardancer as Track 13"
           }
         ],
-        "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
+        "fitHypothesis": "Title cannot be used to infer threshold function; placement remains unproven.",
         "evidence": {
           "measured": [
-            "138 BPM",
-            "released 2026-09-01"
+            "139 BPM",
+            "released 2026-09-03"
           ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
+          "attributedDescription": "Beatport genre classification only.",
           "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Do not infer sonic restraint from title or metadata."
+          "lawfulAudioEvidence": null
         }
       },
-      "spotifyTrackId": "6U5Fj8N00XunCJIpjhlMnv",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [
-    {
-      "id": "6gXPFBOws0FT59I5KU5ZX8",
-      "uri": "spotify:track:6gXPFBOws0FT59I5KU5ZX8",
-      "name": "Paradise",
-      "artists": [
-        "P.E.A.R.L."
-      ],
-      "album": "Dreams Versus Nightmares",
-      "releaseDate": "2026-09-01",
-      "durationMs": 330879,
-      "spotifyUrl": "https://open.spotify.com/track/6gXPFBOws0FT59I5KU5ZX8",
-      "bpm": 137,
-      "tempoSource": "Beatport exact listing reports 137 BPM",
-      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Len Faki — Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
-      "evidence": {
-        "measured": [
-          "137 BPM",
-          "released 2026-09-01"
-        ],
-        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-        "listenerEvidence": "No direct listener evidence for this track.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
-      },
-      "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Paradise",
-        "releaseDate": "2026-09-01",
-        "bpm": 137,
-        "bpmSource": "Beatport exact listing reports 137 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Len Faki — Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could continue a raw/deep/hypnotic thread after Stardancer, but available evidence does not describe exact track behaviour.",
-        "evidence": {
-          "measured": [
-            "137 BPM",
-            "released 2026-09-01"
-          ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "No direct listener evidence for this track.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A genre-continuous move can work, but genre and BPM alone do not establish the handoff."
-        }
-      }
-    },
-    {
-      "id": "3IDeoq1igxJdX4ioNVJBnu",
-      "uri": "spotify:track:3IDeoq1igxJdX4ioNVJBnu",
-      "name": "Destello",
-      "artists": [
-        "P.E.A.R.L."
-      ],
-      "album": "Dreams Versus Nightmares",
-      "releaseDate": "2026-09-01",
-      "durationMs": 316370,
-      "spotifyUrl": "https://open.spotify.com/track/3IDeoq1igxJdX4ioNVJBnu",
-      "bpm": 138,
-      "tempoSource": "Beatport exact listing reports 138 BPM",
-      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Len Faki — Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
-      "evidence": {
-        "measured": [
-          "138 BPM",
-          "released 2026-09-01"
-        ],
-        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Plausible territory earns evaluation, not admission."
-      },
-      "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Destello",
-        "releaseDate": "2026-09-01",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Len Faki — Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Measured tempo and genre place it in plausible territory, but exact transition purpose is underdescribed.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "released 2026-09-01"
-          ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Plausible territory earns evaluation, not admission."
-        }
-      }
-    },
-    {
-      "id": "6U5Fj8N00XunCJIpjhlMnv",
-      "uri": "spotify:track:6U5Fj8N00XunCJIpjhlMnv",
-      "name": "Silencio",
-      "artists": [
-        "P.E.A.R.L."
-      ],
-      "album": "Dreams Versus Nightmares",
-      "releaseDate": "2026-09-01",
-      "durationMs": 323195,
-      "spotifyUrl": "https://open.spotify.com/track/6U5Fj8N00XunCJIpjhlMnv",
-      "bpm": 138,
-      "tempoSource": "Beatport exact listing reports 138 BPM",
-      "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Len Faki — Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
-      "evidence": {
-        "measured": [
-          "138 BPM",
-          "released 2026-09-01"
-        ],
-        "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Do not infer sonic restraint from title or metadata."
-      },
-      "requestedIdentity": {
-        "artist": "P.E.A.R.L.",
-        "track": "Silencio",
-        "releaseDate": "2026-09-01",
-        "bpm": 138,
-        "bpmSource": "Beatport exact listing reports 138 BPM",
-        "discoverySource": "Beatport September 1 Falling Ethics release; classified Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Len Faki — Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Could provide a restrained continuation, but the title and metadata cannot be used to infer space, energy or silence.",
-        "evidence": {
-          "measured": [
-            "138 BPM",
-            "released 2026-09-01"
-          ],
-          "attributedDescription": "Beatport genre classification only: Techno (Raw / Deep / Hypnotic).",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Do not infer sonic restraint from title or metadata."
-        }
-      }
-    }
-  ],
+  "candidates": [],
   "resolvedAlternates": []
 }
