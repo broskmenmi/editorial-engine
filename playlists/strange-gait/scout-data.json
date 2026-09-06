@@ -1,360 +1,346 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "0a9f1f763968a7200657825778ce1fcf1b941d26a99e1c07ded88c3f6a5f82d7",
-  "generatedAt": "2026-09-06T12:31:16.797Z",
-  "runId": "2026-09-06T12:31:30Z-explore-25c",
-  "sourceCommit": "e728dbfcec13e6a605467139ef885d7693ff5555",
+  "requestFingerprint": "1777f54e596a38dc58aac73be08661ef8bdb331ac9fbde40c867b7b1ea238bf1",
+  "generatedAt": "2026-09-06T12:35:39.964Z",
+  "runId": "2026-09-06T12:34:00Z-explore-26",
+  "sourceCommit": "19024d7821a846768e3687c25cb51d66d77401cd",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 8 discovery via Thama Series",
+    "role": "fresh STRANGE GAIT Track 8 discovery via Southern Lights",
     "position": "after Jayson Wynters — Tehutis Law as Track 8",
     "neighbours": [
       "spotify:track:79yeMWxkbiNZ4su5UuhS6z"
     ],
-    "purpose": "test track-specifically described broken, hypnotic and physical material as a deliberate post-funk continuation or redirection"
+    "purpose": "test restrained emergence, ritualised deep pressure and inward reset as possible post-funk moves"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T12:31:30Z",
+    "timestampUtc": "2026-09-06T12:34:00Z",
     "sourceWindows": [
-      "Current Thama Series — ANTUMBRA, released 2026-08-28",
-      "Track-specific ANTUMBRA notes for Qitula — Işık, Neen — Restos De Algo Que Nunca Fue, John Plaza — Nankuru, Javkfstrackt — Ancient Language"
+      "Current Southern Lights — Lost Few & Dino Sabatini, Light Before The Haze, released 2026-08-28",
+      "Track-specific official notes for Broken Dawn, Light Before The Haze, Subsurface Light and Dino Sabatini's remix"
     ],
-    "approximateInspectedScope": "approximately 20 current/adjacent Thama Series tracks and related catalogue material",
+    "approximateInspectedScope": "approximately 20 current/adjacent Southern Lights and related deep-techno tracks/releases",
     "exclusions": [
-      "track-specific label descriptions remain attributed evidence rather than model listening",
-      "artist/label identity was not treated as admission proof",
+      "patient/ambient framing was not treated as automatic suitability after Tehutis Law",
+      "release coherence was not substituted for exact track placement evidence",
       "parked candidates were not recycled"
     ],
     "rankedLeadSummary": [
-      "1. Neen — Restos De Algo Que Nunca Fue: arpeggio-led, hypnotic groove in the label's exact track notes",
-      "2. John Plaza — Nankuru: deep yet forceful, with depth turning physical",
-      "3. Qitula — Işık: broken rhythms outside the 4x4 grid and modular textures",
-      "4. Javkfstrackt — Ancient Language: mental, loop-driven, sci-fi edge with clean bleeps and 909 percussion"
+      "1. Dino Sabatini — Subsurface Light: hypnotic descent into pressurised depths where rhythm becomes ritual",
+      "2. Lost Few — Light Before The Haze (Dino Sabatini Remix): closing meditation pulled inward and slowed into a deep-techno shadow",
+      "3. Lost Few — Broken Dawn: layered pads and rhythmic pulse with slow-emergence function",
+      "4. Lost Few — Light Before The Haze: melodic, restrained and weightless deepening"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 4,
+  "resolvedCount": 3,
   "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
+    {
+      "artist": "Lost Few",
+      "track": "Light Before The Haze (Dino Sabatini Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Lost Few",
+        "track": "Light Before The Haze (Dino Sabatini Remix)",
+        "releaseDate": "2026-08-28",
+        "discoverySource": "Southern Lights official release; remix is described as a closing meditation pulled inward, with a slowed pulse and deep-techno shadow",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          }
+        ],
+        "fitHypothesis": "An inward/slower reset could create space after Tehutis Law, but the exact metrical relation and body continuity are unknown.",
+        "evidence": {
+          "measured": [
+            "6:45 duration",
+            "released 2026-08-28"
+          ],
+          "attributedDescription": "Southern Lights describes the remix as inward, slower and meditative in a deep-techno shadow.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A reset can be valid when intentional, but slowing language alone cannot prove the handoff."
+        }
+      }
+    }
+  ],
   "warnings": [],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Neen",
-        "track": "Restos De Algo Que Nunca Fue",
+        "artist": "Dino Sabatini",
+        "track": "Subsurface Light",
         "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe an arpeggio that never stops and hypnotic groove in its purest form",
+        "discoverySource": "Southern Lights official release; track-specific notes describe a hypnotic descent into pressurised depths where rhythm becomes ritual and texture carries ancient resonance",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "The explicit hypnotic-groove framing could deepen bodily continuity after Tehutis Law while changing textural language; exact felt transition remains unknown.",
+        "fitHypothesis": "The ritualised deep-pressure description could deepen the journey after the funk re-grounding without requiring another conspicuous rhythmic trick; exact felt transition remains unknown.",
         "evidence": {
           "measured": [
+            "6:44 duration",
             "released 2026-08-28"
           ],
-          "attributedDescription": "Thama Series describes a continuously breathing arpeggio and hypnotic groove.",
+          "attributedDescription": "Southern Lights describes hypnotic pressurised depth, ritualised rhythm and weighty texture.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A groove-led deepening can preserve bodily trust without requiring sameness."
+          "craftConvention": "A pressure-deepening move after funk can be deliberate if bodily trust remains intact."
         }
       },
-      "spotifyTrackId": "7z4ckVkTxXu95Jbz2uuX4V",
+      "spotifyTrackId": "4wltdS59dJoR1mzj6SS2tz",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Lost Few",
+        "track": "Light Before The Haze (Dino Sabatini Remix)",
+        "releaseDate": "2026-08-28",
+        "discoverySource": "Southern Lights official release; remix is described as a closing meditation pulled inward, with a slowed pulse and deep-techno shadow",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          }
+        ],
+        "fitHypothesis": "An inward/slower reset could create space after Tehutis Law, but the exact metrical relation and body continuity are unknown.",
+        "evidence": {
+          "measured": [
+            "6:45 duration",
+            "released 2026-08-28"
+          ],
+          "attributedDescription": "Southern Lights describes the remix as inward, slower and meditative in a deep-techno shadow.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A reset can be valid when intentional, but slowing language alone cannot prove the handoff."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Lost Few",
+        "track": "Broken Dawn",
+        "releaseDate": "2026-08-28",
+        "discoverySource": "Southern Lights official release; track-specific notes describe slow emergence through layered pads and rhythmic pulse before sunrise",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "after Jayson Wynters — Tehutis Law as Track 8"
+          }
+        ],
+        "fitHypothesis": "Slow-emergence rhythmic pulse is a possible spacious redirection, but may be too opening-coded for this exact slot.",
+        "evidence": {
+          "measured": [
+            "6:02 duration",
+            "released 2026-08-28"
+          ],
+          "attributedDescription": "Southern Lights describes layered pads and rhythmic pulse with slow emergence.",
+          "listenerEvidence": "No direct listener evidence.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Opening-like material can work mid-journey only if it meaningfully resets the arc."
+        }
+      },
+      "spotifyTrackId": "6lKumoF3IkXSEQZyhtK7tk",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "John Plaza",
-        "track": "Nankuru",
+        "artist": "Lost Few",
+        "track": "Light Before The Haze",
         "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a deep yet forceful track where depth turns physical",
+        "discoverySource": "Southern Lights official release; track-specific notes describe a longing, weightless, melodic and restrained deepening",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Physical depth is directly relevant to a post-funk continuation, though exact pressure and transition feel remain unknown.",
+        "fitHypothesis": "Restrained melodic weightlessness could provide contrast after Tehutis Law, but body continuity is materially uncertain.",
         "evidence": {
           "measured": [
+            "6:04 duration",
             "released 2026-08-28"
           ],
-          "attributedDescription": "Thama Series describes Nankuru as deep yet forceful, with depth becoming physical.",
+          "attributedDescription": "Southern Lights describes the track as longing, weightless, melodic and restrained.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Physical depth can extend the body thread without copying the prior groove."
+          "craftConvention": "Contrast needs purpose; restraint alone is not proof of good placement."
         }
       },
-      "spotifyTrackId": "214KF0T41MQwyLtuzMJ68c",
+      "spotifyTrackId": "3YBxqg982cclIygXUQ5zj3",
       "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Qitula",
-        "track": "Işık",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe broken rhythms outside the 4x4 grid and modular synth textures",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
-          }
-        ],
-        "fitHypothesis": "A broken-rhythm move could reopen gait after Tehutis Law, but the journey already contains Capa as a rhythmic redirection, so this needs more than novelty.",
-        "evidence": {
-          "measured": [
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Thama Series explicitly describes broken rhythms outside the 4x4 grid and modular synth textures.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Another broken step must serve the local run rather than merely add technique diversity."
-        }
-      },
-      "spotifyTrackId": "2yqy9Ca17sI346sLqvMhNv",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Javkfstrackt",
-        "track": "Ancient Language",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a mental, loop-driven journey with sci-fi edge, clean bleeps and 909 percussion",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
-          }
-        ],
-        "fitHypothesis": "Loop-driven 909 language could deepen repetition after the funk turn while shifting atmosphere; exact body relation remains unknown.",
-        "evidence": {
-          "measured": [
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Thama Series describes loop-driven sci-fi techno with clean bleeps and 909 percussion.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Repetition can deepen a run when it changes texture without arbitrary energy reset."
-        }
-      },
-      "spotifyTrackId": "5nZr1X36txvwX1j791nHHj",
-      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "7z4ckVkTxXu95Jbz2uuX4V",
-      "uri": "spotify:track:7z4ckVkTxXu95Jbz2uuX4V",
-      "name": "Restos De Algo Que Nunca Fue",
+      "id": "4wltdS59dJoR1mzj6SS2tz",
+      "uri": "spotify:track:4wltdS59dJoR1mzj6SS2tz",
+      "name": "Subsurface Light",
       "artists": [
-        "Neen"
+        "Dino Sabatini"
       ],
-      "album": "Antumbra",
+      "album": "Light Before The Haze",
       "releaseDate": "2026-08-28",
-      "durationMs": 293424,
-      "spotifyUrl": "https://open.spotify.com/track/7z4ckVkTxXu95Jbz2uuX4V",
-      "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe an arpeggio that never stops and hypnotic groove in its purest form",
+      "durationMs": 404885,
+      "spotifyUrl": "https://open.spotify.com/track/4wltdS59dJoR1mzj6SS2tz",
+      "discoverySource": "Southern Lights official release; track-specific notes describe a hypnotic descent into pressurised depths where rhythm becomes ritual and texture carries ancient resonance",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Jayson Wynters — Tehutis Law as Track 8"
         }
       ],
-      "fitHypothesis": "The explicit hypnotic-groove framing could deepen bodily continuity after Tehutis Law while changing textural language; exact felt transition remains unknown.",
+      "fitHypothesis": "The ritualised deep-pressure description could deepen the journey after the funk re-grounding without requiring another conspicuous rhythmic trick; exact felt transition remains unknown.",
       "evidence": {
         "measured": [
+          "6:44 duration",
           "released 2026-08-28"
         ],
-        "attributedDescription": "Thama Series describes a continuously breathing arpeggio and hypnotic groove.",
+        "attributedDescription": "Southern Lights describes hypnotic pressurised depth, ritualised rhythm and weighty texture.",
         "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A groove-led deepening can preserve bodily trust without requiring sameness."
+        "craftConvention": "A pressure-deepening move after funk can be deliberate if bodily trust remains intact."
       },
       "requestedIdentity": {
-        "artist": "Neen",
-        "track": "Restos De Algo Que Nunca Fue",
+        "artist": "Dino Sabatini",
+        "track": "Subsurface Light",
         "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe an arpeggio that never stops and hypnotic groove in its purest form",
+        "discoverySource": "Southern Lights official release; track-specific notes describe a hypnotic descent into pressurised depths where rhythm becomes ritual and texture carries ancient resonance",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "The explicit hypnotic-groove framing could deepen bodily continuity after Tehutis Law while changing textural language; exact felt transition remains unknown.",
+        "fitHypothesis": "The ritualised deep-pressure description could deepen the journey after the funk re-grounding without requiring another conspicuous rhythmic trick; exact felt transition remains unknown.",
         "evidence": {
           "measured": [
+            "6:44 duration",
             "released 2026-08-28"
           ],
-          "attributedDescription": "Thama Series describes a continuously breathing arpeggio and hypnotic groove.",
+          "attributedDescription": "Southern Lights describes hypnotic pressurised depth, ritualised rhythm and weighty texture.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A groove-led deepening can preserve bodily trust without requiring sameness."
+          "craftConvention": "A pressure-deepening move after funk can be deliberate if bodily trust remains intact."
         }
       }
     },
     {
-      "id": "214KF0T41MQwyLtuzMJ68c",
-      "uri": "spotify:track:214KF0T41MQwyLtuzMJ68c",
-      "name": "Nankuru",
+      "id": "6lKumoF3IkXSEQZyhtK7tk",
+      "uri": "spotify:track:6lKumoF3IkXSEQZyhtK7tk",
+      "name": "Broken Dawn",
       "artists": [
-        "John Plaza"
+        "Lost Few"
       ],
-      "album": "Antumbra",
+      "album": "Light Before The Haze",
       "releaseDate": "2026-08-28",
-      "durationMs": 371506,
-      "spotifyUrl": "https://open.spotify.com/track/214KF0T41MQwyLtuzMJ68c",
-      "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a deep yet forceful track where depth turns physical",
+      "durationMs": 362776,
+      "spotifyUrl": "https://open.spotify.com/track/6lKumoF3IkXSEQZyhtK7tk",
+      "discoverySource": "Southern Lights official release; track-specific notes describe slow emergence through layered pads and rhythmic pulse before sunrise",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Jayson Wynters — Tehutis Law as Track 8"
         }
       ],
-      "fitHypothesis": "Physical depth is directly relevant to a post-funk continuation, though exact pressure and transition feel remain unknown.",
+      "fitHypothesis": "Slow-emergence rhythmic pulse is a possible spacious redirection, but may be too opening-coded for this exact slot.",
       "evidence": {
         "measured": [
+          "6:02 duration",
           "released 2026-08-28"
         ],
-        "attributedDescription": "Thama Series describes Nankuru as deep yet forceful, with depth becoming physical.",
+        "attributedDescription": "Southern Lights describes layered pads and rhythmic pulse with slow emergence.",
         "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Physical depth can extend the body thread without copying the prior groove."
+        "craftConvention": "Opening-like material can work mid-journey only if it meaningfully resets the arc."
       },
       "requestedIdentity": {
-        "artist": "John Plaza",
-        "track": "Nankuru",
+        "artist": "Lost Few",
+        "track": "Broken Dawn",
         "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a deep yet forceful track where depth turns physical",
+        "discoverySource": "Southern Lights official release; track-specific notes describe slow emergence through layered pads and rhythmic pulse before sunrise",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "Physical depth is directly relevant to a post-funk continuation, though exact pressure and transition feel remain unknown.",
+        "fitHypothesis": "Slow-emergence rhythmic pulse is a possible spacious redirection, but may be too opening-coded for this exact slot.",
         "evidence": {
           "measured": [
+            "6:02 duration",
             "released 2026-08-28"
           ],
-          "attributedDescription": "Thama Series describes Nankuru as deep yet forceful, with depth becoming physical.",
+          "attributedDescription": "Southern Lights describes layered pads and rhythmic pulse with slow emergence.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Physical depth can extend the body thread without copying the prior groove."
+          "craftConvention": "Opening-like material can work mid-journey only if it meaningfully resets the arc."
         }
       }
     },
     {
-      "id": "2yqy9Ca17sI346sLqvMhNv",
-      "uri": "spotify:track:2yqy9Ca17sI346sLqvMhNv",
-      "name": "Işık",
+      "id": "3YBxqg982cclIygXUQ5zj3",
+      "uri": "spotify:track:3YBxqg982cclIygXUQ5zj3",
+      "name": "Light Before The Haze",
       "artists": [
-        "Qitula"
+        "Lost Few"
       ],
-      "album": "Antumbra",
+      "album": "Light Before The Haze",
       "releaseDate": "2026-08-28",
-      "durationMs": 361643,
-      "spotifyUrl": "https://open.spotify.com/track/2yqy9Ca17sI346sLqvMhNv",
-      "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe broken rhythms outside the 4x4 grid and modular synth textures",
+      "durationMs": 364368,
+      "spotifyUrl": "https://open.spotify.com/track/3YBxqg982cclIygXUQ5zj3",
+      "discoverySource": "Southern Lights official release; track-specific notes describe a longing, weightless, melodic and restrained deepening",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "after Jayson Wynters — Tehutis Law as Track 8"
         }
       ],
-      "fitHypothesis": "A broken-rhythm move could reopen gait after Tehutis Law, but the journey already contains Capa as a rhythmic redirection, so this needs more than novelty.",
+      "fitHypothesis": "Restrained melodic weightlessness could provide contrast after Tehutis Law, but body continuity is materially uncertain.",
       "evidence": {
         "measured": [
+          "6:04 duration",
           "released 2026-08-28"
         ],
-        "attributedDescription": "Thama Series explicitly describes broken rhythms outside the 4x4 grid and modular synth textures.",
+        "attributedDescription": "Southern Lights describes the track as longing, weightless, melodic and restrained.",
         "listenerEvidence": "No direct listener evidence.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Another broken step must serve the local run rather than merely add technique diversity."
+        "craftConvention": "Contrast needs purpose; restraint alone is not proof of good placement."
       },
       "requestedIdentity": {
-        "artist": "Qitula",
-        "track": "Işık",
+        "artist": "Lost Few",
+        "track": "Light Before The Haze",
         "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe broken rhythms outside the 4x4 grid and modular synth textures",
+        "discoverySource": "Southern Lights official release; track-specific notes describe a longing, weightless, melodic and restrained deepening",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "after Jayson Wynters — Tehutis Law as Track 8"
           }
         ],
-        "fitHypothesis": "A broken-rhythm move could reopen gait after Tehutis Law, but the journey already contains Capa as a rhythmic redirection, so this needs more than novelty.",
+        "fitHypothesis": "Restrained melodic weightlessness could provide contrast after Tehutis Law, but body continuity is materially uncertain.",
         "evidence": {
           "measured": [
+            "6:04 duration",
             "released 2026-08-28"
           ],
-          "attributedDescription": "Thama Series explicitly describes broken rhythms outside the 4x4 grid and modular synth textures.",
+          "attributedDescription": "Southern Lights describes the track as longing, weightless, melodic and restrained.",
           "listenerEvidence": "No direct listener evidence.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Another broken step must serve the local run rather than merely add technique diversity."
+          "craftConvention": "Contrast needs purpose; restraint alone is not proof of good placement."
         }
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "5nZr1X36txvwX1j791nHHj",
-      "uri": "spotify:track:5nZr1X36txvwX1j791nHHj",
-      "name": "Ancient Language",
-      "artists": [
-        "Javkfstrackt"
-      ],
-      "album": "Antumbra",
-      "releaseDate": "2026-08-28",
-      "durationMs": 320958,
-      "spotifyUrl": "https://open.spotify.com/track/5nZr1X36txvwX1j791nHHj",
-      "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a mental, loop-driven journey with sci-fi edge, clean bleeps and 909 percussion",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Jayson Wynters — Tehutis Law as Track 8"
-        }
-      ],
-      "fitHypothesis": "Loop-driven 909 language could deepen repetition after the funk turn while shifting atmosphere; exact body relation remains unknown.",
-      "evidence": {
-        "measured": [
-          "released 2026-08-28"
-        ],
-        "attributedDescription": "Thama Series describes loop-driven sci-fi techno with clean bleeps and 909 percussion.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Repetition can deepen a run when it changes texture without arbitrary energy reset."
-      },
-      "requestedIdentity": {
-        "artist": "Javkfstrackt",
-        "track": "Ancient Language",
-        "releaseDate": "2026-08-28",
-        "discoverySource": "Thama Series official ANTUMBRA; track-specific notes describe a mental, loop-driven journey with sci-fi edge, clean bleeps and 909 percussion",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Jayson Wynters — Tehutis Law as Track 8"
-          }
-        ],
-        "fitHypothesis": "Loop-driven 909 language could deepen repetition after the funk turn while shifting atmosphere; exact body relation remains unknown.",
-        "evidence": {
-          "measured": [
-            "released 2026-08-28"
-          ],
-          "attributedDescription": "Thama Series describes loop-driven sci-fi techno with clean bleeps and 909 percussion.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Repetition can deepen a run when it changes texture without arbitrary energy reset."
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
