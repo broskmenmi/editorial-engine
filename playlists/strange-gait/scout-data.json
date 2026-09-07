@@ -1,160 +1,68 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "8298e43fa7c9060599a443084d445ddeb9e85a16e3fb641ac376728125563602",
-  "generatedAt": "2026-09-07T13:10:35.487Z",
-  "runId": "2026-09-07T13:05:43Z-explore-53",
-  "sourceCommit": "2a58946300d874419c16498f664dde33fe590fb9",
+  "requestFingerprint": "fc30810103a78845bd805b6d91645b805e218c2c92f45bbf9ba322c2f3e43a2b",
+  "generatedAt": "2026-09-07T14:04:28.566Z",
+  "runId": "2026-09-07T14:02:06Z-explore-54",
+  "sourceCommit": "e3078fb7ef2baea44f51f89137e90f44b2a8d657",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement rather than a predetermined tail slot. A candidate must strengthen transition, local-run and long-form intent; selection-lens interest alone is insufficient."
+    "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement. Character changes and hard left turns may pass when transition, local-run and long-form intent are supported; selection-lens interest alone is insufficient."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T13:05:43Z",
+    "timestampUtc": "2026-09-07T14:02:06Z",
     "sourceWindows": [
-      "CURRENT / ADJACENT: https://outerorbitrecords.bandcamp.com/album/bootstrap-paradox-lp and https://ra.co/reviews/36356 — all 12 listed album tracks from Spekki Webu's 2026-06-05 Bootstrap Paradox screened; Goodbye Universe retained because the track-specific review describes a broken-beat-ish, off-grid construction with backwards drum fills that become both jarring and funky.",
-      "CURRENT RELEASES: https://soma-records.bandcamp.com/album/soma-352-surgeon-remixes — all four tracks from the 2026-08-28 Surgeon remix release screened; Brownian Motion (Justyn Nell Remix) retained because Soma's exact-remix description foregrounds driving rhythms, precision percussion and explosive dynamics.",
-      "OVERLOOKED CATALOGUE: https://seismicrec.bandcamp.com/track/iii9 — all four tracks from Spekki Webu's 2023 Kept In Reality release screened; iii9 retained because its exact-track notes describe an offbeat gated lolloping pulse that later locks into polyrhythmic pressure.",
-      "ADDITIONAL WINDOWS: SWAY Ace Trax X2, Soma 35.2's other three remixes, the remaining Bootstrap Paradox tracks, and bounded August–September 2026 techno/broken-rhythm/polyrhythm result pages; exact Spotify identities intentionally left to the repository resolver."
+      "CURRENT RELEASES: https://sublunarrecords.bandcamp.com/album/kept-what-remained — all nine tracks from Hadone's 2026-08-21 album screened; The Enemy Within retained because Sublunar's exact-track notes describe intricate sound design joined to powerful rhythmic structures.",
+      "ADJACENT / EMERGING: https://sublunarrecords.bandcamp.com/album/one-touch — all six tracks from Clotur's 2026-06-19 release screened; Drummz retained because the exact-track notes describe dynamic, unpredictable rhythms, refined groove work and a strong sense of movement.",
+      "ADJACENT / EMERGING: https://sunpeople.bandcamp.com/album/endophyte-ep and https://firstfloor.substack.com/p/sun-people-x-other-worlds-endophyte — all four tracks from the 2026-03-06 Sun People x Other Worlds EP screened; Psychicemotus retained because the exact-track review describes a chunky gallop and the release is explicitly framed as left-field techno crossing footwork, jungle and techno.",
+      "OVERLOOKED CATALOGUE: https://sublunarrecords.bandcamp.com/album/void-century-w-patrick-russell-remix — all four tracks from Donor's 2018-09-21 release screened; Forgotten retained because Sublunar's exact-track notes describe glitches, twists, broken beats and a curious polyrhythmic gait.",
+      "ADDITIONAL WINDOWS: all six tracks from Vilchezz — Deadlock, all eight tracks from Sciama — Collapse of Order, all twelve tracks from Scibor — Searching for Colors, and four OODE1 catalogue clips were screened alongside bounded 2026 techno/broken-rhythm result pages."
     ],
-    "approximateInspectedScope": "Approximately 34 named tracks across four release/catalogue pages plus bounded current-release result windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 53 named tracks across eight current, adjacent and catalogue releases plus bounded result pages; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 13 canonical identities, active placement-specific rejects, and every untriggered PARKED revisit were excluded. The Run 52 reassessment cohort was not recycled.",
+      "All 13 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Run 53's Outer Orbit, Soma and Seismic leads were not retried.",
       "The two protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "Wave Jumper, Axis Point, Floating In Acheron, and the remaining Bootstrap Paradox tracks had useful descriptions but ranked below Goodbye Universe for exact-track structural evidence; no same-artist diversity quota was applied when iii9 independently survived the overlooked-catalogue scan.",
-      "Coaster (Slam Mix), Coaster (Lewis Fautzi Remix), and Coaster (Nørbak Remix) were screened but ranked below Brownian Motion (Justyn Nell Remix) for this run's adjacent/emerging lane.",
-      "Recent Teknopappa, Atherian and M.S. sources previously screened in Run 48 were not recycled. No lead was promoted for recency, artist reputation, genre, title, novelty or assumed BPM. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
+      "Other Hadone, Clotur, Sun People x Other Worlds, Donor, Vilchezz, Sciama and Scibor tracks were screened but ranked below the four leads for exact-track structural evidence relevant to this run; no artist, label, texture or novelty quota was used.",
+      "No lead was promoted for recency, artist reputation, genre, title, novelty, supplied Spotify identity or assumed BPM. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Spekki Webu — Goodbye Universe: current track-specific review describes broken-beat-ish, live/off-grid behavior and backwards fills that land as jarring and funky; exact Spotify identity and tempo require resolver verification.",
-      "2. Surgeon — Brownian Motion (Justyn Nell Remix): current official label description attributes driving rhythms, precision percussion and explosive dynamics to the exact remix; exact Spotify crediting and tempo require resolver verification.",
-      "3. Spekki Webu — iii9: overlooked exact-track label notes describe offbeat gated rhythm, a lolloping pulse, evolving space and polyrhythms locking pressure; exact Spotify identity and tempo require resolver verification."
+      "1. Clotur — Drummz: current exact-track label notes describe dynamic and unpredictable rhythms, refined groove work and strong movement; supplied Spotify ID requires resolver verification.",
+      "2. Donor — Forgotten: overlooked exact-track label notes describe glitches, twists, broken beats and a curious polyrhythmic gait; exact Spotify identity and tempo require resolver verification.",
+      "3. Sun People, Other Worlds — Psychicemotus: current independent exact-track review describes a chunky gallop within a left-field techno collaboration; supplied Spotify ID requires resolver verification.",
+      "4. Hadone — The Enemy Within: current exact-track label notes describe intricate sound design and powerful rhythmic structures; supplied Spotify ID requires resolver verification."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 3,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
+  "requestedCount": 4,
+  "resolvedCount": 3,
+  "candidateCount": 3,
+  "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Spekki Webu",
-      "track": "Goodbye Universe",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (43kY76caB8NbYlvFLWSlo0, 3LmnUcX41fXD77ZJqfLheX)",
+      "artist": "Sun People, Other Worlds",
+      "track": "Psychicemotus",
+      "error": "direct Spotify track identity mismatch",
       "requestedIdentity": {
-        "artist": "Spekki Webu",
-        "track": "Goodbye Universe",
-        "album": "Bootstrap Paradox LP",
-        "releaseDate": "2026-06-05",
+        "artist": "Sun People, Other Worlds",
+        "track": "Psychicemotus",
+        "album": "Endophyte EP",
+        "releaseDate": "2026-03-06",
+        "spotifyTrackId": "7jQ503w7dodxdbyzLETZaz",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://outerorbitrecords.bandcamp.com/album/bootstrap-paradox-lp",
+        "discoverySource": "https://sunpeople.bandcamp.com/album/endophyte-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test an explicit off-grid broken-rhythm hinge before the existing Capa → Thick to Handle redirection, without assuming the source-described funk proves physical continuity."
-          },
-          {
-            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test a conspicuous rhythmic-character change between the driving passage and groove consolidation, while preserving the protected trio farther downstream."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes Goodbye Universe as broken-beat-ish, live/off-grid in places, with backwards drum fills slipping far enough out of time to be jarring and funky. That is unusually direct structural evidence for the selection lens, but it does not prove either proposed handoff.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:20",
-            "official release date 2026-06-05",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "Resident Advisor describes the exact track as broken-beat-ish and live/off-grid in places, with backwards fills that slip enough out of time to be both jarring and funky. This is reviewer language, not heard or measured behaviour.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "An unmistakable rhythmic hinge can make a hard left turn deliberate, but source-described off-grid behavior and funk do not prove transition or local-run quality.",
-          "editorialInterpretation": "Strong belonging hypothesis near the middle or pre-Truth in Noise boundary; exact pulse, attention cost and long-form gain remain unknown."
-        }
-      }
-    },
-    {
-      "artist": "Surgeon",
-      "track": "Brownian Motion (Justyn Nell Remix)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Surgeon",
-        "track": "Brownian Motion (Justyn Nell Remix)",
-        "album": "Soma 35.2 - Surgeon Remixes",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://soma-records.bandcamp.com/track/brownian-motion-justyn-nell-remix",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 139,
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a precision-percussion intervention between funk re-grounding and the existing driving continuation, without assuming the label's dynamics language establishes energy fit."
-          },
-          {
-            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether the source-described percussion and dynamics can clarify the late-middle change before Truth in Noise rather than merely extending pressure."
-          }
-        ],
-        "fitHypothesis": "Soma attributes driving rhythms, precision percussion and explosive dynamics to Justyn Nell's Brownian Motion remix. The percussion-led development is relevant to the selection lens, while actual rhythmic freedom and both transition effects remain unproven.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 6:08",
-            "official release date 2026-08-28",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "Soma's release notes say Justyn Nell delivers driving rhythms, precision percussion and explosive dynamics on Brownian Motion. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A percussion-led stage can articulate an internal passage, but production precision and dynamics are not evidence that another canonical stage is needed.",
-          "editorialInterpretation": "Plausible late-middle pressure articulation; volume distinctiveness, attention demand and long-form gain remain uncertain."
-        }
-      }
-    },
-    {
-      "artist": "Spekki Webu",
-      "track": "iii9",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Spekki Webu",
-        "track": "iii9",
-        "album": "Kept In Reality",
-        "releaseDate": "2023-11-14",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://seismicrec.bandcamp.com/track/iii9",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder as a new opener",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a source-described offbeat rhythm that gradually locks into pressure as an intentional entrance before the established opening, without inferring calm, energy or easy mixing."
+            "purpose": "Test a source-described galloping rhythmic language as a deliberate early character change without assuming it bridges the BPM change or preserves attention."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -163,37 +71,94 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 143,
-            "purpose": "Test a clear offbeat-to-polyrhythmic structural passage before the protected trio; Transparency's disputed 143/107 tempo remains non-proof."
+            "purpose": "Test a conspicuous left-field rhythmic doorway before the protected trio; Transparency's disputed 143/107 tempo remains non-proof."
           }
         ],
-        "fitHypothesis": "Seismic's exact-track notes describe offbeat gated rhythm, a lolloping pulse revealed in negative, evolving space and polyrhythms eventually locking pressure. That strongly supports structural freedom and development, while intensity, bodily effect and exact placement remain unknown.",
+        "fitHypothesis": "First Floor describes Psychicemotus as a satisfyingly chunky gallop, while the artists frame the EP as hypnotic left-field techno merging footwork, jungle and techno. The exact-track gallop is relevant; cross-genre framing alone is not admission evidence.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 8:03",
-            "official release date 2023-11-14",
+            "official Bandcamp duration 4:22",
+            "official release date 2026-03-06",
+            "public Spotify result identifies track ID 7jQ503w7dodxdbyzLETZaz; resolver must verify",
             "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "Seismic's exact-track notes describe ethereal atmospherics, an offbeat gated lolloping pulse, shifting space and layers, and polyrhythms eventually locking pressure. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "No candidate-specific listener report; the established opening has prior listener sensitivity to attention-disrupting over-articulation.",
+          "attributedDescription": "First Floor calls the exact track a satisfyingly chunky gallop; the official release notes describe the collaboration as hypnotic left-field techno crossing footwork, jungle and techno. These are reviewer/artist descriptions, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A gradually revealed pulse can function as an opener or pre-block hinge, but long duration and developmental prose do not prove attention continuity.",
-          "editorialInterpretation": "Strong overlooked-catalogue belonging hypothesis with two distinct placements; actual pulse, density, opening effect and handoffs remain unknown."
+          "craftConvention": "A distinct galloping pulse can make a character change intelligible, but genre-crossing and hypnosis claims do not prove transition, density or long-form effect.",
+          "editorialInterpretation": "Plausible early hinge or pre-protected-block doorway; exact pulse, transition feel and whether it earns another stage remain unknown."
         }
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "artist": "Donor",
+      "track": "Forgotten",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018-09-21\" but Spotify returned \"2018-10-01\""
+    }
+  ],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Spekki Webu",
-        "track": "Goodbye Universe",
-        "album": "Bootstrap Paradox LP",
-        "releaseDate": "2026-06-05",
+        "artist": "Clotur",
+        "track": "Drummz",
+        "album": "One Touch",
+        "releaseDate": "2026-06-19",
+        "spotifyTrackId": "6K07a5OAl8J6wqlcnCoT8i",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://outerorbitrecords.bandcamp.com/album/bootstrap-paradox-lp",
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/one-touch",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test whether explicitly unpredictable rhythm and groove create a purposeful character change before groove consolidation, without assuming movement language proves physical continuity."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a dynamic-groove hinge early in the journey while respecting prior listener sensitivity to attention-disrupting over-articulation."
+          }
+        ],
+        "fitHypothesis": "Sublunar describes Drummz as driven by dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. That is direct selection-lens evidence, but does not establish either transition, local-run improvement or long-form need.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 5:09",
+            "official release date 2026-06-19",
+            "public Spotify result identifies track ID 6K07a5OAl8J6wqlcnCoT8i; resolver must verify",
+            "candidate BPM unknown before resolver; no tempo inference made"
+          ],
+          "attributedDescription": "Sublunar's exact-track notes describe dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report; the early journey has prior listener sensitivity to attention-disrupting over-articulation.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "An explicit rhythmic-character hinge can make a left turn deliberate, but groove and movement descriptions do not prove transition or surrounding-run quality.",
+          "editorialInterpretation": "Strong whole-journey belonging hypothesis with two lawful placement tests; pulse, density, attention cost and long-form gain remain unknown."
+        }
+      },
+      "spotifyTrackId": "6K07a5OAl8J6wqlcnCoT8i",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Donor",
+        "track": "Forgotten",
+        "album": "Void Century",
+        "releaseDate": "2018-09-21",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/void-century-w-patrick-russell-remix",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -203,7 +168,7 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test an explicit off-grid broken-rhythm hinge before the existing Capa → Thick to Handle redirection, without assuming the source-described funk proves physical continuity."
+            "purpose": "Test an explicitly broken and polyrhythmic pivot into the existing Capa → Thick to Handle redirection, without equating brute force with useful energy."
           },
           {
             "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
@@ -212,35 +177,86 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test a conspicuous rhythmic-character change between the driving passage and groove consolidation, while preserving the protected trio farther downstream."
+            "purpose": "Test whether the exact-track glitches and twists create purposeful late-middle fracture or merely add attention cost."
           }
         ],
-        "fitHypothesis": "Resident Advisor describes Goodbye Universe as broken-beat-ish, live/off-grid in places, with backwards drum fills slipping far enough out of time to be jarring and funky. That is unusually direct structural evidence for the selection lens, but it does not prove either proposed handoff.",
+        "fitHypothesis": "Sublunar's exact-track notes say Forgotten glitches and twists, with every broken beat an act of brute force and a curious polyrhythmic gait. That strongly supports structural freedom while also raising an explicit attention and pressure risk.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 5:20",
-            "official release date 2026-06-05",
-            "candidate BPM unknown before resolver; no tempo inference made"
+            "official Bandcamp duration 5:33",
+            "official release date 2018-09-21",
+            "candidate BPM and Spotify identity unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "Resident Advisor describes the exact track as broken-beat-ish and live/off-grid in places, with backwards fills that slip enough out of time to be both jarring and funky. This is reviewer language, not heard or measured behaviour.",
+          "attributedDescription": "Sublunar's exact-track notes describe glitches, twists, broken beats delivered with brute force and a curious polyrhythmic gait. This is label language, not heard or measured behaviour.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "An unmistakable rhythmic hinge can make a hard left turn deliberate, but source-described off-grid behavior and funk do not prove transition or local-run quality.",
-          "editorialInterpretation": "Strong belonging hypothesis near the middle or pre-Truth in Noise boundary; exact pulse, attention cost and long-form gain remain unknown."
+          "craftConvention": "A forceful broken-rhythm pivot may serve a deliberate fracture, but conspicuousness and technical interest do not prove the surrounding run needs it.",
+          "editorialInterpretation": "High selection-lens fit and a plausible central pivot; exact pulse, density, handoffs and long-form benefit remain unknown."
         }
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (43kY76caB8NbYlvFLWSlo0, 3LmnUcX41fXD77ZJqfLheX)"
+      "spotifyTrackId": "1sB7fqVVcbhjZC4hjdoXyQ",
+      "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Surgeon",
-        "track": "Brownian Motion (Justyn Nell Remix)",
-        "album": "Soma 35.2 - Surgeon Remixes",
-        "releaseDate": "2026-08-28",
+        "artist": "Sun People, Other Worlds",
+        "track": "Psychicemotus",
+        "album": "Endophyte EP",
+        "releaseDate": "2026-03-06",
+        "spotifyTrackId": "7jQ503w7dodxdbyzLETZaz",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://soma-records.bandcamp.com/track/brownian-motion-justyn-nell-remix",
+        "discoverySource": "https://sunpeople.bandcamp.com/album/endophyte-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a source-described galloping rhythmic language as a deliberate early character change without assuming it bridges the BPM change or preserves attention."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test a conspicuous left-field rhythmic doorway before the protected trio; Transparency's disputed 143/107 tempo remains non-proof."
+          }
+        ],
+        "fitHypothesis": "First Floor describes Psychicemotus as a satisfyingly chunky gallop, while the artists frame the EP as hypnotic left-field techno merging footwork, jungle and techno. The exact-track gallop is relevant; cross-genre framing alone is not admission evidence.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 4:22",
+            "official release date 2026-03-06",
+            "public Spotify result identifies track ID 7jQ503w7dodxdbyzLETZaz; resolver must verify",
+            "candidate BPM unknown before resolver; no tempo inference made"
+          ],
+          "attributedDescription": "First Floor calls the exact track a satisfyingly chunky gallop; the official release notes describe the collaboration as hypnotic left-field techno crossing footwork, jungle and techno. These are reviewer/artist descriptions, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A distinct galloping pulse can make a character change intelligible, but genre-crossing and hypnosis claims do not prove transition, density or long-form effect.",
+          "editorialInterpretation": "Plausible early hinge or pre-protected-block doorway; exact pulse, transition feel and whether it earns another stage remain unknown."
+        }
+      },
+      "error": "direct Spotify track identity mismatch"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Hadone",
+        "track": "The Enemy Within",
+        "album": "Kept What Remained",
+        "releaseDate": "2026-08-21",
+        "spotifyTrackId": "04Kn5hulGhcJwrpi8YKGWR",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/kept-what-remained",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -250,7 +266,197 @@
             "incomingBpm": 139,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a precision-percussion intervention between funk re-grounding and the existing driving continuation, without assuming the label's dynamics language establishes energy fit."
+            "purpose": "Test whether intricate, powerful rhythmic structures clarify this late-middle passage or redundantly extend its existing pressure."
+          },
+          {
+            "position": "After Len Faki — Stardancer as a possible new tail passage",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Keep the tail as one lawful option and test whether the track opens a purposeful next character; do not privilege this placement merely because it appends cleanly."
+          }
+        ],
+        "fitHypothesis": "Sublunar describes The Enemy Within as an explosive combination of intricate sound design and powerful rhythmic structures. The rhythmic-construction evidence supports inspection, while explosive and powerful language also signals possible redundancy or attention cost.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 5:06",
+            "official release date 2026-08-21",
+            "public Spotify result identifies track ID 04Kn5hulGhcJwrpi8YKGWR; resolver must verify",
+            "candidate BPM unknown before resolver; no tempo inference made"
+          ],
+          "attributedDescription": "Sublunar's exact-track notes describe an explosive combination of intricate sound design and powerful rhythmic structures. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Intricate rhythmic construction may suit the volume, but intensity language does not prove a new stage, a transition or a long-form gain.",
+          "editorialInterpretation": "Relevant current-release hypothesis for an internal pressure stage or new tail; exact pulse, character, redundancy and handoffs remain unknown."
+        }
+      },
+      "spotifyTrackId": "04Kn5hulGhcJwrpi8YKGWR",
+      "selected": true
+    }
+  ],
+  "candidates": [
+    {
+      "id": "6K07a5OAl8J6wqlcnCoT8i",
+      "uri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+      "name": "Drummz",
+      "artists": [
+        "Clotur"
+      ],
+      "album": "One Touch",
+      "releaseDate": "2026-06-19",
+      "durationMs": 309565,
+      "spotifyUrl": "https://open.spotify.com/track/6K07a5OAl8J6wqlcnCoT8i",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://sublunarrecords.bandcamp.com/album/one-touch",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test whether explicitly unpredictable rhythm and groove create a purposeful character change before groove consolidation, without assuming movement language proves physical continuity."
+        },
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a dynamic-groove hinge early in the journey while respecting prior listener sensitivity to attention-disrupting over-articulation."
+        }
+      ],
+      "fitHypothesis": "Sublunar describes Drummz as driven by dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. That is direct selection-lens evidence, but does not establish either transition, local-run improvement or long-form need.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 5:09",
+          "official release date 2026-06-19",
+          "public Spotify result identifies track ID 6K07a5OAl8J6wqlcnCoT8i; resolver must verify",
+          "candidate BPM unknown before resolver; no tempo inference made"
+        ],
+        "attributedDescription": "Sublunar's exact-track notes describe dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "No candidate-specific listener report; the early journey has prior listener sensitivity to attention-disrupting over-articulation.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "An explicit rhythmic-character hinge can make a left turn deliberate, but groove and movement descriptions do not prove transition or surrounding-run quality.",
+        "editorialInterpretation": "Strong whole-journey belonging hypothesis with two lawful placement tests; pulse, density, attention cost and long-form gain remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "Clotur",
+        "track": "Drummz",
+        "album": "One Touch",
+        "releaseDate": "2026-06-19",
+        "spotifyTrackId": "6K07a5OAl8J6wqlcnCoT8i",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/one-touch",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test whether explicitly unpredictable rhythm and groove create a purposeful character change before groove consolidation, without assuming movement language proves physical continuity."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a dynamic-groove hinge early in the journey while respecting prior listener sensitivity to attention-disrupting over-articulation."
+          }
+        ],
+        "fitHypothesis": "Sublunar describes Drummz as driven by dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. That is direct selection-lens evidence, but does not establish either transition, local-run improvement or long-form need.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 5:09",
+            "official release date 2026-06-19",
+            "public Spotify result identifies track ID 6K07a5OAl8J6wqlcnCoT8i; resolver must verify",
+            "candidate BPM unknown before resolver; no tempo inference made"
+          ],
+          "attributedDescription": "Sublunar's exact-track notes describe dynamic and unpredictable rhythms, refined groove work and a strong sense of movement. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report; the early journey has prior listener sensitivity to attention-disrupting over-articulation.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "An explicit rhythmic-character hinge can make a left turn deliberate, but groove and movement descriptions do not prove transition or surrounding-run quality.",
+          "editorialInterpretation": "Strong whole-journey belonging hypothesis with two lawful placement tests; pulse, density, attention cost and long-form gain remain unknown."
+        }
+      }
+    },
+    {
+      "id": "1sB7fqVVcbhjZC4hjdoXyQ",
+      "uri": "spotify:track:1sB7fqVVcbhjZC4hjdoXyQ",
+      "name": "Forgotten",
+      "artists": [
+        "Donor"
+      ],
+      "album": "Void Century",
+      "releaseDate": "2018-10-01",
+      "durationMs": 369230,
+      "spotifyUrl": "https://open.spotify.com/track/1sB7fqVVcbhjZC4hjdoXyQ",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://sublunarrecords.bandcamp.com/album/void-century-w-patrick-russell-remix",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test an explicitly broken and polyrhythmic pivot into the existing Capa → Thick to Handle redirection, without equating brute force with useful energy."
+        },
+        {
+          "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test whether the exact-track glitches and twists create purposeful late-middle fracture or merely add attention cost."
+        }
+      ],
+      "fitHypothesis": "Sublunar's exact-track notes say Forgotten glitches and twists, with every broken beat an act of brute force and a curious polyrhythmic gait. That strongly supports structural freedom while also raising an explicit attention and pressure risk.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 5:33",
+          "official release date 2018-09-21",
+          "candidate BPM and Spotify identity unknown before resolver; no tempo inference made"
+        ],
+        "attributedDescription": "Sublunar's exact-track notes describe glitches, twists, broken beats delivered with brute force and a curious polyrhythmic gait. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A forceful broken-rhythm pivot may serve a deliberate fracture, but conspicuousness and technical interest do not prove the surrounding run needs it.",
+        "editorialInterpretation": "High selection-lens fit and a plausible central pivot; exact pulse, density, handoffs and long-form benefit remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "Donor",
+        "track": "Forgotten",
+        "album": "Void Century",
+        "releaseDate": "2018-09-21",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/void-century-w-patrick-russell-remix",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test an explicitly broken and polyrhythmic pivot into the existing Capa → Thick to Handle redirection, without equating brute force with useful energy."
           },
           {
             "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
@@ -259,71 +465,115 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test whether the source-described percussion and dynamics can clarify the late-middle change before Truth in Noise rather than merely extending pressure."
+            "purpose": "Test whether the exact-track glitches and twists create purposeful late-middle fracture or merely add attention cost."
           }
         ],
-        "fitHypothesis": "Soma attributes driving rhythms, precision percussion and explosive dynamics to Justyn Nell's Brownian Motion remix. The percussion-led development is relevant to the selection lens, while actual rhythmic freedom and both transition effects remain unproven.",
+        "fitHypothesis": "Sublunar's exact-track notes say Forgotten glitches and twists, with every broken beat an act of brute force and a curious polyrhythmic gait. That strongly supports structural freedom while also raising an explicit attention and pressure risk.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 6:08",
-            "official release date 2026-08-28",
-            "candidate BPM unknown before resolver; no tempo inference made"
+            "official Bandcamp duration 5:33",
+            "official release date 2018-09-21",
+            "candidate BPM and Spotify identity unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "Soma's release notes say Justyn Nell delivers driving rhythms, precision percussion and explosive dynamics on Brownian Motion. This is label language, not heard or measured behaviour.",
+          "attributedDescription": "Sublunar's exact-track notes describe glitches, twists, broken beats delivered with brute force and a curious polyrhythmic gait. This is label language, not heard or measured behaviour.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A percussion-led stage can articulate an internal passage, but production precision and dynamics are not evidence that another canonical stage is needed.",
-          "editorialInterpretation": "Plausible late-middle pressure articulation; volume distinctiveness, attention demand and long-form gain remain uncertain."
+          "craftConvention": "A forceful broken-rhythm pivot may serve a deliberate fracture, but conspicuousness and technical interest do not prove the surrounding run needs it.",
+          "editorialInterpretation": "High selection-lens fit and a plausible central pivot; exact pulse, density, handoffs and long-form benefit remain unknown."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      }
     },
     {
-      "status": "UNRESOLVED",
+      "id": "04Kn5hulGhcJwrpi8YKGWR",
+      "uri": "spotify:track:04Kn5hulGhcJwrpi8YKGWR",
+      "name": "The Enemy Within",
+      "artists": [
+        "Hadone"
+      ],
+      "album": "Kept What Remained",
+      "releaseDate": "2026-08-21",
+      "durationMs": 306086,
+      "spotifyUrl": "https://open.spotify.com/track/04Kn5hulGhcJwrpi8YKGWR",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://sublunarrecords.bandcamp.com/album/kept-what-remained",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": 139,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether intricate, powerful rhythmic structures clarify this late-middle passage or redundantly extend its existing pressure."
+        },
+        {
+          "position": "After Len Faki — Stardancer as a possible new tail passage",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Keep the tail as one lawful option and test whether the track opens a purposeful next character; do not privilege this placement merely because it appends cleanly."
+        }
+      ],
+      "fitHypothesis": "Sublunar describes The Enemy Within as an explosive combination of intricate sound design and powerful rhythmic structures. The rhythmic-construction evidence supports inspection, while explosive and powerful language also signals possible redundancy or attention cost.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 5:06",
+          "official release date 2026-08-21",
+          "public Spotify result identifies track ID 04Kn5hulGhcJwrpi8YKGWR; resolver must verify",
+          "candidate BPM unknown before resolver; no tempo inference made"
+        ],
+        "attributedDescription": "Sublunar's exact-track notes describe an explosive combination of intricate sound design and powerful rhythmic structures. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Intricate rhythmic construction may suit the volume, but intensity language does not prove a new stage, a transition or a long-form gain.",
+        "editorialInterpretation": "Relevant current-release hypothesis for an internal pressure stage or new tail; exact pulse, character, redundancy and handoffs remain unknown."
+      },
       "requestedIdentity": {
-        "artist": "Spekki Webu",
-        "track": "iii9",
-        "album": "Kept In Reality",
-        "releaseDate": "2023-11-14",
+        "artist": "Hadone",
+        "track": "The Enemy Within",
+        "album": "Kept What Remained",
+        "releaseDate": "2026-08-21",
+        "spotifyTrackId": "04Kn5hulGhcJwrpi8YKGWR",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://seismicrec.bandcamp.com/track/iii9",
+        "discoverySource": "https://sublunarrecords.bandcamp.com/album/kept-what-remained",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Inigo Kennedy — Marauder as a new opener",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": 139,
             "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a source-described offbeat rhythm that gradually locks into pressure as an intentional entrance before the established opening, without inferring calm, energy or easy mixing."
+            "outgoingBpm": 140,
+            "purpose": "Test whether intricate, powerful rhythmic structures clarify this late-middle passage or redundantly extend its existing pressure."
           },
           {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
+            "position": "After Len Faki — Stardancer as a possible new tail passage",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test a clear offbeat-to-polyrhythmic structural passage before the protected trio; Transparency's disputed 143/107 tempo remains non-proof."
+            "purpose": "Keep the tail as one lawful option and test whether the track opens a purposeful next character; do not privilege this placement merely because it appends cleanly."
           }
         ],
-        "fitHypothesis": "Seismic's exact-track notes describe offbeat gated rhythm, a lolloping pulse revealed in negative, evolving space and polyrhythms eventually locking pressure. That strongly supports structural freedom and development, while intensity, bodily effect and exact placement remain unknown.",
+        "fitHypothesis": "Sublunar describes The Enemy Within as an explosive combination of intricate sound design and powerful rhythmic structures. The rhythmic-construction evidence supports inspection, while explosive and powerful language also signals possible redundancy or attention cost.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 8:03",
-            "official release date 2023-11-14",
+            "official Bandcamp duration 5:06",
+            "official release date 2026-08-21",
+            "public Spotify result identifies track ID 04Kn5hulGhcJwrpi8YKGWR; resolver must verify",
             "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "Seismic's exact-track notes describe ethereal atmospherics, an offbeat gated lolloping pulse, shifting space and layers, and polyrhythms eventually locking pressure. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "No candidate-specific listener report; the established opening has prior listener sensitivity to attention-disrupting over-articulation.",
+          "attributedDescription": "Sublunar's exact-track notes describe an explosive combination of intricate sound design and powerful rhythmic structures. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A gradually revealed pulse can function as an opener or pre-block hinge, but long duration and developmental prose do not prove attention continuity.",
-          "editorialInterpretation": "Strong overlooked-catalogue belonging hypothesis with two distinct placements; actual pulse, density, opening effect and handoffs remain unknown."
+          "craftConvention": "Intricate rhythmic construction may suit the volume, but intensity language does not prove a new stage, a transition or a long-form gain.",
+          "editorialInterpretation": "Relevant current-release hypothesis for an internal pressure stage or new tail; exact pulse, character, redundancy and handoffs remain unknown."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      }
     }
   ],
-  "candidates": [],
   "resolvedAlternates": []
 }
