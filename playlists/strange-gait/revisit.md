@@ -4,6 +4,8 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | Run 48: exact 138 BPM identity and exact-track broken-beat/stuttered-kick/body-pull description support belonging. The Stardancer handoff and local/long-form effect remain unsupported. Reopen for materially new transition/audio evidence or a changed post-trio context, not BPM alone. | PARKED |
+| brenner | Waltz | spotify:track:6IbZAmQ3blSb2aaHCsH05Q | Run 48: exact 135 BPM identity and exact-track disorienting pitch-motion description support structural-interest, but bodily usefulness, attention demand, the Stardancer handoff and long-form contribution remain unknown. Reopen for materially new evidence or a concrete changed placement need. | PARKED |
 | CONFUSION (RASEREI) | DT229 | spotify:track:2WtWAoWLGG7w0gr8m5qr2i | Run 47: exact 135 BPM identity and exact-track broken-rhythm/melodic description support belonging. The Stardancer handoff, surrounding five-track run and long-form benefit remain unsupported. Reopen for materially new transition/audio evidence or a concrete changed post-trio context, not BPM alone. | PARKED |
 | Raul Alvarez | Black Torque | spotify:track:2O5c3OLK24GM7U8KWxSu2v | Run 46: track-specific syncopated-modulation/build-release description supports belonging; 5:37, BPM unknown. Exact Stardancer handoff and local/long-form contribution unsupported. Reopen only for materially new transition/audio evidence or a concrete changed placement need, not BPM alone. | PARKED |
 | Fail_ed | Lucid Granules | spotify:track:2l6V8BTPgmklh7FxoEDh9F | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |

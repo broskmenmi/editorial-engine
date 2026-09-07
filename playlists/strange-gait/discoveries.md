@@ -1,5 +1,47 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 48 — EXPLORE — 2026-09-07
+
+RunId: `2026-09-07T08:56:26Z-explore-48`. Request commit: `89f1c821594e1a88fef0bbe0caa67a0da04bb2c1`; source commit: `65266eb9864ba0e22f1d879f16d177a93eef71c9`; snapshot commit: `d49252216ce46179456384ad7df28c02707fcb41`. Matching immutable terminal fingerprint `4c400b5e1a5da49215f14ae78075b25ebd464ccb8300c1dd2227b8953eced577` validated with repository code; COMPLETE, with no warnings, unresolved identities, duplicates or unselected alternates.
+
+**Pre-audit:** 12 unique canonical tracks; the two listener-protected internal trio handoffs are intact; no active feedback discussion, TRIGGERED revisit or actionable objective repair. The user's proposed doctrine-free global discovery playlist is separate infrastructure and did not authorize a STRANGE GAIT canonical or publication change.
+
+**Fresh scan:** approximately 54 named tracks across ten official release/catalogue pages plus bounded current-release and identity/tempo queries. Current September 4–7 material included Teknopappa, Atherian, M.S., Sleeparchive, Knifework and brenner. Adjacent/emerging searches covered Major Records, D1S and Orphan; overlooked catalogue covered Cy Gorman & Wu Kush and RAP. Metadata and attributed text only; zero audio auditions. Run 47 material and all PARKED entries were excluded.
+
+**Funnel:** approximately 54 tracks → 2 ranked leads → 2 exact resolutions → 2 evaluated candidates → 0 ADD, 2 PARKED REVISIT → no Spotify publication because the ledger and other publication inputs did not change.
+
+### brenner — Thick to Handle — PARKED REVISIT
+
+- Exact URI: `spotify:track:7CUodG7GLLbzOtO6qXGJxT`; Learning to Dance Again; released 2026-09-04; resolver duration 279375 ms (4:39); exact Beatport metadata reports 138 BPM.
+- **Volume fit:** BELONGS provisionally. Major Records' [exact-track description](https://majorrecords.bandcamp.com/album/learning-to-dance-again) attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to this track. This is strong selection-lens evidence, not heard or measured sonic behaviour.
+- **Concrete placement:** proposed Track 13 after Len Faki — Stardancer, leaving the outgoing neighbour open. Not approved for canonical admission.
+- **Transition scale:** 137 → 138 BPM is measured, but closeness does not establish flow. The described broken-beat change could make a deliberate new passage; no evidence establishes perceived-pulse, phrase, texture or energy continuity out of Stardancer.
+- **Local-run scale:** Truth in Noise → Transparency → When We Froze → Stardancer → Thick to Handle preserves the trio and both protected handoffs. The user's positive report covers only the trio's internal edges; a fifth element could feel like a useful new room or an appended favourite.
+- **Long-form scale:** the current evidence supports a playful broken-gait possibility after the established block, but cannot show whether that move develops the twelve-track journey or resets it accidentally.
+- **Evidence classes:** identity, duration, date and BPM are metadata; behavioural language is attributed label description; the proposed post-trio turn is editorial interpretation and craft convention. No candidate-specific listener report or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition-level or lawful audio evidence, or a changed post-trio context, supports the exact placement. BPM alone is insufficient. No listening assignment.
+
+### brenner — Waltz — PARKED REVISIT
+
+- Exact URI: `spotify:track:6IbZAmQ3blSb2aaHCsH05Q`; Learning to Dance Again; released 2026-09-04; resolver duration 342976 ms (5:43); Beatport catalogue metadata reports 135 BPM.
+- **Volume fit:** UNCERTAIN but materially interesting. Major Records' [exact-track description](https://majorrecords.bandcamp.com/album/learning-to-dance-again) attributes disorienting high-pitched tones that move in and out of key. That supports structural freedom, but does not establish bodily pull or low enough attention demand.
+- **Concrete placement:** proposed Track 13 after Len Faki — Stardancer, leaving the outgoing neighbour open. Not approved for canonical admission.
+- **Transition scale:** 137 → 135 BPM is measured and insufficient. A conspicuous pitch-world turn could be intentional, but the Stardancer handoff, perceived pulse, phrase relation and attention effect remain unknown.
+- **Local-run scale:** the protected trio remains intact. Waltz could destabilize the established run productively or simply advertise contrast; source prose cannot distinguish those outcomes.
+- **Long-form scale:** the candidate may open a different production world without violating the volume lens, yet there is no evidence that this is the useful next long-form move.
+- **Evidence classes:** identity, duration, date and BPM are metadata; pitch/disorientation language is attributed label description; the destabilizing-turn rationale is editorial interpretation and craft convention. No candidate-specific listener report or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new evidence supports bodily usefulness and the exact post-trio transition, or a changed journey context creates a concrete placement need. BPM and novelty alone are insufficient. No listening assignment.
+
+**Sequencer/Auditor:** approve two PARKED decisions and two exact discovery-pool entries. Veto both ADDs because transition, local-run and long-form evidence remains insufficient. Preserve all 12 canonical rows, annotations and listener-protected handoffs. No removal, movement, replacement, new set idea or live-graph change. No actionable REPAIR recommendation; next lane remains EXPLORE.
+
+**Canonical order / tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Tehutis Law 139 → Fragments 140 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. *Transparency 143/107 conflict retained. Story roles remain interpretation.
+
+**Publication/map:** automatic publication is enabled, but no publication input changed. Last recorded Spotify verification remains COMPLETE 12/12 at 2026-09-06T19:12:18.429Z; this is not a new live Spotify read-back. The current map retains exact canonical URI order and the unified root site URL.
+
+**RUN ANALYSIS:** Fresh outward discovery, immutable resolution and two-candidate evaluation completed. Thick to Handle supplied stronger body-and-rhythm evidence than Waltz, but neither supplied the missing Stardancer transition or long-form evidence. The strongest alternative explanation is that the workflow is conservative without lawful audio: either track may make a compelling conspicuous turn that descriptions cannot prove. This run proves two useful exact discoveries and safe protection of listener-earned order; it does not prove either transition fails or that STRANGE GAIT is complete.
+
+**Discovery harvest:** Thick to Handle and Waltz retained as exact non-canonical tracks. They are suitable inputs for the user's proposed doctrine-free global discovery artifact once that separate repository publication target exists; this run did not create or publish that infrastructure.
+
 ## Run 47 — EXPLORE — 2026-09-07
 
 RunId: `2026-09-07T07:51:55Z-explore-47`. Request commit: `41f95f61ad079271c0b782db8555a050e06ffb52`; source commit: `f538a98b30680cb253d9c9bab529e9bdb13b2fc2`; snapshot commit: `9b9e6b1666db8e4a9b1ce7efdab4fced643c63e8`. Matching immutable terminal fingerprint `ca8c492728684da957db3b8219e4d06f77a2c906f8ae77808eba5e50240e42c3` validated with repository code; COMPLETE, with no warnings, unresolved identities, duplicates or unselected alternates.

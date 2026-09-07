@@ -4,6 +4,8 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | brenner | Thick to Handle | https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT | PARKED Run 48; 138 BPM, 4:39; Major Records exact-track broken-beat/stuttered-kick/body-pull description supports belonging, but no canonical transition is proven |
+| EXACT TRACK | brenner | Waltz | https://open.spotify.com/track/6IbZAmQ3blSb2aaHCsH05Q | PARKED Run 48; 135 BPM, 5:43; Major Records exact-track disorienting pitch-motion description makes it interesting, while bodily usefulness and canonical placement remain unknown |
 | EXACT TRACK | CONFUSION (RASEREI) | DT229 | https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i | PARKED Run 47; 135 BPM, 2:55; Vakuum exact-track broken-rhythm/melodic description supports belonging, but the Stardancer transition is not proven |
 | RELEASE WATCH | Marcal / The Third Room | Four Small Escapes EP | https://marcal.bandcamp.com/album/four-small-escapes-ep | Run 47 watch for 2026-09-11: Smoke From Respawn and Arapuca have exact syncopation/organic-percussion descriptions; current Spotify identities and canonical placements not established |
 | RELEASE WATCH | Stefan Vincent / Aquaregia | Until Meaning Emerges EP | https://aquaregiarec.bandcamp.com/album/until-meaning-emerges-ep | Run 47 watch for 2026-09-18: Soothing the Beast has exact polyrhythmic-acid/halftime-break description; current Spotify identity and placement not established |
