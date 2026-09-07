@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "ef2a06bccd6065d5f0903e5ab2844cc9144a1caec9ebb43f47c61b911fc41cbc",
-  "generatedAt": "2026-09-07T10:57:22.933Z",
-  "runId": "2026-09-07T10:52:25Z-explore-50",
-  "sourceCommit": "66bd7225e521d3ecd6745141d62e627aa5eae5fd",
+  "requestFingerprint": "502e7eb1b0c01ddde34a1b94c36b81224c91eca8e2a6e83c121f7336dca7a4e9",
+  "generatedAt": "2026-09-07T11:59:59.983Z",
+  "runId": "2026-09-07T11:57:24Z-explore-51",
+  "sourceCommit": "6992ace08b52646b17c0aa7b573cd95957405b20",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh belonging discovery with a deliberate transition out of the protected listener trio",
@@ -11,51 +11,50 @@
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "Test current, adjacent and overlooked material that could begin a purposeful new passage after the protected block without treating rhythmic interest, source language or BPM as proof of flow."
+    "purpose": "Test current, adjacent and overlooked material that could begin a purposeful new passage after the protected block without treating rhythmic interest, source language, artist reputation or BPM as proof of flow."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T10:52:25Z",
+    "timestampUtc": "2026-09-07T11:57:24Z",
     "sourceWindows": [
-      "CURRENT RELEASES: https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm — all four tracks released 2026-08-07 screened from exact-track label descriptions; D-Leria — Shark Attak retained for its attributed percussion-centred, polyrhythmic construction.",
-      "CURRENT RELEASES: https://thethirdroom.bandcamp.com/album/curation-03-verraco — five tracks released 2026-08-07 screened from exact-track label descriptions; 1morning — Untitled retained as an additional resolution lead for its attributed rolling, tribal-infused groove and depth.",
-      "ADJACENT / EMERGING: https://thethirdroom.bandcamp.com/album/curation-02-d-dan — four tracks released 2026-08-07 screened through the curator's emerging-artist network; Rene Wise — Dynamic retained from its exact-track fluid rolling-tool, subtle-disruption and evolving-tension description.",
-      "ADJACENT / EMERGING: https://meukrecords.bandcamp.com/album/the-remedy-ep-meuk010 — all four KURIR tracks screened; broken-element, hypnotic and glitchy framing remained release-level and did not isolate one stronger exact lead.",
-      "OVERLOOKED CATALOGUE: https://cityfly.bandcamp.com/track/humming-birds — the four-track Humming Birds EP from 2014 screened; its title track retained from an exact-track description of skipping hi-hats, a syncopated bassline and a contrasting breakdown.",
-      "BOUNDED QUERIES: September 2026 Bandcamp techno, broken-rhythm, polyrhythmic, syncopated, dub-techno and adjacent-label result windows plus current RA release coverage; exact Spotify identities intentionally left to the repository resolver."
+      "CURRENT RELEASES: https://perctrax.bandcamp.com/album/one — both tracks from Perc & Barbosa's 2026-08-28 EP screened from track-specific label descriptions; One retained for its bass-heavy minimalist framework, sharp clicks, dislocated vocal hooks and deliberately sparse hi-hat pattern.",
+      "CURRENT / ADJACENT: https://perctrax.bandcamp.com/track/nostalgia — Shaun Moses's 2026-08-07 Perc Trax debut screened from its exact-track description; Nostalgia retained as an emerging-artist lead for the combination of Detroit-inspired pads and a solid kick/bass foundation.",
+      "RECENT CROSS-VOCABULARY: https://batutimedance.bandcamp.com/album/exhale-2 and https://pitchfork.com/reviews/albums/batu-donato-dozzy-exhale — all eight tracks from Batu & Donato Dozzy's 2026-06-30 album screened; Spiral retained because the track-specific review attributes plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence.",
+      "OVERLOOKED CATALOGUE: https://perctrax.bandcamp.com/album/aurifex-rex — all four tracks from Scalameriya's 2025-11-21 EP screened from exact-track label descriptions; Aurifex Rex retained for its glitched, stuttered vocal construction and constant-build framing.",
+      "BOUNDED QUERIES: September and August 2026 Bandcamp techno, broken-rhythm, polyrhythmic, syncopated, bass-heavy and adjacent-label result windows; exact Spotify identities intentionally left to the repository resolver."
     ],
-    "approximateInspectedScope": "Approximately 28 named tracks across five release/catalogue pages and bounded current-release result windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 25 named tracks across four release/catalogue pages and bounded current-release result windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 12 canonical identities, all active placement-specific rejections and every untriggered PARKED revisit were excluded. Run 49 Holly Lester, Leo and Konomo material was not recycled.",
+      "All 12 canonical identities, all active placement-specific rejections and every untriggered PARKED revisit were excluded. Runs 49–50 material and sources were not recycled.",
       "The protected Transparency → When We Froze → Stardancer internal order and its two listener-protected handoffs remain untouched; every proposed placement follows the intact block.",
-      "D.Dan — Bound, Connor Wall — Slither, Sunju Hargun & DJ MARIA. — Gensou, Fergus Sweetland — The Half Bearded Man, Efdemin & GiGi FM — Anukari, Fireground — Even, and the remaining Curation 03 tracks had useful exact descriptions but ranked below the four retained leads for this scan's selection-lens and post-trio hypotheses.",
-      "KURIR's The Remedy EP offered useful adjacent-label research direction but only release-level behavioural language; no individual track was promoted from album framing.",
+      "Perc & Barbosa — Two, Batu & Donato Dozzy — Emergence / Drift / Off Axis / Swarm / Flicker / Exhale / Bloom, and Scalameriya — Psybernetix / It Stared Back / Perc Remix had useful exact descriptions but ranked below the four retained leads for this scan's selection-lens and post-trio hypotheses.",
+      "Recent search results from Vault, ALU, MEUK and other adjacent catalogues were screened but did not provide a stronger combination of exact-track behavioural evidence and a genuinely new source lane.",
       "No lead was promoted for recency, artist reputation, genre category, BPM proximity, title or novelty. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. D-Leria — Shark Attak: exact-track label description names percussion at the centre, polyrhythmic bleeps and restrained persistent drive; exact Spotify identity and tempo require resolver verification.",
-      "2. Rene Wise — Dynamic: exact-track label description names a fluid rolling tool shaped by subtle disruptions and evolving tension; exact Spotify identity and tempo require resolver verification.",
-      "3. 1morning — Untitled: exact-track label description names a rolling, tribal-infused groove with depth; exact Spotify identity and tempo require resolver verification.",
-      "4. Bartellow, Ugly Drums, Fred P — Humming Birds: exact-track label description names skipping hi-hats, a syncopated bassline and a contrasting breakdown; exact Spotify identity and tempo require resolver verification."
+      "1. Perc & Barbosa — One: exact-track label description names bass-heavy minimalist construction, sharp synth clicks, spaced dislocated vocal hooks and a sparse hi-hat pattern; exact Spotify identity and tempo require resolver verification.",
+      "2. Batu & Donato Dozzy — Spiral: track-specific review describes an acid-and-dub hybrid with hand percussion and a loping dancehall cadence; exact Spotify identity requires resolver verification and the reported 107 BPM is metadata only.",
+      "3. Scalameriya — Aurifex Rex: exact-track label description names a glitched, stuttered vocal and constant build; exact Spotify identity and tempo require resolver verification.",
+      "4. Shaun Moses — Nostalgia: exact-track label description combines Detroit-inspired pads with a solid kick/bass foundation and cross-set utility; exact Spotify identity and tempo require resolver verification."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 3,
-  "candidateCount": 3,
+  "resolvedCount": 2,
+  "candidateCount": 2,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Bartellow, Ugly Drums, Fred P",
-      "track": "Humming Birds",
+      "artist": "Perc & Barbosa",
+      "track": "One",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Bartellow, Ugly Drums, Fred P",
-        "track": "Humming Birds",
-        "album": "Humming Birds EP (CFR007)",
-        "releaseDate": "2014-01-01",
+        "artist": "Perc & Barbosa",
+        "track": "One",
+        "album": "One",
+        "releaseDate": "2026-08-28",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://cityfly.bandcamp.com/track/humming-birds",
+        "discoverySource": "https://perctrax.bandcamp.com/album/one",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -63,52 +62,74 @@
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test an older house-adjacent syncopated track as a conspicuous post-block reset without assuming that contrast is automatically useful."
+            "purpose": "Test a bass-heavy minimalist redirection after the protected block as a deliberate new passage rather than a seamless-continuity claim."
           }
         ],
-        "fitHypothesis": "City Fly's exact-track description names skipping hi-hats, syncopated bass and a contrasting breakdown. That makes the track relevant to rhythmic freedom even outside narrow techno orthodoxy, but its perceived pulse and long-form usefulness are unknown.",
+        "fitHypothesis": "Perc Trax describes One through thick sub-heavy kicks, rough vinyl textures, sharp synth clicks, dislocated vocal hooks and a minimal hi-hat pattern. That combination is relevant to rhythmic and structural freedom, but it does not establish bodily response or the Stardancer handoff.",
         "evidence": {
           "measured": [
-            "official release date 2014-01-01",
-            "candidate duration and BPM unknown before resolver; no tempo inference made"
+            "official Bandcamp duration 6:22",
+            "official release date 2026-08-28",
+            "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "City Fly describes the exact track with stuttering hi-hats skipping over a kick, a bouncy syncopated bassline, building instrumentation and an ethereal breakdown. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Humming Birds.",
+          "attributedDescription": "Perc Trax says the exact track is built on thick sub-heavy kicks and rough vinyl textures, with sharp synth clicks, spaced dislocated vocal hooks and the simplest of hi-hat patterns driving it forward. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → One.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "An adjacent-vocabulary reset can be a strong long-form move when prepared and purposeful; age and genre contrast are neither proof nor defect.",
-          "editorialInterpretation": "Potential overlooked-catalogue left turn that could open a warmer syncopated passage, with all transition and energy claims untested."
+          "craftConvention": "A clearly signalled reduction into a bass-heavy minimalist framework can open a new passage, but sparse construction and descriptive contrast do not prove transition quality.",
+          "editorialInterpretation": "Potential post-trio shift into a leaner, bass-led rhythmic vocabulary; actual intensity, pulse and flow remain unknown."
+        }
+      }
+    },
+    {
+      "artist": "Batu & Donato Dozzy",
+      "track": "Spiral",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Batu & Donato Dozzy",
+        "track": "Spiral",
+        "album": "Exhale",
+        "releaseDate": "2026-06-30",
+        "bpm": 107,
+        "bpmSource": "https://www.decks.de/track/batu_donato_dozzy-exhale/cqh-i9",
+        "discoverySource": "https://batutimedance.bandcamp.com/album/exhale-2",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": 107,
+            "purpose": "Test an explicit acid, dub-percussion and dancehall-cadence reset after the protected block without treating the large numeric BPM change as either proof or defect."
+          }
+        ],
+        "fitHypothesis": "Pitchfork's track-specific description combines plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence. This strongly supports the volume's cross-rhythmic selection lens, while the actual post-Stardancer effect remains unknown.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 5:18",
+            "official release date 2026-06-30",
+            "retailer metadata reports 107 BPM; perceived pulse and metrical interpretation are not inferred"
+          ],
+          "attributedDescription": "Pitchfork describes Spiral with plodding kicks, a gnarled acid bassline, dubby hand percussion and a loping dancehall cadence. This is reviewer language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Spiral.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A conspicuous tempo-and-rhythm reset can be purposeful after a resolved passage, but BPM and hybrid vocabulary alone cannot establish that the move belongs here.",
+          "editorialInterpretation": "Potential hard-left-turn doorway into a slower acid/dub axis, with immediate, local-run and long-form consequences untested."
         }
       }
     }
   ],
-  "warnings": [
-    {
-      "artist": "D-Leria",
-      "track": "Shark Attak",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Curation 06: GiGi FM\" but Spotify returned \"Curation Six: GiGi FM\"; release date requested \"2026-08-07\" but Spotify returned \"2026-08-14\""
-    },
-    {
-      "artist": "Rene Wise",
-      "track": "Dynamic",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Curation 02: D.Dan\" but Spotify returned \"Curation Two: D.Dan\"; release date requested \"2026-08-07\" but Spotify returned \"2026-08-14\""
-    },
-    {
-      "artist": "1morning",
-      "track": "Untitled",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Curation 03: Verraco\" but Spotify returned \"Curation Three: Verraco\"; release date requested \"2026-08-07\" but Spotify returned \"2026-08-14\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "D-Leria",
-        "track": "Shark Attak",
-        "album": "Curation 06: GiGi FM",
-        "releaseDate": "2026-08-07",
+        "artist": "Perc & Barbosa",
+        "track": "One",
+        "album": "One",
+        "releaseDate": "2026-08-28",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/shark-attak",
+        "discoverySource": "https://perctrax.bandcamp.com/album/one",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -116,110 +137,71 @@
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test a percussion-centred change after the protected block as a deliberate new passage, not as a claimed seamless continuation."
+            "purpose": "Test a bass-heavy minimalist redirection after the protected block as a deliberate new passage rather than a seamless-continuity claim."
           }
         ],
-        "fitHypothesis": "The Third Room describes Shark Attak specifically through restrained percussion, polyrhythmic bleeps and persistent drive. That is unusually relevant to the volume's rhythmic-freedom lens, but it does not establish bodily response or the Stardancer handoff.",
+        "fitHypothesis": "Perc Trax describes One through thick sub-heavy kicks, rough vinyl textures, sharp synth clicks, dislocated vocal hooks and a minimal hi-hat pattern. That combination is relevant to rhythmic and structural freedom, but it does not establish bodily response or the Stardancer handoff.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 5:46",
-            "official release date 2026-08-07",
+            "official Bandcamp duration 6:22",
+            "official release date 2026-08-28",
             "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "The Third Room says the exact track places percussion at the centre while polyrhythmic bleeps and high-frequency sweeps weave around the groove with a restrained, persistent drive. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Shark Attak.",
+          "attributedDescription": "Perc Trax says the exact track is built on thick sub-heavy kicks and rough vinyl textures, with sharp synth clicks, spaced dislocated vocal hooks and the simplest of hi-hat patterns driving it forward. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → One.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A clearly signalled rhythmic redirection after a resolved block may work if it creates a useful next path; polyrhythm by itself cannot prove placement quality.",
-          "editorialInterpretation": "Potential post-trio percussion pivot whose actual pulse, intensity and transition-scale effect remain unknown."
+          "craftConvention": "A clearly signalled reduction into a bass-heavy minimalist framework can open a new passage, but sparse construction and descriptive contrast do not prove transition quality.",
+          "editorialInterpretation": "Potential post-trio shift into a leaner, bass-led rhythmic vocabulary; actual intensity, pulse and flow remain unknown."
         }
       },
-      "spotifyTrackId": "5tABEVUh6NsW49fLp6oOYt",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Rene Wise",
-        "track": "Dynamic",
-        "album": "Curation 02: D.Dan",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/dynamic",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a source-described rolling and subtly disrupted continuation after the protected block while leaving the next destination open."
-          }
-        ],
-        "fitHypothesis": "The exact-track description combines rolling motion with subtle disruption and evolving tension, making Dynamic relevant without requiring it to introduce a wholly new production world. Actual transition quality remains unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:18",
-            "official release date 2026-08-07",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "The Third Room calls Dynamic a fluid, rolling tool shaped by subtle disruptions and evolving tension. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Dynamic.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A related rolling vocabulary can deepen a run or start a new one, but artist familiarity and descriptive continuity cannot establish the actual handoff.",
-          "editorialInterpretation": "Potential controlled continuation whose volume belonging is well hypothesised but whose immediate and long-form effects are untested."
-        }
-      },
-      "spotifyTrackId": "7MlbEOg0fEFcYLkKNDVhBV",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "1morning",
-        "track": "Untitled",
-        "album": "Curation 03: Verraco",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/untitled-38",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a source-described rolling, tribal-inflected change after the protected block as an explicit doorway rather than an invisible mix claim."
-          }
-        ],
-        "fitHypothesis": "The Third Room describes this exact Untitled as rolling, tribal-infused and deep. That supports bodily and rhythmic interest, while exact pulse, texture and compatibility with Stardancer remain unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:31",
-            "official release date 2026-08-07",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "The Third Room says 1morning's exact track introduces a rolling, tribal-infused groove with a strong sense of depth. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Untitled.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A groove-led doorway after a closed block can be intentional, but descriptive genre language does not prove transition, local-run or long-form quality.",
-          "editorialInterpretation": "Potential body-first post-trio doorway; placement remains a hypothesis."
-        }
-      },
-      "spotifyTrackId": "7idn7TKy3tKPXjrhfNrwmC",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Bartellow, Ugly Drums, Fred P",
-        "track": "Humming Birds",
-        "album": "Humming Birds EP (CFR007)",
-        "releaseDate": "2014-01-01",
+        "artist": "Batu & Donato Dozzy",
+        "track": "Spiral",
+        "album": "Exhale",
+        "releaseDate": "2026-06-30",
+        "bpm": 107,
+        "bpmSource": "https://www.decks.de/track/batu_donato_dozzy-exhale/cqh-i9",
+        "discoverySource": "https://batutimedance.bandcamp.com/album/exhale-2",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": 107,
+            "purpose": "Test an explicit acid, dub-percussion and dancehall-cadence reset after the protected block without treating the large numeric BPM change as either proof or defect."
+          }
+        ],
+        "fitHypothesis": "Pitchfork's track-specific description combines plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence. This strongly supports the volume's cross-rhythmic selection lens, while the actual post-Stardancer effect remains unknown.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 5:18",
+            "official release date 2026-06-30",
+            "retailer metadata reports 107 BPM; perceived pulse and metrical interpretation are not inferred"
+          ],
+          "attributedDescription": "Pitchfork describes Spiral with plodding kicks, a gnarled acid bassline, dubby hand percussion and a loping dancehall cadence. This is reviewer language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Spiral.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A conspicuous tempo-and-rhythm reset can be purposeful after a resolved passage, but BPM and hybrid vocabulary alone cannot establish that the move belongs here.",
+          "editorialInterpretation": "Potential hard-left-turn doorway into a slower acid/dub axis, with immediate, local-run and long-form consequences untested."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Scalameriya",
+        "track": "Aurifex Rex",
+        "album": "Aurifex Rex",
+        "releaseDate": "2025-11-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://cityfly.bandcamp.com/track/humming-birds",
+        "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -227,40 +209,78 @@
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test an older house-adjacent syncopated track as a conspicuous post-block reset without assuming that contrast is automatically useful."
+            "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
           }
         ],
-        "fitHypothesis": "City Fly's exact-track description names skipping hi-hats, syncopated bass and a contrasting breakdown. That makes the track relevant to rhythmic freedom even outside narrow techno orthodoxy, but its perceived pulse and long-form usefulness are unknown.",
+        "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
         "evidence": {
           "measured": [
-            "official release date 2014-01-01",
-            "candidate duration and BPM unknown before resolver; no tempo inference made"
+            "official Bandcamp duration 4:48",
+            "official release date 2025-11-21",
+            "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "City Fly describes the exact track with stuttering hi-hats skipping over a kick, a bouncy syncopated bassline, building instrumentation and an ethereal breakdown. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Humming Birds.",
+          "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "An adjacent-vocabulary reset can be a strong long-form move when prepared and purposeful; age and genre contrast are neither proof nor defect.",
-          "editorialInterpretation": "Potential overlooked-catalogue left turn that could open a warmer syncopated passage, with all transition and energy claims untested."
+          "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
+          "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "2yN6VFWjkD5VZFxyZjXLq4",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Shaun Moses",
+        "track": "Nostalgia",
+        "album": "Nostalgia",
+        "releaseDate": "2026-08-07",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
+          }
+        ],
+        "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
+        "evidence": {
+          "measured": [
+            "official release date 2026-08-07",
+            "candidate duration and BPM unknown before resolver; no tempo inference made"
+          ],
+          "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
+          "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
+        }
+      },
+      "spotifyTrackId": "0OzAhiqNvVpbYyRLm4ISV3",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "5tABEVUh6NsW49fLp6oOYt",
-      "uri": "spotify:track:5tABEVUh6NsW49fLp6oOYt",
-      "name": "Shark Attak",
+      "id": "2yN6VFWjkD5VZFxyZjXLq4",
+      "uri": "spotify:track:2yN6VFWjkD5VZFxyZjXLq4",
+      "name": "Aurifex Rex",
       "artists": [
-        "D-Leria"
+        "Scalameriya"
       ],
-      "album": "Curation Six: GiGi FM",
-      "releaseDate": "2026-08-14",
-      "durationMs": 346182,
-      "spotifyUrl": "https://open.spotify.com/track/5tABEVUh6NsW49fLp6oOYt",
+      "album": "Aurifex Rex",
+      "releaseDate": "2025-11-21",
+      "durationMs": 288358,
+      "spotifyUrl": "https://open.spotify.com/track/2yN6VFWjkD5VZFxyZjXLq4",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/track/shark-attak",
+      "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -268,30 +288,30 @@
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
           "incomingBpm": 137,
           "candidateBpm": null,
-          "purpose": "Test a percussion-centred change after the protected block as a deliberate new passage, not as a claimed seamless continuation."
+          "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
         }
       ],
-      "fitHypothesis": "The Third Room describes Shark Attak specifically through restrained percussion, polyrhythmic bleeps and persistent drive. That is unusually relevant to the volume's rhythmic-freedom lens, but it does not establish bodily response or the Stardancer handoff.",
+      "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 5:46",
-          "official release date 2026-08-07",
+          "official Bandcamp duration 4:48",
+          "official release date 2025-11-21",
           "candidate BPM unknown before resolver; no tempo inference made"
         ],
-        "attributedDescription": "The Third Room says the exact track places percussion at the centre while polyrhythmic bleeps and high-frequency sweeps weave around the groove with a restrained, persistent drive. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Shark Attak.",
+        "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A clearly signalled rhythmic redirection after a resolved block may work if it creates a useful next path; polyrhythm by itself cannot prove placement quality.",
-        "editorialInterpretation": "Potential post-trio percussion pivot whose actual pulse, intensity and transition-scale effect remain unknown."
+        "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
+        "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
       },
       "requestedIdentity": {
-        "artist": "D-Leria",
-        "track": "Shark Attak",
-        "album": "Curation 06: GiGi FM",
-        "releaseDate": "2026-08-07",
+        "artist": "Scalameriya",
+        "track": "Aurifex Rex",
+        "album": "Aurifex Rex",
+        "releaseDate": "2025-11-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/shark-attak",
+        "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -299,38 +319,38 @@
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test a percussion-centred change after the protected block as a deliberate new passage, not as a claimed seamless continuation."
+            "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
           }
         ],
-        "fitHypothesis": "The Third Room describes Shark Attak specifically through restrained percussion, polyrhythmic bleeps and persistent drive. That is unusually relevant to the volume's rhythmic-freedom lens, but it does not establish bodily response or the Stardancer handoff.",
+        "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 5:46",
-            "official release date 2026-08-07",
+            "official Bandcamp duration 4:48",
+            "official release date 2025-11-21",
             "candidate BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "The Third Room says the exact track places percussion at the centre while polyrhythmic bleeps and high-frequency sweeps weave around the groove with a restrained, persistent drive. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Shark Attak.",
+          "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A clearly signalled rhythmic redirection after a resolved block may work if it creates a useful next path; polyrhythm by itself cannot prove placement quality.",
-          "editorialInterpretation": "Potential post-trio percussion pivot whose actual pulse, intensity and transition-scale effect remain unknown."
+          "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
+          "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
         }
       }
     },
     {
-      "id": "7MlbEOg0fEFcYLkKNDVhBV",
-      "uri": "spotify:track:7MlbEOg0fEFcYLkKNDVhBV",
-      "name": "Dynamic",
+      "id": "0OzAhiqNvVpbYyRLm4ISV3",
+      "uri": "spotify:track:0OzAhiqNvVpbYyRLm4ISV3",
+      "name": "Nostalgia",
       "artists": [
-        "Rene Wise"
+        "Shaun Moses"
       ],
-      "album": "Curation Two: D.Dan",
-      "releaseDate": "2026-08-14",
-      "durationMs": 318861,
-      "spotifyUrl": "https://open.spotify.com/track/7MlbEOg0fEFcYLkKNDVhBV",
+      "album": "Nostalgia",
+      "releaseDate": "2026-08-07",
+      "durationMs": 318500,
+      "spotifyUrl": "https://open.spotify.com/track/0OzAhiqNvVpbYyRLm4ISV3",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/track/dynamic",
+      "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -338,30 +358,29 @@
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
           "incomingBpm": 137,
           "candidateBpm": null,
-          "purpose": "Test a source-described rolling and subtly disrupted continuation after the protected block while leaving the next destination open."
+          "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
         }
       ],
-      "fitHypothesis": "The exact-track description combines rolling motion with subtle disruption and evolving tension, making Dynamic relevant without requiring it to introduce a wholly new production world. Actual transition quality remains unknown.",
+      "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 5:18",
           "official release date 2026-08-07",
-          "candidate BPM unknown before resolver; no tempo inference made"
+          "candidate duration and BPM unknown before resolver; no tempo inference made"
         ],
-        "attributedDescription": "The Third Room calls Dynamic a fluid, rolling tool shaped by subtle disruptions and evolving tension. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Dynamic.",
+        "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A related rolling vocabulary can deepen a run or start a new one, but artist familiarity and descriptive continuity cannot establish the actual handoff.",
-        "editorialInterpretation": "Potential controlled continuation whose volume belonging is well hypothesised but whose immediate and long-form effects are untested."
+        "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
+        "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
       },
       "requestedIdentity": {
-        "artist": "Rene Wise",
-        "track": "Dynamic",
-        "album": "Curation 02: D.Dan",
+        "artist": "Shaun Moses",
+        "track": "Nostalgia",
+        "album": "Nostalgia",
         "releaseDate": "2026-08-07",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/dynamic",
+        "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -369,91 +388,20 @@
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test a source-described rolling and subtly disrupted continuation after the protected block while leaving the next destination open."
+            "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
           }
         ],
-        "fitHypothesis": "The exact-track description combines rolling motion with subtle disruption and evolving tension, making Dynamic relevant without requiring it to introduce a wholly new production world. Actual transition quality remains unknown.",
+        "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 5:18",
             "official release date 2026-08-07",
-            "candidate BPM unknown before resolver; no tempo inference made"
+            "candidate duration and BPM unknown before resolver; no tempo inference made"
           ],
-          "attributedDescription": "The Third Room calls Dynamic a fluid, rolling tool shaped by subtle disruptions and evolving tension. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Dynamic.",
+          "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
+          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A related rolling vocabulary can deepen a run or start a new one, but artist familiarity and descriptive continuity cannot establish the actual handoff.",
-          "editorialInterpretation": "Potential controlled continuation whose volume belonging is well hypothesised but whose immediate and long-form effects are untested."
-        }
-      }
-    },
-    {
-      "id": "7idn7TKy3tKPXjrhfNrwmC",
-      "uri": "spotify:track:7idn7TKy3tKPXjrhfNrwmC",
-      "name": "Untitled",
-      "artists": [
-        "1morning"
-      ],
-      "album": "Curation Three: Verraco",
-      "releaseDate": "2026-08-14",
-      "durationMs": 331941,
-      "spotifyUrl": "https://open.spotify.com/track/7idn7TKy3tKPXjrhfNrwmC",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/track/untitled-38",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a source-described rolling, tribal-inflected change after the protected block as an explicit doorway rather than an invisible mix claim."
-        }
-      ],
-      "fitHypothesis": "The Third Room describes this exact Untitled as rolling, tribal-infused and deep. That supports bodily and rhythmic interest, while exact pulse, texture and compatibility with Stardancer remain unknown.",
-      "evidence": {
-        "measured": [
-          "official Bandcamp duration 5:31",
-          "official release date 2026-08-07",
-          "candidate BPM unknown before resolver; no tempo inference made"
-        ],
-        "attributedDescription": "The Third Room says 1morning's exact track introduces a rolling, tribal-infused groove with a strong sense of depth. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Untitled.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A groove-led doorway after a closed block can be intentional, but descriptive genre language does not prove transition, local-run or long-form quality.",
-        "editorialInterpretation": "Potential body-first post-trio doorway; placement remains a hypothesis."
-      },
-      "requestedIdentity": {
-        "artist": "1morning",
-        "track": "Untitled",
-        "album": "Curation 03: Verraco",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thethirdroom.bandcamp.com/track/untitled-38",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a source-described rolling, tribal-inflected change after the protected block as an explicit doorway rather than an invisible mix claim."
-          }
-        ],
-        "fitHypothesis": "The Third Room describes this exact Untitled as rolling, tribal-infused and deep. That supports bodily and rhythmic interest, while exact pulse, texture and compatibility with Stardancer remain unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:31",
-            "official release date 2026-08-07",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "The Third Room says 1morning's exact track introduces a rolling, tribal-infused groove with a strong sense of depth. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Untitled.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A groove-led doorway after a closed block can be intentional, but descriptive genre language does not prove transition, local-run or long-form quality.",
-          "editorialInterpretation": "Potential body-first post-trio doorway; placement remains a hypothesis."
+          "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
+          "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
         }
       }
     }
