@@ -158,3 +158,17 @@ The editorial engine exists to reduce the user's effort and stress around discov
 - Make the best available editorial decision elsewhere, record uncertainty internally, and continue.
 - Natural listener feedback may reopen any accepted decision later.
 - `MANUAL ACTION` is reserved for unavoidable technical steps and must never contain listening homework.
+
+## Global doctrine-free Discovery Pool
+
+`playlists/discovery-pool/` is a repository-wide utility playlist, not a canonical volume. Its own `constitution.md` and `automation.md` define the contract and override volume-oriented assumptions for that directory.
+
+After Auditor approval of any discovery run, harvest every exact Spotify track that the run explicitly retains as genuinely interesting into `playlists/discovery-pool/ledger.md` when absent. This includes canonical ADDs, REVISIT/PARKED tracks, and placement-specific REJECTs that remain musically interesting. This applies across all current and future canonical volumes.
+
+Do not harvest release watches, research leads, unresolved identities, duplicate identities, resolver failures, or tracks that were merely screened and discarded. Listener-supplied tracks do not enter automatically just because they appear in a canonical playlist; they require an independent discovery-retention decision or explicit user instruction.
+
+The Discovery Pool has no sequencing semantics. Do not run Sequencer, transition checks, chapter logic, BPM-flow logic, journey-map generation, or long-form evaluation for its ledger. Ledger row order is append history only, never musical order. Spotify-side sorting is presentation and does not modify repository state.
+
+The Discovery Pool has no dedicated recurring task and must never trigger a repair chain for a canonical volume. A canonical status change does not automatically remove a retained track from the pool. Remove only for wrong/duplicate identity, explicit user instruction, or objective data-integrity repair.
+
+When `automaticPublishingEnabled` is true, changes to the Discovery Pool publication inputs publish through the normal GitHub Actions Spotify publisher exactly like other targets. Report its Spotify status only from its own `spotify-status.json` exact read-back.
