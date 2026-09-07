@@ -23,6 +23,8 @@ Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-ru
 3. **Stave & Grebenstein — Live Room** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
 4. **Decka — Obscure Arcade Game** — RESOLVED and selected: `spotify:track:7uXlAdClTGvyRD0jqN5d8v`; Spotify album `Evolution EP`, release date `2026-01-16`, duration 5:44, BPM unavailable.
 
+**Evidence correction:** the immutable scout request's claim of an “official Bandcamp duration 5:27” for Fast Track To Bliss was unsupported and is void. The exact resolver returns 7:18; only 7:18 is retained downstream. The request is not rewritten because immutable request history must remain auditable.
+
 ### Canonical evaluations
 
 #### Tom VR — Fast Track To Bliss — PARKED
