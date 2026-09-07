@@ -4,6 +4,7 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Raul Alvarez | Black Torque | spotify:track:2O5c3OLK24GM7U8KWxSu2v | Run 46: track-specific syncopated-modulation/build-release description supports belonging; 5:37, BPM unknown. Exact Stardancer handoff and local/long-form contribution unsupported. Reopen only for materially new transition/audio evidence or a concrete changed placement need, not BPM alone. | PARKED |
 | Fail_ed | Lucid Granules | spotify:track:2l6V8BTPgmklh7FxoEDh9F | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | Torres De Lara | Guadalajara | spotify:track:7Moq5cHtt4ar9AT3cVPRA7 | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | Stereoimagery | auto SHK (late edition) | spotify:track:4v3kWcECa3IaZPcXlXvBjd | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
