@@ -110,6 +110,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - DJ JM — `Abnormal` — exact PARKED discovery; reviewer-described apparent speed changes, sharpened percussion and controlled irregularity
 - Dvärv — `Trama` — exact PARKED current discovery; community-selection provenance only, with track-specific behaviour unknown
 - Marcelus — `Velvet` — unresolved Spotify research lead; official exact-track offbeat-drum/percussion and synthetic-interruption description
+- Terrain — `Scatter` — exact PARKED current discovery; official broken-techno / edge-of-breakbeat description; 83 BPM external listing does not prove perceived pulse or placement
+- Batu — `Go Deeper` — exact PARKED overlooked discovery; reviewer-described half-time kick, off-kilter snares and lopsided groove
+- Joe Milli — `The Less You Know` — exact PARKED current discovery; official precisely arranged hand-drum description; 130 BPM external listing
+- Roza Terenzi — `Stylish Tantrum` — exact resolved alternate and local research lead; reviewer-described half-time opening that ramps toward 150 BPM; not evaluated
 
 - Azu Tiwaline & Cinna Peyghamy — `Chrome Fever` — unresolved overlooked-catalogue lead; reviewer-described irregular pulse and off-grid syncopation disrupting four-on-the-floor motion
 - Danny Daze & Jonny From Space — `Tumbadora` — unresolved adjacent-world lead; reviewer-described complex polyrhythmic electro/techno with Miami Bass and Latin-rhythm context
@@ -137,6 +141,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Answer Code Request — Refraction — exact PARKED discovery; 93 BPM retailer metadata and exact-track fractured downtempo construction, with no proven metrical or live relation
 - ABSIS — Arada — exact PARKED discovery; release-level fractured-beat context, exact pulse and handoffs unknown
 - Caotical Disordah — EX01 — exact PARKED discovery; concise emerging broken-form hypothesis, exact function unknown
+- Terrain — Scatter — exact PARKED discovery; official broken-techno / edge-of-breakbeat description; 83 BPM listing does not establish a half-time relationship
+- Batu — Go Deeper — exact PARKED discovery; reviewer-described half-time kick, off-kilter snares and lopsided groove
+- Joe Milli — The Less You Know — exact PARKED discovery; official precisely arranged hand-drum description; 130 BPM listing does not establish transition feel
 - Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
 - Marcal — Smoke From Respawn / Arapuca — September 11 release watch
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch

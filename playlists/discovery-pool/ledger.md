@@ -84,6 +84,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 78 | DJ JM | Abnormal | spotify:track:7Evakd6nBpDjZTmoryII89 | STRANGE GAIT Run 56 | PARKED / interesting | 2026-09-07 |
 | 79 | Dvärv | Trama | spotify:track:3vSWGWdce1i6LJUL0JjCB2 | STRANGE GAIT Run 56 | PARKED / interesting | 2026-09-07 |
 
+| 80 | Terrain | Scatter | spotify:track:3HXAn5DElnz7fluduRen4W | STRANGE GAIT Run 58 | PARKED / interesting | 2026-09-07 |
+| 81 | Batu | Go Deeper | spotify:track:0OEB1Jnxinng6jWpSHuGVZ | STRANGE GAIT Run 58 | PARKED / interesting | 2026-09-07 |
+| 82 | Joe Milli | The Less You Know | spotify:track:2I99QO6gu1xz03H9CPcGHQ | STRANGE GAIT Run 58 | PARKED / interesting | 2026-09-07 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.

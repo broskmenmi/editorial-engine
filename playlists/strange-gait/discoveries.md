@@ -2,6 +2,47 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 58 — EXPLORE — current Livity rhythm mutations and overlooked UK bass/techno hybrids — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 57 left both publication ledgers unchanged and exactly verified, the generated 14-track map matched canonical state, and there was no active feedback discussion, triggered revisit, objective defect or unfinished repair. The scan deliberately moved away from every source lane used in Runs 53–57 and treated the full non-protected journey as available.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T17:52:14Z-explore-58`
+- **sourceCommit:** `022e67c8b919261e0724da02251b99daea44f864`
+- **request commit:** `3e8887a68125ff470672e284028b8535f98b20b0`
+- **snapshot commit:** `25eb3ad2da55dc23118acfc3de7fa3d0a541fde2`
+- **request fingerprint:** `1be09653d0cd15d5fd8a46a546d48cf916a32aea9e8e161c8c0f8ad604f07192`
+- **scope:** approximately 41 named tracks across eight current, adjacent/emerging and overlooked release/review windows. Primary lanes were Terrain's 2026 `Scatter EP`, Joe Milli's 2026 `Repetitions EP`, Batu's 2021 `I Own Your Energy`, and Roza Terenzi's 2020 `Stylish Tantrum`; Surgeons Girl, Yushh, Shed and Timedance catalogue windows were also screened.
+- **ranked leads:** 4 honest leads, no padding — Terrain — Scatter; Batu — Go Deeper; Joe Milli — The Less You Know; Roza Terenzi — Stylish Tantrum.
+- **resolver result:** COMPLETE — 4/4 exact identities resolved; 3 selected canonical candidates; 1 exact resolved alternate; 0 unresolved; 0 duplicates; 0 substitutions.
+- **warning preserved verbatim:** Batu — Go Deeper — `Exact title/artist matched with release metadata variance: album requested "I Own Your Energy EP" but Spotify returned "I Own Your Energy"; release date requested "2021" but Spotify returned "2021-11-12"`.
+- **evidence boundary:** metadata plus official or attributed exact-track descriptions only. No lawful audio analysis and no live mixing.
+
+### Evaluator
+
+1. **Terrain — Scatter** (`spotify:track:3HXAn5DElnz7fluduRen4W`; Spotify `Scatter EP`, 2026-04-10, 6:15; Beatport 83 BPM). **Volume fit:** strong exact-track hypothesis: Livity Sound calls it a punchy broken-techno workout at the edge of breakbeat. **Immediate transition:** both Moonwake → Scatter → Capa and Stardancer → Scatter remain unknown; the 140 → 83 → 137 or 137 → 83 numeric change describes a conspicuous reset but neither proves nor disproves perceived continuity. **Three-to-five-track run:** insertion before Capa could give the existing Capa → Thick to Handle redirection a distinct doorway, while it could equally fracture the Moonwake-to-Capa relationship without gain; the tail alternative could be a purposeful afterword or a disconnected appendix. **Long-form journey:** the production-world change belongs under the selection lens, but no evidence establishes that either location improves the 14-track arc. **Verdict:** PARKED; retained as genuinely interesting.
+
+2. **Batu — Go Deeper** (`spotify:track:0OEB1Jnxinng6jWpSHuGVZ`; Spotify `I Own Your Energy`, 2021-11-12, 4:51). **Volume fit:** strong exact-track hypothesis from Resident Advisor's half-time kick, off-kilter snare and lopsided-groove description. **Immediate transition:** Go Deeper → Marauder and Truth in Noise → Go Deeper → Transparency are untested; unknown BPM and source prose cannot establish either handoff. **Three-to-five-track run:** a new opener could frame the established Inigo Kennedy pair or merely delay it, while a pre-trio insertion could create a deliberate rhythmic-language turn or weaken the approach to the protected block. **Long-form journey:** it supplies a credible different world but no proven structural need. **Verdict:** PARKED; retained as genuinely interesting. The resolver's exact packaging warning remains attached and is not treated as a musical defect.
+
+3. **Joe Milli — The Less You Know** (`spotify:track:2I99QO6gu1xz03H9CPcGHQ`; Spotify `Repetitions EP`, 2026-05-29, 4:59; Beatport 130 BPM). **Volume fit:** strong current percussion-first hypothesis from Livity Sound's exact-track description of tense, precisely arranged hand drums and a minimal finish. **Immediate transition:** Cave → The Less You Know → Too Much Time and Drummz → The Less You Know → Truth in Noise remain untested; the 134 → 130 → 140 and 138 → 130 → 138 paths are scale evidence only. **Three-to-five-track run:** the early option could create a purposeful detour before the 140 BPM pair, while the late option could add articulation or become redundant inside an already rhythmically explicit passage. **Long-form journey:** neither placement has enough evidence of net journey gain. **Verdict:** PARKED; retained as genuinely interesting.
+
+4. **Roza Terenzi — Stylish Tantrum** (`spotify:track:0oK53EP0OGQxJllyngEFQH`; Spotify `Stylish Tantrum`, 2020-12-20, 7:19) resolved exactly as the fourth-ranked alternate but was not selected. It receives no musical verdict and is retained only as a target-local exact research lead. Resident Advisor's half-time-to-150 account remains attributed evidence; conflicting single-BPM retailer fields remain withheld. It is not added to the global utility ledger because it was not selected or evaluated.
+
+### Sequencer / Auditor
+
+Approved 0 canonical ADD and 3 PARKED verdicts. No canonical track is removed or reordered. The protected `Transparency → When We Froze → Stardancer` internal order remains exact; only its two internal handoffs are protected, while `Truth in Noise → Transparency` remains available.
+
+The target-local discovery pool retains all four exact identities with their different evidentiary statuses. The doctrine-free global Discovery Pool receives Scatter, Go Deeper and The Less You Know because all three selected exact tracks were explicitly retained as genuinely interesting; Stylish Tantrum remains excluded as an unevaluated resolved alternate. The existing **Different worlds, continuous intent** and **Broken-rhythm afterword** set directions are enriched without treating ingredients as a proven sequence or live-mixing edge.
+
+**Canonical order / working tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Thick to Handle 138 → Tehutis Law 139 → Fragments 140 → Drummz 138 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. `*` Transparency 143/107 conflict preserved.
+
+**Publication:** canonical STRANGE GAIT publication inputs do not change. The global Discovery Pool ledger changes from 79 to 82 rows and automatic publishing is enabled. Exact completion must come only from the post-publication `spotify-status.json` read-back; this record does not pre-claim success.
+
+**RUN ANALYSIS:** Approximately 41 tracks were inspected, producing 4 ranked leads → 4 exact resolutions → 3 selected evaluations + 1 resolved alternate → 0 ADD, 3 PARKED. Scatter supplied the strongest current structural hypothesis, Go Deeper the strongest overlooked different-world case, and The Less You Know the clearest restrained-percussion case. The strongest counterargument is that a conspicuous reset may be exactly what the journey needs and the evidence contract may be conservatively parking it without lawful audio. This run proves three exact tracks are worth retaining and that whole-journey placement remained active. It does not prove any proposed transition fails, that Stylish Tantrum lacks musical value, or that STRANGE GAIT is complete. Audio analysis and live mixing were NOT TESTED.
+
+---
+
 ## Run 57 — EXPLORE — current emerging systems and overlooked cross-form rhythm — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 56 left the 14-track canonical ledger intact, its three global-retention additions were exactly published, the generated map matched canonical state, and there was no active feedback discussion, triggered revisit, objective defect or pending repair. The scan excluded recently mined Aedi, Evod, Shalfata, Abnormal, Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes.
