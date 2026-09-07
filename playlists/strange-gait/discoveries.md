@@ -2,6 +2,68 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 61 — EXPLORE — current polyrhythmic escalation, breaks vortex and overlooked broken-techno structures — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 60 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 84 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into Intrepid Skin, Nous'klaer Audio, Boogie Box and Don't Be Afraid lanes rather than recycling Runs 53–60.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T20:48:32Z-explore-61`
+- **sourceCommit:** `7e86443e4c319ec7105e55085d5b71e6220d5d20`
+- **request commit:** `6b4b8d93427e0babc7526b670a0e5900e69b4052`
+- **snapshot commit:** `777462ca27f5d58a305aa0a5e34eb1e0661c52e6`
+- **request fingerprint:** `679217a9c7906b96dcf6b265da029fcd8c8981ad286df6ade2f62ee040bf8608`
+- **scope:** approximately 46 named tracks across five current, adjacent/emerging and overlooked release windows. Primary lanes were Intrepid Skin's 2026 `Nailbiters Volume 1`, Nicola Cruz's `Kinesia`, Caldera's `13 17` and Don't Be Afraid's `DBA045.5`; Stefan Goldmann's `Alluvium` was additionally screened but supplied only album-level structural evidence.
+- **ranked leads:** 4 honest leads, no padding — Yasmin Regisford — Virada; Nicola Cruz — Perma; Caldera — Akman's Rhythm; Sunil Sharpe — Goddhead.
+- **resolver result:** PARTIAL — 2/4 exact identities resolved and selected; 2 unresolved; 0 warnings; 0 duplicates; 0 substitutions; 0 resolved alternates.
+- **unresolved errors preserved verbatim:** Yasmin Regisford — Virada: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (10HoatMF9j4eJ6tdApMUtT, 7CB3RuviIUnQxd4rOHruvQ)`; Sunil Sharpe — Goddhead: `ambiguous exact Spotify release match (2d0StG8kyfCJQT0DzSZqZa, 3Mqbv0d2tRqVdPCMr3sBzw)`.
+- **evidence boundary:** metadata plus official exact-track or explicitly track-named descriptions only. No lawful audio analysis and no live mixing.
+
+### Evaluations
+
+#### Nicola Cruz — Perma — PARKED
+
+- **Exact identity:** `spotify:track:1yerc7gBr4f6o0QGKwLnOX`; Spotify duration 279327 ms; album `Kinesia`; release date 2024-10-25; BPM unknown.
+- **Volume fit:** strong provisional BELONGS. Nous'klaer identifies Perma specifically as an “infinite breaks vortex,” directly supporting rhythmic freedom and a change of production world. The album's documented 5/4 opening belongs to Miso feat. machìna and is not attributed to Perma.
+- **Immediate transition:** neither Moonwake → Perma → Capa nor Truth in Noise → Perma → Transparency is established. The candidate's perceived pulse, phrase relation, entry and exit behaviour are unknown; neighbour BPM values cannot fill those gaps.
+- **Surrounding run:** in the middle, Moonwake → Perma → Capa → Thick to Handle → Tehutis Law could create a purposeful multi-stage redirection or over-articulate the same structural idea. Before the trio, Drummz → Truth in Noise → Perma → Transparency → When We Froze could create a meaningful doorway or delay an already listener-validated resolution.
+- **Long-form effect:** the different-world hypothesis is valuable, but current evidence does not prove that inserting it improves the 14-track journey rather than adding another conspicuous mechanism.
+- **Verdict:** PARKED, genuinely interesting. Strongest tests remain Moonwake → Perma → Capa and the unprotected Truth in Noise → Perma → Transparency boundary.
+
+#### Caldera — Akman's Rhythm — PARKED
+
+- **Exact identity:** `spotify:track:3qL4gPBbMfvuCWqPBi7SOv`; Spotify duration 400695 ms; album `13 17`; release date 2019-03-18; BPM unknown.
+- **Volume fit:** provisional BELONGS. Boogie Box's exact-track note documents organic rolling percussion, intricate outlandish melody and a fluid bass line inside a broken-techno release.
+- **Immediate transition:** neither Moonwake → Akman's Rhythm → Capa nor Truth in Noise → Akman's Rhythm → Transparency is established. Rolling motion is not proof of continuity; pulse, phrase relation, density and both handoffs remain unknown.
+- **Surrounding run:** the middle hypothesis might offer an organic bridge into Capa → Thick to Handle, or it might add a redundant third articulation before Tehutis Law. The pre-trio hypothesis may refresh the production world, but its 6:40 duration could also extend the approach without enough additional journey value; duration is context, not a quality verdict.
+- **Long-form effect:** the track broadens the palette and has real discovery value, yet no current evidence shows the larger journey needs this extra stage.
+- **Verdict:** PARKED, genuinely interesting. Strongest tests remain Moonwake → Akman's Rhythm → Capa and the unprotected Truth in Noise → Akman's Rhythm → Transparency boundary.
+
+### Unresolved leads
+
+- **Yasmin Regisford — Virada:** no musical verdict. The exact resolver ambiguity is preserved; neither returned Spotify identity is selected. The official track-specific polyrhythmic-escalation evidence remains a local research lead.
+- **Sunil Sharpe — Goddhead:** no musical verdict. The exact resolver ambiguity is preserved; neither returned release identity is selected. The official broken-techno-stepper evidence remains a local research lead.
+
+### Sequencer / Auditor
+
+**APPROVED: 0 ADD, 2 PARKED, 2 unresolved.** The matching schema-v2 snapshot is internally consistent with the immutable request: runId, sourceCommit, mode and fingerprint match; four requested leads equal two selected candidates plus two unresolved outcomes; selected identities are unique; and there are no warnings, duplicates, substitutions or alternates. Each selected candidate was tested separately at volume-fit, immediate-transition, surrounding-run and long-form scales. No protected or frozen edge changes. The canonical ledger remains 14 tracks and the protected `Transparency → When We Froze → Stardancer` internal order remains exact.
+
+The two exact PARKED tracks are retained as genuinely interesting and therefore enter the doctrine-free global Discovery Pool. The unresolved leads do not.
+
+### Publisher and durable state
+
+Automatic publishing is enabled. STRANGE GAIT publication inputs do not change. EDITORIAL ENGINE — DISCOVERY POOL grows from 84 to 86 exact tracks and requires its own exact post-publication verification. No canonical map regeneration is required.
+
+### Discovery harvest
+
+- **Exact PARKED discoveries:** Nicola Cruz — Perma; Caldera — Akman's Rhythm.
+- **Unresolved research leads:** Yasmin Regisford — Virada; Sunil Sharpe — Goddhead.
+- **Set direction:** `Different worlds, continuous intent` gains the two exact tracks and two unresolved references without asserting a sequence or live-mixing edge.
+
+**RUN ANALYSIS:** Approximately 46 inspected tracks → 4 ranked leads → 2 exact resolutions + 2 unresolved → 2 canonical evaluations → 0 ADD + 2 PARKED. The strongest conclusion is that Perma offers the run's clearest different-world canonical hypothesis, but its unusually direct selection-lens fit does not establish either proposed transition or net journey gain. This run proves two worthwhile exact discoveries and a fresh whole-journey scan; it does not prove either PARKED transition fails, that either ambiguous lead lacks a valid Spotify identity, or that STRANGE GAIT is complete. Audio analysis and live mixing were **NOT TESTED**.
+
+---
+
 ## Run 60 — EXPLORE — bass-techno builds, Brazilian club mutation, Japanese high-speed electro and broken-beat lineage — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 59 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 84 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into Ruff Kutz/Pugilist, RHR/PAN, KWARP and Death & Leisure lanes rather than recycling Runs 53–59.

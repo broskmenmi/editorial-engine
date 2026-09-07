@@ -88,6 +88,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 82 | Joe Milli | The Less You Know | spotify:track:2I99QO6gu1xz03H9CPcGHQ | STRANGE GAIT Run 58 | PARKED / interesting | 2026-09-07 |
 | 83 | Lag | Frka Frka | spotify:track:3bUem4ou1vePwzfPKEL1wv | STRANGE GAIT Run 59 | PARKED / interesting | 2026-09-07 |
 | 84 | GRCA. | AIRPLANE MODE | spotify:track:1ldJA0ujVjft3hGByoGTbQ | STRANGE GAIT Run 59 | PARKED / interesting | 2026-09-07 |
+| 85 | Nicola Cruz | Perma | spotify:track:1yerc7gBr4f6o0QGKwLnOX | STRANGE GAIT Run 61 | PARKED / interesting | 2026-09-07 |
+| 86 | Caldera | Akman's Rhythm | spotify:track:3qL4gPBbMfvuCWqPBi7SOv | STRANGE GAIT Run 61 | PARKED / interesting | 2026-09-07 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

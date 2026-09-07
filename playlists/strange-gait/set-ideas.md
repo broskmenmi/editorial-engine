@@ -127,6 +127,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Knifework — `Hidden Curriculum` — unresolved current debut-release lead; industrial/EBM, krautrock and minimal-techno framing is release-level only
 - Hugo Rolan — `Impacto Aleatorio` — unresolved current compilation lead; shifting-texture, raw-groove and rhythmic-architecture framing is collection-level only
 
+- Nicola Cruz — `Perma` — exact PARKED discovery; official exact-track infinite-breaks-vortex description, with canonical handoffs untested
+- Caldera — `Akman's Rhythm` — exact PARKED discovery; official organic rolling-percussion, intricate-melody and fluid-bass description, with canonical handoffs untested
+- Yasmin Regisford — `Virada` — unresolved current lead; official exact-track rattling polyrhythmic-techno escalation; Spotify identity ambiguous
+- Sunil Sharpe — `Goddhead` — unresolved overlooked-catalogue lead; official broken-techno-stepper description; Spotify release identity ambiguous
+
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
 **Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This is a non-canonical research direction, not evidence for a specific ledger sequence.
