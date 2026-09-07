@@ -2,6 +2,41 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 63 — EXPLORE — odd-meter adjacent club, percussion-first catalogue and emerging broken techno — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 62 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 88 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Hypersonus, Isla/Crespi Drum Syndicate, Krachtvoer/Maylen and Ant-Zen/Synapscape lanes rather than recycling Runs 53–62.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T22:53:28Z-explore-63`
+- **sourceCommit:** `0d757f63300cd3f3aadd9166c290f04bc929747c`
+- **request commit:** `6d774e99d95e6bdb1b7592eb8eb7ed312fd09d4a`
+- **snapshot commit:** `faa62d49ea83fe1436477600c8406bd748de1ba5`
+- **request fingerprint:** `d2cc5e4b5a73cad4736b48c0181c1ff291133830bfd31523f980ae34f7cd6d93`
+- **scope:** approximately 39 named tracks across a current odd-meter adjacent-club single, emerging broken-techno and percussion-first release windows, and an overlooked rhythmic-industrial catalogue album. Metadata and attributed editorial descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 NONE; 3 requested → 0 exact selected identities + 3 unresolved; no warnings, duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Dasht — sunshower** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+2. **Crespi Drum Syndicate — Broken Bread** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Maylen — Impulse** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+No musical verdict is assigned to any lead. The resolver selected no exact Spotify identity, so none is a canonical candidate, PARKED/REJECTED track or global utility input.
+
+### Auditor approval
+
+**APPROVED.** The request used the current SHA immediately before its immutable write; the matching resolver artifact is internally valid; every exact resolver error is preserved; no unresolved lead was evaluated or added to a Spotify ledger; the protected trio remains untouched; and the three genuinely useful leads are retained only in STRANGE GAIT's independent research layer.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three unresolved research leads added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **88 → 88 exact tracks**; no publication input change.
+- Audio analysis: **NOT TESTED**.
+- Live mixing: **NOT TESTED**.
+
 ## Run 62 — EXPLORE — current industrial collaboration, textural development and hybrid structural reboot — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 61 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 86 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Standards & Practices, Frameworks, Intergraded/Tom VR and Pelican Fly/Jaymie Silk lanes rather than recycling Runs 53–61.

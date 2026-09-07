@@ -4,6 +4,9 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| RESEARCH LEAD | Dasht | sunshower | https://hypersonusrecords.bandcamp.com/track/sunshower | Run 63 exact-track 5/4 experimental-dubstep description; unresolved with exact error `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry |
+| RESEARCH LEAD | Crespi Drum Syndicate | Broken Bread | https://isla.bandcamp.com/album/beats | Run 63 percussion-first catalogue lead from a rhythm/atonality-centred album; evidence is release-level; unresolved with exact error `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry |
+| RESEARCH LEAD | Maylen | Impulse | https://krachtvoer.bandcamp.com/album/the-way-you-must-ep | Run 63 emerging broken-techno lead from an EP described as moving between four-to-the-floor and broken beats; evidence is release-level; unresolved with exact error `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry |
 | EXACT TRACK | Tom VR | Fast Track To Bliss | https://open.spotify.com/track/6aS65FTbnD0UqdQlxhZ1x3 | PARKED Run 62; 7:18, BPM unknown; exact-track texture-led development and late kick-doubling support belonging, while opener and middle handoffs and long-form need remain untested |
 | EXACT TRACK | Decka | Obscure Arcade Game | https://open.spotify.com/track/7uXlAdClTGvyRD0jqN5d8v | PARKED Run 62; 5:44, BPM unknown; exact identity from a pulsing, chaotic-techno EP, but evidence is release-level and neither proposed placement is established |
 | RESEARCH LEAD | Jaymie Silk | Mechanical Bird | https://ra.co/reviews/35275 | Run 62 exact-track fractious-beat, polyrhythm and mid-track reboot evidence; unresolved with exact error `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry |

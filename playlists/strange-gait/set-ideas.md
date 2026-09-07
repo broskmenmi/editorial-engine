@@ -137,6 +137,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Yasmin Regisford — `Virada` — unresolved current lead; official exact-track rattling polyrhythmic-techno escalation; Spotify identity ambiguous
 - Sunil Sharpe — `Goddhead` — unresolved overlooked-catalogue lead; official broken-techno-stepper description; Spotify release identity ambiguous
 
+- Dasht — `sunshower` — unresolved current adjacent-club lead; official exact-track 5/4 construction and dubstep framing
+- Crespi Drum Syndicate — `Broken Bread` — unresolved percussion-first catalogue lead; rhythm/atonality evidence is album-level
+- Maylen — `Impulse` — unresolved emerging broken-techno lead; straight-to-broken rhythmic movement is documented for the EP, not this track
+
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
 **Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This is a non-canonical research direction, not evidence for a specific ledger sequence.
@@ -168,6 +172,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Leonardo (IT) — Breaking Point Memories — unresolved current lead; official breakbeat-territory description and 89 BPM external listing do not establish perceived pulse
 - Oliver Ho — TERRA INCOGNITA (CLUB EDIT) — unresolved catalogue/rework lead; official classic broken-beat-techno reference with no proven canonical or live edge
 - the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
+
+- Crespi Drum Syndicate — `Broken Bread` — unresolved rhythm/percussion catalogue lead with release-level atonal and low-melody framing
+- Maylen — `Impulse` — unresolved emerging lead from a release framed around movement between straight and broken beats
 
 **Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, polyrhythmic percussion, syncopation, rolling motion, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
 
