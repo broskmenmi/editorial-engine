@@ -1,39 +1,46 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "d673bf20a7636a5cab6cf368656b755392963ded1a9e20502c8772e8b053abea",
-  "generatedAt": "2026-09-07T01:35:47.603Z",
-  "runId": "2026-09-07T01:34:12Z-explore-46",
-  "sourceCommit": "df91e5e283bda1de62cb5292ccc4ab57de2f11c0",
+  "requestFingerprint": "ca8c492728684da957db3b8219e4d06f77a2c906f8ae77808eba5e50240e42c3",
+  "generatedAt": "2026-09-07T07:54:16.994Z",
+  "runId": "2026-09-07T07:51:55Z-explore-47",
+  "sourceCommit": "f538a98b30680cb253d9c9bab529e9bdb13b2fc2",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh belonging discovery with proposed post-trio development",
-    "position": "after Len Faki — Stardancer, proposed Track 13",
+    "role": "fresh belonging discovery with a deliberate post-trio change of rhythmic character",
+    "position": "Track 13 after Len Faki — Stardancer; the protected trio remains intact and the outgoing neighbour is open",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "Test whether track-specific syncopated modulation and a described build/release could open a deliberate next passage; no pre-existing gap or protected-trio change."
+    "purpose": "Test whether a short broken-rhythm and melodic turn can open a convincing next passage without treating contrast itself as sufficient."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T01:34:12Z",
+    "timestampUtc": "2026-09-07T07:51:55Z",
     "sourceWindows": [
-      "CURRENT: https://mord.bandcamp.com/album/herdersmat-part-49-52 — August 28, 2026; 18 track listings and release text screened.",
-      "CURRENT: https://mord.bandcamp.com/album/absorbing-grey-tones-2 — August 25, 2026; four tracks repackaged from earlier album; no exact sonic account.",
-      "ADJACENT ARTISTS/LABELS: https://iliantape.bandcamp.com/album/it079-core-waves — Fireground June 11, 2026; four tracks; https://iliantape.bandcamp.com/album/itx043-pond — Gast May 28, 2026; nine tracks.",
-      "ADJACENT ARTISTS: https://rempitgoddess.bandcamp.com/album/syncopated-ether-dreams — LnHD/rEmPiT g0dDe$$ June 3, 2025; four tracks, release-level dub/percussion/field-recording description.",
-      "OVERLOOKED CATALOGUE: https://hiddensuite.bandcamp.com/album/modular-space-sheep — Raul Alvarez January 8, 2018; three tracks with track-specific label descriptions."
+      "CURRENT RELEASES: https://defaultbox.bandcamp.com/album/dbx002 — four-track DBX002 released 2026-09-04; exact descriptions and durations screened.",
+      "CURRENT RELEASES: https://nativeboundaries.bandcamp.com/album/infected-eye-ep — Orlando Voorn release window dated 2026-09-04; exact track pages and label framing screened.",
+      "CURRENT RETAIL WINDOW: https://www.juno.co.uk/techno-music/four-weeks/ — recent techno listings including DBX002, Aurora Centralis, Shade, Starfield, Continuum and related September stock screened.",
+      "ADJACENT / EMERGING: https://marcal.bandcamp.com/album/four-small-escapes-ep — four exact tracks and detailed label descriptions screened; release due 2026-09-11.",
+      "ADJACENT / EMERGING: https://aquaregiarec.bandcamp.com/album/until-meaning-emerges-ep — four exact Stefan Vincent tracks and descriptions screened; release due 2026-09-18.",
+      "ADJACENT / EMERGING: https://tecnicakollektiv.bandcamp.com/album/palindro-lp — Retter's July 2026 broken-rhythm/percussion catalogue window screened.",
+      "OVERLOOKED CATALOGUE: https://vakuum-label.bandcamp.com/album/vakuum-ep — six-track December 2025 release with track-specific closing description screened.",
+      "OVERLOOKED CATALOGUE: https://adamfreeland.bandcamp.com/album/transhuman-ep — July 2026 broken-rhythm/dub-techno release context screened.",
+      "OVERLOOKED CATALOGUE: https://rhizomeva.bandcamp.com/album/rhizome — 16-track May 2026 Czech compilation moving through dub, bass-heavy broken rhythms and ambient material screened at release level.",
+      "BOUNDED QUERIES: current 2026-09-06/07 techno releases plus exact searches for syncopated, polyrhythmic, broken-rhythm and swinging-percussion techno; Spotify and tempo verification queries for DT229, Funchal, Smoke From Respawn, Arapuca and Soothing the Beast."
     ],
-    "approximateInspectedScope": "42 track listings across six release pages screened from current release and adjacent/catalogue searches; metadata/text review only, zero audio auditions. Artist/label index pages and broad search results not counted as tracks.",
+    "approximateInspectedScope": "Approximately 58 named tracks and releases across ten official release, retailer, catalogue and bounded-query windows; metadata/text review only and zero audio auditions.",
     "exclusions": [
-      "Canonical 12, current rejections and all untriggered parked revisits excluded; no parked candidates recycled.",
-      "Herdersmat/Maasym: titles, label affiliation and packaging supply no track-specific belonging case; not padded into request.",
-      "Fireground/Gast: label pages primarily metadata; public buyer comments not treated as Brosk listener evidence or sufficient exact placement evidence.",
-      "LnHD/rEmPiT g0dDe$$: useful adjacent research direction, release-level framing only; retained as potential inspiration, not padded into canonical request.",
-      "Raul Alvarez Space Sheep and Modular Break: source descriptions inspected; Black Torque ranked alone as clearest syncopated-modulation belonging hypothesis.",
-      "Beatport release page https://www.beatport.com/release/modular-space-sheep/2178727 could not be opened (safe-open error); BPM remains unknown, never inferred from genre.",
-      "Protected trio order unchanged; after-Stardancer placement is only a test hypothesis; no mandatory listening work."
+      "All 12 canonical identities, active placement-specific rejections and every untriggered PARKED revisit were excluded. Run 46 material was not recycled.",
+      "The protected Transparency → When We Froze → Stardancer internal order and its two protected handoffs remain untouched; the proposed new track follows the intact block.",
+      "DBX002 supplied exact current-release descriptions, but Funchal and its Alexander Kowalski remix emphasized atmospheric driving depth and warmth without enough track-specific rhythmic or structural evidence for this run; no identity was invented.",
+      "Orlando Voorn's Maneuvers In Space supplied current exact identity, date and tags only; weird/electro/Detroit tags do not establish behavior or placement.",
+      "Marcal's Smoke From Respawn and Arapuca supplied unusually strong exact-track rhythmic descriptions, but the EP remains a 2026-09-11 preorder. They were retained as a release watch rather than padded into current canonical resolution.",
+      "Stefan Vincent's Soothing the Beast supplied exact polyrhythmic acid and halftime-break language, but its 2026-09-18 preorder status makes it a watch, not a current canonical lead.",
+      "Retter's Palindro and Rhizome supplied useful release-level broken-rhythm and percussion framing without enough exact-track placement evidence for this request.",
+      "Transhuman supplied broken-rhythm, spacious-arrangement, dub and techno framing only at EP level; no exact track was promoted from that shared description.",
+      "No lead was admitted for recency, BPM, genre tag, title, artist reputation, novelty or quota completion. Unknown energy, density, phrase structure, perceived pulse and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Raul Alvarez — Black Torque: track-specific label description of syncopated metallic modulation with build and release; exact handoff and tempo unknown."
+      "1. CONFUSION (RASEREI) — DT229: exact track description identifies a broken-rhythm and melodic closing turn; exact Spotify identity is known and retailer metadata reports 135 BPM, while the actual Stardancer handoff remains untested."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
@@ -47,97 +54,114 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Raul Alvarez",
-        "track": "Black Torque",
-        "album": "Modular Space Sheep",
-        "releaseDate": "2018-01-08",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
-        "searchIntent": "BELONGING",
+        "artist": "CONFUSION (RASEREI)",
+        "track": "DT229",
+        "album": "Vakuum EP",
+        "releaseDate": "2025-12-05",
+        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
+        "bpm": 135,
+        "bpmSource": "Exact retailer metadata: https://volumo.com/track/5537043-dt229; Beatport artist catalogue corroborates the exact title/version listing: https://www.beatport.com/artist/confusion-raserei/1040477/tracks?page=1&per_page=50",
+        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
+            "incomingBpm": 137,
+            "candidateBpm": 135,
+            "purpose": "A conspicuous but measured change from the listener-confirmed trio into broken and more melodic rhythm, tested as a new passage rather than assumed to be smooth."
           }
         ],
-        "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
+        "fitHypothesis": "Vakuum Label describes DT229 specifically as closing the record by diving into broken rhythms and more melodic spheres. That supports the volume's broad rhythmic/structural-freedom lens and suggests a deliberate post-trio left turn, but it does not establish the perceived Stardancer handoff, energy relation, phrase fit or long-form success.",
         "evidence": {
           "measured": [
-            "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
+            "Spotify identity supplied for verification: 2WtWAoWLGG7w0gr8m5qr2i",
+            "exact retailer metadata reports 135 BPM and 2:55 duration",
+            "official release date 2025-12-05",
+            "working numerical path is Stardancer 137 BPM to DT229 135 BPM; the small delta does not prove flow"
           ],
-          "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
-          "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+          "attributedDescription": "Vakuum Label says DT229 closes the EP by diving into broken rhythms and more melodic spheres. This is label language, not heard or measured behavior.",
+          "listenerEvidence": "The user positively reports the protected three-track block through Stardancer as being in perfect harmony. No report covers the outgoing Stardancer → DT229 handoff.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
-          "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
+          "craftConvention": "After a listener-confirmed block, a concise and conspicuous change of rhythmic character can open a new passage when it feels intentional; contrast itself is not proof.",
+          "editorialInterpretation": "Potential post-trio afterword and doorway into a more broken vocabulary, with transition and long-form effect still to be evaluated."
         }
       },
-      "spotifyTrackId": "2O5c3OLK24GM7U8KWxSu2v",
+      "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "2O5c3OLK24GM7U8KWxSu2v",
-      "uri": "spotify:track:2O5c3OLK24GM7U8KWxSu2v",
-      "name": "Black Torque",
+      "id": "2WtWAoWLGG7w0gr8m5qr2i",
+      "uri": "spotify:track:2WtWAoWLGG7w0gr8m5qr2i",
+      "name": "DT229",
       "artists": [
-        "Raul Alvarez"
+        "CONFUSION (RASEREI)"
       ],
-      "album": "Modular Space Sheep",
-      "releaseDate": "2018-01-08",
-      "durationMs": 337000,
-      "spotifyUrl": "https://open.spotify.com/track/2O5c3OLK24GM7U8KWxSu2v",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
-      "searchIntent": "BELONGING",
+      "album": "Vakuum EP",
+      "releaseDate": "2025-12-05",
+      "durationMs": 175448,
+      "spotifyUrl": "https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i",
+      "bpm": 135,
+      "tempoSource": "Exact retailer metadata: https://volumo.com/track/5537043-dt229; Beatport artist catalogue corroborates the exact title/version listing: https://www.beatport.com/artist/confusion-raserei/1040477/tracks?page=1&per_page=50",
+      "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
+      "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
+          "incomingBpm": 137,
+          "candidateBpm": 135,
+          "purpose": "A conspicuous but measured change from the listener-confirmed trio into broken and more melodic rhythm, tested as a new passage rather than assumed to be smooth."
         }
       ],
-      "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
+      "fitHypothesis": "Vakuum Label describes DT229 specifically as closing the record by diving into broken rhythms and more melodic spheres. That supports the volume's broad rhythmic/structural-freedom lens and suggests a deliberate post-trio left turn, but it does not establish the perceived Stardancer handoff, energy relation, phrase fit or long-form success.",
       "evidence": {
         "measured": [
-          "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
+          "Spotify identity supplied for verification: 2WtWAoWLGG7w0gr8m5qr2i",
+          "exact retailer metadata reports 135 BPM and 2:55 duration",
+          "official release date 2025-12-05",
+          "working numerical path is Stardancer 137 BPM to DT229 135 BPM; the small delta does not prove flow"
         ],
-        "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
-        "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+        "attributedDescription": "Vakuum Label says DT229 closes the EP by diving into broken rhythms and more melodic spheres. This is label language, not heard or measured behavior.",
+        "listenerEvidence": "The user positively reports the protected three-track block through Stardancer as being in perfect harmony. No report covers the outgoing Stardancer → DT229 handoff.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
-        "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
+        "craftConvention": "After a listener-confirmed block, a concise and conspicuous change of rhythmic character can open a new passage when it feels intentional; contrast itself is not proof.",
+        "editorialInterpretation": "Potential post-trio afterword and doorway into a more broken vocabulary, with transition and long-form effect still to be evaluated."
       },
       "requestedIdentity": {
-        "artist": "Raul Alvarez",
-        "track": "Black Torque",
-        "album": "Modular Space Sheep",
-        "releaseDate": "2018-01-08",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
-        "searchIntent": "BELONGING",
+        "artist": "CONFUSION (RASEREI)",
+        "track": "DT229",
+        "album": "Vakuum EP",
+        "releaseDate": "2025-12-05",
+        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
+        "bpm": 135,
+        "bpmSource": "Exact retailer metadata: https://volumo.com/track/5537043-dt229; Beatport artist catalogue corroborates the exact title/version listing: https://www.beatport.com/artist/confusion-raserei/1040477/tracks?page=1&per_page=50",
+        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
             "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
+            "incomingBpm": 137,
+            "candidateBpm": 135,
+            "purpose": "A conspicuous but measured change from the listener-confirmed trio into broken and more melodic rhythm, tested as a new passage rather than assumed to be smooth."
           }
         ],
-        "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
+        "fitHypothesis": "Vakuum Label describes DT229 specifically as closing the record by diving into broken rhythms and more melodic spheres. That supports the volume's broad rhythmic/structural-freedom lens and suggests a deliberate post-trio left turn, but it does not establish the perceived Stardancer handoff, energy relation, phrase fit or long-form success.",
         "evidence": {
           "measured": [
-            "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
+            "Spotify identity supplied for verification: 2WtWAoWLGG7w0gr8m5qr2i",
+            "exact retailer metadata reports 135 BPM and 2:55 duration",
+            "official release date 2025-12-05",
+            "working numerical path is Stardancer 137 BPM to DT229 135 BPM; the small delta does not prove flow"
           ],
-          "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
-          "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+          "attributedDescription": "Vakuum Label says DT229 closes the EP by diving into broken rhythms and more melodic spheres. This is label language, not heard or measured behavior.",
+          "listenerEvidence": "The user positively reports the protected three-track block through Stardancer as being in perfect harmony. No report covers the outgoing Stardancer → DT229 handoff.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
-          "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
+          "craftConvention": "After a listener-confirmed block, a concise and conspicuous change of rhythmic character can open a new passage when it feels intentional; contrast itself is not proof.",
+          "editorialInterpretation": "Potential post-trio afterword and doorway into a more broken vocabulary, with transition and long-form effect still to be evaluated."
         }
       }
     }
