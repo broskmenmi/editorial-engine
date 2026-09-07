@@ -2,6 +2,60 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 62 — EXPLORE — current industrial collaboration, textural development and hybrid structural reboot — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 61 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 86 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Standards & Practices, Frameworks, Intergraded/Tom VR and Pelican Fly/Jaymie Silk lanes rather than recycling Runs 53–61.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T21:51:46Z-explore-62`
+- **sourceCommit:** `c6ee0c0708629aef9bdbe1f3341e837801db1e6a`
+- **request commit:** `eeffcc94a60e58a60c9956386a1e93af017e295e`
+- **snapshot commit:** `352129834c3291cb803566d0a4cda36844e3892c`
+- **request fingerprint:** `3ae3c4ecffe338213aa15c7e22d72480d75be4a42d141f88ded3c17647c87e47`
+- **scope:** approximately 38 named tracks across current Standards & Practices, Frameworks and Unterwegs windows, Tom VR's current and overlooked catalogue, and Jaymie Silk's hybrid outsider-club catalogue. Metadata and attributed editorial descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 4 requested → 2 exact selected identities + 2 unresolved; no warnings, duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Jaymie Silk — Mechanical Bird** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+2. **Tom VR — Fast Track To Bliss** — RESOLVED and selected: `spotify:track:6aS65FTbnD0UqdQlxhZ1x3`; Spotify album `Fast Track to Bliss`, release date `2021-02-04`, duration 7:18, BPM unavailable.
+3. **Stave & Grebenstein — Live Room** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Decka — Obscure Arcade Game** — RESOLVED and selected: `spotify:track:7uXlAdClTGvyRD0jqN5d8v`; Spotify album `Evolution EP`, release date `2026-01-16`, duration 5:44, BPM unavailable.
+
+### Canonical evaluations
+
+#### Tom VR — Fast Track To Bliss — PARKED
+
+- **Volume fit:** PASS as a selection-lens hypothesis. Resident Advisor's exact-track account documents a kick that begins as almost incidental, while bass, delayed synth notes and voice carry the structure before the kick doubles late.
+- **Immediate transition:** UNKNOWN. Neither a new opening before Marauder nor `Moonwake → Fast Track To Bliss → Capa` has sourced entry/exit, phrase, perceived-pulse or mix evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its internal development could create a useful texture-led pivot, but available prose cannot establish whether it strengthens or diffuses either local run.
+- **Long-form journey:** NOT PROVEN. A new opening or middle change of emphasis is plausible, yet no evidence shows that the existing 14-track journey needs this additional stage.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+#### Decka — Obscure Arcade Game — PARKED
+
+- **Volume fit:** PLAUSIBLE but weakly evidenced. The exact track belongs to an EP independently described as pulsing, chaotic techno; that description is release-level and is not attributed to this track alone.
+- **Immediate transition:** UNKNOWN. Neither `The Witching Hour → Obscure Arcade Game → Cave` nor `Tehutis Law → Obscure Arcade Game → Fragments` has candidate-specific rhythmic, phrase, pulse or handoff evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The release frame suggests possible instability, but it cannot establish whether another early or middle techno stage adds useful movement.
+- **Long-form journey:** NOT PROVEN. Exact identity and recency do not demonstrate canonical need.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+The unresolved Mechanical Bird and Live Room leads receive no musical verdict. Their source evidence remains useful research material, but neither is a canonical candidate or global utility input without an exact Spotify identity.
+
+### Auditor approval
+
+**APPROVED.** The request used the current SHA immediately before its immutable write; the matching resolver artifact is internally valid; only the two selected exact identities were evaluated; both evaluations separately cover selection fit, immediate transitions, local-run effect and long-form effect; no metadata-only sonic inference was made; the protected trio remains untouched; all resolver errors are preserved; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks plus two unresolved research leads added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **86 → 88 exact tracks**, adding Fast Track To Bliss and Obscure Arcade Game.
+- Audio analysis: **NOT TESTED**.
+- Live mixing: **NOT TESTED**.
+
 ## Run 61 — EXPLORE — current polyrhythmic escalation, breaks vortex and overlooked broken-techno structures — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 60 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 84 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into Intrepid Skin, Nous'klaer Audio, Boogie Box and Don't Be Afraid lanes rather than recycling Runs 53–60.

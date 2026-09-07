@@ -91,6 +91,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 85 | Nicola Cruz | Perma | spotify:track:1yerc7gBr4f6o0QGKwLnOX | STRANGE GAIT Run 61 | PARKED / interesting | 2026-09-07 |
 | 86 | Caldera | Akman's Rhythm | spotify:track:3qL4gPBbMfvuCWqPBi7SOv | STRANGE GAIT Run 61 | PARKED / interesting | 2026-09-07 |
 
+| 87 | Tom VR | Fast Track To Bliss | spotify:track:6aS65FTbnD0UqdQlxhZ1x3 | STRANGE GAIT Run 62 | PARKED / interesting | 2026-09-07 |
+| 88 | Decka | Obscure Arcade Game | spotify:track:7uXlAdClTGvyRD0jqN5d8v | STRANGE GAIT Run 62 | PARKED / interesting | 2026-09-07 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.

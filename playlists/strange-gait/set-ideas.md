@@ -88,6 +88,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Tom VR — `Fast Track To Bliss` — exact PARKED discovery; reviewer-described texture-led development with kick emphasis arriving late
+- Decka — `Obscure Arcade Game` — exact PARKED discovery from a pulsing, chaotic-techno EP; exact behavior remains undocumented
+- Jaymie Silk — `Mechanical Bird` — unresolved exact-identity lead; reviewer-described fractious polyrhythms and mid-track reboot
+- Stave & Grebenstein — `Live Room` — unresolved current-release lead; label-described Pan Sonic/DAF-like collaboration
+
 - natsumi hirota — `Migi` / `Zahyo` — elastic rhythmic mutation research lead
 - Djrum — `I Wander` — long-form soundsystem-rooted composition research lead
 - ESTADO DE BIENESTAR — `Capítulo IV: La Fiesta Seria y Nuevas Formas de Tecnaco` — deliberately cross-vocabulary release research
