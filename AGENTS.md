@@ -124,11 +124,9 @@ Live mixing is a separate performance layer governed by `live-mixing.md`. Its tr
 
 ## Spotify publication policy
 
-Daily and ad-hoc editorial runs do not publish Spotify. Audited GitHub ledger changes and generated maps may advance independently of Spotify. Policy-driven divergence is not an objective repair trigger.
+Read repository-root `publication.json`. `automaticPublishingEnabled: true` automatically publishes approved ledger additions, removals and reorders (and configured metadata/cover changes) through GitHub Actions, targeting only playlists whose publication inputs changed. No extra publication approval is needed for an already approved editorial change. `false` retains manual-only publishing; a separate explicit publication request may use a manual dispatch selecting one playlist. Never change the flag without user instruction. Flag-only or runtime-only commits do not republish unchanged playlists; use a targeted manual dispatch for catch-up when explicitly requested.
 
-`publish-spotify.yml` is manual-only and requires an explicitly authorized target playlist. Never restore automatic push publication, invoke the publisher directly during an editorial run, or publish all playlists when working on one. A separate explicit user request to publish authorizes the selected target only.
-
-Report that no publication occurred this run and distinguish the timestamped last verified `spotify-status.json` from a current live read-back. Never overwrite status simply to mark a skipped publication.
+After a change, report COMPLETE only from `spotify-status.json` exact read-back matching the current canonical ledger, with its verification timestamp. If verification is pending or failed, report that accurately. On no-change runs, distinguish last verified status from a new live check. When the flag is false, report automatic publication disabled; intentional pending publication is not a musical REPAIR trigger.
 
 ## Journey-map lifecycle
 

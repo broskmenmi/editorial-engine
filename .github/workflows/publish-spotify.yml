@@ -1,6 +1,15 @@
 name: Publish Spotify playlists
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'playlists/**/ledger.md'
+      - 'playlists/**/spotify.json'
+      - 'playlists/**/cover.jpg.base64'
+      - 'publication.json'
+      - 'apps/spotify-publisher/**'
+      - '.github/workflows/publish-spotify.yml'
   workflow_dispatch:
     inputs:
       playlist_dir:
@@ -14,17 +23,44 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: spotify-publisher-${{ github.ref }}
-  cancel-in-progress: false
-
 jobs:
+  plan:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    outputs:
+      targets: ${{ steps.select.outputs.targets }}
+      has_targets: ${{ steps.select.outputs.has_targets }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Test publisher and publication policy
+        working-directory: apps/spotify-publisher
+        run: npm test
+      - name: Select publication targets
+        id: select
+        env:
+          PUSH_BEFORE: ${{ github.event.before }}
+          REQUESTED_PLAYLIST_DIR: ${{ inputs.playlist_dir }}
+        run: node apps/spotify-publisher/src/publication-policy.js
+
   publish:
-    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
+    needs: plan
+    if: needs.plan.outputs.has_targets == 'true'
+    strategy:
+      fail-fast: false
+      matrix:
+        playlist_dir: ${{ fromJSON(needs.plan.outputs.targets) }}
+    concurrency:
+      group: spotify-publisher-${{ matrix.playlist_dir }}
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
-      PLAYLIST_DIR: ${{ inputs.playlist_dir }}
+      PLAYLIST_DIR: ${{ matrix.playlist_dir }}
       SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
       SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
     steps:
@@ -38,11 +74,24 @@ jobs:
         with:
           node-version: 24
 
-      - name: Test publisher
-        working-directory: apps/spotify-publisher
-        run: npm test
+      - name: Check publication inputs are current
+        id: fresh
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin main
+          if ! git diff --quiet "$GITHUB_SHA"..origin/main -- \
+            "$PLAYLIST_DIR/ledger.md" "$PLAYLIST_DIR/spotify.json" \
+            "$PLAYLIST_DIR/cover.jpg.base64" publication.json \
+            .github/workflows/publish-spotify.yml apps/spotify-publisher; then
+            echo "Newer publication inputs exist; skipping this stale run."
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "publish=true" >> "$GITHUB_OUTPUT"
 
       - name: Publish and verify selected playlist
+        if: steps.fresh.outputs.publish == 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -57,7 +106,7 @@ jobs:
             --playlist-dir "$PLAYLIST_DIR"
 
       - name: Persist playlist identities and verified statuses
-        if: always()
+        if: always() && steps.fresh.outputs.publish == 'true'
         shell: bash
         run: |
           set -euo pipefail
@@ -89,7 +138,7 @@ jobs:
               "$PLAYLIST_DIR/ledger.md" \
               "$PLAYLIST_DIR/spotify.json" \
               "$PLAYLIST_DIR/cover.jpg.base64" \
-              .github/workflows/publish-spotify.yml apps/spotify-publisher | grep -q .; then
+              .github/workflows/publish-spotify.yml publication.json apps/spotify-publisher | grep -q .; then
               echo "Newer publication inputs exist; skipping stale Spotify status."
               exit 0
             fi

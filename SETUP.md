@@ -109,7 +109,7 @@ The authorization page uses Authorization Code with PKCE and does not require a 
 
 ## 5. Spotify publication
 
-`.github/workflows/publish-spotify.yml` is manual-only. After an explicit user publication request, dispatch it on main and select the one authorized playlist directory. Daily editorial checks never publish Spotify; ledger changes do not trigger publication. Empty-ledger clearing requires separate explicit handling and is not enabled by this workflow.
+`.github/workflows/publish-spotify.yml` follows the `automaticPublishingEnabled` boolean in repository-root `publication.json`. It is enabled. Approved ledger, metadata and cover changes automatically publish only affected playlists; changing the flag to false keeps manual-only publication. Manual dispatch requires one explicit target. Empty-ledger clearing is not enabled by this workflow.
 
 The publisher:
 

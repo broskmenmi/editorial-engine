@@ -146,15 +146,11 @@ Do not create telemetry-only commits.
 
 ## Spotify and map
 
-Daily and ad-hoc editorial runs do not update Spotify. They may persist audited canonical decisions to GitHub and let the map Action regenerate this playlist's map. Spotify publication is manual-only, through an explicitly authorized dispatch of `publish-spotify.yml` selecting `playlists/strange-gait`. Do not dispatch it during an editorial run, restore push publication, or invoke the publisher directly.
+Read repository-root `publication.json`. `automaticPublishingEnabled: true` automatically publishes approved ledger additions, removals and reorders (and configured metadata/cover changes) through GitHub Actions, targeting only playlists whose publication inputs changed. No extra publication approval is needed for an already approved editorial change. `false` retains manual-only publishing; a separate explicit publication request may use a manual dispatch selecting one playlist. Never change the flag without user instruction. Flag-only or runtime-only commits do not republish unchanged playlists; use a targeted manual dispatch for catch-up when explicitly requested.
 
-GitHub's ledger and Spotify may intentionally diverge until publication is explicitly requested. That policy-driven divergence is not an actionable REPAIR trigger.
+After a change, report COMPLETE only from `spotify-status.json` exact read-back matching the current canonical ledger, with its verification timestamp. If verification is pending or failed, report that accurately. On no-change runs, distinguish last verified status from a new live check. When the flag is false, report automatic publication disabled; intentional pending publication is not a musical REPAIR trigger.
 
-`discovery-pool.md` and `set-ideas.md` are never publication inputs.
-
-Report `NOT PUBLISHED THIS RUN — automatic publication disabled`. You may also report the last verified status and its timestamp from `spotify-status.json`, checking it against the current ledger fingerprint. Do not describe an old read-back as today's live verification or label intentional pending publication a technical failure.
-
-Never use the ChatGPT Spotify connector for canonical search, publication, or verification.
+GitHub Actions also regenerate the target map from canonical state. `discovery-pool.md` and `set-ideas.md` are never publication inputs. Never use the ChatGPT Spotify connector for canonical search, publication or verification.
 
 ## User-facing response
 

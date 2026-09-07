@@ -7,7 +7,9 @@ description: Report exact Spotify publication status and append the current comp
 
 ## Publication policy
 
-Follow AGENTS.md: editorial runs do not publish Spotify. Report `NOT PUBLISHED THIS RUN — automatic publication disabled`, plus the timestamped last verified status when useful. Intentional divergence from the ledger is pending manual publication, not an actionable repair. Do not invoke publication or refresh status during daily checks. Only a separate explicit request permits manual publication for one selected playlist.
+Read repository-root `publication.json`. `automaticPublishingEnabled: true` automatically publishes approved ledger additions, removals and reorders (and configured metadata/cover changes) through GitHub Actions, targeting only playlists whose publication inputs changed. No extra publication approval is needed for an already approved editorial change. `false` retains manual-only publishing; a separate explicit publication request may use a manual dispatch selecting one playlist. Never change the flag without user instruction. Flag-only or runtime-only commits do not republish unchanged playlists; use a targeted manual dispatch for catch-up when explicitly requested.
+
+After a change, report COMPLETE only from `spotify-status.json` exact read-back matching the current canonical ledger, with its verification timestamp. If verification is pending or failed, report that accurately. On no-change runs, distinguish last verified status from a new live check. When the flag is false, report automatic publication disabled; intentional pending publication is not a musical REPAIR trigger.
 
 ## Publication boundary
 
