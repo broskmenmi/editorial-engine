@@ -2,6 +2,50 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 60 — EXPLORE — bass-techno builds, Brazilian club mutation, Japanese high-speed electro and broken-beat lineage — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 59 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 84 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into Ruff Kutz/Pugilist, RHR/PAN, KWARP and Death & Leisure lanes rather than recycling Runs 53–59.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T19:51:40Z-explore-60`
+- **sourceCommit:** `c370b180335943efe46f7dcfb29de399270f401c`
+- **request commit:** `4045154a1515fcfd52501b779a4e8d7fe6230412`
+- **snapshot commit:** `a0bbd1264edc814c3f69b5003b7252132c51d43a`
+- **request fingerprint:** `c3153d1d806ee20a8f155b741a0214299f9af9eaf765abddbe27f8f61381db99`
+- **scope:** approximately 35 named tracks across eight current, adjacent/emerging and overlooked release/review windows. Primary lanes were Sub Basics & Pugilist's 2026 `Control`, RHR's 2026 `GÍRIA`, KWARP's 2026 `The 6` and Oliver Ho's 2025 `RITUAL EP`; Jdotbalance, Reptant, Forest Drive West and Batu & Donato Dozzy windows were additionally screened.
+- **ranked leads:** 4 honest leads, no padding — Sub Basics & Pugilist — Control; RHR feat. Logan_olm — CICLONADA; KWARP — The 6; Oliver Ho — TERRA INCOGNITA (CLUB EDIT).
+- **resolver result:** NONE — 0/4 exact identities resolved; 0 selected candidates; 4 unresolved; 0 warnings; 0 duplicates; 0 substitutions; 0 resolved alternates.
+- **unresolved errors preserved verbatim:** each of the four requested identities returned `no exact Spotify title/artist search match in market SE`.
+- **evidence boundary:** metadata plus official or attributed exact-track descriptions only. No lawful audio analysis and no live mixing.
+
+### Resolver outcomes and evaluation boundary
+
+1. **Sub Basics & Pugilist — Control:** unresolved. Official exact-track evidence describes delicate melody and vocal moving into thunderous kicks, low sub-bass, modulating percussion and a progressively more dancefloor-focused second drop. Proposed tests before Marauder and between Cave and Too Much Time were not evaluated.
+2. **RHR feat. Logan_olm — CICLONADA:** unresolved. Resident Advisor's exact-track account describes sub-bass and razor-edged drums ramping before a mutation into electro and out-of-whack baile funk. Proposed tests between Moonwake and Capa and at the unprotected Truth in Noise → Transparency boundary were not evaluated.
+3. **KWARP — The 6:** unresolved. The official exact-track note documents dense tactile rhythms under restraint, an electro backbone and 171 BPM. Proposed tests between The Witching Hour and Cave and after Stardancer were not evaluated; the large BPM difference is evidence of scale, not a verdict.
+4. **Oliver Ho — TERRA INCOGNITA (CLUB EDIT):** unresolved. The official note identifies classic broken-beat techno with raw, propulsive framing. Proposed tests between Moonwake and Capa and between Drummz and Truth in Noise were not evaluated.
+
+Because the resolver selected no exact Spotify identity, none of these leads receives ADD, PARKED, REJECT or global utility eligibility. They remain target-local research leads only.
+
+### Sequencer
+
+No canonical insertion, removal or reorder is approved. The 14-track journey and listener-protected `Transparency → When We Froze → Stardancer` order remain unchanged. The request considered opening, early, middle, late internal and tail placements; it did not privilege Stardancer as the only growth point.
+
+### Auditor
+
+**APPROVED.** The matching schema-v2 snapshot is internally consistent with the immutable request: runId, sourceCommit, mode, target and exploration receipt match; requested 4 = unresolved 4; resolvedCount, candidateCount and selected candidate count are all zero; and no stale candidate, substitute, warning or duplicate entered evaluation. The four exact resolver errors are preserved. The track-specific evidence is approved for target-local inspiration state only; unresolved identities are ineligible for the global Spotify utility ledger.
+
+### Publisher and durable state
+
+Automatic publishing remains enabled, but neither publication input changes. STRANGE GAIT remains at 14 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL remains at 84 tracks. Their existing COMPLETE receipts are historical verification, not new live checks. No journey-map regeneration is required from the unchanged canonical ledger.
+
+### Discovery harvest
+
+- **Unresolved exact-track research leads:** Sub Basics & Pugilist — Control; RHR feat. Logan_olm — CICLONADA; KWARP — The 6; Oliver Ho — TERRA INCOGNITA (CLUB EDIT).
+- **Set directions:** `Different worlds, continuous intent` gains the Control, CICLONADA and The 6 research directions. `Broken-rhythm afterword` gains the Oliver Ho club edit as an unresolved lineage reference.
+- **Screened watches:** Jdotbalance — `High Exposure`; Reptant — `Ballet Robotique`; Forest Drive West — `Masking`; Batu & Donato Dozzy — `Exhale`. These were not promoted into the resolver batch or global ledger.
+
 ## Run 59 — EXPLORE — electro-to-techno transformations, polymetric adjacent worlds and overlooked broken-beat escalation — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 58 left STRANGE GAIT at 14 canonical tracks with an exact Spotify receipt and the global utility playlist at 82 exact tracks with an exact receipt. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into new Musique Pour La Danse, Don't Recordings, GRCA./Bandcamp Daily and Øpium Trax windows rather than recycling Runs 53–58.

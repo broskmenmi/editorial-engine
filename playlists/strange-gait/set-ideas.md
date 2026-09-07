@@ -118,6 +118,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Super Nova — `Alien Abduction` — unresolved overlooked-catalogue lead; official exact-track dub-infused electro-to-techno transformation
 - HVL — `Formation` — current release watch; rolling-breakbeat, dub-bass and acid-house framing is collection-level only
 - Obeka — `A World No More Remixed` — current remix-album watch across several polyrhythmic club vocabularies; no track-level verdict
+- Sub Basics & Pugilist — `Control` — unresolved current exact-track lead; official delicate-to-thunderous internal build description
+- RHR feat. Logan_olm — `CICLONADA` — unresolved current São Paulo/London lead; reviewer-described mutation into electro and displaced baile funk
+- KWARP — `The 6` — unresolved current Kyoto lead; official dense restrained electro construction at stated 171 BPM
 
 - Azu Tiwaline & Cinna Peyghamy — `Chrome Fever` — unresolved overlooked-catalogue lead; reviewer-described irregular pulse and off-grid syncopation disrupting four-on-the-floor motion
 - Danny Daze & Jonny From Space — `Tumbadora` — unresolved adjacent-world lead; reviewer-described complex polyrhythmic electro/techno with Miami Bass and Latin-rhythm context
@@ -153,6 +156,7 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch
 - Lag — Frka Frka — exact PARKED discovery; reviewer-described jittery broken beat and escalating progression, with no proven transition
 - Leonardo (IT) — Breaking Point Memories — unresolved current lead; official breakbeat-territory description and 89 BPM external listing do not establish perceived pulse
+- Oliver Ho — TERRA INCOGNITA (CLUB EDIT) — unresolved catalogue/rework lead; official classic broken-beat-techno reference with no proven canonical or live edge
 - the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
 
 **Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, polyrhythmic percussion, syncopation, rolling motion, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
