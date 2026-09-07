@@ -18,5 +18,7 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 12 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | STRANGE GAIT discovery | Canonical ADD / retained | 2026-09-07 |
 | 13 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | STRANGE GAIT Run 48 | PARKED / interesting | 2026-09-07 |
 | 14 | brenner | Waltz | spotify:track:6IbZAmQ3blSb2aaHCsH05Q | STRANGE GAIT Run 48 | PARKED / interesting | 2026-09-07 |
+| 15 | Holly Lester | Big Fill | spotify:track:00u8d2qHZido3ZRruWvamX | STRANGE GAIT Run 49 | PARKED / interesting | 2026-09-07 |
+| 16 | Leo | Descant | spotify:track:423xbB1O6ttELOvC6Taed3 | STRANGE GAIT Run 49 | PARKED / interesting | 2026-09-07 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.

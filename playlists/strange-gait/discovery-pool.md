@@ -4,6 +4,9 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | Holly Lester | Big Fill | https://open.spotify.com/track/00u8d2qHZido3ZRruWvamX | PARKED Run 49; 5:54, BPM unknown; exact-track rolling-sub/groove/pressure description supports belonging, but no canonical transition is proven |
+| EXACT TRACK | Leo | Descant | https://open.spotify.com/track/423xbB1O6ttELOvC6Taed3 | PARKED Run 49; Spotify 5:36 vs Bandcamp 7:49 duration variance; RA broken-techno description supports structural interest, but physicality and canonical placement remain unknown |
+| RESEARCH LEAD | Konomo | Invisible (Original Mix) | https://refractionrecords.bandcamp.com/track/konomo-invisible-original-mix-refraction | Run 49 exact-track broken-beat/immersive-closing description; unresolved Spotify-SE identity with exact error `no exact Spotify title/artist search match in market SE`; not a canonical candidate |
 | EXACT TRACK | brenner | Thick to Handle | https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT | PARKED Run 48; 138 BPM, 4:39; Major Records exact-track broken-beat/stuttered-kick/body-pull description supports belonging, but no canonical transition is proven |
 | EXACT TRACK | brenner | Waltz | https://open.spotify.com/track/6IbZAmQ3blSb2aaHCsH05Q | PARKED Run 48; 135 BPM, 5:43; Major Records exact-track disorienting pitch-motion description makes it interesting, while bodily usefulness and canonical placement remain unknown |
 | EXACT TRACK | CONFUSION (RASEREI) | DT229 | https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i | PARKED Run 47; 135 BPM, 2:55; Vakuum exact-track broken-rhythm/melodic description supports belonging, but the Stardancer transition is not proven |

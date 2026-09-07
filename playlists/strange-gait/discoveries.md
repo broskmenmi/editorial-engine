@@ -1,5 +1,49 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 49 — EXPLORE — 2026-09-07
+
+RunId: `2026-09-07T09:52:23Z-explore-49`. Request commit: `9dcecc157c6c5e755be13f5af2f024989379a130`; source commit: `2c9d089bac1432ee339d5eeaadb30194b5ed97ca`; snapshot commit: `a55fbd9a967d6218d45330d15bc7307178de628a`. Matching immutable terminal fingerprint `826f5d13d6c2a734fd65c111e18b018235b4c76caf799f3dc90313ecf2d8abb3` validated with repository code. Resolution was PARTIAL: 3 leads, 2 exact resolutions, 2 selected candidates, 1 unresolved identity, no warnings, duplicates or resolved alternates.
+
+**Pre-audit:** 12 unique canonical tracks; the two listener-protected internal trio handoffs are intact; no active feedback discussion, TRIGGERED revisit or actionable objective repair. The new global Discovery Pool is doctrine-free infrastructure and supplied no STRANGE GAIT repair trigger.
+
+**Fresh scan:** approximately 43 named tracks across ten current, adjacent/emerging and overlooked-catalogue release pages plus bounded Bandcamp, RA and Juno result windows. Current September 4 material included Holly Lester, Hollen, OSCMAN and P.E.A.R.L.; adjacent/emerging work included leo, Caotical Disordah and Refraction's Prism compilation; overlooked catalogue included Konomo, Super Nova and Abby Echiverri. Metadata and attributed descriptions only; zero audio auditions. Runs 47–48 and all PARKED entries were excluded.
+
+**Funnel:** approximately 43 tracks → 3 ranked leads → 2 exact resolutions + 1 unresolved lead → 2 evaluated candidates → 0 ADD, 2 PARKED REVISIT. Konomo — Invisible (Original Mix) remained unresolved with exact resolver error `no exact Spotify title/artist search match in market SE` and was not evaluated as a candidate. No STRANGE GAIT publication input changed. Two exact retained candidates enter the global doctrine-free Discovery Pool.
+
+### Holly Lester — Big Fill — PARKED REVISIT
+
+- Exact URI: `spotify:track:00u8d2qHZido3ZRruWvamX`; Open Your Mind EP; released 2026-09-04; resolver duration 353582 ms (5:54); BPM unavailable.
+- **Volume fit:** BELONGS provisionally. Duality Trax's [exact-release description](https://dualitytrax.bandcamp.com/album/open-your-mind-ep) attributes a rolling sub, groove, pressure and dreamlike suspension specifically to Big Fill. This supports bodily pull and a play between weight and space, but remains label description rather than heard behaviour.
+- **Concrete placement:** proposed Track 13 after Len Faki — Stardancer, leaving the outgoing neighbour open. Not approved for canonical admission.
+- **Transition scale:** the production-world change could be a deliberate left turn, but BPM, perceived pulse, phrasing, energy relation and the exact Stardancer handoff are unknown. Genre adjacency neither proves nor defeats the move.
+- **Local-run scale:** Truth in Noise → Transparency → When We Froze → Stardancer → Big Fill preserves the protected trio. The label description supports a bodily thread, but cannot show whether the fifth element feels curated or appended.
+- **Long-form scale:** Big Fill could open a rolling, pressure-and-space passage after the established block. No evidence proves that this is the useful next development rather than a reset chosen for contrast.
+- **Evidence classes:** identity, duration and date are metadata; groove/pressure/suspension language is attributed label description; the post-trio left-turn rationale is editorial interpretation and craft convention. No candidate-specific listener report or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition-level or lawful audio evidence, or a changed post-trio context, supports a concrete placement. No listening assignment.
+
+### Leo — Descant — PARKED REVISIT
+
+- Exact URI: `spotify:track:423xbB1O6ttELOvC6Taed3`; Cicada Burnt; released 2026-07-31; resolver duration 335555 ms (5:36), while the official Bandcamp page lists 7:49; duration variance preserved. BPM unavailable.
+- **Volume fit:** BELONGS provisionally. Resident Advisor's [August 2026 roundup](https://ra.co/features/4490) identifies Descant as the album's move into broken techno, while the [official exact-track page](https://leoproducer.bandcamp.com/track/descant) verifies the title and release context. This supports structural freedom, not bodily effect.
+- **Concrete placement:** proposed Track 13 after Len Faki — Stardancer, leaving the outgoing neighbour open. Not approved for canonical admission.
+- **Transition scale:** a broken-techno redirection may be intentional, but BPM, perceived pulse, phrase relation, physicality and the Stardancer exit are unknown.
+- **Local-run scale:** the protected trio remains intact. Descant could make a productive rhythmic afterword or an arbitrary fracture; source description cannot distinguish them.
+- **Long-form scale:** the candidate opens a materially different rhythmic path, but novelty and contrast do not establish that the twelve-track journey needs this move here.
+- **Evidence classes:** identity, Spotify duration and date are metadata; broken-techno language is attributed reviewer description; the post-trio fracture rationale is editorial interpretation and craft convention. The Bandcamp/Spotify duration variance is preserved. No candidate-specific listener report or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition-level or lawful audio evidence, or a changed journey context, supports a concrete placement. No listening assignment.
+
+**Unresolved lead:** Konomo — Invisible (Original Mix), official Bandcamp duration 6:14 and exact-track broken-beat/immersive-closing description. Resolver error: `no exact Spotify title/artist search match in market SE`. It remains a research lead only; no Spotify URI, candidate evaluation or canonical verdict was invented.
+
+**Sequencer/Auditor:** approve two PARKED decisions, two exact volume-pool entries, one unresolved research lead, enrichment of the existing Broken-rhythm afterword direction, and two global Discovery Pool additions. Veto both ADDs because immediate transition, surrounding-run and long-form evidence remains insufficient. Preserve all 12 canonical rows, annotations and listener-protected handoffs. No actionable REPAIR recommendation; next lane remains EXPLORE.
+
+**Canonical order / tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Tehutis Law 139 → Fragments 140 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. *Transparency 143/107 conflict retained. Story roles remain interpretation.
+
+**Publication/map:** automatic publication is enabled. STRANGE GAIT received no publication-input change; its last recorded verification remains COMPLETE 12/12 at 2026-09-06T19:12:18.429Z and is not a new live read-back. The affected global Discovery Pool publication is handled separately from canonical STRANGE GAIT state. The current map remains valid at 12 tracks and retains the unified root site URL.
+
+**RUN ANALYSIS:** Fresh outward discovery and partial immutable resolution completed. Big Fill supplied the stronger body-oriented belonging case; Descant supplied the clearer rhythmic-language change. Neither supplied the missing transition-scale evidence from Stardancer. The strongest alternative explanation is that the workflow is conservative without lawful audio and may be parking excellent conspicuous turns that source prose cannot prove. This run proves two exact, useful discoveries and protects listener-earned order; it does not prove either transition fails, that the volume needs one sonic room, or that STRANGE GAIT is complete. Konomo's identity miss is a resolver outcome, not a musical rejection.
+
+**Discovery harvest:** exact non-canonical tracks Holly Lester — Big Fill and Leo — Descant retained; Konomo — Invisible retained as an unresolved research lead. The existing Broken-rhythm afterword set direction now includes all three as unproven ingredients.
+
 ## Run 48 — EXPLORE — 2026-09-07
 
 RunId: `2026-09-07T08:56:26Z-explore-48`. Request commit: `89f1c821594e1a88fef0bbe0caa67a0da04bb2c1`; source commit: `65266eb9864ba0e22f1d879f16d177a93eef71c9`; snapshot commit: `d49252216ce46179456384ad7df28c02707fcb41`. Matching immutable terminal fingerprint `4c400b5e1a5da49215f14ae78075b25ebd464ccb8300c1dd2227b8953eced577` validated with repository code; COMPLETE, with no warnings, unresolved identities, duplicates or unselected alternates.

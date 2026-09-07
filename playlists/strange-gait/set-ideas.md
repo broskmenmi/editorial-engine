@@ -105,6 +105,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Ingredients:**
 
 - CONFUSION (RASEREI) — DT229 — exact PARKED discovery; broken/melodic exact-track description
+- Holly Lester — Big Fill — exact PARKED discovery; source-described rolling sub, pressure and suspended space
+- Leo — Descant — exact PARKED discovery; reviewer-described broken-techno turn
+- Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
 - Marcal — Smoke From Respawn / Arapuca — September 11 release watch
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch
 - the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
