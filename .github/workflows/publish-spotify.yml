@@ -114,7 +114,7 @@ jobs:
 
           changed=()
           for file in "$PLAYLIST_DIR/spotify.json" "$PLAYLIST_DIR/spotify-status.json"; do
-            if ! git diff --quiet -- "$file"; then
+            if [[ -n "$(git status --porcelain -- "$file")" ]]; then
               changed+=("$file")
             fi
           done
@@ -150,7 +150,7 @@ jobs:
               cp "$temp_dir/$file" "$file"
             done
 
-            if git diff --quiet -- "${changed[@]}"; then
+            if [[ -z "$(git status --porcelain -- "${changed[@]}")" ]]; then
               exit 0
             fi
 
