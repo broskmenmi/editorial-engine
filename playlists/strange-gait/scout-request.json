@@ -1,93 +1,96 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-07T15:48:57Z-explore-56",
-  "sourceCommit": "ec4a043c38155d0c21a1fcc06c69b3e763d7683f",
+  "runId": "2026-09-07T16:51:29Z-explore-57",
+  "sourceCommit": "ee982e2f745920bbefc3007c2801366a0572f3b1",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement. Character changes and hard left turns may pass when transition, local-run and long-form intent are supported; selection-lens interest alone is insufficient."
+    "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement. Different production worlds and hard left turns may pass when the move makes sense at transition, local-run and long-form scales; selection-lens interest alone is insufficient."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T15:48:57Z",
+    "timestampUtc": "2026-09-07T16:51:29Z",
     "sourceWindows": [
-      "CURRENT / EMERGING: https://aedirecords.bandcamp.com/album/sisu-2 — all five tracks from Aedi Records' 2026-08-28 community-selected compilation screened; Dvärv — Trama retained as an exact current identity from an anonymous-submission, peer-voted release, without inventing track-specific sonic behaviour.",
-      "ADJACENT / EMERGING CATALOGUE: https://ra.co/reviews/35891 — all four Hassan Abou Alam originals and four remixes on 2023's Shalfata screened; Mawgood retained because the exact-track review describes a quavering bassline making a sudden turn into mangled synths and traditional folk drums.",
-      "OVERLOOKED TECHNO CATALOGUE: https://evodmusic.bandcamp.com/album/declinations — all four tracks on Evod Music's 2019 Declinations screened; Marcelus — Velvet retained because the official exact-track notes describe a bass sequence and offbeat drum pattern with ethnic percussion interrupted by synthetic incursions.",
-      "OVERLOOKED ADJACENT CATALOGUE: https://ra.co/reviews/35749 — all four tracks on DJ JM's 2023 Abnormal EP screened; the title track retained because the exact-track review describes needlepoint hats and snares, apparent speed changes and unusual synth events that remain controlled rather than chaotic.",
-      "ADDITIONAL WINDOWS: bounded September 4 and August 28 2026 Bandcamp result windows across Planet Rhythm, Circular Limited, OBSCUUR, Darknet, Major Records and several independent labels were screened. Major Records was not repeated because brenner's release was already mined; recent Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes were excluded."
+      "CURRENT / EMERGING: https://echoveil-records.bandcamp.com/album/nothing-is-coming — all five tracks on Knifework's first release, issued 2026-09-05, screened. Hidden Curriculum retained as the longest full track from a release explicitly combining beats, analogue synthesis, industrial/EBM and minimal-techno contexts; the source gives release-level rather than track-specific behaviour.",
+      "CURRENT TECHNO NETWORK: https://moleculartechno.bandcamp.com/album/structure-series-3 — all six listed tracks on the 2026-09-01 compilation screened. Hugo Rolan — Impacto Aleatorio retained as an emerging-producer exact identity from a release described at collection level through shifting textures/intensities, raw groove and precise rhythmic architecture; no track-specific behaviour is claimed.",
+      "OVERLOOKED CATALOGUE: https://ra.co/reviews/36286 — all eighteen tracks on 2025's Klubnacht 01 screened. Azu Tiwaline & Cinna Peyghamy — Chrome Fever retained because Resident Advisor's exact-track review describes irregular pulse and off-kilter syncopation weaving off grid and disrupting four-on-the-floor motion.",
+      "ADJACENT / OVERLOOKED: https://ra.co/reviews/36168 — all four tracks on Danny Daze & Jonny From Space's 2024 Tumbadora EP screened. The title track retained because the exact-track review places it inside sludgy polyrhythmic electro/techno and singles it out as rigorously detailed, cross-genre club music.",
+      "ADDITIONAL WINDOWS: Ploy's eight-track 2025 It's Later Than You Think release, Hieroglyphic Being's twelve-track 2025 The Sound Of Something Ending, Sleeparchive's four-track 2026 underscore release, and Ali Berger's 2026 and 2023 improvised-recording catalogues were screened. Their strongest exact tracks ranked below this run's four leads or lacked enough track-specific evidence to justify another resolver slot."
     ],
-    "approximateInspectedScope": "Approximately 37 named tracks across eleven current, adjacent and catalogue release/result windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 54 named tracks across eight current, emerging, adjacent and overlooked release/review windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded.",
-      "The two protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "Other tracks from the four selected releases were screened but ranked below the four leads for exact-track evidence or representative value; no artist, label, texture, novelty or role quota was used.",
-      "No lead was promoted for recency, artist reputation, genre, title, supplied Spotify identity or assumed BPM. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Recent Aedi, Evod, RA Shalfata/Abnormal, Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes were not recycled.",
+      "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
+      "Ploy — Admirer, Hieroglyphic Being — Temple Wide Open and Danny Daze & Jonny From Space — Sweet Spot Radio had useful exact-track descriptions but ranked below Chrome Fever and Tumbadora for this run's finite resolution set. They remain newly inspected, not rejected or retained discoveries.",
+      "No lead was promoted for recency, artist reputation, genre, title, novelty, structural cleverness or assumed BPM. Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Marcelus — Velvet: exact-track official notes describe an offbeat drum pattern interacting with bass and percussion, with synthetic interruptions; a strong overlooked structural lead.",
-      "2. Hassan Abou Alam — Mawgood: exact-track review describes a sudden structural turn from quavering bassline into mangled synths and traditional folk drums; an adjacent selection-lens lead.",
-      "3. DJ JM — Abnormal: exact-track review describes apparent speed changes, sharpened percussion and unusual synth events held under control; a conspicuous-turn catalogue lead.",
-      "4. Dvärv — Trama: current 2026 community-selected track from a peer-voted deep/hypnotic techno compilation; exact identity is useful, but track-specific behaviour is unknown."
+      "1. Azu Tiwaline & Cinna Peyghamy — Chrome Fever: exact-track review describes an irregular, off-grid pulse that disrupts four-on-the-floor motion; strongest overlooked structural lead.",
+      "2. Danny Daze & Jonny From Space — Tumbadora: exact-track review identifies a rigorously detailed, sludgy polyrhythmic electro/techno construction with a deliberately promiscuous genre language; strong adjacent-world lead.",
+      "3. Knifework — Hidden Curriculum: current debut-release exact identity from a short industrial/EBM/minimal-techno hybrid; release-level evidence only, retained as an honest emerging lead.",
+      "4. Hugo Rolan — Impacto Aleatorio: current emerging-producer compilation identity from a collection framed around shifting textures, raw groove and precise rhythmic architecture; track-specific behaviour remains unknown."
     ]
   },
   "leads": [
     {
-      "artist": "Marcelus",
-      "track": "Velvet",
-      "album": "Declinations",
-      "releaseDate": "2019-03-25",
+      "artist": "Azu Tiwaline & Cinna Peyghamy",
+      "track": "Chrome Fever",
+      "album": "Klubnacht 01",
+      "releaseDate": "2025-06",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://evodmusic.bandcamp.com/album/declinations",
+      "discoverySource": "https://ra.co/reviews/36286",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6XECgWH0bNGJUT9Mx7yoZ4",
-          "incomingBpm": 137,
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
           "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether the source-described offbeat drum pattern and synthetic interruptions deepen the existing rhythmic redirection without merely duplicating it."
+          "outgoingBpm": 137,
+          "purpose": "Test a documented off-grid interruption before the existing rhythmic-redirection passage, without assuming irregularity establishes either handoff."
         },
         {
-          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
           "incomingBpm": 138,
           "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether a different offbeat-percussion language creates a purposeful continuation after Drummz or overcrowds the late-middle run."
+          "outgoingBpm": 143,
+          "purpose": "Test the unprotected boundary before the listener-protected trio as a conspicuous rhythmic-language change; Transparency's disputed tempo remains non-proof."
         }
       ],
-      "fitHypothesis": "The official exact-track notes identify bass and an offbeat drum pattern interacting with percussion and intermittent synthetic incursions. This directly supports structural interest, but does not establish either handoff or a long-form need.",
+      "fitHypothesis": "Resident Advisor's exact-track review describes irregular pulse and off-kilter syncopation weaving off grid and disrupting four-on-the-floor motion. That directly supports the volume's selection lens, but it does not prove a useful canonical placement.",
       "evidence": {
-        "measured": ["official Bandcamp duration 5:59", "official release date 2019-03-25", "candidate BPM and Spotify identity unknown before resolver"],
-        "attributedDescription": "Evod Music's exact-track notes describe bass and an offbeat drum pattern playing with ethnic percussion, interrupted at times by synthetic incursions.",
+        "measured": [
+          "RA reports June 2025 release",
+          "candidate BPM and exact Spotify identity unknown before resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Chrome Fever's irregular pulse and off-kilter syncopation as weaving off grid and disrupting the four-on-the-floor chug.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "An offbeat pattern and interruptions can create structural distinction, but prose cannot prove perceived pulse, transition quality or local-run gain.",
-        "editorialInterpretation": "Strong overlooked-catalogue fit hypothesis with two plausible internal regions; all four canonical scales remain to be tested."
+        "craftConvention": "A documented pulse disruption may create a deliberate hinge, but review prose cannot establish incoming/outgoing feel, bodily continuity or long-form gain.",
+        "editorialInterpretation": "Strong exact-track belonging hypothesis with credible middle and pre-trio regions; all four canonical evaluation scales remain open."
       }
     },
     {
-      "artist": "Hassan Abou Alam",
-      "track": "Mawgood",
-      "album": "Shalfata",
-      "releaseDate": "2023-12",
+      "artist": "Danny Daze & Jonny From Space",
+      "track": "Tumbadora",
+      "album": "Tumbadora EP",
+      "releaseDate": "2024-08",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35891",
+      "discoverySource": "https://ra.co/reviews/36168",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Before Pfirter — Marauder as a possible new opening event",
-          "followingUri": "spotify:track:4nDoDIaXBX2faoNWOwM4le",
+          "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "candidateBpm": null,
           "outgoingBpm": 136,
-          "purpose": "Test whether its source-described sudden internal turn can establish a deliberately unstable entrance before the current opener."
+          "purpose": "Test whether this documented electro/techno hybrid creates a purposeful entrance into the existing opening rather than an unrelated preface."
         },
         {
           "position": "Between Sciahri — Moonwake and Nørbak — Capa",
@@ -96,68 +99,39 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test a conspicuous structural turn before the existing Capa → Thick to Handle redirection without assuming it must be smoothed away."
+          "purpose": "Test a conspicuous adjacent-world turn before the Capa → Thick to Handle passage, without inferring energy or mixability from genre language."
         }
       ],
-      "fitHypothesis": "Resident Advisor's exact-track description identifies a sudden turn from quavering bassline into a breakdown of mangled synths and traditional folk drums. That is direct selection-lens evidence, not transition proof.",
+      "fitHypothesis": "Resident Advisor places the title track within a sludgy, polyrhythmic electro/techno release and singles it out as complex and rigorously detailed. That supports cross-form curiosity but cannot establish transition or journey function.",
       "evidence": {
-        "measured": ["RA reports December 2023 release", "candidate BPM and Spotify identity unknown before resolver"],
-        "attributedDescription": "Resident Advisor describes Mawgood as playing up a quavering bassline before a sudden turn into mangled synths and traditional folk drums.",
+        "measured": [
+          "RA reports August 2024 publication/release context",
+          "candidate BPM and exact Spotify identity unknown before resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes the EP's originals as sludgy polyrhythmic electro and techno with Miami Bass and Latin-rhythm imprints, and singles Tumbadora out as especially complex and rigorously detailed.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A conspicuous internal turn may establish intent at an opening or mid-journey boundary, but review prose cannot establish physical scale, phrasing or neighbour response.",
-        "editorialInterpretation": "High selection-lens interest and a credible different-worlds hypothesis; placement and long-form effect remain unproven."
+        "craftConvention": "A production-world change can be intentional without being smoothed away, but stylistic adjacency and complexity alone cannot justify canonical admission.",
+        "editorialInterpretation": "Strong different-worlds hypothesis for the opening or middle; immediate handoffs, local-run coherence and long-form need remain unknown."
       }
     },
     {
-      "artist": "DJ JM",
-      "track": "Abnormal",
-      "album": "Abnormal",
-      "releaseDate": "2023-09",
+      "artist": "Knifework",
+      "track": "Hidden Curriculum",
+      "album": "Nothing is Coming",
+      "releaseDate": "2026-09-05",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35749",
+      "discoverySource": "https://echoveil-records.bandcamp.com/album/nothing-is-coming",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
+          "position": "Before Inigo Kennedy — Marauder as a possible brief new entrance",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether the source-described apparent speed changes and controlled irregularity sharpen the late-middle turn or make that run over-articulated."
+          "outgoingBpm": 136,
+          "purpose": "Test a current emerging release as a distinct opening statement while refusing to infer Hidden Curriculum's individual behaviour from album-level prose."
         },
-        {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:5UQPy1aGLyNIPGNxN7lfIz",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test the unprotected boundary before the protected trio as a conspicuous but controlled change; do not infer energy or mixability."
-        }
-      ],
-      "fitHypothesis": "Resident Advisor's exact-track review describes sharpened percussion, a sensation of changing speed and unusual synth events, while emphasizing that the construction remains controlled. This supports structural freedom, not sequence necessity.",
-      "evidence": {
-        "measured": ["RA reports September 2023 release", "candidate BPM and Spotify identity unknown before resolver"],
-        "attributedDescription": "Resident Advisor describes Abnormal's hats and snares as sharpened, the track as feeling like it changes speed, and synths arriving in odd events while the whole remains controlled.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Controlled irregularity can support a deliberate left turn, but a review cannot prove immediate handoffs, attention cost or long-form improvement.",
-        "editorialInterpretation": "Strong exact-track selection-lens case with two plausible late-journey placements; neither is established."
-      }
-    },
-    {
-      "artist": "Dvärv",
-      "track": "Trama",
-      "album": "Sisu",
-      "releaseDate": "2026-08-28",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://aedirecords.bandcamp.com/track/trama-2",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
         {
           "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
           "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
@@ -165,24 +139,64 @@
           "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Use this as a neutral whole-journey test for a current community-selected track; exact sonic behaviour must not be inferred from the release tags."
-        },
-        {
-          "position": "After Len Faki — Stardancer as a possible new tail passage",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Keep the tail available as one lawful option while refusing to make it the default."
+          "purpose": "Use an available early boundary to test whether the release's different production language clarifies or distracts from the existing widening passage."
         }
       ],
-      "fitHypothesis": "Trama is an exact current track on a community-curated deep/hypnotic techno compilation, but the source gives no track-specific sonic or structural description. Resolution may establish identity only, not musical fit.",
+      "fitHypothesis": "Hidden Curriculum is an exact current track on a first release whose source combines beats, analogue synthesis, industrial/EBM, propulsive krautrock and minimal-techno contexts. The evidence is release-level, so individual rhythmic or structural behaviour must remain unknown.",
       "evidence": {
-        "measured": ["official Bandcamp duration 5:57", "official release date 2026-08-28", "candidate BPM and Spotify identity unknown before resolver"],
-        "attributedDescription": "Aedi Records says Sisu was selected anonymously by its producer community; this is release provenance, not a description of Trama.",
+        "measured": [
+          "official Bandcamp duration 2:42",
+          "official release date 2026-09-05",
+          "candidate BPM and exact Spotify identity unknown before resolver"
+        ],
+        "attributedDescription": "The artist and label describe the release as combining beats, analogue synths, EBM/industrial machinery, propulsive krautrock improvisation and minimal-techno context. They do not describe Hidden Curriculum separately.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Community selection and genre tags may justify inspection but cannot justify admission or any transition claim.",
-        "editorialInterpretation": "Honest current/emerging lead with insufficient track-specific evidence; exact resolution is still useful for research."
+        "craftConvention": "A short contrasting statement can alter an opening or early run, but release-level language cannot establish this track's pulse, density, energy or transition role.",
+        "editorialInterpretation": "Honest current/emerging research lead with potentially useful brevity and a different production world; canonical evidence is presently weak."
+      }
+    },
+    {
+      "artist": "Hugo Rolan",
+      "track": "Impacto Aleatorio",
+      "album": "Structure Series 3",
+      "releaseDate": "2026-09-01",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://moleculartechno.bandcamp.com/album/structure-series-3",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": 136,
+          "candidateBpm": null,
+          "outgoingBpm": 134,
+          "purpose": "Test a current emerging-producer identity in the early grounding run without assuming the compilation's shared language describes this track."
+        },
+        {
+          "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": 139,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the current compilation identity adds a purposeful stage inside the rhythmic-redirection run; no sonic property is inferred from its title."
+        }
+      ],
+      "fitHypothesis": "Impacto Aleatorio is an exact current identity from a compilation that includes emerging producers and is described collectively through shifting textures/intensities, raw groove and precise rhythmic architecture. The source does not isolate this track's behaviour.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 4:26",
+          "official release date 2026-09-01",
+          "candidate BPM and exact Spotify identity unknown before resolver"
+        ],
+        "attributedDescription": "Molecular Recordings describes Structure Series 3 collectively through shifting textures and intensities, raw groove, atmospheric depth and precise rhythmic architecture; this is not a track-specific description.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Compilation context can justify exact-identity inspection, but cannot establish volume fit, any transition, local-run contribution or long-form journey effect.",
+        "editorialInterpretation": "Honest current/emerging lead; exact resolution may be useful, while canonical evidence remains intentionally weak."
       }
     }
   ]
