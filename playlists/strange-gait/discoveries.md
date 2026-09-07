@@ -2,6 +2,51 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 59 — EXPLORE — electro-to-techno transformations, polymetric adjacent worlds and overlooked broken-beat escalation — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 58 left STRANGE GAIT at 14 canonical tracks with an exact Spotify receipt and the global utility playlist at 82 exact tracks with an exact receipt. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; and no objective defect or unfinished repair was present. The scan moved into new Musique Pour La Danse, Don't Recordings, GRCA./Bandcamp Daily and Øpium Trax windows rather than recycling Runs 53–58.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T18:49:03Z-explore-59`
+- **sourceCommit:** `d90a6fe7159bc68f7dec4ede94c32c8dc9e52153`
+- **request commit:** `1eca07c6b35f7e699d3e375101ce2b263daf5b6e`
+- **snapshot commit:** `1bac7a68a23c66d6f907bb5963a335cd90c99409`
+- **request fingerprint:** `606429db4d4dd85669e95764e6b97f048b79d35f25257956e5fe5f0938eca016`
+- **scope:** approximately 54 named tracks across seven current, adjacent/emerging and overlooked release/review windows. Primary lanes were Super Nova's `Planetary Invazion EP`, Lag's `Frka Frka` review, GRCA.'s 2026 `nzenza.` EP and Leonardo (IT)'s 2026 `BRAIN DESTROYER`; HVL, Obeka and Molecular compilation/release windows were also screened.
+- **ranked leads:** 4 honest leads, no padding — Super Nova — Alien Abduction; Lag — Frka Frka; GRCA. — AIRPLANE MODE; Leonardo (IT) — Breaking Point Memories.
+- **resolver result:** PARTIAL — 2/4 exact identities resolved and selected; 2 unresolved; 0 resolved alternates; 0 duplicates; 0 substitutions.
+- **warning preserved verbatim:** Lag — Frka Frka — `Exact title/artist matched with release metadata variance: album requested "Frka Frka" but Spotify returned "Clique Of One EP"; release date requested "2022" but Spotify returned "2022-02-21"`.
+- **unresolved preserved verbatim:** Super Nova — Alien Abduction — `no exact Spotify title/artist search match in market SE`; Leonardo (IT) — Breaking Point Memories — `no exact Spotify title/artist search match in market SE`.
+- **evidence boundary:** metadata plus official or attributed exact-track descriptions only. No lawful audio analysis and no live mixing.
+
+### Evaluator
+
+1. **Lag — Frka Frka** (`spotify:track:3bUem4ou1vePwzfPKEL1wv`; Spotify `Clique Of One EP`, 2022-02-21, 6:56; BPM unknown). **Volume fit:** strong exact-track hypothesis: Resident Advisor describes a jittery broken beat and an ascending progression that becomes increasingly maniacal, directly relevant to rhythmic and structural freedom. **Immediate transition:** Moonwake → Frka Frka → Capa and Drummz → Frka Frka → Truth in Noise are untested; exact-track prose does not establish perceived pulse, density, phrase relation or either handoff. **Three-to-five-track run:** the middle placement could create a purposeful escalation before Capa → Thick to Handle, or it could overload an already articulated redirection; the late placement could sharpen the approach to Truth in Noise, or crowd a run already containing Fragments and Drummz. **Long-form journey:** it supplies a credible attention-heavy turn, but no evidence proves that the 14-track arc needs another escalation. **Verdict:** PARKED; retained as genuinely interesting. The album/date variance is preserved as identity packaging, not a musical defect.
+
+2. **GRCA. — AIRPLANE MODE** (`spotify:track:1ldJA0ujVjft3hGByoGTbQ`; Spotify `nzenza.`, 2026-06-26, 3:03; BPM unknown). **Volume fit:** strong current adjacent-world hypothesis: Bandcamp Daily describes jittery early-grime references, chopped samples and blaring synths inside an EP framed by a rolling polymetric batida groove. **Immediate transition:** AIRPLANE MODE → Marauder and Cave → AIRPLANE MODE → Too Much Time are untested; no measured pulse, phrase or exit evidence establishes either route. **Three-to-five-track run:** a new opener could deliberately broaden the production world before the Inigo Kennedy pair or merely delay the existing entrance; the early internal option could make a meaningful vocabulary turn or fragment the first five-track run without gain. **Long-form journey:** different geography and genre vocabulary are not journey value by themselves, and no evidence proves that either placement improves the complete arc. **Verdict:** PARKED; retained as genuinely interesting.
+
+Super Nova — Alien Abduction and Leonardo (IT) — Breaking Point Memories were not evaluated because no exact Spotify identity was selected. They remain research leads, not REJECT or PARKED verdicts.
+
+### Sequencer
+
+No canonical insertion, removal or reorder is approved. The 14-track journey and listener-protected `Transparency → When We Froze → Stardancer` order remain unchanged. The evaluation tested opening, middle, late internal and tail hypotheses; it did not privilege Stardancer as the only growth point.
+
+### Auditor
+
+**APPROVED.** The matching schema-v2 snapshot is internally consistent with the immutable request: runId, sourceCommit, mode, target and exploration receipt match; requested 4 = resolved 2 + unresolved 2; candidateCount 2 equals the two selected exact outcomes; and no stale candidate, substitution or duplicate entered evaluation. Both PARKED verdicts separately state volume fit, immediate transition, surrounding-run and long-form effects without inferring sonic facts from metadata. The two exact evaluated tracks are approved for local inspiration retention and the global doctrine-free utility ledger. The unresolved identities and release watches are approved only for target-local research state.
+
+### Publisher and durable state
+
+Automatic publishing remains enabled. STRANGE GAIT publication inputs do not change. The global Discovery Pool ledger is approved to append Lag — Frka Frka and GRCA. — AIRPLANE MODE, moving from 82 to 84 exact tracks; GitHub Actions must publish and verify that ledger before COMPLETE can be reported. No journey-map regeneration is required from the unchanged canonical ledger.
+
+### Discovery harvest
+
+- **Exact PARKED discoveries:** Lag — Frka Frka; GRCA. — AIRPLANE MODE.
+- **Unresolved exact-track research leads:** Super Nova — Alien Abduction; Leonardo (IT) — Breaking Point Memories.
+- **Release watches:** HVL — `Formation`; Obeka — `A World No More Remixed`. Both supply useful current catalogue directions but only release-level evidence for this run.
+- **Set directions:** `Different worlds, continuous intent` now includes GRCA.'s exact polymetric adjacent-world lead, Super Nova's unresolved electro-to-techno transformation and the HVL/Obeka watches. `Broken-rhythm afterword` now includes Frka Frka and the unresolved Leonardo lead without asserting a sequence or live-mixing edge.
+
 ## Run 58 — EXPLORE — current Livity rhythm mutations and overlooked UK bass/techno hybrids — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 57 left both publication ledgers unchanged and exactly verified, the generated 14-track map matched canonical state, and there was no active feedback discussion, triggered revisit, objective defect or unfinished repair. The scan deliberately moved away from every source lane used in Runs 53–57 and treated the full non-protected journey as available.

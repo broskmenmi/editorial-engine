@@ -114,6 +114,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Batu — `Go Deeper` — exact PARKED overlooked discovery; reviewer-described half-time kick, off-kilter snares and lopsided groove
 - Joe Milli — `The Less You Know` — exact PARKED current discovery; official precisely arranged hand-drum description; 130 BPM external listing
 - Roza Terenzi — `Stylish Tantrum` — exact resolved alternate and local research lead; reviewer-described half-time opening that ramps toward 150 BPM; not evaluated
+- GRCA. — `AIRPLANE MODE` — exact PARKED current discovery; reviewer-described early-grime details inside a rolling polymetric batida framework
+- Super Nova — `Alien Abduction` — unresolved overlooked-catalogue lead; official exact-track dub-infused electro-to-techno transformation
+- HVL — `Formation` — current release watch; rolling-breakbeat, dub-bass and acid-house framing is collection-level only
+- Obeka — `A World No More Remixed` — current remix-album watch across several polyrhythmic club vocabularies; no track-level verdict
 
 - Azu Tiwaline & Cinna Peyghamy — `Chrome Fever` — unresolved overlooked-catalogue lead; reviewer-described irregular pulse and off-grid syncopation disrupting four-on-the-floor motion
 - Danny Daze & Jonny From Space — `Tumbadora` — unresolved adjacent-world lead; reviewer-described complex polyrhythmic electro/techno with Miami Bass and Latin-rhythm context
@@ -147,6 +151,8 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
 - Marcal — Smoke From Respawn / Arapuca — September 11 release watch
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch
+- Lag — Frka Frka — exact PARKED discovery; reviewer-described jittery broken beat and escalating progression, with no proven transition
+- Leonardo (IT) — Breaking Point Memories — unresolved current lead; official breakbeat-territory description and 89 BPM external listing do not establish perceived pulse
 - the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
 
 **Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, polyrhythmic percussion, syncopation, rolling motion, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
