@@ -38,7 +38,7 @@ No canonical insertion, removal or reorder is approved. The 14-track journey and
 
 ### Publisher and durable state
 
-Automatic publishing remains enabled. STRANGE GAIT publication inputs do not change. The global Discovery Pool ledger is approved to append Lag — Frka Frka and GRCA. — AIRPLANE MODE, moving from 82 to 84 exact tracks; GitHub Actions must publish and verify that ledger before COMPLETE can be reported. No journey-map regeneration is required from the unchanged canonical ledger.
+Automatic publishing remains enabled. STRANGE GAIT publication inputs do not change. The global Discovery Pool ledger is approved to append Lag — Frka Frka and GRCA. — AIRPLANE MODE, moving from 82 to 84 exact tracks; GitHub Actions must publish and verify that ledger before COMPLETE can be reported. No journey-map regeneration is required from the unchanged canonical ledger. An initial status receipt parsed only 82 rows because a blank line separated rows 82 and 83; the continuity defect was repaired immediately without changing either approved identity.
 
 ### Discovery harvest
 
