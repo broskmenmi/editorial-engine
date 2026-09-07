@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-07T14:48:24Z-explore-55",
-  "sourceCommit": "86f7a25cf0cfa41940bf7c023d8d65446d18ea6f",
+  "runId": "2026-09-07T15:48:57Z-explore-56",
+  "sourceCommit": "ec4a043c38155d0c21a1fcc06c69b3e763d7683f",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
@@ -10,133 +10,47 @@
     "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement. Character changes and hard left turns may pass when transition, local-run and long-form intent are supported; selection-lens interest alone is insufficient."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T14:48:24Z",
+    "timestampUtc": "2026-09-07T15:48:57Z",
     "sourceWindows": [
-      "CURRENT RELEASES: https://answercoderequest.bandcamp.com/album/halo — all ten tracks from Answer Code Request's 2026-06-26 album screened; Refraction retained because the official exact-track album notes describe fractured downtempo micro beats, angular breakbeat fractals and finely detailed drum sequences that continually rearrange.",
-      "ADJACENT / EMERGING: https://30drecords.bandcamp.com/album/eines-ep-30deyes-006 — all four tracks from ABSIS's 2026-01-29 EP screened; Arada retained as the opening long-form specimen from a release explicitly built from fractured beats, broken rhythms and thick textures.",
-      "ADJACENT / EMERGING: https://noidrecords.bandcamp.com/album/out-of-boundaries — all four tracks from Bogotá producer Caotical Disordah's 2026-03-13 EP screened; EX01 retained as a concise specimen from a release explicitly combining broken rhythms, heavy bass and experimental texture.",
-      "OVERLOOKED CATALOGUE: https://mechatronica.bandcamp.com/album/disrupted-dialect — all six tracks from Second Storey's 2023-08-25 EP screened; Cold Snap retained from a release framed around speedy electro, bass music, IDM, bleeped machine funk, spotless broken rhythms and fractured forms.",
-      "ADDITIONAL WINDOWS: bounded 2026 Delsin, Ilian Tape, Short Span, Refraction, Saraw and independent-label result pages were screened. Picture's 2026 material was excluded because the identified exact track was explicitly unavailable on Spotify; recent Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes were not repeated."
+      "CURRENT / EMERGING: https://aedirecords.bandcamp.com/album/sisu-2 — all five tracks from Aedi Records' 2026-08-28 community-selected compilation screened; Dvärv — Trama retained as an exact current identity from an anonymous-submission, peer-voted release, without inventing track-specific sonic behaviour.",
+      "ADJACENT / EMERGING CATALOGUE: https://ra.co/reviews/35891 — all four Hassan Abou Alam originals and four remixes on 2023's Shalfata screened; Mawgood retained because the exact-track review describes a quavering bassline making a sudden turn into mangled synths and traditional folk drums.",
+      "OVERLOOKED TECHNO CATALOGUE: https://evodmusic.bandcamp.com/album/declinations — all four tracks on Evod Music's 2019 Declinations screened; Marcelus — Velvet retained because the official exact-track notes describe a bass sequence and offbeat drum pattern with ethnic percussion interrupted by synthetic incursions.",
+      "OVERLOOKED ADJACENT CATALOGUE: https://ra.co/reviews/35749 — all four tracks on DJ JM's 2023 Abnormal EP screened; the title track retained because the exact-track review describes needlepoint hats and snares, apparent speed changes and unusual synth events that remain controlled rather than chaotic.",
+      "ADDITIONAL WINDOWS: bounded September 4 and August 28 2026 Bandcamp result windows across Planet Rhythm, Circular Limited, OBSCUUR, Darknet, Major Records and several independent labels were screened. Major Records was not repeated because brenner's release was already mined; recent Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes were excluded."
     ],
-    "approximateInspectedScope": "Approximately 39 named tracks across ten current, adjacent and catalogue release/result windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 37 named tracks across eleven current, adjacent and catalogue release/result windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
       "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded.",
       "The two protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "Other tracks from the four selected releases were screened but ranked below the four leads for exact-track or representative structural relevance; no artist, label, texture, novelty or role quota was used.",
+      "Other tracks from the four selected releases were screened but ranked below the four leads for exact-track evidence or representative value; no artist, label, texture, novelty or role quota was used.",
       "No lead was promoted for recency, artist reputation, genre, title, supplied Spotify identity or assumed BPM. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Answer Code Request — Refraction: current exact-track label notes describe fractured downtempo micro beats, angular breakbeat fractals and drum sequences continually forming new arrangements; a retailer reports 93 BPM, which is metadata evidence only.",
-      "2. ABSIS — Arada: emerging 2026 opening track with an exact public Spotify identity; release-level notes describe fractured beats, broken rhythms and thick textures, but do not distinguish Arada's own behaviour.",
-      "3. Caotical Disordah — EX01: emerging Bogotá release specimen from an EP explicitly joining broken rhythms, heavy bass and experimental textures; exact identity and track-specific behaviour require resolution.",
-      "4. Second Storey — Cold Snap: overlooked 2023 catalogue specimen from a release explicitly joining speedy electro, bass, IDM, machine funk and spotless broken rhythms; exact identity and track-specific behaviour require resolution."
+      "1. Marcelus — Velvet: exact-track official notes describe an offbeat drum pattern interacting with bass and percussion, with synthetic interruptions; a strong overlooked structural lead.",
+      "2. Hassan Abou Alam — Mawgood: exact-track review describes a sudden structural turn from quavering bassline into mangled synths and traditional folk drums; an adjacent selection-lens lead.",
+      "3. DJ JM — Abnormal: exact-track review describes apparent speed changes, sharpened percussion and unusual synth events held under control; a conspicuous-turn catalogue lead.",
+      "4. Dvärv — Trama: current 2026 community-selected track from a peer-voted deep/hypnotic techno compilation; exact identity is useful, but track-specific behaviour is unknown."
     ]
   },
   "leads": [
     {
-      "artist": "Answer Code Request",
-      "track": "Refraction",
-      "album": "Halo",
-      "releaseDate": "2026-06-26",
-      "bpm": 93,
-      "bpmSource": "https://www.decks.de/track/answer_code_request-halo/cqo-po",
-      "discoverySource": "https://answercoderequest.bandcamp.com/album/halo",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Pfirter — Marauder as a possible new opening passage",
-          "followingUri": "spotify:track:4nDoDIaXBX2faoNWOwM4le",
-          "candidateBpm": 93,
-          "outgoingBpm": 136,
-          "purpose": "Test whether an explicitly fractured downtempo entrance makes the eventual canonical opener feel intentional; the large numeric difference is evidence, not proof of perceived pulse or incompatibility."
-        },
-        {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "candidateBpm": 93,
-          "outgoingBpm": 137,
-          "purpose": "Test whether a conspicuous downtempo fracture creates a purposeful structural reset before the existing Capa → Thick to Handle redirection; do not infer half-time relation."
-        }
-      ],
-      "fitHypothesis": "The official Halo notes identify Refraction as fractured, downtempo and breakbeat-derived, with finely detailed drum sequences continually evolving into new arrangements. This is unusually direct selection-lens evidence, but does not establish either proposed handoff or a long-form need.",
-      "evidence": {
-        "measured": [
-          "official Bandcamp duration 6:18",
-          "official release date 2026-06-26",
-          "retailer reports 93 BPM; resolver must verify exact Spotify identity and may return no tempo"
-        ],
-        "attributedDescription": "Delsin/artist album notes explicitly group Refraction with fractured downtempo micro beats, angular breakbeat fractals and finely detailed drum sequences constantly evolving into new arrangements. This is attributed label language, not heard or measured behaviour.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A large rhythmic-character reset can be purposeful at an opening or internal boundary, but a tempo number and structural prose cannot establish perceived pulse, attention trajectory or transition quality.",
-        "editorialInterpretation": "Strong volume-fit hypothesis and credible conspicuous-left-turn options; immediate, local-run and long-form effects remain unproven."
-      }
-    },
-    {
-      "artist": "ABSIS",
-      "track": "Arada",
-      "album": "Eines EP",
-      "releaseDate": "2026-01-29",
-      "spotifyTrackId": "6wU2juRbHY8QGuBhIE8nbd",
+      "artist": "Marcelus",
+      "track": "Velvet",
+      "album": "Declinations",
+      "releaseDate": "2019-03-25",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://30drecords.bandcamp.com/album/eines-ep-30deyes-006",
+      "discoverySource": "https://evodmusic.bandcamp.com/album/declinations",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6XECgWH0bNGJUT9Mx7yoZ4",
+          "incomingBpm": 137,
           "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test a long-form fractured-beat stage before the existing rhythmic redirection, while treating the EP description as release-level rather than exact-track proof."
-        },
-        {
-          "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": 139,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether the release's broken-rhythm language strengthens this late-middle run or simply duplicates its existing structural argument."
-        }
-      ],
-      "fitHypothesis": "30D describes the four-track EP as fractured-beat techno using broken rhythms and thick textures rather than familiar broken-beat tropes. Arada is a representative lead, not yet supported by exact-track prose.",
-      "evidence": {
-        "measured": [
-          "official Bandcamp duration 7:59",
-          "official release date 2026-01-29",
-          "public Spotify result identifies track ID 6wU2juRbHY8QGuBhIE8nbd; resolver must verify",
-          "candidate BPM unknown before resolver; no tempo inference made"
-        ],
-        "attributedDescription": "30D's release-level notes describe fractured beats, techno pulse, broken rhythms and thick textures across all four tracks. They do not distinguish Arada's individual structure.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A sustained broken-rhythm stage may deepen an existing redirection, but representative release language cannot prove the exact track's handoffs or whether another eight-minute stage is warranted.",
-        "editorialInterpretation": "Promising emerging-lead fit, with materially weaker exact-track evidence than Refraction."
-      }
-    },
-    {
-      "artist": "Caotical Disordah",
-      "track": "EX01",
-      "album": "Out Of Boundaries",
-      "releaseDate": "2026-03-13",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://noidrecords.bandcamp.com/album/out-of-boundaries",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between The Advent — The Witching Hour and Rene Wise — Cave",
-          "precedingUri": "spotify:track:6nS6zi7MIJTIilZqc84kO5",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": 136,
-          "candidateBpm": null,
-          "outgoingBpm": 134,
-          "purpose": "Test a concise broken-rhythm disruption early in the journey, while respecting prior listener sensitivity to attention cost."
+          "outgoingBpm": 138,
+          "purpose": "Test whether the source-described offbeat drum pattern and synthetic interruptions deepen the existing rhythmic redirection without merely duplicating it."
         },
         {
           "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
@@ -145,31 +59,103 @@
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 138,
-          "purpose": "Test whether another compact experimental form clarifies or overcrowds the newly expanded late-middle passage."
+          "purpose": "Test whether a different offbeat-percussion language creates a purposeful continuation after Drummz or overcrowds the late-middle run."
         }
       ],
-      "fitHypothesis": "No.Identity describes the EP as combining broken rhythms, heavy bass and experimental textures across four concise tracks. EX01 is an emerging-scene specimen; the source does not establish its individual rhythmic behaviour.",
+      "fitHypothesis": "The official exact-track notes identify bass and an offbeat drum pattern interacting with percussion and intermittent synthetic incursions. This directly supports structural interest, but does not establish either handoff or a long-form need.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 2:58",
-          "official release date 2026-03-13",
-          "candidate BPM and Spotify identity unknown before resolver; no tempo inference made"
-        ],
-        "attributedDescription": "No.Identity's release-level notes describe broken rhythms, heavy bass and experimental textures across the EP. This is label language and is not exact-track or heard evidence.",
+        "measured": ["official Bandcamp duration 5:59", "official release date 2019-03-25", "candidate BPM and Spotify identity unknown before resolver"],
+        "attributedDescription": "Evod Music's exact-track notes describe bass and an offbeat drum pattern playing with ethnic percussion, interrupted at times by synthetic incursions.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A concise disruption can create a deliberate turn, but brevity and release framing do not prove transition, local-run gain or a distinct canonical job.",
-        "editorialInterpretation": "Useful emerging research lead whose exact identity and exact-track case must be resolved before any verdict."
+        "craftConvention": "An offbeat pattern and interruptions can create structural distinction, but prose cannot prove perceived pulse, transition quality or local-run gain.",
+        "editorialInterpretation": "Strong overlooked-catalogue fit hypothesis with two plausible internal regions; all four canonical scales remain to be tested."
       }
     },
     {
-      "artist": "Second Storey",
-      "track": "Cold Snap",
-      "album": "Disrupted Dialect",
-      "releaseDate": "2023-08-25",
+      "artist": "Hassan Abou Alam",
+      "track": "Mawgood",
+      "album": "Shalfata",
+      "releaseDate": "2023-12",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://mechatronica.bandcamp.com/album/disrupted-dialect",
+      "discoverySource": "https://ra.co/reviews/35891",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Before Pfirter — Marauder as a possible new opening event",
+          "followingUri": "spotify:track:4nDoDIaXBX2faoNWOwM4le",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test whether its source-described sudden internal turn can establish a deliberately unstable entrance before the current opener."
+        },
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test a conspicuous structural turn before the existing Capa → Thick to Handle redirection without assuming it must be smoothed away."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor's exact-track description identifies a sudden turn from quavering bassline into a breakdown of mangled synths and traditional folk drums. That is direct selection-lens evidence, not transition proof.",
+      "evidence": {
+        "measured": ["RA reports December 2023 release", "candidate BPM and Spotify identity unknown before resolver"],
+        "attributedDescription": "Resident Advisor describes Mawgood as playing up a quavering bassline before a sudden turn into mangled synths and traditional folk drums.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A conspicuous internal turn may establish intent at an opening or mid-journey boundary, but review prose cannot establish physical scale, phrasing or neighbour response.",
+        "editorialInterpretation": "High selection-lens interest and a credible different-worlds hypothesis; placement and long-form effect remain unproven."
+      }
+    },
+    {
+      "artist": "DJ JM",
+      "track": "Abnormal",
+      "album": "Abnormal",
+      "releaseDate": "2023-09",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/35749",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test whether the source-described apparent speed changes and controlled irregularity sharpen the late-middle turn or make that run over-articulated."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:5UQPy1aGLyNIPGNxN7lfIz",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test the unprotected boundary before the protected trio as a conspicuous but controlled change; do not infer energy or mixability."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor's exact-track review describes sharpened percussion, a sensation of changing speed and unusual synth events, while emphasizing that the construction remains controlled. This supports structural freedom, not sequence necessity.",
+      "evidence": {
+        "measured": ["RA reports September 2023 release", "candidate BPM and Spotify identity unknown before resolver"],
+        "attributedDescription": "Resident Advisor describes Abnormal's hats and snares as sharpened, the track as feeling like it changes speed, and synths arriving in odd events while the whole remains controlled.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Controlled irregularity can support a deliberate left turn, but a review cannot prove immediate handoffs, attention cost or long-form improvement.",
+        "editorialInterpretation": "Strong exact-track selection-lens case with two plausible late-journey placements; neither is established."
+      }
+    },
+    {
+      "artist": "Dvärv",
+      "track": "Trama",
+      "album": "Sisu",
+      "releaseDate": "2026-08-28",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://aedirecords.bandcamp.com/track/trama-2",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -179,28 +165,24 @@
           "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test an electro/IDM/machine-funk language as a deliberate early character change, without assuming the release-level speed claim determines perceived energy."
+          "purpose": "Use this as a neutral whole-journey test for a current community-selected track; exact sonic behaviour must not be inferred from the release tags."
         },
         {
           "position": "After Len Faki — Stardancer as a possible new tail passage",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
           "incomingBpm": 137,
           "candidateBpm": null,
-          "purpose": "Test whether an overlooked fractured-form track opens a purposeful next world; tail placement remains one option, not the default."
+          "purpose": "Keep the tail available as one lawful option while refusing to make it the default."
         }
       ],
-      "fitHypothesis": "Mechatronica frames the release around speedy electro, bass music, IDM, bleeped machine funk, spotless broken rhythms and fractured forms. Cold Snap is a representative overlooked-catalogue lead, without exact-track prose.",
+      "fitHypothesis": "Trama is an exact current track on a community-curated deep/hypnotic techno compilation, but the source gives no track-specific sonic or structural description. Resolution may establish identity only, not musical fit.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 5:17",
-          "official release date 2023-08-25",
-          "candidate BPM and Spotify identity unknown before resolver; no tempo inference made"
-        ],
-        "attributedDescription": "Mechatronica's release-level notes describe the EP as playful, rattling machine funk using spotless broken rhythms and fractured forms. They do not isolate Cold Snap.",
+        "measured": ["official Bandcamp duration 5:57", "official release date 2026-08-28", "candidate BPM and Spotify identity unknown before resolver"],
+        "attributedDescription": "Aedi Records says Sisu was selected anonymously by its producer community; this is release provenance, not a description of Trama.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A distinct machine-funk language can support a conspicuous turn, but broad release framing does not prove the exact track's transition or long-form purpose.",
-        "editorialInterpretation": "Credible overlooked-catalogue research lead, pending exact resolution and track-specific evidence."
+        "craftConvention": "Community selection and genre tags may justify inspection but cannot justify admission or any transition claim.",
+        "editorialInterpretation": "Honest current/emerging lead with insufficient track-specific evidence; exact resolution is still useful for research."
       }
     }
   ]
