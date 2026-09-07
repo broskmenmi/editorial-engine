@@ -46,7 +46,7 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
-- Rene Wise — Cave — discovery pool / TRIGGERED REVISIT
+- Rene Wise — Cave — canonical Track 3 (provisional; resolved from revisit in run 8)
 - Moving Pressure catalogue
 - restrained, body-first tools around 132–138 BPM as search territory only
 
@@ -60,7 +60,7 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
-- Steve Rachmad — Ostinato 2.0 — discovery pool / TRIGGERED REVISIT
+- Steve Rachmad — Ostinato 2.0 — PARKED REVISIT after run 8; inspiration only
 - `TECH040 - INTRO: Designated by Nastia`
 - adjacent tracks whose own track-level evidence supports restrained pressure
 

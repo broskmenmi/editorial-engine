@@ -26,7 +26,7 @@ Show:
 
 ## Detailed Site
 
-No detailed Site is published at bootstrap. `journey-map.json` must report `NOT_PUBLISHED` until an actual read-only target exists. Never invent or borrow the GROOVE OVER NOISE Site URL.
+Published as a subsection of the unified read-only site: https://broskmenmi.github.io/editorial-engine/. Both playlists share this root URL and each loads its own journey-map.json. Do not recreate a separate STRANGE GAIT site. The story vocabulary is optional visualization language, never a mandatory sequencing progression.
 
 ## Visual identity
 

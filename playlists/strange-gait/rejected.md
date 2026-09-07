@@ -20,7 +20,7 @@ These old verdicts are historical evidence, but their stated reasoning depended 
 
 | Artist | Track | Superseded reason | Status |
 |---|---|---|---|
-| Steve Rachmad | Ostinato 2.0 | Previously rejected for Track 2 because compilation-level evidence could not prove one restrained energy/atmosphere envelope with Marauder. Same-room proof is no longer a universal admission gate. | Reopened in `revisit.md` — TRIGGERED; exact identity resolved as an unselected alternate in doctrine-repair run 7 |
-| Mitra | Hush | Previously rejected because warm propulsion was clearer than a distinct STRANGE GAIT gait deformation. The revised constitution no longer requires each track to demonstrate a distinct rhythmic mechanism and does not treat warmth as disqualifying. | Reopened in `revisit.md` — TRIGGERED for the changed Track-3 context after repair-run evaluation |
+| Steve Rachmad | Ostinato 2.0 | Previously rejected for Track 2 because compilation-level evidence could not prove one restrained energy/atmosphere envelope with Marauder. Same-room proof is no longer a universal admission gate. | Historically reopened in run 7; selected/evaluated in run 8 and PARKED. See restored revisit entry; no current trigger. |
+| Mitra | Hush | Previously rejected because warm propulsion was clearer than a distinct STRANGE GAIT gait deformation. The revised constitution no longer requires each track to demonstrate a distinct rhythmic mechanism and does not treat warmth as disqualifying. | Historically reopened for Track 3; selected/evaluated in run 8 and PARKED. See restored revisit entry; no current trigger. |
 
 A superseded rejection is not an ADD. It simply means the candidate may be evaluated again under the current doctrine.

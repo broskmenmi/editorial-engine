@@ -40,7 +40,7 @@ The task prompt must:
 19. Obtain explicit approval before a complaint repair changes neighbouring or additional tracks.
 20. Never put listening tasks in `MANUAL ACTION`; reserve it for unavoidable technical steps.
 21. Never use the ChatGPT Spotify connector for playlist search, creation, editing, or publication.
-22. Let GitHub Actions publish Spotify and generate the journey map.
+22. Let GitHub Actions generate the target journey map. Spotify publication requires a separate explicit user request and a manual dispatch selecting only that playlist; daily/ad-hoc editorial runs never publish Spotify.
 23. Read `spotify-status.json` for publication status and never infer success.
 24. Read `journey-map.json` and append the current compact SVG after `EDITORIAL NOTE` without adding a sixth numbered section. Then follow the target playlist's mandatory unnumbered end-of-run analysis contract when present.
 25. Read `audio-evidence.md`, `audio-evidence.json`, and `live-mixing.md`.
@@ -73,7 +73,7 @@ Freeze one immutable lead request and its one matching terminal candidate snapsh
 
 After Auditor approval, persist one batched editorial commit only when durable editorial state changed, such as the ledger, rejected or revisit decisions, listener-review state, substantive notes or annotations, audio evidence, or live-mixing state. A scan timestamp, repeated no-change result, or appended nothing-changed record alone must not create an editorial commit.
 
-Let GitHub Actions publish Spotify and generate the journey map. Read spotify-status.json and report COMPLETE only after exact verification. Follow automation.md's five-section response format, include the target playlist's published detailed-site URL from its automation contract or journey-map.json, and append the current generated journey-map SVG after EDITORIAL NOTE. If the compact map is stale, write Journey map updating.
+Let GitHub Actions generate the target journey map. Spotify publication requires a separate explicit user request and a manual dispatch selecting only that playlist; daily/ad-hoc editorial runs never publish Spotify. Read spotify-status.json as timestamped last-publication evidence, not today's live verification. Report NOT PUBLISHED THIS RUN when publication was not explicitly requested. Follow automation.md's five-section response format, include the target playlist's published detailed-site URL from its automation contract or journey-map.json, and append the current generated journey-map SVG after EDITORIAL NOTE. If the compact map is stale, write Journey map updating.
 
 After the map, follow the target automation.md's end-of-run analysis contract. When it requires an unnumbered RUN ANALYSIS, always include it. Base it on the Auditor's evidence packet and persisted final state; identify the exact run and funnel, give run-specific observations, challenge the strongest conclusion, state what the result proves and does not prove, apply outcome-specific scrutiny, and compare only with genuinely comparable recent evidence. Recommend a next action only when an evidenced defect or opportunity exists. Technical failure is editorially inconclusive, and unexercised audio or live-mixing capability is NOT TESTED. The analysis must not rerun Scout, mutate frozen artifacts, revise audited decisions, or create an analysis-only commit.
 

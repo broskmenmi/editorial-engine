@@ -122,6 +122,14 @@ Lawful audio-derived measurements and model outputs are stored under the target 
 
 Live mixing is a separate performance layer governed by `live-mixing.md`. Its transition graph may offer several exits from a track, but it must not alter the canonical ordered-listening ledger, Spotify order, journey annotations, or frozen review regions unless the user separately authorizes an editorial change.
 
+## Spotify publication policy
+
+Daily and ad-hoc editorial runs do not publish Spotify. Audited GitHub ledger changes and generated maps may advance independently of Spotify. Policy-driven divergence is not an objective repair trigger.
+
+`publish-spotify.yml` is manual-only and requires an explicitly authorized target playlist. Never restore automatic push publication, invoke the publisher directly during an editorial run, or publish all playlists when working on one. A separate explicit user request to publish authorizes the selected target only.
+
+Report that no publication occurred this run and distinguish the timestamped last verified `spotify-status.json` from a current live read-back. Never overwrite status simply to mark a skipped publication.
+
 ## Journey-map lifecycle
 
 The playlist visualization has two layers:

@@ -1,28 +1,30 @@
 name: Publish Spotify playlists
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "playlists/**/ledger.md"
-      - "playlists/**/spotify.json"
-      - "playlists/**/cover.jpg.base64"
-      - "apps/spotify-publisher/**"
-      - ".github/workflows/publish-spotify.yml"
   workflow_dispatch:
+    inputs:
+      playlist_dir:
+        description: Explicitly authorized playlist to publish
+        required: true
+        type: choice
+        options:
+          - playlists/strange-gait
+          - playlists/groove-over-noise
 
 permissions:
   contents: write
 
 concurrency:
   group: spotify-publisher-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   publish:
+    if: github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
+      PLAYLIST_DIR: ${{ inputs.playlist_dir }}
       SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
       SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
     steps:
@@ -40,27 +42,19 @@ jobs:
         working-directory: apps/spotify-publisher
         run: npm test
 
-      - name: Publish and verify configured playlists
+      - name: Publish and verify selected playlist
         shell: bash
         run: |
           set -euo pipefail
-          found=0
-          while IFS= read -r -d '' playlist_dir; do
-            if [[ ! -f "$playlist_dir/ledger.md" || ! -f "$playlist_dir/spotify.json" ]]; then
-              continue
-            fi
-            found=1
-            ledger_commit="$(git log -1 --format=%H -- "$playlist_dir/ledger.md")"
-            echo "Publishing $playlist_dir from ledger commit $ledger_commit"
-            LEDGER_COMMIT="$ledger_commit" node apps/spotify-publisher/src/index.js \
-              --playlist-dir "$playlist_dir" \
-              --allow-empty
-          done < <(find playlists -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
-
-          if [[ "$found" -eq 0 ]]; then
-            echo "No configured playlist directories found."
-            exit 1
-          fi
+          case "$PLAYLIST_DIR" in
+            playlists/strange-gait|playlists/groove-over-noise) ;;
+            *) echo "Invalid publication target"; exit 1 ;;
+          esac
+          test -f "$PLAYLIST_DIR/ledger.md"
+          test -f "$PLAYLIST_DIR/spotify.json"
+          ledger_commit="$(git log -1 --format=%H -- "$PLAYLIST_DIR/ledger.md")"
+          LEDGER_COMMIT="$ledger_commit" node apps/spotify-publisher/src/index.js \
+            --playlist-dir "$PLAYLIST_DIR"
 
       - name: Persist playlist identities and verified statuses
         if: always()
@@ -69,11 +63,11 @@ jobs:
           set -euo pipefail
 
           changed=()
-          while IFS= read -r -d '' file; do
+          for file in "$PLAYLIST_DIR/spotify.json" "$PLAYLIST_DIR/spotify-status.json"; do
             if ! git diff --quiet -- "$file"; then
               changed+=("$file")
             fi
-          done < <(find playlists -mindepth 2 -maxdepth 2 -type f \( -name spotify.json -o -name spotify-status.json \) -print0 | sort -z)
+          done
 
           if [[ "${#changed[@]}" -eq 0 ]]; then
             exit 0
@@ -92,10 +86,10 @@ jobs:
             git fetch origin main
 
             if git diff --name-only "$GITHUB_SHA"..origin/main -- \
-              ':(glob)playlists/*/ledger.md' \
-              ':(glob)playlists/*/spotify.json' \
-              ':(glob)playlists/*/cover.jpg.base64' \
-              apps/spotify-publisher | grep -q .; then
+              "$PLAYLIST_DIR/ledger.md" \
+              "$PLAYLIST_DIR/spotify.json" \
+              "$PLAYLIST_DIR/cover.jpg.base64" \
+              .github/workflows/publish-spotify.yml apps/spotify-publisher | grep -q .; then
               echo "Newer publication inputs exist; skipping stale Spotify status."
               exit 0
             fi

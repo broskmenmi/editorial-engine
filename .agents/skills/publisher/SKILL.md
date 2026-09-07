@@ -5,6 +5,10 @@ description: Report exact Spotify publication status and append the current comp
 
 # Publisher
 
+## Publication policy
+
+Follow AGENTS.md: editorial runs do not publish Spotify. Report `NOT PUBLISHED THIS RUN — automatic publication disabled`, plus the timestamped last verified status when useful. Intentional divergence from the ledger is pending manual publication, not an actionable repair. Do not invoke publication or refresh status during daily checks. Only a separate explicit request permits manual publication for one selected playlist.
+
 ## Publication boundary
 
 Spotify publication is performed by `.github/workflows/publish-spotify.yml` using `apps/spotify-publisher/` and the Spotify Web API. Journey-map generation is separate and uses `.github/workflows/build-journey-map.yml` plus `apps/journey-map/`.

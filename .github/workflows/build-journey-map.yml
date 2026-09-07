@@ -11,19 +11,28 @@ on:
       - "apps/journey-map/**"
       - ".github/workflows/build-journey-map.yml"
   workflow_dispatch:
+    inputs:
+      playlist_dir:
+        description: Playlist map to rebuild
+        required: true
+        type: choice
+        options:
+          - playlists/strange-gait
+          - playlists/groove-over-noise
 
 permissions:
   contents: write
 
 concurrency:
   group: journey-map-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
+      REQUESTED_PLAYLIST_DIR: ${{ inputs.playlist_dir }}
       SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
       SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
     steps:
@@ -37,11 +46,31 @@ jobs:
         with:
           node-version: 24
 
+      - name: Select affected playlists
+        shell: bash
+        run: |
+          set -euo pipefail
+          targets="$RUNNER_TEMP/journey-map-targets.txt"
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            case "$REQUESTED_PLAYLIST_DIR" in
+              playlists/strange-gait|playlists/groove-over-noise) ;;
+              *) echo "Invalid map target"; exit 1 ;;
+            esac
+            printf '%s\n' "$REQUESTED_PLAYLIST_DIR" > "$targets"
+          else
+            git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" -- \
+              ':(glob)playlists/*/ledger.md' \
+              ':(glob)playlists/*/journey-annotations.json' \
+              ':(glob)playlists/*/under-review.md' \
+              ':(glob)playlists/*/spotify.json' \
+              | sed 's|/[^/]*$||' | sort -u > "$targets"
+          fi
+
       - name: Build non-empty journey maps
         shell: bash
         run: |
           set -euo pipefail
-          while IFS= read -r -d '' playlist_dir; do
+          while IFS= read -r playlist_dir; do
             ledger="$playlist_dir/ledger.md"
             annotations="$playlist_dir/journey-annotations.json"
             if [[ ! -f "$ledger" || ! -f "$annotations" ]]; then
@@ -56,18 +85,20 @@ jobs:
               apps/journey-map/src/index.js \
               --playlist-dir "$playlist_dir"
             node apps/journey-map/src/normalize-playlist.js "$playlist_dir"
-          done < <(find playlists -mindepth 1 -maxdepth 1 -type d -print0 | sort -z)
+          done < "$RUNNER_TEMP/journey-map-targets.txt"
 
       - name: Persist generated maps
         shell: bash
         run: |
           set -euo pipefail
           changed=()
-          while IFS= read -r -d '' file; do
-            if [[ -n "$(git status --porcelain -- "$file")" ]]; then
-              changed+=("$file")
-            fi
-          done < <(find playlists -mindepth 2 -maxdepth 2 -type f \( -name journey-map.json -o -name journey-map.svg \) -print0 | sort -z)
+          while IFS= read -r playlist_dir; do
+            for file in "$playlist_dir/journey-map.json" "$playlist_dir/journey-map.svg"; do
+              if [[ -n "$(git status --porcelain -- "$file")" ]]; then
+                changed+=("$file")
+              fi
+            done
+          done < "$RUNNER_TEMP/journey-map-targets.txt"
 
           if [[ "${#changed[@]}" -eq 0 ]]; then
             exit 0

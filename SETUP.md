@@ -22,7 +22,7 @@ GitHub access is required for reading instructions and maintaining the editorial
 
 Verify access by asking ChatGPT to read `AGENTS.md` from the repository.
 
-The ChatGPT Spotify connector is optional for track discovery only. It must not create, edit, search for, or verify the canonical playlist.
+Use the immutable schema-v2 scout request and GitHub Action lifecycle for canonical track identity resolution. The ChatGPT Spotify connector must not substitute for this lifecycle or publish/verify the canonical playlist.
 
 ## 3. Playlist definition
 
@@ -109,7 +109,7 @@ The authorization page uses Authorization Code with PKCE and does not require a 
 
 ## 5. Spotify publication
 
-`.github/workflows/publish-spotify.yml` runs the exact Spotify Web API publisher.
+`.github/workflows/publish-spotify.yml` is manual-only. After an explicit user publication request, dispatch it on main and select the one authorized playlist directory. Daily editorial checks never publish Spotify; ledger changes do not trigger publication. Empty-ledger clearing requires separate explicit handling and is not enabled by this workflow.
 
 The publisher:
 
@@ -137,11 +137,11 @@ It:
 3. falls back safely when duration metadata is unavailable;
 4. keeps editorial story height separate from measured BPM;
 5. writes `journey-map.json` and `journey-map.svg`;
-6. commits only generated outputs.
+6. commits only generated outputs for affected playlist directories. A runtime-only change requires an explicit target map dispatch; it must not rewrite every playlist automatically.
 
 The compact SVG is appended after `EDITORIAL NOTE` in each editorial-run response. It does not create a sixth numbered section.
 
-The detailed interactive map is intentionally not deployed to a temporary replacement site. `sites-prompt.md` is ready for ChatGPT Sites when Sites is available to the user's region and creation surface.
+The detailed interactive map is published at https://broskmenmi.github.io/editorial-engine/. Each playlist is a subsection using its own generated journey-map.json; keep one canonical root URL.
 
 ## 7. Create the recurring ChatGPT task
 
@@ -172,8 +172,8 @@ The task must:
 After both GitHub Actions secrets exist:
 
 1. open the repository's **Actions** tab;
-2. choose **Publish Spotify playlist** and run it;
-3. choose **Build playlist journey maps** and run it if the target has a non-empty ledger and no map yet;
+2. only when publication is explicitly requested, choose **Publish Spotify playlists**, select the target playlist directory and run it;
+3. choose **Build playlist journey maps**, select the target playlist directory and run it if the target has a non-empty ledger and no map yet;
 4. verify that `spotify-status.json` becomes `COMPLETE`;
 5. verify `metadataVerified: true`, `coverConfigured: true`, and `coverPresent: true` for a production volume;
 6. verify that `journey-map.json` and `journey-map.svg` exist once the ledger is non-empty;

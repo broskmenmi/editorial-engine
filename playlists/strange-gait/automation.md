@@ -130,7 +130,9 @@ Do not impose:
 - universal BPM thresholds;
 - techno-purity rules.
 
-Preserve protected and frozen regions and listener-feedback scope.
+Preserve protected and frozen regions and listener-feedback scope. In particular, preserve Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer in that internal order. Only its two internal handoffs are listener-protected; Truth in Noise → Transparency remains unprotected.
+
+If a run produces an actionable REPAIR recommendation, execute that repair as the very next ad-hoc run before resuming EXPLORE. Do not create a separate repair-chain task.
 
 ## Persistence
 
@@ -144,11 +146,13 @@ Do not create telemetry-only commits.
 
 ## Spotify and map
 
-GitHub Actions publish only the canonical ledger and generate the canonical journey map.
+Daily and ad-hoc editorial runs do not update Spotify. They may persist audited canonical decisions to GitHub and let the map Action regenerate this playlist's map. Spotify publication is manual-only, through an explicitly authorized dispatch of `publish-spotify.yml` selecting `playlists/strange-gait`. Do not dispatch it during an editorial run, restore push publication, or invoke the publisher directly.
+
+GitHub's ledger and Spotify may intentionally diverge until publication is explicitly requested. That policy-driven divergence is not an actionable REPAIR trigger.
 
 `discovery-pool.md` and `set-ideas.md` are never publication inputs.
 
-Report Spotify COMPLETE only from exact `spotify-status.json` read-back.
+Report `NOT PUBLISHED THIS RUN — automatic publication disabled`. You may also report the last verified status and its timestamp from `spotify-status.json`, checking it against the current ledger fingerprint. Do not describe an old read-back as today's live verification or label intentional pending publication a technical failure.
 
 Never use the ChatGPT Spotify connector for canonical search, publication, or verification.
 

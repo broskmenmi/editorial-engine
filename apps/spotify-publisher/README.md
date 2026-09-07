@@ -31,7 +31,7 @@ The workflow `.github/workflows/deploy-pages.yml` deploys the `docs/` directory.
 
 ## GitHub Action publisher
 
-The workflow `.github/workflows/publish-spotify.yml` runs the publisher whenever an ordered ledger changes. It:
+The workflow `.github/workflows/publish-spotify.yml` runs only on an explicitly authorized manual dispatch on main, with one required playlist directory. Ledger changes do not publish Spotify, and editorial tasks must not dispatch this workflow. It rejects empty ledgers; clearing Spotify requires separate explicit authorization. It:
 
 1. reads exact Spotify track URIs from the ledger;
 2. loads the one persisted playlist ID;

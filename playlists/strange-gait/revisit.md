@@ -35,4 +35,13 @@
 | Mata Disk | Diffusion | spotify:track:2MK8BvPB66YlcllJcyvt9t | Strong swing/dub description; 70/140 BPM variance and exact handoff unresolved. | PARKED |
 | Sevish | Mystify | spotify:track:7sHN0QPVxD7NjkSCH6NTZi | Strong belonging, unsupported prior placement. | PARKED |
 
+| Steve Rachmad | Ostinato 2.0 | spotify:track:4vLdXJEHEdsTg9pm6S2VAh | Run 8 evaluated Track 3: exact identity/138 BPM, but only release-level sonic framing. Reopen only for materially new track-specific/lawful/listener evidence or a concrete changed placement need. | PARKED |
+| Mitra | Hush | spotify:track:6AG1Tv6tkPMYnA7xrB94KT | Run 8 evaluated Track 3: old warmth/novelty rejection superseded; insufficient track-specific placement evidence (137 BPM). Reopen only for materially new evidence or a concrete changed placement need. | PARKED |
+
+## Reconciled history — 2026-09-07
+
+Ostinato 2.0 and Hush were PARKED in repair run 8, documented at commit `be041bef8b9b446e7234ced60cfaeaf0ad6b13f7` and retained at `7fedb8d14dc15f7b9ba43aadd142abccc98d6b66`. Their rows were subsequently omitted, not resolved or admitted. Restored here without a new evaluation. The old TRIGGERED labels in rejected/set-idea state are superseded by those completed decisions.
+
+Rene Wise — Cave resolved to canonical Track 3 in run 8; Inigo Kennedy — The Witching Hour resolved to canonical Track 2 in run 7. Neither is an external revisit.
+
 No current TRIGGERED revisit. Next run EXPLORE.
