@@ -4,6 +4,8 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| Scalameriya | Aurifex Rex | spotify:track:2yN6VFWjkD5VZFxyZjXLq4 | Run 51: exact identity and exact-track glitched/stuttered-vocal/constant-build description support provisional belonging. BPM, bodily response, the Stardancer handoff and local/long-form effect remain unknown. | PARKED |
+| Shaun Moses | Nostalgia | spotify:track:0OzAhiqNvVpbYyRLm4ISV3 | Run 51: exact identity and exact-track Detroit-pad/kick-bass/cross-context description make it interesting, but volume fit, BPM, the Stardancer handoff and local/long-form contribution remain unknown. | PARKED |
 | D-Leria | Shark Attak | spotify:track:5tABEVUh6NsW49fLp6oOYt | Run 50: exact identity and exact-track percussion-centred/polyrhythmic/restraint description strongly support belonging. BPM, bodily response, the Stardancer handoff and local/long-form effect remain unknown; Spotify album/date variance is preserved. | PARKED |
 | Rene Wise | Dynamic | spotify:track:7MlbEOg0fEFcYLkKNDVhBV | Run 50: exact identity and exact-track rolling/subtle-disruption/evolving-tension description support belonging. BPM, the Stardancer handoff and local/long-form effect remain unknown; Spotify album/date variance is preserved. | PARKED |
 | 1morning | Untitled | spotify:track:7idn7TKy3tKPXjrhfNrwmC | Run 50: exact identity and exact-track rolling/tribal-infused/depth description support bodily and rhythmic interest. BPM, perceived pulse and the Stardancer transition remain unknown; Spotify album/date variance is preserved. | PARKED |

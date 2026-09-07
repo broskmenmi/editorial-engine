@@ -1,5 +1,47 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 51 — EXPLORE — 2026-09-07
+
+RunId: `2026-09-07T11:57:24Z-explore-51`. Request commit: `b0c88374a043cc75fe838ca6b5e5966b35af8a3d`; source commit: `6992ace08b52646b17c0aa7b573cd95957405b20`; snapshot commit: `151a542bd0244f984fe214810e597b31fd47a1eb`. Matching immutable terminal fingerprint `502e7eb1b0c01ddde34a1b94c36b81224c91eca8e2a6e83c121f7336dca7a4e9` validated with repository code and the full resolver test suite. Resolution was PARTIAL: 4 leads, 2 exact resolutions, 2 selected candidates, 2 unresolved identities, no warnings, duplicates or resolved alternates.
+
+**Pre-audit:** 12 unique canonical tracks; both listener-protected internal trio handoffs are intact; no active feedback discussion, TRIGGERED revisit, actionable objective defect or materially new revisit evidence. EXPLORE selected.
+
+**Fresh scan:** approximately 25 named tracks across Perc & Barbosa's One EP, Shaun Moses's Nostalgia, Batu & Donato Dozzy's Exhale, Scalameriya's Aurifex Rex and bounded current-result windows. The scan covered late-August releases, adjacent/emerging artists and overlooked late-2025 catalogue material. Metadata and attributed descriptions only; zero audio auditions. All canonical, active-rejection and untriggered-PARKED identities were excluded; Runs 49–50 material and sources were not recycled.
+
+**Funnel:** approximately 25 tracks → 4 ranked leads → 2 exact resolutions + 2 unresolved leads → 2 evaluated candidates → 0 ADD, 2 PARKED REVISIT. Perc & Barbosa — One and Batu & Donato Dozzy — Spiral each remained unresolved with exact resolver error `no exact Spotify title/artist search match in market SE`; neither was evaluated as a canonical candidate. Two exact retained candidates enter the global doctrine-free Discovery Pool, moving it from 68 to 70 ledger tracks.
+
+### Scalameriya — Aurifex Rex — PARKED REVISIT
+
+- Exact URI: `spotify:track:2yN6VFWjkD5VZFxyZjXLq4`; Aurifex Rex; released 2025-11-21; resolver duration 288358 ms (4:48); BPM unavailable.
+- **Volume fit:** BELONGS provisionally. Perc Trax's [exact-track description](https://perctrax.bandcamp.com/album/aurifex-rex) attributes a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but is label description rather than heard behaviour.
+- **Transition scale:** proposed Track 13 after Stardancer. The source-described development could continue forward intent, but BPM, perceived pulse, intensity, phrasing and the actual handoff are unknown. “Constantly builds” does not prove escalation or compatibility.
+- **Local-run scale:** Truth in Noise → Transparency → When We Froze → Stardancer → Aurifex Rex preserves the protected trio. The fifth element could extend structural pressure or overwrite the block's resolution; available evidence cannot distinguish those outcomes.
+- **Long-form scale:** it could open a compact stuttered-vocal corridor without demanding one sonic room. No evidence establishes that this is the useful next development rather than a conspicuous but accidental attachment.
+- **Evidence boundary:** identity, duration and date are metadata; vocal/build language is attributed label description; the post-trio continuation is editorial interpretation and craft convention. No candidate-specific listener or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition/audio evidence or a changed post-trio context supports this exact placement. No listening assignment.
+
+### Shaun Moses — Nostalgia — PARKED REVISIT
+
+- Exact URI: `spotify:track:0OzAhiqNvVpbYyRLm4ISV3`; Nostalgia; released 2026-08-07; resolver duration 318500 ms (5:19); BPM unavailable.
+- **Volume fit:** UNCERTAIN but genuinely interesting. Perc Trax's [exact-track description](https://perctrax.bandcamp.com/track/nostalgia) attributes deep Detroit-inspired pads and a solid kick/bass foundation, plus utility across early and peak-time contexts. Tracks need not advertise rhythmic novelty to belong, but broad flexibility is not itself proof of this volume's selection lens.
+- **Transition scale:** proposed Track 13 after Stardancer. A foundation-led redirection may be purposeful, yet BPM, perceived pulse, phrase relation, intensity and the exact handoff remain unknown. The label's cross-set claim cannot substitute for this transition.
+- **Local-run scale:** after the protected trio, Nostalgia could provide a stable reset or merely flatten the established character. The source does not establish its contribution to the surrounding five-track run.
+- **Long-form scale:** it offers a plausible production-world change without violating the doctrine, but no evidence shows that this particular turn develops the twelve-track journey.
+- **Evidence boundary:** identity, duration and date are metadata; pad/foundation/utility language is attributed label description; the reset rationale is editorial interpretation and craft convention. No candidate-specific listener or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition/audio evidence or a changed journey context supports a concrete placement and stronger volume fit. No listening assignment.
+
+**Unresolved leads:** Perc & Barbosa — One and Batu & Donato Dozzy — Spiral. Both have useful track-specific source descriptions, but the resolver returned `no exact Spotify title/artist search match in market SE` for each. Spiral's 107 BPM retailer listing is preserved only as metadata; no perceived-pulse or half/double-time relation was inferred. They remain research leads, not musical rejections or global-pool entries.
+
+**Sequencer/Auditor:** approve two PARKED decisions, two exact local/global discovery entries, two unresolved local research leads and enrichment of the existing Different worlds, continuous intent set direction. Veto both ADDs because immediate transition, surrounding-run and long-form evidence remain insufficient. Preserve all 12 canonical rows, annotations and listener-protected handoffs. No removal, movement, replacement or live-graph change. No actionable REPAIR recommendation; next lane remains EXPLORE.
+
+**Canonical order / tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Tehutis Law 139 → Fragments 140 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. *Transparency 143/107 conflict retained. Story roles remain interpretation.
+
+**Publication/map:** automatic publication is enabled. STRANGE GAIT publication inputs did not change; its last recorded verification remains COMPLETE 12/12 at 2026-09-06T19:12:18.429Z and is not a new live read-back. The global Discovery Pool ledger changes 68 → 70 and must be reported from its post-publication status. STRANGE GAIT's current map retains exact canonical URI order and the unified root site URL.
+
+**RUN ANALYSIS:** Fresh outward discovery, immutable resolution and two-candidate evaluation completed. Aurifex Rex supplied the clearer volume-fit case; Nostalgia offered the broader contextual-flexibility hypothesis. Neither supplied the missing Stardancer transition or long-form evidence. The strongest alternative explanation is that the evidence contract is conservative without lawful audio and may park useful conspicuous turns. This run proves two exact useful discoveries, preserves two unresolved source leads and protects listener-earned order; it does not prove either candidate transition fails or that STRANGE GAIT is complete.
+
+**Discovery harvest:** Aurifex Rex and Nostalgia retained as exact non-canonical tracks; One and Spiral retained only as unresolved research leads. The existing Different worlds, continuous intent direction now includes all four as unproven ingredients.
+
 ## Run 50 — EXPLORE — 2026-09-07
 
 RunId: `2026-09-07T10:52:25Z-explore-50`. Request commit: `3296ff84e1c803f15665e29ae7ab53a493fbd5f6`; source commit: `66bd7225e521d3ecd6745141d62e627aa5eae5fd`; snapshot commit: `77f1eea2bee60625a631eba7377af62a82eeb79d`. Matching immutable terminal fingerprint `ef2a06bccd6065d5f0903e5ab2844cc9144a1caec9ebb43f47c61b911fc41cbc` validated with repository code. Resolution was PARTIAL: 4 leads, 3 exact resolutions, 3 selected candidates, 1 unresolved identity, 3 packaging/date warnings, no duplicates or resolved alternates.

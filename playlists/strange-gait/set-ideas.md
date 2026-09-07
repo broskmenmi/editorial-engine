@@ -93,6 +93,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - ESTADO DE BIENESTAR — `Capítulo IV: La Fiesta Seria y Nuevas Formas de Tecnaco` — deliberately cross-vocabulary release research
 - Endemit — `Tessera Rubin` — calibrated pressure and contrasting emotional registers
 - James Ruskin — `Further Design (2026 Remaster)` — stripped-back linear techno reference
+- Scalameriya — `Aurifex Rex` — exact PARKED discovery; label-described stuttered-vocal constant build
+- Shaun Moses — `Nostalgia` — exact PARKED discovery; label-described Detroit pads over a kick/bass foundation
+- Perc & Barbosa — `One` — unresolved Spotify research lead; exact-track bass-heavy minimalist and dislocated-vocal description
+- Batu & Donato Dozzy — `Spiral` — unresolved Spotify research lead; reviewer-described acid, dub-percussion and dancehall-cadence hybrid
 
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
