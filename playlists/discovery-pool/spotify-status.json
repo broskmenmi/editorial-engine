@@ -1,0 +1,16 @@
+{
+  "status": "FAILED",
+  "playlistId": null,
+  "playlistUrl": null,
+  "ledgerCommit": "cc8edd1182cf45cadd84324a04e444b6cd2cc444",
+  "ledgerFingerprint": null,
+  "ledgerTrackCount": null,
+  "spotifyTrackCount": null,
+  "metadataVerified": false,
+  "coverConfigured": null,
+  "coverUploaded": false,
+  "coverPresent": false,
+  "verifiedAt": "2026-09-07T09:16:31.875Z",
+  "snapshotId": null,
+  "error": "Spotify API PUT /playlists/1a1HuQF55fFfVJS83qe4WV/images failed (400): {\"error\":{\"status\":400,\"message\":\"Invalid image payload\"}}"
+}
