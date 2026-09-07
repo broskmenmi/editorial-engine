@@ -1,5 +1,55 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 50 — EXPLORE — 2026-09-07
+
+RunId: `2026-09-07T10:52:25Z-explore-50`. Request commit: `3296ff84e1c803f15665e29ae7ab53a493fbd5f6`; source commit: `66bd7225e521d3ecd6745141d62e627aa5eae5fd`; snapshot commit: `77f1eea2bee60625a631eba7377af62a82eeb79d`. Matching immutable terminal fingerprint `ef2a06bccd6065d5f0903e5ab2844cc9144a1caec9ebb43f47c61b911fc41cbc` validated with repository code. Resolution was PARTIAL: 4 leads, 3 exact resolutions, 3 selected candidates, 1 unresolved identity, 3 packaging/date warnings, no duplicates or resolved alternates.
+
+**Pre-audit:** 12 unique canonical tracks; both listener-protected internal trio handoffs are intact; no active feedback discussion, TRIGGERED revisit, actionable objective defect or materially new revisit evidence. EXPLORE selected.
+
+**Fresh scan:** approximately 28 named tracks across The Third Room Curation 02, 03 and 06, KURIR's The Remedy EP, City Fly's Humming Birds EP and bounded current-result windows. The scan covered current releases, an adjacent/emerging curator network and overlooked 2014 catalogue material. Metadata and attributed descriptions only; zero audio auditions. All canonical, active-rejection and untriggered-PARKED identities were excluded; Run 49 material was not recycled.
+
+**Funnel:** approximately 28 tracks → 4 ranked leads → 3 exact resolutions + 1 unresolved lead → 3 evaluated candidates → 0 ADD, 3 PARKED REVISIT. Bartellow, Ugly Drums, Fred P — Humming Birds remained unresolved with exact resolver error `no exact Spotify title/artist search match in market SE` and was not evaluated as a candidate. Three exact retained candidates enter the global doctrine-free Discovery Pool, moving it from 65 to 68 ledger tracks.
+
+### D-Leria — Shark Attak — PARKED REVISIT
+
+- Exact URI: `spotify:track:5tABEVUh6NsW49fLp6oOYt`; Spotify duration 346182 ms (5:46); BPM unavailable. Exact title/artist matched with preserved variance: Bandcamp `Curation 06: GiGi FM`, 2026-08-07; Spotify `Curation Six: GiGi FM`, 2026-08-14.
+- **Volume fit:** BELONGS provisionally. The Third Room's [exact-track description](https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm) attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive. This is unusually relevant selection-lens evidence, not heard behaviour.
+- **Transition scale:** proposed Track 13 after Stardancer. A percussion-centred redirection could deliberately begin a new passage, but BPM, perceived pulse, intensity, phrasing and the actual handoff are unknown.
+- **Local-run scale:** Truth in Noise → Transparency → When We Froze → Stardancer → Shark Attak preserves the protected trio. Source prose cannot establish whether the fifth element extends the journey or feels appended.
+- **Long-form scale:** it could open a restrained percussion-led corridor, but no evidence proves that this is the useful next development rather than rhythmic novelty chosen on paper.
+- **Evidence boundary:** identity, duration and packaging are metadata; behavioural language is attributed label description; the post-trio pivot is editorial interpretation and craft convention. No candidate-specific listener or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition/audio evidence or a changed post-trio context supports this exact placement. No listening assignment.
+
+### Rene Wise — Dynamic — PARKED REVISIT
+
+- Exact URI: `spotify:track:7MlbEOg0fEFcYLkKNDVhBV`; Spotify duration 318861 ms (5:19); BPM unavailable. Exact title/artist matched with preserved variance: Bandcamp `Curation 02: D.Dan`, 2026-08-07; Spotify `Curation Two: D.Dan`, 2026-08-14.
+- **Volume fit:** BELONGS provisionally. The Third Room's [exact-track description](https://thethirdroom.bandcamp.com/album/curation-02-d-dan) calls it a fluid, rolling tool shaped by subtle disruptions and evolving tension. This supports rhythmic/structural freedom without requiring novelty.
+- **Transition scale:** proposed Track 13 after Stardancer. Descriptive continuity makes the slot plausible, but BPM, actual pulse, phrasing, intensity relation and the handoff remain unknown; Rene Wise already appearing earlier in the ledger is neither a reason to reject nor admit.
+- **Local-run scale:** the source suggests a controlled continuation, but cannot show whether Dynamic deepens the ending run or merely repeats an idea without purpose.
+- **Long-form scale:** it could extend tension after the protected block and leave several exits open. No lawful evidence establishes that effect in this sequence.
+- **Evidence boundary:** identity, duration and packaging are metadata; rolling/disruption/tension language is attributed label description; continuation is editorial interpretation. No candidate-specific listener or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition/audio evidence or a changed post-trio context supports a concrete placement. No listening assignment.
+
+### 1morning — Untitled — PARKED REVISIT
+
+- Exact URI: `spotify:track:7idn7TKy3tKPXjrhfNrwmC`; Spotify duration 331941 ms (5:32); BPM unavailable. Exact title/artist matched with preserved variance: Bandcamp `Curation 03: Verraco`, 2026-08-07; Spotify `Curation Three: Verraco`, 2026-08-14.
+- **Volume fit:** BELONGS provisionally. The Third Room's [exact-track description](https://thethirdroom.bandcamp.com/album/curation-03-verraco) attributes a rolling, tribal-infused groove and depth. This supports bodily and rhythmic interest but remains label description.
+- **Transition scale:** proposed Track 13 after Stardancer as an explicit doorway. BPM, perceived pulse, energy relation, phrasing and actual transition feel remain unknown.
+- **Local-run scale:** the ingredient could make a purposeful groove-led afterword after the protected trio, but the evidence cannot distinguish that from an arbitrary production-world reset.
+- **Long-form scale:** it may open a different percussive route. Neither contrast nor the word “tribal” proves a useful journey effect.
+- **Evidence boundary:** identity, duration and packaging are metadata; groove/depth language is attributed label description; the doorway rationale is editorial interpretation and craft convention. No candidate-specific listener or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition/audio evidence or a changed post-trio context supports this exact placement. No listening assignment.
+
+**Sequencer/Auditor:** approve three PARKED decisions, three exact local/global discovery entries, one unresolved local research lead and a substantive enrichment of the existing Broken-rhythm afterword set direction. Veto all three ADDs because immediate transition, surrounding-run and long-form evidence remain insufficient. Preserve all 12 canonical rows, annotations and listener-protected handoffs. No removal, movement, replacement or live-graph change. No actionable REPAIR recommendation; next lane remains EXPLORE.
+
+**Canonical order / tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Tehutis Law 139 → Fragments 140 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. *Transparency 143/107 conflict retained. Story roles remain interpretation.
+
+**Publication/map:** automatic publication is enabled. STRANGE GAIT publication inputs did not change; its last recorded verification remains COMPLETE 12/12 at 2026-09-06T19:12:18.429Z and is not a new live read-back. The global Discovery Pool ledger changes 65 → 68 and must be reported from its post-publication status. STRANGE GAIT's current map retains exact canonical URI order and the unified root site URL.
+
+**RUN ANALYSIS:** Fresh outward discovery, immutable resolution and three-candidate evaluation completed. The strongest belonging case was Shark Attak's unusually precise percussion/polyrhythm description, while Dynamic offered the least conspicuous paper continuation; neither difference resolves the missing transition evidence. The strongest alternative explanation is that the evidence contract is conservative without lawful audio and may park excellent left turns. This run proves three exact useful discoveries, one unresolved catalogue lead and safe preservation of listener-earned order; it does not prove any transition fails or that STRANGE GAIT is complete.
+
+**Discovery harvest:** Shark Attak, Dynamic and Untitled retained as exact non-canonical tracks; Humming Birds retained only as an unresolved research lead. The existing Broken-rhythm afterword direction now also holds the three exact tracks as unproven percussion/rolling ingredients.
+
 ## Run 49 — EXPLORE — 2026-09-07
 
 RunId: `2026-09-07T09:52:23Z-explore-49`. Request commit: `9dcecc157c6c5e755be13f5af2f024989379a130`; source commit: `2c9d089bac1432ee339d5eeaadb30194b5ed97ca`; snapshot commit: `a55fbd9a967d6218d45330d15bc7307178de628a`. Matching immutable terminal fingerprint `826f5d13d6c2a734fd65c111e18b018235b4c76caf799f3dc90313ecf2d8abb3` validated with repository code. Resolution was PARTIAL: 3 leads, 2 exact resolutions, 2 selected candidates, 1 unresolved identity, no warnings, duplicates or resolved alternates.

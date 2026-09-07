@@ -69,6 +69,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 63 | Sabrj | Root Signal | spotify:track:2M08cZv7PGSnt2JNCGdoLH | GROOVE OVER NOISE current-journey reject | Current-journey reject / interesting | 2026-09-07 |
 | 64 | DJ Dextro | Industria Acéfala | spotify:track:02cniEHoBnELxWX54JkDuF | GROOVE OVER NOISE current-journey reject | Current-journey reject / interesting | 2026-09-07 |
 | 65 | Altinbas | Voyage | spotify:track:1n9Mhcj5CrRS5Xtb5E3yv5 | GROOVE OVER NOISE current-journey reject | Current-journey reject / interesting | 2026-09-07 |
+| 66 | D-Leria | Shark Attak | spotify:track:5tABEVUh6NsW49fLp6oOYt | STRANGE GAIT Run 50 | PARKED / interesting | 2026-09-07 |
+| 67 | Rene Wise | Dynamic | spotify:track:7MlbEOg0fEFcYLkKNDVhBV | STRANGE GAIT Run 50 | PARKED / interesting | 2026-09-07 |
+| 68 | 1morning | Untitled | spotify:track:7idn7TKy3tKPXjrhfNrwmC | STRANGE GAIT Run 50 | PARKED / interesting | 2026-09-07 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

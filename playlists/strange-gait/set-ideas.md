@@ -105,6 +105,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Ingredients:**
 
 - CONFUSION (RASEREI) — DT229 — exact PARKED discovery; broken/melodic exact-track description
+- D-Leria — Shark Attak — exact PARKED discovery; label-described percussion-centred polyrhythmic construction
+- Rene Wise — Dynamic — exact PARKED discovery; label-described rolling motion with subtle disruption
+- 1morning — Untitled — exact PARKED discovery; label-described rolling, tribal-infused groove
 - Holly Lester — Big Fill — exact PARKED discovery; source-described rolling sub, pressure and suspended space
 - Leo — Descant — exact PARKED discovery; reviewer-described broken-techno turn
 - Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
@@ -112,7 +115,7 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch
 - the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
 
-**Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, syncopation, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
+**Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, polyrhythmic percussion, syncopation, rolling motion, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
 
 **Unknown / risk:** No Stardancer exit, phrase relationship, perceived-pulse continuity, energy relation, harmonic compatibility or live mix has been established. This is a set direction, not a proven canonical or performance sequence.
 
