@@ -100,6 +100,8 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Spekki Webu — `Goodbye Universe` — unresolved exact-identity lead; reviewer-described broken-beat, live/off-grid construction with backwards fills
 - Spekki Webu — `iii9` — unresolved overlooked-catalogue lead; exact-track offbeat gated pulse develops toward polyrhythmic pressure
 - Surgeon — `Brownian Motion (Justyn Nell Remix)` — unresolved current-release lead; label-described precision-percussion and dynamic construction
+- Sun People x Other Worlds — `Psychicemotus` — unresolved exact-identity lead; reviewer-described chunky gallop within a footwork/jungle/techno collaboration
+- Hadone — `The Enemy Within` — exact PARKED discovery; label-described intricate and powerful rhythmic structures
 
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
@@ -117,6 +119,8 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - 1morning — Untitled — exact PARKED discovery; label-described rolling, tribal-infused groove
 - Holly Lester — Big Fill — exact PARKED discovery; source-described rolling sub, pressure and suspended space
 - Leo — Descant — exact PARKED discovery; reviewer-described broken-techno turn
+- Donor — Forgotten — exact PARKED discovery; label-described glitches, twists, broken beats and polyrhythmic gait; 130 BPM external listing does not prove a transition
+- Clotur — Drummz — canonical exact discovery; label-described dynamic and unpredictable rhythms with refined groove work
 - Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
 - Marcal — Smoke From Respawn / Arapuca — September 11 release watch
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch

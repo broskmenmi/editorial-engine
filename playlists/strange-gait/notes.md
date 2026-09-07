@@ -1,6 +1,12 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 13 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Fragments → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 14 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 54 — EXPLORE — Sublunar and adjacent rhythmic structures
+
+Four ranked leads produced a matching PARTIAL resolver snapshot: Clotur — Drummz, Donor — Forgotten and Hadone — The Enemy Within resolved and were selected; Sun People, Other Worlds — Psychicemotus remained unresolved with exact error `direct Spotify track identity mismatch`. Donor's requested 2018-09-21 date versus Spotify's 2018-10-01 date is preserved as a packaging warning.
+
+**Decision:** ADD Clotur — Drummz (`spotify:track:6K07a5OAl8J6wqlcnCoT8i`, 138 BPM from Beatport) between Fragments and Truth in Noise. Sublunar's exact-track description of dynamic, unpredictable rhythms, refined groove work and movement gives the insertion a concrete rhythmic purpose. The local numerical path becomes 140 → 138 → 138, but BPM does not prove flow. Donor — Forgotten and Hadone — The Enemy Within remain PARKED because their volume hypotheses are interesting while immediate transitions, surrounding-run benefit and long-form gain remain insufficiently established. Audio/live NOT TESTED.
 
 ## Whole-journey placement policy
 

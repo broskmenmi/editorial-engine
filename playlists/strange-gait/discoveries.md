@@ -2,6 +2,75 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 54 — EXPLORE — fresh whole-journey scan — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 53 created no actionable repair; there is no active feedback discussion, triggered revisit, objective ledger defect, or materially new evidence reopening a parked decision. The 13-track ledger and generated map agreed before this run, the protected `Transparency → When We Froze → Stardancer` internal order was intact, and the completed Run 52 repair did not remain queued.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T14:02:06Z-explore-54`
+- **sourceCommit:** `e3078fb7ef2baea44f51f89137e90f44b2a8d657`
+- **request commit:** `26d8d70d767cd3b1a0f62305ba607e2aa6f2ccc8`
+- **snapshot commit:** `c5eb470d65779f995cbb35ea92e321a94c7f928a`
+- **request fingerprint:** `fc30810103a78845bd805b6d91645b805e218c2c92f45bbf9ba322c2f3e43a2b`
+- **scope:** approximately 53 named tracks across eight current, adjacent/emerging and overlooked-catalogue releases plus bounded result pages. The primary lanes were Hadone — `Kept What Remained`, Clotur — `One Touch`, Sun People x Other Worlds — `Endophyte EP`, Donor — `Void Century`, Vilchezz — `Deadlock`, Sciama — `Collapse of Order`, Scibor — `Searching for Colors`, and OODE1 catalogue clips. Metadata and attributed descriptions only; zero audio auditions.
+- **freshness:** all 13 canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Run 53's Outer Orbit, Soma and Seismic sources were not retried.
+- **ranked leads:** 1. Clotur — Drummz; 2. Donor — Forgotten; 3. Sun People, Other Worlds — Psychicemotus; 4. Hadone — The Enemy Within. Four honest leads were retained without padding.
+
+### Resolver result — PARTIAL
+
+The immutable schema-v2 snapshot matches the request and is internally terminal: four leads → three exact resolutions → three selected candidates + one unresolved lead.
+
+- **Clotur — Drummz:** exact `spotify:track:6K07a5OAl8J6wqlcnCoT8i`; selected.
+- **Donor — Forgotten:** exact `spotify:track:1sB7fqVVcbhjZC4hjdoXyQ`; selected. Preserve exact resolver warning: `Exact title/artist matched with release metadata variance: release date requested "2018-09-21" but Spotify returned "2018-10-01"`.
+- **Hadone — The Enemy Within:** exact `spotify:track:04Kn5hulGhcJwrpi8YKGWR`; selected.
+- **Sun People, Other Worlds — Psychicemotus:** unresolved with exact error `direct Spotify track identity mismatch`. The supplied public result was not treated as the requested exact identity. This remains a research lead, not a rejection.
+- **Resolved alternates:** none.
+
+### ADD — Clotur — Drummz
+
+- **Exact URI:** `spotify:track:6K07a5OAl8J6wqlcnCoT8i`.
+- **Measured metadata:** Spotify duration 309565 ms (5:10); Beatport exact-track listing reports 138 BPM, 5:09 and 2026-06-19 release.
+- **Volume fit:** BELONGS. Sublunar's exact-track notes describe dynamic and unpredictable rhythms, refined groove work and strong movement. That supplies track-specific rhythmic/structural evidence for the selection lens; it is not a claim that the workflow heard the audio.
+- **Immediate transition:** ADD between CHANCEKNOT — Fragments (140) and Inspired Groove — Truth in Noise (138). The measured path becomes 140 → 138 → 138. Close tempo is supporting context, not proof. The source-described unpredictable rhythm gives the insertion a concrete purpose as a conspicuous restless hinge before groove consolidation, rather than requiring an invisible blend.
+- **Surrounding run:** Tehutis Law → Fragments → Drummz → Truth in Noise → Transparency reads editorially as funk re-grounding → driving re-escalation → rhythmic restlessness → groove consolidation → listener-block entry. The main counterargument is that Drummz may over-articulate an already developed late-middle passage; this remains provisional because density, perceived energy, phrase relation and exact transition feel are unknown.
+- **Long-form journey:** PASS provisionally. The insertion develops the unprotected late-middle boundary and creates a more legible change before the protected trio without splitting either protected handoff or inventing a new ending. The whole journey remains open to future revision.
+
+### PARKED — Donor — Forgotten
+
+- **Exact URI:** `spotify:track:1sB7fqVVcbhjZC4hjdoXyQ`; Spotify duration 369230 ms (6:09). Official Bandcamp also lists 6:09; the request's 5:33 duration note was incorrect and is corrected here without rewriting the immutable request.
+- **Volume fit:** STRONG PROVISIONAL BELONGING. Sublunar describes glitches, twists, broken beats delivered with brute force and a curious polyrhythmic gait.
+- **Immediate transition:** NOT PASSED. A post-resolution Shazam listing reports 130 BPM. That is evidence, not a cutoff or energy proxy. It makes both proposed 140/137 and 140/138 regions materially reset-like, and there is no lawful metrical or heard evidence that either hard turn lands deliberately.
+- **Surrounding run:** Moonwake → Forgotten → Capa → Thick to Handle → Tehutis Law could introduce a major polyrhythmic fracture before the existing redirection, while Fragments → Forgotten → Truth in Noise → Transparency could create a late rupture. In both cases the source-described brute force may add attention cost to runs that are already structurally developed.
+- **Long-form journey:** NOT YET PASSED. The track is genuinely interesting, but neither proposed region currently proves that another conspicuous stage improves the 14-track journey. PARKED for materially new audio, metrical, listener or changed-structure evidence.
+
+### PARKED — Hadone — The Enemy Within
+
+- **Exact URI:** `spotify:track:04Kn5hulGhcJwrpi8YKGWR`; Spotify duration 306086 ms (5:06). BPM remains unknown.
+- **Volume fit:** PROVISIONAL. Sublunar describes an explosive combination of intricate sound design and powerful rhythmic structures. That makes the exact track relevant, while the adjectives do not establish rhythmic freedom, bodily effect or canonical necessity.
+- **Immediate transition:** NOT PASSED. Tehutis Law → The Enemy Within → Fragments and Stardancer → The Enemy Within remain lawful hypotheses, but unknown tempo/pulse and absent audio evidence leave every exact handoff unproven.
+- **Surrounding run:** The internal hypothesis may simply stack another pressure-focused stage between Tehutis Law and Fragments. The tail hypothesis could open a different next passage, but no following stage or transition-scale evidence yet makes that move purposeful.
+- **Long-form journey:** NOT YET PASSED. Current evidence supports retention, not admission. PARKED pending materially new evidence or a changed structural need.
+
+### Inspiration retention
+
+- Drummz enters the local and global discovery layers as a canonical ADD.
+- Forgotten and The Enemy Within enter both discovery layers as exact PARKED tracks that remain genuinely interesting.
+- Psychicemotus enters only the target-local research layer because its exact Spotify identity did not resolve.
+- The existing `Different worlds, continuous intent` and `Broken-rhythm afterword` sketches absorb the useful ingredients; no proposed pair is treated as a proven sequence or live-mixing edge.
+
+### Sequencer / Auditor
+
+Approved exactly **1 ADD and 2 PARKED** verdicts. Approved Drummz between Fragments and Truth in Noise; vetoed adding Forgotten or The Enemy Within because neither passes immediate, local-run and long-form placement evidence. Approved the local inspiration updates and three exact-track additions to the doctrine-free global Discovery Pool. No existing canonical track is removed or reordered. The protected `Transparency → When We Froze → Stardancer` internal order remains exact; `Truth in Noise → Transparency` remains unprotected.
+
+**Canonical order / working tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Thick to Handle 138 → Tehutis Law 139 → Fragments 140 → Drummz 138 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. `*` Transparency 143/107 conflict preserved.
+
+**Publication:** this editorial record authorizes the STRANGE GAIT ledger/annotation change and the EDITORIAL ENGINE — DISCOVERY POOL ledger change from 70 to 73 tracks. Exact Spotify completion must come only from post-publication `spotify-status.json` read-backs; this record does not pre-claim success.
+
+**RUN ANALYSIS:** Approximately 53 inspected tracks → 4 ranked leads → 3 exact resolutions + 1 unresolved → 3 canonical evaluations → 1 ADD + 2 PARKED. Drummz is the strongest result because it combines direct exact-track structural evidence with an independently listed 138 BPM and a specific unprotected placement that develops rather than appends to the journey. The strongest counterargument is that source prose and tempo still cannot establish density, phrase relationship, perceived energy or actual handoff feel; the addition remains provisional and responsive to natural listener evidence. Forgotten supplies the strongest discovery-only result: high selection-lens fit but an unproven 130-BPM hard turn. The run proves a fresh whole-journey scan found one defensible placement and three useful exact discoveries; it does not prove either PARKED track fails globally or that STRANGE GAIT is complete. Audio analysis and live mixing were **NOT TESTED**.
+
+---
+
 ## Run 53 — EXPLORE — fresh whole-journey scan — 2026-09-07
 
 **Pre-audit:** EXPLORE. There is no active feedback discussion, triggered revisit, actionable objective ledger defect, or materially new evidence reopening a parked track. The 13-track ledger and generated map agree, and the protected `Transparency → When We Froze → Stardancer` internal order is intact. Run 52's repair chain is complete.

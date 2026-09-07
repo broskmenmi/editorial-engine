@@ -74,6 +74,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 68 | 1morning | Untitled | spotify:track:7idn7TKy3tKPXjrhfNrwmC | STRANGE GAIT Run 50 | PARKED / interesting | 2026-09-07 |
 | 69 | Scalameriya | Aurifex Rex | spotify:track:2yN6VFWjkD5VZFxyZjXLq4 | STRANGE GAIT Run 51 | PARKED / interesting | 2026-09-07 |
 | 70 | Shaun Moses | Nostalgia | spotify:track:0OzAhiqNvVpbYyRLm4ISV3 | STRANGE GAIT Run 51 | PARKED / interesting | 2026-09-07 |
+| 71 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | STRANGE GAIT Run 54 | Canonical ADD / retained | 2026-09-07 |
+| 72 | Donor | Forgotten | spotify:track:1sB7fqVVcbhjZC4hjdoXyQ | STRANGE GAIT Run 54 | PARKED / interesting | 2026-09-07 |
+| 73 | Hadone | The Enemy Within | spotify:track:04Kn5hulGhcJwrpi8YKGWR | STRANGE GAIT Run 54 | PARKED / interesting | 2026-09-07 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
