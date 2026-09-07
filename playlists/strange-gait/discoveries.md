@@ -2,6 +2,72 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 55 — EXPLORE — Delsin, emerging broken forms and overlooked machine funk — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 54's canonical and global-ledger changes were exactly published and verified, the generated 14-track map matched canonical state, there was no active feedback discussion or objective defect, and every live revisit was PARKED rather than TRIGGERED. The fresh scan excluded the Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes used in Runs 53–54.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T14:48:24Z-explore-55`
+- **sourceCommit:** `86f7a25cf0cfa41940bf7c023d8d65446d18ea6f`
+- **request commit:** `478f97661a476f0bfa7e99995b3e225fd03adb74`
+- **snapshot commit:** `74bcec2f5e079b43e6e331f87958a79120e4e791`
+- **request fingerprint:** `99e3c554509675c83d02e72700039d0fe5101fde177ef283750cf459f6e3a7db`
+- **scope:** approximately 39 named tracks across ten current, adjacent/emerging and overlooked-catalogue release/result windows. The selected lanes were Answer Code Request — `Halo`, ABSIS — `Eines EP`, Caotical Disordah — `Out Of Boundaries`, and Second Storey — `Disrupted Dialect`; bounded Delsin, Ilian Tape, Short Span, Refraction and Saraw pages widened the scan. Metadata and attributed descriptions only; zero audio auditions.
+- **freshness:** all 14 canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Recent source lanes were not retried.
+- **ranked leads:** 1. Answer Code Request — Refraction; 2. ABSIS — Arada; 3. Caotical Disordah — EX01; 4. Second Storey — Cold Snap. Four honest leads were retained without padding.
+
+### Resolver result — COMPLETE
+
+The immutable schema-v2 snapshot matches the request and is internally terminal: four leads → four exact resolutions → three selected candidates + one resolved alternate. There were no warnings, unresolved identities, duplicates or substitutions.
+
+- **Answer Code Request — Refraction:** exact `spotify:track:6bX1nsfLj8JXqC89dVSeS5`; selected; 93 BPM from the declared retailer source.
+- **ABSIS — Arada:** exact `spotify:track:6wU2juRbHY8QGuBhIE8nbd`; selected; BPM unknown.
+- **Caotical Disordah — EX01:** exact `spotify:track:5FbWNajncnrwdOEZ3CySmG`; selected; Spotify album capitalization is `Out of Boundaries`; BPM unknown.
+- **Second Storey — Cold Snap:** exact `spotify:track:6eOpEJ0YwLIasM5z8gcYoi`; resolved alternate, not selected. It receives no canonical evaluation or musical verdict.
+
+### PARKED — Answer Code Request — Refraction
+
+- **Exact URI / metadata:** `spotify:track:6bX1nsfLj8JXqC89dVSeS5`; Spotify duration 378857 ms (6:19); 93 BPM from the declared retailer listing; official release date 2026-06-26.
+- **Volume fit:** STRONG PROVISIONAL BELONGING. Delsin's exact-track album notes explicitly group Refraction with fractured downtempo micro beats, angular breakbeat fractals and finely detailed drum sequences continually forming new arrangements. This is direct structural evidence for the selection lens, not a claim that the workflow heard the track.
+- **Immediate transition:** NOT PASSED. Before Marauder, 93 → 136 documents a conspicuous numeric and described-character reset; between Moonwake and Capa the measured path is 140 → 93 → 137. Hard turns are allowed, and neither number proves incompatibility, but no lawful metrical, phrase or heard evidence establishes that either move lands deliberately.
+- **Surrounding run:** Refraction → Marauder → The Witching Hour → Cave is a credible opening-preamble hypothesis, while Moonwake → Refraction → Capa → Thick to Handle could create a major internal reset. The exact-track evidence explains why the character change is interesting, but not whether either three-to-five-track run improves rather than stalls or over-segments.
+- **Long-form journey:** NOT YET PASSED. A new downtempo prelude or central reset could materially change the 14-track journey, but current evidence does not establish that either additional stage is needed. PARKED for materially new audio, metrical, listener or changed-structure evidence.
+
+### PARKED — ABSIS — Arada
+
+- **Exact URI / metadata:** `spotify:track:6wU2juRbHY8QGuBhIE8nbd`; Spotify duration 479996 ms (8:00); official release date 2026-01-29; BPM unknown.
+- **Volume fit:** PROVISIONAL. 30D describes the complete four-track EP as fractured-beat techno using broken rhythms and thick textures rather than familiar broken-beat tropes. That makes Arada a relevant emerging lead, but the source does not distinguish this exact track's structure.
+- **Immediate transition:** NOT PASSED. Moonwake → Arada → Capa and Tehutis Law → Arada → Fragments remain lawful hypotheses, but unknown pulse/BPM and release-level-only description leave both handoffs untested.
+- **Surrounding run:** Either placement would add an eight-minute stage to an already developed rhythmic-redirection passage. Duration is not an energy proxy, yet the weak exact-track evidence cannot show whether that stage deepens the run or redundantly repeats its structural argument.
+- **Long-form journey:** NOT YET PASSED. The release context supports retention, not canonical necessity. PARKED pending exact-track evidence or a changed structural need.
+
+### PARKED — Caotical Disordah — EX01
+
+- **Exact URI / metadata:** `spotify:track:5FbWNajncnrwdOEZ3CySmG`; Spotify duration 178285 ms (2:58); official release date 2026-03-13; BPM unknown.
+- **Volume fit:** PROVISIONAL / UNDERDESCRIBED. No.Identity describes the four-track EP as combining broken rhythms, heavy bass and experimental textures. This supports inspection but not EX01's individual behaviour.
+- **Immediate transition:** NOT PASSED. Witching Hour → EX01 → Cave and Drummz → EX01 → Truth in Noise are both lawful placements, but no exact-track pulse, phrase or transition evidence supports either.
+- **Surrounding run:** Its concise duration could make a sharp interruption legible, but brevity does not establish function. In the opening it may revive the attention-disruption problem; late-middle it may overcrowd the newly expanded Drummz passage. Both are risks, not heard conclusions.
+- **Long-form journey:** NOT YET PASSED. Current evidence does not prove a distinct stage beyond the existing 14-track construction. PARKED while retained as an exact emerging-scene discovery.
+
+### Inspiration retention
+
+- Refraction, Arada and EX01 enter the target-local and doctrine-free global discovery layers as selected exact PARKED tracks that remain genuinely interesting.
+- Cold Snap enters only the target-local research layer as an exact resolved alternate that was not selected or evaluated. It is not added to the global utility ledger in this run.
+- The existing `Different worlds, continuous intent` and `Broken-rhythm afterword` sketches absorb the useful ingredients; no proposed pair is treated as a proven sequence or live-mixing edge.
+
+### Sequencer / Auditor
+
+Approved **0 ADD and 3 PARKED** verdicts. The Auditor accepted the strong selection-lens case for Refraction and the weaker release-context cases for Arada and EX01, but vetoed canonical admission because none passes immediate transition, surrounding-run and long-form evidence. Approved the local inspiration updates and three exact selected-track additions to EDITORIAL ENGINE — DISCOVERY POOL. Cold Snap is preserved exactly as a resolved alternate without a musical verdict or global admission. No existing canonical track is removed or reordered; the protected `Transparency → When We Froze → Stardancer` internal order remains exact and `Truth in Noise → Transparency` remains unprotected.
+
+**Canonical order / working tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Thick to Handle 138 → Tehutis Law 139 → Fragments 140 → Drummz 138 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. `*` Transparency 143/107 conflict preserved.
+
+**Publication:** no STRANGE GAIT publication input changes. This editorial record authorizes the EDITORIAL ENGINE — DISCOVERY POOL ledger change from 73 to 76 tracks. Exact Spotify completion must come only from the post-publication `spotify-status.json` read-back; this record does not pre-claim success.
+
+**RUN ANALYSIS:** Approximately 39 inspected tracks → 4 ranked leads → 4 exact resolutions → 3 selected evaluations + 1 resolved alternate → 0 ADD + 3 PARKED. Refraction is the strongest result because its exact-track source directly supports rhythmic and structural freedom; it still fails admission because neither a 93 → 136 opening nor a 140 → 93 → 137 internal reset has transition, local-run or long-form proof. Arada and EX01 are worthwhile discoveries but their release-level evidence cannot carry exact-track canonical decisions. The strongest counterargument is that the workflow may be parking an excellent conspicuous reset because lawful audio is unavailable. This run proves a fresh whole-journey scan found three useful exact selected discoveries and one exact alternate; it does not prove any candidate's proposed transition fails, that Cold Snap lacks value, or that STRANGE GAIT is complete. Audio analysis and live mixing were **NOT TESTED**.
+
+---
+
 ## Run 54 — EXPLORE — fresh whole-journey scan — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 53 created no actionable repair; there is no active feedback discussion, triggered revisit, objective ledger defect, or materially new evidence reopening a parked decision. The 13-track ledger and generated map agreed before this run, the protected `Transparency → When We Froze → Stardancer` internal order was intact, and the completed Run 52 repair did not remain queued.

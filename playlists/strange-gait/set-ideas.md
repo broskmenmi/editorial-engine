@@ -102,6 +102,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Surgeon — `Brownian Motion (Justyn Nell Remix)` — unresolved current-release lead; label-described precision-percussion and dynamic construction
 - Sun People x Other Worlds — `Psychicemotus` — unresolved exact-identity lead; reviewer-described chunky gallop within a footwork/jungle/techno collaboration
 - Hadone — `The Enemy Within` — exact PARKED discovery; label-described intricate and powerful rhythmic structures
+- Answer Code Request — `Refraction` — exact PARKED discovery; exact-track fractured downtempo micro-beats and continually rearranging drum sequences
+- ABSIS — `Arada` — exact PARKED emerging lead; release-level fractured-beat and thick-texture framing only
+- Caotical Disordah — `EX01` — exact PARKED emerging lead; release-level broken-rhythm / heavy-bass / experimental-texture framing only
+- Second Storey — `Cold Snap` — exact resolved alternate and local research lead; release-level electro / IDM / machine-funk and fractured-form framing, not evaluated
 
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
@@ -121,6 +125,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Leo — Descant — exact PARKED discovery; reviewer-described broken-techno turn
 - Donor — Forgotten — exact PARKED discovery; label-described glitches, twists, broken beats and polyrhythmic gait; 130 BPM external listing does not prove a transition
 - Clotur — Drummz — canonical exact discovery; label-described dynamic and unpredictable rhythms with refined groove work
+- Answer Code Request — Refraction — exact PARKED discovery; 93 BPM retailer metadata and exact-track fractured downtempo construction, with no proven metrical or live relation
+- ABSIS — Arada — exact PARKED discovery; release-level fractured-beat context, exact pulse and handoffs unknown
+- Caotical Disordah — EX01 — exact PARKED discovery; concise emerging broken-form hypothesis, exact function unknown
 - Konomo — Invisible (Original Mix) — unresolved Spotify research lead; exact-track broken-beat/immersive-closing description
 - Marcal — Smoke From Respawn / Arapuca — September 11 release watch
 - Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch

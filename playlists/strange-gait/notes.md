@@ -2,6 +2,12 @@
 
 Canonical: 14 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 55 — EXPLORE — whole-journey fractured-form scan
+
+Four ranked leads produced a matching COMPLETE resolver snapshot: Answer Code Request — Refraction, ABSIS — Arada and Caotical Disordah — EX01 were selected as exact candidates; Second Storey — Cold Snap resolved as an exact alternate and was not evaluated. There were no warnings, unresolved identities, duplicates or substitutions.
+
+**Decision:** 0 ADD, 3 PARKED. Refraction has the strongest exact-track selection-lens evidence—fractured downtempo micro beats, angular breakbeat fractals and continually rearranging drum sequences—but neither a pre-Marauder opening nor a Moonwake → Capa reset is established at transition, local-run or long-form scale. Arada and EX01 remain worthwhile exact discoveries whose release-level evidence is too weak for canonical admission. The canonical ledger remains 14 tracks. Audio/live NOT TESTED.
+
 ## Run 54 — EXPLORE — Sublunar and adjacent rhythmic structures
 
 Four ranked leads produced a matching PARTIAL resolver snapshot: Clotur — Drummz, Donor — Forgotten and Hadone — The Enemy Within resolved and were selected; Sun People, Other Worlds — Psychicemotus remained unresolved with exact error `direct Spotify track identity mismatch`. Donor's requested 2018-09-21 date versus Spotify's 2018-10-01 date is preserved as a packaging warning.
