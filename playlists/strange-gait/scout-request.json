@@ -1,106 +1,122 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-07T08:56:26Z-explore-48",
-  "sourceCommit": "65266eb9864ba0e22f1d879f16d177a93eef71c9",
+  "runId": "2026-09-07T09:52:23Z-explore-49",
+  "sourceCommit": "2c9d089bac1432ee339d5eeaadb30194b5ed97ca",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh belonging discovery that can change rhythmic and production character after the protected trio",
-    "position": "Track 13 after Len Faki — Stardancer; the protected trio remains intact and the outgoing neighbour is open",
+    "role": "fresh belonging discovery with a deliberate transition out of the protected listener trio",
+    "position": "Track 13 after Len Faki — Stardancer; preserve Transparency → When We Froze → Stardancer in exact internal order and leave the outgoing neighbour open",
     "neighbours": ["spotify:track:6i3HRqnSMoSohzwSgq035u"],
-    "purpose": "Test whether one of two current leftfield dance tracks can make a deliberate next move without assuming close BPM or novelty proves flow."
+    "purpose": "Test current, adjacent and overlooked material that may open a new passage after the protected block without assuming that genre, recency, contrast or BPM proves flow."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T08:56:26Z",
+    "timestampUtc": "2026-09-07T09:52:23Z",
     "sourceWindows": [
-      "CURRENT RELEASES: https://darkimpactrecords.bandcamp.com/album/code-of-cosmos — three Teknopappa tracks released 2026-09-07 screened.",
-      "CURRENT RELEASES: https://tholosrecords.bandcamp.com/album/animate-tholos063 — three Atherian tracks released 2026-09-07 screened.",
-      "CURRENT RELEASES: https://dbh-music.bandcamp.com/album/hw033 — four M.S. tracks released 2026-09-07 screened.",
-      "CURRENT RELEASES: https://sleeparchive.bandcamp.com/album/--4 — four numbered Sleeparchive tracks released 2026-09-05 screened.",
-      "CURRENT RELEASES: https://echoveil-records.bandcamp.com/album/nothing-is-coming — five Knifework tracks released 2026-09-05 screened.",
-      "CURRENT / ADJACENT: https://majorrecords.bandcamp.com/album/learning-to-dance-again — four brenner tracks released 2026-09-04 screened with exact descriptive notes.",
-      "ADJACENT / EMERGING: https://d1smusic.bandcamp.com/album/d1s005-sanmei-zhenhuo — four Dj Fucci tracks and darker Latin-club fusion framing screened.",
-      "ADJACENT / EMERGING: https://orphanrecordsradio.bandcamp.com/album/or-va1 — fourteen genre-straddling leftfield house, techno, garage and breaks tracks screened.",
-      "OVERLOOKED CATALOGUE: https://cygormanwukush.bandcamp.com/album/prophit — one 2019 slow-motion techno/house track with exact description screened.",
-      "OVERLOOKED CATALOGUE: https://jollydiscs.bandcamp.com/album/navigator — twelve RAP tracks from the 2026-09-01 album screened.",
-      "BOUNDED QUERIES: 2026-09-05/07 Bandcamp techno release windows plus exact Spotify and Beatport identity/tempo searches for brenner — Thick to Handle, Waltz and Step 2 tha Beat, and Cy Gorman & Wu Kush — Prophit."
+      "CURRENT RELEASES: https://dualitytrax.bandcamp.com/album/open-your-mind-ep — all four Holly Lester tracks released 2026-09-04 screened; Big Fill retained from its exact-track rolling-sub, pressure and suspended-space description.",
+      "CURRENT RELEASES: https://childrenoftomorrowrecords.bandcamp.com/album/warm-shuffle-ep — four Hollen tracks released 2026-09-04 screened; exact behavioural evidence was insufficient beyond tags/title.",
+      "CURRENT RELEASES: https://redlofrecords.bandcamp.com/album/rb111-oscman-mirage — two OSCMAN tracks released 2026-09-04 screened with exact-track label descriptions.",
+      "CURRENT RELEASES: https://fallingethics.bandcamp.com/album/dreams-versus-nightmares — four P.E.A.R.L. tracks released 2026-09-04 screened but excluded as already PARKED material from an earlier run.",
+      "ADJACENT / EMERGING: https://ra.co/features/4490 and https://leoproducer.bandcamp.com/album/cicada-burnt — leo's six-track July 2026 album screened after RA described its movement from electro workouts into broken techno.",
+      "ADJACENT / EMERGING: https://noidrecords.bandcamp.com/album/out-of-boundaries — four Caotical Disordah tracks from March 2026 screened; broken-rhythm/heavy-bass language remained release-level rather than track-specific.",
+      "ADJACENT / EMERGING: https://refractionrecords.bandcamp.com/album/va-prism-ep — seven label-compilation tracks screened; broken/deep/dub framing remained compilation-level.",
+      "OVERLOOKED CATALOGUE: https://refractionrecords.bandcamp.com/album/konomo-invisible-ep — all four Konomo tracks from January 2026 screened; Invisible retained from its exact-track broken-beat and closing-flow description.",
+      "OVERLOOKED CATALOGUE: https://mentalgroove.bandcamp.com/album/planetary-invazion-ep — four Super Nova reissue tracks screened; release-level off-kilter techno/electro context did not isolate an exact lead.",
+      "OVERLOOKED CATALOGUE: https://patternsofperception.bandcamp.com/album/deformation — four Abby Echiverri tracks screened; groove/shuffle/psychedelic language remained EP-level.",
+      "BOUNDED QUERIES: September 2026 Bandcamp techno, hypnotic, broken-beat, syncopated and polyrhythmic result windows plus current Juno back-catalogue listings; exact Spotify identities intentionally left to the repository resolver."
     ],
-    "approximateInspectedScope": "Approximately 54 named tracks across ten official release/catalogue pages plus bounded current-release and exact identity/tempo queries; metadata and attributed text only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 43 named tracks across ten release/catalogue pages plus bounded current-release and adjacent-result windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 12 canonical identities, active placement-specific rejections and every untriggered PARKED revisit were excluded. Run 47 sources and DT229 were not recycled.",
-      "The protected Transparency → When We Froze → Stardancer internal order and its two protected handoffs remain untouched; each proposed candidate follows the intact block.",
-      "Code Of Cosmos and Animate supplied exact current titles, durations and hard/peak-time or industrial tags, but no track-specific behavioural evidence. Tags and presumed intensity did not become fit claims.",
-      "HW033 supplied a four-track raw-house identity only at release level. Sleeparchive supplied numbered exact tracks without descriptive evidence. Neither justified a resolver lead.",
-      "Knifework's Nothing is Coming supplied useful EP-level language spanning EBM, krautrock, industrial, minimal techno and ambient, but did not assign that behaviour to a specific track.",
-      "Dj Fucci's Sanmei Zhenhuo described fused Latin rhythms, guaracha and dark bass at EP level; exact individual behaviour and placement remained underdescribed.",
-      "Or.VA1 and Navigator supplied many exact titles and broad leftfield contexts but insufficient track-specific behavioural evidence for canonical evaluation.",
-      "Cy Gorman & Wu Kush — Prophit has an exact Spotify identity and 107 BPM metadata, but its exact description establishes a deep, spacey, hypnotic slow-motion jam rather than a sufficiently grounded STRANGE GAIT belonging hypothesis. A large tempo reset is not itself volume fit.",
-      "Step 2 tha Beat and Shine On were interesting exact brenner descriptions, but Thick to Handle and Waltz supplied stronger selection-lens evidence; the request was not padded with every track from the release.",
-      "No lead was admitted for recency, genre tag, BPM proximity, title, artist reputation or novelty. Energy, density, phrase structure, perceived pulse and mixability remain unknown."
+      "All 12 canonical identities, active placement-specific rejections and every untriggered PARKED revisit were excluded. Run 48 brenner material and Run 47 DT229 were not recycled.",
+      "The protected Transparency → When We Froze → Stardancer internal order and its two listener-protected handoffs remain untouched; every proposed placement follows the intact block.",
+      "Hollen — Warm Shuffle supplied a current exact title and groove/hypnotic tags but no track-level behavioural evidence; title and tags did not become sonic facts.",
+      "OSCMAN — Mirage had an exact-track hypnotic-groove description, but its straightforward forward-driving hypothesis was weaker for this run than the three ranked leads and was not used as padding.",
+      "P.E.A.R.L. material was already present in the PARKED queue and was excluded without new evidence or a triggered revisit.",
+      "Caotical Disordah, the Prism compilation, Super Nova and Abby Echiverri supplied useful release-level corridors but insufficient exact-track behavioural evidence for a stronger lead.",
+      "No lead was promoted for recency, genre tag, artist reputation, BPM proximity, title or novelty. Energy, density, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. brenner — Thick to Handle: exact 138 BPM metadata and exact-track broken-beat/stuttered-kick description support bodily rhythmic deformation; Spotify exact identity requires resolver verification.",
-      "2. brenner — Waltz: exact 135 BPM metadata and exact-track description of deliberately disorienting pitch motion support a structural left-turn hypothesis; Spotify exact identity requires resolver verification."
+      "1. Konomo — Invisible (Original Mix): exact-track label description names a broken-beat framework, subtle flow and a closing/immersive function; exact Spotify identity and tempo require resolver verification.",
+      "2. Holly Lester — Big Fill: exact-track label description names rolling sub, groove, pressure and moments of suspended space; exact Spotify identity and tempo require resolver verification.",
+      "3. leo — Descant: RA identifies the album's movement into broken techno at Descant and the official page verifies the exact July 2026 track; exact Spotify identity and tempo require resolver verification."
     ]
   },
   "leads": [
     {
-      "artist": "brenner",
-      "track": "Thick to Handle",
-      "album": "Learning to Dance Again",
-      "releaseDate": "2026-09-04",
-      "bpm": 138,
-      "bpmSource": "Exact Beatport track metadata: https://www.beatport.com/track/thick-to-handle/30128738",
-      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+      "artist": "Konomo",
+      "track": "Invisible (Original Mix)",
+      "album": "INVISIBLE EP",
+      "releaseDate": "2026-01-08",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://refractionrecords.bandcamp.com/track/konomo-invisible-original-mix-refraction",
       "searchIntent": "BOTH",
       "proposedPlacements": [{
         "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
         "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
         "incomingBpm": 137,
-        "candidateBpm": 138,
-        "purpose": "Test a body-focused broken-beat change immediately after the protected trio, without treating the one-BPM difference as transition evidence."
+        "candidateBpm": null,
+        "purpose": "Test an explicitly described broken-beat, emotionally immersive release from the protected block into a new passage without assuming that its source-described closing function proves this placement."
       }],
-      "fitHypothesis": "Major Records describes Thick to Handle specifically as a broken-beat body-rocker built from a stuttered kick, wobbling synths and acid. That supports rhythmic deformation with bodily pull, but does not establish the Stardancer handoff, phrase relation, energy relation or long-form success.",
+      "fitHypothesis": "Refraction describes Invisible specifically as using a broken-beat framework, lush pads and harmonic interplay for a fragile, immersive closing statement. That supports structural freedom and a potential release/reset function, but does not establish bodily pull or the Stardancer handoff.",
       "evidence": {
-        "measured": [
-          "exact Beatport listing reports 138 BPM, 4:39 and Original Mix",
-          "official release date 2026-09-04",
-          "working numerical path is Stardancer 137 BPM to Thick to Handle 138 BPM; proximity does not prove flow"
-        ],
-        "attributedDescription": "Major Records says the exact track reflects brenner's love of broken beat, with a stuttered kick, wobbling synths, old-school acid and a body-rocking result. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports the protected three-track block through Stardancer as being in perfect harmony. No report covers Stardancer → Thick to Handle.",
+        "measured": ["official Bandcamp duration 6:14", "official release date 2026-01-08", "candidate BPM unknown before resolver; no tempo inference made"],
+        "attributedDescription": "Refraction Records says the exact track follows a broken-beat framework and uses lush pads, harmonic interplay and weightless atmospheres as an immersive EP closing statement. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "The user positively reports only the two internal handoffs of the protected trio. No listener report covers Stardancer → Invisible.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A clearly marked rhythmic change after a listener-confirmed block can open a new passage when its immediate and long-form intent is convincing; BPM closeness is insufficient.",
-        "editorialInterpretation": "Potential post-trio shift from straight-techno continuity into a more visibly broken, playful bodily gait."
+        "craftConvention": "A release-like change after a listener-confirmed block can be a deliberate long-form move, but an original EP-closing role does not prove it closes or extends this playlist.",
+        "editorialInterpretation": "Potential post-trio decompression or doorway into a dub/deep broken-beat passage; bodily continuity and transition timing remain unknown."
       }
     },
     {
-      "artist": "brenner",
-      "track": "Waltz",
-      "album": "Learning to Dance Again",
+      "artist": "Holly Lester",
+      "track": "Big Fill",
+      "album": "Open Your Mind EP",
       "releaseDate": "2026-09-04",
-      "bpm": 135,
-      "bpmSource": "Beatport artist catalogue and exact track listing: https://www.beatport.com/artist/brenner/622320/tracks?page=1&per_page=25 and https://www.beatport.com/fr/track/waltz/30128740",
-      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://dualitytrax.bandcamp.com/track/big-fill",
       "searchIntent": "BOTH",
       "proposedPlacements": [{
         "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
         "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
         "incomingBpm": 137,
-        "candidateBpm": 135,
-        "purpose": "Test a conspicuous pitch-world left turn after the protected trio while preserving its internal order and leaving the following path open."
+        "candidateBpm": null,
+        "purpose": "Test a tougher but rhythmically rolling production-world turn after the protected block, with the contrast made explicit rather than disguised."
       }],
-      "fitHypothesis": "Major Records describes Waltz specifically through disorienting high-pitched tones that drift in and out of key. This supports a structural-freedom hypothesis, but the evidence does not establish bodily continuity, attention demand or the exact Stardancer transition.",
+      "fitHypothesis": "Duality Trax describes Big Fill specifically as a driving cut built on rolling sub, pressure and dreamlike suspension. That supports bodily pull and a play between weight and space, but house/tech-house framing, exact pulse and the Stardancer transition require evaluation rather than assumption.",
       "evidence": {
-        "measured": [
-          "Beatport catalogue reports 135 BPM and Original Mix; Bandcamp duration is 5:42",
-          "official release date 2026-09-04",
-          "working numerical path is Stardancer 137 BPM to Waltz 135 BPM; proximity does not prove flow"
-        ],
-        "attributedDescription": "Major Records says the exact track uses a disorienting babble of high-pitched tones that waver in and out of key. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports the protected three-track block through Stardancer as being in perfect harmony. No report covers Stardancer → Waltz.",
+        "measured": ["official Bandcamp duration 5:53", "official release date 2026-09-04", "candidate BPM unknown before resolver; no tempo inference made"],
+        "attributedDescription": "Duality Trax says the exact track is driven by a rolling sub that pulls into the groove, balancing pressure with moments of dreamlike suspension. This is label language, not heard or measured behaviour.",
+        "listenerEvidence": "The user positively reports only the protected trio's internal order and handoffs. No listener report covers Stardancer → Big Fill.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A conspicuous change of tonal and production character may be a deliberate long-form move, but contrast must serve the transition and surrounding run rather than merely advertise variety.",
-        "editorialInterpretation": "Potential destabilizing post-trio turn whose bodily usefulness and attention cost remain unknown."
+        "craftConvention": "A conspicuous move into an adjacent club vocabulary may work when the bodily thread and local-run purpose survive; genre difference alone is neither a defect nor a rationale.",
+        "editorialInterpretation": "Potential body-first left turn that broadens the playlist's production world while keeping rhythmic intent central."
+      }
+    },
+    {
+      "artist": "leo",
+      "track": "Descant",
+      "album": "Cicada Burnt",
+      "releaseDate": "2026-07-31",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://leoproducer.bandcamp.com/track/descant",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [{
+        "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+        "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+        "incomingBpm": 137,
+        "candidateBpm": null,
+        "purpose": "Test an externally identified broken-techno passage as a clear post-block redirection while leaving the following route open."
+      }],
+      "fitHypothesis": "Resident Advisor describes Cicada Burnt as moving from electro workouts into broken techno on Descant. That supplies exact-track structural-interest evidence, but not perceived pulse, bodily usefulness or this exact transition.",
+      "evidence": {
+        "measured": ["official Bandcamp duration 7:49", "official release date 2026-07-31", "candidate BPM unknown before resolver; no tempo inference made"],
+        "attributedDescription": "Resident Advisor's August 2026 roundup identifies Descant as the album's broken-techno turn; the official artist page verifies the exact track and version context. This is reviewer description, not heard or measured behaviour.",
+        "listenerEvidence": "The user positively reports only the protected trio's internal handoffs. No listener report covers Stardancer → Descant.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A long-form sequence may change rhythmic language after a resolved block if the change feels earned and creates a useful path forward; the broken-techno label alone cannot prove that.",
+        "editorialInterpretation": "Potential conspicuous post-trio fracture/redirection whose physicality, density and transition scale remain unknown."
       }
     }
   ]
