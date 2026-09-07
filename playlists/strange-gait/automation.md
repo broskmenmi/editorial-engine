@@ -4,6 +4,14 @@
 
 GitHub is the persistent source of truth. Target directory: `playlists/strange-gait/`.
 
+## Current schedule
+
+Run the existing STRANGE GAIT task **hourly for now**, until the user requests a change. The user changed it manually; live settings verified on 2026-09-07: `RRULE:FREQ=HOURLY`, timezone `Europe/Stockholm`, task ID `6a9bffba03cc819192efd0b728c0bd56`.
+
+Preserve the live task's start time and scheduling mode. Do not revert to a daily/morning schedule during maintenance or create a duplicate. Every hourly invocation executes the same full pre-audit and REPAIR/EXPLORE workflow below; the cadence does not relax evidence or publication rules.
+
+## Required reading
+
 Before every run read:
 
 - repository-level `AGENTS.md`;

@@ -51,8 +51,11 @@ The task prompt must:
 30. Require matching request fingerprint and `runId` values, treat terminal NONE as a completed zero-qualified-candidate result only when every lookup completed normally, and name every unresolved or duplicate lead plus exact error. Operational Spotify failures, stale inputs, and malformed, conflicting, stale, or missing snapshots are `*_NOT_COMPLETED`, never evidence from a prior run.
 31. Honor the target playlist's end-of-run analysis contract. When it requires `RUN ANALYSIS`, make the section mandatory after the map, ground it in the Auditor's evidence packet and persisted final state, and forbid it from reopening Scout, changing audited decisions, or creating telemetry-only commits.
 
-## Default schedule
-Use a daily flexible schedule at approximately 08:00 in the user's timezone unless the user specifies another cadence or time.
+## Current schedule
+
+STRANGE GAIT currently runs **hourly**, in `Europe/Stockholm`, per the user's manual schedule change confirmed on 2026-09-07. Its existing task ID is `6a9bffba03cc819192efd0b728c0bd56`, with `RRULE:FREQ=HOURLY`.
+
+This cadence is in effect for now, until the user requests another change. Preserve the live task's start time and scheduling mode; do not reset it to a daily/morning default, create a replacement task, or change cadence during prompt maintenance. Read the target playlist's `automation.md` for its current schedule. This STRANGE GAIT setting does not activate or reschedule another playlist.
 
 ## Canonical task prompt template
 

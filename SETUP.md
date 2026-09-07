@@ -145,10 +145,12 @@ The detailed interactive map is published at https://broskmenmi.github.io/editor
 
 ## 7. Create the recurring ChatGPT task
 
-The task is account-specific. In a ChatGPT conversation with GitHub connected, ask:
+The task is account-specific. STRANGE GAIT's existing task is enabled hourly for now (`RRULE:FREQ=HOURLY`, timezone `Europe/Stockholm`), following the user's manual change confirmed on 2026-09-07. Preserve that live schedule until the user requests otherwise. Task ID: `6a9bffba03cc819192efd0b728c0bd56`.
+
+In a ChatGPT conversation with GitHub connected, an instruction to maintain that task is:
 
 ```text
-Use the scheduler skill in .agents/skills/scheduler/SKILL.md to create a daily recurring task for playlists/groove-over-noise/ at 08:00 in my timezone.
+Use the scheduler skill in .agents/skills/scheduler/SKILL.md to maintain the existing hourly STRANGE GAIT task for playlists/strange-gait/. Preserve its current start time and Europe/Stockholm timezone. Do not create a duplicate task.
 ```
 
 Use one orchestrator task, not separate tasks for individual skills.
