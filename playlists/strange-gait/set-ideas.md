@@ -106,6 +106,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - ABSIS — `Arada` — exact PARKED emerging lead; release-level fractured-beat and thick-texture framing only
 - Caotical Disordah — `EX01` — exact PARKED emerging lead; release-level broken-rhythm / heavy-bass / experimental-texture framing only
 - Second Storey — `Cold Snap` — exact resolved alternate and local research lead; release-level electro / IDM / machine-funk and fractured-form framing, not evaluated
+- Hassan Abou Alam — `Mawgood` — exact PARKED discovery; reviewer-described sudden turn from quavering bassline into mangled synths and traditional folk drums
+- DJ JM — `Abnormal` — exact PARKED discovery; reviewer-described apparent speed changes, sharpened percussion and controlled irregularity
+- Dvärv — `Trama` — exact PARKED current discovery; community-selection provenance only, with track-specific behaviour unknown
+- Marcelus — `Velvet` — unresolved Spotify research lead; official exact-track offbeat-drum/percussion and synthetic-interruption description
 
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 

@@ -2,6 +2,72 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 56 — EXPLORE — current community release and overlooked controlled irregularity — 2026-09-07
+
+**Pre-audit:** EXPLORE. Run 55 left the 14-track canonical ledger unchanged, its three global-retention additions were exactly published, the generated map matched canonical state, and there was no active feedback discussion, triggered revisit, objective defect or pending repair. The scan excluded the Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes used recently.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T15:48:57Z-explore-56`
+- **sourceCommit:** `ec4a043c38155d0c21a1fcc06c69b3e763d7683f`
+- **request commit:** `b7c73c757bc6639c592f51d24b4749f1f747e2c2`
+- **snapshot commit:** `eeb892b37b28cdd374e7a7f094d4fb496f978ce0`
+- **request fingerprint:** `2f98a6177377b1ffa336a086d0932599cfe385d321f3de56e5642c4acbe3cd74`
+- **scope:** approximately 37 named tracks across eleven current, adjacent/emerging and overlooked-catalogue release/result windows. Primary lanes were Aedi Records' 2026 community-selected `Sisu`, Hassan Abou Alam's `Shalfata`, Evod Music's `Declinations`, and DJ JM's `Abnormal`; bounded September 4 and August 28 2026 Bandcamp windows widened the scan. Metadata and attributed descriptions only; zero audio auditions.
+- **freshness:** all 14 canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Recent source lanes were not retried.
+- **ranked leads:** 1. Marcelus — Velvet; 2. Hassan Abou Alam — Mawgood; 3. DJ JM — Abnormal; 4. Dvärv — Trama. Four honest leads were retained without padding.
+
+### Resolver result — PARTIAL
+
+The immutable schema-v2 snapshot matches the request and is internally terminal: four leads → three exact resolutions → three selected candidates + one unresolved lead. No duplicate, substitution or resolved alternate was returned.
+
+- **Marcelus — Velvet:** unresolved with exact error `no exact Spotify title/artist search match in market SE`. It receives no canonical evaluation or musical verdict.
+- **Hassan Abou Alam — Mawgood:** exact `spotify:track:1AcRnEVziBQe6l2KmoRf8a`; selected; BPM unknown. Warning preserved: requested release date `2023-12`, Spotify returned `2023-12-14`.
+- **DJ JM — Abnormal:** exact `spotify:track:7Evakd6nBpDjZTmoryII89`; selected; BPM unknown. Warning preserved: requested release date `2023-09`, Spotify returned `2023-09-22`.
+- **Dvärv — Trama:** exact `spotify:track:3vSWGWdce1i6LJUL0JjCB2`; selected; BPM unknown.
+
+### PARKED — Hassan Abou Alam — Mawgood
+
+- **Exact URI / metadata:** `spotify:track:1AcRnEVziBQe6l2KmoRf8a`; Spotify duration 225002 ms (3:45); Spotify release date 2023-12-14; BPM unknown.
+- **Volume fit:** STRONG PROVISIONAL BELONGING. Resident Advisor's exact-track review describes a quavering bassline making a sudden turn into a breakdown of mangled synths and traditional folk drums. That is direct evidence of structural freedom, not a claim that the workflow heard the track.
+- **Immediate transition:** NOT PASSED. A pre-Marauder entrance and Moonwake → Mawgood → Capa are both lawful, conspicuous-turn hypotheses. Neither has BPM, perceived-pulse, phrase or heard evidence establishing how Mawgood enters or exits.
+- **Surrounding run:** Mawgood → Marauder → The Witching Hour → Cave could create an intentionally unstable prelude, while Too Much Time → Moonwake → Mawgood → Capa → Thick to Handle could make the middle more radically articulated. The exact-track review explains why the turn is interesting, but not whether either run gains focus rather than attention cost.
+- **Long-form journey:** NOT YET PASSED. A new opening event or another central fracture would materially change the 14-track journey, but current evidence does not establish that either stage is needed. PARKED for lawful audio, metrical, listener or changed-structure evidence.
+
+### PARKED — DJ JM — Abnormal
+
+- **Exact URI / metadata:** `spotify:track:7Evakd6nBpDjZTmoryII89`; Spotify duration 395500 ms (6:36); Spotify release date 2023-09-22; BPM unknown.
+- **Volume fit:** STRONG PROVISIONAL BELONGING. Resident Advisor's exact-track review describes needlepoint hats and snares, a sensation of changing speed and unusual synth events, while stressing that the result remains controlled rather than chaotic. This directly supports the selection lens.
+- **Immediate transition:** NOT PASSED. Fragments → Abnormal → Drummz and Truth in Noise → Abnormal → Transparency are plausible non-protected placements, but unknown pulse/BPM and no heard transition evidence leave all four handoffs unresolved.
+- **Surrounding run:** The first placement could intensify the late-middle sequence of irregular forms; the second could turn the available pre-trio boundary into a conspicuous controlled pivot. The same evidence also supports the counter-risk that either placement over-articulates a run that already has Fragments and Drummz. No local-run effect is proven.
+- **Long-form journey:** NOT YET PASSED. Controlled irregularity belongs to the volume's interests, but another 6:36 stage is not justified by selection-lens strength alone. PARKED pending evidence that one placement improves the complete journey.
+
+### PARKED — Dvärv — Trama
+
+- **Exact URI / metadata:** `spotify:track:3vSWGWdce1i6LJUL0JjCB2`; Spotify duration 357958 ms (5:58); release date 2026-08-28; BPM unknown.
+- **Volume fit:** UNDERDESCRIBED. Aedi Records establishes that Trama is an exact current track selected anonymously by its producer community for a deep/hypnotic techno compilation. That provenance justified inspection but provides no track-specific rhythmic or structural behaviour.
+- **Immediate transition:** NOT PASSED. Cave → Trama → Too Much Time and Stardancer → Trama remain lawful whole-journey tests, but no exact-track pulse, phrase, density or transition evidence supports either.
+- **Surrounding run:** The early placement could add a current emerging voice between 134 and 140 BPM neighbours whose numbers do not describe felt flow; the tail option could open another world. Both are abstract possibilities because the source does not describe the track itself.
+- **Long-form journey:** NOT YET PASSED. Community selection, recency and genre tags do not establish a canonical job. PARKED as a current exact discovery, pending track-specific evidence or changed structural need.
+
+### Inspiration retention
+
+- Mawgood, Abnormal and Trama enter the target-local and doctrine-free global discovery layers as selected exact PARKED tracks that remain genuinely interesting.
+- Velvet remains only a target-local unresolved research lead with its exact resolver error preserved; it is not eligible for the global utility ledger.
+- The `Different worlds, continuous intent` sketch absorbs all four as unproven ingredients. No proposed pair is treated as a proven sequence or live-mixing edge.
+
+### Sequencer / Auditor
+
+Approved **0 ADD and 3 PARKED** verdicts. The Auditor accepted strong exact-track selection-lens evidence for Mawgood and Abnormal, and current-release discovery value for Trama, but vetoed canonical admission because none passes immediate transition, surrounding-run and long-form evidence. Approved local inspiration updates and three exact selected-track additions to EDITORIAL ENGINE — DISCOVERY POOL. Velvet is preserved as unresolved without a musical verdict or global admission. No existing canonical track is removed or reordered; the protected `Transparency → When We Froze → Stardancer` internal order remains exact and `Truth in Noise → Transparency` remains unprotected.
+
+**Canonical order / working tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Thick to Handle 138 → Tehutis Law 139 → Fragments 140 → Drummz 138 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. `*` Transparency 143/107 conflict preserved.
+
+**Publication:** no STRANGE GAIT publication input changes. This editorial record authorizes the EDITORIAL ENGINE — DISCOVERY POOL ledger change from 76 to 79 tracks. Exact Spotify completion must come only from the post-publication `spotify-status.json` read-back; this record does not pre-claim success.
+
+**RUN ANALYSIS:** Approximately 37 inspected tracks → 4 ranked leads → 3 exact resolutions + 1 unresolved → 3 selected evaluations → 0 ADD + 3 PARKED. Mawgood and Abnormal are the strongest findings because their exact-track reviews describe structural turns and controlled irregularity directly; both still fail admission because proposed transitions, surrounding runs and long-form gain are unproven. Trama succeeds as a current exact discovery but its community-selection provenance cannot substitute for track-specific evidence. The strongest counterargument is that one of the two conspicuous-turn tracks may work precisely because the playlist permits different worlds, and the evidence contract may be conservatively parking it without audio. This run proves a fresh whole-journey scan found three useful exact discoveries and one unresolved research lead; it does not prove any candidate's proposed transition fails, that Velvet is absent outside Spotify market SE, or that STRANGE GAIT is complete. Audio analysis and live mixing were **NOT TESTED**.
+
+---
+
 ## Run 55 — EXPLORE — Delsin, emerging broken forms and overlooked machine funk — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 54's canonical and global-ledger changes were exactly published and verified, the generated 14-track map matched canonical state, there was no active feedback discussion or objective defect, and every live revisit was PARKED rather than TRIGGERED. The fresh scan excluded the Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes used in Runs 53–54.

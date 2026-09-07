@@ -2,6 +2,12 @@
 
 Canonical: 14 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 56 — EXPLORE — current community release and controlled irregularity
+
+Four ranked leads produced a matching PARTIAL resolver snapshot: Hassan Abou Alam — Mawgood, DJ JM — Abnormal and Dvärv — Trama resolved and were selected; Marcelus — Velvet remained unresolved with exact error `no exact Spotify title/artist search match in market SE`. The requested month versus Spotify exact-date warnings for Mawgood and Abnormal are preserved. There were no duplicates, substitutions or resolved alternates.
+
+**Decision:** 0 ADD, 3 PARKED. Mawgood and Abnormal have unusually direct exact-track evidence for structural freedom and controlled irregularity, but neither proposed opening, middle, late-middle or pre-trio placement passes immediate-transition, surrounding-run and long-form evidence. Trama is a useful current exact discovery whose source establishes community-selection provenance rather than track-specific behaviour. The canonical ledger remains 14 tracks. Audio/live NOT TESTED.
+
 ## Run 55 — EXPLORE — whole-journey fractured-form scan
 
 Four ranked leads produced a matching COMPLETE resolver snapshot: Answer Code Request — Refraction, ABSIS — Arada and Caotical Disordah — EX01 were selected as exact candidates; Second Storey — Cold Snap resolved as an exact alternate and was not evaluated. There were no warnings, unresolved identities, duplicates or substitutions.
