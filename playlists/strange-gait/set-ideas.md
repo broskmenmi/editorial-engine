@@ -97,6 +97,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Shaun Moses — `Nostalgia` — exact PARKED discovery; label-described Detroit pads over a kick/bass foundation
 - Perc & Barbosa — `One` — unresolved Spotify research lead; exact-track bass-heavy minimalist and dislocated-vocal description
 - Batu & Donato Dozzy — `Spiral` — unresolved Spotify research lead; reviewer-described acid, dub-percussion and dancehall-cadence hybrid
+- Spekki Webu — `Goodbye Universe` — unresolved exact-identity lead; reviewer-described broken-beat, live/off-grid construction with backwards fills
+- Spekki Webu — `iii9` — unresolved overlooked-catalogue lead; exact-track offbeat gated pulse develops toward polyrhythmic pressure
+- Surgeon — `Brownian Motion (Justyn Nell Remix)` — unresolved current-release lead; label-described precision-percussion and dynamic construction
 
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
