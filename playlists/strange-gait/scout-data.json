@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "c8b868e416b26cfc69d1d693ff6b06a8680b770ec803b6b17d1360af5873eccf",
-  "generatedAt": "2026-09-07T12:16:16.756Z",
-  "runId": "2026-09-07T12:15:11Z-repair-whole-journey-52a",
-  "sourceCommit": "360ed25333179fde0bc771b2f3b746da23be08c1",
+  "requestFingerprint": "5456c06047923daaec8b622c3a677bc791ca55a2f76388f4484818c5a385a86a",
+  "generatedAt": "2026-09-07T12:19:03.946Z",
+  "runId": "2026-09-07T12:17:00Z-repair-whole-journey-52b",
+  "sourceCommit": "9a809c967e964df18c9aaf22ae28515ef0d09f54",
   "mode": "REPAIR",
   "target": {
     "role": "repair tail-only evaluation bias by reassessing known PARKED identities across the full non-protected STRANGE GAIT journey",
     "position": "Whole journey. Preserve Transparency → When We Froze → Stardancer internal handoffs; Truth in Noise → Transparency and all other non-frozen boundaries remain available.",
     "neighbours": [],
-    "purpose": "Reassess exact identities whose earlier verdicts depended on a preselected post-Stardancer slot. Test their strongest plausible current placements without treating BPM, novelty or source language as proof of flow."
+    "purpose": "Reassess exact identities from Run 50 whose earlier verdicts inherited a post-Stardancer slot. Test stronger current placements across the whole journey."
   },
   "explorationReceipt": null,
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
@@ -23,428 +23,428 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "brenner",
-        "track": "Thick to Handle",
-        "album": "Learning to Dance Again",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
-        "bpm": 138,
-        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+        "artist": "D-Leria",
+        "track": "Shark Attak",
+        "album": "Curation Six: GiGi FM",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "5tABEVUh6NsW49fLp6oOYt",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm",
         "searchIntent": "BOTH",
         "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test percussion-centred polyrhythmic restraint as a deliberate handoff from intensification into Capa's rhythmic redirection."
+          },
           {
             "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
             "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
             "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": 137,
-            "candidateBpm": 138,
+            "candidateBpm": null,
             "outgoingBpm": 139,
-            "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+            "purpose": "Test whether its source-described polyrhythmic percussion deepens the existing tilt passage before Tehutis Law re-grounds the groove."
+          }
+        ],
+        "fitHypothesis": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak. That is unusually strong STRANGE GAIT selection-lens evidence and deserves whole-journey placement testing.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "Spotify duration from Run 50: 5:46",
+            "BPM unknown"
+          ],
+          "attributedDescription": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A percussion-led track may work best at an existing rhythmic redirection rather than as a new tail section.",
+          "editorialInterpretation": "Potential transition from Moonwake into Capa or a deeper Capa-to-Tehutis tilt passage; actual pulse and transition feel remain unknown."
+        }
+      },
+      "spotifyTrackId": "5tABEVUh6NsW49fLp6oOYt",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Rene Wise",
+        "track": "Dynamic",
+        "album": "Curation Two: D.Dan",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "7MlbEOg0fEFcYLkKNDVhBV",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-02-d-dan",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a fluid rolling bridge with subtle disruption between the grounded opening and the physical widening."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test whether a rolling, subtly disrupted tension stage creates a more intentional entry into the protected trio. Transparency's 143/107 conflict remains unresolved and is not treated as flow evidence."
+          }
+        ],
+        "fitHypothesis": "The Third Room describes Dynamic as a fluid, rolling tool shaped by subtle disruptions and evolving tension. That supports rhythmic freedom and controlled continuity without depending on novelty.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "Spotify duration from Run 50: 5:19",
+            "BPM unknown"
+          ],
+          "attributedDescription": "The Third Room describes Dynamic as fluid and rolling, with subtle disruptions and evolving tension.",
+          "listenerEvidence": "No candidate-specific listener report. The listener-protected evidence applies only inside the trio.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A subtle rolling stage can connect two worlds if it preserves intent rather than merely adding another tool track.",
+          "editorialInterpretation": "Potential bridge into Too Much Time or into the protected trio; actual transition and long-form effects remain unknown."
+        }
+      },
+      "spotifyTrackId": "7MlbEOg0fEFcYLkKNDVhBV",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "1morning",
+        "track": "Untitled",
+        "album": "Curation Three: Verraco",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "7idn7TKy3tKPXjrhfNrwmC",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-03-verraco",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test the source-described rolling tribal-infused groove as a bodily bridge into Capa's rhythmic redirection."
           },
           {
             "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
             "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
             "incomingBpm": 140,
-            "candidateBpm": 138,
+            "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
+            "purpose": "Test whether its rolling percussive depth can turn driving re-escalation into groove consolidation without feeling like a random style change."
           }
         ],
-        "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
+        "fitHypothesis": "The Third Room attributes a rolling, tribal-infused groove and depth to the exact track. That supports bodily and rhythmic interest but remains attributed description rather than heard behaviour.",
         "evidence": {
           "measured": [
             "exact Spotify identity",
-            "138 BPM",
-            "resolver duration from Run 48: 4:39"
+            "Spotify duration from Run 50: 5:32",
+            "BPM unknown"
           ],
-          "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
-          "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
-          "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
-        }
-      },
-      "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "CONFUSION (RASEREI)",
-        "track": "DT229",
-        "album": "Vakuum EP",
-        "releaseDate": "2025-12-05",
-        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
-        "bpm": 135,
-        "bpmSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
-        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": 135,
-            "outgoingBpm": 134,
-            "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": 135,
-            "outgoingBpm": 140,
-            "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
-          }
-        ],
-        "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
-        "evidence": {
-          "measured": [
-            "exact Spotify identity",
-            "135 BPM",
-            "resolver duration from Run 47: 2:55"
-          ],
-          "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
+          "attributedDescription": "The Third Room attributes a rolling, tribal-infused groove and depth to 1morning — Untitled.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
-          "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
+          "craftConvention": "A rolling percussion-led track can deepen an existing rhythmic passage if the surrounding run stays coherent.",
+          "editorialInterpretation": "Potential Moonwake→Capa bridge or Fragments→Truth in Noise groove turn; exact pulse and transition remain unknown."
         }
       },
-      "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "brenner",
-        "track": "Waltz",
-        "album": "Learning to Dance Again",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
-        "bpm": 135,
-        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": 135,
-            "outgoingBpm": 134,
-            "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": 135,
-            "outgoingBpm": 140,
-            "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
-          }
-        ],
-        "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
-        "evidence": {
-          "measured": [
-            "exact Spotify identity",
-            "135 BPM",
-            "resolver duration from Run 48: 5:43"
-          ],
-          "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
-          "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
-        }
-      },
-      "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
+      "spotifyTrackId": "7idn7TKy3tKPXjrhfNrwmC",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "7CUodG7GLLbzOtO6qXGJxT",
-      "uri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-      "name": "Thick to Handle",
+      "id": "5tABEVUh6NsW49fLp6oOYt",
+      "uri": "spotify:track:5tABEVUh6NsW49fLp6oOYt",
+      "name": "Shark Attak",
       "artists": [
-        "brenner"
+        "D-Leria"
       ],
-      "album": "Learning to Dance Again",
-      "releaseDate": "2026-09-04",
-      "durationMs": 279375,
-      "spotifyUrl": "https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT",
-      "bpm": 138,
-      "tempoSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+      "album": "Curation Six: GiGi FM",
+      "releaseDate": "2026-08-14",
+      "durationMs": 346182,
+      "spotifyUrl": "https://open.spotify.com/track/5tABEVUh6NsW49fLp6oOYt",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm",
       "searchIntent": "BOTH",
       "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test percussion-centred polyrhythmic restraint as a deliberate handoff from intensification into Capa's rhythmic redirection."
+        },
         {
           "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
           "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
           "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": 137,
-          "candidateBpm": 138,
+          "candidateBpm": null,
           "outgoingBpm": 139,
-          "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+          "purpose": "Test whether its source-described polyrhythmic percussion deepens the existing tilt passage before Tehutis Law re-grounds the groove."
+        }
+      ],
+      "fitHypothesis": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak. That is unusually strong STRANGE GAIT selection-lens evidence and deserves whole-journey placement testing.",
+      "evidence": {
+        "measured": [
+          "exact Spotify identity",
+          "Spotify duration from Run 50: 5:46",
+          "BPM unknown"
+        ],
+        "attributedDescription": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A percussion-led track may work best at an existing rhythmic redirection rather than as a new tail section.",
+        "editorialInterpretation": "Potential transition from Moonwake into Capa or a deeper Capa-to-Tehutis tilt passage; actual pulse and transition feel remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "D-Leria",
+        "track": "Shark Attak",
+        "album": "Curation Six: GiGi FM",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "5tABEVUh6NsW49fLp6oOYt",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test percussion-centred polyrhythmic restraint as a deliberate handoff from intensification into Capa's rhythmic redirection."
+          },
+          {
+            "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": 139,
+            "purpose": "Test whether its source-described polyrhythmic percussion deepens the existing tilt passage before Tehutis Law re-grounds the groove."
+          }
+        ],
+        "fitHypothesis": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak. That is unusually strong STRANGE GAIT selection-lens evidence and deserves whole-journey placement testing.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "Spotify duration from Run 50: 5:46",
+            "BPM unknown"
+          ],
+          "attributedDescription": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A percussion-led track may work best at an existing rhythmic redirection rather than as a new tail section.",
+          "editorialInterpretation": "Potential transition from Moonwake into Capa or a deeper Capa-to-Tehutis tilt passage; actual pulse and transition feel remain unknown."
+        }
+      }
+    },
+    {
+      "id": "7MlbEOg0fEFcYLkKNDVhBV",
+      "uri": "spotify:track:7MlbEOg0fEFcYLkKNDVhBV",
+      "name": "Dynamic",
+      "artists": [
+        "Rene Wise"
+      ],
+      "album": "Curation Two: D.Dan",
+      "releaseDate": "2026-08-14",
+      "durationMs": 318861,
+      "spotifyUrl": "https://open.spotify.com/track/7MlbEOg0fEFcYLkKNDVhBV",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-02-d-dan",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a fluid rolling bridge with subtle disruption between the grounded opening and the physical widening."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test whether a rolling, subtly disrupted tension stage creates a more intentional entry into the protected trio. Transparency's 143/107 conflict remains unresolved and is not treated as flow evidence."
+        }
+      ],
+      "fitHypothesis": "The Third Room describes Dynamic as a fluid, rolling tool shaped by subtle disruptions and evolving tension. That supports rhythmic freedom and controlled continuity without depending on novelty.",
+      "evidence": {
+        "measured": [
+          "exact Spotify identity",
+          "Spotify duration from Run 50: 5:19",
+          "BPM unknown"
+        ],
+        "attributedDescription": "The Third Room describes Dynamic as fluid and rolling, with subtle disruptions and evolving tension.",
+        "listenerEvidence": "No candidate-specific listener report. The listener-protected evidence applies only inside the trio.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A subtle rolling stage can connect two worlds if it preserves intent rather than merely adding another tool track.",
+        "editorialInterpretation": "Potential bridge into Too Much Time or into the protected trio; actual transition and long-form effects remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "Rene Wise",
+        "track": "Dynamic",
+        "album": "Curation Two: D.Dan",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "7MlbEOg0fEFcYLkKNDVhBV",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-02-d-dan",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a fluid rolling bridge with subtle disruption between the grounded opening and the physical widening."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test whether a rolling, subtly disrupted tension stage creates a more intentional entry into the protected trio. Transparency's 143/107 conflict remains unresolved and is not treated as flow evidence."
+          }
+        ],
+        "fitHypothesis": "The Third Room describes Dynamic as a fluid, rolling tool shaped by subtle disruptions and evolving tension. That supports rhythmic freedom and controlled continuity without depending on novelty.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "Spotify duration from Run 50: 5:19",
+            "BPM unknown"
+          ],
+          "attributedDescription": "The Third Room describes Dynamic as fluid and rolling, with subtle disruptions and evolving tension.",
+          "listenerEvidence": "No candidate-specific listener report. The listener-protected evidence applies only inside the trio.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A subtle rolling stage can connect two worlds if it preserves intent rather than merely adding another tool track.",
+          "editorialInterpretation": "Potential bridge into Too Much Time or into the protected trio; actual transition and long-form effects remain unknown."
+        }
+      }
+    },
+    {
+      "id": "7idn7TKy3tKPXjrhfNrwmC",
+      "uri": "spotify:track:7idn7TKy3tKPXjrhfNrwmC",
+      "name": "Untitled",
+      "artists": [
+        "1morning"
+      ],
+      "album": "Curation Three: Verraco",
+      "releaseDate": "2026-08-14",
+      "durationMs": 331941,
+      "spotifyUrl": "https://open.spotify.com/track/7idn7TKy3tKPXjrhfNrwmC",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-03-verraco",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test the source-described rolling tribal-infused groove as a bodily bridge into Capa's rhythmic redirection."
         },
         {
           "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
           "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
           "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": 140,
-          "candidateBpm": 138,
+          "candidateBpm": null,
           "outgoingBpm": 138,
-          "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
+          "purpose": "Test whether its rolling percussive depth can turn driving re-escalation into groove consolidation without feeling like a random style change."
         }
       ],
-      "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
+      "fitHypothesis": "The Third Room attributes a rolling, tribal-infused groove and depth to the exact track. That supports bodily and rhythmic interest but remains attributed description rather than heard behaviour.",
       "evidence": {
         "measured": [
           "exact Spotify identity",
-          "138 BPM",
-          "resolver duration from Run 48: 4:39"
+          "Spotify duration from Run 50: 5:32",
+          "BPM unknown"
         ],
-        "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
-        "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
+        "attributedDescription": "The Third Room attributes a rolling, tribal-infused groove and depth to 1morning — Untitled.",
+        "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
-        "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
+        "craftConvention": "A rolling percussion-led track can deepen an existing rhythmic passage if the surrounding run stays coherent.",
+        "editorialInterpretation": "Potential Moonwake→Capa bridge or Fragments→Truth in Noise groove turn; exact pulse and transition remain unknown."
       },
       "requestedIdentity": {
-        "artist": "brenner",
-        "track": "Thick to Handle",
-        "album": "Learning to Dance Again",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
-        "bpm": 138,
-        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+        "artist": "1morning",
+        "track": "Untitled",
+        "album": "Curation Three: Verraco",
+        "releaseDate": "2026-08-14",
+        "spotifyTrackId": "7idn7TKy3tKPXjrhfNrwmC",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-03-verraco",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": 137,
-            "candidateBpm": 138,
-            "outgoingBpm": 139,
-            "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test the source-described rolling tribal-infused groove as a bodily bridge into Capa's rhythmic redirection."
           },
           {
             "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
             "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
             "incomingBpm": 140,
-            "candidateBpm": 138,
+            "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
+            "purpose": "Test whether its rolling percussive depth can turn driving re-escalation into groove consolidation without feeling like a random style change."
           }
         ],
-        "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
+        "fitHypothesis": "The Third Room attributes a rolling, tribal-infused groove and depth to the exact track. That supports bodily and rhythmic interest but remains attributed description rather than heard behaviour.",
         "evidence": {
           "measured": [
             "exact Spotify identity",
-            "138 BPM",
-            "resolver duration from Run 48: 4:39"
+            "Spotify duration from Run 50: 5:32",
+            "BPM unknown"
           ],
-          "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
-          "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
-          "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
-        }
-      }
-    },
-    {
-      "id": "2WtWAoWLGG7w0gr8m5qr2i",
-      "uri": "spotify:track:2WtWAoWLGG7w0gr8m5qr2i",
-      "name": "DT229",
-      "artists": [
-        "CONFUSION (RASEREI)"
-      ],
-      "album": "Vakuum EP",
-      "releaseDate": "2025-12-05",
-      "durationMs": 175448,
-      "spotifyUrl": "https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i",
-      "bpm": 135,
-      "tempoSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
-      "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": 136,
-          "candidateBpm": 135,
-          "outgoingBpm": 134,
-          "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
-        },
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": 135,
-          "outgoingBpm": 140,
-          "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
-        }
-      ],
-      "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
-      "evidence": {
-        "measured": [
-          "exact Spotify identity",
-          "135 BPM",
-          "resolver duration from Run 47: 2:55"
-        ],
-        "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
-        "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
-      },
-      "requestedIdentity": {
-        "artist": "CONFUSION (RASEREI)",
-        "track": "DT229",
-        "album": "Vakuum EP",
-        "releaseDate": "2025-12-05",
-        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
-        "bpm": 135,
-        "bpmSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
-        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": 135,
-            "outgoingBpm": 134,
-            "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": 135,
-            "outgoingBpm": 140,
-            "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
-          }
-        ],
-        "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
-        "evidence": {
-          "measured": [
-            "exact Spotify identity",
-            "135 BPM",
-            "resolver duration from Run 47: 2:55"
-          ],
-          "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
+          "attributedDescription": "The Third Room attributes a rolling, tribal-infused groove and depth to 1morning — Untitled.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
-          "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
-        }
-      }
-    },
-    {
-      "id": "6IbZAmQ3blSb2aaHCsH05Q",
-      "uri": "spotify:track:6IbZAmQ3blSb2aaHCsH05Q",
-      "name": "Waltz",
-      "artists": [
-        "brenner"
-      ],
-      "album": "Learning to Dance Again",
-      "releaseDate": "2026-09-04",
-      "durationMs": 342976,
-      "spotifyUrl": "https://open.spotify.com/track/6IbZAmQ3blSb2aaHCsH05Q",
-      "bpm": 135,
-      "tempoSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": 136,
-          "candidateBpm": 135,
-          "outgoingBpm": 134,
-          "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
-        },
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": 135,
-          "outgoingBpm": 140,
-          "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
-        }
-      ],
-      "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
-      "evidence": {
-        "measured": [
-          "exact Spotify identity",
-          "135 BPM",
-          "resolver duration from Run 48: 5:43"
-        ],
-        "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
-        "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
-      },
-      "requestedIdentity": {
-        "artist": "brenner",
-        "track": "Waltz",
-        "album": "Learning to Dance Again",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
-        "bpm": 135,
-        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
-        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": 135,
-            "outgoingBpm": 134,
-            "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": 135,
-            "outgoingBpm": 140,
-            "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
-          }
-        ],
-        "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
-        "evidence": {
-          "measured": [
-            "exact Spotify identity",
-            "135 BPM",
-            "resolver duration from Run 48: 5:43"
-          ],
-          "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
-          "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
+          "craftConvention": "A rolling percussion-led track can deepen an existing rhythmic passage if the surrounding run stays coherent.",
+          "editorialInterpretation": "Potential Moonwake→Capa bridge or Fragments→Truth in Noise groove turn; exact pulse and transition remain unknown."
         }
       }
     }
