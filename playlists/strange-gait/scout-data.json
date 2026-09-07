@@ -1,244 +1,63 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "cd6dd8337226a36f36200ab144b5379a4dc9d810b334e7d950421a5ac212140a",
-  "generatedAt": "2026-09-07T16:58:12.082Z",
-  "runId": "2026-09-07T16:51:29Z-explore-57",
-  "sourceCommit": "ee982e2f745920bbefc3007c2801366a0572f3b1",
+  "requestFingerprint": "1be09653d0cd15d5fd8a46a546d48cf916a32aea9e8e161c8c0f8ad604f07192",
+  "generatedAt": "2026-09-07T18:00:05.673Z",
+  "runId": "2026-09-07T17:52:14Z-explore-58",
+  "sourceCommit": "022e67c8b919261e0724da02251b99daea44f864",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test current, adjacent/emerging and overlooked material against its strongest plausible lawful placement. Different production worlds and hard left turns may pass when the move makes sense at transition, local-run and long-form scales; selection-lens interest alone is insufficient."
+    "purpose": "Test current Livity Sound material, adjacent UK bass/techno hybrids and overlooked rhythm-first catalogue tracks against their strongest plausible lawful placements. Hard resets and changes of production world may pass when transition, local-run and long-form effects make sense; selection-lens interest alone is insufficient."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-07T16:51:29Z",
+    "timestampUtc": "2026-09-07T17:52:14Z",
     "sourceWindows": [
-      "CURRENT / EMERGING: https://echoveil-records.bandcamp.com/album/nothing-is-coming — all five tracks on Knifework's first release, issued 2026-09-05, screened. Hidden Curriculum retained as the longest full track from a release explicitly combining beats, analogue synthesis, industrial/EBM and minimal-techno contexts; the source gives release-level rather than track-specific behaviour.",
-      "CURRENT TECHNO NETWORK: https://moleculartechno.bandcamp.com/album/structure-series-3 — all six listed tracks on the 2026-09-01 compilation screened. Hugo Rolan — Impacto Aleatorio retained as an emerging-producer exact identity from a release described at collection level through shifting textures/intensities, raw groove and precise rhythmic architecture; no track-specific behaviour is claimed.",
-      "OVERLOOKED CATALOGUE: https://ra.co/reviews/36286 — all eighteen tracks on 2025's Klubnacht 01 screened. Azu Tiwaline & Cinna Peyghamy — Chrome Fever retained because Resident Advisor's exact-track review describes irregular pulse and off-kilter syncopation weaving off grid and disrupting four-on-the-floor motion.",
-      "ADJACENT / OVERLOOKED: https://ra.co/reviews/36168 — all four tracks on Danny Daze & Jonny From Space's 2024 Tumbadora EP screened. The title track retained because the exact-track review places it inside sludgy polyrhythmic electro/techno and singles it out as rigorously detailed, cross-genre club music.",
-      "ADDITIONAL WINDOWS: Ploy's eight-track 2025 It's Later Than You Think release, Hieroglyphic Being's twelve-track 2025 The Sound Of Something Ending, Sleeparchive's four-track 2026 underscore release, and Ali Berger's 2026 and 2023 improvised-recording catalogues were screened. Their strongest exact tracks ranked below this run's four leads or lacked enough track-specific evidence to justify another resolver slot."
+      "CURRENT: https://forestdrivewest.bandcamp.com/album/scatter-ep — all four tracks on Terrain's 2026-04-10 Livity Sound release screened. Scatter retained because the official exact-track note calls it a punchy broken-techno workout teetering on the edge of breakbeat; Beatport separately lists 83 BPM and 6:15.",
+      "CURRENT / EMERGING: https://joemilli.bandcamp.com/album/repetitions-ep — all four tracks on Joe Milli's 2026-05-29 Livity Sound release screened. The Less You Know retained because the official exact-track note identifies tense, precisely arranged hand drums and a minimal finish; Beatport separately lists 130 BPM and 4:59.",
+      "ADJACENT / OVERLOOKED: https://ra.co/reviews/34483 — all four tracks on Batu's 2021 I Own Your Energy EP screened. Go Deeper retained because Resident Advisor's exact-track review describes a half-time kick, off-kilter snares and a lopsided groove.",
+      "OVERLOOKED CATALOGUE: https://ra.co/reviews/33427 and https://stepballchain.bandcamp.com/album/roza-terenzi-stylish-tantrum — both tracks on Roza Terenzi's 2020 release screened. Stylish Tantrum retained because the exact-track review describes a half-time opening that ramps toward 150 BPM; retailer tempo fields conflict and are not treated as authoritative.",
+      "ADDITIONAL WINDOWS: Surgeons Girl's five-track 2026 A Moment To Machine EP, Yushh's five-track 2026 Full Body AXY, Shed's 2008 Shedding The Past, and Timedance's 2020 Sharpen, Moving compilation were screened. Rested, the Full Body AXY title track, Boose Sweep and Peter Van Hoesen — L9T ranked below the four retained leads or had weaker exact-track evidence for this finite request."
     ],
-    "approximateInspectedScope": "Approximately 54 named tracks across eight current, emerging, adjacent and overlooked release/review windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 41 named tracks across eight current, adjacent/emerging and overlooked release/review windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Recent Aedi, Evod, RA Shalfata/Abnormal, Delsin, 30D, No.Identity, Mechatronica, Outer Orbit, Soma, Seismic, Sublunar, Sun People, OODA and QEONE lanes were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. The Run 53–57 RA, Seismic, Soma, Sublunar, 30D, No.Identity, Aedi, Evod, Echoveil and Molecular lanes were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "Ploy — Admirer, Hieroglyphic Being — Temple Wide Open and Danny Daze & Jonny From Space — Sweet Spot Radio had useful exact-track descriptions but ranked below Chrome Fever and Tumbadora for this run's finite resolution set. They remain newly inspected, not rejected or retained discoveries.",
-      "No lead was promoted for recency, artist reputation, genre, title, novelty, structural cleverness or assumed BPM. Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
+      "Terrain — Barossa Dub and Hive were not retained: they already appear in GROOVE OVER NOISE history, which was read only for duplicate control and was not mutated. Terrain — Scatter is a different exact track.",
+      "No lead was promoted for recency, label reputation, genre, title, novelty, structural cleverness or BPM. Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Azu Tiwaline & Cinna Peyghamy — Chrome Fever: exact-track review describes an irregular, off-grid pulse that disrupts four-on-the-floor motion; strongest overlooked structural lead.",
-      "2. Danny Daze & Jonny From Space — Tumbadora: exact-track review identifies a rigorously detailed, sludgy polyrhythmic electro/techno construction with a deliberately promiscuous genre language; strong adjacent-world lead.",
-      "3. Knifework — Hidden Curriculum: current debut-release exact identity from a short industrial/EBM/minimal-techno hybrid; release-level evidence only, retained as an honest emerging lead.",
-      "4. Hugo Rolan — Impacto Aleatorio: current emerging-producer compilation identity from a collection framed around shifting textures, raw groove and precise rhythmic architecture; track-specific behaviour remains unknown."
+      "1. Terrain — Scatter: current exact-track description of broken techno at the edge of breakbeat; strongest current structural lead.",
+      "2. Batu — Go Deeper: overlooked exact-track account of half-time kick, off-kilter snares and a lopsided groove; strongest adjacent-world lead.",
+      "3. Joe Milli — The Less You Know: current emerging exact-track description centred on tense, precisely arranged hand drums; strongest restrained percussion lead.",
+      "4. Roza Terenzi — Stylish Tantrum: overlooked exact-track account of a half-time opening ramping toward 150 BPM; strongest explicit within-track tempo-turn lead."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
-  "unresolved": [
+  "resolvedCount": 4,
+  "candidateCount": 3,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
+  "warnings": [
     {
-      "artist": "Azu Tiwaline & Cinna Peyghamy",
-      "track": "Chrome Fever",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Azu Tiwaline & Cinna Peyghamy",
-        "track": "Chrome Fever",
-        "album": "Klubnacht 01",
-        "releaseDate": "2025-06",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36286",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a documented off-grid interruption before the existing rhythmic-redirection passage, without assuming irregularity establishes either handoff."
-          },
-          {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test the unprotected boundary before the listener-protected trio as a conspicuous rhythmic-language change; Transparency's disputed tempo remains non-proof."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor's exact-track review describes irregular pulse and off-kilter syncopation weaving off grid and disrupting four-on-the-floor motion. That directly supports the volume's selection lens, but it does not prove a useful canonical placement.",
-        "evidence": {
-          "measured": [
-            "RA reports June 2025 release",
-            "candidate BPM and exact Spotify identity unknown before resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes Chrome Fever's irregular pulse and off-kilter syncopation as weaving off grid and disrupting the four-on-the-floor chug.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A documented pulse disruption may create a deliberate hinge, but review prose cannot establish incoming/outgoing feel, bodily continuity or long-form gain.",
-          "editorialInterpretation": "Strong exact-track belonging hypothesis with credible middle and pre-trio regions; all four canonical evaluation scales remain open."
-        }
-      }
-    },
-    {
-      "artist": "Danny Daze & Jonny From Space",
-      "track": "Tumbadora",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Danny Daze & Jonny From Space",
-        "track": "Tumbadora",
-        "album": "Tumbadora EP",
-        "releaseDate": "2024-08",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36168",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether this documented electro/techno hybrid creates a purposeful entrance into the existing opening rather than an unrelated preface."
-          },
-          {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a conspicuous adjacent-world turn before the Capa → Thick to Handle passage, without inferring energy or mixability from genre language."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor places the title track within a sludgy, polyrhythmic electro/techno release and singles it out as complex and rigorously detailed. That supports cross-form curiosity but cannot establish transition or journey function.",
-        "evidence": {
-          "measured": [
-            "RA reports August 2024 publication/release context",
-            "candidate BPM and exact Spotify identity unknown before resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes the EP's originals as sludgy polyrhythmic electro and techno with Miami Bass and Latin-rhythm imprints, and singles Tumbadora out as especially complex and rigorously detailed.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A production-world change can be intentional without being smoothed away, but stylistic adjacency and complexity alone cannot justify canonical admission.",
-          "editorialInterpretation": "Strong different-worlds hypothesis for the opening or middle; immediate handoffs, local-run coherence and long-form need remain unknown."
-        }
-      }
-    },
-    {
-      "artist": "Knifework",
-      "track": "Hidden Curriculum",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Knifework",
-        "track": "Hidden Curriculum",
-        "album": "Nothing is Coming",
-        "releaseDate": "2026-09-05",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://echoveil-records.bandcamp.com/album/nothing-is-coming",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder as a possible brief new entrance",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a current emerging release as a distinct opening statement while refusing to infer Hidden Curriculum's individual behaviour from album-level prose."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Use an available early boundary to test whether the release's different production language clarifies or distracts from the existing widening passage."
-          }
-        ],
-        "fitHypothesis": "Hidden Curriculum is an exact current track on a first release whose source combines beats, analogue synthesis, industrial/EBM, propulsive krautrock and minimal-techno contexts. The evidence is release-level, so individual rhythmic or structural behaviour must remain unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 2:42",
-            "official release date 2026-09-05",
-            "candidate BPM and exact Spotify identity unknown before resolver"
-          ],
-          "attributedDescription": "The artist and label describe the release as combining beats, analogue synths, EBM/industrial machinery, propulsive krautrock improvisation and minimal-techno context. They do not describe Hidden Curriculum separately.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A short contrasting statement can alter an opening or early run, but release-level language cannot establish this track's pulse, density, energy or transition role.",
-          "editorialInterpretation": "Honest current/emerging research lead with potentially useful brevity and a different production world; canonical evidence is presently weak."
-        }
-      }
-    },
-    {
-      "artist": "Hugo Rolan",
-      "track": "Impacto Aleatorio",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Hugo Rolan",
-        "track": "Impacto Aleatorio",
-        "album": "Structure Series 3",
-        "releaseDate": "2026-09-01",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://moleculartechno.bandcamp.com/album/structure-series-3",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test a current emerging-producer identity in the early grounding run without assuming the compilation's shared language describes this track."
-          },
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether the current compilation identity adds a purposeful stage inside the rhythmic-redirection run; no sonic property is inferred from its title."
-          }
-        ],
-        "fitHypothesis": "Impacto Aleatorio is an exact current identity from a compilation that includes emerging producers and is described collectively through shifting textures/intensities, raw groove and precise rhythmic architecture. The source does not isolate this track's behaviour.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 4:26",
-            "official release date 2026-09-01",
-            "candidate BPM and exact Spotify identity unknown before resolver"
-          ],
-          "attributedDescription": "Molecular Recordings describes Structure Series 3 collectively through shifting textures and intensities, raw groove, atmospheric depth and precise rhythmic architecture; this is not a track-specific description.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Compilation context can justify exact-identity inspection, but cannot establish volume fit, any transition, local-run contribution or long-form journey effect.",
-          "editorialInterpretation": "Honest current/emerging lead; exact resolution may be useful, while canonical evidence remains intentionally weak."
-        }
-      }
+      "artist": "Batu",
+      "track": "Go Deeper",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"I Own Your Energy EP\" but Spotify returned \"I Own Your Energy\"; release date requested \"2021\" but Spotify returned \"2021-11-12\""
     }
   ],
-  "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Azu Tiwaline & Cinna Peyghamy",
-        "track": "Chrome Fever",
-        "album": "Klubnacht 01",
-        "releaseDate": "2025-06",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36286",
+        "artist": "Terrain",
+        "track": "Scatter",
+        "album": "Scatter EP",
+        "releaseDate": "2026-04-10",
+        "bpm": 83,
+        "bpmSource": "https://www.beatport.com/track/scatter/26906649",
+        "discoverySource": "https://forestdrivewest.bandcamp.com/album/scatter-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -246,9 +65,52 @@
             "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
             "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
             "incomingBpm": 140,
-            "candidateBpm": null,
+            "candidateBpm": 83,
             "outgoingBpm": 137,
-            "purpose": "Test a documented off-grid interruption before the existing rhythmic-redirection passage, without assuming irregularity establishes either handoff."
+            "purpose": "Test an unmistakable broken-techno reset before the existing Capa → Thick to Handle redirection; the large numeric change is evidence of scale, not an automatic failure."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": 83,
+            "purpose": "Test a new tail world as one whole-journey option, without privileging the tail or assuming a hard reset is inherently purposeful."
+          }
+        ],
+        "fitHypothesis": "The official exact-track description places Scatter at the edge of broken techno and breakbeat, directly supporting the volume's selection lens. That does not establish either transition or a needed journey function.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 6:15 and release date 2026-04-10",
+            "Beatport lists 83 BPM"
+          ],
+          "attributedDescription": "Livity Sound describes Scatter as a punchy broken-techno workout that teeters on the edge of breakbeat.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A conspicuous pulse reset can be an intentional hinge, but source prose and BPM cannot establish perceived pulse, handoff feel or local-run gain.",
+          "editorialInterpretation": "Strong current belonging hypothesis with a credible middle reset and tail alternative; all four canonical evaluation scales remain open."
+        }
+      },
+      "spotifyTrackId": "3HXAn5DElnz7fluduRen4W",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Batu",
+        "track": "Go Deeper",
+        "album": "I Own Your Energy EP",
+        "releaseDate": "2021",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34483",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test whether a documented half-time, off-kilter construction creates a purposeful entrance into the existing opening rather than an unrelated preface."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -260,39 +122,87 @@
             "purpose": "Test the unprotected boundary before the listener-protected trio as a conspicuous rhythmic-language change; Transparency's disputed tempo remains non-proof."
           }
         ],
-        "fitHypothesis": "Resident Advisor's exact-track review describes irregular pulse and off-kilter syncopation weaving off grid and disrupting four-on-the-floor motion. That directly supports the volume's selection lens, but it does not prove a useful canonical placement.",
+        "fitHypothesis": "Resident Advisor's exact-track account of half-time kick, off-kilter snares and a lopsided groove strongly supports structural and rhythmic freedom. It does not prove a useful canonical placement.",
         "evidence": {
           "measured": [
-            "RA reports June 2025 release",
+            "Resident Advisor review published 2021-11-26",
             "candidate BPM and exact Spotify identity unknown before resolver"
           ],
-          "attributedDescription": "Resident Advisor describes Chrome Fever's irregular pulse and off-kilter syncopation as weaving off grid and disrupting the four-on-the-floor chug.",
+          "attributedDescription": "Resident Advisor describes Go Deeper as built from a half-time kick and off-kilter snares that form a lopsided, obstinate groove.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A documented pulse disruption may create a deliberate hinge, but review prose cannot establish incoming/outgoing feel, bodily continuity or long-form gain.",
-          "editorialInterpretation": "Strong exact-track belonging hypothesis with credible middle and pre-trio regions; all four canonical evaluation scales remain open."
+          "craftConvention": "A half-time or lopsided entrance can create a deliberate world change, but review prose cannot establish density, bodily continuity, phrase relation or mixability.",
+          "editorialInterpretation": "Strong overlooked belonging hypothesis for the opening or pre-trio boundary; immediate handoffs, surrounding run and long-form need remain unknown."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "0OEB1Jnxinng6jWpSHuGVZ",
+      "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Danny Daze & Jonny From Space",
-        "track": "Tumbadora",
-        "album": "Tumbadora EP",
-        "releaseDate": "2024-08",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36168",
+        "artist": "Joe Milli",
+        "track": "The Less You Know",
+        "album": "Repetitions EP",
+        "releaseDate": "2026-05-29",
+        "bpm": 130,
+        "bpmSource": "https://www.beatport.com/track/the-less-you-know/28528807",
+        "discoverySource": "https://joemilli.bandcamp.com/album/repetitions-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": 130,
+            "outgoingBpm": 140,
+            "purpose": "Test a restrained hand-drum construction as an intentional early detour before the 140 BPM pair; the numeric dip does not establish perceived energy."
+          },
+          {
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
+            "candidateBpm": 130,
+            "outgoingBpm": 138,
+            "purpose": "Test whether its documented percussion focus gives the late internal run a purposeful distinct stage rather than an unnecessary detour."
+          }
+        ],
+        "fitHypothesis": "The official exact-track description centres tense, precisely arranged hand drums and a minimal finish, making it a relevant current percussion-first lead. It does not prove transition or journey value.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 4:59 and release date 2026-05-29",
+            "Beatport lists 130 BPM"
+          ],
+          "attributedDescription": "Livity Sound describes The Less You Know through tense, precisely arranged hand drums presented with a minimal finish.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Percussion-led contrast can clarify a run, but exact-track prose and BPM cannot establish perceived energy, space, phrase structure or either handoff.",
+          "editorialInterpretation": "Strong current/emerging discovery hypothesis with two plausible lawful regions; canonical gain remains unproven."
+        }
+      },
+      "spotifyTrackId": "2I99QO6gu1xz03H9CPcGHQ",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Roza Terenzi",
+        "track": "Stylish Tantrum",
+        "album": "Stylish Tantrum",
+        "releaseDate": "2020-12-20",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/33427",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder as a possible structural entrance",
             "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test whether this documented electro/techno hybrid creates a purposeful entrance into the existing opening rather than an unrelated preface."
+            "purpose": "Test a documented half-time-to-fast internal turn as an opening statement whose destination is the existing opening; no single retailer BPM is treated as definitive."
           },
           {
             "position": "Between Sciahri — Moonwake and Nørbak — Capa",
@@ -301,117 +211,376 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a conspicuous adjacent-world turn before the Capa → Thick to Handle passage, without inferring energy or mixability from genre language."
+            "purpose": "Test whether the track's documented internal tempo turn creates a purposeful middle passage rather than multiplying existing redirections."
           }
         ],
-        "fitHypothesis": "Resident Advisor places the title track within a sludgy, polyrhythmic electro/techno release and singles it out as complex and rigorously detailed. That supports cross-form curiosity but cannot establish transition or journey function.",
+        "fitHypothesis": "Resident Advisor's exact-track review describes a half-time opening that ramps toward 150 BPM, a strong selection-lens case for one track refusing a fixed pulse. It does not prove either placement.",
         "evidence": {
           "measured": [
-            "RA reports August 2024 publication/release context",
-            "candidate BPM and exact Spotify identity unknown before resolver"
+            "official Bandcamp duration 6:20 and release date 2020-12-20",
+            "Resident Advisor describes a within-track ramp toward 150 BPM; retailer single-BPM fields conflict and are withheld"
           ],
-          "attributedDescription": "Resident Advisor describes the EP's originals as sludgy polyrhythmic electro and techno with Miami Bass and Latin-rhythm imprints, and singles Tumbadora out as especially complex and rigorously detailed.",
+          "attributedDescription": "Resident Advisor describes Stylish Tantrum as starting half-time and dubby before ramping into its full 150 BPM force.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A production-world change can be intentional without being smoothed away, but stylistic adjacency and complexity alone cannot justify canonical admission.",
-          "editorialInterpretation": "Strong different-worlds hypothesis for the opening or middle; immediate handoffs, local-run coherence and long-form need remain unknown."
+          "craftConvention": "Within-track tempo transformation may bridge different worlds, but a review cannot establish how the actual entry, exit or surrounding run behaves.",
+          "editorialInterpretation": "Strong overlooked structural hypothesis for the opening or middle; transition and long-form effects remain unknown."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
+      "spotifyTrackId": "0oK53EP0OGQxJllyngEFQH",
+      "selected": false
+    }
+  ],
+  "candidates": [
     {
-      "status": "UNRESOLVED",
+      "id": "3HXAn5DElnz7fluduRen4W",
+      "uri": "spotify:track:3HXAn5DElnz7fluduRen4W",
+      "name": "Scatter",
+      "artists": [
+        "Terrain"
+      ],
+      "album": "Scatter EP",
+      "releaseDate": "2026-04-10",
+      "durationMs": 375395,
+      "spotifyUrl": "https://open.spotify.com/track/3HXAn5DElnz7fluduRen4W",
+      "bpm": 83,
+      "tempoSource": "https://www.beatport.com/track/scatter/26906649",
+      "discoverySource": "https://forestdrivewest.bandcamp.com/album/scatter-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": 83,
+          "outgoingBpm": 137,
+          "purpose": "Test an unmistakable broken-techno reset before the existing Capa → Thick to Handle redirection; the large numeric change is evidence of scale, not an automatic failure."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": 83,
+          "purpose": "Test a new tail world as one whole-journey option, without privileging the tail or assuming a hard reset is inherently purposeful."
+        }
+      ],
+      "fitHypothesis": "The official exact-track description places Scatter at the edge of broken techno and breakbeat, directly supporting the volume's selection lens. That does not establish either transition or a needed journey function.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 6:15 and release date 2026-04-10",
+          "Beatport lists 83 BPM"
+        ],
+        "attributedDescription": "Livity Sound describes Scatter as a punchy broken-techno workout that teeters on the edge of breakbeat.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A conspicuous pulse reset can be an intentional hinge, but source prose and BPM cannot establish perceived pulse, handoff feel or local-run gain.",
+        "editorialInterpretation": "Strong current belonging hypothesis with a credible middle reset and tail alternative; all four canonical evaluation scales remain open."
+      },
       "requestedIdentity": {
-        "artist": "Knifework",
-        "track": "Hidden Curriculum",
-        "album": "Nothing is Coming",
-        "releaseDate": "2026-09-05",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://echoveil-records.bandcamp.com/album/nothing-is-coming",
+        "artist": "Terrain",
+        "track": "Scatter",
+        "album": "Scatter EP",
+        "releaseDate": "2026-04-10",
+        "bpm": 83,
+        "bpmSource": "https://www.beatport.com/track/scatter/26906649",
+        "discoverySource": "https://forestdrivewest.bandcamp.com/album/scatter-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Inigo Kennedy — Marauder as a possible brief new entrance",
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": 83,
+            "outgoingBpm": 137,
+            "purpose": "Test an unmistakable broken-techno reset before the existing Capa → Thick to Handle redirection; the large numeric change is evidence of scale, not an automatic failure."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": 83,
+            "purpose": "Test a new tail world as one whole-journey option, without privileging the tail or assuming a hard reset is inherently purposeful."
+          }
+        ],
+        "fitHypothesis": "The official exact-track description places Scatter at the edge of broken techno and breakbeat, directly supporting the volume's selection lens. That does not establish either transition or a needed journey function.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 6:15 and release date 2026-04-10",
+            "Beatport lists 83 BPM"
+          ],
+          "attributedDescription": "Livity Sound describes Scatter as a punchy broken-techno workout that teeters on the edge of breakbeat.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A conspicuous pulse reset can be an intentional hinge, but source prose and BPM cannot establish perceived pulse, handoff feel or local-run gain.",
+          "editorialInterpretation": "Strong current belonging hypothesis with a credible middle reset and tail alternative; all four canonical evaluation scales remain open."
+        }
+      }
+    },
+    {
+      "id": "0OEB1Jnxinng6jWpSHuGVZ",
+      "uri": "spotify:track:0OEB1Jnxinng6jWpSHuGVZ",
+      "name": "Go Deeper",
+      "artists": [
+        "Batu"
+      ],
+      "album": "I Own Your Energy",
+      "releaseDate": "2021-11-12",
+      "durationMs": 291119,
+      "spotifyUrl": "https://open.spotify.com/track/0OEB1Jnxinng6jWpSHuGVZ",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/34483",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test whether a documented half-time, off-kilter construction creates a purposeful entrance into the existing opening rather than an unrelated preface."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test the unprotected boundary before the listener-protected trio as a conspicuous rhythmic-language change; Transparency's disputed tempo remains non-proof."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor's exact-track account of half-time kick, off-kilter snares and a lopsided groove strongly supports structural and rhythmic freedom. It does not prove a useful canonical placement.",
+      "evidence": {
+        "measured": [
+          "Resident Advisor review published 2021-11-26",
+          "candidate BPM and exact Spotify identity unknown before resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Go Deeper as built from a half-time kick and off-kilter snares that form a lopsided, obstinate groove.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A half-time or lopsided entrance can create a deliberate world change, but review prose cannot establish density, bodily continuity, phrase relation or mixability.",
+        "editorialInterpretation": "Strong overlooked belonging hypothesis for the opening or pre-trio boundary; immediate handoffs, surrounding run and long-form need remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "Batu",
+        "track": "Go Deeper",
+        "album": "I Own Your Energy EP",
+        "releaseDate": "2021",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34483",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder as a possible new opening world",
             "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test a current emerging release as a distinct opening statement while refusing to infer Hidden Curriculum's individual behaviour from album-level prose."
+            "purpose": "Test whether a documented half-time, off-kilter construction creates a purposeful entrance into the existing opening rather than an unrelated preface."
           },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test the unprotected boundary before the listener-protected trio as a conspicuous rhythmic-language change; Transparency's disputed tempo remains non-proof."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor's exact-track account of half-time kick, off-kilter snares and a lopsided groove strongly supports structural and rhythmic freedom. It does not prove a useful canonical placement.",
+        "evidence": {
+          "measured": [
+            "Resident Advisor review published 2021-11-26",
+            "candidate BPM and exact Spotify identity unknown before resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes Go Deeper as built from a half-time kick and off-kilter snares that form a lopsided, obstinate groove.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A half-time or lopsided entrance can create a deliberate world change, but review prose cannot establish density, bodily continuity, phrase relation or mixability.",
+          "editorialInterpretation": "Strong overlooked belonging hypothesis for the opening or pre-trio boundary; immediate handoffs, surrounding run and long-form need remain unknown."
+        }
+      }
+    },
+    {
+      "id": "2I99QO6gu1xz03H9CPcGHQ",
+      "uri": "spotify:track:2I99QO6gu1xz03H9CPcGHQ",
+      "name": "The Less You Know",
+      "artists": [
+        "Joe Milli"
+      ],
+      "album": "Repetitions EP",
+      "releaseDate": "2026-05-29",
+      "durationMs": 299120,
+      "spotifyUrl": "https://open.spotify.com/track/2I99QO6gu1xz03H9CPcGHQ",
+      "bpm": 130,
+      "tempoSource": "https://www.beatport.com/track/the-less-you-know/28528807",
+      "discoverySource": "https://joemilli.bandcamp.com/album/repetitions-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": 130,
+          "outgoingBpm": 140,
+          "purpose": "Test a restrained hand-drum construction as an intentional early detour before the 140 BPM pair; the numeric dip does not establish perceived energy."
+        },
+        {
+          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 138,
+          "candidateBpm": 130,
+          "outgoingBpm": 138,
+          "purpose": "Test whether its documented percussion focus gives the late internal run a purposeful distinct stage rather than an unnecessary detour."
+        }
+      ],
+      "fitHypothesis": "The official exact-track description centres tense, precisely arranged hand drums and a minimal finish, making it a relevant current percussion-first lead. It does not prove transition or journey value.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 4:59 and release date 2026-05-29",
+          "Beatport lists 130 BPM"
+        ],
+        "attributedDescription": "Livity Sound describes The Less You Know through tense, precisely arranged hand drums presented with a minimal finish.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Percussion-led contrast can clarify a run, but exact-track prose and BPM cannot establish perceived energy, space, phrase structure or either handoff.",
+        "editorialInterpretation": "Strong current/emerging discovery hypothesis with two plausible lawful regions; canonical gain remains unproven."
+      },
+      "requestedIdentity": {
+        "artist": "Joe Milli",
+        "track": "The Less You Know",
+        "album": "Repetitions EP",
+        "releaseDate": "2026-05-29",
+        "bpm": 130,
+        "bpmSource": "https://www.beatport.com/track/the-less-you-know/28528807",
+        "discoverySource": "https://joemilli.bandcamp.com/album/repetitions-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
           {
             "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
             "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": 134,
-            "candidateBpm": null,
+            "candidateBpm": 130,
             "outgoingBpm": 140,
-            "purpose": "Use an available early boundary to test whether the release's different production language clarifies or distracts from the existing widening passage."
+            "purpose": "Test a restrained hand-drum construction as an intentional early detour before the 140 BPM pair; the numeric dip does not establish perceived energy."
+          },
+          {
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
+            "candidateBpm": 130,
+            "outgoingBpm": 138,
+            "purpose": "Test whether its documented percussion focus gives the late internal run a purposeful distinct stage rather than an unnecessary detour."
           }
         ],
-        "fitHypothesis": "Hidden Curriculum is an exact current track on a first release whose source combines beats, analogue synthesis, industrial/EBM, propulsive krautrock and minimal-techno contexts. The evidence is release-level, so individual rhythmic or structural behaviour must remain unknown.",
+        "fitHypothesis": "The official exact-track description centres tense, precisely arranged hand drums and a minimal finish, making it a relevant current percussion-first lead. It does not prove transition or journey value.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 2:42",
-            "official release date 2026-09-05",
-            "candidate BPM and exact Spotify identity unknown before resolver"
+            "official Bandcamp duration 4:59 and release date 2026-05-29",
+            "Beatport lists 130 BPM"
           ],
-          "attributedDescription": "The artist and label describe the release as combining beats, analogue synths, EBM/industrial machinery, propulsive krautrock improvisation and minimal-techno context. They do not describe Hidden Curriculum separately.",
+          "attributedDescription": "Livity Sound describes The Less You Know through tense, precisely arranged hand drums presented with a minimal finish.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A short contrasting statement can alter an opening or early run, but release-level language cannot establish this track's pulse, density, energy or transition role.",
-          "editorialInterpretation": "Honest current/emerging research lead with potentially useful brevity and a different production world; canonical evidence is presently weak."
+          "craftConvention": "Percussion-led contrast can clarify a run, but exact-track prose and BPM cannot establish perceived energy, space, phrase structure or either handoff.",
+          "editorialInterpretation": "Strong current/emerging discovery hypothesis with two plausible lawful regions; canonical gain remains unproven."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
+      }
+    }
+  ],
+  "resolvedAlternates": [
     {
-      "status": "UNRESOLVED",
+      "id": "0oK53EP0OGQxJllyngEFQH",
+      "uri": "spotify:track:0oK53EP0OGQxJllyngEFQH",
+      "name": "Stylish Tantrum",
+      "artists": [
+        "Roza Terenzi"
+      ],
+      "album": "Stylish Tantrum",
+      "releaseDate": "2020-12-20",
+      "durationMs": 438808,
+      "spotifyUrl": "https://open.spotify.com/track/0oK53EP0OGQxJllyngEFQH",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/33427",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Before Inigo Kennedy — Marauder as a possible structural entrance",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test a documented half-time-to-fast internal turn as an opening statement whose destination is the existing opening; no single retailer BPM is treated as definitive."
+        },
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test whether the track's documented internal tempo turn creates a purposeful middle passage rather than multiplying existing redirections."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor's exact-track review describes a half-time opening that ramps toward 150 BPM, a strong selection-lens case for one track refusing a fixed pulse. It does not prove either placement.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 6:20 and release date 2020-12-20",
+          "Resident Advisor describes a within-track ramp toward 150 BPM; retailer single-BPM fields conflict and are withheld"
+        ],
+        "attributedDescription": "Resident Advisor describes Stylish Tantrum as starting half-time and dubby before ramping into its full 150 BPM force.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Within-track tempo transformation may bridge different worlds, but a review cannot establish how the actual entry, exit or surrounding run behaves.",
+        "editorialInterpretation": "Strong overlooked structural hypothesis for the opening or middle; transition and long-form effects remain unknown."
+      },
       "requestedIdentity": {
-        "artist": "Hugo Rolan",
-        "track": "Impacto Aleatorio",
-        "album": "Structure Series 3",
-        "releaseDate": "2026-09-01",
+        "artist": "Roza Terenzi",
+        "track": "Stylish Tantrum",
+        "album": "Stylish Tantrum",
+        "releaseDate": "2020-12-20",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://moleculartechno.bandcamp.com/album/structure-series-3",
+        "discoverySource": "https://ra.co/reviews/33427",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
+            "position": "Before Inigo Kennedy — Marauder as a possible structural entrance",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test a current emerging-producer identity in the early grounding run without assuming the compilation's shared language describes this track."
+            "outgoingBpm": 136,
+            "purpose": "Test a documented half-time-to-fast internal turn as an opening statement whose destination is the existing opening; no single retailer BPM is treated as definitive."
           },
           {
-            "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 139,
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
             "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether the current compilation identity adds a purposeful stage inside the rhythmic-redirection run; no sonic property is inferred from its title."
+            "outgoingBpm": 137,
+            "purpose": "Test whether the track's documented internal tempo turn creates a purposeful middle passage rather than multiplying existing redirections."
           }
         ],
-        "fitHypothesis": "Impacto Aleatorio is an exact current identity from a compilation that includes emerging producers and is described collectively through shifting textures/intensities, raw groove and precise rhythmic architecture. The source does not isolate this track's behaviour.",
+        "fitHypothesis": "Resident Advisor's exact-track review describes a half-time opening that ramps toward 150 BPM, a strong selection-lens case for one track refusing a fixed pulse. It does not prove either placement.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 4:26",
-            "official release date 2026-09-01",
-            "candidate BPM and exact Spotify identity unknown before resolver"
+            "official Bandcamp duration 6:20 and release date 2020-12-20",
+            "Resident Advisor describes a within-track ramp toward 150 BPM; retailer single-BPM fields conflict and are withheld"
           ],
-          "attributedDescription": "Molecular Recordings describes Structure Series 3 collectively through shifting textures and intensities, raw groove, atmospheric depth and precise rhythmic architecture; this is not a track-specific description.",
+          "attributedDescription": "Resident Advisor describes Stylish Tantrum as starting half-time and dubby before ramping into its full 150 BPM force.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Compilation context can justify exact-identity inspection, but cannot establish volume fit, any transition, local-run contribution or long-form journey effect.",
-          "editorialInterpretation": "Honest current/emerging lead; exact resolution may be useful, while canonical evidence remains intentionally weak."
+          "craftConvention": "Within-track tempo transformation may bridge different worlds, but a review cannot establish how the actual entry, exit or surrounding run behaves.",
+          "editorialInterpretation": "Strong overlooked structural hypothesis for the opening or middle; transition and long-form effects remain unknown."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      }
     }
-  ],
-  "candidates": [],
-  "resolvedAlternates": []
+  ]
 }
