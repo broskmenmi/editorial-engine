@@ -1,74 +1,34 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-07T12:17:00Z-repair-whole-journey-52b",
-  "sourceCommit": "9a809c967e964df18c9aaf22ae28515ef0d09f54",
+  "runId": "2026-09-07T12:20:00Z-repair-whole-journey-52c",
+  "sourceCommit": "388f165f31a0edcbbdbe1ea4ef64ab084236ccf4",
   "mode": "REPAIR",
   "target": {
     "role": "repair tail-only evaluation bias by reassessing known PARKED identities across the full non-protected STRANGE GAIT journey",
     "position": "Whole journey. Preserve Transparency → When We Froze → Stardancer internal handoffs; Truth in Noise → Transparency and all other non-frozen boundaries remain available.",
     "neighbours": [],
-    "purpose": "Reassess exact identities from Run 50 whose earlier verdicts inherited a post-Stardancer slot. Test stronger current placements across the whole journey."
+    "purpose": "Reassess exact identities from Runs 46 and 49 whose earlier verdicts inherited a post-Stardancer slot. Test stronger current placements across the whole journey."
   },
   "leads": [
     {
-      "artist": "D-Leria",
-      "track": "Shark Attak",
-      "album": "Curation Six: GiGi FM",
-      "releaseDate": "2026-08-14",
-      "spotifyTrackId": "5tABEVUh6NsW49fLp6oOYt",
+      "artist": "Holly Lester",
+      "track": "Big Fill",
+      "album": "Open Your Mind EP",
+      "releaseDate": "2026-09-04",
+      "spotifyTrackId": "00u8d2qHZido3ZRruWvamX",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-06-gigi-fm",
+      "discoverySource": "https://dualitytrax.bandcamp.com/album/open-your-mind-ep",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": 140,
           "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test percussion-centred polyrhythmic restraint as a deliberate handoff from intensification into Capa's rhythmic redirection."
-        },
-        {
-          "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": 139,
-          "purpose": "Test whether its source-described polyrhythmic percussion deepens the existing tilt passage before Tehutis Law re-grounds the groove."
-        }
-      ],
-      "fitHypothesis": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak. That is unusually strong STRANGE GAIT selection-lens evidence and deserves whole-journey placement testing.",
-      "evidence": {
-        "measured": ["exact Spotify identity", "Spotify duration from Run 50: 5:46", "BPM unknown"],
-        "attributedDescription": "The Third Room attributes percussion at the centre, polyrhythmic bleeps, restraint and persistent drive to Shark Attak.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A percussion-led track may work best at an existing rhythmic redirection rather than as a new tail section.",
-        "editorialInterpretation": "Potential transition from Moonwake into Capa or a deeper Capa-to-Tehutis tilt passage; actual pulse and transition feel remain unknown."
-      }
-    },
-    {
-      "artist": "Rene Wise",
-      "track": "Dynamic",
-      "album": "Curation Two: D.Dan",
-      "releaseDate": "2026-08-14",
-      "spotifyTrackId": "7MlbEOg0fEFcYLkKNDVhBV",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-02-d-dan",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test a fluid rolling bridge with subtle disruption between the grounded opening and the physical widening."
+          "outgoingBpm": 138,
+          "purpose": "Test source-described rolling sub, groove, pressure and suspension as a deliberate release from Fragments into Truth in Noise."
         },
         {
           "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -77,28 +37,28 @@
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 143,
-          "purpose": "Test whether a rolling, subtly disrupted tension stage creates a more intentional entry into the protected trio. Transparency's 143/107 conflict remains unresolved and is not treated as flow evidence."
+          "purpose": "Test whether its rolling pressure-and-suspension language can create a deliberate entry into the protected trio without treating Transparency's disputed tempo as proof."
         }
       ],
-      "fitHypothesis": "The Third Room describes Dynamic as a fluid, rolling tool shaped by subtle disruptions and evolving tension. That supports rhythmic freedom and controlled continuity without depending on novelty.",
+      "fitHypothesis": "Duality Trax attributes a rolling sub, groove, pressure and dreamlike suspension specifically to Big Fill. This supports bodily pull and a useful tension/space relationship, but remains attributed description.",
       "evidence": {
-        "measured": ["exact Spotify identity", "Spotify duration from Run 50: 5:19", "BPM unknown"],
-        "attributedDescription": "The Third Room describes Dynamic as fluid and rolling, with subtle disruptions and evolving tension.",
-        "listenerEvidence": "No candidate-specific listener report. The listener-protected evidence applies only inside the trio.",
+        "measured": ["exact Spotify identity", "Spotify duration from Run 49: 5:54", "BPM unknown"],
+        "attributedDescription": "Duality Trax attributes a rolling sub, groove, pressure and dreamlike suspension to Big Fill.",
+        "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A subtle rolling stage can connect two worlds if it preserves intent rather than merely adding another tool track.",
-        "editorialInterpretation": "Potential bridge into Too Much Time or into the protected trio; actual transition and long-form effects remain unknown."
+        "craftConvention": "A rolling pressure-and-space track may work as a hinge where the sequence is already changing from drive toward consolidation or a new block.",
+        "editorialInterpretation": "Potential Fragments→Truth in Noise release hinge or entry into the protected trio; actual transition feel remains unknown."
       }
     },
     {
-      "artist": "1morning",
-      "track": "Untitled",
-      "album": "Curation Three: Verraco",
-      "releaseDate": "2026-08-14",
-      "spotifyTrackId": "7idn7TKy3tKPXjrhfNrwmC",
+      "artist": "Leo",
+      "track": "Descant",
+      "album": "Cicada Burnt",
+      "releaseDate": "2026-07-31",
+      "spotifyTrackId": "423xbB1O6ttELOvC6Taed3",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://thethirdroom.bandcamp.com/album/curation-03-verraco",
+      "discoverySource": "https://leoproducer.bandcamp.com/track/descant",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -108,7 +68,47 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test the source-described rolling tribal-infused groove as a bodily bridge into Capa's rhythmic redirection."
+          "purpose": "Test the reviewer-described broken-techno move as an intentional turn from intensification into Capa's rhythmic redirection."
+        },
+        {
+          "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 139,
+          "purpose": "Test broken-techno redirection inside the existing tilt passage before Tehutis Law re-grounds the groove."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor identifies Descant as Cicada Burnt's move into broken techno. That supports structural freedom but does not establish bodily effect or exact pulse.",
+      "evidence": {
+        "measured": ["exact Spotify identity", "Spotify duration 5:36", "Bandcamp duration 7:49 variance preserved", "BPM unknown"],
+        "attributedDescription": "Resident Advisor identifies Descant as the album's move into broken techno.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A broken-rhythm turn can be useful where the journey is already changing rhythmic language, but novelty alone does not justify another stage.",
+        "editorialInterpretation": "Potential Moonwake→Capa or Capa→Tehutis redirection; physicality and transition remain unknown."
+      }
+    },
+    {
+      "artist": "Raul Alvarez",
+      "track": "Black Torque",
+      "album": "Modular Space Sheep",
+      "releaseDate": "2018-01-08",
+      "spotifyTrackId": "2O5c3OLK24GM7U8KWxSu2v",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test its source-described syncopated modulation and internal build/release between physical widening and Moonwake's intensification."
         },
         {
           "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
@@ -117,17 +117,17 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 138,
-          "purpose": "Test whether its rolling percussive depth can turn driving re-escalation into groove consolidation without feeling like a random style change."
+          "purpose": "Test whether its self-contained build-and-relax arc creates a purposeful transition from driving re-escalation into groove consolidation."
         }
       ],
-      "fitHypothesis": "The Third Room attributes a rolling, tribal-infused groove and depth to the exact track. That supports bodily and rhythmic interest but remains attributed description rather than heard behaviour.",
+      "fitHypothesis": "Hidden Suite describes synth modulation over syncopated metallic material with a build and subsequent relaxation. This supports rhythmic and structural belonging, not observed transition behavior.",
       "evidence": {
-        "measured": ["exact Spotify identity", "Spotify duration from Run 50: 5:32", "BPM unknown"],
-        "attributedDescription": "The Third Room attributes a rolling, tribal-infused groove and depth to 1morning — Untitled.",
+        "measured": ["exact Spotify identity", "resolver duration from Run 46: 5:37", "BPM unknown"],
+        "attributedDescription": "Hidden Suite describes synth modulation over syncopated metallic material with a build and subsequent relaxation.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A rolling percussion-led track can deepen an existing rhythmic passage if the surrounding run stays coherent.",
-        "editorialInterpretation": "Potential Moonwake→Capa bridge or Fragments→Truth in Noise groove turn; exact pulse and transition remain unknown."
+        "craftConvention": "A track with an internal build-and-relax arc may serve as a hinge if it helps the surrounding run change state rather than simply adding another episode.",
+        "editorialInterpretation": "Potential Too Much Time→Moonwake internal hinge or Fragments→Truth in Noise release bridge; exact pulse and attention effect remain unknown."
       }
     }
   ]
