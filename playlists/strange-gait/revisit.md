@@ -4,6 +4,7 @@
 
 | Artist | Track | Spotify URI | Uncertainty | Status |
 |---|---|---|---|---|
+| CONFUSION (RASEREI) | DT229 | spotify:track:2WtWAoWLGG7w0gr8m5qr2i | Run 47: exact 135 BPM identity and exact-track broken-rhythm/melodic description support belonging. The Stardancer handoff, surrounding five-track run and long-form benefit remain unsupported. Reopen for materially new transition/audio evidence or a concrete changed post-trio context, not BPM alone. | PARKED |
 | Raul Alvarez | Black Torque | spotify:track:2O5c3OLK24GM7U8KWxSu2v | Run 46: track-specific syncopated-modulation/build-release description supports belonging; 5:37, BPM unknown. Exact Stardancer handoff and local/long-form contribution unsupported. Reopen only for materially new transition/audio evidence or a concrete changed placement need, not BPM alone. | PARKED |
 | Fail_ed | Lucid Granules | spotify:track:2l6V8BTPgmklh7FxoEDh9F | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |
 | Torres De Lara | Guadalajara | spotify:track:7Moq5cHtt4ar9AT3cVPRA7 | Exact 140 BPM identity; source provides genre metadata only and post-Stardancer role is unknown. | PARKED |

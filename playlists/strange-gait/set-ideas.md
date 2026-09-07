@@ -98,6 +98,21 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This is a non-canonical research direction, not evidence for a specific ledger sequence.
 
+### 6. Broken-rhythm afterword
+
+**Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
+
+**Ingredients:**
+
+- CONFUSION (RASEREI) — DT229 — exact PARKED discovery; broken/melodic exact-track description
+- Marcal — Smoke From Respawn / Arapuca — September 11 release watch
+- Stefan Vincent — Soothing the Beast — September 18 polyrhythmic-acid release watch
+- the protected Transparency → When We Froze → Stardancer block as a reference ending, not a proven incoming mix
+
+**Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, syncopation, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
+
+**Unknown / risk:** No Stardancer exit, phrase relationship, perceived-pulse continuity, energy relation, harmonic compatibility or live mix has been established. This is a set direction, not a proven canonical or performance sequence.
+
 ## Maintenance rules
 
 1. Keep this file small and useful; prefer a few strong directions over a catalogue dump.

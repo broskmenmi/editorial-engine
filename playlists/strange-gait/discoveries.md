@@ -1,5 +1,36 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 47 — EXPLORE — 2026-09-07
+
+RunId: `2026-09-07T07:51:55Z-explore-47`. Request commit: `41f95f61ad079271c0b782db8555a050e06ffb52`; source commit: `f538a98b30680cb253d9c9bab529e9bdb13b2fc2`; snapshot commit: `9b9e6b1666db8e4a9b1ce7efdab4fced643c63e8`. Matching immutable terminal fingerprint `ca8c492728684da957db3b8219e4d06f77a2c906f8ae77808eba5e50240e42c3` validated with repository code; COMPLETE, with no warnings, unresolved identities, duplicates or unselected alternates.
+
+**Pre-audit:** 12 unique canonical tracks; the two listener-protected internal trio handoffs are intact; no active feedback discussion, TRIGGERED revisit or actionable objective repair. `automaticPublishingEnabled` is true, but the starting Spotify state is already last-verified COMPLETE at 12/12 and no publication input changed before this scan.
+
+**Fresh scan:** approximately 58 named tracks and releases across ten official release, retailer, catalogue and bounded-query windows. Current September 4–7 material included DBX002, Orlando Voorn and the recent Juno techno window. Adjacent/emerging searches covered Marcal, Stefan Vincent and Retter; overlooked catalogue covered Vakuum, Transhuman and Rhizome. Metadata/text review only; zero audio auditions. The immutable receipt preserves exact URLs, exclusions and query scope. Run 46 material and all PARKED entries were excluded.
+
+**Funnel:** approximately 58 listings → 1 ranked lead → 1 exact resolution → 1 evaluated candidate → 0 ADD, 1 PARKED REVISIT → no Spotify publication because the ledger and other publication inputs did not change.
+
+### CONFUSION (RASEREI) — DT229 — PARKED REVISIT
+
+- Exact URI: `spotify:track:2WtWAoWLGG7w0gr8m5qr2i`; Vakuum EP; released 2025-12-05; resolver duration 175448 ms (2:55); exact retailer metadata reports 135 BPM.
+- **Volume fit:** provisionally BELONGS. Vakuum Label's [exact-track description](https://vakuum-label.bandcamp.com/album/vakuum-ep) says DT229 closes the EP by moving into broken rhythms and more melodic territory. This is a strong selection-lens hypothesis, not heard or measured sonic behavior.
+- **Concrete placement:** proposed Track 13 after Len Faki — Stardancer, leaving the outgoing neighbour open. Not approved for canonical admission.
+- **Transition scale:** the measured path is 137 → 135 BPM, but closeness does not prove flow. The described broken/melodic change could be a deliberate left turn after the protected trio, yet no evidence establishes what survives the Stardancer → DT229 handoff in perceived pulse, texture, attention or phrase.
+- **Local-run scale:** Truth in Noise → Transparency → When We Froze → Stardancer → DT229 preserves the trio's exact internal order and protected edges. The user's “perfect harmony” report supports only those protected internal handoffs; it cannot establish DT229 as a convincing fifth element. The turn may create an afterword or feel appended.
+- **Long-form scale:** a concise 2:55 broken-rhythm passage could open a new vocabulary without imposing a chapter template. Current evidence cannot show whether it improves the 12-track journey or produces an accidental reset.
+- **Evidence classes:** identity, duration, date and BPM are metadata; the broken/melodic characterization is attributed label language; the post-trio afterword is editorial interpretation and craft convention. No candidate-specific listener report or lawful audio evidence. Audio/live compatibility NOT TESTED.
+- **Reopen when:** materially new transition-level or lawful audio evidence, or a concrete changed post-trio context, supports a deliberate placement. BPM alone is insufficient. No listening assignment.
+
+**Sequencer/Auditor:** approve PARKED plus substantive inspiration harvest. Veto ADD because the transition, local-run and long-form gates remain unproven; preserve all 12 canonical rows, annotations and the listener-protected trio. No removal, movement, replacement or live-graph change. No actionable REPAIR recommendation; next lane remains EXPLORE.
+
+**Canonical order / tempo:** Marauder 136 → The Witching Hour 136 → Cave 134 → Too Much Time 140 → Moonwake 140 → Capa 137 → Tehutis Law 139 → Fragments 140 → Truth in Noise 138 → Transparency 143* → When We Froze 140 → Stardancer 137. *Transparency 143/107 conflict retained. Story roles remain interpretation.
+
+**Publication/map:** automatic publication is enabled, but no publication input changed. Last recorded Spotify verification remains COMPLETE 12/12 at 2026-09-06T19:12:18.429Z; this is not a new live Spotify read-back. The current map retains exact canonical URI order and the unified root site URL.
+
+**RUN ANALYSIS:** Fresh outward discovery, immutable resolution and candidate evaluation completed. The strongest candidate reached exact identity with unusually specific rhythmic framing, unlike metadata-only current releases, but failed at the separate sequence-evidence gate. The strongest alternative explanation is that the editorial contract is conservative without lawful audio: DT229 may make an excellent hard turn that prose cannot prove. This run proves a useful exact discovery and safe protection of listener-earned order; it does not prove sonic incompatibility, a bad transition or playlist completion.
+
+**Discovery harvest:** DT229 retained as an exact non-canonical track. Marcal's Four Small Escapes EP and Stefan Vincent's Until Meaning Emerges EP retained as release watches for exact rhythmic descriptions after their September 11 and September 18 releases. A non-canonical broken-rhythm afterword direction records the creative opportunity without asserting a proven sequence.
+
 ## Run 46 — EXPLORE — 2026-09-07
 
 RunId: `2026-09-07T01:34:12Z-explore-46`. Request commit: `aea95bfc6584196356c70e72c8f2eab6bb20b06b`; source commit: `df91e5e283bda1de62cb5292ccc4ab57de2f11c0`. Resolver Action [34073520069](https://github.com/broskmenmi/editorial-engine/actions/runs/34073520069) succeeded. Matching immutable terminal fingerprint `d673bf20a7636a5cab6cf368656b755392963ded1a9e20502c8772e8b053abea` validated with repository code; COMPLETE, no warnings, unresolved identities, duplicates or unselected alternates.

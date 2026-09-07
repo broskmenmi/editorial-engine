@@ -4,6 +4,9 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | CONFUSION (RASEREI) | DT229 | https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i | PARKED Run 47; 135 BPM, 2:55; Vakuum exact-track broken-rhythm/melodic description supports belonging, but the Stardancer transition is not proven |
+| RELEASE WATCH | Marcal / The Third Room | Four Small Escapes EP | https://marcal.bandcamp.com/album/four-small-escapes-ep | Run 47 watch for 2026-09-11: Smoke From Respawn and Arapuca have exact syncopation/organic-percussion descriptions; current Spotify identities and canonical placements not established |
+| RELEASE WATCH | Stefan Vincent / Aquaregia | Until Meaning Emerges EP | https://aquaregiarec.bandcamp.com/album/until-meaning-emerges-ep | Run 47 watch for 2026-09-18: Soothing the Beast has exact polyrhythmic-acid/halftime-break description; current Spotify identity and placement not established |
 | EXACT TRACK | Raul Alvarez | Black Torque | https://open.spotify.com/track/2O5c3OLK24GM7U8KWxSu2v | PARKED Run 46; 5:37, BPM unknown; Hidden Suite track-specific syncopated-modulation/build-release description supports belonging, not proven Stardancer transition |
 | RESEARCH LEAD | LnHD, rEmPiT g0dDe$ | SYNCOPATED ETHER DREAMS | https://rempitgoddess.bandcamp.com/album/syncopated-ether-dreams | Run 46 adjacent release discovery: artist attributes dub/percussion, field recordings and Southeast Asian tonalities; June 3, 2025; release-level evidence only, exact Spotify tracks unresolved |
 | EXACT TRACK | Linear System | Transparency | https://open.spotify.com/track/6vBGCwTYRiKYCDD52zXZtf | ADD Track 10; listener-added trio opener; working 143 BPM, 107 BPM Beatport conflict preserved |
