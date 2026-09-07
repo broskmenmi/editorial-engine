@@ -1,38 +1,45 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "443931c9b27d0876b863b080e84b4582340ca0839e692895b58bdc338700e1a8",
-  "generatedAt": "2026-09-06T20:02:33.455Z",
-  "runId": "2026-09-06T20:11:00Z-explore-45",
-  "sourceCommit": "4583c049ac1ea487b535b138940a81d5a89d9276",
+  "requestFingerprint": "d673bf20a7636a5cab6cf368656b755392963ded1a9e20502c8772e8b053abea",
+  "generatedAt": "2026-09-07T01:35:47.603Z",
+  "runId": "2026-09-07T01:34:12Z-explore-46",
+  "sourceCommit": "df91e5e283bda1de62cb5292ccc4ab57de2f11c0",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh STRANGE GAIT Track 13 mixed-current scan",
-    "position": "after Len Faki — Stardancer as Track 13",
+    "role": "fresh belonging discovery with proposed post-trio development",
+    "position": "after Len Faki — Stardancer, proposed Track 13",
     "neighbours": [
       "spotify:track:6i3HRqnSMoSohzwSgq035u"
     ],
-    "purpose": "test two unrelated current raw/deep/hypnotic identities from overlooked September releases"
+    "purpose": "Test whether track-specific syncopated modulation and a described build/release could open a deliberate next passage; no pre-existing gap or protected-trio change."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-06T20:11:00Z",
+    "timestampUtc": "2026-09-07T01:34:12Z",
     "sourceWindows": [
-      "Beatport current September 2026 raw/deep/hypnotic listings"
+      "CURRENT: https://mord.bandcamp.com/album/herdersmat-part-49-52 — August 28, 2026; 18 track listings and release text screened.",
+      "CURRENT: https://mord.bandcamp.com/album/absorbing-grey-tones-2 — August 25, 2026; four tracks repackaged from earlier album; no exact sonic account.",
+      "ADJACENT ARTISTS/LABELS: https://iliantape.bandcamp.com/album/it079-core-waves — Fireground June 11, 2026; four tracks; https://iliantape.bandcamp.com/album/itx043-pond — Gast May 28, 2026; nine tracks.",
+      "ADJACENT ARTISTS: https://rempitgoddess.bandcamp.com/album/syncopated-ether-dreams — LnHD/rEmPiT g0dDe$$ June 3, 2025; four tracks, release-level dub/percussion/field-recording description.",
+      "OVERLOOKED CATALOGUE: https://hiddensuite.bandcamp.com/album/modular-space-sheep — Raul Alvarez January 8, 2018; three tracks with track-specific label descriptions."
     ],
-    "approximateInspectedScope": "mixed current new-release scan across smaller labels",
+    "approximateInspectedScope": "42 track listings across six release pages screened from current release and adjacent/catalogue searches; metadata/text review only, zero audio auditions. Artist/label index pages and broad search results not counted as tracks.",
     "exclusions": [
-      "no title-based sonic inference",
-      "BPM/genre not treated as flow proof",
-      "protected trio unchanged"
+      "Canonical 12, current rejections and all untriggered parked revisits excluded; no parked candidates recycled.",
+      "Herdersmat/Maasym: titles, label affiliation and packaging supply no track-specific belonging case; not padded into request.",
+      "Fireground/Gast: label pages primarily metadata; public buyer comments not treated as Brosk listener evidence or sufficient exact placement evidence.",
+      "LnHD/rEmPiT g0dDe$$: useful adjacent research direction, release-level framing only; retained as potential inspiration, not padded into canonical request.",
+      "Raul Alvarez Space Sheep and Modular Break: source descriptions inspected; Black Torque ranked alone as clearest syncopated-modulation belonging hypothesis.",
+      "Beatport release page https://www.beatport.com/release/modular-space-sheep/2178727 could not be opened (safe-open error); BPM remains unknown, never inferred from genre.",
+      "Protected trio order unchanged; after-Stardancer placement is only a test hypothesis; no mandatory listening work."
     ],
     "rankedLeadSummary": [
-      "1. Fail_ed — Lucid Granules: 140 BPM",
-      "2. Torres De Lara — Guadalajara: 140 BPM"
+      "1. Raul Alvarez — Black Torque: track-specific label description of syncopated metallic modulation with build and release; exact handoff and tempo unknown."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 2,
-  "resolvedCount": 2,
-  "candidateCount": 2,
+  "requestedCount": 1,
+  "resolvedCount": 1,
+  "candidateCount": 1,
   "resolutionStatus": "COMPLETE",
   "unresolved": [],
   "warnings": [],
@@ -40,170 +47,97 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Fail_ed",
-        "track": "Lucid Granules",
-        "releaseDate": "2026-09-03",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
+        "artist": "Raul Alvarez",
+        "track": "Black Torque",
+        "album": "Modular Space Sheep",
+        "releaseDate": "2018-01-08",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
+        "searchIntent": "BELONGING",
         "proposedPlacements": [
           {
-            "position": "after Stardancer as Track 13"
+            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
           }
         ],
-        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
+        "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "released 2026-09-03"
+            "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
           ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
+          "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
+          "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
+          "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
         }
       },
-      "spotifyTrackId": "2l6V8BTPgmklh7FxoEDh9F",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Torres De Lara",
-        "track": "Guadalajara",
-        "releaseDate": "2026-09-01",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
-        "evidence": {
-          "measured": [
-            "140 BPM",
-            "released 2026-09-01"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      },
-      "spotifyTrackId": "7Moq5cHtt4ar9AT3cVPRA7",
+      "spotifyTrackId": "2O5c3OLK24GM7U8KWxSu2v",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "2l6V8BTPgmklh7FxoEDh9F",
-      "uri": "spotify:track:2l6V8BTPgmklh7FxoEDh9F",
-      "name": "Lucid Granules",
+      "id": "2O5c3OLK24GM7U8KWxSu2v",
+      "uri": "spotify:track:2O5c3OLK24GM7U8KWxSu2v",
+      "name": "Black Torque",
       "artists": [
-        "Fail_ed"
+        "Raul Alvarez"
       ],
-      "album": "Fragments",
-      "releaseDate": "2026-09-03",
-      "durationMs": 301875,
-      "spotifyUrl": "https://open.spotify.com/track/2l6V8BTPgmklh7FxoEDh9F",
-      "bpm": 140,
-      "tempoSource": "Beatport exact listing reports 140 BPM",
-      "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
+      "album": "Modular Space Sheep",
+      "releaseDate": "2018-01-08",
+      "durationMs": 337000,
+      "spotifyUrl": "https://open.spotify.com/track/2O5c3OLK24GM7U8KWxSu2v",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
+      "searchIntent": "BELONGING",
       "proposedPlacements": [
         {
-          "position": "after Stardancer as Track 13"
+          "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
         }
       ],
-      "fitHypothesis": "Plausible current identity; exact behavior unknown.",
+      "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
       "evidence": {
         "measured": [
-          "140 BPM",
-          "released 2026-09-03"
+          "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
         ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
+        "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
+        "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
+        "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
       },
       "requestedIdentity": {
-        "artist": "Fail_ed",
-        "track": "Lucid Granules",
-        "releaseDate": "2026-09-03",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
+        "artist": "Raul Alvarez",
+        "track": "Black Torque",
+        "album": "Modular Space Sheep",
+        "releaseDate": "2018-01-08",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://hiddensuite.bandcamp.com/album/modular-space-sheep",
+        "searchIntent": "BELONGING",
         "proposedPlacements": [
           {
-            "position": "after Stardancer as Track 13"
+            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Potential deliberate modulation/build-release passage after intact listener trio, subject to evaluation."
           }
         ],
-        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
+        "fitHypothesis": "The label's track-specific account of syncopated metallic tones and evolving synth modulation gives a constitution-relevant rhythmic/structural hypothesis. A build that later relaxes might form a self-contained next passage; neither the incoming handoff nor long-form benefit is established.",
         "evidence": {
           "measured": [
-            "140 BPM",
-            "released 2026-09-03"
+            "Bandcamp-listed duration 05:37 and release date 2018-01-08; no BPM verification"
           ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
-        }
-      }
-    },
-    {
-      "id": "7Moq5cHtt4ar9AT3cVPRA7",
-      "uri": "spotify:track:7Moq5cHtt4ar9AT3cVPRA7",
-      "name": "Guadalajara",
-      "artists": [
-        "Torres De Lara"
-      ],
-      "album": "Guadalajara",
-      "releaseDate": "2026-09-01",
-      "durationMs": 438857,
-      "spotifyUrl": "https://open.spotify.com/track/7Moq5cHtt4ar9AT3cVPRA7",
-      "bpm": 140,
-      "tempoSource": "Beatport exact listing reports 140 BPM",
-      "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "after Stardancer as Track 13"
-        }
-      ],
-      "fitHypothesis": "Plausible current identity; exact behavior unknown.",
-      "evidence": {
-        "measured": [
-          "140 BPM",
-          "released 2026-09-01"
-        ],
-        "attributedDescription": "Beatport genre classification only.",
-        "listenerEvidence": "No direct listener evidence.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Torres De Lara",
-        "track": "Guadalajara",
-        "releaseDate": "2026-09-01",
-        "bpm": 140,
-        "bpmSource": "Beatport exact listing reports 140 BPM",
-        "discoverySource": "Beatport current listing; Techno (Raw / Deep / Hypnotic)",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "after Stardancer as Track 13"
-          }
-        ],
-        "fitHypothesis": "Plausible current identity; exact behavior unknown.",
-        "evidence": {
-          "measured": [
-            "140 BPM",
-            "released 2026-09-01"
-          ],
-          "attributedDescription": "Beatport genre classification only.",
-          "listenerEvidence": "No direct listener evidence.",
-          "lawfulAudioEvidence": null
+          "attributedDescription": "Hidden Suite describes this exact track as synth modulation over syncopated metallic tones, building toward a climax and then mellowing. This is label language, not measured or heard evidence.",
+          "listenerEvidence": "No Brosk report for this track or proposed incoming handoff.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A self-contained build/release can be a useful next passage, but does not by itself justify the placement.",
+          "editorialInterpretation": "Potential rhythmic development after the trio, not an observed flow or energy claim."
         }
       }
     }
