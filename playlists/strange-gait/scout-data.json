@@ -1,407 +1,450 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "502e7eb1b0c01ddde34a1b94c36b81224c91eca8e2a6e83c121f7336dca7a4e9",
-  "generatedAt": "2026-09-07T11:59:59.983Z",
-  "runId": "2026-09-07T11:57:24Z-explore-51",
-  "sourceCommit": "6992ace08b52646b17c0aa7b573cd95957405b20",
-  "mode": "EXPLORE",
+  "requestFingerprint": "c8b868e416b26cfc69d1d693ff6b06a8680b770ec803b6b17d1360af5873eccf",
+  "generatedAt": "2026-09-07T12:16:16.756Z",
+  "runId": "2026-09-07T12:15:11Z-repair-whole-journey-52a",
+  "sourceCommit": "360ed25333179fde0bc771b2f3b746da23be08c1",
+  "mode": "REPAIR",
   "target": {
-    "role": "fresh belonging discovery with a deliberate transition out of the protected listener trio",
-    "position": "Track 13 after Len Faki — Stardancer; preserve Transparency → When We Froze → Stardancer in exact internal order and leave the outgoing neighbour open",
-    "neighbours": [
-      "spotify:track:6i3HRqnSMoSohzwSgq035u"
-    ],
-    "purpose": "Test current, adjacent and overlooked material that could begin a purposeful new passage after the protected block without treating rhythmic interest, source language, artist reputation or BPM as proof of flow."
+    "role": "repair tail-only evaluation bias by reassessing known PARKED identities across the full non-protected STRANGE GAIT journey",
+    "position": "Whole journey. Preserve Transparency → When We Froze → Stardancer internal handoffs; Truth in Noise → Transparency and all other non-frozen boundaries remain available.",
+    "neighbours": [],
+    "purpose": "Reassess exact identities whose earlier verdicts depended on a preselected post-Stardancer slot. Test their strongest plausible current placements without treating BPM, novelty or source language as proof of flow."
   },
-  "explorationReceipt": {
-    "timestampUtc": "2026-09-07T11:57:24Z",
-    "sourceWindows": [
-      "CURRENT RELEASES: https://perctrax.bandcamp.com/album/one — both tracks from Perc & Barbosa's 2026-08-28 EP screened from track-specific label descriptions; One retained for its bass-heavy minimalist framework, sharp clicks, dislocated vocal hooks and deliberately sparse hi-hat pattern.",
-      "CURRENT / ADJACENT: https://perctrax.bandcamp.com/track/nostalgia — Shaun Moses's 2026-08-07 Perc Trax debut screened from its exact-track description; Nostalgia retained as an emerging-artist lead for the combination of Detroit-inspired pads and a solid kick/bass foundation.",
-      "RECENT CROSS-VOCABULARY: https://batutimedance.bandcamp.com/album/exhale-2 and https://pitchfork.com/reviews/albums/batu-donato-dozzy-exhale — all eight tracks from Batu & Donato Dozzy's 2026-06-30 album screened; Spiral retained because the track-specific review attributes plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence.",
-      "OVERLOOKED CATALOGUE: https://perctrax.bandcamp.com/album/aurifex-rex — all four tracks from Scalameriya's 2025-11-21 EP screened from exact-track label descriptions; Aurifex Rex retained for its glitched, stuttered vocal construction and constant-build framing.",
-      "BOUNDED QUERIES: September and August 2026 Bandcamp techno, broken-rhythm, polyrhythmic, syncopated, bass-heavy and adjacent-label result windows; exact Spotify identities intentionally left to the repository resolver."
-    ],
-    "approximateInspectedScope": "Approximately 25 named tracks across four release/catalogue pages and bounded current-release result windows; metadata and attributed descriptions only, with zero audio auditions.",
-    "exclusions": [
-      "All 12 canonical identities, all active placement-specific rejections and every untriggered PARKED revisit were excluded. Runs 49–50 material and sources were not recycled.",
-      "The protected Transparency → When We Froze → Stardancer internal order and its two listener-protected handoffs remain untouched; every proposed placement follows the intact block.",
-      "Perc & Barbosa — Two, Batu & Donato Dozzy — Emergence / Drift / Off Axis / Swarm / Flicker / Exhale / Bloom, and Scalameriya — Psybernetix / It Stared Back / Perc Remix had useful exact descriptions but ranked below the four retained leads for this scan's selection-lens and post-trio hypotheses.",
-      "Recent search results from Vault, ALU, MEUK and other adjacent catalogues were screened but did not provide a stronger combination of exact-track behavioural evidence and a genuinely new source lane.",
-      "No lead was promoted for recency, artist reputation, genre category, BPM proximity, title or novelty. Energy, density, bodily effect, phrase structure, perceived pulse, harmonic relation and mixability remain unknown."
-    ],
-    "rankedLeadSummary": [
-      "1. Perc & Barbosa — One: exact-track label description names bass-heavy minimalist construction, sharp synth clicks, spaced dislocated vocal hooks and a sparse hi-hat pattern; exact Spotify identity and tempo require resolver verification.",
-      "2. Batu & Donato Dozzy — Spiral: track-specific review describes an acid-and-dub hybrid with hand percussion and a loping dancehall cadence; exact Spotify identity requires resolver verification and the reported 107 BPM is metadata only.",
-      "3. Scalameriya — Aurifex Rex: exact-track label description names a glitched, stuttered vocal and constant build; exact Spotify identity and tempo require resolver verification.",
-      "4. Shaun Moses — Nostalgia: exact-track label description combines Detroit-inspired pads with a solid kick/bass foundation and cross-set utility; exact Spotify identity and tempo require resolver verification."
-    ]
-  },
+  "explorationReceipt": null,
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 4,
-  "resolvedCount": 2,
-  "candidateCount": 2,
-  "resolutionStatus": "PARTIAL",
-  "unresolved": [
-    {
-      "artist": "Perc & Barbosa",
-      "track": "One",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Perc & Barbosa",
-        "track": "One",
-        "album": "One",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/album/one",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a bass-heavy minimalist redirection after the protected block as a deliberate new passage rather than a seamless-continuity claim."
-          }
-        ],
-        "fitHypothesis": "Perc Trax describes One through thick sub-heavy kicks, rough vinyl textures, sharp synth clicks, dislocated vocal hooks and a minimal hi-hat pattern. That combination is relevant to rhythmic and structural freedom, but it does not establish bodily response or the Stardancer handoff.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 6:22",
-            "official release date 2026-08-28",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "Perc Trax says the exact track is built on thick sub-heavy kicks and rough vinyl textures, with sharp synth clicks, spaced dislocated vocal hooks and the simplest of hi-hat patterns driving it forward. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → One.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A clearly signalled reduction into a bass-heavy minimalist framework can open a new passage, but sparse construction and descriptive contrast do not prove transition quality.",
-          "editorialInterpretation": "Potential post-trio shift into a leaner, bass-led rhythmic vocabulary; actual intensity, pulse and flow remain unknown."
-        }
-      }
-    },
-    {
-      "artist": "Batu & Donato Dozzy",
-      "track": "Spiral",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Batu & Donato Dozzy",
-        "track": "Spiral",
-        "album": "Exhale",
-        "releaseDate": "2026-06-30",
-        "bpm": 107,
-        "bpmSource": "https://www.decks.de/track/batu_donato_dozzy-exhale/cqh-i9",
-        "discoverySource": "https://batutimedance.bandcamp.com/album/exhale-2",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": 107,
-            "purpose": "Test an explicit acid, dub-percussion and dancehall-cadence reset after the protected block without treating the large numeric BPM change as either proof or defect."
-          }
-        ],
-        "fitHypothesis": "Pitchfork's track-specific description combines plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence. This strongly supports the volume's cross-rhythmic selection lens, while the actual post-Stardancer effect remains unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:18",
-            "official release date 2026-06-30",
-            "retailer metadata reports 107 BPM; perceived pulse and metrical interpretation are not inferred"
-          ],
-          "attributedDescription": "Pitchfork describes Spiral with plodding kicks, a gnarled acid bassline, dubby hand percussion and a loping dancehall cadence. This is reviewer language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Spiral.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous tempo-and-rhythm reset can be purposeful after a resolved passage, but BPM and hybrid vocabulary alone cannot establish that the move belongs here.",
-          "editorialInterpretation": "Potential hard-left-turn doorway into a slower acid/dub axis, with immediate, local-run and long-form consequences untested."
-        }
-      }
-    }
-  ],
+  "requestedCount": 3,
+  "resolvedCount": 3,
+  "candidateCount": 3,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
   "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Perc & Barbosa",
-        "track": "One",
-        "album": "One",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/album/one",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a bass-heavy minimalist redirection after the protected block as a deliberate new passage rather than a seamless-continuity claim."
-          }
-        ],
-        "fitHypothesis": "Perc Trax describes One through thick sub-heavy kicks, rough vinyl textures, sharp synth clicks, dislocated vocal hooks and a minimal hi-hat pattern. That combination is relevant to rhythmic and structural freedom, but it does not establish bodily response or the Stardancer handoff.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 6:22",
-            "official release date 2026-08-28",
-            "candidate BPM unknown before resolver; no tempo inference made"
-          ],
-          "attributedDescription": "Perc Trax says the exact track is built on thick sub-heavy kicks and rough vinyl textures, with sharp synth clicks, spaced dislocated vocal hooks and the simplest of hi-hat patterns driving it forward. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → One.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A clearly signalled reduction into a bass-heavy minimalist framework can open a new passage, but sparse construction and descriptive contrast do not prove transition quality.",
-          "editorialInterpretation": "Potential post-trio shift into a leaner, bass-led rhythmic vocabulary; actual intensity, pulse and flow remain unknown."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Batu & Donato Dozzy",
-        "track": "Spiral",
-        "album": "Exhale",
-        "releaseDate": "2026-06-30",
-        "bpm": 107,
-        "bpmSource": "https://www.decks.de/track/batu_donato_dozzy-exhale/cqh-i9",
-        "discoverySource": "https://batutimedance.bandcamp.com/album/exhale-2",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": 107,
-            "purpose": "Test an explicit acid, dub-percussion and dancehall-cadence reset after the protected block without treating the large numeric BPM change as either proof or defect."
-          }
-        ],
-        "fitHypothesis": "Pitchfork's track-specific description combines plodding kicks, gnarled acid bass, dubby hand percussion and a loping dancehall cadence. This strongly supports the volume's cross-rhythmic selection lens, while the actual post-Stardancer effect remains unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:18",
-            "official release date 2026-06-30",
-            "retailer metadata reports 107 BPM; perceived pulse and metrical interpretation are not inferred"
-          ],
-          "attributedDescription": "Pitchfork describes Spiral with plodding kicks, a gnarled acid bassline, dubby hand percussion and a loping dancehall cadence. This is reviewer language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Spiral.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous tempo-and-rhythm reset can be purposeful after a resolved passage, but BPM and hybrid vocabulary alone cannot establish that the move belongs here.",
-          "editorialInterpretation": "Potential hard-left-turn doorway into a slower acid/dub axis, with immediate, local-run and long-form consequences untested."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Scalameriya",
-        "track": "Aurifex Rex",
-        "album": "Aurifex Rex",
-        "releaseDate": "2025-11-21",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
+        "artist": "brenner",
+        "track": "Thick to Handle",
+        "album": "Learning to Dance Again",
+        "releaseDate": "2026-09-04",
+        "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
+            "candidateBpm": 138,
+            "outgoingBpm": 139,
+            "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+          },
+          {
+            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 140,
+            "candidateBpm": 138,
+            "outgoingBpm": 138,
+            "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
           }
         ],
-        "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
+        "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 4:48",
-            "official release date 2025-11-21",
-            "candidate BPM unknown before resolver; no tempo inference made"
+            "exact Spotify identity",
+            "138 BPM",
+            "resolver duration from Run 48: 4:39"
           ],
-          "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
+          "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
+          "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
-          "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
+          "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
+          "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
         }
       },
-      "spotifyTrackId": "2yN6VFWjkD5VZFxyZjXLq4",
+      "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Shaun Moses",
-        "track": "Nostalgia",
-        "album": "Nostalgia",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
+        "artist": "CONFUSION (RASEREI)",
+        "track": "DT229",
+        "album": "Vakuum EP",
+        "releaseDate": "2025-12-05",
+        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
+        "bpm": 135,
+        "bpmSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
+        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": 135,
+            "outgoingBpm": 134,
+            "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": 135,
+            "outgoingBpm": 140,
+            "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
           }
         ],
-        "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
+        "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
         "evidence": {
           "measured": [
-            "official release date 2026-08-07",
-            "candidate duration and BPM unknown before resolver; no tempo inference made"
+            "exact Spotify identity",
+            "135 BPM",
+            "resolver duration from Run 47: 2:55"
           ],
-          "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
+          "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
+          "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
-          "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
+          "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
+          "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
         }
       },
-      "spotifyTrackId": "0OzAhiqNvVpbYyRLm4ISV3",
+      "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "brenner",
+        "track": "Waltz",
+        "album": "Learning to Dance Again",
+        "releaseDate": "2026-09-04",
+        "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
+        "bpm": 135,
+        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": 135,
+            "outgoingBpm": 134,
+            "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": 135,
+            "outgoingBpm": 140,
+            "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
+          }
+        ],
+        "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "135 BPM",
+            "resolver duration from Run 48: 5:43"
+          ],
+          "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
+          "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
+        }
+      },
+      "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "2yN6VFWjkD5VZFxyZjXLq4",
-      "uri": "spotify:track:2yN6VFWjkD5VZFxyZjXLq4",
-      "name": "Aurifex Rex",
+      "id": "7CUodG7GLLbzOtO6qXGJxT",
+      "uri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+      "name": "Thick to Handle",
       "artists": [
-        "Scalameriya"
+        "brenner"
       ],
-      "album": "Aurifex Rex",
-      "releaseDate": "2025-11-21",
-      "durationMs": 288358,
-      "spotifyUrl": "https://open.spotify.com/track/2yN6VFWjkD5VZFxyZjXLq4",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
+      "album": "Learning to Dance Again",
+      "releaseDate": "2026-09-04",
+      "durationMs": 279375,
+      "spotifyUrl": "https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT",
+      "bpm": 138,
+      "tempoSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
+          "candidateBpm": 138,
+          "outgoingBpm": 139,
+          "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+        },
+        {
+          "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 140,
+          "candidateBpm": 138,
+          "outgoingBpm": 138,
+          "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
         }
       ],
-      "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
+      "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 4:48",
-          "official release date 2025-11-21",
-          "candidate BPM unknown before resolver; no tempo inference made"
+          "exact Spotify identity",
+          "138 BPM",
+          "resolver duration from Run 48: 4:39"
         ],
-        "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
+        "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
+        "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
-        "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
+        "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
+        "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
       },
       "requestedIdentity": {
-        "artist": "Scalameriya",
-        "track": "Aurifex Rex",
-        "album": "Aurifex Rex",
-        "releaseDate": "2025-11-21",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/album/aurifex-rex",
+        "artist": "brenner",
+        "track": "Thick to Handle",
+        "album": "Learning to Dance Again",
+        "releaseDate": "2026-09-04",
+        "spotifyTrackId": "7CUodG7GLLbzOtO6qXGJxT",
+        "bpm": 138,
+        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "position": "Between Nørbak — Capa and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a source-described stuttered-vocal constant build after the protected block as a structural change, not as a claimed escalation."
+            "candidateBpm": 138,
+            "outgoingBpm": 139,
+            "purpose": "Test broken-beat bodily deformation inside the existing rhythmic-redirection passage rather than appending it after the listener block."
+          },
+          {
+            "position": "Between CHANCEKNOT — Fragments and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 140,
+            "candidateBpm": 138,
+            "outgoingBpm": 138,
+            "purpose": "Test whether the source-described broken beat and body pull can make the move from driving re-escalation into groove consolidation more deliberate."
           }
         ],
-        "fitHypothesis": "Perc Trax describes the exact title track around a glitched, stuttered vocal and a construction that constantly builds. That is relevant to structural freedom, but it cannot establish felt intensity, bodily pull or useful placement.",
+        "fitHypothesis": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to the exact track. That strongly supports STRANGE GAIT belonging and now merits whole-journey placement testing.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 4:48",
-            "official release date 2025-11-21",
-            "candidate BPM unknown before resolver; no tempo inference made"
+            "exact Spotify identity",
+            "138 BPM",
+            "resolver duration from Run 48: 4:39"
           ],
-          "attributedDescription": "Perc Trax says Aurifex Rex is built around a glitched and stuttered vocal and constantly builds. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Aurifex Rex.",
+          "attributedDescription": "Major Records attributes broken beat, a stuttered kick, wobbling synths, acid and bodily pull to Thick to Handle.",
+          "listenerEvidence": "No candidate-specific listener report. The protected listener evidence applies only to Transparency → When We Froze → Stardancer.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A continually developing structure can sustain forward intent, but promotional build language cannot prove energy, phrase behaviour or its role after Stardancer.",
-          "editorialInterpretation": "Potential compact structural-pressure continuation whose actual musical and journey effects remain unknown."
+          "craftConvention": "A rhythmically deformed but bodily track may work best inside an existing tilt/groove passage rather than as a new tail chapter.",
+          "editorialInterpretation": "Strong candidate for the Capa → Tehutis Law region or the Fragments → Truth in Noise boundary; actual transition feel remains untested."
         }
       }
     },
     {
-      "id": "0OzAhiqNvVpbYyRLm4ISV3",
-      "uri": "spotify:track:0OzAhiqNvVpbYyRLm4ISV3",
-      "name": "Nostalgia",
+      "id": "2WtWAoWLGG7w0gr8m5qr2i",
+      "uri": "spotify:track:2WtWAoWLGG7w0gr8m5qr2i",
+      "name": "DT229",
       "artists": [
-        "Shaun Moses"
+        "CONFUSION (RASEREI)"
       ],
-      "album": "Nostalgia",
-      "releaseDate": "2026-08-07",
-      "durationMs": 318500,
-      "spotifyUrl": "https://open.spotify.com/track/0OzAhiqNvVpbYyRLm4ISV3",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
+      "album": "Vakuum EP",
+      "releaseDate": "2025-12-05",
+      "durationMs": 175448,
+      "spotifyUrl": "https://open.spotify.com/track/2WtWAoWLGG7w0gr8m5qr2i",
+      "bpm": 135,
+      "tempoSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
+      "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
+          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": 136,
+          "candidateBpm": 135,
+          "outgoingBpm": 134,
+          "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
+        },
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": 135,
+          "outgoingBpm": 140,
+          "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
         }
       ],
-      "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
+      "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
       "evidence": {
         "measured": [
-          "official release date 2026-08-07",
-          "candidate duration and BPM unknown before resolver; no tempo inference made"
+          "exact Spotify identity",
+          "135 BPM",
+          "resolver duration from Run 47: 2:55"
         ],
-        "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
-        "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
+        "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
+        "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
-        "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
+        "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
+        "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
       },
       "requestedIdentity": {
-        "artist": "Shaun Moses",
-        "track": "Nostalgia",
-        "album": "Nostalgia",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://perctrax.bandcamp.com/track/nostalgia",
+        "artist": "CONFUSION (RASEREI)",
+        "track": "DT229",
+        "album": "Vakuum EP",
+        "releaseDate": "2025-12-05",
+        "spotifyTrackId": "2WtWAoWLGG7w0gr8m5qr2i",
+        "bpm": 135,
+        "bpmSource": "Exact retailer metadata preserved from STRANGE GAIT Run 47",
+        "discoverySource": "https://vakuum-label.bandcamp.com/album/vakuum-ep",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Track 13 after Len Faki — Stardancer; outgoing neighbour open",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a Detroit-pad and kick/bass reset after the protected block without equating claimed cross-set utility with actual transition or long-form quality."
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": 135,
+            "outgoingBpm": 134,
+            "purpose": "Test a compact broken-rhythm/melodic hinge inside the opening descent rather than after Stardancer."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": 135,
+            "outgoingBpm": 140,
+            "purpose": "Test whether its short broken/melodic turn can signal the move from the grounded opening into the more physical middle without claiming the +5 BPM step proves or defeats the transition."
           }
         ],
-        "fitHypothesis": "Perc Trax describes Nostalgia through deep Detroit-inspired pads and a solid kick/bass foundation, with claimed usefulness across different set contexts. This suggests flexible placement potential but offers less direct evidence of rhythmic deformation than the higher-ranked leads.",
+        "fitHypothesis": "Vakuum's exact-track description identifies a broken-rhythm and melodic closing turn. The previous PARKED verdict tested only Stardancer; the current opening/midpoint boundaries are materially different structural contexts.",
         "evidence": {
           "measured": [
-            "official release date 2026-08-07",
-            "candidate duration and BPM unknown before resolver; no tempo inference made"
+            "exact Spotify identity",
+            "135 BPM",
+            "resolver duration from Run 47: 2:55"
           ],
-          "attributedDescription": "Perc Trax says Nostalgia combines deep Detroit-inspired pads with a rock-solid kick and bass foundation and can work in early or peak-time sets. This is label language, not heard or measured behaviour.",
-          "listenerEvidence": "The user positively reports only the protected trio's two internal handoffs. No listener report covers Stardancer → Nostalgia.",
+          "attributedDescription": "Vakuum describes DT229 as a broken-rhythm and melodic closing turn.",
+          "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A stable rhythmic foundation with harmonic character can redirect a long-form set, but broad utility claims do not establish this exact sequence role.",
-          "editorialInterpretation": "Potential adjacent/emerging foundation track; belonging and post-trio effect remain less certain than the top three leads."
+          "craftConvention": "A short left-turn hinge can be useful where the journey is already changing character, provided the local run remains intentional.",
+          "editorialInterpretation": "Potential opening-to-physical-transition hinge; actual attention effect and transitions remain unknown."
+        }
+      }
+    },
+    {
+      "id": "6IbZAmQ3blSb2aaHCsH05Q",
+      "uri": "spotify:track:6IbZAmQ3blSb2aaHCsH05Q",
+      "name": "Waltz",
+      "artists": [
+        "brenner"
+      ],
+      "album": "Learning to Dance Again",
+      "releaseDate": "2026-09-04",
+      "durationMs": 342976,
+      "spotifyUrl": "https://open.spotify.com/track/6IbZAmQ3blSb2aaHCsH05Q",
+      "bpm": 135,
+      "tempoSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+      "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": 136,
+          "candidateBpm": 135,
+          "outgoingBpm": 134,
+          "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
+        },
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": 135,
+          "outgoingBpm": 140,
+          "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
+        }
+      ],
+      "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
+      "evidence": {
+        "measured": [
+          "exact Spotify identity",
+          "135 BPM",
+          "resolver duration from Run 48: 5:43"
+        ],
+        "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
+        "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
+      },
+      "requestedIdentity": {
+        "artist": "brenner",
+        "track": "Waltz",
+        "album": "Learning to Dance Again",
+        "releaseDate": "2026-09-04",
+        "spotifyTrackId": "6IbZAmQ3blSb2aaHCsH05Q",
+        "bpm": 135,
+        "bpmSource": "Beatport exact-track metadata preserved from STRANGE GAIT Run 48",
+        "discoverySource": "https://majorrecords.bandcamp.com/album/learning-to-dance-again",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": 135,
+            "outgoingBpm": 134,
+            "purpose": "Test whether deliberate pitch disorientation can complicate the controlled opening without making it feel like shuffled novelty."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": 135,
+            "outgoingBpm": 140,
+            "purpose": "Test a conspicuous pitch-world hinge before the physical widening, without treating disorientation itself as sufficient."
+          }
+        ],
+        "fitHypothesis": "Major Records attributes deliberately disorienting pitch motion to Waltz. That supports structural interest, but bodily usefulness and attention demand remain unknown and need whole-journey scrutiny.",
+        "evidence": {
+          "measured": [
+            "exact Spotify identity",
+            "135 BPM",
+            "resolver duration from Run 48: 5:43"
+          ],
+          "attributedDescription": "Major Records attributes high-pitched tones moving in and out of key to Waltz.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A deliberately unstable tonal world can be a useful structural turn only if it serves the surrounding run rather than advertising weirdness.",
+          "editorialInterpretation": "Potential opening/midpoint destabilizer; actual bodily continuity and attention effect remain unknown."
         }
       }
     }
