@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 70 — EXPLORE — current syncopated bass techno, emerging off-kilter forms and machine-funk catalogue — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 69 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 104 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Nerve Collect, MYRYRS, In Armatura, Black Magic and Dust Science lanes rather than recycling Runs 53–69.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T05:49:48Z-explore-70`
+- **sourceCommit:** `a5e2c7764a721a3e87831eccf1ebadeb70d4fd69`
+- **request commit:** `94273f2f9c78f8ab981271003e0b3ef7f4e8e5d5`
+- **snapshot commit:** `b3d1f0eb3b3c3a72659ce4f32e635f18996da9ab`
+- **request fingerprint:** `3079871a27153af9207570c59eb21885f73dfd447908dfb83ad53ad20caddf0f`
+- **scope:** approximately 39 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact resolutions and selected candidates + 2 unresolved; two warnings; no duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Teqmun — A Man and His Toad** — RESOLVED and selected: `spotify:track:5ntM9spz3eDODL5Kf4LxDj`; Spotify album `A Man and His Toad EP`, release date `2026-04-24`, duration 4:01, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "A Man and His Toad" but Spotify returned "A Man and His Toad EP"`.
+2. **Sunil Sharpe — Rushneck Break** — RESOLVED and selected: `spotify:track:0NuOv9UGmnH6kab8vJ2NKp`; Spotify album `MYRYRS3`, release date `2026-02-27`, duration 3:34, BPM unavailable.
+3. **Actual — Flunk** — RESOLVED and selected: `spotify:track:1sm4bAjCu0qnBcrtYrj9CR`; Spotify album `Flunk`, release date `2025-05-22`, duration 5:07, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2025-05-15" but Spotify returned "2025-05-22"`.
+4. **Fred Giannelli — Distant Gratification** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Tano — Blend of Poetry** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Teqmun — A Man and His Toad — PARKED
+
+- **Volume fit:** PASS. Nerve Collect describes the exact title track opening with syncopated bass while skeletal patterns surface and recede. This directly supports rhythmic and structural freedom without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. Neither `Cave → A Man and His Toad → Too Much Time` nor `Truth in Noise → A Man and His Toad → Transparency` has sourced BPM/pulse, phrase, entry, exit or mix evidence. The packaging warning does not affect exact title/artist identity.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its documented construction could make an intentional early character turn or pre-trio threshold, but it could also over-articulate either already varied run. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. Strong current selection-lens fit does not establish that another conspicuous mechanism improves the 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify album warning remains attached.
+
+#### Sunil Sharpe — Rushneck Break — PARKED
+
+- **Volume fit:** PASS. MYRYRS describes the exact cut as an off-kilter switchboard running into overdrive. This supports controlled instability without relying on title, reputation or novelty.
+- **Immediate transition:** UNKNOWN. `Drummz → Rushneck Break → Truth in Noise` and `Stardancer → Rushneck Break` remain lawful hypotheses, but exact BPM/pulse, phrasing, entry and exit are unavailable. Descriptive urgency is not energy evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The compact form could sharpen the late run or make a distinct afterword, but it could equally stack another mechanism beside Drummz and Truth in Noise or read as an appended restart.
+- **Long-form journey:** NOT PROVEN. A current emerging-label discovery does not by itself demonstrate a need to interrupt or extend the journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Actual — Flunk — PARKED
+
+- **Volume fit:** PASS. Black Magic Recordings describes the exact track as a baile-funk, broken-beat and UK-techno mutation structured by syncopated, swaying drums. This is a meaningful different-world candidate under the selection lens.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Flunk → Capa` nor `Stardancer → Flunk` has exact BPM/pulse, phrase, entry, exit or mix evidence. The release-date warning is preserved and does not prove or weaken musical fit.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A hybrid turn at Moonwake–Capa could clarify the existing redirection or crowd it; after Stardancer it could be a purposeful doorway or an accidental new start. No source establishes either run.
+- **Long-form journey:** NOT PROVEN. Cross-vocabulary interest and syncopation do not prove that the current middle or ending benefits from expansion.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify date warning remains attached.
+
+The two unresolved leads receive no musical verdict. Distant Gratification retains official exact-track evidence of off-kilter kicks and insistent syncopated machine interplay; Blend of Poetry retains official exact-track evidence of off-kilter basslines and rapid-fire percussion. Neither is a canonical candidate or global utility input without a resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both exact unresolved errors and both metadata warnings are preserved; every candidate is judged at volume, transition, local-run and long-form scales; BPM is not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **104 → 107 exact tracks**, adding A Man and His Toad, Rushneck Break and Flunk.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 39 inspected → 5 ranked leads → 3 exact resolutions + 2 unresolved → 3 selected evaluations → 0 ADD + 3 PARKED → 3 global utility additions. A Man and His Toad is the strongest canonical hypothesis because its official exact-track description documents syncopated bass and a skeletal pattern that surfaces and recedes. The strongest counterargument is that this may provide exactly the purposeful early or pre-trio change the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove their proposed placements fail, that either unresolved lead lacks another lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 69 — EXPLORE — broken-form club mechanics, lopsided catalogue and loop-free current techno — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 68 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 101 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Cici, Jonny L/Peverelist, PLO Man, Roman Flügel and Alex Mein Smith lanes rather than recycling Runs 53–68.

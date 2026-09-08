@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Teqmun — `A Man and His Toad` — exact PARKED current discovery; official syncopated-bass and skeletal-pattern description, with early and pre-trio placements untested
+- Sunil Sharpe — `Rushneck Break` — exact PARKED current emerging-label discovery; official off-kilter-overdrive description, with late-middle and tail placements untested
+- Actual — `Flunk` — exact PARKED different-world discovery; official baile-funk/broken-beat/UK-techno hybrid description, with middle and tail placements untested
+- Fred Giannelli — `Distant Gratification` — unresolved catalogue lead; official off-kilter-kick and syncopated-machine evidence
+- Tano — `Blend of Poetry` — unresolved adjacent lead; official off-kilter-bassline and rapid-fire-percussion evidence
+
 - CiCi — `Extraneous` — exact PARKED adjacent discovery; reviewer-described broken beats, double-time transition and abrupt stop, with both canonical placements untested
 - Roman Flügel — `Pattern One` — exact PARKED catalogue discovery; reviewer-described lopsided bounce and percussion, with early and late-middle placements untested
 - Alex Mein Smith — `Neon Data Void` — exact PARKED current discovery; loop-free, structurally dissolving context is release-level rather than track-specific
@@ -184,6 +190,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Sunil Sharpe — `Rushneck Break` — exact PARKED compact current discovery; no proven Stardancer exit or late-middle handoff
+- Actual — `Flunk` — exact PARKED hybrid discovery; no proven Stardancer afterword or Moonwake–Capa handoff
+- Tano — `Blend of Poetry` — unresolved broken/bass-techno ingredient; exact Spotify identity and tail relation remain unproven
 
 - Leo — `Spirit Level` — exact PARKED current discovery; no proven Stardancer exit or pre-trio handoff
 - Akiid — `Skeffu` — exact PARKED emerging hybrid discovery; no proven afterword entry
