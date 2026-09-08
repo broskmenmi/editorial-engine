@@ -2,6 +2,53 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 75 — EXPLORE — current syncopated transformation and overlooked polyrhythmic constructions — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 74 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 117 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into NAFF, Rhythm Büro, Thoma, No Suit, Modal Analysis and Nonplace lanes rather than recycling Runs 53–74.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T10:53:41Z-explore-75`
+- **sourceCommit:** `1de91eebe6d750213c4ae8899ed0867f2d77c548`
+- **request commit:** `576f2c91fef890323f4d36579c7f31823b12d9d5`
+- **snapshot commit:** `fe29085aa40c51a2ff0c0b601c8cdb5b632a8856`
+- **request fingerprint:** `73b4f7a612aa1e22f9f1c4876d9dc17f60264985ee30f62f1985b4cd6bfc0d09`
+- **scope:** approximately 40 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 4 requested → 1 exact resolution and selected candidate + 3 unresolved; no warnings, duplicates, substitutions, resolved alternates or errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Jump Source — A Dull Knife ft. Harmony Index** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+2. **Cabasa — Intentional Drowning** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Cassegrain — Plate#2** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Drums Off Chaos — Clockwise Instinct** — RESOLVED and selected: `spotify:track:5GSICFny5sZn1T1AW5ZH3b`; Spotify album `Compass`, release date `2017-09-22`, duration 4:27, BPM unavailable.
+
+### Canonical evaluation
+
+#### Drums Off Chaos — Clockwise Instinct — PARKED
+
+- **Volume fit:** PASS. Resident Advisor identifies the exact track as looping in groups of seven and places it inside Drums Off Chaos's flow-based polyrhythmic practice. That is direct evidence of rhythmic freedom rather than an argument from genre, novelty or reputation.
+- **Immediate transition:** UNKNOWN. Neither `Clockwise Instinct → Marauder` nor `Moonwake → Clockwise Instinct → Capa` has perceived-pulse, phrase, entry, exit or mix evidence. A groups-of-seven construction and its 4:27 duration do not establish any handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. As an overture, the acoustic metre-specific world could make the move into Marauder deliberate or make the established opening feel displaced. Inside `Too Much Time → Moonwake → Clockwise Instinct → Capa → Thick to Handle`, it could provide a meaningful rhythmic detour or over-articulate an already varied passage. Available prose cannot decide either local effect.
+- **Long-form journey:** NOT PROVEN. The exact construction strongly supports belonging, but there is no evidence that another distinct rhythmic world improves this 14-track journey rather than adding an isolated mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The three unresolved leads receive no musical verdict. A Dull Knife retains exact review evidence of a dub-techno groove growing into syncopated bass science; Intentional Drowning retains exact review evidence of seven minutes of polyrhythm; Plate#2 retains exact review evidence of uneven, sharply syncopated motion. None is a canonical candidate or global utility input without one resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the selected exact identity was evaluated; all three unresolved identities and their exact errors are preserved; the candidate is judged separately at volume, transition, local-run and long-form scales; metre and duration are not treated as energy or flow; no canonical or protected edge changes; and only the explicitly retained selected track enters the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: one exact PARKED track, three unresolved research leads and one current label watch added; the different-world direction enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **117 → 118 exact tracks**, adding Clockwise Instinct.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 40 inspected → 4 ranked leads → 1 exact resolution + 3 unresolved → 1 selected evaluation → 0 ADD + 1 PARKED → 1 global utility addition. Clockwise Instinct is the strongest canonical hypothesis because the exact review documents a groups-of-seven loop within a flow-based polyrhythmic practice. The strongest counterargument is that this metre-specific acoustic world may provide precisely the purposeful overture or Moonwake–Capa detour the journey permits. The run proves one selected exact track is a worthwhile discovery and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove either proposed placement fails, that the unresolved leads lack lawful Spotify identities, or that STRANGE GAIT is complete.
+
 ## Run 74 — EXPLORE — current techno/D&B mutation, compact different-world arcs and overlooked syncopated structures — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 73 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 115 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Delsin, an emerging Osaka/Kyoto release, TraTraTrax, Twenty Twenty and Eklero lanes rather than recycling Runs 53–73.

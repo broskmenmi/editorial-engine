@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Drums Off Chaos — `Clockwise Instinct` — exact PARKED metre-specific discovery; reviewer-described groups-of-seven loop within a flow-based polyrhythmic practice, with opening and middle placements untested
+- Jump Source — `A Dull Knife ft. Harmony Index` — unresolved current structural lead; reviewer-described dub-techno-to-syncopated-bass transformation
+- Cabasa — `Intentional Drowning` — unresolved overlooked catalogue lead; reviewer-described seven-minute polyrhythmic construction
+- Cassegrain — `Plate#2` — unresolved overlooked techno lead; reviewer-described uneven, sharply syncopated motion
+- Rhythm Büro — `All Things Broken` — current Kyiv label/release watch; release-level framing only, with no exact-track behaviour inferred
+
 - Answer Code Request — `D-Fracture` — exact PARKED current discovery; reviewer-described techno/dark-drum-and-bass mutation with feedback-driven transformation, with middle and pre-trio placements untested
 - Nick León — `Broward Boyy` — exact PARKED compact different-world discovery; reviewer-described slide-guitar-to-techno-to-arpeggio arc, with early and tail placements untested
 - Hizuo — `Paradise Shift (ft.Yossshy)` — unresolved current emerging lead; artist-described jungle-chop opening, Rhodes section and fast broken beats
