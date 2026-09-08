@@ -1,101 +1,227 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-08T19:48:14Z-explore-84",
-  "sourceCommit": "a9c46ee9b564bd34503663f35372d8de45e63aec",
+  "runId": "2026-09-08T20:48:40Z-explore-85",
+  "sourceCommit": "e204285068eeb831e90fd889dccd5ef9870cd498",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
-    "position": "Whole journey; preserve only Transparency → When We Froze and When We Froze → Stardancer.",
+    "position": "Whole journey; preserve only Transparency → When We Froze and When We Froze → Stardancer. Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test four unused exact-track hypotheses spanning current emerging UK club-pop, kickless techno, footwork-derived polyrhythm and drumless Swedish-label techno."
+    "purpose": "Test five unused exact-track hypotheses spanning current digital club music, current dream-juke adjacency, drum-forward techno-house and overlooked percussion-led techno."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T19:48:14Z",
+    "timestampUtc": "2026-09-08T20:48:40Z",
     "sourceWindows": [
-      "CURRENT / EMERGING UK: https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep — September 2, 2026 review; iKeda — Meoww retained from the exact account of riding and subverting the beat within a purposeful bubble-riddim fusion.",
-      "ADJACENT / OSTGUT TON: https://pitchfork.com/reviews/albums/barker-utility — Barker — Posmean retained from an exact kickless-techno account centered on taut rubbery synth pulses and white-noise percussion.",
-      "OVERLOOKED / PLANET MU: https://pitchfork.com/reviews/albums/23119-black-origami — Jlin — Nyakinyua Rise retained from the exact 808 movement against multiple polyrhythms.",
-      "OVERLOOKED / BLUNDAR: https://pitchfork.com/reviews/tracks/18196-lowtec-a2 — Lowtec — A2 retained from the exact drumless pulse, tangled-polyrhythm and accumulating-delay account.",
-      "ADDITIONAL WINDOWS: current September 2026 electronic releases, Barker's remaining Utility tracks, Jlin's Black Origami sequence, Lolina, Julmud and Arthur Russell catalogue/reissue coverage were screened. Run 83 sources and previously retained identities were excluded."
+      "CURRENT / PC MUSIC: https://pitchfork.com/reviews/albums/grrl-beetle — GRRL's March 2026 Beetle window was screened; Moire was retained from its exact not-quite-4/4 but predictable rhythmic foundation.",
+      "CURRENT / DREAM JUKE: https://pitchfork.com/reviews/albums/nondi-nondi — Nondi_'s March 2026 album window was screened; I Version Melody was retained from the exact triplet-chirp juke-rhythm account.",
+      "ADJACENT / OPTIMO MUSIC: https://ra.co/reviews/24568 — Bergsonist's Middle Ouest window was screened; the title track was retained from its exact loose collage of shifting percussion.",
+      "OVERLOOKED / TIKITA: https://ra.co/reviews/15496 — Ko-Ta's remastered Festimask window was screened; Comptine was retained from its exact tightly knotted syncopated-percussion construction.",
+      "OVERLOOKED / COCOON: https://ra.co/reviews/14893 — Julien Bracht's Sub Collapsed window was screened; the title track was retained from its exact swung and shifting-percussion description.",
+      "ADDITIONAL WINDOWS: current September 2026 electronic coverage, GRRL's 24-track Beetle sequence, Nondi_'s album sequence, Ploy, Barac, Marcello Napoletano and adjacent RA catalogue searches were screened. Runs 83–84 sources and every previously retained exact identity were excluded."
     ],
-    "approximateInspectedScope": "Approximately 39 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 41 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and Runs 53–83 retained identities were excluded.",
+      "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and previously retained exact identities were excluded.",
       "The two protected internal handoffs remain unavailable; every other boundary remains available.",
+      "Ploy's 2025 window was screened but not ranked because it had already appeared in earlier exploration coverage; catalogue neighbours without exact-track rhythmic evidence stayed below the list.",
       "No lead was promoted for recency, reputation, genre, novelty or technical cleverness.",
       "Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Jlin — Nyakinyua Rise: strongest exact multiple-polyrhythm and moving-808 account.",
-      "2. Lowtec — A2: strongest exact drumless techno pulse with tangled polyrhythms.",
-      "3. Barker — Posmean: strongest adjacent kickless-techno structural lead.",
-      "4. iKeda — Meoww: strongest current emerging beat-subversion lead."
+      "1. GRRL — Moire: strongest current exact rhythm that is neither straight 4/4 nor formless.",
+      "2. Ko-Ta — Comptine: strongest overlooked exact syncopated-percussion construction.",
+      "3. Bergsonist — Middle Ouest: strongest shifting-percussion collage in a techno/house catalogue.",
+      "4. Nondi_ — I Version Melody: strongest current adjacent triplet-based juke-rhythm lead.",
+      "5. Julien Bracht — Sub Collapsed: strongest overlooked swung techno with shifting percussion."
     ]
   },
   "leads": [
     {
-      "artist": "Jlin",
-      "track": "Nyakinyua Rise",
-      "album": "Black Origami",
-      "releaseDate": "2017-05-19",
+      "artist": "GRRL",
+      "track": "Moire",
+      "album": "Beetle",
+      "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/23119-black-origami",
+      "discoverySource": "https://pitchfork.com/reviews/albums/grrl-beetle",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position":"Between Sciahri — Moonwake and Nørbak — Capa","precedingUri":"spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j","followingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","incomingBpm":140,"candidateBpm":null,"outgoingBpm":137,"purpose":"Test a footwork-derived polyrhythmic redirection."},
-        {"position":"Before Linear System — Transparency","precedingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","followingUri":"spotify:track:6vBGCwTYRiKYCDD52zXZtf","incomingBpm":138,"candidateBpm":null,"outgoingBpm":143,"purpose":"Test the unprotected pre-trio threshold."}
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test a current digital-club redirection with an irregular but described stable foundation."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test the unprotected pre-trio threshold without disturbing either protected internal handoff."
+        }
       ],
-      "fitHypothesis": "The exact review describes 808 movement against multiple polyrhythms within a record that rejects fixed footwork convention.",
-      "evidence": {"measured":["album release date May 19, 2017; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes Nyakinyua Rise through 808 movement against many polyrhythms.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"Strong rhythmic belonging cannot establish either boundary.","editorialInterpretation":"Strong overlooked adjacent-world lead; placements remain untested."}
+      "fitHypothesis": "Pitchfork describes Moire as pairing experimental nervousness with a propulsive kick pattern that is not straightforward four-on-the-floor but remains predictable.",
+      "evidence": {
+        "measured": ["reviewed March 26, 2026; exact release date, duration and BPM remain for resolver"],
+        "attributedDescription": "Pitchfork describes Moire through a fluttering top line and a propulsive, not-quite-4/4 but predictable rhythm.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A clearly legible irregular foundation may support redirection, but source prose cannot establish either handoff.",
+        "editorialInterpretation": "Strong current selection-lens lead; both placements remain untested."
+      }
     },
     {
-      "artist": "Lowtec",
-      "track": "A2",
-      "album": "Blundar 1",
-      "releaseDate": "2016",
+      "artist": "Ko-Ta",
+      "track": "Comptine",
+      "album": "Festimask",
+      "releaseDate": "2014-06",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/tracks/18196-lowtec-a2",
+      "discoverySource": "https://ra.co/reviews/15496",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position":"Before Inigo Kennedy — Marauder","followingUri":"spotify:track:4YhLd9gtkp0vLWu4RNJ716","candidateBpm":null,"outgoingBpm":136,"purpose":"Test a drumless pulsing overture."},
-        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test a drumless afterword without assuming release."}
+        {
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test an explicitly percussion-only syncopated construction inside the redirection run."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a percussion-only afterword without inferring release or closure."
+        }
       ],
-      "fitHypothesis": "The exact review identifies pulse and tangled polyrhythms despite no drums, plus delay that accumulates until the original signal recedes.",
-      "evidence": {"measured":["reviewed April 21, 2016; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes A2 as drumless techno with pulse, tangled polyrhythms and accumulating delay.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"Drumless continuity may frame or detach from the canonical journey; boundaries decide.","editorialInterpretation":"Strong drumless-techno lead; opening and tail placements remain untested."}
+      "fitHypothesis": "Resident Advisor describes Comptine as a tightly knotted construction made entirely from syncopated percussion.",
+      "evidence": {
+        "measured": ["2014 remaster release window; the source identifies an original 2001 issue; exact duration and BPM remain for resolver"],
+        "attributedDescription": "Resident Advisor describes Comptine as a perfectly knotted-up bunch of syncopated percussion and nothing else.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A percussion-only tool may focus or hollow out a run; exact boundary evidence is required.",
+        "editorialInterpretation": "Strong overlooked rhythm-first lead; middle and afterword placements remain untested."
+      }
     },
     {
-      "artist": "Barker",
-      "track": "Posmean",
-      "album": "Utility",
-      "releaseDate": "2019-09-06",
+      "artist": "Bergsonist",
+      "track": "Middle Ouest",
+      "album": "Middle Ouest",
+      "releaseDate": "2020-01",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/barker-utility",
+      "discoverySource": "https://ra.co/reviews/24568",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position":"Between Rene Wise — Cave and Sciahri — Too Much Time","precedingUri":"spotify:track:2Z0j3jb573fveL4Pf3NkP1","followingUri":"spotify:track:7db90RzgCxJSu9XzKJhxKO","incomingBpm":134,"candidateBpm":null,"outgoingBpm":140,"purpose":"Test kickless techno inside the opening run."},
-        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test a kickless techno afterword."}
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a hand-drum and shifting-percussion production-world change in the early run."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a percussion-collage afterword without assuming continuity."
+        }
       ],
-      "fitHypothesis": "The exact review describes taut rubbery synth signals inside a kickless techno album whose rhythm is formed by synthesizers and white-noise attacks.",
-      "evidence": {"measured":["album release date September 6, 2019; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes Posmean's taut rubbery synths within Utility's kickless techno construction.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"Removing the kick may create purposeful contrast or accidental loss of continuity.","editorialInterpretation":"Strong adjacent structural lead; placements remain untested."}
+      "fitHypothesis": "Resident Advisor describes the title track as a loose collage of shifting percussion animated by hand drums.",
+      "evidence": {
+        "measured": ["album released January 2020; exact duration and BPM remain for resolver"],
+        "attributedDescription": "Resident Advisor describes Middle Ouest as a loose collage of shifting percussion with prominent hand drums.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A different percussion world can widen the journey or read as an arbitrary reset; prose cannot decide.",
+        "editorialInterpretation": "Strong adjacent techno/house lead; early and tail placements remain untested."
+      }
     },
     {
-      "artist": "iKeda",
-      "track": "Meoww",
-      "album": "Bangs N Braces EP",
-      "releaseDate": "2026-08-28",
+      "artist": "Nondi_",
+      "track": "I Version Melody",
+      "album": "Nondi...",
+      "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep",
+      "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position":"Between Nørbak — Capa and brenner — Thick to Handle","precedingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","followingUri":"spotify:track:7CUodG7GLLbzOtO6qXGJxT","incomingBpm":137,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test a current bubble-riddim production-world change."},
-        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test a vocal club-pop afterword."}
+        {
+          "position": "Before Inigo Kennedy — Marauder",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test a dream-juke overture as a conspicuous but potentially purposeful threshold."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a compact adjacent-world afterword."
+        }
       ],
-      "fitHypothesis": "The current exact review describes iKeda riding and subverting the beat within a bubble-riddim fusion of dancehall-rooted and hyperpop textures.",
-      "evidence": {"measured":["reviewed September 2, 2026; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork identifies Meoww as the standout example of iKeda riding and subverting beats.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"A vocal club-pop left turn can pass only if transition and long-form purpose are established.","editorialInterpretation":"Current emerging adjacent lead; placements remain untested."}
+      "fitHypothesis": "Pitchfork describes I Version Melody's triplets of synthetic chirps assembling into a delicate juke rhythm.",
+      "evidence": {
+        "measured": ["reviewed March 5, 2026; exact release date, duration and BPM remain for resolver"],
+        "attributedDescription": "Pitchfork describes triplets of cartoonish chirps joining to form the exact track's juke rhythm.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A footwork-derived threshold can be deliberate without belonging to the same production room; both boundaries remain unknown.",
+        "editorialInterpretation": "Current adjacent-world lead; overture and afterword remain untested."
+      }
+    },
+    {
+      "artist": "Julien Bracht",
+      "track": "Sub Collapsed",
+      "album": "Sub Collapsed",
+      "releaseDate": "2014-04",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/14893",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test an explicitly swung techno interruption inside the early Sciahri passage."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test swung shifting percussion as the unprotected pre-trio threshold."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes Sub Collapsed as swung techno whose percussion continually shifts.",
+      "evidence": {
+        "measured": ["released April 2014; exact duration and BPM remain for resolver"],
+        "attributedDescription": "Resident Advisor describes the title track's swung beat and crafty shifting percussion.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A swung techno track may deepen or overcrowd either passage; metadata cannot decide.",
+        "editorialInterpretation": "Strong overlooked techno lead; early and pre-trio placements remain untested."
+      }
     }
   ]
 }
