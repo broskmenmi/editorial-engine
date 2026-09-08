@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- DjRUM — `Sex` — exact PARKED complete-transformation discovery; reviewer-described broken-beat techno softening into piano, cello and vocals, with middle and pre-trio placements untested
+- Vladislav Delay — `Huone - 2020 Remaster` — exact PARKED long-form structural discovery; reviewer-described crooked minimal techno growing into a polyrhythmic labyrinth, with overture and afterword functions untested
+- AceMoMa — `1 Million Breaks` — exact PARKED percussion discovery; reviewer-described clusters advancing and lurching backwards, with internal and tail placements untested
+- Kangding Ray — `Antiblau` — exact resolved alternate, unevaluated; reviewer-described juddering drums and a shuffly broken beat
+- FAUZIA — `I can be anything` — exact current resolved alternate, unevaluated; official and review evidence describes a sub-and-drum framework redirected by guitar
+
 - Drums Off Chaos — `Clockwise Instinct` — exact PARKED metre-specific discovery; reviewer-described groups-of-seven loop within a flow-based polyrhythmic practice, with opening and middle placements untested
 - Jump Source — `A Dull Knife ft. Harmony Index` — unresolved current structural lead; reviewer-described dub-techno-to-syncopated-bass transformation
 - Cabasa — `Intentional Drowning` — unresolved overlooked catalogue lead; reviewer-described seven-minute polyrhythmic construction
@@ -220,6 +226,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- DjRUM — `Sex` — exact PARKED internal transformation; no proven Stardancer afterword or pre-trio handoff
+- Vladislav Delay — `Huone - 2020 Remaster` — exact PARKED 22:06 long-form lead; no proven Stardancer afterword entry, and duration is not energy evidence
+- AceMoMa — `1 Million Breaks` — exact PARKED backwards-lurching percussion discovery; no proven Stardancer exit or Capa–Thick to Handle handoff
+- Kangding Ray — `Antiblau` — exact resolved alternate, unevaluated broken-beat research lead
+- FAUZIA — `I can be anything` — exact resolved alternate, unevaluated compact adjacent-world research lead
 
 - Answer Code Request — `D-Fracture` — exact PARKED current mutation; no proven Moonwake–Capa or pre-trio handoff
 - Nick León — `Broward Boyy` — exact PARKED 1:38 transform-and-dissolve piece; no proven Stardancer afterword or early insertion

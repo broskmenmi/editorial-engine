@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 76 — EXPLORE — complete structural transformations, long-form polyrhythm and current adjacent-world research — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 75 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 118 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Djrum, Vladislav Delay, AceMoMA, Kangding Ray and FAUZIA lanes rather than recycling Runs 53–75; RHR's already-preserved `CICLONADA` was identified and excluded before resolution.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T11:48:55Z-explore-76`
+- **sourceCommit:** `75ca3406d4140857ad7c806fc7f1148d355fd599`
+- **request commit:** `32116d3637a15bfd84c1f4a7d9fb48375438d2b1`
+- **snapshot commit:** `cbe8bae3a4ff4aabc2a743fd8e8a92293f3bd540`
+- **request fingerprint:** `c9b19c81a272b9bb2b34e46e070da2ebe054009be5f6ce60609b4fcebf5ddf4c`
+- **scope:** approximately 44 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 COMPLETE; 5 requested → 5 exact resolutions, comprising 3 selected candidates and 2 resolved alternates; 2 warnings; no unresolved identities, duplicates, substitutions or terminal errors. The first workflow attempt failed transiently during its build step; the failed attempt was not treated as a musical result, and the successful retry produced this terminal snapshot.
+
+### Resolver outcomes preserved exactly
+
+1. **DjRUM — Sex** — RESOLVED and selected: `spotify:track:5g1PPfVJKxaTweGxJhgnue`; Spotify album `Portrait with Firewood`, release date `2018-08-17`, duration 8:27, BPM unavailable.
+2. **Vladislav Delay — Huone - 2020 Remaster** — RESOLVED and selected: `spotify:track:38cHrwVGkA7I0NBF5EMhDK`; Spotify album `Multila (2020 Remaster)`, release date `2020-03-20`, duration 22:06, BPM unavailable.
+3. **AceMoMA — 1 Million Breaks** — RESOLVED and selected: `spotify:track:11CNiCDrhdElGjJB53Pxuv`; Spotify artists `AceMoMa`, `AceMo`, `MoMa Ready`; Spotify album `A Future`, release date `2021-04-23`, duration 6:55, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2021-03-29" but Spotify returned "2021-04-23"`.
+4. **Kangding Ray — Antiblau** — RESOLVED alternate, not selected: `spotify:track:3CK9D0IoBRY92L1mt0iM9O`; Spotify album `Ultrachroma`, release date `2022-06-10`, duration 5:30, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2022-06-03" but Spotify returned "2022-06-10"`.
+5. **FAUZIA — I can be anything** — RESOLVED alternate, not selected: `spotify:track:16WpgfIq98L5mVwWQ7WKn6`; Spotify album `I Was Here For a Moment`, release date `2026-07-17`, duration 2:38, BPM unavailable.
+
+### Canonical evaluations
+
+#### DjRUM — Sex — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track beginning as broken-beat techno and softening halfway through with piano, cello and vocals. That is direct evidence of an internal production-world change and supports the selection lens without using novelty or reputation as admission proof.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Sex → Capa` nor `Truth in Noise → Sex → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Exact duration and neighbour BPMs do not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its complete transformation could make either redirection deliberate, but it could also over-articulate a middle or late run that already contains several distinct mechanisms. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. An 8:27 transformation strongly supports belonging but does not show that this 14-track journey gains more than it loses from another conspicuous mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Vladislav Delay — Huone - 2020 Remaster — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, breaking into a sparse middle before the kick returns. That is unusually strong exact-track structural evidence.
+- **Immediate transition:** UNKNOWN. Neither `Huone → Marauder` nor `Stardancer → Huone` has perceived-pulse, phrase, entry, exit or mix evidence. Its 22:06 duration describes scale, not energy or transition quality.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A long evolving overture could make the opening threshold purposeful, and a long afterword could extend the close, but either placement could instead dominate or restart the surrounding run. Available prose cannot establish proportional benefit.
+- **Long-form journey:** NOT PROVEN. Adding more than 22 minutes would materially redistribute the volume's weight. Strong belonging evidence does not establish that this journey needs that redistribution.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### AceMoMa, AceMo, MoMa Ready — 1 Million Breaks — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through percussion clusters that advance and lurch backwards. That directly supports rhythmic freedom without making an argument from catalogue importance or technical cleverness.
+- **Immediate transition:** UNKNOWN. Neither `Capa → 1 Million Breaks → Thick to Handle` nor `Stardancer → 1 Million Breaks` has perceived-pulse, phrase, entry, exit or mix evidence. Neighbour BPMs cannot substitute for those unknowns.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Backwards-lurching percussion could enrich the existing rhythmic-redirection passage or provide a clear afterword, but it could equally congest the local run or read as a restart. Source prose cannot decide the result.
+- **Long-form journey:** NOT PROVEN. Its 6:55 scale and exact rhythmic evidence establish relevance, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+The two resolved alternates receive no musical verdict. Antiblau retains exact review evidence of juddering drums and a shuffly broken beat, with its Spotify release-date warning preserved; I can be anything retains exact current-release evidence of a sub-and-drum framework redirected by guitar. Neither was selected for evaluation, so neither enters the global utility ledger in this run.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching COMPLETE snapshot is internally valid. Only the three selected exact identities were evaluated; both resolved alternates and both exact warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; duration, neighbour BPM and descriptive structure are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two exact unevaluated research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **118 → 121 exact tracks**, adding Sex, Huone - 2020 Remaster and 1 Million Breaks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 44 inspected → 5 ranked leads → 5 exact resolutions → 3 selected evaluations + 2 resolved alternates → 0 ADD + 3 PARKED → 3 global utility additions. Huone - 2020 Remaster is the strongest canonical hypothesis because the exact review documents growth from crooked minimal techno into a polyrhythmic labyrinth, a sparse middle and a kick-led return. The strongest counterargument is that its long scale may provide precisely the purposeful overture or afterword the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove any proposed placement fails, that either resolved alternate lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 75 — EXPLORE — current syncopated transformation and overlooked polyrhythmic constructions — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 74 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 117 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into NAFF, Rhythm Büro, Thoma, No Suit, Modal Analysis and Nonplace lanes rather than recycling Runs 53–74.
