@@ -1,116 +1,59 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "9380b457c6609090a6d22b36c9c2c7213fd85803cb703d064f87376f17d9cc22",
-  "generatedAt": "2026-09-08T04:00:35.054Z",
-  "runId": "2026-09-08T03:50:05Z-explore-68",
-  "sourceCommit": "7e2459e838fffa5aad9e7b3f23b64ef93d51c327",
+  "requestFingerprint": "f9c4a2812a569ff55e9280b091e09c8391288d0edd8002c2ffb8a7d51c54dee1",
+  "generatedAt": "2026-09-08T05:02:55.509Z",
+  "runId": "2026-09-08T04:52:28Z-explore-69",
+  "sourceCommit": "1bf31ae4e5df1299a5b1987269232c7bbf6a3030",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test one current constantly shifting techno construction, one emerging gqom/minimal-techno hybrid, one current half-time dub-techno adjacency, and two overlooked broken or arrhythmic catalogue cuts. Character change is allowed; admission still requires purposeful transition, local-run and long-form effect."
+    "purpose": "Test one current reduction-based techno construction, one adjacent psychedelic breakbeat-techno title track, and three overlooked staggered, lopsided or drumless catalogue forms. Character change is allowed; admission still requires purposeful transition, local-run and long-form effect."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T03:50:05Z",
+    "timestampUtc": "2026-09-08T04:52:28Z",
     "sourceWindows": [
-      "CURRENT 2026 / PEAK OIL: https://leoproducer.bandcamp.com/album/cicada-burnt — all six leo tracks were screened. Spirit Level was retained from the label's exact whirring, constantly shifting rhythm that bends in on itself; Bandcamp Daily independently describes its slow tension build into thudding kicks and watery polyrhythms.",
-      "CURRENT / EMERGING HAKUNA KULALA: https://hakunakulala.bandcamp.com/album/skeffu — all eleven Akiid tracks were screened. The title track was retained from the exact rubbery mesh of amapiano, jazz, gqom and minimal techno; no energy or compatibility claim is inferred from that description.",
-      "CURRENT / EMERGING PRESSURE DOME: https://pressuredome.bandcamp.com/album/metal-will-reign — all eight How Du tracks were screened. C Gate was retained from the label's exact grouping of alien design, vocal fragments, cavernous bass and spacious half-time rhythm.",
-      "OVERLOOKED CATALOGUE / KOMPAKT: https://thefield.bandcamp.com/album/infinite-moment — all six The Field tracks were screened. Who Goes There was retained from the label's exact arrhythmic, stealth-acid and off-kilter motorik description.",
-      "OVERLOOKED CATALOGUE / FEVER AM: https://ra.co/reviews/29744 — Rhyw's 2018 Emulsion Steps was retained from Resident Advisor's exact bass-heavy broken-techno description.",
-      "ADDITIONAL WINDOWS: Major Records' September 2026 brenner release, OBSCUUR's ACE-HIGH, Darknet's Kanzle EP, Squarepusher's 2026 Kammerkonzert, Pressure Dome adjacent catalogue and current Bandcamp electronic listings were screened. None supplied stronger track-specific structural evidence than the five ranked leads."
+      "CURRENT 2026 / ALEX MEIN SMITH: https://alexmeinsmith.bandcamp.com/album/hem and https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026 — all four tracks on Hem were screened. Neon Data Void was retained as the strongest current lead from an album officially framed as loop-free, focused yet loose, subtle and dissolving; that framing is release-level, not an invented exact-track observation.",
+      "ADJACENT / EMERGING WAREHOUSE MUSIC: https://ra.co/reviews/34158 — all four tracks on Cici's debut Extraneous EP were screened. The exact title track was retained from Resident Advisor's description of a straight kick giving way quickly to lopsided motion and a breakbeat.",
+      "OVERLOOKED CATALOGUE / XL: https://ra.co/reviews/22435 — all four Piper remixes were screened. Jonny L — Piper (Peverelist Remix) was retained from the exact lopsided-techno and sideways-stagger description; the version is explicit and must not be substituted.",
+      "OVERLOOKED CATALOGUE / ONGAKU-SISTER MIDNIGHT: https://ra.co/reviews/34930 — the original four Tracks On Delivery patterns and later reissue context were screened. Roman Flügel — Pattern One was retained from the exact lopsided-bounce and percussive-touch description.",
+      "OVERLOOKED / ADJACENT ACTING PRESS: https://ra.co/reviews/35646 — all four Anonymousmaterial tracks were screened. PLO Man — fig. 015 was retained from the exact drumless, warped dub-techno loop and lopsided repeated-motif description.",
+      "ADDITIONAL WINDOWS: Posthuman's July 2026 Gang of 404, ReKab's 2026 Subtle Beginnings reissue, current September 4 Bandcamp essentials, Mono Junk's IÄTI and Cici/PLO Man label-adjacent catalogues were screened. Their weaker track-specific evidence did not outrank the five leads."
     ],
-    "approximateInspectedScope": "Approximately 47 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 41 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–67 were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–68 were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "Remixes and alternate versions were excluded from the exact leads. No lead was promoted for recency, geography, artist or label reputation, genre, novelty, title or technical cleverness.",
-      "Energy, density, space, hypnosis, perceived pulse, phrase structure, harmonic relation and mixability remain unknown. Descriptive terms such as half-time, arrhythmic and broken are not converted into compatibility claims."
+      "The exact Piper remix version is a deliberate lead and may not be replaced by the original or another remixer. No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness.",
+      "Energy, density, space, hypnosis, perceived pulse, phrase structure, harmonic relation and mixability remain unknown. Release-level language for Neon Data Void is kept explicitly weaker than exact-track evidence."
     ],
     "rankedLeadSummary": [
-      "1. leo — Spirit Level: strongest current exact structural case, with a constantly shifting rhythm documented to bend in on itself.",
-      "2. Akiid — Skeffu: strongest emerging different-world case, an exact rubbery mesh of amapiano, jazz, gqom and minimal techno.",
-      "3. The Field — Who Goes There: strongest overlooked arrhythmic case, joining stealth acid to an off-kilter motorik.",
-      "4. How Du — C Gate: current half-time dub-techno adjacency with exact track-group evidence but less individual detail.",
-      "5. Rhyw — Emulsion Steps: concise overlooked broken-techno lead with exact review evidence."
+      "1. Cici — Extraneous: strongest exact internal-turn case, moving rapidly from straight kick into a lopsided breakbeat construction.",
+      "2. Jonny L — Piper (Peverelist Remix): strongest exact staggered-techno catalogue case, with an explicit version identity.",
+      "3. PLO Man — fig. 015: strongest drumless different-world case, a repeated dub-techno motif described as becoming lopsided.",
+      "4. Roman Flügel — Pattern One: overlooked minimal-techno pattern with exact lopsided-bounce and percussion evidence.",
+      "5. Alex Mein Smith — Neon Data Void: current reduction-based lead whose evidence is album-level rather than track-specific."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 5,
-  "resolvedCount": 5,
+  "resolvedCount": 3,
   "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "artist": "Akiid",
-      "track": "Skeffu",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-06-29\" but Spotify returned \"2026-06-26\""
-    },
-    {
-      "artist": "Rhyw",
-      "track": "Emulsion Steps",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018-01\" but Spotify returned \"2018-06-30\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
+      "artist": "Jonny L",
+      "track": "Piper (Peverelist Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "leo",
-        "track": "Spirit Level",
-        "album": "Cicada Burnt",
-        "releaseDate": "2026-07-31",
+        "artist": "Jonny L",
+        "track": "Piper (Peverelist Remix)",
+        "album": "Piper (Remixes)",
+        "releaseDate": "2018-03",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://leoproducer.bandcamp.com/album/cicada-burnt",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test whether the documented self-bending rhythmic change creates an intentional pivot into Capa or over-articulates the existing redirection."
-          },
-          {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test a conspicuous pre-trio structural turn without treating complexity as journey gain."
-          }
-        ],
-        "fitHypothesis": "Peak Oil describes Spirit Level's exact whirring, constantly shifting rhythm bending in on itself, while Bandcamp Daily describes a slow tension build that launches into thudding kicks and watery polyrhythms. This strongly supports structural freedom but cannot prove either placement.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 7:56 and release date 2026-07-31; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Peak Oil describes a whirring, constantly shifting rhythm that bends in on itself; Bandcamp Daily describes slow-building tension moving into thudding kicks and watery polyrhythms.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A documented internal rhythmic transformation can create an intentional turn, but prose cannot establish perceived pulse, phrase relation, either handoff or attention cost.",
-          "editorialInterpretation": "Strongest current structural lead; both middle and pre-trio placements remain unproven."
-        }
-      },
-      "spotifyTrackId": "6pcaCxZca07lNjKzJPi3k6",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Akiid",
-        "track": "Skeffu",
-        "album": "Skeffu",
-        "releaseDate": "2026-06-29",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://hakunakulala.bandcamp.com/album/skeffu",
+        "discoverySource": "https://ra.co/reviews/22435",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -120,137 +63,7 @@
             "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a deliberate early change of rhythmic vocabulary while protecting the resolved opening from an accidental-feeling reset."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a different-world afterword without assuming hybrid form supplies a necessary next stage."
-          }
-        ],
-        "fitHypothesis": "Hakuna Kulala describes the exact title track as a rubbery mesh of amapiano, jazz, gqom and minimal techno. This supports rhythmic and structural openness while leaving its actual pulse and relation to the journey unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:57 and release date 2026-06-29; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Hakuna Kulala describes Skeffu as a rubbery mesh of amapiano, jazz, gqom and minimal techno.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A hybrid rhythmic vocabulary can create a purposeful character change, but source prose cannot establish entry, exit, phrase relation, perceived energy or local-run gain.",
-          "editorialInterpretation": "Strong emerging different-world candidate; placement evidence is weaker than belonging evidence."
-        }
-      },
-      "spotifyTrackId": "155rn2M3BAtnoDPqaPX074",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "The Field",
-        "track": "Who Goes There",
-        "album": "Infinite Moment",
-        "releaseDate": "2018-09-21",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thefield.bandcamp.com/album/infinite-moment",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test an arrhythmic opening threshold only if it makes the route into Marauder feel intentional rather than conceptually clever."
-          },
-          {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test an off-kilter pre-trio reset without assuming arrhythmic form improves the late journey."
-          }
-        ],
-        "fitHypothesis": "Kompakt describes Who Goes There as arrhythmic, fusing stealth acid bass with an off-kilter motorik. That exact-track evidence supports the volume lens but not a specific transition or long-form need.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 8:52 and release date 2018-09-21; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Kompakt calls Who Goes There a more arrhythmic affair, combining stealth acid bass with a haunting off-kilter motorik.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "An arrhythmic threshold may be purposeful, but text cannot establish perceived pulse, transition scale, surrounding-run attention effect or net journey value.",
-          "editorialInterpretation": "Strongest overlooked catalogue lead; both available placements carry material reset risk."
-        }
-      },
-      "spotifyTrackId": "0UrNaHFBllhpAra4jH81gX",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "How Du",
-        "track": "C Gate",
-        "album": "Metal Will Reign",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pressuredome.bandcamp.com/album/metal-will-reign",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a spacious half-time opening world without inferring that its contrast establishes a route into Marauder."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a dub-techno adjacent afterword whose slower framing may or may not open a useful new door."
-          }
-        ],
-        "fitHypothesis": "Pressure Dome groups C Gate with alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms. This is relevant adjacent-world evidence, but it is shared with another track and cannot establish C Gate's individual transitions.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 3:53 and release date 2026-07-31; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Pressure Dome pairs C Gate with darker territory, alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Half-time framing may enable a deliberate reset, but shared release prose cannot establish exact pulse, individual form, entry, exit or long-form usefulness.",
-          "editorialInterpretation": "Useful current adjacent lead; track-specific evidence is weaker than the top three."
-        }
-      },
-      "spotifyTrackId": "25Refeb0JfK4bHVW9YfyuS",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Emulsion Steps",
-        "album": "Emulsion Steps",
-        "releaseDate": "2018-01",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/29744",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether a broken-techno insertion deepens this redirection or merely duplicates an already established function."
+            "purpose": "Test whether the sideways stagger makes a deliberate early change without repeating the disconnected-opening problem."
           },
           {
             "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
@@ -259,40 +72,318 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test a concise broken turn inside the late run without treating genre fit as transition proof."
+            "purpose": "Test a staggered turn inside the late run without treating track description as handoff proof."
           }
         ],
-        "fitHypothesis": "Resident Advisor describes Emulsion Steps as a bass-heavy broken-techno cut. This is exact-track support for belonging, but it offers less structural detail than the higher-ranked leads.",
+        "fitHypothesis": "Resident Advisor describes Peverelist's exact Piper remix as lopsided techno with a sideways stagger. That directly supports rhythmic freedom while leaving both placements and the surrounding runs untested.",
         "evidence": {
           "measured": [
-            "review publication 2018-01-25 and release month 2018-01; exact BPM and duration remain for resolver"
+            "Resident Advisor reports a March 2018 release; exact BPM and duration remain for resolver"
           ],
-          "attributedDescription": "Resident Advisor calls Emulsion Steps a bass-heavy broken-techno cut.",
+          "attributedDescription": "Resident Advisor calls the Peverelist version lopsided techno with a sideways stagger.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Broken-techno identity can justify resolution but not an insertion; no exact handoff, phrase relation, attention effect or long-form gain is established.",
-          "editorialInterpretation": "Honest overlooked lead; evidence depth is weakest of the five."
+          "craftConvention": "A staggered rhythm may create an intentional pivot, but the review does not establish phrase relation, perceived energy, either transition or long-form need.",
+          "editorialInterpretation": "Strong overlooked exact-version lead; no current placement is proven."
+        }
+      }
+    },
+    {
+      "artist": "PLO Man",
+      "track": "fig. 015",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "PLO Man",
+        "track": "fig. 015",
+        "album": "Anonymousmaterial",
+        "releaseDate": "2023-07",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/35646",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a drumless threshold into Marauder only if the reset reads as deliberate rather than conceptually decorative."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test a drumless decompression before the protected trio without assuming contrast improves the journey."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes fig. 015 as a drumless warped dub-techno loop whose repeated motif becomes lopsided. This supports structural and pulse ambiguity but not any exact transition.",
+        "evidence": {
+          "measured": [
+            "Resident Advisor reports a July 2023 release; exact BPM and duration remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes a drumless warped dub-techno loop with seismic pulses and a repeated motif that becomes lopsided.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A drumless threshold or decompression can be purposeful, but no entry, exit, phrase relation, perceived pulse or long-form benefit is established.",
+          "editorialInterpretation": "Strong different-world lead; both proposed placements carry substantial reset uncertainty."
+        }
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "artist": "Cici",
+      "track": "Extraneous",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2021-07\" but Spotify returned \"2021-07-16\""
+    },
+    {
+      "artist": "Roman Flügel",
+      "track": "Pattern One",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2000\" but Spotify returned \"2020-10-23\""
+    }
+  ],
+  "outcomes": [
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Cici",
+        "track": "Extraneous",
+        "album": "Extraneous",
+        "releaseDate": "2021-07",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34158",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether the documented straight-to-lopsided internal turn creates a useful pivot into Capa or overloads the existing redirection."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test an explicit structural rupture before the protected trio without assuming relevant weirdness supplies long-form gain."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes Extraneous beginning with about ten seconds of straight techno kick before turning lopsided through bouncing synths, snares and a breakbeat. That exact structural change strongly supports the selection lens but cannot prove either handoff.",
+        "evidence": {
+          "measured": [
+            "Resident Advisor reports a July 2021 release and says each EP track is around 128 BPM; exact-track BPM and duration remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes about ten seconds of straight kick followed by a rapid lopsided turn involving bouncing synth bleeps, tinny snares and a breakbeat.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A documented internal change can justify a conspicuous transition, but prose cannot establish perceived pulse, phrase relation, entry, exit or local attention cost.",
+          "editorialInterpretation": "Strongest exact structural lead; both middle and pre-trio placements remain hypotheses."
         }
       },
-      "spotifyTrackId": "12qgoztlrCeZotOjOoNNE2",
-      "selected": false
+      "spotifyTrackId": "0UMkNUSe3ADZ2DIh8fhR6C",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Jonny L",
+        "track": "Piper (Peverelist Remix)",
+        "album": "Piper (Remixes)",
+        "releaseDate": "2018-03",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/22435",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the sideways stagger makes a deliberate early change without repeating the disconnected-opening problem."
+          },
+          {
+            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test a staggered turn inside the late run without treating track description as handoff proof."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes Peverelist's exact Piper remix as lopsided techno with a sideways stagger. That directly supports rhythmic freedom while leaving both placements and the surrounding runs untested.",
+        "evidence": {
+          "measured": [
+            "Resident Advisor reports a March 2018 release; exact BPM and duration remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor calls the Peverelist version lopsided techno with a sideways stagger.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A staggered rhythm may create an intentional pivot, but the review does not establish phrase relation, perceived energy, either transition or long-form need.",
+          "editorialInterpretation": "Strong overlooked exact-version lead; no current placement is proven."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "PLO Man",
+        "track": "fig. 015",
+        "album": "Anonymousmaterial",
+        "releaseDate": "2023-07",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/35646",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a drumless threshold into Marauder only if the reset reads as deliberate rather than conceptually decorative."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test a drumless decompression before the protected trio without assuming contrast improves the journey."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes fig. 015 as a drumless warped dub-techno loop whose repeated motif becomes lopsided. This supports structural and pulse ambiguity but not any exact transition.",
+        "evidence": {
+          "measured": [
+            "Resident Advisor reports a July 2023 release; exact BPM and duration remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes a drumless warped dub-techno loop with seismic pulses and a repeated motif that becomes lopsided.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A drumless threshold or decompression can be purposeful, but no entry, exit, phrase relation, perceived pulse or long-form benefit is established.",
+          "editorialInterpretation": "Strong different-world lead; both proposed placements carry substantial reset uncertainty."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Roman Flügel",
+        "track": "Pattern One",
+        "album": "Tracks On Delivery",
+        "releaseDate": "2000",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34930",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 134,
+            "purpose": "Test a lopsided minimal pattern inside the opening while respecting listener evidence against gratuitous track-by-track change."
+          },
+          {
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test whether percussive lopsidedness deepens the late run or merely adds another mechanism."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes Pattern One's exact lopsided bounce and flattened snare details. This supports a bodily minimal-techno form with unusual gait, but not a need to insert it now.",
+        "evidence": {
+          "measured": [
+            "original release year 2000; Resident Advisor notes the wider project can reach 140 BPM, which is not an exact-track tempo"
+          ],
+          "attributedDescription": "Resident Advisor describes Pattern One as lopsided in its bounce, using a strange melody as a canvas for flattened snare and other percussive touches.",
+          "listenerEvidence": "No candidate-specific listener report; prior opening feedback rejects disconnected track-by-track shifts.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A minimal lopsided pattern may deepen an existing run, but neither numeric proximity nor catalogue stature proves transition or long-form value.",
+          "editorialInterpretation": "Overlooked bodily-pattern lead; the late placement risks mechanism stacking and the opening has a higher evidence burden."
+        }
+      },
+      "spotifyTrackId": "4LqzPjVTdZH8TNBd1FhilV",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Alex Mein Smith",
+        "track": "Neon Data Void",
+        "album": "Hem",
+        "releaseDate": "2026-07-14",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://alexmeinsmith.bandcamp.com/album/hem",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a current reduction-based opening threshold without attributing album-level behaviour to the exact track."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a current post-trio afterword only if exact evidence later establishes a purposeful exit from Stardancer."
+          }
+        ],
+        "fitHypothesis": "Alex Mein Smith frames Hem as loop-free, focused yet loose and built from subtleties that dissolve. Neon Data Void is the strongest current resolution lead, but the description applies to the album rather than this track individually.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 8:19 and release date 2026-07-14; exact BPM remains for resolver"
+          ],
+          "attributedDescription": "The artist describes Hem as a study in subtraction: no loops, focused yet loose, made from subtleties and dissolving forms. This is release-level evidence only.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Reduction and dissolution may support an opening or afterword, but album-level framing cannot establish the exact track's rhythm, either handoff or journey effect.",
+          "editorialInterpretation": "Honest current lead with weaker track-specific evidence than the four catalogue candidates."
+        }
+      },
+      "spotifyTrackId": "43BP1o04BCjkSSgTFHcoV4",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "6pcaCxZca07lNjKzJPi3k6",
-      "uri": "spotify:track:6pcaCxZca07lNjKzJPi3k6",
-      "name": "Spirit Level",
+      "id": "0UMkNUSe3ADZ2DIh8fhR6C",
+      "uri": "spotify:track:0UMkNUSe3ADZ2DIh8fhR6C",
+      "name": "Extraneous",
       "artists": [
-        "Leo"
+        "CiCi"
       ],
-      "album": "Cicada Burnt",
-      "releaseDate": "2026-07-31",
-      "durationMs": 476756,
-      "spotifyUrl": "https://open.spotify.com/track/6pcaCxZca07lNjKzJPi3k6",
+      "album": "Extraneous",
+      "releaseDate": "2021-07-16",
+      "durationMs": 279038,
+      "spotifyUrl": "https://open.spotify.com/track/0UMkNUSe3ADZ2DIh8fhR6C",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://leoproducer.bandcamp.com/album/cicada-burnt",
+      "discoverySource": "https://ra.co/reviews/34158",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -302,7 +393,7 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test whether the documented self-bending rhythmic change creates an intentional pivot into Capa or over-articulates the existing redirection."
+          "purpose": "Test whether the documented straight-to-lopsided internal turn creates a useful pivot into Capa or overloads the existing redirection."
         },
         {
           "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -311,28 +402,28 @@
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 143,
-          "purpose": "Test a conspicuous pre-trio structural turn without treating complexity as journey gain."
+          "purpose": "Test an explicit structural rupture before the protected trio without assuming relevant weirdness supplies long-form gain."
         }
       ],
-      "fitHypothesis": "Peak Oil describes Spirit Level's exact whirring, constantly shifting rhythm bending in on itself, while Bandcamp Daily describes a slow tension build that launches into thudding kicks and watery polyrhythms. This strongly supports structural freedom but cannot prove either placement.",
+      "fitHypothesis": "Resident Advisor describes Extraneous beginning with about ten seconds of straight techno kick before turning lopsided through bouncing synths, snares and a breakbeat. That exact structural change strongly supports the selection lens but cannot prove either handoff.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 7:56 and release date 2026-07-31; exact BPM remains for resolver"
+          "Resident Advisor reports a July 2021 release and says each EP track is around 128 BPM; exact-track BPM and duration remain for resolver"
         ],
-        "attributedDescription": "Peak Oil describes a whirring, constantly shifting rhythm that bends in on itself; Bandcamp Daily describes slow-building tension moving into thudding kicks and watery polyrhythms.",
+        "attributedDescription": "Resident Advisor describes about ten seconds of straight kick followed by a rapid lopsided turn involving bouncing synth bleeps, tinny snares and a breakbeat.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A documented internal rhythmic transformation can create an intentional turn, but prose cannot establish perceived pulse, phrase relation, either handoff or attention cost.",
-        "editorialInterpretation": "Strongest current structural lead; both middle and pre-trio placements remain unproven."
+        "craftConvention": "A documented internal change can justify a conspicuous transition, but prose cannot establish perceived pulse, phrase relation, entry, exit or local attention cost.",
+        "editorialInterpretation": "Strongest exact structural lead; both middle and pre-trio placements remain hypotheses."
       },
       "requestedIdentity": {
-        "artist": "leo",
-        "track": "Spirit Level",
-        "album": "Cicada Burnt",
-        "releaseDate": "2026-07-31",
+        "artist": "Cici",
+        "track": "Extraneous",
+        "album": "Extraneous",
+        "releaseDate": "2021-07",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://leoproducer.bandcamp.com/album/cicada-burnt",
+        "discoverySource": "https://ra.co/reviews/34158",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -342,7 +433,7 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test whether the documented self-bending rhythmic change creates an intentional pivot into Capa or over-articulates the existing redirection."
+            "purpose": "Test whether the documented straight-to-lopsided internal turn creates a useful pivot into Capa or overloads the existing redirection."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -351,120 +442,124 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 143,
-            "purpose": "Test a conspicuous pre-trio structural turn without treating complexity as journey gain."
+            "purpose": "Test an explicit structural rupture before the protected trio without assuming relevant weirdness supplies long-form gain."
           }
         ],
-        "fitHypothesis": "Peak Oil describes Spirit Level's exact whirring, constantly shifting rhythm bending in on itself, while Bandcamp Daily describes a slow tension build that launches into thudding kicks and watery polyrhythms. This strongly supports structural freedom but cannot prove either placement.",
+        "fitHypothesis": "Resident Advisor describes Extraneous beginning with about ten seconds of straight techno kick before turning lopsided through bouncing synths, snares and a breakbeat. That exact structural change strongly supports the selection lens but cannot prove either handoff.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 7:56 and release date 2026-07-31; exact BPM remains for resolver"
+            "Resident Advisor reports a July 2021 release and says each EP track is around 128 BPM; exact-track BPM and duration remain for resolver"
           ],
-          "attributedDescription": "Peak Oil describes a whirring, constantly shifting rhythm that bends in on itself; Bandcamp Daily describes slow-building tension moving into thudding kicks and watery polyrhythms.",
+          "attributedDescription": "Resident Advisor describes about ten seconds of straight kick followed by a rapid lopsided turn involving bouncing synth bleeps, tinny snares and a breakbeat.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A documented internal rhythmic transformation can create an intentional turn, but prose cannot establish perceived pulse, phrase relation, either handoff or attention cost.",
-          "editorialInterpretation": "Strongest current structural lead; both middle and pre-trio placements remain unproven."
+          "craftConvention": "A documented internal change can justify a conspicuous transition, but prose cannot establish perceived pulse, phrase relation, entry, exit or local attention cost.",
+          "editorialInterpretation": "Strongest exact structural lead; both middle and pre-trio placements remain hypotheses."
         }
       }
     },
     {
-      "id": "155rn2M3BAtnoDPqaPX074",
-      "uri": "spotify:track:155rn2M3BAtnoDPqaPX074",
-      "name": "Skeffu",
+      "id": "4LqzPjVTdZH8TNBd1FhilV",
+      "uri": "spotify:track:4LqzPjVTdZH8TNBd1FhilV",
+      "name": "Pattern One",
       "artists": [
-        "Akiid"
+        "Roman Flügel"
       ],
-      "album": "Skeffu",
-      "releaseDate": "2026-06-26",
-      "durationMs": 357000,
-      "spotifyUrl": "https://open.spotify.com/track/155rn2M3BAtnoDPqaPX074",
+      "album": "Tracks On Delivery",
+      "releaseDate": "2020-10-23",
+      "durationMs": 347108,
+      "spotifyUrl": "https://open.spotify.com/track/4LqzPjVTdZH8TNBd1FhilV",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://hakunakulala.bandcamp.com/album/skeffu",
+      "discoverySource": "https://ra.co/reviews/34930",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
+          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": 136,
           "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test a deliberate early change of rhythmic vocabulary while protecting the resolved opening from an accidental-feeling reset."
+          "outgoingBpm": 134,
+          "purpose": "Test a lopsided minimal pattern inside the opening while respecting listener evidence against gratuitous track-by-track change."
         },
         {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
+          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 138,
           "candidateBpm": null,
-          "purpose": "Test a different-world afterword without assuming hybrid form supplies a necessary next stage."
+          "outgoingBpm": 138,
+          "purpose": "Test whether percussive lopsidedness deepens the late run or merely adds another mechanism."
         }
       ],
-      "fitHypothesis": "Hakuna Kulala describes the exact title track as a rubbery mesh of amapiano, jazz, gqom and minimal techno. This supports rhythmic and structural openness while leaving its actual pulse and relation to the journey unknown.",
+      "fitHypothesis": "Resident Advisor describes Pattern One's exact lopsided bounce and flattened snare details. This supports a bodily minimal-techno form with unusual gait, but not a need to insert it now.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 5:57 and release date 2026-06-29; exact BPM remains for resolver"
+          "original release year 2000; Resident Advisor notes the wider project can reach 140 BPM, which is not an exact-track tempo"
         ],
-        "attributedDescription": "Hakuna Kulala describes Skeffu as a rubbery mesh of amapiano, jazz, gqom and minimal techno.",
-        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Resident Advisor describes Pattern One as lopsided in its bounce, using a strange melody as a canvas for flattened snare and other percussive touches.",
+        "listenerEvidence": "No candidate-specific listener report; prior opening feedback rejects disconnected track-by-track shifts.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A hybrid rhythmic vocabulary can create a purposeful character change, but source prose cannot establish entry, exit, phrase relation, perceived energy or local-run gain.",
-        "editorialInterpretation": "Strong emerging different-world candidate; placement evidence is weaker than belonging evidence."
+        "craftConvention": "A minimal lopsided pattern may deepen an existing run, but neither numeric proximity nor catalogue stature proves transition or long-form value.",
+        "editorialInterpretation": "Overlooked bodily-pattern lead; the late placement risks mechanism stacking and the opening has a higher evidence burden."
       },
       "requestedIdentity": {
-        "artist": "Akiid",
-        "track": "Skeffu",
-        "album": "Skeffu",
-        "releaseDate": "2026-06-29",
+        "artist": "Roman Flügel",
+        "track": "Pattern One",
+        "album": "Tracks On Delivery",
+        "releaseDate": "2000",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://hakunakulala.bandcamp.com/album/skeffu",
+        "discoverySource": "https://ra.co/reviews/34930",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
             "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a deliberate early change of rhythmic vocabulary while protecting the resolved opening from an accidental-feeling reset."
+            "outgoingBpm": 134,
+            "purpose": "Test a lopsided minimal pattern inside the opening while respecting listener evidence against gratuitous track-by-track change."
           },
           {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
             "candidateBpm": null,
-            "purpose": "Test a different-world afterword without assuming hybrid form supplies a necessary next stage."
+            "outgoingBpm": 138,
+            "purpose": "Test whether percussive lopsidedness deepens the late run or merely adds another mechanism."
           }
         ],
-        "fitHypothesis": "Hakuna Kulala describes the exact title track as a rubbery mesh of amapiano, jazz, gqom and minimal techno. This supports rhythmic and structural openness while leaving its actual pulse and relation to the journey unknown.",
+        "fitHypothesis": "Resident Advisor describes Pattern One's exact lopsided bounce and flattened snare details. This supports a bodily minimal-techno form with unusual gait, but not a need to insert it now.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 5:57 and release date 2026-06-29; exact BPM remains for resolver"
+            "original release year 2000; Resident Advisor notes the wider project can reach 140 BPM, which is not an exact-track tempo"
           ],
-          "attributedDescription": "Hakuna Kulala describes Skeffu as a rubbery mesh of amapiano, jazz, gqom and minimal techno.",
-          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Resident Advisor describes Pattern One as lopsided in its bounce, using a strange melody as a canvas for flattened snare and other percussive touches.",
+          "listenerEvidence": "No candidate-specific listener report; prior opening feedback rejects disconnected track-by-track shifts.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A hybrid rhythmic vocabulary can create a purposeful character change, but source prose cannot establish entry, exit, phrase relation, perceived energy or local-run gain.",
-          "editorialInterpretation": "Strong emerging different-world candidate; placement evidence is weaker than belonging evidence."
+          "craftConvention": "A minimal lopsided pattern may deepen an existing run, but neither numeric proximity nor catalogue stature proves transition or long-form value.",
+          "editorialInterpretation": "Overlooked bodily-pattern lead; the late placement risks mechanism stacking and the opening has a higher evidence burden."
         }
       }
     },
     {
-      "id": "0UrNaHFBllhpAra4jH81gX",
-      "uri": "spotify:track:0UrNaHFBllhpAra4jH81gX",
-      "name": "Who Goes There",
+      "id": "43BP1o04BCjkSSgTFHcoV4",
+      "uri": "spotify:track:43BP1o04BCjkSSgTFHcoV4",
+      "name": "Neon Data Void",
       "artists": [
-        "The Field"
+        "Alex Mein Smith"
       ],
-      "album": "Infinite Moment",
-      "releaseDate": "2018-09-21",
-      "durationMs": 531577,
-      "spotifyUrl": "https://open.spotify.com/track/0UrNaHFBllhpAra4jH81gX",
+      "album": "Hem",
+      "releaseDate": "2026-07-14",
+      "durationMs": 499000,
+      "spotifyUrl": "https://open.spotify.com/track/43BP1o04BCjkSSgTFHcoV4",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://thefield.bandcamp.com/album/infinite-moment",
+      "discoverySource": "https://alexmeinsmith.bandcamp.com/album/hem",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -472,37 +567,35 @@
           "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "candidateBpm": null,
           "outgoingBpm": 136,
-          "purpose": "Test an arrhythmic opening threshold only if it makes the route into Marauder feel intentional rather than conceptually clever."
+          "purpose": "Test a current reduction-based opening threshold without attributing album-level behaviour to the exact track."
         },
         {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
           "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test an off-kilter pre-trio reset without assuming arrhythmic form improves the late journey."
+          "purpose": "Test a current post-trio afterword only if exact evidence later establishes a purposeful exit from Stardancer."
         }
       ],
-      "fitHypothesis": "Kompakt describes Who Goes There as arrhythmic, fusing stealth acid bass with an off-kilter motorik. That exact-track evidence supports the volume lens but not a specific transition or long-form need.",
+      "fitHypothesis": "Alex Mein Smith frames Hem as loop-free, focused yet loose and built from subtleties that dissolve. Neon Data Void is the strongest current resolution lead, but the description applies to the album rather than this track individually.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 8:52 and release date 2018-09-21; exact BPM remains for resolver"
+          "official Bandcamp duration 8:19 and release date 2026-07-14; exact BPM remains for resolver"
         ],
-        "attributedDescription": "Kompakt calls Who Goes There a more arrhythmic affair, combining stealth acid bass with a haunting off-kilter motorik.",
+        "attributedDescription": "The artist describes Hem as a study in subtraction: no loops, focused yet loose, made from subtleties and dissolving forms. This is release-level evidence only.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "An arrhythmic threshold may be purposeful, but text cannot establish perceived pulse, transition scale, surrounding-run attention effect or net journey value.",
-        "editorialInterpretation": "Strongest overlooked catalogue lead; both available placements carry material reset risk."
+        "craftConvention": "Reduction and dissolution may support an opening or afterword, but album-level framing cannot establish the exact track's rhythm, either handoff or journey effect.",
+        "editorialInterpretation": "Honest current lead with weaker track-specific evidence than the four catalogue candidates."
       },
       "requestedIdentity": {
-        "artist": "The Field",
-        "track": "Who Goes There",
-        "album": "Infinite Moment",
-        "releaseDate": "2018-09-21",
+        "artist": "Alex Mein Smith",
+        "track": "Neon Data Void",
+        "album": "Hem",
+        "releaseDate": "2026-07-14",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thefield.bandcamp.com/album/infinite-moment",
+        "discoverySource": "https://alexmeinsmith.bandcamp.com/album/hem",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -510,200 +603,29 @@
             "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test an arrhythmic opening threshold only if it makes the route into Marauder feel intentional rather than conceptually clever."
+            "purpose": "Test a current reduction-based opening threshold without attributing album-level behaviour to the exact track."
           },
           {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test an off-kilter pre-trio reset without assuming arrhythmic form improves the late journey."
+            "purpose": "Test a current post-trio afterword only if exact evidence later establishes a purposeful exit from Stardancer."
           }
         ],
-        "fitHypothesis": "Kompakt describes Who Goes There as arrhythmic, fusing stealth acid bass with an off-kilter motorik. That exact-track evidence supports the volume lens but not a specific transition or long-form need.",
+        "fitHypothesis": "Alex Mein Smith frames Hem as loop-free, focused yet loose and built from subtleties that dissolve. Neon Data Void is the strongest current resolution lead, but the description applies to the album rather than this track individually.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 8:52 and release date 2018-09-21; exact BPM remains for resolver"
+            "official Bandcamp duration 8:19 and release date 2026-07-14; exact BPM remains for resolver"
           ],
-          "attributedDescription": "Kompakt calls Who Goes There a more arrhythmic affair, combining stealth acid bass with a haunting off-kilter motorik.",
+          "attributedDescription": "The artist describes Hem as a study in subtraction: no loops, focused yet loose, made from subtleties and dissolving forms. This is release-level evidence only.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "An arrhythmic threshold may be purposeful, but text cannot establish perceived pulse, transition scale, surrounding-run attention effect or net journey value.",
-          "editorialInterpretation": "Strongest overlooked catalogue lead; both available placements carry material reset risk."
+          "craftConvention": "Reduction and dissolution may support an opening or afterword, but album-level framing cannot establish the exact track's rhythm, either handoff or journey effect.",
+          "editorialInterpretation": "Honest current lead with weaker track-specific evidence than the four catalogue candidates."
         }
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "25Refeb0JfK4bHVW9YfyuS",
-      "uri": "spotify:track:25Refeb0JfK4bHVW9YfyuS",
-      "name": "C Gate",
-      "artists": [
-        "How Du"
-      ],
-      "album": "Metal Will Reign",
-      "releaseDate": "2026-07-31",
-      "durationMs": 233566,
-      "spotifyUrl": "https://open.spotify.com/track/25Refeb0JfK4bHVW9YfyuS",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pressuredome.bandcamp.com/album/metal-will-reign",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a spacious half-time opening world without inferring that its contrast establishes a route into Marauder."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a dub-techno adjacent afterword whose slower framing may or may not open a useful new door."
-        }
-      ],
-      "fitHypothesis": "Pressure Dome groups C Gate with alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms. This is relevant adjacent-world evidence, but it is shared with another track and cannot establish C Gate's individual transitions.",
-      "evidence": {
-        "measured": [
-          "official Bandcamp duration 3:53 and release date 2026-07-31; exact BPM remains for resolver"
-        ],
-        "attributedDescription": "Pressure Dome pairs C Gate with darker territory, alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Half-time framing may enable a deliberate reset, but shared release prose cannot establish exact pulse, individual form, entry, exit or long-form usefulness.",
-        "editorialInterpretation": "Useful current adjacent lead; track-specific evidence is weaker than the top three."
-      },
-      "requestedIdentity": {
-        "artist": "How Du",
-        "track": "C Gate",
-        "album": "Metal Will Reign",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pressuredome.bandcamp.com/album/metal-will-reign",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a spacious half-time opening world without inferring that its contrast establishes a route into Marauder."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a dub-techno adjacent afterword whose slower framing may or may not open a useful new door."
-          }
-        ],
-        "fitHypothesis": "Pressure Dome groups C Gate with alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms. This is relevant adjacent-world evidence, but it is shared with another track and cannot establish C Gate's individual transitions.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 3:53 and release date 2026-07-31; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Pressure Dome pairs C Gate with darker territory, alien sound design, haunting vocal fragments, cavernous bass weight and spacious half-time rhythms.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Half-time framing may enable a deliberate reset, but shared release prose cannot establish exact pulse, individual form, entry, exit or long-form usefulness.",
-          "editorialInterpretation": "Useful current adjacent lead; track-specific evidence is weaker than the top three."
-        }
-      }
-    },
-    {
-      "id": "12qgoztlrCeZotOjOoNNE2",
-      "uri": "spotify:track:12qgoztlrCeZotOjOoNNE2",
-      "name": "Emulsion Steps",
-      "artists": [
-        "Rhyw"
-      ],
-      "album": "Emulsion Steps",
-      "releaseDate": "2018-06-30",
-      "durationMs": 256552,
-      "spotifyUrl": "https://open.spotify.com/track/12qgoztlrCeZotOjOoNNE2",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/29744",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether a broken-techno insertion deepens this redirection or merely duplicates an already established function."
-        },
-        {
-          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test a concise broken turn inside the late run without treating genre fit as transition proof."
-        }
-      ],
-      "fitHypothesis": "Resident Advisor describes Emulsion Steps as a bass-heavy broken-techno cut. This is exact-track support for belonging, but it offers less structural detail than the higher-ranked leads.",
-      "evidence": {
-        "measured": [
-          "review publication 2018-01-25 and release month 2018-01; exact BPM and duration remain for resolver"
-        ],
-        "attributedDescription": "Resident Advisor calls Emulsion Steps a bass-heavy broken-techno cut.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Broken-techno identity can justify resolution but not an insertion; no exact handoff, phrase relation, attention effect or long-form gain is established.",
-        "editorialInterpretation": "Honest overlooked lead; evidence depth is weakest of the five."
-      },
-      "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Emulsion Steps",
-        "album": "Emulsion Steps",
-        "releaseDate": "2018-01",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/29744",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether a broken-techno insertion deepens this redirection or merely duplicates an already established function."
-          },
-          {
-            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test a concise broken turn inside the late run without treating genre fit as transition proof."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes Emulsion Steps as a bass-heavy broken-techno cut. This is exact-track support for belonging, but it offers less structural detail than the higher-ranked leads.",
-        "evidence": {
-          "measured": [
-            "review publication 2018-01-25 and release month 2018-01; exact BPM and duration remain for resolver"
-          ],
-          "attributedDescription": "Resident Advisor calls Emulsion Steps a bass-heavy broken-techno cut.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Broken-techno identity can justify resolution but not an insertion; no exact handoff, phrase relation, attention effect or long-form gain is established.",
-          "editorialInterpretation": "Honest overlooked lead; evidence depth is weakest of the five."
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
