@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Liz Somes — `Say No To The Status Quo` — exact PARKED current discovery; official syncopated-rhythm and build-to-collapse description, with canonical handoffs untested
+- Blood Trust — `Sanctuary` — exact PARKED industrial-breaks discovery; official syncopated-break and subtle-choppage description, with opening and tail placements untested
+- Evod — `Acromo 3` — unresolved catalogue lead; official rising-sequence and syncopated-loop evidence
+- Michal Wolski — `Morph` — unresolved catalogue lead; official syncopated-rhythm and wonky-from-start evidence
+- Sa Pa — `World Saving Banger` — unresolved current adjacent-world lead; official broken, raw and IDM-leaning framing
+
 - Amor Satyr — `Rebola` — exact PARKED discovery; reviewer-described trance-led pattern crash-lands into baile funk passages and stuttered vocals
 - Lucid Distraction — `Twerk` — exact PARKED current discovery; official wonkier-production, sweeping-bass and dirty-vocal-chop description
 - Plaid — `Maru` — exact PARKED catalogue discovery; reviewer-described broken techno with heavy kicks and shoulder-shuffling snares
@@ -166,6 +172,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Liz Somes — `Say No To The Status Quo` — exact PARKED structural-arc discovery; 142 BPM does not prove entry into the protected closing block
+- Blood Trust — `Sanctuary` — exact PARKED industrial-breaks discovery; no proven opening or Stardancer afterword handoff
+- Sa Pa — `World Saving Banger` — unresolved broken/IDM-leaning afterword research lead; exact Spotify identity and transition remain unproven
 
 - Amor Satyr — `Rebola` — exact PARKED structural-turn discovery; 146 BPM does not prove a route from Stardancer or into the protected block
 - Plaid — `Maru` — exact PARKED 160 BPM broken-techno discovery; no half-time/double-time relation or afterword handoff is established

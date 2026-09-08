@@ -100,6 +100,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 94 | Amor Satyr | Rebola | spotify:track:22c2IokPuFdAGuZAHzoxkT | STRANGE GAIT Run 66 | PARKED / interesting | 2026-09-08 |
 | 95 | Lucid Distraction | Twerk | spotify:track:701dEt1rRcxh6IfVKztYA0 | STRANGE GAIT Run 66 | PARKED / interesting | 2026-09-08 |
 | 96 | Plaid | Maru | spotify:track:484cAsvAPcBpr8ekFmUk4I | STRANGE GAIT Run 66 | PARKED / interesting | 2026-09-08 |
+| 97 | Liz Somes | Say No To The Status Quo | spotify:track:4KoZOEBZreNls8YMmBeOrq | STRANGE GAIT Run 67 | PARKED / interesting | 2026-09-08 |
+| 98 | Blood Trust | Sanctuary | spotify:track:4TH5sAtuIeE4lz9IqLaHrf | STRANGE GAIT Run 67 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

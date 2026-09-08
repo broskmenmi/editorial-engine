@@ -2,6 +2,62 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 67 — EXPLORE — current structural techno, industrial breaks and syncopated catalogue — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 66 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 96 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Bent Rhythm, Evod, Monday Off, Sa Pa and Blood Trust lanes rather than recycling Runs 53–66.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T02:51:43Z-explore-67`
+- **sourceCommit:** `d6e7253f866b2e2da0915e13436ca0bdf7d7ebfb`
+- **request commit:** `d78086c87323eb5d6822155e202fef8f48f6b45e`
+- **snapshot commit:** `ed9f3a0cde2fb77b81964c4e6bd90b55bed9b984`
+- **request fingerprint:** `dd7c903ce6dbc5f201ed7a38c23b0b2de711852587a2f78ba6b0f27594dc9eef`
+- **scope:** approximately 52 named tracks across current releases, adjacent/emerging labels and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 2 exact selected identities + 3 unresolved; one warning; no duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Liz Somes — Say No To The Status Quo** — RESOLVED and selected: `spotify:track:4KoZOEBZreNls8YMmBeOrq`; Spotify album `Say No To The Status Quo`, release date `2026-02-09`, duration 6:52. Resolver and Beatport exact-track metadata report 142 BPM.
+2. **Blood Trust — Sanctuary** — RESOLVED and selected: `spotify:track:4TH5sAtuIeE4lz9IqLaHrf`; Spotify album `Digital Red Label 005`, release date `2024-05-08`, duration 5:21, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2024-04-19" but Spotify returned "2024-05-08"`.
+3. **Evod — Acromo 3** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Michal Wolski — Morph** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Sa Pa — World Saving Banger** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Liz Somes — Say No To The Status Quo — PARKED
+
+- **Volume fit:** PASS. Bent Rhythm's exact-track description documents syncopated rhythms, detailed percussion and modular-style textures building methodically before collapsing into darker space. That is strong selection-lens evidence without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. The unprotected pre-trio test would be `Truth in Noise 138 → Say No To The Status Quo 142 → Transparency 143`; the alternative late-middle test would be `Drummz 138 → Say No To The Status Quo 142 → Truth in Noise 138`. The numerical paths are plausible evidence, but they do not establish perceived pulse, phrasing, entry, exit or transition quality.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The documented build-and-collapse arc could create purposeful decompression before the protected block, but it could also add another attention-heavy late mechanism or interrupt the Drummz-to-Truth consolidation. No source establishes either local-run effect.
+- **Long-form journey:** NOT PROVEN. The track strongly embodies structural freedom, yet selection-lens fit and a tidy BPM path do not show that adding a new late stage improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Reopen only with materially new exact transition, lawful audio or volunteered listener evidence. Retained locally and globally as genuinely interesting.
+
+#### Blood Trust — Sanctuary — PARKED
+
+- **Volume fit:** PASS. Blood Trust's exact-track description documents tech-step snares meeting industrial grind, syncopated breaks and subtle choppage. Its adjacent production world is relevant without requiring genre purity.
+- **Immediate transition:** UNKNOWN. Both proposed placements—before Marauder and after Stardancer—are conspicuous boundary moves. BPM is unavailable; the release's broader 170-BPM framing was not transferred to this exact track. No sourced pulse, phrase, entry, exit or mix evidence establishes either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A new industrial-breaks opening could recreate the listener's previously resolved favourite-track-style reset risk, while a tail afterword could be purposeful or merely appended. The exact-track description cannot decide either local run.
+- **Long-form journey:** NOT PROVEN. Sanctuary offers a worthwhile different-world and broken-rhythm hypothesis, but there is no evidenced route onward from a new opening or reason to extend the current ending.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+The three unresolved leads receive no musical verdict. Acromo 3 retains exact official rising-sequence and syncopated-loop evidence; Morph retains exact official syncopated and wonky evidence; World Saving Banger retains exact official broken, raw and IDM-leaning framing. None is a canonical candidate or global utility input without a resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the two selected exact identities were evaluated; all three exact unresolved errors and the release-date warning are preserved; every candidate is judged at volume, transition, local-run and long-form scales; BPM is not treated as energy or flow; release-level tempo framing is not transferred to Sanctuary; no canonical or protected edge changes; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks and three unresolved research leads added; two existing set directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **96 → 98 exact tracks**, adding Say No To The Status Quo and Sanctuary.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 52 inspected → 5 ranked leads → 2 exact resolutions + 3 unresolved → 2 evaluations → 0 ADD + 2 PARKED → 2 global utility additions. Say No To The Status Quo is the strongest canonical hypothesis because its exact source documents a complete build-and-collapse arc and its 142 BPM path is numerically plausible before the protected trio. The strongest counterargument is that neither this arc nor the BPM path establishes the actual handoffs, local attention effect or net journey gain. The run proves two exact tracks are worthwhile discoveries and that the scan crossed current, emerging and overlooked lanes across the whole journey. It does not prove either proposed placement fails, that the unresolved leads lack another lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 66 — EXPLORE — baile-funk/trance collision, current wonky bass and broken-techno catalogue — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 65 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 93 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Native Boundaries, Fixed Rhythms, Seilscheibenpfeiler/Amor Satyr and Plaid/Warp lanes rather than recycling Runs 53–65.
