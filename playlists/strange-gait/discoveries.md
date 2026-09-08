@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 82 — EXPLORE — staggered dub, intermittent high-tempo rhythm and sparse stop-start form — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 81 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 135 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Smalltown Supersound, N.A.A.F.I., Samurai Music, Gloriette and Nyege Nyege Tapes windows rather than recycling Runs 53–81.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T17:51:29Z-explore-82`
+- **sourceCommit:** `53b0d322c5fccd6a618b107624b89798d605e6fe`
+- **request commit:** `c5c5cf113163b3c9f9e649f7ed84193a609c6ad9`
+- **snapshot commit:** `bd98bc3a2fc6f6ca99fc730f2abb130972ba1aee`
+- **request fingerprint:** `82000f26599a862c2840a4c90c6734410a8e108d0e7a9c0996995d5e10d58ce8`
+- **scope:** approximately 38 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact selected resolutions plus 2 unresolved identities; 1 warning; no duplicates, substitutions, resolved alternates or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Carmen Villain — Blue** — RESOLVED and selected: `spotify:track:5TjFJq3rC8kAWHqh9DWIlT`; Spotify album `Memoria`, release date `2026-09-04`, duration 5:14, BPM unavailable. No warning.
+2. **Brendon Moeller — Control Mechanism** — RESOLVED and selected: `spotify:track:7p09cXoFtQBt6w6Q4fWe4N`; Spotify album `Shadow Language`, release date `2026-02-05`, duration 4:23, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-02-06" but Spotify returned "2026-02-05"`.
+3. **Debit — Assimilation** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Rey Sapienz & The Congo Techno Ensemble — Dancehall Pigme** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Nite Jewel — No Escape** — RESOLVED and selected: `spotify:track:7eug581EcZ5ft2gntagx5E`; Spotify album `No Sun`, release date `2021-08-27`, duration 4:24, BPM unavailable. No warning.
+
+### Canonical evaluations
+
+#### Carmen Villain — Blue — PARKED
+
+- **Volume fit:** PASS. Pitchfork describes the exact track through flute circling over a staggered beat and an unstable bassline that glitches and displaces surrounding sounds. That is direct rhythmic and structural evidence from a materially different production world.
+- **Immediate transition:** UNKNOWN. Neither an opening before Marauder nor `Cave → Blue → Too Much Time` has perceived-pulse, phrase, entry, exit or mix evidence. Unknown BPM and the 5:14 duration establish neither route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The dub-adjacent construction could create a purposeful overture or widen the early run, but it could also detach from or reset either passage. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. The exact stagger and internal displacement establish strong belonging, not whether the 14-track journey gains from this new threshold.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Brendon Moeller — Control Mechanism — PARKED
+
+- **Volume fit:** PASS. Pitchfork describes the exact track through broken, intermittent beats framing ricocheting sounds in dub-derived delays. That directly supports rhythmic freedom and a credible techno–drum-and-bass boundary world.
+- **Immediate transition:** UNKNOWN. Neither `Drummz → Control Mechanism → Truth in Noise` nor `Stardancer → Control Mechanism` has perceived-pulse, phrase, entry, exit or mix evidence. The album's reported 170 BPM framework does not establish the exact BPM or a half-time relation.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The intermittent construction could sharpen the late-middle hinge or open a distinct afterword; it could equally overload the hinge or restart the ending. Source prose cannot decide.
+- **Long-form journey:** NOT PROVEN. A high-tempo broken-dub vocabulary expands the selection field but does not prove a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Nite Jewel — No Escape — PARKED
+
+- **Volume fit:** PASS, with weak techno evidence. Pitchfork describes the exact track as shuffling, stop-start synth-pop that uses passages of silence structurally. The formal behavior fits the lens, but the available evidence does not establish a techno identity; that distinction remains explicit rather than becoming a genre veto.
+- **Immediate transition:** UNKNOWN. Neither an opening before Marauder nor `Stardancer → No Escape` has perceived-pulse, phrase, entry, exit or mix evidence. Unknown BPM and the 4:24 duration establish neither threshold.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its sparse different-world turn could frame the journey deliberately or read as an unrelated pop interjection. Available prose cannot decide.
+- **Long-form journey:** NOT PROVEN. Stop-start form and silence make it interesting, but they do not prove the canonical techno journey benefits from the addition.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting because the exact structural behavior remains useful beyond the unproven canonical placements.
+
+The two unresolved identities receive no musical verdict. Their exact resolver errors and discovery evidence remain in the local research layer; neither enters the global utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both unresolved identities and the exact warning are preserved; each candidate is judged separately at volume, transition, local-run and long-form scales; duration, album-level tempo and absent exact BPM are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **135 → 138 exact tracks**, adding Blue, Control Mechanism and No Escape.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 38 inspected → 5 ranked leads → 3 exact resolutions + 2 unresolved → 3 evaluations → 0 ADD + 3 PARKED → 3 global utility additions. Blue is the strongest canonical hypothesis because its current exact review documents both a staggered beat and an unstable bassline that displaces surrounding sounds. The strongest counterargument is that its markedly different dub-acoustic world may supply precisely the purposeful overture or early redirection the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, adjacent/emerging and overlooked lanes. It does not prove any proposed placement fails, that either unresolved lead lacks a lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 81 — EXPLORE — current transformation, adjacent bass worlds and overlooked beat manipulation — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 80 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 133 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into current September 2026 windows plus Planet Mu, Peak Oil, I.O.T Records and Warp catalogue lanes rather than recycling Runs 53–80.

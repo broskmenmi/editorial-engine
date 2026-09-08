@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Carmen Villain — `Blue` — exact PARKED current staggered-dub discovery; no proven overture or early-internal handoff
+- Brendon Moeller — `Control Mechanism` — exact PARKED current broken-dub discovery; no proven late-middle or Stardancer-tail placement
+- Nite Jewel — `No Escape` — exact PARKED sparse stop-start different-world discovery; techno identity and both threshold placements remain unproven
+- Debit — `Assimilation` — unresolved current techno/guaracha-tension lead; exact Spotify identity not established
+- Rey Sapienz & The Congo Techno Ensemble — `Dancehall Pigme` — unresolved overlooked broken-electro lead; exact Spotify identity not established
+
 - Wrecked Lightship — `Sunken Skies` — exact PARKED bass-world transformation; reviewer-described quick-stepping dub grows into stuttering breakbeats, with early and late-middle placements untested
 - Clark — `Banjo` — exact PARKED compact electro/beat-manipulation discovery; no proven early or pre-trio handoff
 - Tom VR — `Don't Know How Fast I'm Moving Until I Hit Something` — unresolved current transformation lead; artist and studio-feature evidence documents 4/4 giving way to broken percussion, but exact Spotify identity is not established
