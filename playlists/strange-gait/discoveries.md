@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 80 — EXPLORE — odd metre, shifting percussion and lurching catalogue forms — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 79 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 130 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Northern Electronics, Astral Black, Ostgut Ton, Optimo Music and Infinite Machine windows rather than recycling Runs 53–79.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T15:53:41Z-explore-80`
+- **sourceCommit:** `241c7ba56e1e4b24a11f57fa56b2ce57c28c3488`
+- **request commit:** `e005d9e7d4c15a985523f4c5fc0fec7b06710063`
+- **snapshot commit:** `f5cf83f6a2ce759291a5b64a7bda918fd13b63a3`
+- **request fingerprint:** `06131f217b9fe164c7e05eaaf656de20b9f48fa7121086fecc91a536528c43bf`
+- **scope:** approximately 43 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 COMPLETE; 5 requested → 5 exact resolutions, comprising 3 selected candidates and 2 resolved alternates; 3 warnings; no unresolved identities, duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Varg²™ — Licwiglunga** — RESOLVED and selected: `spotify:track:3O3EEbQACzWAl6Nx3y3RjH`; Spotify album `Misantropen`, release date `2013-05-07`, duration 5:49, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2013-05-08" but Spotify returned "2013-05-07"`.
+2. **Jossy Mitsu — Ø** — RESOLVED and selected: `spotify:track:4aOBjMHxMx1sVUojVz557p`; Spotify album `Planet J`, release date `2021-02-26`, duration 3:53, BPM unavailable. No warning.
+3. **Shed — Another Wedged Chicken** — RESOLVED and selected: `spotify:track:3lAcvi3ulTqvNV2ysgQgOv`; Spotify album `Shedding the Past`, release date `2016-10-21`, duration 7:07, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2008-08" but Spotify returned "2016-10-21"`.
+4. **Bergsonist — Planetary Systems** — RESOLVED alternate, not selected: `spotify:track:3m8J57MtajDZNlTwXmBNgB`; Spotify album `Heat`, release date `2018-12-14`, duration 7:08, BPM unavailable. No warning.
+5. **Aphix — 50 / Thrifty** — RESOLVED alternate, not selected: `spotify:track:4OYyc8pWCUiwkMnIcsKs2N`; Spotify album `Chemtrails EP`, release date `2016-05-27`, duration 5:44, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Chemtrails" but Spotify returned "Chemtrails EP"`.
+
+### Canonical evaluations
+
+#### Varg²™ — Licwiglunga — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track as staggering to odd-meter drum patterns. That is direct metric evidence supporting rhythmic freedom rather than an argument from novelty or reputation.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Licwiglunga → Capa` nor `Truth in Noise → Licwiglunga → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Neighbour BPMs and a 5:49 duration do not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The odd-meter mechanism could make either redirection deliberate, but it could also distract from a developed middle or late run. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. The exact account establishes unusually strong belonging, not whether another overt metric mechanism improves the 14-track journey overall.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Jossy Mitsu — Ø — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through slinky, shifting percussion punctuated by bass and explicitly calls its structure polyrhythmic. This provides direct rhythmic evidence and a credible adjacent production world.
+- **Immediate transition:** UNKNOWN. Neither `Capa → Ø → Thick to Handle` nor `Stardancer → Ø` has perceived-pulse, phrase, entry, exit or mix evidence. Its 3:53 duration and unknown BPM establish neither route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The compact shifting construction could sharpen the middle or form a distinct afterword, but it could equally fragment the run or restart the ending. Available prose cannot decide.
+- **Long-form journey:** NOT PROVEN. A different rhythmic vocabulary establishes relevance, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Shed — Another Wedged Chicken — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes heavy bass kicks bookending each measure, handclaps filling the intervening space and a rhythm that lurches back and forth. This is exact measure-level evidence of a deliberately unstable gait.
+- **Immediate transition:** UNKNOWN. Neither `The Witching Hour → Another Wedged Chicken → Cave` nor `Drummz → Another Wedged Chicken → Truth in Noise` has perceived-pulse, phrase, entry, exit or mix evidence. Equal late-neighbour BPM is not a flow verdict.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The lurching construction could introduce a purposeful early character change or sharpen a late-middle hinge; it could also pull attention away from either established run. Source prose cannot decide.
+- **Long-form journey:** NOT PROVEN. The 7:07 identity and exact rhythmic account establish interest, not whether the whole journey benefits from another sustained mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify reissue-date warning remains attached.
+
+The two exact resolved alternates receive no musical verdict. Planetary Systems retains exact review evidence of syncopated drums and electro-style pads. 50 / Thrifty retains exact broken-rhythm, dub-stab and bit-crushed-drum evidence, with its album-title warning preserved. Neither was selected for evaluation or global utility retention.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching COMPLETE snapshot is internally valid. Only the three selected exact identities were evaluated; both resolved alternates and all three warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; metre, duration and neighbour BPM are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two exact unevaluated research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **130 → 133 exact tracks**, adding Licwiglunga, Ø and Another Wedged Chicken.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 43 inspected → 5 ranked leads → 5 exact resolutions → 3 selected evaluations + 2 resolved alternates → 0 ADD + 3 PARKED → 3 global utility additions. Licwiglunga is the strongest canonical hypothesis because the exact review documents odd-meter drum patterns. The strongest counterargument is that this may provide precisely the purposeful Moonwake–Capa redirection or pre-trio threshold the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, adjacent/emerging and overlooked lanes. It does not prove any proposed placement fails, that either resolved alternate lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 79 — EXPLORE — explicit metre, syncopated drift and overlooked polyrhythmic pressure — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 78 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 127 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; and the listener-protected trio remained intact. Final state review exposed two non-editorial tool-output markers at the top of this log; they were removed as an objective mechanical repair without changing musical mode or state. The scan moved into Tresor, Love In The Endz, Tikita, Livity Sound and Stroboscopic Artefacts windows rather than recycling Runs 53–78.

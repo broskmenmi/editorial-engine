@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Varg²™ — `Licwiglunga` — exact PARKED odd-meter discovery; no proven Moonwake–Capa or pre-trio handoff
+- Jossy Mitsu — `Ø` — exact PARKED compact polyrhythmic discovery; no proven middle or Stardancer-tail placement
+- Shed — `Another Wedged Chicken` — exact PARKED lurching-rhythm catalogue discovery; no proven early or late-middle handoff
+- Bergsonist — `Planetary Systems` — exact resolved alternate, unevaluated; reviewer-described syncopated drums and electro-style pads
+- Aphix — `50 / Thrifty` — exact resolved alternate, unevaluated; broken-beat/dub-techno research lead with no proven overture or middle handoff
+
 - Jonas Kopp — `Ironcry` — exact PARKED metre-specific discovery; reviewer-described interwoven 3/4 and 4/4 drums, with middle and pre-trio placements untested
 - natural/electronic.system. — `Emersione` — exact PARKED overlooked syncopated-drum discovery; no proven overture or Cave–Too Much Time handoff
 - Lucy — `Starving the Mind` — exact PARKED polyrhythmic discovery with a modulated-horn counter-world; no proven Sciahri-pair or pre-trio handoff
@@ -248,6 +254,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Jossy Mitsu — `Ø` — exact PARKED compact polyrhythmic afterword ingredient; no proven Stardancer exit
+- Bergsonist — `Planetary Systems` — exact resolved alternate, unevaluated electro-adjacent afterword lead
+- Aphix — `50 / Thrifty` — exact resolved alternate, unevaluated broken-beat/dub afterword lead
 
 - Lucy — `Starving the Mind` — exact PARKED polyrhythmic ingredient; no proven Stardancer exit, Sciahri-pair insertion or pre-trio handoff
 - Entrañas & Kontronatura — `Eris` — unresolved 6/8-and-triplet adjacent-world ingredient; exact Spotify identity and tail relationship remain unproven
