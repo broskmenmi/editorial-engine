@@ -153,9 +153,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 147 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | STRANGE GAIT Run 86 | Canonical ADD / retained | 2026-09-08 |
 | 148 | Jump Source | A Dull Knife (feat. Harmony Index) | spotify:track:04Tpb8EtnKpuUFsSOro7Y2 | STRANGE GAIT Run 86 | Placement-specific reject / interesting | 2026-09-08 |
 
-Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
-
-Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
 | 149 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | STRANGE GAIT Run 87 | Canonical ADD / retained | 2026-09-08 |
 | 150 | Polygonia | Secret Desire | spotify:track:4H6aAVHLXSDB18QJEZYbXo | STRANGE GAIT Run 87 | PARKED / interesting | 2026-09-08 |
 | 151 | C-System | Poison | spotify:track:2hoZk7Gg9Gv2YkC3fW8nf7 | STRANGE GAIT Run 87 | PARKED / interesting | 2026-09-08 |
+
+Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
+
+Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
