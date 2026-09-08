@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T14:12:45.194Z",
+  "generatedAt": "2026-09-08T21:55:25.013Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "2b573af421d4e69cdae986bde428672666fcca5b6f01a0279472365a30858ec3",
-    "annotationsFingerprint": "10124e303cf80d5f7c81810233c3c17285ec594cfb4f692e7fe309a1fc9fccba"
+    "ledgerFingerprint": "3819b35c01614898c2281da8cb4f44a758a8da354d25cd4a9cbd95d75e85cdbd",
+    "annotationsFingerprint": "c5c66a4b28878effe131891082ee482ee9efdfabd7c60d98ab2f0d784f32aabd"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,12 +18,12 @@
     "detailedSiteUrl": "https://broskmenmi.github.io/editorial-engine/"
   },
   "totals": {
-    "trackCount": 14,
-    "durationMs": 5040000,
-    "durationLabel": "1h 24m",
+    "trackCount": 15,
+    "durationMs": 5400000,
+    "durationLabel": "1h 30m",
     "bpmMin": 134,
     "bpmMax": 143,
-    "latestAddedDate": "2026-09-07"
+    "latestAddedDate": "2026-09-08"
   },
   "chapters": [
     {
@@ -40,9 +40,9 @@
       "label": "Tilt",
       "order": 2,
       "startPosition": 6,
-      "endPosition": 14,
+      "endPosition": 15,
       "startMs": 1800000,
-      "endMs": 5040000
+      "endMs": 5400000
     }
   ],
   "tracks": [
@@ -70,8 +70,8 @@
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.07142857142857142,
-      "progressMidpoint": 0.03571428571428571
+      "progressEnd": 0.06666666666666667,
+      "progressMidpoint": 0.03333333333333333
     },
     {
       "position": 2,
@@ -96,9 +96,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.07142857142857142,
-      "progressEnd": 0.14285714285714285,
-      "progressMidpoint": 0.10714285714285714
+      "progressStart": 0.06666666666666667,
+      "progressEnd": 0.13333333333333333,
+      "progressMidpoint": 0.1
     },
     {
       "position": 3,
@@ -123,9 +123,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.14285714285714285,
-      "progressEnd": 0.21428571428571427,
-      "progressMidpoint": 0.17857142857142858
+      "progressStart": 0.13333333333333333,
+      "progressEnd": 0.2,
+      "progressMidpoint": 0.16666666666666666
     },
     {
       "position": 4,
@@ -151,9 +151,9 @@
       "midpointMs": 1260000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.21428571428571427,
-      "progressEnd": 0.2857142857142857,
-      "progressMidpoint": 0.25
+      "progressStart": 0.2,
+      "progressEnd": 0.26666666666666666,
+      "progressMidpoint": 0.23333333333333334
     },
     {
       "position": 5,
@@ -179,9 +179,9 @@
       "midpointMs": 1620000,
       "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
       "protected": false,
-      "progressStart": 0.2857142857142857,
-      "progressEnd": 0.35714285714285715,
-      "progressMidpoint": 0.32142857142857145
+      "progressStart": 0.26666666666666666,
+      "progressEnd": 0.3333333333333333,
+      "progressMidpoint": 0.3
     },
     {
       "position": 6,
@@ -207,9 +207,9 @@
       "midpointMs": 1980000,
       "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
       "protected": false,
-      "progressStart": 0.35714285714285715,
-      "progressEnd": 0.42857142857142855,
-      "progressMidpoint": 0.39285714285714285
+      "progressStart": 0.3333333333333333,
+      "progressEnd": 0.4,
+      "progressMidpoint": 0.36666666666666664
     },
     {
       "position": 7,
@@ -236,9 +236,9 @@
       "midpointMs": 2340000,
       "spotifyUrl": "https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT",
       "protected": false,
-      "progressStart": 0.42857142857142855,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.4642857142857143
+      "progressStart": 0.4,
+      "progressEnd": 0.4666666666666667,
+      "progressMidpoint": 0.43333333333333335
     },
     {
       "position": 8,
@@ -264,12 +264,41 @@
       "midpointMs": 2700000,
       "spotifyUrl": "https://open.spotify.com/track/79yeMWxkbiNZ4su5UuhS6z",
       "protected": false,
-      "progressStart": 0.5,
-      "progressEnd": 0.5714285714285714,
-      "progressMidpoint": 0.5357142857142857
+      "progressStart": 0.4666666666666667,
+      "progressEnd": 0.5333333333333333,
+      "progressMidpoint": 0.5
     },
     {
       "position": 9,
+      "artist": "Peverelist",
+      "track": "Pulse I",
+      "uri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+      "bpm": 136,
+      "role": "Tilt — provisional crooked accumulation hinge",
+      "added": "2026-09-08",
+      "chapter": "tilt",
+      "chapterOrder": 2,
+      "storyBand": "tilt",
+      "storyLevel": 2.7,
+      "status": "provisional",
+      "labels": [
+        "track-9",
+        "crooked-accumulation-hinge",
+        "explore-run-86-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 2880000,
+      "endMs": 3240000,
+      "midpointMs": 3060000,
+      "spotifyUrl": "https://open.spotify.com/track/2PiW1SaL42KqLTpNSit9zY",
+      "protected": false,
+      "progressStart": 0.5333333333333333,
+      "progressEnd": 0.6,
+      "progressMidpoint": 0.5666666666666667
+    },
+    {
+      "position": 10,
       "artist": "CHANCEKNOT",
       "track": "Fragments",
       "uri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
@@ -282,22 +311,22 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-9",
+        "track-10",
         "driving-re-escalation"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 2880000,
-      "endMs": 3240000,
-      "midpointMs": 3060000,
+      "startMs": 3240000,
+      "endMs": 3600000,
+      "midpointMs": 3420000,
       "spotifyUrl": "https://open.spotify.com/track/3wsskKLpimIuiDDCb6eHVv",
       "protected": false,
-      "progressStart": 0.5714285714285714,
-      "progressEnd": 0.6428571428571429,
-      "progressMidpoint": 0.6071428571428571
+      "progressStart": 0.6,
+      "progressEnd": 0.6666666666666666,
+      "progressMidpoint": 0.6333333333333333
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Clotur",
       "track": "Drummz",
       "uri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
@@ -310,23 +339,23 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-10",
+        "track-11",
         "unpredictable-rhythm-hinge",
         "explore-run-54-add"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3240000,
-      "endMs": 3600000,
-      "midpointMs": 3420000,
+      "startMs": 3600000,
+      "endMs": 3960000,
+      "midpointMs": 3780000,
       "spotifyUrl": "https://open.spotify.com/track/6K07a5OAl8J6wqlcnCoT8i",
       "protected": false,
-      "progressStart": 0.6428571428571429,
-      "progressEnd": 0.7142857142857143,
-      "progressMidpoint": 0.6785714285714286
+      "progressStart": 0.6666666666666666,
+      "progressEnd": 0.7333333333333333,
+      "progressMidpoint": 0.7
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "Inspired Groove",
       "track": "Truth in Noise",
       "uri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
@@ -339,23 +368,23 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-11",
+        "track-12",
         "groove-consolidation",
         "explore-run-28-add"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3600000,
-      "endMs": 3960000,
-      "midpointMs": 3780000,
+      "startMs": 3960000,
+      "endMs": 4320000,
+      "midpointMs": 4140000,
       "spotifyUrl": "https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY",
       "protected": false,
-      "progressStart": 0.7142857142857143,
-      "progressEnd": 0.7857142857142857,
-      "progressMidpoint": 0.75
+      "progressStart": 0.7333333333333333,
+      "progressEnd": 0.8,
+      "progressMidpoint": 0.7666666666666667
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Linear System",
       "track": "Transparency",
       "uri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
@@ -368,24 +397,24 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-12",
+        "track-13",
         "listener-added",
         "trio-opener",
         "repair-run-30-keep"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3960000,
-      "endMs": 4320000,
-      "midpointMs": 4140000,
+      "startMs": 4320000,
+      "endMs": 4680000,
+      "midpointMs": 4500000,
       "spotifyUrl": "https://open.spotify.com/track/6vBGCwTYRiKYCDD52zXZtf",
       "protected": true,
-      "progressStart": 0.7857142857142857,
-      "progressEnd": 0.8571428571428571,
-      "progressMidpoint": 0.8214285714285714
+      "progressStart": 0.8,
+      "progressEnd": 0.8666666666666667,
+      "progressMidpoint": 0.8333333333333334
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Ignez",
       "track": "When We Froze",
       "uri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
@@ -398,24 +427,24 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-13",
+        "track-14",
         "listener-added",
         "listener-confirmed-handoff",
         "repair-run-30-keep"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 4320000,
-      "endMs": 4680000,
-      "midpointMs": 4500000,
+      "startMs": 4680000,
+      "endMs": 5040000,
+      "midpointMs": 4860000,
       "spotifyUrl": "https://open.spotify.com/track/1POzqasdMpIDgI4gQSdPrV",
       "protected": true,
-      "progressStart": 0.8571428571428571,
-      "progressEnd": 0.9285714285714286,
-      "progressMidpoint": 0.8928571428571429
+      "progressStart": 0.8666666666666667,
+      "progressEnd": 0.9333333333333333,
+      "progressMidpoint": 0.9
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "Len Faki",
       "track": "Stardancer",
       "uri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
@@ -428,7 +457,7 @@
       "storyLevel": 2.7,
       "status": "provisional",
       "labels": [
-        "track-14",
+        "track-15",
         "listener-added",
         "trio-close",
         "listener-confirmed-handoff",
@@ -436,14 +465,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 4680000,
-      "endMs": 5040000,
-      "midpointMs": 4860000,
+      "startMs": 5040000,
+      "endMs": 5400000,
+      "midpointMs": 5220000,
       "spotifyUrl": "https://open.spotify.com/track/6i3HRqnSMoSohzwSgq035u",
       "protected": true,
-      "progressStart": 0.9285714285714286,
+      "progressStart": 0.9333333333333333,
       "progressEnd": 1,
-      "progressMidpoint": 0.9642857142857143
+      "progressMidpoint": 0.9666666666666667
     }
   ],
   "transitions": [
@@ -512,18 +541,27 @@
     },
     {
       "fromUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-      "toUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+      "toUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
       "fromPosition": 8,
       "toPosition": 9,
-      "bpmDelta": 1,
+      "bpmDelta": -3,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+      "toUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+      "fromPosition": 9,
+      "toPosition": 10,
+      "bpmDelta": 4,
       "protected": false,
       "frozen": false
     },
     {
       "fromUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
       "toUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-      "fromPosition": 9,
-      "toPosition": 10,
+      "fromPosition": 10,
+      "toPosition": 11,
       "bpmDelta": -2,
       "protected": false,
       "frozen": false
@@ -531,8 +569,8 @@
     {
       "fromUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
       "toUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-      "fromPosition": 10,
-      "toPosition": 11,
+      "fromPosition": 11,
+      "toPosition": 12,
       "bpmDelta": 0,
       "protected": false,
       "frozen": false
@@ -540,8 +578,8 @@
     {
       "fromUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
       "toUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-      "fromPosition": 11,
-      "toPosition": 12,
+      "fromPosition": 12,
+      "toPosition": 13,
       "bpmDelta": 5,
       "protected": false,
       "frozen": false
@@ -549,8 +587,8 @@
     {
       "fromUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
       "toUri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
-      "fromPosition": 12,
-      "toPosition": 13,
+      "fromPosition": 13,
+      "toPosition": 14,
       "bpmDelta": -3,
       "protected": true,
       "frozen": false
@@ -558,8 +596,8 @@
     {
       "fromUri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
       "toUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-      "fromPosition": 13,
-      "toPosition": 14,
+      "fromPosition": 14,
+      "toPosition": 15,
       "bpmDelta": -3,
       "protected": true,
       "frozen": false
