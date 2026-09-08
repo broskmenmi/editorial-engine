@@ -5,15 +5,10 @@
 GitHub is the persistent source of truth. Target directory: `playlists/strange-gait/`.
 
 ## Current schedule
-
-Run the existing STRANGE GAIT task **hourly for now**, until the user requests a change. The user changed it manually; live settings verified on 2026-09-07: `RRULE:FREQ=HOURLY`, timezone `Europe/Stockholm`, task ID `6a9bffba03cc819192efd0b728c0bd56`.
-
-Preserve the live task's start time and scheduling mode. Do not revert to a daily/morning schedule during maintenance or create a duplicate. Every hourly invocation executes the same full pre-audit and REPAIR/EXPLORE workflow below; the cadence does not relax evidence or publication rules.
+Run the existing STRANGE GAIT task **hourly for now** until the user requests a change. Preserve its live start time, exact scheduling mode and task ID `6a9bffba03cc819192efd0b728c0bd56`. Do not create a duplicate or revert to daily cadence.
 
 ## Required reading
-
 Before every run read:
-
 - repository-level `AGENTS.md`;
 - repository-level `LONG-FORM-DJ-DOCTRINE.md`;
 - this file and `feedback-protocol.md`;
@@ -21,169 +16,181 @@ Before every run read:
 - `constitution.md`, `ledger.md`, `notes.md`, `discoveries.md`, `discovery-pool.md`, `set-ideas.md`, `rejected.md`, `revisit.md`, `under-review.md`;
 - `audio-evidence.md`, `audio-evidence.json`, `live-mixing.md`;
 - `journey-annotations.json`, `journey-map-spec.md`, `journey-map.json` when present;
-- `spotify.json`, `spotify-status.json`.
+- `spotify.json`, `spotify-status.json`;
+- global utility contract `playlists/discovery-pool/automation.md`.
 
-`feedback-protocol.md` controls listener complaints. `LONG-FORM-DJ-DOCTRINE.md` controls sequencing craft. `constitution.md` controls this volume's selection lens.
+`feedback-protocol.md` controls complaints. `LONG-FORM-DJ-DOCTRINE.md` controls journey craft. `constitution.md` controls the selection lens.
 
 ## Governing model
+This volume is interested in techno that resists one fixed correct form, especially rhythmic and structural freedom. That is a **selection lens**, not a weirdness quota, genre-purity test or sequencing template.
 
-This volume is interested in techno that resists one fixed correct form, especially rhythmic and structural freedom.
+Global rule: **The music may change character. The flow must not feel accidental.**
 
-That is a **selection lens**, not a demand that every track be weird, not a purity test, and not a sequencing template.
+Different vibes, energy levels, grooves, production worlds and conspicuous left turns are allowed when they make sense at transition, local-run and long-form scale. Do not require one sonic room, a new groove/function per track, fixed chapters/waves, one summit, invisible transitions, artist/texture quotas or universal BPM cutoffs.
 
-The global journey rule is:
-
-**The music may change character. The flow must not feel accidental.**
-
-Different vibes, energy levels, grooves, production worlds, and conspicuous left turns are allowed when they make sense in the transition, local run, and long-form journey.
-
-Do not require one sonic room. Do not require a new groove or function per track. Do not mechanically progress through `Ground → Tilt → Lock → Fracture → Deep Lock → Escape`.
-
-## Operating lanes
+## Pre-audit and operating lanes
+Pre-audit the live queue/history first.
 
 ### REPAIR
-Use REPAIR only for an actionable objective defect, triggered REVISIT, clarified/authorized listener repair, or materially new lawful evidence that makes a specific repair actionable.
+Use REPAIR only for:
+- actionable objective defect;
+- triggered REVISIT;
+- clarified/authorized listener repair;
+- materially new lawful evidence making a specific repair actionable; or
+- an Auditor-confirmed **workflow/process defect** such as sustained Scout over-filtering, repeated epistemic veto, or repetitive placement search.
 
-`AWAITING CLARIFICATION` regions stay frozen.
+A no-ADD streak by itself is not a musical defect. It becomes a process-repair input only when the evidence shows the workflow is systematically filtering or parking credible contenders for the same non-musical reason.
 
-An explicitly approved exact move/remove/reorder/replace involving already-resolved identities may proceed directly to sequencing and audit.
+`AWAITING CLARIFICATION` stays frozen.
 
 ### EXPLORE
-When no actionable repair exists, perform a genuinely fresh outward scan covering:
-
+When no actionable repair exists, perform a genuinely fresh outward scan across:
 - current releases;
-- adjacent or emerging artists/labels;
+- adjacent/emerging artists and labels;
 - overlooked catalogue material.
 
-Search broadly inside the volume's curiosity. Do not force discovery into a pre-declared groove type, chapter role, or "same room" requirement.
+Explore both **outside-in** and **inside-out**:
+- outside-in: find music that plausibly belongs, then test where it could help;
+- inside-out: inspect the current 15-track journey and search for music that could deepen, sharpen, release, redirect or extend an existing passage without inventing a rigid role taxonomy.
 
-Record a fresh UTC receipt, source windows, approximate inspected scope, exclusions, and ranked leads.
+Record fresh UTC receipt, source windows, approximate inspected scope, concrete exclusions, ranked leads and inspection-to-lead conversion.
+
+## Scout lead floor
+Scout should find **credible contenders**, not prove the final placement before resolution.
+
+A lead needs:
+- a concrete source;
+- no canonical/rejection/revisit/protection conflict;
+- a credible constitution-relevant belonging hypothesis beyond novelty/popularity/prestige/BPM;
+- at least one lawful placement hypothesis for later testing.
+
+It does **not** need direct proof that the neighbour handoff works. Direct exact-track rhythmic prose is helpful but not mandatory when reliable context is sufficient to justify serious evaluation. Generic metadata alone is insufficient.
+
+Never pad weak leads. But do not stop at three merely because the resolver later selects at most three candidates. Use more of the allowed **1–9 leads** when several credible contenders exist.
+
+### Low-conversion diagnostics
+No quota is imposed, but possible over-filtering must be visible:
+- if `inspected >= 20` and `leads <= 3`, mark `LOW_LEAD_CONVERSION` and explain the dominant exclusions;
+- if `inspected >= 30` and `leads < 4`, Auditor must explicitly test whether Scout used evaluation-level proof as a lead prerequisite.
+
+These thresholds diagnose the funnel; they never authorize padding or forced ADDs.
 
 ## Canonical candidate flow
-
-When one or more honest leads meet the resolver floor:
-
+When honest leads exist:
 1. Read current main SHA immediately before writing.
-2. Write one immutable `schemaVersion: 2` `scout-request.json` with a new `runId`, that SHA as `sourceCommit`, mode, target, EXPLORE receipt, and one to nine ranked `leads`.
-3. Never reuse a runId, write request-side candidates, or combine diagnostic request writes with editorial state.
-4. Require the matching terminal `scout-data.json` and valid fingerprint.
+2. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
+3. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
+4. Require the matching terminal `scout-data.json` with valid fingerprint.
 5. Evaluate only its selected one-to-three exact candidates.
-6. Preserve every warning, unresolved/duplicate outcome and exact error.
+6. Preserve every warning, unresolved/duplicate outcome, resolved alternate and exact resolver error.
 
-Technical resolver failures are `*_NOT_COMPLETED`, never musical zero results. Never use stale scout data.
+Technical resolver failures are `*_NOT_COMPLETED`, never musical zero. Never reuse stale scout data.
 
-If no lead clears the canonical resolver floor, do not pad a request.
+## Candidate-slot strategy
+The resolver selects at most three candidates. Rank top leads for **canonical potential and journey usefulness**, not for easiest-to-describe weirdness.
+
+When supported by the scan, let the top candidates represent materially different plausible ways to improve the journey — for example continuation/deepening, deliberate redirection, or an adjacent-world move. These are examples, not quotas.
 
 ## Canonical evaluation
+For every exact candidate separately assess:
+1. **Volume fit**;
+2. **Immediate transition**;
+3. **Surrounding three-to-five-track run**;
+4. **Long-form journey effect**.
 
-For every resolved candidate separate:
+A smooth transition may fail. A hard turn may pass. BPM is evidence, not energy or flow.
 
-1. **Volume fit** — is it relevant enough to this volume's broad techno curiosity?
-2. **Transition quality** — does the immediate move make sense?
-3. **Local-run quality** — does the surrounding three-to-five-track run feel curated?
-4. **Long-form effect** — does it improve or preserve the larger journey and open useful possibilities?
+Never infer energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability from metadata alone.
 
-A smooth transition may fail. A hard left turn may pass.
+### UNKNOWN is not FAIL
+Missing direct audio/phrase/mix evidence remains **UNKNOWN**. It is not an automatic PARK condition.
 
-BPM is evidence, not a proxy for energy or flow. There are no repository-wide hard BPM cutoffs; explicit volume-specific tempo rules may still be used as heuristics when useful.
+A provisional ADD may pass when the best available evidence supports a deliberate placement at all three sequencing scales and no known evidence contradicts it, even though direct transition audio is unavailable.
 
-Do not infer energy, density, space, hypnosis, emotional effect, phrase structure, or mixability from metadata alone.
+Use PARK/REVISIT only when a **specific decision-critical uncertainty** prevents a responsible placement. Do not mechanically turn `transition UNKNOWN` into `local run NOT PROVEN` → `long form NOT PROVEN` → `PARKED`.
 
-Novelty, role diversity, artist diversity, genre orthodoxy, and technical cleverness never justify admission by themselves.
+Before parking, Evaluator and Auditor must answer:
+- What exactly is the decision-critical unknown?
+- Why can the best available evidence not choose responsibly despite it?
+- Was another reasonable planned placement tested?
+- Is the evidence bar stricter than the one historically used for existing provisional ADDs?
 
-Until three canonical tracks exist, approve at most one ADD per run so the opening develops deliberately. This is a pacing safeguard only; Tracks 2 and 3 do not have to share one vibe or one chapter.
+Novelty, role diversity, artist diversity, genre orthodoxy and technical cleverness never justify admission.
+
+## Workflow-health / stagnation audit
+Every run's analysis must expose:
+- approximate inspected count;
+- lead count and inspection→lead conversion;
+- exact-resolution count and lead→resolution conversion;
+- evaluated-candidate count;
+- ADD count and candidate→ADD conversion;
+- consecutive completed runs since previous canonical ADD;
+- exact genuinely-interesting tracks retained since previous ADD when reconstructable.
+
+When a no-ADD streak coexists with growing retained-interest inventory, diagnose which explanation fits:
+1. playlist maturity;
+2. weak candidate scans;
+3. resolver/identity loss;
+4. Scout over-filtering;
+5. Evaluator epistemic veto;
+6. repetitive placement hypotheses.
+
+If evidence supports 4–6, Auditor must emit an actionable workflow REPAIR before another ordinary EXPLORE. Do **not** force an ADD to improve metrics.
+
+The Run 55–85 drought is historical evidence of this failure mode and must remain visible in comparative analysis rather than being forgotten after one successful ADD.
 
 ## Inspiration layer
-
-Every completed discovery run may create value independently of canonical ADD decisions.
+A completed discovery run may create value independently of canonical decisions.
 
 ### `discovery-pool.md`
-May retain:
-
-- exact tracks worth knowing;
-- placement-specific rejects that remain musically interesting;
-- parked revisits;
-- source-backed research leads;
-- release/label watches.
-
-Pool membership never overrides canonical REJECT/REVISIT state and never publishes to Spotify.
+May retain exact interesting tracks, placement-specific rejects that remain interesting, parked revisits, source-backed research leads and release/label watches. It is not a Spotify publication input.
 
 ### `set-ideas.md`
-Stores a few useful non-canonical DJ/set directions.
+Stores a few non-canonical creative directions with Direction / Ingredients / Why interesting / Unknown-risk. Set ideas are not proven sequences or live-mixing edges.
 
-Each idea must state:
+After Auditor approval, every exact Spotify track explicitly retained as genuinely interesting enters the separate global utility ledger `playlists/discovery-pool/ledger.md` when absent, regardless of ADD/PARKED/placement-specific REJECT. Never add unresolved leads, watches, duplicates, resolver errors or merely inspected tracks.
 
-- Direction
-- Ingredients
-- Why it is interesting
-- Unknown / risk
+Never apply sequencing, chapter, BPM-flow or journey-map semantics to the global utility ledger.
 
-Set ideas are not proven sequences and do not create live-mixing edges.
+## Sequencing and protected state
+Use global Sequencer and Auditor skills. Preserve feedback boundaries, rejected/revisit state, live/canonical separation and frozen regions.
 
-A genuinely new discovery-pool entry or substantively new set direction is durable inspiration state. Duplicate entries, scan counts, repeated observations, and wording-only edits are not.
+Preserve **Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer** in that exact internal order. Only `Transparency → When We Froze` and `When We Froze → Stardancer` are listener-protected. `Truth in Noise → Transparency` is not protected by implication.
 
-## Sequencing and audit
-
-Use the global Sequencer and Auditor skills.
-
-For every placement assess transition scale, local-run scale, and long-form scale.
-
-Do not impose:
-
-- one sonic room;
-- invisible transitions;
-- one dominant summit;
-- fixed wave/chapter counts;
-- a new function per track;
-- universal BPM thresholds;
-- techno-purity rules.
-
-Preserve protected and frozen regions and listener-feedback scope. In particular, preserve Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer in that internal order. Only its two internal handoffs are listener-protected; Truth in Noise → Transparency remains unprotected.
-
-If a run produces an actionable REPAIR recommendation, execute that repair as the very next ad-hoc run before resuming EXPLORE. Do not create a separate repair-chain task.
+If an actionable REPAIR recommendation emerges, execute it as the very next ad-hoc run using the same orchestrator task before returning to EXPLORE.
 
 ## Persistence
+After Auditor approval persist durable state only when something genuinely changed.
 
-After Auditor approval, persist one logical durable-state change when something genuinely changed.
+Canonical changes update `ledger.md` and `journey-annotations.json` together. Record substantive evaluated results atomically in `discoveries.md` with exact runId/evidence. Do not use pending-discovery files or telemetry-only commits.
 
-Canonical changes update `ledger.md` and `journey-annotations.json` together.
-
-Inspiration-only changes do not touch journey annotations or Spotify.
-
-Do not create telemetry-only commits.
+Inspiration-only changes do not touch journey annotations or STRANGE GAIT Spotify inputs.
 
 ## Spotify and map
+Read root `publication.json` and honor `automaticPublishingEnabled`. Never change it without explicit user instruction.
 
-Read repository-root `publication.json`. `automaticPublishingEnabled: true` automatically publishes approved ledger additions, removals and reorders (and configured metadata/cover changes) through GitHub Actions, targeting only playlists whose publication inputs changed. No extra publication approval is needed for an already approved editorial change. `false` retains manual-only publishing; a separate explicit publication request may use a manual dispatch selecting one playlist. Never change the flag without user instruction. Flag-only or runtime-only commits do not republish unchanged playlists; use a targeted manual dispatch for catch-up when explicitly requested.
+When true, GitHub Actions automatically publish only affected playlist inputs and regenerate the target map. When false, preserve manual-only state.
 
-After a change, report COMPLETE only from `spotify-status.json` exact read-back matching the current canonical ledger, with its verification timestamp. If verification is pending or failed, report that accurately. On no-change runs, distinguish last verified status from a new live check. When the flag is false, report automatic publication disabled; intentional pending publication is not a musical REPAIR trigger.
+Report COMPLETE only from exact matching `spotify-status.json` read-back. On no-change runs, distinguish last verified receipt from new verification.
 
-GitHub Actions also regenerate the target map from canonical state. `discovery-pool.md` and `set-ideas.md` are never publication inputs. Never use the ChatGPT Spotify connector for canonical search, publication or verification.
+If the global Discovery Pool ledger changes, explicitly report **EDITORIAL ENGINE — DISCOVERY POOL**, its Spotify URL, before→after count, exact status and exact `verifiedAt` after bounded finalization.
+
+Single detailed site: https://broskmenmi.github.io/editorial-engine/ . STRANGE GAIT uses its own `journey-map.json` subsection. Never create a separate site.
+
+Never use the ChatGPT Spotify connector for canonical search, publication or verification. Never mutate GROOVE OVER NOISE in this workflow.
 
 ## User-facing response
-
 Use exactly five numbered sections:
-
 1. `TODAY'S DECISION` / `TODAY'S DECISIONS`
 2. `LEDGER CHANGE`
 3. `SPOTIFY STATUS`
 4. `DETAILED MAP`
 5. `EDITORIAL NOTE`
 
-Then append the current compact journey map or `Journey map updating`, followed by unnumbered `## RUN ANALYSIS`.
+Then append the compact journey map or `Journey map updating`, followed by unnumbered `## RUN ANALYSIS`.
 
-For zero canonical leads say `EXPLORATION COMPLETE — NO QUALIFIED CANONICAL CANDIDATES`; this does not mean no interesting music was discovered.
+`RUN ANALYSIS` must reconstruct the real funnel, include the workflow-health metrics above, challenge the strongest conclusion, compare with genuinely comparable recent runs, state what the run proves/does not prove, identify any stagnation signal and mark audio/live capabilities `NOT TESTED` unless exercised.
 
-`RUN ANALYSIS` must reconstruct the real funnel, challenge the strongest conclusion, state what the run proves/does not prove, and mark audio/live capabilities `NOT TESTED` unless exercised.
+When inspiration value appeared include concise `### Discovery harvest` with at most five music discoveries, three watches and three set directions.
 
-When inspiration value appeared, include `### Discovery harvest` with at most:
-
-- 5 unique music discoveries;
-- 3 artist/label/release watches;
-- 3 set directions.
-
-Spotify links only for exact resolved tracks. Clearly label canonical status.
-
-For batch requests, roll up unique discoveries and strongest set directions across the batch instead of repeating each run.
-
-Never turn discovery into listening homework. The user is here to discover music and set ideas, not operate the system.
+Never turn discovery into listening homework.
