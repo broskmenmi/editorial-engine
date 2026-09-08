@@ -88,6 +88,13 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Tomás Urquieta — `32 Balas` — exact PARKED dislocation discovery; reviewer-described non-synchronous elements and drums dropping in and out, with middle and pre-trio placements untested
+- Coffintexts — `Toxic` — exact PARKED adjacent-world discovery; reviewer-described subs and start-stop rhythm, with middle and tail placements untested
+- Shifted — `Flatlands` — exact PARKED overlooked discovery; reviewer-described spatially mobile motif over a motoring rhythm section, with opening and late-middle placements untested
+- Witch Trials — `Hollow Grave` — exact resolved alternate, unevaluated; reviewer-described broken-techno-to-synth-crescendo transformation
+- Chloé Robinson & DJ ADHD — `0121 Do One` — unresolved syncopated-pattern lead; exact Spotify identity not established
+- Kuttin Edge / Krunchtime — `Fix The News` — current August 2026 release watch; track-level rhythmic and structural behaviour unknown
+
 - Konduku — `The Restless` — exact PARKED dissipation-and-reassembly discovery; no proven Moonwake–Capa or pre-trio handoff
 - Robert Fleck — `Echo Chamber` — exact PARKED broken/dub discovery; no proven early or Stardancer-tail placement
 - Nico — `Soft Opening` — exact PARKED vocal-and-polyrhythm discovery; no proven overture or afterword function
@@ -234,6 +241,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Tomás Urquieta — `32 Balas` — exact PARKED dislocated-rhythm ingredient; no proven Stardancer exit or internal handoff
+- Coffintexts — `Toxic` — exact PARKED start-stop ingredient; no proven Stardancer exit or Capa–Thick to Handle handoff
+- Shifted — `Flatlands` — exact PARKED polyrhythmic-gait ingredient; no proven overture or late-middle handoff
+- Witch Trials — `Hollow Grave` — exact resolved alternate, unevaluated transformation lead
+- Chloé Robinson & DJ ADHD — `0121 Do One` — unresolved adjacent bass-world lead; exact identity and tail relation unknown
 
 - Robert Fleck — `Echo Chamber` — exact PARKED broken/dub afterword ingredient; no proven Stardancer entry
 - Nico — `Soft Opening` — exact PARKED vocal-and-polyrhythm ingredient; no proven afterword function

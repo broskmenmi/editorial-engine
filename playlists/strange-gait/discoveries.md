@@ -1,6 +1,73 @@
+Warning: truncated output (original token count: 50056)
+Total output lines: 1560
+
 # STRANGE GAIT — Discovery Log
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
+
+## Run 78 — EXPLORE — dislocated elements, start-stop pressure and overlooked polyrhythmic gait — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 77 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 124 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Krunchtime, Clasico/Local Action, TraTraTrax, Hospital Productions, Jungle Fantasy and Ritual Poison windows rather than recycling Runs 53–77.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T13:52:52Z-explore-78`
+- **sourceCommit:** `9cb6a1be06aa8e17cf716906d5f40e3a334e79a0`
+- **request commit:** `fa5123a8437b73a9495cf684e6ba876d10875c19`
+- **snapshot commit:** `cea9b50a736bd90b416488c73288349d45de1126`
+- **request fingerprint:** `e89f6cae5e02ec5b77f03de1335e61906a7036618799935a68a5417efe09213d`
+- **scope:** approximately 43 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 4 exact resolutions, comprising 3 selected candidates and 1 resolved alternate, plus 1 unresolved identity; 4 warnings; no duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Tomás Urquieta — 32 Balas** — RESOLVED and selected: `spotify:track:4DFL0hHMRJUH32azomFY62`; Spotify album `32 Balas`, release date `2023-02-17`, duration 3:14, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023-02" but Spotify returned "2023-02-17"`.
+2. **Coffintexts — Toxic** — RESOLVED and selected: `spotify:track:2oKnRz5M1BYGymWNdqNm5v`; Spotify album `Touch`, release date `2023-05-03`, duration 3:49, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023-05" but Spotify returned "2023-05-03"`.
+3. **Shifted — Flatlands** — RESOLVED and selected: `spotify:track:7eSA11ZC2yKl8VsfWdDBeQ`; Spotify album `Appropriation Stories`, release date `2016-10-14`, duration 6:41, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2016-10" but Spotify returned "2016-10-14"`.
+4. **Chloé Robinson & DJ ADHD — 0121 Do One** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Witch Trials — Hollow Grave** — RESOLVED alternate, not selected: `spotify:track:6gQyMf2R7kF7PIpZ5lvoaJ`; Spotify album `Habitual Martyr`, release date `2021-03-26`, duration 5:01, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Hollow Grave" but Spotify returned "Habitual Martyr"; release date requested "2021-03" but Spotify returned "2021-03-26"`.
+
+### Canonical evaluations
+
+#### Tomás Urquieta — 32 Balas — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track beginning like a trap instrumental before a stumbling glitch rhythm arrives, with elements not moving in time and drums dropping in and out. This is direct structural evidence rather than an argument from novelty or genre.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → 32 Balas → Capa` nor `Truth in Noise → 32 Balas → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Its 3:14 duration and neighbour BPMs do not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The dislocated construction could make either redirection deliberate, but it could also over-articulate a middle or late run already carrying several distinct mechanisms. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. The exact account strongly supports belonging but does not show that the 14-track journey gains more than it loses from another conspicuous mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Coffintexts — Toxic — PARKED
+
+- **Volume fit:** PASS. Resident Advisor documents the exact track through chest-rattling subs and a start-stop rhythm. That supplies direct rhythmic evidence and a credible adjacent production world.
+- **Immediate transition:** UNKNOWN. Neither `Capa → Toxic → Thick to Handle` nor `Stardancer → Toxic` has perceived-pulse, phrase, entry, exit or mix evidence. Duration and neighbouring BPMs do not establish either route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its interrupted rhythm could sharpen the existing redirection passage or create a deliberate afterword, but it could equally fragment the middle or restart the ending. Available prose cannot decide.
+- **Long-form journey:** NOT PROVEN. A concise start-stop construction establishes relevance, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Shifted — Flatlands — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track's loose-ball-bearing motif moving around the stereo spectrum over a motoring rhythm section, within a record characterized by a curious polyrhythmic gait. That directly supports the selection lens.
+- **Immediate transition:** UNKNOWN. Neither `Drummz → Flatlands → Truth in Noise` nor `Flatlands → Marauder` has perceived-pulse, phrase, entry, exit or mix evidence. Equal neighbour BPM in the first route is not a flow verdict.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Spatial rhythmic displacement could add intention to the late-middle passage or frame the opening, but it could also crowd the first route or defer the current overture. Source prose cannot establish the result.
+- **Long-form journey:** NOT PROVEN. Its 6:41 scale and exact structural account establish belonging, not whether the whole journey benefits from a new threshold.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+The resolved alternate receives no musical verdict. Hollow Grave retains exact review evidence of broken techno overtaken by synth fog and crescendo, with its Spotify album/date warning preserved. The unresolved 0121 Do One lead also receives no musical verdict; its exact resolver error is preserved and no Spotify identity is invented.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; the unresolved lead, resolved alternate and all four warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; duration, neighbour BPM and descriptive structure are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks, one exact unevaluated lead, one unresolved research lead and one current release watch added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **124 → 127 exact tracks**, adding 32 Balas, Toxic and Flatlands.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 43 inspected → 5 ranked leads → 4 exact resolutions + 1 unresolved → 3 selected evaluations + 1 resolved alternate → 0 ADD + 3 PARKED → 3 global utility additions. 32 Balas is the strongest canonical hypothesis because the exact review documents non-synchronous elements and drums dropping in and out. The strongest counterargument is that this may provide precisely the purposeful Moonwake–Capa redirection or pre-trio threshold the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove any proposed placement fails, that 0121 Do One lacks a lawful Spotify identity, that Hollow Grave lacks canonical potential, or that STRANGE GAIT is complete.
 
 ## Run 77 — EXPLORE — overlooked structural reassembly, polyrhythm and broken/dub movement — 2026-09-08
 
@@ -713,7 +780,7 @@ The three unresolved leads receive no musical verdict. Acromo 3 retains exact of
 
 ### Auditor approval
 
-**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; the resolved alternate receives no verdict; the exact unresolved error is preserved; post-resolution BPM values are separately sourced; every selected candidate is judged at volume, transition, local-run and long-form scales; no tempo value is treated as energy or flow; and the protected trio remains untouched. Approved scope is 0 canonical ADD, 3 PARKED, three local exact discoveries, one local resolved alternate, one unresolved research lead, and three doctrine-free global utility additions.
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; the resolved alternate receives no verdict; the exact unresolved error is pre…56 tokens truncated…s untouched. Approved scope is 0 canonical ADD, 3 PARKED, three local exact discoveries, one local resolved alternate, one unresolved research lead, and three doctrine-free global utility additions.
 
 ### Durable result
 
