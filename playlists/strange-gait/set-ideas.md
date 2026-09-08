@@ -26,6 +26,20 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 ## Current sketches
 
+### 0. Form that mutates in public
+
+**Direction:** Build a non-canonical set study around tracks whose rhythmic grammar visibly changes during their own duration, then contrast that with shorter coherent fragments.
+
+**Ingredients:**
+
+- Musicentrydelete — eBase — exact PARKED Run 83; reviewer-described triplet-to-quasi-acid transformation and dissolving downbeat
+- Objekt — Fishbone — exact PARKED Run 83; reviewer-described rhythmic coherence inside disintegrated material
+- Credit Card — This is a Debt You Can Never Repay — exact PARKED Run 83; current motorik/fractured adjacent-world ingredient
+
+**Why interesting:** The contrast could make structural mutation itself the connective idea without requiring one genre, tempo or production room.
+
+**Unknown / risk:** No pairwise transition, perceived-pulse relation, phrasing, energy, density, key or live-mix compatibility has been tested.
+
 ### 1. Asymmetric pressure corridor
 
 **Direction:** Use the current two-track opening as a controlled reference and explore how far the surrounding Asymmetric/Flux Rope world can bend before a deliberately different production world becomes more useful.

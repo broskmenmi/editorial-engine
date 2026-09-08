@@ -4,6 +4,10 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | Musicentrydelete | eBase | https://open.spotify.com/track/2BM1KB5AcFevWIh6MpKOdS | PARKED Run 83; 16:57, BPM unknown; exact review documents slow-triplet-to-quasi-acid transformation, polyrhythms and a dissolving downbeat; overture and afterword placements untested; date warning preserved |
+| EXACT TRACK | Objekt | Fishbone | https://open.spotify.com/track/3jUYamxQBvjJagKxeaL0Zt | PARKED Run 83; 5:12, BPM unknown; exact review describes disintegrated melody held by kicks and snares; middle and pre-trio placements untested; date warning preserved |
+| EXACT TRACK | Credit Card | This is a Debt You Can Never Repay | https://open.spotify.com/track/6K8RuLtOD1XjBdsYNHaiXV | PARKED Run 83; 2:53, BPM unknown; current review identifies motorik rhythm inside deliberately fractured EBM/synth-punk; early and tail placements untested; date warning preserved |
+| EXACT TRACK | Objekt | Secret Snake | https://open.spotify.com/track/75vG2Zadt1GyuaozT2XiOB | Resolved alternate Run 83; 5:58, BPM unknown; not selected or evaluated, so no musical verdict or utility entry; date warning preserved |
 | EXACT TRACK | Carmen Villain | Blue | https://open.spotify.com/track/5TjFJq3rC8kAWHqh9DWIlT | PARKED Run 82; 5:14, exact BPM unknown; current exact review describes a staggered beat and unstable glitching bassline, while overture and early-internal placements remain untested |
 | EXACT TRACK | Brendon Moeller | Control Mechanism | https://open.spotify.com/track/7p09cXoFtQBt6w6Q4fWe4N | PARKED Run 82; 4:23, exact BPM unknown; exact review describes broken intermittent beats and dub-derived delays, while late-middle and tail placements remain untested; Spotify release-date warning preserved |
 | EXACT TRACK | Nite Jewel | No Escape | https://open.spotify.com/track/7eug581EcZ5ft2gntagx5E | PARKED Run 82; 4:24, exact BPM unknown; exact review describes shuffling stop-start synth-pop using passages of silence, while overture and afterword placements remain untested and techno identity remains weakly evidenced |

@@ -2,6 +2,44 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 83 — EXPLORE — long-form metric mutation, coherent disintegration and fractured motorik — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 82 left STRANGE GAIT at 14 canonical tracks and the utility playlist at 138 exact tracks with matching COMPLETE receipts. No revisit was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, and the protected trio remained intact. The scan moved into Credit Card, Musicentrydelete and overlooked Objekt windows rather than recycling Run 82.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T18:53:26Z-explore-83`
+- **sourceCommit:** `144c3a600d64d831d72097ce3ef8d70f60e47156`
+- **request commit:** `8c4013a8b3f98c0888b5d2bd78ee2776456e1f0f`
+- **scope:** approximately 36 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 COMPLETE; 4 requested → 4 exact resolutions → 3 selected candidates plus 1 resolved alternate; 4 warnings; no unresolved identities, duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Musicentrydelete — eBase** — RESOLVED and selected: `spotify:track:2BM1KB5AcFevWIh6MpKOdS`; Spotify `Selfless`, `2025-11-28`, 16:57, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-11-28"`.
+2. **Objekt — Fishbone** — RESOLVED and selected: `spotify:track:3jUYamxQBvjJagKxeaL0Zt`; Spotify `Objekt #3`, `2013-11-19`, 5:12, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2013" but Spotify returned "2013-11-19"`.
+3. **Credit Card — This is a Debt You Can Never Repay** — RESOLVED and selected: `spotify:track:6K8RuLtOD1XjBdsYNHaiXV`; Spotify `Devil's Night / Dead Internet`, `2026-08-14`, 2:53, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-08-28" but Spotify returned "2026-08-14"`.
+4. **Objekt — Secret Snake** — RESOLVED alternate, not selected or evaluated: `spotify:track:75vG2Zadt1GyuaozT2XiOB`; Spotify `Cocoon Crush`, `2018-11-09`, 5:58, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-11-09"`.
+
+### Canonical evaluations
+
+1. **Musicentrydelete — eBase — PARKED.** **Volume fit:** PASS; the exact review documents a slow triplet morphing into quasi-acid, toughening drums, polyrhythms and a dissolving downbeat. **Immediate transition:** UNKNOWN before Marauder and after Stardancer; no pulse, phrase, entry, exit or mix evidence. **Surrounding run:** NOT PROVEN; 16:57 could frame either boundary or dominate it. **Long form:** NOT PROVEN; structural breadth establishes belonging, not net journey gain. Retained locally and globally.
+2. **Objekt — Fishbone — PARKED.** **Volume fit:** PASS; disintegrated melody held by kicks and synthetic snares is exact techno evidence. **Immediate transition:** UNKNOWN at Moonwake → candidate → Capa and Truth in Noise → candidate → Transparency. **Surrounding run:** NOT PROVEN; it could sharpen either redirection or overcrowd it. **Long form:** NOT PROVEN; coherence inside abstraction does not establish need. Retained locally and globally.
+3. **Credit Card — This is a Debt You Can Never Repay — PARKED.** **Volume fit:** PASS at the adjacent edge; the exact review identifies motorik rhythm inside deliberately fractured EBM/synth-punk. **Immediate transition:** UNKNOWN between Cave and Too Much Time or after Stardancer. **Surrounding run:** NOT PROVEN; the conspicuous production-world change could read as purpose or rupture. **Long form:** NOT PROVEN; currentness and fracture do not justify admission. Retained locally and globally.
+
+### Auditor approval
+
+**APPROVED.** Request and matching terminal snapshot are internally valid; only three selected exact identities were evaluated; the alternate and all four warnings remain preserved; each candidate was separated across volume, transition, local-run and long-form scales; no metadata was converted into sonic or mixing claims; canonical and protected state remain unchanged; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder; protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three PARKED exact tracks and one exact unevaluated alternate added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **138 → 141 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 36 inspected → 4 ranked leads → 4 exact resolutions → 3 selected evaluations + 1 resolved alternate → 0 ADD + 3 PARKED → 3 utility additions. eBase is the strongest canonical hypothesis because its exact source documents a full metric and structural transformation. The strongest counterargument is that its 16:57 scale may provide precisely the overture or afterword the journey permits. The run proves three exact tracks are worthwhile discoveries across fresh current, adjacent/emerging and overlooked lanes. It does not prove either boundary placement fails, that Secret Snake lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 82 — EXPLORE — staggered dub, intermittent high-tempo rhythm and sparse stop-start form — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 81 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 135 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Smalltown Supersound, N.A.A.F.I., Samurai Music, Gloriette and Nyege Nyege Tapes windows rather than recycling Runs 53–81.
