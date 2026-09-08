@@ -147,6 +147,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 141 | Credit Card | This is a Debt You Can Never Repay | spotify:track:6K8RuLtOD1XjBdsYNHaiXV | STRANGE GAIT Run 83 | PARKED / interesting | 2026-09-08 |
 | 142 | Jlin | Nyakinyua Rise | spotify:track:66ouiyHnKx0KpgVUvLfl11 | STRANGE GAIT Run 84 | PARKED / interesting | 2026-09-08 |
 | 143 | Barker | Posmean | spotify:track:69dnPGepr8pA1LnWAPzbHL | STRANGE GAIT Run 84 | PARKED / interesting | 2026-09-08 |
+| 144 | Bergsonist | Middle Ouest | spotify:track:2GxJ32wHTssSxsKxiCI36K | STRANGE GAIT Run 85 | PARKED / interesting | 2026-09-08 |
+| 145 | Nondi_ | I Version Melody | spotify:track:791OunT1Y2MiySy4TPgbZo | STRANGE GAIT Run 85 | PARKED / interesting | 2026-09-08 |
+| 146 | Julien Bracht | Sub Collapsed | spotify:track:4jjJ3nG9d33YcsCp3KPYQt | STRANGE GAIT Run 85 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

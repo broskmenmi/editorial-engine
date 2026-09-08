@@ -26,6 +26,22 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 ## Current sketches
 
+### 0a. Percussion without one grid
+
+**Direction:** Build a non-canonical set study around several ways percussion can resist one fixed grid: shifting hand-drum collage, delicate triplet juke and swung techno.
+
+**Ingredients:**
+
+- Bergsonist — Middle Ouest — exact PARKED Run 85; reviewer-described shifting hand-drum collage
+- Nondi_ — I Version Melody — exact PARKED Run 85; reviewer-described triplet-chirp juke rhythm
+- Julien Bracht — Sub Collapsed — exact PARKED Run 85; reviewer-described swung, shifting techno percussion
+- GRRL — Moire — unresolved current lead; reviewer-described irregular but predictable club rhythm
+- Ko-Ta — Comptine — unresolved catalogue lead; reviewer-described percussion-only syncopation
+
+**Why interesting:** The shared question is rhythmic legibility without one production world or one technique; the contrast may yield a set direction without implying a canonical sequence.
+
+**Unknown / risk:** No pairwise transition, perceived-pulse relation, phrasing, energy, density, key or live-mix compatibility has been tested. The two unresolved leads have no lawful exact Spotify identity.
+
 ### 0. Form that mutates in public
 
 **Direction:** Build a non-canonical set study around tracks whose rhythmic grammar visibly changes during their own duration, then contrast that with shorter coherent fragments.

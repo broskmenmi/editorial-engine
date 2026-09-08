@@ -2,6 +2,69 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 85 — EXPLORE — shifting percussion across digital, hand-drum and swung-techno worlds — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 84 left STRANGE GAIT at 14 canonical tracks and the doctrine-free utility ledger at 143 exact tracks, both with matching COMPLETE receipts. The active listener-review queue was empty, no REVISIT was TRIGGERED, the map matched canonical state, automatic publishing remained enabled, and the protected trio stayed intact. No objective defect or unfinished repair was actionable. This scan moved into GRRL, Nondi_, Bergsonist, Ko-Ta and Julien Bracht windows rather than recycling Runs 83–84.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T20:48:40Z-explore-85`
+- **sourceCommit:** `e204285068eeb831e90fd889dccd5ef9870cd498`
+- **request commit:** `7397a3d5df2069301017606b82ef95d9ab01a070`
+- **snapshot commit:** `bb97a0fcdbf53a3f8d679cd1bbf157ab4df63ca4`
+- **request fingerprint:** `c05a928f225ba44f189e425487de7d7a765a446b75dccd4c56b14b0f63aac922`
+- **scope:** approximately 41 named tracks and releases across current PC Music and dream-juke windows, adjacent techno/house and overlooked Tikita/Cocoon catalogue material; metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact selected resolutions plus 2 unresolved identities; 3 warnings; no duplicates, substitutions, resolved alternates or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **GRRL — Moire** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6SW10LJe1tyN8Ao2sNkqPM, 64xwM6gRhzh9XlTCYFX6y3)`.
+2. **Ko-Ta — Comptine** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Bergsonist — Middle Ouest** — RESOLVED and selected: `spotify:track:2GxJ32wHTssSxsKxiCI36K`; Spotify `Middle Ouest`, `2020-01-17`, 4:02, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2020-01" but Spotify returned "2020-01-17"`.
+4. **Nondi_ — I Version Melody** — RESOLVED and selected: `spotify:track:791OunT1Y2MiySy4TPgbZo`; Spotify `Nondi...`, `2026-02-27`, 2:41, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-27"`.
+5. **Julien Bracht — Sub Collapsed** — RESOLVED and selected: `spotify:track:4jjJ3nG9d33YcsCp3KPYQt`; Spotify `Sub Collapsed`, `2014-05-05`, 7:48, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2014-04" but Spotify returned "2014-05-05"`.
+
+### Canonical evaluations
+
+#### Bergsonist — Middle Ouest — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track as a loose collage of shifting percussion animated by hand drums. That is direct rhythmic evidence inside a techno/house record, not an argument from novelty.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Middle Ouest → Too Much Time` nor `Stardancer → Middle Ouest` has perceived-pulse, phrase, entry, exit or mix evidence. Unknown BPM and 4:02 duration establish neither route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The hand-drum production world could widen the opening or define a purposeful afterword; it could also reset either passage. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. Shifting percussion establishes belonging, not whether the 14-track journey gains from the addition.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the release-date warning remains attached.
+
+#### Nondi_ — I Version Melody — PARKED
+
+- **Volume fit:** PASS at the adjacent edge. Pitchfork describes triplets of synthetic chirps assembling into the exact track's juke rhythm. The rhythmic construction is relevant, while the available evidence does not establish a techno identity.
+- **Immediate transition:** UNKNOWN. Neither an overture before Marauder nor a post-Stardancer afterword has perceived-pulse, phrase, entry, exit or mix evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A compact dream-juke threshold could create deliberate contrast or read as a detached miniature; metadata and review prose cannot decide.
+- **Long-form journey:** NOT PROVEN. Currentness, brevity and adjacency do not establish canonical need or net gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the release-date warning remains attached.
+
+#### Julien Bracht — Sub Collapsed — PARKED
+
+- **Volume fit:** PASS. Resident Advisor attributes a swung beat and crafty, shifting percussion to the exact techno track.
+- **Immediate transition:** UNKNOWN. Neither `Too Much Time → Sub Collapsed → Moonwake` nor `Truth in Noise → Sub Collapsed → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Equal neighbour BPM around the first proposal does not establish continuity.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The 7:48 swung-techno insertion could deepen the early passage or overextend it; it could sharpen the pre-trio threshold or crowd it.
+- **Long-form journey:** NOT PROVEN. Strong lens fit does not prove that another long percussion mechanism improves the journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the release-date warning remains attached.
+
+The two unresolved identities receive no musical verdict and do not enter the global utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both exact resolver errors and all three warnings are preserved; each candidate is separated across volume, transition, local-run and long-form scales; BPM remains unknown and is not converted into energy or flow; canonical and protected state stay unchanged; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder; protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three exact PARKED tracks and two unresolved research leads added; one concrete percussion-world set direction added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **143 → 146 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 41 inspected → 5 ranked leads → 3 exact resolutions + 2 unresolved → 3 evaluations → 0 ADD + 3 PARKED → 3 utility additions. Middle Ouest is the strongest canonical hypothesis because its exact source documents a loose collage of shifting percussion inside a techno/house context. The strongest counterargument is that its hand-drum world may supply precisely the purposeful early widening or afterword the journey permits. The run proves three exact tracks are worthwhile discoveries across fresh current, adjacent/emerging and overlooked lanes. It does not prove their proposed placements fail, that either unresolved lead lacks one lawful identity, or that STRANGE GAIT is complete.
+
 ## Run 84 — EXPLORE — moving polyrhythm and kickless techno — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 83 left 14 canonical tracks and 141 utility tracks with matching COMPLETE receipts. No revisit was TRIGGERED, no listener repair was authorized, the map matched canonical state, and the protected trio remained intact. The scan moved into iKeda, Barker, Jlin and Lowtec windows rather than recycling Run 83.
