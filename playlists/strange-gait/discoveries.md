@@ -2,6 +2,68 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 66 — EXPLORE — baile-funk/trance collision, current wonky bass and broken-techno catalogue — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 65 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 93 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Native Boundaries, Fixed Rhythms, Seilscheibenpfeiler/Amor Satyr and Plaid/Warp lanes rather than recycling Runs 53–65.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T01:49:07Z-explore-66`
+- **sourceCommit:** `da779f8524fb738eda291d29bce80db7bfa98a12`
+- **request commit:** `5518841de00828df015c9251cfcadd9b2a9bfa6d`
+- **snapshot commit:** `a4ea3ce90b1e59a122666d8ab9272a436a8fa5d3`
+- **request fingerprint:** `e03136d32bcd38ebfe354335dc2d2a93ef9e0777c812ebfcd3146247817c9b2d`
+- **scope:** approximately 43 named tracks across current releases, adjacent/emerging labels and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 4 exact resolutions → 3 selected candidates + 1 resolved alternate + 1 unresolved; no warnings, duplicates or substitutions.
+
+### Resolver outcomes preserved exactly
+
+1. **Amor Satyr — Rebola** — RESOLVED and selected: `spotify:track:22c2IokPuFdAGuZAHzoxkT`; Spotify album `Transfer`, release date `2023-05-18`, duration 5:48. Resolver BPM unavailable; post-resolution Beatport exact-track metadata reports 146 BPM.
+2. **Lucid Distraction — Twerk** — RESOLVED and selected: `spotify:track:701dEt1rRcxh6IfVKztYA0`; Spotify album `Twerk EP`, release date `2026-05-20`, duration 4:36. Resolver BPM unavailable; post-resolution Beatport exact-track metadata reports 141 BPM.
+3. **Plaid — Maru** — RESOLVED and selected: `spotify:track:484cAsvAPcBpr8ekFmUk4I`; Spotify album `Polymer`, release date `2019-06-07`, duration 4:49. Resolver BPM unavailable; post-resolution Beatport exact-track metadata reports 160 BPM.
+4. **Orlando Voorn — Infected Eye** — RESOLVED alternate, not selected or evaluated: `spotify:track:6CTAsqbzIWUpheCEDAKtab`; Spotify album `Infected Eye EP`, release date `2026-09-04`, duration 6:18. It receives no musical verdict and remains only a local exact research lead.
+5. **SPF 50 — The Rush** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (52Hzx1MiZsFk9qoPjB6hjf, 2dn3gsh8Jy19Fc67WB78Qx)`.
+
+### Canonical evaluations
+
+#### Amor Satyr — Rebola — PARKED
+
+- **Volume fit:** PASS. Resident Advisor gives unusually specific exact-track evidence: a trance-led drum pattern, reverb, delay and drum rolls crash-land into baile funk passages and stuttered vocals. This directly supports rhythmic and structural freedom without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. At the unprotected pre-trio boundary the measured path would be `Truth in Noise 138 → Rebola 146 → Transparency 143`. The +8 BPM entrance and -3 BPM exit make the turn conspicuous; neither number nor the documented internal change establishes either handoff. The early `Cave 134 → Rebola 146 → Too Much Time 140` option is even more materially reset-like.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Rebola could make a productive rhythmic-world detour between Truth in Noise and the protected block, but its dramatic internal switch could also compete with or delay that block. Source prose cannot establish attention continuity.
+- **Long-form journey:** NOT PROVEN. The track offers the run's strongest structural-freedom evidence, yet no lawful evidence shows that adding a new 146 BPM crest improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Reopen only with materially new exact transition, lawful audio or volunteered listener evidence. Retained locally and globally as genuinely interesting.
+
+#### Lucid Distraction — Twerk — PARKED
+
+- **Volume fit:** PASS. Native Boundaries attributes wonkier production, sweeping bass and dirty vocal chops to the exact original. Its techno/dubstep adjacency is relevant without requiring genre purity.
+- **Immediate transition:** UNKNOWN. The early test would be `Cave 134 → Twerk 141 → Too Much Time 140`; the +7/-1 BPM path flags but does not decide the turn. Neither the early handoffs nor a `Stardancer 137 → Twerk 141` afterword has sourced pulse, phrase or mix evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A wonky bass-world move could make the early character shift deliberate, but STRANGE GAIT already has listener history against favourite-track-style opening resets and the source does not establish continuity.
+- **Long-form journey:** NOT PROVEN. The current emerging track is useful discovery material, but no evidence shows that either an early interruption or a new tail stage improves the whole journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Plaid — Maru — PARKED
+
+- **Volume fit:** PASS. Resident Advisor identifies the exact track as broken techno with heavy kick drums and shoulder-shuffling snares, a clear bodily and rhythmic selection-lens case.
+- **Immediate transition:** UNKNOWN. Beatport reports 160 BPM. The proposed middle route would be `Moonwake 140 → Maru 160 → Capa 137`; the late route would be `Drummz 138 → Maru 160 → Truth in Noise 138`. No lawful evidence establishes a half-time/double-time interpretation, so the large numerical changes remain material unknowns rather than automatic vetoes.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Maru might create a purposeful high-speed broken interlude, but it might also fracture two already developed local runs without a route back.
+- **Long-form journey:** NOT PROVEN. Strong belonging does not establish that this journey needs a 160 BPM excursion now.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; the resolved alternate receives no verdict; the exact unresolved error is preserved; post-resolution BPM values are separately sourced; every selected candidate is judged at volume, transition, local-run and long-form scales; no tempo value is treated as energy or flow; and the protected trio remains untouched. Approved scope is 0 canonical ADD, 3 PARKED, three local exact discoveries, one local resolved alternate, one unresolved research lead, and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks, one exact resolved alternate and one unresolved research lead added; two existing set directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **93 → 96 exact tracks**, adding Rebola, Twerk and Maru. Infected Eye is excluded because it was not selected/evaluated; The Rush is excluded because it remains unresolved.
+- Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
+**RUN ANALYSIS:** Approximately 43 inspected → 5 ranked leads → 4 exact resolutions + 1 unresolved → 3 selected evaluations + 1 resolved alternate → 0 ADD + 3 PARKED → 3 global utility additions. Rebola is the strongest conclusion because its source describes an actual internal grammar change, but that same dramatic structure may make the proposed pre-trio detour more intrusive than useful. The run proves three exact tracks are worthwhile discoveries and that the scan covered current, emerging and overlooked lanes across the whole journey. It does not prove any proposed transition fails, that Maru lacks a useful metrical interpretation, that Infected Eye lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 65 — EXPLORE — dismantled broken techno, jagged acid, current bass adjacency and Jakarta experimentation — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 64 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 90 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Purelink, The Bunker New York/Abby Echiverri, current UK bass/dancehall and Jakarta experimental-techno lanes rather than recycling Runs 53–64.

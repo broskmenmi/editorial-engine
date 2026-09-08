@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Amor Satyr — `Rebola` — exact PARKED discovery; reviewer-described trance-led pattern crash-lands into baile funk passages and stuttered vocals
+- Lucid Distraction — `Twerk` — exact PARKED current discovery; official wonkier-production, sweeping-bass and dirty-vocal-chop description
+- Plaid — `Maru` — exact PARKED catalogue discovery; reviewer-described broken techno with heavy kicks and shoulder-shuffling snares
+- Orlando Voorn — `Infected Eye` — exact resolved alternate, unevaluated; current release-level electro/techno/acid/dub research lead
+- SPF 50 — `The Rush` — unresolved recent acid-breakbeat-techno research lead; Spotify identity ambiguous
+
 - Purelink — `Pinned` — exact PARKED discovery; reviewer-described patient broken techno whose beat dismantles over time
 - Abby Echiverri — `Ionosfeer` — exact PARKED discovery; reviewer-described jagged acid-techno fragmentation
 - Anaïs, Stylo G, Lady Leshurr — `Strong Like Lion` — unresolved current bass/dancehall lead with source-described 140-BPM construction
@@ -160,6 +166,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Amor Satyr — `Rebola` — exact PARKED structural-turn discovery; 146 BPM does not prove a route from Stardancer or into the protected block
+- Plaid — `Maru` — exact PARKED 160 BPM broken-techno discovery; no half-time/double-time relation or afterword handoff is established
+- SPF 50 — `The Rush` — unresolved acid-breakbeat-techno lead; ambiguous Spotify identity and no proven tail entry
 
 - Purelink — `Pinned` — exact PARKED broken-techno discovery; no proven entry to the protected closing block
 - Abby Echiverri — `Ionosfeer` — exact PARKED jagged acid-techno discovery; no proven internal or afterword handoff
