@@ -2,6 +2,62 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 74 — EXPLORE — current techno/D&B mutation, compact different-world arcs and overlooked syncopated structures — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 73 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 115 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Delsin, an emerging Osaka/Kyoto release, TraTraTrax, Twenty Twenty and Eklero lanes rather than recycling Runs 53–73.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T09:53:49Z-explore-74`
+- **sourceCommit:** `0b68c8d36b2ea042f17ab8d895efb337cfc4abac`
+- **request commit:** `0c68ef5c0950c502365efbb35b717c5dd896b0eb`
+- **snapshot commit:** `f0e788d5198160920b0d6a7fc00ef5b3a4d81671`
+- **request fingerprint:** `d2f87094393ddff9468d48be45b00d69411f3863d263df72f81d590051eb1171`
+- **scope:** approximately 42 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 2 exact resolutions and selected candidates + 3 unresolved; no warnings, duplicates, substitutions, resolved alternates or errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Answer Code Request — D-Fracture** — RESOLVED and selected: `spotify:track:6jNfbA7mInggwMo72K0nzR`; Spotify album `Halo`, release date `2026-06-26`, duration 7:07, BPM unavailable.
+2. **Hizuo — Paradise Shift (ft.Yossshy)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Nick León — Broward Boyy** — RESOLVED and selected: `spotify:track:1j4MGX0RSMzR4X4KTSyi9o`; Spotify album `A Tropical Entropy`, release date `2025-06-27`, duration 1:38, BPM unavailable.
+4. **Retina.it — Cellular Structures (Original Mix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **HIJINX & NINA — Join The Dots** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Answer Code Request — D-Fracture — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track as a techno remake of dark drum and bass while creeping feedback progressively consumes the stereo field. This is direct structural and production-world mutation evidence, not a reputation or novelty argument.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → D-Fracture → Capa` nor `Truth in Noise → D-Fracture → Transparency` has exact BPM/pulse, phrase, entry, exit or mix evidence. The dark-drum-and-bass comparison does not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The mutation could deliberately sharpen the Moonwake–Capa redirection or create a forceful pre-trio threshold, but it could also overcrowd a journey whose middle and late runs already carry several distinct mechanisms. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. Current exact-track transformation strongly supports belonging but does not show that another seven-minute conspicuous mechanism improves this 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Nick León — Broward Boyy — PARKED
+
+- **Volume fit:** PASS. Resident Advisor documents the exact 1:38 track moving from slide guitar into a techno blast before rapidly dissolving into arpeggios. That compact fabrication/deconstruction arc supports structural freedom without treating its source-described mood as measurement.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Broward Boyy → Too Much Time` nor `Stardancer → Broward Boyy` has exact BPM/pulse, phrasing, entry, exit or mix evidence. Brevity does not prove interlude or coda function.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A compact left turn could make the early production-world change purposeful or provide a clear afterword, but it could equally fragment the local run or feel appended after the current close. Available prose cannot establish either effect.
+- **Long-form journey:** NOT PROVEN. The transform-and-dissolve form is materially interesting, but there is no evidence that a 98-second stage improves the larger journey rather than interrupting it.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The three unresolved leads receive no musical verdict. Paradise Shift retains the artist's exact account of jungle-style chops shifting into Rhodes and fast broken beats; Cellular Structures retains exact review evidence of long syncopated-percussion sequences; Join The Dots retains the official broken-beat/dub-techno turn. None is a canonical candidate or global utility input without one resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the two selected exact identities were evaluated; all three unresolved identities and their exact errors are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; duration, genre comparison and descriptive transformation are not treated as energy or flow; no canonical or protected edge changes; and only the two explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks and three unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **115 → 117 exact tracks**, adding D-Fracture and Broward Boyy.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 42 inspected → 5 ranked leads → 2 exact resolutions + 3 unresolved → 2 selected evaluations → 0 ADD + 2 PARKED → 2 global utility additions. D-Fracture is the strongest canonical hypothesis because its exact review documents a full techno/dark-drum-and-bass mutation rather than merely a release-level style. The strongest counterargument is that this may provide precisely the purposeful Moonwake–Capa redirection or pre-trio threshold the journey permits. The run proves two selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove either proposed placement fails, that the unresolved leads lack other lawful Spotify identities, or that STRANGE GAIT is complete.
+
 ## Run 73 — EXPLORE — current collaborative glitch, emerging percussion-led breaks and overlooked metric transformations — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 72 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 112 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Wisdom Teeth, Discos Extendes, Rhythm Section International, Monnom Black and Mama Told Ya lanes rather than recycling Runs 53–72.

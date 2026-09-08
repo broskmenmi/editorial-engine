@@ -119,6 +119,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 113 | Vanquished | M. Bison | spotify:track:0j4Kxymi917ANKgfrTzzd7 | STRANGE GAIT Run 73 | PARKED / interesting | 2026-09-08 |
 | 114 | PPP, Piezo, DJ Plead, DJ Python | Pez | spotify:track:5QvvtpGUlrEedXvberu01w | STRANGE GAIT Run 73 | PARKED / interesting | 2026-09-08 |
 | 115 | BLEID | Kerosene | spotify:track:457NRwNRyYbSb8ShLIiz16 | STRANGE GAIT Run 73 | PARKED / interesting | 2026-09-08 |
+| 116 | Answer Code Request | D-Fracture | spotify:track:6jNfbA7mInggwMo72K0nzR | STRANGE GAIT Run 74 | PARKED / interesting | 2026-09-08 |
+| 117 | Nick León | Broward Boyy | spotify:track:1j4MGX0RSMzR4X4KTSyi9o | STRANGE GAIT Run 74 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

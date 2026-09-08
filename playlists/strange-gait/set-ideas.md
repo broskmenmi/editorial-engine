@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Answer Code Request — `D-Fracture` — exact PARKED current discovery; reviewer-described techno/dark-drum-and-bass mutation with feedback-driven transformation, with middle and pre-trio placements untested
+- Nick León — `Broward Boyy` — exact PARKED compact different-world discovery; reviewer-described slide-guitar-to-techno-to-arpeggio arc, with early and tail placements untested
+- Hizuo — `Paradise Shift (ft.Yossshy)` — unresolved current emerging lead; artist-described jungle-chop opening, Rhodes section and fast broken beats
+- Retina.it — `Cellular Structures (Original Mix)` — unresolved overlooked catalogue lead; reviewer-described long syncopated-percussion sequences
+- HIJINX & NINA — `Join The Dots` — unresolved emerging Bristol-adjacent lead; official broken-beat and dub-techno turn
+
 - Vanquished — `M. Bison` — exact PARKED catalogue discovery; reviewer-described broken-techno opening, piano-vamp breakdown and reassembly, with pre-trio and tail placements untested
 - PPP — `Pez` — exact PARKED current collaborative discovery; official glitched-Perlon-reconstruction and sound-design-disruption description, with both middle placements untested
 - BLEID — `Kerosene` — exact PARKED emerging broken-rhythm discovery; official rising-tempo percussion-led roller description, with late-middle and tail placements untested
@@ -208,6 +214,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Answer Code Request — `D-Fracture` — exact PARKED current mutation; no proven Moonwake–Capa or pre-trio handoff
+- Nick León — `Broward Boyy` — exact PARKED 1:38 transform-and-dissolve piece; no proven Stardancer afterword or early insertion
+- Hizuo — `Paradise Shift (ft.Yossshy)` — unresolved current multi-section afterword ingredient; exact Spotify identity and tail relationship remain unproven
+- HIJINX & NINA — `Join The Dots` — unresolved broken/dub afterword ingredient; exact Spotify identity and tail relationship remain unproven
 
 - Vanquished — `M. Bison` — exact PARKED structural-reset discovery; no proven Stardancer afterword or pre-trio handoff
 - BLEID — `Kerosene` — exact PARKED percussion-driven broken-rhythm discovery; no proven Stardancer exit or late-middle handoff
