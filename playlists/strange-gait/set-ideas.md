@@ -88,6 +88,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Purelink — `Pinned` — exact PARKED discovery; reviewer-described patient broken techno whose beat dismantles over time
+- Abby Echiverri — `Ionosfeer` — exact PARKED discovery; reviewer-described jagged acid-techno fragmentation
+- Anaïs, Stylo G, Lady Leshurr — `Strong Like Lion` — unresolved current bass/dancehall lead with source-described 140-BPM construction
+- 8110118 — `V4-4` — exact PARKED current Jakarta discovery; album-level experimental-techno context and track-specific field-recording provenance only
+
 - Tom VR — `Fast Track To Bliss` — exact PARKED discovery; reviewer-described texture-led development with kick emphasis arriving late
 - Decka — `Obscure Arcade Game` — exact PARKED discovery from a pulsing, chaotic-techno EP; exact behavior remains undocumented
 - Jaymie Silk — `Mechanical Bird` — unresolved exact-identity lead; reviewer-described fractious polyrhythms and mid-track reboot
@@ -155,6 +160,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Purelink — `Pinned` — exact PARKED broken-techno discovery; no proven entry to the protected closing block
+- Abby Echiverri — `Ionosfeer` — exact PARKED jagged acid-techno discovery; no proven internal or afterword handoff
 
 - CONFUSION (RASEREI) — DT229 — exact PARKED discovery; broken/melodic exact-track description
 - D-Leria — Shark Attak — exact PARKED discovery; label-described percussion-centred polyrhythmic construction

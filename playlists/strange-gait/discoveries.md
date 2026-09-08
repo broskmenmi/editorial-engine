@@ -2,6 +2,78 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 65 — EXPLORE — dismantled broken techno, jagged acid, current bass adjacency and Jakarta experimentation — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 64 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 90 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Purelink, The Bunker New York/Abby Echiverri, current UK bass/dancehall and Jakarta experimental-techno lanes rather than recycling Runs 53–64.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T00:52:46Z-explore-65`
+- **sourceCommit:** `9f90f0dffe2e26221b1f4cdbee31019693a47839`
+- **request commit:** `c77ac510da8771200e828e679692686c41e3d880`
+- **snapshot commit:** `e33e7fc50712bc94b72f426e6f8fe7f2a59a2534`
+- **request fingerprint:** `8a412028444593e0f14d9e6be9ef29a6bf5b8857d872978809bdeec1a3e841e0`
+- **scope:** approximately 44 named tracks across current, adjacent, emerging and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 4 requested → 3 exact selected identities + 1 unresolved; three release-date warnings; no duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Purelink — Pinned** — RESOLVED and selected: `spotify:track:34q0PXXMNvX0WJhEjSBA9m`; Spotify album `Signs`, release date `2023-09-15`, duration 7:24, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-09-15"`.
+2. **Abby Echiverri — Ionosfeer** — RESOLVED and selected: `spotify:track:3ch7ijSo1X30qBZIpF4Pc7`; Spotify album `Ab Initio`, release date `2018-06-22`, duration 6:07, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-06-22"`.
+3. **Anaïs, Stylo G, Lady Leshurr — Strong Like Lion** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **8110118 — V4-4** — RESOLVED and selected: `spotify:track:0fFw1NcH9UPTRbxmTCmvwf`; Spotify album `Jiwa Krungu`, release date `2026-07-24`, duration 5:40, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-07-23" but Spotify returned "2026-07-24"`.
+
+### Canonical evaluations
+
+#### Purelink — Pinned — PARKED
+
+- **Volume fit:** PASS as a selection-lens hypothesis. Resident Advisor gives exact-track evidence of patient broken techno whose beat slowly dismantles while distant vocal fragments appear.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Pinned → Too Much Time` nor `Truth in Noise → Pinned → Transparency` has sourced entry, exit, phrase, perceived-pulse or mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The documented dismantling could make either character change purposeful, but could also diffuse the early rise or delay the protected closing block. Prose does not establish attention continuity.
+- **Long-form journey:** NOT PROVEN. Pinned offers the batch's clearest structural freedom, yet current evidence does not show that either insertion improves the existing 14-track journey.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+#### Abby Echiverri — Ionosfeer — PARKED
+
+- **Volume fit:** PASS as a selection-lens hypothesis. Bandcamp Daily identifies Ionosfeer as jagged within an acid-techno debut whose sounds and rhythms are fragmented.
+- **Immediate transition:** UNKNOWN. Neither `The Witching Hour → Ionosfeer → Cave` nor `Drummz → Ionosfeer → Truth in Noise` has sourced pulse, entry, exit, phrase or mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Jagged acid-techno could create deliberate instability early or late, but the available description cannot show whether it strengthens either run rather than adds another attention-heavy mechanism.
+- **Long-form journey:** NOT PROVEN. The track strongly belongs to the volume's research field, but no evidence shows that the journey needs this additional stage.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+#### 8110118 — V4-4 — PARKED
+
+- **Volume fit:** PLAUSIBLE BUT UNDER-EVIDENCED. Bandcamp Daily describes `Jiwa Krungu` as a whole spanning hardcore techno, trance, deconstructed club, breakcore and ambience; Bandcamp credits V4-4's archival field recording, but neither source describes this track's rhythm or form.
+- **Immediate transition:** UNKNOWN. Neither a new entrance before Marauder nor `Cave → V4-4 → Too Much Time` has sourced pulse, entry, exit, phrase or mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Album-level narrative range cannot establish how this exact closer affects either local run.
+- **Long-form journey:** NOT PROVEN. A current Jakarta experimental-techno voice is genuinely useful discovery material, but provenance and album context do not establish canonical journey gain.
+- **Verdict:** PARKED, not rejected. Reopen only with materially new exact-track or listener evidence. Exact identity retained locally and globally as genuinely interesting.
+
+The unresolved Strong Like Lion lead receives no musical verdict. Its source-described 140-BPM bass/dancehall character remains useful local research material, but it is not a canonical candidate or global utility input without a resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The request used the current repository SHA immediately before its immutable write; the matching resolver artifact is internally valid; only the three selected exact identities were evaluated; every evaluation separately covers selection fit, immediate transitions, local-run effect and long-form effect; album-level evidence for V4-4 is explicitly limited; no metadata-only sonic inference was made; the protected trio remains untouched; all three warnings and the exact unresolved error are preserved; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks plus one unresolved research lead added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **90 → 93 exact tracks**, adding Pinned, Ionosfeer and V4-4.
+- Audio analysis: **NOT TESTED**.
+- Live mixing: **NOT TESTED**.
+
+### Run analysis
+
+`~44 inspected → 4 ranked leads → 3 exact resolutions + 1 unresolved → 3 evaluations → 0 ADD + 3 PARKED`.
+
+The strongest counterargument is that Pinned's gradual rhythmic dismantling may be exactly the purposeful pre-trio decompression the journey can use, or that Ionosfeer's jaggedness may make the opening more expressive. The evidence contract may conservatively park compelling placements because the lawful sources do not establish perceived pulse, entry and exit behaviour, phrase relation, surrounding-run attention effect or net long-form gain.
+
+This run proves three exact discoveries are worth retaining and that exploration crossed current, adjacent, emerging and catalogue windows without defaulting to the tail. It does not prove any PARKED placement fails, that Strong Like Lion lacks another lawful Spotify identity, that V4-4 lacks selection-lens fit, or that STRANGE GAIT is complete.
+
+---
+
 ## Run 64 — EXPLORE — current swing, protean percussion, electro adjacency and staggered catalogue — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 63 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 88 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Short Span/Picture, vysyon/Night Garden, Kalahari Oyster Cult/Reptant and Jelly Bean Farm/Krotone lanes rather than retrying Run 63's unresolved identities or recycling Runs 53–62.

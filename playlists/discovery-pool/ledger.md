@@ -94,6 +94,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 88 | Decka | Obscure Arcade Game | spotify:track:7uXlAdClTGvyRD0jqN5d8v | STRANGE GAIT Run 62 | PARKED / interesting | 2026-09-07 |
 | 89 | Krotone | System Check | spotify:track:0QyUKwEpjkUxo5yq5Xhr09 | STRANGE GAIT Run 64 | PARKED / interesting | 2026-09-08 |
 | 90 | Night Garden | Hollow | spotify:track:7wchWwS4CFwRPR8zCldN2s | STRANGE GAIT Run 64 | PARKED / interesting | 2026-09-08 |
+| 91 | Purelink | Pinned | spotify:track:34q0PXXMNvX0WJhEjSBA9m | STRANGE GAIT Run 65 | PARKED / interesting | 2026-09-08 |
+| 92 | Abby Echiverri | Ionosfeer | spotify:track:3ch7ijSo1X30qBZIpF4Pc7 | STRANGE GAIT Run 65 | PARKED / interesting | 2026-09-08 |
+| 93 | 8110118 | V4-4 | spotify:track:0fFw1NcH9UPTRbxmTCmvwf | STRANGE GAIT Run 65 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
