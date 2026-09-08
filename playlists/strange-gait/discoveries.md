@@ -2,6 +2,47 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 84 — EXPLORE — moving polyrhythm and kickless techno — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 83 left 14 canonical tracks and 141 utility tracks with matching COMPLETE receipts. No revisit was TRIGGERED, no listener repair was authorized, the map matched canonical state, and the protected trio remained intact. The scan moved into iKeda, Barker, Jlin and Lowtec windows rather than recycling Run 83.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T19:48:14Z-explore-84`
+- **sourceCommit:** `a9c46ee9b564bd34503663f35372d8de45e63aec`
+- **request commit:** `389bd6362c4143e2dd7716e212f87e69ec50e2cb`
+- **snapshot commit:** `d861f19609c5538536c72161938decd6d7cd6ae4`
+- **request fingerprint:** `f73162715261356a8bf5c0ec22f5b20a1738b72a3d7bd898a3a1668f58a7ae65`
+- **scope:** approximately 39 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 4 requested → 2 exact selected resolutions plus 2 ambiguous unresolved identities; no warnings, duplicates, substitutions, alternates or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Jlin — Nyakinyua Rise** — RESOLVED and selected: `spotify:track:66ouiyHnKx0KpgVUvLfl11`; Spotify `Black Origami`, `2017-05-19`, 3:40, BPM unavailable.
+2. **Lowtec — A2** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6idFo3FaYajJGJmfKPNPGY, 75n7uLcOJ3vx15ML74YoxX)`.
+3. **Barker — Posmean** — RESOLVED and selected: `spotify:track:69dnPGepr8pA1LnWAPzbHL`; Spotify `Utility`, `2019-09-06`, 3:54, BPM unavailable.
+4. **iKeda — Meoww** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2Py345N5hPIMxosqC5AjfD, 5a8FUBfnc2f9b4Om2KxO8T)`.
+
+### Canonical evaluations
+
+1. **Jlin — Nyakinyua Rise — PARKED.** **Volume fit:** PASS; exact evidence describes 808 movement against multiple polyrhythms. **Immediate transition:** UNKNOWN at Moonwake → candidate → Capa and Truth in Noise → candidate → Transparency; no pulse, phrase or mix evidence. **Surrounding run:** NOT PROVEN; the footwork-derived world could make either turn purposeful or detach it. **Long form:** NOT PROVEN; exceptional rhythmic relevance does not prove a missing canonical need. Retained locally and globally.
+2. **Barker — Posmean — PARKED.** **Volume fit:** PASS; exact kickless-techno evidence describes taut rubbery synth signals inside rhythm formed by synth and white-noise attacks. **Immediate transition:** UNKNOWN between Cave and Too Much Time or after Stardancer. **Surrounding run:** NOT PROVEN; removing the kick could create useful contrast or accidental loss of continuity. **Long form:** NOT PROVEN; structural freedom alone does not establish journey gain. Retained locally and globally.
+
+The two ambiguous identities receive no musical verdict and do not enter the utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The request and matching PARTIAL snapshot are internally valid; only two selected exact identities were evaluated; both ambiguous errors are preserved verbatim; candidates are separated across volume, transition, local-run and long-form scales; no metadata was converted into sonic or mixing claims; canonical and protected state remain unchanged; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder; protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: two PARKED exact tracks and two ambiguous research leads added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **141 → 143 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 39 inspected → 4 ranked leads → 2 exact resolutions + 2 ambiguous unresolved → 2 evaluations → 0 ADD + 2 PARKED → 2 utility additions. Nyakinyua Rise is the strongest canonical hypothesis because its exact source documents 808 movement against multiple polyrhythms. The strongest counterargument is that this may be precisely the purposeful mid-journey or pre-trio change the sequence permits. The run proves two exact tracks are worthwhile discoveries across fresh current, adjacent/emerging and overlooked lanes. It does not prove their proposed placements fail, that either ambiguous lead lacks one lawful identity, or that STRANGE GAIT is complete.
+
 ## Run 83 — EXPLORE — long-form metric mutation, coherent disintegration and fractured motorik — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 82 left STRANGE GAIT at 14 canonical tracks and the utility playlist at 138 exact tracks with matching COMPLETE receipts. No revisit was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, and the protected trio remained intact. The scan moved into Credit Card, Musicentrydelete and overlooked Objekt windows rather than recycling Run 82.

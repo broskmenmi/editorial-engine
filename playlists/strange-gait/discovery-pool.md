@@ -4,6 +4,10 @@ Non-canonical inspiration; never proves canonical placement.
 
 | Class | Artist | Track | Link | Status |
 |---|---|---|---|---|
+| EXACT TRACK | Jlin | Nyakinyua Rise | https://open.spotify.com/track/66ouiyHnKx0KpgVUvLfl11 | PARKED Run 84; 3:40, BPM unknown; exact review describes 808 movement against multiple polyrhythms; Moonwake–Capa and pre-trio placements untested |
+| EXACT TRACK | Barker | Posmean | https://open.spotify.com/track/69dnPGepr8pA1LnWAPzbHL | PARKED Run 84; 3:54, BPM unknown; exact kickless-techno account describes taut rubbery synth signals; early and tail placements untested |
+| RESEARCH LEAD | Lowtec | A2 | https://pitchfork.com/reviews/tracks/18196-lowtec-a2 | Run 84 drumless pulse and tangled-polyrhythm evidence; unresolved with exact error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6idFo3FaYajJGJmfKPNPGY, 75n7uLcOJ3vx15ML74YoxX)`; no musical verdict or utility entry |
+| RESEARCH LEAD | iKeda | Meoww | https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep | Run 84 current beat-subversion lead; unresolved with exact error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2Py345N5hPIMxosqC5AjfD, 5a8FUBfnc2f9b4Om2KxO8T)`; no musical verdict or utility entry |
 | EXACT TRACK | Musicentrydelete | eBase | https://open.spotify.com/track/2BM1KB5AcFevWIh6MpKOdS | PARKED Run 83; 16:57, BPM unknown; exact review documents slow-triplet-to-quasi-acid transformation, polyrhythms and a dissolving downbeat; overture and afterword placements untested; date warning preserved |
 | EXACT TRACK | Objekt | Fishbone | https://open.spotify.com/track/3jUYamxQBvjJagKxeaL0Zt | PARKED Run 83; 5:12, BPM unknown; exact review describes disintegrated melody held by kicks and snares; middle and pre-trio placements untested; date warning preserved |
 | EXACT TRACK | Credit Card | This is a Debt You Can Never Repay | https://open.spotify.com/track/6K8RuLtOD1XjBdsYNHaiXV | PARKED Run 83; 2:53, BPM unknown; current review identifies motorik rhythm inside deliberately fractured EBM/synth-punk; early and tail placements untested; date warning preserved |
