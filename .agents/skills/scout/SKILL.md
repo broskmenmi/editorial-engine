@@ -1,136 +1,124 @@
 ---
 name: scout
-description: Discover and rank resolution leads, then freeze one to three exactly resolved candidate tracks in REPAIR or EXPLORE mode without making final accept/reject decisions. Use after pre-audit selects the editorial lane.
+description: Discover and rank credible resolution leads, then freeze one to three exactly resolved candidates in REPAIR or EXPLORE mode without making final verdicts.
 ---
 
 # Scout
 
 ## Inputs
-Read the target playlist directory supplied by the orchestrator:
-- `constitution.md`
-- `ledger.md`
-- `discoveries.md`
-- `rejected.md`
-- `revisit.md`
-- `under-review.md`
-- `notes.md`
+Read the target playlist's `constitution.md`, `ledger.md`, `discoveries.md`, `rejected.md`, `revisit.md`, `under-review.md`, `notes.md`, `audio-evidence.md` and `audio-evidence.json` when present.
+
+## Core responsibility
+Scout's job is to find **credible musical contenders for serious evaluation**. It is not Scout's job to prove the final canonical placement before resolution.
+
+A discovery may deserve evaluation even when phrase structure, perceived pulse, exact handoff feel, energy, density, mixability or lawful audio measurements are unknown. Unknown evidence must remain unknown; it is not negative evidence.
 
 ## Relaxation-first rule
-
-The Scout must find music without turning the user into a tester.
-
-- Never assign A/B comparisons, ranking exercises, or prescribed listening sessions.
-- Do not resurface PARKED REVISIT candidates without new evidence, a changed structural need, or a user request.
-- Do not treat missing user confirmation as an accepted-track defect.
-- Natural feedback volunteered during ordinary listening is enough; the Scout should continue working without waiting for it.
+- Never assign A/B comparisons, rankings or prescribed listening sessions.
+- Do not resurface PARKED candidates without materially new evidence, changed structural need or explicit user request.
+- Do not treat missing listener confirmation as a defect.
+- Natural volunteered feedback is enough; scouting continues without user QA.
 
 ## Search intent
+Label the need as `BELONGING`, `NEIGHBOUR`, or `BOTH`.
 
-Before searching, label the need as one of:
+`BELONGING` is allowed in ordinary EXPLORE. A lead does not need a pre-existing hole in the playlist. After finding it, propose at least one lawful non-frozen placement hypothesis for later testing.
 
-- **BELONGING** — find tracks that could belong somewhere in the playlist's world.
-- **NEIGHBOUR** — find tracks for one exact incoming/outgoing transition.
-- **BOTH** — the candidate must satisfy the identity and a concrete slot.
-
-Do not use a neighbour score as proof of playlist belonging. Do not reject a track from the playlist identity merely because one placement fails.
-
-Read `audio-evidence.md` and `audio-evidence.json` when present. Tool-derived evidence may narrow or rank the search, but unknown measurements stay unknown and no tool score decides admission.
+Do not use a neighbour hypothesis as proof of belonging, and do not reject global belonging because one placement fails.
 
 ## Operating modes
+- **REPAIR** — actionable objective defect, triggered REVISIT, clarified/authorized listener repair, materially new lawful evidence making a specific repair actionable, or an Auditor-confirmed workflow/process defect.
+- **EXPLORE** — no actionable repair exists; perform fresh outward discovery.
 
-The orchestrator supplies one of two modes:
-
-- **REPAIR** — an actionable objective defect, triggered REVISIT, clarified and authorized listener repair, or materially new lawful evidence that makes a specific existing repair or revisit actionable supplies a concrete target.
-- **EXPLORE** — no actionable repair exists, so Scout performs a fresh outward discovery scan without requiring a pre-existing gap.
-
-An `AWAITING CLARIFICATION` discussion is not an actionable repair target. Keep its region frozen and continue EXPLORE elsewhere.
-
-In EXPLORE mode, rereading unchanged repository state, reusing an old candidate snapshot, or reconsidering old candidates without materially new evidence does not count as scouting.
+An `AWAITING CLARIFICATION` region stays frozen and does not block exploration elsewhere.
 
 ## Fresh exploration receipt
-
-Every EXPLORE run must record:
-
+Every EXPLORE run records:
 - UTC timestamp;
-- source URLs, catalogues, feeds, or query windows;
-- coverage of current releases, adjacent or emerging artists or labels, and overlooked catalogue material;
-- approximate number inspected;
-- exclusion reasons;
-- the ranked resolution leads; the final candidate shortlist comes only from matching resolver output.
+- current-release source windows;
+- adjacent/emerging artist or label windows;
+- overlooked catalogue windows;
+- approximate number of tracks/releases inspected;
+- concrete exclusion reasons;
+- ranked leads;
+- inspection-to-lead conversion.
 
-If no lead meets the non-identity floor, or a terminal NONE snapshot confirms that every ranked lead lacks an exact Spotify identity, return `EXPLORATION COMPLETE — NO QUALIFIED CANDIDATES` with the receipt and per-lead resolver errors. If the scan did not run, the resolver dependency failed, or no matching terminal snapshot arrived, return `EXPLORATION NOT COMPLETED` and the exact reason. Never present an unperformed search as evidence that the playlist needs nothing.
+Rereading old state, reusing an old snapshot or reconsidering PARKED candidates without new evidence is not fresh exploration.
 
-## Objective lead and shortlist floor
+## Lead floor — intentionally permissive enough for evaluation
+A discovery may enter the resolver request when all of these are true:
 
-Resolution is part of qualification, not evaluation. A discovery may enter the ranked resolver request as a **lead** when all non-identity conditions below are true. It becomes an evidence-qualified **candidate** only after the repository resolver returns one exact Spotify track identity.
+1. A concrete source or catalogue path is recorded.
+2. It is not blocked by canonical duplication, active scoped rejection, protected/frozen state or an untriggered PARKED revisit.
+3. There is a credible constitution-relevant belonging hypothesis beyond popularity, artist prestige, novelty or BPM alone.
+4. At least one lawful non-frozen placement can be proposed as an **editorial hypothesis** for Evaluator testing. Scout does **not** need evidence that the handoff already works.
+5. Evidence classes remain separate.
 
-- a concrete discovery source is recorded;
-- it is not excluded by the ledger, rejection history, or an untriggered parked revisit;
-- at least one constitution-relevant belonging hypothesis exists beyond novelty, popularity, artist prestige, or BPM alone, with any source description clearly attributed;
-- at least one concrete non-frozen placement can be proposed for neighbour testing without splitting a protected pair or ending;
-- measured facts, attributed descriptions, listener evidence, lawful audio evidence, and fit hypotheses remain visibly separate.
+Direct exact-track prose about rhythmic mechanics is valuable but **not mandatory for lead admission**. Reliable release context, artist/label description, credible review context or catalogue evidence may be enough to justify resolution when it makes the track a serious contender. Generic genre tags, bare metadata or reputation alone are not enough.
 
-The candidate shortlist adds these hard requirements:
+Meeting the lead floor earns identity resolution only. It does not imply ADD, REVISIT or REJECT.
 
-- one exact individual Spotify track identity is resolved and verified;
-- exact title, artist, and version match; a remix, edit, alternate, album, playlist, or broad fallback never substitutes;
-- a unique title/artist identity with album wording or release-date variance preserves that variance as a warning rather than silently pretending the metadata matched;
-- the candidate appears in the matching immutable `scout-data.json.candidates` array.
+## Candidate floor
+A candidate additionally requires:
+- one exact individual Spotify track identity;
+- exact artist/title/version match;
+- preservation of album/date/relinking variance as warnings;
+- inclusion in the matching immutable `scout-data.json.candidates` array.
 
-Meeting this floor only earns evaluation. It does not mean the track belongs, fits the placement, or should be added.
+## Funnel-health guardrails — diagnostics, never quotas
+There is no required lead count and no ADD quota. However, Scout must expose possible over-filtering rather than silently normalizing it.
 
-If REPAIR search finds no lead meeting the non-identity floor, or a terminal NONE snapshot confirms that every ranked lead lacks an exact Spotify identity, return `REPAIR SEARCH COMPLETE — NO QUALIFIED CANDIDATES` with the targeted search receipt and per-lead errors. If the required repair search did not run, the resolver failed operationally, or no matching terminal snapshot arrived, return `REPAIR SEARCH NOT COMPLETED` with the exact reason. Never pad the result or turn a technical failure into a repair conclusion.
+- If **20 or more** items are inspected and **3 or fewer** honest leads survive, mark `LOW_LEAD_CONVERSION` and explain the dominant exclusion reasons.
+- If **30 or more** are inspected and fewer than **4** leads survive, explicitly challenge whether the lead floor is being used as a disguised final-evaluation gate.
+- A low conversion warning does not authorize padding weak leads. It requires the Auditor to inspect the exclusions and determine whether the floor is too strict or the scan was genuinely weak.
+- Prefer using more of the allowed 1–9 lead capacity when several genuinely credible contenders exist. Do not stop at three merely because the resolver later selects at most three candidates.
+
+## Candidate-slot strategy
+The resolver can select at most three exact candidates. Rank leads for **canonical potential and journey usefulness**, not for conspicuous weirdness or easiest-to-describe technique.
+
+When the scan supports it, let the top candidates represent materially different plausible ways to improve the journey, for example:
+- a subtle deepener/continuation;
+- a purposeful redirection or contrast;
+- an adjacent-world option with a credible route into the existing sequence.
+
+These are not quotas or required roles.
 
 ## Procedure
-1. Audit `under-review.md`, `notes.md`, and the current ledger first. Actionable user-approved repairs and objective defects take precedence over expansion.
-2. In REPAIR mode, search for the supplied target. In EXPLORE mode, search outward across all three required source families before shortlisting.
-3. Rank the strongest one to nine honest resolution leads. Never pad the set with a weak or metadata-only lead. Write them once under `schemaVersion: 2` → `leads` in `scout-request.json`, pinning the current pre-request repository SHA as `sourceCommit`; do not write request-side `candidates` or change canonical resolver inputs in the request commit.
-4. Resolve the immutable request once. The resolver selects the highest-ranked one to three exact identities into matching `scout-data.json.candidates`. Only those tracks continue to evaluation.
-5. In EXPLORE mode, start with playlist belonging. After identifying a lead, propose at least one concrete non-frozen placement for neighbour testing; do not invent a missing slot before the track is found.
-6. When a clarified accepted-track repair exists, search for repositioning or replacement options for that exact role without assigning the user comparison work.
-7. When no new evidence exists for an unresolved review, leave its region frozen; do not repeat the same comparison indefinitely.
-8. Include eligible unresolved revisit candidates only when their documented trigger occurred.
-9. Exclude anything already in `ledger.md`, except when an accepted track is intentionally used as a KEEP or MOVE control in internal reasoning.
-10. Exclude anything in `rejected.md` unless materially new evidence is documented.
-11. Do not optimize for popularity, novelty, or artist prestige.
-12. Preserve a known exact Spotify track ID on the lead. Otherwise let the resolver perform exact search; never invent an ID.
-13. Candidate identity is the resolved Spotify URI, not artist/title text. Reject ambiguous or alternate-version matches.
-14. Obtain verified BPM from reliable metadata when available and record the source.
-15. For bridge candidates, search within the BPM window required by both neighbours rather than searching by genre alone.
-16. Never infer busyness, stress, spaciousness, hypnosis, steadiness, emotional effect, or attention demand from BPM, artist, genre, title, label, reputation, or search snippets alone.
-17. If no lawful direct listening or audio evidence is available, label every sonic description as a **fit hypothesis**, not an observed fact.
-18. For opener, re-entry, important crest, main summit, decompression pivot, or closer candidates, flag internal uncertainty but do not require listener confirmation.
-19. Never surface or use playlist, album, artist, podcast, or broad search-fallback entities as candidates.
-20. Do not invoke Spotify playlist creation or publication tools.
+1. Pre-audit `under-review.md`, `notes.md`, `revisit.md`, recent discoveries and the current ledger.
+2. In REPAIR, search the concrete repair target. In EXPLORE, search all three source families freshly.
+3. Inspect the current journey **inside-out** as well as the catalogue outside-in: ask where a new track could deepen, sharpen, release, redirect or extend the existing sequence, without inventing rigid chapter roles.
+4. Rank one to nine honest leads. Do not pad weak or metadata-only entries.
+5. Immediately before request write, read current repository SHA.
+6. Write one immutable schemaVersion 2 `scout-request.json` with a new `runId`, `sourceCommit`, mode, target, receipt and ranked `leads`. Never write request-side candidates or mutate the same runId later.
+7. Resolve once. Require the matching valid terminal `scout-data.json` and fingerprint.
+8. Evaluate only its selected one-to-three unique exact candidates. Preserve all unresolved/duplicate outcomes, warnings and exact resolver errors.
+9. Preserve known exact Spotify IDs when available; otherwise let the resolver perform exact search. Never invent IDs or substitute alternate versions.
+10. Obtain reliable BPM when available, but never infer energy or flow from it.
+11. Never infer busyness, stress, spaciousness, hypnosis, emotional effect, phrase structure, perceived pulse or mixability from artist/genre/title/label/BPM/search snippets.
+12. Do not invoke Spotify publication tools.
 
-If the terminal snapshot is PARTIAL, evaluate only its unique selected candidates and preserve every unresolved or duplicate lead, exact error, warning, and resolved-but-unselected alternate. If it is NONE, stop before evaluation and return the lane's documented zero-qualified-candidate outcome with each unresolved lead and error. NONE is forbidden when credentials, network, authentication, rate limits, Spotify 5xx responses, or stale inputs interrupted resolution. If no matching valid terminal snapshot arrives after a bounded wait, name the request leads and report `no matching terminal snapshot`; never reuse stale output or rewrite the same `runId` anywhere in history.
+## Resolver outcomes
+- `COMPLETE`: every lead resolved.
+- `PARTIAL`: evaluate only selected exact candidates and preserve every unresolved/duplicate/warning/alternate outcome.
+- `NONE`: valid only when every lookup completed normally.
+- Auth, credentials, network, rate limit, Spotify 5xx, stale inputs, malformed/conflicting snapshots or missing terminal snapshots are `*_NOT_COMPLETED`, never musical zero results.
 
-A resolver-only recovery of a technical failure is not another outward scan. Use a new `runId`, `recoveryOfRunId`, and `recoveryReason`; pin `sourceCommit` to the commit containing the failed request; and preserve the original mode, target, receipt, and ranked leads exactly apart from their schema-v2 migration. Continue only if canonical resolver inputs are unchanged. Attribute the result to the original scan timestamp and never present it as fresh discovery performed during recovery.
+If no honest lead clears the repaired lead floor, return the documented zero-qualified-candidate result with the exploration receipt. If search or resolution did not complete, report `*_NOT_COMPLETED` accurately.
 
-If the source request itself has multiple historical contents from before enforcement, recovery additionally requires a concrete `legacySalvage.reason` and an exhaustive `legacySalvage.sourceCommits` list for every conflicting variant. The validator must prove every listed commit is at or before the hard immutable-history cutoff. Never use salvage to excuse or continue a new same-`runId` mutation.
+Resolver-only recovery uses a new runId with `recoveryOfRunId` and `recoveryReason`, preserves the original frozen search semantics and does not count as a new outward scan.
 
-## Evidence fields per candidate
-- **Search intent:** BELONGING, NEIGHBOUR, or BOTH.
-- **Playlist-belonging hypothesis:** belongs, uncertain, or does not belong, with reasons.
-- **Exact-neighbour hypothesis:** compatible, uncertain, or incompatible for the proposed incoming and outgoing transitions.
-- **Measured evidence:** exact identity, BPM, duration when available, neighbour differences, and sourced lawful audio measurements.
-- **Craft convention:** why the position is plausible as sequencing practice.
-- **Listener evidence:** any direct user reaction relevant to the role.
-- **Editorial hypothesis:** the proposed job and remaining internal uncertainty.
+## Evidence per candidate
+Record:
+- search intent;
+- playlist-belonging hypothesis;
+- proposed placement(s) as hypotheses;
+- exact-neighbour hypothesis with unknowns explicit;
+- measured evidence;
+- attributed description;
+- listener evidence;
+- lawful audio evidence;
+- craft convention;
+- editorial interpretation.
 
-## Output per candidate
-- Track
-- Artist
-- Spotify URI
-- Spotify track link
-- Verified BPM and source
-- Discovery source
-- Tentative structural role
-- Proposed neighbours and BPM differences
-- Evidence fields
-- One-sentence fit hypothesis
-- Internal uncertainty when applicable
-
-Do not assign ADD, REVISIT, or REJECT.
-
-Precede candidate output with the operating mode, the fresh exploration receipt for EXPLORE, the immutable `runId`, resolution status, and any unresolved lead errors.
+## Output
+For each selected candidate provide exact identity/link, verified BPM/source when available, discovery source, proposed placements, evidence classes and principal uncertainty. Do not assign ADD/REVISIT/REJECT.
