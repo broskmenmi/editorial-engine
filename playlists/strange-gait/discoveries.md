@@ -1,9 +1,71 @@
-Warning: truncated output (original token count: 50056)
-Total output lines: 1560
-
 # STRANGE GAIT — Discovery Log
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
+
+## Run 79 — EXPLORE — explicit metre, syncopated drift and overlooked polyrhythmic pressure — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 78 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 127 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; and the listener-protected trio remained intact. Final state review exposed two non-editorial tool-output markers at the top of this log; they were removed as an objective mechanical repair without changing musical mode or state. The scan moved into Tresor, Love In The Endz, Tikita, Livity Sound and Stroboscopic Artefacts windows rather than recycling Runs 53–78.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T14:48:23Z-explore-79`
+- **sourceCommit:** `dd1c5b733e0cf6d297cd34c8e8c214e4727fc7b6`
+- **request commit:** `3ffece4c78cf326fcc07ae62eefec74317545cbe`
+- **snapshot commit:** `0de441b6dd0c2413e7c45e2a716e43d8285622e0`
+- **request fingerprint:** `a9ec01d04273a875f3c79442077650ec0bc88215e8e8c65394104c2c2da76772`
+- **scope:** approximately 47 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact selected resolutions plus 2 unresolved identities; 3 warnings; no duplicates, substitutions, resolved alternates or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Jonas Kopp — Ironcry** — RESOLVED and selected: `spotify:track:3en2A6mrohx7DhQrm0bjrp`; Spotify album `Beyond the Hypnosis`, release date `2014-11-24`, duration 6:45, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2014-11" but Spotify returned "2014-11-24"`.
+2. **Entrañas & Kontronatura — Eris** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **natural/electronic.system. — Emersione** — RESOLVED and selected: `spotify:track:4Jylc4UMPvi7qsQUOdEqfz`; Spotify album `Body 2:2 Mind`, release date `2017-03-13`, duration 6:25, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2016-04" but Spotify returned "2017-03-13"`.
+4. **Simo Cell — Stop The Killing (Intello Mix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Lucy — Starving the Mind** — RESOLVED and selected: `spotify:track:7FCer6jSxAd0svCBTTkQPD`; Spotify album `Flowers from the Ashes: Contemporary Italian Electronic Music`, release date `2018-04-13`, duration 7:44, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2018-04" but Spotify returned "2018-04-13"`.
+
+### Canonical evaluations
+
+#### Jonas Kopp — Ironcry — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through cosmic bleeps over interwoven 3/4 and 4/4 drums. That is direct metric evidence supporting rhythmic freedom rather than an argument from novelty or reputation.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Ironcry → Capa` nor `Truth in Noise → Ironcry → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Neighbour BPMs and a 6:45 duration do not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Explicit metric interplay could make either redirection deliberate, but it could also distract from a developed middle or late run. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. The exact account establishes unusually strong belonging, not whether another metric mechanism improves the 14-track journey overall.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### natural/electronic.system. — Emersione — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through winding bass and syncopated drums. That provides direct rhythmic evidence and a credible overlooked production world.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Emersione → Too Much Time` nor `Emersione → Marauder` has perceived-pulse, phrase, entry, exit or mix evidence. Its unknown BPM prevents even a tempo-only comparison, which would not prove flow in any case.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The syncopated construction could widen the early language or create a deliberate overture, but it could equally reset the opening accidentally. Available prose cannot establish either result.
+- **Long-form journey:** NOT PROVEN. A 6:25 exact identity and syncopated-drum account establish relevance, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the substantial Spotify release-date variance remains attached.
+
+#### Lucy — Starving the Mind — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track as polyrhythmic techno offset by a modulated horn. That directly supports the selection lens without requiring one fixed sonic room.
+- **Immediate transition:** UNKNOWN. Neither `Too Much Time → Starving the Mind → Moonwake` nor `Truth in Noise → Starving the Mind → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Equal neighbour BPM in the first route is not a flow verdict.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its persistent polyrhythmic mechanism and different timbral vocabulary could deepen or clutter either local run. Source prose cannot decide the resulting attention shape.
+- **Long-form journey:** NOT PROVEN. The 7:44 scale and exact structural account establish interest, not whether the whole journey benefits from another sustained mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; Spotify's exact title casing and release-date warning are preserved.
+
+The two unresolved leads receive no musical verdict. Eris retains official exact-track evidence of Ecuadorian bomba, tribal rhythms, 6/8 and triplets; Stop The Killing (Intello Mix) retains exact review evidence of counter-intuitive syncopations. Their exact resolver errors are preserved and no Spotify identities are invented.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both unresolved leads and all three warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; metre, duration, neighbour BPM and descriptive structure are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks, two unresolved research leads and two current release watches added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **127 → 130 exact tracks**, adding Ironcry, Emersione and Starving the Mind.
+- Objective state repair: two stray tool-output markers removed from the discovery log header.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 47 inspected → 5 ranked leads → 3 exact selected resolutions + 2 unresolved → 3 evaluations → 0 ADD + 3 PARKED → 3 global utility additions. Ironcry is the strongest canonical hypothesis because the exact review documents interwoven 3/4 and 4/4 drums. The strongest counterargument is that this may provide precisely the purposeful Moonwake–Capa redirection or pre-trio threshold the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove any proposed placement fails, that either unresolved lead lacks a lawful Spotify identity, or that STRANGE GAIT is complete.
 
 ## Run 78 — EXPLORE — dislocated elements, start-stop pressure and overlooked polyrhythmic gait — 2026-09-08
 

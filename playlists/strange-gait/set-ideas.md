@@ -88,6 +88,13 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Jonas Kopp — `Ironcry` — exact PARKED metre-specific discovery; reviewer-described interwoven 3/4 and 4/4 drums, with middle and pre-trio placements untested
+- natural/electronic.system. — `Emersione` — exact PARKED overlooked syncopated-drum discovery; no proven overture or Cave–Too Much Time handoff
+- Lucy — `Starving the Mind` — exact PARKED polyrhythmic discovery with a modulated-horn counter-world; no proven Sciahri-pair or pre-trio handoff
+- Entrañas & Kontronatura — `Eris` — unresolved adjacent-world lead; official 6/8, triplet, Ecuadorian-bomba and tribal-rhythm evidence, but exact Spotify identity is not established
+- Simo Cell — `Stop The Killing (Intello Mix)` — unresolved syncopation lead; exact Spotify identity and late-middle/tail relationship remain unknown
+- Entrañas — `Atropello Vol 2` / `Revuelto` — current September/August 2026 catalogue watches; packaging only, with no exact-track behaviour inferred
+
 - Tomás Urquieta — `32 Balas` — exact PARKED dislocation discovery; reviewer-described non-synchronous elements and drums dropping in and out, with middle and pre-trio placements untested
 - Coffintexts — `Toxic` — exact PARKED adjacent-world discovery; reviewer-described subs and start-stop rhythm, with middle and tail placements untested
 - Shifted — `Flatlands` — exact PARKED overlooked discovery; reviewer-described spatially mobile motif over a motoring rhythm section, with opening and late-middle placements untested
@@ -241,6 +248,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Lucy — `Starving the Mind` — exact PARKED polyrhythmic ingredient; no proven Stardancer exit, Sciahri-pair insertion or pre-trio handoff
+- Entrañas & Kontronatura — `Eris` — unresolved 6/8-and-triplet adjacent-world ingredient; exact Spotify identity and tail relationship remain unproven
+- Simo Cell — `Stop The Killing (Intello Mix)` — unresolved syncopated bass-techno ingredient; exact Spotify identity and tail relationship remain unproven
 
 - Tomás Urquieta — `32 Balas` — exact PARKED dislocated-rhythm ingredient; no proven Stardancer exit or internal handoff
 - Coffintexts — `Toxic` — exact PARKED start-stop ingredient; no proven Stardancer exit or Capa–Thick to Handle handoff
