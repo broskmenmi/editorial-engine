@@ -137,6 +137,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 131 | Varg²™ | Licwiglunga | spotify:track:3O3EEbQACzWAl6Nx3y3RjH | STRANGE GAIT Run 80 | PARKED / interesting | 2026-09-08 |
 | 132 | Jossy Mitsu | Ø | spotify:track:4aOBjMHxMx1sVUojVz557p | STRANGE GAIT Run 80 | PARKED / interesting | 2026-09-08 |
 | 133 | Shed | Another Wedged Chicken | spotify:track:3lAcvi3ulTqvNV2ysgQgOv | STRANGE GAIT Run 80 | PARKED / interesting | 2026-09-08 |
+| 134 | Wrecked Lightship | Sunken Skies | spotify:track:4Loe7fl9gckmTsqGfHivc8 | STRANGE GAIT Run 81 | PARKED / interesting | 2026-09-08 |
+| 135 | Clark | Banjo | spotify:track:4zdq7JTsVBkfmd4mdVEBDe | STRANGE GAIT Run 81 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

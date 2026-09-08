@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Wrecked Lightship — `Sunken Skies` — exact PARKED bass-world transformation; reviewer-described quick-stepping dub grows into stuttering breakbeats, with early and late-middle placements untested
+- Clark — `Banjo` — exact PARKED compact electro/beat-manipulation discovery; no proven early or pre-trio handoff
+- Tom VR — `Don't Know How Fast I'm Moving Until I Hit Something` — unresolved current transformation lead; artist and studio-feature evidence documents 4/4 giving way to broken percussion, but exact Spotify identity is not established
+- Rian Treanor — `ATAXIA B1` — unresolved polyrhythmic-build lead; exact Spotify identity and middle/afterword relationship remain unknown
+- Azu Tiwaline — `Luz Azul` — unresolved percussion-first adjacent-world lead; exact Spotify identity remains ambiguous
+
 - Varg²™ — `Licwiglunga` — exact PARKED odd-meter discovery; no proven Moonwake–Capa or pre-trio handoff
 - Jossy Mitsu — `Ø` — exact PARKED compact polyrhythmic discovery; no proven middle or Stardancer-tail placement
 - Shed — `Another Wedged Chicken` — exact PARKED lurching-rhythm catalogue discovery; no proven early or late-middle handoff

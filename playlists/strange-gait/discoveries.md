@@ -2,6 +2,62 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 81 — EXPLORE — current transformation, adjacent bass worlds and overlooked beat manipulation — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 80 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 133 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into current September 2026 windows plus Planet Mu, Peak Oil, I.O.T Records and Warp catalogue lanes rather than recycling Runs 53–80.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T16:49:13Z-explore-81`
+- **sourceCommit:** `7d050995d2b4e0c70ad0e8770a19303c3878f619`
+- **request commit:** `b621978bbb2d9f1f17c82d3ae1daef3ea5b322db`
+- **snapshot commit:** `fc8459912c1ec11ff5f6c0cb3f299db358248eee`
+- **request fingerprint:** `a158709b2c1186340ff64473983205dd41f92b38e8d7c2cbd027f4fbb0453d5b`
+- **scope:** approximately 46 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 2 exact selected resolutions plus 3 unresolved identities; 1 warning; no duplicates, substitutions, resolved alternates or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Tom VR — Don't Know How Fast I'm Moving Until I Hit Something** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+2. **Rian Treanor — ATAXIA B1** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Wrecked Lightship — Sunken Skies** — RESOLVED and selected: `spotify:track:4Loe7fl9gckmTsqGfHivc8`; Spotify album `Antiposition`, release date `2024-02-23`, duration 5:30, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2024-03-01" but Spotify returned "2024-02-23"`.
+4. **Azu Tiwaline — Luz Azul** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3pRFfL7kBC7bwMlzsxOE9x, 1wYLfQuDxj3VLHsWyGwkvl)`.
+5. **Clark — Banjo** — RESOLVED and selected: `spotify:track:4zdq7JTsVBkfmd4mdVEBDe`; Spotify album `Clark`, release date `2014-11-03`, duration 2:40, BPM unavailable. No warning.
+
+### Canonical evaluations
+
+#### Wrecked Lightship — Sunken Skies — PARKED
+
+- **Volume fit:** PASS. Pitchfork describes the exact track growing from a quick-stepping dub rhythm into crisp breakbeats with stuttering repetitions. That is direct structural evidence supporting rhythmic freedom rather than an argument from novelty or genre.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Sunken Skies → Too Much Time` nor `Drummz → Sunken Skies → Truth in Noise` has perceived-pulse, phrase, entry, exit or mix evidence. Unknown BPM and the neighbouring BPM values establish neither handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The bass-world transformation could widen the early journey or sharpen the late-middle hinge; it could also reset or clutter either established run. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. Exact structural interest establishes belonging, not whether the 14-track journey gains from another articulated transformation.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Clark — Banjo — PARKED
+
+- **Volume fit:** PASS. The cited exact-track account describes Detroit electro blended with chaotic beat manipulation. That is direct rhythmic evidence and a credible adjacent production world.
+- **Immediate transition:** UNKNOWN. Neither `The Witching Hour → Banjo → Cave` nor `Truth in Noise → Banjo → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Unknown BPM and 2:40 duration establish neither route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The compact left turn could be purposeful early or immediately before the protected trio, but it could equally read as an interjection or decoration. Available prose cannot decide.
+- **Long-form journey:** NOT PROVEN. Brevity and beat manipulation establish interest, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The three unresolved identities receive no musical verdict. Their exact resolver errors and discovery evidence remain in the local research layer; none enters the global utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the two selected exact identities were evaluated; all three unresolved identities and the resolver warning are preserved; each candidate is judged separately at volume, transition, local-run and long-form scales; duration and neighbour BPM are not treated as energy or flow; no canonical or protected edge changes; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks and three unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **133 → 135 exact tracks**, adding Sunken Skies and Banjo.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 5 ranked leads → 2 exact resolutions + 3 unresolved → 2 evaluations → 0 ADD + 2 PARKED → 2 global utility additions. Sunken Skies is the strongest canonical hypothesis because its exact review documents a complete quick-step-dub-to-stuttering-breakbeats transformation. The strongest counterargument is that this may provide precisely the purposeful early production-world change or late-middle hinge the journey permits. The run proves two selected exact tracks are worthwhile discoveries and that the scan crossed current, adjacent/emerging and overlooked lanes. It does not prove either proposed placement fails, that the unresolved leads lack a future lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 80 — EXPLORE — odd metre, shifting percussion and lurching catalogue forms — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 79 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 130 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Northern Electronics, Astral Black, Ostgut Ton, Optimo Music and Infinite Machine windows rather than recycling Runs 53–79.
