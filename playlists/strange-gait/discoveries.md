@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 77 — EXPLORE — overlooked structural reassembly, polyrhythm and broken/dub movement — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 76 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 121 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Nous'klaer, Impasse, Timedance, Well Street, Unterwegs and Elektrotribe windows rather than recycling Runs 53–76.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T12:48:29Z-explore-77`
+- **sourceCommit:** `4d76412369eadc1d132f17865de8533d6b781bdc`
+- **request commit:** `26833315ef83a3e3fdf1219422cc25c93edc6db7`
+- **snapshot commit:** `b0c023ddfbf12cf6c56afa03f82a34c173843aad`
+- **request fingerprint:** `99a8a59355963bcef1f1db99f7e1f9f733a98ae9e800292a50f218be338b9e88`
+- **scope:** approximately 44 named tracks and releases across current-release windows, adjacent/emerging artists and labels, and overlooked catalogue material. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 4 exact resolutions, comprising 3 selected candidates and 1 resolved alternate, plus 1 unresolved identity; 2 warnings; no duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Konduku — The Restless** — RESOLVED and selected: `spotify:track:3DAxyi87iyYC3BBZ8lbqr7`; Spotify album `White Heron`, release date `2019-11-29`, duration 6:11, BPM unavailable.
+2. **Asusu — Trephine** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Robert Fleck — Echo Chamber** — RESOLVED and selected: `spotify:track:7ivb22cl6KBqYWLIYGiZZP`; Spotify album `Soft Focus EP`, release date `2018-06-15`, duration 7:29, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2019-05-08" but Spotify returned "2018-06-15"`.
+4. **Nico — Soft Opening** — RESOLVED and selected: `spotify:track:5khEmRBVr8JqiZteFwLCGJ`; Spotify album `Patina Echoes`, release date `2018-05-25`, duration 5:56, BPM unavailable.
+5. **Formant Value — Polycausa** — RESOLVED alternate, not selected: `spotify:track:5gA5ZO2SMJrJci8Xf4PaE3`; Spotify album `Various (Part 2)`, release date `2020-03-13`, duration 7:10, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Various EP Part 2 (WSR VA2)" but Spotify returned "Various (Part 2)"; release date requested "2020-03-23" but Spotify returned "2020-03-13"`.
+
+### Canonical evaluations
+
+#### Konduku — The Restless — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track dissipating halfway into faint bleeps and knocks before kick drums, bassline and fresh synths return. This is direct evidence of structural freedom rather than an argument from novelty or reputation.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → The Restless → Capa` nor `Truth in Noise → The Restless → Transparency` has perceived-pulse, phrase, entry, exit or mix evidence. Its exact duration and neighbour BPMs do not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The disappearance and reassembly could make either redirection deliberate, but it could also over-articulate a middle or late passage already carrying distinct mechanisms. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. A 6:11 internal reassembly strongly supports belonging but does not show that this 14-track journey gains more than it loses from another conspicuous mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Robert Fleck — Echo Chamber — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track combining broken beat and dub techno while kicks and snares skip and echo across its landscape. That is direct rhythmic evidence supporting the selection lens.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Echo Chamber → Too Much Time` nor `Stardancer → Echo Chamber` has perceived-pulse, phrase, entry, exit or mix evidence. The Spotify duration and neighbouring BPMs do not establish either route.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its broken/dub vocabulary could deliberately open a different local world, but it could also diffuse the early run or restart the ending. Source prose cannot establish either result.
+- **Long-form journey:** NOT PROVEN. The exact rhythmic account establishes relevance, not a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify release-date warning remains attached.
+
+#### Nico — Soft Opening — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through vocal samples and polyrhythmic drums. This supports rhythmic freedom and an adjacent production world without requiring genre orthodoxy.
+- **Immediate transition:** UNKNOWN. Neither `Soft Opening → Marauder` nor `Stardancer → Soft Opening` has perceived-pulse, phrase, entry, exit or mix evidence. Title, duration and neighbour BPM do not prove overture or afterword function.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The change of vocabulary could frame the journey or close it purposefully, but it could also displace the current opening or feel appended after the protected close. Available prose cannot decide.
+- **Long-form journey:** NOT PROVEN. Its 5:56 scale and polyrhythmic evidence establish interest, not whether the whole journey benefits from a new boundary world.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The resolved alternate receives no musical verdict. Polycausa retains exact review evidence of slippery polyrhythm and both Spotify packaging warnings. The unresolved Trephine lead also receives no musical verdict; its exact resolver error is preserved and no Spotify identity is invented.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; the unresolved lead, resolved alternate and both warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; duration, neighbour BPM and descriptive structure are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks, one exact unevaluated lead, one unresolved research lead and two current release watches added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **121 → 124 exact tracks**, adding The Restless, Echo Chamber and Soft Opening.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 44 inspected → 5 ranked leads → 4 exact resolutions + 1 unresolved → 3 selected evaluations + 1 resolved alternate → 0 ADD + 3 PARKED → 3 global utility additions. The Restless is the strongest canonical hypothesis because the exact review documents a full dissipation-and-return mechanism. The strongest counterargument is that this may provide precisely the purposeful Moonwake–Capa redirection or pre-trio threshold the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove any proposed placement fails, that Trephine lacks a lawful Spotify identity, that Polycausa lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 76 — EXPLORE — complete structural transformations, long-form polyrhythm and current adjacent-world research — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 75 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 118 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Djrum, Vladislav Delay, AceMoMA, Kangding Ray and FAUZIA lanes rather than recycling Runs 53–75; RHR's already-preserved `CICLONADA` was identified and excluded before resolution.

@@ -125,6 +125,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 119 | DjRUM | Sex | spotify:track:5g1PPfVJKxaTweGxJhgnue | STRANGE GAIT Run 76 | PARKED / interesting | 2026-09-08 |
 | 120 | Vladislav Delay | Huone - 2020 Remaster | spotify:track:38cHrwVGkA7I0NBF5EMhDK | STRANGE GAIT Run 76 | PARKED / interesting | 2026-09-08 |
 | 121 | AceMoMa, AceMo, MoMa Ready | 1 Million Breaks | spotify:track:11CNiCDrhdElGjJB53Pxuv | STRANGE GAIT Run 76 | PARKED / interesting | 2026-09-08 |
+| 122 | Konduku | The Restless | spotify:track:3DAxyi87iyYC3BBZ8lbqr7 | STRANGE GAIT Run 77 | PARKED / interesting | 2026-09-08 |
+| 123 | Robert Fleck | Echo Chamber | spotify:track:7ivb22cl6KBqYWLIYGiZZP | STRANGE GAIT Run 77 | PARKED / interesting | 2026-09-08 |
+| 124 | Nico | Soft Opening | spotify:track:5khEmRBVr8JqiZteFwLCGJ | STRANGE GAIT Run 77 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

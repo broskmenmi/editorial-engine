@@ -88,6 +88,14 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Konduku — `The Restless` — exact PARKED dissipation-and-reassembly discovery; no proven Moonwake–Capa or pre-trio handoff
+- Robert Fleck — `Echo Chamber` — exact PARKED broken/dub discovery; no proven early or Stardancer-tail placement
+- Nico — `Soft Opening` — exact PARKED vocal-and-polyrhythm discovery; no proven overture or afterword function
+- Formant Value — `Polycausa` — exact resolved alternate, unevaluated; reviewer-described slippery polyrhythm
+- Asusu — `Trephine` — unresolved rolling-polyrhythm research lead; exact Spotify identity not established
+- Anika Kunst / Unterwegs — `The Power of Presence` — current release watch; packaging and tempo listings only, with exact-track structure unknown
+- Dead Sound / Elektrotribe — `Vault Tracks` — current release watch; broken/dub range remains release-level
+
 - DjRUM — `Sex` — exact PARKED complete-transformation discovery; reviewer-described broken-beat techno softening into piano, cello and vocals, with middle and pre-trio placements untested
 - Vladislav Delay — `Huone - 2020 Remaster` — exact PARKED long-form structural discovery; reviewer-described crooked minimal techno growing into a polyrhythmic labyrinth, with overture and afterword functions untested
 - AceMoMa — `1 Million Breaks` — exact PARKED percussion discovery; reviewer-described clusters advancing and lurching backwards, with internal and tail placements untested
@@ -226,6 +234,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Robert Fleck — `Echo Chamber` — exact PARKED broken/dub afterword ingredient; no proven Stardancer entry
+- Nico — `Soft Opening` — exact PARKED vocal-and-polyrhythm ingredient; no proven afterword function
+- Asusu — `Trephine` — unresolved rolling-polyrhythm lead; exact Spotify identity and tail relationship remain unproven
 
 - DjRUM — `Sex` — exact PARKED internal transformation; no proven Stardancer afterword or pre-trio handoff
 - Vladislav Delay — `Huone - 2020 Remaster` — exact PARKED 22:06 long-form lead; no proven Stardancer afterword entry, and duration is not energy evidence
