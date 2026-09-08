@@ -1,237 +1,153 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-08T01:49:07Z-explore-66",
-  "sourceCommit": "da779f8524fb738eda291d29bce80db7bfa98a12",
+  "runId": "2026-09-08T02:51:43Z-explore-67",
+  "sourceCommit": "d6e7253f866b2e2da0915e13436ca0bdf7d7ebfb",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test one current emerging techno/dubstep cut, one September 2026 machine-music release, two overlooked broken-form catalogue tracks, and one recent acid-breakbeat cut across their strongest lawful placements. Character change is allowed; admission still requires purposeful transition, local-run and long-form effect."
+    "purpose": "Test one current syncopated structural arc, one emerging dub/IDM-adjacent cut, one adjacent high-speed broken construction, and two overlooked catalogue tracks across their strongest lawful placements. Character change is allowed; admission still requires purposeful transition, local-run and long-form effect."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T01:49:07Z",
+    "timestampUtc": "2026-09-08T02:51:43Z",
     "sourceWindows": [
-      "CURRENT / NATIVE BOUNDARIES SEPTEMBER 2026: https://nativeboundaries.bandcamp.com/album/infected-eye-ep — all four Orlando Voorn tracks were screened. Infected Eye retained as the exact title cut; the raw electro/techno/acid/dub and driving-rhythm description is release-level, not track-specific.",
-      "CURRENT / EMERGING NATIVE BOUNDARIES MAY 2026: https://luciddistraction.bandcamp.com/album/twerk-ep — the original, VIP and remix variants were screened. Only the original Twerk was retained, using the label's exact-track sweeping-bass, dirty-vocal-chop and wonkier-production description.",
-      "RECENT CATALOGUE / FIXED RHYTHMS: https://spf-50.bandcamp.com/album/the-rush — all four tracks were screened. The Rush retained from the label's exact-track acid-breakbeat-techno description; its 2026 upcoming SPF 50 release was inspected but excluded because only release-level evidence was available.",
-      "OVERLOOKED CATALOGUE / AMOR SATYR: https://ra.co/reviews/35519 and https://amorsatyr.bandcamp.com/track/rebola — the Transfer EP was screened. Rebola retained from Resident Advisor's exact-track description of a trance-led pattern crash-landing into baile funk passages and stuttered vocals.",
-      "OVERLOOKED CATALOGUE / PLAID: https://ra.co/reviews/23823 and https://plaid.bandcamp.com/track/maru — the Polymer tracklist was screened. Maru retained from Resident Advisor's exact-track broken-techno, heavy-kick and shoulder-shuffling-snare description.",
-      "ADDITIONAL WINDOWS: Bandcamp Daily's July 2026 electronic list, September 4, 2026 Essential Releases index, Planet Rhythm's September 2026 listings, Hodge's Sunlight On A Broken Column, Siu Mata & Amor Satyr's Nechung, Skee Mask catalogue, and adjacent Native Boundaries releases were screened. Hodge, Nechung, Skee Mask and other nearby identities were not promoted because their evidence was weaker than, overlapped with, or duplicated the five ranked directions."
+      "CURRENT 2026 / BENT RHYTHM: https://bentrhythm.bandcamp.com/album/say-no-to-the-status-quo — all four Liz Somes tracks were screened. The exact title track was retained from the label's syncopated-rhythm, detailed-percussion, methodical-build and collapse description; Beatport reports 142 BPM.",
+      "CURRENT / EMERGING DUB TECHNO FOR LIFE: https://sa-pa.bandcamp.com/album/girls-on-tour-ep — all four Sa Pa tracks were screened. World Saving Banger was retained from the label's exact broken, raw and IDM-leaning description; the August 2026 repress window was also checked through current Juno listings.",
+      "ADJACENT / BLOOD TRUST: https://bloodtrustmusic.bandcamp.com/album/digital-red-label-005 — both tracks were screened. Sanctuary was retained from the exact tech-step-snare, industrial-grind and syncopated-break description; the release-level 170 framing is not treated as exact-track BPM.",
+      "OVERLOOKED CATALOGUE / MONDAY OFF: https://mondayoff.bandcamp.com/album/various-artists-vol-3 — all four 2019 tracks were screened. Michal Wolski — Morph was retained from the label's exact syncopated-rhythm, metallic-feature and wonky-business description.",
+      "OVERLOOKED CATALOGUE / EVOD MUSIC: https://evodmusic.bandcamp.com/album/acromo — all six 2018 tracks were screened. Acromo 3 was retained from the label's exact five-step rising sequence and syncopated drum-loop description.",
+      "ADDITIONAL WINDOWS: Planet Rhythm's August/September 2026 Black Series releases, Black Magic Recordings' 2026 catalogue, current Juno techno listings, Systolic VA07, Sa Pa's September Rhythm From Ambient listing, Lab Personnel, and adjacent Bent Rhythm/Evod catalogue pages were screened. Planet Rhythm exclusives were kept as a release watch because the label states they are unavailable on streaming during the initial window; the other material did not outrank the five exact-track leads."
     ],
-    "approximateInspectedScope": "Approximately 43 named tracks across current releases, adjacent/emerging labels and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 52 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–65 were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–66 were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
       "Remixes and alternate versions were excluded from the exact leads. No lead was promoted for recency, artist or label reputation, genre, novelty, title, BPM or technical cleverness.",
-      "Energy, density, space, hypnosis, perceived pulse, phrase structure, harmonic relation and mixability remain unknown. Release-level evidence for Infected Eye is explicitly marked and not converted into exact-track sonic fact."
+      "Energy, density, space, hypnosis, perceived pulse, phrase structure, harmonic relation and mixability remain unknown. Release-level tempo framing for Blood Trust is explicitly not converted into exact-track BPM."
     ],
     "rankedLeadSummary": [
-      "1. Amor Satyr — Rebola: strongest exact structural-turn case, with a trance-led pattern documented as crash-landing into baile funk and stuttered vocals.",
-      "2. Lucid Distraction — Twerk: strongest current emerging exact-track case, with documented wonkier production, sweeping bass and dirty vocal chops.",
-      "3. Plaid — Maru: strongest overlooked broken-techno case, with exact heavy-kick and shoulder-shuffling-snare evidence.",
-      "4. Orlando Voorn — Infected Eye: strongest September 2026 current-release identity, but its belonging evidence remains release-level.",
-      "5. SPF 50 — The Rush: strong recent acid-breakbeat exact-track discovery, ranked below the more structurally distinctive and current leads."
+      "1. Liz Somes — Say No To The Status Quo: strongest current exact structural arc, with syncopated percussion building methodically before collapse into darker space.",
+      "2. Evod — Acromo 3: strongest overlooked exact rhythmic-system case, with a five-step rising sequence against a syncopated drum loop.",
+      "3. Michal Wolski — Morph: strong overlooked wonky-syncopation case with exact-track label evidence.",
+      "4. Sa Pa — World Saving Banger: strongest emerging adjacent-world case, explicitly broken, raw and IDM-leaning.",
+      "5. Blood Trust — Sanctuary: strongest high-speed adjacent construction, with tech-step snares, industrial grind and syncopated breaks."
     ]
   },
   "leads": [
     {
-      "artist": "Amor Satyr",
-      "track": "Rebola",
-      "album": "Transfer",
-      "releaseDate": "2023-05-18",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35519",
+      "artist": "Liz Somes",
+      "track": "Say No To The Status Quo",
+      "album": "Say No To The Status Quo",
+      "releaseDate": "2026-02-09",
+      "bpm": 142,
+      "bpmSource": "https://www.beatport.com/track/say-no-to-the-status-quo/29163469",
+      "discoverySource": "https://bentrhythm.bandcamp.com/album/say-no-to-the-status-quo",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test a conspicuous rhythm-world turn at the unprotected pre-trio boundary without assuming its crash-landing structure makes either handoff work."
-        },
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether the documented structural switch creates an intentional early detour or makes the opening run feel shuffled."
-        }
+        {"position":"Between Inspired Groove — Truth in Noise and Linear System — Transparency","precedingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","followingUri":"spotify:track:6vBGCwTYRiKYCDD52zXZtf","incomingBpm":138,"candidateBpm":142,"outgoingBpm":143,"purpose":"Test whether the documented methodical build and collapse creates an intentional pre-trio turn or delays the protected block without enough journey gain."},
+        {"position":"Between Clotur — Drummz and Inspired Groove — Truth in Noise","precedingUri":"spotify:track:6K07a5OAl8J6wqlcnCoT8i","followingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","incomingBpm":138,"candidateBpm":142,"outgoingBpm":138,"purpose":"Test a structural expansion before groove consolidation without assuming the close BPM range proves either handoff."}
       ],
-      "fitHypothesis": "Resident Advisor describes Rebola's trance-led drum pattern as crash-landing into lunging baile funk passages with stuttered vocals. That exact internal transformation strongly supports the selection lens but does not prove a canonical placement.",
+      "fitHypothesis": "Bent Rhythm describes the exact title track as syncopated rhythms and detailed percussion building methodically before collapsing into darker space. That strongly supports structural freedom while leaving actual pulse and placement unknown.",
       "evidence": {
-        "measured": [
-          "official Bandcamp release date 2023-05-18; duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes a trancey drum pattern, reverb, delay and drum rolls that crash-land into baile funk passages and stuttered vocals.",
+        "measured": ["Beatport reports 142 BPM and 6:52; official release date 2026-02-09"],
+        "attributedDescription": "Bent Rhythm describes syncopated rhythms, detailed percussion and modular-style textures that build methodically before collapsing into darker space.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A track with a documented internal grammar change may create a purposeful turn, but prose cannot establish pulse, phrase relation, attention cost or either handoff.",
-        "editorialInterpretation": "Strongest structural-freedom hypothesis; early and pre-trio placements remain unproven."
+        "craftConvention": "A documented build-and-collapse arc may work as a deliberate turn, but prose and BPM cannot establish phrase relation, attention effect or either handoff.",
+        "editorialInterpretation": "Strongest current structural candidate; late-run placements remain unproven."
       }
     },
     {
-      "artist": "Lucid Distraction",
-      "track": "Twerk",
-      "album": "Twerk EP",
-      "releaseDate": "2026-05-20",
+      "artist": "Evod",
+      "track": "Acromo 3",
+      "album": "Acromo",
+      "releaseDate": "2018-01-25",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://luciddistraction.bandcamp.com/album/twerk-ep",
+      "discoverySource": "https://evodmusic.bandcamp.com/album/acromo",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test a current wonky techno/dubstep turn in the early run without converting source language into transition proof."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test an adjacent-world afterword as one lawful placement rather than treating the tail as the default."
-        }
+        {"position":"Between Nørbak — Capa and brenner — Thick to Handle","precedingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","followingUri":"spotify:track:7CUodG7GLLbzOtO6qXGJxT","incomingBpm":137,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test whether the five-step/syncopated construction deepens rhythmic redirection or over-articulates an already developed passage."},
+        {"position":"Between CHANCEKNOT — Fragments and Clotur — Drummz","precedingUri":"spotify:track:3wsskKLpimIuiDDCb6eHVv","followingUri":"spotify:track:6K07a5OAl8J6wqlcnCoT8i","incomingBpm":140,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test a precise syncopated system inside the late rhythmic run without treating technical novelty as admission proof."}
       ],
-      "fitHypothesis": "Native Boundaries describes the exact original as Lucid Distraction's wonkier production, electrified by sweeping bass and dirty vocal chops. This is relevant adjacent-world evidence, not proof of techno purity or flow.",
+      "fitHypothesis": "Evod Music attributes a five-step rising sequence and syncopated drum loop specifically to Acromo 3. This supports the volume's rhythmic curiosity but does not prove physicality or a canonical insertion.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 4:36 and release date 2026-05-20"
-        ],
-        "attributedDescription": "Native Boundaries attributes sweeping bass, dirty vocal chops and a wonkier production approach to the original Twerk.",
+        "measured": ["official Bandcamp duration 5:36 and release date 2018-01-25; exact BPM remains for resolver"],
+        "attributedDescription": "Evod Music says Acromo 3 contains a five-step rising sequence accompanied by a syncopated drum loop, with sequences and drums joined by saturated claps and acid particles.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A different production world may work as an intentional turn, but source prose cannot establish perceived energy, pulse, entry, exit or long-form gain.",
-        "editorialInterpretation": "Strongest current emerging exact-track lead; early and tail placements remain conspicuous and unproven."
+        "craftConvention": "A competing five-step sequence and syncopated loop may create useful tension, but text cannot establish perceived pulse, phrase relation or transition quality.",
+        "editorialInterpretation": "Strong overlooked-catalogue rhythmic-system case; both insertion regions may already be sufficiently articulated."
       }
     },
     {
-      "artist": "Plaid",
-      "track": "Maru",
-      "album": "Polymer",
-      "releaseDate": "2019-06-07",
+      "artist": "Michal Wolski",
+      "track": "Morph",
+      "album": "Various Artists Vol. 3",
+      "releaseDate": "2019-09-30",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/23823",
+      "discoverySource": "https://mondayoff.bandcamp.com/album/various-artists-vol-3",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test exact broken-techno evidence inside the existing rhythmic redirection without assuming genre proximity makes the local run stronger."
-        },
-        {
-          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether Maru deepens the late broken-form passage or merely adds another articulated rhythm stage."
-        }
+        {"position":"Between Sciahri — Moonwake and Nørbak — Capa","precedingUri":"spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j","followingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","incomingBpm":140,"candidateBpm":null,"outgoingBpm":137,"purpose":"Test the documented wonky syncopation as a deliberate pivot into Capa rather than assuming it must stay in one sonic room."},
+        {"position":"Between CHANCEKNOT — Fragments and Clotur — Drummz","precedingUri":"spotify:track:3wsskKLpimIuiDDCb6eHVv","followingUri":"spotify:track:6K07a5OAl8J6wqlcnCoT8i","incomingBpm":140,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test whether metallic syncopation adds a useful late-run turn or merely demonstrates another rhythmic technique."}
       ],
-      "fitHypothesis": "Resident Advisor identifies Maru specifically as broken techno with heavy kick drums and shoulder-shuffling snares. That supports bodily and rhythmic relevance without proving either current insertion.",
+      "fitHypothesis": "Monday Off describes Morph's exact syncopated rhythm, metallic features and wonky character. That is relevant track-level evidence without proving bodily pull or either placement.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 4:49 and release date 2019-06-07"
-        ],
-        "attributedDescription": "Resident Advisor describes Maru as broken techno with heavy kick drums and shoulder-shuffling snares.",
+        "measured": ["official release date 2019-09-30; BPM and duration remain for resolver"],
+        "attributedDescription": "Monday Off describes Morph as syncopated, metallic and wonky from the start.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Documented broken form and bodily percussion may support continuity or contrast, but cannot establish actual pulse, density, phrase relation or handoffs.",
-        "editorialInterpretation": "Strong overlooked-catalogue belonging case; middle and late-run need remain unproven."
+        "craftConvention": "A conspicuous syncopated pivot can be intentional, but label prose cannot establish immediate handoffs, attention demand or long-form gain.",
+        "editorialInterpretation": "Strong overlooked syncopation case; middle and late placements remain unproven."
       }
     },
     {
-      "artist": "Orlando Voorn",
-      "track": "Infected Eye",
-      "album": "Infected Eye EP",
-      "releaseDate": "2026-09-04",
+      "artist": "Sa Pa",
+      "track": "World Saving Banger",
+      "album": "Girls On Tour EP",
+      "releaseDate": "2026-05-25",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://nativeboundaries.bandcamp.com/album/infected-eye-ep",
+      "discoverySource": "https://sa-pa.bandcamp.com/album/girls-on-tour-ep",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test a newly released machine-music bridge at the unprotected boundary while preserving the release-level evidence limitation."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test the exact title cut as a possible continuation into another machine-music world without assuming recency or lineage supplies journey value."
-        }
+        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test a broken raw IDM-leaning afterword as an unmistakable new doorway without assuming its different world is useful here."},
+        {"position":"Between Sciahri — Moonwake and Nørbak — Capa","precedingUri":"spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j","followingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","incomingBpm":140,"candidateBpm":null,"outgoingBpm":137,"purpose":"Test a conspicuous adjacent-world interruption at the existing redirection boundary."}
       ],
-      "fitHypothesis": "Native Boundaries frames the EP around raw electro, techno, acid, dub and deeper machine music built on driving rhythms. This supports an exact current research identity, but not Infected Eye's individual behavior.",
+      "fitHypothesis": "Sa Pa's label calls the exact track broken, raw and IDM-leaning. This supports structural freedom and adjacent-world interest, but not a specific techno pulse or canonical route.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 6:18 and release date 2026-09-04"
-        ],
-        "attributedDescription": "Release-level only: Native Boundaries describes raw electro/techno/acid/dub, driving rhythms and a distinct machine-music direction.",
+        "measured": ["official Bandcamp duration 7:09 and release date 2026-05-25; current repress listed August 2026"],
+        "attributedDescription": "Sa Pa describes World Saving Banger as broken yet hopeful, raw and IDM-leaning; Juno independently describes major IDM force.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A machine-music bridge can connect worlds, but release-level language cannot prove this track's pulse, structure, entry, exit or local-run effect.",
-        "editorialInterpretation": "Strong current-release identity with weaker track-specific evidence than the first three leads."
+        "craftConvention": "An adjacent-world reset may work as a doorway or pivot, but source language cannot establish perceived pulse, energy, entry, exit or local-run value.",
+        "editorialInterpretation": "Strong emerging different-world lead; placement evidence is weaker than its belonging evidence."
       }
     },
     {
-      "artist": "SPF 50",
-      "track": "The Rush",
-      "album": "The Rush",
-      "releaseDate": "2025-06-20",
+      "artist": "Blood Trust",
+      "track": "Sanctuary",
+      "album": "Digital Red Label 005",
+      "releaseDate": "2024-04-19",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://spf-50.bandcamp.com/album/the-rush",
+      "discoverySource": "https://bloodtrustmusic.bandcamp.com/album/digital-red-label-005",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether acid-breakbeat language deepens the late rhythmic run or over-articulates it."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a recent acid-breakbeat afterword without presuming its party-starter framing fits the current close."
-        }
+        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test a high-speed broken afterword while treating the release's 170 framing as a scrutiny flag, not a tempo verdict."},
+        {"position":"Before Inigo Kennedy — Marauder","followingUri":"spotify:track:4YhLd9gtkp0vLWu4RNJ716","candidateBpm":null,"outgoingBpm":136,"purpose":"Test an intentionally separate opening world only if the exact identity and evidence survive resolution."}
       ],
-      "fitHypothesis": "Fixed Rhythms calls the exact title track an acid breakbeat techno party starter. This clearly supports selection-lens relevance but says little about its internal form or either proposed placement.",
+      "fitHypothesis": "Blood Trust describes Sanctuary's tech-step snares, industrial grind and syncopated breaks. That exact rhythmic construction supports belonging while its likely high-speed world makes placement particularly uncertain.",
       "evidence": {
-        "measured": [
-          "official Bandcamp duration 5:12 and release date 2025-06-20"
-        ],
-        "attributedDescription": "Fixed Rhythms describes The Rush as an acid breakbeat techno party starter.",
+        "measured": ["official Bandcamp duration 4:33 and release date 2024-04-19; release-level 170 framing is not exact-track BPM"],
+        "attributedDescription": "Blood Trust says tech-step snares meet industrial grind, with syncopated breaks and subtle choppage.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "An acid-breakbeat track may deepen or reset a run, but label framing cannot establish perceived energy, density, phrase relation, mixability or journey need.",
-        "editorialInterpretation": "Strong recent exact discovery, ranked below leads with more specific structural or current-release value."
+        "craftConvention": "A high-speed broken world can be a deliberate reset, but no metrical relation, perceived pulse, phrase fit or route into/out of the current journey is established.",
+        "editorialInterpretation": "Strong adjacent construction; canonical placement evidence is weakest of the five leads."
       }
     }
   ]
