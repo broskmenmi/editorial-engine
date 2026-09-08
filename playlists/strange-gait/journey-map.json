@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-08T23:02:29.719Z",
+  "generatedAt": "2026-09-08T23:07:52.800Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "e2103bbcb59580a87684c4857c87bf9e979a85ec559ce2e063c869bdf9ca7695",
+    "ledgerFingerprint": "bb75f35b4e822f15f7c49219b5e595b4c5f1b9d6dc8dbc06f4074772e13d1828",
     "annotationsFingerprint": "87bb192a5f3f2d9f57f6ce4a28c82795063a913372d0b020f922bd61bc8617b7"
   },
   "playlist": {
@@ -23,6 +23,8 @@
     "durationLabel": "1h 36m",
     "bpmMin": 130,
     "bpmMax": 143,
+    "bpmKnownCount": 16,
+    "bpmUnknownCount": 0,
     "latestAddedDate": "2026-09-08"
   },
   "chapters": [
