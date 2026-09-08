@@ -1,77 +1,57 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "ff3298863c592a2222d594339261b9c37c76f8c671d9906291ad6682aa996027",
-  "generatedAt": "2026-09-08T19:00:14.345Z",
-  "runId": "2026-09-08T18:53:26Z-explore-83",
-  "sourceCommit": "144c3a600d64d831d72097ce3ef8d70f60e47156",
+  "requestFingerprint": "f73162715261356a8bf5c0ec22f5b20a1738b72a3d7bd898a3a1668f58a7ae65",
+  "generatedAt": "2026-09-08T19:51:32.366Z",
+  "runId": "2026-09-08T19:48:14Z-explore-84",
+  "sourceCommit": "a9c46ee9b564bd34503663f35372d8de45e63aec",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey; preserve only Transparency → When We Froze and When We Froze → Stardancer.",
     "neighbours": [],
-    "purpose": "Test four unused exact-track hypotheses across current, adjacent/emerging and overlooked catalogue windows."
+    "purpose": "Test four unused exact-track hypotheses spanning current emerging UK club-pop, kickless techno, footwork-derived polyrhythm and drumless Swedish-label techno."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T18:53:26Z",
+    "timestampUtc": "2026-09-08T19:48:14Z",
     "sourceWindows": [
-      "CURRENT / DETROIT: https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet — September 2, 2026 review; Credit Card — This Is a Debt You Can Never Repay retained from the exact motorik-rhythm account inside a deliberately fractured form.",
-      "ADJACENT / MOOD HUT: https://pitchfork.com/reviews/albums/musicentrydelete-selfless — January 2026 review; Musicentrydelete — eBase retained from the exact slow-triplet-to-quasi-acid transformation, polyrhythms and dissolving downbeat.",
-      "OVERLOOKED / OBJEKT: https://pitchfork.com/reviews/tracks/16338-objekt-fishbone and https://pitchfork.com/reviews/tracks/secret-snake — exact accounts of rhythmic coherence inside disintegrated material and a soft-drum opening that turns into a swirling groove.",
-      "ADDITIONAL WINDOWS: September 2026 electronic coverage and current Bandcamp electronic roundups were screened; prior Run 82 sources and already retained identities were excluded."
+      "CURRENT / EMERGING UK: https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep — September 2, 2026 review; iKeda — Meoww retained from the exact account of riding and subverting the beat within a purposeful bubble-riddim fusion.",
+      "ADJACENT / OSTGUT TON: https://pitchfork.com/reviews/albums/barker-utility — Barker — Posmean retained from an exact kickless-techno account centered on taut rubbery synth pulses and white-noise percussion.",
+      "OVERLOOKED / PLANET MU: https://pitchfork.com/reviews/albums/23119-black-origami — Jlin — Nyakinyua Rise retained from the exact 808 movement against multiple polyrhythms.",
+      "OVERLOOKED / BLUNDAR: https://pitchfork.com/reviews/tracks/18196-lowtec-a2 — Lowtec — A2 retained from the exact drumless pulse, tangled-polyrhythm and accumulating-delay account.",
+      "ADDITIONAL WINDOWS: current September 2026 electronic releases, Barker's remaining Utility tracks, Jlin's Black Origami sequence, Lolina, Julmud and Arthur Russell catalogue/reissue coverage were screened. Run 83 sources and previously retained identities were excluded."
     ],
-    "approximateInspectedScope": "Approximately 36 named tracks and releases; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 39 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and Runs 53–82 retained identities were excluded.",
+      "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and Runs 53–83 retained identities were excluded.",
       "The two protected internal handoffs remain unavailable; every other boundary remains available.",
       "No lead was promoted for recency, reputation, genre, novelty or technical cleverness.",
       "Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain unknown."
     ],
     "rankedLeadSummary": [
-      "1. Musicentrydelete — eBase: exact long-form metric transformation and dissolving-downbeat account.",
-      "2. Objekt — Fishbone: overlooked techno with rhythmic coherence inside disintegrated material.",
-      "3. Credit Card — This Is a Debt You Can Never Repay: current fractured motorik edge.",
-      "4. Objekt — Secret Snake: structural turn from delicate drums into a swirling groove."
+      "1. Jlin — Nyakinyua Rise: strongest exact multiple-polyrhythm and moving-808 account.",
+      "2. Lowtec — A2: strongest exact drumless techno pulse with tangled polyrhythms.",
+      "3. Barker — Posmean: strongest adjacent kickless-techno structural lead.",
+      "4. iKeda — Meoww: strongest current emerging beat-subversion lead."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 4,
-  "resolvedCount": 4,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "artist": "Musicentrydelete",
-      "track": "eBase",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025\" but Spotify returned \"2025-11-28\""
-    },
-    {
-      "artist": "Objekt",
-      "track": "Fishbone",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2013\" but Spotify returned \"2013-11-19\""
-    },
-    {
-      "artist": "Credit Card",
-      "track": "This Is a Debt You Can Never Repay",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-08-28\" but Spotify returned \"2026-08-14\""
-    },
-    {
-      "artist": "Objekt",
-      "track": "Secret Snake",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018\" but Spotify returned \"2018-11-09\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
+      "artist": "Lowtec",
+      "track": "A2",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6idFo3FaYajJGJmfKPNPGY, 75n7uLcOJ3vx15ML74YoxX)",
       "requestedIdentity": {
-        "artist": "Musicentrydelete",
-        "track": "eBase",
-        "album": "Selfless",
-        "releaseDate": "2025",
+        "artist": "Lowtec",
+        "track": "A2",
+        "album": "Blundar 1",
+        "releaseDate": "2016",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/musicentrydelete-selfless",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/18196-lowtec-a2",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -79,41 +59,86 @@
             "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test a long-form polyrhythmic overture without assuming its exit."
+            "purpose": "Test a drumless pulsing overture."
           },
           {
             "position": "After Len Faki — Stardancer",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test a shape-shifting afterword without assuming closure."
+            "purpose": "Test a drumless afterword without assuming release."
           }
         ],
-        "fitHypothesis": "The exact review documents a slow triplet rhythm morphing into quasi-acid, toughening drums, disorienting polyrhythms and a disappearing downbeat.",
+        "fitHypothesis": "The exact review identifies pulse and tangled polyrhythms despite no drums, plus delay that accumulates until the original signal recedes.",
         "evidence": {
           "measured": [
-            "reviewed January 14, 2026; exact duration and BPM remain for resolver"
+            "reviewed April 21, 2016; exact duration and BPM remain for resolver"
           ],
-          "attributedDescription": "Pitchfork documents eBase's slow-triplet-to-quasi-acid transformation, disorienting polyrhythms and dissolving downbeat.",
+          "attributedDescription": "Pitchfork describes A2 as drumless techno with pulse, tangled polyrhythms and accumulating delay.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A long transformation may frame or overwhelm the journey; boundary evidence decides.",
-          "editorialInterpretation": "Strong structural lead; overture and afterword placements remain untested."
+          "craftConvention": "Drumless continuity may frame or detach from the canonical journey; boundaries decide.",
+          "editorialInterpretation": "Strong drumless-techno lead; opening and tail placements remain untested."
         }
-      },
-      "spotifyTrackId": "2BM1KB5AcFevWIh6MpKOdS",
-      "selected": true
+      }
     },
+    {
+      "artist": "iKeda",
+      "track": "Meoww",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2Py345N5hPIMxosqC5AjfD, 5a8FUBfnc2f9b4Om2KxO8T)",
+      "requestedIdentity": {
+        "artist": "iKeda",
+        "track": "Meoww",
+        "album": "Bangs N Braces EP",
+        "releaseDate": "2026-08-28",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test a current bubble-riddim production-world change."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a vocal club-pop afterword."
+          }
+        ],
+        "fitHypothesis": "The current exact review describes iKeda riding and subverting the beat within a bubble-riddim fusion of dancehall-rooted and hyperpop textures.",
+        "evidence": {
+          "measured": [
+            "reviewed September 2, 2026; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Pitchfork identifies Meoww as the standout example of iKeda riding and subverting beats.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A vocal club-pop left turn can pass only if transition and long-form purpose are established.",
+          "editorialInterpretation": "Current emerging adjacent lead; placements remain untested."
+        }
+      }
+    }
+  ],
+  "warnings": [],
+  "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Objekt",
-        "track": "Fishbone",
-        "album": "Objekt #3",
-        "releaseDate": "2013",
+        "artist": "Jlin",
+        "track": "Nyakinyua Rise",
+        "album": "Black Origami",
+        "releaseDate": "2017-05-19",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/16338-objekt-fishbone",
+        "discoverySource": "https://pitchfork.com/reviews/albums/23119-black-origami",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -123,7 +148,7 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a disintegrated-but-coherent techno redirection."
+            "purpose": "Test a footwork-derived polyrhythmic redirection."
           },
           {
             "position": "Before Linear System — Transparency",
@@ -135,31 +160,72 @@
             "purpose": "Test the unprotected pre-trio threshold."
           }
         ],
-        "fitHypothesis": "The exact review describes disintegrated melody held in rhythmic coherence by kicks, synthetic snares and sharp electronic sounds.",
+        "fitHypothesis": "The exact review describes 808 movement against multiple polyrhythms within a record that rejects fixed footwork convention.",
         "evidence": {
           "measured": [
-            "2013 review window; exact duration and BPM remain for resolver"
+            "album release date May 19, 2017; exact duration and BPM remain for resolver"
           ],
-          "attributedDescription": "Pitchfork describes Fishbone as disintegrated melody whose pounding kicks and synthetic snares maintain rhythmic coherence.",
+          "attributedDescription": "Pitchfork describes Nyakinyua Rise through 808 movement against many polyrhythms.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Coherence inside abstraction supports belonging but does not establish either handoff.",
-          "editorialInterpretation": "Strong overlooked techno lead; placements remain untested."
+          "craftConvention": "Strong rhythmic belonging cannot establish either boundary.",
+          "editorialInterpretation": "Strong overlooked adjacent-world lead; placements remain untested."
         }
       },
-      "spotifyTrackId": "3jUYamxQBvjJagKxeaL0Zt",
+      "spotifyTrackId": "66ouiyHnKx0KpgVUvLfl11",
       "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Lowtec",
+        "track": "A2",
+        "album": "Blundar 1",
+        "releaseDate": "2016",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/tracks/18196-lowtec-a2",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a drumless pulsing overture."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a drumless afterword without assuming release."
+          }
+        ],
+        "fitHypothesis": "The exact review identifies pulse and tangled polyrhythms despite no drums, plus delay that accumulates until the original signal recedes.",
+        "evidence": {
+          "measured": [
+            "reviewed April 21, 2016; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Pitchfork describes A2 as drumless techno with pulse, tangled polyrhythms and accumulating delay.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Drumless continuity may frame or detach from the canonical journey; boundaries decide.",
+          "editorialInterpretation": "Strong drumless-techno lead; opening and tail placements remain untested."
+        }
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6idFo3FaYajJGJmfKPNPGY, 75n7uLcOJ3vx15ML74YoxX)"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Credit Card",
-        "track": "This Is a Debt You Can Never Repay",
-        "album": "Devil's Night / Dead Internet",
-        "releaseDate": "2026-08-28",
+        "artist": "Barker",
+        "track": "Posmean",
+        "album": "Utility",
+        "releaseDate": "2019-09-06",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet",
+        "discoverySource": "https://pitchfork.com/reviews/albums/barker-utility",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -169,171 +235,90 @@
             "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a current fractured motorik left turn."
+            "purpose": "Test kickless techno inside the opening run."
           },
           {
             "position": "After Len Faki — Stardancer",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test an abrasive afterword without assuming genre continuity."
+            "purpose": "Test a kickless techno afterword."
           }
         ],
-        "fitHypothesis": "The current review identifies a motorik rhythm inside a mixtape whose songs are deliberately and dramatically fractured.",
+        "fitHypothesis": "The exact review describes taut rubbery synth signals inside a kickless techno album whose rhythm is formed by synthesizers and white-noise attacks.",
+        "evidence": {
+          "measured": [
+            "album release date September 6, 2019; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Pitchfork describes Posmean's taut rubbery synths within Utility's kickless techno construction.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Removing the kick may create purposeful contrast or accidental loss of continuity.",
+          "editorialInterpretation": "Strong adjacent structural lead; placements remain untested."
+        }
+      },
+      "spotifyTrackId": "69dnPGepr8pA1LnWAPzbHL",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "iKeda",
+        "track": "Meoww",
+        "album": "Bangs N Braces EP",
+        "releaseDate": "2026-08-28",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ikeda-bangs-n-braces-ep",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test a current bubble-riddim production-world change."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a vocal club-pop afterword."
+          }
+        ],
+        "fitHypothesis": "The current exact review describes iKeda riding and subverting the beat within a bubble-riddim fusion of dancehall-rooted and hyperpop textures.",
         "evidence": {
           "measured": [
             "reviewed September 2, 2026; exact duration and BPM remain for resolver"
           ],
-          "attributedDescription": "Pitchfork identifies the track's motorik rhythm within feral EBM/synth-punk material fractured by design.",
+          "attributedDescription": "Pitchfork identifies Meoww as the standout example of iKeda riding and subverting beats.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous non-techno edge may pass only if its boundaries and long-form purpose work.",
-          "editorialInterpretation": "Current adjacent lead; placements remain untested."
+          "craftConvention": "A vocal club-pop left turn can pass only if transition and long-form purpose are established.",
+          "editorialInterpretation": "Current emerging adjacent lead; placements remain untested."
         }
       },
-      "spotifyTrackId": "6K8RuLtOD1XjBdsYNHaiXV",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Objekt",
-        "track": "Secret Snake",
-        "album": "Cocoon Crush",
-        "releaseDate": "2018",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/secret-snake",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a delicate-to-swirl overture."
-          },
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test a structural late-middle turn."
-          }
-        ],
-        "fitHypothesis": "The exact review describes a soft opening with delicate drums, a dramatic growl-led change and a later swirling groove.",
-        "evidence": {
-          "measured": [
-            "2018 review window; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Pitchfork describes delicate drums giving way to an animalistic rupture and later swirling groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A dramatic internal turn may belong while still failing either placement.",
-          "editorialInterpretation": "Overlooked structural lead; placements remain untested."
-        }
-      },
-      "spotifyTrackId": "75vG2Zadt1GyuaozT2XiOB",
-      "selected": false
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2Py345N5hPIMxosqC5AjfD, 5a8FUBfnc2f9b4Om2KxO8T)"
     }
   ],
   "candidates": [
     {
-      "id": "2BM1KB5AcFevWIh6MpKOdS",
-      "uri": "spotify:track:2BM1KB5AcFevWIh6MpKOdS",
-      "name": "eBase",
+      "id": "66ouiyHnKx0KpgVUvLfl11",
+      "uri": "spotify:track:66ouiyHnKx0KpgVUvLfl11",
+      "name": "Nyakinyua Rise",
       "artists": [
-        "Musicentrydelete"
+        "Jlin"
       ],
-      "album": "Selfless",
-      "releaseDate": "2025-11-28",
-      "durationMs": 1017033,
-      "spotifyUrl": "https://open.spotify.com/track/2BM1KB5AcFevWIh6MpKOdS",
+      "album": "Black Origami",
+      "releaseDate": "2017-05-19",
+      "durationMs": 220437,
+      "spotifyUrl": "https://open.spotify.com/track/66ouiyHnKx0KpgVUvLfl11",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/musicentrydelete-selfless",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a long-form polyrhythmic overture without assuming its exit."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a shape-shifting afterword without assuming closure."
-        }
-      ],
-      "fitHypothesis": "The exact review documents a slow triplet rhythm morphing into quasi-acid, toughening drums, disorienting polyrhythms and a disappearing downbeat.",
-      "evidence": {
-        "measured": [
-          "reviewed January 14, 2026; exact duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Pitchfork documents eBase's slow-triplet-to-quasi-acid transformation, disorienting polyrhythms and dissolving downbeat.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A long transformation may frame or overwhelm the journey; boundary evidence decides.",
-        "editorialInterpretation": "Strong structural lead; overture and afterword placements remain untested."
-      },
-      "requestedIdentity": {
-        "artist": "Musicentrydelete",
-        "track": "eBase",
-        "album": "Selfless",
-        "releaseDate": "2025",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/musicentrydelete-selfless",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a long-form polyrhythmic overture without assuming its exit."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a shape-shifting afterword without assuming closure."
-          }
-        ],
-        "fitHypothesis": "The exact review documents a slow triplet rhythm morphing into quasi-acid, toughening drums, disorienting polyrhythms and a disappearing downbeat.",
-        "evidence": {
-          "measured": [
-            "reviewed January 14, 2026; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Pitchfork documents eBase's slow-triplet-to-quasi-acid transformation, disorienting polyrhythms and dissolving downbeat.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A long transformation may frame or overwhelm the journey; boundary evidence decides.",
-          "editorialInterpretation": "Strong structural lead; overture and afterword placements remain untested."
-        }
-      }
-    },
-    {
-      "id": "3jUYamxQBvjJagKxeaL0Zt",
-      "uri": "spotify:track:3jUYamxQBvjJagKxeaL0Zt",
-      "name": "Fishbone",
-      "artists": [
-        "Objekt"
-      ],
-      "album": "Objekt #3",
-      "releaseDate": "2013-11-19",
-      "durationMs": 312500,
-      "spotifyUrl": "https://open.spotify.com/track/3jUYamxQBvjJagKxeaL0Zt",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/tracks/16338-objekt-fishbone",
+      "discoverySource": "https://pitchfork.com/reviews/albums/23119-black-origami",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -343,7 +328,7 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test a disintegrated-but-coherent techno redirection."
+          "purpose": "Test a footwork-derived polyrhythmic redirection."
         },
         {
           "position": "Before Linear System — Transparency",
@@ -355,25 +340,25 @@
           "purpose": "Test the unprotected pre-trio threshold."
         }
       ],
-      "fitHypothesis": "The exact review describes disintegrated melody held in rhythmic coherence by kicks, synthetic snares and sharp electronic sounds.",
+      "fitHypothesis": "The exact review describes 808 movement against multiple polyrhythms within a record that rejects fixed footwork convention.",
       "evidence": {
         "measured": [
-          "2013 review window; exact duration and BPM remain for resolver"
+          "album release date May 19, 2017; exact duration and BPM remain for resolver"
         ],
-        "attributedDescription": "Pitchfork describes Fishbone as disintegrated melody whose pounding kicks and synthetic snares maintain rhythmic coherence.",
+        "attributedDescription": "Pitchfork describes Nyakinyua Rise through 808 movement against many polyrhythms.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Coherence inside abstraction supports belonging but does not establish either handoff.",
-        "editorialInterpretation": "Strong overlooked techno lead; placements remain untested."
+        "craftConvention": "Strong rhythmic belonging cannot establish either boundary.",
+        "editorialInterpretation": "Strong overlooked adjacent-world lead; placements remain untested."
       },
       "requestedIdentity": {
-        "artist": "Objekt",
-        "track": "Fishbone",
-        "album": "Objekt #3",
-        "releaseDate": "2013",
+        "artist": "Jlin",
+        "track": "Nyakinyua Rise",
+        "album": "Black Origami",
+        "releaseDate": "2017-05-19",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/16338-objekt-fishbone",
+        "discoverySource": "https://pitchfork.com/reviews/albums/23119-black-origami",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -383,7 +368,7 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a disintegrated-but-coherent techno redirection."
+            "purpose": "Test a footwork-derived polyrhythmic redirection."
           },
           {
             "position": "Before Linear System — Transparency",
@@ -395,33 +380,33 @@
             "purpose": "Test the unprotected pre-trio threshold."
           }
         ],
-        "fitHypothesis": "The exact review describes disintegrated melody held in rhythmic coherence by kicks, synthetic snares and sharp electronic sounds.",
+        "fitHypothesis": "The exact review describes 808 movement against multiple polyrhythms within a record that rejects fixed footwork convention.",
         "evidence": {
           "measured": [
-            "2013 review window; exact duration and BPM remain for resolver"
+            "album release date May 19, 2017; exact duration and BPM remain for resolver"
           ],
-          "attributedDescription": "Pitchfork describes Fishbone as disintegrated melody whose pounding kicks and synthetic snares maintain rhythmic coherence.",
+          "attributedDescription": "Pitchfork describes Nyakinyua Rise through 808 movement against many polyrhythms.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Coherence inside abstraction supports belonging but does not establish either handoff.",
-          "editorialInterpretation": "Strong overlooked techno lead; placements remain untested."
+          "craftConvention": "Strong rhythmic belonging cannot establish either boundary.",
+          "editorialInterpretation": "Strong overlooked adjacent-world lead; placements remain untested."
         }
       }
     },
     {
-      "id": "6K8RuLtOD1XjBdsYNHaiXV",
-      "uri": "spotify:track:6K8RuLtOD1XjBdsYNHaiXV",
-      "name": "This is a Debt You Can Never Repay",
+      "id": "69dnPGepr8pA1LnWAPzbHL",
+      "uri": "spotify:track:69dnPGepr8pA1LnWAPzbHL",
+      "name": "Posmean",
       "artists": [
-        "Credit Card"
+        "Barker"
       ],
-      "album": "Devil's Night / Dead Internet",
-      "releaseDate": "2026-08-14",
-      "durationMs": 173000,
-      "spotifyUrl": "https://open.spotify.com/track/6K8RuLtOD1XjBdsYNHaiXV",
+      "album": "Utility",
+      "releaseDate": "2019-09-06",
+      "durationMs": 234101,
+      "spotifyUrl": "https://open.spotify.com/track/69dnPGepr8pA1LnWAPzbHL",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet",
+      "discoverySource": "https://pitchfork.com/reviews/albums/barker-utility",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -431,35 +416,35 @@
           "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test a current fractured motorik left turn."
+          "purpose": "Test kickless techno inside the opening run."
         },
         {
           "position": "After Len Faki — Stardancer",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
           "incomingBpm": 137,
           "candidateBpm": null,
-          "purpose": "Test an abrasive afterword without assuming genre continuity."
+          "purpose": "Test a kickless techno afterword."
         }
       ],
-      "fitHypothesis": "The current review identifies a motorik rhythm inside a mixtape whose songs are deliberately and dramatically fractured.",
+      "fitHypothesis": "The exact review describes taut rubbery synth signals inside a kickless techno album whose rhythm is formed by synthesizers and white-noise attacks.",
       "evidence": {
         "measured": [
-          "reviewed September 2, 2026; exact duration and BPM remain for resolver"
+          "album release date September 6, 2019; exact duration and BPM remain for resolver"
         ],
-        "attributedDescription": "Pitchfork identifies the track's motorik rhythm within feral EBM/synth-punk material fractured by design.",
+        "attributedDescription": "Pitchfork describes Posmean's taut rubbery synths within Utility's kickless techno construction.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A conspicuous non-techno edge may pass only if its boundaries and long-form purpose work.",
-        "editorialInterpretation": "Current adjacent lead; placements remain untested."
+        "craftConvention": "Removing the kick may create purposeful contrast or accidental loss of continuity.",
+        "editorialInterpretation": "Strong adjacent structural lead; placements remain untested."
       },
       "requestedIdentity": {
-        "artist": "Credit Card",
-        "track": "This Is a Debt You Can Never Repay",
-        "album": "Devil's Night / Dead Internet",
-        "releaseDate": "2026-08-28",
+        "artist": "Barker",
+        "track": "Posmean",
+        "album": "Utility",
+        "releaseDate": "2019-09-06",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet",
+        "discoverySource": "https://pitchfork.com/reviews/albums/barker-utility",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -469,114 +454,29 @@
             "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a current fractured motorik left turn."
+            "purpose": "Test kickless techno inside the opening run."
           },
           {
             "position": "After Len Faki — Stardancer",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Test an abrasive afterword without assuming genre continuity."
+            "purpose": "Test a kickless techno afterword."
           }
         ],
-        "fitHypothesis": "The current review identifies a motorik rhythm inside a mixtape whose songs are deliberately and dramatically fractured.",
+        "fitHypothesis": "The exact review describes taut rubbery synth signals inside a kickless techno album whose rhythm is formed by synthesizers and white-noise attacks.",
         "evidence": {
           "measured": [
-            "reviewed September 2, 2026; exact duration and BPM remain for resolver"
+            "album release date September 6, 2019; exact duration and BPM remain for resolver"
           ],
-          "attributedDescription": "Pitchfork identifies the track's motorik rhythm within feral EBM/synth-punk material fractured by design.",
+          "attributedDescription": "Pitchfork describes Posmean's taut rubbery synths within Utility's kickless techno construction.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous non-techno edge may pass only if its boundaries and long-form purpose work.",
-          "editorialInterpretation": "Current adjacent lead; placements remain untested."
+          "craftConvention": "Removing the kick may create purposeful contrast or accidental loss of continuity.",
+          "editorialInterpretation": "Strong adjacent structural lead; placements remain untested."
         }
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "75vG2Zadt1GyuaozT2XiOB",
-      "uri": "spotify:track:75vG2Zadt1GyuaozT2XiOB",
-      "name": "Secret Snake",
-      "artists": [
-        "Objekt"
-      ],
-      "album": "Cocoon Crush",
-      "releaseDate": "2018-11-09",
-      "durationMs": 358488,
-      "spotifyUrl": "https://open.spotify.com/track/75vG2Zadt1GyuaozT2XiOB",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/tracks/secret-snake",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a delicate-to-swirl overture."
-        },
-        {
-          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test a structural late-middle turn."
-        }
-      ],
-      "fitHypothesis": "The exact review describes a soft opening with delicate drums, a dramatic growl-led change and a later swirling groove.",
-      "evidence": {
-        "measured": [
-          "2018 review window; exact duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Pitchfork describes delicate drums giving way to an animalistic rupture and later swirling groove.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A dramatic internal turn may belong while still failing either placement.",
-        "editorialInterpretation": "Overlooked structural lead; placements remain untested."
-      },
-      "requestedIdentity": {
-        "artist": "Objekt",
-        "track": "Secret Snake",
-        "album": "Cocoon Crush",
-        "releaseDate": "2018",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/secret-snake",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a delicate-to-swirl overture."
-          },
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test a structural late-middle turn."
-          }
-        ],
-        "fitHypothesis": "The exact review describes a soft opening with delicate drums, a dramatic growl-led change and a later swirling groove.",
-        "evidence": {
-          "measured": [
-            "2018 review window; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Pitchfork describes delicate drums giving way to an animalistic rupture and later swirling groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A dramatic internal turn may belong while still failing either placement.",
-          "editorialInterpretation": "Overlooked structural lead; placements remain untested."
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
