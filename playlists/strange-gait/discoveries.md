@@ -2,6 +2,62 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 71 — EXPLORE — metric ambiguity, micro-rhythmic dub and overlooked off-kilter machine funk — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 70 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 107 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Flippen Disks, Kynant, Ñ, Rekids and Meakusma lanes rather than recycling Runs 53–70.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T06:52:25Z-explore-71`
+- **sourceCommit:** `3604688f485deffef2b23651b5ba46482a5dcd7b`
+- **request commit:** `e19af4994236f817b70363d46ccd0f8c8d38e38a`
+- **snapshot commit:** `72c9b28a69d4b69ff209120afe3add698c7ad7fe`
+- **request fingerprint:** `6750608132cbe1798ba7e708869adfb53575a0dd47f4e57b20d98113c448f1f1`
+- **scope:** approximately 48 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 2 exact resolutions and selected candidates + 3 unresolved; one warning; no duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Nikos — Critter** — RESOLVED and selected: `spotify:track:6ccBJI8ANLFNAyprxGxEpY`; Spotify album `Metaturnal EP`, release date `2023-05-17`, duration 7:08, BPM unavailable.
+2. **Tensal — Intermixture** — RESOLVED and selected: `spotify:track:0ruXfXxnI62URb6MmRCRp5`; Spotify album `Industrialsociety EP`, release date `2018-11-30`, duration 5:13, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Industrialsociety" but Spotify returned "Industrialsociety EP"; release date requested "2018-11-16" but Spotify returned "2018-11-30"`.
+3. **Santiago Canen — 029** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Sir Lord Commix — Under Seige** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **opo — ogenepop9bita3dani** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Nikos — Critter — PARKED
+
+- **Volume fit:** PASS. Flippen Disks describes the exact track as a slow, deep chugger that delicately explores the space between 6/8 and 4/4 metre. This directly supports rhythmic and structural freedom without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. Neither an opening before Marauder nor `Moonwake → Critter → Capa` has sourced BPM/pulse, phrase, entry, exit or mix evidence. Documented metre does not establish how either handoff feels.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The metric ambiguity could create a deliberate threshold or clarify Moonwake–Capa's redirection, but it could also recreate a disconnected conceptual opening or over-articulate the middle. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. Strong structural evidence does not show that another seven-minute mechanism improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Tensal — Intermixture — PARKED
+
+- **Volume fit:** PASS. Kynant identifies the exact track's off-kilter rhythm inside a broken-beat and atmospheric-techno release. This supports the selection lens without turning style or catalogue status into admission proof.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Intermixture → Capa` nor `Drummz → Intermixture → Truth in Noise` has exact BPM/pulse, phrasing, entry, exit or mix evidence. The packaging warning does not affect the exact title/artist match.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Intermixture could sharpen either rhythmic-redirection passage, but it could equally crowd runs that already contain distinct mechanisms. The available description cannot establish local benefit.
+- **Long-form journey:** NOT PROVEN. An exact off-kilter broken-techno fit does not by itself demonstrate a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify album/date warning remains attached.
+
+The three unresolved leads receive no musical verdict. Santiago Canen — 029 retains official micro-rhythmic syncopated-percussion evidence; Sir Lord Commix — Under Seige retains official off-kilter-rhythm and erratic-bass evidence; opo — ogenepop9bita3dani remains a current exact-track research lead with collection-level odd-meter and polyrhythmic framing only. None is a canonical candidate or global utility input without a resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the two selected exact identities were evaluated; all three exact unresolved errors and the one metadata warning are preserved; both candidates are judged at volume, transition, local-run and long-form scales; metre and BPM are not treated as energy or flow; no canonical or protected edge changes; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks and three unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **107 → 109 exact tracks**, adding Critter and Intermixture.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 48 inspected → 5 ranked leads → 2 exact resolutions + 3 unresolved → 2 selected evaluations → 0 ADD + 2 PARKED → 2 global utility additions. Critter is the strongest canonical hypothesis because its official exact-track description documents a deliberate relation between 6/8 and 4/4 metre. The strongest counterargument is that this metric threshold may provide exactly the purposeful opening or middle turn the journey permits. The run proves two selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove either proposed placement fails, that the unresolved leads lack other lawful Spotify identities, or that STRANGE GAIT is complete.
+
 ## Run 70 — EXPLORE — current syncopated bass techno, emerging off-kilter forms and machine-funk catalogue — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 69 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 104 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Nerve Collect, MYRYRS, In Armatura, Black Magic and Dust Science lanes rather than recycling Runs 53–69.

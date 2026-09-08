@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Nikos — `Critter` — exact PARKED metric-ambiguity discovery; official 6/8–4/4 exploration, with opening and middle placements untested
+- Tensal — `Intermixture` — exact PARKED catalogue discovery; official off-kilter broken-techno evidence, with both middle placements untested
+- Santiago Canen — `029` — unresolved current adjacent lead; official micro-rhythmic syncopated-percussion evidence
+- Sir Lord Commix — `Under Seige` — unresolved machine-funk catalogue lead; official off-kilter-rhythm and erratic-bass evidence
+- opo — `ogenepop9bita3dani` — unresolved current emerging lead; odd-meter and polyrhythmic evidence is collection-level only
+
 - Teqmun — `A Man and His Toad` — exact PARKED current discovery; official syncopated-bass and skeletal-pattern description, with early and pre-trio placements untested
 - Sunil Sharpe — `Rushneck Break` — exact PARKED current emerging-label discovery; official off-kilter-overdrive description, with late-middle and tail placements untested
 - Actual — `Flunk` — exact PARKED different-world discovery; official baile-funk/broken-beat/UK-techno hybrid description, with middle and tail placements untested
@@ -190,6 +196,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Sir Lord Commix — `Under Seige` — unresolved compact catalogue lead; exact off-kilter-rhythm evidence but no proven Stardancer exit
+- opo — `ogenepop9bita3dani` — unresolved current preview; collection-level odd-meter framing does not establish an afterword or exact-track behaviour
 
 - Sunil Sharpe — `Rushneck Break` — exact PARKED compact current discovery; no proven Stardancer exit or late-middle handoff
 - Actual — `Flunk` — exact PARKED hybrid discovery; no proven Stardancer afterword or Moonwake–Capa handoff
