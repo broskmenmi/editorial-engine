@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 72 — EXPLORE — current acid/electro mutation, emerging polymetrics and overlooked syncopated structures — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 71 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 109 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Black Magic Recs, Was Wotsch, Dor Bachov, Berceuse Heroique and self-released syntrovert lanes rather than recycling Runs 53–71.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T07:49:15Z-explore-72`
+- **sourceCommit:** `31d2d3978e808a5111a127ec84e0226c1853407e`
+- **request commit:** `7435b5bcce57c899d1a5c993a3269443f4d922f8`
+- **snapshot commit:** `c29eda6417cd16a9a6859afbe9ebd53ed480e8e0`
+- **request fingerprint:** `19511603577e9d3a4016943c6fa8138f08e68d9aa1f88a2c0efb29112eed6a72`
+- **scope:** approximately 46 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 COMPLETE; 5 requested → 5 exact resolutions, with 3 selected candidates + 2 resolved alternates; three warnings; no unresolved leads, duplicates, substitutions or errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Omnitron — R.E.S.E.T.** — RESOLVED and selected: `spotify:track:17qcmjRkgk57WNGawMEkHU`; Spotify album `R.E.S.E.T.`, release date `2026-08-20`, duration 6:06, BPM unavailable.
+2. **Michal Ho — Quamomibass** — RESOLVED and selected: `spotify:track:0z7FVRRuNteDgmPvTWQwME`; Spotify album `Local Lifeforms EP`, release date `2026-04-10`, duration 4:19, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Local Lifeforms" but Spotify returned "Local Lifeforms EP"`. The source track list spells `Quamomibass`; its prose spells `Quaomibass`.
+3. **Invexis — RS** — RESOLVED and selected: `spotify:track:7ahc8tGWRm9zoHsmzybjw1`; Spotify album `Morphium EP`, release date `2025-09-19`, duration 5:27, BPM unavailable.
+4. **Hodge — Night Run** — RESOLVED alternate, not selected: `spotify:track:5HpXlyV4sGOe0eUqZ659oE`; Spotify album `Exogenesis EP`, release date `2018-12-14`, duration 5:41, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Exogenesis" but Spotify returned "Exogenesis EP"; release date requested "2018-11-09" but Spotify returned "2018-12-14"`.
+5. **Syntrovert — Polymetrik** — RESOLVED alternate, not selected: `spotify:track:30Qs6yQvZ9F9DY0tR9ON7R`; Spotify album `Polymetrik`, release date `2024-08-25`, duration 4:08, source-reported 126 BPM. Warning: `Exact title/artist matched with release metadata variance: album requested "Polymetrik EP" but Spotify returned "Polymetrik"`.
+
+### Canonical evaluations
+
+#### Omnitron — R.E.S.E.T. — PARKED
+
+- **Volume fit:** PASS. Black Magic Recs describes the exact track twisting and snarling through acid/electro synths, effects and distorted vocal bursts while its drum programming locks motion. This is direct structural-freedom evidence without converting the label's intensity language into measured energy.
+- **Immediate transition:** UNKNOWN. Neither `Too Much Time → R.E.S.E.T. → Moonwake` nor `Stardancer → R.E.S.E.T.` has exact BPM/pulse, phrase, entry, exit or mix evidence. The official above-140 range does not establish either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its documented internal motion could sharpen the already mobile Sciahri passage or make a deliberate afterword, but it could equally crowd the middle or read as an appended restart. Source prose cannot decide that attention effect.
+- **Long-form journey:** NOT PROVEN. Strong current selection-lens fit does not show that another conspicuous acid/electro mechanism improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Michal Ho — Quamomibass — PARKED
+
+- **Volume fit:** PASS. Was Wotsch describes the exact track as experimental and polymetric, referencing Michal Ho's drum-and-bass alter ego. That directly supports rhythmic openness; the source-title and Spotify packaging variations do not weaken the exact identity.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Quamomibass → Too Much Time` nor `Stardancer → Quamomibass` has exact BPM/pulse, phrase, entry, exit or mix evidence. Its role as the source release's opener cannot be transferred into this sequence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A polymetric production-world change could deliberately widen the early journey or create a tail doorway, but it could also interrupt continuity or append an unrelated new start. No lawful evidence establishes either local effect.
+- **Long-form journey:** NOT PROVEN. Emerging-scene value and polymetric construction do not establish a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify album warning remains attached.
+
+#### Invexis — RS — PARKED
+
+- **Volume fit:** PASS. Dor Bachov describes the exact track as syncopated, complex and full of kinetic motion, with a late-1990s groove-science reference. This supports selection relevance without turning catalogue lineage into admission proof.
+- **Immediate transition:** UNKNOWN. Neither `Fragments → RS → Drummz` nor `Truth in Noise → RS → Transparency` has exact BPM/pulse, phrasing, entry, exit or mix evidence. Syncopation alone does not prove continuity.
+- **Surrounding three-to-five-track run:** NOT PROVEN. RS could create useful local motion or a deliberate pre-trio threshold, but either placement could also over-articulate a late run already carrying distinct mechanisms. The available description cannot establish local benefit.
+- **Long-form journey:** NOT PROVEN. Exact rhythmic complexity does not by itself demonstrate that the current journey needs another late stage.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The two resolved alternates receive no musical verdict. Hodge — Night Run retains exact review evidence of a polyrhythmic construction; Syntrovert — Polymetrik retains official polymetric evidence and a reported 126 BPM. Because neither was resolver-selected for evaluation, both remain local exact research leads and neither enters the global utility ledger this run.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching COMPLETE snapshot is internally valid. Only the three selected exact identities were evaluated; both resolved alternates and all three metadata warnings are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; BPM and descriptive intensity are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two exact unevaluated research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **109 → 112 exact tracks**, adding R.E.S.E.T., Quamomibass and RS.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 5 ranked leads → 5 exact resolutions → 3 selected evaluations + 2 resolved alternates → 0 ADD + 3 PARKED → 3 global utility additions. R.E.S.E.T. is the strongest canonical hypothesis because its official exact-track description documents internal twisting motion held by deliberate drum programming. The strongest counterargument is that this may provide exactly the purposeful middle turn or afterword the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove their proposed placements fail, that either resolved alternate lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 71 — EXPLORE — metric ambiguity, micro-rhythmic dub and overlooked off-kilter machine funk — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 70 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 107 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Flippen Disks, Kynant, Ñ, Rekids and Meakusma lanes rather than recycling Runs 53–70.

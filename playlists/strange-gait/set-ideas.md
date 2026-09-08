@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Omnitron — `R.E.S.E.T.` — exact PARKED current discovery; official twisting acid/electro form and locked-drum-programming description, with middle and tail placements untested
+- Michal Ho — `Quamomibass` — exact PARKED emerging discovery; official experimental-polymetric description, with internal and tail placements untested
+- Invexis — `RS` — exact PARKED overlooked discovery; official syncopated complex-motion description, with both late placements untested
+- Hodge — `Night Run` — exact resolved alternate, unevaluated; reviewer-described polyrhythmic construction
+- Syntrovert — `Polymetrik` — exact resolved alternate, unevaluated; official polymetric construction at reported 126 BPM
+
 - Nikos — `Critter` — exact PARKED metric-ambiguity discovery; official 6/8–4/4 exploration, with opening and middle placements untested
 - Tensal — `Intermixture` — exact PARKED catalogue discovery; official off-kilter broken-techno evidence, with both middle placements untested
 - Santiago Canen — `029` — unresolved current adjacent lead; official micro-rhythmic syncopated-percussion evidence
@@ -196,6 +202,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Omnitron — `R.E.S.E.T.` — exact PARKED current discovery; no proven Stardancer exit or internal Sciahri handoff
+- Michal Ho — `Quamomibass` — exact PARKED polymetric discovery; no proven Stardancer afterword or early internal handoff
+- Syntrovert — `Polymetrik` — exact resolved alternate, unevaluated 126 BPM metric-reset lead; no tail relationship established
 
 - Sir Lord Commix — `Under Seige` — unresolved compact catalogue lead; exact off-kilter-rhythm evidence but no proven Stardancer exit
 - opo — `ogenepop9bita3dani` — unresolved current preview; collection-level odd-meter framing does not establish an afterword or exact-track behaviour
