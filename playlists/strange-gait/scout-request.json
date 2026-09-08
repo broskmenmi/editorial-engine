@@ -1,125 +1,48 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-08T20:48:40Z-explore-85",
-  "sourceCommit": "e204285068eeb831e90fd889dccd5ef9870cd498",
+  "runId": "2026-09-08T21:40:16Z-explore-86",
+  "sourceCommit": "4e8e39855afe58072fa60e67aaf4f970cab0380d",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey; preserve only Transparency → When We Froze and When We Froze → Stardancer. Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test five unused exact-track hypotheses spanning current digital club music, current dream-juke adjacency, drum-forward techno-house and overlooked percussion-led techno."
+    "purpose": "Counter the 31-run canonical ADD drought by prioritizing evidence-backed tracks that could improve an existing passage, rather than selecting for conspicuous rhythmic novelty alone. Do not lower the ADD bar."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T20:48:40Z",
+    "timestampUtc": "2026-09-08T21:40:16Z",
     "sourceWindows": [
-      "CURRENT / PC MUSIC: https://pitchfork.com/reviews/albums/grrl-beetle — GRRL's March 2026 Beetle window was screened; Moire was retained from its exact not-quite-4/4 but predictable rhythmic foundation.",
-      "CURRENT / DREAM JUKE: https://pitchfork.com/reviews/albums/nondi-nondi — Nondi_'s March 2026 album window was screened; I Version Melody was retained from the exact triplet-chirp juke-rhythm account.",
-      "ADJACENT / OPTIMO MUSIC: https://ra.co/reviews/24568 — Bergsonist's Middle Ouest window was screened; the title track was retained from its exact loose collage of shifting percussion.",
-      "OVERLOOKED / TIKITA: https://ra.co/reviews/15496 — Ko-Ta's remastered Festimask window was screened; Comptine was retained from its exact tightly knotted syncopated-percussion construction.",
-      "OVERLOOKED / COCOON: https://ra.co/reviews/14893 — Julien Bracht's Sub Collapsed window was screened; the title track was retained from its exact swung and shifting-percussion description.",
-      "ADDITIONAL WINDOWS: current September 2026 electronic coverage, GRRL's 24-track Beetle sequence, Nondi_'s album sequence, Ploy, Barac, Marcello Napoletano and adjacent RA catalogue searches were screened. Runs 83–84 sources and every previously retained exact identity were excluded."
+      "CURRENT / SEPTEMBER 2026: https://orberecords.bandcamp.com/album/basic-rhythm — Minniemen's September 4 release was screened as current deep-techno/groove territory; release-level evidence stayed below the ranked lead set.",
+      "CURRENT / SEPTEMBER 2026: https://repetitiverhythmresearch.bandcamp.com/album/section-6-part-2 — the September 7 Clone/Repetitive Rhythm Research four-tracker was screened; release-level framing stayed below the ranked lead set.",
+      "CURRENT / 2026 ADJACENT: https://ra.co/reviews/36349 — Jump Source's Fold window was screened; A Dull Knife was retained because the exact review documents a dub-techno beginning that develops into syncopated bass, and a newly indexed exact Spotify identity materially improves the prior unresolved identity evidence.",
+      "ADJACENT / POLYRHYTHMIC CLUB: https://ra.co/reviews/35027 — Tristan Arp x Kellen303's 2022 suspension of disbelief window was screened; the title track was retained from exact twisted syncopated percussion, swinging polyrhythm and tightly constructed breaks.",
+      "OVERLOOKED / LIVITY SOUND: https://ra.co/reviews/35424 and https://peverelist.bandcamp.com/album/pulse-e-p — Peverelist's 2023 Pulse window was screened; Pulse I was retained from its exact crooked broken-techno construction and gradual introduction of skeletal elements.",
+      "ADDITIONAL CURRENT WINDOW: 2026 release/watch material around NOREPRESS, Orbe Records and current underground-techno catalogues was screened. Previously retained exact identities, untriggered PARKED revisits and Runs 84–85 leads were excluded."
     ],
-    "approximateInspectedScope": "Approximately 41 named tracks and releases across current, adjacent/emerging and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 34 named tracks and releases across current September 2026 releases, recent adjacent club music, and overlooked broken-techno catalogue material; metadata and attributed descriptions only; no audio audition.",
     "exclusions": [
       "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and previously retained exact identities were excluded.",
       "The two protected internal handoffs remain unavailable; every other boundary remains available.",
-      "Ploy's 2025 window was screened but not ranked because it had already appeared in earlier exploration coverage; catalogue neighbours without exact-track rhythmic evidence stayed below the list.",
-      "No lead was promoted for recency, reputation, genre, novelty or technical cleverness.",
-      "Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain unknown."
+      "The 31-run no-ADD streak is treated as a workflow-health signal, not as permission to force an ADD or lower evidence standards.",
+      "Current releases supported only by release-level genre or marketing language were screened but not padded into the resolver request.",
+      "Energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain unknown unless directly evidenced."
     ],
     "rankedLeadSummary": [
-      "1. GRRL — Moire: strongest current exact rhythm that is neither straight 4/4 nor formless.",
-      "2. Ko-Ta — Comptine: strongest overlooked exact syncopated-percussion construction.",
-      "3. Bergsonist — Middle Ouest: strongest shifting-percussion collage in a techno/house catalogue.",
-      "4. Nondi_ — I Version Melody: strongest current adjacent triplet-based juke-rhythm lead.",
-      "5. Julien Bracht — Sub Collapsed: strongest overlooked swung techno with shifting percussion."
+      "1. Jump Source — A Dull Knife (feat. Harmony Index): strongest placement-oriented lead; newly exact Spotify identity plus exact review documents a dub-techno-to-syncopated-bass transformation.",
+      "2. Peverelist — Pulse I: strongest overlooked broken-techno lead; exact review documents crooked percussion and gradual structural accumulation rather than novelty for its own sake.",
+      "3. Tristan Arp x Kellen303 — Suspension of Disbelief: strongest adjacent polyrhythmic club lead; exact review documents swinging syncopation and tightly constructed breaks."
     ]
   },
   "leads": [
     {
-      "artist": "GRRL",
-      "track": "Moire",
-      "album": "Beetle",
-      "releaseDate": "2026",
+      "artist": "Jump Source",
+      "track": "A Dull Knife (feat. Harmony Index)",
+      "album": "Fold",
+      "releaseDate": "2026-04-30",
+      "spotifyTrackId": "04Tpb8EtnKpuUFsSOro7Y2",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/grrl-beetle",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test a current digital-club redirection with an irregular but described stable foundation."
-        },
-        {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test the unprotected pre-trio threshold without disturbing either protected internal handoff."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes Moire as pairing experimental nervousness with a propulsive kick pattern that is not straightforward four-on-the-floor but remains predictable.",
-      "evidence": {
-        "measured": ["reviewed March 26, 2026; exact release date, duration and BPM remain for resolver"],
-        "attributedDescription": "Pitchfork describes Moire through a fluttering top line and a propulsive, not-quite-4/4 but predictable rhythm.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A clearly legible irregular foundation may support redirection, but source prose cannot establish either handoff.",
-        "editorialInterpretation": "Strong current selection-lens lead; both placements remain untested."
-      }
-    },
-    {
-      "artist": "Ko-Ta",
-      "track": "Comptine",
-      "album": "Festimask",
-      "releaseDate": "2014-06",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/15496",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test an explicitly percussion-only syncopated construction inside the redirection run."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a percussion-only afterword without inferring release or closure."
-        }
-      ],
-      "fitHypothesis": "Resident Advisor describes Comptine as a tightly knotted construction made entirely from syncopated percussion.",
-      "evidence": {
-        "measured": ["2014 remaster release window; the source identifies an original 2001 issue; exact duration and BPM remain for resolver"],
-        "attributedDescription": "Resident Advisor describes Comptine as a perfectly knotted-up bunch of syncopated percussion and nothing else.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A percussion-only tool may focus or hollow out a run; exact boundary evidence is required.",
-        "editorialInterpretation": "Strong overlooked rhythm-first lead; middle and afterword placements remain untested."
-      }
-    },
-    {
-      "artist": "Bergsonist",
-      "track": "Middle Ouest",
-      "album": "Middle Ouest",
-      "releaseDate": "2020-01",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/24568",
+      "discoverySource": "https://ra.co/reviews/36349",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -129,79 +52,7 @@
           "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test a hand-drum and shifting-percussion production-world change in the early run."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a percussion-collage afterword without assuming continuity."
-        }
-      ],
-      "fitHypothesis": "Resident Advisor describes the title track as a loose collage of shifting percussion animated by hand drums.",
-      "evidence": {
-        "measured": ["album released January 2020; exact duration and BPM remain for resolver"],
-        "attributedDescription": "Resident Advisor describes Middle Ouest as a loose collage of shifting percussion with prominent hand drums.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A different percussion world can widen the journey or read as an arbitrary reset; prose cannot decide.",
-        "editorialInterpretation": "Strong adjacent techno/house lead; early and tail placements remain untested."
-      }
-    },
-    {
-      "artist": "Nondi_",
-      "track": "I Version Melody",
-      "album": "Nondi...",
-      "releaseDate": "2026",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a dream-juke overture as a conspicuous but potentially purposeful threshold."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a compact adjacent-world afterword."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes I Version Melody's triplets of synthetic chirps assembling into a delicate juke rhythm.",
-      "evidence": {
-        "measured": ["reviewed March 5, 2026; exact release date, duration and BPM remain for resolver"],
-        "attributedDescription": "Pitchfork describes triplets of cartoonish chirps joining to form the exact track's juke rhythm.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A footwork-derived threshold can be deliberate without belonging to the same production room; both boundaries remain unknown.",
-        "editorialInterpretation": "Current adjacent-world lead; overture and afterword remain untested."
-      }
-    },
-    {
-      "artist": "Julien Bracht",
-      "track": "Sub Collapsed",
-      "album": "Sub Collapsed",
-      "releaseDate": "2014-04",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/14893",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
-          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test an explicitly swung techno interruption inside the early Sciahri passage."
+          "purpose": "Test whether a documented dub-techno beginning that grows into syncopated bass can make the early widening feel intentional rather than merely adding another rhythmic mechanism."
         },
         {
           "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -210,17 +61,95 @@
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 143,
-          "purpose": "Test swung shifting percussion as the unprotected pre-trio threshold."
+          "purpose": "Test a broader syncopated production-world threshold at the one unprotected boundary before the listener-confirmed trio."
         }
       ],
-      "fitHypothesis": "Resident Advisor describes Sub Collapsed as swung techno whose percussion continually shifts.",
+      "fitHypothesis": "Resident Advisor describes the exact track beginning as a dub-techno groover and developing into a warm piece of syncopated bass music; the transformation is relevant without requiring the track to prove a novelty role.",
       "evidence": {
-        "measured": ["released April 2014; exact duration and BPM remain for resolver"],
-        "attributedDescription": "Resident Advisor describes the title track's swung beat and crafty shifting percussion.",
+        "measured": ["Spotify exact track ID 04Tpb8EtnKpuUFsSOro7Y2; Spotify page gives Fold, 2026, 5:09; exact BPM remains unknown"],
+        "attributedDescription": "Resident Advisor describes A Dull Knife as beginning in dub techno before growing into warm syncopated bass once Harmony Index enters.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A swung techno track may deepen or overcrowd either passage; metadata cannot decide.",
-        "editorialInterpretation": "Strong overlooked techno lead; early and pre-trio placements remain untested."
+        "craftConvention": "A track whose own form moves from dub-techno grounding into syncopated bass could bridge a change in production world, but neither exact handoff is directly heard or measured.",
+        "editorialInterpretation": "Best stagnation-countering hypothesis because it is placement-oriented and internally transitional rather than simply rhythmically unusual."
+      }
+    },
+    {
+      "artist": "Peverelist",
+      "track": "Pulse I",
+      "album": "Pulse E.P.",
+      "releaseDate": "2023-04",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/35424",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test a crooked but gradually accumulating broken-techno passage inside the existing rhythmic-redirection run."
+        },
+        {
+          "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": 139,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether gradual skeletal accumulation can create a deliberate route from re-grounding into the later driving passage."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes Pulse I as quietly inventive broken techno with percussive clacks and woodblock-style percussion, slowly adding skeletal elements until the structure blurs into a larger swirl.",
+      "evidence": {
+        "measured": ["Official Bandcamp duration 6:50; April 2023 release context; exact BPM remains unknown"],
+        "attributedDescription": "Resident Advisor describes Pulse I's suspended-feeling percussion and gradual introduction of skeletal new elements; Livity's release copy calls its formation crooked.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Gradual accumulation can function as a deliberate connective stage without needing a new chapter, but exact neighbour behaviour remains untested.",
+        "editorialInterpretation": "Strong journey-oriented catalogue lead because its cited value is development over time, not merely oddness."
+      }
+    },
+    {
+      "artist": "Tristan Arp, Kellen303",
+      "track": "Suspension of Disbelief",
+      "album": "Entangled Beings EP",
+      "releaseDate": "2022-08",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/35027",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test swinging polyrhythmic club music as a purposeful expansion of the redirection passage rather than another isolated technique."
+        },
+        {
+          "position": "Between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": 139,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a swinging break-led contrast between re-grounding and driving re-escalation."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes the exact track/release as swinging polyrhythmic club music built from twisted syncopated percussion and tightly constructed breaks with precise impact.",
+      "evidence": {
+        "measured": ["Spotify indexing shows exact title and artists with 5:07 duration; exact Spotify ID and BPM remain for repository resolver"],
+        "attributedDescription": "Resident Advisor describes twisted syncopated percussion, serpentine drum patterns, acute impact, swinging polyrhythm and tightly constructed breaks.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Swinging breaks may deepen an already redirected middle or create useful contrast after re-grounding, but source prose cannot prove exact handoffs.",
+        "editorialInterpretation": "Strong adjacent-world lead, ranked below the first two because its evidence proves rhythmic interest more clearly than a missing journey function."
       }
     }
   ]
