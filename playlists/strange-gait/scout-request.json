@@ -1,240 +1,120 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-08T15:53:41Z-explore-80",
-  "sourceCommit": "241c7ba56e1e4b24a11f57fa56b2ce57c28c3488",
+  "runId": "2026-09-08T16:49:13Z-explore-81",
+  "sourceCommit": "7d050995d2b4e0c70ad0e8770a19303c3878f619",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test five unused exact-track hypotheses after a fresh current-release, adjacent/emerging-artist and overlooked-catalogue scan. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
+    "purpose": "Test one current structural transformation and four unused adjacent or overlooked exact-track hypotheses. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T15:53:41Z",
+    "timestampUtc": "2026-09-08T16:49:13Z",
     "sourceWindows": [
-      "CURRENT / RESIDENT ADVISOR: https://ra.co/music — the live September 8, 2026 music index and its current album/EP windows were screened. Recent identities already retained in Runs 53–79 and release-only claims stayed below the ranked list.",
-      "CURRENT / BANDCAMP DAILY: https://daily.bandcamp.com/best-electronic — the current index through August 7, 2026 and July electronic roundup were screened; previously mined July identities and pages without exact-track rhythmic or structural evidence were excluded.",
-      "ADJACENT / OPTIMO MUSIC: https://ra.co/reviews/23416 and https://bergsonist.bandcamp.com/track/planetary-systems — Heat's three tracks were screened. Bergsonist — Planetary Systems was retained from the exact review's syncopated-drum account and official identity/date.",
-      "ADJACENT / ASTRAL BLACK: https://ra.co/reviews/33838 and https://astralblack.bandcamp.com/album/planet-j — Planet J's four tracks were screened. Jossy Mitsu — Ø was retained from the exact review's slinky, shifting percussion and polyrhythmic-structure account.",
-      "OVERLOOKED CATALOGUE / NORTHERN ELECTRONICS: https://ra.co/reviews/13218 and https://northernelectronics.bandcamp.com/track/licwiglunga — Misantropen's eight tracks were screened. Varg²™ — Licwiglunga was retained from the exact odd-meter drum-pattern description.",
-      "OVERLOOKED CATALOGUE / OSTGUT TON: https://ra.co/reviews/5436 and https://shed030.bandcamp.com/track/another-wedged-chicken — Shedding The Past's ten tracks were screened. Shed — Another Wedged Chicken was retained from the exact measure-by-measure lurching-rhythm account.",
-      "OVERLOOKED CATALOGUE / INFINITE MACHINE: https://ra.co/reviews/19147 and https://infinitemachine.bandcamp.com/album/im043-aphix-chemtrails-ep — Chemtrails' three tracks were screened. Aphix — 50 / Thrifty was retained from exact broken-rhythm, dub-stab and bit-crushed-drum descriptions.",
-      "ADDITIONAL WINDOWS: Grey Area Volume Two, Varg's surrounding Northern Electronics catalogue, Skee Mask's Pool, Anna Kost's See Life Better and older Resident Advisor syncopation searches were screened. Already retained identities, compilation-only claims and results without exact-track structural evidence were excluded."
+      "CURRENT / MUSICRADAR: https://www.musicradar.com/artists/as-soon-as-i-started-writing-music-with-computers-i-got-so-addicted-to-it-tom-vr-on-his-creative-process-game-changing-ableton-live-tips-and-the-hardware-synth-he-cant-stop-talking-about — the August 18, 2026 studio feature and September 15 release window were screened. The title track was retained because the artist and writer document a complete 4/4-to-broken internal transformation.",
+      "CURRENT / WEEKLY AND ALBUM WINDOWS: https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks and https://pitchfork.com/story/9-new-albums-you-should-listen-to-now-chat-pile-melissa-auf-der-maur-and-more — September 4, 2026 release coverage was screened; genre-adjacent identities without exact-track techno or structural evidence stayed below the ranked list.",
+      "ADJACENT / PLANET MU: https://pitchfork.com/reviews/albums/rian-treanor-ataxia — ATAXIA's ten-track window was screened. Rian Treanor — ATAXIA B1 was retained from the exact polyrhythmic build account.",
+      "ADJACENT / PEAK OIL: https://pitchfork.com/reviews/albums/wrecked-lightship-antiposition — Antiposition's six-track window was screened. Wrecked Lightship — Sunken Skies was retained from the exact quick-stepping-dub-to-stuttering-breakbeats transformation.",
+      "ADJACENT / I.O.T RECORDS: https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence — Draw Me a Silence's twelve-track window was screened. Azu Tiwaline — Luz Azul was retained from its exact resonant-texture and syncopated-beat description.",
+      "OVERLOOKED CATALOGUE / WARP: https://en.wikipedia.org/wiki/Clark_(album) — Clark's thirteen-track album window and cited review descriptions were screened. Clark — Banjo was retained from the exact Detroit-electro and chaotic-beat-manipulation account.",
+      "ADDITIONAL WINDOWS: Skee Mask's 808BB, T++'s Wireless and Audio1995#8, Helena Hauff's Actio Reactio, Wrecked Lightship's neighbouring tracks, current 2026 electronic roundups and legacy Resident Advisor/Pitchfork rhythmic searches were screened. Removed Spotify catalogue, identity-only results, release-level claims and tracks already retained in STRANGE GAIT stayed below the ranked list."
     ],
-    "approximateInspectedScope": "Approximately 43 named tracks and releases across current releases, adjacent and emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 46 named tracks and releases across current releases, adjacent and emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–79 were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–80 were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Current-release pages without exact-track rhythmic or structural evidence were retained only as scan context or excluded.",
-      "Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation, perceived pulse and mixability remain unknown. Attributed descriptions of metre, syncopation and rhythmic motion are evidence, not transition or flow verdicts."
+      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Current-release pages without exact-track rhythmic or structural evidence were scan context only.",
+      "Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation, perceived pulse and mixability remain unknown. Attributed descriptions of rhythm and transformation are evidence, not transition or flow verdicts."
     ],
     "rankedLeadSummary": [
-      "1. Varg²™ — Licwiglunga: strongest explicit odd-meter construction from an overlooked Northern Electronics album.",
-      "2. Jossy Mitsu — Ø: strongest adjacent-world account of slinky, shifting percussion in a polyrhythmic structure.",
-      "3. Shed — Another Wedged Chicken: strongest measure-level lurching-rhythm account from overlooked catalogue.",
-      "4. Bergsonist — Planetary Systems: strongest abstract-techno/electro intersection, with syncopated drums documented by the exact review.",
-      "5. Aphix — 50 / Thrifty: strongest broken-beat and dub-techno hybrid lead from an overlooked Bristol-linked release."
+      "1. Tom VR — Don't Know How Fast I'm Moving Until I Hit Something: strongest current exact-track internal transformation, documented by the artist and studio feature.",
+      "2. Rian Treanor — ATAXIA B1: strongest explicit polyrhythmic build from an overlooked experimental-techno album.",
+      "3. Wrecked Lightship — Sunken Skies: strongest quick-stepping dub to stuttering-breakbeats transformation from an adjacent bass/techno world.",
+      "4. Azu Tiwaline — Luz Azul: strongest syncopated-percussion lead from a body/head bass-techno intersection.",
+      "5. Clark — Banjo: strongest overlooked electro/techno lead with exact chaotic beat manipulation."
     ]
   },
   "leads": [
     {
-      "artist": "Varg²™",
-      "track": "Licwiglunga",
-      "album": "Misantropen",
-      "releaseDate": "2013-05-08",
+      "artist": "Tom VR",
+      "track": "Don't Know How Fast I'm Moving Until I Hit Something",
+      "album": "Don't Know How Fast I'm Moving Until I Hit Something",
+      "releaseDate": "2026-09-15",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/13218",
+      "discoverySource": "https://www.musicradar.com/artists/as-soon-as-i-started-writing-music-with-computers-i-got-so-addicted-to-it-tom-vr-on-his-creative-process-game-changing-ableton-live-tips-and-the-hardware-synth-he-cant-stop-talking-about",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test an explicit odd-meter mechanism as a deliberate middle redirection without assuming either handoff."
-        },
-        {
-          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test a conspicuous pre-trio metric threshold while preserving both protected internal handoffs."
-        }
+        {"position":"Between Sciahri — Moonwake and Nørbak — Capa","precedingUri":"spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j","followingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","incomingBpm":140,"candidateBpm":null,"outgoingBpm":137,"purpose":"Test a documented internal 4/4-to-broken transformation as a deliberate middle redirection without assuming either handoff."},
+        {"position":"Between Inspired Groove — Truth in Noise and Linear System — Transparency","precedingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","followingUri":"spotify:track:6vBGCwTYRiKYCDD52zXZtf","incomingBpm":138,"candidateBpm":null,"outgoingBpm":143,"purpose":"Test a current multi-state piece as a pre-trio threshold while preserving both protected internal handoffs."}
       ],
-      "fitHypothesis": "Resident Advisor describes the exact track as staggering to odd-meter drum patterns. That directly supports rhythmic freedom while leaving perceived pulse and both proposed placements unknown.",
-      "evidence": {
-        "measured": [
-          "official release date May 8, 2013; exact duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes Licwiglunga as staggering to odd-meter drum patterns.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "An odd-meter mechanism may create purposeful redirection or distract from a developed run; source prose cannot decide the result.",
-        "editorialInterpretation": "Strongest explicit-metre lead; middle and pre-trio placements remain untested."
-      }
+      "fitHypothesis": "MusicRadar and Tom VR document the title track building around kick and bass before the kick falls away and 4/4 gives way to skittering percussion. That strongly supports structural freedom while both placements remain unknown.",
+      "evidence": {"measured":["announced release date September 15, 2026; exact duration and BPM remain for resolver"],"attributedDescription":"MusicRadar and Tom VR describe a 4/4 techno first half that drops its kick and switches into broken, more complex percussion and warped vocals.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"A self-contained transformation may make a threshold purposeful or may over-articulate a journey that already has several mechanisms.","editorialInterpretation":"Strongest current lead; middle and pre-trio placements remain untested."}
     },
     {
-      "artist": "Jossy Mitsu",
-      "track": "Ø",
-      "album": "Planet J",
-      "releaseDate": "2021-02-26",
+      "artist": "Rian Treanor",
+      "track": "ATAXIA B1",
+      "album": "ATAXIA",
+      "releaseDate": "2019-03-15",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/33838",
+      "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ataxia",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test shifting percussion as a deliberate adjacent-world turn without assuming pulse continuity."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test a compact polyrhythmic afterword only if it extends rather than restarts the journey."
-        }
+        {"position":"Between Nørbak — Capa and brenner — Thick to Handle","precedingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","followingUri":"spotify:track:7CUodG7GLLbzOtO6qXGJxT","incomingBpm":137,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test an explicit polyrhythmic build inside the redirection run without treating neighbour BPM as proof."},
+        {"position":"After Len Faki — Stardancer","precedingUri":"spotify:track:6i3HRqnSMoSohzwSgq035u","incomingBpm":137,"candidateBpm":null,"purpose":"Test an overt irregular-symmetry afterword without inferring closure, pulse continuity or mixability."}
       ],
-      "fitHypothesis": "Resident Advisor describes Ø through slinky, shifting percussion punctuated by bass and calls its structure polyrhythmic. That supports the selection lens and a different production world without proving either placement.",
-      "evidence": {
-        "measured": [
-          "official release date February 26, 2021; official duration 3:53; BPM remains for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes Ø through slinky, shifting percussion punctuated by bass and a polyrhythmic structure.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A compact polyrhythmic change can be purposeful or arbitrary depending on boundary behavior and what follows.",
-        "editorialInterpretation": "Strong adjacent-world lead; middle and tail placements remain untested."
-      }
+      "fitHypothesis": "Pitchfork describes ATAXIA B1's polyrhythmic vigour working against a central synth riff and building in an electrical frenzy. That directly supports the lens; exact handoffs and journey value remain unknown.",
+      "evidence": {"measured":["album release date March 15, 2019; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes ATAXIA B1 through a polyrhythmic build set against a central synth riff.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"An explicit polyrhythmic construction can sharpen a redirection or become an analytical detour; prose cannot decide the run effect.","editorialInterpretation":"Strong explicit-polyrhythm lead; middle and afterword placements remain untested."}
     },
     {
-      "artist": "Shed",
-      "track": "Another Wedged Chicken",
-      "album": "Shedding The Past",
-      "releaseDate": "2008-08",
+      "artist": "Wrecked Lightship",
+      "track": "Sunken Skies",
+      "album": "Antiposition",
+      "releaseDate": "2024-03-01",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/5436",
+      "discoverySource": "https://pitchfork.com/reviews/albums/wrecked-lightship-antiposition",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-          "precedingUri": "spotify:track:4t7T7sz16pR8NTQSV5WcTX",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": 136,
-          "candidateBpm": null,
-          "outgoingBpm": 134,
-          "purpose": "Test a measure-level lurching rhythm as an early purposeful character change without inferring phrase or pulse fit."
-        },
-        {
-          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test an older lurching-rhythm language at a late-middle hinge without treating neighbour BPM as flow evidence."
-        }
+        {"position":"Between Rene Wise — Cave and Sciahri — Too Much Time","precedingUri":"spotify:track:2Z0j3jb573fveL4Pf3NkP1","followingUri":"spotify:track:7db90RzgCxJSu9XzKJhxKO","incomingBpm":134,"candidateBpm":null,"outgoingBpm":140,"purpose":"Test a documented dub-to-breakbeat transformation as an early production-world change without assuming pulse or phrase fit."},
+        {"position":"Between Clotur — Drummz and Inspired Groove — Truth in Noise","precedingUri":"spotify:track:6K07a5OAl8J6wqlcnCoT8i","followingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","incomingBpm":138,"candidateBpm":null,"outgoingBpm":138,"purpose":"Test stuttering breakbeat repetition at a late-middle hinge without treating equal neighbour BPM as flow evidence."}
       ],
-      "fitHypothesis": "Resident Advisor describes bass kicks bookending each measure while handclaps fill the space and the rhythm lurches back and forth. That establishes unusual rhythmic behavior, not either handoff or journey need.",
-      "evidence": {
-        "measured": [
-          "original release month August 2008; exact duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes heavy bass kicks bookending each measure, handclaps filling the space and a rhythm that lurches back and forth.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A lurching measure-level construction may sharpen a hinge or pull attention away from the established run.",
-        "editorialInterpretation": "Strong overlooked rhythmic-motion lead; early and late-middle placements remain untested."
-      }
+      "fitHypothesis": "Pitchfork describes Sunken Skies growing from quick-stepping dub into crisp breakbeats with stuttering repetitions. That is exact structural evidence; neither early nor late-middle placement is established.",
+      "evidence": {"measured":["release date March 1, 2024; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes a quick-stepping dub rhythm growing into crisp breakbeats with stuttering repetitions.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"A bass-world transformation may widen the journey deliberately or reset it accidentally depending on the boundaries.","editorialInterpretation":"Strong adjacent structural lead; early and late-middle placements remain untested."}
     },
     {
-      "artist": "Bergsonist",
-      "track": "Planetary Systems",
-      "album": "Heat",
-      "releaseDate": "2018-12-14",
+      "artist": "Azu Tiwaline",
+      "track": "Luz Azul",
+      "album": "Draw Me a Silence",
+      "releaseDate": "2020-03",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/23416",
+      "discoverySource": "https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test syncopated drums and electro pads as an early widening without inferring energy, pulse or phrase fit."
-        },
-        {
-          "position": "After Len Faki — Stardancer",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test an abstract-techno/electro afterword without inferring closure from genre or title."
-        }
+        {"position":"Before Inigo Kennedy — Marauder","followingUri":"spotify:track:4YhLd9gtkp0vLWu4RNJ716","candidateBpm":null,"outgoingBpm":136,"purpose":"Test a percussion-led overture whose entry into Marauder and long-form proportion remain unknown."},
+        {"position":"Between Sciahri — Moonwake and Nørbak — Capa","precedingUri":"spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j","followingUri":"spotify:track:5np6Qsak6d5kIdkktjblRB","incomingBpm":140,"candidateBpm":null,"outgoingBpm":137,"purpose":"Test syncopated bass-world percussion as a deliberate middle change without inferring transition quality."}
       ],
-      "fitHypothesis": "Resident Advisor describes Planetary Systems as a spluttering mass of syncopated drums and electro-style pads. Belonging is plausible; neither the early insertion nor afterword function is established.",
-      "evidence": {
-        "measured": [
-          "official release date December 14, 2018; exact duration and BPM remain for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes Planetary Systems as a spluttering mass of syncopated drums and electro-style pads.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A syncopated electro-adjacent construction could widen the journey or create an accidental reset; prose cannot establish the handoffs.",
-        "editorialInterpretation": "Strong abstract-techno lead; early and tail placements remain untested."
-      }
+      "fitHypothesis": "Pitchfork identifies Luz Azul's resonant textures and syncopated beats inside a percussion-first body/head-music practice. That supports belonging while both concrete placements remain unknown.",
+      "evidence": {"measured":["original Part I release month March 2020; exact duration and BPM remain for resolver"],"attributedDescription":"Pitchfork describes Luz Azul through resonant textures and syncopated beats, within an album where percussion supplies most of the musical material.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"A percussion-first adjacent world may create a deliberate threshold or may detach from the current opening or middle run.","editorialInterpretation":"Strong percussion-led lead; overture and middle placements remain untested."}
     },
     {
-      "artist": "Aphix",
-      "track": "50 / Thrifty",
-      "album": "Chemtrails",
-      "releaseDate": "2016-05-27",
+      "artist": "Clark",
+      "track": "Banjo",
+      "album": "Clark",
+      "releaseDate": "2014-11-03",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/19147",
+      "discoverySource": "https://en.wikipedia.org/wiki/Clark_(album)",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a broken-rhythm and dub-techno overture whose entry into Marauder and long-form proportion remain unknown."
-        },
-        {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test a broken-beat/dub redirection inside the middle without assuming pulse continuity or mixability."
-        }
+        {"position":"Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave","precedingUri":"spotify:track:6zBPgkGHHiZfxg5eSjSCRd","followingUri":"spotify:track:2Z0j3jb573fveL4Pf3NkP1","incomingBpm":136,"candidateBpm":null,"outgoingBpm":134,"purpose":"Test electro-rooted chaotic beat manipulation as an early purposeful character change."},
+        {"position":"Between Inspired Groove — Truth in Noise and Linear System — Transparency","precedingUri":"spotify:track:12xuyGHICBNwJnQYqBlKcY","followingUri":"spotify:track:6vBGCwTYRiKYCDD52zXZtf","incomingBpm":138,"candidateBpm":null,"outgoingBpm":143,"purpose":"Test a conspicuous pre-trio beat-language turn while preserving the protected internal block."}
       ],
-      "fitHypothesis": "Resident Advisor describes sparse broken rhythms with dub-techno stabs and bit-crushed drums; the official page describes broken beat and dub taking precedence. That supports the lens while leaving both placements unknown.",
-      "evidence": {
-        "measured": [
-          "official release date May 27, 2016; official duration 5:44; BPM remains for resolver"
-        ],
-        "attributedDescription": "Resident Advisor describes sparse broken rhythms, dub-techno stabs and bit-crushed drums; the official label page says broken beat and dub take precedence.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "A broken-beat/dub world can create a purposeful threshold or an accidental detour depending on boundary behavior.",
-        "editorialInterpretation": "Strong overlooked hybrid lead; overture and middle placements remain untested."
-      }
+      "fitHypothesis": "The cited album account describes Banjo as blending Detroit electro with chaotic beat manipulation. That is relevant rhythmic evidence, but neither handoff nor net journey gain is known.",
+      "evidence": {"measured":["release date November 3, 2014; exact duration and BPM remain for resolver"],"attributedDescription":"The cited album account describes Banjo as blending Detroit electro with chaotic beat manipulation.","listenerEvidence":"No candidate-specific listener report.","lawfulAudioEvidence":null,"craftConvention":"A conspicuous electro/IDM turn may be deliberate or merely decorative depending on boundary behavior and the surrounding run.","editorialInterpretation":"Strong overlooked beat-manipulation lead; early and pre-trio placements remain untested."}
     }
   ]
 }
