@@ -6,13 +6,16 @@ Durable rejections are scoped to this volume and their documented journey/functi
 
 ## Active placement-specific rejections
 
-These remain active because they are grounded in direct listener evidence about the actual prior sequence.
+These remain active only for the documented placement/sequence. They do not claim global incompatibility.
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Jump Source | A Dull Knife (feat. Harmony Index) | Run 86 rejects only the two tested placements: `Cave → candidate → Too Much Time` and `Truth in Noise → candidate → Transparency`. The exact track is genuinely interesting and the cited review documents a dub-techno-to-syncopated-bass transformation, but Beatport and Traxsource report 120 BPM. BPM is not energy or flow, yet the measured `134 → 120 → 140` and `138 → 120 → 143*` paths are conspicuous tempo resets for which the available evidence supplies no current transition-scale, surrounding-run or long-form reason. This is not a global rejection and does not bar a materially different future structural hypothesis. | 2026-09-08 |
 | Aaron Schwarz | Some Letters | Removed from Track 2/current opening after direct listener feedback that the four-track sequence changed energy with each track and failed to create a coherent flow. This is a rejection of that placement/sequence, not a global incompatibility claim. | 2026-09-06 |
 | IGLO | Alive | Removed from Track 3/current opening after direct listener feedback that the four-track sequence felt like disconnected favourite tracks rather than a curated journey. This is a current-journey rejection only. | 2026-09-06 |
 | Stanislav Tolkachev | Drift C | Removed from Track 4/current opening after direct listener feedback that the four-track sequence changed energy track by track. Its old Lock role is obsolete; no global sonic-incompatibility claim. | 2026-09-06 |
+
+`*` Transparency working tempo remains disputed: 143 BPM from independent sources versus 107 BPM from Beatport. The Run 86 placement rejection does not depend on choosing one as a perceived-pulse truth.
 
 ## Superseded prior rejections — reopened for evaluation
 

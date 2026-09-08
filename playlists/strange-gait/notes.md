@@ -1,6 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 14 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 15 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 86 — EXPLORE — stagnation-aware placement search
+
+Run 85 left STRANGE GAIT at 14 canonical tracks after 31 consecutive no-ADD runs since Run 54, while the doctrine-free Discovery Pool had continued to grow to 146 exact tracks. That asymmetry is now an explicit workflow-health signal. This run did not lower the ADD bar; it changed candidate selection and evaluation away from rewarding conspicuous rhythmic novelty and away from treating missing direct handoff audio as an automatic veto.
+
+Three ranked leads produced a matching schemaVersion 2 PARTIAL resolver snapshot. Jump Source — A Dull Knife (feat. Harmony Index) resolved exactly as `spotify:track:04Tpb8EtnKpuUFsSOro7Y2`; Peverelist — Pulse I resolved exactly as `spotify:track:2PiW1SaL42KqLTpNSit9zY`; Tristan Arp, Kellen303 — Suspension of Disbelief remained unresolved with exact error `no exact Spotify title/artist search match in market SE`. Pulse I preserves the resolver warning that requested album `Pulse E.P.` / month `2023-04` became Spotify `Pulse EP` / `2023-04-07`.
+
+**Decision:** ADD Peverelist — Pulse I between Tehutis Law and Fragments. Exact review evidence describes crooked broken-techno percussion and gradual skeletal accumulation. Beatport reports 136 BPM; Newtone reports 133 BPM, so the conflict is preserved and 136 is the working ledger value. The measured local path `139 → 136 → 140` supports the placement but does not prove flow. Editorially, Tehutis Law's provisional re-grounding → Pulse I's provisional crooked accumulation → Fragments' provisional re-escalation creates a deliberate three-scale function without touching the protected trio.
+
+A Dull Knife is a **placement-specific REJECT** for the two Run 86 hypotheses only. Resident Advisor's exact-track account establishes a dub-techno-to-syncopated-bass transformation and the exact Spotify identity is worthwhile, but Beatport and Traxsource report 120 BPM. That does not make the track low-energy or globally incompatible; it does make `Cave 134 → candidate 120 → Too Much Time 140` and `Truth in Noise 138 → candidate 120 → Transparency 143*` conspicuous tempo resets for which the available evidence supplies no current local-run or long-form reason. The exact track remains retained as discovery value and enters the global utility playlist.
+
+Suspension of Disbelief receives no musical verdict because exact Spotify resolution did not complete.
+
+The Run 86 ADD ends the 31-run drought. Future RUN ANALYSIS must report the consecutive no-ADD count, last ADD/run, recent ADD rate and repeated failure modes so stagnation cannot hide behind individually plausible PARKED outcomes.
 
 ## Run 56 — EXPLORE — current community release and controlled irregularity
 
@@ -41,7 +55,7 @@ Four immutable REPAIR batches reverified eleven exact Spotify identities and tes
 - `2026-09-07T12:15:11Z-repair-whole-journey-52a` — Thick to Handle, DT229, Waltz.
 - `2026-09-07T12:17:00Z-repair-whole-journey-52b` — Shark Attak, Dynamic, Untitled.
 - `2026-09-07T12:20:00Z-repair-whole-journey-52c` — Big Fill, Descant, Black Torque.
-- `2026-09-07T12:22:00Z-repair-whole-journey-52d` — Aurifex Rex, Nostalgia.
+- `2026-09-07T12:22:00Z-repair-whole-journey-52d` — Aurifex Rex; Nostalgia.
 
 All four terminal snapshots are COMPLETE with no resolver warnings, unresolved identities or duplicates.
 
