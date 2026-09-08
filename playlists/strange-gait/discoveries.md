@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 64 — EXPLORE — current swing, protean percussion, electro adjacency and staggered catalogue — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 63 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 88 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Short Span/Picture, vysyon/Night Garden, Kalahari Oyster Cult/Reptant and Jelly Bean Farm/Krotone lanes rather than retrying Run 63's unresolved identities or recycling Runs 53–62.
+
+### Exploration receipt
+
+- **runId:** `2026-09-07T23:52:56Z-explore-64`
+- **sourceCommit:** `57c6b6ce0f48af747a99b239077807ea9601173e`
+- **request commit:** `377c654a9c5dc8c340fca2619db097461756c351`
+- **snapshot commit:** `0e5063b65eb02197a4dd89bba1ff63e892784faf`
+- **request fingerprint:** `23dc2647270bfa81f18137e24b594889d6c3abba64e7908634fb48ca8e2c0820`
+- **scope:** approximately 27 named tracks across current techno, emerging atmospheric techno, current electro adjacency and an overlooked 2018 UK bass/techno catalogue window. Metadata and attributed exact-track descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 4 requested → 2 exact selected identities + 2 unresolved; no warnings, duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **Picture — Peeeeeee** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+2. **Krotone — System Check** — RESOLVED and selected: `spotify:track:0QyUKwEpjkUxo5yq5Xhr09`; Spotify album `Bubbles`, release date `2018-12-07`, duration 7:27, BPM unavailable.
+3. **Night Garden — Hollow** — RESOLVED and selected: `spotify:track:7wchWwS4CFwRPR8zCldN2s`; Spotify album `Gost`, release date `2026-04-20`, duration 4:49, BPM unavailable.
+4. **Reptant — Ballet Robotique** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Krotone — System Check — PARKED
+
+- **Volume fit:** PASS as a selection-lens hypothesis. Resident Advisor's exact-track description places kicks at the rhythm's periphery to create a stagger, within an EP framed around techno, dubstep, drum & bass and garage rhythms roaming freely.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → System Check → Capa` nor `Stardancer → System Check` has sourced entry, exit, phrase, perceived-pulse or mix evidence. The review's approximately 130 BPM description applies to the release window, not a verified exact candidate tempo.
+- **Surrounding three-to-five-track run:** NOT PROVEN. In the middle, the stagger could create a purposeful redirection before Capa or over-articulate a passage already developed by Capa and Thick to Handle. At the tail, it could act as an unmistakable afterword, but no evidence establishes how that changes the complete closing run.
+- **Long-form journey:** NOT PROVEN. An overlooked UK bass/techno turn has genuine inspiration value, but current evidence does not show that either insertion improves the existing 14-track journey.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+#### Night Garden — Hollow — PARKED
+
+- **Volume fit:** PASS as a selection-lens hypothesis. Vysyon's exact-track note describes shifting texture and a protean form centred by syncopated percussion.
+- **Immediate transition:** UNKNOWN. Neither a new opening before Marauder nor `Cave → Hollow → Too Much Time` has sourced entry, exit, phrase, pulse or mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its shorter duration and changing form could create a distinct early threshold, but those facts do not establish whether it strengthens or diffuses either proposed local run.
+- **Long-form journey:** NOT PROVEN. The emerging atmospheric-techno vocabulary belongs within the volume's selection lens, yet no evidence shows that the journey needs another early stage.
+- **Verdict:** PARKED, not rejected. Exact identity retained locally and globally as genuinely interesting.
+
+The unresolved Peeeeeee and Ballet Robotique leads receive no musical verdict. Their exact-track source evidence remains useful research material, but neither is a canonical candidate or global utility input without an exact Spotify identity.
+
+### Auditor approval
+
+**APPROVED.** The request used the current SHA immediately before its immutable write; the matching resolver artifact is internally valid; only the two selected exact identities were evaluated; both evaluations separately cover selection fit, immediate transitions, local-run effect and long-form effect; no metadata-only sonic inference was made; the protected trio remains untouched; both exact resolver errors are preserved; and only the two explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: two exact PARKED tracks plus two unresolved research leads added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **88 → 90 exact tracks**, adding System Check and Hollow.
+- Audio analysis: **NOT TESTED**.
+- Live mixing: **NOT TESTED**.
+
+### Run analysis
+
+`~27 inspected → 4 ranked leads → 2 exact resolutions + 2 unresolved → 2 evaluations → 0 ADD + 2 PARKED`.
+
+The strongest counterargument is that System Check's documented stagger or Hollow's protean syncopation may supply exactly the purposeful turn the journey permits. The evidence contract may conservatively park a compelling insertion because the lawful sources do not establish perceived pulse, entry and exit behaviour, phrase relation, surrounding-run attention effect or net long-form gain.
+
+This run proves two exact discoveries are worth retaining and that exploration covered the opening, early middle, established rhythmic-redirection passage, unprotected tail and a different production world. It does not prove either PARKED placement fails, that either unresolved lead lacks another lawful Spotify identity, or that STRANGE GAIT is complete.
+
+---
+
 ## Run 63 — EXPLORE — odd-meter adjacent club, percussion-first catalogue and emerging broken techno — 2026-09-07
 
 **Pre-audit:** EXPLORE. Run 62 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 88 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was currently TRIGGERED; and no actionable objective defect or unfinished repair was present. The scan moved into Hypersonus, Isla/Crespi Drum Syndicate, Krachtvoer/Maylen and Ant-Zen/Synapscape lanes rather than recycling Runs 53–62.

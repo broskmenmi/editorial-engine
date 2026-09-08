@@ -141,6 +141,11 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 - Crespi Drum Syndicate — `Broken Bread` — unresolved percussion-first catalogue lead; rhythm/atonality evidence is album-level
 - Maylen — `Impulse` — unresolved emerging broken-techno lead; straight-to-broken rhythmic movement is documented for the EP, not this track
 
+- Picture — `Peeeeeee` — unresolved current techno lead; reviewer-described swinging bassline and closing filter/textural escalation
+- Krotone — `System Check` — exact PARKED catalogue discovery; reviewer-described peripheral kicks creating a stagger
+- Night Garden — `Hollow` — exact PARKED emerging-label discovery; official shifting texture and protean form centred by syncopated percussion
+- Reptant — `Ballet Robotique` — unresolved current electro lead; reviewer-described syncopated percussion and deliberate 808 construction
+
 **Why interesting:** The sources point to materially different musical vocabularies that still care about movement, internal logic or dancefloor orientation. Editorially, this is a useful model for long-form DJ taste because the current repository doctrine explicitly allows the music to change character when the flow remains deliberate.
 
 **Unknown / risk:** No transition order, energy relationship, harmonic compatibility, phrase fit or mixability between these ingredients has been established. This is a non-canonical research direction, not evidence for a specific ledger sequence.
@@ -175,6 +180,9 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 - Crespi Drum Syndicate — `Broken Bread` — unresolved rhythm/percussion catalogue lead with release-level atonal and low-melody framing
 - Maylen — `Impulse` — unresolved emerging lead from a release framed around movement between straight and broken beats
+
+- Krotone — `System Check` — exact PARKED staggered-rhythm catalogue discovery; no proven Stardancer exit or internal handoff
+- Reptant — `Ballet Robotique` — unresolved electro-afterword research lead; exact Spotify identity and transition remain unproven
 
 **Why interesting:** The sources provide several concrete ways to change rhythmic character—broken rhythm, polyrhythmic percussion, syncopation, rolling motion, organic percussion and halftime breaks—without requiring one fixed sonic room. Editorially, a clearly marked afterword may preserve intent better than forcing such material to behave like another continuation.
 

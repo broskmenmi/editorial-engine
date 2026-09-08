@@ -92,6 +92,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 86 | Caldera | Akman's Rhythm | spotify:track:3qL4gPBbMfvuCWqPBi7SOv | STRANGE GAIT Run 61 | PARKED / interesting | 2026-09-07 |
 | 87 | Tom VR | Fast Track To Bliss | spotify:track:6aS65FTbnD0UqdQlxhZ1x3 | STRANGE GAIT Run 62 | PARKED / interesting | 2026-09-07 |
 | 88 | Decka | Obscure Arcade Game | spotify:track:7uXlAdClTGvyRD0jqN5d8v | STRANGE GAIT Run 62 | PARKED / interesting | 2026-09-07 |
+| 89 | Krotone | System Check | spotify:track:0QyUKwEpjkUxo5yq5Xhr09 | STRANGE GAIT Run 64 | PARKED / interesting | 2026-09-08 |
+| 90 | Night Garden | Hollow | spotify:track:7wchWwS4CFwRPR8zCldN2s | STRANGE GAIT Run 64 | PARKED / interesting | 2026-09-08 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
