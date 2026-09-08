@@ -2,6 +2,73 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 87 — EXPLORE — repaired-funnel before/after test — 2026-09-08
+
+**Pre-audit:** EXPLORE after completing the user-approved workflow REPAIR. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the two listener-protected handoffs stayed intact. The actionable defect was procedural: Scout had over-filtered before resolution, while missing direct transition evidence had functioned as an implicit Evaluator veto. The repaired contracts now admit credible contenders, preserve UNKNOWN as uncertainty, require actual editorial judgment, and audit funnel health without imposing an ADD quota.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T22:51:22Z-explore-87`
+- **sourceCommit:** `9355a480c923192f572c956eae5336705d6dc3e9`
+- **request commit:** `bbdcb7a14b76955e8185781812d764d20034667d`
+- **snapshot commit:** `f9c9e8cdcdd96e6e3668f2e7eaa4ba952fd234f5`
+- **request fingerprint:** `e146d53bbd699175b49cfe1e3b4545f172b35561b0ed159e10d3e61062b01358`
+- **scope:** approximately 44 named tracks and releases across current September 2026, adjacent/emerging club music and overlooked broken-techno catalogue windows; metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 9 requested → 5 exact resolutions (3 selected candidates + 2 resolved alternates) + 4 unresolved; 5 warnings; no duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved
+
+1. **Wheelman — Trompe L'oeil** — RESOLVED and selected: `spotify:track:4xJgdoF9E3vyBKsYvEXTba`; Spotify `Trompe L'oeil/Drifting`, `2023-04-25`, 5:43. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "Trompe L'oeil" but Spotify returned "Trompe L'oeil/Drifting"; release date requested "2023-04" but Spotify returned "2023-04-25"`. Music Worx reports 130 BPM for the matching title/artist/release/date.
+2. **Polygonia — Secret Desire** — RESOLVED and selected: `spotify:track:4H6aAVHLXSDB18QJEZYbXo`; Spotify `Dream Horizons`, `2025-06-13`, 5:48. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2025-06" but Spotify returned "2025-06-13"`. Beatport reports 150 BPM.
+3. **C-System — Poison** — RESOLVED and selected: `spotify:track:2hoZk7Gg9Gv2YkC3fW8nf7`; Spotify `World of Vanity Ep`, `2009-02-11`, 5:35. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "The Resistance of the Chosen Ones EP" but Spotify returned "World of Vanity Ep"; release date requested "2026-09-04" but Spotify returned "2009-02-11"`.
+4. **RLGN — Olonkho** — RESOLVED alternate, not selected or evaluated: `spotify:track:2AS7LdcsAa1n1EU8339ihK`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "Romantichrist" but Spotify returned "Romantichrist EP"; release date requested "2022-12" but Spotify returned "2022-12-09"`.
+5. **bonebrokk — The Astral Catalyst** — RESOLVED alternate, not selected or evaluated: `spotify:track:43mshTwTPFcgDAr6rU2aMw`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2021-07" but Spotify returned "2021-07-30"`.
+6. **Stenny — Stress Test** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+7. **Will Hofbauer, Sangre Voss — I Feel U** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+8. **Unconscious — Tutto è una copia** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **Konrad Wehrmeister — Overdose** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Wheelman — Trompe L'oeil — ADD
+
+- **Volume fit:** PASS. Exact review evidence describes hard-edged swing, staggered broken techno, dubwise delay and UK-club construction.
+- **Immediate transition:** PASS provisionally at `Capa → Trompe L'oeil → Thick to Handle`. The verified `137 → 130 → 138` path makes the reset conspicuous. The purpose is to stretch Capa's redirection into a slower staggered pocket before Thick to Handle restores faster broken-beat motion; numeric smoothness is not claimed.
+- **Local run:** PASS provisionally for `Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law`: intensification gives way to redirection, staggered swing, bodily deformation and re-grounding. The sequence reads as an intentional multi-stage turn rather than a random style sample from the available evidence.
+- **Long form:** PASS provisionally. The central run gains a slower-pulse detour without touching the protected trio or making one production world mandatory.
+- **Risk:** phrase structure, perceived pulse, energy, density, mixability and both handoffs are UNKNOWN. Under the repaired contract, the absence of contrary evidence does not outweigh the concrete placement rationale.
+
+#### Polygonia — Secret Desire — REVISIT / PARKED
+
+- **Volume fit:** PASS. Exact review evidence describes skeletal, droney broken techno with off-kilter pacing in a wonky time signature.
+- **Immediate transition:** Both proposed boundaries remain plausible but high-impact; Beatport's 150 BPM is measured context, not an energy claim.
+- **Local run:** The first test would stack a second major redirection immediately before the newly lengthened `Capa → Trompe L'oeil → Thick to Handle` passage. The second would complicate the approach from Truth in Noise into the listener-confirmed trio without a stronger current function.
+- **Long form:** No net gain over the approved Wheelman placement is supported in this run.
+- **Verdict:** PARKED for a changed structural need or materially new connective evidence. The verdict is not based merely on unheard handoffs.
+
+#### C-System — Poison — REVISIT / PARKED
+
+- **Volume fit:** PLAUSIBLE. The current Earwiggle description of crushing broken beats and chiming bells fits the lens at composition/remaster level.
+- **Immediate transition / local run / long form:** NOT RELIABLY EVALUABLE for the selected Spotify identity because Spotify resolved a 2009 `World of Vanity Ep` version while the source describes a 2026 remaster. It would be improper to transfer the remaster-specific description silently.
+- **Verdict:** PARKED until the exact-version linkage or equivalent exact-version evidence is established. This is a specific evidence-integrity blocker, not a musical zero result.
+
+The four unresolved leads receive no musical verdict. The two resolved alternates were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED.** The repaired Scout, Evaluator and Auditor contracts are coherent; the immutable schemaVersion 2 request is pinned to the live pre-request SHA; the matching PARTIAL snapshot has the correct runId, sourceCommit and fingerprint; 9 requested identities reconcile to 5 exact resolutions and 4 unresolved outcomes; all five warnings and all four exact resolver errors are preserved. Only the three selected identities entered canonical evaluation. Each received separate volume, transition, local-run and long-form conclusions. UNKNOWN was not treated as contrary evidence. The Wheelman ADD has a concrete editorial purpose despite a conspicuous tempo reset; Secret Desire has a specific cumulative-structure reason to PARK; Poison has a specific version-evidence blocker. Protected and frozen state remains intact. Auditor approves one canonical ADD, two PARKED revisits, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **15 → 16 canonical tracks**; add Wheelman — Trompe L'oeil between Capa and Thick to Handle.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; four unresolved leads retained for research; resolved alternates remain unevaluated and are not retained as editorial decisions.
+- EDITORIAL ENGINE — DISCOVERY POOL: **148 → 151 exact tracks**, adding Trompe L'oeil, Secret Desire and Poison.
+- Journey annotations: add Trompe L'oeil as provisional Track 7 / dubwise staggered-swing reset and renumber downstream positional labels.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 44 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unevaluated alternates → **1 ADD + 2 PARKED** → 3 utility additions. Lead conversion improved from Run 86's 3/34 (8.8%) to 9/44 (20.5%); exact-resolution conversion was 5/9 (55.6%); selected-candidate-to-ADD conversion was 1/3 (33.3%). The consecutive no-ADD count is 0; recent canonical ADD rate is 2/10 across Runs 78–87 and 2/33 across Runs 55–87. The strongest counterargument is that the 130 BPM Wheelman insertion could make the central run feel overextended or require a tempo reset that its paper evidence cannot carry. That remains the principal risk. The run proves the repaired funnel admitted and seriously evaluated more credible contenders without turning UNKNOWN into an automatic veto. It does not prove the Wheelman handoffs, phrase fit, perceived pulse or live-mixing compatibility, does not disqualify Secret Desire globally, does not establish that Poison's 2009 Spotify master is the 2026 remaster, and does not create an ADD quota.
+
 ## Run 86 — EXPLORE — stagnation-aware placement search — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 85 left STRANGE GAIT at 14 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 146 exact tracks with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, automatic publishing remained enabled, and the two listener-protected handoffs stayed intact. No actionable objective musical defect was present. The 31 consecutive no-ADD runs since Run 54 were treated as a workflow-health signal: discovery remained productive while canonical admission had stalled. This run therefore prioritized tracks with an evidence-backed function inside an existing passage rather than merely conspicuous rhythmic credentials. The ADD bar was not lowered.

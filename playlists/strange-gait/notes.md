@@ -1,6 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 15 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 16 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 87 — EXPLORE — repaired-funnel before/after test
+
+The approved workflow REPAIR is now complete across Scout, Evaluator, Auditor and this orchestrator. Scout admits credible contenders without requiring final placement proof; missing audio or handoff evidence remains UNKNOWN rather than negative evidence; Evaluator must exercise best-evidence editorial judgment; Auditor and RUN ANALYSIS now expose lead conversion, exact-resolution conversion, candidate-to-ADD conversion, recent ADD rate and PARKED accumulation.
+
+Nine ranked leads from approximately 44 inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved leads, three selected candidates and two unevaluated resolved alternates. All five packaging/date warnings and all four exact resolver errors are preserved in `discoveries.md`.
+
+**Decision:** ADD Wheelman — Trompe L'oeil (`spotify:track:4xJgdoF9E3vyBKsYvEXTba`, 130 BPM from Music Worx) between Capa and Thick to Handle. Resident Advisor's exact-track description establishes hard-edged swing, staggered broken techno and dubwise delay. The numerical path `137 → 130 → 138` is a conspicuous reset, not proof of flow. Editorially, the placement deliberately stretches Capa's rhythmic redirection into a slower staggered pocket before Thick to Handle restores faster broken-beat deformation and Tehutis Law re-grounds the run. Exact phrasing, perceived pulse and handoffs remain unknown; those uncertainties are risks, not automatic vetoes.
+
+Polygonia — Secret Desire (`spotify:track:4H6aAVHLXSDB18QJEZYbXo`, 150 BPM from Beatport) is PARKED. Its wonky-time broken-techno evidence strongly passes the selection lens, but adding it before Capa would stack another major redirection immediately before the newly lengthened Capa–Trompe L'oeil–Thick to Handle run, while the pre-trio test would complicate the approach to the listener-confirmed block without a stronger current purpose. This is a concrete local-run/long-form judgment, not a demand for smoothness.
+
+C-System — Poison (`spotify:track:2hoZk7Gg9Gv2YkC3fW8nf7`) is PARKED because the current source describes a 2026 remaster while Spotify resolved the exact title/artist to `World of Vanity Ep` dated 2009-02-11. The track remains interesting, but the remaster description cannot be silently transferred to that exact Spotify master. Reopen only if version linkage or equivalent exact-version evidence is established.
+
+This run resets the consecutive no-ADD counter to 0. Across Runs 78–87 the canonical ADD rate is 2/10; across Runs 55–87 it is 2/33. The repaired lead conversion is 9/44 (20.5%), compared with Run 86's 3/34 (8.8%). This is evidence that the admission bottleneck was reduced, not proof that future runs should hit an ADD quota.
 
 ## Run 86 — EXPLORE — stagnation-aware placement search
 

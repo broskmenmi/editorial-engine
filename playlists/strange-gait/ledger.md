@@ -10,19 +10,22 @@
 | 4 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
 | 5 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
 | 6 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
-| 7 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
-| 8 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
-| 9 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
-| 10 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
-| 11 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 12 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 13 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 14 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 15 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 7 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | 130 | ADD | Tilt — provisional dubwise staggered-swing reset | 2026-09-08 |
+| 8 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
+| 9 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
+| 10 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
+| 11 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
+| 12 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
+| 13 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 14 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 15 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 16 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 15 canonical tracks.**
+**ACTIVE EXPANSION — 16 canonical tracks.**
+
+EXPLORE run `2026-09-08T22:51:22Z-explore-87` adds Wheelman — Trompe L'oeil between Nørbak — Capa and brenner — Thick to Handle. Resident Advisor describes the exact track as hard-edged, genuinely staggered broken techno with swing and dubwise delay; Music Worx identifies the matching release at 130 BPM. The measured local path becomes 137 → 130 → 138, so this is an intentional and conspicuous tempo reset rather than a numerically smooth bridge. Editorially, Capa redirects the rhythm, Trompe L'oeil stretches that redirection into a slower staggered pocket, and Thick to Handle restores the faster broken-beat bodily deformation before Tehutis Law re-grounds the run. Exact phrasing and handoffs remain unknown; under the repaired Evaluator contract, that uncertainty is a documented risk rather than an automatic veto.
 
 EXPLORE run `2026-09-08T21:40:16Z-explore-86` adds Peverelist — Pulse I between Jayson Wynters — Tehutis Law and CHANCEKNOT — Fragments. Resident Advisor's exact-track account describes crooked broken-techno percussion and a gradual introduction of skeletal elements; the official release identifies a 6:50 track. Beatport reports 136 BPM while Newtone reports 133 BPM, so 136 is the working ledger value and the conflict is preserved. The local numerical path becomes 139 → 136 → 140, supporting context only. Editorially, Pulse I is a provisional accumulation hinge between funk re-grounding and driving re-escalation. Audio, phrasing and live transition feel remain untested.
 
@@ -50,7 +53,7 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 140 → 140 → 137 → 138 → 139 → 136* → 140 → 138 → 138 → 143† → 140 → 137 BPM`
+`136 → 136 → 134 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → 138 → 143† → 140 → 137 BPM`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

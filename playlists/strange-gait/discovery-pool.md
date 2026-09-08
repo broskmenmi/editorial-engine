@@ -4,6 +4,25 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 87 harvest — 2026-09-08
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Wheelman | Trompe L'oeil | https://open.spotify.com/track/4xJgdoF9E3vyBKsYvEXTba | Canonical ADD Run 87 between Capa and Thick to Handle; exact review describes staggered broken techno, hard-edged swing and dubwise delay. Matching retailer metadata reports 130 BPM. |
+| EXACT TRACK | Polygonia | Secret Desire | https://open.spotify.com/track/4H6aAVHLXSDB18QJEZYbXo | PARKED Run 87. Exact review describes skeletal broken techno in a wonky time signature; Beatport reports 150 BPM. Current central and pre-trio placements fail on cumulative journey purpose, not merely unheard handoffs. |
+| EXACT TRACK | C-System | Poison | https://open.spotify.com/track/2hoZk7Gg9Gv2YkC3fW8nf7 | PARKED Run 87. Spotify resolves a 2009 World of Vanity Ep identity while the current source describes a 2026 remaster; retained as interesting with version linkage unresolved. |
+| RESEARCH LEAD | Stenny | Stress Test | https://ra.co/reviews/23909 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. Source-described syncopated techno / 2-step bridge remains useful research. |
+| RESEARCH LEAD | Will Hofbauer, Sangre Voss | I Feel U | https://ra.co/reviews/36044 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. Criss-cross percussion and dembow-like construction remain useful research. |
+| RESEARCH LEAD | Unconscious | Tutto è una copia | https://x-img.bandcamp.com/album/cold-hearts | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. Current broken-beat release lead retained. |
+| RESEARCH LEAD | Konrad Wehrmeister | Overdose | https://ra.co/reviews/23200 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. Broken percussion around the grid remains useful research. |
+
+### Placement and inspiration boundaries
+
+- Trompe L'oeil's canonical placement is provisional; exact phrase fit, perceived pulse and live handoffs were not tested.
+- Secret Desire is not globally rejected. Poison's blocker is exact-version evidence, not a musical verdict against the composition.
+- Unresolved leads are not exact Spotify identities and do not enter the global utility ledger.
+- The two resolved alternates were not selected or evaluated and are not retained here as editorial decisions.
+
 ## Run 86 harvest — 2026-09-08
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

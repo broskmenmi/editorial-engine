@@ -4,6 +4,23 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 87
+
+### Deliberate slower-pulse pocket inside rhythmic redirection
+
+**Direction:** Explore whether a central altered-gait run can become more intentional by briefly stretching into a slower, staggered swing before returning to faster broken motion.
+
+**Ingredients:**
+
+- Nørbak — Capa — canonical provisional rhythmic redirection
+- Wheelman — Trompe L'oeil — exact Run 87 canonical ADD; exact review describes hard-edged staggered broken techno and dubwise delay; verified 130 BPM
+- brenner — Thick to Handle — canonical provisional broken-beat bodily deformation
+- Polygonia — Secret Desire — exact PARKED contrast whose 150 BPM wonky-time construction is useful as a counterexample, not a proven neighbour
+
+**Why interesting:** A conspicuous tempo and production-world change can serve continuity when it develops an existing redirection rather than merely interrupting it.
+
+**Unknown / risk:** No pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge has been established. The canonical Wheelman placement is provisional; Secret Desire is not asserted to mix with any listed ingredient.
+
 ## Current additions — Run 86
 
 ### Crooked accumulation between grounding and drive
