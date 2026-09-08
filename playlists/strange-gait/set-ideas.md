@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Leo — `Spirit Level` — exact PARKED current discovery; official constantly shifting self-bending rhythm and review-described polyrhythmic transformation, with both canonical placements untested
+- Akiid — `Skeffu` — exact PARKED emerging different-world discovery; official amapiano/jazz/gqom/minimal-techno hybrid description, with early and tail placements untested
+- The Field — `Who Goes There` — exact PARKED catalogue discovery; official arrhythmic stealth-acid/off-kilter-motorik description, with opening and pre-trio placements untested
+- How Du — `C Gate` — exact resolved alternate, unevaluated; current half-time dub-techno-adjacent research lead
+- Rhyw — `Emulsion Steps` — exact resolved alternate, unevaluated; bass-heavy broken-techno catalogue research lead
+
 - Liz Somes — `Say No To The Status Quo` — exact PARKED current discovery; official syncopated-rhythm and build-to-collapse description, with canonical handoffs untested
 - Blood Trust — `Sanctuary` — exact PARKED industrial-breaks discovery; official syncopated-break and subtle-choppage description, with opening and tail placements untested
 - Evod — `Acromo 3` — unresolved catalogue lead; official rising-sequence and syncopated-loop evidence
@@ -172,6 +178,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Leo — `Spirit Level` — exact PARKED current discovery; no proven Stardancer exit or pre-trio handoff
+- Akiid — `Skeffu` — exact PARKED emerging hybrid discovery; no proven afterword entry
+- The Field — `Who Goes There` — exact PARKED arrhythmic catalogue discovery; no proven opening or late-run handoff
+- How Du — `C Gate` — exact resolved alternate, unevaluated half-time research lead
+- Rhyw — `Emulsion Steps` — exact resolved alternate, unevaluated broken-techno research lead
 
 - Liz Somes — `Say No To The Status Quo` — exact PARKED structural-arc discovery; 142 BPM does not prove entry into the protected closing block
 - Blood Trust — `Sanctuary` — exact PARKED industrial-breaks discovery; no proven opening or Stardancer afterword handoff

@@ -2,6 +2,68 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 68 — EXPLORE — shifting rhythm, hybrid club forms and arrhythmic catalogue — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 67 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 98 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Peak Oil, Hakuna Kulala, Pressure Dome, Kompakt and Fever AM lanes rather than recycling Runs 53–67.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T03:50:05Z-explore-68`
+- **sourceCommit:** `7e2459e838fffa5aad9e7b3f23b64ef93d51c327`
+- **request commit:** `4d2f99bb62a1c796b2b6090233973643bdb282a7`
+- **snapshot commit:** `711c0465d03b36400617b5241e9bd6711d439785`
+- **request fingerprint:** `9380b457c6609090a6d22b36c9c2c7213fd85803cb703d064f87376f17d9cc22`
+- **scope:** approximately 47 named tracks across current releases, adjacent/emerging labels and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 COMPLETE; 5 requested → 5 exact resolutions → 3 selected candidates + 2 resolved alternates; two warnings; no unresolved identities, duplicates or substitutions.
+
+### Resolver outcomes preserved exactly
+
+1. **Leo — Spirit Level** — RESOLVED and selected: `spotify:track:6pcaCxZca07lNjKzJPi3k6`; Spotify album `Cicada Burnt`, release date `2026-07-31`, duration 7:57, BPM unavailable.
+2. **Akiid — Skeffu** — RESOLVED and selected: `spotify:track:155rn2M3BAtnoDPqaPX074`; Spotify album `Skeffu`, release date `2026-06-26`, duration 5:57, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-06-26"`.
+3. **The Field — Who Goes There** — RESOLVED and selected: `spotify:track:0UrNaHFBllhpAra4jH81gX`; Spotify album `Infinite Moment`, release date `2018-09-21`, duration 8:52, BPM unavailable.
+4. **How Du — C Gate** — RESOLVED alternate, not selected or evaluated: `spotify:track:25Refeb0JfK4bHVW9YfyuS`; Spotify album `Metal Will Reign`, release date `2026-07-31`, duration 3:54, BPM unavailable. It receives no musical verdict and remains only a local exact research lead.
+5. **Rhyw — Emulsion Steps** — RESOLVED alternate, not selected or evaluated: `spotify:track:12qgoztlrCeZotOjOoNNE2`; Spotify album `Emulsion Steps`, release date `2018-06-30`, duration 4:17, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2018-01" but Spotify returned "2018-06-30"`. It receives no musical verdict and remains only a local exact research lead.
+
+### Canonical evaluations
+
+#### Leo — Spirit Level — PARKED
+
+- **Volume fit:** PASS. Peak Oil describes the exact track's whirring, constantly shifting rhythm bending in on itself; Bandcamp Daily independently describes slow-building tension moving into thudding kicks and watery polyrhythms. This is unusually direct structural-freedom evidence without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Spirit Level → Capa` nor `Truth in Noise → Spirit Level → Transparency` has sourced BPM/pulse, phrase, entry, exit or mix evidence. The documented internal transformation explains why a turn may be interesting, not whether either handoff lands.
+- **Surrounding three-to-five-track run:** NOT PROVEN. In the middle it could deepen the existing rhythmic redirection or over-articulate it; before the protected trio it could create a legible final turn or delay the block. Source descriptions cannot establish either attention effect.
+- **Long-form journey:** NOT PROVEN. Strong selection-lens fit does not show that another conspicuous structural stage improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### Akiid — Skeffu — PARKED
+
+- **Volume fit:** PASS. Hakuna Kulala describes the exact title track as a rubbery mesh of amapiano, jazz, gqom and minimal techno. This supports rhythmic openness and a meaningful change of production world without requiring genre purity.
+- **Immediate transition:** UNKNOWN. `Cave → Skeffu → Too Much Time` and `Stardancer → Skeffu` remain lawful hypotheses, but BPM/pulse, phrasing, entry and exit are unavailable. Hybrid identity cannot substitute for transition evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. An early turn could feel deliberately expansive or revive the listener's previously resolved opening-reset problem; a tail placement could be an afterword or an arbitrary append. No source establishes either run.
+- **Long-form journey:** NOT PROVEN. Different-world value alone does not prove that the current ending should be extended or the early journey interrupted.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify date warning remains attached.
+
+#### The Field — Who Goes There — PARKED
+
+- **Volume fit:** PASS. Kompakt calls the exact track arrhythmic, joining stealth acid bass to an off-kilter motorik. This directly supports the selection lens while leaving its physical and emotional effect unknown.
+- **Immediate transition:** UNKNOWN. Before Marauder or between Truth in Noise and Transparency, no BPM/pulse, phrase, entry, exit or mix evidence establishes the conspicuous reset. The 8:52 duration describes scale, not energy or incompatibility.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A long arrhythmic threshold could make the opening or protected-block approach more intentional, but it could also dominate either local run and recreate the sequence-by-concept problem. This is a risk assessment, not a heard conclusion.
+- **Long-form journey:** NOT PROVEN. The exact-track evidence establishes interest, not the need for a new threshold in the current journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching COMPLETE snapshot is internally valid. Only the three selected exact identities were evaluated; both resolved alternates receive no musical verdict; both release-date warnings are preserved; every selected candidate is judged at volume, transition, local-run and long-form scales; BPM is not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two exact resolved alternates added; two existing set directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **98 → 101 exact tracks**, adding Spirit Level, Skeffu and Who Goes There. C Gate and Emulsion Steps are excluded because they were not selected or evaluated.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 47 inspected → 5 ranked leads → 5 exact resolutions → 3 selected evaluations + 2 resolved alternates → 0 ADD + 3 PARKED → 3 global utility additions. Spirit Level is the strongest conclusion because two sources document an exact internal rhythmic transformation, but neither source establishes the proposed entries, exits, surrounding-run attention effect or net journey gain. The strongest counterargument is that this may be precisely the purposeful structural turn the middle or pre-trio journey can support. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging, adjacent and overlooked lanes. It does not prove their proposed placements fail, that either resolved alternate lacks canonical potential, or that STRANGE GAIT is complete.
+
 ## Run 67 — EXPLORE — current structural techno, industrial breaks and syncopated catalogue — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 66 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 96 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Bent Rhythm, Evod, Monday Off, Sa Pa and Blood Trust lanes rather than recycling Runs 53–66.
