@@ -1,194 +1,71 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "73b4f7a612aa1e22f9f1c4876d9dc17f60264985ee30f62f1985b4cd6bfc0d09",
-  "generatedAt": "2026-09-08T11:05:36.223Z",
-  "runId": "2026-09-08T10:53:41Z-explore-75",
-  "sourceCommit": "1de91eebe6d750213c4ae8899ed0867f2d77c548",
+  "requestFingerprint": "c9b19c81a272b9bb2b34e46e070da2ebe054009be5f6ce60609b4fcebf5ddf4c",
+  "generatedAt": "2026-09-08T12:02:18.777Z",
+  "runId": "2026-09-08T11:48:55Z-explore-76",
+  "sourceCommit": "75ca3406d4140857ad7c806fc7f1148d355fd599",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test one current structural mutation and three overlooked rhythmic constructions. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
+    "purpose": "Test one current adjacent structural turn and four overlooked rhythmic or structural constructions. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T10:53:41Z",
+    "timestampUtc": "2026-09-08T11:48:55Z",
     "sourceWindows": [
-      "CURRENT 2026 / NAFF: https://ra.co/reviews/36349 and https://jumpsource.bandcamp.com/album/fold — all eleven Fold tracks were screened. Jump Source — A Dull Knife ft. Harmony Index was retained from the exact review's dub-techno-to-syncopated-bass transformation.",
-      "CURRENT EMERGING / RHYTHM BÜRO: https://rhythmburo.bandcamp.com/album/rb013-va-all-things-broken — all twelve July 2026 tracks were screened. The compilation remains a useful Kyiv label watch, but release-level tags were not converted into exact-track behaviour.",
-      "CURRENT ADJACENT / THOMA: https://thoma.bandcamp.com/album/leaving-cycles — the June 2026 release was screened. Its percussion and synthesis framing remained release-level, so no track was promoted on context alone.",
-      "OVERLOOKED CATALOGUE / NO SUIT: https://ra.co/reviews/29831 — Cabasa — Intentional Drowning was retained from the exact single review's seven-minute polyrhythmic construction.",
-      "OVERLOOKED CATALOGUE / MODAL ANALYSIS: https://ra.co/reviews/10977 and https://modalanalysis.bandcamp.com/album/plate-ep — all three 2012 Plate EP versions were screened. Cassegrain — Plate#2 was retained from the exact review's sharply syncopated, uneven construction.",
-      "OVERLOOKED ADJACENT / NONPLACE: https://ra.co/reviews/21694 and https://drumsoffchaos.bandcamp.com/album/compass — all five Compass tracks were screened. Drums Off Chaos — Clockwise Instinct was retained from the exact review's groups-of-seven loop description.",
-      "ADDITIONAL WINDOWS: current Resident Advisor review pages around Fold, Bootstrap Paradox and Exhale, August 2026 Bandcamp electronic windows, and overlooked No Suit, Modal Analysis and Nonplace catalogue pages were screened. Spekki Webu, Batu & Donato Dozzy and all Run 53–74 retained lanes were excluded as already inspected."
+      "CURRENT ADJACENT / MEXICAN SUMMER: https://ra.co/reviews/36363 and https://fauzia.bandcamp.com/album/i-was-here-for-a-moment — all four July 2026 tracks were screened. FAUZIA — I can be anything was retained from exact-track accounts of a drum-led form redirected by guitar; the release's pop framing is not a rejection by itself.",
+      "CURRENT / RA AND BANDCAMP INDEXES: https://ra.co/reviews and https://daily.bandcamp.com/best-electronic — current July–September 2026 review and discovery windows were screened. RHR, Picture, Reptant, Batu & Donato Dozzy, Kelela and other Run 60–75 lanes were excluded as already inspected; newer label pages without exact-track behavior were not promoted.",
+      "OVERLOOKED CATALOGUE / HAUS OF ALTR: https://ra.co/reviews/33722 and https://acemomabk.bandcamp.com/ — all twelve A Future tracks were screened. AceMoMA — 1 Million Breaks was retained from the exact review's advancing and backwards-lurching percussion clusters.",
+      "OVERLOOKED ADJACENT / R&S: https://ra.co/reviews/22853 and https://djrum.bandcamp.com/album/portrait-with-firewood — all nine Portrait With Firewood tracks were screened. Djrum — Sex was retained from the exact review's broken-beat-techno form softening halfway into piano, cello and vocals.",
+      "OVERLOOKED CATALOGUE / ARA: https://ra.co/reviews/34936 and https://kangdingray.bandcamp.com/track/antiblau — all ten ULTRACHROMA tracks were screened. Kangding Ray — Antiblau was retained from the exact review's juddering drums and shuffly broken beat.",
+      "OVERLOOKED CATALOGUE / CHAIN REACTION–KEPLAR: https://ra.co/reviews/24869 and https://vladislavdelay.bandcamp.com/album/multila-2020-remaster — all seven Multila tracks were screened. Vladislav Delay — Huone (2020 Remaster) was retained from the exact review's crooked minimal-techno opening, polyrhythmic labyrinth and sparse midsection before kick re-entry.",
+      "ADDITIONAL WINDOWS: DJ Sotofett's Percussion Mixes Vol. 1, the Italian Flowers From The Ashes compilation, Djax-Re-Up, Ploy's It's Later Than You Think and FAUZIA/Kelela adjacent reviews were screened. Version ambiguity, collection-level evidence or weaker exact-track placement hypotheses kept them below the ranked list."
     ],
-    "approximateInspectedScope": "Approximately 40 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 44 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–74 were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–75 were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Release-level claims were not converted into exact-track behaviour.",
+      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Release-level claims were not converted into exact-track behavior.",
       "Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation, perceived pulse and mixability remain unknown. Descriptions of metre, syncopation and transformation are evidence, not flow verdicts."
     ],
     "rankedLeadSummary": [
-      "1. Jump Source — A Dull Knife ft. Harmony Index: strongest current transformation, moving from a dub-techno groove into a vocal-led syncopated bass construction.",
-      "2. Cabasa — Intentional Drowning: strongest overlooked polyrhythmic lead, documented as seven minutes balanced between danceable and undanceable.",
-      "3. Cassegrain — Plate#2: strongest overlooked syncopated-techno lead, riding an uneven, sharply syncopated rhythm.",
-      "4. Drums Off Chaos — Clockwise Instinct: strongest adjacent metre-specific construction, explicitly looping in groups of seven."
+      "1. Djrum — Sex: strongest complete internal transformation, moving from broken-beat techno into piano, cello and vocals halfway through.",
+      "2. Vladislav Delay — Huone (2020 Remaster): strongest long-form structural lead, documented as crooked minimal techno opening into a polyrhythmic labyrinth before a kick-guided final half.",
+      "3. AceMoMA — 1 Million Breaks: strongest overlooked percussion lead, with clusters that advance and lurch backwards.",
+      "4. Kangding Ray — Antiblau: strongest overlooked broken-techno lead, documented through juddering drums and a shuffly broken beat.",
+      "5. FAUZIA — I can be anything: strongest current adjacent turn, with a drum-and-sub framework redirected by guitar."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 4,
-  "resolvedCount": 1,
-  "candidateCount": 1,
-  "resolutionStatus": "PARTIAL",
-  "unresolved": [
+  "requestedCount": 5,
+  "resolvedCount": 5,
+  "candidateCount": 3,
+  "resolutionStatus": "COMPLETE",
+  "unresolved": [],
+  "warnings": [
     {
-      "artist": "Jump Source",
-      "track": "A Dull Knife ft. Harmony Index",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Jump Source",
-        "track": "A Dull Knife ft. Harmony Index",
-        "album": "Fold",
-        "releaseDate": "2026-04-30",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36349",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a current production-world transformation as an intentional middle redirection without assuming its pulse or either handoff."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a current syncopated-bass afterword only if it extends rather than restarts the journey."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes A Dull Knife beginning as a dub-techno groover and growing, once Harmony Index enters, into syncopated bass science. This directly supports structural freedom while leaving both placements unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:09 and release date 2026-04-30; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes A Dull Knife moving from a dub-techno groove into an enveloping, warm piece of syncopated bass science after the vocal enters.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A documented internal grammar change can supply a purposeful threshold, but prose cannot establish entry, exit or net journey value.",
-          "editorialInterpretation": "Strongest current structural lead; middle and tail placements remain untested."
-        }
-      }
+      "artist": "AceMoMA",
+      "track": "1 Million Breaks",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2021-03-29\" but Spotify returned \"2021-04-23\""
     },
     {
-      "artist": "Cabasa",
-      "track": "Intentional Drowning",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Cabasa",
-        "track": "Intentional Drowning",
-        "album": "Aquaris Monopole EP",
-        "releaseDate": "2018-02",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/29831",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a polyrhythmic early left turn without assuming its perceived pulse or transition behaviour."
-          },
-          {
-            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test a conspicuous polyrhythmic pre-trio threshold while preserving both protected internal handoffs."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor calls Intentional Drowning seven minutes of limb-twisting polyrhythm, simultaneously danceable and undanceable. That is strong selection evidence, not placement proof.",
-        "evidence": {
-          "measured": [
-            "Resident Advisor reports a seven-minute scale and February 2018 release; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes Intentional Drowning as seven minutes of limb-twisting polyrhythm balanced between danceable and undanceable.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Polyrhythmic instability can create a meaningful turn or an attention bottleneck; metadata and prose cannot decide which.",
-          "editorialInterpretation": "Strongest overlooked polyrhythmic lead; early and pre-trio placements remain untested."
-        }
-      }
-    },
-    {
-      "artist": "Cassegrain",
-      "track": "Plate#2",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Cassegrain",
-        "track": "Plate#2",
-        "album": "Plate EP",
-        "releaseDate": "2012-04-06",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/10977",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test an uneven syncopated construction inside a numerically level boundary without treating BPM parity as flow proof."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test an overlooked lurching afterword whose entry and long-form consequence remain unknown."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes Plate#2 lurching unevenly and riding a sharply syncopated rhythm. This supports belonging while leaving both proposed handoffs and long-form effects unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp release date 2012-04-06; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes Plate#2 as an unevenly lurching original riding a sharply syncopated rhythm.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Sharply syncopated motion may deepen a late run or crowd it; the review cannot establish the result.",
-          "editorialInterpretation": "Strong overlooked techno lead; late-middle and tail placements remain untested."
-        }
-      }
+      "artist": "Kangding Ray",
+      "track": "Antiblau",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2022-06-03\" but Spotify returned \"2022-06-10\""
     }
   ],
-  "warnings": [],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Jump Source",
-        "track": "A Dull Knife ft. Harmony Index",
-        "album": "Fold",
-        "releaseDate": "2026-04-30",
+        "artist": "Djrum",
+        "track": "Sex",
+        "album": "Portrait With Firewood",
+        "releaseDate": "2018-08-17",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36349",
+        "discoverySource": "https://ra.co/reviews/22853",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -198,50 +75,7 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a current production-world transformation as an intentional middle redirection without assuming its pulse or either handoff."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test a current syncopated-bass afterword only if it extends rather than restarts the journey."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes A Dull Knife beginning as a dub-techno groover and growing, once Harmony Index enters, into syncopated bass science. This directly supports structural freedom while leaving both placements unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp duration 5:09 and release date 2026-04-30; exact BPM remains for resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes A Dull Knife moving from a dub-techno groove into an enveloping, warm piece of syncopated bass science after the vocal enters.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A documented internal grammar change can supply a purposeful threshold, but prose cannot establish entry, exit or net journey value.",
-          "editorialInterpretation": "Strongest current structural lead; middle and tail placements remain untested."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Cabasa",
-        "track": "Intentional Drowning",
-        "album": "Aquaris Monopole EP",
-        "releaseDate": "2018-02",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/29831",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a polyrhythmic early left turn without assuming its perceived pulse or transition behaviour."
+            "purpose": "Test a complete internal production-world redirection in the middle without assuming either handoff."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -250,76 +84,34 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 143,
-            "purpose": "Test a conspicuous polyrhythmic pre-trio threshold while preserving both protected internal handoffs."
+            "purpose": "Test a long-form pre-trio threshold while preserving both protected internal handoffs."
           }
         ],
-        "fitHypothesis": "Resident Advisor calls Intentional Drowning seven minutes of limb-twisting polyrhythm, simultaneously danceable and undanceable. That is strong selection evidence, not placement proof.",
+        "fitHypothesis": "Resident Advisor describes Sex beginning as broken-beat techno and softening halfway through with piano, cello and vocals. That directly supports structural freedom while leaving both placements unknown.",
         "evidence": {
           "measured": [
-            "Resident Advisor reports a seven-minute scale and February 2018 release; exact duration and BPM remain for resolver"
+            "official Bandcamp duration 8:27 and release date 2018-08-17; exact BPM remains for resolver"
           ],
-          "attributedDescription": "Resident Advisor describes Intentional Drowning as seven minutes of limb-twisting polyrhythm balanced between danceable and undanceable.",
+          "attributedDescription": "Resident Advisor describes Sex as broken-beat techno that softens halfway through with piano, cello and vocals.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Polyrhythmic instability can create a meaningful turn or an attention bottleneck; metadata and prose cannot decide which.",
-          "editorialInterpretation": "Strongest overlooked polyrhythmic lead; early and pre-trio placements remain untested."
+          "craftConvention": "A documented internal grammar change can create a purposeful threshold or an attention bottleneck; prose cannot establish which.",
+          "editorialInterpretation": "Strongest complete transformation; middle and pre-trio placements remain untested."
         }
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Cassegrain",
-        "track": "Plate#2",
-        "album": "Plate EP",
-        "releaseDate": "2012-04-06",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/10977",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test an uneven syncopated construction inside a numerically level boundary without treating BPM parity as flow proof."
-          },
-          {
-            "position": "After Len Faki — Stardancer",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test an overlooked lurching afterword whose entry and long-form consequence remain unknown."
-          }
-        ],
-        "fitHypothesis": "Resident Advisor describes Plate#2 lurching unevenly and riding a sharply syncopated rhythm. This supports belonging while leaving both proposed handoffs and long-form effects unknown.",
-        "evidence": {
-          "measured": [
-            "official Bandcamp release date 2012-04-06; exact duration and BPM remain for resolver"
-          ],
-          "attributedDescription": "Resident Advisor describes Plate#2 as an unevenly lurching original riding a sharply syncopated rhythm.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Sharply syncopated motion may deepen a late run or crowd it; the review cannot establish the result.",
-          "editorialInterpretation": "Strong overlooked techno lead; late-middle and tail placements remain untested."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "5g1PPfVJKxaTweGxJhgnue",
+      "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Drums Off Chaos",
-        "track": "Clockwise Instinct",
-        "album": "Compass",
-        "releaseDate": "2017-09-22",
+        "artist": "Vladislav Delay",
+        "track": "Huone - 2020 Remaster",
+        "album": "Multila (2020 Remaster)",
+        "releaseDate": "2020-03-20",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/21694",
+        "discoverySource": "https://ra.co/reviews/24869",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -327,58 +119,181 @@
             "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test an acoustic metre-specific overture whose entry into Marauder must still be established."
+            "purpose": "Test an unusually long evolving overture whose entry into Marauder and total journey cost must be established."
           },
           {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a groups-of-seven rhythmic world as a deliberate middle turn without asserting mixability."
+            "purpose": "Test a long-form afterword only if it extends rather than restarts or overwhelms the journey."
           }
         ],
-        "fitHypothesis": "Resident Advisor states that Clockwise Instinct loops in groups of seven within Drums Off Chaos's flow-based polyrhythmic practice. This strongly supports the selection lens, not either placement.",
+        "fitHypothesis": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, with a sparse midsection and kick re-entry. This is unusually strong structural evidence, but its 22-minute scale could dominate the volume.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 4:27 and release date 2017-09-22; exact BPM remains for resolver"
+            "official Bandcamp remaster duration 22:06 and release date 2020-03-20; exact BPM remains for resolver"
           ],
-          "attributedDescription": "Resident Advisor identifies Clockwise Instinct as looping in groups of seven and frames the EP's constructions as flows of polyrhythm rather than conventional bars.",
+          "attributedDescription": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, breaking sparsely before the kick returns to guide the final half.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A metre-specific acoustic construction can operate as overture or rupture, but source prose cannot establish a handoff or surrounding-run effect.",
-          "editorialInterpretation": "Strongest adjacent metre-specific lead; opening and middle placements remain untested."
+          "craftConvention": "A long evolving piece can supply an overture or afterword, but duration and prose cannot prove proportional long-form benefit.",
+          "editorialInterpretation": "Strongest long-form structural lead; opening and tail placements remain untested."
         }
       },
-      "spotifyTrackId": "5GSICFny5sZn1T1AW5ZH3b",
+      "spotifyTrackId": "38cHrwVGkA7I0NBF5EMhDK",
       "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "AceMoMA",
+        "track": "1 Million Breaks",
+        "album": "A Future",
+        "releaseDate": "2021-03-29",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/33722",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test backwards-lurching percussion inside the existing rhythmic-redirection passage without treating numerical proximity as flow proof."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test an overlooked broken-rhythm afterword whose entry and journey consequence remain unknown."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes clusters of percussion advancing and lurching backwards on 1 Million Breaks. This supports rhythmic freedom while leaving perceived pulse, handoffs and net journey value unknown.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp release date 2021-03-29; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes 1 Million Breaks through clusters of percussion that advance and lurch backwards.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Backwards-lurching percussion may enrich or congest an already articulated broken-rhythm run; prose cannot decide the result.",
+          "editorialInterpretation": "Strong overlooked percussion lead; internal and tail placements remain untested."
+        }
+      },
+      "spotifyTrackId": "11CNiCDrhdElGjJB53Pxuv",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Kangding Ray",
+        "track": "Antiblau",
+        "album": "ULTRACHROMA",
+        "releaseDate": "2022-06-03",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34936",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a shuffly broken-techno early turn without assuming its pulse or either handoff."
+          },
+          {
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test a late-middle broken-beat insertion without treating equal neighbor BPM as flow evidence."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor identifies Antiblau through juddering drums and a shuffly broken beat. That supports belonging without establishing either transition or the surrounding run.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp release date 2022-06-03; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes Antiblau with juddering drums and a shuffly broken beat.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Shuffly broken motion may create a useful character turn or duplicate existing articulation; metadata cannot decide.",
+          "editorialInterpretation": "Strong overlooked broken-techno lead; early and late-middle placements remain untested."
+        }
+      },
+      "spotifyTrackId": "3CK9D0IoBRY92L1mt0iM9O",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "FAUZIA",
+        "track": "I can be anything",
+        "album": "I Was Here For a Moment",
+        "releaseDate": "2026-07-17",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/36363",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a compact adjacent-world overture whose entry into Marauder and scale effect remain unknown."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a compact current afterword only if its change of form feels conclusive rather than accidental."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor and the official release describe a sub-and-drum framework redirected by guitar. Its adjacent experimental-pop context does not exclude it, but neither boundary is established.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 2:38 and release date 2026-07-17; exact BPM remains for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes gnarled subs and fading drums before guitar redirects the track; the official release describes crunched drums and loping swells spiralling into guitar and vocal fragments.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A compact adjacent-world turn can frame or close a long-form volume, but source prose cannot establish either boundary.",
+          "editorialInterpretation": "Strongest current adjacent lead; opening and tail placements remain untested."
+        }
+      },
+      "spotifyTrackId": "16WpgfIq98L5mVwWQ7WKn6",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "5GSICFny5sZn1T1AW5ZH3b",
-      "uri": "spotify:track:5GSICFny5sZn1T1AW5ZH3b",
-      "name": "Clockwise Instinct",
+      "id": "5g1PPfVJKxaTweGxJhgnue",
+      "uri": "spotify:track:5g1PPfVJKxaTweGxJhgnue",
+      "name": "Sex",
       "artists": [
-        "Drums Off Chaos"
+        "DjRUM"
       ],
-      "album": "Compass",
-      "releaseDate": "2017-09-22",
-      "durationMs": 267364,
-      "spotifyUrl": "https://open.spotify.com/track/5GSICFny5sZn1T1AW5ZH3b",
+      "album": "Portrait with Firewood",
+      "releaseDate": "2018-08-17",
+      "durationMs": 507368,
+      "spotifyUrl": "https://open.spotify.com/track/5g1PPfVJKxaTweGxJhgnue",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/21694",
+      "discoverySource": "https://ra.co/reviews/22853",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "position": "Before Inigo Kennedy — Marauder",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test an acoustic metre-specific overture whose entry into Marauder must still be established."
-        },
         {
           "position": "Between Sciahri — Moonwake and Nørbak — Capa",
           "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
@@ -386,37 +301,39 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test a groups-of-seven rhythmic world as a deliberate middle turn without asserting mixability."
+          "purpose": "Test a complete internal production-world redirection in the middle without assuming either handoff."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test a long-form pre-trio threshold while preserving both protected internal handoffs."
         }
       ],
-      "fitHypothesis": "Resident Advisor states that Clockwise Instinct loops in groups of seven within Drums Off Chaos's flow-based polyrhythmic practice. This strongly supports the selection lens, not either placement.",
+      "fitHypothesis": "Resident Advisor describes Sex beginning as broken-beat techno and softening halfway through with piano, cello and vocals. That directly supports structural freedom while leaving both placements unknown.",
       "evidence": {
         "measured": [
-          "official Bandcamp duration 4:27 and release date 2017-09-22; exact BPM remains for resolver"
+          "official Bandcamp duration 8:27 and release date 2018-08-17; exact BPM remains for resolver"
         ],
-        "attributedDescription": "Resident Advisor identifies Clockwise Instinct as looping in groups of seven and frames the EP's constructions as flows of polyrhythm rather than conventional bars.",
+        "attributedDescription": "Resident Advisor describes Sex as broken-beat techno that softens halfway through with piano, cello and vocals.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A metre-specific acoustic construction can operate as overture or rupture, but source prose cannot establish a handoff or surrounding-run effect.",
-        "editorialInterpretation": "Strongest adjacent metre-specific lead; opening and middle placements remain untested."
+        "craftConvention": "A documented internal grammar change can create a purposeful threshold or an attention bottleneck; prose cannot establish which.",
+        "editorialInterpretation": "Strongest complete transformation; middle and pre-trio placements remain untested."
       },
       "requestedIdentity": {
-        "artist": "Drums Off Chaos",
-        "track": "Clockwise Instinct",
-        "album": "Compass",
-        "releaseDate": "2017-09-22",
+        "artist": "Djrum",
+        "track": "Sex",
+        "album": "Portrait With Firewood",
+        "releaseDate": "2018-08-17",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/21694",
+        "discoverySource": "https://ra.co/reviews/22853",
         "searchIntent": "BOTH",
         "proposedPlacements": [
-          {
-            "position": "Before Inigo Kennedy — Marauder",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test an acoustic metre-specific overture whose entry into Marauder must still be established."
-          },
           {
             "position": "Between Sciahri — Moonwake and Nørbak — Capa",
             "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
@@ -424,22 +341,366 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a groups-of-seven rhythmic world as a deliberate middle turn without asserting mixability."
+            "purpose": "Test a complete internal production-world redirection in the middle without assuming either handoff."
+          },
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 143,
+            "purpose": "Test a long-form pre-trio threshold while preserving both protected internal handoffs."
           }
         ],
-        "fitHypothesis": "Resident Advisor states that Clockwise Instinct loops in groups of seven within Drums Off Chaos's flow-based polyrhythmic practice. This strongly supports the selection lens, not either placement.",
+        "fitHypothesis": "Resident Advisor describes Sex beginning as broken-beat techno and softening halfway through with piano, cello and vocals. That directly supports structural freedom while leaving both placements unknown.",
         "evidence": {
           "measured": [
-            "official Bandcamp duration 4:27 and release date 2017-09-22; exact BPM remains for resolver"
+            "official Bandcamp duration 8:27 and release date 2018-08-17; exact BPM remains for resolver"
           ],
-          "attributedDescription": "Resident Advisor identifies Clockwise Instinct as looping in groups of seven and frames the EP's constructions as flows of polyrhythm rather than conventional bars.",
+          "attributedDescription": "Resident Advisor describes Sex as broken-beat techno that softens halfway through with piano, cello and vocals.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A metre-specific acoustic construction can operate as overture or rupture, but source prose cannot establish a handoff or surrounding-run effect.",
-          "editorialInterpretation": "Strongest adjacent metre-specific lead; opening and middle placements remain untested."
+          "craftConvention": "A documented internal grammar change can create a purposeful threshold or an attention bottleneck; prose cannot establish which.",
+          "editorialInterpretation": "Strongest complete transformation; middle and pre-trio placements remain untested."
+        }
+      }
+    },
+    {
+      "id": "38cHrwVGkA7I0NBF5EMhDK",
+      "uri": "spotify:track:38cHrwVGkA7I0NBF5EMhDK",
+      "name": "Huone - 2020 Remaster",
+      "artists": [
+        "Vladislav Delay"
+      ],
+      "album": "Multila (2020 Remaster)",
+      "releaseDate": "2020-03-20",
+      "durationMs": 1326307,
+      "spotifyUrl": "https://open.spotify.com/track/38cHrwVGkA7I0NBF5EMhDK",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/24869",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Before Inigo Kennedy — Marauder",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test an unusually long evolving overture whose entry into Marauder and total journey cost must be established."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a long-form afterword only if it extends rather than restarts or overwhelms the journey."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, with a sparse midsection and kick re-entry. This is unusually strong structural evidence, but its 22-minute scale could dominate the volume.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp remaster duration 22:06 and release date 2020-03-20; exact BPM remains for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, breaking sparsely before the kick returns to guide the final half.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A long evolving piece can supply an overture or afterword, but duration and prose cannot prove proportional long-form benefit.",
+        "editorialInterpretation": "Strongest long-form structural lead; opening and tail placements remain untested."
+      },
+      "requestedIdentity": {
+        "artist": "Vladislav Delay",
+        "track": "Huone - 2020 Remaster",
+        "album": "Multila (2020 Remaster)",
+        "releaseDate": "2020-03-20",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/24869",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test an unusually long evolving overture whose entry into Marauder and total journey cost must be established."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a long-form afterword only if it extends rather than restarts or overwhelms the journey."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, with a sparse midsection and kick re-entry. This is unusually strong structural evidence, but its 22-minute scale could dominate the volume.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp remaster duration 22:06 and release date 2020-03-20; exact BPM remains for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes Huone growing from crooked minimal techno into a polyrhythmic labyrinth, breaking sparsely before the kick returns to guide the final half.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A long evolving piece can supply an overture or afterword, but duration and prose cannot prove proportional long-form benefit.",
+          "editorialInterpretation": "Strongest long-form structural lead; opening and tail placements remain untested."
+        }
+      }
+    },
+    {
+      "id": "11CNiCDrhdElGjJB53Pxuv",
+      "uri": "spotify:track:11CNiCDrhdElGjJB53Pxuv",
+      "name": "1 Million Breaks",
+      "artists": [
+        "AceMoMa",
+        "AceMo",
+        "MoMa Ready"
+      ],
+      "album": "A Future",
+      "releaseDate": "2021-04-23",
+      "durationMs": 415152,
+      "spotifyUrl": "https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/33722",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test backwards-lurching percussion inside the existing rhythmic-redirection passage without treating numerical proximity as flow proof."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test an overlooked broken-rhythm afterword whose entry and journey consequence remain unknown."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes clusters of percussion advancing and lurching backwards on 1 Million Breaks. This supports rhythmic freedom while leaving perceived pulse, handoffs and net journey value unknown.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp release date 2021-03-29; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes 1 Million Breaks through clusters of percussion that advance and lurch backwards.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Backwards-lurching percussion may enrich or congest an already articulated broken-rhythm run; prose cannot decide the result.",
+        "editorialInterpretation": "Strong overlooked percussion lead; internal and tail placements remain untested."
+      },
+      "requestedIdentity": {
+        "artist": "AceMoMA",
+        "track": "1 Million Breaks",
+        "album": "A Future",
+        "releaseDate": "2021-03-29",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/33722",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test backwards-lurching percussion inside the existing rhythmic-redirection passage without treating numerical proximity as flow proof."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test an overlooked broken-rhythm afterword whose entry and journey consequence remain unknown."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes clusters of percussion advancing and lurching backwards on 1 Million Breaks. This supports rhythmic freedom while leaving perceived pulse, handoffs and net journey value unknown.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp release date 2021-03-29; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes 1 Million Breaks through clusters of percussion that advance and lurch backwards.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Backwards-lurching percussion may enrich or congest an already articulated broken-rhythm run; prose cannot decide the result.",
+          "editorialInterpretation": "Strong overlooked percussion lead; internal and tail placements remain untested."
         }
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "3CK9D0IoBRY92L1mt0iM9O",
+      "uri": "spotify:track:3CK9D0IoBRY92L1mt0iM9O",
+      "name": "Antiblau",
+      "artists": [
+        "Kangding Ray"
+      ],
+      "album": "Ultrachroma",
+      "releaseDate": "2022-06-10",
+      "durationMs": 329892,
+      "spotifyUrl": "https://open.spotify.com/track/3CK9D0IoBRY92L1mt0iM9O",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/34936",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a shuffly broken-techno early turn without assuming its pulse or either handoff."
+        },
+        {
+          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test a late-middle broken-beat insertion without treating equal neighbor BPM as flow evidence."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor identifies Antiblau through juddering drums and a shuffly broken beat. That supports belonging without establishing either transition or the surrounding run.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp release date 2022-06-03; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Antiblau with juddering drums and a shuffly broken beat.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Shuffly broken motion may create a useful character turn or duplicate existing articulation; metadata cannot decide.",
+        "editorialInterpretation": "Strong overlooked broken-techno lead; early and late-middle placements remain untested."
+      },
+      "requestedIdentity": {
+        "artist": "Kangding Ray",
+        "track": "Antiblau",
+        "album": "ULTRACHROMA",
+        "releaseDate": "2022-06-03",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/34936",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a shuffly broken-techno early turn without assuming its pulse or either handoff."
+          },
+          {
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": 138,
+            "purpose": "Test a late-middle broken-beat insertion without treating equal neighbor BPM as flow evidence."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor identifies Antiblau through juddering drums and a shuffly broken beat. That supports belonging without establishing either transition or the surrounding run.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp release date 2022-06-03; exact duration and BPM remain for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes Antiblau with juddering drums and a shuffly broken beat.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Shuffly broken motion may create a useful character turn or duplicate existing articulation; metadata cannot decide.",
+          "editorialInterpretation": "Strong overlooked broken-techno lead; early and late-middle placements remain untested."
+        }
+      }
+    },
+    {
+      "id": "16WpgfIq98L5mVwWQ7WKn6",
+      "uri": "spotify:track:16WpgfIq98L5mVwWQ7WKn6",
+      "name": "I can be anything",
+      "artists": [
+        "FAUZIA"
+      ],
+      "album": "I Was Here For a Moment",
+      "releaseDate": "2026-07-17",
+      "durationMs": 158000,
+      "spotifyUrl": "https://open.spotify.com/track/16WpgfIq98L5mVwWQ7WKn6",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/36363",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Before Inigo Kennedy — Marauder",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test a compact adjacent-world overture whose entry into Marauder and scale effect remain unknown."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a compact current afterword only if its change of form feels conclusive rather than accidental."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor and the official release describe a sub-and-drum framework redirected by guitar. Its adjacent experimental-pop context does not exclude it, but neither boundary is established.",
+      "evidence": {
+        "measured": [
+          "official Bandcamp duration 2:38 and release date 2026-07-17; exact BPM remains for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes gnarled subs and fading drums before guitar redirects the track; the official release describes crunched drums and loping swells spiralling into guitar and vocal fragments.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A compact adjacent-world turn can frame or close a long-form volume, but source prose cannot establish either boundary.",
+        "editorialInterpretation": "Strongest current adjacent lead; opening and tail placements remain untested."
+      },
+      "requestedIdentity": {
+        "artist": "FAUZIA",
+        "track": "I can be anything",
+        "album": "I Was Here For a Moment",
+        "releaseDate": "2026-07-17",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/36363",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before Inigo Kennedy — Marauder",
+            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a compact adjacent-world overture whose entry into Marauder and scale effect remain unknown."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a compact current afterword only if its change of form feels conclusive rather than accidental."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor and the official release describe a sub-and-drum framework redirected by guitar. Its adjacent experimental-pop context does not exclude it, but neither boundary is established.",
+        "evidence": {
+          "measured": [
+            "official Bandcamp duration 2:38 and release date 2026-07-17; exact BPM remains for resolver"
+          ],
+          "attributedDescription": "Resident Advisor describes gnarled subs and fading drums before guitar redirects the track; the official release describes crunched drums and loping swells spiralling into guitar and vocal fragments.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A compact adjacent-world turn can frame or close a long-form volume, but source prose cannot establish either boundary.",
+          "editorialInterpretation": "Strongest current adjacent lead; opening and tail placements remain untested."
+        }
+      }
+    }
+  ]
 }
