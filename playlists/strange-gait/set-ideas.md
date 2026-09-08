@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- Vanquished — `M. Bison` — exact PARKED catalogue discovery; reviewer-described broken-techno opening, piano-vamp breakdown and reassembly, with pre-trio and tail placements untested
+- PPP — `Pez` — exact PARKED current collaborative discovery; official glitched-Perlon-reconstruction and sound-design-disruption description, with both middle placements untested
+- BLEID — `Kerosene` — exact PARKED emerging broken-rhythm discovery; official rising-tempo percussion-led roller description, with late-middle and tail placements untested
+- Mallard — `Surface` — unresolved catalogue lead; reviewer-described pivot between 3/4 at 90 BPM and 4/4 triplet time in the 120s
+- Cerrot — `The light` — unresolved catalogue lead; reviewer-described off-kilter, lumbering polyrhythm
+
 - Omnitron — `R.E.S.E.T.` — exact PARKED current discovery; official twisting acid/electro form and locked-drum-programming description, with middle and tail placements untested
 - Michal Ho — `Quamomibass` — exact PARKED emerging discovery; official experimental-polymetric description, with internal and tail placements untested
 - Invexis — `RS` — exact PARKED overlooked discovery; official syncopated complex-motion description, with both late placements untested
@@ -202,6 +208,10 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 **Direction:** Let an established straight-techno passage finish cleanly, then test a short broken or half-time-informed piece as an unmistakable afterword and doorway rather than disguising the change.
 
 **Ingredients:**
+
+- Vanquished — `M. Bison` — exact PARKED structural-reset discovery; no proven Stardancer afterword or pre-trio handoff
+- BLEID — `Kerosene` — exact PARKED percussion-driven broken-rhythm discovery; no proven Stardancer exit or late-middle handoff
+- Cerrot — `The light` — unresolved polyrhythmic afterword ingredient; exact Spotify identity and tail relationship remain unproven
 
 - Omnitron — `R.E.S.E.T.` — exact PARKED current discovery; no proven Stardancer exit or internal Sciahri handoff
 - Michal Ho — `Quamomibass` — exact PARKED polymetric discovery; no proven Stardancer afterword or early internal handoff

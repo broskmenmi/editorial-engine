@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 73 — EXPLORE — current collaborative glitch, emerging percussion-led breaks and overlooked metric transformations — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 72 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 112 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Wisdom Teeth, Discos Extendes, Rhythm Section International, Monnom Black and Mama Told Ya lanes rather than recycling Runs 53–72.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T08:51:04Z-explore-73`
+- **sourceCommit:** `64ba75a67ea3aa9bc62b9a75256d1f55f2d1eab0`
+- **request commit:** `a43a36205d9b8bc1555b1e7c930ca3e300616235`
+- **snapshot commit:** `8a5465c3d18606d4f62d4fc4cdcf8ab7dffa472f`
+- **request fingerprint:** `ca9c83fcca140bb2a6c8f7ed5eb18210b24c77207447c25866825f4f578296c6`
+- **scope:** approximately 45 named tracks and releases across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact resolutions and selected candidates + 2 unresolved; one warning; no duplicates, substitutions, resolved alternates or errors.
+
+### Resolver outcomes preserved exactly
+
+1. **Mallard — Surface** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1Gdcat9W3ZdTFHhYjdvOzg, 6ag5wsTLuDVpRuq6Qiwt4F)`.
+2. **Vanquished — M. Bison** — RESOLVED and selected: `spotify:track:0j4Kxymi917ANKgfrTzzd7`; Spotify album `M. Bison EP`, release date `2022-05-19`, duration 7:04, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "M. Bison" but Spotify returned "M. Bison EP"; release date requested "2022-05" but Spotify returned "2022-05-19"`.
+3. **PPP — Pez** — RESOLVED and selected: `spotify:track:5QvvtpGUlrEedXvberu01w`; Spotify artists `PPP`, `Piezo`, `DJ Plead`, `DJ Python`; Spotify album `Bborn Again`, release date `2026-04-10`, duration 4:35, BPM unavailable.
+4. **BLEID — Kerosene** — RESOLVED and selected: `spotify:track:457NRwNRyYbSb8ShLIiz16`; Spotify album `Medusas`, release date `2025-11-07`, duration 4:04, BPM unavailable.
+5. **Cerrot — The light** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0tRyDua4M0VXG9fNP98mHL, 1EHhIOuQLYP1gGa6Ap7XXW)`.
+
+### Canonical evaluations
+
+#### Vanquished — M. Bison — PARKED
+
+- **Volume fit:** PASS. Resident Advisor documents the exact title track beginning as broken techno with two acid leads, breaking down into a piano vamp and rebuilding. This is direct structural-freedom evidence without treating playfulness or intensity as measured energy.
+- **Immediate transition:** UNKNOWN. Neither `Truth in Noise → M. Bison → Transparency` nor `Stardancer → M. Bison` has exact BPM/pulse, phrase, entry, exit or mix evidence. The exact Spotify packaging variance does not affect title/artist identity.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its internal reset could make a deliberate pre-trio threshold or a clear afterword, but it could also overload an already articulated late journey or feel appended after the current close. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. A documented seven-minute transformation strongly fits the lens but does not establish that the current 14-track journey needs another conspicuous mechanism.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify album/date warning remains attached.
+
+#### PPP — Pez — PARKED
+
+- **Volume fit:** PASS. Wisdom Teeth describes Pez specifically as a glitched Perlon reconstruction and attributes sound-design freakouts to Piezo. This supports a techno-adjacent structural mutation without converting collaboration or recency into admission proof.
+- **Immediate transition:** UNKNOWN. Neither `Cave → Pez → Too Much Time` nor `Moonwake → Pez → Capa` has BPM/pulse, phrase, entry, exit or mix evidence. Glitch vocabulary cannot establish a handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Pez could create a purposeful different-world turn in either early-middle passage, but it could equally add another conspicuous device without improving local continuity. The available source cannot establish either effect.
+- **Long-form journey:** NOT PROVEN. Current-release relevance and collaborative mutation do not demonstrate a missing stage or net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+#### BLEID — Kerosene — PARKED
+
+- **Volume fit:** PASS. Discos Extendes describes the exact track as a roller whose tempo rises and whose drive comes largely from percussion, inside an EP that moves away from steady 4/4 toward broken rhythms. This supports rhythmic freedom without inferring energy from the label's urgency language.
+- **Immediate transition:** UNKNOWN. Neither `Fragments → Kerosene → Drummz` nor `Stardancer → Kerosene` has exact BPM/pulse, phrasing, entry, exit or mix evidence. A source-described tempo rise does not prove either boundary.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Percussion-led motion could sharpen the late-middle run or create an intentional afterword, but it could also crowd existing movement or read as a restart. Source prose cannot establish local benefit.
+- **Long-form journey:** NOT PROVEN. Broken-rhythm value and emerging-label context do not by themselves show that another late stage improves the whole journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting.
+
+The two unresolved leads receive no musical verdict. Mallard — Surface retains exact review evidence of a pivot between 3/4 at 90 BPM and 4/4 triplet time in the 120s; Cerrot — The light retains exact review evidence of an off-kilter, lumbering polyrhythm. Neither is a canonical candidate or global utility input without one resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both exact ambiguity errors and the one metadata warning are preserved; every candidate is judged separately at volume, transition, local-run and long-form scales; BPM, meter and descriptive intensity are not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained selected tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two unresolved research leads added; the different-world and broken-rhythm directions enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **112 → 115 exact tracks**, adding M. Bison, Pez and Kerosene.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 45 inspected → 5 ranked leads → 3 exact resolutions + 2 unresolved → 3 selected evaluations → 0 ADD + 3 PARKED → 3 global utility additions. M. Bison is the strongest canonical hypothesis because the exact review documents a complete broken-techno-to-piano-vamp-to-reassembly arc. The strongest counterargument is that this may provide precisely the purposeful pre-trio transformation or afterword the journey permits. The run proves three selected exact tracks are worthwhile discoveries and that the scan crossed current, emerging and overlooked lanes. It does not prove their proposed placements fail, that either ambiguous lead lacks one lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 72 — EXPLORE — current acid/electro mutation, emerging polymetrics and overlooked syncopated structures — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 71 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 109 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Black Magic Recs, Was Wotsch, Dor Bachov, Berceuse Heroique and self-released syntrovert lanes rather than recycling Runs 53–71.
