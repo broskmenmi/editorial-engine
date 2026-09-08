@@ -21,6 +21,15 @@ function splitRow(line) {
     .map((value) => value.trim());
 }
 
+function parseBpm(value) {
+  const text = String(value ?? '').trim();
+  const normalized = text.toLowerCase();
+  if (!text || ['—', '-', 'unknown', 'n/a', 'na', 'null'].includes(normalized)) return null;
+  const bpm = Number.parseFloat(text);
+  if (!Number.isFinite(bpm)) throw new Error(`Invalid BPM value: ${text}`);
+  return bpm;
+}
+
 function parseLedger(markdown) {
   const lines = markdown.split(/\r?\n/);
   const headerIndex = lines.findIndex((line) => line.includes('| # |') && line.includes('Spotify URI'));
@@ -47,9 +56,9 @@ function parseLedger(markdown) {
     if (!line.trim().startsWith('|')) break;
     const cells = splitRow(line);
     const position = Number.parseInt(cells[indexes.position], 10);
-    const bpm = Number.parseFloat(cells[indexes.bpm]);
+    const bpm = parseBpm(cells[indexes.bpm]);
     const uri = cells[indexes.uri];
-    if (!Number.isInteger(position) || !Number.isFinite(bpm) || !/^spotify:track:[A-Za-z0-9]{22}$/.test(uri)) {
+    if (!Number.isInteger(position) || !/^spotify:track:[A-Za-z0-9]{22}$/.test(uri)) {
       throw new Error(`Invalid ledger row ${index + 1}.`);
     }
     rows.push({
@@ -229,7 +238,7 @@ function buildTransitions(tracks, annotations) {
       toUri: to.uri,
       fromPosition: from.position,
       toPosition: to.position,
-      bpmDelta: to.bpm - from.bpm,
+      bpmDelta: Number.isFinite(from.bpm) && Number.isFinite(to.bpm) ? to.bpm - from.bpm : null,
       protected: protectedPairs.has(`${from.uri}→${to.uri}`),
       frozen: frozenUris.has(from.uri) && frozenUris.has(to.uri),
     });
@@ -250,6 +259,21 @@ function makeSmoothPath(points) {
   return pathValue;
 }
 
+function makeSegmentedPath(points) {
+  const paths = [];
+  let segment = [];
+  for (const point of points) {
+    if (!Number.isFinite(point.y)) {
+      if (segment.length) paths.push(makeSmoothPath(segment));
+      segment = [];
+      continue;
+    }
+    segment.push(point);
+  }
+  if (segment.length) paths.push(makeSmoothPath(segment));
+  return paths.join(' ');
+}
+
 function renderSvg(model) {
   const width = 1800;
   const height = 980;
@@ -259,22 +283,28 @@ function renderSvg(model) {
   const totalDuration = Math.max(model.totals.durationMs, 1);
   const storyMin = 0.5;
   const storyMax = 7.2;
-  const bpmMin = model.totals.bpmMin - 2;
-  const bpmMax = model.totals.bpmMax + 2;
+  const hasKnownBpm = Number.isFinite(model.totals.bpmMin) && Number.isFinite(model.totals.bpmMax);
+  const bpmMin = hasKnownBpm ? model.totals.bpmMin - 2 : 0;
+  const bpmMax = hasKnownBpm ? model.totals.bpmMax + 2 : 1;
+  const bpmSpan = Math.max(bpmMax - bpmMin, 1);
 
   const xForMs = (ms) => plot.left + (ms / totalDuration) * plotWidth;
   const yForStory = (level) => plot.bottom - ((level - storyMin) / (storyMax - storyMin)) * (plot.bottom - plot.top);
-  const yForBpm = (bpm) => bpmPlot.bottom - ((bpm - bpmMin) / (bpmMax - bpmMin)) * (bpmPlot.bottom - bpmPlot.top);
+  const yForBpm = (bpm) => bpmPlot.bottom - ((bpm - bpmMin) / bpmSpan) * (bpmPlot.bottom - bpmPlot.top);
 
   const storyPoints = model.tracks.map((track) => ({
     x: xForMs(track.midpointMs),
     y: yForStory(track.storyLevel),
     track,
   }));
-  const bpmPoints = model.tracks.map((track) => ({ x: xForMs(track.midpointMs), y: yForBpm(track.bpm), track }));
+  const bpmPoints = model.tracks.map((track) => ({
+    x: xForMs(track.midpointMs),
+    y: Number.isFinite(track.bpm) ? yForBpm(track.bpm) : null,
+    track,
+  }));
 
   const storyPath = makeSmoothPath(storyPoints);
-  const bpmPath = makeSmoothPath(bpmPoints);
+  const bpmPath = makeSegmentedPath(bpmPoints);
   const latestAddedDate = model.totals.latestAddedDate;
   const keyTrack = (track) => track.labels.includes('opener')
     || track.labels.includes('first-local-crest')
@@ -359,10 +389,18 @@ function renderSvg(model) {
     timeTicks.push(`<text x="${x.toFixed(1)}" y="${bpmPlot.bottom + 27}" text-anchor="middle" fill="#697687" font-size="13" font-family="Inter,Arial,sans-serif">${Math.round(ms / 60000)}m</text>`);
   }
 
-  const bpmMarkers = bpmPoints.map(({ x, y, track }) => `<g>
-    <circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3.2" fill="#8392a3"/>
-    <text x="${x.toFixed(1)}" y="${(y - 8).toFixed(1)}" text-anchor="middle" fill="#657284" font-size="10" font-family="Inter,Arial,sans-serif">${track.bpm}</text>
-  </g>`).join('\n');
+  const bpmMarkers = bpmPoints.map(({ x, y, track }) => {
+    if (!Number.isFinite(track.bpm)) {
+      return `<text x="${x.toFixed(1)}" y="${bpmPlot.bottom - 8}" text-anchor="middle" fill="#657284" font-size="11" font-family="Inter,Arial,sans-serif">—</text>`;
+    }
+    return `<g>
+      <circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="3.2" fill="#8392a3"/>
+      <text x="${x.toFixed(1)}" y="${(y - 8).toFixed(1)}" text-anchor="middle" fill="#657284" font-size="10" font-family="Inter,Arial,sans-serif">${track.bpm}</text>
+    </g>`;
+  }).join('\n');
+
+  const bpmRange = hasKnownBpm ? `${model.totals.bpmMin}–${model.totals.bpmMax} BPM` : 'BPM unavailable';
+  const bpmUnknownSuffix = model.totals.bpmUnknownCount > 0 ? ` · ${model.totals.bpmUnknownCount} BPM unknown` : '';
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc">
@@ -371,7 +409,7 @@ function renderSvg(model) {
   <rect width="${width}" height="${height}" fill="#0b0e12"/>
   <rect x="30" y="30" width="1740" height="920" rx="18" fill="#0d1117" stroke="#252d37"/>
   <text x="90" y="90" fill="#edf1f5" font-size="46" font-weight="750" font-family="Inter,Arial,sans-serif" letter-spacing="1.2">GROOVE OVER NOISE</text>
-  <text x="90" y="125" fill="#7f8b99" font-size="19" font-family="Inter,Arial,sans-serif">Journey map · ${model.totals.trackCount} tracks · ${escapeXml(formatDuration(model.totals.durationMs))} · ${model.totals.bpmMin}–${model.totals.bpmMax} BPM</text>
+  <text x="90" y="125" fill="#7f8b99" font-size="19" font-family="Inter,Arial,sans-serif">Journey map · ${model.totals.trackCount} tracks · ${escapeXml(formatDuration(model.totals.durationMs))} · ${escapeXml(bpmRange + bpmUnknownSuffix)}</text>
   <text x="1710" y="92" text-anchor="end" fill="#607083" font-size="14" font-family="Inter,Arial,sans-serif">Story height is editorial, not measured audio energy</text>
   ${chapterRects}
   ${frozenRects}
@@ -411,6 +449,9 @@ async function main() {
 
   const warnings = [];
   const ledgerRows = parseLedger(ledgerMarkdown);
+  for (const row of ledgerRows) {
+    if (!Number.isFinite(row.bpm)) warnings.push(`BPM unavailable for ${row.artist} — ${row.track}; map stores null and leaves a gap in the measured-BPM layer.`);
+  }
   const durationMap = await fetchDurations(ledgerRows, warnings);
   const annotatedRows = normalizeAnnotations(ledgerRows, annotations, warnings);
 
@@ -439,6 +480,7 @@ async function main() {
     ...(annotations.protected?.ending ?? []),
     ...(annotations.protected?.handoffs ?? []).flat(),
   ].filter(Boolean));
+  const knownBpms = tracks.map((track) => track.bpm).filter(Number.isFinite);
 
   const model = {
     version: 1,
@@ -463,8 +505,10 @@ async function main() {
       trackCount: tracks.length,
       durationMs: elapsedMs,
       durationLabel: formatDuration(elapsedMs),
-      bpmMin: Math.min(...tracks.map((track) => track.bpm)),
-      bpmMax: Math.max(...tracks.map((track) => track.bpm)),
+      bpmMin: knownBpms.length ? Math.min(...knownBpms) : null,
+      bpmMax: knownBpms.length ? Math.max(...knownBpms) : null,
+      bpmKnownCount: knownBpms.length,
+      bpmUnknownCount: tracks.length - knownBpms.length,
       latestAddedDate,
     },
     chapters,
