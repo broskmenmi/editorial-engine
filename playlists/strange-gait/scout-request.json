@@ -1,121 +1,240 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-08T13:52:52Z-explore-78",
-  "sourceCommit": "9cb6a1be06aa8e17cf716906d5f40e3a334e79a0",
+  "runId": "2026-09-08T14:48:23Z-explore-79",
+  "sourceCommit": "dd1c5b733e0cf6d297cd34c8e8c214e4727fc7b6",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey belonging and placement discovery for STRANGE GAIT",
     "position": "Whole journey: before the opener, between every non-protected pair, or after the tail. Preserve only Transparency → When We Froze and When We Froze → Stardancer; Truth in Noise → Transparency remains available.",
     "neighbours": [],
-    "purpose": "Test five unused exact-track hypotheses after a fresh current-release, adjacent-label and overlooked-catalogue scan. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
+    "purpose": "Test five unused exact-track hypotheses after a fresh current-release, adjacent/emerging-label and overlooked-catalogue scan. Character changes are allowed; admission still requires purposeful transition, local-run and long-form effect."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T13:52:52Z",
+    "timestampUtc": "2026-09-08T14:48:23Z",
     "sourceWindows": [
-      "CURRENT / KRUNCHTIME: https://kuttinedge.bandcamp.com/track/fix-the-news — Kuttin Edge's August 12, 2026 Fix The News and surrounding current catalogue were screened. The exact page provides identity and packaging but no track-level rhythmic or structural account, so it remains a release watch rather than a ranked lead.",
-      "CURRENT / RESIDENT ADVISOR: https://ra.co/reviews and https://ra.co/features/4490 — the September 3, 2026 August roundup and current review index were screened. Previously retained Picture, Reptant, FAUZIA, RHR, Answer Code Request and Exhale identities were excluded.",
-      "ADJACENT / CLASICO AND LOCAL ACTION: https://ra.co/reviews/35465 — all four Coffintexts Touch tracks were screened. Toxic was retained from the exact review's chest-rattling subs and start-stop rhythm.",
-      "ADJACENT / TRA TRA TRAX: https://ra.co/reviews/35339 — all five versions on Tomás Urquieta's 32 Balas package were screened. The title track was retained from its exact account of non-synchronous elements and drums dropping in and out.",
-      "OVERLOOKED CATALOGUE / HOSPITAL PRODUCTIONS: https://ra.co/reviews/19982 — all ten Shifted Appropriation Stories tracks were screened. Flatlands was retained from the exact review's loose-ball-bearing motif moving around a motoring rhythm section.",
-      "ADJACENT / JUNGLE FANTASY: https://ra.co/reviews/35823 — Chloé Robinson & DJ ADHD's Do One EP was screened. 0121 Do One was retained from its exact syncopated snare-and-kick pattern.",
-      "OVERLOOKED CATALOGUE / RITUAL POISON: https://ra.co/reviews/33753 — Witch Trials' Hollow Grave package was screened. The title track was retained from the exact description of broken techno overtaken by synth fog and crescendo.",
-      "ADDITIONAL WINDOWS: UMFANG's 1080p catalogue, Seph/Insurgentes, Nkisi/UIQ and current Bandcamp electronic indexes were screened. Release-level claims and already-preserved Run 53–77 identities stayed below the ranked list."
+      "CURRENT / BANDCAMP DAILY: https://daily.bandcamp.com/essential-releases/essential-releases-september-4-2026 and https://daily.bandcamp.com/best-electronic — the September 4 current essential-release window, July electronic roundup and current index were screened; broad release descriptions without exact rhythmic or structural evidence stayed below the ranked list.",
+      "CURRENT / ENTRAÑAS CATALOGUE: https://entranas.bandcamp.com/track/entra-as-kontronatura-eris — the artist page's September 2026 Atropello Vol 2 and August 2026 Revuelto catalogue windows were screened as current watches. The older exact Eris page supplied track-level 6/8 and triplet evidence and entered the ranked list separately.",
+      "ADJACENT / LOVE IN THE ENDZ: https://entranas.bandcamp.com/track/entra-as-kontronatura-eris — Entrañas & Kontronatura's Eris was retained from the official exact-track description of Ecuadorian bomba, tribal rhythms, 6/8 and triplets.",
+      "OVERLOOKED CATALOGUE / TIKITA: https://ra.co/reviews/18921 — the four Body 2:2 Mind tracks were screened. natural/electronic.system. — Emersione was retained from the exact review's winding bass and syncopated drums.",
+      "OVERLOOKED CATALOGUE / STROBOSCOPIC ARTEFACTS: https://ra.co/reviews/22376 — ten Flowers From The Ashes tracks were screened. Lucy — Starving The Mind was retained from the exact review's polyrhythmic techno and modulated-horn account.",
+      "OVERLOOKED CATALOGUE / TRESOR: https://ra.co/reviews/15942 — twelve Beyond The Hypnosis tracks were screened. Jonas Kopp — Ironcry was retained from the exact interwoven 3/4 and 4/4 drum description.",
+      "OVERLOOKED CATALOGUE / LIVITY SOUND: https://ra.co/reviews/21852 — four Pour Le Club! tracks and adjacent references were screened. Simo Cell — Stop The Killing (Intello Mix) was retained from the exact counter-intuitive syncopation account.",
+      "ADDITIONAL WINDOWS: current Bandcamp electronic pages, Robert Hood's June 2026 Internal Empire reissue, Syncopated Records, Isla/Crespi Drum Syndicate and older RA broken-beat searches were screened. Already retained identities, release-only claims and results without exact-track structural evidence were excluded."
     ],
-    "approximateInspectedScope": "Approximately 43 named tracks and releases across current releases, adjacent and emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
+    "approximateInspectedScope": "Approximately 47 named tracks and releases across current releases, adjacent and emerging artists and labels, and overlooked catalogue windows; metadata and attributed descriptions only, with zero audio auditions.",
     "exclusions": [
-      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–77 were not recycled.",
+      "All 14 canonical identities, active placement-specific rejects and every untriggered PARKED revisit were excluded. Exact identities and primary discovery lanes retained in Runs 53–78 were not recycled.",
       "The protected internal handoffs Transparency → When We Froze and When We Froze → Stardancer remain unavailable; Truth in Noise → Transparency and every other boundary remain available.",
-      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Release-level claims were not converted into exact-track behavior.",
-      "Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation, perceived pulse and mixability remain unknown. Descriptions of syncopation, broken rhythm and structural change are evidence, not flow verdicts."
+      "No lead was promoted for recency, reputation, genre, novelty, title or technical cleverness. Current-release pages without exact-track rhythmic or structural evidence were retained only as watches or excluded.",
+      "Energy, density, space, hypnosis, emotional effect, phrase structure, harmonic relation, perceived pulse and mixability remain unknown. Attributed descriptions of metre and syncopation are evidence, not transition or flow verdicts."
     ],
     "rankedLeadSummary": [
-      "1. Tomás Urquieta — 32 Balas: strongest exact internal-dislocation account, with elements out of time and drums dropping in and out.",
-      "2. Coffintexts — Toxic: strongest adjacent start-stop construction, with exact-track subs and interrupted rhythm.",
-      "3. Shifted — Flatlands: strongest overlooked polyrhythmic-gait lead, with a spatially mobile motif over a motoring rhythm section.",
-      "4. Chloé Robinson & DJ ADHD — 0121 Do One: strongest compact syncopated-kick-and-snare lead.",
-      "5. Witch Trials — Hollow Grave: strongest full-form transformation, from broken techno into synth fog and crescendo."
+      "1. Jonas Kopp — Ironcry: strongest explicit metric construction, with interwoven 3/4 and 4/4 drums.",
+      "2. Entrañas & Kontronatura — Eris: strongest adjacent-world exact account, adding Ecuadorian bomba and tribal rhythms around 6/8 and triplets.",
+      "3. natural/electronic.system. — Emersione: strongest slower-tempo syncopated-drum hypothesis from an overlooked Tikita compilation.",
+      "4. Simo Cell — Stop The Killing (Intello Mix): strongest counter-intuitive syncopation lead from Livity Sound.",
+      "5. Lucy — Starving The Mind: strongest polyrhythmic-techno lead from an overlooked Italian compilation."
     ]
   },
   "leads": [
     {
-      "artist": "Tomás Urquieta",
-      "track": "32 Balas",
-      "album": "32 Balas",
-      "releaseDate": "2023-02",
+      "artist": "Jonas Kopp",
+      "track": "Ironcry",
+      "album": "Beyond The Hypnosis",
+      "releaseDate": "2014-11",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35339",
+      "discoverySource": "https://ra.co/reviews/15942",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position": "Between Sciahri — Moonwake and Nørbak — Capa", "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j", "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB", "incomingBpm": 140, "candidateBpm": null, "outgoingBpm": 137, "purpose": "Test a documented dislocated-rhythm turn inside the early-middle passage without assuming either handoff."},
-        {"position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency", "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY", "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf", "incomingBpm": 138, "candidateBpm": null, "outgoingBpm": 143, "purpose": "Test a conspicuous pre-trio threshold while preserving both protected internal handoffs."}
+        {
+          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test an explicit 3/4-over-4/4 construction as a deliberate metric turn without assuming either handoff."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test a conspicuous pre-trio threshold while preserving both protected internal handoffs."
+        }
       ],
-      "fitHypothesis": "Resident Advisor describes the exact track as beginning like a trap instrumental before a stumbling glitch rhythm arrives, with elements not moving in time and drums dropping in and out. That strongly supports structural freedom while leaving both placements unknown.",
-      "evidence": {"measured": ["release month February 2023; exact duration and BPM remain for resolver"], "attributedDescription": "Resident Advisor describes 32 Balas through non-synchronous elements, a stumbling glitch rhythm and drums that drop in and out.", "listenerEvidence": "No candidate-specific listener report.", "lawfulAudioEvidence": null, "craftConvention": "Documented internal dislocation can create a purposeful hinge or simply interrupt a run; prose cannot establish which.", "editorialInterpretation": "Strongest exact structural-freedom lead; early-middle and pre-trio placements remain untested."}
+      "fitHypothesis": "Resident Advisor describes the exact track through cosmic bleeps over interwoven 3/4 and 4/4 drums. That directly supports rhythmic freedom while leaving perceived pulse and both proposed placements unknown.",
+      "evidence": {
+        "measured": [
+          "release month November 2014; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Ironcry as cosmic bleeps calling over interwoven 3/4 and 4/4 drums.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Explicit metric interplay may create an intentional redirection or distract from a developed run; source prose cannot decide the result.",
+        "editorialInterpretation": "Strongest explicit-metre lead; early-middle and pre-trio placements remain untested."
+      }
     },
     {
-      "artist": "Coffintexts",
-      "track": "Toxic",
-      "album": "Touch",
-      "releaseDate": "2023-05",
+      "artist": "Entrañas & Kontronatura",
+      "track": "Eris",
+      "album": "Efeito Revirada",
+      "releaseDate": "2025-09-25",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35465",
+      "discoverySource": "https://entranas.bandcamp.com/track/entra-as-kontronatura-eris",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position": "Between Nørbak — Capa and brenner — Thick to Handle", "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB", "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT", "incomingBpm": 137, "candidateBpm": null, "outgoingBpm": 138, "purpose": "Test a start-stop adjacent-world turn inside the rhythmic-redirection passage without assuming pulse or handoffs."},
-        {"position": "After Len Faki — Stardancer", "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u", "incomingBpm": 137, "candidateBpm": null, "purpose": "Test an interrupted-rhythm afterword only if it extends rather than restarts the journey."}
+        {
+          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test a 6/8-and-triplet adjacent-world turn inside the rhythmic-redirection passage without assuming pulse continuity."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a distinct rhythmic-world afterword only if it extends rather than restarts the journey."
+        }
       ],
-      "fitHypothesis": "Resident Advisor documents Toxic's chest-rattling subs and start-stop rhythm. That supports the volume lens and a different production world without proving either proposed placement.",
-      "evidence": {"measured": ["release month May 2023; exact duration and BPM remain for resolver"], "attributedDescription": "Resident Advisor describes Toxic through chest-rattling subs and a start-stop rhythm.", "listenerEvidence": "No candidate-specific listener report.", "lawfulAudioEvidence": null, "craftConvention": "Start-stop motion may sharpen a passage or fragment it; source prose cannot establish boundary behavior.", "editorialInterpretation": "Strong adjacent construction; middle and tail placements remain untested."}
+      "fitHypothesis": "The official exact-track page says Eris adds Ecuadorian bomba and tribal rhythms and explicitly points to 6/8 and triplets. That supports the selection lens and a different production world without proving either placement.",
+      "evidence": {
+        "measured": [
+          "release date September 25, 2025; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "The official page describes Eris through Ecuadorian bomba, tribal rhythms, 6/8 and triplets.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A metric and cultural vocabulary change can be purposeful or arbitrary depending on boundary behavior and what follows.",
+        "editorialInterpretation": "Strong adjacent-world lead; middle and tail placements remain untested."
+      }
     },
     {
-      "artist": "Shifted",
-      "track": "Flatlands",
-      "album": "Appropriation Stories",
-      "releaseDate": "2016-10",
+      "artist": "natural/electronic.system.",
+      "track": "Emersione",
+      "album": "Body 2:2 Mind",
+      "releaseDate": "2016-04",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/19982",
+      "discoverySource": "https://ra.co/reviews/18921",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise", "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i", "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY", "incomingBpm": 138, "candidateBpm": null, "outgoingBpm": 138, "purpose": "Test a spatially mobile polyrhythmic gait in the late-middle passage without treating equal neighbor BPM as flow evidence."},
-        {"position": "Before Inigo Kennedy — Marauder", "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716", "candidateBpm": null, "outgoingBpm": 136, "purpose": "Test an overlooked-catalogue overture whose entry into Marauder and long-form proportion remain unknown."}
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a slower-tempo syncopated-drum widening between the early anchors without inferring energy or phrase fit."
+        },
+        {
+          "position": "Before Inigo Kennedy — Marauder",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test an overlooked-catalogue overture whose entry into Marauder and long-form proportion remain unknown."
+        }
       ],
-      "fitHypothesis": "Resident Advisor describes Flatlands' loose-ball-bearing motif rolling around the stereo spectrum while the rhythm section motors forward, within an album characterized by a curious polyrhythmic gait. Belonging is plausible; placement is unproven.",
-      "evidence": {"measured": ["release month October 2016; exact duration and BPM remain for resolver"], "attributedDescription": "Resident Advisor describes a spatially mobile loose-ball-bearing motif over a motoring rhythm section.", "listenerEvidence": "No candidate-specific listener report.", "lawfulAudioEvidence": null, "craftConvention": "Spatial rhythmic displacement can add intention or crowd an articulated run; prose cannot decide the result.", "editorialInterpretation": "Strong overlooked polyrhythmic lead; opening and late-middle placements remain untested."}
+      "fitHypothesis": "Resident Advisor describes Emersione through winding bass and syncopated drums on a slower-tempo compilation. Belonging is plausible; neither the early insertion nor overture function is established.",
+      "evidence": {
+        "measured": [
+          "release month April 2016; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes winding bass and syncopated drums, with pads and bleeps also present.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A slower syncopated construction could widen the opening language or create an accidental reset; prose cannot establish perceived pulse or handoffs.",
+        "editorialInterpretation": "Strong overlooked syncopated lead; opening placements remain untested."
+      }
     },
     {
-      "artist": "Chloé Robinson & DJ ADHD",
-      "track": "0121 Do One",
-      "album": "Do One",
-      "releaseDate": "2023-11",
+      "artist": "Simo Cell",
+      "track": "Stop The Killing (Intello Mix)",
+      "album": "Pour Le Club!",
+      "releaseDate": "2017-12",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/35823",
+      "discoverySource": "https://ra.co/reviews/21852",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position": "Between Rene Wise — Cave and Sciahri — Too Much Time", "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1", "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO", "incomingBpm": 134, "candidateBpm": null, "outgoingBpm": 140, "purpose": "Test a compact syncopated-pattern change across the early widening passage without assuming either handoff."},
-        {"position": "After Len Faki — Stardancer", "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u", "incomingBpm": 137, "candidateBpm": null, "purpose": "Test an adjacent bass-world afterword without inferring pulse or closure from genre."}
+        {
+          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 138,
+          "purpose": "Test counter-intuitive syncopation in the late-middle passage without treating equal neighbour BPM as flow evidence."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test an adjacent bass-techno afterword without inferring closure from genre or title."
+        }
       ],
-      "fitHypothesis": "Resident Advisor describes the exact track as sparse and built around a syncopated snare-and-kick pattern just above 130 BPM. The pattern supports interest; its perceived pulse and journey effect remain unknown.",
-      "evidence": {"measured": ["review reports just over 130 BPM; release month November 2023; resolver may return no exact BPM"], "attributedDescription": "Resident Advisor describes a minimal stereo field organized around a syncopated snare-and-kick pattern.", "listenerEvidence": "No candidate-specific listener report.", "lawfulAudioEvidence": null, "craftConvention": "A compact syncopated pattern can redirect or thin a run; metadata cannot establish either handoff.", "editorialInterpretation": "Strong adjacent syncopation lead; early and tail placements remain untested."}
+      "fitHypothesis": "Resident Advisor identifies the exact Intello Mix through surgical sound design and counter-intuitive syncopations. That supports the volume lens, but perceived pulse, entry, exit and long-form need remain unknown.",
+      "evidence": {
+        "measured": [
+          "release month December 2017; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes the Intello Mix through counter-intuitive syncopations and arpeggios.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Counter-intuitive syncopation may sharpen a hinge or overcrowd an already articulated late-middle run.",
+        "editorialInterpretation": "Strong Livity Sound lead; late-middle and tail placements remain untested."
+      }
     },
     {
-      "artist": "Witch Trials",
-      "track": "Hollow Grave",
-      "album": "Hollow Grave",
-      "releaseDate": "2021-03",
+      "artist": "Lucy",
+      "track": "Starving The Mind",
+      "album": "Flowers From The Ashes: Contemporary Italian Electronic Music",
+      "releaseDate": "2018-04",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/33753",
+      "discoverySource": "https://ra.co/reviews/22376",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {"position": "Between Sciahri — Too Much Time and Sciahri — Moonwake", "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO", "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j", "incomingBpm": 140, "candidateBpm": null, "outgoingBpm": 140, "purpose": "Test a broken-rhythm-to-crescendo transformation between the Sciahri pair without treating equal neighbor BPM as a sequencing argument."},
-        {"position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency", "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY", "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf", "incomingBpm": 138, "candidateBpm": null, "outgoingBpm": 143, "purpose": "Test a dramatic pre-trio threshold while preserving the protected internal trio order."}
+        {
+          "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test a polyrhythmic insertion between the Sciahri pair without treating equal neighbour BPM as a sequencing argument."
+        },
+        {
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test a pre-trio character threshold while preserving the protected internal trio order."
+        }
       ],
-      "fitHypothesis": "Resident Advisor describes a dangling broken-techno rhythm that is overtaken by synth fog and becomes a roaring crescendo. The full-form change strongly fits the lens; its placement effect remains unknown.",
-      "evidence": {"measured": ["release month March 2021; exact duration and BPM remain for resolver"], "attributedDescription": "Resident Advisor describes broken techno overtaken by synth fog and transformed into a crescendo.", "listenerEvidence": "No candidate-specific listener report.", "lawfulAudioEvidence": null, "craftConvention": "A large internal transformation may create a purposeful threshold or dominate the surrounding run; prose cannot establish proportion.", "editorialInterpretation": "Strong full-form lead; middle and pre-trio placements remain untested."}
+      "fitHypothesis": "Resident Advisor calls the exact track nagging polyrhythmic techno offset by a modulated horn. That directly supports belonging, while both proposed placements remain unknown.",
+      "evidence": {
+        "measured": [
+          "release month April 2018; exact duration and BPM remain for resolver"
+        ],
+        "attributedDescription": "Resident Advisor describes Starving The Mind as polyrhythmic techno offset by a spectral modulated horn.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "A persistent polyrhythmic mechanism may deepen or clutter a run depending on boundary behavior and proportion.",
+        "editorialInterpretation": "Strong exact polyrhythmic lead; middle and pre-trio placements remain untested."
+      }
     }
   ]
 }
