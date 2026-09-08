@@ -88,6 +88,12 @@ A set idea is never evidence that A → B mixes well. `live-mixing.md` remains t
 
 **Ingredients:**
 
+- CiCi — `Extraneous` — exact PARKED adjacent discovery; reviewer-described broken beats, double-time transition and abrupt stop, with both canonical placements untested
+- Roman Flügel — `Pattern One` — exact PARKED catalogue discovery; reviewer-described lopsided bounce and percussion, with early and late-middle placements untested
+- Alex Mein Smith — `Neon Data Void` — exact PARKED current discovery; loop-free, structurally dissolving context is release-level rather than track-specific
+- Jonny L — `Piper (Peverelist Remix)` — unresolved catalogue lead; reviewer-described angular, broken-feel remix
+- PLO Man — `fig. 015` — unresolved exact-track lead; reviewer-described funk misdirection and half-time techno
+
 - Leo — `Spirit Level` — exact PARKED current discovery; official constantly shifting self-bending rhythm and review-described polyrhythmic transformation, with both canonical placements untested
 - Akiid — `Skeffu` — exact PARKED emerging different-world discovery; official amapiano/jazz/gqom/minimal-techno hybrid description, with early and tail placements untested
 - The Field — `Who Goes There` — exact PARKED catalogue discovery; official arrhythmic stealth-acid/off-kilter-motorik description, with opening and pre-trio placements untested

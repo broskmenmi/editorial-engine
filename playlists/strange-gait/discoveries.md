@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Read that archive whenever a current decision depends on pre-Run-52 candidate evidence, prior resolver receipts, or historical verdict scope. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 69 — EXPLORE — broken-form club mechanics, lopsided catalogue and loop-free current techno — 2026-09-08
+
+**Pre-audit:** EXPLORE. Run 68 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 101 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Cici, Jonny L/Peverelist, PLO Man, Roman Flügel and Alex Mein Smith lanes rather than recycling Runs 53–68.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T04:52:28Z-explore-69`
+- **sourceCommit:** `1bf31ae4e5df1299a5b1987269232c7bbf6a3030`
+- **request commit:** `2a527e5009fc1183366e118de47d98205d61ea56`
+- **snapshot commit:** `0725e46356d4af3b533a0780ac8e21dbc4d280ca`
+- **request fingerprint:** `f9c4a2812a569ff55e9280b091e09c8391288d0edd8002c2ffb8a7d51c54dee1`
+- **scope:** approximately 41 named tracks across current releases, adjacent/emerging artists and labels, and overlooked catalogue windows. Metadata and attributed descriptions only; no audio audition.
+- **resolver:** valid schemaVersion 2 PARTIAL; 5 requested → 3 exact resolutions and selected candidates + 2 unresolved; two warnings; no duplicates, substitutions or resolved alternates.
+
+### Resolver outcomes preserved exactly
+
+1. **CiCi — Extraneous** — RESOLVED and selected: `spotify:track:0UMkNUSe3ADZ2DIh8fhR6C`; Spotify album `Extraneous`, release date `2021-07-16`, duration 4:39, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2021-07" but Spotify returned "2021-07-16"`.
+2. **Roman Flügel — Pattern One** — RESOLVED and selected: `spotify:track:4LqzPjVTdZH8TNBd1FhilV`; Spotify album `Tracks On Delivery`, release date `2020-10-23`, duration 5:47, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2000" but Spotify returned "2020-10-23"`.
+3. **Alex Mein Smith — Neon Data Void** — RESOLVED and selected: `spotify:track:43BP1o04BCjkSSgTFHcoV4`; Spotify album `Hem`, release date `2026-07-14`, duration 8:19, BPM unavailable.
+4. **Jonny L — Piper (Peverelist Remix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **PLO Man — fig. 015** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### CiCi — Extraneous — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track moving through broken beats, a bridge into distorted double-time material, and an abrupt stop. This is direct rhythmic and structural-freedom evidence without implying that the workflow heard the track.
+- **Immediate transition:** UNKNOWN. Neither `Moonwake → Extraneous → Capa` nor `Truth in Noise → Extraneous → Transparency` has sourced exact BPM/pulse, phrase, entry, exit or mix evidence. The release-level review places the EP near 128 BPM, but that does not establish exact-track tempo or transition quality.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Its documented internal turn could create a purposeful middle pivot or pre-trio interruption, but either placement could also over-articulate a run already carrying distinct mechanisms. Source prose cannot decide the attention effect.
+- **Long-form journey:** NOT PROVEN. Strong fit does not show that another conspicuous structural stage improves the current 14-track journey.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the exact Spotify date warning remains attached.
+
+#### Roman Flügel — Pattern One — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track's lopsided bounce and percussion, supporting rhythmic interest without requiring novelty or genre orthodoxy.
+- **Immediate transition:** UNKNOWN. `The Witching Hour → Pattern One → Cave` and `Drummz → Pattern One → Truth in Noise` remain lawful hypotheses, but exact BPM/pulse, phrasing, entry and exit are unavailable. The project's ability to reach 140 BPM was not transferred to this exact track.
+- **Surrounding three-to-five-track run:** NOT PROVEN. The early position could be a deliberate change or recreate the listener's resolved disconnected-opening problem; the later position could sharpen or crowd the Drummz-to-Truth consolidation. Neither local run is established.
+- **Long-form journey:** NOT PROVEN. Catalogue significance and technical character do not prove a net journey gain.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as genuinely interesting; the Spotify reissue-date warning remains attached.
+
+#### Alex Mein Smith — Neon Data Void — PARKED
+
+- **Volume fit:** PROVISIONAL. The official release describes `Hem` as loop-free, improvised techno built from subtleties and structures that dissolve; Bandcamp Daily independently frames the release around dynamic techno and breaks. This is relevant current-release context, but it does not establish Neon Data Void's exact rhythmic behaviour.
+- **Immediate transition:** UNKNOWN. Before Marauder or after Stardancer, BPM/pulse, phrasing, entry, exit and exact-track behaviour are unavailable. Boundary placement does not remove the need for transition evidence.
+- **Surrounding three-to-five-track run:** NOT PROVEN. A long opening threshold or tail afterword could be deliberate, but release-level context cannot establish either local-run effect.
+- **Long-form journey:** NOT PROVEN. Currentness, duration and loop-free album context do not demonstrate that the present beginning or ending needs expansion.
+- **Verdict:** PARKED, not rejected. Retained locally and globally as a genuinely interesting exact current discovery.
+
+The two unresolved leads receive no musical verdict. Piper (Peverelist Remix) retains exact review evidence of an angular remix whose drums create a broken feel; fig. 015 retains exact review evidence of funk misdirection and half-time techno. Neither is a canonical candidate or global utility input without a resolver-selected exact identity.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the current pre-request SHA and its matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; both exact unresolved errors and both release-date warnings are preserved; every candidate is judged at volume, transition, local-run and long-form scales; release-level tempo is not transferred to exact tracks; BPM is not treated as energy or flow; no canonical or protected edge changes; and only the three explicitly retained exact tracks enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **14 → 14 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration layer: three exact PARKED tracks and two unresolved research leads added; the different-world set direction enriched.
+- EDITORIAL ENGINE — DISCOVERY POOL: **101 → 104 exact tracks**, adding Extraneous, Pattern One and Neon Data Void.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 41 inspected → 5 ranked leads → 3 exact resolutions + 2 unresolved → 3 selected evaluations → 0 ADD + 3 PARKED → 3 global utility additions. Extraneous is the strongest canonical hypothesis because its exact review documents an internal broken-beat-to-double-time transformation and abrupt ending. The strongest counterargument is that this structural arc may create exactly the purposeful middle or pre-trio turn the journey permits. The run proves three exact tracks are worthwhile discoveries and that the scan crossed current, adjacent/emerging and overlooked lanes. It does not prove their proposed placements fail, that either unresolved lead lacks another lawful Spotify identity, or that STRANGE GAIT is complete.
+
 ## Run 68 — EXPLORE — shifting rhythm, hybrid club forms and arrhythmic catalogue — 2026-09-08
 
 **Pre-audit:** EXPLORE. Run 67 left STRANGE GAIT at 14 canonical tracks and the global utility playlist at 98 exact tracks, both with matching COMPLETE receipts. The generated map matched canonical state; active listener discussion was empty; no revisit was TRIGGERED; the listener-protected trio remained intact; and no actionable objective defect or unfinished repair was present. The scan moved into Peak Oil, Hakuna Kulala, Pressure Dome, Kompakt and Fever AM lanes rather than recycling Runs 53–67.
