@@ -2,6 +2,16 @@
 
 Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 100 — EXPLORE — interrupted force, delayed pulse and unstable subdivision
+
+Nine ranked leads from approximately 32 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two exact alternates and five preserved release-date warnings. There were no duplicates, substitutions or terminal technical errors.
+
+**Decision:** 0 ADD. Shed — *The Bot*, Ital Tek — *Undertow* and Shed — *Final Experiment* each receive placement-specific REJECT verdicts at two positions. All three pass the selection lens through delayed beat arrival, refusal to settle or irregular palpitation. Their tested central, late-middle and tail placements fail because they restate an already legible reset, search or deformation rather than reveal a missing movement. Unknown handoffs and BPM did not function as vetoes.
+
+STRANGE GAIT remains unchanged at 21 tracks. The listener-protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 179 to 182 tracks with the three exact selected candidates.
+
+Across Runs 87–100, the repaired funnel has produced 125 leads from approximately 557 inspections and 6 ADDs from 34 selected candidates. The recent ADD rate is 3/10 across Runs 91–100, versus 7/46 across Runs 55–100. The current no-ADD streak is four runs; the last canonical addition was Run 96. Nine exact tracks have been retained globally since that addition. Playlist maturity best explains the current restraint; repeated central/pre-close placement testing remains a workflow watch, not yet an actionable repair.
+
 ## Run 99 — EXPLORE — rhythmic materialisation, spatial action and dub swing
 
 Nine ranked leads from approximately 24 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates and three exact alternates. There were no warnings, duplicates, substitutions or terminal technical errors.

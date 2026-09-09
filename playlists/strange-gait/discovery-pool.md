@@ -4,6 +4,28 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 100 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Shed | The Bot | https://open.spotify.com/track/0JYReq5QL41eeG2ygPVsuW | Placement-specific REJECT for Capa → candidate → Trompe L'oeil and Stardancer → candidate → Invisible Warriors Of Light only. Delayed syncopated-beat arrival retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Ital Tek | Undertow | https://open.spotify.com/track/6kTPOvaYtkEr3Ez1703OUc | Placement-specific REJECT for Pulse I → candidate → Fragments and Drummz → candidate → Amor only. Exact non-settling rhythmic search retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Shed | Final Experiment | https://open.spotify.com/track/6x2Blvoka638r4vO5DH5VU | Placement-specific REJECT for Tehutis Law → candidate → Pulse I and Fragments → candidate → Drummz only. Exact irregular-palpitation discovery retained globally; BPM and handoffs remain unknown. |
+| RESEARCH LEAD | Ital Tek | Kill Switch | https://planet.mu/releases/mind-abandon/ | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1g16IPVNnMEe9SZYQFyGAk, 0gngVH28eZYPxaVQzNEUFk)`; no musical verdict. |
+| RESEARCH LEAD | Batu, Donato Dozzy | Exhale | https://ra.co/reviews/36359 | Resolver error `no exact Spotify title/artist search match in market SE`; loose-syncopation-to-stepper evidence retained without verdict. |
+| RESEARCH LEAD | Batu, Donato Dozzy | Swarm | https://ra.co/reviews/36359 | Same no-match error; disintegrating near-emptiness evidence retained without verdict. |
+| RESEARCH LEAD | Batu, Donato Dozzy | Off Axis | https://batutimedance.bandcamp.com/album/exhale-2 | Same no-match error; official tension-release description retained without verdict. |
+| RELEASE WATCH | Ital Tek | Mind Abandon | https://planet.mu/releases/mind-abandon/ | Current processed-guitar, live-percussion and rhythm-emerging-from-texture release window. Exact-track claims remain attached only to cited identities. |
+| RELEASE WATCH | Batu, Donato Dozzy | Exhale | https://batutimedance.bandcamp.com/album/exhale-2 | Current collaborative study in contrasting rhythmic languages; previously unresolved Spiral and Flicker/Flickers were not retried. |
+| CATALOGUE WATCH | Shed | The Traveller | https://ra.co/reviews/7825 | Overlooked concise, nonlinear techno album retained for structural research. |
+
+### Placement and inspiration boundaries
+
+- The Bot, Undertow and Final Experiment are not globally rejected. Only their two Run 100 placements are rejected.
+- Kill Switch, Exhale, Swarm and Off Axis remain unresolved identities and do not enter the global utility ledger.
+- Misted and Keep Time resolved as alternates but were not selected, evaluated or explicitly retained as decisions.
+- No sequence, phrase fit, felt-state scalar or live-mixing edge is proven.
+
 ## Run 99 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

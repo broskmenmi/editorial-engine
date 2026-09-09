@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 100
+
+### A delayed beat is not automatically a reset
+
+**Direction:** Explore the difference between withholding a governing pulse and changing the long-form direction. A beat can arrive late, refuse to settle or fragment bodily prediction without supplying the playlist another necessary reset.
+
+**Ingredients:**
+
+- Shed — *The Bot* — exact placement-specific reject; documented slow atmosphere with a syncopated beat arriving after four minutes.
+- Ital Tek — *Undertow* — exact placement-specific reject; documented groove-search that never settles.
+- Shed — *Final Experiment* — exact placement-specific reject; documented irregular palpitations resistant to easy bodily mapping.
+- Ital Tek — *Kill Switch* — unresolved current research into strategic silence inside forceful rhythm.
+- STRANGE GAIT's current `Capa → Trompe L'oeil → Thick to Handle` and `Tehutis Law → Pulse I → Fragments` remain canonical reference structures, not claimed mixes with these ingredients.
+
+**Why interesting:** Techno can make absence, delay and instability feel active. At track scale these devices alter expectation; at set scale they matter only when the altered expectation changes what the following music means.
+
+**Unknown/risk:** No listed transition is proven. BPM, phrase structure, perceived pulse, density, exact felt state and live-mixing behaviour remain UNKNOWN. Kill Switch is unresolved.
+
 ## Current additions — Run 99
 
 ### A new clock is not automatically a new destination

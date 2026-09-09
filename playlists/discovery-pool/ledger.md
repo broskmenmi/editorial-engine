@@ -183,6 +183,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 177 | Eden Aurelius, Pontiac Streator | Ion | spotify:track:6ktWd9pOARwUR44p3qTUM5 | STRANGE GAIT Run 99 | Placement-specific reject / interesting | 2026-09-09 |
 | 178 | Conna Haraway | Duration | spotify:track:0WtZ20ZdbX9UruMMJGuHJj | STRANGE GAIT Run 99 | Placement-specific reject / interesting | 2026-09-09 |
 | 179 | K Wata | Whisper Dub | spotify:track:6E2TNzGKaI8oBAJPYBJsK9 | STRANGE GAIT Run 99 | Placement-specific reject / interesting | 2026-09-09 |
+| 180 | Shed | The Bot | spotify:track:0JYReq5QL41eeG2ygPVsuW | STRANGE GAIT Run 100 | Placement-specific reject / interesting | 2026-09-09 |
+| 181 | Ital Tek | Undertow | spotify:track:6kTPOvaYtkEr3Ez1703OUc | STRANGE GAIT Run 100 | Placement-specific reject / interesting | 2026-09-09 |
+| 182 | Shed | Final Experiment | spotify:track:6x2Blvoka638r4vO5DH5VU | STRANGE GAIT Run 100 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -2,6 +2,81 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 100 — EXPLORE — interrupted force, delayed pulse and unstable subdivision — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 179 exact tracks, both with matching COMPLETE receipts. No current REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 99 produced specific placement decisions rather than an actionable defect.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T11:51:12Z-explore-100`
+- **sourceCommit:** `06d03242873d0e78342c085d5c538a16ddbc1572`
+- **request commit:** `68ab5292901f4de10d22e3ec6fe2aec887152bc5`
+- **request fingerprint:** `7dbb48ee19566cdb489469b18612799f6b8813bd81b6520c395d497b887c4c9b`
+- **scope:** approximately 32 named tracks across Batu & Donato Dozzy's current `Exhale`, Ital Tek's current `Mind Abandon` and Shed's overlooked `The Traveller`; official release pages and attributed exact-track criticism only; no audio audition.
+- **freshness:** Run 99's Short Span ecosystem and Run 98's sources were not retried. Previously unresolved Batu & Donato Dozzy titles `Spiral` and `Flicker/Flickers` were excluded.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 5 exact resolutions + 4 unresolved; 3 selected candidates + 2 unevaluated exact alternates; five release-date warnings; no duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Ital Tek — Kill Switch | UNRESOLVED — `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1g16IPVNnMEe9SZYQFyGAk, 0gngVH28eZYPxaVQzNEUFk)` | NOT COMPLETED |
+| 2 | Batu, Donato Dozzy — Exhale | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 3 | Shed — The Bot | RESOLVED — `spotify:track:0JYReq5QL41eeG2ygPVsuW`; `The Traveller`; Spotify release `2016-10-21`; 6:23; BPM unavailable | SELECTED |
+| 4 | Batu, Donato Dozzy — Swarm | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 5 | Ital Tek — Undertow | RESOLVED — `spotify:track:6kTPOvaYtkEr3Ez1703OUc`; `Mind Abandon`; Spotify release `2026-05-15`; 6:56; BPM unavailable | SELECTED |
+| 6 | Shed — Final Experiment | RESOLVED — `spotify:track:6x2Blvoka638r4vO5DH5VU`; `The Traveller`; Spotify release `2016-10-21`; 3:04; BPM unavailable | SELECTED |
+| 7 | Batu, Donato Dozzy — Off Axis | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Ital Tek — Misted | RESOLVED — `spotify:track:3Wy17c8tyi0bWAJ4a5Wei5`; 5:21; BPM unavailable | UNEVALUATED ALTERNATE |
+| 9 | Shed — Keep Time | RESOLVED — `spotify:track:0CJKU3HMTwwocYOVVPiCwz`; 3:01; BPM unavailable | UNEVALUATED ALTERNATE |
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2010-08" but Spotify returned "2016-10-21"` — The Bot, Final Experiment and Keep Time.
+- `Exact title/artist matched with release metadata variance: release date requested "2026-06" but Spotify returned "2026-05-15"` — Undertow and Misted.
+
+### Candidate evaluations
+
+#### Shed — The Bot — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Resident Advisor describes a slow atmospheric track whose syncopated beat takes four minutes to arrive; Pitchfork describes ghostly keyboards, an anvil-like kick and dub-reggae-like percolation. Its delayed disclosure of pulse clears the selection lens.
+- **Immediate transition quality:** UNKNOWN. Neither `Capa → The Bot → Trompe L'oeil` nor `Stardancer → The Bot → Invisible Warriors Of Light` has phrase, perceived-pulse, density, entry, exit or live-mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `Moonwake → Capa → The Bot → Trompe L'oeil → Thick to Handle` would follow rhythmic redirection with a four-minute delayed beat, then enter the existing slower stagger and immediate deformation: two successive withdrawals of bodily certainty before recovery. `When We Froze → Stardancer → The Bot → Invisible Warriors Of Light` turns the current concise afterword into a second, 6:23 intermediate ending.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The central test expands a reset already repeatedly articulated; the tail test weakens the distinction between the protected close and its short electro-soul afterword.
+- **Verdict:** **REJECT the two Run 100 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+#### Ital Tek — Undertow — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Igloo documents a harsh rhythm that searches for a groove without settling and ends unresolved; Planet Mu identifies looping guitar against pulsing Rhodes. Refusal to lock is compositionally central rather than novelty alone.
+- **Immediate transition quality:** UNKNOWN. The tested `Pulse I → Undertow → Fragments` and `Drummz → Undertow → Amor` handoffs lack phrase, perceived-pulse, density, entry, exit and live-mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `Tehutis Law → Pulse I → Undertow → Fragments → Drummz` inserts a second unresolved-search stage after crooked accumulation and before clearer drive. `Fragments → Drummz → Undertow → Amor → Truth in Noise` stacks unpredictable rhythm, non-settling search and machine-to-hand-drum mutation before consolidation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. At 6:56, either insertion prolongs an existing account of instability without showing what the added non-resolution allows the next music to mean.
+- **Verdict:** **REJECT the two Run 100 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+#### Shed — Final Experiment — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork's exact-track account identifies irregular palpitations resistant to easy bodily mapping, inside an album that refuses fixed techno formula.
+- **Immediate transition quality:** UNKNOWN. Neither `Tehutis Law → Final Experiment → Pulse I` nor `Fragments → Final Experiment → Drummz` has phrase, perceived-pulse, density, entry, exit or live-mix evidence. BPM is unavailable.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `Thick to Handle → Tehutis Law → Final Experiment → Pulse I → Fragments` turns re-grounding into two consecutive stages of irregularity before re-escalation. `Pulse I → Fragments → Final Experiment → Drummz → Amor` inserts another deformation between clearer drive and the already unpredictable Drummz hinge.
+- **Long-form journey:** FAILS THESE PLACEMENTS. Its concise 3:04 duration limits structural cost, but neither slot reveals a missing journey movement; each makes an existing passage more technically explicit.
+- **Verdict:** **REJECT the two Run 100 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+The four unresolved leads receive no musical verdict. Misted and Keep Time remain exact unevaluated alternates only.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the immediate pre-request main SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and request fingerprint match; 9 requested = 5 resolved + 4 unresolved; 3 selected candidates + 2 exact alternates; every warning and resolver error is preserved. Only the three selected exact identities were evaluated. All three were judged separately at volume, immediate-transition, local-run and long-form scales. Missing audio remained UNKNOWN rather than an automatic veto; the placement failures arise from repeated journey movements. Protected state remains untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **21 canonical tracks**, with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains the three exact selected candidates, four unresolved research leads and the three source windows; exact alternates are not promoted.
+- EDITORIAL ENGINE — DISCOVERY POOL: **179 → 182 exact tracks**, adding The Bot, Undertow and Final Experiment.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 32 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across Runs 87–100, the repaired funnel has produced 125 leads from approximately 557 inspections and 6 ADDs from 34 selected candidates. The recent ADD rate is 3/10 across Runs 91–100, versus 7/46 across Runs 55–100. The no-ADD streak is four runs; the last canonical addition was Run 96. Nine exact tracks have been retained globally since that addition. The fresh-source and resolution funnels remain productive; the dominant non-ADD explanation is playlist maturity, with repeated central/pre-close placement testing still a workflow watch. It is not yet an actionable repair because each exact candidate independently pointed toward those boundaries and received concrete negative decisions. The run does not prove the tracks globally incompatible, the playlist complete, or any live transition workable.
+
 ## Run 99 — EXPLORE — rhythmic materialisation, spatial action and dub-swing audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 176 exact tracks, both with matching COMPLETE receipts. The felt map matched the 21-track ledger; no current REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 98 produced specific editorial outcomes rather than an actionable defect, so this scan moved into current Short Span releases and an overlooked 2025 EP.
