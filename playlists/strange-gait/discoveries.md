@@ -2,6 +2,78 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 91 — EXPLORE — transformation-led overture audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 18 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 158 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, the generated map matched canonical state and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 90 had ended the four-run ADD streak with a concrete boundary-cost rejection, so over-expansion remained a watch rather than an actionable REPAIR defect.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T02:51:09Z-explore-91`
+- **sourceCommit:** `9de3a2eda1ca27f1474bb51b135e0192fb506a1f`
+- **request commit:** `829e9e857fcba5a0b958e69986739d83d4b9b299`
+- **snapshot commit:** `19b8e8dee2df844c851dbd4616d2a16c008b79c8`
+- **request fingerprint:** `cc4ebf51f9f3c88846d81b29e57b68c884c8567a84b9fb9ff80965758d26f3bd`
+- **scope:** approximately 44 named tracks and releases across March–September 2026 current windows, adjacent/emerging club music and overlooked 2017–2023 techno/electro/bass catalogue reviews; metadata and attributed descriptions only; no audio audition.
+- **freshness:** exact repository checks excluded Purelink — Pinned as a Run 65 PARKED identity; canonical identities, active placement-specific rejects, untriggered PARKED revisits, previously retained exact identities and unresolved leads without materially new identity evidence were excluded.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 7 exact resolutions + 2 unresolved; 3 selected candidates + 4 resolved alternates; 5 warnings; no duplicates, substitutions or terminal technical errors.
+
+### Resolver outcomes preserved
+
+1. **RHR — PULSAÇÃO** — RESOLVED and selected: `spotify:track:3vNfVj15ccr8kVFVTM9z6F`; Spotify `GÍRIA`, `2026-03-06`, 3:12; BPM unavailable; no warning.
+2. **Purelink — Stadium Drive** — RESOLVED and selected: `spotify:track:54XRZaNSCrGuNTrFHmXVKP`; Spotify `Signs`, `2023-09-15`, 5:40; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023-09" but Spotify returned "2023-09-15"`.
+3. **Yazzus — Human Error Processor** — RESOLVED and selected: `spotify:track:2pvyBLVixnCOD6yq2mgieZ`; Spotify `Black Metropolis`, `2022-10-21`, 6:54; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2022-10" but Spotify returned "2022-10-21"`.
+4. **Yazzus — Metro City Bay Area** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (101StJgtFO6dkT3fN5EiBC, 4gn8yKfTWLDmZZamoWgkfb)`.
+5. **Angus Mills — Yelp** — RESOLVED alternate, not selected or evaluated: `spotify:track:3lRks8zsBxnpEe6oLmXng3`; 5:17. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023-03" but Spotify returned "2023-03-01"`.
+6. **Enayet — Chokkor** — RESOLVED alternate, not selected or evaluated: `spotify:track:0dc0UEtKpQaaI3bW3bnv6x`; 5:06. Warning: `Exact title/artist matched with release metadata variance: release date requested "2021-02" but Spotify returned "2021-02-12"`.
+7. **LA-4A — Panic** — RESOLVED alternate, not selected or evaluated: `spotify:track:6gNDsBtH8e6qIwqv56gCWe`; 4:42. Warning: `Exact title/artist matched with release metadata variance: release date requested "2017-06" but Spotify returned "2017-06-23"`.
+8. **Roman Flügel — Smell Flashback** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **RHR — SÓ ENVOLVIDO** — RESOLVED alternate, not selected or evaluated: `spotify:track:11naxpG1sUd891hzW1QPW9`; 3:39; no warning.
+
+No duplicate, substitution or terminal resolver error occurred. The four alternates receive no canonical verdict and are excluded from the global utility ledger because they were not selected and explicitly retained.
+
+### Candidate evaluations
+
+#### Purelink — Stadium Drive — ADD
+
+- **Volume fit:** PASS. The exact review documents a complete transformation from New Age ambience into broken techno, directly matching the selection lens's interest in form that resists one fixed correct state.
+- **Immediate transition:** PASS as a provisional editorial hypothesis before Marauder. Exact phrase fit, perceived pulse and mixability are UNKNOWN; they are not treated as proof. The candidate's documented arrival into broken techno gives the boundary a concrete reason rather than relying on novelty.
+- **Surrounding three-to-five-track run:** PASS. `Stadium Drive → Marauder → The Witching Hour → Cave` now begins with rhythm assembling before the existing stable opening continues and widens. This changes the function of the opening rather than merely inserting another mechanism.
+- **Long-form journey:** PASS. A 5:40 overture is consequential, but it occupies a new boundary function after Run 90 explicitly rejected an 11:43 preface. It leaves all protected state untouched.
+- **Verdict:** **ADD before Marauder.** Provisional; audio and live mixing remain untested.
+
+#### RHR — PULSAÇÃO — PARKED
+
+- **Volume fit:** PASS. Exact current evidence documents finger-drumming/live-remixing practice, eerie textures and acid whiplashes.
+- **Immediate transition:** UNKNOWN for both tested placements, but not failed merely for lack of audio.
+- **Surrounding three-to-five-track run:** NOT PROVEN. Before Trompe L'oeil it would stack another conspicuous mechanism inside the already extended `Moonwake → Capa → Trompe L'oeil → Thick to Handle` passage; before Transparency it would reintroduce friction after Truth in Noise's current consolidation.
+- **Long-form journey:** NOT PROVEN. Its 3:12 scale limits duration cost, but freshness and technical interest do not establish net gain.
+- **Verdict:** **PARKED** for a changed central/pre-trio need or materially new connective evidence.
+
+#### Yazzus — Human Error Processor — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Exact review evidence identifies electro-techno fusion, stuttering vocals and hydraulic effects.
+- **Immediate transition:** UNKNOWN at both tested boundaries and not used as an automatic veto.
+- **Surrounding three-to-five-track run:** FAIL for the proposed slots. The early test would make `Stadium Drive → Marauder → The Witching Hour → candidate → Cave` an over-articulated opening; the tail test follows the protected close with another 6:54 stage but no distinct afterword arc.
+- **Long-form journey:** FAIL for these placements only. Neither earns a second opening mechanism or second ending.
+- **Verdict:** **REJECT the two Run 91 placements only**, not the track globally. Retain as genuinely interesting.
+
+The unresolved identities receive no musical verdict.
+
+### Auditor approval
+
+**APPROVED.** The request is pinned to the immediate pre-write SHA and the matching schemaVersion 2 snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 7 exact resolutions + 2 unresolved; 3 selected candidates + 4 alternates; all warnings and exact resolver errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, local-run and long-form scales. Unknown audio facts remained unknown. The protected trio is untouched. Auditor approves the Stadium Drive ADD, PULSAÇÃO PARK, two-placement Human Error Processor rejection, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **18 → 19 canonical tracks**; add Purelink — Stadium Drive before Marauder; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three selected exact tracks, two unresolved research leads, four unevaluated alternates recorded without verdict, and two current release watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **158 → 161 exact tracks**, adding Stadium Drive, PULSAÇÃO and Human Error Processor.
+- Journey-map annotations: add Stadium Drive as provisional transformation-led overture and renumber downstream positional labels; generated outputs remain GitHub Actions' responsibility.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 44 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → **1 ADD + 1 PARKED + 1 placement-specific REJECT** → 3 utility additions. Lead conversion is **9/44 (20.5%)**, exact-resolution conversion **7/9 (77.8%)**, and candidate-to-ADD conversion **1/3 (33.3%)**. Across Runs 87–91 the repaired funnel produced **44 leads from 214 inspections** and **4 ADDs from 13 selected candidates**. The recent canonical ADD rate is **4/10 across Runs 82–91**, versus **5/37 across Runs 55–91**. The strongest counterargument is that Stadium Drive may create a five-minute prefatory stage whose final broken-techno state still does not guarantee the Marauder handoff. This risk is explicit. The run proves the repaired funnel can admit a boundary-changing track while rejecting or parking other strong fits for concrete local and long-form reasons; it does not prove phrase fit, perceived pulse, energy, density or live mixing and establishes no ADD quota.
+
 ## Run 90 — EXPLORE — boundary-cost audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. Run 89 left STRANGE GAIT at 18 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 157 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. Four consecutive ADDs and the approximately 1h48m journey created an explicit over-expansion watch, but recent additions occupied distinct positions and recent evaluations still produced candidate-specific negative verdicts; no actionable workflow defect was established.

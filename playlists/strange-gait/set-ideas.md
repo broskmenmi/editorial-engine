@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 91
+
+### Let rhythm appear before the first anchor
+
+**Direction:** Explore overtures that begin outside the established techno frame but visibly assemble rhythmic structure before the first anchor, so a change of production world has long-form intent.
+
+**Ingredients:**
+
+- Purelink — Stadium Drive — exact Run 91 canonical ADD; documented New Age opening collecting itself into broken techno
+- Inigo Kennedy — Marauder — previous canonical opener, now the first established anchor after the overture
+- Inigo Kennedy — The Witching Hour — canonical controlled continuation
+- RHR — PULSAÇÃO — exact PARKED current contrast with finger-drumming/live-remixing and acid-whiplash evidence
+- Yazzus — Human Error Processor — exact placement-specific reject whose electro-techno fusion remains interesting outside the tested slots
+
+**Why interesting:** A boundary can change character sharply yet still feel intentional when the candidate's own form constructs the route into the existing journey.
+
+**Unknown / risk:** No pairwise phrase fit, perceived-pulse relation, BPM relation, energy, density, key, mixability or live edge is established. Stadium Drive's placement is provisional; the other discoveries are not asserted to mix with it or the canonical opening.
+
 ## Current additions — Run 90
 
 ### A boundary must earn a second beginning or ending

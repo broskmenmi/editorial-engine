@@ -4,6 +4,21 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 91 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Purelink | Stadium Drive | https://open.spotify.com/track/54XRZaNSCrGuNTrFHmXVKP | Canonical ADD before Marauder. Exact 5:40 transformation from New Age opening into broken techno provides a provisional long-form overture; handoff and phrase fit remain unknown. Spotify date warning preserved. |
+| EXACT TRACK | RHR | PULSAÇÃO | https://open.spotify.com/track/3vNfVj15ccr8kVFVTM9z6F | PARKED. Current exact evidence documents Brazilian finger-drumming/live-remixing, eerie textures and acid whiplashes; central and pre-trio placements remain unproven. |
+| EXACT TRACK | Yazzus | Human Error Processor | https://open.spotify.com/track/2pvyBLVixnCOD6yq2mgieZ | Placement-specific REJECT for The Witching Hour → candidate → Cave and after Stardancer only. Exact 6:54 electro-techno/stuttering-vocal/hydraulic-effects discovery retained globally. |
+| RESEARCH LEAD | Yazzus | Metro City Bay Area | https://ra.co/reviews/35178 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (101StJgtFO6dkT3fN5EiBC, 4gn8yKfTWLDmZZamoWgkfb)`; no musical verdict. |
+| RESEARCH LEAD | Roman Flügel | Smell Flashback | https://ra.co/reviews/22063 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RELEASE WATCH | HVL | Formation | https://kiyadama.bandcamp.com/album/formation | July 2026 Kiyadama release watch; release-level evidence only, with no invented track behaviour. |
+| RELEASE WATCH | Posthuman | Gang of 404 | https://posthuman.bandcamp.com/album/gang-of-404 | July 2026 Balkan Vinyl release watch; release-level electro context only, not an exact-track verdict. |
+
+- Angus Mills — Yelp, Enayet — Chokkor, LA-4A — Panic and RHR — SÓ ENVOLVIDO resolved as exact alternates but were not selected or evaluated. They receive no verdict and are not added to the global utility ledger.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
 ## Run 90 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

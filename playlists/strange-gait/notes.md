@@ -1,6 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 18 tracks — Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 19 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 91 — EXPLORE — transformation-led overture audit
+
+Nine ranked leads from approximately 44 inspections produced a matching schemaVersion 2 PARTIAL snapshot: seven exact Spotify resolutions, two unresolved leads, three selected candidates and four unevaluated alternates. Five release-date warnings and both exact resolver errors are preserved in `discoveries.md`.
+
+**Decision:** ADD Purelink — Stadium Drive (`spotify:track:54XRZaNSCrGuNTrFHmXVKP`) before Marauder. The exact 5:40 track passes the selection lens through a documented New Age opening that assembles itself into broken techno one limb at a time. Immediate transition evidence to Marauder is UNKNOWN, but the candidate's documented final state makes the handoff a responsible provisional hypothesis. The surrounding run becomes `Stadium Drive → Marauder → The Witching Hour → Cave`: a complete rhythmic formation before the existing techno opening, rather than another unexplained internal stage. At long-form scale, it creates a distinct overture and shifts no protected handoff.
+
+PARK RHR — PULSAÇÃO (`spotify:track:3vNfVj15ccr8kVFVTM9z6F`). Its documented finger-drumming/live-remixing construction, eerie textures and acid whiplashes strongly pass the selection lens. The Capa → candidate → Trompe L'oeil test would stack another major mechanism before the existing slower-pulse pocket, while Truth in Noise → candidate → Transparency would reopen friction after the current consolidation. Both remain musically plausible, but neither presently earns its local-run and journey cost.
+
+Placement-specific REJECT Yazzus — Human Error Processor (`spotify:track:2pvyBLVixnCOD6yq2mgieZ`) for The Witching Hour → candidate → Cave and a post-Stardancer afterword only. Its electro-techno fusion, stuttering vocals and hydraulic effects are genuinely interesting. The early placement would lengthen the opening immediately after the new 5:40 overture, while the tail placement would append a 6:54 second ending without a distinct boundary arc. This is not a global rejection.
+
+STRANGE GAIT grows 18 → 19 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 158 → 161 exact tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Lead conversion is 9/44 (20.5%), exact resolution is 7/9 (77.8%), and selected-candidate-to-ADD conversion is 1/3 (33.3%). Across Runs 87–91 the repaired funnel admitted 44 leads from 214 inspections and added 4 of 13 selected candidates. Over-expansion remains a watch, not a confirmed defect: this addition changes the boundary architecture after a no-ADD audit and the run still makes candidate-specific negative decisions.
 
 ## Run 90 — EXPLORE — boundary-cost audit
 
