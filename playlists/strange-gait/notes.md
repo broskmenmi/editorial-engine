@@ -2,6 +2,16 @@
 
 Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 99 — EXPLORE — rhythmic materialisation, spatial action and dub swing
+
+Nine ranked leads from approximately 24 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates and three exact alternates. There were no warnings, duplicates, substitutions or terminal technical errors.
+
+**Decision:** 0 ADD. Eden Aurelius with Pontiac Streator — *Ion*, Conna Haraway — *Duration* and K Wata — *Whisper Dub* each receive placement-specific REJECT verdicts at two positions. All three pass the selection lens: the first materialises 4/4 from loping implication, the second holds phasing around a syncopated beat, and the third fuses dub-techno with spare post-dubstep logic. Their tested central, pre-trio and tail placements fail because they add another complete arrival, threshold or mediated coda where the 21-track journey already states that movement clearly. Unknown handoffs and BPM did not function as vetoes.
+
+STRANGE GAIT remains unchanged at 21 tracks. The listener-protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 176 to 179 tracks with the three exact selected candidates.
+
+Across Runs 87–99, the repaired funnel has produced 116 leads from approximately 525 inspections and 6 ADDs from 31 selected candidates. The recent ADD rate is 3/10 across Runs 90–99, versus 7/45 across Runs 55–99. The current no-ADD streak is three runs; the last canonical addition was Run 96. The fresh source mix retained three exact tracks globally while exposing a useful distinction between track-level rhythmic arrival and long-form destination; no actionable musical REPAIR emerged.
+
 ## Run 98 — EXPLORE — soft-focus distance, tactile instability and vertigo
 
 Nine ranked leads from approximately 31 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three exact alternates and three metadata warnings. There were no duplicates, substitutions or terminal technical errors.
