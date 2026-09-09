@@ -1,6 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 20 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 96 — EXPLORE — rumble-to-weight threshold and cyclic-dub audit
+
+Nine ranked leads from approximately 23 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: eight exact Spotify resolutions, one unresolved identity, three selected candidates, five unevaluated alternates and four preserved release-date warnings. Exact identities, warnings and resolver errors are recorded in `discoveries.md`.
+
+**Decision:** ADD T++ — Worn Down (`spotify:track:01HP3HuPytbIpSdOCqpx2y`) between Decoder — Abundance and Sciahri — Too Much Time. Exact-track descriptions establish a 7:28 movement from distant rumble into propulsive weight that nearly unravels but re-stabilizes for the dance. In the five-track run `Cave → Abundance → Worn Down → Too Much Time → Moonwake`, it supplies a preparatory threshold before the Sciahri pair rather than another central reset or ending. BPM, phrase relation, perceived pulse and both handoffs remain unknown.
+
+8004 — 8000 dub (`spotify:track:449LZEmXEaPuPZLpMKqX7h`) is a placement-specific REJECT for `Capa → candidate → Trompe L'oeil` and `Truth in Noise → candidate → Transparency` only. Its documented polyrhythmic ebb remains genuinely interesting, but both placements add a seven-minute suspension where no new long-form need is evidenced.
+
+8004 — 8005 dub (`spotify:track:68kcnrd5CogwkElvyiaDoy`) is PARKED. Its documented kinetic rhythm invention passes the lens, but neither tested placement proves an intentional transition, local-run gain and whole-journey effect. Reopen for materially richer connective evidence or a changed structural need.
+
+STRANGE GAIT grows 20 → 21 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 170 → 173 exact tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Across Runs 87–96 the repaired funnel has admitted 89 leads from approximately 442 inspections and added 6 of 25 selected candidates. The consecutive no-ADD count resets to 0; the last canonical ADD is Run 96.
 
 ## Run 95 — EXPLORE — rhythmic granularity and internal-proportion audit
 

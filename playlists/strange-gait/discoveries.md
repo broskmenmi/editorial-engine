@@ -2,6 +2,91 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 96 — EXPLORE — rumble-to-weight threshold and cyclic-dub audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 20 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 170 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 20 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 95's no-ADD result and the 20-track length were proportion signals, not objective defects or a moratorium.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T07:51:55Z-explore-96`
+- **sourceCommit:** `2d203b3c6462ac353d9d97bf13d59ff9f33f67db`
+- **request commit:** `5bb33b9b2a6a91f2158e9965d1cc88bb6fc61896`
+- **snapshot commit:** `c2f6c75d7a4d6152c2b26c44b380fa65bbbee4d0`
+- **request fingerprint:** `38101be4ce31a08de14c963fa20fbc4054ce734b736531001117426f79cd6bdd`
+- **scope:** approximately 23 named tracks across the current 2026 `American Dub Electronics` compilation, 8004's adjacent Kino Disk release and two overlooked T++ releases; attributed descriptions and metadata only; no audio audition.
+- **freshness:** all nine exact titles were absent from STRANGE GAIT durable history at the immediate pre-request commit. Previously visited Leo, Picture and Batu/Donato Dozzy lanes were excluded after repository checks.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 8 exact resolutions + 1 unresolved; 3 selected candidates + 5 exact alternates; no duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | T++ — Worn Down | RESOLVED — `spotify:track:01HP3HuPytbIpSdOCqpx2y`; `Worn Down / 100 Bar`; release `2007`; 7:28; BPM unavailable | SELECTED |
+| 2 | 8004 — 8000 dub | RESOLVED — `spotify:track:449LZEmXEaPuPZLpMKqX7h`; `8004`; release `2026-01-09`; 6:59; BPM unavailable | SELECTED |
+| 3 | T++ — 100 Bar | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 4 | 8004 — 8005 dub | RESOLVED — `spotify:track:68kcnrd5CogwkElvyiaDoy`; `8004`; release `2026-01-09`; 5:19; BPM unavailable | SELECTED |
+| 5 | T++ — Cropped | RESOLVED — `spotify:track:1p829k3qC8tSsOXIBkyTdp`; `Wireless`; release `2010-04-16`; 7:05; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 6 | 8004 — 8023 dub | RESOLVED — `spotify:track:00jOPYwlFHV8M9jlfC5SMI`; `8004`; release `2026-01-09`; 5:25; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 7 | Ring — Changeling | RESOLVED — `spotify:track:4yrrL4j389L05WLdHiBkgj`; `American Dub Electronics`; release `2026-08-21`; 4:49; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 8 | Point Source — Print-Through | RESOLVED — `spotify:track:712N07dTsGVURAdEXZmpuw`; `American Dub Electronics`; release `2026-08-21`; 4:00; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 9 | a.m.p & b.p.p — Speedwalker | RESOLVED — `spotify:track:1YrX8PEMjK6Wm7ORN5gCE5`; `American Dub Electronics`; release `2026-08-21`; 4:15; BPM unavailable | ALTERNATE — NOT EVALUATED |
+
+### Resolver warnings preserved exactly
+
+- 8004 — 8000 dub: `Exact title/artist matched with release metadata variance: release date requested "2025-08-27" but Spotify returned "2026-01-09"`
+- 8004 — 8005 dub: `Exact title/artist matched with release metadata variance: release date requested "2025-08-27" but Spotify returned "2026-01-09"`
+- T++ — Cropped: `Exact title/artist matched with release metadata variance: release date requested "2010-04-21" but Spotify returned "2010-04-16"`
+- 8004 — 8023 dub: `Exact title/artist matched with release metadata variance: release date requested "2025-08-27" but Spotify returned "2026-01-09"`
+
+### Candidate evaluations
+
+#### T++ — Worn Down — ADD after Abundance
+
+- **Exact identity:** `spotify:track:01HP3HuPytbIpSdOCqpx2y`; 7:28; BPM unavailable.
+- **Volume fit:** BELONGS. Boomkat describes a distant rumble easing into propulsive, weighty drums while the construction threatens to unravel yet holds together for the dance. All Night Flight independently describes heavily swung break chops and surging bass pressure teetering near implosion before re-adjusting into release. This is unusually direct evidence for STRANGE GAIT's interest in unstable rhythmic form without abandoning bodily function.
+- **Immediate transition quality:** PASS PROVISIONALLY for `Abundance → Worn Down → Too Much Time`. Abundance is the current understated swung continuation; Worn Down supplies a documented internal movement from distance into weight; Too Much Time then begins the Sciahri widening. That makes the insertion a threshold rather than a random contrast. Actual entry, exit, pulse and phrasing remain UNKNOWN.
+- **Five-track run:** `Cave → Abundance → Worn Down → Too Much Time → Moonwake`. Cave widens the opening, Abundance continues with comparatively subtle swing, Worn Down turns that restraint into a long-form rumble-to-weight transformation, and the Sciahri pair can then widen and intensify. The candidate adds one directional hinge instead of another catalogue item about rhythmic complexity.
+- **Whole journey:** PASS. At Track 6 of 21, Worn Down lengthens an already substantial opening, but it also gives the move into the Sciahri pair a specific preparatory arc. It does not touch the central slower-pulse reset, the protected trio or the electro-soul afterword.
+- **Counterargument:** 7:28 is a major proportional cost and the opening may become over-developed. The exact handoffs are not proven; a near-unravelling construction could compete with, rather than prepare, Too Much Time.
+- **Verdict:** ADD between Decoder — Abundance and Sciahri — Too Much Time. This is a best-evidence sequencing judgment, not a claim of seamless mixing.
+
+#### 8004 — 8000 dub — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:449LZEmXEaPuPZLpMKqX7h`; 6:59; BPM unavailable. Spotify returned 2026-01-09 rather than the requested official-source date; warning preserved.
+- **Volume fit:** BELONGS. Inverted Audio describes a pulsating polyrhythmic meditation that ebbs forward and backward, with waves of pulse moving over the body.
+- **Immediate transition quality:** UNKNOWN for both `Capa → candidate → Trompe L'oeil` and `Truth in Noise → candidate → Transparency`; no direct handoff or phrase evidence exists.
+- **Five-track run:** In the central test, the seven-minute ebb would sit inside the journey's already explicit redirection and slower staggered pocket. Before the protected trio, it would reopen a large cyclical environment after Truth in Noise has consolidated the late-middle.
+- **Whole journey:** FAILS THESE PLACEMENTS. Its cyclical motion is musically compelling, but neither position establishes what the extra seven-minute suspension allows the following music to mean. The central reset becomes over-explained; the pre-trio path gains another threshold without an evidenced need.
+- **Verdict:** placement-specific REJECT for those two positions only; not a global rejection. Retain as genuinely interesting.
+
+#### 8004 — 8005 dub — PARKED
+
+- **Exact identity:** `spotify:track:68kcnrd5CogwkElvyiaDoy`; 5:19; BPM unavailable. Spotify returned 2026-01-09 rather than the requested official-source date; warning preserved.
+- **Volume fit:** BELONGS provisionally. Inverted Audio describes an invention of rhythm with kinetic motion under tortured dub-techno conditions.
+- **Immediate transition quality:** UNKNOWN for `Capa → candidate → Trompe L'oeil` and `Truth in Noise → candidate → Transparency`.
+- **Five-track run:** The central position duplicates the already-articulated redirection around Capa and Trompe L'oeil; the pre-trio position might create pressure, but the evidence does not establish how its rhythm develops or resolves into Transparency.
+- **Whole journey:** The candidate remains plausible, but current evidence proves character more clearly than function. Adding it now would rely on atmosphere and technical interest rather than a specific long-form gain.
+- **Verdict:** PARKED. Reopen for materially richer transition-level evidence or a changed central/pre-trio need.
+
+### Auditor
+
+- **APPROVED.** The snapshot matches Run 96, schemaVersion 2 and sourceCommit; all three verdicts use only selected exact identities.
+- The ADD preserves `Transparency → When We Froze → Stardancer` exactly and does not imply protection of `Truth in Noise → Transparency`.
+- Unknown BPM, pulse, phrase structure, density, scalar energy, mixability and live handoffs remain UNKNOWN. Metadata did not decide any verdict.
+- The global utility ledger receives only the three exact selected tracks explicitly retained as interesting. The unresolved lead and five unevaluated alternates are excluded.
+- Durable state changes are atomic: canonical ledger, notes, verdict indexes, inspiration layers, journey annotation and global utility ledger move together. Generated map and Spotify receipts are left to GitHub Actions.
+
+### Inspiration harvest
+
+- T++ — Worn Down enters both the canonical volume and global utility playlist.
+- 8004 — 8000 dub remains an exact discovery despite both tested placements failing.
+- 8004 — 8005 dub is PARKED for a changed boundary need or stronger connective evidence.
+- T++ — 100 Bar remains unresolved without musical verdict.
+- Cropped, 8023 dub, Changeling, Print-Through and Speedwalker remain resolution-only alternates: exact identities, not evaluated or globally retained.
+- Set direction retained: `Nearly unravelling can still preserve the dance` — investigate how threatened rhythmic coherence can create direction when the form re-stabilizes before the next stage.
+
+**RUN ANALYSIS:** Approximately 23 inspected → 9 ranked leads → 8 exact resolutions + 1 unresolved → 3 selected evaluations + 5 unevaluated alternates → **1 ADD + 1 placement-specific REJECT + 1 PARKED** → 3 utility additions. Across Runs 87–96 the repaired funnel has admitted 89 leads from approximately 442 inspections and added 6 of 25 selected candidates. The recent ADD rate is 6/10 across Runs 87–96, versus 7/42 across Runs 55–96. The no-ADD count resets to 0; the last canonical ADD is Run 96. The strongest counterargument is proportional: Worn Down makes an already extended opening seven and a half minutes longer. It passes because the exact-track evidence gives that duration a specific rumble-to-weight threshold function before the Sciahri pair, not because the run needed an ADD. Audio analysis and live mixing remain NOT TESTED.
+
 ## Run 95 — EXPLORE — rhythmic granularity and internal-proportion audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 20 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 168 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 20 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 94's boundary ADD and the 20-track length were proportion signals, not objective defects or a moratorium.

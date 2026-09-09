@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 96
+
+### Nearly unravelling can still preserve the dance
+
+**Direction:** Explore techno whose rhythmic coherence is threatened but not abandoned: the form seems close to collapse, then re-stabilizes strongly enough to hand momentum to the next stage.
+
+**Ingredients:**
+
+- T++ — Worn Down — canonical provisional Run 96 rumble-to-weight threshold
+- Decoder — Abundance — canonical provisional understated swung continuation
+- Sciahri — Too Much Time — canonical provisional physical widening
+- 8004 — 8000 dub — exact Run 96 placement-specific reject; documented polyrhythmic ebb
+- 8004 — 8005 dub — exact Run 96 PARKED rhythm invention
+
+**Why interesting:** Stability in techno is not binary. A groove can retain a danceable reference while break placement, bass pressure or internal form makes the listener doubt whether it will hold. If the track later re-stabilizes, that recovery can create direction without a conventional drop, tempo increase or new chapter.
+
+**Unknown / risk:** This is not a proven sequence or mixing edge. BPM, phrase fit, perceived pulse, density, scalar energy and every pairwise handoff remain unknown unless separately documented.
+
 ## Current additions — Run 95
 
 ### Rhythmic granularity is not the same as direction

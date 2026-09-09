@@ -4,6 +4,26 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 96 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | T++ | Worn Down | https://open.spotify.com/track/01HP3HuPytbIpSdOCqpx2y | Canonical ADD after Abundance. Exact 7:28 rumble-to-weight threshold retained globally; BPM, phrase fit and handoffs remain unknown. |
+| EXACT TRACK | 8004 | 8000 dub | https://open.spotify.com/track/449LZEmXEaPuPZLpMKqX7h | Placement-specific REJECT for Capa → candidate → Trompe L'oeil and Truth in Noise → candidate → Transparency only. Exact polyrhythmic-ebb discovery retained globally; Spotify date warning preserved. |
+| EXACT TRACK | 8004 | 8005 dub | https://open.spotify.com/track/68kcnrd5CogwkElvyiaDoy | PARKED. Exact kinetic dub-techno rhythm invention retained globally; Spotify date warning preserved. |
+| RESEARCH LEAD | T++ | 100 Bar | https://boomkat.com/products/worn-down-100-bar | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry. |
+| RELEASE WATCH | Kino Disk | American Dub Electronics | https://kinodisk.bandcamp.com/album/american-dub-electronics | Current August 2026 compilation remains a useful American dub-electronics source. Exact resolved alternates were not evaluated or globally retained. |
+| CATALOGUE WATCH | T++ | Wireless | https://boomkat.com/products/wireless-fc811bc8-ecda-4522-83ed-89ddb223bfcd | Cropped resolved as an unevaluated alternate with a preserved date warning. No musical verdict or global utility entry. |
+
+### Placement and inspiration boundaries
+
+- Worn Down's canonical placement is provisional and does not prove phrase fit, live mixing or either handoff.
+- 8000 dub is rejected only for its two tested positions; it is not globally rejected.
+- 8005 dub remains PARKED and is not an ADD.
+- 100 Bar remains unresolved and must not be treated as an exact Spotify identity.
+- Cropped, 8023 dub, Changeling, Print-Through and Speedwalker are resolution-only alternates, not evaluated tracks or global utility additions.
+- Release and catalogue watches are research directions only and are not publication inputs.
+
 ## Run 95 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

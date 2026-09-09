@@ -9,25 +9,29 @@
 | 3 | Inigo Kennedy | The Witching Hour | spotify:track:6zBPgkGHHiZfxg5eSjSCRd | 136 | ADD | Ground — provisional controlled continuation | 2026-09-06 |
 | 4 | Rene Wise | Cave | spotify:track:2Z0j3jb573fveL4Pf3NkP1 | 134 | ADD | Ground — provisional widening move | 2026-09-06 |
 | 5 | Decoder | Abundance | spotify:track:33HI2gasxwfGyvWrd9yG5c | 135 | ADD | Ground — provisional swung-funk continuation | 2026-09-09 |
-| 6 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
-| 7 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
-| 8 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
-| 9 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | 130 | ADD | Tilt — provisional dubwise staggered-swing reset | 2026-09-08 |
-| 10 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
-| 11 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
-| 12 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
-| 13 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
-| 14 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 15 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
-| 16 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 17 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 18 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 19 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 20 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 6 | T++ | Worn Down | spotify:track:01HP3HuPytbIpSdOCqpx2y | — | ADD | Ground — provisional rumble-to-weight threshold | 2026-09-09 |
+| 7 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
+| 8 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
+| 9 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
+| 10 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | 130 | ADD | Tilt — provisional dubwise staggered-swing reset | 2026-09-08 |
+| 11 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
+| 12 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
+| 13 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
+| 14 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
+| 15 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
+| 16 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
+| 17 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 18 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 19 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 20 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 21 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+
 
 ## Current state
 
-**ACTIVE EXPANSION — 20 canonical tracks.**
+**ACTIVE EXPANSION — 21 canonical tracks.**
+
+EXPLORE run `2026-09-09T07:51:55Z-explore-96` adds T++ — Worn Down between Decoder — Abundance and Sciahri — Too Much Time. Boomkat documents a distant rumble easing into propulsive, weighty drums while threatening to unravel yet holding for the dance; All Night Flight independently describes harsh swung break chops and surging bass pressure re-adjusting into release. Editorially, the five-track run becomes `Cave → Abundance → Worn Down → Too Much Time → Moonwake`: widening, understated swing, a rumble-to-weight threshold, then physical widening and intensification. The 7:28 duration is a material proportional cost, but the insertion supplies a specific preparatory arc rather than another central reset or tail statement. BPM, perceived pulse, phrasing, density, scalar energy and both exact handoffs remain unknown.
 
 EXPLORE run `2026-09-09T05:49:37Z-explore-94` adds Steve Rachmad — Invisible Warriors Of Light after Len Faki — Stardancer. The official album notes identify the exact 4:00 track as low-slung electro soul within a hand-played, orchestral and abstract-rhythm album. Editorially, the listener-confirmed `Transparency → When We Froze → Stardancer` block still completes its protected internal motion; the new track then changes temperature and rhythmic world as a concise afterword instead of extending the block with another techno climax. The Stardancer → candidate handoff, exact pulse, phrasing, density and BPM remain unknown. This is a provisional long-form contrast, not a claim of seamless mixing.
 
@@ -57,7 +61,7 @@ Transparency uses 143 BPM as the working canonical tempo because independent Son
 
 ## Next structural need
 
-EXPLORE the whole journey. Do not default new music to the tail merely because Stardancer is currently last. Search for the strongest evidence-supported placement before the opener, between any non-frozen/non-protected neighbours, or after the last track. Preserve the two protected internal trio handoffs. `Truth in Noise → Transparency` remains an available boundary.
+EXPLORE the whole journey. Do not default new music to the tail merely because Stardancer is currently last. Search for the strongest evidence-supported placement before the opener, between any non-frozen/non-protected neighbours, or after the last track. Scrutinize whether the expanded opening still needs further articulation before proposing another early insertion. Preserve the two protected internal trio handoffs. `Truth in Noise → Transparency` remains an available boundary.
 
 Run health must be included in analysis. Track consecutive no-ADD runs, the last canonical ADD, recent ADD rate, and repeated failure modes. A long drought is a signal to inspect discovery/evaluation strategy, not permission to force admission.
 
@@ -65,9 +69,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 135 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 → — BPM`
+`136 → 136 → 134 → 135 → — → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 → — BPM`
 
-`— Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for either.`
+`— Worn Down, Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 
