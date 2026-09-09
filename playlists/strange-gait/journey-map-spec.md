@@ -1,47 +1,72 @@
-# STRANGE GAIT — Journey Map Specification
+# STRANGE GAIT — Felt Journey Map Specification
+
+Repository-root `FELT-VISUALIZATION-DOCTRINE.md` is the default visualization contract and overrides the older scalar/story-first presentation.
 
 ## Purpose
 
-The map visualizes how rhythmic orientation changes across the ordered journey without pretending editorial interpretation is measured audio analysis.
+STRANGE GAIT should visualize **how rhythmic orientation and listener state change across the ordered journey** without pretending editorial interpretation is measured audio analysis.
 
-Two layers remain separate:
+The volume is interested in techno that resists one fixed correct form, so the visual should make bends, resets, mutation, re-grounding, interruption and return legible without requiring a mechanical chapter progression.
 
-1. **Rhythmic story landscape** — ordinal editorial interpretation of Ground, Tilt, Lock, Fracture, Deep Lock and Escape.
-2. **Measured BPM line** — exact tempo metadata where available.
+## Default view
 
-Story height is **not energy**. A high Fracture point means greater narrative displacement, not necessarily louder, harder or faster music.
+Use a **felt direction ribbon**, not an energy curve.
+
+Show:
+
+- exact canonical order across elapsed time;
+- concise evidence-bound direction language per track where available;
+- transition vectors: what changes rather than merely which tracks connect;
+- protected/provisional/frozen state;
+- a selected track's two-before / two-after context;
+- whole-playlist position;
+- separate switchable Feeling, Groove, Structure and Tempo views.
+
+Unknown felt dimensions remain visibly unknown.
+
+## Structure lens
+
+`Ground`, `Tilt`, `Lock`, `Fracture`, `Deep Lock`, and `Escape` remain optional editorial vocabulary only. They are **not** the default visualization and do not imply a required sequencing progression.
+
+Existing story bands may remain in generated data for compatibility and structural explanation, but vertical placement must not be presented as energy.
+
+## Tempo
+
+BPM and duration are measured metadata and stay in their own view/lane. BPM must never become pressure, energy, propulsion or flow.
 
 ## Compact map
 
-Generated at `playlists/strange-gait/journey-map.svg` once canonical tracks exist.
+`playlists/strange-gait/journey-map.svg` is generated as a compact direction ribbon:
 
-Show:
-- elapsed-time horizontal axis;
-- chapter bands;
-- editorial displacement/story curve;
-- measured BPM separately;
-- protected/provisional/frozen states;
-- key identity or fracture points;
-- a clear note that story height is editorial.
+- elapsed time is horizontal;
+- track direction phrases are qualitative and provenance-bound;
+- chapter/story state is secondary;
+- BPM is a separate measured lane;
+- protected handoffs remain explicit;
+- no vertical coordinate represents energy.
 
 ## Detailed Site
 
-Published as a subsection of the unified read-only site: https://broskmenmi.github.io/editorial-engine/. Both playlists share this root URL and each loads its own journey-map.json. Do not recreate a separate STRANGE GAIT site. The story vocabulary is optional visualization language, never a mandatory sequencing progression.
+Published only as a subsection of the unified read-only site:
+
+`https://broskmenmi.github.io/editorial-engine/`
+
+STRANGE GAIT loads its own `journey-map.json`. Do not create a second site.
 
 ## Visual identity
 
 - black and graphite base;
 - off-grid architectural/topographic linework;
 - bone and steel-grey typography;
-- bruised violet for displacement;
-- oxidized copper reserved for fracture or unresolved discussion;
+- bruised violet for directional displacement;
+- oxidized copper only for fracture or unresolved discussion;
 - restrained density and negative space;
 - no neon cyberpunk;
 - no generic analytics dashboard;
-- no literal feet, walking icons, gait diagrams, waveforms or equalizer bars.
+- no waveform/equalizer decoration.
 
-The visual should feel like a technical drawing whose grid has slipped a few millimetres out of alignment.
+## Evidence
 
-## Scaling
+Felt and groove statements follow the repository felt-visualization evidence hierarchy. Existing editorial labels may be displayed as **editorial direction phrases**, never as measured feeling.
 
-The map must remain legible beyond 100 tracks through time-based zoom, chapter filtering, label collision avoidance and overview/detail modes.
+The map should become richer as lawful evidence accumulates; it must never fill gaps with invented precision.

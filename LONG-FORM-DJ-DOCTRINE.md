@@ -116,3 +116,11 @@ For every proposed placement, ask:
 If the move is deliberate, the music is allowed to change.
 
 If the flow feels accidental, revise the placement even when every individual track is excellent.
+
+## Visualization and techno-learning objective
+
+Read and apply repository-root `FELT-VISUALIZATION-DOCTRINE.md` for every canonical volume.
+
+The default visualization is a felt/directional map rather than a scalar energy graph. Playlist-specific chapter or story models remain secondary structure lenses.
+
+Every editorial-run report begins with **MUSICAL READING** before workflow telemetry. On an ADD, explain the added track, the two tracks before and two tracks after where available, and the insertion's position in the whole playlist. Use that musical reading to teach relevant techno concepts while preserving the evidence boundary: do not invent pressure, propulsion, swing, density, space, tension, phrase structure, emotional effect, or mixability from metadata alone.
