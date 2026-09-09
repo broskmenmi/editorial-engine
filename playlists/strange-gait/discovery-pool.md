@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 104 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | DJ Plead | Ride TV | https://open.spotify.com/track/1rsmJGBwrzXTkMDvzGVfJz | Placement-specific REJECT for Truth in Noise → candidate → Transparency and Stardancer → candidate → Invisible Warriors Of Light only. Exact breakdown-and-return structure retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Klara Lewis | City | https://open.spotify.com/track/1jyn7hpjRYUQAaMuOb4U9n | Placement-specific REJECT before Stadium Drive and between Ikoyi and Amor only. Exact competing-foreground and piano-return structure retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Basic Rhythm | Weed Killer | https://open.spotify.com/track/61dlYcLJszld2bmsWTyiVw | Placement-specific REJECT for Moonwake → candidate → Capa and Thick to Handle → candidate → Tehutis Law only. Exact distorted-kick / wobble-breakdown mutation retained globally; BPM and handoffs remain unknown. |
+| RESEARCH LEAD | Basic Rhythm | 8 Bar Techno (Re-Mix) | https://basicrhythm.bandcamp.com/album/8-bar-techno | Resolver error `no exact Spotify title/artist search match in market SE`; exact 4/4-to-grime interruption research retained without musical verdict. |
+| RESEARCH LEAD | DJ Plead | Shush | https://pitchfork.com/reviews/albums/dj-plead-please/ | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2D1c063hdsa2yG1WFJv3zH, 1e44U9z0w9WdC8Z8corhNL)`; strategic-silence research retained without musical verdict. |
+| RELEASE WATCH | Basic Rhythm / Sneaker Social Club | 8 Bar Techno | https://basicrhythm.bandcamp.com/album/8-bar-techno | June 2026 grime/techno/bass mutation window; exact claims remain attached only to cited tracks. |
+| RELEASE WATCH | DJ Plead / Smalltown Supersound | Please | https://djplead.bandcamp.com/album/please | June 2026 sparse rhythmic and melodic-reconfiguration window; prior PPP material remains a separate decision. |
+| RELEASE WATCH | Klara Lewis / Editions Mego | Opening | https://klaralewis.bandcamp.com/album/opening | September 2026 shape-shifting experimental-electronic window; unselected titles receive no verdict. |
+| CATALOGUE WATCH | Dasha Rush / Raster | Contemplating | https://raster-raster.bandcamp.com/album/contemplating | Overlooked 2023 ambient/techno border material; selected alternates remain unevaluated. |
+
+### Placement and inspiration boundaries
+
+- Ride TV, City and Weed Killer are not globally rejected; only their two Run 104 positions are rejected.
+- The two unresolved identities do not enter the global utility ledger.
+- LoveX, Stucco, Ta Min Hand and Hans Rivers resolved as alternates but were not selected, evaluated or explicitly retained as decisions.
+
+
 ## Run 103 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

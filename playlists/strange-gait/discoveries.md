@@ -1,5 +1,76 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 104 — EXPLORE — suspension, foreground competition and blunt mutation — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 23 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 191 exact tracks, both with exact matching COMPLETE receipts. The protected `Transparency → When We Froze → Stardancer` internal order was intact; no REVISIT was TRIGGERED, no listener repair was authorized, and Run 103's utility-table defect was already repaired and verified. No objective or workflow defect required REPAIR.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T15:53:23Z-explore-104`
+- **sourceCommit:** `a52eaae5c8966b8a5a30a772c86e669897d2a77f`
+- **request commit:** `32e157c07aee0f2632a1d83a6040592ca7b52fea`
+- **snapshot commit:** `8a7efd151bca3887c331452f0f3952ed27328535`
+- **scope:** approximately 62 named tracks across Basic Rhythm's current *8 Bar Techno*, DJ Plead's current *Please*, Klara Lewis's current *Opening*, Dasha Rush's overlooked *Contemplating* and broader current surveys; attributed descriptions and official metadata only; no audio audition.
+- **freshness:** Run 103's Debit, GRRL, Thai-scene, Lauren Flax, Overmono and Mr. Ho ecosystems were not retried. Basic Rhythm's album-level watch advanced through materially new exact-track evidence.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 7 exact resolutions + 2 unresolved; 3 selected candidates + 4 unevaluated alternates; no warnings, duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Basic Rhythm — 8 Bar Techno (Re-Mix) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 2 | DJ Plead — Ride TV | RESOLVED — `spotify:track:1rsmJGBwrzXTkMDvzGVfJz`; *Please*; `2026-06-26`; 3:12; BPM unavailable | SELECTED |
+| 3 | Klara Lewis — City | RESOLVED — `spotify:track:1jyn7hpjRYUQAaMuOb4U9n`; *Opening*; `2026-09-04`; 3:10; BPM unavailable | SELECTED |
+| 4 | DJ Plead — Shush | UNRESOLVED — `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2D1c063hdsa2yG1WFJv3zH, 1e44U9z0w9WdC8Z8corhNL)` | NOT COMPLETED |
+| 5 | Basic Rhythm — Weed Killer | RESOLVED — `spotify:track:61dlYcLJszld2bmsWTyiVw`; *8 Bar Techno*; `2026-06-26`; 3:45; BPM unavailable | SELECTED |
+| 6 | Dasha Rush — LoveX | RESOLVED — `spotify:track:3WQ5QvKkKMhAX5gHoLzIl3`; *Contemplating*; `2023-09-29`; 5:35; BPM unavailable | UNEVALUATED ALTERNATE |
+| 7 | DJ Plead — Stucco | RESOLVED — `spotify:track:2YuHxSzED2tl9GxWbEWVCw`; *Please*; `2026-06-26`; 3:03; BPM unavailable | UNEVALUATED ALTERNATE |
+| 8 | Klara Lewis — Ta Min Hand | RESOLVED — `spotify:track:0P9seQkC9SPt7gapdEHEFk`; *Opening*; `2026-09-04`; 3:26; BPM unavailable | UNEVALUATED ALTERNATE |
+| 9 | Dasha Rush — Hans Rivers | RESOLVED — `spotify:track:6E9Z57WLGOx8DcUR3TA0fS`; *Contemplating*; `2023-09-29`; 5:59; BPM unavailable | UNEVALUATED ALTERNATE |
+
+The two unresolved identities receive no musical verdict. The four exact alternates were not selected or evaluated.
+
+### Canonical evaluations
+
+#### DJ Plead — Ride TV — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork describes a strident exact track whose breakdown is held in suspense before the form snaps back into place. That manipulation of expectation passes the selection lens without relying on genre orthodoxy or novelty.
+- **Immediate transition:** UNKNOWN at both `Truth in Noise → Ride TV → Transparency` and `Stardancer → Ride TV → Invisible Warriors Of Light`. BPM, phrase structure, perceived pulse, density and mixability remain unmeasured.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. In `Amor → Truth in Noise → Ride TV → Transparency → When We Froze`, the candidate resolves its own suspension immediately after Truth in Noise's current consolidation, delaying the protected movement with a second restoration. In the tail test it inserts a new breakdown-and-return episode between the protected close and the concise electro-soul afterword.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The exact 3:12 duration limits cost, but neither position establishes why the journey needs another self-contained suspension and recovery.
+- **Verdict:** placement-specific **REJECT** for the two Run 104 positions only; retained as an exact interesting discovery.
+
+#### Klara Lewis — City — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS at the adjacent edge. Exact-track criticism documents piano, traffic and conversation yielding to a more aggressive mechanical field before piano returns. The competing foregrounds and structural re-entry are relevant to a volume about forms that resist one fixed reading.
+- **Immediate transition:** UNKNOWN before *Stadium Drive* and at `Ikoyi → City → Amor`. No tempo, phrasing, pulse, density or mixability inference is made from its metadata.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `City → Stadium Drive → Marauder → The Witching Hour` would place one complete foreground struggle and return before Stadium Drive's existing ambience-to-broken-techno formation. `Drummz → Ikoyi → City → Amor → Truth in Noise` would add another full dissolution/return episode inside the newly established late-middle aperture.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The conspicuous production-world change is allowed, but both tests explain a boundary the playlist already communicates rather than changing its consequence.
+- **Verdict:** placement-specific **REJECT** for the two Run 104 positions only; retained as an exact interesting discovery.
+
+#### Basic Rhythm — Weed Killer — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. The official release describes distorted kicks and rabid wobble breakdowns; Boomkat independently characterizes the exact track through forceful sublow mutation. Straightforward physicality is not disqualifying, and the internal breakdown supplies relevant structural evidence.
+- **Immediate transition:** UNKNOWN at `Moonwake → Weed Killer → Capa` and `Thick to Handle → Weed Killer → Tehutis Law`. BPM, phrase structure, perceived pulse, density and mixability remain unmeasured.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. The first test turns `Too Much Time → Moonwake → Weed Killer → Capa → Trompe L'oeil` into two consecutive high-pressure statements before redirection and reset. The second adds another blunt deformation between Thick to Handle's existing bodily breakage and Tehutis Law's re-grounding.
+- **Long-form journey:** FAILS THESE PLACEMENTS. At 3:45 the proportional cost is moderate, but the evidence establishes force and mutation, not a missing destination or changed recovery.
+- **Verdict:** placement-specific **REJECT** for the two Run 104 positions only; retained as an exact interesting discovery.
+
+### Auditor finding
+
+**APPROVED.** Only the three selected exact identities were evaluated. Each was judged separately across volume, transition, local-run and long-form scales; UNKNOWN handoffs were not converted into failures. All three rejects are placement-specific and remain genuinely interesting. The protected handoffs are untouched. Both resolver errors and all four unevaluated alternates are preserved without musical verdict. The three selected exact tracks are eligible for the doctrine-free global utility ledger.
+
+### Run result
+
+`~62 inspected → 9 leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Across Runs 87–104: 161 leads from approximately 777 inspections and 8 ADDs from 46 selected candidates. Recent canonical ADD rate: 3/10 across Runs 95–104. Longer-window rate: 9/52 across Runs 55–104. Current no-ADD streak: one; last ADD: Run 103.
+
+The strongest counterargument is that *City* could sharpen the opening precisely because its 3:10 struggle ends by restoring piano before *Stadium Drive* begins constructing rhythm. The opposing long-form evidence is cumulative: the playlist would then devote nearly nine minutes to two complete pre-anchor transformations before *Marauder*, while the opening already contains Run 103's concise derailment and Run 96's longer instability threshold.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
+
 ## Run 103 — EXPLORE — triplet derailment, broken force and hyperactive mutation — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 22 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 188 exact tracks, both with matching COMPLETE receipts. The protected `Transparency → When We Froze → Stardancer` internal order was intact; no REVISIT was TRIGGERED, no listener repair was authorized, and Run 102's addition ended the prior restraint streak. No objective or workflow defect required REPAIR.

@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 104 — EXPLORE — internal return versus long-form recovery
+
+Nine ranked leads from approximately 62 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: seven exact Spotify resolutions, two unresolved identities, three selected candidates, four exact alternates and no warnings, duplicates, substitutions or terminal technical errors.
+
+**Decision:** 0 ADD. DJ Plead — *Ride TV*, Klara Lewis — *City* and Basic Rhythm — *Weed Killer* each receive placement-specific REJECT verdicts for two tested positions. All three pass the selection lens through suspense-and-return, competing foregrounds or blunt structural mutation. Their opening, middle, pre-trio and tail tests fail because they repeat an already legible formation, dissolution, deformation, consolidation or ending movement rather than change its consequence. UNKNOWN handoffs were not treated as vetoes.
+
+STRANGE GAIT remains unchanged at 23 tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 191 to 194 tracks with the three selected exact candidates.
+
+Across Runs 87–104, the repaired funnel has produced 161 leads from approximately 777 inspections and 8 ADDs from 46 selected candidates. The recent ADD rate is 3/10 across Runs 95–104, versus 9/52 across Runs 55–104. The current no-ADD streak is one; the last canonical addition was Run 103. The strongest counterargument is *City*'s concise prelude potential, but it would create two complete pre-anchor transformations before *Marauder* in an opening already expanded by Runs 91, 96 and 103.
+
+Canonical: 23 tracks — Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Ikoyi → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+
 ## Run 103 — EXPLORE — a brief derailment inside established ground
 
 Nine ranked leads from approximately 69 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three exact alternates and no warnings, duplicates, substitutions or terminal technical errors.

@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 104
+
+### A track can return without the journey needing another return
+
+**Direction:** Explore the difference between internal restoration and long-form recovery. A breakdown can snap back, competing foregrounds can restore an earlier voice, or blunt mutation can return to force; the set only gains when that return changes what the next music means.
+
+**Ingredients:**
+
+- DJ Plead — *Ride TV* — exact placement-specific reject; documented suspenseful breakdown followed by a snap back into place.
+- Klara Lewis — *City* — exact placement-specific reject; documented piano/field-recording foreground overtaken by mechanical sound before piano returns.
+- Basic Rhythm — *Weed Killer* — exact placement-specific reject; documented distorted-kick and wobble-breakdown mutation.
+- DJ Plead — *Shush* — unresolved exact-identity research into a groove structured through silence.
+- STRANGE GAIT's `Truth in Noise → Transparency → When We Froze` and `Ikoyi → Amor → Truth in Noise` remain canonical reference structures, not claimed mixes with these ingredients.
+
+**Why interesting:** Restoration inside a track can be powerful because it makes earlier material newly legible. In a long-form sequence, another restoration is useful only when it changes the listener's understanding of the following passage; otherwise it can repeat a function already supplied by consolidation or reassembly.
+
+**Unknown/risk:** This is not a proven DJ mix. BPM, phrase structure, perceived pulse, density, exact felt states and every pairwise handoff remain UNKNOWN. Shush is unresolved, and the three exact rejects are scoped only to their tested canonical positions.
+
+
 ## Current additions — Run 103
 
 ### Interruption must change the recovery
