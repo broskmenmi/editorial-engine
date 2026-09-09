@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 105 — EXPLORE — containment can fail without direction failing
+
+Nine ranked leads from approximately 34 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, alternates, duplicates, substitutions or terminal technical errors. Two unresolved requests carried non-canonical following URIs; because neither identity resolved or was evaluated, no verdict relied on them and the immutable mismatch is preserved as a non-actionable request note.
+
+**Decision:** 1 ADD and 2 placement-specific REJECT. Shoal — *Roxellana* is added between *Pulse I* and *Fragments*. Its exact source describes a loss of containment whose forward vector remains controlled; at this placement the surge gives *Fragments* a clearer recovery function without disturbing the later dissolution or protected trio. *Strange Blue Knots* and *Interlocking* remain genuinely interesting but their tested opening-middle, pre-trio and tail positions add seven-minute preparation or coda stages without sufficient long-form gain. UNKNOWN handoffs were not treated as musical zero results.
+
+STRANGE GAIT increases from 23 to 24 tracks. The protected Transparency → When We Froze → Stardancer internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 194 to 197 tracks with all three selected exact candidates.
+
+Across Runs 87–105, the repaired funnel has produced 170 leads from approximately 811 inspections and 9 ADDs from 49 selected candidates. The recent ADD rate is 4/10 across Runs 96–105, versus 10/55 across Runs 55–105. The no-ADD streak returns to zero; the latest canonical addition is Run 105.
+
+**Strongest counterargument:** *Roxellana* may simply amplify a central run that already moves from crooked accumulation into recovery. The response is specific rather than quota-based: its exact source distinguishes uncontrolled scale from directionless chaos, and the following two tracks retain room to recover and complicate that force. Actual handoffs remain untested.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 104 — EXPLORE — internal return versus long-form recovery
 
 Nine ranked leads from approximately 62 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: seven exact Spotify resolutions, two unresolved identities, three selected candidates, four exact alternates and no warnings, duplicates, substitutions or terminal technical errors.

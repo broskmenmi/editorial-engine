@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 105 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Shoal | Roxellana | https://open.spotify.com/track/3H1Vwgq7XXbfaOPhdL6NZt | Canonical ADD between Pulse I and Fragments. Official exact-track evidence describes containment giving way to forceful forward motion without directionless chaos; BPM and both handoffs remain unknown. |
+| EXACT TRACK | Shoal | Strange Blue Knots | https://open.spotify.com/track/6XLImtWoJOiigNJTPtysZ6 | Placement-specific REJECT for Abundance → candidate → Worn Down and Truth in Noise → candidate → Transparency only. The exact tightening-focus mechanism remains genuinely interesting and is retained globally. |
+| EXACT TRACK | Shoal | Interlocking | https://open.spotify.com/track/5Ueil4IKCEvPSeFRaZE0w5 | Placement-specific REJECT for Truth in Noise → candidate → Transparency and Stardancer → candidate → Invisible Warriors Of Light only. The exact restraint-and-attention mechanism remains genuinely interesting and is retained globally. |
+| RESEARCH LEAD | OK EG | Spiral | https://okegmusic.bandcamp.com/album/geko01 | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | OK EG | Monument Stone | https://okegmusic.bandcamp.com/album/geko01 | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | OK EG | Surge | https://okegmusic.bandcamp.com/album/geko01 | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | Shoal | Interlocking (Anthony Linell Remix) | https://shoal.bandcamp.com/album/interlocking | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | OK EG | Fracture | https://okegmusic.bandcamp.com/album/geko01 | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | Estrato Aurora, Menou | Meisekimu (w/ Menou) 2026 version | https://santacompana25.bandcamp.com/album/loss-of-control | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RELEASE WATCH | Shoal / ISOTOOP | Interlocking | https://shoal.bandcamp.com/album/interlocking | Current August 2026 record whose exact tracks distinguish tightening focus, directed force, restraint and wider retelling. |
+| RELEASE / LABEL WATCH | OK EG / GEKO | GEKO01 and future catalogue | https://okegmusic.bandcamp.com/album/geko01 | Emerging Australian platform for polyrhythmic abandonment/re-entry, layered clocks and reflective techno; individual unresolved identities remain without verdicts. |
+| RELEASE WATCH | Sa Pa / Dub Techno For Life | Rhythm From Ambient | https://inverted-audio.com/sa-pa-rhythm-from-ambient/ | Forthcoming September 14 material inspected but deliberately excluded from this resolver request until released. |
+
 ## Run 104 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

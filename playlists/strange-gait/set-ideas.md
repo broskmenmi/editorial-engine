@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 105
+
+### Containment can fail without direction failing
+
+**Direction:** Explore how a passage can become broader, less bounded or more forceful while still preserving an intelligible vector. The useful contrast is not orderly versus chaotic; it is motion whose consequence remains legible versus motion that merely adds scale.
+
+**Ingredients:**
+
+- Shoal — *Roxellana* — canonical ADD; exact evidence describes containment blown away while the storm remains directed.
+- Shoal — *Strange Blue Knots* — exact placement-specific reject; direct drive narrows attention into a tightening focal point.
+- Shoal — *Interlocking* — exact placement-specific reject; restraint rebuilds attention after force.
+- OK EG — *Spiral*, *Surge*, *Fracture* and *Monument Stone* — unresolved research into temporary abandonment, beat re-entry, reflection and layered clocks.
+- Tehutis Law → Pulse I → Roxellana → Fragments → Drummz is a canonical editorial hypothesis, not a proven mix or live-mixing edge.
+
+**Why interesting:** Direction can survive a conspicuous expansion of force, while a smooth or restrained passage can still be structurally redundant. This keeps transition smoothness separate from long-form necessity.
+
+**Still unknown:** Exact entry and exit behavior, BPM, phrase fit, perceived pulse, density, energy, bodily effect and live mixability.
+
 ## Current additions — Run 104
 
 ### A track can return without the journey needing another return

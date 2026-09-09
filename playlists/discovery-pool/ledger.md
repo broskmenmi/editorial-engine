@@ -199,6 +199,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 193 | Klara Lewis | City | spotify:track:1jyn7hpjRYUQAaMuOb4U9n | STRANGE GAIT Run 104 | Placement-specific reject / interesting | 2026-09-09 |
 | 194 | Basic Rhythm | Weed Killer | spotify:track:61dlYcLJszld2bmsWTyiVw | STRANGE GAIT Run 104 | Placement-specific reject / interesting | 2026-09-09 |
 
+| 195 | Shoal | Strange Blue Knots | spotify:track:6XLImtWoJOiigNJTPtysZ6 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
+| 196 | Shoal | Interlocking | spotify:track:5Ueil4IKCEvPSeFRaZE0w5 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
+| 197 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | STRANGE GAIT Run 105 | Canonical ADD / retained | 2026-09-09 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.

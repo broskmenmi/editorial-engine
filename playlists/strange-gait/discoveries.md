@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 105 — EXPLORE — containment, restraint and directed force — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 23 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 194 exact tracks, both with exact matching COMPLETE receipts. The generated map held all 23 canonical identities; the protected Transparency → When We Froze → Stardancer internal order was intact; no REVISIT was TRIGGERED; no listener repair was authorized; and no objective defect or unfinished repair was actionable.
+
+### Exploration receipt
+
+- **runId:** 2026-09-09T16:48:06Z-explore-105
+- **sourceCommit:** 214b55c8eef56d0941759b1e103457cb64f85875
+- **request commit:** aba634db611dab60b10eefacac09bd7c3bcbfae4
+- **snapshot commit:** 68abf72d65e3175fc7f4b77efdc40369a2d5050f
+- **scope:** approximately 34 named tracks across Shoal's current August 2026 *Interlocking*, OK EG's emerging February 2026 *GEKO01*, Estrato Aurora & Menou's August 2026 *Loss of Control* and broader September source windows; attributed descriptions and official metadata only; no audio audition.
+- **freshness:** exact repository searches found no prior durable decision for the nine requested identities. Run 104's Basic Rhythm, DJ Plead, Klara Lewis and Dasha Rush ecosystems were not retried. Unreleased September 14–25 material was inspected but excluded from resolution.
+- **resolver:** valid schemaVersion 2 PARTIAL; 9 requested → 3 exact selected resolutions + 6 unresolved identities; no warnings, alternates, duplicates, substitutions or terminal technical errors.
+- **placement-metadata note:** the unresolved requests for OK EG — *Fracture* and Shoal — *Interlocking (Anthony Linell Remix)* carried non-canonical following URIs for *Amor* and *Invisible Warriors Of Light*. Neither identity resolved or was evaluated, so no musical verdict or durable placement relied on those fields. The immutable request is preserved and those values must not be reused.
+
+### Resolver outcomes preserved exactly
+
+Selected exact identities:
+
+1. **Shoal — Strange Blue Knots** — spotify:track:6XLImtWoJOiigNJTPtysZ6; Spotify album *Interlocking*, release date 2026-08-27, duration 7:08, BPM unavailable.
+2. **Shoal — Interlocking** — spotify:track:5Ueil4IKCEvPSeFRaZE0w5; Spotify album *Interlocking*, release date 2026-08-27, duration 6:53, BPM unavailable.
+3. **Shoal — Roxellana** — spotify:track:3H1Vwgq7XXbfaOPhdL6NZt; Spotify album *Interlocking*, release date 2026-08-27, duration 6:43, BPM unavailable.
+
+Unresolved identities, each with exact resolver error “no exact Spotify title/artist search match in market SE”:
+
+- OK EG — *Spiral*
+- OK EG — *Monument Stone*
+- OK EG — *Surge*
+- Shoal — *Interlocking (Anthony Linell Remix)*
+- OK EG — *Fracture*
+- Estrato Aurora, Menou — *Meisekimu (w/ Menou) 2026 version*
+
+### Canonical evaluations
+
+#### Shoal — Roxellana — ADD
+
+- **Volume fit:** PASS. The official exact-track note describes containment blown away by forceful forward motion, full-band waves and a storm that never becomes directionless chaos. That is direct evidence for structural freedom inside techno, not an argument from novelty.
+- **Immediate transition:** PROVISIONAL. Pulse I → Roxellana → Fragments has no lawful phrase, entry, exit, perceived-pulse or mixing evidence; actual handoffs remain UNKNOWN. The candidate's 6:43 duration and unknown BPM do not prove continuity.
+- **Surrounding three-to-five-track run:** PASS as an editorial hypothesis. Tehutis Law → Pulse I → Roxellana → Fragments → Drummz moves from re-grounding into crooked accumulation, then an uncontained but directed surge, recovery and renewed complication. The candidate changes the consequence of the run instead of merely adding another irregular mechanism.
+- **Long-form journey:** PASS. The surge creates a decisive exertion before the later Drummz → Ikoyi → Amor dissolution/reassembly passage; it neither opens a second ending nor touches the protected trio. This does not impose one summit.
+- **Verdict:** ADD between *Pulse I* and *Fragments*. Provisional and responsive to natural listener evidence.
+
+#### Shoal — Strange Blue Knots — placement-specific REJECT
+
+- **Volume fit:** PASS. The exact source documents direct drive on muscular bass while pointillistic synthwork tightens attention around a spiral-like focal point.
+- **Immediate transition:** UNKNOWN at both Abundance → candidate → Worn Down and Truth in Noise → candidate → Transparency; BPM, pulse, phrasing and mix behavior are untested.
+- **Surrounding run:** FAILS THE TESTED POSITIONS. The 7:08 insertion makes the opening-middle carry another long focus threshold before Worn Down, while the pre-trio position prolongs consolidation.
+- **Long-form journey:** NOT IMPROVED at either position. Tightening focus is genuinely interesting, but the present journey does not need another preparation or protected-block threshold there.
+- **Verdict:** placement-specific REJECT only; retained locally and globally.
+
+#### Shoal — Interlocking — placement-specific REJECT
+
+- **Volume fit:** PASS. The exact source describes restraint rebuilding attention through guile and quiet magnetism after force.
+- **Immediate transition:** UNKNOWN at both Truth in Noise → candidate → Transparency and Stardancer → candidate → Invisible Warriors Of Light; actual handoffs are untested.
+- **Surrounding run:** FAILS THE TESTED POSITIONS. Nearly seven minutes of rebuilt attention delays the protected closing motion or turns the concise afterword into a two-stage coda.
+- **Long-form journey:** NOT IMPROVED at either position. Restraint can be forceful without being necessary here.
+- **Verdict:** placement-specific REJECT only; retained locally and globally.
+
+The six unresolved identities receive no musical verdict and do not enter the global utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; all six exact resolver errors and the two unused neighbor-URI discrepancies are preserved; every selected candidate is separated across volume, immediate-transition, surrounding-run and long-form scales; no metadata is converted into energy, density, pulse, hypnosis, phrase or mix claims; the protected trio remains untouched; and only the three exact tracks explicitly retained as genuinely interesting enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **23 → 24 canonical tracks** with *Roxellana* between *Pulse I* and *Fragments*.
+- Local inspiration: three exact tracks, six unresolved research leads, three release/label watches and one concrete set direction retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **194 → 197 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 34 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 1 ADD + 2 placement-specific REJECT → 3 utility additions. Inspection-to-lead conversion was 26.5%, exact-resolution conversion 33.3%, and selected-candidate-to-ADD conversion 33.3%. Across Runs 87–105, the repaired funnel produced 170 leads from approximately 811 inspections and 9 ADDs from 49 selected candidates. The recent ADD rate is 4/10 across Runs 96–105, versus 10/55 across Runs 55–105. The no-ADD streak is zero; the latest canonical addition is Run 105. The strongest counterargument is that *Roxellana* may amplify a run that already moves from crooked accumulation into recovery. The opposing evidence is candidate-specific: its official note distinguishes loss of containment from directionless chaos, while the following run still has room to recover and complicate that force. The run proves one current exact track supports a defensible new placement and two others are valuable discoveries; it does not prove the unresolved identities fail musically or establish any actual handoff, energy, density, perceived pulse, phrase relation or mixability.
+
+---
+
 ## Run 104 — EXPLORE — suspension, foreground competition and blunt mutation — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 23 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 191 exact tracks, both with exact matching COMPLETE receipts. The protected `Transparency → When We Froze → Stardancer` internal order was intact; no REVISIT was TRIGGERED, no listener repair was authorized, and Run 103's utility-table defect was already repaired and verified. No objective or workflow defect required REPAIR.
