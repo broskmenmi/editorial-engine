@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 102 — EXPLORE — foreground dissolution before reassembly
+
+Nine ranked leads from approximately 54 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two exact alternates and one preserved release-date warning. There were no duplicates, substitutions or terminal technical errors.
+
+**Decision:** 1 ADD. Ibrahim Alfa Jnr — *Ikoyi* is added provisionally between *Drummz* and *Amor*. Its exact-track description documents break fragments gradually slipping into relaxed ambient dub without fully stabilizing. In `Fragments → Drummz → Ikoyi → Amor → Truth in Noise`, that short dissolution clears the foreground before rhythmic material reassembles and consolidates. *Subutrax* and Leo — *Jetti* receive placement-specific REJECT verdicts for their two tested positions: both pass the selection lens, but the proposed runs repeat metric instability or re-grounding already carried by their neighbours. UNKNOWN handoffs were not treated as vetoes.
+
+STRANGE GAIT increases from 21 to 22 tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 185 to 188 tracks with the three selected exact candidates.
+
+Across Runs 87–102, the repaired funnel has produced 143 leads from approximately 646 inspections and 7 ADDs from 40 selected candidates. The recent ADD rate is 3/10 across Runs 93–102, versus 8/48 across Runs 55–102. The five-run no-ADD streak ends; the last canonical addition is Run 102. Fifteen exact tracks were retained globally from the five completed no-ADD runs after Run 96 through this addition. The differentiator from Run 98's PARKED *Mend* test is candidate-specific evidence: *Ikoyi* documents the exact dissolution required by this placement and lasts 3:20, while *Mend*'s decision-critical softness was mainly album-level.
+
+Canonical: 22 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Ikoyi → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+
 ## Run 101 — EXPLORE — repeated beginnings and metric prehistory
 
 Nine ranked leads from approximately 35 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, duplicates, substitutions, alternates or terminal technical errors.

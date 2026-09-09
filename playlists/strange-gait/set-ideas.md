@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 102
+
+### Dissolution can be directional
+
+**Direction:** Explore short passages where rhythmic foreground loses definition without becoming a full release. The useful question is whether that dissolution makes subsequent bodily material feel reassembled rather than merely resumed.
+
+**Ingredients:**
+
+- Ibrahim Alfa Jnr — *Ikoyi* — exact canonical provisional ADD; documented break fragments gradually slipping into ambient dub without fully stabilizing.
+- Ibrahim Alfa Jnr — *Subutrax* — exact placement-specific reject; documented polyrhythmic clock whose apparent tempo changes with attention.
+- Leo — *Jetti* — exact placement-specific reject; documented reduced electro/dub precision funk.
+- Jeff Mills — *Electromagnetic* — unresolved catalogue research into half-time mechanical bob.
+- STRANGE GAIT's `Drummz → Ikoyi → Amor → Truth in Noise` is the approved ordered-listening hypothesis; no live edge is asserted.
+
+**Why interesting:** A set can move by withdrawing the foreground while leaving rhythmic memory active. When the next track restores tactile attacks, it may feel like reassembly even without a drop, tempo rise or scalar-energy story.
+
+**Unknown/risk:** This is not a proven DJ mix. BPM, phrase structure, perceived pulse, density, exact felt states and all pairwise handoffs remain UNKNOWN. Electromagnetic is unresolved; Subutrax and Jetti are rejected only for their tested canonical slots.
+
+
 ## Current additions — Run 101
 
 ### One opening can contain too many beginnings

@@ -189,6 +189,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 183 | Nueen | Copicat | spotify:track:2up7nuPPW1OwyKv9M8rcMc | STRANGE GAIT Run 101 | Placement-specific reject / interesting | 2026-09-09 |
 | 184 | Bitchin Bajas | Ajami | spotify:track:2zEtaiNt3FIC9CyohOJcXP | STRANGE GAIT Run 101 | Placement-specific reject / interesting | 2026-09-09 |
 | 185 | Bitchin Bajas | Isle Peaks | spotify:track:7L2cgORwNoTrj8CYoh9pf5 | STRANGE GAIT Run 101 | PARKED / interesting | 2026-09-09 |
+| 186 | Ibrahim Alfa Jnr | Subutrax | spotify:track:4N0TgtUb82ru9wYyJkNNub | STRANGE GAIT Run 102 | Placement-specific reject / interesting | 2026-09-09 |
+| 187 | Leo | Jetti | spotify:track:2VNUvb735mHuKVTxL66Dzx | STRANGE GAIT Run 102 | Placement-specific reject / interesting | 2026-09-09 |
+| 188 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | STRANGE GAIT Run 102 | Canonical ADD / retained | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -19,17 +19,20 @@
 | 13 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
 | 14 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
 | 15 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 16 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
-| 17 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 18 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 19 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 20 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 21 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 16 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
+| 17 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
+| 18 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 19 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 20 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 21 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 22 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 
 ## Current state
 
-**ACTIVE EXPANSION — 21 canonical tracks.**
+**ACTIVE EXPANSION — 22 canonical tracks.**
+
+EXPLORE run `2026-09-09T13:51:02Z-explore-102` adds Ibrahim Alfa Jnr — Ikoyi between Clotur — Drummz and Valesuchi — Amor. Pitchfork's exact-track account documents breakbeat fragments, jumbled vocal and chimes gradually slipping into relaxed ambient dub without fully stabilizing; Spotify resolves the exact 3:20 identity. Editorially, the five-track run becomes `Fragments → Drummz → Ikoyi → Amor → Truth in Noise`: driving re-escalation, unpredictable rhythm, a brief foreground dissolution, machine-to-hand-drum mutation, then groove consolidation. The insertion does not claim a seamless mix. BPM, phrase structure, perceived pulse, density, scalar energy and both exact handoffs remain unknown.
 
 EXPLORE run `2026-09-09T07:51:55Z-explore-96` adds T++ — Worn Down between Decoder — Abundance and Sciahri — Too Much Time. Boomkat documents a distant rumble easing into propulsive, weighty drums while threatening to unravel yet holding for the dance; All Night Flight independently describes harsh swung break chops and surging bass pressure re-adjusting into release. Editorially, the five-track run becomes `Cave → Abundance → Worn Down → Too Much Time → Moonwake`: widening, understated swing, a rumble-to-weight threshold, then physical widening and intensification. The 7:28 duration is a material proportional cost, but the insertion supplies a specific preparatory arc rather than another central reset or tail statement. BPM, perceived pulse, phrasing, density, scalar energy and both exact handoffs remain unknown.
 
@@ -53,7 +56,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All twenty individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
+All twenty-two individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -61,7 +64,7 @@ Transparency uses 143 BPM as the working canonical tempo because independent Son
 
 ## Next structural need
 
-EXPLORE the whole journey. Do not default new music to the tail merely because Stardancer is currently last. Search for the strongest evidence-supported placement before the opener, between any non-frozen/non-protected neighbours, or after the last track. Scrutinize whether the expanded opening still needs further articulation before proposing another early insertion. Preserve the two protected internal trio handoffs. `Truth in Noise → Transparency` remains an available boundary.
+EXPLORE the whole journey. Do not default new music to the tail or central reset. Search for the strongest evidence-supported placement before the opener, between any non-frozen/non-protected neighbours, or after the last track. Scrutinize whether the new late-middle dissolution remains proportionate before proposing another stage around it. Preserve the two protected internal trio handoffs. `Truth in Noise → Transparency` remains an available boundary.
 
 Run health must be included in analysis. Track consecutive no-ADD runs, the last canonical ADD, recent ADD rate, and repeated failure modes. A long drought is a signal to inspect discovery/evaluation strategy, not permission to force admission.
 
@@ -69,9 +72,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 135 → — → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 → — BPM`
+`— → 136 → 136 → 134 → 135 → — → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → — → 138 → 143† → 140 → 137 → — BPM`
 
-`— Worn Down, Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
+`— Stadium Drive, Worn Down, Ikoyi, Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

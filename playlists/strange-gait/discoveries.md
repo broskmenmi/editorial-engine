@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 102 — EXPLORE — foreground dissolution, metric attention and precision funk — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 185 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. The five-run no-ADD streak and retained-interest growth were audited as process-health signals. Run 101's move away from repeated central/pre-closing tests weakened the repetitive-placement diagnosis; no actionable objective or process REPAIR was found.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T13:51:02Z-explore-102`
+- **sourceCommit:** `617a3f86d3c587d02a85b6838d8019f3a73e19be`
+- **request commit:** `c10ef3c85ae07afb12a084411c47017b2d14ce01`
+- **snapshot commit:** `df55df78393b3fa53a04a64c0d6162e396704ce3`
+- **scope:** approximately 54 named tracks across Ibrahim Alfa Jnr's current *Infinite Black Inside*, Leo's current *Cicada Burnt*, HVL's current *Formation*, Jeff Mills' overlooked *Moon — The Area Of Influence* and Token's overlooked *Aphelion*; official release pages and attributed criticism only; no audio audition.
+- **freshness:** Run 101's source ecosystems were not retried. Previously PARKED Leo tracks *Spirit Level* and *Descant*, and previously resolved alternate Lucy — *Sana Sana Sana Cura Cura Cura*, were excluded. Exact repository searches found no durable history for the nine requested identities.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 5 exact resolutions + 4 unresolved; 3 selected candidates + 2 unevaluated exact alternates; one release-date warning; no duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Ibrahim Alfa Jnr — Subutrax | RESOLVED — `spotify:track:4N0TgtUb82ru9wYyJkNNub`; *Infinite Black Inside*; `2026-05-15`; 3:10; BPM unavailable | SELECTED |
+| 2 | Leo — Jetti | RESOLVED — `spotify:track:2VNUvb735mHuKVTxL66Dzx`; *Cicada Burnt*; `2026-07-31`; 6:00; BPM unavailable | SELECTED |
+| 3 | Jeff Mills — Electromagnetic | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 4 | Ibrahim Alfa Jnr — Ikoyi | RESOLVED — `spotify:track:2sq9nJXmO5OtwWemr30z32`; *Infinite Black Inside*; `2026-05-15`; 3:20; BPM unavailable | SELECTED |
+| 5 | Planetary Assault Systems — The 808 Track (Parts 1 and 2) | RESOLVED — `spotify:track:3m6yVFQ4gkZbKK2tiie0Dz`; *Aphelion*; Spotify release `2014`; 9:15; BPM unavailable | UNEVALUATED ALTERNATE |
+| 6 | Ibrahim Alfa Jnr — Drum Slinger (Other Version) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 7 | Jeff Mills — The Tides | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Leo — Spirit Level (Prescript) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 9 | HVL — Raining Birds | RESOLVED — `spotify:track:3EmxrX93360ZjfMhsc4sr1`; *Formation*; `2026-07-07`; 5:50; BPM unavailable | UNEVALUATED ALTERNATE |
+
+Warning preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2014-11" but Spotify returned "2014"` — Planetary Assault Systems — *The 808 Track (Parts 1 and 2)*.
+
+The four unresolved leads receive no musical verdict. The two exact alternates were not selected or evaluated.
+
+### Canonical evaluations
+
+#### Ibrahim Alfa Jnr — Subutrax — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents forward polyrhythmic footwork rolls jury-rigged to a wonky kick, random barline markers and metallic percussion continually reforming phrases. The listener can perceive the clock differently depending on focus; this directly serves the selection lens.
+- **Immediate transition:** UNKNOWN at both `Abundance → Subutrax → Worn Down` and `Tehutis Law → Subutrax → Pulse I`. BPM, phrase structure, entry/exit behaviour, density and mixability were not measured. These unknowns are not treated as failures.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. In `Cave → Abundance → Subutrax → Worn Down → Too Much Time`, the candidate introduces metric instability immediately before Worn Down's longer threatened-coherence arc, weakening the latter's directional event. In `Thick to Handle → Tehutis Law → Subutrax → Pulse I → Fragments`, its compact shifting clock duplicates the move from re-grounding into crooked accumulation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. Its 3:10 duration limits proportional cost, but both insertions restate an existing change in bodily prediction rather than alter what follows.
+- **Verdict:** placement-specific **REJECT** for the two Run 102 positions only. Retained as an exact interesting discovery.
+
+#### Leo — Jetti — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents a reduced fusion of electro snap and dubwise chords whose syncopated snares create precision funk. Its relative straightforwardness is not a defect and no novelty quota is applied.
+- **Immediate transition:** UNKNOWN at `Thick to Handle → Jetti → Tehutis Law` and `Amor → Jetti → Truth in Noise`. BPM, phrase structure, perceived pulse, density and mixability remain untested.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. In the first run, Jetti performs a precise funk re-grounding before Tehutis Law's existing re-grounding. In the second, it installs an additional reduced groove stage between Amor's mutation and Truth in Noise's consolidation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. A six-minute change of rhythmic posture is credible, but neither slot makes the subsequent grounding or consolidation mean something unavailable in the current journey.
+- **Verdict:** placement-specific **REJECT** for the two Run 102 positions only. Retained as an exact interesting discovery.
+
+#### Ibrahim Alfa Jnr — Ikoyi — provisional ADD / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents break fragments beneath jumbled vocal and chimes gradually slipping into relaxed ambient dub without fully stabilizing. The track resists one settled form without relying on technical novelty alone.
+- **Immediate transition:** PROVISIONALLY PASS at `Drummz → Ikoyi → Amor`. Exact phrasing, perceived pulse, density, entry/exit behaviour and mixability are UNKNOWN. The best available structural evidence nevertheless supports a deliberate hard change: unpredictable rhythm loses foreground definition, then Amor's documented machine-to-hand-drum mutation reintroduces bodily material.
+- **Surrounding three-to-five-track run:** PASS. `Fragments → Drummz → Ikoyi → Amor → Truth in Noise` moves from clearer drive through unpredictable rhythm into a short dissolution, then reassembly and consolidation. Ikoyi does not merely demonstrate another rhythmic technique; it creates a momentary change of listener stance before the late motion gathers again.
+- **Long-form journey:** PASS provisionally. At 3:20, the insertion creates a concise late-middle aperture rather than another full reset, climax or ending. It makes the return of tactile rhythmic material in Amor more consequential before Truth in Noise consolidates.
+- **Verdict:** **ADD between Drummz and Amor**. Retain provisionally; no listener protection is inferred.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA; the matching PARTIAL snapshot has the correct runId and sourceCommit; 9 requested identities reconcile to 3 selected exact candidates, 2 exact alternates and 4 unresolved outcomes; the one warning is preserved; no duplicate, substitution or terminal technical error is hidden. Only the three selected identities entered evaluation. Each received separate volume, immediate-transition, local-run and long-form conclusions. UNKNOWN handoffs are explicit risks rather than vetoes. The distinction from Run 98's PARKED *Mend* is lawful and material: *Ikoyi* has exact-track evidence for the decision-critical dissolution and a concise 3:20 duration. The protected internal trio remains intact. Auditor approves one provisional canonical ADD, two scoped placement rejections, local inspiration retention, and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **21 → 22 canonical tracks**, adding *Ikoyi* between *Drummz* and *Amor*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains all three selected exact tracks, four unresolved research leads, three release/catalogue watches and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL: **185 → 188 exact tracks**, adding *Subutrax*, *Jetti* and *Ikoyi*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 54 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unevaluated alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was 16.7%; lead-to-resolution conversion was 55.6%; selected-candidate-to-ADD conversion was 33.3%. Across Runs 87–102, the repaired funnel has produced 143 leads from approximately 646 inspections and 7 ADDs from 40 selected candidates. The recent ADD rate is 3/10 across Runs 93–102, versus 8/48 across Runs 55–102. The five-run no-ADD streak ends; the last canonical addition is Run 102. Fifteen exact tracks were retained globally from the five completed no-ADD runs after Run 96 through this addition. The strongest counterargument is that *Ikoyi* repeats the same late-middle placement where *Mend* was PARKED in Run 98 and may turn `Drummz → Amor` into another over-articulated transformation sequence. That risk is real. The opposing evidence is candidate-specific and proportional: *Ikoyi* itself is documented moving from break fragments into ambient dub, and its 3:20 dissolution creates a short loss of foreground before reassembly rather than adding another long soft-focus stage. This does not establish BPM, phrase fit, density, perceived pulse, seamless handoffs or live-mixing compatibility and does not globally reject *Subutrax* or *Jetti*.
+
+
 ## Run 101 — EXPLORE — repeated beginnings and metric prehistory — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 182 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 100's concentration around the central reset and pre-closing boundary remained a workflow watch, so this scan deliberately tested the opening instead of repeating those positions.

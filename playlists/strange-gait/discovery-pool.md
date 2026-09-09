@@ -1,5 +1,28 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 102 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Ibrahim Alfa Jnr | Subutrax | https://open.spotify.com/track/4N0TgtUb82ru9wYyJkNNub | Placement-specific REJECT for Abundance → candidate → Worn Down and Tehutis Law → candidate → Pulse I only. Exact shifting-clock footwork/techno construction retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Leo | Jetti | https://open.spotify.com/track/2VNUvb735mHuKVTxL66Dzx | Placement-specific REJECT for Thick to Handle → candidate → Tehutis Law and Amor → candidate → Truth in Noise only. Exact reduced electro/dub precision-funk construction retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Ibrahim Alfa Jnr | Ikoyi | https://open.spotify.com/track/2sq9nJXmO5OtwWemr30z32 | Canonical provisional ADD between Drummz and Amor. Exact break-fragment-to-ambient-dub dissolution retained globally; BPM, phrase fit and both handoffs remain unknown. |
+| RESEARCH LEAD | Jeff Mills | Electromagnetic | https://ra.co/reviews/24076 | Resolver error `no exact Spotify title/artist search match in market SE`; half-time mechanical-bob evidence retained without musical verdict. |
+| RESEARCH LEAD | Ibrahim Alfa Jnr | Drum Slinger (Other Version) | https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/ | Same no-match error; clarinet/manipulated-djembe research retained without musical verdict. |
+| RESEARCH LEAD | Jeff Mills | The Tides | https://ra.co/reviews/24076 | Same no-match error; woody syncopation and agile-bass research retained without musical verdict. |
+| RESEARCH LEAD | Leo | Spirit Level (Prescript) | https://pitchfork.com/reviews/albums/leo-cicada-burnt/ | Same no-match error; kick-refusing bass-and-chirp headfake retained without musical verdict. |
+| RELEASE WATCH | Ibrahim Alfa Jnr / FO | Infinite Black Inside | https://iyaka.bandcamp.com/album/infinite-black-inside | Current concise techno/footwork/jazz/broken-beat window; exact claims remain attached only to cited tracks. |
+| RELEASE WATCH | Leo / Peak Oil | Cicada Burnt | https://leoproducer.bandcamp.com/album/cicada-burnt | Current percussive bass/electro/dub window; previously PARKED Spirit Level and Descant remain closed. |
+| CATALOGUE WATCH | Jeff Mills / Axis | Moon — The Area Of Influence | https://ra.co/reviews/24076 | Overlooked off-centre rhythmic catalogue; unresolved identities receive no Spotify claim or verdict. |
+
+### Placement and inspiration boundaries
+
+- Subutrax and Jetti are not globally rejected; only their two Run 102 placements are rejected.
+- Ikoyi's canonical placement is provisional and does not prove phrase fit or a live-mixing edge.
+- The four unresolved leads do not enter the global utility ledger.
+- The 808 Track (Parts 1 and 2) and Raining Birds resolved as alternates but were not selected, evaluated or explicitly retained as decisions.
+
+
 ## Run 101 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
