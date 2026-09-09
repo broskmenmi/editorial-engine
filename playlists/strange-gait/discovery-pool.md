@@ -1,5 +1,29 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 101 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Nueen | Copicat | https://open.spotify.com/track/2up7nuPPW1OwyKv9M8rcMc | Placement-specific REJECT before Stadium Drive and between Stadium Drive and Marauder only. Exact ratchet-to-drop construction retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Bitchin Bajas | Ajami | https://open.spotify.com/track/2zEtaiNt3FIC9CyohOJcXP | Placement-specific REJECT before Stadium Drive and between Capa and Trompe L'oeil only. Exact 6/8-to-4/4 metric transformation retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Bitchin Bajas | Isle Peaks | https://open.spotify.com/track/7L2cgORwNoTrj8CYoh9pf5 | PARKED prelude hypothesis. Exact freeform field-sound, drone, strings and pitch-dive path retained globally; track-specific rhythmic/techno premise remains decision-critical. |
+| RESEARCH LEAD | Ribé, Roll Dann | Ars Non Placens | https://mutual-rytm.bandcamp.com/album/virtus-occulta | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Gerald Cleaver, Hprizm, Brandon Lopez | Rama | https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/ | Same no-match error; exact described polyrhythm/pitch-down idea retained without verdict. |
+| RESEARCH LEAD | Ribé, Roll Dann | Extra Lumen / Sub Terra | https://mutual-rytm.bandcamp.com/album/virtus-occulta | Both returned the same no-match error; no musical verdict. |
+| RESEARCH LEAD | Gerald Cleaver, Hprizm, Brandon Lopez | Hopoff / Blowback | https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/ | Both returned the same no-match error; no musical verdict. |
+| RELEASE WATCH | Ribé & Roll Dann | Virtus Occulta | https://mutual-rytm.bandcamp.com/album/virtus-occulta | Current functional-techno window around subtle posture changes; unresolved titles receive no exact identity claim. |
+| RELEASE WATCH | Nueen | Swerved | https://nueen.bandcamp.com/album/swerved | Current emerging bass/ambient release window; exact-track claims remain attached only to Copicat. |
+| RELEASE WATCH | Bitchin Bajas | Isle Peaks | https://bitchinbajas.bandcamp.com/album/isle-peaks | Current adjacent metric/freeform release window; physical-only Watch Your Step was not sent for Spotify resolution. |
+| CATALOGUE WATCH | Gerald Cleaver, Brandon Lopez, Hprizm | In The Wilderness | https://positiveelevation.bandcamp.com/album/in-the-wilderness | Overlooked deconstructed live-rhythm album; unresolved titles receive no Spotify claim or verdict. |
+
+### Placement and inspiration boundaries
+
+- Copicat and Ajami are not globally rejected; only their two Run 101 placements are rejected.
+- Isle Peaks is PARKED, not canonical and not proven as a prelude.
+- The six unresolved leads do not enter the global utility ledger.
+- No sequence, phrase fit, BPM relation, felt-state scalar or live-mixing edge is proven.
+
+
 Historical inspiration entries through Run 85 are preserved verbatim in `discovery-pool-archive-through-run-85.md`. That archive remains part of the duplicate-suppression and research history: read it whenever a future run depends on prior retained exact tracks, unresolved leads, watches, or placement-specific outcomes.
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.

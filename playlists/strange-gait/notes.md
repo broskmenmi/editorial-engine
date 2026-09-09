@@ -1,5 +1,16 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 101 — EXPLORE — repeated beginnings and metric prehistory
+
+Nine ranked leads from approximately 35 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, duplicates, substitutions, alternates or terminal technical errors.
+
+**Decision:** 0 ADD. Nueen — *Copicat* and Bitchin Bajas — *Ajami* receive placement-specific REJECT verdicts for their two tested opening/central positions. Both pass the selection lens, but each supplies a complete arrival or metric reorientation where the current journey already has a full formation/reset movement. Bitchin Bajas — *Isle Peaks* is PARKED: its exact freeform field-sound-to-drone-to-pitch-dive path is interesting, but the evidence does not establish the rhythmic or techno premise needed to choose a ten-minute prelude responsibly. UNKNOWN handoffs were not treated as vetoes.
+
+STRANGE GAIT remains unchanged at 21 tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 182 to 185 tracks with the three selected exact candidates.
+
+Across Runs 87–101, the repaired funnel has produced 134 leads from approximately 592 inspections and 6 ADDs from 37 selected candidates. The recent ADD rate is 2/10 across Runs 92–101, versus 7/47 across Runs 55–101. The current no-ADD streak is five runs; the last canonical addition was Run 96. Twelve exact tracks have been retained globally since that addition. Moving this run to the opening weakens the repetitive-placement diagnosis; 6/9 unresolved identities make resolver identity loss the primary funnel limitation. No actionable workflow REPAIR emerged.
+
+
 Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
 ## Run 100 — EXPLORE — interrupted force, delayed pulse and unstable subdivision

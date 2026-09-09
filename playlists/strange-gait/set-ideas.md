@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 101
+
+### One opening can contain too many beginnings
+
+**Direction:** Explore the difference between a productive false start and cumulative over-explanation. A track can complete a dramatic arrival, yield to ambience, and let rhythm form again—but each beginning needs a distinct consequence for what follows.
+
+**Ingredients:**
+
+- Nueen — *Copicat* — exact placement-specific reject; documented slow ratcheting hi-hat build culminating in a singular drop.
+- Bitchin Bajas — *Ajami* — exact placement-specific reject; documented move into 6/8 and later return to 4/4 motorik motion.
+- Bitchin Bajas — *Isle Peaks* — exact PARKED prelude; documented freeform field-sound, drone, strings and pitch-dive path.
+- Purelink — *Stadium Drive* — canonical provisional transformation-led overture.
+- Inigo Kennedy — *Marauder* / *The Witching Hour* — canonical opening anchor and continuation.
+
+**Why interesting:** In techno, arrival is relational. A kick, a governing metre or a sudden increase in physical definition can feel decisive inside one track, yet become a false start when the next track begins another complete formation. Repetition can create ritual or indecision; long-form consequence distinguishes them.
+
+**Unknown/risk:** This is not a proven sequence or mixing edge. BPM, phrase structure, perceived pulse, density, exact felt state and all pairwise handoffs remain UNKNOWN. Isle Peaks' track-specific techno premise remains unestablished.
+
+
 Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-through-run-85.md`. Those sketches remain valid non-canonical inspiration and must be consulted when a future run depends on an earlier set direction.
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.

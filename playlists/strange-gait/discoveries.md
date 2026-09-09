@@ -1,5 +1,77 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 101 — EXPLORE — repeated beginnings and metric prehistory — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 182 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 100's concentration around the central reset and pre-closing boundary remained a workflow watch, so this scan deliberately tested the opening instead of repeating those positions.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T12:49:18Z-explore-101`
+- **sourceCommit:** `d93420b0963cb5451d9073dd5f0298f92939be7e`
+- **request commit:** `2836b0c733a9a00410c2d6180f15823548f66173`
+- **snapshot commit:** `4d5ffe03506f90682cd67e449c93e8579bc788af`
+- **request fingerprint:** `6eccb6759456ecf61f01ea6ea9284f2a07a503d3f6ce6a84dfa105b9f0cd3641`
+- **scope:** approximately 35 named tracks across Ribé & Roll Dann's current *Virtus Occulta*, Bitchin Bajas' current *Isle Peaks*, Nueen's current *Swerved* and Gerald Cleaver / Hprizm / Brandon Lopez's overlooked *In The Wilderness*; official release pages and attributed criticism only; no audio audition.
+- **freshness:** Runs 99–100's Short Span, Shed, Ital Tek and Batu / Donato Dozzy source ecosystems were not retried. Exact repository searches found no durable history for the nine requested artist-title identities.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 3 exact resolutions + 6 unresolved; 3 selected candidates; no warnings, duplicates, substitutions, exact alternates or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Ribé, Roll Dann — Ars Non Placens | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 2 | Gerald Cleaver, Hprizm, Brandon Lopez — Rama | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 3 | Nueen — Copicat | RESOLVED — `spotify:track:2up7nuPPW1OwyKv9M8rcMc`; *Swerved*; `2026-07-31`; 3:21; BPM unavailable | SELECTED |
+| 4 | Bitchin Bajas — Ajami | RESOLVED — `spotify:track:2zEtaiNt3FIC9CyohOJcXP`; *Isle Peaks*; `2026-08-28`; 16:03; BPM unavailable | SELECTED |
+| 5 | Ribé, Roll Dann — Extra Lumen | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 6 | Gerald Cleaver, Hprizm, Brandon Lopez — Hopoff | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 7 | Ribé, Roll Dann — Sub Terra | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Gerald Cleaver, Hprizm, Brandon Lopez — Blowback | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 9 | Bitchin Bajas — Isle Peaks | RESOLVED — `spotify:track:7L2cgORwNoTrj8CYoh9pf5`; *Isle Peaks*; `2026-08-28`; 10:00; BPM unavailable | SELECTED |
+
+The six unresolved leads receive no musical verdict. There were no resolver warnings or resolved alternates.
+
+### Canonical evaluations
+
+#### Nueen — Copicat — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS at the adjacent edge. The Guardian documents a slow ratcheting hi-hat build culminating in the album's only heavy drop. That exact structural change is relevant without claiming the track is orthodox techno.
+- **Immediate transition:** UNKNOWN at both `Copicat → Stadium Drive` and `Stadium Drive → Copicat → Marauder`; phrase structure, exit behaviour, perceived pulse, density and mixability were not measured. Those unknowns are not treated as failures.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. Before Stadium Drive, the track's complete ratchet-to-drop arrival would be followed by Stadium Drive's documented ambience-to-broken-techno formation, creating two consecutive beginnings before Marauder anchors the opening. Between Stadium Drive and Marauder, the same complete arrival interrupts rather than extends the already established formation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The 3:21 duration is proportionally modest, but the journey already has a transformation-led overture and an eight-track opening third. A second full arrival adds explanation rather than a missing direction.
+- **Verdict:** placement-specific **REJECT** for the two Run 101 opening positions only. Retained as an exact interesting discovery.
+
+#### Bitchin Bajas — Ajami — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS at the adjacent edge. Pitchfork documents steady kalimba pulses becoming lilting 6/8 under a triplet bassline and later returning to a 4/4 motorik stomp.
+- **Immediate transition:** UNKNOWN before Stadium Drive and at `Capa → Ajami → Trompe L'oeil`; BPM, phrase structure, exit behaviour, density, perceived pulse and live mixability remain untested.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. As opener, the 16:03 internal metric transformation plus Stadium Drive's 5:40 formation would create more than twenty-one minutes of consecutive prehistory before Marauder. At the central boundary, Ajami would fully narrate 6/8-to-4/4 reorientation before the existing slower stagger and broken-beat deformation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. Its scale is musically meaningful, not automatically excessive, but neither proposed position gives that scale a consequence unavailable in the current journey.
+- **Verdict:** placement-specific **REJECT** for the two Run 101 positions only. Retained as an exact interesting discovery.
+
+#### Bitchin Bajas — Isle Peaks — PARKED / retained discovery
+
+- **Volume fit:** PLAUSIBLE only at the adjacent boundary. Pitchfork documents a freeform path through field and natural sounds, needling drone, strummed strings and a final pitch dive, but no track-specific rhythmic or techno premise.
+- **Immediate transition:** UNKNOWN before Stadium Drive. The final pitch movement may make the following rhythmic formation more consequential or may simply delay it.
+- **Surrounding three-to-five-track run:** DECISION-CRITICAL UNKNOWN. The proposed `Isle Peaks → Stadium Drive → Marauder → The Witching Hour` opening could read as elemental prehistory becoming rhythm, but the available exact-track evidence cannot distinguish that from ten minutes of unrelated prelude.
+- **Long-form journey:** NOT RESPONSIBLY CHOSEN. The track's 10:00 duration and conspicuous production-world change are not defects. The blocker is the absence of a track-specific bridge from its documented freeform path into the volume's techno premise.
+- **Verdict:** **PARKED**. Reopen only for materially richer exact-track evidence or a changed opening need; no listening task is assigned.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA; the matching PARTIAL snapshot has the correct runId, sourceCommit and fingerprint; 9 requested identities reconcile to 3 selected exact resolutions and 6 unresolved outcomes; no warning, duplicate, alternate, substitution or technical error is hidden. Only the three selected identities entered evaluation. Each received separate volume, immediate-transition, local-run and long-form conclusions. Copicat and Ajami fail for concrete cumulative-structure reasons rather than missing handoff audio. Isle Peaks has a specific candidate-level belonging uncertainty rather than a generic epistemic veto. The protected internal trio remains intact. Auditor approves no canonical mutation, two scoped placement rejections, one PARKED revisit, local inspiration retention and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **21 canonical tracks**, with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains all three selected exact tracks, six unresolved research leads, three source watches and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL: **182 → 185 exact tracks**, adding Copicat, Ajami and Isle Peaks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 35 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 selected evaluations → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion was 25.7%; lead-to-resolution conversion was 33.3%; selected-candidate-to-ADD conversion was 0/3. Across Runs 87–101, the repaired funnel has produced 134 leads from approximately 592 inspections and 6 ADDs from 37 selected candidates. The recent ADD rate is 2/10 across Runs 92–101, versus 7/47 across Runs 55–101. The no-ADD streak is five runs since Run 96; twelve exact tracks have been retained globally since that addition. The strongest counterargument is that Copicat's short duration could make a deliberate false start before Stadium Drive rather than an over-explained opening. That remains credible, but the only exact evidence documents the candidate's arrival, not a withdrawal or after-effect that earns the second beginning. Moving the search to the opening weakens the repetitive-placement diagnosis; the six unresolved identities strengthen identity-loss as this run's main funnel limitation. Playlist maturity still best explains canonical restraint. The run proves the workflow can test conspicuous adjacent material without a same-room rule and can reject it for proportional journey reasons. It does not prove any transition, felt state, BPM, phrase fit, density, perceived pulse or live-mixing compatibility and does not globally reject Copicat or Ajami.
+
+
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
 ## Run 100 — EXPLORE — interrupted force, delayed pulse and unstable subdivision — 2026-09-09
