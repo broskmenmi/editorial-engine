@@ -4,6 +4,29 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 98 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Auscultation | Mend | https://open.spotify.com/track/3SUOdgRwhl9ZM1uSNmtdqK | PARKED. Exact 5:39 current techno identity retained globally; the release supports hushed rhythms and soft eerie enclosure, but candidate-specific felt direction is not strong enough to choose between the two tested placements. |
+| EXACT TRACK | Actress | Marble Plexus | https://open.spotify.com/track/3A9pnprgJsv8uTMRT4XxYE | Placement-specific REJECT for Capa → candidate → Trompe L'oeil and Fragments → candidate → Drummz only. Exact tactile, squirming/convulsing construction retained globally; Spotify date warning preserved. |
+| EXACT TRACK | Actress | Tree of Knowledge | https://open.spotify.com/track/5DLuGk5wkZ4S2iBqEshFOY | Placement-specific REJECT for Tehutis Law → candidate → Pulse I and Drummz → candidate → Amor only. Exact head-nodder-contorted-into-vertigo evidence retained globally; Spotify title-case/date warning preserved. |
+| RESEARCH LEAD | Cloud Canyons | Mantle Of Light | https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026 | Resolver error `no exact Spotify title/artist search match in market SE`; exact-track trance-inducing-techno and elastic-time evidence retained without musical verdict. |
+| RESEARCH LEAD | Cloud Canyons | Blank Desire | https://daily.bandcamp.com/essential-releases/essential-releases-august-21-2026 | Same exact resolver error; 9:30 trance-inducing-techno evidence retained without verdict. |
+| RESEARCH LEAD | Cloud Canyons | Body Wisdom | https://cloudcanyonsband.bandcamp.com/album/body-wisdom | Same exact resolver error; exact title-track low-frequency-pressure evidence retained without verdict. |
+| RELEASE WATCH | Auscultation | IV | https://auscultation.bandcamp.com/album/iv | Current 2026 100% Silk album retained for soft-focus techno/dub research. Pinned and Precarious resolved only as unevaluated alternates. |
+| RELEASE WATCH | Cloud Canyons | Body Wisdom | https://cloudcanyonsband.bandcamp.com/album/body-wisdom | Current 2026 Berliner Tonaufnahmen album retained for trance-inducing techno, low-frequency pressure and long-form time-perception research. |
+| CATALOGUE WATCH | Actress | R.I.P. | https://ra.co/reviews/10804 | Overlooked tactile/contorted techno catalogue retained. The Lord's Graffiti resolved only as an unevaluated alternate. |
+
+### Placement and inspiration boundaries
+
+- Mend is PARKED; Marble Plexus and Tree of Knowledge are rejected only for the four documented placement scopes, not globally.
+- The three Cloud Canyons tracks remain unresolved and receive no ADD, REJECT, PARKED or REVISIT verdict.
+- Auscultation — Pinned, Auscultation — Precarious and Actress — The Lord's Graffiti are exact alternates that were not selected or evaluated; they receive no musical verdict and do not enter the global utility ledger.
+- All three Actress date warnings remain attached to the resolver record.
+- No BPM, phrase fit, perceived pulse, scalar energy, density, space, hypnosis, mixability or live edge is asserted beyond attributed source language.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
 ## Run 97 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
