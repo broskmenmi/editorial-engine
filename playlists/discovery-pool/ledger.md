@@ -210,6 +210,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 204 | Barker | Fluid Mechanics | spotify:track:4uyYd09ILlXDhxVo3V5YdP | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
 | 205 | Toni Geitani | Madda Mudadda | spotify:track:1w1sKIvlPrbKGrrr4TN9g6 | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
 | 206 | Barker | Difference And Repetition | spotify:track:6MA4LrvNMPQB6d58Z4SzwS | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
+| 207 | KAY BE | BARUT | spotify:track:6Y6HaqCzXpjefNcSlhNaxE | STRANGE GAIT Run 110 | Placement-specific reject / interesting | 2026-09-09 |
+| 208 | SHERELLE, Cameo Blush | LOVE YOUR ENEMIES | spotify:track:6UqZGPmUv9OUibCZbqYubL | STRANGE GAIT Run 110 | Canonical ADD / retained | 2026-09-09 |
+| 209 | SHERELLE | XTC SUSP9ND3D | spotify:track:2IrRl76Uxkh4aoLIeHCow5 | STRANGE GAIT Run 110 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

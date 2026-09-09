@@ -1,5 +1,81 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 110 — EXPLORE — conflict can prepare re-grounding — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 206 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit or unfinished musical repair was actionable. The canonical table was authoritative; its stale prose count was corrected as part of the approved ledger update.
+
+### Exploration receipt
+
+Run `2026-09-09T21:49:03Z-explore-110` inspected approximately 47 named tracks across the September 9 Bandcamp electronic survey, Beatrice M.'s current `Sinking`, SHERELLE's overlooked `WITH A VENGEANCE`, linked official releases and broader current electronic windows. Recent Run 105–109 ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (19.1%).
+
+The immutable schemaVersion 2 request was pinned to `5e25a4593437a4208cf6059f69d1f0c1ef0fc033` in request commit `9df8a1422397d7a78c5d48ca0ce7bd1f0ce21e45`. The matching snapshot commit is `ac28da96de9aa29d4a12e38e3597226be751f7d1`; request fingerprint `bcf94f7c7611088b473eb35803a874a8646123607e525e15654542fa89b9111e`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 3 resolved, 3 selected candidates, 0 resolved alternates, 6 unresolved and 1 warning. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. KAY BE — BARUT — `spotify:track:6Y6HaqCzXpjefNcSlhNaxE` — 1:36
+2. SHERELLE, Cameo Blush — LOVE YOUR ENEMIES — `spotify:track:6UqZGPmUv9OUibCZbqYubL` — 5:16
+3. SHERELLE — XTC SUSP9ND3D — `spotify:track:2IrRl76Uxkh4aoLIeHCow5` — 4:24
+
+Unresolved identities, each preserved without musical verdict and with exact error `no exact Spotify title/artist search match in market SE`:
+
+- Beatrice M. — In Touch ft. Jinnal + Kaba
+- SHERELLE — READY, STEADY,GO!
+- DJ Phil, HEAVEE — House It Up
+- Beatrice M. — Disco Corner
+- South Beach Recycling — Reset (Original Concept)
+- Beatrice M. — Sinking
+
+Warning preserved exactly for KAY BE — BARUT: `Exact title/artist matched with release metadata variance: release date requested "2026-08-07" but Spotify returned "2026-08-14"`.
+
+### Candidate evaluations
+
+#### KAY BE — BARUT — placement-specific REJECT
+
+- **Volume fit:** PASS. Exact-track criticism describes clattering hand drums and ultra-syncopation in a 1:36 footwork miniature; concise rhythmic instability is relevant to the selection lens.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Trompe L'oeil → candidate → Thick to Handle`; the neighbours' 130 and 138 BPM values do not fill those gaps.
+- **Three-to-five-track run:** FAIL for the tested placement. `Capa → Trompe L'oeil → BARUT → Thick to Handle → Tehutis Law` enumerates redirection, stagger, ultra-syncopation, broken deformation and re-grounding in five consecutive stages. The miniature adds another statement of instability rather than changing the recovery.
+- **Long-form journey:** FAIL for the tested placement. Its low proportional cost does not establish a new consequence inside an already detailed central reset.
+- **Verdict:** placement-specific REJECT between Trompe L'oeil and Thick to Handle only. This is not a global rejection.
+
+#### SHERELLE, Cameo Blush — LOVE YOUR ENEMIES — ADD
+
+- **Volume fit:** PASS. Pitchfork's exact-track account documents syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field. The track resists one fixed bodily emphasis without relying on novelty or genre orthodoxy.
+- **Immediate transition:** PASS provisionally at `Thick to Handle → LOVE YOUR ENEMIES → Tehutis Law`. The placement purpose is not smoothness: broken deformation leads into simultaneous competing emphasis, after which Tehutis Law can re-ground the run. Exact entry, exit, phrase structure, perceived pulse, density and both handoffs remain UNKNOWN.
+- **Three-to-five-track run:** PASS provisionally for `Trompe L'oeil → Thick to Handle → LOVE YOUR ENEMIES → Tehutis Law → Pulse I`. The candidate creates a distinct conflict stage between deformation and recovery; Pulse I can then begin crooked accumulation rather than repeating the same dispute.
+- **Long-form journey:** PASS provisionally. At Track 13 of 25, the 5:16 insertion makes the central re-grounding consequential without touching the protected trio, creating a new summit rule or displacing Roxellana's later directed surge.
+- **Verdict:** **ADD** between Thick to Handle and Tehutis Law.
+
+#### SHERELLE — XTC SUSP9ND3D — placement-specific REJECT
+
+- **Volume fit:** PASS. Published exact-track criticism describes static-drenched footwork shuddering through overblown noise and dub sirens; the different production world is not a disqualifier.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Encasadelciegoeltuerco → candidate → Cave`.
+- **Three-to-five-track run:** FAIL for the tested placement. `The Witching Hour → Encasadelciegoeltuerco → XTC SUSP9ND3D → Cave → Abundance` extends the concise opening derailment with a second pressure episode before Cave and Abundance can restore broader motion.
+- **Long-form journey:** FAIL for the tested placement. The 4:24 insertion delays recovery without changing the later Worn Down threshold or central redirection.
+- **Verdict:** placement-specific REJECT between Encasadelciegoeltuerco and Cave only. This is not a global rejection.
+
+The six unresolved leads receive no musical verdict. There were no resolved alternates.
+
+### Auditor approval
+
+**APPROVED — 1 ADD, 2 PLACEMENT-SPECIFIC REJECT.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. LOVE YOUR ENEMIES gains admission because exact structural evidence supports a distinct conflict-before-re-grounding purpose at transition, local-run and long-form scales; BARUT and XTC SUSP9ND3D fail only their tested runs. The release-date warning and all six exact resolver errors are preserved.
+
+Auditor approves local retention of all three selected exact tracks, six unresolved research leads, three release/catalogue watches and the set direction **conflict can prepare re-grounding**. All three selected exact tracks must enter the doctrine-free global utility ledger; unresolved leads must not.
+
+### Durable result
+
+- STRANGE GAIT increases **24 → 25 canonical tracks** with LOVE YOUR ENEMIES between Thick to Handle and Tehutis Law; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, six unresolved identities and the Bandcamp / Beatrice M. / SHERELLE source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **206 → 209 exact tracks** with BARUT, LOVE YOUR ENEMIES and XTC SUSP9ND3D.
+- Journey annotations add LOVE YOUR ENEMIES as a provisional cross-rhythmic conflict hinge; generated map outputs remain delegated to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 47 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 selected evaluations → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **19.1%**, exact-resolution conversion **33.3%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–110, the repaired funnel has produced **215 leads from approximately 1,063 inspections and 10 ADDs from 61 selected candidates**. The recent ADD rate is **4/10 across Runs 101–110**, versus **11/67 across Runs 55–110**. The four-run no-ADD streak ends; the latest canonical addition is Run 110. The strongest counterargument is that LOVE YOUR ENEMIES simply adds another explicit rhythmic dispute to a central passage already rich in deformation. The opposing evidence is specific: the candidate's simultaneous syncopated/on-beat conflict differs from sequential stagger or breakage, and Tehutis Law now resolves a defined opposition before Pulse I starts a new accumulation. The run does not prove either handoff, BPM, phrase fit, perceived pulse, density, energy or live-mixing compatibility, and it does not globally reject BARUT or XTC SUSP9ND3D.
+
 ## Run 109 — EXPLORE — recurrence is not progression — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 203 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.

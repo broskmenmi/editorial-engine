@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 110 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | KAY BE | BARUT | https://open.spotify.com/track/6Y6HaqCzXpjefNcSlhNaxE | Placement-specific REJECT only for Trompe L'oeil → candidate → Thick to Handle. The exact 1:36 hand-drum / ultra-syncopation miniature remains genuinely interesting; release-date warning preserved. |
+| EXACT TRACK | SHERELLE, Cameo Blush | LOVE YOUR ENEMIES | https://open.spotify.com/track/6UqZGPmUv9OUibCZbqYubL | Canonical ADD between Thick to Handle and Tehutis Law. Exact criticism documents syncopated percussion sparring with a huge on-beat, spoken patois and plaintive saxophone. |
+| EXACT TRACK | SHERELLE | XTC SUSP9ND3D | https://open.spotify.com/track/2IrRl76Uxkh4aoLIeHCow5 | Placement-specific REJECT only for Encasadelciegoeltuerco → candidate → Cave. Exact static-drenched footwork / dub-siren construction remains genuinely interesting. |
+| RESEARCH LEADS | Beatrice M. | In Touch ft. Jinnal + Kaba; Disco Corner; Sinking | https://pitchfork.com/reviews/albums/beatrice-m-sinking | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEADS | SHERELLE; DJ Phil, HEAVEE; South Beach Recycling | READY, STEADY,GO!; House It Up; Reset (Original Concept) | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| CURRENT WATCH | KAY BE / DJ Phil & HEAVEE / South Beach Recycling | ERBAP; Roll Wit Me EP; Reset | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 | September 9 survey window for concise footwork, juke/garage crossover and long-form deep-house foreground transfer. Exact claims remain attached to cited tracks. |
+| RELEASE WATCH | Beatrice M. / Krakzh | Sinking | https://beatricem.bandcamp.com/album/sinking | Current 2026 house–dubstep catalogue window; unresolved identities are research, not publication inputs. |
+| CATALOGUE WATCH | SHERELLE / fabric Originals | WITH A VENGEANCE | https://sherelle.bandcamp.com/album/with-a-vengeance | Overlooked footwork/techno crossover catalogue with two selected exact identities; other unresolved titles receive no verdict. |
+
+### Placement and inspiration boundaries
+
+- LOVE YOUR ENEMIES is a provisional canonical ADD; exact handoffs remain untested.
+- BARUT and XTC SUSP9ND3D are rejected only for their tested placements, not globally.
+- The six unresolved identities do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No BPM, energy, density, phrase fit, perceived pulse or mixability is inferred.
+
 ## Run 109 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

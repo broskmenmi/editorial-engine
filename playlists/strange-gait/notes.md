@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 110 — EXPLORE — conflict can prepare re-grounding
+
+Nine ranked leads from approximately 47 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates, no alternates, one release-date warning and no duplicates, substitutions or technical failures.
+
+**Decision:** 1 ADD and 2 placement-specific REJECT. SHERELLE with Cameo Blush — *LOVE YOUR ENEMIES* is added between *Thick to Handle* and *Tehutis Law*. Exact criticism documents syncopated percussion sparring with a huge on-beat while spoken patois and plaintive saxophone cross the rhythmic field. The five-track run now distinguishes sequential stagger, broken deformation, simultaneous competing emphasis, re-grounding and new accumulation. KAY BE — *BARUT* and SHERELLE — *XTC SUSP9ND3D* pass the selection lens but fail only the tested central and opening placements because they add instability where recovery is already legible.
+
+STRANGE GAIT increases from 24 to 25 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 206 to 209 tracks with all three selected exact candidates.
+
+Across Runs 87–110: 215 leads from approximately 1,063 inspections and 10 ADDs from 61 selected candidates. Recent ADD rate: 4/10 across Runs 101–110; overall repaired comparison: 11/67 across Runs 55–110. The four-run no-ADD streak ends with Run 110.
+
+**Strongest counterargument:** *LOVE YOUR ENEMIES* may over-explain a central passage already rich in deformation. It passes because simultaneous syncopated/on-beat conflict supplies a different condition from the surrounding sequential stagger and breakage, making *Tehutis Law* resolve a defined opposition before *Pulse I* starts a new accumulation.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 109 — EXPLORE — recurrence is not progression
 
 Nine ranked leads from approximately 47 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four release-date warnings and no duplicates, substitutions or technical failures.

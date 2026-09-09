@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 110
+
+### Conflict can prepare re-grounding
+
+**Direction:** Explore moments where two bodily emphases coexist long enough for the following track's re-grounding to feel like a consequence rather than a routine return.
+
+**Ingredients:**
+
+- SHERELLE with Cameo Blush — *LOVE YOUR ENEMIES* — canonical exact track; syncopated percussion and a huge on-beat create the source-backed conflict hypothesis before *Tehutis Law*.
+- KAY BE — *BARUT* — exact placement-specific reject; the ultra-concise hand-drum / ultra-syncopation miniature remains interesting outside the tested central-reset slot.
+- SHERELLE — *XTC SUSP9ND3D* — exact placement-specific reject; static-drenched footwork and dub-siren pressure remain interesting outside the tested opening recovery.
+- Beatrice M. — *In Touch ft. Jinnal + Kaba*, *Disco Corner*, *Sinking*; SHERELLE — *READY, STEADY,GO!*; DJ Phil & HEAVEE — *House It Up*; South Beach Recycling — *Reset (Original Concept)* — unresolved exact-identity research.
+- `Trompe L'oeil → Thick to Handle → LOVE YOUR ENEMIES → Tehutis Law → Pulse I` is a canonical editorial hypothesis, not a proven DJ mix.
+
+**Why interesting:** Re-grounding becomes meaningful when it resolves a defined opposition. The useful distinction is between a candidate that supplies that opposition and one that merely adds another episode of instability.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The two rejects are placement-specific; unresolved identities have no verdict.
+
 ## Current additions — Run 109
 
 ### Recurrence is not progression
