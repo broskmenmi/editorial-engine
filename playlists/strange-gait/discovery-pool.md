@@ -4,6 +4,31 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 97 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEAD | Reptant | To Be Continued... | https://ra.co/reviews/36353 | Resolver error `no exact Spotify title/artist search match in market SE`; current minor-key electro description retained without Spotify identity or musical verdict. |
+| RESEARCH LEAD | SANSIBAR | Fantasmas | https://ra.co/reviews/34615 | Same exact resolver error; electro-to-UK-techno disintegration/reformation evidence retained without verdict. |
+| RESEARCH LEAD | SANSIBAR | Scully (Earth People Mix) | https://ra.co/reviews/34615 | Same exact resolver error; cavernous-breakbeat, flamboyance and celestial-highs evidence retained without verdict. |
+| RESEARCH LEAD | Junes | Shifting Sands | https://ra.co/reviews/33942 | Same exact resolver error; heads-down techno, acid, reverb and loose pitch-wheel evidence retained without verdict. |
+| RESEARCH LEAD | Cleveland | Golem | https://ra.co/reviews/34353 | Same exact resolver error; sparse skeletal techno and skittering-drum evidence retained without verdict. |
+| RESEARCH LEAD | Blu:sh | Trick Speech | https://blush69.bandcamp.com/album/yapping-after-dawn | Same exact resolver error; exact current title retained at the release-evidence floor with individual behaviour unknown. |
+| RESEARCH LEAD | Blu:sh | Full Of Fools | https://blush69.bandcamp.com/album/yapping-after-dawn | Same exact resolver error; exact current title retained without title-derived sonic claims. |
+| RESEARCH LEAD | Blu:sh | Red Cocktail (K-Hole Dub) | https://blush69.bandcamp.com/album/yapping-after-dawn | Same exact resolver error; exact current title retained without inferring dub technique from the mix name. |
+| RESEARCH LEAD | Blu:sh | Again (Serious Mix) | https://blush69.bandcamp.com/album/yapping-after-dawn | Same exact resolver error; exact current title retained without inferring mood or function from the mix name. |
+| RELEASE WATCH | Reptant | Ballet Robotique | https://reptant-the-lizard.bandcamp.com/album/ballet-robotique | Current May 2026 electro release remains useful; prior unresolved Ballet Robotique and Future Proof identities were not retried as fresh leads. |
+| RELEASE WATCH | Blu:sh | Yapping After Dawn | https://blush69.bandcamp.com/album/yapping-after-dawn | Current 2026 Kalahari Oyster Cult release retained as a source window; release-level atmosphere is not transferred to individual tracks. |
+| CATALOGUE WATCH | Kalahari Oyster Cult | Sans Musique / Shifting Sands / Golem | https://ra.co/labels/15234 | Overlooked label cluster retained for electro, techno and broken-rhythm research; no unresolved title is a Spotify identity. |
+
+### Placement and inspiration boundaries
+
+- All nine leads are unresolved and receive no ADD, REJECT, PARKED or REVISIT verdict.
+- No unresolved lead enters the repository-wide utility ledger.
+- The current and catalogue watches are research directions only, not publication inputs.
+- No BPM, phrase fit, perceived pulse, scalar energy, density, space, hypnosis, mixability or live edge is asserted.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
 ## Run 96 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

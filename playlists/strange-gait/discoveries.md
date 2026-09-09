@@ -2,6 +2,55 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 97 — EXPLORE — electro posture and identity-resolution audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 173 exact tracks, both with matching COMPLETE receipts. The evidence-bound felt map matched canonical state; no REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 96's ADD and the 21-track length were proportion signals, not an objective defect or an expansion moratorium.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T08:50:21Z-explore-97`
+- **sourceCommit:** `81781620d183c3b73d95e90f68ca7a3e9dbd1453`
+- **request commit:** `7e4ea156078b5006bb6bbfea48a1c43359e475f7`
+- **snapshot commit:** `e877a6bca83ef7f70806f2cc2d8c0ab95e602ec7`
+- **request fingerprint:** `569d34cb60168da0730efb83a31ad8120a9d6e04d528281766bdeb880711321e`
+- **scope:** approximately 28 named tracks across Reptant's current `Ballet Robotique`, Blu:sh's current `Yapping After Dawn`, Sansibar's overlooked `Sans Musique`, Junes — `Shifting Sands`, Cleveland — `Golem`, and current Kalahari Oyster Cult label context; attributed descriptions and metadata only; no audio audition.
+- **freshness:** all nine retained exact titles were absent from durable evaluated/retained history at the immediate pre-request commit. Reptant — Ballet Robotique and Future Proof were excluded as prior unresolved identities without new exact-resolution evidence. Previously scanned Leo material was excluded.
+- **resolver:** internally valid matching schemaVersion 2 `NONE`; 9 requested → 0 exact resolutions + 9 unresolved; 0 selected candidates; no warnings, duplicates, substitutions, alternates or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome |
+|---:|---|---|
+| 1 | Reptant — To Be Continued... | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 2 | SANSIBAR — Fantasmas | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 3 | SANSIBAR — Scully (Earth People Mix) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 4 | Junes — Shifting Sands | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 5 | Cleveland — Golem | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 6 | Blu:sh — Trick Speech | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 7 | Blu:sh — Full Of Fools | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 8 | Blu:sh — Red Cocktail (K-Hole Dub) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+| 9 | Blu:sh — Again (Serious Mix) | UNRESOLVED — `no exact Spotify title/artist search match in market SE` |
+
+### Canonical evaluation boundary
+
+No canonical candidate exists in the matching snapshot, so no requested identity receives a volume-fit, transition, local-run, long-form, ADD, REJECT, PARKED or REVISIT verdict. Published musical descriptions remain useful research evidence, but they cannot substitute for the workflow's exact Spotify identity gate. This is a genuine zero exact-resolution result, not a technical resolver failure and not nine musical failures.
+
+The unresolved leads therefore do not enter the canonical ledger or the repository-wide utility playlist. The protected trio, all frozen/listener state and all existing rejected/revisit scopes remain unchanged.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the exact live pre-request SHA. The matching snapshot has the correct runId, sourceCommit, mode and target; its fingerprint is recorded; 9 requested identities reconcile exactly to 9 unresolved outcomes; every exact resolver error is preserved; and no stale, substituted, duplicate or unresolved identity entered evaluation. The absence of candidates is handled as an identity boundary rather than musical evidence. Auditor approves the local research-lead and set-direction retention only; no canonical or global utility mutation is authorized.
+
+### Durable result
+
+- STRANGE GAIT remains **21 canonical tracks**, with no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration adds nine unresolved exact-title research leads plus current Reptant/Blu:sh release watches and a Kalahari Oyster Cult catalogue direction.
+- EDITORIAL ENGINE — DISCOVERY POOL remains **173 exact tracks**; unresolved leads are ineligible.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 28 inspected → 9 ranked leads → 0 exact resolutions + 9 unresolved → 0 canonical evaluations → **0 ADD** → 0 utility additions. Lead conversion was 32.1%; exact-resolution conversion was 0/9. Across Runs 87–97, the repaired funnel has produced 98 leads from approximately 470 inspections and 6 ADDs from 25 selected candidates. The recent canonical ADD rate is 5/10 across Runs 88–97, versus 7/43 across Runs 55–97. The consecutive no-ADD count is 1; the last canonical ADD was Run 96. The strongest counterargument is that a zero-resolution batch may indicate the scan over-weighted a single label ecosystem whose Spotify artist/title normalization differs from the resolver's exact rules. That is a funnel-learning signal for the next fresh source window, not evidence against the music and not an actionable canonical REPAIR.
+
 ## Run 96 — EXPLORE — rumble-to-weight threshold and cyclic-dub audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 20 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 170 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 20 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 95's no-ADD result and the 20-track length were proportion signals, not objective defects or a moratorium.

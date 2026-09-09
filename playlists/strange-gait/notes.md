@@ -2,6 +2,14 @@
 
 Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 97 — EXPLORE — electro posture and identity-resolution audit
+
+Nine ranked leads from approximately 28 fresh inspections produced a matching schemaVersion 2 `NONE` snapshot: zero exact Spotify resolutions, nine unresolved identities, zero selected candidates, no warnings, duplicates, substitutions, alternates or terminal technical errors. Every resolver error is preserved in `discoveries.md`.
+
+**Decision:** 0 ADD and no musical verdicts. The resolver returned `no exact Spotify title/artist search match in market SE` for Reptant — To Be Continued..., SANSIBAR — Fantasmas, SANSIBAR — Scully (Earth People Mix), Junes — Shifting Sands, Cleveland — Golem, and four Blu:sh titles. Because no canonical candidate exists, attributed descriptions are retained only as local research evidence; they do not enter evaluation or the global utility playlist.
+
+STRANGE GAIT remains 21 tracks. EDITORIAL ENGINE — DISCOVERY POOL remains 173 exact tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Across Runs 87–97 the repaired funnel has admitted 98 leads from approximately 470 inspections and added 6 of 25 selected candidates. The consecutive no-ADD count is 1; the last canonical ADD was Run 96. The zero-resolution batch is a source/funnel signal for the next EXPLORE window, not nine musical failures or an actionable canonical repair.
+
 ## Run 96 — EXPLORE — rumble-to-weight threshold and cyclic-dub audit
 
 Nine ranked leads from approximately 23 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: eight exact Spotify resolutions, one unresolved identity, three selected candidates, five unevaluated alternates and four preserved release-date warnings. Exact identities, warnings and resolver errors are recorded in `discoveries.md`.

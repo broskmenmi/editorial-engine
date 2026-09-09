@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 97
+
+### Weight can change without intensity rising
+
+**Direction:** Explore techno and electro in which the listener's posture changes through rhythmic grammar, pitch motion or spectral brightness rather than through a simple escalation. Lighter electro can follow harder techno without becoming inconsequential; celestial highs can make heavy breaks feel less enclosing; a steady frame can feel loose when pitch and reverb destabilize its surfaces.
+
+**Ingredients:**
+
+- Reptant — To Be Continued... — unresolved Run 97 current electro lead; documented as lighter minor-key material with squishy bassline and spidery synths
+- SANSIBAR — Scully (Earth People Mix) — unresolved Run 97 lead; documented cavernous breakbeat weight offset by flamboyance and celestial highs
+- SANSIBAR — Fantasmas — unresolved Run 97 lead; documented electro form that disintegrates and reforms as UK techno
+- Junes — Shifting Sands — unresolved Run 97 lead; documented heads-down techno loosened by sonar pings, acid, reverb and pitch movement
+- Steve Rachmad — Invisible Warriors Of Light — canonical provisional low-slung electro-soul afterword
+
+**Why interesting:** Techno's felt force is multidimensional. Weight, pressure, propulsion, openness and brightness can move independently. A sequence can therefore change the body’s stance without a higher BPM, a louder master or a conventional peak; the musical question is whether that redistribution gives the next track a new meaning.
+
+**Unknown / risk:** The four Run 97 leads remain unresolved Spotify identities and are not asserted to fit one another or the canonical playlist. This is not a proven sequence or mixing edge. BPM, perceived pulse, phrase structure, density, exact felt state and every pairwise handoff remain unknown unless separately documented.
+
 ## Current additions — Run 96
 
 ### Nearly unravelling can still preserve the dance
