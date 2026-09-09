@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 108 — EXPLORE — transformation is not transition
+
+Nine ranked leads from approximately 57 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, one release-date warning and no duplicates, substitutions or technical failures.
+
+**Decision:** 0 ADD, 2 placement-specific REJECT and 1 PARKED. Anthony Naples — *Fog FM* passes the selection lens but its tested `Worn Down → candidate → Too Much Time` placement inserts another 7:43 dense physical stage before an already forceful continuation. Squarepusher — *K4 Fairlands* passes as adjacent structural material but repeats `Stadium Drive`'s formation before *Marauder* anchors the opening. Miimii KDS — *6 o'clock* is PARKED because the exact identity and duration are verified while candidate-specific rhythmic, structural and volume-fit evidence is absent; editorial selection prestige alone cannot complete any of the four tests.
+
+STRANGE GAIT remains at 24 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 200 to 203 tracks with all three selected exact candidates.
+
+Across Runs 87–108: 197 leads from approximately 969 inspections and 9 ADDs from 55 selected candidates. Recent ADD rate: 3/10 across Runs 99–108; overall repaired comparison: 10/61 across Runs 55–108. No-ADD streak: three runs since Run 105. The stream-availability pivot restored 5/9 resolution after Run 107's 0/9 result, so no resolver-process REPAIR is actionable.
+
+**Strongest counterargument:** *K4 Fairlands* could make the opening's character change feel intentionally conspicuous. Its exact transformation is credible, but the five-track scale shows a second full formation before the first anchor rather than a new consequence.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 107 — EXPLORE — freedom before identity
 
 Nine ranked leads from approximately 55 fresh inspections produced a matching schemaVersion 2 NONE snapshot: zero exact Spotify resolutions, nine unresolved identities, zero candidates, zero warnings and zero alternates. Every lead returned `no exact Spotify title/artist search match in market SE`; there were no duplicates, substitutions or technical failures.

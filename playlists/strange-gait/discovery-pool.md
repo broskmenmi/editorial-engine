@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 108 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Anthony Naples | Fog FM | https://open.spotify.com/track/50Cy29ZT8eIhQpAB0YJ5yx | Placement-specific REJECT only for Worn Down → candidate → Too Much Time. Attributed exact-track criticism identifies rugged upfront techno and dub-techno space; retained globally as genuinely interesting. |
+| EXACT TRACK | Squarepusher | K4 Fairlands | https://open.spotify.com/track/1M6UXCobmBs5QyLjq2oOHl | Placement-specific REJECT only for Stadium Drive → candidate → Marauder. Published exact-track descriptions identify breakbeat/strings transforming into sequenced electronic material; retained globally. |
+| EXACT TRACK | Miimii KDS | 6 o'clock | https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP | PARKED after Moonwake → candidate → Capa could not be evaluated from selection prestige alone. Exact 2:04 identity retained globally; title/date warning preserved. |
+| RESOLVED ALTERNATES | Squarepusher | K2 Central; K7 Museum | https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert | Exact Spotify identities resolved as alternates but were not selected or evaluated; not retained in the global utility ledger this run. |
+| RESEARCH LEADS | Rian Treanor | ATAXIA B1; ATAXIA D1; ATAXIA D3 | https://pitchfork.com/reviews/albums/rian-treanor-ataxia/ | Exact-track rhythmic descriptions remain useful, but all three returned `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Anthony Naples | Lucy's | https://pitchfork.com/reviews/albums/anthony-naples-fog-fm/ | Exact-track dub-techno research; resolver returned `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| CURRENT WATCH | Miimii KDS | 6 o'clock | https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist | September 8, 2026 selection and exact streaming identity; internal behavior remains undescribed. |
+| RELEASE WATCH | Squarepusher / Warp | Kammerkonzert | https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert | 2026 orchestral/electronic catalogue window; resolved alternates remain unevaluated rather than inferred. |
+| CATALOGUE WATCH | Rian Treanor / Planet Mu; Anthony Naples / ANS | ATAXIA; Fog FM | https://pitchfork.com/reviews/albums/rian-treanor-ataxia/ | Overlooked irregular-symmetry and rugged dub-techno research; unresolved identities do not enter publication. |
+
+### Placement and inspiration boundaries
+
+- Fog FM and K4 Fairlands are rejected only for the tested placements, not globally.
+- Miimii KDS — 6 o'clock is PARKED for a specific source-evidence gap; exact duration does not prove function.
+- Squarepusher alternates and unresolved catalogue leads were not evaluated and do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No BPM, energy, density, phrase fit, perceived pulse or mixability is inferred.
+
 ## Run 107 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

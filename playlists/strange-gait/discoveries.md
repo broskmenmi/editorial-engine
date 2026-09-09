@@ -1,5 +1,71 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 108 — EXPLORE — transformation is not transition — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 200 exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.
+
+### Exploration receipt
+
+Run `2026-09-09T19:50:13Z-explore-108` inspected approximately 57 named tracks across a current Spotify-linked September selection, Squarepusher's 2026 `Kammerkonzert`, Rian Treanor's overlooked `ATAXIA`, Anthony Naples' overlooked `Fog FM`, and broader current electronic windows. Recent Run 104–107 ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (15.8%).
+
+### Resolver outcome
+
+The immutable schemaVersion 2 request was pinned to `5850657e69cfe560cc0944b1d598093d705e644a`. The matching snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 5 resolved, 3 selected candidates, 2 resolved alternates, 4 unresolved and 1 warning. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Anthony Naples — Fog FM — `spotify:track:50Cy29ZT8eIhQpAB0YJ5yx` — 7:43
+2. Squarepusher — K4 Fairlands — `spotify:track:1M6UXCobmBs5QyLjq2oOHl` — 5:05
+3. Miimii KDS — 6 o'clock — `spotify:track:7gt68ukLRTbKf9RXA3dKcP` — 2:04
+
+Resolved but unevaluated alternates: Squarepusher — K2 Central (`spotify:track:3seui1GIXrrUalvyeMD4SQ`) and K7 Museum (`spotify:track:5IzMnmBFVltersiIAXPhA8`).
+
+Unresolved, each with exact error `no exact Spotify title/artist search match in market SE`: Rian Treanor — ATAXIA B1; Rian Treanor — ATAXIA D1; Anthony Naples — Lucy's; Rian Treanor — ATAXIA D3.
+
+Warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-08-31"` for Miimii KDS — 6 O'Clock.
+
+### Candidate evaluations
+
+#### Anthony Naples — Fog FM — placement-specific REJECT
+
+- **Volume fit:** PASS. Attributed exact-track criticism identifies rugged, upfront techno with dub-techno space and layered, turbulent physicality.
+- **Immediate transition:** UNKNOWN. No lawful phrase, perceived-pulse, density or handoff evidence exists for `Worn Down → Fog FM` or `Fog FM → Too Much Time`.
+- **Three-to-five-track run:** FAIL for the tested placement. `Abundance → Worn Down → Fog FM → Too Much Time → Moonwake` would insert a 7:43 dense, stable physical stage between threatened coherence and an already forceful continuation, making recovery arrive before the current run has earned its redirection.
+- **Long-form journey:** FAIL for the tested placement. It lengthens an early force plateau rather than changing what the subsequent intensification means.
+- **Verdict:** placement-specific REJECT between Worn Down and Too Much Time only. This is not a global rejection.
+
+#### Squarepusher — K4 Fairlands — placement-specific REJECT
+
+- **Volume fit:** PASS as adjacent structural material. Published exact-track descriptions identify breakbeat drums and strings giving way to sequenced electronic material; genre adjacency is neither automatic admission nor exclusion.
+- **Immediate transition:** UNKNOWN. No phrase, pulse, density or mix evidence exists for either handoff.
+- **Three-to-five-track run:** FAIL for the tested placement. `K4 Fairlands` would place a second full acoustic-to-electronic formation directly after `Stadium Drive` and before `Marauder` supplies the first anchor.
+- **Long-form journey:** FAIL for the tested placement. The opening becomes a sequence of two explanatory transformations before bodily definition, increasing preface without establishing a new consequence.
+- **Verdict:** placement-specific REJECT between Stadium Drive and Marauder only. This is not a global rejection.
+
+#### Miimii KDS — 6 o'clock — PARKED
+
+- **Volume fit:** NOT ESTABLISHED. The exact identity and 2:04 duration are verified, and Pitchfork selected it on September 8, 2026, but selection prestige supplies no rhythmic, structural or techno evidence.
+- **Immediate transition:** NOT EVALUABLE for `Moonwake → candidate → Capa`; no candidate-specific source describes its entry, exit, pulse or phrasing.
+- **Three-to-five-track run:** NOT EVALUABLE. Short duration reduces proportional cost but does not prove redirection.
+- **Long-form journey:** NOT EVALUABLE. No source-backed internal behavior distinguishes purposeful pivot from arbitrary insertion.
+- **Verdict:** PARKED for a specific decision-critical evidence gap: materially richer exact-track description or a changed structural need is required. This is not a metadata-only musical rejection.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 2 PLACEMENT-SPECIFIC REJECT, 1 PARKED.** Freshness, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. Unknown handoffs were not converted into musical failures. Fog FM and K4 Fairlands fail because their tested local runs and long-form effects are redundant, not because different production worlds are disallowed. Miimii KDS is parked only because even volume fit and internal direction remain decision-critical unknowns.
+
+Auditor approves retention of all three selected exact tracks as genuinely interesting, the two resolved alternates as unevaluated research, the four unresolved catalogue leads, three release/catalogue watches and the set direction **transformation is not transition**. The three selected exact tracks must enter the doctrine-free global utility ledger; alternates and unresolved leads must not.
+
+### Durable result
+
+- STRANGE GAIT remains **24 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, two resolved alternates, four unresolved leads and the Squarepusher / Rian Treanor / Anthony Naples / Miimii KDS watches.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **200 → 203 exact tracks** with Fog FM, K4 Fairlands and 6 o'clock.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 57 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unevaluated alternates → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion is **15.8%**, exact-resolution conversion **55.6%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–108, the repaired funnel has produced **197 leads from approximately 969 inspections and 9 ADDs from 55 selected candidates**. The recent ADD rate is **3/10 across Runs 99–108**, versus **10/61 across Runs 55–108**. The no-ADD streak is three runs since Run 105; six exact interesting tracks have entered the utility layer during that interval. The strongest counterargument is that K4 Fairlands' explicit transformation could make the opening's character change feel deliberate. The opposing evidence is the complete local run: Stadium Drive already performs formation, so K4 would repeat the explanatory act before Marauder anchors it. The run proves the stream-availability pivot restored partial resolution and that contrasting orchestral/electronic material can pass the selection lens; it does not prove the rejected tracks fail elsewhere, the parked track fails musically, any exact handoff works or the playlist is complete. No actionable REPAIR emerges.
+
 ## Run 107 — EXPLORE — freedom before identity — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with an exact matching COMPLETE Spotify receipt and current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 200 exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.

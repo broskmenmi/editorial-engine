@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 108
+
+### Transformation is not transition
+
+**Direction:** Explore music whose internal materials clearly change state while keeping separate whether that transformation improves the sequence around it.
+
+**Ingredients:**
+
+- Anthony Naples — *Fog FM* — exact placement-specific reject; rugged dub-techno depth remains interesting outside the tested early force plateau.
+- Squarepusher — *K4 Fairlands* — exact placement-specific reject; acoustic/electronic transformation remains useful outside the tested double-formation opening.
+- Miimii KDS — *6 o'clock* — exact PARKED current track; identity and concision are known, behavior is not.
+- Rian Treanor — *ATAXIA B1*, *ATAXIA D1*, *ATAXIA D3* and Anthony Naples — *Lucy's* — unresolved catalogue research with exact criticism but no Spotify-SE identity.
+- `Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** Internal transformation can be vivid without supplying a missing transition. A conspicuous left turn passes only when the local run and long-form consequence make sense.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The rejects are placement-specific; the PARKED track is not TRIGGERED.
+
 ## Current additions — Run 107
 
 ### Freedom before identity
