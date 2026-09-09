@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T03:48:26.187Z",
+  "generatedAt": "2026-09-09T06:14:52.660Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "06c3b9a5feaa764cdbabf3553a5ce18b23b6b0ad3d520874564df63c20010b87",
-    "annotationsFingerprint": "8a195f0c7ca2e90dd841303956b455d0e7902a121859dc5ec3e97bf4bf8fa161"
+    "ledgerFingerprint": "171d48d4b05a764da248ca9d8895f5b9bde8299660af2030559887b8789febb1",
+    "annotationsFingerprint": "deaad8ae687e41296257a3c7faa068b5ec407675c7315f5e2f3bfb94476e4fc5"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,13 +18,13 @@
     "detailedSiteUrl": "https://broskmenmi.github.io/editorial-engine/"
   },
   "totals": {
-    "trackCount": 19,
-    "durationMs": 6840000,
-    "durationLabel": "1h 54m",
+    "trackCount": 20,
+    "durationMs": 7200000,
+    "durationLabel": "2h 0m",
     "bpmMin": 130,
     "bpmMax": 143,
     "bpmKnownCount": 17,
-    "bpmUnknownCount": 2,
+    "bpmUnknownCount": 3,
     "latestAddedDate": "2026-09-09"
   },
   "chapters": [
@@ -45,6 +45,15 @@
       "endPosition": 19,
       "startMs": 2520000,
       "endMs": 6840000
+    },
+    {
+      "id": "escape",
+      "label": "Escape",
+      "order": 6,
+      "startPosition": 20,
+      "endPosition": 20,
+      "startMs": 6840000,
+      "endMs": 7200000
     }
   ],
   "tracks": [
@@ -74,8 +83,8 @@
       "spotifyUrl": "https://open.spotify.com/track/54XRZaNSCrGuNTrFHmXVKP",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.05263157894736842,
-      "progressMidpoint": 0.02631578947368421,
+      "progressEnd": 0.05,
+      "progressMidpoint": 0.025,
       "felt": {
         "summary": null,
         "direction": "transformation led overture",
@@ -107,9 +116,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
-      "progressStart": 0.05263157894736842,
-      "progressEnd": 0.10526315789473684,
-      "progressMidpoint": 0.07894736842105263,
+      "progressStart": 0.05,
+      "progressEnd": 0.1,
+      "progressMidpoint": 0.075,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional opening anchor",
@@ -143,9 +152,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.10526315789473684,
-      "progressEnd": 0.15789473684210525,
-      "progressMidpoint": 0.13157894736842105,
+      "progressStart": 0.1,
+      "progressEnd": 0.15,
+      "progressMidpoint": 0.125,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional controlled continuation",
@@ -179,9 +188,9 @@
       "midpointMs": 1260000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.15789473684210525,
-      "progressEnd": 0.21052631578947367,
-      "progressMidpoint": 0.18421052631578946,
+      "progressStart": 0.15,
+      "progressEnd": 0.2,
+      "progressMidpoint": 0.175,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional widening move",
@@ -217,9 +226,9 @@
       "midpointMs": 1620000,
       "spotifyUrl": "https://open.spotify.com/track/33HI2gasxwfGyvWrd9yG5c",
       "protected": false,
-      "progressStart": 0.21052631578947367,
-      "progressEnd": 0.2631578947368421,
-      "progressMidpoint": 0.23684210526315788,
+      "progressStart": 0.2,
+      "progressEnd": 0.25,
+      "progressMidpoint": 0.225,
       "felt": {
         "summary": null,
         "direction": "swung funk continuation",
@@ -254,9 +263,9 @@
       "midpointMs": 1980000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.2631578947368421,
-      "progressEnd": 0.3157894736842105,
-      "progressMidpoint": 0.2894736842105263,
+      "progressStart": 0.25,
+      "progressEnd": 0.3,
+      "progressMidpoint": 0.275,
       "felt": {
         "summary": null,
         "direction": "physical widening",
@@ -291,9 +300,9 @@
       "midpointMs": 2340000,
       "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
       "protected": false,
-      "progressStart": 0.3157894736842105,
-      "progressEnd": 0.3684210526315789,
-      "progressMidpoint": 0.34210526315789475,
+      "progressStart": 0.3,
+      "progressEnd": 0.35,
+      "progressMidpoint": 0.325,
       "felt": {
         "summary": null,
         "direction": "intensification",
@@ -328,9 +337,9 @@
       "midpointMs": 2700000,
       "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
       "protected": false,
-      "progressStart": 0.3684210526315789,
-      "progressEnd": 0.42105263157894735,
-      "progressMidpoint": 0.39473684210526316,
+      "progressStart": 0.35,
+      "progressEnd": 0.4,
+      "progressMidpoint": 0.375,
       "felt": {
         "summary": null,
         "direction": "rhythmic redirection",
@@ -366,9 +375,9 @@
       "midpointMs": 3060000,
       "spotifyUrl": "https://open.spotify.com/track/4xJgdoF9E3vyBKsYvEXTba",
       "protected": false,
-      "progressStart": 0.42105263157894735,
-      "progressEnd": 0.47368421052631576,
-      "progressMidpoint": 0.4473684210526316,
+      "progressStart": 0.4,
+      "progressEnd": 0.45,
+      "progressMidpoint": 0.425,
       "felt": {
         "summary": null,
         "direction": "dubwise staggered swing reset",
@@ -404,9 +413,9 @@
       "midpointMs": 3420000,
       "spotifyUrl": "https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT",
       "protected": false,
-      "progressStart": 0.47368421052631576,
-      "progressEnd": 0.5263157894736842,
-      "progressMidpoint": 0.5,
+      "progressStart": 0.45,
+      "progressEnd": 0.5,
+      "progressMidpoint": 0.475,
       "felt": {
         "summary": null,
         "direction": "broken beat bodily deformation",
@@ -441,9 +450,9 @@
       "midpointMs": 3780000,
       "spotifyUrl": "https://open.spotify.com/track/79yeMWxkbiNZ4su5UuhS6z",
       "protected": false,
-      "progressStart": 0.5263157894736842,
-      "progressEnd": 0.5789473684210527,
-      "progressMidpoint": 0.5526315789473685,
+      "progressStart": 0.5,
+      "progressEnd": 0.55,
+      "progressMidpoint": 0.525,
       "felt": {
         "summary": null,
         "direction": "funk re grounding",
@@ -479,9 +488,9 @@
       "midpointMs": 4140000,
       "spotifyUrl": "https://open.spotify.com/track/2PiW1SaL42KqLTpNSit9zY",
       "protected": false,
-      "progressStart": 0.5789473684210527,
-      "progressEnd": 0.631578947368421,
-      "progressMidpoint": 0.6052631578947368,
+      "progressStart": 0.55,
+      "progressEnd": 0.6,
+      "progressMidpoint": 0.575,
       "felt": {
         "summary": null,
         "direction": "crooked accumulation hinge",
@@ -516,9 +525,9 @@
       "midpointMs": 4500000,
       "spotifyUrl": "https://open.spotify.com/track/3wsskKLpimIuiDDCb6eHVv",
       "protected": false,
-      "progressStart": 0.631578947368421,
-      "progressEnd": 0.6842105263157895,
-      "progressMidpoint": 0.6578947368421053,
+      "progressStart": 0.6,
+      "progressEnd": 0.65,
+      "progressMidpoint": 0.625,
       "felt": {
         "summary": null,
         "direction": "driving re escalation",
@@ -554,9 +563,9 @@
       "midpointMs": 4860000,
       "spotifyUrl": "https://open.spotify.com/track/6K07a5OAl8J6wqlcnCoT8i",
       "protected": false,
-      "progressStart": 0.6842105263157895,
-      "progressEnd": 0.7368421052631579,
-      "progressMidpoint": 0.7105263157894737,
+      "progressStart": 0.65,
+      "progressEnd": 0.7,
+      "progressMidpoint": 0.675,
       "felt": {
         "summary": null,
         "direction": "unpredictable rhythm hinge",
@@ -592,9 +601,9 @@
       "midpointMs": 5220000,
       "spotifyUrl": "https://open.spotify.com/track/6sFAOCWU1adeWUEZaKWtEy",
       "protected": false,
-      "progressStart": 0.7368421052631579,
-      "progressEnd": 0.7894736842105263,
-      "progressMidpoint": 0.7631578947368421,
+      "progressStart": 0.7,
+      "progressEnd": 0.75,
+      "progressMidpoint": 0.725,
       "felt": {
         "summary": null,
         "direction": "machine to hand drum mutation",
@@ -630,9 +639,9 @@
       "midpointMs": 5580000,
       "spotifyUrl": "https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY",
       "protected": false,
-      "progressStart": 0.7894736842105263,
-      "progressEnd": 0.8421052631578947,
-      "progressMidpoint": 0.8157894736842105,
+      "progressStart": 0.75,
+      "progressEnd": 0.8,
+      "progressMidpoint": 0.775,
       "felt": {
         "summary": null,
         "direction": "groove consolidation",
@@ -669,9 +678,9 @@
       "midpointMs": 5940000,
       "spotifyUrl": "https://open.spotify.com/track/6vBGCwTYRiKYCDD52zXZtf",
       "protected": true,
-      "progressStart": 0.8421052631578947,
-      "progressEnd": 0.8947368421052632,
-      "progressMidpoint": 0.868421052631579,
+      "progressStart": 0.8,
+      "progressEnd": 0.85,
+      "progressMidpoint": 0.825,
       "felt": {
         "summary": null,
         "direction": "Tilt — provisional listener block opener",
@@ -708,9 +717,9 @@
       "midpointMs": 6300000,
       "spotifyUrl": "https://open.spotify.com/track/1POzqasdMpIDgI4gQSdPrV",
       "protected": true,
-      "progressStart": 0.8947368421052632,
-      "progressEnd": 0.9473684210526315,
-      "progressMidpoint": 0.9210526315789473,
+      "progressStart": 0.85,
+      "progressEnd": 0.9,
+      "progressMidpoint": 0.875,
       "felt": {
         "summary": null,
         "direction": "Tilt — listener confirmed internal continuation",
@@ -748,12 +757,50 @@
       "midpointMs": 6660000,
       "spotifyUrl": "https://open.spotify.com/track/6i3HRqnSMoSohzwSgq035u",
       "protected": true,
-      "progressStart": 0.9473684210526315,
-      "progressEnd": 1,
-      "progressMidpoint": 0.9736842105263158,
+      "progressStart": 0.9,
+      "progressEnd": 0.95,
+      "progressMidpoint": 0.925,
       "felt": {
         "summary": null,
         "direction": "Tilt — listener confirmed block close",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
+    },
+    {
+      "position": 20,
+      "artist": "Steve Rachmad",
+      "track": "Invisible Warriors Of Light",
+      "uri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+      "bpm": null,
+      "role": "Escape — provisional low-slung electro-soul afterword",
+      "added": "2026-09-09",
+      "chapter": "escape",
+      "chapterOrder": 6,
+      "storyBand": "escape",
+      "storyLevel": 1.8,
+      "status": "provisional",
+      "labels": [
+        "track-20",
+        "low-slung-electro-soul-afterword",
+        "explore-run-94-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 6840000,
+      "endMs": 7200000,
+      "midpointMs": 7020000,
+      "spotifyUrl": "https://open.spotify.com/track/28lWAlCwtanGjnDcqCS0rG",
+      "protected": false,
+      "progressStart": 0.95,
+      "progressEnd": 1,
+      "progressMidpoint": 0.975,
+      "felt": {
+        "summary": null,
+        "direction": "low slung electro soul afterword",
         "dimensions": {},
         "evidence": {
           "class": "EDITORIAL_INTERPRETATION",
@@ -924,6 +971,15 @@
       "bpmDelta": -3,
       "protected": true,
       "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+      "toUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+      "fromPosition": 19,
+      "toPosition": 20,
+      "bpmDelta": null,
+      "protected": false,
+      "frozen": false
     }
   ],
   "protected": {
@@ -944,7 +1000,8 @@
   "externalCandidates": [],
   "warnings": [
     "BPM unavailable for Purelink — Stadium Drive; map stores null and leaves a gap in the measured-BPM layer.",
-    "BPM unavailable for Valesuchi — Amor; map stores null and leaves a gap in the measured-BPM layer."
+    "BPM unavailable for Valesuchi — Amor; map stores null and leaves a gap in the measured-BPM layer.",
+    "BPM unavailable for Steve Rachmad — Invisible Warriors Of Light; map stores null and leaves a gap in the measured-BPM layer."
   ],
   "visualization": {
     "schemaVersion": 1,
