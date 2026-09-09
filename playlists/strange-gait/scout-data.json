@@ -1,888 +1,838 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "058f4426559b2ba3f21f0382f07672b3b08ada4ec54525e7b25b29746bdeea4b",
-  "generatedAt": "2026-09-09T20:57:19.571Z",
-  "runId": "2026-09-09T20:52:02Z-explore-109",
-  "sourceCommit": "14e501ba4e8406e8245ef4ceca11726b30665f0e",
+  "requestFingerprint": "bcf94f7c7611088b473eb35803a874a8646123607e525e15654542fa89b9111e",
+  "generatedAt": "2026-09-09T21:58:27.462Z",
+  "runId": "2026-09-09T21:49:03Z-explore-110",
+  "sourceCommit": "5e25a4593437a4208cf6059f69d1f0c1ef0fc033",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 108's transformation audit, comparing a 2026 emerging Arabic-electronic record, recent loosened techno and an overlooked deep-reggaeton catalogue without requiring one sonic room",
-    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat Roxellana as a provisional surge rather than a fixed summit; keep all existing PARKED identities untriggered and let exact candidate evidence determine placement.",
-    "purpose": "Test beat-switching acoustic/electronic tension, gradually self-forming techno and slow dembow/ambient movement at transition, local-run and long-form scale."
+    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities.",
+    "purpose": "Test whether cross-rhythmic form, explicit beat switching, concise interruption and conspicuous production-world changes create transition-scale, local-run and long-form consequence.",
+    "role": "fresh whole-journey contender discovery after Run 109's recurrence audit, spanning a current emerging footwork miniature, a juke/garage crossover, recent house–dubstep hybrids, long-form deep house and an overlooked footwork/techno album without requiring one sonic room"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-09T20:52:02Z",
-    "approximateInspectedScope": "Approximately 47 named tracks across one 2026 emerging record, one recent eight-track techno album, one overlooked eight-track continuous album and broader current electronic windows; attributed criticism and catalogue metadata only; no audio audition.",
-    "sourceWindows": [
-      "CURRENT / EMERGING: https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review — the full Wahj record was inspected; Ruwaydan Ruwaydan, Madda Mudadda and Fawqa al Ghaym survive because the review supplies exact beat-switch, ambience-to-static and industrial-techno descriptions.",
-      "RECENT TECHNO: https://pitchfork.com/reviews/albums/barker-stochastic-drift and https://pitchfork.com/reviews/tracks/barker-reframing — all eight Stochastic Drift tracks were inspected; Reframing, Fluid Mechanics and Difference and Repetition survive with distinct exact-track structural evidence.",
-      "OVERLOOKED ADJACENT CATALOGUE: https://pitchfork.com/reviews/albums/dj-python-mas-amable and https://pitchfork.com/reviews/tracks/dj-python-admsdp-ft-la-warman — all eight Mas Amable identities were inspected; Pia, ADMSDP and Juntos survive as exact resolution leads from a continuous deep-reggaeton/ambient construction.",
-      "BROAD FRESHNESS SCAN: current Pitchfork, Resident Advisor, Guardian, Bandcamp and Quietus electronic windows supplied approximately 20 additional named works; recent Run 105–108 ecosystems were not retried.",
-      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 203-track utility state contain no prior artist-title decision for the nine requested identities. Existing Barker — Posmean and other DJ Python identities remain separate untriggered decisions and were not reopened."
-    ],
-    "rankedLeadSummary": [
-      "1. Barker — Reframing",
-      "2. Toni Geitani — Ruwaydan Ruwaydan",
-      "3. DJ Python — Pia",
-      "4. Barker — Fluid Mechanics",
-      "5. Toni Geitani — Madda Mudadda",
-      "6. DJ Python, LA Warman — ADMSDP",
-      "7. Barker — Difference and Repetition",
-      "8. Toni Geitani — Fawqa al Ghaym",
-      "9. DJ Python — Juntos"
-    ],
+    "approximateInspectedScope": "Approximately 47 named tracks across one September 9 current-release survey, three source-backed album/catalogue windows and broader current electronic listings; attributed criticism and official release metadata only; no audio audition.",
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Lower-ranked tracks from all three albums were inspected but excluded to keep nine honest leads and preserve distinct structural propositions.",
-      "Current releases without an exact titled track or source-backed relationship to the selection lens were not promoted for novelty alone.",
-      "Run 105–108 Shoal, OK EG, Carmen Villain, DNGDNGDNG & Prisma, Djrum, Andrea, Casting Spells, Squarepusher, Rian Treanor, Anthony Naples and Miimii KDS ecosystems were not retried.",
+      "Lower-ranked tracks from the source records and survey were inspected but excluded to keep nine honest leads with distinct structural propositions.",
+      "Recent Run 105–109 ecosystems were not retried.",
       "No Spotify connector, audio-feature inference or invented identity was used."
-    ]
+    ],
+    "rankedLeadSummary": [
+      "1. Beatrice M. — In Touch ft. Jinnal + Kaba",
+      "2. SHERELLE — READY, STEADY,GO!",
+      "3. DJ Phil, HEAVEE — House It Up",
+      "4. KAY BE — BARUT",
+      "5. SHERELLE — LOVE YOUR ENEMIES",
+      "6. Beatrice M. — Disco Corner",
+      "7. South Beach Recycling — Reset (Original Concept)",
+      "8. SHERELLE — XTC SUSP9ND3D",
+      "9. Beatrice M. — Sinking"
+    ],
+    "sourceWindows": [
+      "CURRENT / EMERGING: https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 — the September 9, 2026 survey and linked official releases were inspected; BARUT, House It Up and Reset (Original Concept) survive with exact-track rhythmic or structural evidence.",
+      "RECENT ADJACENT: https://pitchfork.com/reviews/albums/beatrice-m-sinking — the 2026 Sinking record was inspected; In Touch ft. Jinnal + Kaba, Disco Corner and Sinking survive as distinct exact house/dubstep propositions.",
+      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance and https://www.theguardian.com/music/2025/apr/10/sherelle-with-a-vengeance-review-dj-jungle-footwork — the 2025 WITH A VENGEANCE record was inspected; READY, STEADY,GO!, LOVE YOUR ENEMIES and XTC SUSP9ND3D survive with exact-track evidence.",
+      "BROAD FRESHNESS SCAN: current Bandcamp, Pitchfork, Resident Advisor, Guardian and label-release windows supplied additional named works; Run 105–109 ecosystems were not retried.",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 206-track utility state contain no prior artist-title decision for the nine requested identities."
+    ],
+    "timestampUtc": "2026-09-09T21:49:03Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 4,
+  "resolvedCount": 3,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Barker",
-      "track": "Reframing",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0gRPbCjHQ3B5R7LnYdxdJg, 0q01PkXaaxdmKlt12EcBOx)",
+      "artist": "Beatrice M.",
+      "track": "In Touch ft. Jinnal + Kaba",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Reframing",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
+        "album": "Sinking",
+        "artist": "Beatrice M.",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/barker-reframing",
-        "fitHypothesis": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Reframing on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
-          "editorialInterpretation": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival.",
+          "attributedDescription": "Pitchfork describes the exact track beginning in 4/4, settling into a dubstep lollop with a Detroit-techno synth over sparse hits, then passing from MC Kaba to Jinnal.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether an internal 4/4-to-lollop change can make Capa's redirection consequential before Trompe L'oeil, or explain the central reset twice.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — In Touch ft. Jinnal + Kaba on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes the exact track beginning in 4/4, settling into a dubstep lollop with a Detroit-techno synth over sparse hits, then passing from MC Kaba to Jinnal.",
         "proposedPlacements": [
           {
-            "position": "Between Too Much Time and Moonwake",
-            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": 140,
+            "candidateBpm": null,
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": 137,
+            "outgoingBpm": 130,
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether an internal 4/4-to-lollop change can make Capa's redirection consequential before Trompe L'oeil, or explain the central reset twice."
+          }
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "In Touch ft. Jinnal + Kaba"
+      }
+    },
+    {
+      "artist": "SHERELLE",
+      "track": "READY, STEADY,GO!",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.theguardian.com/music/2025/apr/10/sherelle-with-a-vengeance-review-dj-jungle-footwork",
+        "evidence": {
+          "attributedDescription": "Published reviews describe the exact track as footwork guided by minimal or stripped-back techno, with Pitchfork identifying driving acid-techno force.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether footwork disciplined by a techno frame can convert Pulse I's crooked accumulation into a distinct clock before Roxellana expands it, or merely pre-empt that surge.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — READY, STEADY,GO! on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Published reviews describe the exact track as footwork guided by minimal or stripped-back techno, with Pitchfork identifying driving acid-techno force.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
+            "outgoingBpm": null,
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test whether footwork disciplined by a techno frame can convert Pulse I's crooked accumulation into a distinct clock before Roxellana expands it, or merely pre-empt that surge."
+          }
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "READY, STEADY,GO!"
+      }
+    },
+    {
+      "artist": "DJ Phil, HEAVEE",
+      "track": "House It Up",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "MTXLT901 - Roll Wit Me EP",
+        "artist": "DJ Phil, HEAVEE",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
+        "evidence": {
+          "attributedDescription": "Bandcamp Daily describes a fast-forward Todd Edwards-like meeting of footwork and garage; the official release describes autotuned vocals over a soulful, garage-leaning house groove and an unexpected seamless crossover.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a documented crossover can let Worn Down's threatened coherence recover in a conspicuously different production world before Too Much Time, or add an unnecessary recovery stage.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies DJ Phil, HEAVEE — House It Up on MTXLT901 - Roll Wit Me EP, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Bandcamp Daily describes a fast-forward Todd Edwards-like meeting of footwork and garage; the official release describes autotuned vocals over a soulful, garage-leaning house groove and an unexpected seamless crossover.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
             "outgoingBpm": 140,
-            "candidateBpm": null,
-            "purpose": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival."
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "purpose": "Test whether a documented crossover can let Worn Down's threatened coherence recover in a conspicuously different production world before Too Much Time, or add an unnecessary recovery stage."
           }
-        ]
+        ],
+        "releaseDate": "2026-08-07",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "House It Up"
       }
     },
     {
-      "artist": "Toni Geitani",
-      "track": "Ruwaydan Ruwaydan",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (13hlMWugfH477BWYBcyhnX, 40fa8JoyIbwAgmZkGxT0WG)",
+      "artist": "Beatrice M.",
+      "track": "Disco Corner",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Ruwaydan Ruwaydan",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
+        "album": "Sinking",
+        "artist": "Beatrice M.",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Ruwaydan Ruwaydan on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
-          "editorialInterpretation": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding.",
+          "attributedDescription": "Pitchfork describes filter disco fused with dubstep low end on an exact track where two production worlds coexist.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether that fusion can reassemble rhythmic foreground differently after Ikoyi before Amor, or add another mediated mutation without long-form consequence.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — Disco Corner on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes filter disco fused with dubstep low end on an exact track where two production worlds coexist.",
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": 138,
-            "outgoingBpm": 139,
             "candidateBpm": null,
-            "purpose": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "DJ Python",
-      "track": "Pia",
-      "error": "ambiguous exact Spotify release match (70M057Qn0wdN0WIQQ0pwab, 6ZeaDtxS197ks513PExxvM)",
-      "requestedIdentity": {
-        "artist": "DJ Python",
-        "track": "Pia",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
-        "fitHypothesis": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python — Pia on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
-          "editorialInterpretation": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
             "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage."
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "purpose": "Test whether that fusion can reassemble rhythmic foreground differently after Ikoyi before Amor, or add another mediated mutation without long-form consequence."
           }
-        ]
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Disco Corner"
       }
     },
     {
-      "artist": "DJ Python, LA Warman",
-      "track": "ADMSDP",
+      "artist": "South Beach Recycling",
+      "track": "Reset (Original Concept)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DJ Python, LA Warman",
-        "track": "ADMSDP",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
-        "spotifyTrackId": null,
+        "album": "Reset",
+        "artist": "South Beach Recycling",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/dj-python-admsdp-ft-la-warman",
-        "fitHypothesis": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python, LA Warman — ADMSDP on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
-          "editorialInterpretation": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal.",
+          "attributedDescription": "Bandcamp Daily describes steady kick and snare syncopation with floating chords until an organ becomes the main character around six minutes; the official release presents a purposeful deep-house journey.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a late foreground transfer can create a deliberate second afterword between Stardancer and Invisible Warriors Of Light, or needlessly prolong the closing threshold.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies South Beach Recycling — Reset (Original Concept) on Reset, requested release metadata 2026-08-14; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Bandcamp Daily describes steady kick and snare syncopation with floating chords until an organ becomes the main character around six minutes; the official release presents a purposeful deep-house journey.",
         "proposedPlacements": [
           {
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "DJ Python",
-      "track": "Juntos",
-      "error": "ambiguous exact Spotify release match (5vfwQpFSOf2CueHHLGalzv, 4Q4WxhxopJLpKadeVUl1Wd)",
-      "requestedIdentity": {
-        "artist": "DJ Python",
-        "track": "Juntos",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
-        "fitHypothesis": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python — Juntos on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
             "incomingBpm": 137,
             "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant."
+            "position": "Between Stardancer and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether a late foreground transfer can create a deliberate second afterword between Stardancer and Invisible Warriors Of Light, or needlessly prolong the closing threshold."
           }
-        ]
+        ],
+        "releaseDate": "2026-08-14",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Reset (Original Concept)"
+      }
+    },
+    {
+      "artist": "Beatrice M.",
+      "track": "Sinking",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Sinking",
+        "artist": "Beatrice M.",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact title track as refusing to choose between deep, dark house and dubstep.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether refusal between two rhythmic frames can make Truth in Noise's consolidation into Transparency a purposeful threshold, or reopen ambiguity immediately before the protected trio.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — Sinking on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork describes the exact title track as refusing to choose between deep, dark house and dubstep.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "outgoingBpm": 143,
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether refusal between two rhythmic frames can make Truth in Noise's consolidation into Transparency a purposeful threshold, or reopen ambiguity immediately before the protected trio."
+          }
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinking"
       }
     }
   ],
   "warnings": [
     {
-      "artist": "Barker",
-      "track": "Fluid Mechanics",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-04-03\" but Spotify returned \"2025-04-04\""
-    },
-    {
-      "artist": "Toni Geitani",
-      "track": "Madda Mudadda",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-01-09\" but Spotify returned \"2026-01-30\""
-    },
-    {
-      "artist": "Barker",
-      "track": "Difference and Repetition",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-04-03\" but Spotify returned \"2025-04-04\""
-    },
-    {
-      "artist": "Toni Geitani",
-      "track": "Fawqa al Ghaym",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-01-09\" but Spotify returned \"2026-01-30\""
+      "artist": "KAY BE",
+      "track": "BARUT",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-08-07\" but Spotify returned \"2026-08-14\""
     }
   ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Reframing",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
+        "album": "Sinking",
+        "artist": "Beatrice M.",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/barker-reframing",
-        "fitHypothesis": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Reframing on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
-          "editorialInterpretation": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival.",
+          "attributedDescription": "Pitchfork describes the exact track beginning in 4/4, settling into a dubstep lollop with a Detroit-techno synth over sparse hits, then passing from MC Kaba to Jinnal.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether an internal 4/4-to-lollop change can make Capa's redirection consequential before Trompe L'oeil, or explain the central reset twice.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — In Touch ft. Jinnal + Kaba on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes the exact track beginning in 4/4, settling into a dubstep lollop with a Detroit-techno synth over sparse hits, then passing from MC Kaba to Jinnal.",
         "proposedPlacements": [
           {
-            "position": "Between Too Much Time and Moonwake",
-            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": 140,
-            "outgoingBpm": 140,
             "candidateBpm": null,
-            "purpose": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival."
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": 137,
+            "outgoingBpm": 130,
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether an internal 4/4-to-lollop change can make Capa's redirection consequential before Trompe L'oeil, or explain the central reset twice."
           }
-        ]
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "In Touch ft. Jinnal + Kaba"
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0gRPbCjHQ3B5R7LnYdxdJg, 0q01PkXaaxdmKlt12EcBOx)"
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Ruwaydan Ruwaydan",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://www.theguardian.com/music/2025/apr/10/sherelle-with-a-vengeance-review-dj-jungle-footwork",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Ruwaydan Ruwaydan on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
-          "editorialInterpretation": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding.",
+          "attributedDescription": "Published reviews describe the exact track as footwork guided by minimal or stripped-back techno, with Pitchfork identifying driving acid-techno force.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether footwork disciplined by a techno frame can convert Pulse I's crooked accumulation into a distinct clock before Roxellana expands it, or merely pre-empt that surge.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — READY, STEADY,GO! on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Published reviews describe the exact track as footwork guided by minimal or stripped-back techno, with Pitchfork identifying driving acid-techno force.",
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": 138,
-            "outgoingBpm": 139,
             "candidateBpm": null,
-            "purpose": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding."
-          }
-        ]
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (13hlMWugfH477BWYBcyhnX, 40fa8JoyIbwAgmZkGxT0WG)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Python",
-        "track": "Pia",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
-        "fitHypothesis": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python — Pia on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
-          "editorialInterpretation": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
             "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage."
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test whether footwork disciplined by a techno frame can convert Pulse I's crooked accumulation into a distinct clock before Roxellana expands it, or merely pre-empt that surge."
           }
-        ]
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "READY, STEADY,GO!"
       },
-      "error": "ambiguous exact Spotify release match (70M057Qn0wdN0WIQQ0pwab, 6ZeaDtxS197ks513PExxvM)"
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Fluid Mechanics",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
+        "album": "MTXLT901 - Roll Wit Me EP",
+        "artist": "DJ Phil, HEAVEE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
-        "fitHypothesis": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Fluid Mechanics on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
-          "editorialInterpretation": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them.",
+          "attributedDescription": "Bandcamp Daily describes a fast-forward Todd Edwards-like meeting of footwork and garage; the official release describes autotuned vocals over a soulful, garage-leaning house groove and an unexpected seamless crossover.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a documented crossover can let Worn Down's threatened coherence recover in a conspicuously different production world before Too Much Time, or add an unnecessary recovery stage.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies DJ Phil, HEAVEE — House It Up on MTXLT901 - Roll Wit Me EP, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Bandcamp Daily describes a fast-forward Todd Edwards-like meeting of footwork and garage; the official release describes autotuned vocals over a soulful, garage-leaning house groove and an unexpected seamless crossover.",
         "proposedPlacements": [
           {
-            "position": "Between Roxellana and Fragments",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
             "outgoingBpm": 140,
-            "candidateBpm": null,
-            "purpose": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them."
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "purpose": "Test whether a documented crossover can let Worn Down's threatened coherence recover in a conspicuously different production world before Too Much Time, or add an unnecessary recovery stage."
           }
-        ]
-      },
-      "spotifyTrackId": "4uyYd09ILlXDhxVo3V5YdP",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Madda Mudadda",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
+        ],
+        "releaseDate": "2026-08-07",
         "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Madda Mudadda on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
-          "editorialInterpretation": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening."
-          }
-        ]
-      },
-      "spotifyTrackId": "1w1sKIvlPrbKGrrr4TN9g6",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Python, LA Warman",
-        "track": "ADMSDP",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
         "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/tracks/dj-python-admsdp-ft-la-warman",
-        "fitHypothesis": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python, LA Warman — ADMSDP on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
-          "editorialInterpretation": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal."
-          }
-        ]
+        "track": "House It Up"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Difference and Repetition",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
+        "album": "ERBAP",
+        "artist": "KAY BE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
-        "fitHypothesis": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Difference and Repetition on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-          "editorialInterpretation": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage.",
+          "attributedDescription": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies KAY BE — BARUT on ERBAP, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
         "proposedPlacements": [
           {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
             "candidateBpm": null,
-            "purpose": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage."
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 130,
+            "outgoingBpm": 138,
+            "position": "Between Trompe L'oeil and Thick to Handle",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability."
           }
-        ]
+        ],
+        "releaseDate": "2026-08-07",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "BARUT"
       },
-      "spotifyTrackId": "6MA4LrvNMPQB6d58Z4SzwS",
+      "spotifyTrackId": "6Y6HaqCzXpjefNcSlhNaxE",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Fawqa al Ghaym",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Fawqa al Ghaym on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
-          "editorialInterpretation": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor.",
+          "attributedDescription": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — LOVE YOUR ENEMIES on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
         "proposedPlacements": [
           {
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": 134,
             "candidateBpm": null,
-            "purpose": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor."
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": 138,
+            "outgoingBpm": 139,
+            "position": "Between Thick to Handle and Tehutis Law",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "purpose": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it."
           }
-        ]
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "LOVE YOUR ENEMIES"
       },
-      "spotifyTrackId": "55w33YaGNDQ4FmTCHFyLuY",
-      "selected": false
+      "spotifyTrackId": "6UqZGPmUv9OUibCZbqYubL",
+      "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Python",
-        "track": "Juntos",
-        "album": "Mas Amable",
-        "releaseDate": "2020-04-10",
-        "spotifyTrackId": null,
+        "album": "Sinking",
+        "artist": "Beatrice M.",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
-        "fitHypothesis": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies DJ Python — Juntos on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant.",
+          "attributedDescription": "Pitchfork describes filter disco fused with dubstep low end on an exact track where two production worlds coexist.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether that fusion can reassemble rhythmic foreground differently after Ikoyi before Amor, or add another mediated mutation without long-form consequence.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — Disco Corner on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes filter disco fused with dubstep low end on an exact track where two production worlds coexist.",
         "proposedPlacements": [
           {
-            "position": "Between Stardancer and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "purpose": "Test whether that fusion can reassemble rhythmic foreground differently after Ikoyi before Amor, or add another mediated mutation without long-form consequence."
+          }
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Disco Corner"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Reset",
+        "artist": "South Beach Recycling",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
+        "evidence": {
+          "attributedDescription": "Bandcamp Daily describes steady kick and snare syncopation with floating chords until an organ becomes the main character around six minutes; the official release presents a purposeful deep-house journey.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a late foreground transfer can create a deliberate second afterword between Stardancer and Invisible Warriors Of Light, or needlessly prolong the closing threshold.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies South Beach Recycling — Reset (Original Concept) on Reset, requested release metadata 2026-08-14; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Bandcamp Daily describes steady kick and snare syncopation with floating chords until an organ becomes the main character around six minutes; the official release presents a purposeful deep-house journey.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
             "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
             "incomingBpm": 137,
             "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant."
+            "position": "Between Stardancer and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether a late foreground transfer can create a deliberate second afterword between Stardancer and Invisible Warriors Of Light, or needlessly prolong the closing threshold."
           }
-        ]
+        ],
+        "releaseDate": "2026-08-14",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Reset (Original Concept)"
       },
-      "error": "ambiguous exact Spotify release match (5vfwQpFSOf2CueHHLGalzv, 4Q4WxhxopJLpKadeVUl1Wd)"
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
+        "evidence": {
+          "attributedDescription": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — XTC SUSP9ND3D on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "purpose": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery."
+          }
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "XTC SUSP9ND3D"
+      },
+      "spotifyTrackId": "2IrRl76Uxkh4aoLIeHCow5",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Sinking",
+        "artist": "Beatrice M.",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/beatrice-m-sinking",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact title track as refusing to choose between deep, dark house and dubstep.",
+          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether refusal between two rhythmic frames can make Truth in Noise's consolidation into Transparency a purposeful threshold, or reopen ambiguity immediately before the protected trio.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Attributed release metadata identifies Beatrice M. — Sinking on Sinking, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork describes the exact title track as refusing to choose between deep, dark house and dubstep.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "outgoingBpm": 143,
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether refusal between two rhythmic frames can make Truth in Noise's consolidation into Transparency a purposeful threshold, or reopen ambiguity immediately before the protected trio."
+          }
+        ],
+        "releaseDate": "2026-06-05",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinking"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "4uyYd09ILlXDhxVo3V5YdP",
-      "uri": "spotify:track:4uyYd09ILlXDhxVo3V5YdP",
-      "name": "Fluid Mechanics",
+      "id": "6Y6HaqCzXpjefNcSlhNaxE",
+      "uri": "spotify:track:6Y6HaqCzXpjefNcSlhNaxE",
+      "name": "BARUT",
       "artists": [
-        "Barker"
+        "KAY BE"
       ],
-      "album": "Stochastic Drift",
-      "releaseDate": "2025-04-04",
-      "durationMs": 288750,
-      "spotifyUrl": "https://open.spotify.com/track/4uyYd09ILlXDhxVo3V5YdP",
+      "album": "ERBAP",
+      "releaseDate": "2026-08-14",
+      "durationMs": 96362,
+      "spotifyUrl": "https://open.spotify.com/track/6Y6HaqCzXpjefNcSlhNaxE",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
+      "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Roxellana and Fragments",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": null,
-          "outgoingBpm": 140,
           "candidateBpm": null,
-          "purpose": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them."
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 130,
+          "outgoingBpm": 138,
+          "position": "Between Trompe L'oeil and Thick to Handle",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability."
         }
       ],
-      "fitHypothesis": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
+      "fitHypothesis": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
       "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Barker — Fluid Mechanics on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
-        "editorialInterpretation": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them.",
+        "attributedDescription": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
         "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability.",
+        "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
+        "measured": [
+          "Attributed release metadata identifies KAY BE — BARUT on ERBAP, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+        ]
       },
       "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Fluid Mechanics",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
+        "album": "ERBAP",
+        "artist": "KAY BE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
-        "fitHypothesis": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Fluid Mechanics on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
-          "editorialInterpretation": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them.",
+          "attributedDescription": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies KAY BE — BARUT on ERBAP, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Bandcamp Daily describes clattering hand drums and ultra-syncopation, calling the 1:36 exact track pagan footwork.",
         "proposedPlacements": [
           {
-            "position": "Between Roxellana and Fragments",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
             "candidateBpm": null,
-            "purpose": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them."
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 130,
+            "outgoingBpm": 138,
+            "position": "Between Trompe L'oeil and Thick to Handle",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether a very concise hand-drum interruption can turn Trompe L'oeil's stagger into Thick to Handle's deformation, or crowd the central reset with another statement of instability."
           }
-        ]
+        ],
+        "releaseDate": "2026-08-07",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "BARUT"
       }
     },
     {
-      "id": "1w1sKIvlPrbKGrrr4TN9g6",
-      "uri": "spotify:track:1w1sKIvlPrbKGrrr4TN9g6",
-      "name": "Madda Mudadda",
+      "id": "6UqZGPmUv9OUibCZbqYubL",
+      "uri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+      "name": "LOVE YOUR ENEMIES",
       "artists": [
-        "Toni Geitani"
+        "SHERELLE",
+        "Cameo Blush"
       ],
-      "album": "Wahj",
-      "releaseDate": "2026-01-30",
-      "durationMs": 660498,
-      "spotifyUrl": "https://open.spotify.com/track/1w1sKIvlPrbKGrrr4TN9g6",
+      "album": "WITH A VENGEANCE",
+      "releaseDate": "2025-04-09",
+      "durationMs": 316500,
+      "spotifyUrl": "https://open.spotify.com/track/6UqZGPmUv9OUibCZbqYubL",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
+      "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening."
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": 138,
+          "outgoingBpm": 139,
+          "position": "Between Thick to Handle and Tehutis Law",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "purpose": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it."
         }
       ],
-      "fitHypothesis": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
+      "fitHypothesis": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
       "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Toni Geitani — Madda Mudadda on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
-        "editorialInterpretation": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening.",
+        "attributedDescription": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
         "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it.",
+        "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
+        "measured": [
+          "Attributed release metadata identifies SHERELLE — LOVE YOUR ENEMIES on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+        ]
       },
       "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Madda Mudadda",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Madda Mudadda on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
-          "editorialInterpretation": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening.",
+          "attributedDescription": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — LOVE YOUR ENEMIES on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Pitchfork describes syncopated percussion sparring with a huge on-beat while spoken patois and a plaintive saxophone cross the rhythmic field.",
         "proposedPlacements": [
           {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening."
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": 138,
+            "outgoingBpm": 139,
+            "position": "Between Thick to Handle and Tehutis Law",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "purpose": "Test whether competing syncopated and on-beat emphases can make Tehutis Law's re-grounding newly necessary after Thick to Handle, or add another struggle before it."
           }
-        ]
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "LOVE YOUR ENEMIES"
       }
     },
     {
-      "id": "6MA4LrvNMPQB6d58Z4SzwS",
-      "uri": "spotify:track:6MA4LrvNMPQB6d58Z4SzwS",
-      "name": "Difference And Repetition",
+      "id": "2IrRl76Uxkh4aoLIeHCow5",
+      "uri": "spotify:track:2IrRl76Uxkh4aoLIeHCow5",
+      "name": "XTC SUSP9ND3D",
       "artists": [
-        "Barker"
+        "SHERELLE"
       ],
-      "album": "Stochastic Drift",
-      "releaseDate": "2025-04-04",
-      "durationMs": 264500,
-      "spotifyUrl": "https://open.spotify.com/track/6MA4LrvNMPQB6d58Z4SzwS",
+      "album": "WITH A VENGEANCE",
+      "releaseDate": "2025-04-09",
+      "durationMs": 264000,
+      "spotifyUrl": "https://open.spotify.com/track/2IrRl76Uxkh4aoLIeHCow5",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
+      "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "outgoingBpm": 135,
           "candidateBpm": null,
-          "purpose": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Barker — Difference and Repetition on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-        "editorialInterpretation": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage.",
-        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "requestedIdentity": {
-        "artist": "Barker",
-        "track": "Difference and Repetition",
-        "album": "Stochastic Drift",
-        "releaseDate": "2025-04-03",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
-        "fitHypothesis": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Barker — Difference and Repetition on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
-          "editorialInterpretation": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "candidateBpm": null,
-            "purpose": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage."
-          }
-        ]
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "55w33YaGNDQ4FmTCHFyLuY",
-      "uri": "spotify:track:55w33YaGNDQ4FmTCHFyLuY",
-      "name": "Fawqa Al Ghaym",
-      "artists": [
-        "Toni Geitani"
-      ],
-      "album": "Wahj",
-      "releaseDate": "2026-01-30",
-      "durationMs": 280253,
-      "spotifyUrl": "https://open.spotify.com/track/55w33YaGNDQ4FmTCHFyLuY",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Encasadelciegoeltuerco and Cave",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
           "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
           "incomingBpm": null,
           "outgoingBpm": 134,
-          "candidateBpm": null,
-          "purpose": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor."
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "purpose": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery."
         }
       ],
-      "fitHypothesis": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
+      "fitHypothesis": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
       "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Toni Geitani — Fawqa al Ghaym on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
-        "editorialInterpretation": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor.",
+        "attributedDescription": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
         "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery.",
+        "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
+        "measured": [
+          "Attributed release metadata identifies SHERELLE — XTC SUSP9ND3D on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+        ]
       },
       "requestedIdentity": {
-        "artist": "Toni Geitani",
-        "track": "Fawqa al Ghaym",
-        "album": "Wahj",
-        "releaseDate": "2026-01-09",
-        "spotifyTrackId": null,
+        "album": "WITH A VENGEANCE",
+        "artist": "SHERELLE",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
-        "fitHypothesis": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/sherelle-with-a-vengeance",
         "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Toni Geitani — Fawqa al Ghaym on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
-          "editorialInterpretation": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor.",
+          "attributedDescription": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
           "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery.",
+          "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null
+          "measured": [
+            "Attributed release metadata identifies SHERELLE — XTC SUSP9ND3D on WITH A VENGEANCE, requested release metadata 2025-04-09; exact Spotify identity, duration and BPM remain for resolver."
+          ]
         },
+        "fitHypothesis": "Published criticism describes static-drenched footwork shuddering through overblown noise and dub sirens.",
         "proposedPlacements": [
           {
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "candidateBpm": null,
             "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
             "outgoingBpm": 134,
-            "candidateBpm": null,
-            "purpose": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor."
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "purpose": "Test whether static-footwork pressure can make the opening derailment more consequential before Cave restores broader motion, or simply delay that recovery."
           }
-        ]
+        ],
+        "releaseDate": "2025-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "XTC SUSP9ND3D"
       }
     }
-  ]
+  ],
+  "resolvedAlternates": []
 }
