@@ -2,6 +2,17 @@
 
 Canonical: 19 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 92 — EXPLORE — dramatic-threshold and ending audit
+
+Nine ranked leads from approximately 46 inspections produced a matching schemaVersion 2 PARTIAL snapshot: one exact Spotify resolution and selected candidate, eight unresolved leads, one release-date warning, and no duplicates, substitutions, alternates or terminal technical errors. Every exact resolver outcome is preserved in `discoveries.md`.
+
+**Decision:** placement-specific REJECT Ricardo Laine — Ashes In the Sand (`spotify:track:5HyacZvar1hf9OGaWKuJ3W`) for `Truth in Noise → candidate → Transparency` and a post-`Stardancer` afterword only. The exact 7:24 track passes the selection lens: Resident Advisor documents ultra-dramatic broken techno, breakbeat fragments and ominous pads. Immediate phrase fit, perceived pulse and mixability are UNKNOWN, but they are not the reason for rejection.
+
+The pre-trio placement would place a new dramatic apex between the current consolidation and the protected closing block, turning `Amor → Truth in Noise → candidate → Transparency → When We Froze` into another full escalation without evidence that the closing block needs one. The tail placement would reopen the journey after Stardancer with seven more minutes of ominous drama rather than supply a distinct release or afterword function. Both are musical long-form costs, not an invisible-transition requirement.
+
+STRANGE GAIT remains 19 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 161 → 162 exact tracks by retaining Ashes In the Sand as genuinely interesting. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Lead conversion is 9/46 (19.6%), exact resolution is 1/9 (11.1%), and candidate-to-ADD conversion is 0/1. Across Runs 87–92 the repaired funnel admitted 53 leads from 260 inspections and added 4 of 14 selected candidates. Over-expansion remains a watch, not a confirmed defect: this run makes a specific negative decision while keeping unresolved resolver results separate from musical judgment.
+
+
 ## Run 91 — EXPLORE — transformation-led overture audit
 
 Nine ranked leads from approximately 44 inspections produced a matching schemaVersion 2 PARTIAL snapshot: seven exact Spotify resolutions, two unresolved leads, three selected candidates and four unevaluated alternates. Five release-date warnings and both exact resolver errors are preserved in `discoveries.md`.

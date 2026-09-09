@@ -2,6 +2,61 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 92 — EXPLORE — dramatic-threshold and ending audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 161 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, the generated felt map matched canonical state, unsupported dimensions remained UNKNOWN, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Over-expansion remained a watch after five ADDs across Runs 86–91, not an actionable REPAIR defect.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T03:53:47Z-explore-92`
+- **sourceCommit:** `c451d165c1491f4f7ecb7d9e95932e241d3e7100`
+- **request commit:** `3ca7b2d5c362009cf44421a1df2d3c94c5cbb139`
+- **snapshot commit:** `1ba8cd601790a1d49046c5b64a1fd7966d73260e`
+- **request fingerprint:** `321d501e7b5e40f6cd137aa0a2d5be2b0f9e7a2dfc2438adf6e1c5e2ab24272e`
+- **scope:** approximately 46 named tracks and releases across June–September 2026 current windows, adjacent rhythmic music and overlooked 2015–2024 techno/minimal/electro catalogue reviews; metadata and attributed descriptions only; no audio audition.
+- **freshness:** exact repository searches excluded canonical identities, active placement-specific rejects, untriggered PARKED revisits, retained exact identities and unresolved leads without materially new identity evidence. Spekki Webu — Goodbye Universe was excluded because Run 53 already preserved its ambiguous identity result without new evidence.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 1 exact resolution + 8 unresolved; 1 selected candidate; 1 warning; no duplicates, substitutions, resolved alternates or terminal technical errors.
+
+### Resolver outcomes preserved
+
+1. **Spekki Webu — Axis Point** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6mqfqfAHlsLZaWzCMqGOXI, 3KbhMGjUZuXENpfjTtwHTz)`.
+2. **Mark Ernestus' Ndagga Rhythm Force — Yermande (Kick and Bass Mix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Karen Gwyer — Keisa Kizzy Kinte** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Ricardo Laine — Ashes In The Sand** — RESOLVED and selected as Spotify exact title `Ashes In the Sand`: `spotify:track:5HyacZvar1hf9OGaWKuJ3W`; Spotify `Asleep In Their Myst`, `2023-07-07`, 7:24; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2023-07" but Spotify returned "2023-07-07"`.
+5. **Spekki Webu — Wave Jumper** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6EF3wIV1qpRYgPXlXbyAxl, 70kWV3XU0YbJkvu3zRlsNd)`.
+6. **Rhyw — Honey Badger** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6cZDdw8yLZ66zhFRhIIDSV, 30CEj51TznbGSaDmiKChPO)`.
+7. **Karen Gwyer — Shit List With Kid** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+8. **Z@P — Unclear** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **Spekki Webu — Floating In Acheron** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1GqoCaV3J5ItsbP3rtN3ey, 1PBsmqEvdGNwqmUTeHtt7v)`.
+
+No duplicate, substitution, resolved alternate or terminal technical error occurred. The eight unresolved identities receive no musical verdict.
+
+### Candidate evaluation
+
+#### Ricardo Laine — Ashes In the Sand — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Resident Advisor's exact-track description identifies ultra-dramatic broken techno, breakbeat fragments and ominous pads. That supports both rhythmic freedom and a materially different emotional register.
+- **Immediate transition:** UNKNOWN at both tested boundaries. No phrase, perceived-pulse or mix evidence exists, and UNKNOWN is not treated as failure.
+- **Surrounding three-to-five-track run:** FAIL for the proposed placements. In `Amor → Truth in Noise → candidate → Transparency → When We Froze`, the candidate's documented dramatic and ominous character would create another full escalation between late consolidation and the protected closing block. After Stardancer, it would turn the close into `Transparency → When We Froze → Stardancer → candidate`, reopening rather than clarifying the ending.
+- **Long-form journey:** FAIL for these placements only. A 7:24 dramatic statement has enough duration and character to alter the architecture; neither proposal supplies a distinct release, reframe or destination that earns that alteration.
+- **Verdict:** **REJECT the two Run 92 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the immediate pre-write SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 1 exact selected resolution + 8 unresolved; the one warning and all eight exact resolver errors are preserved. Only the selected exact identity was evaluated, separately, at volume, immediate-transition, local-run and long-form scales. Unknown audio facts remained UNKNOWN and did not become a veto. The protected trio is untouched. Auditor approves the two-placement rejection, local inspiration retention and one global utility addition.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **19 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: Ashes In the Sand exact placement-specific REJECT / interesting; eight unresolved research leads; one concrete set direction about dramatic intensity versus long-form destination.
+- EDITORIAL ENGINE — DISCOVERY POOL: **161 → 162 exact tracks**, adding Ashes In the Sand.
+- Journey-map inputs: unchanged; no unsupported felt dimensions were added.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 9 ranked leads → 1 exact resolution + 8 unresolved → 1 evaluation → **0 ADD + 1 placement-specific REJECT** → 1 utility addition. Lead conversion was **19.6%**, exact-resolution conversion **11.1%**, and candidate-to-ADD conversion **0/1**. Across Runs 87–92 the repaired funnel admitted **53 leads from 260 inspections** and added **4 of 14 selected candidates**. The recent ADD rate is **5/10 across Runs 83–92**, versus **5/38 across Runs 55–92**. The low resolution rate is a Spotify market-identity result, not eight musical failures. The strongest counterargument is that the candidate's drama might create a powerful final threshold or coda; available evidence does not show that either placement gives the drama a destination rather than merely adding another climax. This run proves the repaired process can reject a strong exact candidate for specific long-form reasons while retaining it as discovery. It does not prove the track is globally incompatible, its BPM, phrase fit, perceived pulse, energy, density or live handoffs.
+
+
 ## Run 91 — EXPLORE — transformation-led overture audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 18 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 158 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, the generated map matched canonical state and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 90 had ended the four-run ADD streak with a concrete boundary-cost rejection, so over-expansion remained a watch rather than an actionable REPAIR defect.

@@ -165,6 +165,7 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 159 | Purelink | Stadium Drive | spotify:track:54XRZaNSCrGuNTrFHmXVKP | STRANGE GAIT Run 91 | Canonical ADD / retained | 2026-09-09 |
 | 160 | RHR | PULSAÇÃO | spotify:track:3vNfVj15ccr8kVFVTM9z6F | STRANGE GAIT Run 91 | PARKED / interesting | 2026-09-09 |
 | 161 | Yazzus | Human Error Processor | spotify:track:2pvyBLVixnCOD6yq2mgieZ | STRANGE GAIT Run 91 | Placement-specific reject / interesting | 2026-09-09 |
+| 162 | Ricardo Laine | Ashes In the Sand | spotify:track:5HyacZvar1hf9OGaWKuJ3W | STRANGE GAIT Run 92 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

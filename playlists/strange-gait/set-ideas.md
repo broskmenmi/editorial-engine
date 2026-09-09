@@ -4,6 +4,25 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 92
+
+### Drama needs a destination
+
+**Direction:** Explore the difference between increasing dramatic intensity and giving a long-form journey a new destination. A track with ominous harmony and fragmented breaks may feel consequential by itself yet still weaken a sequence if it creates another climax without changing what the listener understands the ending to be.
+
+**Ingredients:**
+
+- Ricardo Laine — Ashes In the Sand — exact Run 92 placement-specific reject; documented ultra-dramatic broken techno, breakbeat fragments and ominous pads
+- Inspired Groove — Truth in Noise — canonical late consolidation before the unprotected entry to the closing block
+- Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer — protected internal closing order
+- Spekki Webu — Axis Point — unresolved current two-bar-groove research contrast
+- Mark Ernestus' Ndagga Rhythm Force — Yermande (Kick and Bass Mix) — unresolved fast/slow-perception research contrast
+
+**Why interesting:** Intensity is not the same as direction. In techno, a dramatic texture or denser break pattern can increase pressure while leaving the long-form destination unchanged; sequencing asks whether that pressure redefines arrival, postpones it or merely repeats it.
+
+**Unknown / risk:** No listed pairwise phrase fit, perceived-pulse relation, BPM relation, energy, density, key, mixability or live edge is established. The unresolved identities are not asserted to fit the canonical close or one another.
+
+
 ## Current additions — Run 91
 
 ### Let rhythm appear before the first anchor

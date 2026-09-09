@@ -4,6 +4,28 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 92 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Ricardo Laine | Ashes In the Sand | https://open.spotify.com/track/5HyacZvar1hf9OGaWKuJ3W | Placement-specific REJECT for Truth in Noise → candidate → Transparency and after Stardancer only. Exact 7:24 ultra-dramatic broken-techno discovery retained globally; BPM, phrasing, perceived pulse and handoffs remain unknown. Spotify date warning preserved. |
+| RESEARCH LEAD | Spekki Webu | Axis Point | https://ra.co/reviews/36356 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6mqfqfAHlsLZaWzCMqGOXI, 3KbhMGjUZuXENpfjTtwHTz)`; no musical verdict. |
+| RESEARCH LEAD | Mark Ernestus' Ndagga Rhythm Force | Yermande (Kick and Bass Mix) | https://ra.co/reviews/16299 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Karen Gwyer | Keisa Kizzy Kinte | https://ra.co/reviews/17531 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Spekki Webu | Wave Jumper | https://ra.co/reviews/36356 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6EF3wIV1qpRYgPXlXbyAxl, 70kWV3XU0YbJkvu3zRlsNd)`; no musical verdict. |
+| RESEARCH LEAD | Rhyw | Honey Badger | https://ra.co/reviews/35091 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6cZDdw8yLZ66zhFRhIIDSV, 30CEj51TznbGSaDmiKChPO)`; no musical verdict. |
+| RESEARCH LEAD | Karen Gwyer | Shit List With Kid | https://ra.co/reviews/17531 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Z@P | Unclear | https://ra.co/reviews/36188 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Spekki Webu | Floating In Acheron | https://ra.co/reviews/36356 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1GqoCaV3J5ItsbP3rtN3ey, 1PBsmqEvdGNwqmUTeHtt7v)`; no musical verdict. |
+
+### Placement and inspiration boundaries
+
+- Ashes In the Sand is not globally rejected; only the two Run 92 placements fail.
+- The eight unresolved leads receive no ADD, REJECT or PARKED verdict and do not enter the global utility ledger.
+- Current Spekki Webu identities remain ambiguous because the supplied release metadata did not choose between exact Spotify matches.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
+
 ## Run 91 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
