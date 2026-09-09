@@ -207,6 +207,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 201 | Anthony Naples | Fog FM | spotify:track:50Cy29ZT8eIhQpAB0YJ5yx | STRANGE GAIT Run 108 | Placement-specific reject / interesting | 2026-09-09 |
 | 202 | Squarepusher | K4 Fairlands | spotify:track:1M6UXCobmBs5QyLjq2oOHl | STRANGE GAIT Run 108 | Placement-specific reject / interesting | 2026-09-09 |
 | 203 | Miimii KDS | 6 o'clock | spotify:track:7gt68ukLRTbKf9RXA3dKcP | STRANGE GAIT Run 108 | PARKED / interesting | 2026-09-09 |
+| 204 | Barker | Fluid Mechanics | spotify:track:4uyYd09ILlXDhxVo3V5YdP | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
+| 205 | Toni Geitani | Madda Mudadda | spotify:track:1w1sKIvlPrbKGrrr4TN9g6 | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
+| 206 | Barker | Difference And Repetition | spotify:track:6MA4LrvNMPQB6d58Z4SzwS | STRANGE GAIT Run 109 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

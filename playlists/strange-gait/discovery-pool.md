@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 109 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Barker | Fluid Mechanics | https://open.spotify.com/track/4uyYd09ILlXDhxVo3V5YdP | Placement-specific REJECT only for Roxellana → candidate → Fragments. Exact criticism documents repeated melodic foreground arriving with tidal intensity and dubby reverb; retained globally as genuinely interesting. |
+| EXACT TRACK | Toni Geitani | Madda Mudadda | https://open.spotify.com/track/1w1sKIvlPrbKGrrr4TN9g6 | Placement-specific REJECT only before Stadium Drive. Exact criticism documents an 11:00 ambience-to-crushing-static transformation; retained globally despite the opening placement's disproportion. |
+| EXACT TRACK | Barker | Difference And Repetition | https://open.spotify.com/track/6MA4LrvNMPQB6d58Z4SzwS | Placement-specific REJECT only for Cave → candidate → Abundance. Exact criticism documents phasing loops, scattered drums and an initially awkward gait; retained globally. |
+| RESOLVED ALTERNATE | Toni Geitani | Fawqa Al Ghaym | https://open.spotify.com/track/55w33YaGNDQ4FmTCHFyLuY | Exact identity resolved but not selected or evaluated; not retained in the global utility ledger this run. |
+| RESEARCH LEADS | Barker; Toni Geitani | Reframing; Ruwaydan Ruwaydan | https://pitchfork.com/reviews/tracks/barker-reframing | Both exact title/artist searches were ambiguous despite requested release metadata; no musical verdict or global utility entry. |
+| RESEARCH LEADS | DJ Python; DJ Python, LA Warman | Pia; ADMSDP; Juntos | https://pitchfork.com/reviews/albums/dj-python-mas-amable | Pia and Juntos returned ambiguous exact release matches; ADMSDP returned no exact Spotify title/artist match in market SE. No musical verdict. |
+| RELEASE WATCH | Barker / Smalltown Supersound | Stochastic Drift | https://pitchfork.com/reviews/albums/barker-stochastic-drift | Recent catalogue window for shifting rhythmic reference and foreground recurrence; unselected identities remain unresolved or unevaluated. |
+| RELEASE WATCH | Toni Geitani / System Revival | Wahj | https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review | 2026 emerging Arabic electronic / techno window; exact claims stay attached to cited tracks. |
+| CATALOGUE WATCH | DJ Python | Mas Amable | https://pitchfork.com/reviews/albums/dj-python-mas-amable | Overlooked continuous deep-reggaeton / ambient construction; unresolved identities are not publication inputs. |
+
+### Placement and inspiration boundaries
+
+- Fluid Mechanics, Madda Mudadda and Difference And Repetition are rejected only for their tested placements, not globally.
+- Fawqa Al Ghaym was not selected or evaluated.
+- The five unresolved identities do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No BPM, energy, density, phrase fit, perceived pulse or mixability is inferred.
+
 ## Run 108 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

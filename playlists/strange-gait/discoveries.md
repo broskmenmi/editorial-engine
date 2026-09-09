@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 109 — EXPLORE — recurrence is not progression — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 203 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.
+
+### Exploration receipt
+
+Run `2026-09-09T20:52:02Z-explore-109` inspected approximately 47 named tracks across Toni Geitani's 2026 `Wahj`, Barker's recent `Stochastic Drift`, DJ Python's overlooked `Mas Amable` and broader current electronic windows. Recent Run 105–108 ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (19.1%).
+
+The immutable schemaVersion 2 request was pinned to `14e501ba4e8406e8245ef4ceca11726b30665f0e` in request commit `61eb7f4360adcf999d07ca0497e88ee8b10de56b`. The matching snapshot commit is `0e7a2ea52b419d648f92862d53e86a09d4546847`; request fingerprint `058f4426559b2ba3f21f0382f07672b3b08ada4ec54525e7b25b29746bdeea4b`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Barker — Fluid Mechanics — `spotify:track:4uyYd09ILlXDhxVo3V5YdP` — 4:49
+2. Toni Geitani — Madda Mudadda — `spotify:track:1w1sKIvlPrbKGrrr4TN9g6` — 11:00
+3. Barker — Difference And Repetition — `spotify:track:6MA4LrvNMPQB6d58Z4SzwS` — 4:25
+
+Resolved but unevaluated alternate: Toni Geitani — Fawqa Al Ghaym (`spotify:track:55w33YaGNDQ4FmTCHFyLuY`).
+
+Unresolved identities, preserved without musical verdict:
+
+- Barker — Reframing: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0gRPbCjHQ3B5R7LnYdxdJg, 0q01PkXaaxdmKlt12EcBOx)`
+- Toni Geitani — Ruwaydan Ruwaydan: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (13hlMWugfH477BWYBcyhnX, 40fa8JoyIbwAgmZkGxT0WG)`
+- DJ Python — Pia: `ambiguous exact Spotify release match (70M057Qn0wdN0WIQQ0pwab, 6ZeaDtxS197ks513PExxvM)`
+- DJ Python, LA Warman — ADMSDP: `no exact Spotify title/artist search match in market SE`
+- DJ Python — Juntos: `ambiguous exact Spotify release match (5vfwQpFSOf2CueHHLGalzv, 4Q4WxhxopJLpKadeVUl1Wd)`
+
+Warnings preserved exactly:
+
+- Fluid Mechanics: `Exact title/artist matched with release metadata variance: release date requested "2025-04-03" but Spotify returned "2025-04-04"`
+- Madda Mudadda: `Exact title/artist matched with release metadata variance: release date requested "2026-01-09" but Spotify returned "2026-01-30"`
+- Difference and Repetition: `Exact title/artist matched with release metadata variance: release date requested "2025-04-03" but Spotify returned "2025-04-04"`
+- Fawqa al Ghaym: `Exact title/artist matched with release metadata variance: release date requested "2026-01-09" but Spotify returned "2026-01-30"`
+
+### Candidate evaluations
+
+#### Barker — Fluid Mechanics — placement-specific REJECT
+
+- **Volume fit:** PASS. Exact-track criticism describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return pulls underlying material forward with tidal intensity and dubby reverb. Recurrence changing foreground weight is relevant to the selection lens.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Roxellana → candidate → Fragments`.
+- **Three-to-five-track run:** FAIL for the tested placement. `Pulse I → Roxellana → Fluid Mechanics → Fragments → Drummz` makes one documented surge lead into another recurring tidal foreground before Fragments can supply the existing recovery. The candidate repeats expansion rather than translating it.
+- **Long-form journey:** FAIL for the tested placement. The 4:49 insertion delays an already legible surge-to-recovery consequence without establishing what becomes newly possible afterward.
+- **Verdict:** placement-specific REJECT between Roxellana and Fragments only. This is not a global rejection.
+
+#### Toni Geitani — Madda Mudadda — placement-specific REJECT
+
+- **Volume fit:** PASS as adjacent structurally free material. The exact 11:00 track is described as building from calming ambience into crushing static and whispered melody. Its production world is not a disqualifier.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes the exit into Stadium Drive, phrase structure, perceived pulse, density or mixability.
+- **Three-to-five-track run:** FAIL for the tested placement. `Madda Mudadda → Stadium Drive → Marauder → The Witching Hour` would spend almost seventeen minutes on two complete transformations before Marauder supplies the first anchor.
+- **Long-form journey:** FAIL for the tested placement. The opening gains another substantial prehistory but no source-backed consequence that makes the second formation necessary.
+- **Verdict:** placement-specific REJECT before Stadium Drive only. This is not a global rejection.
+
+#### Barker — Difference And Repetition — placement-specific REJECT
+
+- **Volume fit:** PASS. Exact criticism describes distended synth loops phasing while scattered drums and flashing keys reveal different curvature, producing an initially awkward gait.
+- **Immediate transition:** UNKNOWN. The neighbours' 134 and 135 BPM values do not establish the candidate's pulse, energy, density, phrasing or either handoff.
+- **Three-to-five-track run:** FAIL for the tested placement. `The Witching Hour → Encasadelciegoeltuerco → Cave → Difference And Repetition → Abundance` adds another self-forming instability stage after the concise derailment, delaying the broader recovery into Abundance.
+- **Long-form journey:** FAIL for the tested placement. Its 4:25 proportion is modest, but the following Worn Down already undertakes a longer threatened-coherence arc; another early instability does not change that later movement.
+- **Verdict:** placement-specific REJECT between Cave and Abundance only. This is not a global rejection.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 3 PLACEMENT-SPECIFIC REJECT.** Freshness, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. Unknown handoffs were not converted into musical failures. Each selected track passes the selection lens and fails only its tested local-run and long-form purpose. The resolved alternate was not evaluated; all five unresolved identities remain without verdict.
+
+Auditor approves local retention of the three selected exact tracks, the one resolved alternate, five unresolved leads, three release/catalogue watches and the set direction **recurrence is not progression**. The three selected exact tracks must enter the doctrine-free global utility ledger; the alternate and unresolved leads must not.
+
+### Durable result
+
+- STRANGE GAIT remains **24 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, one resolved alternate, five unresolved identities and the Barker / Toni Geitani / DJ Python catalogue watches.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **203 → 206 exact tracks** with Fluid Mechanics, Madda Mudadda and Difference And Repetition.
+- Journey annotations and generated maps are unchanged.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 47 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 selected evaluations + 1 unevaluated alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **19.1%**, exact-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–109, the repaired funnel has produced **206 leads from approximately 1,016 inspections and 9 ADDs from 58 selected candidates**. The recent ADD rate is **3/10 across Runs 100–109**, versus **10/64 across Runs 55–109**. The no-ADD streak is four runs since Run 105; nine exact interesting tracks have entered the utility layer during that interval. The strongest counterargument is that Fluid Mechanics could make Fragments feel like recovery from a two-stage expansion rather than merely delay it. The opposing evidence is the five-track scale: Roxellana already supplies the decisive surge and Fragments already carries the recovery, so the candidate repeats foreground growth without a new consequence. Four no-ADD runs are a maturity and placement-saturation watch, not yet an actionable REPAIR: resolution remains partial, discovery remains productive, and the three failures arise from candidate-specific proportional judgments rather than a technical gate or forbidden production world. The run does not prove these tracks fail elsewhere, either handoff fails, or the playlist is complete.
+
 ## Run 108 — EXPLORE — transformation is not transition — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 200 exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.

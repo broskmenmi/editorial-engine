@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 109
+
+### Recurrence is not progression
+
+**Direction:** Explore music whose materials recur with altered foreground weight, while keeping separate whether that repetition advances the surrounding sequence or merely delays an existing consequence.
+
+**Ingredients:**
+
+- Barker — *Fluid Mechanics* — exact placement-specific reject; recurring tidal foreground remains interesting outside the tested post-*Roxellana* expansion.
+- Toni Geitani — *Madda Mudadda* — exact placement-specific reject; an ambience-to-static transformation remains useful outside the tested double-preface opening.
+- Barker — *Difference And Repetition* — exact placement-specific reject; phased self-forming repetition remains useful outside the tested early instability run.
+- Barker — *Reframing*, Toni Geitani — *Ruwaydan Ruwaydan*, and DJ Python — *Pia*, *ADMSDP*, *Juntos* — unresolved exact-identity research.
+- `Pulse I → Roxellana → Fragments → Drummz` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** Repetition can change internal perception without creating long-form progress. Its sequencing value appears only when the following music acquires a consequence it did not already have.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The three rejects are placement-specific; unresolved identities have no verdict.
+
 ## Current additions — Run 108
 
 ### Transformation is not transition

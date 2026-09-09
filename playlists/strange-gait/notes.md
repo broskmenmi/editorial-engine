@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 109 — EXPLORE — recurrence is not progression
+
+Nine ranked leads from approximately 47 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four release-date warnings and no duplicates, substitutions or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. Barker — *Fluid Mechanics* passes the selection lens but its tested `Roxellana → candidate → Fragments` placement repeats foreground expansion before the existing recovery. Toni Geitani — *Madda Mudadda* passes as adjacent structurally free material, but its 11:00 ambience-to-static transformation before *Stadium Drive* creates almost seventeen minutes of two complete pre-anchor transformations. Barker — *Difference And Repetition* passes through exact phasing and self-forming rhythmic evidence, but between *Cave* and *Abundance* it adds another early instability before *Worn Down*'s longer threatened-coherence arc.
+
+STRANGE GAIT remains at 24 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 203 to 206 tracks with all three selected exact candidates. Toni Geitani — *Fawqa Al Ghaym* remains a resolved unevaluated alternate and is not added globally.
+
+Across Runs 87–109: 206 leads from approximately 1,016 inspections and 9 ADDs from 58 selected candidates. Recent ADD rate: 3/10 across Runs 100–109; overall repaired comparison: 10/64 across Runs 55–109. No-ADD streak: four runs since Run 105. Nine exact interesting tracks have entered the utility layer during that interval. This is a maturity and placement-saturation watch, not an actionable REPAIR.
+
+**Strongest counterargument:** *Fluid Mechanics* could turn the post-*Roxellana* passage into a two-stage expansion that makes *Fragments* more consequential. The exact local run instead shows recurrence delaying a recovery already supplied by the sequence; the track remains interesting and the rejection stays placement-specific.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 108 — EXPLORE — transformation is not transition
 
 Nine ranked leads from approximately 57 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, one release-date warning and no duplicates, substitutions or technical failures.
