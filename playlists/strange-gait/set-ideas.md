@@ -4,6 +4,23 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 98
+
+### Distance can interrupt without releasing
+
+**Direction:** Explore when softer-focus techno, tactile instability and head-nodding vertigo create a genuine change of listener stance rather than another explanation of rhythmic deformation.
+
+**Ingredients:**
+- Auscultation — *Mend* — exact PARKED candidate from Run 98; the current techno point inside a soft, subtly eerie album context.
+- Actress — *Marble Plexus* — exact placement-specific reject; tactile squirm and apparent rhythmic convulsion remain useful.
+- Actress — *Tree of Knowledge* — exact placement-specific reject; a head-nodding premise contorted into vertigo.
+- Cloud Canyons — *Mantle Of Light* / *Blank Desire* — unresolved current research into trance-inducing techno.
+- Cloud Canyons — *Body Wisdom* — unresolved current research into low-frequency pressure.
+
+**Why interesting:** Perceptual distance is not the same as release. Softening edges may preserve or even heighten tension, and a track can interrupt continuous drive without resolving it.
+
+**Unknown/risk:** No sequence or live mix is proven. The Cloud Canyons identities are unresolved, while BPM, pulse, phrasing, density and the actual felt transitions remain UNKNOWN.
+
 ## Current additions — Run 97
 
 ### Weight can change without intensity rising
