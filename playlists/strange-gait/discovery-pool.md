@@ -4,6 +4,25 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 99 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Eden Aurelius, Pontiac Streator | Ion | https://open.spotify.com/track/6ktWd9pOARwUR44p3qTUM5 | Placement-specific REJECT for Trompe L'oeil → candidate → Thick to Handle and Truth in Noise → candidate → Transparency only. Exact loping-to-rolling-4/4 transformation retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | Conna Haraway | Duration | https://open.spotify.com/track/0WtZ20ZdbX9UruMMJGuHJj | Placement-specific REJECT for Stardancer → candidate → Invisible Warriors Of Light and Truth in Noise → candidate → Transparency only. Exact syncopated-beat/phasing evidence retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | K Wata | Whisper Dub | https://open.spotify.com/track/6E2TNzGKaI8oBAJPYBJsK9 | Placement-specific REJECT for Capa → candidate → Trompe L'oeil and Stardancer → candidate → Invisible Warriors Of Light only. Exact dub-techno/post-dubstep fusion retained globally; BPM and handoffs remain unknown. |
+| RESEARCH LEAD | Picture | Quuuuuu | https://pppicture.bandcamp.com/album/uuuuuuuu | Resolver error `no exact Spotify title/artist search match in market SE`; high-stepping-kick and dispersed-percussion evidence retained without musical verdict. |
+| RESEARCH LEAD | Picture | Miiiiiii | https://pppicture.bandcamp.com/album/uuuuuuuu | Same resolver error; looping-pad, crackle and foreground-sample research retained without verdict. |
+| RESEARCH LEAD | Conna Haraway, XENIA REAPER | Redirect | https://connaharaway.bandcamp.com/album/shifted | Same resolver error; cool tactile-surface evidence retained without rhythmic or canonical verdict. |
+| RELEASE WATCH | Short Span | Entre Nous / Uuuuuuuu / Give U Space | https://shortspanrecords.bandcamp.com/ | Current label window joining ambient-dub drift, tactile techno mechanics and spare syncopated dub; exact-track claims remain attached only to the cited tracks above. |
+
+### Placement and inspiration boundaries
+
+- Ion, Duration and Whisper Dub are not globally rejected. Only their two Run 99 placements are rejected.
+- Quuuuuu, Miiiiiii and Redirect remain unresolved identities and do not enter the global utility ledger.
+- Acquiescence, Detach and Radio Embrace resolved as alternates but were not selected, evaluated or explicitly retained; they do not enter either retained exact-track layer.
+- No sequence, phrase fit, felt-state scalar or live-mixing edge is proven.
+
 ## Run 98 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
