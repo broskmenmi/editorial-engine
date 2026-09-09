@@ -1,886 +1,951 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "c26dbd025b5739d51384af60228910cb4ea1e66d25bb63504c290fda9b09aba9",
-  "generatedAt": "2026-09-09T22:57:15.024Z",
-  "runId": "2026-09-09T22:48:41Z-explore-111",
-  "sourceCommit": "ae1f0f3b12026eb4bc96419d96d3d141e5c3c255",
+  "requestFingerprint": "7e4706143dc613c98fedcd93b546e6695809aae73230dabc6f30508e87c229bc",
+  "generatedAt": "2026-09-09T23:56:13.348Z",
+  "runId": "2026-09-09T23:49:06Z-explore-112",
+  "sourceCommit": "45df9937d86a765c8b0d53443d6a8433fc9eaea1",
   "mode": "EXPLORE",
   "target": {
-    "position": "Whole 25-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities.",
-    "purpose": "Test whether compact hybrid forms, polyrhythmic layer revelation, conspicuous production-world changes and self-contained withdrawal/return create transition-scale, local-run and long-form consequence.",
-    "role": "fresh whole-journey contender discovery after Run 110's central conflict addition, spanning current hybrid breakbeat/trip-hop material, a current remix, a 2019 ambient-house/dabke EP and overlooked batida without requiring one sonic room"
+    "role": "fresh whole-journey contender discovery after Run 111's compact interruption scan, spanning a current live-derived dance album, emerging clipped-break/noise architecture and overlooked electro-acoustic catalogue without requiring one sonic room",
+    "purpose": "Test whether live-derived looseness, clipped rhythmic crisis and acoustic-digital transformation create transition-scale, local-run and long-form consequence rather than merely adding another event.",
+    "position": "Whole 25-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 52 named tracks across an August 2026 electronic survey, linked official releases, a current remix window, a 2019 ambient-house/dabke EP and a compact 2018 batida catalogue record; attributed criticism and official release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-09T23:49:06Z",
+    "approximateInspectedScope": "Approximately 49 named tracks across August 2026 current-release reviews and listings, an emerging February 2026 XL EP, linked current electronic surveys, and overlooked 2017 electro-acoustic catalogue; attributed criticism and official release metadata only; no audio audition.",
+    "sourceWindows": [
+      "CURRENT: https://pitchfork.com/reviews/albums/overmono-pure-devotion and https://pitchfork.com/news/overmono-detail-new-album-pure-devotion — Overmono's August 7 album was inspected; Barum, Slowmotion and Ballad survive with exact-track structural descriptions.",
+      "ADJACENT / EMERGING: https://pitchfork.com/reviews/albums/kavari-plague-music and https://pitchfork.com/news/kavari-boldy-james-zora-jones-this-weeks-pitchfork-selects-playlist — KAVARI's February 2026 XL window was inspected; SCYTHE, SERPENT CHAMBER and PULSE survive with exact-track evidence for clipped, break-based and ritual-horror structures.",
+      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design — Sote's 2017 electro-acoustic record was inspected; Plural, Boghze Esfahan and Flux of Sorrow survive as distinct acoustic-digital transformations.",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 212-track utility state contain no prior artist-title decision for the nine requested identities."
+    ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Lower-ranked tracks from the source records and current listings were inspected but excluded to keep nine honest leads with distinct structural propositions.",
-      "Recent Run 106–110 artist and label ecosystems were not retried; the current scan deliberately moved to Buttechno & Triš, Olof Dreijer/MaMan/Pearson Sound, Lara Sarkissian and P. Adrix.",
+      "Runs 107–111 selected artist and label ecosystems were not retried; Overmono had appeared only as inspected background in an older scan, not as an exact candidate decision, and these three exact titles were absent from durable decision state.",
+      "Brendon Moeller's Control Mechanism was excluded because it is already PARKED and present in the utility ledger; lower-ranked tracks from all source records were excluded to keep nine honest leads.",
       "No Spotify connector, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Lara Sarkissian — A Ceremony (for Arax)",
-      "2. buttechno & Triš — spirit dub",
-      "3. Olof Dreijer, MaMan, Pearson Sound — Echoed Dafnino (Pearson Sound Remix)",
-      "4. Lara Sarkissian, Margenrot — Gnum Գնում (Going)",
-      "5. P. Adrix — Zelda Shyt",
-      "6. buttechno & Triš — the spirit",
-      "7. P. Adrix — Ovni",
-      "8. buttechno & Triš — carry the wind",
-      "9. P. Adrix — Sonhos"
-    ],
-    "sourceWindows": [
-      "CURRENT / EMERGING: https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ and https://buttechno.bandcamp.com/album/the-spirit — the August 25 survey and August 7 official release were inspected; spirit dub, the spirit and carry the wind survive as distinct exact hybrid propositions.",
-      "CURRENT ADJACENT: https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ and https://pitchfork.com/reviews/albums/olof-dreijer-loud-bloom/ — Echoed Dafnino (Pearson Sound Remix) survives with exact-track evidence for a drop that builds and returns to the governing groove.",
-      "OVERLOOKED ADJACENT CATALOGUE: https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/ — A Ceremony (for Arax) and Gnum Գնում (Going) survive with exact-track evidence for turbulent and polyrhythmic form.",
-      "OVERLOOKED CLUB CATALOGUE: https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/ — Zelda Shyt, Ovni and Sonhos survive from a compact batida record with exact-track structural descriptions.",
-      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 209-track utility state contain no prior artist-title decision for the nine requested identities."
-    ],
-    "timestampUtc": "2026-09-09T22:48:41Z"
+      "1. KAVARI — SCYTHE",
+      "2. Sote — Plural",
+      "3. Overmono — Barum",
+      "4. KAVARI — SERPENT CHAMBER",
+      "5. Sote — Boghze Esfahan",
+      "6. Overmono — Slowmotion",
+      "7. KAVARI — PULSE",
+      "8. Sote — Flux of Sorrow",
+      "9. Overmono — Ballad"
+    ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 4,
+  "resolvedCount": 6,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "buttechno, Triš",
-      "track": "spirit dub",
+      "artist": "Sote",
+      "track": "Plural",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus calls the exact track apocalyptic trip hop; the official release places it in a breaks, experimental, shoegaze, techno and trip-hop record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact trip-hop left turn after Worn Down can create a deliberate release of pressure before Too Much Time widens physical motion, or add a second self-contained threshold.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies buttechno, Triš — spirit dub on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus calls the exact track apocalyptic trip hop; the official release places it in a breaks, experimental, shoegaze, techno and trip-hop record.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
-            "position": "Between Worn Down and Too Much Time",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether a compact trip-hop left turn after Worn Down can create a deliberate release of pressure before Too Much Time widens physical motion, or add a second self-contained threshold."
-          }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
+        "artist": "Sote",
+        "track": "Plural",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
         "spotifyTrackId": null,
-        "track": "spirit dub"
-      }
-    },
-    {
-      "artist": "Olof Dreijer, MaMan, Pearson Sound",
-      "track": "Echoed Dafnino - Pearson Sound Remix",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "Echoed Dafnino Remixes",
-        "artist": "Olof Dreijer, MaMan, Pearson Sound",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus describes revving, modulated subs, acoustic-seeming percussion and foregrounded vocals, with a drop that builds and bursts back into the main groove.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a documented withdrawal-and-return can redirect Moonwake into Capa, or repeat a complete internal recovery immediately before the existing redirection.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies Olof Dreijer, MaMan, Pearson Sound — Echoed Dafnino - Pearson Sound Remix on Echoed Dafnino Remixes; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus describes revving, modulated subs, acoustic-seeming percussion and foregrounded vocals, with a drop that builds and bursts back into the main groove.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "purpose": "Test whether a documented withdrawal-and-return can redirect Moonwake into Capa, or repeat a complete internal recovery immediately before the existing redirection."
-          }
-        ],
-        "releaseDate": null,
         "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Echoed Dafnino - Pearson Sound Remix"
-      }
-    },
-    {
-      "artist": "Lara Sarkissian, Margenrot",
-      "track": "Gnum Գնում (Going)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "DISRUPTION EP",
-        "artist": "Lara Sarkissian, Margenrot",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
         "evidence": {
-          "attributedDescription": "Pitchfork describes snares, cymbals and quivering howls accumulating in polyrhythmic frames until the layers become newly apparent.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether progressive layer-revelation after Ikoyi can make Amor's reassembly more consequential, or insert another accumulation inside an already complete dissolution-and-return run.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies Lara Sarkissian, Margenrot — Gnum Գնում (Going) on DISRUPTION EP, requested release metadata 2019; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies Sote — Plural on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "Pitchfork describes snares, cymbals and quivering howls accumulating in polyrhythmic frames until the layers become newly apparent.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "purpose": "Test whether progressive layer-revelation after Ikoyi can make Amor's reassembly more consequential, or insert another accumulation inside an already complete dissolution-and-return run."
-          }
-        ],
-        "releaseDate": "2019",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Gnum Գնում (Going)"
-      }
-    },
-    {
-      "artist": "buttechno, Triš",
-      "track": "the spirit",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus characterizes the exact title track as spectral 2-step within a stylistically restless record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact 2-step apparition after Drummz can prepare Ikoyi's foreground dissolution, or simply stack another weakened-grid state before it.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies buttechno, Triš — the spirit on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus characterizes the exact title track as spectral 2-step within a stylistically restless record.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
             "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
             "incomingBpm": 138,
             "outgoingBpm": null,
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether a compact 2-step apparition after Drummz can prepare Ikoyi's foreground dissolution, or simply stack another weakened-grid state before it."
+            "candidateBpm": null,
+            "purpose": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it."
           }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "the spirit"
+        ]
       }
     },
     {
-      "artist": "buttechno, Triš",
-      "track": "carry the wind",
+      "artist": "Sote",
+      "track": "Boghze Esfahan",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
+        "artist": "Sote",
+        "track": "Boghze Esfahan",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
         "evidence": {
-          "attributedDescription": "The Quietus characterizes the exact track as a shoegaze reverie within an electronic record spanning breaks, techno and trip hop.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact reverie can act as a conspicuous opening lens before Stadium Drive's existing formation, or create another complete preface before the first anchor.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies buttechno, Triš — carry the wind on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies Sote — Boghze Esfahan on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "The Quietus characterizes the exact track as a shoegaze reverie within an electronic record spanning breaks, techno and trip hop.",
         "proposedPlacements": [
           {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
             "candidateBpm": null,
+            "purpose": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Sote",
+      "track": "Flux of Sorrow",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Sote",
+        "track": "Flux of Sorrow",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Sote — Flux of Sorrow on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
             "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "purpose": "Test whether a compact reverie can act as a conspicuous opening lens before Stadium Drive's existing formation, or create another complete preface before the first anchor."
+            "candidateBpm": null,
+            "purpose": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey."
           }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "carry the wind"
+        ]
       }
     }
   ],
   "warnings": [
     {
-      "artist": "Lara Sarkissian",
-      "track": "A Ceremony (for Arax)",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"DISRUPTION EP\" but Spotify returned \"Disruption\"; release date requested \"2019\" but Spotify returned \"2018-12-17\""
+      "artist": "KAVARI",
+      "track": "SCYTHE",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"PLAGUE MUSIC EP\" but Spotify returned \"PLAGUE MUSIC\""
     },
     {
-      "artist": "P. Adrix",
-      "track": "Zelda Shyt",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018\" but Spotify returned \"2018-02-23\""
+      "artist": "KAVARI",
+      "track": "SERPENT CHAMBER",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"PLAGUE MUSIC EP\" but Spotify returned \"PLAGUE MUSIC\""
     },
     {
-      "artist": "P. Adrix",
-      "track": "Ovni",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018\" but Spotify returned \"2018-02-23\""
-    },
-    {
-      "artist": "P. Adrix",
-      "track": "Sonhos",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2018\" but Spotify returned \"2018-02-23\""
+      "artist": "KAVARI",
+      "track": "PULSE",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"PLAGUE MUSIC EP\" but Spotify returned \"PLAGUE MUSIC\""
     }
   ],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "DISRUPTION EP",
-        "artist": "Lara Sarkissian",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/",
-        "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies Lara Sarkissian — A Ceremony (for Arax) on DISRUPTION EP, requested release metadata 2019; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement."
-          }
-        ],
-        "releaseDate": "2019",
-        "searchIntent": "BOTH",
+        "artist": "KAVARI",
+        "track": "SCYTHE",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
         "spotifyTrackId": null,
-        "track": "A Ceremony (for Arax)"
-      },
-      "spotifyTrackId": "6HE1Ts78acPofSOwcZMUhj",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus calls the exact track apocalyptic trip hop; the official release places it in a breaks, experimental, shoegaze, techno and trip-hop record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact trip-hop left turn after Worn Down can create a deliberate release of pressure before Too Much Time widens physical motion, or add a second self-contained threshold.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies buttechno, Triš — spirit dub on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus calls the exact track apocalyptic trip hop; the official release places it in a breaks, experimental, shoegaze, techno and trip-hop record.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
-            "position": "Between Worn Down and Too Much Time",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether a compact trip-hop left turn after Worn Down can create a deliberate release of pressure before Too Much Time widens physical motion, or add a second self-contained threshold."
-          }
-        ],
-        "releaseDate": "2026-08-07",
         "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "spirit dub"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "Echoed Dafnino Remixes",
-        "artist": "Olof Dreijer, MaMan, Pearson Sound",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
         "evidence": {
-          "attributedDescription": "The Quietus describes revving, modulated subs, acoustic-seeming percussion and foregrounded vocals, with a drop that builds and bursts back into the main groove.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a documented withdrawal-and-return can redirect Moonwake into Capa, or repeat a complete internal recovery immediately before the existing redirection.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies Olof Dreijer, MaMan, Pearson Sound — Echoed Dafnino - Pearson Sound Remix on Echoed Dafnino Remixes; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies KAVARI — SCYTHE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "The Quietus describes revving, modulated subs, acoustic-seeming percussion and foregrounded vocals, with a drop that builds and bursts back into the main groove.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "purpose": "Test whether a documented withdrawal-and-return can redirect Moonwake into Capa, or repeat a complete internal recovery immediately before the existing redirection."
-          }
-        ],
-        "releaseDate": null,
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Echoed Dafnino - Pearson Sound Remix"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "DISRUPTION EP",
-        "artist": "Lara Sarkissian, Margenrot",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes snares, cymbals and quivering howls accumulating in polyrhythmic frames until the layers become newly apparent.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether progressive layer-revelation after Ikoyi can make Amor's reassembly more consequential, or insert another accumulation inside an already complete dissolution-and-return run.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies Lara Sarkissian, Margenrot — Gnum Գնում (Going) on DISRUPTION EP, requested release metadata 2019; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Pitchfork describes snares, cymbals and quivering howls accumulating in polyrhythmic frames until the layers become newly apparent.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "purpose": "Test whether progressive layer-revelation after Ikoyi can make Amor's reassembly more consequential, or insert another accumulation inside an already complete dissolution-and-return run."
-          }
-        ],
-        "releaseDate": "2019",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Gnum Գնում (Going)"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies P. Adrix — Zelda Shyt on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": 137,
-            "outgoingBpm": null,
-            "position": "Between Stardancer and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending."
-          }
-        ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Zelda Shyt"
-      },
-      "spotifyTrackId": "0P0yeo9tPdwiVuqikD16bz",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus characterizes the exact title track as spectral 2-step within a stylistically restless record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact 2-step apparition after Drummz can prepare Ikoyi's foreground dissolution, or simply stack another weakened-grid state before it.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies buttechno, Triš — the spirit on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus characterizes the exact title track as spectral 2-step within a stylistically restless record.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether a compact 2-step apparition after Drummz can prepare Ikoyi's foreground dissolution, or simply stack another weakened-grid state before it."
-          }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "the spirit"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies P. Adrix — Ovni on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": 134,
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "purpose": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment."
-          }
-        ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Ovni"
-      },
-      "spotifyTrackId": "3ZyFdR1p3h91EOVLMivHIk",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "the spirit",
-        "artist": "buttechno, Triš",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
-        "evidence": {
-          "attributedDescription": "The Quietus characterizes the exact track as a shoegaze reverie within an electronic record spanning breaks, techno and trip hop.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact reverie can act as a conspicuous opening lens before Stadium Drive's existing formation, or create another complete preface before the first anchor.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies buttechno, Triš — carry the wind on the spirit, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "The Quietus characterizes the exact track as a shoegaze reverie within an electronic record spanning breaks, techno and trip hop.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "purpose": "Test whether a compact reverie can act as a conspicuous opening lens before Stadium Drive's existing formation, or create another complete preface before the first anchor."
-          }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "carry the wind"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
-        "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Attributed release metadata identifies P. Adrix — Sonhos on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
             "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
             "incomingBpm": 138,
             "outgoingBpm": 143,
-            "position": "Between Truth in Noise and Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure."
+            "candidateBpm": null,
+            "purpose": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure."
           }
-        ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Sonhos"
+        ]
       },
-      "spotifyTrackId": "1enb32atPOUWByZQnQVJDg",
+      "spotifyTrackId": "397g1KeU7j7YGYaRhXbKSe",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Sote",
+        "track": "Plural",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Sote — Plural on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Overmono",
+        "track": "Barum",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Overmono — Barum on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": 137,
+            "outgoingBpm": 130,
+            "candidateBpm": null,
+            "purpose": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence."
+          }
+        ]
+      },
+      "spotifyTrackId": "6ZvMrLDMwNuXBIIoEQEQ5Z",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "KAVARI",
+        "track": "SERPENT CHAMBER",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies KAVARI — SERPENT CHAMBER on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Roxellana and Fragments",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits."
+          }
+        ]
+      },
+      "spotifyTrackId": "5JIOWeefDQBlGlXgYEI1ZZ",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Sote",
+        "track": "Boghze Esfahan",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Sote — Boghze Esfahan on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Overmono",
+        "track": "Slowmotion",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Overmono — Slowmotion on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
+            "candidateBpm": null,
+            "purpose": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage."
+          }
+        ]
+      },
+      "spotifyTrackId": "6swghzYMFkDNoHuXvGxX7z",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "KAVARI",
+        "track": "PULSE",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies KAVARI — PULSE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment."
+          }
+        ]
+      },
+      "spotifyTrackId": "3ayVwYLueOuU99MNpuvPh6",
+      "selected": false
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Sote",
+        "track": "Flux of Sorrow",
+        "album": "Sacred Horror in Design",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
+        "fitHypothesis": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Sote — Flux of Sorrow on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Overmono",
+        "track": "Ballad",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Overmono — Ballad on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close."
+          }
+        ]
+      },
+      "spotifyTrackId": "5qGf83HsxrBfachJA54Ldb",
       "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "6HE1Ts78acPofSOwcZMUhj",
-      "uri": "spotify:track:6HE1Ts78acPofSOwcZMUhj",
-      "name": "A Ceremony (For Arax)",
+      "id": "397g1KeU7j7YGYaRhXbKSe",
+      "uri": "spotify:track:397g1KeU7j7YGYaRhXbKSe",
+      "name": "SCYTHE",
       "artists": [
-        "Lara Sarkissian"
+        "KAVARI"
       ],
-      "album": "Disruption",
-      "releaseDate": "2018-12-17",
-      "durationMs": 264282,
-      "spotifyUrl": "https://open.spotify.com/track/6HE1Ts78acPofSOwcZMUhj",
+      "album": "PLAGUE MUSIC",
+      "releaseDate": "2026-02-06",
+      "durationMs": 194000,
+      "spotifyUrl": "https://open.spotify.com/track/397g1KeU7j7YGYaRhXbKSe",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
+          "position": "Between Truth in Noise and Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "outgoingBpm": 143,
           "candidateBpm": null,
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "outgoingBpm": 135,
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement."
+          "purpose": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure."
         }
       ],
-      "fitHypothesis": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
+      "fitHypothesis": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
       "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
-        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Attributed release metadata identifies Lara Sarkissian — A Ceremony (for Arax) on DISRUPTION EP, requested release metadata 2019; exact Spotify identity, duration and BPM remain for resolver."
-        ]
+          "Attributed release metadata identifies KAVARI — SCYTHE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "album": "DISRUPTION EP",
-        "artist": "Lara Sarkissian",
+        "artist": "KAVARI",
+        "track": "SCYTHE",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/lara-sarkissian-disruption-ep/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
         "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies Lara Sarkissian — A Ceremony (for Arax) on DISRUPTION EP, requested release metadata 2019; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies KAVARI — SCYTHE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "Pitchfork identifies the exact track as the EP's most muscular and structured piece, moving past fits of turbulent drums and whistles.",
         "proposedPlacements": [
           {
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "outgoingBpm": 143,
             "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether muscular turbulence after Cave can make Abundance's swung continuation feel newly coherent, or merely crowd the early journey with another instability statement."
+            "purpose": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure."
           }
-        ],
-        "releaseDate": "2019",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "A Ceremony (for Arax)"
+        ]
       }
     },
     {
-      "id": "0P0yeo9tPdwiVuqikD16bz",
-      "uri": "spotify:track:0P0yeo9tPdwiVuqikD16bz",
-      "name": "Zelda Shyt",
+      "id": "6ZvMrLDMwNuXBIIoEQEQ5Z",
+      "uri": "spotify:track:6ZvMrLDMwNuXBIIoEQEQ5Z",
+      "name": "Barum",
       "artists": [
-        "P. Adrix"
+        "Overmono",
+        "Jaz Karis"
       ],
-      "album": "Álbum Desconhecido",
-      "releaseDate": "2018-02-23",
-      "durationMs": 163087,
-      "spotifyUrl": "https://open.spotify.com/track/0P0yeo9tPdwiVuqikD16bz",
+      "album": "Pure Devotion",
+      "releaseDate": "2026-08-07",
+      "durationMs": 203497,
+      "spotifyUrl": "https://open.spotify.com/track/6ZvMrLDMwNuXBIIoEQEQ5Z",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between Capa and Trompe L'oeil",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
           "incomingBpm": 137,
-          "outgoingBpm": null,
-          "position": "Between Stardancer and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending."
+          "outgoingBpm": 130,
+          "candidateBpm": null,
+          "purpose": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence."
         }
       ],
-      "fitHypothesis": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
+      "fitHypothesis": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
-        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Attributed release metadata identifies P. Adrix — Zelda Shyt on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-        ]
+          "Attributed release metadata identifies Overmono — Barum on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
+        "artist": "Overmono",
+        "track": "Barum",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
         "evidence": {
-          "attributedDescription": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies P. Adrix — Zelda Shyt on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies Overmono — Barum on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "Pitchfork describes sinister synths darkening into chants, syncopated drums, cymbals and an oscillating howl before the storm clears to quiet clicks.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
             "incomingBpm": 137,
-            "outgoingBpm": null,
-            "position": "Between Stardancer and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether a compact storm-to-click arc can create a purposeful rupture after the protected block before Invisible Warriors Of Light, or turn the afterword into a second ending."
+            "outgoingBpm": 130,
+            "candidateBpm": null,
+            "purpose": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence."
           }
-        ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Zelda Shyt"
+        ]
       }
     },
     {
-      "id": "3ZyFdR1p3h91EOVLMivHIk",
-      "uri": "spotify:track:3ZyFdR1p3h91EOVLMivHIk",
-      "name": "Ovni",
+      "id": "5JIOWeefDQBlGlXgYEI1ZZ",
+      "uri": "spotify:track:5JIOWeefDQBlGlXgYEI1ZZ",
+      "name": "SERPENT CHAMBER",
       "artists": [
-        "P. Adrix"
+        "KAVARI"
       ],
-      "album": "Álbum Desconhecido",
-      "releaseDate": "2018-02-23",
-      "durationMs": 114886,
-      "spotifyUrl": "https://open.spotify.com/track/3ZyFdR1p3h91EOVLMivHIk",
+      "album": "PLAGUE MUSIC",
+      "releaseDate": "2026-02-06",
+      "durationMs": 211142,
+      "spotifyUrl": "https://open.spotify.com/track/5JIOWeefDQBlGlXgYEI1ZZ",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "position": "Between Roxellana and Fragments",
+          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
           "incomingBpm": null,
-          "outgoingBpm": 134,
-          "position": "Between Encasadelciegoeltuerco and Cave",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "purpose": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment."
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits."
         }
       ],
-      "fitHypothesis": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
+      "fitHypothesis": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
-        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Attributed release metadata identifies P. Adrix — Ovni on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-        ]
+          "Attributed release metadata identifies KAVARI — SERPENT CHAMBER on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
+        "artist": "KAVARI",
+        "track": "SERPENT CHAMBER",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
         "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies P. Adrix — Ovni on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies KAVARI — SERPENT CHAMBER on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "Pitchfork describes the exact track as tightly edited and packed with bursts of chaotic flutes that fizzle over one another like a finale.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "position": "Between Roxellana and Fragments",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "incomingBpm": null,
-            "outgoingBpm": 134,
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "purpose": "Test whether a brief chaotic-flute burst after Encasadelciegoeltuerco can make Cave's widening feel like recovery, or overstate the opening derailment."
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits."
           }
-        ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Ovni"
+        ]
       }
     }
   ],
   "resolvedAlternates": [
     {
-      "id": "1enb32atPOUWByZQnQVJDg",
-      "uri": "spotify:track:1enb32atPOUWByZQnQVJDg",
-      "name": "Sonhos",
+      "id": "6swghzYMFkDNoHuXvGxX7z",
+      "uri": "spotify:track:6swghzYMFkDNoHuXvGxX7z",
+      "name": "Slowmotion",
       "artists": [
-        "P. Adrix"
+        "Overmono"
       ],
-      "album": "Álbum Desconhecido",
-      "releaseDate": "2018-02-23",
-      "durationMs": 179413,
-      "spotifyUrl": "https://open.spotify.com/track/1enb32atPOUWByZQnQVJDg",
+      "album": "Pure Devotion",
+      "releaseDate": "2026-08-07",
+      "durationMs": 182995,
+      "spotifyUrl": "https://open.spotify.com/track/6swghzYMFkDNoHuXvGxX7z",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "outgoingBpm": 135,
           "candidateBpm": null,
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "outgoingBpm": 143,
-          "position": "Between Truth in Noise and Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure."
+          "purpose": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage."
         }
       ],
-      "fitHypothesis": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
+      "fitHypothesis": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
       "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
-        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Attributed release metadata identifies P. Adrix — Sonhos on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-        ]
+          "Attributed release metadata identifies Overmono — Slowmotion on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "album": "Álbum Desconhecido",
-        "artist": "P. Adrix",
+        "artist": "Overmono",
+        "track": "Slowmotion",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/p-adrix-album-desconhecido/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
         "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
-          "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Attributed release metadata identifies P. Adrix — Sonhos on Álbum Desconhecido, requested release metadata 2018; exact Spotify identity, duration and BPM remain for resolver."
-          ]
+            "Attributed release metadata identifies Overmono — Slowmotion on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
-        "fitHypothesis": "Pitchfork identifies the exact track as a slowed-down mind-bender carrying minimalist electro-R&B sensuality inside an otherwise breakneck record.",
         "proposedPlacements": [
           {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
             "candidateBpm": null,
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "outgoingBpm": 143,
-            "position": "Between Truth in Noise and Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether a slower production-world change after Truth in Noise can create a deliberate threshold into Transparency without disturbing the protected trio, or reopen the journey immediately before closure."
+            "purpose": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage."
           }
+        ]
+      }
+    },
+    {
+      "id": "3ayVwYLueOuU99MNpuvPh6",
+      "uri": "spotify:track:3ayVwYLueOuU99MNpuvPh6",
+      "name": "PULSE",
+      "artists": [
+        "KAVARI"
+      ],
+      "album": "PLAGUE MUSIC",
+      "releaseDate": "2026-02-06",
+      "durationMs": 219000,
+      "spotifyUrl": "https://open.spotify.com/track/3ayVwYLueOuU99MNpuvPh6",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "candidateBpm": null,
+          "purpose": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment."
+        }
+      ],
+      "fitHypothesis": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies KAVARI — PULSE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "releaseDate": "2018",
-        "searchIntent": "BOTH",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "KAVARI",
+        "track": "PULSE",
+        "album": "PLAGUE MUSIC EP",
+        "releaseDate": "2026-02-06",
         "spotifyTrackId": null,
-        "track": "Sonhos"
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
+        "fitHypothesis": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies KAVARI — PULSE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5qGf83HsxrBfachJA54Ldb",
+      "uri": "spotify:track:5qGf83HsxrBfachJA54Ldb",
+      "name": "Ballad",
+      "artists": [
+        "Overmono",
+        "Kindora",
+        "Rock Floyd"
+      ],
+      "album": "Pure Devotion",
+      "releaseDate": "2026-08-07",
+      "durationMs": 190239,
+      "spotifyUrl": "https://open.spotify.com/track/5qGf83HsxrBfachJA54Ldb",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "incomingBpm": 137,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Overmono — Ballad on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close.",
+        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Overmono",
+        "track": "Ballad",
+        "album": "Pure Devotion",
+        "releaseDate": "2026-08-07",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
+        "fitHypothesis": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Overmono — Ballad on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close.",
+          "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close."
+          }
+        ]
       }
     }
   ]
