@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T03:03:57.638Z",
+  "generatedAt": "2026-09-09T03:47:07.302Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
@@ -75,7 +75,16 @@
       "protected": false,
       "progressStart": 0,
       "progressEnd": 0.05263157894736842,
-      "progressMidpoint": 0.02631578947368421
+      "progressMidpoint": 0.02631578947368421,
+      "felt": {
+        "summary": null,
+        "direction": "opener",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 2,
@@ -100,7 +109,16 @@
       "protected": false,
       "progressStart": 0.05263157894736842,
       "progressEnd": 0.10526315789473684,
-      "progressMidpoint": 0.07894736842105263
+      "progressMidpoint": 0.07894736842105263,
+      "felt": {
+        "summary": null,
+        "direction": "Ground — provisional opening anchor",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 3,
@@ -127,7 +145,16 @@
       "protected": false,
       "progressStart": 0.10526315789473684,
       "progressEnd": 0.15789473684210525,
-      "progressMidpoint": 0.13157894736842105
+      "progressMidpoint": 0.13157894736842105,
+      "felt": {
+        "summary": null,
+        "direction": "Ground — provisional controlled continuation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 4,
@@ -154,7 +181,16 @@
       "protected": false,
       "progressStart": 0.15789473684210525,
       "progressEnd": 0.21052631578947367,
-      "progressMidpoint": 0.18421052631578946
+      "progressMidpoint": 0.18421052631578946,
+      "felt": {
+        "summary": null,
+        "direction": "Ground — provisional widening move",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 5,
@@ -183,7 +219,16 @@
       "protected": false,
       "progressStart": 0.21052631578947367,
       "progressEnd": 0.2631578947368421,
-      "progressMidpoint": 0.23684210526315788
+      "progressMidpoint": 0.23684210526315788,
+      "felt": {
+        "summary": null,
+        "direction": "swung funk continuation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 6,
@@ -211,7 +256,16 @@
       "protected": false,
       "progressStart": 0.2631578947368421,
       "progressEnd": 0.3157894736842105,
-      "progressMidpoint": 0.2894736842105263
+      "progressMidpoint": 0.2894736842105263,
+      "felt": {
+        "summary": null,
+        "direction": "physical widening",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 7,
@@ -239,7 +293,16 @@
       "protected": false,
       "progressStart": 0.3157894736842105,
       "progressEnd": 0.3684210526315789,
-      "progressMidpoint": 0.34210526315789475
+      "progressMidpoint": 0.34210526315789475,
+      "felt": {
+        "summary": null,
+        "direction": "intensification",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 8,
@@ -267,7 +330,16 @@
       "protected": false,
       "progressStart": 0.3684210526315789,
       "progressEnd": 0.42105263157894735,
-      "progressMidpoint": 0.39473684210526316
+      "progressMidpoint": 0.39473684210526316,
+      "felt": {
+        "summary": null,
+        "direction": "rhythmic redirection",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 9,
@@ -296,7 +368,16 @@
       "protected": false,
       "progressStart": 0.42105263157894735,
       "progressEnd": 0.47368421052631576,
-      "progressMidpoint": 0.4473684210526316
+      "progressMidpoint": 0.4473684210526316,
+      "felt": {
+        "summary": null,
+        "direction": "dubwise staggered swing reset",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 10,
@@ -325,7 +406,16 @@
       "protected": false,
       "progressStart": 0.47368421052631576,
       "progressEnd": 0.5263157894736842,
-      "progressMidpoint": 0.5
+      "progressMidpoint": 0.5,
+      "felt": {
+        "summary": null,
+        "direction": "broken beat bodily deformation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 11,
@@ -353,7 +443,16 @@
       "protected": false,
       "progressStart": 0.5263157894736842,
       "progressEnd": 0.5789473684210527,
-      "progressMidpoint": 0.5526315789473685
+      "progressMidpoint": 0.5526315789473685,
+      "felt": {
+        "summary": null,
+        "direction": "funk re grounding",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 12,
@@ -382,7 +481,16 @@
       "protected": false,
       "progressStart": 0.5789473684210527,
       "progressEnd": 0.631578947368421,
-      "progressMidpoint": 0.6052631578947368
+      "progressMidpoint": 0.6052631578947368,
+      "felt": {
+        "summary": null,
+        "direction": "crooked accumulation hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 13,
@@ -410,7 +518,16 @@
       "protected": false,
       "progressStart": 0.631578947368421,
       "progressEnd": 0.6842105263157895,
-      "progressMidpoint": 0.6578947368421053
+      "progressMidpoint": 0.6578947368421053,
+      "felt": {
+        "summary": null,
+        "direction": "driving re escalation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 14,
@@ -439,7 +556,16 @@
       "protected": false,
       "progressStart": 0.6842105263157895,
       "progressEnd": 0.7368421052631579,
-      "progressMidpoint": 0.7105263157894737
+      "progressMidpoint": 0.7105263157894737,
+      "felt": {
+        "summary": null,
+        "direction": "unpredictable rhythm hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 15,
@@ -468,7 +594,16 @@
       "protected": false,
       "progressStart": 0.7368421052631579,
       "progressEnd": 0.7894736842105263,
-      "progressMidpoint": 0.7631578947368421
+      "progressMidpoint": 0.7631578947368421,
+      "felt": {
+        "summary": null,
+        "direction": "machine to hand drum mutation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 16,
@@ -497,7 +632,16 @@
       "protected": false,
       "progressStart": 0.7894736842105263,
       "progressEnd": 0.8421052631578947,
-      "progressMidpoint": 0.8157894736842105
+      "progressMidpoint": 0.8157894736842105,
+      "felt": {
+        "summary": null,
+        "direction": "groove consolidation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 17,
@@ -527,7 +671,16 @@
       "protected": true,
       "progressStart": 0.8421052631578947,
       "progressEnd": 0.8947368421052632,
-      "progressMidpoint": 0.868421052631579
+      "progressMidpoint": 0.868421052631579,
+      "felt": {
+        "summary": null,
+        "direction": "trio opener",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 18,
@@ -557,7 +710,16 @@
       "protected": true,
       "progressStart": 0.8947368421052632,
       "progressEnd": 0.9473684210526315,
-      "progressMidpoint": 0.9210526315789473
+      "progressMidpoint": 0.9210526315789473,
+      "felt": {
+        "summary": null,
+        "direction": "listener confirmed handoff",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 19,
@@ -588,7 +750,16 @@
       "protected": true,
       "progressStart": 0.9473684210526315,
       "progressEnd": 1,
-      "progressMidpoint": 0.9736842105263158
+      "progressMidpoint": 0.9736842105263158,
+      "felt": {
+        "summary": null,
+        "direction": "trio close",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     }
   ],
   "transitions": [
@@ -774,5 +945,44 @@
   "warnings": [
     "BPM unavailable for Purelink — Stadium Drive; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for Valesuchi — Amor; map stores null and leaves a gap in the measured-BPM layer."
-  ]
+  ],
+  "visualization": {
+    "schemaVersion": 1,
+    "defaultView": "felt",
+    "principle": "Direction and listener-state change first; no universal scalar energy axis.",
+    "layers": {
+      "feeling": [
+        "pressure",
+        "propulsion",
+        "openness",
+        "tension",
+        "temperature"
+      ],
+      "groove": [
+        "pulseClarity",
+        "swing",
+        "rhythmicStability",
+        "density",
+        "weightDistribution"
+      ],
+      "structure": [
+        "continuity",
+        "mutation",
+        "interruption",
+        "arrival",
+        "release"
+      ],
+      "tempo": [
+        "bpm",
+        "durationMs"
+      ]
+    },
+    "evidenceClasses": [
+      "LISTENER_REPORT",
+      "MEASURED_AUDIO",
+      "ATTRIBUTED_SOURCE_DESCRIPTION",
+      "EDITORIAL_INTERPRETATION",
+      "UNKNOWN"
+    ]
+  }
 }

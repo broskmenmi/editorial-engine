@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T21:10:48.156Z",
+  "generatedAt": "2026-09-09T03:47:06.942Z",
   "source": {
     "ledgerPath": "playlists/groove-over-noise/ledger.md",
     "annotationsPath": "playlists/groove-over-noise/journey-annotations.json",
@@ -23,6 +23,8 @@
     "durationLabel": "2h 39m",
     "bpmMin": 125,
     "bpmMax": 145,
+    "bpmKnownCount": 26,
+    "bpmUnknownCount": 0,
     "latestAddedDate": "2026-08-06"
   },
   "chapters": [
@@ -108,7 +110,16 @@
       "protected": true,
       "progressStart": 0,
       "progressEnd": 0.04279312026939842,
-      "progressMidpoint": 0.02139656013469921
+      "progressMidpoint": 0.02139656013469921,
+      "felt": {
+        "summary": null,
+        "direction": "opener",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 2,
@@ -135,7 +146,16 @@
       "protected": true,
       "progressStart": 0.04279312026939842,
       "progressEnd": 0.07759712977387528,
-      "progressMidpoint": 0.06019512502163685
+      "progressMidpoint": 0.06019512502163685,
+      "felt": {
+        "summary": null,
+        "direction": "protected handoff",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 3,
@@ -163,7 +183,16 @@
       "protected": false,
       "progressStart": 0.07759712977387528,
       "progressEnd": 0.11664343000414379,
-      "progressMidpoint": 0.09712027988900954
+      "progressMidpoint": 0.09712027988900954,
+      "felt": {
+        "summary": null,
+        "direction": "groove lock",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 4,
@@ -190,7 +219,16 @@
       "protected": false,
       "progressStart": 0.11664343000414379,
       "progressEnd": 0.14455742812632771,
-      "progressMidpoint": 0.13060042906523575
+      "progressMidpoint": 0.13060042906523575,
+      "felt": {
+        "summary": null,
+        "direction": "opening bridge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 5,
@@ -218,7 +256,16 @@
       "protected": false,
       "progressStart": 0.14455742812632771,
       "progressEnd": 0.17351146359502118,
-      "progressMidpoint": 0.15903444586067444
+      "progressMidpoint": 0.15903444586067444,
+      "felt": {
+        "summary": null,
+        "direction": "groove development",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 6,
@@ -246,7 +293,16 @@
       "protected": false,
       "progressStart": 0.17351146359502118,
       "progressEnd": 0.20926466191442825,
-      "progressMidpoint": 0.1913880627547247
+      "progressMidpoint": 0.1913880627547247,
+      "felt": {
+        "summary": null,
+        "direction": "rise",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 7,
@@ -273,7 +329,16 @@
       "protected": false,
       "progressStart": 0.20926466191442825,
       "progressEnd": 0.23480012798522926,
-      "progressMidpoint": 0.22203239494982874
+      "progressMidpoint": 0.22203239494982874,
+      "felt": {
+        "summary": null,
+        "direction": "first local crest",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 8,
@@ -300,7 +365,16 @@
       "protected": false,
       "progressStart": 0.23480012798522926,
       "progressEnd": 0.2685798360320383,
-      "progressMidpoint": 0.25168998200863374
+      "progressMidpoint": 0.25168998200863374,
+      "felt": {
+        "summary": null,
+        "direction": "release hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 9,
@@ -327,7 +401,16 @@
       "protected": false,
       "progressStart": 0.2685798360320383,
       "progressEnd": 0.31219699234711273,
-      "progressMidpoint": 0.2903884141895755
+      "progressMidpoint": 0.2903884141895755,
+      "felt": {
+        "summary": null,
+        "direction": "partial release",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 10,
@@ -354,7 +437,16 @@
       "protected": false,
       "progressStart": 0.31219699234711273,
       "progressEnd": 0.34493561398815614,
-      "progressMidpoint": 0.3285663031676344
+      "progressMidpoint": 0.3285663031676344,
+      "felt": {
+        "summary": null,
+        "direction": "post crest bridge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 11,
@@ -381,7 +473,16 @@
       "protected": false,
       "progressStart": 0.34493561398815614,
       "progressEnd": 0.3820123054650742,
-      "progressMidpoint": 0.36347395972661517
+      "progressMidpoint": 0.36347395972661517,
+      "felt": {
+        "summary": null,
+        "direction": "re entry",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 12,
@@ -409,7 +510,16 @@
       "protected": false,
       "progressStart": 0.3820123054650742,
       "progressEnd": 0.46355987767969076,
-      "progressMidpoint": 0.42278609157238245
+      "progressMidpoint": 0.42278609157238245,
+      "felt": {
+        "summary": null,
+        "direction": "long form immersion",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 13,
@@ -436,7 +546,16 @@
       "protected": false,
       "progressStart": 0.46355987767969076,
       "progressEnd": 0.49552848982674785,
-      "progressMidpoint": 0.4795441837532193
+      "progressMidpoint": 0.4795441837532193,
+      "felt": {
+        "summary": null,
+        "direction": "deeper crest",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 14,
@@ -463,7 +582,16 @@
       "protected": false,
       "progressStart": 0.49552848982674785,
       "progressEnd": 0.5317659338987762,
-      "progressMidpoint": 0.5136472118627621
+      "progressMidpoint": 0.5136472118627621,
+      "felt": {
+        "summary": null,
+        "direction": "release hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 15,
@@ -490,7 +618,16 @@
       "protected": false,
       "progressStart": 0.5317659338987762,
       "progressEnd": 0.5630572733900875,
-      "progressMidpoint": 0.5474116036444319
+      "progressMidpoint": 0.5474116036444319,
+      "felt": {
+        "summary": null,
+        "direction": "release",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 16,
@@ -517,7 +654,16 @@
       "protected": false,
       "progressStart": 0.5630572733900875,
       "progressEnd": 0.5987869727821576,
-      "progressMidpoint": 0.5809221230861226
+      "progressMidpoint": 0.5809221230861226,
+      "felt": {
+        "summary": null,
+        "direction": "release extension",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 17,
@@ -544,7 +690,16 @@
       "protected": false,
       "progressStart": 0.5987869727821576,
       "progressEnd": 0.6384715206638447,
-      "progressMidpoint": 0.6186292467230011
+      "progressMidpoint": 0.6186292467230011,
+      "felt": {
+        "summary": null,
+        "direction": "psychological threshold",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 18,
@@ -571,7 +726,16 @@
       "protected": false,
       "progressStart": 0.6384715206638447,
       "progressEnd": 0.6728413245422168,
-      "progressMidpoint": 0.6556564226030307
+      "progressMidpoint": 0.6556564226030307,
+      "felt": {
+        "summary": null,
+        "direction": "re entry",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 19,
@@ -598,7 +762,16 @@
       "protected": false,
       "progressStart": 0.6728413245422168,
       "progressEnd": 0.7047205568406532,
-      "progressMidpoint": 0.6887809406914349
+      "progressMidpoint": 0.6887809406914349,
+      "felt": {
+        "summary": null,
+        "direction": "summit approach",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 20,
@@ -626,7 +799,16 @@
       "protected": false,
       "progressStart": 0.7047205568406532,
       "progressEnd": 0.7421977791415548,
-      "progressMidpoint": 0.723459167991104
+      "progressMidpoint": 0.723459167991104,
+      "felt": {
+        "summary": null,
+        "direction": "main summit",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 21,
@@ -654,7 +836,16 @@
       "protected": false,
       "progressStart": 0.7421977791415548,
       "progressEnd": 0.7856695358437321,
-      "progressMidpoint": 0.7639336574926435
+      "progressMidpoint": 0.7639336574926435,
+      "felt": {
+        "summary": null,
+        "direction": "summit exit hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 22,
@@ -683,7 +874,16 @@
       "protected": true,
       "progressStart": 0.7856695358437321,
       "progressEnd": 0.8226913615215555,
-      "progressMidpoint": 0.8041804486826438
+      "progressMidpoint": 0.8041804486826438,
+      "felt": {
+        "summary": null,
+        "direction": "release continuation",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 23,
@@ -711,7 +911,16 @@
       "protected": true,
       "progressStart": 0.8226913615215555,
       "progressEnd": 0.8516323886554732,
-      "progressMidpoint": 0.8371618750885144
+      "progressMidpoint": 0.8371618750885144,
+      "felt": {
+        "summary": null,
+        "direction": "decompression bridge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 24,
@@ -739,7 +948,16 @@
       "protected": true,
       "progressStart": 0.8516323886554732,
       "progressEnd": 0.8944843611491395,
-      "progressMidpoint": 0.8730583749023063
+      "progressMidpoint": 0.8730583749023063,
+      "felt": {
+        "summary": null,
+        "direction": "focused decompression",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 25,
@@ -767,7 +985,16 @@
       "protected": true,
       "progressStart": 0.8944843611491395,
       "progressEnd": 0.9417698678709867,
-      "progressMidpoint": 0.9181271145100631
+      "progressMidpoint": 0.9181271145100631,
+      "felt": {
+        "summary": null,
+        "direction": "deep decompression",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     },
     {
       "position": 26,
@@ -795,7 +1022,16 @@
       "protected": true,
       "progressStart": 0.9417698678709867,
       "progressEnd": 1,
-      "progressMidpoint": 0.9708849339354934
+      "progressMidpoint": 0.9708849339354934,
+      "felt": {
+        "summary": null,
+        "direction": "closer",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
     }
   ],
   "transitions": [
@@ -1069,5 +1305,44 @@
       "bpm": 138
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "visualization": {
+    "schemaVersion": 1,
+    "defaultView": "felt",
+    "principle": "Direction and listener-state change first; no universal scalar energy axis.",
+    "layers": {
+      "feeling": [
+        "pressure",
+        "propulsion",
+        "openness",
+        "tension",
+        "temperature"
+      ],
+      "groove": [
+        "pulseClarity",
+        "swing",
+        "rhythmicStability",
+        "density",
+        "weightDistribution"
+      ],
+      "structure": [
+        "continuity",
+        "mutation",
+        "interruption",
+        "arrival",
+        "release"
+      ],
+      "tempo": [
+        "bpm",
+        "durationMs"
+      ]
+    },
+    "evidenceClasses": [
+      "LISTENER_REPORT",
+      "MEASURED_AUDIO",
+      "ATTRIBUTED_SOURCE_DESCRIPTION",
+      "EDITORIAL_INTERPRETATION",
+      "UNKNOWN"
+    ]
+  }
 }
