@@ -2,6 +2,16 @@
 
 Canonical: 21 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 98 — EXPLORE — soft-focus distance, tactile instability and vertigo
+
+Nine ranked leads from approximately 31 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three exact alternates and three metadata warnings. There were no duplicates, substitutions or terminal technical errors.
+
+**Decision:** 0 ADD. Auscultation — *Mend* is PARKED after serious tests at Drummz → candidate → Amor and Truth in Noise → candidate → Transparency: its techno identity is exact and the softer, subtly eerie context is useful, but the decision-critical softness is documented mainly at album/project level. Actress — *Marble Plexus* and *Tree of Knowledge* receive placement-specific REJECT verdicts at two central/late-middle positions each; both pass the selection lens but duplicate already legible movements from instability or grounding into further deformation. The three Cloud Canyons leads remain unresolved research without musical verdicts.
+
+STRANGE GAIT remains unchanged at 21 tracks. The listener-protected Transparency → When We Froze → Stardancer internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 173 to 176 tracks with the three exact selected candidates.
+
+Across Runs 87–98, the repaired funnel has produced 107 leads from approximately 501 inspections and 6 ADDs from 28 selected candidates. The recent ADD rate is 4/10 across Runs 89–98, versus 7/44 across Runs 55–98. The current no-ADD streak is two runs; the last canonical addition was Run 96. Three exact tracks have still been retained globally since that addition. This run's move away from the previous label ecosystem restored exact resolution; repeated tests around the same central and late-middle boundaries remain a watch, not an actionable REPAIR.
+
 ## Run 97 — EXPLORE — electro posture and identity-resolution audit
 
 Nine ranked leads from approximately 28 fresh inspections produced a matching schemaVersion 2 `NONE` snapshot: zero exact Spotify resolutions, nine unresolved identities, zero selected candidates, no warnings, duplicates, substitutions, alternates or terminal technical errors. Every resolver error is preserved in `discoveries.md`.
