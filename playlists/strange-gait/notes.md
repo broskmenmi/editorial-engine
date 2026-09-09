@@ -1,5 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 111 — EXPLORE — punctuation is not development
+
+Nine ranked leads from approximately 52 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. Lara Sarkissian — *A Ceremony (For Arax)* passes the selection lens but its tested `Cave → candidate → Abundance` placement returns the opening to muscular turbulence before swung continuation and the longer Worn Down threshold. P. Adrix — *Zelda Shyt* passes through an exact storm-to-click arc, but after *Stardancer* it creates another ending gesture before the existing afterword. P. Adrix — *Ovni* is only 1:55, yet between *Encasadelciegoeltuerco* and *Cave* it extends the same interruption rather than changing the recovery.
+
+STRANGE GAIT remains at 25 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 209 to 212 tracks with all three selected exact candidates. P. Adrix — *Sonhos* remains a resolved unevaluated alternate and is not added globally.
+
+Across Runs 87–111: 224 leads from approximately 1,115 inspections and 10 ADDs from 64 selected candidates. Recent ADD rate: 4/10 across Runs 102–111; overall repaired comparison: 11/70 across Runs 55–111. No-ADD streak: one run since Run 110.
+
+**Strongest counterargument:** *Ovni* could sharpen the existing opening derailment at very low proportional cost and make *Cave* feel more restorative. The five-track run still shows two consecutive interruption gestures before the same recovery; brevity reduces the cost but does not supply new development.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
+
 ## Run 110 — EXPLORE — conflict can prepare re-grounding
 
 Nine ranked leads from approximately 47 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates, no alternates, one release-date warning and no duplicates, substitutions or technical failures.

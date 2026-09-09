@@ -1,5 +1,90 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 111 — EXPLORE — punctuation is not development — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 25-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 209 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit or unfinished musical repair was actionable. Run 110 had just ended the prior four-run no-ADD streak, so no stagnation REPAIR was due.
+
+### Exploration receipt
+
+Run `2026-09-09T22:48:41Z-explore-111` inspected approximately 52 named tracks across The Quietus' August 2026 electronic survey, Buttechno & Triš's current `the spirit`, a current Olof Dreijer/MaMan/Pearson Sound remix window, Lara Sarkissian's overlooked `Disruption` EP, P. Adrix's compact `Álbum Desconhecido` and linked official releases. Recent Run 106–110 ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.3%).
+
+The immutable schemaVersion 2 request was pinned to `ae1f0f3b12026eb4bc96419d96d3d141e5c3c255` in request commit `32a42e7d66e5fab365ddb88d3486eee43a540719`. The matching snapshot commit is `34b068439fb7ffb49ef1669b9fb815b0f585fc55`; request fingerprint `c26dbd025b5739d51384af60228910cb4ea1e66d25bb63504c290fda9b09aba9`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Lara Sarkissian — A Ceremony (For Arax) — `spotify:track:6HE1Ts78acPofSOwcZMUhj` — 4:24
+2. P. Adrix — Zelda Shyt — `spotify:track:0P0yeo9tPdwiVuqikD16bz` — 2:43
+3. P. Adrix — Ovni — `spotify:track:3ZyFdR1p3h91EOVLMivHIk` — 1:55
+
+Resolved but unevaluated alternate:
+
+- P. Adrix — Sonhos — `spotify:track:1enb32atPOUWByZQnQVJDg` — 2:59
+
+Unresolved identities, each preserved without musical verdict and with exact error `no exact Spotify title/artist search match in market SE`:
+
+- buttechno, Triš — spirit dub
+- Olof Dreijer, MaMan, Pearson Sound — Echoed Dafnino - Pearson Sound Remix
+- Lara Sarkissian, Margenrot — Gnum Գնում (Going)
+- buttechno, Triš — the spirit
+- buttechno, Triš — carry the wind
+
+Warnings preserved exactly:
+
+- A Ceremony (for Arax): `Exact title/artist matched with release metadata variance: album requested "DISRUPTION EP" but Spotify returned "Disruption"; release date requested "2019" but Spotify returned "2018-12-17"`
+- Zelda Shyt: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-02-23"`
+- Ovni: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-02-23"`
+- Sonhos: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-02-23"`
+
+### Candidate evaluations
+
+#### Lara Sarkissian — A Ceremony (For Arax) — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork identifies a muscular, structured ambient-house/dabke piece moving through turbulent drums and whistles. That exact structural account fits the selection lens without relying on novelty.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Cave → candidate → Abundance`; the neighbours' 134 and 135 BPM values do not fill those gaps.
+- **Three-to-five-track run:** FAIL for the tested placement. `Encasadelciegoeltuerco → Cave → A Ceremony (For Arax) → Abundance → Worn Down` moves from derailment into widening, then returns to muscular turbulence before swung continuation and the longer threatened-coherence threshold. The candidate makes the early recovery provisional twice.
+- **Long-form journey:** FAIL for the tested placement. Its 4:24 stage adds another defined instability episode before Worn Down without establishing a consequence unavailable in the existing opening.
+- **Verdict:** placement-specific REJECT between Cave and Abundance only. This is not a global rejection.
+
+#### P. Adrix — Zelda Shyt — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents sinister synths darkening into chants, syncopated drums, cymbals and oscillating howl before the storm clears to quiet clicks. The compact storm-to-click arc squarely fits the selection lens.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes either handoff at `Stardancer → candidate → Invisible Warriors Of Light`; BPM, phrasing, perceived pulse and mixability remain unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `When We Froze → Stardancer → Zelda Shyt → Invisible Warriors Of Light` would give the protected block a new 2:43 rupture-and-clearance episode before the existing afterword. The track completes its own ending gesture rather than merely opening space for the afterword.
+- **Long-form journey:** FAIL for the tested placement. It turns a concise post-block afterword into a two-stage ending without evidence that Invisible Warriors Of Light gains a new necessity.
+- **Verdict:** placement-specific REJECT between Stardancer and Invisible Warriors Of Light only. This is not a global rejection.
+
+#### P. Adrix — Ovni — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes a tightly edited burst of chaotic flutes that fizzle over one another like a finale. Its brevity and unstable construction fit the volume's interest in rhythmic and structural freedom.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Encasadelciegoeltuerco → candidate → Cave`.
+- **Three-to-five-track run:** FAIL for the tested placement. `Marauder → The Witching Hour → Encasadelciegoeltuerco → Ovni → Cave` extends the current concise derailment with a second finale-like interruption before Cave can restore broader motion.
+- **Long-form journey:** FAIL for the tested placement. The 1:55 duration limits proportional cost, but it delays the same recovery without changing Abundance or Worn Down's later meaning.
+- **Verdict:** placement-specific REJECT between Encasadelciegoeltuerco and Cave only. This is not a global rejection.
+
+The five unresolved leads receive no musical verdict. Sonhos was not selected and was not evaluated.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 3 PLACEMENT-SPECIFIC REJECT.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. All three candidates pass the selection lens and remain genuinely interesting, but each tested placement repeats, extends or delays an already legible opening or closing consequence. The four warnings and five exact resolver errors are preserved.
+
+Auditor approves local retention of all three selected exact tracks, the five unresolved research leads, release/catalogue watches and the set direction **punctuation is not development**. All three selected exact tracks must enter the doctrine-free global utility ledger; the unresolved leads and unevaluated alternate must not.
+
+### Durable result
+
+- STRANGE GAIT remains at **25 canonical tracks** with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, five unresolved identities and current/overlooked source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **209 → 212 exact tracks** with A Ceremony (For Arax), Zelda Shyt and Ovni.
+- P. Adrix — Sonhos remains a resolved unevaluated alternate, not an editorial decision or utility addition.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 52 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 selected evaluations + 1 unevaluated alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **17.3%**, exact-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–111, the repaired funnel has produced **224 leads from approximately 1,115 inspections and 10 ADDs from 64 selected candidates**. The recent ADD rate is **4/10 across Runs 102–111**, versus **11/70 across Runs 55–111**. The no-ADD streak is one run; the latest canonical addition remains Run 110. The strongest counterargument is Ovni's 1:55 potential to sharpen Encasadelciegoeltuerco's derailment and make Cave feel newly restorative. Its low cost is real, but the five-track scale still shows two consecutive interruption gestures before the same recovery, not a new consequence. The run proves that compact, cross-world material can pass the selection lens while failing on local proportion. It does not prove any candidate globally incompatible, any handoff, BPM, phrase fit, perceived pulse, density, energy or live-mixing compatibility.
+
+
 ## Run 110 — EXPLORE — conflict can prepare re-grounding — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 206 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit or unfinished musical repair was actionable. The canonical table was authoritative; its stale prose count was corrected as part of the approved ledger update.

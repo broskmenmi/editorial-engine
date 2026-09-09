@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 111 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Lara Sarkissian | A Ceremony (For Arax) | https://open.spotify.com/track/6HE1Ts78acPofSOwcZMUhj | Placement-specific REJECT only for Cave → candidate → Abundance. The exact 4:24 muscular, structured turbulence remains genuinely interesting; album/date variance preserved. |
+| EXACT TRACK | P. Adrix | Zelda Shyt | https://open.spotify.com/track/0P0yeo9tPdwiVuqikD16bz | Placement-specific REJECT only for Stardancer → candidate → Invisible Warriors Of Light. The compact storm-to-click arc remains genuinely interesting; date variance preserved. |
+| EXACT TRACK | P. Adrix | Ovni | https://open.spotify.com/track/3ZyFdR1p3h91EOVLMivHIk | Placement-specific REJECT only for Encasadelciegoeltuerco → candidate → Cave. The 1:55 chaotic-flute burst remains genuinely interesting; date variance preserved. |
+| RESEARCH LEADS | buttechno, Triš | spirit dub; the spirit; carry the wind | https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEADS | Olof Dreijer, MaMan, Pearson Sound; Lara Sarkissian, Margenrot | Echoed Dafnino - Pearson Sound Remix; Gnum Գնում (Going) | https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE / CATALOGUE WATCH | buttechno & Triš; Lara Sarkissian; P. Adrix | the spirit; Disruption; Álbum Desconhecido | https://buttechno.bandcamp.com/album/the-spirit | Current hybrid breaks/trip-hop and overlooked ambient-house/dabke and batida source windows; no unselected track behavior is asserted. |
+
+### Placement and inspiration boundaries
+
+- All three exact tracks are rejected only for the tested placements, not globally.
+- P. Adrix — Sonhos resolved as an unevaluated alternate and is not retained as an editorial decision or utility addition.
+- Unresolved leads do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No BPM, energy, density, phrase fit, perceived pulse or mixability is inferred.
+
+
 ## Run 110 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

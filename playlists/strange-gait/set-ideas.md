@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 111
+
+### Punctuation is not development
+
+**Direction:** Explore compact ruptures that sharpen a boundary while keeping separate whether they change what the following music means or merely postpone it.
+
+**Ingredients:**
+
+- Lara Sarkissian — *A Ceremony (For Arax)* — exact placement-specific reject; muscular structured turbulence remains interesting outside the tested early recovery.
+- P. Adrix — *Zelda Shyt* — exact placement-specific reject; a short storm-to-click arc remains interesting outside the tested post-block ending.
+- P. Adrix — *Ovni* — exact placement-specific reject; a 1:55 chaotic-flute burst remains interesting outside the tested opening derailment.
+- buttechno & Triš — *spirit dub*, *the spirit*, *carry the wind*; Olof Dreijer, MaMan & Pearson Sound — *Echoed Dafnino - Pearson Sound Remix*; Lara Sarkissian & Margenrot — *Gnum Գնում (Going)* — unresolved exact-identity research.
+- `Marauder → The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** A short interruption can make a seam vivid, but long-form development appears only when the music after that seam becomes newly necessary rather than simply delayed.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The three rejects are placement-specific; unresolved identities have no verdict.
+
+
 ## Current additions — Run 110
 
 ### Conflict can prepare re-grounding
