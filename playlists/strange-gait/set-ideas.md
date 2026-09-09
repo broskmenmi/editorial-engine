@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 89
+
+### Subtle swing before a clearer lift
+
+**Direction:** Explore how a comparatively understated swung or funked-up continuation can make a later widening feel deliberate without requiring another major rhythmic mechanism.
+
+**Ingredients:**
+
+- Rene Wise — Cave — canonical provisional widening point
+- Decoder — Abundance — exact Run 89 canonical ADD; exact review documents swung, funked-up beats; Beatport 135 BPM
+- Sciahri — Too Much Time — canonical provisional physical widening
+- Mor Elian — Basma — exact PARKED lean bassline/hi-hat contrast, not a proven neighbour
+- Stephen Brown — Mini Mood — unresolved second-kick swing-emergence research lead
+
+**Why interesting:** The repaired funnel should value quiet structural usefulness as well as conspicuous deformation; a small change in rhythmic articulation may carry a larger move.
+
+**Unknown / risk:** No pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge has been established. Abundance is provisional; Basma and Mini Mood are not asserted to mix with the canonical ingredients.
+
 ## Current additions — Run 88
 
 ### Internal transformation before consolidation

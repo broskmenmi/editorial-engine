@@ -2,6 +2,76 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 89 — EXPLORE — subtle-continuation and boundary audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. Run 88 left STRANGE GAIT at 17 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 154 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. Three consecutive ADDs created cumulative-length scrutiny but did not establish an actionable defect, so Run 89 performed a fresh scan rather than a REPAIR.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T00:52:54Z-explore-89`
+- **sourceCommit:** `80e1dbbb9c590d4be495b8e15a3466039794b25c`
+- **request commit:** `aa57fcefd5207152904b63ae888ce85abc3c301e`
+- **snapshot commit:** `90c5f15e6268f1acefbfeb78774a427ff8eb67eb`
+- **request fingerprint:** `4edbc359e78fc60b5dbd2ff87bb29bee3f0ff89ca71274bfc4f73d831cf1dad0`
+- **scope:** approximately 41 named tracks and releases across current 2026 review windows, adjacent bass/house/electro material and overlooked 2009–2016 catalogue sources; metadata and attributed descriptions only; no audio audition.
+- **freshness:** canonical identities, active placement-specific rejects, untriggered PARKED revisits, previously retained exact identities and unresolved leads lacking materially new identity evidence were excluded.
+- **resolver:** valid schemaVersion 2 PARTIAL; 9 requested → 5 exact resolutions (3 selected candidates + 2 resolved alternates) + 4 unresolved; 5 warnings; no duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved
+
+1. **Decoder — Abundance** — RESOLVED and selected: `spotify:track:33HI2gasxwfGyvWrd9yG5c`; Spotify `Prakasa`, `2026-02-20`, 6:16. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-20"`. Beatport verifies 135 BPM for the exact title, artist, label, date and duration.
+2. **Ploy — Admirer** — RESOLVED and selected: `spotify:track:4UbMd1slGghRj5aeWJxSj5`; Spotify `It's Later Than You Think`, `2025-04-04`, 5:51. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-04-04"`. Beatport reports 133 BPM.
+3. **Mor Elian — Basma** — RESOLVED and selected: `spotify:track:7vs4teXlerVsnwEqjXPXkA`; Spotify `Drum Vortex`, `2016-08-07`, 6:00. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2016-07" but Spotify returned "2016-08-07"`.
+4. **Acre — Jouska** — RESOLVED alternate, not selected or evaluated: `spotify:track:6xFK0dPxBk9B7vvafBxTgH`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-11-06"`.
+5. **2562 — Like a Dream** — RESOLVED alternate, not selected or evaluated: `spotify:track:0wyJj3pn0OXcTpRITAMRdX`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2009" but Spotify returned "2009-10-12"`.
+6. **Picture — Wooooooo** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+7. **Batu, Donato Dozzy — Flickers** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+8. **Stephen Brown — Mini Mood** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **DJ Sotofett Meets Abu Sayah — Houran (Percussion Mix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Decoder — Abundance — ADD
+
+- **Volume fit:** PASS. Resident Advisor describes the exact track through swung, funked-up beats within a restrained contemporary techno album.
+- **Immediate transition:** PASS provisionally at `Cave → Abundance → Too Much Time`. Beatport verifies 135 BPM, so the measured path is `134 → 135 → 140`; numerical proximity supports context only. The purpose is a subtler swung continuation between Cave's provisional widening and Too Much Time's provisional physical widening.
+- **Surrounding three-to-five-track run:** PASS provisionally for `The Witching Hour → Cave → Abundance → Too Much Time → Moonwake`. Editorially, the insertion supplies a controlled swing/funk articulation before the Sciahri pair's provisional widening/intensification.
+- **Long form:** PASS provisionally. The addition expands the earlier journey rather than further segmenting the already lengthened central and late-middle passages, and admits a subtler continuation rather than only obvious deformation.
+- **Risk:** At 6:16 this is the fourth consecutive-run addition and may overextend the opening half. Phrase structure, perceived pulse, energy, density, mixability and both handoffs remain UNKNOWN.
+
+#### Ploy — Admirer — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS at the adjacent edge. Resident Advisor documents hardgroove-meets-house built from swung chromatic drums with bodily funk. Beatport verifies 133 BPM.
+- **Immediate transition:** Both tested moves are plausible, not technically disproven. The `140 → 133 → 140` Sciahri reset is conspicuous; post-`Stardancer 137 → 133` is numerically modest. Neither BPM path proves flow.
+- **Surrounding three-to-five-track run:** FAIL for these placements. The internal test splits the Sciahri pair without evidenced gain. The tail test adds a 5:51 adjacent-world stage after the listener-confirmed trio without a distinct afterword function.
+- **Long form:** FAIL for these placements only. Current journey growth makes another body-led stage insufficient unless it changes the whole-form argument more clearly.
+- **Verdict:** REJECT the two Run 89 placements only; retain the exact track as genuinely interesting.
+
+#### Mor Elian — Basma — REVISIT / PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes a lean, faster construction with an aerobic bassline, arranged hi-hats and chord effects.
+- **Immediate transition:** Both `Cave → Basma → Too Much Time` and post-`Stardancer` remain plausible. Exact BPM, phrase structure, perceived pulse and handoffs are UNKNOWN; UNKNOWN is not treated as failure.
+- **Surrounding three-to-five-track run:** The early test competes with Abundance's now-approved continuation function but has less complete measured evidence. The afterword test was also considered; the exact description does not establish a boundary arc that warrants reopening the journey.
+- **Long form:** No current net gain over the approved Abundance placement is supported.
+- **Verdict:** PARKED for a changed early/boundary need or materially new exact tempo/structural evidence.
+
+The four unresolved leads receive no musical verdict. The two exact alternates were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot has the correct runId, sourceCommit, mode, target and fingerprint. Accounting reconciles: 9 requested = 5 exact resolutions + 4 unresolved; 5 exact resolutions = 3 selected candidates + 2 alternates. All five warnings and all four exact errors are preserved. No stale lead, substitute, duplicate, alternate or technical failure entered evaluation. The three selected identities were assessed separately at volume, immediate-transition, local-run and long-form scales. UNKNOWN did not function as a veto. Abundance has a concrete subtler-continuation purpose; Admirer has two specific placement failures; Basma has a specific comparative and boundary reason to PARK. The four-run ADD streak was audited as an over-expansion watch, not used as either a quota or moratorium. Protected and frozen state remains intact. Auditor approves one canonical ADD, one placement-specific REJECT, one PARKED revisit, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **17 → 18 canonical tracks**; add Decoder — Abundance between Cave and Too Much Time.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; four unresolved leads retained for research; two resolved alternates remain unevaluated and are not retained as decisions.
+- EDITORIAL ENGINE — DISCOVERY POOL: **154 → 157 exact tracks**, adding Abundance, Admirer and Basma.
+- Journey annotations: add Abundance as provisional Track 4 / swung-funk continuation and renumber downstream positional labels.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 41 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unevaluated alternates → **1 ADD + 1 placement-specific REJECT + 1 PARKED** → 3 utility additions. Lead conversion is **9/41 (22.0%)**; exact-resolution conversion is **5/9 (55.6%)**; selected-candidate-to-ADD conversion is **1/3 (33.3%)**. Across Runs 87–89 the repaired funnel has admitted 26 leads from 127 inspections (20.5%) and added 3 of 9 selected candidates (33.3%). The consecutive no-ADD count remains 0; the recent ADD rate is **4/10 across Runs 80–89**, while the longer Runs 55–89 rate is **4/35**. Three exact genuinely interesting tracks were retained since the previous ADD. The strongest counterargument is that Abundance's modest exact-track description and 6:16 duration do not prove that the opening half benefits from another stage; four consecutive additions may indicate an overcorrection after the repair. That is now an explicit next-run audit watch. This run proves the repaired funnel can admit a subtler candidate and reject or park others for specific journey reasons. It does not prove Abundance's phrase fit, perceived pulse, energy, density or live handoffs; does not globally reject Admirer; does not disqualify Basma for another structure; and does not establish an ADD quota.
+
 ## Run 88 — EXPLORE — repaired-funnel continuation — 2026-09-09
 
 **Pre-audit:** EXPLORE. Run 87 left STRANGE GAIT at 16 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 151 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. The Run 87 workflow repair showed no new actionable defect, so this run performed a genuinely fresh scan.

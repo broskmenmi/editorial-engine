@@ -4,6 +4,25 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 89 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Decoder | Abundance | https://open.spotify.com/track/33HI2gasxwfGyvWrd9yG5c | Canonical ADD Run 89 between Cave and Too Much Time; exact review documents swung, funked-up beats and Beatport verifies 135 BPM. |
+| EXACT TRACK | Ploy | Admirer | https://open.spotify.com/track/4UbMd1slGghRj5aeWJxSj5 | Run 89 placement-specific REJECT for splitting the Sciahri pair and for a post-Stardancer afterword only; exact swung bodily-funk discovery retained; Beatport 133 BPM. |
+| EXACT TRACK | Mor Elian | Basma | https://open.spotify.com/track/7vs4teXlerVsnwEqjXPXkA | PARKED Run 89. Exact lean bassline/hi-hat construction retained; early and tail functions remain unproven and BPM unknown. |
+| RESEARCH LEAD | Picture | Wooooooo | https://ra.co/reviews/36364 | Resolver error `no exact Spotify title/artist search match in market SE`; current wind-to-hardgroove development remains useful research without a musical verdict. |
+| RESEARCH LEAD | Batu, Donato Dozzy | Flickers | https://ra.co/reviews/36359 | Same exact resolver error; bouncy-kick-to-rubbery-gong evidence retained without a Spotify identity or verdict. |
+| RESEARCH LEAD | Stephen Brown | Mini Mood | https://ra.co/reviews/9978 | Same exact resolver error; second-kick swing emergence remains overlooked-catalogue research. |
+| RESEARCH LEAD | DJ Sotofett Meets Abu Sayah | Houran (Percussion Mix) | https://ra.co/reviews/18430 | Same exact resolver error; broken-house polyrhythm remains an adjacent-world research lead. |
+
+### Placement and inspiration boundaries
+
+- Abundance's canonical placement is provisional; exact phrase fit, perceived pulse, energy, density and both handoffs were not tested.
+- Admirer is not globally rejected. Basma remains PARKED for a changed structural need or materially new evidence.
+- The four unresolved leads do not enter the global utility ledger.
+- Jouska and Like a Dream resolved as alternates but were not selected or evaluated and are not retained here as decisions.
+
 ## Run 88 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

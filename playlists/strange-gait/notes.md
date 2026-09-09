@@ -1,6 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 17 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 18 tracks — Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 89 — EXPLORE — subtle-continuation and boundary audit
+
+Nine ranked leads from approximately 41 inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved leads, three selected candidates and two unevaluated alternates. All five release-date warnings and all four exact resolver errors are preserved in `discoveries.md`.
+
+**Decision:** ADD Decoder — Abundance (`spotify:track:33HI2gasxwfGyvWrd9yG5c`, 135 BPM from Beatport) between Cave and Too Much Time. Resident Advisor's exact-track description establishes swung, funked-up beats inside restrained contemporary techno. The measured `134 → 135 → 140` path is context, not proof. Editorially, Abundance adds a subtler continuation between Cave's provisional widening and Too Much Time's provisional physical widening, rather than another highly articulated central mechanism.
+
+Ploy — Admirer (`spotify:track:4UbMd1slGghRj5aeWJxSj5`, 133 BPM from Beatport) is a **placement-specific REJECT** for splitting Too Much Time→Moonwake and for a post-Stardancer afterword. Its swung chromatic drums and bodily funk make it a strong exact discovery, but neither placement has a distinct local-run or long-form purpose: the first breaks the Sciahri pair without documented gain, and the second reopens the listener-confirmed close with another 5:51 stage whose boundary function is unsupported.
+
+Mor Elian — Basma (`spotify:track:7vs4teXlerVsnwEqjXPXkA`) is PARKED. Its lean bassline/hi-hat construction passes the lens, but the early placement duplicates Abundance's now-occupied continuation function with less complete measured evidence, while the tail test extends the journey without an evidenced afterword arc. Reopen for a changed boundary need or materially new exact tempo/structural evidence.
+
+Lead conversion is 9/41 (22.0%), exact resolution is 5/9 (55.6%), and candidate-to-ADD conversion is 1/3 (33.3%). Across Runs 87–89 the repaired funnel has admitted 26 leads from 127 inspections and added 3 of 9 selected candidates. Four consecutive ADDs are now a genuine over-expansion watch, but not yet an Auditor-confirmed defect: each addition has a distinct position and stated journey function, and the two non-ADD outcomes here have candidate-specific reasons rather than renewed epistemic veto.
 
 ## Run 88 — EXPLORE — repaired-funnel continuation
 
