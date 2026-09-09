@@ -2,6 +2,78 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 99 — EXPLORE — rhythmic materialisation, spatial action and dub-swing audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 176 exact tracks, both with matching COMPLETE receipts. The felt map matched the 21-track ledger; no current REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 98 produced specific editorial outcomes rather than an actionable defect, so this scan moved into current Short Span releases and an overlooked 2025 EP.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T10:51:08Z-explore-99`
+- **sourceCommit:** `8ac0f1e48a5952fd7326fc11e37e4063bd609540`
+- **request commit:** `9bdbac305f94676cd039c491ca2ad393f0985f58`
+- **snapshot commit:** `f7205e89dca32b26421b34002f5f155da10ce99a`
+- **request fingerprint:** `bfec6b42c180905f17fd66ed8c61d1cf97e33e01fb46d28f8c44375c4a26e3c9`
+- **scope:** approximately 24 named tracks across Eden Aurelius's current `Entre Nous`, Picture's current `Uuuuuuuu`, K Wata's current `Give U Space` and Conna Haraway's overlooked `Shifted`; official release pages and attributed exact-track criticism only; no audio audition.
+- **freshness:** the selected artists/titles were absent from durable STRANGE GAIT evaluated/retained history at the immediate pre-request commit. Run 97's identity-loss cluster and Run 98's sources were not retried. Picture's previously unresolved `Peeeeeee` and `Wooooooo` were excluded.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 6 exact resolutions + 3 unresolved; 3 selected candidates + 3 unevaluated exact alternates; no warnings, duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Eden Aurelius — Ion | RESOLVED — `spotify:track:6ktWd9pOARwUR44p3qTUM5`; Spotify artists Eden Aurelius, Pontiac Streator; `Entre Nous`; release `2026-08-03`; 3:40; BPM unavailable | SELECTED |
+| 2 | Picture — Quuuuuu | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 3 | Conna Haraway — Duration | RESOLVED — `spotify:track:0WtZ20ZdbX9UruMMJGuHJj`; `Shifted`; release `2025-09-12`; 8:02; BPM unavailable | SELECTED |
+| 4 | K Wata — Whisper Dub | RESOLVED — `spotify:track:6E2TNzGKaI8oBAJPYBJsK9`; `Give U Space`; release `2026-05-15`; 5:20; BPM unavailable | SELECTED |
+| 5 | Eden Aurelius — Acquiescence | RESOLVED — `spotify:track:0sGBTHxkr9H8VZRR9WRP1X`; 6:34; BPM unavailable | UNEVALUATED ALTERNATE |
+| 6 | Picture — Miiiiiii | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 7 | Conna Haraway — Detach | RESOLVED — `spotify:track:5ut91xDjFv6FIpaImAvd7W`; 7:47; BPM unavailable | UNEVALUATED ALTERNATE |
+| 8 | K Wata — Radio Embrace | RESOLVED — `spotify:track:5NNTeS5BbOIFQdr95NCJao`; 5:13; BPM unavailable | UNEVALUATED ALTERNATE |
+| 9 | Conna Haraway, XENIA REAPER — Redirect | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+
+### Candidate evaluations
+
+#### Eden Aurelius, Pontiac Streator — Ion — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork's exact-track account establishes a loping brushed-jazz-like rhythmic sketch whose four-on-the-floor kick materialises and reorganises the parts into rolling techno. Rhythmic identity changing inside the track directly clears the selection lens without novelty serving as the verdict.
+- **Immediate transition quality:** UNKNOWN. Neither `Trompe L'oeil → Ion → Thick to Handle` nor `Truth in Noise → Ion → Transparency` has phrase, pulse, density, entry, exit or live-mix evidence. No BPM was available.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `Capa → Trompe L'oeil → Ion → Thick to Handle → Tehutis Law` would move from redirection to slower stagger, stage a complete loping-to-4/4 arrival, immediately deform that arrival again and then re-ground it. The result explains bodily reorientation too many times in one local run. `Drummz → Amor → Truth in Noise → Ion → Transparency` inserts another complete internal transformation after the late journey has already consolidated.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The 3:40 duration limits the structural cost, but neither position reveals a missing destination. Central placement over-articulates the established reset; late placement creates another approach to the protected closing movement.
+- **Verdict:** **REJECT the two Run 99 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist as genuinely interesting.
+
+#### Conna Haraway — Duration — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. The Guardian's exact-track description establishes trippy phasing held in orbit by a nimble syncopated beat, with the EP noted for subtle swing and tactile sound design.
+- **Immediate transition quality:** UNKNOWN. `Stardancer → Duration → Invisible Warriors Of Light` and `Truth in Noise → Duration → Transparency` lack phrase, pulse, density, entry, exit and live-mix evidence. BPM was unavailable.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. After `When We Froze → Stardancer`, an 8:02 dub-techno stage would make the current concise electro-soul afterword the end of a new coda sequence rather than a direct change of stance. In `Amor → Truth in Noise → Duration → Transparency → When We Froze`, the same duration supplies another full suspended-swing stage between consolidation and the protected block.
+- **Long-form journey:** FAILS THESE PLACEMENTS. Syncopation and phasing change rhythmic posture, but the available evidence does not show why the playlist needs twelve additional coda minutes or another prolonged threshold before its close.
+- **Verdict:** **REJECT the two Run 99 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist as genuinely interesting.
+
+#### K Wata — Whisper Dub — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork identifies the exact track as a fusion of dub techno and spare, syncopated post-dubstep logic. That belongs without requiring a new genre or groove quota.
+- **Immediate transition quality:** UNKNOWN. Neither `Capa → Whisper Dub → Trompe L'oeil` nor `Stardancer → Whisper Dub → Invisible Warriors Of Light` has phrase, pulse, density, entry, exit or live-mix evidence. BPM was unavailable.
+- **Surrounding three-to-five-track run:** FAILS THESE PLACEMENTS. `Moonwake → Capa → Whisper Dub → Trompe L'oeil → Thick to Handle` would add an explicit syncopated bridge to a central redirection already made legible by Capa and the slower staggered pocket. The tail option turns one concise afterword into a two-stage mediated descent without evidence that mediation is needed.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The candidate could make either production-world change smoother, but smoothness alone is not purpose. At 21 tracks, both insertions extend an already articulated boundary rather than change what the following music means.
+- **Verdict:** **REJECT the two Run 99 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist as genuinely interesting.
+
+The unresolved Picture titles and `Redirect` receive no musical verdict. `Acquiescence`, `Detach` and `Radio Embrace` are exact resolved alternates but were not selected, evaluated or retained as editorial decisions.
+
+### Auditor approval
+
+**APPROVED.** The request is immutable and pinned to the live pre-request SHA. The matching schemaVersion 2 PARTIAL snapshot has the same runId, sourceCommit, mode, target and valid request fingerprint; all nine outcomes are preserved exactly. Only the three selected exact candidates were evaluated, each separately at volume, immediate-transition, surrounding-run and long-form scales. Unknown BPM, phrasing, pulse, density, felt state and mixability did not become musical zeros or automatic vetoes. The verdicts rest on specific local and long-form redundancy at the tested placements. The protected `Transparency → When We Froze → Stardancer` order is untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **21 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three exact placement-specific rejects retained; three unresolved research leads retained without verdict; three exact alternates preserved as unevaluated and not retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **176 → 179 exact tracks**, adding Ion, Duration and Whisper Dub.
+- Journey map: unchanged because the canonical ledger did not change.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 24 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Lead conversion was 37.5%, exact-resolution conversion 66.7%, and selected-candidate-to-ADD conversion 0/3. Across Runs 87–99, the repaired funnel has produced 116 leads from approximately 525 inspections and 6 ADDs from 31 selected candidates. The recent ADD rate is 3/10 across Runs 90–99, versus 7/45 across Runs 55–99. The current no-ADD streak is three runs; the last canonical addition was Run 96. The strongest counterargument is that Ion's concise materialisation of 4/4 could give the central reset a sharper moment of arrival. That possibility is real, but the resulting five-track run would then make and unmake bodily certainty in four consecutive stages. This is placement-specific restraint, not a rejection of rhythmic transformation or another technical non-result.
+
 ## Run 98 — EXPLORE — soft-focus distance, tactile instability and hypnosis audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 173 exact tracks, both with matching COMPLETE receipts. The felt map matched the 21-track ledger; no REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 97's zero-resolution concentration was a source-selection signal, so this scan moved away from Kalahari Oyster Cult rather than opening a musical REPAIR.
