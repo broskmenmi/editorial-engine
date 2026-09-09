@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T14:12:06.377Z",
+  "generatedAt": "2026-09-09T15:05:11.387Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
-    "ledgerFingerprint": "5c85e0777d5a016870fea70f4fc62b80eab0d7c051446216f306329a6c0c5876",
-    "annotationsFingerprint": "71f10ff9e2257488b76e97c640295fadc89f8c83225723743034ae53c10de8ca"
+    "ledgerFingerprint": "ca9d89f9040c92e2297c0f2f160688b373255f7a208d65c43b367c389692bdc7",
+    "annotationsFingerprint": "f16bdf006ff0ba89e02ee31c5ed5f1b452def5f2ee052512ecee1183ceaf4436"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -18,13 +18,13 @@
     "detailedSiteUrl": "https://broskmenmi.github.io/editorial-engine/"
   },
   "totals": {
-    "trackCount": 22,
-    "durationMs": 7920000,
-    "durationLabel": "2h 12m",
+    "trackCount": 23,
+    "durationMs": 8280000,
+    "durationLabel": "2h 18m",
     "bpmMin": 130,
     "bpmMax": 143,
     "bpmKnownCount": 17,
-    "bpmUnknownCount": 5,
+    "bpmUnknownCount": 6,
     "latestAddedDate": "2026-09-09"
   },
   "chapters": [
@@ -33,27 +33,27 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 8,
+      "endPosition": 9,
       "startMs": 0,
-      "endMs": 2880000
+      "endMs": 3240000
     },
     {
       "id": "tilt",
       "label": "Tilt",
       "order": 2,
-      "startPosition": 9,
-      "endPosition": 21,
-      "startMs": 2880000,
-      "endMs": 7560000
+      "startPosition": 10,
+      "endPosition": 22,
+      "startMs": 3240000,
+      "endMs": 7920000
     },
     {
       "id": "escape",
       "label": "Escape",
       "order": 6,
-      "startPosition": 22,
-      "endPosition": 22,
-      "startMs": 7560000,
-      "endMs": 7920000
+      "startPosition": 23,
+      "endPosition": 23,
+      "startMs": 7920000,
+      "endMs": 8280000
     }
   ],
   "tracks": [
@@ -83,8 +83,8 @@
       "spotifyUrl": "https://open.spotify.com/track/54XRZaNSCrGuNTrFHmXVKP",
       "protected": false,
       "progressStart": 0,
-      "progressEnd": 0.045454545454545456,
-      "progressMidpoint": 0.022727272727272728,
+      "progressEnd": 0.043478260869565216,
+      "progressMidpoint": 0.021739130434782608,
       "felt": {
         "summary": null,
         "direction": "transformation led overture",
@@ -116,9 +116,9 @@
       "midpointMs": 540000,
       "spotifyUrl": "https://open.spotify.com/track/4YhLd9gtkp0vLWu4RNJ716",
       "protected": false,
-      "progressStart": 0.045454545454545456,
-      "progressEnd": 0.09090909090909091,
-      "progressMidpoint": 0.06818181818181818,
+      "progressStart": 0.043478260869565216,
+      "progressEnd": 0.08695652173913043,
+      "progressMidpoint": 0.06521739130434782,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional opening anchor",
@@ -152,9 +152,9 @@
       "midpointMs": 900000,
       "spotifyUrl": "https://open.spotify.com/track/6zBPgkGHHiZfxg5eSjSCRd",
       "protected": false,
-      "progressStart": 0.09090909090909091,
-      "progressEnd": 0.13636363636363635,
-      "progressMidpoint": 0.11363636363636363,
+      "progressStart": 0.08695652173913043,
+      "progressEnd": 0.13043478260869565,
+      "progressMidpoint": 0.10869565217391304,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional controlled continuation",
@@ -167,6 +167,43 @@
     },
     {
       "position": 4,
+      "artist": "Debit",
+      "track": "Encasadelciegoeltuerco",
+      "uri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+      "bpm": null,
+      "role": "Ground — provisional triplet-derailment hinge",
+      "added": "2026-09-09",
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "ground",
+      "storyLevel": 1.2,
+      "status": "provisional",
+      "labels": [
+        "triplet-derailment-hinge",
+        "explore-run-103-add"
+      ],
+      "durationMs": 360000,
+      "durationSource": "fallback-six-minutes",
+      "startMs": 1080000,
+      "endMs": 1440000,
+      "midpointMs": 1260000,
+      "spotifyUrl": "https://open.spotify.com/track/2uMjhKjJVQrECuucVOKNGB",
+      "protected": false,
+      "progressStart": 0.13043478260869565,
+      "progressEnd": 0.17391304347826086,
+      "progressMidpoint": 0.15217391304347827,
+      "felt": {
+        "summary": null,
+        "direction": "triplet derailment hinge",
+        "dimensions": {},
+        "evidence": {
+          "class": "EDITORIAL_INTERPRETATION",
+          "note": "Fallback direction phrase derived from an existing editorial label/role; not audio analysis."
+        }
+      }
+    },
+    {
+      "position": 5,
       "artist": "Rene Wise",
       "track": "Cave",
       "uri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
@@ -183,14 +220,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 1080000,
-      "endMs": 1440000,
-      "midpointMs": 1260000,
+      "startMs": 1440000,
+      "endMs": 1800000,
+      "midpointMs": 1620000,
       "spotifyUrl": "https://open.spotify.com/track/2Z0j3jb573fveL4Pf3NkP1",
       "protected": false,
-      "progressStart": 0.13636363636363635,
-      "progressEnd": 0.18181818181818182,
-      "progressMidpoint": 0.1590909090909091,
+      "progressStart": 0.17391304347826086,
+      "progressEnd": 0.21739130434782608,
+      "progressMidpoint": 0.1956521739130435,
       "felt": {
         "summary": null,
         "direction": "Ground — provisional widening move",
@@ -202,7 +239,7 @@
       }
     },
     {
-      "position": 5,
+      "position": 6,
       "artist": "Decoder",
       "track": "Abundance",
       "uri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
@@ -221,14 +258,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 1440000,
-      "endMs": 1800000,
-      "midpointMs": 1620000,
+      "startMs": 1800000,
+      "endMs": 2160000,
+      "midpointMs": 1980000,
       "spotifyUrl": "https://open.spotify.com/track/33HI2gasxwfGyvWrd9yG5c",
       "protected": false,
-      "progressStart": 0.18181818181818182,
-      "progressEnd": 0.22727272727272727,
-      "progressMidpoint": 0.20454545454545456,
+      "progressStart": 0.21739130434782608,
+      "progressEnd": 0.2608695652173913,
+      "progressMidpoint": 0.2391304347826087,
       "felt": {
         "summary": null,
         "direction": "swung funk continuation",
@@ -240,7 +277,7 @@
       }
     },
     {
-      "position": 6,
+      "position": 7,
       "artist": "T++",
       "track": "Worn Down",
       "uri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
@@ -259,14 +296,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 1800000,
-      "endMs": 2160000,
-      "midpointMs": 1980000,
+      "startMs": 2160000,
+      "endMs": 2520000,
+      "midpointMs": 2340000,
       "spotifyUrl": "https://open.spotify.com/track/01HP3HuPytbIpSdOCqpx2y",
       "protected": false,
-      "progressStart": 0.22727272727272727,
-      "progressEnd": 0.2727272727272727,
-      "progressMidpoint": 0.25,
+      "progressStart": 0.2608695652173913,
+      "progressEnd": 0.30434782608695654,
+      "progressMidpoint": 0.2826086956521739,
       "felt": {
         "summary": null,
         "direction": "rumble to weight threshold",
@@ -278,7 +315,7 @@
       }
     },
     {
-      "position": 7,
+      "position": 8,
       "artist": "Sciahri",
       "track": "Too Much Time",
       "uri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
@@ -296,14 +333,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 2160000,
-      "endMs": 2520000,
-      "midpointMs": 2340000,
+      "startMs": 2520000,
+      "endMs": 2880000,
+      "midpointMs": 2700000,
       "spotifyUrl": "https://open.spotify.com/track/7db90RzgCxJSu9XzKJhxKO",
       "protected": false,
-      "progressStart": 0.2727272727272727,
-      "progressEnd": 0.3181818181818182,
-      "progressMidpoint": 0.29545454545454547,
+      "progressStart": 0.30434782608695654,
+      "progressEnd": 0.34782608695652173,
+      "progressMidpoint": 0.32608695652173914,
       "felt": {
         "summary": null,
         "direction": "physical widening",
@@ -315,7 +352,7 @@
       }
     },
     {
-      "position": 8,
+      "position": 9,
       "artist": "Sciahri",
       "track": "Moonwake",
       "uri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
@@ -333,14 +370,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 2520000,
-      "endMs": 2880000,
-      "midpointMs": 2700000,
+      "startMs": 2880000,
+      "endMs": 3240000,
+      "midpointMs": 3060000,
       "spotifyUrl": "https://open.spotify.com/track/3Hyop0Bj9V3eCSFT6Hbe6j",
       "protected": false,
-      "progressStart": 0.3181818181818182,
-      "progressEnd": 0.36363636363636365,
-      "progressMidpoint": 0.3409090909090909,
+      "progressStart": 0.34782608695652173,
+      "progressEnd": 0.391304347826087,
+      "progressMidpoint": 0.3695652173913043,
       "felt": {
         "summary": null,
         "direction": "intensification",
@@ -352,7 +389,7 @@
       }
     },
     {
-      "position": 9,
+      "position": 10,
       "artist": "Nørbak",
       "track": "Capa",
       "uri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
@@ -370,14 +407,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 2880000,
-      "endMs": 3240000,
-      "midpointMs": 3060000,
+      "startMs": 3240000,
+      "endMs": 3600000,
+      "midpointMs": 3420000,
       "spotifyUrl": "https://open.spotify.com/track/5np6Qsak6d5kIdkktjblRB",
       "protected": false,
-      "progressStart": 0.36363636363636365,
-      "progressEnd": 0.4090909090909091,
-      "progressMidpoint": 0.38636363636363635,
+      "progressStart": 0.391304347826087,
+      "progressEnd": 0.43478260869565216,
+      "progressMidpoint": 0.41304347826086957,
       "felt": {
         "summary": null,
         "direction": "rhythmic redirection",
@@ -389,7 +426,7 @@
       }
     },
     {
-      "position": 10,
+      "position": 11,
       "artist": "Wheelman",
       "track": "Trompe L'oeil",
       "uri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
@@ -408,14 +445,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3240000,
-      "endMs": 3600000,
-      "midpointMs": 3420000,
+      "startMs": 3600000,
+      "endMs": 3960000,
+      "midpointMs": 3780000,
       "spotifyUrl": "https://open.spotify.com/track/4xJgdoF9E3vyBKsYvEXTba",
       "protected": false,
-      "progressStart": 0.4090909090909091,
-      "progressEnd": 0.45454545454545453,
-      "progressMidpoint": 0.4318181818181818,
+      "progressStart": 0.43478260869565216,
+      "progressEnd": 0.4782608695652174,
+      "progressMidpoint": 0.45652173913043476,
       "felt": {
         "summary": null,
         "direction": "dubwise staggered swing reset",
@@ -427,7 +464,7 @@
       }
     },
     {
-      "position": 11,
+      "position": 12,
       "artist": "brenner",
       "track": "Thick to Handle",
       "uri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
@@ -446,14 +483,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3600000,
-      "endMs": 3960000,
-      "midpointMs": 3780000,
+      "startMs": 3960000,
+      "endMs": 4320000,
+      "midpointMs": 4140000,
       "spotifyUrl": "https://open.spotify.com/track/7CUodG7GLLbzOtO6qXGJxT",
       "protected": false,
-      "progressStart": 0.45454545454545453,
-      "progressEnd": 0.5,
-      "progressMidpoint": 0.4772727272727273,
+      "progressStart": 0.4782608695652174,
+      "progressEnd": 0.5217391304347826,
+      "progressMidpoint": 0.5,
       "felt": {
         "summary": null,
         "direction": "broken beat bodily deformation",
@@ -465,7 +502,7 @@
       }
     },
     {
-      "position": 12,
+      "position": 13,
       "artist": "Jayson Wynters",
       "track": "Tehutis Law",
       "uri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
@@ -483,14 +520,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 3960000,
-      "endMs": 4320000,
-      "midpointMs": 4140000,
+      "startMs": 4320000,
+      "endMs": 4680000,
+      "midpointMs": 4500000,
       "spotifyUrl": "https://open.spotify.com/track/79yeMWxkbiNZ4su5UuhS6z",
       "protected": false,
-      "progressStart": 0.5,
-      "progressEnd": 0.5454545454545454,
-      "progressMidpoint": 0.5227272727272727,
+      "progressStart": 0.5217391304347826,
+      "progressEnd": 0.5652173913043478,
+      "progressMidpoint": 0.5434782608695652,
       "felt": {
         "summary": null,
         "direction": "funk re grounding",
@@ -502,7 +539,7 @@
       }
     },
     {
-      "position": 13,
+      "position": 14,
       "artist": "Peverelist",
       "track": "Pulse I",
       "uri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
@@ -521,14 +558,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 4320000,
-      "endMs": 4680000,
-      "midpointMs": 4500000,
+      "startMs": 4680000,
+      "endMs": 5040000,
+      "midpointMs": 4860000,
       "spotifyUrl": "https://open.spotify.com/track/2PiW1SaL42KqLTpNSit9zY",
       "protected": false,
-      "progressStart": 0.5454545454545454,
-      "progressEnd": 0.5909090909090909,
-      "progressMidpoint": 0.5681818181818182,
+      "progressStart": 0.5652173913043478,
+      "progressEnd": 0.6086956521739131,
+      "progressMidpoint": 0.5869565217391305,
       "felt": {
         "summary": null,
         "direction": "crooked accumulation hinge",
@@ -540,7 +577,7 @@
       }
     },
     {
-      "position": 14,
+      "position": 15,
       "artist": "CHANCEKNOT",
       "track": "Fragments",
       "uri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
@@ -558,14 +595,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 4680000,
-      "endMs": 5040000,
-      "midpointMs": 4860000,
+      "startMs": 5040000,
+      "endMs": 5400000,
+      "midpointMs": 5220000,
       "spotifyUrl": "https://open.spotify.com/track/3wsskKLpimIuiDDCb6eHVv",
       "protected": false,
-      "progressStart": 0.5909090909090909,
-      "progressEnd": 0.6363636363636364,
-      "progressMidpoint": 0.6136363636363636,
+      "progressStart": 0.6086956521739131,
+      "progressEnd": 0.6521739130434783,
+      "progressMidpoint": 0.6304347826086957,
       "felt": {
         "summary": null,
         "direction": "driving re escalation",
@@ -577,7 +614,7 @@
       }
     },
     {
-      "position": 15,
+      "position": 16,
       "artist": "Clotur",
       "track": "Drummz",
       "uri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
@@ -596,14 +633,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 5040000,
-      "endMs": 5400000,
-      "midpointMs": 5220000,
+      "startMs": 5400000,
+      "endMs": 5760000,
+      "midpointMs": 5580000,
       "spotifyUrl": "https://open.spotify.com/track/6K07a5OAl8J6wqlcnCoT8i",
       "protected": false,
-      "progressStart": 0.6363636363636364,
-      "progressEnd": 0.6818181818181818,
-      "progressMidpoint": 0.6590909090909091,
+      "progressStart": 0.6521739130434783,
+      "progressEnd": 0.6956521739130435,
+      "progressMidpoint": 0.6739130434782609,
       "felt": {
         "summary": null,
         "direction": "unpredictable rhythm hinge",
@@ -615,7 +652,7 @@
       }
     },
     {
-      "position": 16,
+      "position": 17,
       "artist": "Ibrahim Alfa Jnr",
       "track": "Ikoyi",
       "uri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
@@ -634,14 +671,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 5400000,
-      "endMs": 5760000,
-      "midpointMs": 5580000,
+      "startMs": 5760000,
+      "endMs": 6120000,
+      "midpointMs": 5940000,
       "spotifyUrl": "https://open.spotify.com/track/2sq9nJXmO5OtwWemr30z32",
       "protected": false,
-      "progressStart": 0.6818181818181818,
-      "progressEnd": 0.7272727272727273,
-      "progressMidpoint": 0.7045454545454546,
+      "progressStart": 0.6956521739130435,
+      "progressEnd": 0.7391304347826086,
+      "progressMidpoint": 0.717391304347826,
       "felt": {
         "summary": null,
         "direction": "foreground dissolution hinge",
@@ -653,7 +690,7 @@
       }
     },
     {
-      "position": 17,
+      "position": 18,
       "artist": "Valesuchi",
       "track": "Amor",
       "uri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
@@ -672,14 +709,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 5760000,
-      "endMs": 6120000,
-      "midpointMs": 5940000,
+      "startMs": 6120000,
+      "endMs": 6480000,
+      "midpointMs": 6300000,
       "spotifyUrl": "https://open.spotify.com/track/6sFAOCWU1adeWUEZaKWtEy",
       "protected": false,
-      "progressStart": 0.7272727272727273,
-      "progressEnd": 0.7727272727272727,
-      "progressMidpoint": 0.75,
+      "progressStart": 0.7391304347826086,
+      "progressEnd": 0.782608695652174,
+      "progressMidpoint": 0.7608695652173914,
       "felt": {
         "summary": null,
         "direction": "machine to hand drum mutation",
@@ -691,7 +728,7 @@
       }
     },
     {
-      "position": 18,
+      "position": 19,
       "artist": "Inspired Groove",
       "track": "Truth in Noise",
       "uri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
@@ -710,14 +747,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 6120000,
-      "endMs": 6480000,
-      "midpointMs": 6300000,
+      "startMs": 6480000,
+      "endMs": 6840000,
+      "midpointMs": 6660000,
       "spotifyUrl": "https://open.spotify.com/track/12xuyGHICBNwJnQYqBlKcY",
       "protected": false,
-      "progressStart": 0.7727272727272727,
-      "progressEnd": 0.8181818181818182,
-      "progressMidpoint": 0.7954545454545454,
+      "progressStart": 0.782608695652174,
+      "progressEnd": 0.8260869565217391,
+      "progressMidpoint": 0.8043478260869565,
       "felt": {
         "summary": null,
         "direction": "groove consolidation",
@@ -729,7 +766,7 @@
       }
     },
     {
-      "position": 19,
+      "position": 20,
       "artist": "Linear System",
       "track": "Transparency",
       "uri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
@@ -749,14 +786,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 6480000,
-      "endMs": 6840000,
-      "midpointMs": 6660000,
+      "startMs": 6840000,
+      "endMs": 7200000,
+      "midpointMs": 7020000,
       "spotifyUrl": "https://open.spotify.com/track/6vBGCwTYRiKYCDD52zXZtf",
       "protected": true,
-      "progressStart": 0.8181818181818182,
-      "progressEnd": 0.8636363636363636,
-      "progressMidpoint": 0.8409090909090909,
+      "progressStart": 0.8260869565217391,
+      "progressEnd": 0.8695652173913043,
+      "progressMidpoint": 0.8478260869565217,
       "felt": {
         "summary": null,
         "direction": "Tilt — provisional listener block opener",
@@ -768,7 +805,7 @@
       }
     },
     {
-      "position": 20,
+      "position": 21,
       "artist": "Ignez",
       "track": "When We Froze",
       "uri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
@@ -788,14 +825,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 6840000,
-      "endMs": 7200000,
-      "midpointMs": 7020000,
+      "startMs": 7200000,
+      "endMs": 7560000,
+      "midpointMs": 7380000,
       "spotifyUrl": "https://open.spotify.com/track/1POzqasdMpIDgI4gQSdPrV",
       "protected": true,
-      "progressStart": 0.8636363636363636,
-      "progressEnd": 0.9090909090909091,
-      "progressMidpoint": 0.8863636363636364,
+      "progressStart": 0.8695652173913043,
+      "progressEnd": 0.9130434782608695,
+      "progressMidpoint": 0.8913043478260869,
       "felt": {
         "summary": null,
         "direction": "Tilt — listener confirmed internal continuation",
@@ -807,7 +844,7 @@
       }
     },
     {
-      "position": 21,
+      "position": 22,
       "artist": "Len Faki",
       "track": "Stardancer",
       "uri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
@@ -828,14 +865,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 7200000,
-      "endMs": 7560000,
-      "midpointMs": 7380000,
+      "startMs": 7560000,
+      "endMs": 7920000,
+      "midpointMs": 7740000,
       "spotifyUrl": "https://open.spotify.com/track/6i3HRqnSMoSohzwSgq035u",
       "protected": true,
-      "progressStart": 0.9090909090909091,
-      "progressEnd": 0.9545454545454546,
-      "progressMidpoint": 0.9318181818181818,
+      "progressStart": 0.9130434782608695,
+      "progressEnd": 0.9565217391304348,
+      "progressMidpoint": 0.9347826086956522,
       "felt": {
         "summary": null,
         "direction": "Tilt — listener confirmed block close",
@@ -847,7 +884,7 @@
       }
     },
     {
-      "position": 22,
+      "position": 23,
       "artist": "Steve Rachmad",
       "track": "Invisible Warriors Of Light",
       "uri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
@@ -866,14 +903,14 @@
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
-      "startMs": 7560000,
-      "endMs": 7920000,
-      "midpointMs": 7740000,
+      "startMs": 7920000,
+      "endMs": 8280000,
+      "midpointMs": 8100000,
       "spotifyUrl": "https://open.spotify.com/track/28lWAlCwtanGjnDcqCS0rG",
       "protected": false,
-      "progressStart": 0.9545454545454546,
+      "progressStart": 0.9565217391304348,
       "progressEnd": 1,
-      "progressMidpoint": 0.9772727272727273,
+      "progressMidpoint": 0.9782608695652174,
       "felt": {
         "summary": null,
         "direction": "low slung electro soul afterword",
@@ -906,18 +943,27 @@
     },
     {
       "fromUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-      "toUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+      "toUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
       "fromPosition": 3,
       "toPosition": 4,
-      "bpmDelta": -2,
+      "bpmDelta": null,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+      "toUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+      "fromPosition": 4,
+      "toPosition": 5,
+      "bpmDelta": null,
       "protected": false,
       "frozen": false
     },
     {
       "fromUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
       "toUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-      "fromPosition": 4,
-      "toPosition": 5,
+      "fromPosition": 5,
+      "toPosition": 6,
       "bpmDelta": 1,
       "protected": false,
       "frozen": false
@@ -925,15 +971,6 @@
     {
       "fromUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
       "toUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-      "fromPosition": 5,
-      "toPosition": 6,
-      "bpmDelta": null,
-      "protected": false,
-      "frozen": false
-    },
-    {
-      "fromUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-      "toUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
       "fromPosition": 6,
       "toPosition": 7,
       "bpmDelta": null,
@@ -941,10 +978,19 @@
       "frozen": false
     },
     {
-      "fromUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-      "toUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+      "fromUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+      "toUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
       "fromPosition": 7,
       "toPosition": 8,
+      "bpmDelta": null,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+      "toUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+      "fromPosition": 8,
+      "toPosition": 9,
       "bpmDelta": 0,
       "protected": false,
       "frozen": false
@@ -952,8 +998,8 @@
     {
       "fromUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
       "toUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-      "fromPosition": 8,
-      "toPosition": 9,
+      "fromPosition": 9,
+      "toPosition": 10,
       "bpmDelta": -3,
       "protected": false,
       "frozen": false
@@ -961,8 +1007,8 @@
     {
       "fromUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
       "toUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-      "fromPosition": 9,
-      "toPosition": 10,
+      "fromPosition": 10,
+      "toPosition": 11,
       "bpmDelta": -7,
       "protected": false,
       "frozen": false
@@ -970,8 +1016,8 @@
     {
       "fromUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
       "toUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-      "fromPosition": 10,
-      "toPosition": 11,
+      "fromPosition": 11,
+      "toPosition": 12,
       "bpmDelta": 8,
       "protected": false,
       "frozen": false
@@ -979,8 +1025,8 @@
     {
       "fromUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
       "toUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-      "fromPosition": 11,
-      "toPosition": 12,
+      "fromPosition": 12,
+      "toPosition": 13,
       "bpmDelta": 1,
       "protected": false,
       "frozen": false
@@ -988,8 +1034,8 @@
     {
       "fromUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
       "toUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-      "fromPosition": 12,
-      "toPosition": 13,
+      "fromPosition": 13,
+      "toPosition": 14,
       "bpmDelta": -3,
       "protected": false,
       "frozen": false
@@ -997,8 +1043,8 @@
     {
       "fromUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
       "toUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-      "fromPosition": 13,
-      "toPosition": 14,
+      "fromPosition": 14,
+      "toPosition": 15,
       "bpmDelta": 4,
       "protected": false,
       "frozen": false
@@ -1006,8 +1052,8 @@
     {
       "fromUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
       "toUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-      "fromPosition": 14,
-      "toPosition": 15,
+      "fromPosition": 15,
+      "toPosition": 16,
       "bpmDelta": -2,
       "protected": false,
       "frozen": false
@@ -1015,15 +1061,6 @@
     {
       "fromUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
       "toUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-      "fromPosition": 15,
-      "toPosition": 16,
-      "bpmDelta": null,
-      "protected": false,
-      "frozen": false
-    },
-    {
-      "fromUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-      "toUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
       "fromPosition": 16,
       "toPosition": 17,
       "bpmDelta": null,
@@ -1031,8 +1068,8 @@
       "frozen": false
     },
     {
-      "fromUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-      "toUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+      "fromUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+      "toUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
       "fromPosition": 17,
       "toPosition": 18,
       "bpmDelta": null,
@@ -1040,10 +1077,19 @@
       "frozen": false
     },
     {
-      "fromUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-      "toUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+      "fromUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+      "toUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
       "fromPosition": 18,
       "toPosition": 19,
+      "bpmDelta": null,
+      "protected": false,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+      "toUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+      "fromPosition": 19,
+      "toPosition": 20,
       "bpmDelta": 5,
       "protected": false,
       "frozen": false
@@ -1051,15 +1097,6 @@
     {
       "fromUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
       "toUri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
-      "fromPosition": 19,
-      "toPosition": 20,
-      "bpmDelta": -3,
-      "protected": true,
-      "frozen": false
-    },
-    {
-      "fromUri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
-      "toUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
       "fromPosition": 20,
       "toPosition": 21,
       "bpmDelta": -3,
@@ -1067,10 +1104,19 @@
       "frozen": false
     },
     {
-      "fromUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-      "toUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+      "fromUri": "spotify:track:1POzqasdMpIDgI4gQSdPrV",
+      "toUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
       "fromPosition": 21,
       "toPosition": 22,
+      "bpmDelta": -3,
+      "protected": true,
+      "frozen": false
+    },
+    {
+      "fromUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+      "toUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+      "fromPosition": 22,
+      "toPosition": 23,
       "bpmDelta": null,
       "protected": false,
       "frozen": false
@@ -1094,6 +1140,7 @@
   "externalCandidates": [],
   "warnings": [
     "BPM unavailable for Purelink — Stadium Drive; map stores null and leaves a gap in the measured-BPM layer.",
+    "BPM unavailable for Debit — Encasadelciegoeltuerco; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for T++ — Worn Down; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for Ibrahim Alfa Jnr — Ikoyi; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for Valesuchi — Amor; map stores null and leaves a gap in the measured-BPM layer.",
