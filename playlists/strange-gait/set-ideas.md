@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 106
+
+### Rhythmic memory is not automatically long-form memory
+
+**Direction:** Explore tracks that seem to forget, dissipate or reconfigure their own governing frame, while keeping separate the internal event from the journey's need for another reset or recovery.
+
+**Ingredients:**
+
+- Carmen Villain — *Entre Nosotros* — exact placement-specific reject; documented slow rhythm yielding to a warm, haunted acoustic trace.
+- Carmen Villain — *Holding a Shape* — exact PARKED discovery; documented dissipated, shuddering dub techno.
+- Carmen Villain — *Memoria* — exact placement-specific reject; documented fluttering sub-bass and repeated switches between physical threat and warmth.
+- DNGDNGDNG & Prisma — *Abisal*, *Umbral* and *Goblinator* — unresolved current-release research into polyrhythmic contraction and amplified microscopic variation.
+- STRANGE GAIT's `Pulse I → Roxellana → Fragments → Drummz → Ikoyi` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** A track can make its own past unstable without the set needing another full dissolution or return. Long-form value appears only when that instability changes what the following music means.
+
+**Unknown/risk:** This is not a proven DJ mix. BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The two rejects are scoped to their tested positions; the PARKED track is not TRIGGERED.
+
 ## Current additions — Run 105
 
 ### Containment can fail without direction failing

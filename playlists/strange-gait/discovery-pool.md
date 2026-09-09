@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 106 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Carmen Villain | Entre Nosotros | https://open.spotify.com/track/3AKq4Zsj15PD1p1djgNceT | Placement-specific REJECT for Moonwake → candidate → Capa and Stadium Drive → candidate → Marauder only. Exact criticism documents disrupted slow rhythm yielding to an acoustic trace; retained globally as genuinely interesting. |
+| EXACT TRACK | Carmen Villain | Holding a Shape | https://open.spotify.com/track/68gNqjCn5xOMhg5myoh7OB | PARKED after Roxellana → candidate → Fragments and Ikoyi → candidate → Amor tests. Exact criticism establishes dissipated, shuddering dub techno but not the directional consequence of either exit. |
+| EXACT TRACK | Carmen Villain | Memoria | https://open.spotify.com/track/1HZKVYH50pY9s8IbpCezCP | Placement-specific REJECT for Thick to Handle → candidate → Tehutis Law and Truth in Noise → candidate → Transparency only. Exact criticism documents fluttering sub-bass and repeated threat/warmth switch-ups; retained globally. |
+| RESEARCH LEAD | Priori, Gavsborg | Nesting Chamber | https://kynantrecords.bandcamp.com/track/nesting-chamber-ft-gavsborg | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | Carré, Bbyafricka | Hibiscus | https://carre-carre.bandcamp.com/track/hibiscus-feat-bbyafricka | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | RAMZi | deepdubi | https://ramzi1.bandcamp.com/album/ramztek | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | DNGDNGDNG & Prisma | Abisal | https://denguedenguedengue.bandcamp.com/album/abisal | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | DNGDNGDNG & Prisma | Umbral | https://denguedenguedengue.bandcamp.com/track/umbral | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RESEARCH LEAD | DNGDNGDNG & Prisma | Goblinator | https://denguedenguedengue.bandcamp.com/album/abisal | Resolver: no exact Spotify title/artist search match in market SE; no musical verdict. |
+| RELEASE WATCH | Carmen Villain / Smalltown Supersound | Memoria | https://carmenvillain.bandcamp.com/album/memoria | Current September 2026 spectral-dub record using unreliable repetition and disruptive low notes as compositional material. |
+| RELEASE WATCH | DNGDNGDNG & Prisma / YUKU | Abisal | https://denguedenguedengue.bandcamp.com/album/abisal | Current August 2026 polyrhythmic record; individual unresolved titles receive no track-level felt claims. |
+| CATALOGUE WATCH | Priori / Kynant; Carré / Tempa; RAMZi | 9; Hibiscus; RAMZTEK | https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026 | Overlooked 2026 dub-house, stepper and digital-dub leads; unresolved identities are not utility-publication inputs. |
+
 ## Run 105 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

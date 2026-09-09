@@ -1,5 +1,78 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 106 — EXPLORE — rhythmic memory and redundant recovery — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 197 exact tracks, both with exact matching COMPLETE receipts. The generated map held all 24 canonical identities; the protected Transparency → When We Froze → Stardancer internal order was intact; no REVISIT was TRIGGERED; no listener repair was authorized; and no objective defect or unfinished repair was actionable.
+
+### Exploration receipt
+
+- **runId:** 2026-09-09T17:49:01Z-explore-106
+- **sourceCommit:** d36d770b4860aed2449a0368aea6cd37141eb7ed
+- **request commit:** e7bca15061e6c5d78c1bd27164ff42495ee60bbc
+- **snapshot commit:** a0303086ccf2a702ca2f4d1aea68d38417879ba8
+- **scope:** approximately 46 named tracks across Carmen Villain's current September 2026 *Memoria*, DNGDNGDNG & Prisma's August 2026 *Abisal*, overlooked 2026 Priori, Carré and RAMZi catalogue, and broader current electronic windows; attributed descriptions and official metadata only; no audio audition.
+- **freshness:** current durable target and utility files contained no prior artist-title decision for the nine requested identities. Carmen Villain — *Blue* and Brendon Moeller — *Control Mechanism* were excluded as existing PARKED discoveries; Runs 104–105 source ecosystems were not retried.
+- **resolver:** valid schemaVersion 2 PARTIAL; 9 requested → 3 exact selected resolutions + 6 unresolved identities; no warnings, alternates, duplicates, substitutions or terminal technical errors.
+
+### Resolver outcomes preserved exactly
+
+Selected exact identities:
+
+1. **Carmen Villain — Entre Nosotros** — spotify:track:3AKq4Zsj15PD1p1djgNceT; Spotify album *Memoria*, release date 2026-09-04, duration 7:26, BPM unavailable.
+2. **Carmen Villain — Holding a Shape** — spotify:track:68gNqjCn5xOMhg5myoh7OB; Spotify album *Memoria*, release date 2026-09-04, duration 3:36, BPM unavailable.
+3. **Carmen Villain — Memoria** — spotify:track:1HZKVYH50pY9s8IbpCezCP; Spotify album *Memoria*, release date 2026-09-04, duration 5:52, BPM unavailable.
+
+Unresolved identities, each with exact resolver error `no exact Spotify title/artist search match in market SE`:
+
+- Priori, Gavsborg — *Nesting Chamber*
+- Carré, Bbyafricka — *Hibiscus*
+- RAMZi — *deepdubi*
+- DNGDNGDNG & Prisma — *Abisal*
+- DNGDNGDNG & Prisma — *Umbral*
+- DNGDNGDNG & Prisma — *Goblinator*
+
+### Canonical evaluations
+
+#### Carmen Villain — Entre Nosotros — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a slow, hulking rhythmic frame disrupted by bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes the exact track as stumbling forward while seeming to forget itself.
+- **Immediate transition:** UNKNOWN at `Moonwake → candidate → Capa` and at the alternate opening test `Stadium Drive → candidate → Marauder`. BPM, perceived pulse, phrasing and actual handoffs are untested.
+- **Surrounding three-to-five-track run:** FAILS THE TESTED POSITIONS. At 7:26, the central test inserts a complete dissolution/return before Capa's existing redirection; the opening test places another long transformative preface before Marauder anchors the set.
+- **Long-form journey:** NOT IMPROVED at either position. Unreliable rhythmic memory is relevant to the selection lens, but the present journey already makes disappearance and recovery consequential through Roxellana → Fragments and Drummz → Ikoyi → Amor.
+- **Verdict:** placement-specific REJECT only; retained locally and globally as genuinely interesting.
+
+#### Carmen Villain — Holding a Shape — PARKED
+
+- **Volume fit:** PASS. Pitchfork identifies the exact track as dissipated, shuddering dub techno inside a mechanistic album whose grooves are repeatedly punctured by disruptive low notes.
+- **Immediate transition:** UNKNOWN at `Roxellana → candidate → Fragments` and at `Ikoyi → candidate → Amor`; no phrase, perceived-pulse or mix evidence exists.
+- **Surrounding three-to-five-track run:** UNRESOLVED. Its 3:36 duration limits proportional cost, and dissipation after Roxellana could sharpen Fragments as recovery. The same insertion could instead turn one clear surge-to-recovery move into two recovery thresholds. Between Ikoyi and Amor it risks restating dissolution.
+- **Long-form journey:** PLAUSIBLE BUT NOT PROVEN. The exact description establishes a state, not the candidate's internal direction or the consequence of either exit.
+- **Verdict:** PARKED for materially richer exact-track or connective evidence, or a changed boundary need; retained locally and globally.
+
+#### Carmen Villain — Memoria — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes the title track as an emptied soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.
+- **Immediate transition:** UNKNOWN at `Thick to Handle → candidate → Tehutis Law` and `Truth in Noise → candidate → Transparency`; exact handoffs and perceived pulse are untested.
+- **Surrounding three-to-five-track run:** FAILS THE TESTED POSITIONS. The first position adds another full state change between deformation and re-grounding; the second reopens instability after consolidation immediately before the protected closing block.
+- **Long-form journey:** NOT IMPROVED at either position. The alternation between threat and warmth is compelling, but neither placement supplies a missing long-form consequence.
+- **Verdict:** placement-specific REJECT only; retained locally and globally.
+
+The six unresolved identities receive no musical verdict and do not enter the global utility ledger.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid. Only the three selected exact identities were evaluated; all six exact resolver errors are preserved; every selected candidate is separated across volume, immediate-transition, surrounding-run and long-form scales; no metadata is converted into energy, density, pulse, hypnosis, phrase or mix claims; the protected trio remains untouched; and only the three exact tracks explicitly retained as genuinely interesting enter the doctrine-free utility ledger. The PARKED verdict does not authorize an immediate REVISIT.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **24 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three exact tracks, six unresolved research leads, three release/catalogue watches and one concrete set direction retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **197 → 200 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions. Across Runs 87–106, the repaired funnel has produced 179 leads from approximately 857 inspections and 9 ADDs from 52 selected candidates. The recent ADD rate is 3/10 across Runs 97–106, versus 10/58 across Runs 55–106. The no-ADD streak is one run; the latest canonical addition remains Run 105. The strongest counterargument is that *Holding a Shape* is concise enough to deepen the new Roxellana → Fragments boundary without bloating it. That remains credible, which is why it is PARKED rather than rejected at that boundary; the current evidence still describes dissipation more clearly than its directional effect on Fragments. The run does not establish BPM, felt energy, density, phrase structure, perceived pulse, handoff quality or mixability.
+
 ## Run 105 — EXPLORE — containment, restraint and directed force — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 23 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 194 exact tracks, both with exact matching COMPLETE receipts. The generated map held all 23 canonical identities; the protected Transparency → When We Froze → Stardancer internal order was intact; no REVISIT was TRIGGERED; no listener repair was authorized; and no objective defect or unfinished repair was actionable.

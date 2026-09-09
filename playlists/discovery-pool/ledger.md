@@ -201,6 +201,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 195 | Shoal | Strange Blue Knots | spotify:track:6XLImtWoJOiigNJTPtysZ6 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
 | 196 | Shoal | Interlocking | spotify:track:5Ueil4IKCEvPSeFRaZE0w5 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
 | 197 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | STRANGE GAIT Run 105 | Canonical ADD / retained | 2026-09-09 |
+| 198 | Carmen Villain | Entre Nosotros | spotify:track:3AKq4Zsj15PD1p1djgNceT | STRANGE GAIT Run 106 | Placement-specific reject / interesting | 2026-09-09 |
+| 199 | Carmen Villain | Holding a Shape | spotify:track:68gNqjCn5xOMhg5myoh7OB | STRANGE GAIT Run 106 | PARKED / interesting | 2026-09-09 |
+| 200 | Carmen Villain | Memoria | spotify:track:1HZKVYH50pY9s8IbpCezCP | STRANGE GAIT Run 106 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 106 — EXPLORE — rhythmic memory is not automatically long-form memory
+
+Nine ranked leads from approximately 46 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, alternates, duplicates, substitutions or terminal technical errors.
+
+**Decision:** 0 ADD, 2 placement-specific REJECT and 1 PARKED. Carmen Villain — *Entre Nosotros* and *Memoria* pass the selection lens but their tested opening, central and pre-trio positions repeat complete reset, state-change or recovery functions already legible in the 24-track journey. *Holding a Shape* is PARKED: its concise dissipated dub-techno state could make *Fragments* a more consequential recovery after *Roxellana*, but the exact evidence does not establish the candidate's internal direction or either exit. UNKNOWN handoffs were not treated as musical zero results.
+
+STRANGE GAIT remains at 24 canonical tracks. The protected Transparency → When We Froze → Stardancer internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 197 to 200 tracks with all three selected exact candidates.
+
+Across Runs 87–106, the repaired funnel has produced 179 leads from approximately 857 inspections and 9 ADDs from 52 selected candidates. The recent ADD rate is 3/10 across Runs 97–106, versus 10/58 across Runs 55–106. The no-ADD streak is one run; the latest canonical addition remains Run 105.
+
+**Strongest counterargument:** *Holding a Shape* lasts only 3:36 and may be exactly the dissipative hinge needed after *Roxellana*. Concision reduces its proportional cost, but it does not demonstrate whether *Fragments* reads as newly necessary or merely delayed. PARKED preserves that live possibility without weakening the canonical threshold.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 105 — EXPLORE — containment can fail without direction failing
 
 Nine ranked leads from approximately 34 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, alternates, duplicates, substitutions or terminal technical errors. Two unresolved requests carried non-canonical following URIs; because neither identity resolved or was evaluated, no verdict relied on them and the immutable mismatch is preserved as a non-actionable request note.
