@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 90
+
+### A boundary must earn a second beginning or ending
+
+**Direction:** Explore long internally mutating tracks as overtures or afterwords only when the extra frame changes the meaning of the whole journey, rather than assuming a conspicuous boundary contrast is useful by itself.
+
+**Ingredients:**
+
+- Inigo Kennedy — Marauder — current canonical opener
+- Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer — protected closing trio
+- Actress — Voodoo Posse Chronic Illusion — exact Run 90 discovery; 11:43; second-half clicky garage beat and stumbling motion; both tested boundary placements rejected
+- Reptant — Future Proof — unresolved current electro boundary research lead
+- Groove Armada — Gangsta Girl — unresolved current deconstructed-house afterword research lead
+
+**Why interesting:** Boundary tracks operate at long-form scale: an overture can create a second beginning and an afterword can create a second ending. Internal transformation is relevant, but it must earn that framing consequence.
+
+**Unknown / risk:** No phrase fit, perceived-pulse relation, BPM relation, energy, density, key, mixability or live edge has been established. The listed research leads are not asserted to fit either boundary or one another.
+
 ## Current additions — Run 89
 
 ### Subtle swing before a clearer lift

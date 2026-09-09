@@ -2,6 +2,68 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 90 — EXPLORE — boundary-cost audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. Run 89 left STRANGE GAIT at 18 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 157 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. Four consecutive ADDs and the approximately 1h48m journey created an explicit over-expansion watch, but recent additions occupied distinct positions and recent evaluations still produced candidate-specific negative verdicts; no actionable workflow defect was established.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T01:50:28Z-explore-90`
+- **sourceCommit:** `a9eb6330515e2ed02ae89bbdcf9c39756a7a1c20`
+- **request commit:** `62604bee669590fbc29120765427965bfd1736ec`
+- **snapshot commit:** `5d59b995ed765315e156849c2591b98ae0230184`
+- **request fingerprint:** `d9578649222fede7bc3f169f5b68e63307e4452a1f937a4199e08d33b386412b`
+- **scope:** approximately 43 named tracks and releases across September/August/May 2026 current windows, adjacent house/electro/club material and overlooked 2012–2023 techno/bass catalogue sources; metadata and attributed descriptions only; no audio audition.
+- **freshness:** canonical identities, active placement-specific rejects, untriggered PARKED revisits, previously retained exact identities and unresolved leads without materially new identity evidence were excluded.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 1 exact resolution and selected candidate + 8 unresolved; 1 warning; no duplicates, substitutions, resolved alternates or terminal technical errors.
+
+### Resolver outcomes preserved
+
+1. **Actress — Voodoo Posse Chronic Illusion** — RESOLVED and selected: `spotify:track:1Oowhj5HKsV0234FhAQSk3`; Spotify `Silver Cloud`, `2013-02-08`, 11:43; BPM unavailable. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "Silver Cloud EP" but Spotify returned "Silver Cloud"; release date requested "2012-12" but Spotify returned "2013-02-08"`.
+2. **Reptant — Future Proof** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+3. **Bitter Babe & Nick León — Tranki** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+4. **Skee Mask — Palo Alto** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Groove Armada — Gangsta Girl** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+6. **Max Watts — The Silver Lining** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+7. **Skee Mask — Kordman Return (Swing Mix)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+8. **Max Watts & Huey Mnemonic — Echoes Of Change** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **Hodge — Turmoil** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+The eight unresolved leads receive no musical verdict and do not enter the global utility ledger.
+
+### Canonical evaluation
+
+#### Actress — Voodoo Posse Chronic Illusion — placement-specific REJECT
+
+- **Volume fit:** PASS on the adjacent edge. Resident Advisor documents a clicky garage beat arriving in the second half and motion that stumbles rather than swings cleanly. This is credible exact structural evidence for the selection lens; the verdict does not depend on novelty or genre orthodoxy.
+- **Immediate transition:** FAIL for both tested positions on available evidence, with UNKNOWN kept distinct from negative evidence. Before Marauder, the 11:43 candidate would place a full internally developing work ahead of the established opener; the candidate→Marauder phrase, pulse and mix relation remains UNKNOWN, but the proposed overture does not establish why the current opening needs that extra preface. After Stardancer, the Stardancer→candidate handoff is likewise UNKNOWN; the concrete problem is that another 11:43 stage would replace the current ending with a second full ending.
+- **Surrounding three-to-five-track run:** FAIL for both tested runs. `candidate → Marauder → The Witching Hour → Cave` changes the opening from immediate entry to a long oblique preface without documented local-run gain. `Transparency → When We Froze → Stardancer → candidate` preserves the protected internal trio order but adds a substantial coda after its listener-confirmed close; the source documents the candidate's own mutation, not a reason this four-track ending improves.
+- **Long form:** FAIL for the tested boundary functions. At 11:43, the candidate would extend an already approximately 1h48m, 18-track journey after four consecutive additions. Duration is not a universal cutoff, but here neither an overture nor an afterword earns that additional frame. This is a current-placement decision, not a global incompatibility claim.
+- **Confidence:** medium-high for the placement-specific rejection; low for audio-transition detail because audio and live mixing were not tested.
+- **Counterargument:** Its slow emergence into a stumbling garage beat may be exactly the kind of oblique frame that gives the volume a stronger beginning or unsettled afterlife. The available evidence establishes that possibility, but not enough transition-, local-run- or journey-scale benefit to displace the current boundaries.
+
+### Auditor result
+
+**APPROVE.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode, target and fingerprint. The one selected exact identity was evaluated separately at all four required scales. The eight exact resolver failures and the packaging/date warning are preserved without being converted into musical verdicts. UNKNOWN audio facts were not treated as negative evidence; the rejection rests on current boundary function and cumulative long-form cost. The protected trio remains intact, canonical state is unchanged, and the exact rejected placement remains eligible for materially different future hypotheses.
+
+### Durable result
+
+- STRANGE GAIT remains 18 canonical tracks with no reorder.
+- Actress — Voodoo Posse Chronic Illusion is retained locally and globally as a genuinely interesting exact discovery while its two tested boundary placements are rejected.
+- Eight unresolved research leads are retained locally only.
+- EDITORIAL ENGINE — DISCOVERY POOL increases 157 → 158.
+- The four-run ADD streak ends; over-expansion remains a watch rather than a confirmed workflow defect.
+
+### Run analysis
+
+`~43 inspected → 9 leads → 1 exact resolution + 8 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`
+
+Inspection→lead conversion was **9/43 (20.9%)**; exact-resolution conversion was **1/9 (11.1%)**; selected-candidate→ADD conversion was **0/1 (0%)**. Across Runs 87–90, the repaired funnel produced **35 leads from 170 inspections (20.6%)** and **3 ADDs from 10 selected candidates (30.0%)**. The recent ADD rate remains **4/10 across Runs 81–90**, while the longer Runs 55–90 rate is **4/36**.
+
+The low exact-resolution result is a market-availability outcome, not evidence that eight tracks failed musically. This run proves the repaired workflow can stop a four-run expansion streak for a specific long-form reason while still retaining the selected exact track as inspiration. It does not prove the unresolved leads lack lawful identities elsewhere, that the Actress track can never fit, or that STRANGE GAIT is complete.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 89 — EXPLORE — subtle-continuation and boundary audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. Run 88 left STRANGE GAIT at 17 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 154 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. Three consecutive ADDs created cumulative-length scrutiny but did not establish an actionable defect, so Run 89 performed a fresh scan rather than a REPAIR.

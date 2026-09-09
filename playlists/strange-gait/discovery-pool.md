@@ -4,6 +4,27 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 90 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Actress | Voodoo Posse Chronic Illusion | https://open.spotify.com/track/1Oowhj5HKsV0234FhAQSk3 | Run 90 placement-specific REJECT for an overture before Marauder and an afterword after Stardancer only. Exact 11:43 structural discovery retained; review documents a second-half clicky garage beat and stumbling motion. BPM unknown. |
+| RESEARCH LEAD | Reptant | Future Proof | https://ra.co/reviews/36353 | Resolver error `no exact Spotify title/artist search match in market SE`; current syncopated sparse-electro and acid-contortion evidence retained without musical verdict. |
+| RESEARCH LEAD | Bitter Babe & Nick León | Tranki | https://ra.co/reviews/34912 | Same exact resolver error; doubled/tripled drum and late-bassline evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Skee Mask | Palo Alto | https://ra.co/reviews/20887 | Same exact resolver error; sudden-pattern-shift techno evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Groove Armada | Gangsta Girl | https://groovearmada.bandcamp.com/album/body-action | Same exact resolver error; current official minimal-percussion/deconstructed-dancefloor evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Max Watts | The Silver Lining | https://ra.co/reviews/35887 | Same exact resolver error; Detroit/tech-house swing and spinback-breakdown evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Skee Mask | Kordman Return (Swing Mix) | https://ra.co/reviews/20887 | Same exact resolver error; swung broken-beat and delay evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Max Watts & Huey Mnemonic | Echoes Of Change | https://ra.co/reviews/35887 | Same exact resolver error; staccato-drum and incremental-change evidence retained without Spotify identity or verdict. |
+| RESEARCH LEAD | Hodge | Turmoil | https://ra.co/reviews/11977 | Same exact resolver error; two-step-suggestion-to-sub-foundation evidence retained without Spotify identity or verdict. |
+
+### Placement and inspiration boundaries
+
+- The Actress verdict rejects only the two tested boundary placements. It is not a global incompatibility claim.
+- Exact phrase fit, perceived pulse, energy, density, key, mixability and both boundary handoffs were not tested.
+- The eight unresolved leads receive no musical verdict and do not enter the global utility ledger.
+- No resolved alternates were returned.
+
 ## Run 89 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

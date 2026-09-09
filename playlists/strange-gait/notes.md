@@ -2,6 +2,14 @@
 
 Canonical: 18 tracks — Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 90 — EXPLORE — boundary-cost audit
+
+Nine ranked leads from approximately 43 inspections produced a matching schemaVersion 2 PARTIAL snapshot: one exact Spotify resolution and selected candidate, eight unresolved leads, one packaging/date warning, and no duplicates, substitutions, alternates or terminal technical errors. Every resolver outcome is preserved in `discoveries.md`.
+
+**Decision:** placement-specific REJECT Actress — Voodoo Posse Chronic Illusion (`spotify:track:1Oowhj5HKsV0234FhAQSk3`) for an overture before Marauder and an afterword after Stardancer. The exact 11:43 track passes the selection lens: Resident Advisor documents a clicky garage beat arriving in the second half and motion that stumbles rather than swings cleanly. Its boundary tests fail for concrete long-form reasons. The opening placement creates a full preface without a demonstrated gain for `candidate → Marauder → The Witching Hour → Cave`; the tail placement adds a second full ending after the listener-confirmed `Transparency → When We Froze → Stardancer` close. Audio-transition facts remain UNKNOWN and were not used as negative evidence.
+
+STRANGE GAIT remains 18 tracks. The four-run ADD streak ends, so the current over-expansion watch has produced restraint without requiring a workflow REPAIR. Lead conversion is 9/43 (20.9%), exact resolution is 1/9 (11.1%), and candidate-to-ADD conversion is 0/1. Across Runs 87–90 the repaired funnel admitted 35 leads from 170 inspections and added 3 of 10 selected candidates. The low resolution rate is preserved as a market-availability result, not interpreted as eight musical failures.
+
 ## Run 89 — EXPLORE — subtle-continuation and boundary audit
 
 Nine ranked leads from approximately 41 inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved leads, three selected candidates and two unevaluated alternates. All five release-date warnings and all four exact resolver errors are preserved in `discoveries.md`.

@@ -162,6 +162,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 156 | Ploy | Admirer | spotify:track:4UbMd1slGghRj5aeWJxSj5 | STRANGE GAIT Run 89 | Placement-specific reject / interesting | 2026-09-09 |
 | 157 | Mor Elian | Basma | spotify:track:7vs4teXlerVsnwEqjXPXkA | STRANGE GAIT Run 89 | PARKED / interesting | 2026-09-09 |
 
+| 158 | Actress | Voodoo Posse Chronic Illusion | spotify:track:1Oowhj5HKsV0234FhAQSk3 | STRANGE GAIT Run 90 | Placement-specific reject / interesting | 2026-09-09 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
