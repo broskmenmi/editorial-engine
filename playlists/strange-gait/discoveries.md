@@ -76,6 +76,10 @@ Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-ru
 - The global utility ledger receives only the three exact selected tracks explicitly retained as interesting. The unresolved lead and five unevaluated alternates are excluded.
 - Durable state changes are atomic: canonical ledger, notes, verdict indexes, inspiration layers, journey annotation and global utility ledger move together. Generated map and Spotify receipts are left to GitHub Actions.
 
+### Publication repair — `2026-09-09T08:16:45Z-repair-discovery-pool-table-96a`
+
+The first post-audit publication pass verified STRANGE GAIT COMPLETE at 21/21, but EDITORIAL ENGINE — DISCOVERY POOL remained COMPLETE at 170/170 because an accidental blank line placed rows 171–173 outside the Markdown table consumed by the publisher. This is an objective publication-input defect, not a musical REPAIR. The repair removes only that blank line, preserves all three approved retention rows and triggers a new bounded global-utility publication pass. No canonical verdict, order or protected state changes.
+
 ### Inspiration harvest
 
 - T++ — Worn Down enters both the canonical volume and global utility playlist.
