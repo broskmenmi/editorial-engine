@@ -198,7 +198,6 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 192 | DJ Plead | Ride TV | spotify:track:1rsmJGBwrzXTkMDvzGVfJz | STRANGE GAIT Run 104 | Placement-specific reject / interesting | 2026-09-09 |
 | 193 | Klara Lewis | City | spotify:track:1jyn7hpjRYUQAaMuOb4U9n | STRANGE GAIT Run 104 | Placement-specific reject / interesting | 2026-09-09 |
 | 194 | Basic Rhythm | Weed Killer | spotify:track:61dlYcLJszld2bmsWTyiVw | STRANGE GAIT Run 104 | Placement-specific reject / interesting | 2026-09-09 |
-
 | 195 | Shoal | Strange Blue Knots | spotify:track:6XLImtWoJOiigNJTPtysZ6 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
 | 196 | Shoal | Interlocking | spotify:track:5Ueil4IKCEvPSeFRaZE0w5 | STRANGE GAIT Run 105 | Placement-specific reject / interesting | 2026-09-09 |
 | 197 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | STRANGE GAIT Run 105 | Canonical ADD / retained | 2026-09-09 |
