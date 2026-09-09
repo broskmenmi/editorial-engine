@@ -55,7 +55,7 @@ function short(value, max = 22) {
 
 function meaningfulLabel(track) {
   const labels = track.labels ?? [];
-  const reject = /^(track-\d+|explore-run-|repair-run-|whole-journey-|listener-added$|protected-ending$|discussion-region$)/i;
+  const reject = /^(track-\d+|explore-run-|repair-run-|whole-journey-|listener-added$|protected-ending$|discussion-region$|opener$|identity-anchor$|protected-handoff$|trio-opener$|trio-close$|listener-confirmed-handoff$)/i;
   return labels.find((label) => !reject.test(label)) ?? null;
 }
 
@@ -69,7 +69,7 @@ function normalizedFelt(track) {
     direction: raw.direction ?? fallback,
     dimensions: raw.dimensions ?? {},
     evidence: raw.evidence ?? {
-      class: explicit ? 'EDITORIAL_INTERPRETATION' : 'EDITORIAL_INTERPRETATION',
+      class: 'EDITORIAL_INTERPRETATION',
       note: explicit
         ? 'Playlist annotation. See canonical annotation provenance.'
         : 'Fallback direction phrase derived from an existing editorial label/role; not audio analysis.',
