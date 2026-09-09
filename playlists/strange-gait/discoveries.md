@@ -2,6 +2,87 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 98 — EXPLORE — soft-focus distance, tactile instability and hypnosis audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 173 exact tracks, both with matching COMPLETE receipts. The felt map matched the 21-track ledger; no REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 97's zero-resolution concentration was a source-selection signal, so this scan moved away from Kalahari Oyster Cult rather than opening a musical REPAIR.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T09:49:00Z-explore-98`
+- **sourceCommit:** `539346c958848ff2cbc5fbcb9ec59a86d7a0133a`
+- **request commit:** `18c5862510f191b575443921a664de9039913884`
+- **snapshot commit:** `3ea23eeb288b55c7cd8fb4791363558a688e381a`
+- **request fingerprint:** `8d508f25f90b094f978795f3d64781b5724fe13368f84e8b8746cc1c966d4160`
+- **scope:** approximately 31 named tracks across Auscultation's current `IV`, Cloud Canyons' current `Body Wisdom` and Actress's overlooked `R.I.P.` catalogue; official release pages and attributed descriptions only; no audio audition.
+- **freshness:** all nine exact titles were absent from durable evaluated/retained STRANGE GAIT history at the immediate pre-request commit. The prior Kalahari Oyster Cult cluster was not retried. James Ruskin's 2026 remaster was excluded because it already existed as a durable release watch.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 6 exact resolutions + 3 unresolved; 3 selected candidates + 3 unevaluated exact alternates; 3 warnings; no duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Auscultation — Mend | RESOLVED — `spotify:track:3SUOdgRwhl9ZM1uSNmtdqK`; `IV`; release `2026-06-05`; 5:39; BPM unavailable | SELECTED |
+| 2 | Actress — Marble Plexus | RESOLVED — `spotify:track:3A9pnprgJsv8uTMRT4XxYE`; `R.I.P.`; release `2012-04-20`; 4:42; BPM unavailable | SELECTED |
+| 3 | Cloud Canyons — Mantle Of Light | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 4 | Actress — Tree Of Knowledge | RESOLVED — `spotify:track:5DLuGk5wkZ4S2iBqEshFOY`; Spotify title `Tree of Knowledge`; `R.I.P.`; release `2012-04-20`; 4:09; BPM unavailable | SELECTED |
+| 5 | Auscultation — Pinned | RESOLVED — `spotify:track:08phZNt5CbaKnQ7pNuvjdD`; 4:42; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 6 | Cloud Canyons — Blank Desire | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 7 | Actress — The Lord's Graffiti | RESOLVED — `spotify:track:0Tgys03n1X6EYg1aRIakNE`; 3:04; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 8 | Auscultation — Precarious | RESOLVED — `spotify:track:1RTnbvkNQVGOFIKKYUAk2E`; 6:56; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 9 | Cloud Canyons — Body Wisdom | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+
+### Resolver warnings preserved exactly
+
+- Actress — Marble Plexus: `Exact title/artist matched with release metadata variance: release date requested "2012-04-28" but Spotify returned "2012-04-20"`
+- Actress — Tree Of Knowledge: `Exact title/artist matched with release metadata variance: release date requested "2012-04-28" but Spotify returned "2012-04-20"`
+- Actress — The Lord's Graffiti: `Exact title/artist matched with release metadata variance: release date requested "2012-04-28" but Spotify returned "2012-04-20"`
+
+### Candidate evaluations
+
+#### Auscultation — Mend — PARKED
+
+- **Exact identity:** `spotify:track:3SUOdgRwhl9ZM1uSNmtdqK`; 5:39; BPM unavailable.
+- **Volume fit:** PASS. Bandcamp Daily identifies Mend as the techno point inside `IV`, while describing the album's hushed rhythms beneath expanding synths and softly eerie, enveloping character. The official release adds slinky pad/percussion networks and dexterous bass. That supports a credible quieter-facing form of techno without treating subtlety as lower value.
+- **Immediate transition quality:** UNKNOWN for both `Drummz → Mend → Amor` and `Truth in Noise → Mend → Transparency`. The actual pulse, phrasing, density, entry and exit are untested.
+- **Surrounding run:** DECISION-CRITICAL UNCERTAINTY. In `Fragments → Drummz → Mend → Amor → Truth in Noise`, perceptual distance could make Amor's machine-to-hand-drum change feel newly exposed; it could equally make a decisive late-middle run episodic. In `Amor → Truth in Noise → Mend → Transparency → When We Froze`, the same distance could prepare the protected block or soften its approach without gain.
+- **Long-form journey:** NOT RESPONSIBLY CHOSEN. The placement rationale depends on Mend individually carrying the album's hush and softness, but the source identifies its techno function more specifically than its exact felt direction. This is not an audio-unknown veto: the candidate-specific evidence does not yet distinguish the two opposed long-form effects.
+- **Evidence-bar audit:** Both lawful placements were tested. Existing recent provisional ADDs had exact-track structural or felt descriptions tied to their placement purpose; requiring equivalent candidate-specific support here is not a stricter bar.
+- **Verdict:** PARKED. Retained locally and globally; reopen for materially richer exact-track description, listener/lawful audio evidence, or a changed need for perceptual distance.
+
+#### Actress — Marble Plexus — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3A9pnprgJsv8uTMRT4XxYE`; 4:42; BPM unavailable.
+- **Volume fit:** PASS. Resident Advisor describes a tactile construction in which a melody under fuzz-bass and shimmering effects seems to squirm and convulse almost at random. That is direct evidence of unstable form without requiring weirdness as a quota.
+- **Immediate transition quality:** UNKNOWN. Neither `Capa → candidate → Trompe L'oeil` nor `Fragments → candidate → Drummz` has phrase, pulse, density, entry, exit or mix evidence.
+- **Surrounding run:** FAILS THESE PLACEMENTS. `Moonwake → Capa → Marble Plexus → Trompe L'oeil → Thick to Handle` would insert another complete instability statement before the already articulated slower, staggered reset. `Pulse I → Fragments → Marble Plexus → Drummz → Amor` would place tactile convulsion between a driving re-escalation and an unpredictable-rhythm hinge, multiplying demonstrations of deformation rather than changing the passage's direction.
+- **Long-form journey:** FAILS THESE PLACEMENTS. At 21 tracks, both insertions add explanation to already developed regions. The rejection does not depend on smoothness, BPM or missing audio.
+- **Verdict:** placement-specific REJECT for the two tested positions only. Retained locally and globally as genuinely interesting.
+
+#### Actress — Tree of Knowledge — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5DLuGk5wkZ4S2iBqEshFOY`; 4:09; BPM unavailable.
+- **Volume fit:** PASS. Resident Advisor's exact-track description of a potential head-nodder contorted into vertigo directly supports bodily legibility under deformation.
+- **Immediate transition quality:** UNKNOWN for `Tehutis Law → candidate → Pulse I` and `Drummz → candidate → Amor`; exact pulse, phrasing, density and handoffs are untested.
+- **Surrounding run:** FAILS THESE PLACEMENTS. `Thick to Handle → Tehutis Law → Tree of Knowledge → Pulse I → Fragments` would narrate the same re-grounding-to-crooked-accumulation movement twice: first as head-nod turning vertiginous, then as Pulse I's gradual crooked build. `Fragments → Drummz → Tree of Knowledge → Amor → Truth in Noise` again turns the late-middle into consecutive exhibits of unpredictable rhythm, vertigo and mutation before consolidation.
+- **Long-form journey:** FAILS THESE PLACEMENTS. The compact duration limits proportional cost, but brevity does not create necessity. Both positions make an existing directional idea more explicit rather than giving the journey a new consequence.
+- **Verdict:** placement-specific REJECT for the two tested positions only. Retained locally and globally as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the exact pre-request SHA, and the matching terminal snapshot has the correct runId, sourceCommit, mode, target and fingerprint. Nine requested identities reconcile to six exact resolutions plus three exact unresolved errors; three selected candidates reconcile to three evaluations; three exact alternates remain unevaluated; all three metadata warnings are preserved. UNKNOWN audio facts remain UNKNOWN and are not used as musical failures. The protected trio is untouched. Auditor approves one PARKED verdict, four placement-specific rejection scopes, local inspiration retention and three doctrine-free utility additions. No canonical change or actionable REPAIR is authorized.
+
+### Durable result
+
+- STRANGE GAIT remains **21 canonical tracks**, with no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Auscultation — Mend is PARKED; Actress — Marble Plexus and Tree of Knowledge are rejected only for their two tested placements.
+- Cloud Canyons — Mantle Of Light, Blank Desire and Body Wisdom remain unresolved research leads with no musical verdict.
+- Auscultation — Pinned and Precarious plus Actress — The Lord's Graffiti are exact resolution-only alternates, not evaluated or globally retained.
+- EDITORIAL ENGINE — DISCOVERY POOL grows **173 → 176 exact tracks** with Mend, Marble Plexus and Tree of Knowledge.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 31 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 selected evaluations + 3 exact alternates → **0 ADD** + 1 PARKED + 2 placement-specific REJECT → 3 utility additions. Lead conversion was 29.0%; exact-resolution conversion was 66.7%; selected-candidate-to-ADD conversion was 0/3. Across Runs 87–98, the repaired funnel has produced 107 leads from approximately 501 inspections and 6 ADDs from 28 selected candidates. The recent canonical ADD rate is 4/10 across Runs 89–98, versus 7/44 across Runs 55–98. The consecutive no-ADD count is 2; the last canonical ADD was Run 96; three exact interesting tracks have been retained since then. The strongest counterargument is that Mend's softer profile could provide exactly the perceptual distance the late-middle now lacks. That remains credible, which is why the track is PARKED rather than rejected. The run proves that moving source ecosystems restored identity resolution and that subtle candidates reached serious evaluation; it does not prove their energy, density, perceived pulse, phrase fit or live compatibility. Repeated tests around the central reset and late-middle are a watch, but not yet an actionable process defect because the three candidates posed materially different placement questions and the current no-ADD streak is short.
+
 ## Run 97 — EXPLORE — electro posture and identity-resolution audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 173 exact tracks, both with matching COMPLETE receipts. The evidence-bound felt map matched canonical state; no REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 96's ADD and the 21-track length were proportion signals, not an objective defect or an expansion moratorium.
