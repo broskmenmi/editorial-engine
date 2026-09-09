@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 95
+
+### Rhythmic granularity is not the same as direction
+
+**Direction:** Explore how chopped breaks, jazz-layered drums and dense micro-events can change the amount of rhythmic information without automatically moving a set into a new long-form state.
+
+**Ingredients:**
+
+- Jason Hogans — For My Solids — exact Run 95 placement-specific reject; documented chopped-up breaks and jazz layering
+- Jayson Wynters — Tehutis Law — canonical provisional funk re-grounding
+- Peverelist — Pulse I — canonical provisional crooked accumulation
+- Koloah — Jump! — exact Run 95 PARKED current electro lead with release-level broken-groove context
+- Microhm — Noise Treatment — unresolved current lead whose official description compresses distortion into pulse
+
+**Why interesting:** Techno can become busier at the subdivision level while remaining structurally stationary. A sequence gains direction only when the changed rhythmic detail alters what the next track can do or mean; surface intricacy alone is not development.
+
+**Unknown / risk:** This is not a proven sequence or mixing edge. BPM, phrase fit, perceived pulse, density, energy and all pairwise handoffs remain unknown unless explicitly documented above.
+
 ## Current additions — Run 94
 
 ### Cooling after the close

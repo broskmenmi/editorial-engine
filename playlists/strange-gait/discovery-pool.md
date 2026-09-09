@@ -4,6 +4,29 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 95 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Jason Hogans | For My Solids | https://open.spotify.com/track/5Ab9e9QEJJGsDWyDLh8z3F | Placement-specific REJECT for Tehutis Law → candidate → Pulse I and Drummz → candidate → Amor only. Exact 3:09 chopped-break/jazz-layering discovery retained globally; Spotify date warning preserved. |
+| EXACT TRACK | Koloah | Jump! | https://open.spotify.com/track/57t74MlJeOnQBtRH1wtCKx | PARKED. Exact current 5:07 electro identity retained globally; source supports release-level broken-groove context but not individual behaviour. |
+| RESEARCH LEAD | Bookworms | viz | https://ra.co/reviews/35926 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Microhm | Noise Treatment | https://microhm.bandcamp.com/album/noise-detour | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Afrikan Sciences | Humanistic Center | https://ra.co/reviews/23931 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Bookworms | slice of life | https://ra.co/reviews/35926 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Microhm | Broken Eucledeans | https://microhm.bandcamp.com/album/noise-detour | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | DJ Latinchat | Cafuné | https://ra.co/reviews/36108 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Vladislav Delay | Latoma | https://vladislavdelay.bandcamp.com/album/latoma-ep | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RELEASE WATCH | Microhm | NOISE DETOUR | https://microhm.bandcamp.com/album/noise-detour | Current 2026 release retained for noise-as-rhythm and short-form structural research; the two exact leads remain unresolved on Spotify SE. |
+| RELEASE WATCH | Koloah | Residual Future | https://mechatronica.bandcamp.com/album/residual-future | Current Mechatronica electro release retained; Jump! resolved and was selected, while no other exact track was evaluated. |
+
+### Placement and inspiration boundaries
+
+- For My Solids is not globally rejected; only its two Run 95 placements fail.
+- Jump! remains PARKED pending richer exact-track evidence or a changed structural need.
+- The seven unresolved leads receive no musical verdict and do not enter the global utility ledger.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
 ## Run 94 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -2,6 +2,70 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 95 — EXPLORE — rhythmic granularity and internal-proportion audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 20 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 168 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 20 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Run 94's boundary ADD and the 20-track length were proportion signals, not objective defects or a moratorium.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T06:48:29Z-explore-95`
+- **sourceCommit:** `238796e2f9c99012608116c07512dccdcc4f4f0b`
+- **request commit:** `d3bb9b039913fd8e21f5fa8d4978d78d4669f817`
+- **snapshot commit:** `43a6b37d0196e6d118524f011dc7edaa37836bb9`
+- **request fingerprint:** `f12fdee8d72cb998cbdfb2d187f60582619a7b224d8fa41248e9d76208e8392f`
+- **scope:** approximately 46 named tracks across current 2026 Microhm and Koloah releases, adjacent Bookworms, Jason Hogans and DJ Latinchat windows, and overlooked Afrikan Sciences and Vladislav Delay catalogues; attributed descriptions and metadata only; no audio audition.
+- **freshness:** all nine retained exact titles were absent from STRANGE GAIT durable history at the immediate pre-request commit. A Second Storey source lane was excluded after repository search showed prior inspection.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 2 exact resolutions + 7 unresolved; 2 selected candidates; no alternates, duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Bookworms — viz | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 2 | Microhm — Noise Treatment | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 3 | Jason Hogans — For My Solids | RESOLVED — `spotify:track:5Ab9e9QEJJGsDWyDLh8z3F`; 3:09; album `Malletts Creek`; release `2021-02-19`; BPM unavailable | SELECTED |
+| 4 | Afrikan Sciences — Humanistic Center | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 5 | Bookworms — slice of life | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 6 | Microhm — Broken Eucledeans | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 7 | DJ Latinchat — Cafuné | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Vladislav Delay — Latoma | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 9 | Koloah — Jump! | RESOLVED — `spotify:track:57t74MlJeOnQBtRH1wtCKx`; 5:07; album `Residual Future`; release `2026-08-28`; BPM unavailable | SELECTED |
+
+### Preserved resolver warning
+
+- Jason Hogans — For My Solids: `Exact title/artist matched with release metadata variance: release date requested "2021-02" but Spotify returned "2021-02-19"`
+
+### Evaluator — selected exact identities only
+
+#### Jason Hogans — For My Solids — placement-specific REJECT
+
+- **Volume fit:** PASS. Resident Advisor calls the exact track a masterclass in chopped-up breaks, layering jazz elements through modern production techniques. That rhythmic freedom fits the selection lens without needing techno orthodoxy.
+- **Immediate transition:** UNKNOWN for all tested handoffs; BPM, phrase structure, pulse relationship and mixability are unavailable and UNKNOWN is not treated as an automatic veto.
+- **Three-to-five-track run:** `Thick to Handle → Tehutis Law → For My Solids → Pulse I → Fragments` would place a concise chopped-break statement after funk re-grounding and before an already purposeful crooked accumulation. It makes the change of rhythmic articulation more explicit, but the evidence does not establish what that extra explanation allows Pulse I or Fragments to mean. `Fragments → Drummz → For My Solids → Amor → Truth in Noise` would stack chopped jazz breaks between an unpredictable-rhythm hinge and a documented machine-to-hand-drum transformation.
+- **Long-form effect:** both tests increase rhythmic granularity inside passages already carrying clear multi-stage motion. The exact 3:09 duration limits the cost, but brevity alone is not a journey function. REJECT only these two placements; retain the exact track as genuinely interesting.
+
+#### Koloah — Jump! — PARKED
+
+- **Volume fit:** PLAUSIBLE. The exact current track belongs to a Mechatronica EP described through sharp drum programming, broken grooves, deep bass pressure, robotic voices and human expression.
+- **Immediate transition:** UNKNOWN in both locations; the source is release-level and supplies no track-specific rhythmic behaviour, BPM, phrase or handoff evidence.
+- **Three-to-five-track run:** `Marauder → The Witching Hour → Jump! → Cave → Abundance` could provide an electro interruption, while `Tehutis Law → Pulse I → Jump! → Fragments → Drummz` could redirect the central machine language. Neither run currently reveals why this exact 5:07 track improves the already established progression.
+- **Long-form effect:** insufficiently established. The candidate remains a useful current exact lead, but selecting a track from a promising release cannot substitute for a candidate-specific journey function. PARK for materially richer exact-track evidence or a changed structural need.
+
+### Auditor
+
+**APPROVED.** The immutable request and matching snapshot are internally valid and reconcile 9 requested identities to 2 exact resolutions and 7 unresolved outcomes. Both exact candidates were evaluated separately at volume, transition, local-run and long-form scales; the seven resolver failures receive no musical verdict; the single metadata warning is preserved verbatim; there are no alternates, duplicates, substitutions or terminal technical errors. For My Solids is rejected only in the two tested placements and remains genuinely interesting; Jump! is lawfully PARKED. No BPM, energy, density, phrase structure, perceived pulse or mixability was invented.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **20 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: For My Solids exact placement-specific REJECT / interesting; Jump! exact PARKED / interesting; seven unresolved exact-identity research leads; current NOISE DETOUR and Residual Future release windows retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **168 → 170 exact tracks**, adding For My Solids and Jump!.
+- Journey map: no canonical change; existing 20-track felt map remains current.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved → 2 selected evaluations → **0 ADD + 1 placement-specific REJECT + 1 PARKED** → 2 utility additions. Lead conversion was 19.6%; exact-resolution conversion 22.2%; selected-candidate-to-ADD conversion 0/2. Across Runs 87–95 the repaired funnel admitted 80 leads from approximately 419 inspections and added 5 of 22 selected candidates. The recent ADD rate remains 6/10 across Runs 86–95, versus 6/41 across Runs 55–95. The consecutive no-ADD count is 1; the last canonical ADD was Run 94. The strongest counterargument is that For My Solids' concise 3:09 chopped-break form may be exactly the small articulation needed between Tehutis Law and Pulse I. The evidence establishes its construction, but not a missing long-form function; the current boundary already has an intentional re-grounding-to-accumulation direction. This run therefore records restraint, not a global rejection of the track or a claim about unheard handoffs.
+
 ## Run 94 — EXPLORE — pressure versus afterword audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 165 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 19 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. The two-run no-ADD streak and earlier expansion remained health signals rather than an objective defect.

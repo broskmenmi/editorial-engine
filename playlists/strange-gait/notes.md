@@ -2,6 +2,16 @@
 
 Canonical: 20 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 95 — EXPLORE — rhythmic granularity and internal-proportion audit
+
+Nine ranked leads from approximately 46 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: two exact Spotify resolutions, seven unresolved identities, two selected candidates, no alternates and one preserved release-date warning. Exact identities and resolver errors are recorded in `discoveries.md`.
+
+**Decision:** 0 ADD. Jason Hogans — For My Solids (`spotify:track:5Ab9e9QEJJGsDWyDLh8z3F`) is a placement-specific REJECT for Tehutis Law → candidate → Pulse I and Drummz → candidate → Amor only. Its exact 3:09 chopped-break/jazz-layering evidence passes the lens, but both placements add another explicit rhythmic articulation inside runs that already move purposefully.
+
+Koloah — Jump! (`spotify:track:57t74MlJeOnQBtRH1wtCKx`) is PARKED. Its current exact identity and Mechatronica electro context are interesting, but the source describes the release rather than this track; neither tested position has a candidate-specific transition, surrounding-run or long-form gain. Reopen for richer exact-track evidence or a changed structural need.
+
+STRANGE GAIT remains at 20 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 168 → 170 exact tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Across Runs 87–95 the repaired funnel has admitted 80 leads from approximately 419 inspections and added 5 of 22 selected candidates. The consecutive no-ADD count is 1; the last canonical ADD was Run 94.
+
 ## Run 94 — EXPLORE — pressure versus afterword audit
 
 Nine ranked leads from approximately 66 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot after one transient Spotify 502 retry: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates and three preserved metadata warnings. Exact identities, errors and both resolver attempts are recorded in `discoveries.md`.
