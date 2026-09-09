@@ -1,367 +1,131 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "e146d53bbd699175b49cfe1e3b4545f172b35561b0ed159e10d3e61062b01358",
-  "generatedAt": "2026-09-08T22:53:12.724Z",
-  "runId": "2026-09-08T22:51:22Z-explore-87",
-  "sourceCommit": "9355a480c923192f572c956eae5336705d6dc3e9",
+  "requestFingerprint": "839bb0ba71451d17f9d97d697b4cf36f2f3d1531c10cff59409905dd2fce082f",
+  "generatedAt": "2026-09-09T00:01:41.817Z",
+  "runId": "2026-09-08T23:52:29Z-explore-88",
+  "sourceCommit": "1f227329e891659c43ea8a7b3948c74c6a457591",
   "mode": "EXPLORE",
   "target": {
     "role": "fresh whole-journey contender discovery under the repaired Scout/Evaluator/Auditor funnel",
-    "position": "Whole 15-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. All other boundaries remain available.",
+    "position": "Whole 16-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. All other boundaries remain available.",
     "neighbours": [],
-    "purpose": "Test whether the repaired workflow admits a healthier set of credible contenders without lowering the ADD bar, while ranking for canonical journey usefulness rather than easiest-to-describe rhythmic novelty."
+    "purpose": "Continue testing the repaired funnel with credible current, adjacent/emerging and overlooked contenders chosen for possible journey improvement rather than for already-proven handoffs."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-08T22:51:22Z",
+    "timestampUtc": "2026-09-08T23:52:29Z",
     "sourceWindows": [
-      "CURRENT / SEPTEMBER 2026 X-IMG: https://x-img.bandcamp.com/album/cold-hearts — Unconscious — Tutto è una copia retained as a current broken-beat contender from the September 4 release.",
-      "CURRENT / SEPTEMBER 2026 EARWIGGLE: https://earwiggle.bandcamp.com/album/c-system-the-resistance-of-the-chosen-ones-ep — C-System — Poison retained from the current remaster's crushing broken-beat description; the rest of the release was screened without automatic promotion.",
-      "CURRENT / SEPTEMBER 2026 ADDITIONAL WINDOWS: Bass Toast — From Above, atri — ATRI ACID, KNTZ — Hive, Viels — Luci, Yomi One — Can You Feel, _studio416 x Sender Berlin — MazanA and other September 4 catalogue windows were screened; release-level or previously covered material stayed below the lead floor unless it justified serious evaluation.",
-      "ADJACENT / ILIAN TAPE: https://ra.co/reviews/23909 — Stenny — Stress Test retained because RA explicitly frames the title track as syncopated techno/2-step material useful for bridging styles.",
-      "ADJACENT / WHIRM: https://ra.co/reviews/36044 — Will Hofbauer & Sangre Voss — I Feel U retained from its criss-cross kick/shaker/tap pattern and dembow-like rhythmic construction inside techno/club music.",
-      "OVERLOOKED / STEREOTONE: https://ra.co/reviews/35460 — Wheelman — Trompe L'oeil retained from exact hard-edged swing, staggered broken-techno and dubwise club evidence.",
-      "OVERLOOKED / DEKMANTEL: https://ra.co/reviews/36287 — Polygonia — Secret Desire retained from exact broken-techno construction in a difficult-to-classify wonky time signature.",
-      "OVERLOOKED / ILIAN TAPE ITX: https://ra.co/reviews/23200 — Konrad Wehrmeister — Overdose retained from exact broken percussion rattling around the grid.",
-      "OVERLOOKED / LONE ROMANTIC: https://ra.co/reviews/35256 — RLGN — Olonkho retained from exact heavy broken-techno / slowed-techstep construction.",
-      "OVERLOOKED / INFINITE MACHINE: https://ra.co/reviews/34010 — bonebrokk — The Astral Catalyst retained from exact broken-techno and glitchy-pulse evidence."
+      "CURRENT / BANDCAMP DAILY JULY 2026: https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026 — GRCA. — SALVADOR retained from exact slow-burn/delicate-structure evidence; Alex Mein Smith, 8110118 and the remaining named releases were screened without promotion from release-level context alone.",
+      "CURRENT / BAD PARROT: https://shezkurx.bandcamp.com/album/selecta-2 — Shez Kurx — Selecta retained as a compact current UKG/hardgroove/techno-adjacent contender; exact sonic detail remains limited to the artist/label release context.",
+      "CURRENT / THAI ELECTRONIC SCENE: https://daily.bandcamp.com/scene-report/new-thai-electronic-music and https://soundsoffuturesiam.bandcamp.com/album/airflare — Sounds of Future Siam — Windmill retained from exact syncopated full-step dubstep and Thai-instrument evidence; the wider scene report was screened without inventing techno identity.",
+      "ADJACENT / VOIGT.MAS: https://ra.co/reviews/36303 — Valesuchi — Amor retained from exact harsh-machine-to-hand-drum development inside a versatile techno album.",
+      "ADJACENT / BAD PARROT: Shez Kurx — Selecta retained despite sparse prose because the repaired Scout floor allows reliable release/artist/label context to establish credible contender status without pre-proving placement.",
+      "ADJACENT / MAARABOUGHS: https://ra.co/reviews/36308 — Maara — I Wish You Would retained from exact subtle syncopation and tribal-percussion evidence.",
+      "OVERLOOKED / DEKMANTEL UFO: https://ra.co/reviews/36219 — Wata Igarashi — The Sailage retained from exact syncopated-kick and twisting-arpeggio evidence.",
+      "OVERLOOKED / KONTRA-MUSIK: https://ra.co/reviews/21801 — Nuel — Ballet retained from exact drum-free but propulsive polyrhythmic construction.",
+      "OVERLOOKED / TOKEN: https://ra.co/reviews/16190 — Lucy — Sana Sana Sana Cura Cura Cura retained from exact cross-rhythm and dropping-in/out kick-and-hat evidence.",
+      "FRESHNESS CHECK: Danny Daze & Jonny From Space — Tumbadora was excluded after repository search showed it was already an unresolved Run 57 lead; no stale identity was retried."
     ],
-    "approximateInspectedScope": "Approximately 44 named tracks and releases across current September 2026 releases, adjacent/emerging club music and overlooked broken-techno catalogue windows; metadata and attributed descriptions only; no audio audition.",
+    "approximateInspectedScope": "Approximately 42 named tracks and releases across July–September 2026 current windows, adjacent/emerging club music and overlooked 2014–2025 catalogue reviews; metadata and attributed descriptions only; no audio audition.",
     "exclusions": [
       "All canonical identities, active placement-specific rejects, untriggered PARKED revisits and previously retained exact identities were excluded.",
-      "The two listener-protected internal trio handoffs remain unavailable; no other boundary was treated as protected by implication.",
-      "Release-level marketing without enough context to justify serious evaluation was screened but not promoted merely to inflate the lead count.",
-      "The repaired Scout floor does not require direct proof that a proposed handoff works; proposed placements remain editorial hypotheses for Evaluator testing.",
-      "Energy, density, space, hypnosis, emotion, phrase structure, perceived pulse and mixability remain unknown unless directly sourced."
+      "Tumbadora was excluded as a prior unresolved research lead; no materially new identity evidence justified a retry.",
+      "The two listener-protected internal trio handoffs remain unavailable; Truth in Noise → Transparency and all other boundaries are not protected by implication.",
+      "Release-level context was allowed to establish credible contender status under the repaired Scout floor, but never treated as proof of exact-track energy, density, phrase structure, mixability or successful placement.",
+      "No lead count or ADD quota was targeted; eight honest contenders survived the scan."
     ],
     "rankedLeadSummary": [
-      "1. Stenny — Stress Test: strongest journey-oriented lead because the exact review explicitly describes a dark syncopated techno/2-step track useful for bridging styles.",
-      "2. Will Hofbauer & Sangre Voss — I Feel U: strongest different-world contender with exact criss-cross percussion and dembow-like construction inside techno/club music.",
-      "3. Unconscious — Tutto è una copia: strongest current-release contender; exact current label text calls it a broken-beat prowler, useful for testing the late-middle rather than proving novelty.",
-      "4. Wheelman — Trompe L'oeil: hard-edged staggered broken techno with dubwise swing and a credible mid-journey route.",
-      "5. Polygonia — Secret Desire: exact broken techno in a wonky time signature, ranked for a controlled redirection rather than technical strangeness alone.",
-      "6. C-System — Poison: current remastered broken-beat catalogue tool with bells; currentness does not raise it above stronger placement evidence.",
-      "7. Konrad Wehrmeister — Overdose: overlooked broken percussion that rattles around the grid; plausible early-to-middle deformation.",
-      "8. RLGN — Olonkho: heavy broken techno with a slowed-techstep template; plausible later contrast but stronger transition risk.",
-      "9. bonebrokk — The Astral Catalyst: glitchy broken-techno pulse with strong belonging evidence but less specific journey function than higher-ranked leads."
+      "1. Valesuchi — Amor: strongest structural contender because exact evidence documents harsh machine sounds yielding to hand-drum rhythms, with a plausible late-middle consolidation function.",
+      "2. Shez Kurx — Selecta: strongest current adjacent-world contender; compact UKG/hardgroove/techno context could sharpen the open threshold before the protected trio, though exact behaviour is sparsely documented.",
+      "3. Nuel — Ballet: strongest boundary-scale alternative; exact drum-free polyrhythmic propulsion could form an overture or afterword without being forced into the central run.",
+      "4. GRCA. — SALVADOR: current slow-burn contender with delicate structures orbiting bass, plausible as an early widening or afterword.",
+      "5. Wata Igarashi — The Sailage: exact syncopated-kick/arpeggio construction offers a controlled internal redirection.",
+      "6. Maara — I Wish You Would: subtle syncopation and tribal percussion provide an adjacent-world early or tail possibility.",
+      "7. Sounds of Future Siam — Windmill: syncopated full-step dubstep with Thai instrumentation supplies a conspicuous different-world option, ranked lower because techno identity and handoffs are less certain.",
+      "8. Lucy — Sana Sana Sana Cura Cura Cura: explicit cross-rhythms strongly fit the lens, but current journey function is less distinct from already-retained central mechanisms."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 9,
-  "resolvedCount": 5,
+  "requestedCount": 8,
+  "resolvedCount": 7,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Stenny",
-      "track": "Stress Test",
+      "artist": "Nuel",
+      "track": "Ballet",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Stenny",
-        "track": "Stress Test",
-        "album": "Stress Test",
-        "releaseDate": "2019-05",
+        "artist": "Nuel",
+        "track": "Ballet",
+        "album": "Replica",
+        "releaseDate": "2017-10",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/23909",
+        "discoverySource": "https://ra.co/reviews/21801",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 139,
-            "purpose": "Test a source-described bridge between broken techno and 2-step as a deliberate continuation into Tehutis Law's re-grounding."
-          },
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
+            "position": "Before SHDW & Obscure Shape — Die Weiße Rose",
+            "followingUri": "spotify:track:3bRTZVahEd3o0ohjqOo2Am",
             "candidateBpm": null,
             "outgoingBpm": 136,
-            "purpose": "Test whether its explicit bridging function can create a purposeful route from re-grounding into Pulse I's crooked accumulation."
-          }
-        ],
-        "fitHypothesis": "RA describes the title track as dark 2-step-informed, properly syncopated techno whose construction is useful for DJs bridging the two styles.",
-        "evidence": {
-          "measured": [
-            "Released May 2019; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA says Stress Test pushes Ilian Tape into more properly syncopated territory, uses 2-step/grime stutter, and is useful for bridging styles.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A source-described bridging track may deepen an existing broken-to-groove corridor without requiring one sonic room.",
-          "editorialInterpretation": "Highest-ranked canonical contender because its evidence speaks directly to connective function, not just odd rhythm."
-        }
-      }
-    },
-    {
-      "artist": "Will Hofbauer, Sangre Voss",
-      "track": "I Feel U",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Will Hofbauer, Sangre Voss",
-        "track": "I Feel U",
-        "album": "I Feel U",
-        "releaseDate": "2024-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36044",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a colourful dembow-like broken-techno world as an intentional early widening rather than a novelty insert."
-          },
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test criss-cross percussion as a different-world continuation of the already redirected middle passage."
-          }
-        ],
-        "fitHypothesis": "RA describes criss-cross kick drums, shakers and taps creating a dembow-like rhythm within a broken-techno/club context.",
-        "evidence": {
-          "measured": [
-            "Released April 2024; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA describes lanky drum patterns, dub effects and a criss-cross kick/shaker/tap pattern forming a dembow-like rhythm.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous production-world change can pass if it extends an existing rhythmic redirection rather than resetting it accidentally.",
-          "editorialInterpretation": "Strong different-world candidate chosen to test whether the repaired funnel can evaluate contrast without demanding sameness."
-        }
-      }
-    },
-    {
-      "artist": "Unconscious",
-      "track": "Tutto è una copia",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Unconscious",
-        "track": "Tutto è una copia",
-        "album": "Cold Hearts",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://x-img.bandcamp.com/album/cold-hearts",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test a current broken-beat prowler as a late-middle deformation before groove consolidation."
+            "purpose": "Test a drum-free but propulsive polyrhythmic overture before the current rolling opener."
           },
           {
             "position": "After Len Faki — Stardancer",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Secondary test as a current broken-beat afterword if the internal placement is weaker."
+            "purpose": "Secondary test as a boundary-scale afterword that releases the protected trio without splitting it."
           }
         ],
-        "fitHypothesis": "X-IMG's current release text explicitly calls Tutto è una copia a broken-beat prowler.",
+        "fitHypothesis": "RA describes the exact track as drum-free yet propulsive through polyrhythmic ascending synth spirals and restless dubbed ambience.",
         "evidence": {
           "measured": [
-            "Released September 4, 2026; Bandcamp duration 4:37; exact BPM remains for resolver."
+            "Released October 2017; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "X-IMG describes the exact track as a broken-beat prowler complementing the release's 4/4 counterpart.",
+          "attributedDescription": "Resident Advisor explicitly describes drum-free propulsion from a polyrhythmic mixture of ascending synth spirals and dubbed ambience.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A current compact broken-beat track may deform the late-middle without requiring a new chapter; exact handoffs remain evaluation questions.",
-          "editorialInterpretation": "Best current-release contender, admitted to resolution despite concise source prose because the repaired lead floor asks for serious potential, not final proof."
-        }
-      }
-    },
-    {
-      "artist": "Konrad Wehrmeister",
-      "track": "Overdose",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Konrad Wehrmeister",
-        "track": "Overdose",
-        "album": "5050",
-        "releaseDate": "2018-10",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/23200",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test broken percussion as an early deformation without disrupting the opener itself."
-          },
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary test inside the altered-gait corridor."
-          }
-        ],
-        "fitHypothesis": "RA describes Overdose as broken percussion rattling around the grid, near disintegration but rhythmically active.",
-        "evidence": {
-          "measured": [
-            "Released October 2018; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA says Overdose's broken percussion rattles around the grid like a wounded freight train nearing disintegration.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Early deformation can work if it makes the opening more intentional rather than recreating the user's old favourite-tracks problem.",
-          "editorialInterpretation": "Useful overlooked contender; listener history makes its opening hypothesis higher-risk than the top candidates."
+          "craftConvention": "A track can resist fixed techno form without carrying conventional drums; boundary placement must still improve the long-form arc.",
+          "editorialInterpretation": "Selected as a genuinely different boundary contender rather than another central broken-techno mechanism."
         }
       }
     }
   ],
   "warnings": [
     {
-      "artist": "Wheelman",
-      "track": "Trompe L'oeil",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Trompe L'oeil\" but Spotify returned \"Trompe L'oeil/Drifting\"; release date requested \"2023-04\" but Spotify returned \"2023-04-25\""
+      "artist": "Valesuchi",
+      "track": "Amor",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025\" but Spotify returned \"2025-08-08\""
     },
     {
-      "artist": "Polygonia",
-      "track": "Secret Desire",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-06\" but Spotify returned \"2025-06-13\""
+      "artist": "Wata Igarashi",
+      "track": "The Sailage",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Kaleidoscopic\" but Spotify returned \"Kaleidoscopic EP\"; release date requested \"2025\" but Spotify returned \"2025-01-24\""
     },
     {
-      "artist": "C-System",
-      "track": "Poison",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"The Resistance of the Chosen Ones EP\" but Spotify returned \"World of Vanity Ep\"; release date requested \"2026-09-04\" but Spotify returned \"2009-02-11\""
+      "artist": "Maara",
+      "track": "I Wish You Would",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Revenge from the Penthouse\" but Spotify returned \"Revenge from the Penthouse EP\"; release date requested \"2025\" but Spotify returned \"2025-09-12\""
     },
     {
-      "artist": "RLGN",
-      "track": "Olonkho",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Romantichrist\" but Spotify returned \"Romantichrist EP\"; release date requested \"2022-12\" but Spotify returned \"2022-12-09\""
-    },
-    {
-      "artist": "bonebrokk",
-      "track": "The Astral Catalyst",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2021-07\" but Spotify returned \"2021-07-30\""
+      "artist": "Sounds of Future Siam",
+      "track": "Windmill",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-05-10\" but Spotify returned \"2025-05-13\""
     }
   ],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Stenny",
-        "track": "Stress Test",
-        "album": "Stress Test",
-        "releaseDate": "2019-05",
+        "artist": "Valesuchi",
+        "track": "Amor",
+        "album": "Futuro Cercano",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/23909",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 139,
-            "purpose": "Test a source-described bridge between broken techno and 2-step as a deliberate continuation into Tehutis Law's re-grounding."
-          },
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether its explicit bridging function can create a purposeful route from re-grounding into Pulse I's crooked accumulation."
-          }
-        ],
-        "fitHypothesis": "RA describes the title track as dark 2-step-informed, properly syncopated techno whose construction is useful for DJs bridging the two styles.",
-        "evidence": {
-          "measured": [
-            "Released May 2019; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA says Stress Test pushes Ilian Tape into more properly syncopated territory, uses 2-step/grime stutter, and is useful for bridging styles.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A source-described bridging track may deepen an existing broken-to-groove corridor without requiring one sonic room.",
-          "editorialInterpretation": "Highest-ranked canonical contender because its evidence speaks directly to connective function, not just odd rhythm."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Will Hofbauer, Sangre Voss",
-        "track": "I Feel U",
-        "album": "I Feel U",
-        "releaseDate": "2024-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36044",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a colourful dembow-like broken-techno world as an intentional early widening rather than a novelty insert."
-          },
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test criss-cross percussion as a different-world continuation of the already redirected middle passage."
-          }
-        ],
-        "fitHypothesis": "RA describes criss-cross kick drums, shakers and taps creating a dembow-like rhythm within a broken-techno/club context.",
-        "evidence": {
-          "measured": [
-            "Released April 2024; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA describes lanky drum patterns, dub effects and a criss-cross kick/shaker/tap pattern forming a dembow-like rhythm.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A conspicuous production-world change can pass if it extends an existing rhythmic redirection rather than resetting it accidentally.",
-          "editorialInterpretation": "Strong different-world candidate chosen to test whether the repaired funnel can evaluate contrast without demanding sameness."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Unconscious",
-        "track": "Tutto è una copia",
-        "album": "Cold Hearts",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://x-img.bandcamp.com/album/cold-hearts",
+        "discoverySource": "https://ra.co/reviews/36303",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -371,26 +135,117 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test a current broken-beat prowler as a late-middle deformation before groove consolidation."
+            "purpose": "Test its documented internal turn toward hand drums as a purposeful late-middle mutation before groove consolidation."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Secondary test as an early production-world widening whose internal change could make the rise feel deliberate."
+          }
+        ],
+        "fitHypothesis": "RA documents harsh machine sounds dominating before hand-drum rhythms arrive; the track sits within an explicitly versatile techno album.",
+        "evidence": {
+          "measured": [
+            "Exact duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes harsh machine sounds giving way to pittering hand-drum rhythms.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A documented internal change can carry a conspicuous placement when it improves both boundary and local run.",
+          "editorialInterpretation": "Highest-ranked because its evidence supports structural function rather than mere novelty."
+        }
+      },
+      "spotifyTrackId": "6sFAOCWU1adeWUEZaKWtEy",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Shez Kurx",
+        "track": "Selecta",
+        "album": "Selecta",
+        "releaseDate": "2026-07-31",
+        "bpm": 145,
+        "bpmSource": "https://www.mixgraph.io/tracks/shez-kurx-selecta",
+        "discoverySource": "https://shezkurx.bandcamp.com/album/selecta-2",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": 145,
+            "outgoingBpm": 143,
+            "purpose": "Test a compact current UKG/hardgroove/techno-adjacent threshold before the protected trio without altering its internal handoffs."
+          },
+          {
+            "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": 140,
+            "candidateBpm": 145,
+            "outgoingBpm": 140,
+            "purpose": "Secondary test as a conspicuous but bounded early acceleration between two 140-BPM canonical tracks."
+          }
+        ],
+        "fitHypothesis": "Official current release context spans UK garage, hardgroove and techno; exact retailer-style metadata reports 145 BPM and 3:12.",
+        "evidence": {
+          "measured": [
+            "Released July 31, 2026; Bandcamp lists 3:48 for the album track while external metadata lists 3:12, so exact version/duration remain for resolver.",
+            "External listing reports 145 BPM."
+          ],
+          "attributedDescription": "Official Bandcamp frames the EP around UK garage, hardgroove, techno and bass elements; it provides limited exact-track prose.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Reliable release/artist/label context may justify resolution under the repaired Scout floor without proving exact handoffs.",
+          "editorialInterpretation": "A serious current contender whose sparse prose should create uncertainty, not pre-resolution exclusion."
+        }
+      },
+      "spotifyTrackId": "1yd50MPCwQZvXoSN1SJWdX",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Nuel",
+        "track": "Ballet",
+        "album": "Replica",
+        "releaseDate": "2017-10",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/21801",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Before SHDW & Obscure Shape — Die Weiße Rose",
+            "followingUri": "spotify:track:3bRTZVahEd3o0ohjqOo2Am",
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test a drum-free but propulsive polyrhythmic overture before the current rolling opener."
           },
           {
             "position": "After Len Faki — Stardancer",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "incomingBpm": 137,
             "candidateBpm": null,
-            "purpose": "Secondary test as a current broken-beat afterword if the internal placement is weaker."
+            "purpose": "Secondary test as a boundary-scale afterword that releases the protected trio without splitting it."
           }
         ],
-        "fitHypothesis": "X-IMG's current release text explicitly calls Tutto è una copia a broken-beat prowler.",
+        "fitHypothesis": "RA describes the exact track as drum-free yet propulsive through polyrhythmic ascending synth spirals and restless dubbed ambience.",
         "evidence": {
           "measured": [
-            "Released September 4, 2026; Bandcamp duration 4:37; exact BPM remains for resolver."
+            "Released October 2017; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "X-IMG describes the exact track as a broken-beat prowler complementing the release's 4/4 counterpart.",
+          "attributedDescription": "Resident Advisor explicitly describes drum-free propulsion from a polyrhythmic mixture of ascending synth spirals and dubbed ambience.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A current compact broken-beat track may deform the late-middle without requiring a new chapter; exact handoffs remain evaluation questions.",
-          "editorialInterpretation": "Best current-release contender, admitted to resolution despite concise source prose because the repaired lead floor asks for serious potential, not final proof."
+          "craftConvention": "A track can resist fixed techno form without carrying conventional drums; boundary placement must still improve the long-form arc.",
+          "editorialInterpretation": "Selected as a genuinely different boundary contender rather than another central broken-techno mechanism."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -398,69 +253,67 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Wheelman",
-        "track": "Trompe L'oeil",
-        "album": "Trompe L'oeil",
-        "releaseDate": "2023-04",
+        "artist": "GRCA.",
+        "track": "SALVADOR",
+        "album": "nzenza.",
+        "releaseDate": "2026-06-26",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35460",
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test hard-edged swing inside the redirection corridor."
-          },
-          {
-            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 136,
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a stronger broken-club contrast after Pulse I's gradual accumulation."
+            "purpose": "Test a current slow-burn, delicate structural widening before the early rise."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Secondary test as a current five-minute afterword."
           }
         ],
-        "fitHypothesis": "RA describes hard-edged swing, genuinely staggered broken techno, delay and a dubwise UK club construction.",
+        "fitHypothesis": "Bandcamp Daily describes this exact track as a five-minute slow burn with delicate structures orbiting subterranean bass; the official release tags it as percussive afro-electronic material.",
         "evidence": {
           "measured": [
-            "Released April 2023; exact duration and BPM remain for resolver."
+            "Official Bandcamp duration 5:19; released June 26, 2026; BPM remains for resolver."
           ],
-          "attributedDescription": "RA describes a staggered broken-techno beat with hard-edged swing, dubwise delay and UK club references.",
+          "attributedDescription": "Bandcamp Daily calls SALVADOR a slow burn whose delicate structures orbit subterranean bass.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Strong swing can deepen an altered-gait run or create too much contrast; Evaluator decides from the full local run.",
-          "editorialInterpretation": "High-quality overlooked contender with clear belonging and two non-protected internal hypotheses."
+          "craftConvention": "Subtle structure can pass the selection lens without needing overt odd meter or a new chapter role.",
+          "editorialInterpretation": "Strong current contender for an early widening or afterword."
         }
       },
-      "spotifyTrackId": "4xJgdoF9E3vyBKsYvEXTba",
+      "spotifyTrackId": "0ktQpgLbyiicUilbGnFz0h",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Polygonia",
-        "track": "Secret Desire",
-        "album": "Dream Horizons",
-        "releaseDate": "2025-06",
+        "artist": "Wata Igarashi",
+        "track": "The Sailage",
+        "album": "Kaleidoscopic",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36287",
+        "discoverySource": "https://ra.co/reviews/36219",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
+            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": 138,
             "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a wonky-time broken-techno redirection at the existing Ground-to-Tilt threshold."
+            "outgoingBpm": 139,
+            "purpose": "Test syncopated kicks and twisting arpeggios as a controlled continuation out of the central altered-gait pocket."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -469,171 +322,122 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 143,
-            "purpose": "Secondary test at the unprotected threshold before the listener-confirmed trio."
+            "purpose": "Secondary test at the open pre-trio threshold."
           }
         ],
-        "fitHypothesis": "RA describes Secret Desire as skeletal, droney broken techno in a wonky time signature that is difficult to classify.",
+        "fitHypothesis": "RA documents glittering, twisting arpeggios over syncopated kick drums in a techno context.",
         "evidence": {
           "measured": [
-            "Released June 2025; exact duration and BPM remain for resolver."
+            "Released in 2025; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes the exact track as broken techno with off-kilter pacing in an apparently wonky time signature.",
+          "attributedDescription": "Resident Advisor describes arpeggios glittering and twisting over syncopated kick drums.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A controlled rhythmic redirection can be deliberate without being smooth; it must improve the threshold rather than merely demonstrate complexity.",
-          "editorialInterpretation": "Strong selection-lens contender with specific threshold hypotheses, ranked below more connective top-three options."
+          "craftConvention": "Syncopation matters only if it sharpens a transition and surrounding run, not because it proves technical interest.",
+          "editorialInterpretation": "Controlled internal contender ranked below candidates with more distinctive journey functions."
         }
       },
-      "spotifyTrackId": "4H6aAVHLXSDB18QJEZYbXo",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "C-System",
-        "track": "Poison",
-        "album": "The Resistance of the Chosen Ones EP",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://earwiggle.bandcamp.com/album/c-system-the-resistance-of-the-chosen-ones-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a current remastered broken-beat tool before Pulse I's gradual accumulation."
-          },
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test an alternative late-middle deformation before groove consolidation."
-          }
-        ],
-        "fitHypothesis": "Earwiggle describes the remastered Poison as combining crushing broken beats with chiming bells.",
-        "evidence": {
-          "measured": [
-            "Current remaster released September 4, 2026; exact version identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Earwiggle describes Poison's remaster as crushing broken beats with chiming bells.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Current remaster context is not a reason to ADD; the candidate earns resolution because its broken-beat construction plausibly supports two existing internal passages.",
-          "editorialInterpretation": "Current catalogue contender ranked below candidates with clearer connective evidence."
-        }
-      },
-      "spotifyTrackId": "2hoZk7Gg9Gv2YkC3fW8nf7",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Konrad Wehrmeister",
-        "track": "Overdose",
-        "album": "5050",
-        "releaseDate": "2018-10",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/23200",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test broken percussion as an early deformation without disrupting the opener itself."
-          },
-          {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary test inside the altered-gait corridor."
-          }
-        ],
-        "fitHypothesis": "RA describes Overdose as broken percussion rattling around the grid, near disintegration but rhythmically active.",
-        "evidence": {
-          "measured": [
-            "Released October 2018; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA says Overdose's broken percussion rattles around the grid like a wounded freight train nearing disintegration.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Early deformation can work if it makes the opening more intentional rather than recreating the user's old favourite-tracks problem.",
-          "editorialInterpretation": "Useful overlooked contender; listener history makes its opening hypothesis higher-risk than the top candidates."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "RLGN",
-        "track": "Olonkho",
-        "album": "Romantichrist",
-        "releaseDate": "2022-12",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35256",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test a heavier broken-techno turn after gradual crooked accumulation."
-          },
-          {
-            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary test as a conspicuous later contrast before Drummz."
-          }
-        ],
-        "fitHypothesis": "RA describes Olonkho as heavy-duty broken techno built like slowed-down techstep, with unusually large drums.",
-        "evidence": {
-          "measured": [
-            "Released December 2022; exact duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "RA describes a heavy broken-techno template with a drum-and-bass/slow-techstep twist.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "A heavier contrast can pass if it advances the later journey instead of merely escalating impact.",
-          "editorialInterpretation": "Strong belonging but more transition risk than higher-ranked connective candidates."
-        }
-      },
-      "spotifyTrackId": "2AS7LdcsAa1n1EU8339ihK",
+      "spotifyTrackId": "5NdjQXggi3VasT9r0PARpz",
       "selected": false
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "bonebrokk",
-        "track": "The Astral Catalyst",
-        "album": "The Astral Catalyst",
-        "releaseDate": "2021-07",
+        "artist": "Maara",
+        "track": "I Wish You Would",
+        "album": "Revenge from the Penthouse",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/34010",
+        "discoverySource": "https://ra.co/reviews/36308",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test subtly syncopated tribal percussion as an early character change that still points toward the rise."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Secondary test as a lighter adjacent-world afterword."
+          }
+        ],
+        "fitHypothesis": "RA calls the exact track a subtly syncopated tribal banger with bubbly percussion and vocal detail.",
+        "evidence": {
+          "measured": [
+            "Released in 2025; exact duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes subtle syncopation, tribal framing, bubbly percussion and vocals.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "A vocal or adjacent-world move may pass if it creates purposeful character change at all three sequencing scales.",
+          "editorialInterpretation": "Useful contrast candidate with two boundary-conscious hypotheses."
+        }
+      },
+      "spotifyTrackId": "2pTyovK4irlUGXEtlDv0g2",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Sounds of Future Siam",
+        "track": "Windmill",
+        "album": "Airflare",
+        "releaseDate": "2025-05-10",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://daily.bandcamp.com/scene-report/new-thai-electronic-music",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a syncopated full-step dubstep afterword as a deliberate exit into a different rhythmic world."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Secondary test as an early production-world left turn."
+          }
+        ],
+        "fitHypothesis": "Bandcamp Daily documents syncopation, skittering percussion and full-step dubstep fused with traditional Thai samples; official Bandcamp classifies the release as traditional Thai breakbeat.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp duration 2:53; released May 10, 2025; BPM remains for resolver."
+          ],
+          "attributedDescription": "Bandcamp Daily describes syncopation, skittering percussion, pulsating wobbles and traditional Thai instrumental/vocal samples.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Different-world material can pass when the left turn is purposeful; techno orthodoxy is not enough to admit or exclude it.",
+          "editorialInterpretation": "High inspiration value, but lower canonical rank because its relationship to the present journey is less established."
+        }
+      },
+      "spotifyTrackId": "26cVGRIca4EHYUlBFEHwkO",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Lucy",
+        "track": "Sana Sana Sana Cura Cura Cura",
+        "album": "Aphelion",
+        "releaseDate": "2014",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/16190",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -643,147 +447,323 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a glitchy broken-techno pulse as a deliberate threshold into the altered-gait middle."
+            "purpose": "Test explicit cross-rhythms and dropping-in/out kick and hi-hat at the entrance to the altered-gait corridor."
           },
           {
-            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
             "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary late-middle test if the threshold hypothesis is too disruptive."
+            "outgoingBpm": 143,
+            "purpose": "Secondary test as an unflinching pre-trio threshold."
           }
         ],
-        "fitHypothesis": "RA describes the title track as crunchy broken techno with a pounding, glitchy pulse.",
+        "fitHypothesis": "RA describes syncopated cross-rhythms rubbing together while kick and hi-hat drop in and out.",
         "evidence": {
           "measured": [
-            "Released July 2021; exact duration and BPM remain for resolver."
+            "Released in 2014; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes broken techno with a stomp, snarl and pounding glitchy pulse.",
+          "attributedDescription": "Resident Advisor documents syncopated cross-rhythms and a kick/hi-hat pattern that drops in and out.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Strong belonging alone is insufficient; its lower rank reflects less specific journey function than the top contenders.",
-          "editorialInterpretation": "Honest ninth lead included because it clears the repaired lead floor, not to pad toward a quota."
+          "craftConvention": "Strong selection-lens fit does not prove a new mechanism improves a journey already rich in central rhythmic deformation.",
+          "editorialInterpretation": "Honest overlooked contender, ranked lower because its distinct journey gain is less clear than higher-ranked options."
         }
       },
-      "spotifyTrackId": "43mshTwTPFcgDAr6rU2aMw",
+      "spotifyTrackId": "5nr58t0dHTiTEcxHXl3O0O",
       "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "4xJgdoF9E3vyBKsYvEXTba",
-      "uri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-      "name": "Trompe L'oeil",
+      "id": "6sFAOCWU1adeWUEZaKWtEy",
+      "uri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+      "name": "Amor",
       "artists": [
-        "Wheelman"
+        "Valesuchi"
       ],
-      "album": "Trompe L'oeil/Drifting",
-      "releaseDate": "2023-04-25",
-      "durationMs": 343500,
-      "spotifyUrl": "https://open.spotify.com/track/4xJgdoF9E3vyBKsYvEXTba",
+      "album": "Futuro Cercano",
+      "releaseDate": "2025-08-08",
+      "durationMs": 223000,
+      "spotifyUrl": "https://open.spotify.com/track/6sFAOCWU1adeWUEZaKWtEy",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/35460",
+      "discoverySource": "https://ra.co/reviews/36303",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": 137,
+          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 138,
-          "purpose": "Test hard-edged swing inside the redirection corridor."
+          "purpose": "Test its documented internal turn toward hand drums as a purposeful late-middle mutation before groove consolidation."
         },
         {
-          "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": 136,
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test a stronger broken-club contrast after Pulse I's gradual accumulation."
+          "purpose": "Secondary test as an early production-world widening whose internal change could make the rise feel deliberate."
         }
       ],
-      "fitHypothesis": "RA describes hard-edged swing, genuinely staggered broken techno, delay and a dubwise UK club construction.",
+      "fitHypothesis": "RA documents harsh machine sounds dominating before hand-drum rhythms arrive; the track sits within an explicitly versatile techno album.",
       "evidence": {
         "measured": [
-          "Released April 2023; exact duration and BPM remain for resolver."
+          "Exact duration and BPM remain for resolver."
         ],
-        "attributedDescription": "RA describes a staggered broken-techno beat with hard-edged swing, dubwise delay and UK club references.",
+        "attributedDescription": "Resident Advisor describes harsh machine sounds giving way to pittering hand-drum rhythms.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Strong swing can deepen an altered-gait run or create too much contrast; Evaluator decides from the full local run.",
-        "editorialInterpretation": "High-quality overlooked contender with clear belonging and two non-protected internal hypotheses."
+        "craftConvention": "A documented internal change can carry a conspicuous placement when it improves both boundary and local run.",
+        "editorialInterpretation": "Highest-ranked because its evidence supports structural function rather than mere novelty."
       },
       "requestedIdentity": {
-        "artist": "Wheelman",
-        "track": "Trompe L'oeil",
-        "album": "Trompe L'oeil",
-        "releaseDate": "2023-04",
+        "artist": "Valesuchi",
+        "track": "Amor",
+        "album": "Futuro Cercano",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35460",
+        "discoverySource": "https://ra.co/reviews/36303",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Nørbak — Capa and brenner — Thick to Handle",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 137,
+            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 138,
-            "purpose": "Test hard-edged swing inside the redirection corridor."
+            "purpose": "Test its documented internal turn toward hand drums as a purposeful late-middle mutation before groove consolidation."
           },
           {
-            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 136,
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a stronger broken-club contrast after Pulse I's gradual accumulation."
+            "purpose": "Secondary test as an early production-world widening whose internal change could make the rise feel deliberate."
           }
         ],
-        "fitHypothesis": "RA describes hard-edged swing, genuinely staggered broken techno, delay and a dubwise UK club construction.",
+        "fitHypothesis": "RA documents harsh machine sounds dominating before hand-drum rhythms arrive; the track sits within an explicitly versatile techno album.",
         "evidence": {
           "measured": [
-            "Released April 2023; exact duration and BPM remain for resolver."
+            "Exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes a staggered broken-techno beat with hard-edged swing, dubwise delay and UK club references.",
+          "attributedDescription": "Resident Advisor describes harsh machine sounds giving way to pittering hand-drum rhythms.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Strong swing can deepen an altered-gait run or create too much contrast; Evaluator decides from the full local run.",
-          "editorialInterpretation": "High-quality overlooked contender with clear belonging and two non-protected internal hypotheses."
+          "craftConvention": "A documented internal change can carry a conspicuous placement when it improves both boundary and local run.",
+          "editorialInterpretation": "Highest-ranked because its evidence supports structural function rather than mere novelty."
         }
       }
     },
     {
-      "id": "4H6aAVHLXSDB18QJEZYbXo",
-      "uri": "spotify:track:4H6aAVHLXSDB18QJEZYbXo",
-      "name": "Secret Desire",
+      "id": "1yd50MPCwQZvXoSN1SJWdX",
+      "uri": "spotify:track:1yd50MPCwQZvXoSN1SJWdX",
+      "name": "Selecta",
       "artists": [
-        "Polygonia"
+        "Shez Kurx"
       ],
-      "album": "Dream Horizons",
-      "releaseDate": "2025-06-13",
-      "durationMs": 348312,
-      "spotifyUrl": "https://open.spotify.com/track/4H6aAVHLXSDB18QJEZYbXo",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/36287",
+      "album": "Selecta",
+      "releaseDate": "2026-07-31",
+      "durationMs": 192000,
+      "spotifyUrl": "https://open.spotify.com/track/1yd50MPCwQZvXoSN1SJWdX",
+      "bpm": 145,
+      "tempoSource": "https://www.mixgraph.io/tracks/shez-kurx-selecta",
+      "discoverySource": "https://shezkurx.bandcamp.com/album/selecta-2",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "candidateBpm": 145,
+          "outgoingBpm": 143,
+          "purpose": "Test a compact current UKG/hardgroove/techno-adjacent threshold before the protected trio without altering its internal handoffs."
+        },
+        {
+          "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
           "incomingBpm": 140,
+          "candidateBpm": 145,
+          "outgoingBpm": 140,
+          "purpose": "Secondary test as a conspicuous but bounded early acceleration between two 140-BPM canonical tracks."
+        }
+      ],
+      "fitHypothesis": "Official current release context spans UK garage, hardgroove and techno; exact retailer-style metadata reports 145 BPM and 3:12.",
+      "evidence": {
+        "measured": [
+          "Released July 31, 2026; Bandcamp lists 3:48 for the album track while external metadata lists 3:12, so exact version/duration remain for resolver.",
+          "External listing reports 145 BPM."
+        ],
+        "attributedDescription": "Official Bandcamp frames the EP around UK garage, hardgroove, techno and bass elements; it provides limited exact-track prose.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Reliable release/artist/label context may justify resolution under the repaired Scout floor without proving exact handoffs.",
+        "editorialInterpretation": "A serious current contender whose sparse prose should create uncertainty, not pre-resolution exclusion."
+      },
+      "requestedIdentity": {
+        "artist": "Shez Kurx",
+        "track": "Selecta",
+        "album": "Selecta",
+        "releaseDate": "2026-07-31",
+        "bpm": 145,
+        "bpmSource": "https://www.mixgraph.io/tracks/shez-kurx-selecta",
+        "discoverySource": "https://shezkurx.bandcamp.com/album/selecta-2",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "candidateBpm": 145,
+            "outgoingBpm": 143,
+            "purpose": "Test a compact current UKG/hardgroove/techno-adjacent threshold before the protected trio without altering its internal handoffs."
+          },
+          {
+            "position": "Between Sciahri — Too Much Time and Sciahri — Moonwake",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": 140,
+            "candidateBpm": 145,
+            "outgoingBpm": 140,
+            "purpose": "Secondary test as a conspicuous but bounded early acceleration between two 140-BPM canonical tracks."
+          }
+        ],
+        "fitHypothesis": "Official current release context spans UK garage, hardgroove and techno; exact retailer-style metadata reports 145 BPM and 3:12.",
+        "evidence": {
+          "measured": [
+            "Released July 31, 2026; Bandcamp lists 3:48 for the album track while external metadata lists 3:12, so exact version/duration remain for resolver.",
+            "External listing reports 145 BPM."
+          ],
+          "attributedDescription": "Official Bandcamp frames the EP around UK garage, hardgroove, techno and bass elements; it provides limited exact-track prose.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Reliable release/artist/label context may justify resolution under the repaired Scout floor without proving exact handoffs.",
+          "editorialInterpretation": "A serious current contender whose sparse prose should create uncertainty, not pre-resolution exclusion."
+        }
+      }
+    },
+    {
+      "id": "0ktQpgLbyiicUilbGnFz0h",
+      "uri": "spotify:track:0ktQpgLbyiicUilbGnFz0h",
+      "name": "SALVADOR",
+      "artists": [
+        "GRCA."
+      ],
+      "album": "nzenza.",
+      "releaseDate": "2026-06-26",
+      "durationMs": 319354,
+      "spotifyUrl": "https://open.spotify.com/track/0ktQpgLbyiicUilbGnFz0h",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
           "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test a wonky-time broken-techno redirection at the existing Ground-to-Tilt threshold."
+          "outgoingBpm": 140,
+          "purpose": "Test a current slow-burn, delicate structural widening before the early rise."
+        },
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Secondary test as a current five-minute afterword."
+        }
+      ],
+      "fitHypothesis": "Bandcamp Daily describes this exact track as a five-minute slow burn with delicate structures orbiting subterranean bass; the official release tags it as percussive afro-electronic material.",
+      "evidence": {
+        "measured": [
+          "Official Bandcamp duration 5:19; released June 26, 2026; BPM remains for resolver."
+        ],
+        "attributedDescription": "Bandcamp Daily calls SALVADOR a slow burn whose delicate structures orbit subterranean bass.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Subtle structure can pass the selection lens without needing overt odd meter or a new chapter role.",
+        "editorialInterpretation": "Strong current contender for an early widening or afterword."
+      },
+      "requestedIdentity": {
+        "artist": "GRCA.",
+        "track": "SALVADOR",
+        "album": "nzenza.",
+        "releaseDate": "2026-06-26",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test a current slow-burn, delicate structural widening before the early rise."
+          },
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Secondary test as a current five-minute afterword."
+          }
+        ],
+        "fitHypothesis": "Bandcamp Daily describes this exact track as a five-minute slow burn with delicate structures orbiting subterranean bass; the official release tags it as percussive afro-electronic material.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp duration 5:19; released June 26, 2026; BPM remains for resolver."
+          ],
+          "attributedDescription": "Bandcamp Daily calls SALVADOR a slow burn whose delicate structures orbit subterranean bass.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Subtle structure can pass the selection lens without needing overt odd meter or a new chapter role.",
+          "editorialInterpretation": "Strong current contender for an early widening or afterword."
+        }
+      }
+    }
+  ],
+  "resolvedAlternates": [
+    {
+      "id": "5NdjQXggi3VasT9r0PARpz",
+      "uri": "spotify:track:5NdjQXggi3VasT9r0PARpz",
+      "name": "The Sailage",
+      "artists": [
+        "Wata Igarashi"
+      ],
+      "album": "Kaleidoscopic EP",
+      "releaseDate": "2025-01-24",
+      "durationMs": 354733,
+      "spotifyUrl": "https://open.spotify.com/track/5NdjQXggi3VasT9r0PARpz",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/36219",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": 139,
+          "purpose": "Test syncopated kicks and twisting arpeggios as a controlled continuation out of the central altered-gait pocket."
         },
         {
           "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -792,38 +772,38 @@
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": 143,
-          "purpose": "Secondary test at the unprotected threshold before the listener-confirmed trio."
+          "purpose": "Secondary test at the open pre-trio threshold."
         }
       ],
-      "fitHypothesis": "RA describes Secret Desire as skeletal, droney broken techno in a wonky time signature that is difficult to classify.",
+      "fitHypothesis": "RA documents glittering, twisting arpeggios over syncopated kick drums in a techno context.",
       "evidence": {
         "measured": [
-          "Released June 2025; exact duration and BPM remain for resolver."
+          "Released in 2025; exact duration and BPM remain for resolver."
         ],
-        "attributedDescription": "RA describes the exact track as broken techno with off-kilter pacing in an apparently wonky time signature.",
+        "attributedDescription": "Resident Advisor describes arpeggios glittering and twisting over syncopated kick drums.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A controlled rhythmic redirection can be deliberate without being smooth; it must improve the threshold rather than merely demonstrate complexity.",
-        "editorialInterpretation": "Strong selection-lens contender with specific threshold hypotheses, ranked below more connective top-three options."
+        "craftConvention": "Syncopation matters only if it sharpens a transition and surrounding run, not because it proves technical interest.",
+        "editorialInterpretation": "Controlled internal contender ranked below candidates with more distinctive journey functions."
       },
       "requestedIdentity": {
-        "artist": "Polygonia",
-        "track": "Secret Desire",
-        "album": "Dream Horizons",
-        "releaseDate": "2025-06",
+        "artist": "Wata Igarashi",
+        "track": "The Sailage",
+        "album": "Kaleidoscopic",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36287",
+        "discoverySource": "https://ra.co/reviews/36219",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
+            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": 138,
             "candidateBpm": null,
-            "outgoingBpm": 137,
-            "purpose": "Test a wonky-time broken-techno redirection at the existing Ground-to-Tilt threshold."
+            "outgoingBpm": 139,
+            "purpose": "Test syncopated kicks and twisting arpeggios as a controlled continuation out of the central altered-gait pocket."
           },
           {
             "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
@@ -832,214 +812,204 @@
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": 143,
-            "purpose": "Secondary test at the unprotected threshold before the listener-confirmed trio."
+            "purpose": "Secondary test at the open pre-trio threshold."
           }
         ],
-        "fitHypothesis": "RA describes Secret Desire as skeletal, droney broken techno in a wonky time signature that is difficult to classify.",
+        "fitHypothesis": "RA documents glittering, twisting arpeggios over syncopated kick drums in a techno context.",
         "evidence": {
           "measured": [
-            "Released June 2025; exact duration and BPM remain for resolver."
+            "Released in 2025; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes the exact track as broken techno with off-kilter pacing in an apparently wonky time signature.",
+          "attributedDescription": "Resident Advisor describes arpeggios glittering and twisting over syncopated kick drums.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A controlled rhythmic redirection can be deliberate without being smooth; it must improve the threshold rather than merely demonstrate complexity.",
-          "editorialInterpretation": "Strong selection-lens contender with specific threshold hypotheses, ranked below more connective top-three options."
+          "craftConvention": "Syncopation matters only if it sharpens a transition and surrounding run, not because it proves technical interest.",
+          "editorialInterpretation": "Controlled internal contender ranked below candidates with more distinctive journey functions."
         }
       }
     },
     {
-      "id": "2hoZk7Gg9Gv2YkC3fW8nf7",
-      "uri": "spotify:track:2hoZk7Gg9Gv2YkC3fW8nf7",
-      "name": "Poison",
+      "id": "2pTyovK4irlUGXEtlDv0g2",
+      "uri": "spotify:track:2pTyovK4irlUGXEtlDv0g2",
+      "name": "I Wish You Would",
       "artists": [
-        "C-System"
+        "Maara"
       ],
-      "album": "World of Vanity Ep",
-      "releaseDate": "2009-02-11",
-      "durationMs": 335377,
-      "spotifyUrl": "https://open.spotify.com/track/2hoZk7Gg9Gv2YkC3fW8nf7",
+      "album": "Revenge from the Penthouse EP",
+      "releaseDate": "2025-09-12",
+      "durationMs": 303065,
+      "spotifyUrl": "https://open.spotify.com/track/2pTyovK4irlUGXEtlDv0g2",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://earwiggle.bandcamp.com/album/c-system-the-resistance-of-the-chosen-ones-ep",
+      "discoverySource": "https://ra.co/reviews/36308",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": 139,
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test a current remastered broken-beat tool before Pulse I's gradual accumulation."
-        },
-        {
-          "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test an alternative late-middle deformation before groove consolidation."
-        }
-      ],
-      "fitHypothesis": "Earwiggle describes the remastered Poison as combining crushing broken beats with chiming bells.",
-      "evidence": {
-        "measured": [
-          "Current remaster released September 4, 2026; exact version identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Earwiggle describes Poison's remaster as crushing broken beats with chiming bells.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Current remaster context is not a reason to ADD; the candidate earns resolution because its broken-beat construction plausibly supports two existing internal passages.",
-        "editorialInterpretation": "Current catalogue contender ranked below candidates with clearer connective evidence."
-      },
-      "requestedIdentity": {
-        "artist": "C-System",
-        "track": "Poison",
-        "album": "The Resistance of the Chosen Ones EP",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://earwiggle.bandcamp.com/album/c-system-the-resistance-of-the-chosen-ones-ep",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test a current remastered broken-beat tool before Pulse I's gradual accumulation."
-          },
-          {
-            "position": "Between Clotur — Drummz and Inspired Groove — Truth in Noise",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test an alternative late-middle deformation before groove consolidation."
-          }
-        ],
-        "fitHypothesis": "Earwiggle describes the remastered Poison as combining crushing broken beats with chiming bells.",
-        "evidence": {
-          "measured": [
-            "Current remaster released September 4, 2026; exact version identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Earwiggle describes Poison's remaster as crushing broken beats with chiming bells.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Current remaster context is not a reason to ADD; the candidate earns resolution because its broken-beat construction plausibly supports two existing internal passages.",
-          "editorialInterpretation": "Current catalogue contender ranked below candidates with clearer connective evidence."
-        }
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "2AS7LdcsAa1n1EU8339ihK",
-      "uri": "spotify:track:2AS7LdcsAa1n1EU8339ihK",
-      "name": "Olonkho",
-      "artists": [
-        "RLGN"
-      ],
-      "album": "Romantichrist EP",
-      "releaseDate": "2022-12-09",
-      "durationMs": 348434,
-      "spotifyUrl": "https://open.spotify.com/track/2AS7LdcsAa1n1EU8339ihK",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/35256",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": 136,
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test a heavier broken-techno turn after gradual crooked accumulation."
+          "purpose": "Test subtly syncopated tribal percussion as an early character change that still points toward the rise."
         },
         {
-          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
           "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Secondary test as a conspicuous later contrast before Drummz."
+          "purpose": "Secondary test as a lighter adjacent-world afterword."
         }
       ],
-      "fitHypothesis": "RA describes Olonkho as heavy-duty broken techno built like slowed-down techstep, with unusually large drums.",
+      "fitHypothesis": "RA calls the exact track a subtly syncopated tribal banger with bubbly percussion and vocal detail.",
       "evidence": {
         "measured": [
-          "Released December 2022; exact duration and BPM remain for resolver."
+          "Released in 2025; exact duration and BPM remain for resolver."
         ],
-        "attributedDescription": "RA describes a heavy broken-techno template with a drum-and-bass/slow-techstep twist.",
+        "attributedDescription": "Resident Advisor describes subtle syncopation, tribal framing, bubbly percussion and vocals.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "A heavier contrast can pass if it advances the later journey instead of merely escalating impact.",
-        "editorialInterpretation": "Strong belonging but more transition risk than higher-ranked connective candidates."
+        "craftConvention": "A vocal or adjacent-world move may pass if it creates purposeful character change at all three sequencing scales.",
+        "editorialInterpretation": "Useful contrast candidate with two boundary-conscious hypotheses."
       },
       "requestedIdentity": {
-        "artist": "RLGN",
-        "track": "Olonkho",
-        "album": "Romantichrist",
-        "releaseDate": "2022-12",
+        "artist": "Maara",
+        "track": "I Wish You Would",
+        "album": "Revenge from the Penthouse",
+        "releaseDate": "2025",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35256",
+        "discoverySource": "https://ra.co/reviews/36308",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": 136,
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test a heavier broken-techno turn after gradual crooked accumulation."
+            "purpose": "Test subtly syncopated tribal percussion as an early character change that still points toward the rise."
           },
           {
-            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
             "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary test as a conspicuous later contrast before Drummz."
+            "purpose": "Secondary test as a lighter adjacent-world afterword."
           }
         ],
-        "fitHypothesis": "RA describes Olonkho as heavy-duty broken techno built like slowed-down techstep, with unusually large drums.",
+        "fitHypothesis": "RA calls the exact track a subtly syncopated tribal banger with bubbly percussion and vocal detail.",
         "evidence": {
           "measured": [
-            "Released December 2022; exact duration and BPM remain for resolver."
+            "Released in 2025; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes a heavy broken-techno template with a drum-and-bass/slow-techstep twist.",
+          "attributedDescription": "Resident Advisor describes subtle syncopation, tribal framing, bubbly percussion and vocals.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "A heavier contrast can pass if it advances the later journey instead of merely escalating impact.",
-          "editorialInterpretation": "Strong belonging but more transition risk than higher-ranked connective candidates."
+          "craftConvention": "A vocal or adjacent-world move may pass if it creates purposeful character change at all three sequencing scales.",
+          "editorialInterpretation": "Useful contrast candidate with two boundary-conscious hypotheses."
         }
       }
     },
     {
-      "id": "43mshTwTPFcgDAr6rU2aMw",
-      "uri": "spotify:track:43mshTwTPFcgDAr6rU2aMw",
-      "name": "The Astral Catalyst",
+      "id": "26cVGRIca4EHYUlBFEHwkO",
+      "uri": "spotify:track:26cVGRIca4EHYUlBFEHwkO",
+      "name": "Windmill",
       "artists": [
-        "Bonebrokk"
+        "Sounds of Future Siam"
       ],
-      "album": "The Astral Catalyst",
-      "releaseDate": "2021-07-30",
-      "durationMs": 266482,
-      "spotifyUrl": "https://open.spotify.com/track/43mshTwTPFcgDAr6rU2aMw",
+      "album": "Airflare",
+      "releaseDate": "2025-05-13",
+      "durationMs": 173586,
+      "spotifyUrl": "https://open.spotify.com/track/26cVGRIca4EHYUlBFEHwkO",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/34010",
+      "discoverySource": "https://daily.bandcamp.com/scene-report/new-thai-electronic-music",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "After Len Faki — Stardancer",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test a syncopated full-step dubstep afterword as a deliberate exit into a different rhythmic world."
+        },
+        {
+          "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Secondary test as an early production-world left turn."
+        }
+      ],
+      "fitHypothesis": "Bandcamp Daily documents syncopation, skittering percussion and full-step dubstep fused with traditional Thai samples; official Bandcamp classifies the release as traditional Thai breakbeat.",
+      "evidence": {
+        "measured": [
+          "Official Bandcamp duration 2:53; released May 10, 2025; BPM remains for resolver."
+        ],
+        "attributedDescription": "Bandcamp Daily describes syncopation, skittering percussion, pulsating wobbles and traditional Thai instrumental/vocal samples.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Different-world material can pass when the left turn is purposeful; techno orthodoxy is not enough to admit or exclude it.",
+        "editorialInterpretation": "High inspiration value, but lower canonical rank because its relationship to the present journey is less established."
+      },
+      "requestedIdentity": {
+        "artist": "Sounds of Future Siam",
+        "track": "Windmill",
+        "album": "Airflare",
+        "releaseDate": "2025-05-10",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://daily.bandcamp.com/scene-report/new-thai-electronic-music",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "After Len Faki — Stardancer",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "purpose": "Test a syncopated full-step dubstep afterword as a deliberate exit into a different rhythmic world."
+          },
+          {
+            "position": "Between Rene Wise — Cave and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Secondary test as an early production-world left turn."
+          }
+        ],
+        "fitHypothesis": "Bandcamp Daily documents syncopation, skittering percussion and full-step dubstep fused with traditional Thai samples; official Bandcamp classifies the release as traditional Thai breakbeat.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp duration 2:53; released May 10, 2025; BPM remains for resolver."
+          ],
+          "attributedDescription": "Bandcamp Daily describes syncopation, skittering percussion, pulsating wobbles and traditional Thai instrumental/vocal samples.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Different-world material can pass when the left turn is purposeful; techno orthodoxy is not enough to admit or exclude it.",
+          "editorialInterpretation": "High inspiration value, but lower canonical rank because its relationship to the present journey is less established."
+        }
+      }
+    },
+    {
+      "id": "5nr58t0dHTiTEcxHXl3O0O",
+      "uri": "spotify:track:5nr58t0dHTiTEcxHXl3O0O",
+      "name": "Sana Sana Sana Cura Cura Cura",
+      "artists": [
+        "Lucy"
+      ],
+      "album": "Aphelion",
+      "releaseDate": "2014",
+      "durationMs": 554673,
+      "spotifyUrl": "https://open.spotify.com/track/5nr58t0dHTiTEcxHXl3O0O",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/16190",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -1049,37 +1019,37 @@
           "incomingBpm": 140,
           "candidateBpm": null,
           "outgoingBpm": 137,
-          "purpose": "Test a glitchy broken-techno pulse as a deliberate threshold into the altered-gait middle."
+          "purpose": "Test explicit cross-rhythms and dropping-in/out kick and hi-hat at the entrance to the altered-gait corridor."
         },
         {
-          "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
+          "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
           "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Secondary late-middle test if the threshold hypothesis is too disruptive."
+          "outgoingBpm": 143,
+          "purpose": "Secondary test as an unflinching pre-trio threshold."
         }
       ],
-      "fitHypothesis": "RA describes the title track as crunchy broken techno with a pounding, glitchy pulse.",
+      "fitHypothesis": "RA describes syncopated cross-rhythms rubbing together while kick and hi-hat drop in and out.",
       "evidence": {
         "measured": [
-          "Released July 2021; exact duration and BPM remain for resolver."
+          "Released in 2014; exact duration and BPM remain for resolver."
         ],
-        "attributedDescription": "RA describes broken techno with a stomp, snarl and pounding glitchy pulse.",
+        "attributedDescription": "Resident Advisor documents syncopated cross-rhythms and a kick/hi-hat pattern that drops in and out.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Strong belonging alone is insufficient; its lower rank reflects less specific journey function than the top contenders.",
-        "editorialInterpretation": "Honest ninth lead included because it clears the repaired lead floor, not to pad toward a quota."
+        "craftConvention": "Strong selection-lens fit does not prove a new mechanism improves a journey already rich in central rhythmic deformation.",
+        "editorialInterpretation": "Honest overlooked contender, ranked lower because its distinct journey gain is less clear than higher-ranked options."
       },
       "requestedIdentity": {
-        "artist": "bonebrokk",
-        "track": "The Astral Catalyst",
-        "album": "The Astral Catalyst",
-        "releaseDate": "2021-07",
+        "artist": "Lucy",
+        "track": "Sana Sana Sana Cura Cura Cura",
+        "album": "Aphelion",
+        "releaseDate": "2014",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/34010",
+        "discoverySource": "https://ra.co/reviews/16190",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -1089,28 +1059,28 @@
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": 137,
-            "purpose": "Test a glitchy broken-techno pulse as a deliberate threshold into the altered-gait middle."
+            "purpose": "Test explicit cross-rhythms and dropping-in/out kick and hi-hat at the entrance to the altered-gait corridor."
           },
           {
-            "position": "Between CHANCEKNOT — Fragments and Clotur — Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
+            "position": "Between Inspired Groove — Truth in Noise and Linear System — Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
             "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Secondary late-middle test if the threshold hypothesis is too disruptive."
+            "outgoingBpm": 143,
+            "purpose": "Secondary test as an unflinching pre-trio threshold."
           }
         ],
-        "fitHypothesis": "RA describes the title track as crunchy broken techno with a pounding, glitchy pulse.",
+        "fitHypothesis": "RA describes syncopated cross-rhythms rubbing together while kick and hi-hat drop in and out.",
         "evidence": {
           "measured": [
-            "Released July 2021; exact duration and BPM remain for resolver."
+            "Released in 2014; exact duration and BPM remain for resolver."
           ],
-          "attributedDescription": "RA describes broken techno with a stomp, snarl and pounding glitchy pulse.",
+          "attributedDescription": "Resident Advisor documents syncopated cross-rhythms and a kick/hi-hat pattern that drops in and out.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Strong belonging alone is insufficient; its lower rank reflects less specific journey function than the top contenders.",
-          "editorialInterpretation": "Honest ninth lead included because it clears the repaired lead floor, not to pad toward a quota."
+          "craftConvention": "Strong selection-lens fit does not prove a new mechanism improves a journey already rich in central rhythmic deformation.",
+          "editorialInterpretation": "Honest overlooked contender, ranked lower because its distinct journey gain is less clear than higher-ranked options."
         }
       }
     }
