@@ -1,194 +1,61 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-09T19:50:13Z-explore-108",
-  "sourceCommit": "5850657e69cfe560cc0944b1d598093d705e644a",
+  "runId": "2026-09-09T20:52:02Z-explore-109",
+  "sourceCommit": "14e501ba4e8406e8245ef4ceca11726b30665f0e",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 107's zero-resolution source cohort, comparing current stream-linked work, a 2026 adjacent orchestral/electronic swerve and two overlooked dance catalogues without demanding one sonic room",
-    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat Roxellana as a provisional surge rather than a fixed summit, keep Holding a Shape PARKED, and let exact candidate evidence determine placement at transition, local-run and long-form scale.",
-    "purpose": "Pivot toward sources with explicit streaming or established catalogue availability while testing irregular symmetry, rugged dub-techno depth, orchestral/electronic juxtapositions and one current emerging identity."
+    "role": "fresh whole-journey contender discovery after Run 108's transformation audit, comparing a 2026 emerging Arabic-electronic record, recent loosened techno and an overlooked deep-reggaeton catalogue without requiring one sonic room",
+    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat Roxellana as a provisional surge rather than a fixed summit; keep all existing PARKED identities untriggered and let exact candidate evidence determine placement.",
+    "purpose": "Test beat-switching acoustic/electronic tension, gradually self-forming techno and slow dembow/ambient movement at transition, local-run and long-form scale."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-09T19:50:13Z",
-    "approximateInspectedScope": "Approximately 57 named tracks across a current Spotify-linked editorial playlist, one 2026 fourteen-track adjacent album, two overlooked catalogue albums and broader September electronic windows; attributed criticism and catalogue metadata only; no audio audition.",
+    "timestampUtc": "2026-09-09T20:52:02Z",
+    "approximateInspectedScope": "Approximately 47 named tracks across one 2026 emerging record, one recent eight-track techno album, one overlooked eight-track continuous album and broader current electronic windows; attributed criticism and catalogue metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT / EMERGING: https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist — the September 8, 2026 list explicitly links its selections to Spotify; Miimii KDS — 6 O'Clock survives as the sole current lead, with no individual sonic mechanics inferred.",
-      "CURRENT ADJACENT RELEASE: https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert and 2026 critical coverage of Kammerkonzert — all fourteen tracks were inspected; K2 Central, K4 Fairlands and K7 Museum survive because exact descriptions establish electro-funk formation, breakbeat-to-sequence transformation or showstopping escalation.",
-      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/rian-treanor-ataxia — the full eight-track 2019 album was inspected; ATAXIA B1, ATAXIA D1 and ATAXIA D3 carry exact-track evidence for three materially different rhythmic propositions.",
-      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/anthony-naples-fog-fm — the full twelve-track 2019 album was inspected; Fog FM and Lucy's retain the clearest exact-track dub-techno and turbulent physicality relevance.",
-      "BROAD FRESHNESS SCAN: current Pitchfork, Resident Advisor, Bandcamp and Quietus electronic windows supplied approximately 22 additional named works; recent Run 104–107 ecosystems were not retried.",
-      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 200-track utility state contain no prior artist-title decision for the nine requested identities."
+      "CURRENT / EMERGING: https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review — the full Wahj record was inspected; Ruwaydan Ruwaydan, Madda Mudadda and Fawqa al Ghaym survive because the review supplies exact beat-switch, ambience-to-static and industrial-techno descriptions.",
+      "RECENT TECHNO: https://pitchfork.com/reviews/albums/barker-stochastic-drift and https://pitchfork.com/reviews/tracks/barker-reframing — all eight Stochastic Drift tracks were inspected; Reframing, Fluid Mechanics and Difference and Repetition survive with distinct exact-track structural evidence.",
+      "OVERLOOKED ADJACENT CATALOGUE: https://pitchfork.com/reviews/albums/dj-python-mas-amable and https://pitchfork.com/reviews/tracks/dj-python-admsdp-ft-la-warman — all eight Mas Amable identities were inspected; Pia, ADMSDP and Juntos survive as exact resolution leads from a continuous deep-reggaeton/ambient construction.",
+      "BROAD FRESHNESS SCAN: current Pitchfork, Resident Advisor, Guardian, Bandcamp and Quietus electronic windows supplied approximately 20 additional named works; recent Run 105–108 ecosystems were not retried.",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 203-track utility state contain no prior artist-title decision for the nine requested identities. Existing Barker — Posmean and other DJ Python identities remain separate untriggered decisions and were not reopened."
     ],
     "rankedLeadSummary": [
-      "1. Rian Treanor — ATAXIA B1",
-      "2. Anthony Naples — Fog FM",
-      "3. Squarepusher — K4 Fairlands",
-      "4. Miimii KDS — 6 O'Clock",
-      "5. Rian Treanor — ATAXIA D1",
-      "6. Anthony Naples — Lucy's",
-      "7. Squarepusher — K2 Central",
-      "8. Rian Treanor — ATAXIA D3",
-      "9. Squarepusher — K7 Museum"
+      "1. Barker — Reframing",
+      "2. Toni Geitani — Ruwaydan Ruwaydan",
+      "3. DJ Python — Pia",
+      "4. Barker — Fluid Mechanics",
+      "5. Toni Geitani — Madda Mudadda",
+      "6. DJ Python, LA Warman — ADMSDP",
+      "7. Barker — Difference and Repetition",
+      "8. Toni Geitani — Fawqa al Ghaym",
+      "9. DJ Python — Juntos"
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Lower-ranked Kammerkonzert, ATAXIA and Fog FM tracks were inspected but excluded to keep nine honest leads and preserve distinct exact-track propositions.",
-      "Pitchfork Selects items without a credible relationship to the volume lens were inspected but not promoted merely for novelty or editorial prestige.",
-      "Run 104–107 Basic Rhythm, DJ Plead, Klara Lewis, Dasha Rush, Shoal, OK EG, Carmen Villain, DNGDNGDNG & Prisma, Priori, Carré, RAMZi, Djrum, Andrea and Casting Spells ecosystems were not retried.",
+      "Lower-ranked tracks from all three albums were inspected but excluded to keep nine honest leads and preserve distinct structural propositions.",
+      "Current releases without an exact titled track or source-backed relationship to the selection lens were not promoted for novelty alone.",
+      "Run 105–108 Shoal, OK EG, Carmen Villain, DNGDNGDNG & Prisma, Djrum, Andrea, Casting Spells, Squarepusher, Rian Treanor, Anthony Naples and Miimii KDS ecosystems were not retried.",
       "No Spotify connector, audio-feature inference or invented identity was used."
     ]
   },
   "leads": [
     {
-      "artist": "Rian Treanor",
-      "track": "ATAXIA B1",
-      "album": "ATAXIA",
-      "releaseDate": "2019-03-15",
+      "artist": "Barker",
+      "track": "Reframing",
+      "album": "Stochastic Drift",
+      "releaseDate": "2025-04-03",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ataxia/",
-      "fitHypothesis": "Pitchfork describes the exact track as itchily intense: polyrhythmic vigor plays against a central synth riff and builds toward an electrical frenzy.",
+      "discoverySource": "https://pitchfork.com/reviews/tracks/barker-reframing",
+      "fitHypothesis": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
       "searchIntent": "BOTH",
       "evidence": {
         "measured": [
-          "Official or attributed release metadata identifies Rian Treanor — ATAXIA B1 on ATAXIA, with requested release metadata 2019-03-15; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Barker — Reframing on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "Pitchfork describes the exact track as itchily intense: polyrhythmic vigor plays against a central synth riff and builds toward an electrical frenzy.",
-        "editorialInterpretation": "Test whether a tightly built polyrhythmic escalation can make Cave's regained motion consequential before Abundance broadens it, or merely add another early complication.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "outgoingBpm": 135,
-          "candidateBpm": null,
-          "purpose": "Test whether a tightly built polyrhythmic escalation can make Cave's regained motion consequential before Abundance broadens it, or merely add another early complication."
-        }
-      ]
-    },
-    {
-      "artist": "Anthony Naples",
-      "track": "Fog FM",
-      "album": "Fog FM",
-      "releaseDate": "2019-06-14",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/anthony-naples-fog-fm/",
-      "fitHypothesis": "Pitchfork describes the title track as rugged, upfront techno with dub-techno space inside an album whose layered rhythms create turbulent physicality.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Anthony Naples — Fog FM on Fog FM, with requested release metadata 2019-06-14; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes the title track as rugged, upfront techno with dub-techno space inside an album whose layered rhythms create turbulent physicality.",
-        "editorialInterpretation": "Test whether rugged dub-techno can carry threatened coherence out of Worn Down toward Too Much Time, or flatten the existing contrast into another stable drive.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Worn Down and Too Much Time",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": null,
-          "outgoingBpm": 140,
-          "candidateBpm": null,
-          "purpose": "Test whether rugged dub-techno can carry threatened coherence out of Worn Down toward Too Much Time, or flatten the existing contrast into another stable drive."
-        }
-      ]
-    },
-    {
-      "artist": "Squarepusher",
-      "track": "K4 Fairlands",
-      "album": "Kammerkonzert",
-      "releaseDate": "2026-04-10",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert",
-      "fitHypothesis": "Published 2026 descriptions identify breakbeat drums and creeping strings giving way to synthesizer sequences, with timpani becoming squelchy beats and horns yielding to an 8-bit wall.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Squarepusher — K4 Fairlands on Kammerkonzert, with requested release metadata 2026-04-10; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Published 2026 descriptions identify breakbeat drums and creeping strings giving way to synthesizer sequences, with timpani becoming squelchy beats and horns yielding to an 8-bit wall.",
-        "editorialInterpretation": "Test whether this explicit acoustic-to-electronic transformation can connect Stadium Drive's formation to Marauder's anchor, or create a redundant second formation.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "incomingBpm": null,
-          "outgoingBpm": 136,
-          "candidateBpm": null,
-          "purpose": "Test whether this explicit acoustic-to-electronic transformation can connect Stadium Drive's formation to Marauder's anchor, or create a redundant second formation."
-        }
-      ]
-    },
-    {
-      "artist": "Miimii KDS",
-      "track": "6 O'Clock",
-      "album": "6 O'Clock",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist",
-      "fitHypothesis": "Pitchfork's September 8, 2026 Selects list identifies the exact track and links the list to Spotify; no individual sonic, rhythmic or structural description is supplied.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Miimii KDS — 6 O'Clock on 6 O'Clock, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork's September 8, 2026 Selects list identifies the exact track and links the list to Spotify; no individual sonic, rhythmic or structural description is supplied.",
-        "editorialInterpretation": "Resolve the current exact identity before testing whether it redirects Moonwake toward Capa; no placement judgment is possible from selection prestige alone.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "outgoingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Resolve the current exact identity before testing whether it redirects Moonwake toward Capa; no placement judgment is possible from selection prestige alone."
-        }
-      ]
-    },
-    {
-      "artist": "Rian Treanor",
-      "track": "ATAXIA D1",
-      "album": "ATAXIA",
-      "releaseDate": "2019-03-15",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ataxia/",
-      "fitHypothesis": "Pitchfork describes the exact track as distressed UK-garage swing set against a nagging riff, exemplifying irregular symmetry that remains danceable.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Rian Treanor — ATAXIA D1 on ATAXIA, with requested release metadata 2019-03-15; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes the exact track as distressed UK-garage swing set against a nagging riff, exemplifying irregular symmetry that remains danceable.",
-        "editorialInterpretation": "Test whether distressed swing can change Too Much Time's force into Moonwake's intensification, or simply multiply rhythmic friction before the central redirection.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+        "attributedDescription": "Pitchfork describes a metronomic tick beneath synth and percussion whose rhythm becomes unmoored, later realigns with the pulse, and withholds its only drop beyond the expected peak before it sings rather than explodes.",
+        "editorialInterpretation": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null
       },
@@ -200,94 +67,61 @@
           "incomingBpm": 140,
           "outgoingBpm": 140,
           "candidateBpm": null,
-          "purpose": "Test whether distressed swing can change Too Much Time's force into Moonwake's intensification, or simply multiply rhythmic friction before the central redirection."
+          "purpose": "Test whether delayed realignment can turn Too Much Time's force into a consequential reset before Moonwake, or insert another complete arrival."
         }
       ]
     },
     {
-      "artist": "Anthony Naples",
-      "track": "Lucy's",
-      "album": "Fog FM",
-      "releaseDate": "2019-06-14",
+      "artist": "Toni Geitani",
+      "track": "Ruwaydan Ruwaydan",
+      "album": "Wahj",
+      "releaseDate": "2026-01-09",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/anthony-naples-fog-fm/",
-      "fitHypothesis": "Pitchfork identifies the exact track as one of Fog FM's deeper, space-oriented dub-techno turns within a rugged album of dense physical beats and strategically shifting intensity.",
+      "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
+      "fitHypothesis": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
       "searchIntent": "BOTH",
       "evidence": {
         "measured": [
-          "Official or attributed release metadata identifies Anthony Naples — Lucy's on Fog FM, with requested release metadata 2019-06-14; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Toni Geitani — Ruwaydan Ruwaydan on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "Pitchfork identifies the exact track as one of Fog FM's deeper, space-oriented dub-techno turns within a rugged album of dense physical beats and strategically shifting intensity.",
-        "editorialInterpretation": "Test whether a deeper dub-techno turn can make Amor's reassembly lead more deliberately into Truth in Noise's consolidation, or insert another settling stage.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+        "attributedDescription": "The Guardian describes the exact track as a pleasant jazz-swing groove interrupted by an unexpected beat switch and a piercing ney-flute line.",
+        "editorialInterpretation": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null
       },
       "proposedPlacements": [
         {
-          "position": "Between Amor and Truth in Noise",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": null,
-          "outgoingBpm": 138,
+          "position": "Between Thick to Handle and Tehutis Law",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": 138,
+          "outgoingBpm": 139,
           "candidateBpm": null,
-          "purpose": "Test whether a deeper dub-techno turn can make Amor's reassembly lead more deliberately into Truth in Noise's consolidation, or insert another settling stage."
+          "purpose": "Test whether a documented beat switch can rotate posture between Thick to Handle and Tehutis Law without delaying the existing re-grounding."
         }
       ]
     },
     {
-      "artist": "Squarepusher",
-      "track": "K2 Central",
-      "album": "Kammerkonzert",
-      "releaseDate": "2026-04-10",
+      "artist": "DJ Python",
+      "track": "Pia",
+      "album": "Mas Amable",
+      "releaseDate": "2020-04-10",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert",
-      "fitHypothesis": "Published descriptions identify a slow electro-funk drum-machine rhythm joined by bass guitar, live and programmed drums, and strings; it is described as the album's musical heart.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
+      "fitHypothesis": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
       "searchIntent": "BOTH",
       "evidence": {
         "measured": [
-          "Official or attributed release metadata identifies Squarepusher — K2 Central on Kammerkonzert, with requested release metadata 2026-04-10; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies DJ Python — Pia on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "Published descriptions identify a slow electro-funk drum-machine rhythm joined by bass guitar, live and programmed drums, and strings; it is described as the album's musical heart.",
-        "editorialInterpretation": "Test whether an electro-funk and orchestral posture can establish a purposeful first stance before Stadium Drive, or create another pre-anchor beginning.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null
-      },
-      "proposedPlacements": [
-        {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether an electro-funk and orchestral posture can establish a purposeful first stance before Stadium Drive, or create another pre-anchor beginning."
-        }
-      ]
-    },
-    {
-      "artist": "Rian Treanor",
-      "track": "ATAXIA D3",
-      "album": "ATAXIA",
-      "releaseDate": "2019-03-15",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ataxia/",
-      "fitHypothesis": "Pitchfork describes the exact track as dispensing with drums for cut-up vocals and organ stabs, allowing the album to come up for air.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Rian Treanor — ATAXIA D3 on ATAXIA, with requested release metadata 2019-03-15; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes the exact track as dispensing with drums for cut-up vocals and organ stabs, allowing the album to come up for air.",
-        "editorialInterpretation": "Test whether a drumless articulated aperture after Ikoyi changes Amor's reassembly, or redundantly extends the foreground dissolution already present.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+        "attributedDescription": "Pitchfork describes pensive atmosphere continuing as tough unadorned drums enter, followed by sterner insect-like shakers, bit-crushed croaks and occasional whistles.",
+        "editorialInterpretation": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null
       },
@@ -299,28 +133,28 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether a drumless articulated aperture after Ikoyi changes Amor's reassembly, or redundantly extends the foreground dissolution already present."
+          "purpose": "Test whether tough dembow-inflected definition can make Ikoyi's dissolution reassemble differently before Amor, or add another mediated recovery stage."
         }
       ]
     },
     {
-      "artist": "Squarepusher",
-      "track": "K7 Museum",
-      "album": "Kammerkonzert",
-      "releaseDate": "2026-04-10",
+      "artist": "Barker",
+      "track": "Fluid Mechanics",
+      "album": "Stochastic Drift",
+      "releaseDate": "2025-04-03",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/news/squarepusher-readies-new-album-kammerkonzert",
-      "fitHypothesis": "Published descriptions call the exact track a berserk prog-fusion instrumental using harpsichord and mallet percussion, culminating in a showstopping crescendo.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
+      "fitHypothesis": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
       "searchIntent": "BOTH",
       "evidence": {
         "measured": [
-          "Official or attributed release metadata identifies Squarepusher — K7 Museum on Kammerkonzert, with requested release metadata 2026-04-10; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Barker — Fluid Mechanics on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "Published descriptions call the exact track a berserk prog-fusion instrumental using harpsichord and mallet percussion, culminating in a showstopping crescendo.",
-        "editorialInterpretation": "Test whether a conspicuous orchestral/electronic escalation can make Roxellana's surge pivot into Fragments as recovery, or compete with the same long-form event.",
-        "craftConvention": "Credible attributed or official evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+        "attributedDescription": "Pitchfork describes understated drums and slanted synths structured by stern, twinkling piano; each melodic return brings the underlying music forward with tidal intensity and dubby reverb.",
+        "editorialInterpretation": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null
       },
@@ -332,7 +166,172 @@
           "incomingBpm": null,
           "outgoingBpm": 140,
           "candidateBpm": null,
-          "purpose": "Test whether a conspicuous orchestral/electronic escalation can make Roxellana's surge pivot into Fragments as recovery, or compete with the same long-form event."
+          "purpose": "Test whether recurring tidal foreground can translate Roxellana's surge into Fragments' recovery, or merely add another wave between them."
+        }
+      ]
+    },
+    {
+      "artist": "Toni Geitani",
+      "track": "Madda Mudadda",
+      "album": "Wahj",
+      "releaseDate": "2026-01-09",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
+      "fitHypothesis": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Toni Geitani — Madda Mudadda on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "The Guardian describes the exact closing track as building from calming ambience into crushing static and whispered melody.",
+        "editorialInterpretation": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null
+      },
+      "proposedPlacements": [
+        {
+          "position": "Before Stadium Drive",
+          "precedingUri": null,
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether an ambience-to-chaos prelude can make Stadium Drive's formation feel inevitable, or create two full transformations before Marauder anchors the opening."
+        }
+      ]
+    },
+    {
+      "artist": "DJ Python, LA Warman",
+      "track": "ADMSDP",
+      "album": "Mas Amable",
+      "releaseDate": "2020-04-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/tracks/dj-python-admsdp-ft-la-warman",
+      "fitHypothesis": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies DJ Python, LA Warman — ADMSDP on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Pitchfork describes crisp dembow rhythm narrowing until drums remain beneath an eerie spoken meditation, after which warmer chords rise and the rhythm slackens.",
+        "editorialInterpretation": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": 138,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether contraction and warming can change Drummz's instability before Ikoyi dissolves it, or over-explain the same late-middle withdrawal."
+        }
+      ]
+    },
+    {
+      "artist": "Barker",
+      "track": "Difference and Repetition",
+      "album": "Stochastic Drift",
+      "releaseDate": "2025-04-03",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/barker-stochastic-drift",
+      "fitHypothesis": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Barker — Difference and Repetition on Stochastic Drift, requested release metadata 2025-04-03; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Pitchfork describes distended synth loops rolling through phasing while scattered drums and flashing keys reveal different parts of their curvature, producing an initially awkward gait.",
+        "editorialInterpretation": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "outgoingBpm": 135,
+          "candidateBpm": null,
+          "purpose": "Test whether phased, self-forming repetition can extend Cave into Abundance with a new consequence, or add another early instability stage."
+        }
+      ]
+    },
+    {
+      "artist": "Toni Geitani",
+      "track": "Fawqa al Ghaym",
+      "album": "Wahj",
+      "releaseDate": "2026-01-09",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://www.theguardian.com/music/2026/jan/09/toni-geitani-wahj-album-review",
+      "fitHypothesis": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Toni Geitani — Fawqa al Ghaym on Wahj, requested release metadata 2026-01-09; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "The Guardian identifies industrial-techno distortion on the exact track within Wahj's Arabic electronic, metallic-drum and analogue-synth world; individual internal direction is not further described.",
+        "editorialInterpretation": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "candidateBpm": null,
+          "purpose": "Resolve and test whether this industrial distortion can sharpen the early derailment's recovery into Cave; no energy, density or structure is inferred from the descriptor."
+        }
+      ]
+    },
+    {
+      "artist": "DJ Python",
+      "track": "Juntos",
+      "album": "Mas Amable",
+      "releaseDate": "2020-04-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/dj-python-mas-amable",
+      "fitHypothesis": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies DJ Python — Juntos on Mas Amable, requested release metadata 2020-04-10; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Pitchfork identifies Juntos within Mas Amable's seamlessly mixed single-tempo deep-reggaeton journey and gentle return toward ambient overtones; this is album-position context, not a standalone structural claim.",
+        "editorialInterpretation": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant.",
+        "craftConvention": "Credible attributed evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "incomingBpm": 137,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Resolve the exact identity before testing whether a gentle post-consolidation afterword can follow Stardancer without making Invisible Warriors Of Light redundant."
         }
       ]
     }
