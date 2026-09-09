@@ -4,6 +4,23 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 93 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Answer Code Request | Halo | https://open.spotify.com/track/6Nl2vB8kW9bibS4DNxN16K | Placement-specific REJECT for Moonwake → candidate → Capa and Truth in Noise → candidate → Transparency only. Exact 5:31 withheld-to-driven transformation retained globally; BPM, phrasing, perceived pulse and handoffs remain unknown. Spotify date warning preserved. |
+| EXACT TRACK | Konduku | Pembe Alan | https://open.spotify.com/track/6y1RZeSxjboxNIm4A3yryq | Placement-specific REJECT for Stadium Drive → candidate → Marauder and Capa → candidate → Trompe L'oeil only. Exact 7:10 slouch/double-time-to-4/4 arc retained globally; BPM and handoffs remain unknown. Spotify album/date warnings preserved. |
+| EXACT TRACK | Answer Code Request | Bliphar | https://open.spotify.com/track/1XWy9WGp3xy3iCa71cCjLd | Placement-specific REJECT for Cave → candidate → Abundance and Capa → candidate → Trompe L'oeil only. Exact current syncopated-groove discovery retained globally; BPM, phrase fit and handoffs remain unknown. Spotify date warning preserved. |
+| RESEARCH LEAD | Surgeon | Soul Fire | https://ra.co/reviews/36275 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1dVGBuiuzzeuRKNaVlU0bJ, 6xRRpcLslkUPAL0dH2ymyV)`; no musical verdict. |
+| RESEARCH LEAD | DJ Nobu | Ichimaru | https://ra.co/reviews/24520 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+
+### Placement and inspiration boundaries
+
+- Halo, Pembe Alan and Bliphar are not globally rejected; only their two Run 93 placements fail.
+- The two unresolved leads receive no ADD, REJECT or PARKED verdict and do not enter the global utility ledger.
+- Triple Threat, Günes, Flippant Remark and Siglo Gray Vision resolved as alternates but were not selected, evaluated or retained as editorial decisions.
+- This target-local file remains non-canonical and is not a Spotify publication input.
+
 ## Run 92 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

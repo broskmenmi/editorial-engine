@@ -2,6 +2,77 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 93 — EXPLORE — internal-arrival and reset audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 162 exact tracks, both with matching COMPLETE receipts. The generated evidence-bound felt map matched all 19 canonical URIs, unsupported dimensions remained UNKNOWN, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Two restraint decisions in the preceding three runs kept over-expansion as a watch rather than an actionable workflow defect.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T04:49:57Z-explore-93`
+- **sourceCommit:** `ff705b0115f56a30156d3bb8812735b0cad7be5d`
+- **request commit:** `ba3acd355a00fdad02fd3a2d3f1b57eb93d8ea0a`
+- **snapshot commit:** `e3651fd78e5ece90e49f3ab5053f54cf99c0c396`
+- **request fingerprint:** `396c03f3239f954f3d448ee676fa13e9ea3f028f1b08f5e03b7b61f93aa8de33`
+- **scope:** approximately 47 named tracks across a June 2026 current Delsin album, a 2025 adjacent Tresor album and untouched 2013–2019 techno catalogues on Nous'klaer Audio, Stroboscopic Artefacts, Houndstooth and Bitta; attributed descriptions and metadata only; no audio audition.
+- **freshness:** none of the six source URLs or nine exact retained titles appeared in STRANGE GAIT durable history before this run. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, previously retained exact identities and old unresolved leads without materially new identity evidence were excluded.
+- **resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 7 exact resolutions + 2 unresolved; 3 selected candidates + 4 resolved alternates; 7 warnings; no duplicates, substitutions or terminal technical errors.
+
+### Resolver outcomes preserved
+
+1. **Answer Code Request — Halo** — RESOLVED and selected: `spotify:track:6Nl2vB8kW9bibS4DNxN16K`; Spotify `Halo`, `2026-06-26`, 5:31; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-06" but Spotify returned "2026-06-26"`.
+2. **Surgeon — Soul Fire** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1dVGBuiuzzeuRKNaVlU0bJ, 6xRRpcLslkUPAL0dH2ymyV)`.
+3. **Konduku — Pembe Alan** — RESOLVED and selected: `spotify:track:6y1RZeSxjboxNIm4A3yryq`; Spotify `Kiran`, `2018-06-22`, 7:10; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: album requested "Kıran" but Spotify returned "Kiran"; release date requested "2018-05" but Spotify returned "2018-06-22"`.
+4. **Answer Code Request — Bliphar** — RESOLVED and selected: `spotify:track:1XWy9WGp3xy3iCa71cCjLd`; Spotify `Halo`, `2026-06-26`, 6:51; BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-06" but Spotify returned "2026-06-26"`.
+5. **Surgeon — Triple Threat** — RESOLVED alternate, not selected or evaluated: `spotify:track:0OaL26BTNYgIpiVwTQyF56`; 6:36. Warning: `Exact title/artist matched with release metadata variance: release date requested "2025-05" but Spotify returned "2025-05-02"`.
+6. **Konduku — Güneş** — RESOLVED alternate as Spotify title `Günes`, not selected or evaluated: `spotify:track:2tE9eJnmI59UHwGUv8ouDs`; 5:07. Warning: `Exact title/artist matched with release metadata variance: album requested "Kıran" but Spotify returned "Kiran"; release date requested "2018-05" but Spotify returned "2018-06-22"`.
+7. **Chevel — Flippant Remark** — RESOLVED alternate, not selected or evaluated: `spotify:track:5R4ccrzAMmBklD5buDoT3L`; 4:17. Warning: `Exact title/artist matched with release metadata variance: release date requested "2015-10" but Spotify returned "2015-09-25"`.
+8. **Call Super — Siglo Gray Vision** — RESOLVED alternate, not selected or evaluated: `spotify:track:0JBJsaT5mQdz1oBcWgaCux`; 8:38. Warning: `Exact title/artist matched with release metadata variance: release date requested "2013-02" but Spotify returned "2013-03-04"`.
+9. **DJ Nobu — Ichimaru** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+The two unresolved identities receive no musical verdict. The four resolved alternates were not selected and were not evaluated or retained as decisions.
+
+### Candidate evaluations
+
+#### Answer Code Request — Halo — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Resident Advisor documents a techno track whose texture-first first half gives way to a closed hi-hat and freewheeling bassline halfway through. Its own form changes the listener's rhythmic orientation rather than remaining fixed.
+- **Immediate transition:** UNKNOWN at `Moonwake → Halo → Capa` and `Truth in Noise → Halo → Transparency`. Phrase fit, perceived pulse and both handoffs are not available; UNKNOWN is not treated as negative evidence.
+- **Surrounding three-to-five-track run:** FAIL for these placements. In `Too Much Time → Moonwake → Halo → Capa → Trompe L'oeil`, Halo would insert another withheld-to-driven cycle between the existing intensification and central redirection. In `Amor → Truth in Noise → Halo → Transparency → When We Froze`, it would reopen propulsion after current consolidation and create another threshold before the protected block.
+- **Long-form journey:** FAIL for these placements only. The 5:31 internal transformation is substantial, but neither proposal shows what the additional arrival enables that the current 19-track architecture does not already communicate.
+- **Verdict:** **REJECT the two Run 93 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+#### Konduku — Pembe Alan — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Resident Advisor documents lower-tempo slouch, double-time embellishments and a second-half move from ominous instability into warmer 4/4. This is strong rhythmic and structural belonging evidence.
+- **Immediate transition:** UNKNOWN at `Stadium Drive → Pembe Alan → Marauder` and `Capa → Pembe Alan → Trompe L'oeil`; no mix, phrase or perceived-pulse evidence exists.
+- **Surrounding three-to-five-track run:** FAIL for these placements. The opening test would place 7:10 of another internally transforming track after Stadium Drive's 5:40 transformation, delaying Marauder's first established anchor by roughly 12:50. The central test would turn `Moonwake → Capa → Pembe Alan → Trompe L'oeil → Thick to Handle` into a second complete slouch-to-4/4 arc inside an already articulated slower-pulse redirection.
+- **Long-form journey:** FAIL for these placements only. Both ideas explain the current reset twice rather than reveal a missing long-form direction. Duration is a structural cost, not a proxy for energy.
+- **Verdict:** **REJECT the two Run 93 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+#### Answer Code Request — Bliphar — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Resident Advisor identifies a syncopated groove and Autechre-like synth figures; that is credible current techno relevance without requiring novelty as proof.
+- **Immediate transition:** UNKNOWN at `Cave → Bliphar → Abundance` and `Capa → Bliphar → Trompe L'oeil`.
+- **Surrounding three-to-five-track run:** NOT PROVEN. In `The Witching Hour → Cave → Bliphar → Abundance → Too Much Time`, the available description does not establish why another 6:51 syncopated stage improves Cave's current route into Abundance. In `Moonwake → Capa → Bliphar → Trompe L'oeil → Thick to Handle`, it adds another groove mechanism without a documented reset, arrival or release function.
+- **Long-form journey:** NOT PROVEN for these placements. Subtle usefulness is allowed, but the evidence is too narrow to show a net gain after cumulative expansion.
+- **Verdict:** **REJECT the two Run 93 placements only**, not the track globally. Retain locally and in the doctrine-free global utility playlist.
+
+### Auditor approval
+
+**APPROVED.** The schemaVersion 2 request is pinned to the immediate pre-write SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 7 exact resolutions + 2 unresolved; 3 selected candidates + 4 alternates; all seven warnings and both exact resolver errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, surrounding-run and long-form scales. Unknown audio facts remained UNKNOWN. The protected trio is untouched. Auditor approves the six placement-specific rejections, local inspiration retention, three global utility additions and repair of the active-rejections Markdown table continuity.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **19 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: Halo, Pembe Alan and Bliphar retained as exact placement-specific rejects / interesting; Soul Fire and Ichimaru retained as unresolved research leads; four unevaluated alternates preserved only in resolver history.
+- EDITORIAL ENGINE — DISCOVERY POOL: **162 → 165 exact tracks**, adding Halo, Pembe Alan and Bliphar.
+- Active-rejections Markdown table continuity repaired; no verdict changed.
+- Journey-map inputs: unchanged; no unsupported felt dimensions were added.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 47 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 selected evaluations + 4 unevaluated alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Lead conversion was **19.1%**, exact-resolution conversion **77.8%**, and candidate-to-ADD conversion **0/3**. Across Runs 87–93 the repaired funnel admitted **62 leads from 307 inspections** and added **4 of 17 selected candidates**. The recent ADD rate remains **5/10 across Runs 84–93**, versus **5/39 across Runs 55–93**; the current no-ADD streak is two runs, with the last ADD in Run 91. The strongest counterargument is that Pembe Alan's slouch/double-time-to-4/4 arc may make either the opening or slower-pulse pocket more legible. Available evidence supports that musical possibility, but the current proposals repeat an already explicit transformation rather than show a missing journey function. This run proves the repaired funnel continues to admit strong exact candidates and can refuse cumulative over-articulation for specific musical reasons. It does not prove any candidate is globally incompatible, or establish BPM, phrase fit, perceived pulse, density, energy or live compatibility.
+
 ## Run 92 — EXPLORE — dramatic-threshold and ending audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 161 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, the generated felt map matched canonical state, unsupported dimensions remained UNKNOWN, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Over-expansion remained a watch after five ADDs across Runs 86–91, not an actionable REPAIR defect.

@@ -2,6 +2,16 @@
 
 Canonical: 19 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
 
+## Run 93 — EXPLORE — internal-arrival and reset audit
+
+Nine ranked leads from approximately 47 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: seven exact Spotify resolutions, two unresolved identities, three selected candidates, four unevaluated alternates and seven preserved metadata warnings. Exact identities and errors are recorded in `discoveries.md`.
+
+**Decision:** 0 ADD. Answer Code Request — Halo, Konduku — Pembe Alan and Answer Code Request — Bliphar are placement-specific REJECTs for their two tested positions only and remain genuinely interesting exact discoveries.
+
+Halo's documented midpoint change from buzzing texture to hi-hat and freewheeling bassline passes the lens, but it adds another withheld-to-driven cycle either between Moonwake and Capa or after Truth in Noise's current consolidation. Pembe Alan's lower-tempo slouch, double-time detail and return to 4/4 also pass strongly, but after Stadium Drive it would create roughly 12:50 of two consecutive transforming prefaces before Marauder; between Capa and Trompe L'oeil it would over-explain the already articulated slower-pulse reset. Bliphar's syncopated-groove evidence is credible but too narrow to establish why another 6:51 stage improves either proposed local run. Unknown handoffs remain risks, not vetoes.
+
+STRANGE GAIT remains 19 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 162 → 165 exact tracks. The protected `Transparency → When We Froze → Stardancer` order remains intact. Across Runs 87–93 the repaired funnel has admitted 62 leads from 307 inspections and added 4 of 17 selected candidates. The current two-run no-ADD streak is healthy restraint, not renewed stagnation.
+
 ## Run 92 — EXPLORE — dramatic-threshold and ending audit
 
 Nine ranked leads from approximately 46 inspections produced a matching schemaVersion 2 PARTIAL snapshot: one exact Spotify resolution and selected candidate, eight unresolved leads, one release-date warning, and no duplicates, substitutions, alternates or terminal technical errors. Every exact resolver outcome is preserved in `discoveries.md`.

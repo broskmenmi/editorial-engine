@@ -166,6 +166,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 160 | RHR | PULSAÇÃO | spotify:track:3vNfVj15ccr8kVFVTM9z6F | STRANGE GAIT Run 91 | PARKED / interesting | 2026-09-09 |
 | 161 | Yazzus | Human Error Processor | spotify:track:2pvyBLVixnCOD6yq2mgieZ | STRANGE GAIT Run 91 | Placement-specific reject / interesting | 2026-09-09 |
 | 162 | Ricardo Laine | Ashes In the Sand | spotify:track:5HyacZvar1hf9OGaWKuJ3W | STRANGE GAIT Run 92 | Placement-specific reject / interesting | 2026-09-09 |
+| 163 | Answer Code Request | Halo | spotify:track:6Nl2vB8kW9bibS4DNxN16K | STRANGE GAIT Run 93 | Placement-specific reject / interesting | 2026-09-09 |
+| 164 | Konduku | Pembe Alan | spotify:track:6y1RZeSxjboxNIm4A3yryq | STRANGE GAIT Run 93 | Placement-specific reject / interesting | 2026-09-09 |
+| 165 | Answer Code Request | Bliphar | spotify:track:1XWy9WGp3xy3iCa71cCjLd | STRANGE GAIT Run 93 | Placement-specific reject / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

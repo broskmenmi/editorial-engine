@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 93
+
+### A reset can be over-explained
+
+**Direction:** Explore when an internally transforming techno track clarifies a passage and when it merely restates change that the sequence already communicates. A track can be excellent at withholding and then restoring propulsion, or at moving from slouching double-time detail into 4/4, while still making the surrounding journey less decisive.
+
+**Ingredients:**
+
+- Answer Code Request — Halo — exact Run 93 placement-specific reject; documented texture-first opening followed halfway by closed hi-hat and freewheeling bassline
+- Konduku — Pembe Alan — exact Run 93 placement-specific reject; documented lower-tempo slouch and double-time detail moving into warmer 4/4
+- Answer Code Request — Bliphar — exact Run 93 placement-specific reject; documented syncopated groove
+- Purelink — Stadium Drive — canonical transformation-led overture
+- Nørbak — Capa → Wheelman — Trompe L'oeil → brenner — Thick to Handle — current central redirection and slower-pulse pocket
+
+**Why interesting:** Techno often creates drama by changing how clearly the body can locate the beat. In a track, that can be compelling transformation. In a sequence, repeating the same transformation too soon can make the architecture feel explained rather than experienced.
+
+**Unknown / risk:** No listed pairwise phrase fit, perceived-pulse relation, BPM relation, energy, density, key, mixability or live edge is established. These are conceptual set ingredients, not a proven sequence.
+
 ## Current additions — Run 92
 
 ### Drama needs a destination
