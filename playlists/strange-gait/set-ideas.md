@@ -4,6 +4,23 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 88
+
+### Internal transformation before consolidation
+
+**Direction:** Explore tracks whose own rhythmic material changes before a more settled passage, so a late-run character shift reads as development rather than as another isolated mechanism.
+
+**Ingredients:**
+
+- Clotur — Drummz — canonical provisional restless hinge
+- Valesuchi — Amor — exact Run 88 canonical ADD; exact review documents harsh machine sounds yielding to hand-drum rhythms
+- Inspired Groove — Truth in Noise — canonical provisional groove consolidation
+- GRCA. — SALVADOR — exact PARKED slow-burn contrast, not a proven neighbour
+
+**Why interesting:** A track's internal transformation may provide continuity across production-world change without requiring an invisible transition or one fixed sonic room.
+
+**Unknown / risk:** No pairwise phrase fit, BPM relation, perceived pulse, energy, density, key, mixability or live edge has been established. SALVADOR is not asserted to mix with the canonical ingredients.
+
 ## Current additions — Run 87
 
 ### Deliberate slower-pulse pocket inside rhythmic redirection

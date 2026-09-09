@@ -155,6 +155,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 149 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | STRANGE GAIT Run 87 | Canonical ADD / retained | 2026-09-08 |
 | 150 | Polygonia | Secret Desire | spotify:track:4H6aAVHLXSDB18QJEZYbXo | STRANGE GAIT Run 87 | PARKED / interesting | 2026-09-08 |
 | 151 | C-System | Poison | spotify:track:2hoZk7Gg9Gv2YkC3fW8nf7 | STRANGE GAIT Run 87 | PARKED / interesting | 2026-09-08 |
+| 152 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | STRANGE GAIT Run 88 | Canonical ADD / retained | 2026-09-09 |
+| 153 | Shez Kurx | Selecta | spotify:track:1yd50MPCwQZvXoSN1SJWdX | STRANGE GAIT Run 88 | Placement-specific reject / interesting | 2026-09-09 |
+| 154 | GRCA. | SALVADOR | spotify:track:0ktQpgLbyiicUilbGnFz0h | STRANGE GAIT Run 88 | PARKED / interesting | 2026-09-09 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

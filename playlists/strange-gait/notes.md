@@ -1,6 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 16 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 17 tracks — Marauder → The Witching Hour → Cave → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 88 — EXPLORE — repaired-funnel continuation
+
+Eight ranked leads from approximately 42 inspections produced a matching schemaVersion 2 PARTIAL snapshot: seven exact Spotify resolutions, one unresolved lead, three selected candidates and four unevaluated alternates. All four packaging/date warnings and the exact Nuel resolver error are preserved in `discoveries.md`.
+
+**Decision:** ADD Valesuchi — Amor (`spotify:track:6sFAOCWU1adeWUEZaKWtEy`) between Drummz and Truth in Noise. Exact review evidence documents harsh machine sounds yielding to hand-drum rhythms. That internal change gives the late-middle a concrete developmental step from Drummz's restless hinge toward Truth in Noise's consolidation. BPM, perceived pulse, phrasing, energy, density and both handoffs remain unknown; under the repaired contract, those are explicit risks rather than automatic vetoes.
+
+Shez Kurx — Selecta (`spotify:track:1yd50MPCwQZvXoSN1SJWdX`, externally reported 145 BPM) is a **placement-specific REJECT** for Truth in Noise→Transparency and Too Much Time→Moonwake. Official current UKG/hardgroove/techno context makes it a credible exact discovery, but sparse exact-track evidence does not establish why either insertion improves its local run; the second would also split the existing Sciahri pair without a documented gain.
+
+GRCA. — SALVADOR (`spotify:track:0ktQpgLbyiicUilbGnFz0h`) is PARKED. Its exact five-minute slow-burn description passes the adjacent edge of the lens, but neither an early widening nor a post-Stardancer afterword currently improves the long-form journey strongly enough to admit.
+
+Lead conversion is 8/42 (19.0%), exact resolution is 7/8 (87.5%), and candidate-to-ADD conversion is 1/3 (33.3%). Across Runs 87–88 the repaired funnel has admitted 17 leads from 86 inspections and added 2 of 6 selected candidates. The main failure modes are now specific—cumulative journey cost and sparse exact-track function—not a blanket UNKNOWN veto.
 
 ## Run 87 — EXPLORE — repaired-funnel before/after test
 

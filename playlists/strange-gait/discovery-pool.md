@@ -4,6 +4,25 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 88 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Valesuchi | Amor | https://open.spotify.com/track/6sFAOCWU1adeWUEZaKWtEy | Canonical ADD Run 88 between Drummz and Truth in Noise; exact review documents harsh machine sounds giving way to hand-drum rhythms. BPM and handoffs remain unknown. |
+| EXACT TRACK | Shez Kurx | Selecta | https://open.spotify.com/track/1yd50MPCwQZvXoSN1SJWdX | Run 88 placement-specific REJECT for Truth in Noise→Transparency and Too Much Time→Moonwake only; current exact 3:12 discovery retained. External listing reports 145 BPM. |
+| EXACT TRACK | GRCA. | SALVADOR | https://open.spotify.com/track/0ktQpgLbyiicUilbGnFz0h | PARKED Run 88. Exact current source describes a five-minute slow burn with delicate structures around bass; early and afterword functions remain unproven. |
+| RESEARCH LEAD | Nuel | Ballet | https://ra.co/reviews/21801 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. Exact drum-free polyrhythmic-propulsion evidence remains useful research. |
+| RELEASE WATCH | Alex Mein Smith | Hem | https://alexmeinsmith.bandcamp.com/album/hem | July 14, 2026 current-release window; official techno/post-industrial context and durations only. No unselected track-specific behaviour transferred. |
+| RELEASE WATCH | 8110118 | Jiwa Krungu | https://8110118.bandcamp.com/ | July 2026 current Jakarta release window retained at album level; no exact Spotify identity or track-level sonic verdict asserted. |
+
+### Placement and inspiration boundaries
+
+- Amor's canonical placement is provisional; BPM, phrase fit, perceived pulse and both handoffs were not tested.
+- Selecta is not globally rejected. SALVADOR remains PARKED for a changed boundary need or materially new connective evidence.
+- Nuel — Ballet is unresolved and does not enter the global utility ledger.
+- The four resolved alternates were not selected or evaluated and are not retained here as editorial decisions.
+- Release watches are research directions only and are not publication inputs.
+
 ## Run 87 harvest — 2026-09-08
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

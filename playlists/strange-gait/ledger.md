@@ -16,14 +16,17 @@
 | 10 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
 | 11 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
 | 12 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 13 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 14 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 15 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 16 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 13 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
+| 14 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 15 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 16 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 17 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 16 canonical tracks.**
+**ACTIVE EXPANSION — 17 canonical tracks.**
+
+EXPLORE run `2026-09-08T23:52:29Z-explore-88` adds Valesuchi — Amor between Clotur — Drummz and Inspired Groove — Truth in Noise. Resident Advisor describes the exact track beginning under harsh machine sounds before hand-drum rhythms arrive; Spotify resolves the exact identity at 3:43, with BPM unknown. Editorially, Drummz's provisional restless hinge now flows into Amor's documented internal machine-to-hand-drum mutation before Truth in Noise consolidates the late run. The placement is a best-evidence judgment, not a claim of seamless mixing: phrase structure, perceived pulse, energy, density and both handoffs remain unknown.
 
 EXPLORE run `2026-09-08T22:51:22Z-explore-87` adds Wheelman — Trompe L'oeil between Nørbak — Capa and brenner — Thick to Handle. Resident Advisor describes the exact track as hard-edged, genuinely staggered broken techno with swing and dubwise delay; Music Worx identifies the matching release at 130 BPM. The measured local path becomes 137 → 130 → 138, so this is an intentional and conspicuous tempo reset rather than a numerically smooth bridge. Editorially, Capa redirects the rhythm, Trompe L'oeil stretches that redirection into a slower staggered pocket, and Thick to Handle restores the faster broken-beat bodily deformation before Tehutis Law re-grounds the run. Exact phrasing and handoffs remain unknown; under the repaired Evaluator contract, that uncertainty is a documented risk rather than an automatic veto.
 
@@ -37,7 +40,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All sixteen individual tracks remain provisional. No opener or ending is protected.
+All seventeen individual tracks remain provisional. No opener or ending is protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -53,7 +56,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → 138 → 143† → 140 → 137 BPM`
+`136 → 136 → 134 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 BPM`
+
+`— Amor BPM is unresolved; no tempo, perceived-pulse or energy inference is made.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

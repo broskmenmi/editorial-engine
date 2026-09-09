@@ -2,6 +2,75 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 88 — EXPLORE — repaired-funnel continuation — 2026-09-09
+
+**Pre-audit:** EXPLORE. Run 87 left STRANGE GAIT at 16 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 151 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED, no listener repair was authorized, the generated map matched canonical state, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order remained intact. The Run 87 workflow repair showed no new actionable defect, so this run performed a genuinely fresh scan.
+
+### Exploration receipt
+
+- **runId:** `2026-09-08T23:52:29Z-explore-88`
+- **sourceCommit:** `1f227329e891659c43ea8a7b3948c74c6a457591`
+- **request commit:** `9e96c6f461fb575b6ed188021697b02aca4cf7d1`
+- **snapshot commit:** `60b3a752ca20b37306947a3bb19f46f72b2332d3`
+- **request fingerprint:** `839bb0ba71451d17f9d97d697b4cf36f2f3d1531c10cff59409905dd2fce082f`
+- **scope:** approximately 42 named tracks and releases across current July–September 2026 Bandcamp windows, adjacent/emerging club music and overlooked 2014–2025 catalogue reviews; metadata and attributed descriptions only; no audio audition.
+- **freshness:** all canonical identities, active placement-specific rejects, untriggered PARKED revisits and previously retained exact identities were excluded. Danny Daze & Jonny From Space — Tumbadora was removed before resolution after repository search showed it was already an unresolved Run 57 lead.
+- **resolver:** valid schemaVersion 2 PARTIAL; 8 requested → 7 exact resolutions (3 selected candidates + 4 resolved alternates) + 1 unresolved; 4 warnings; no duplicates, substitutions or terminal errors.
+
+### Resolver outcomes preserved
+
+1. **Valesuchi — Amor** — RESOLVED and selected: `spotify:track:6sFAOCWU1adeWUEZaKWtEy`; Spotify `Futuro Cercano`, `2025-08-08`, 3:43. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-08-08"`.
+2. **Shez Kurx — Selecta** — RESOLVED and selected: `spotify:track:1yd50MPCwQZvXoSN1SJWdX`; Spotify `Selecta`, `2026-07-31`, 3:12; external listing reports 145 BPM. No resolver warning.
+3. **GRCA. — SALVADOR** — RESOLVED and selected: `spotify:track:0ktQpgLbyiicUilbGnFz0h`; Spotify `nzenza.`, `2026-06-26`, 5:19. No resolver warning.
+4. **Wata Igarashi — The Sailage** — RESOLVED alternate, not selected or evaluated: `spotify:track:5NdjQXggi3VasT9r0PARpz`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "Kaleidoscopic" but Spotify returned "Kaleidoscopic EP"; release date requested "2025" but Spotify returned "2025-01-24"`.
+5. **Maara — I Wish You Would** — RESOLVED alternate, not selected or evaluated: `spotify:track:2pTyovK4irlUGXEtlDv0g2`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: album requested "Revenge from the Penthouse" but Spotify returned "Revenge from the Penthouse EP"; release date requested "2025" but Spotify returned "2025-09-12"`.
+6. **Sounds of Future Siam — Windmill** — RESOLVED alternate, not selected or evaluated: `spotify:track:26cVGRIca4EHYUlBFEHwkO`. Preserve warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2025-05-10" but Spotify returned "2025-05-13"`.
+7. **Lucy — Sana Sana Sana Cura Cura Cura** — RESOLVED alternate, not selected or evaluated: `spotify:track:5nr58t0dHTiTEcxHXl3O0O`. No resolver warning.
+8. **Nuel — Ballet** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+#### Valesuchi — Amor — ADD
+
+- **Volume fit:** PASS. Resident Advisor's exact-track account documents harsh machine sounds dominating before hand-drum rhythms arrive, inside an album explicitly framed as versatile techno. This is structural transformation evidence, not novelty as a substitute for fit.
+- **Immediate transition:** PASS provisionally at `Drummz → Amor → Truth in Noise`. BPM, phrase structure, perceived pulse and the two handoffs are UNKNOWN, but the exact evidence supplies a concrete transition-scale purpose: the candidate changes its own rhythmic material on the route from Drummz's provisional restless hinge to Truth in Noise's provisional consolidation.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Pulse I → Fragments → Drummz → Amor → Truth in Noise` becomes a documented path from crooked accumulation through re-escalation and restless motion into an internal machine-to-hand-drum mutation, then consolidation. Those role labels are editorial interpretation, not measured audio facts.
+- **Long-form journey:** PASS provisionally. The addition develops the late-middle before the unprotected entry into the protected trio. It does not split the trio, default to the tail, or require the playlist to stay in one production world.
+- **Risk:** This is the third consecutive internal ADD across Runs 86–88, so late-middle over-articulation is the strongest counterargument. Audio, phrase fit, energy, density, mixability and BPM remain untested or unknown.
+
+#### Shez Kurx — Selecta — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PLAUSIBLE at the adjacent edge. Official release context spans UK garage, hardgroove, techno and bass music; Spotify resolves the exact 3:12 track and an external listing reports 145 BPM. The source does not document exact-track structural freedom beyond calling it an emphatic bass anthem.
+- **Immediate transition:** The measured `Truth in Noise 138 → Selecta 145 → Transparency 143` and `Too Much Time 140 → Selecta 145 → Moonwake 140` paths are numerically feasible, but BPM does not prove flow. Sparse exact-track evidence does not establish why either insertion improves the boundary.
+- **Surrounding three-to-five-track run:** FAIL for the two proposed placements. Before Transparency, the compact adjacent-world insertion would add another threshold immediately after the newly lengthened late-middle without a distinct developmental function. Between the two Sciahri tracks, it would split an existing artist-local pair for which no stronger gain is documented.
+- **Long-form journey:** FAIL for these placements only. Currentness, genre range and a tidy BPM path do not justify insertion by themselves.
+- **Verdict:** **REJECT the two Run 88 placements only**, not the track globally. Retain as an exact interesting discovery.
+
+#### GRCA. — SALVADOR — REVISIT / PARKED
+
+- **Volume fit:** PASS at the adjacent edge. Bandcamp Daily describes the exact track as a five-minute slow burn with delicate structures orbiting subterranean bass; the official release identifies percussive Afro-electronic context.
+- **Immediate transition:** Both `Cave → SALVADOR → Too Much Time` and a post-`Stardancer` afterword remain plausible. BPM, phrase structure, perceived pulse and handoffs are UNKNOWN, but UNKNOWN is not treated as failure.
+- **Surrounding three-to-five-track run:** The early placement may widen an opening already developed across Cave, Too Much Time and Moonwake. The tail placement would reopen the journey after a listener-confirmed three-track close. Neither route currently shows a clearer gain than preserving the 16-track shape plus the approved Amor insertion.
+- **Long-form journey:** NOT PROVEN. Its subtle slow-burn construction remains a strong future boundary option, but this run does not establish that the journey needs either another early stage or an afterword.
+- **Verdict:** PARKED for a changed boundary need or materially new connective evidence.
+
+The unresolved Nuel lead receives no musical verdict. The four resolved alternates were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot has the correct runId, sourceCommit, mode, target and fingerprint. Accounting reconciles: 8 requested = 7 exact resolutions + 1 unresolved; the seven resolved identities reconcile to three selected candidates and four alternates. All four warnings and the exact Nuel resolver error are preserved. No stale lead, duplicate, substitute, alternate or technical failure entered evaluation. The three selected identities were judged separately at volume, immediate-transition, three-to-five-track-run and long-form scales. UNKNOWN did not function as an automatic veto. The Amor ADD has a concrete developmental purpose; Selecta has specific placement failures; SALVADOR has a specific changed-need trigger. Protected and frozen state remains intact. Auditor approves one canonical ADD, one placement-specific REJECT, one PARKED revisit, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **16 → 17 canonical tracks**; add Valesuchi — Amor between Drummz and Truth in Noise.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; Nuel — Ballet retained as an unresolved research lead; four resolved alternates remain unevaluated and are not retained as editorial decisions.
+- EDITORIAL ENGINE — DISCOVERY POOL: **151 → 154 exact tracks**, adding Amor, Selecta and SALVADOR.
+- Journey annotations: add Amor as provisional Track 13 / machine-to-hand-drum mutation and renumber downstream positional labels.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 42 inspected → 8 ranked leads → 7 exact resolutions + 1 unresolved → 3 selected evaluations + 4 unevaluated alternates → **1 ADD + 1 placement-specific REJECT + 1 PARKED** → 3 utility additions. Lead conversion is **8/42 (19.0%)**; exact-resolution conversion is **7/8 (87.5%)**; selected-candidate-to-ADD conversion is **1/3 (33.3%)**. Across the two post-repair runs, lead conversion is **17/86 (19.8%)** and selected-candidate-to-ADD conversion is **2/6 (33.3%)**. The consecutive no-ADD count remains 0; the recent ADD rate is **3/10 across Runs 79–88**, while the longer Runs 55–88 rate is **3/34**. The strongest counterargument is that Amor may over-articulate a late-middle already expanded by Pulse I and Wheelman in the previous two runs. That risk is explicit. This run proves the repaired funnel continued to admit and seriously evaluate credible contenders; it does not prove Amor's BPM, perceived pulse, phrase fit, handoffs or live mixability, does not globally reject Selecta, does not prove SALVADOR belongs at either boundary, and does not establish an ADD quota.
+
 ## Run 87 — EXPLORE — repaired-funnel before/after test — 2026-09-08
 
 **Pre-audit:** EXPLORE after completing the user-approved workflow REPAIR. No REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the two listener-protected handoffs stayed intact. The actionable defect was procedural: Scout had over-filtered before resolution, while missing direct transition evidence had functioned as an implicit Evaluator veto. The repaired contracts now admit credible contenders, preserve UNKNOWN as uncertainty, require actual editorial judgment, and audit funnel health without imposing an ADD quota.
