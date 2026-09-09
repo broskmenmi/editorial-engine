@@ -4,6 +4,24 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 99
+
+### A new clock is not automatically a new destination
+
+**Direction:** Explore the difference between a track-level rhythmic arrival and a long-form arrival. A kick can materialise, syncopation can redistribute bodily weight, or dub space can alter posture without the playlist itself needing another threshold.
+
+**Ingredients:**
+
+- Eden Aurelius, Pontiac Streator — *Ion* — exact placement-specific reject; documented loping rhythm reorganised by an arriving four-on-the-floor kick.
+- Conna Haraway — *Duration* — exact placement-specific reject; documented phasing held by a nimble syncopated beat.
+- K Wata — *Whisper Dub* — exact placement-specific reject; documented dub-techno/post-dubstep fusion.
+- Picture — *Quuuuuu* — unresolved current research into stable kick reference amid spatially displaced percussive action.
+- STRANGE GAIT's current `Capa → Trompe L'oeil → Thick to Handle` reset and `Stardancer → Invisible Warriors Of Light` close/afterword remain canonical reference structures, not claimed mixes with these ingredients.
+
+**Why interesting:** Techno can make the body discover a grid inside a track. In a set, that local discovery only becomes long-form development when it changes the meaning of what follows; otherwise the sequence may simply narrate the same arrival again.
+
+**Unknown/risk:** No listed transition is proven. BPM, phrase structure, perceived pulse, density, exact felt state and live-mixing behaviour remain UNKNOWN unless separately evidenced. Quuuuuu is unresolved.
+
 ## Current additions — Run 98
 
 ### Distance can interrupt without releasing
