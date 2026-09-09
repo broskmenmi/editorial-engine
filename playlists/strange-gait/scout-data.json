@@ -1,832 +1,730 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "cb61d2ee20ce1cf05560b63801500d83ad0556b395f2bfff810b0b9b733c52d9",
-  "generatedAt": "2026-09-09T17:55:21.894Z",
-  "runId": "2026-09-09T17:49:01Z-explore-106",
-  "sourceCommit": "d36d770b4860aed2449a0368aea6cd37141eb7ed",
+  "requestFingerprint": "bb8c984551d1c81a71f08deb814baabf370a3e4652d87e0c984bc9df953ffac9",
+  "generatedAt": "2026-09-09T18:58:09.905Z",
+  "runId": "2026-09-09T18:49:33Z-explore-107",
+  "sourceCommit": "36dd9c240dbfc61cfd851680715f8d67a1dfe7e6",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 105's directed surge, testing unreliable rhythmic memory, dissipated physicality, polyrhythmic transformation and alternate bodily postures without requiring same-room continuity",
-    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat Roxellana as a provisional surge, not a fixed summit, and let exact candidate evidence determine placement while testing transition, local-run and long-form consequence separately.",
     "neighbours": [],
-    "purpose": "Compare a September 2026 spectral-dub album, an August 2026 emerging Latin rhythmic collaboration and overlooked 2026 dub/stepper catalogue without novelty quotas, fixed waves or a sequencing-purity test."
+    "position": "Whole 24-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat Roxellana as a provisional surge rather than a fixed summit, keep Holding a Shape PARKED, and let exact candidate evidence determine placement at transition, local-run and long-form scale.",
+    "purpose": "Compare a September 2026 current Djrum window, an emerging Casting Spells/Tackle Audio release and overlooked Andrea/Ilian Tape catalogue while excluding recent Carmen Villain, Shoal, Basic Rhythm, DJ Plead, Klara Lewis and Dasha Rush ecosystems.",
+    "role": "fresh whole-journey contender discovery after Run 106's rhythmic-memory audit, testing bumpy expectation changes, loose-limbed groove and adjacent jazz/dub/electronica posture without requiring one sonic room"
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-09T17:49:01Z",
-    "sourceWindows": [
-      "CURRENT SPECTRAL DUB: https://pitchfork.com/reviews/albums/carmen-villain-memoria/ plus https://carmenvillain.bandcamp.com/album/memoria — the September 4, 2026 seven-track album was inspected; Blue was excluded because it is already PARKED from Run 82, while Entre Nosotros, Holding a Shape and Memoria carry fresh exact-track descriptions.",
-      "EMERGING / CURRENT POLYRHYTHMIC CLUB: https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ plus https://denguedenguedengue.bandcamp.com/album/abisal — all six tracks on DNGDNGDNG & Prisma's August 6, 2026 collaboration were inspected; the album-level evidence supports contractions, shapeshifting timbres and microscopic variations but does not pre-judge individual felt behavior.",
-      "OVERLOOKED 2026 CATALOGUE: https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026 plus official Priori, Carré and RAMZi release pages — Nesting Chamber, Hibiscus and deepdubi were retained as the strongest exact-track leads across patient dub-house, stepper and compact digital-dub contexts.",
-      "BROAD FRESHNESS SCAN: current Pitchfork, Resident Advisor, Bandcamp and Quietus electronic windows supplied approximately 31 additional named works; Run 105's Shoal, OK EG and Estrato Aurora/Menou ecosystems and Run 104's restoration-focused candidates were not retried.",
-      "FRESHNESS CHECK: current durable target files and the 197-track utility ledger contain no prior artist-title decision for the nine requested identities; Carmen Villain — Blue and Brendon Moeller — Control Mechanism were excluded as existing PARKED discoveries."
-    ],
-    "approximateInspectedScope": "Approximately 46 named tracks across two current releases, three overlooked 2026 catalogue records and broader September source windows; official release pages and attributed criticism only; no audio audition.",
+    "approximateInspectedScope": "Approximately 55 named tracks across one forthcoming current mix, one emerging four-track release, one overlooked twelve-track album and broader September electronic source windows; attributed criticism and catalogue metadata only; no audio audition.",
     "exclusions": [
-      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and prior unresolved leads without materially new identity evidence were excluded.",
-      "Unreleased September material and tracks supported only by generic genre tags were excluded from the resolver request.",
-      "Run 105's Shoal, OK EG and Estrato Aurora/Menou ecosystems and Run 104's Basic Rhythm, DJ Plead, Klara Lewis and Dasha Rush ecosystems were not retried.",
+      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
+      "Casting Spells — Caught In The Spell, Djrum — To Do What to Do and lower-ranked Andrea tracks were inspected but excluded to keep nine honest leads and prioritize distinct canonical potential.",
+      "Generic tag-only current releases and unreleased items without an exact titled track were excluded.",
+      "Run 104–106 Basic Rhythm, DJ Plead, Klara Lewis, Dasha Rush, Shoal, OK EG, Carmen Villain, DNGDNGDNG & Prisma, Priori, Carré and RAMZi ecosystems were not retried.",
       "No Spotify connector, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Carmen Villain — Entre Nosotros",
-      "2. Carmen Villain — Holding a Shape",
-      "3. Carmen Villain — Memoria",
-      "4. Priori, Gavsborg — Nesting Chamber",
-      "5. Carré, Bbyafricka — Hibiscus",
-      "6. RAMZi — deepdubi",
-      "7. DNGDNGDNG & Prisma — Abisal",
-      "8. DNGDNGDNG & Prisma — Umbral",
-      "9. DNGDNGDNG & Prisma — Goblinator"
-    ]
+      "1. Djrum — Psychic Video",
+      "2. Andrea — TrackQY",
+      "3. Casting Spells — Chasing Camberwell Goats",
+      "4. Andrea — Drumzzy",
+      "5. Casting Spells — Garden Of Grass",
+      "6. Djrum — Turning",
+      "7. Andrea — Isabelle's String",
+      "8. Casting Spells — Teatray In The Sky",
+      "9. Djrum — Leave Me Alone"
+    ],
+    "sourceWindows": [
+      "CURRENT RELEASE: https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way and https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist — September 2 and September 8, 2026 sources identify four new Djrum originals in the forthcoming October 16 DJ-Kicks mix; Psychic Video is independently selected, while Turning and Leave Me Alone remain mix-context leads.",
+      "ADJACENT / EMERGING RELEASE: https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ plus Tackle Audio retail catalogue — all four tracks on Casting Spells' Abstract Grooves Vol. 3 were inspected; three survive because concrete jazz/dub/electronica, mixing-board dub/deep-house or post-party breakbeat descriptions support resolution.",
+      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/andrea-ritorno/ and https://pitchfork.com/features/lists-and-guides/great-records-you-may-have-missed-spring-2020/ — all twelve tracks on Andrea's 2020 Ritorno were inspected; TrackQY, Drumzzy and Isabelle's String have the clearest exact-track free-rhythm and bodily-groove evidence.",
+      "BROAD FRESHNESS SCAN: current Pitchfork, Resident Advisor, Bandcamp and Quietus electronic windows supplied approximately 32 additional named works; recent Run 104–106 source ecosystems were not retried.",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 200-track utility state contain no prior artist-title decision for the nine requested identities. DjRUM — Sex remains an untriggered PARKED different identity and was not reopened."
+    ],
+    "timestampUtc": "2026-09-09T18:49:33Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 3,
-  "candidateCount": 3,
-  "resolutionStatus": "PARTIAL",
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
   "unresolved": [
     {
-      "artist": "Priori, Gavsborg",
-      "track": "Nesting Chamber",
+      "artist": "Djrum",
+      "track": "Psychic Video",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Priori, Gavsborg",
-        "track": "Nesting Chamber",
-        "album": "9",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
+        "evidence": {
+          "attributedDescription": "Pitchfork's September 2 announcement identifies this as a new Djrum original from a live-vinyl mix deliberately built to be bumpy, rise and fall, and disrupt expectation; the September 8 Selects list independently singles out the exact track. Individual rhythmic mechanics remain undescribed.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether a current Djrum original can redirect Moonwake's intensification before Capa without turning the central movement into another complete reset.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Psychic Video on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork's September 2 announcement identifies this as a new Djrum original from a live-vinyl mix deliberately built to be bumpy, rise and fall, and disrupt expectation; the September 8 Selects list independently singles out the exact track. Individual rhythmic mechanics remain undescribed.",
         "proposedPlacements": [
           {
-            "position": "Between Abundance and Worn Down",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether patient dub pressure prepares Worn Down's threatened coherence or adds another long preparatory stage."
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "outgoingBpm": 137,
+            "position": "Between Moonwake and Capa",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "purpose": "Test whether a current Djrum original can redirect Moonwake's intensification before Capa without turning the central movement into another complete reset."
           }
         ],
-        "fitHypothesis": "Infinite Speeds identifies the exact track as a neo–Rhythm & Sound construction with Gavsborg, while the official release frames it as a dense, patient dubbed-out house/techno groove.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Priori, Gavsborg — Nesting Chamber on 9, released 2026-03-13; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds identifies the exact track as a neo–Rhythm & Sound construction with Gavsborg, while the official release frames it as a dense, patient dubbed-out house/techno groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether patient dub pressure prepares Worn Down's threatened coherence or adds another long preparatory stage."
-        }
+        "releaseDate": "2026-10-16",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Psychic Video"
       }
     },
     {
-      "artist": "Carré, Bbyafricka",
-      "track": "Hibiscus",
+      "artist": "Andrea",
+      "track": "TrackQY",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Carré, Bbyafricka",
-        "track": "Hibiscus",
-        "album": "Hibiscus",
-        "releaseDate": "2026-02-20",
-        "spotifyTrackId": null,
+        "album": "Ritorno",
+        "artist": "Andrea",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact track's fluttering bassline as late-1990s drum'n'bass-like and calls it the album's most club-ready tune, within an album whose loose-limbed beats repeatedly approach collapse without losing groove.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether fluttering low-end motion can extend the opening derailment into a deliberate new bodily posture before Cave widens the path, or whether it delays recovery.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — TrackQY on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork describes the exact track's fluttering bassline as late-1990s drum'n'bass-like and calls it the album's most club-ready tune, within an album whose loose-limbed beats repeatedly approach collapse without losing groove.",
         "proposedPlacements": [
           {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:6R35r70LjYmlA39iCH05aA",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a different bodily posture between Cave and Abundance changes the regained opening motion or simply delays it."
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "purpose": "Test whether fluttering low-end motion can extend the opening derailment into a deliberate new bodily posture before Cave widens the path, or whether it delays recovery."
           }
         ],
-        "fitHypothesis": "Infinite Speeds describes the exact track as a laid-back but heavy stepper whose vocal performance complements the beat; the official page identifies the Bbyafricka feature.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carré, Bbyafricka — Hibiscus on Hibiscus, released 2026-02-20; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds describes the exact track as a laid-back but heavy stepper whose vocal performance complements the beat; the official page identifies the Bbyafricka feature.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a different bodily posture between Cave and Abundance changes the regained opening motion or simply delays it."
-        }
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "TrackQY"
       }
     },
     {
-      "artist": "RAMZi",
-      "track": "deepdubi",
+      "artist": "Casting Spells",
+      "track": "Chasing Camberwell Goats",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "RAMZi",
-        "track": "deepdubi",
-        "album": "RAMZTEK",
-        "releaseDate": "2026-01-29",
-        "spotifyTrackId": null,
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track through throat singing, ghostly strumming, percussion and jazzy syncopation, with a tropicalia suggestion and full low end; the label catalogue identifies it on Abstract Grooves Vol. 3.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether an adjacent jazz/dub/electronica posture creates a purposeful threshold into the protected closing movement or needlessly reopens the journey after consolidation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Chasing Camberwell Goats on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track through throat singing, ghostly strumming, percussion and jazzy syncopation, with a tropicalia suggestion and full low end; the label catalogue identifies it on Abstract Grooves Vol. 3.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:55YoqC7wZwEvpCMKTiqJ10",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a compact digital-dub turn changes Amor's reassembly after Ikoyi or merely extends the aperture."
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "outgoingBpm": 143,
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether an adjacent jazz/dub/electronica posture creates a purposeful threshold into the protected closing movement or needlessly reopens the journey after consolidation."
           }
         ],
-        "fitHypothesis": "Infinite Speeds identifies the exact compact track as an excellent example of RAMZTEK's proudly digital, clean and slightly strange drum palette; the official page gives a 2:40 duration.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies RAMZi — deepdubi on RAMZTEK, released 2026-01-29; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds identifies the exact compact track as an excellent example of RAMZTEK's proudly digital, clean and slightly strange drum palette; the official page gives a 2:40 duration.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a compact digital-dub turn changes Amor's reassembly after Ikoyi or merely extends the aperture."
-        }
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Chasing Camberwell Goats"
       }
     },
     {
-      "artist": "DNGDNGDNG & Prisma",
-      "track": "Abisal",
+      "artist": "Andrea",
+      "track": "Drumzzy",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Abisal",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "Ritorno",
+        "artist": "Andrea",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork calls the exact track a soaring jungle mutation inside a record of freewheeling, loose-limbed rhythm that remains bodily coherent.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether a documented jungle mutation gives Drummz's unpredictability a sharper directional consequence before Ikoyi dissolves the foreground, or overstates the same instability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — Drumzzy on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork calls the exact track a soaring jungle mutation inside a record of freewheeling, loose-limbed rhythm that remains bodily coherent.",
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
             "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether the title track opens a distinct transformation or repeats crooked accumulation; individual felt behavior remains unestablished."
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether a documented jungle mutation gives Drummz's unpredictability a sharper directional consequence before Ikoyi dissolves the foreground, or overstates the same instability."
           }
         ],
-        "fitHypothesis": "The official release frames microscopic variations amplifying into total transformations; The Quietus attributes maze-like polyrhythmic contractions and shapeshifting timbres to the record as a whole.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Abisal on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release frames microscopic variations amplifying into total transformations; The Quietus attributes maze-like polyrhythmic contractions and shapeshifting timbres to the record as a whole.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether the title track opens a distinct transformation or repeats crooked accumulation; individual felt behavior remains unestablished."
-        }
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Drumzzy"
       }
     },
     {
-      "artist": "DNGDNGDNG & Prisma",
-      "track": "Umbral",
+      "artist": "Casting Spells",
+      "track": "Garden Of Grass",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Umbral",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track as mixing-board dub meeting deep house; the label catalogue identifies the exact title and featured artist Zav.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether mixing-board dub and deep-house motion can make the central character change more intentional or merely insert another bridge.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Garden Of Grass on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track as mixing-board dub meeting deep house; the label catalogue identifies the exact title and featured artist Zav.",
         "proposedPlacements": [
           {
-            "position": "Between Trompe L'oeil and Thick to Handle",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether an opening threshold clarifies the central turn or overextends it; individual pulse and movement remain unknown."
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": 137,
+            "outgoingBpm": 130,
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether mixing-board dub and deep-house motion can make the central character change more intentional or merely insert another bridge."
           }
         ],
-        "fitHypothesis": "The official release identifies this 5:27 opener inside a record about order emerging from chaos; The Quietus' rhythmic description applies at release level, not to this exact track.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Umbral on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release identifies this 5:27 opener inside a record about order emerging from chaos; The Quietus' rhythmic description applies at release level, not to this exact track.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether an opening threshold clarifies the central turn or overextends it; individual pulse and movement remain unknown."
-        }
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Garden Of Grass"
       }
     },
     {
-      "artist": "DNGDNGDNG & Prisma",
-      "track": "Goblinator",
+      "artist": "Djrum",
+      "track": "Turning",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Goblinator",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies Turning as one of four new Djrum originals inside a deliberately bumpy live-vinyl and post-edited DJ-Kicks construction; this is mix-level context, not an individual sonic claim.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Resolve the exact current original before testing whether it supplies a useful first stance or creates another pre-anchor beginning; individual behavior remains unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Turning on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork identifies Turning as one of four new Djrum originals inside a deliberately bumpy live-vinyl and post-edited DJ-Kicks construction; this is mix-level context, not an individual sonic claim.",
         "proposedPlacements": [
           {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
+            "purpose": "Resolve the exact current original before testing whether it supplies a useful first stance or creates another pre-anchor beginning; individual behavior remains unknown."
+          }
+        ],
+        "releaseDate": "2026-10-16",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Turning"
+      }
+    },
+    {
+      "artist": "Andrea",
+      "track": "Isabelle's String",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Ritorno",
+        "artist": "Andrea",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork calls the exact track shuffling and serene while describing the album's drum programming as organized chaos that approaches collapse without losing groove.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether documented shuffling serenity deepens recovery after Roxellana and Fragments or creates an unnecessary soft-focus stage before Drummz.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — Isabelle's String on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork calls the exact track shuffling and serene while describing the album's drum programming as organized chaos that approaches collapse without losing groove.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
+            "outgoingBpm": 138,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether documented shuffling serenity deepens recovery after Roxellana and Fragments or creates an unnecessary soft-focus stage before Drummz."
+          }
+        ],
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Isabelle's String"
+      }
+    },
+    {
+      "artist": "Casting Spells",
+      "track": "Teatray In The Sky",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track in post-party breakbeat terms; the label catalogue identifies it on Abstract Grooves Vol. 3. Exact felt direction remains for evaluation.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Resolve the exact identity before testing whether its documented post-party breakbeat context can extend closure or merely creates a second afterword.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Teatray In The Sky on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track in post-party breakbeat terms; the label catalogue identifies it on Abstract Grooves Vol. 3. Exact felt direction remains for evaluation.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
             "position": "Between Stardancer and Invisible Warriors Of Light",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:21tLQLOqpIf99ep4fmb5Ap",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether a concise adjacent-world afterword changes closure or creates a second coda; individual felt behavior remains unknown."
+            "purpose": "Resolve the exact identity before testing whether its documented post-party breakbeat context can extend closure or merely creates a second afterword."
           }
         ],
-        "fitHypothesis": "The official release identifies this 3:28 exact track inside a record of organic/programmed rhythmic ambiguity; The Quietus' maze-like transformation claim remains album-level.",
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Teatray In The Sky"
+      }
+    },
+    {
+      "artist": "Djrum",
+      "track": "Leave Me Alone",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
         "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Goblinator on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release identifies this 3:28 exact track inside a record of organic/programmed rhythmic ambiguity; The Quietus' maze-like transformation claim remains album-level.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies Leave Me Alone as one of four new Djrum originals in the forthcoming expectation-disrupting DJ-Kicks mix; no individual energy, density, pulse or structure is inferred.",
           "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether a concise adjacent-world afterword changes closure or creates a second coda; individual felt behavior remains unknown."
-        }
+          "editorialInterpretation": "Resolve the exact current original before testing whether it changes what reassembly means after Ikoyi or only prolongs foreground dissolution.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Leave Me Alone on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork identifies Leave Me Alone as one of four new Djrum originals in the forthcoming expectation-disrupting DJ-Kicks mix; no individual energy, density, pulse or structure is inferred.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "purpose": "Resolve the exact current original before testing whether it changes what reassembly means after Ikoyi or only prolongs foreground dissolution."
+          }
+        ],
+        "releaseDate": "2026-10-16",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Leave Me Alone"
       }
     }
   ],
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Entre Nosotros",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": null,
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
+        "evidence": {
+          "attributedDescription": "Pitchfork's September 2 announcement identifies this as a new Djrum original from a live-vinyl mix deliberately built to be bumpy, rise and fall, and disrupt expectation; the September 8 Selects list independently singles out the exact track. Individual rhythmic mechanics remain undescribed.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether a current Djrum original can redirect Moonwake's intensification before Capa without turning the central movement into another complete reset.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Psychic Video on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork's September 2 announcement identifies this as a new Djrum original from a live-vinyl mix deliberately built to be bumpy, rise and fall, and disrupt expectation; the September 8 Selects list independently singles out the exact track. Individual rhythmic mechanics remain undescribed.",
         "proposedPlacements": [
           {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 140,
+            "outgoingBpm": 137,
             "position": "Between Moonwake and Capa",
             "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
+            "purpose": "Test whether a current Djrum original can redirect Moonwake's intensification before Capa without turning the central movement into another complete reset."
           }
         ],
-        "fitHypothesis": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Entre Nosotros on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
-        }
-      },
-      "spotifyTrackId": "3AKq4Zsj15PD1p1djgNceT",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Holding a Shape",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
+        "releaseDate": "2026-10-16",
         "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Roxellana and Fragments",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-          }
-        ],
-        "fitHypothesis": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Holding a Shape on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-        }
-      },
-      "spotifyTrackId": "68gNqjCn5xOMhg5myoh7OB",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Memoria",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
         "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-          }
-        ],
-        "fitHypothesis": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Memoria on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-        }
-      },
-      "spotifyTrackId": "1HZKVYH50pY9s8IbpCezCP",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Priori, Gavsborg",
-        "track": "Nesting Chamber",
-        "album": "9",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Abundance and Worn Down",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether patient dub pressure prepares Worn Down's threatened coherence or adds another long preparatory stage."
-          }
-        ],
-        "fitHypothesis": "Infinite Speeds identifies the exact track as a neo–Rhythm & Sound construction with Gavsborg, while the official release frames it as a dense, patient dubbed-out house/techno groove.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Priori, Gavsborg — Nesting Chamber on 9, released 2026-03-13; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds identifies the exact track as a neo–Rhythm & Sound construction with Gavsborg, while the official release frames it as a dense, patient dubbed-out house/techno groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether patient dub pressure prepares Worn Down's threatened coherence or adds another long preparatory stage."
-        }
+        "track": "Psychic Video"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Carré, Bbyafricka",
-        "track": "Hibiscus",
-        "album": "Hibiscus",
-        "releaseDate": "2026-02-20",
-        "spotifyTrackId": null,
+        "album": "Ritorno",
+        "artist": "Andrea",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact track's fluttering bassline as late-1990s drum'n'bass-like and calls it the album's most club-ready tune, within an album whose loose-limbed beats repeatedly approach collapse without losing groove.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether fluttering low-end motion can extend the opening derailment into a deliberate new bodily posture before Cave widens the path, or whether it delays recovery.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — TrackQY on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork describes the exact track's fluttering bassline as late-1990s drum'n'bass-like and calls it the album's most club-ready tune, within an album whose loose-limbed beats repeatedly approach collapse without losing groove.",
         "proposedPlacements": [
           {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:6R35r70LjYmlA39iCH05aA",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a different bodily posture between Cave and Abundance changes the regained opening motion or simply delays it."
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "purpose": "Test whether fluttering low-end motion can extend the opening derailment into a deliberate new bodily posture before Cave widens the path, or whether it delays recovery."
           }
         ],
-        "fitHypothesis": "Infinite Speeds describes the exact track as a laid-back but heavy stepper whose vocal performance complements the beat; the official page identifies the Bbyafricka feature.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carré, Bbyafricka — Hibiscus on Hibiscus, released 2026-02-20; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds describes the exact track as a laid-back but heavy stepper whose vocal performance complements the beat; the official page identifies the Bbyafricka feature.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a different bodily posture between Cave and Abundance changes the regained opening motion or simply delays it."
-        }
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "TrackQY"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "RAMZi",
-        "track": "deepdubi",
-        "album": "RAMZTEK",
-        "releaseDate": "2026-01-29",
-        "spotifyTrackId": null,
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://infinitespeeds.substack.com/p/the-best-electronic-music-of-q1-2026",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track through throat singing, ghostly strumming, percussion and jazzy syncopation, with a tropicalia suggestion and full low end; the label catalogue identifies it on Abstract Grooves Vol. 3.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether an adjacent jazz/dub/electronica posture creates a purposeful threshold into the protected closing movement or needlessly reopens the journey after consolidation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Chasing Camberwell Goats on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track through throat singing, ghostly strumming, percussion and jazzy syncopation, with a tropicalia suggestion and full low end; the label catalogue identifies it on Abstract Grooves Vol. 3.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:55YoqC7wZwEvpCMKTiqJ10",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a compact digital-dub turn changes Amor's reassembly after Ikoyi or merely extends the aperture."
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": 138,
+            "outgoingBpm": 143,
+            "position": "Between Truth in Noise and Transparency",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether an adjacent jazz/dub/electronica posture creates a purposeful threshold into the protected closing movement or needlessly reopens the journey after consolidation."
           }
         ],
-        "fitHypothesis": "Infinite Speeds identifies the exact compact track as an excellent example of RAMZTEK's proudly digital, clean and slightly strange drum palette; the official page gives a 2:40 duration.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies RAMZi — deepdubi on RAMZTEK, released 2026-01-29; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Infinite Speeds identifies the exact compact track as an excellent example of RAMZTEK's proudly digital, clean and slightly strange drum palette; the official page gives a 2:40 duration.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a compact digital-dub turn changes Amor's reassembly after Ikoyi or merely extends the aperture."
-        }
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Chasing Camberwell Goats"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Abisal",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "Ritorno",
+        "artist": "Andrea",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork calls the exact track a soaring jungle mutation inside a record of freewheeling, loose-limbed rhythm that remains bodily coherent.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether a documented jungle mutation gives Drummz's unpredictability a sharper directional consequence before Ikoyi dissolves the foreground, or overstates the same instability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — Drumzzy on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork calls the exact track a soaring jungle mutation inside a record of freewheeling, loose-limbed rhythm that remains bodily coherent.",
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
             "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether the title track opens a distinct transformation or repeats crooked accumulation; individual felt behavior remains unestablished."
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether a documented jungle mutation gives Drummz's unpredictability a sharper directional consequence before Ikoyi dissolves the foreground, or overstates the same instability."
           }
         ],
-        "fitHypothesis": "The official release frames microscopic variations amplifying into total transformations; The Quietus attributes maze-like polyrhythmic contractions and shapeshifting timbres to the record as a whole.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Abisal on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release frames microscopic variations amplifying into total transformations; The Quietus attributes maze-like polyrhythmic contractions and shapeshifting timbres to the record as a whole.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether the title track opens a distinct transformation or repeats crooked accumulation; individual felt behavior remains unestablished."
-        }
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Drumzzy"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Umbral",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track as mixing-board dub meeting deep house; the label catalogue identifies the exact title and featured artist Zav.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether mixing-board dub and deep-house motion can make the central character change more intentional or merely insert another bridge.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Garden Of Grass on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track as mixing-board dub meeting deep house; the label catalogue identifies the exact title and featured artist Zav.",
         "proposedPlacements": [
           {
-            "position": "Between Trompe L'oeil and Thick to Handle",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether an opening threshold clarifies the central turn or overextends it; individual pulse and movement remain unknown."
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": 137,
+            "outgoingBpm": 130,
+            "position": "Between Capa and Trompe L'oeil",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether mixing-board dub and deep-house motion can make the central character change more intentional or merely insert another bridge."
           }
         ],
-        "fitHypothesis": "The official release identifies this 5:27 opener inside a record about order emerging from chaos; The Quietus' rhythmic description applies at release level, not to this exact track.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Umbral on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release identifies this 5:27 opener inside a record about order emerging from chaos; The Quietus' rhythmic description applies at release level, not to this exact track.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether an opening threshold clarifies the central turn or overextends it; individual pulse and movement remain unknown."
-        }
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Garden Of Grass"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DNGDNGDNG & Prisma",
-        "track": "Goblinator",
-        "album": "Abisal",
-        "releaseDate": "2026-08-06",
-        "spotifyTrackId": null,
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://denguedenguedengue.bandcamp.com/album/abisal",
-        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies Turning as one of four new Djrum originals inside a deliberately bumpy live-vinyl and post-edited DJ-Kicks construction; this is mix-level context, not an individual sonic claim.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Resolve the exact current original before testing whether it supplies a useful first stance or creates another pre-anchor beginning; individual behavior remains unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Turning on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork identifies Turning as one of four new Djrum originals inside a deliberately bumpy live-vinyl and post-edited DJ-Kicks construction; this is mix-level context, not an individual sonic claim.",
         "proposedPlacements": [
           {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
+            "purpose": "Resolve the exact current original before testing whether it supplies a useful first stance or creates another pre-anchor beginning; individual behavior remains unknown."
+          }
+        ],
+        "releaseDate": "2026-10-16",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Turning"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Ritorno",
+        "artist": "Andrea",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+        "evidence": {
+          "attributedDescription": "Pitchfork calls the exact track shuffling and serene while describing the album's drum programming as organized chaos that approaches collapse without losing groove.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Test whether documented shuffling serenity deepens recovery after Roxellana and Fragments or creates an unnecessary soft-focus stage before Drummz.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Andrea — Isabelle's String on Ritorno, with requested release metadata 2020-04; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork calls the exact track shuffling and serene while describing the album's drum programming as organized chaos that approaches collapse without losing groove.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
+            "outgoingBpm": 138,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether documented shuffling serenity deepens recovery after Roxellana and Fragments or creates an unnecessary soft-focus stage before Drummz."
+          }
+        ],
+        "releaseDate": "2020-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Isabelle's String"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Abstract Grooves Vol. 3",
+        "artist": "Casting Spells",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/",
+        "evidence": {
+          "attributedDescription": "The Quietus describes the exact track in post-party breakbeat terms; the label catalogue identifies it on Abstract Grooves Vol. 3. Exact felt direction remains for evaluation.",
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
+          "editorialInterpretation": "Resolve the exact identity before testing whether its documented post-party breakbeat context can extend closure or merely creates a second afterword.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Casting Spells — Teatray In The Sky on Abstract Grooves Vol. 3, with requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "The Quietus describes the exact track in post-party breakbeat terms; the label catalogue identifies it on Abstract Grooves Vol. 3. Exact felt direction remains for evaluation.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
             "position": "Between Stardancer and Invisible Warriors Of Light",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:21tLQLOqpIf99ep4fmb5Ap",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve the exact identity before testing whether a concise adjacent-world afterword changes closure or creates a second coda; individual felt behavior remains unknown."
+            "purpose": "Resolve the exact identity before testing whether its documented post-party breakbeat context can extend closure or merely creates a second afterword."
           }
         ],
-        "fitHypothesis": "The official release identifies this 3:28 exact track inside a record of organic/programmed rhythmic ambiguity; The Quietus' maze-like transformation claim remains album-level.",
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Teatray In The Sky"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "DJ-Kicks: Djrum",
+        "artist": "Djrum",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
         "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies DNGDNGDNG & Prisma — Goblinator on Abisal, released 2026-08-06; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "The official release identifies this 3:28 exact track inside a record of organic/programmed rhythmic ambiguity; The Quietus' maze-like transformation claim remains album-level.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork identifies Leave Me Alone as one of four new Djrum originals in the forthcoming expectation-disrupting DJ-Kicks mix; no individual energy, density, pulse or structure is inferred.",
           "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Resolve the exact identity before testing whether a concise adjacent-world afterword changes closure or creates a second coda; individual felt behavior remains unknown."
-        }
+          "editorialInterpretation": "Resolve the exact current original before testing whether it changes what reassembly means after Ikoyi or only prolongs foreground dissolution.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official or attributed release metadata identifies Djrum — Leave Me Alone on DJ-Kicks: Djrum, with requested release metadata 2026-10-16; exact Spotify identity, duration and BPM remain for resolver."
+          ]
+        },
+        "fitHypothesis": "Pitchfork identifies Leave Me Alone as one of four new Djrum originals in the forthcoming expectation-disrupting DJ-Kicks mix; no individual energy, density, pulse or structure is inferred.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "purpose": "Resolve the exact current original before testing whether it changes what reassembly means after Ikoyi or only prolongs foreground dissolution."
+          }
+        ],
+        "releaseDate": "2026-10-16",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Leave Me Alone"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [
-    {
-      "id": "3AKq4Zsj15PD1p1djgNceT",
-      "uri": "spotify:track:3AKq4Zsj15PD1p1djgNceT",
-      "name": "Entre Nosotros",
-      "artists": [
-        "Carmen Villain"
-      ],
-      "album": "Memoria",
-      "releaseDate": "2026-09-04",
-      "durationMs": 445703,
-      "spotifyUrl": "https://open.spotify.com/track/3AKq4Zsj15PD1p1djgNceT",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Carmen Villain — Entre Nosotros on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "editorialInterpretation": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
-      },
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Entre Nosotros",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
-          }
-        ],
-        "fitHypothesis": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Entre Nosotros on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes a slow hulking rhythm organized around disruptive bass, with electronic rhythm yielding to a warm but haunted acoustic trace; First Floor separately describes it as stumbling forward while seeming to forget itself.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether unstable remembering redirects Moonwake's established motion into Capa or inserts another self-contained dissolution before the central reset."
-        }
-      }
-    },
-    {
-      "id": "68gNqjCn5xOMhg5myoh7OB",
-      "uri": "spotify:track:68gNqjCn5xOMhg5myoh7OB",
-      "name": "Holding a Shape",
-      "artists": [
-        "Carmen Villain"
-      ],
-      "album": "Memoria",
-      "releaseDate": "2026-09-04",
-      "durationMs": 215758,
-      "spotifyUrl": "https://open.spotify.com/track/68gNqjCn5xOMhg5myoh7OB",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Roxellana and Fragments",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-        }
-      ],
-      "fitHypothesis": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Carmen Villain — Holding a Shape on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "editorialInterpretation": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-      },
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Holding a Shape",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Roxellana and Fragments",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-          }
-        ],
-        "fitHypothesis": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Holding a Shape on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork identifies the exact track as dissipated, shuddering dub techno within a mechanistic palette where groove repeatedly changes under disruptive low notes.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether dissipation after Roxellana's directed surge makes Fragments a meaningful recovery or merely explains the recovery with an extra threshold."
-        }
-      }
-    },
-    {
-      "id": "1HZKVYH50pY9s8IbpCezCP",
-      "uri": "spotify:track:1HZKVYH50pY9s8IbpCezCP",
-      "name": "Memoria",
-      "artists": [
-        "Carmen Villain"
-      ],
-      "album": "Memoria",
-      "releaseDate": "2026-09-04",
-      "durationMs": 352377,
-      "spotifyUrl": "https://open.spotify.com/track/1HZKVYH50pY9s8IbpCezCP",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Thick to Handle and Tehutis Law",
-          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-      "evidence": {
-        "measured": [
-          "Official or attributed release metadata identifies Carmen Villain — Memoria on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-        "editorialInterpretation": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-      },
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Memoria",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and Tehutis Law",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-          }
-        ],
-        "fitHypothesis": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-        "evidence": {
-          "measured": [
-            "Official or attributed release metadata identifies Carmen Villain — Memoria on Memoria, released 2026-09-04; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes the title track as an empty soundscape choked by fluttering sub-bass, with physical threat repeatedly turning toward warmth and back again.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, phrase structure, perceived pulse and mixability remain UNKNOWN unless the resolver supplies measured metadata.",
-          "editorialInterpretation": "Test whether a low-end state change makes Tehutis Law's re-grounding newly consequential or duplicates the existing deformation-to-ground movement."
-        }
-      }
-    }
-  ],
+  "candidates": [],
   "resolvedAlternates": []
 }
