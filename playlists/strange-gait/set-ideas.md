@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 103
+
+### Interruption must change the recovery
+
+**Direction:** Explore compact tracks whose internal clock seems to trip, slide or mutate. The test is not whether the interruption is dramatic; it is whether the following music regains motion differently because the interruption occurred.
+
+**Ingredients:**
+
+- Debit — *Encasadelciegoeltuerco* — exact canonical provisional ADD; documented triplets interrupting techno hats before a withheld rhythmic derailment.
+- Debit — *Tuve suerte* — exact placement-specific reject; documented compact broken muscular techno.
+- GRRL — *Beetle (Wildlife Hypercolor)* — exact placement-specific reject; documented high-speed mutation that changes position every few beats.
+- TAWMAYUI — *KID HOD CHU DUB REMIX* — unresolved adjacent research into slowed dub-techno and khaen.
+- STRANGE GAIT's `The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance` is an approved ordered-listening hypothesis; no live edge is asserted.
+
+**Why interesting:** A destabilizing track can create direction when the recovery acquires consequence. Without that changed recovery, another broken rhythm or hard turn may only compete with an existing event.
+
+**Unknown/risk:** This is not a proven DJ mix. Resolver BPM, phrase structure, perceived pulse, density, exact felt states and all pairwise handoffs remain UNKNOWN. The two rejects are scoped only to their tested positions; the TAWMAYUI identity is unresolved.
+
 ## Current additions — Run 102
 
 ### Dissolution can be directional

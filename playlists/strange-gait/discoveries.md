@@ -1,5 +1,73 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 103 — EXPLORE — triplet derailment, broken force and hyperactive mutation — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 22 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 188 exact tracks, both with matching COMPLETE receipts. The protected `Transparency → When We Froze → Stardancer` internal order was intact; no REVISIT was TRIGGERED, no listener repair was authorized, and Run 102's addition ended the prior restraint streak. No objective or workflow defect required REPAIR.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T14:49:14Z-explore-103`
+- **sourceCommit:** `1e3580d67d6661303c324cf51397a739cc89b813`
+- **request commit:** `687ab2ff953344adde2311ac96816c58aceec0ce`
+- **snapshot commit:** `13d3a8b5fca279de4414472b641ce3ac7810d8fb`
+- **scope:** approximately 69 named tracks across Debit's current *Potpourri*, GRRL's current *Beetle*, a current Thai electronic scene report, adjacent Overmono and ambient surveys, and overlooked Lauren Flax / Mr. Ho catalogue; attributed descriptions and official metadata only; no audio audition.
+- **freshness:** Run 102's ecosystems were not retried. Prior ambiguous *Moire* and previously resolved alternate *Windmill* were excluded.
+- **resolver:** internally valid matching schemaVersion 2 `PARTIAL`; 9 requested → 6 exact resolutions + 3 unresolved; 3 selected candidates + 3 unevaluated alternates; no warnings, duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes preserved
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | Debit — Encasadelciegoeltuerco | RESOLVED — `spotify:track:2uMjhKjJVQrECuucVOKNGB`; *Potpourri*; `2026-06-12`; 3:06; BPM unavailable | SELECTED |
+| 2 | Debit — Tuve suerte | RESOLVED — `spotify:track:1E1xW741NZlFBxxsKlDpd9`; *Potpourri*; `2026-06-12`; 3:41; BPM unavailable | SELECTED |
+| 3 | GRRL — Beetle (Wildlife Hypercolor) | RESOLVED — `spotify:track:0AjhLHhXCy6Al3qP0AER9j`; *Beetle*; `2026-03-13`; 5:36; BPM unavailable | SELECTED |
+| 4 | GRRL — Chlorophyll Light Reactor | RESOLVED — `spotify:track:48C6vNnZKUW2ohA5vwQJnq`; *Beetle*; `2026-03-13`; 3:28; BPM unavailable | UNEVALUATED ALTERNATE |
+| 5 | Debit — dystrophica | RESOLVED — `spotify:track:1fnbTjUMYkM8NZpg2YCC0D`; *Potpourri*; `2026-06-12`; 2:34; BPM unavailable | UNEVALUATED ALTERNATE |
+| 6 | Debit — Referencepoint | RESOLVED — `spotify:track:4EVMNnLWVogwOTppjIuiHG`; *Potpourri*; `2026-06-12`; 3:11; BPM unavailable | UNEVALUATED ALTERNATE |
+| 7 | TAWMAYUI — KID HOD CHU DUB REMIX | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Soup snakeS — ม้าวิ่ง ~ Ma Wing | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 9 | Lauren Flax — One Man's House is Another Woman's Techno | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+
+The three unresolved leads receive no musical verdict. The three exact alternates were not selected or evaluated.
+
+### Canonical evaluations
+
+#### Debit — Encasadelciegoeltuerco — ADD
+
+- **Volume fit:** PASS. Pitchfork documents slippery guaracha triplets interrupting a classic techno feel, with a withheld drop that seems to fall out of time and trip over itself. That directly serves the selection lens without relying on novelty alone.
+- **Immediate transition:** PASS provisionally at `The Witching Hour → Encasadelciegoeltuerco → Cave`. Exact phrase structure, perceived pulse, density and both handoffs remain UNKNOWN; the candidate's documented internal derailment nevertheless supplies a specific transition-scale reason for the conspicuous turn.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Marauder → The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance` moves from anchor and controlled continuation into a brief competing-clock event, then regains broader motion through Cave and Abundance. The candidate does not complete another opening arrival.
+- **Long-form journey:** PASS provisionally. At 3:06, the interruption changes how the early ground is formed before Worn Down's later, longer threatened-coherence threshold. It introduces a concise derailment rather than a second reset or climax.
+- **Verdict:** **ADD** after *The Witching Hour*. All unsupported felt and live-transition qualities remain UNKNOWN.
+
+#### Debit — Tuve suerte — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents broken, muscular techno and a trigger-happy synth motif; direct physical force does not fail the selection lens for being straightforward.
+- **Immediate transition:** UNKNOWN at `Thick to Handle → Tuve suerte → Tehutis Law`. BPM, phrase structure, density, perceived pulse and mixability are unmeasured.
+- **Surrounding three-to-five-track run:** FAILS THIS PLACEMENT. Thick to Handle already deforms the body before Tehutis Law re-grounds it. The candidate adds another compact broken-force stage between those functions without evidence that the recovery changes meaning.
+- **Long-form journey:** FAILS THIS PLACEMENT. Its concision limits cost but does not establish a missing destination.
+- **Verdict:** placement-specific **REJECT** for the Run 103 position only; retained as an exact interesting discovery.
+
+#### GRRL — Beetle (Wildlife Hypercolor) — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents a 180 BPM track that changes position every few beats while keeping a slightly recessed kick, direct evidence of rhythmic and structural freedom. The 180 BPM figure is attributed source evidence, not a resolver tempo.
+- **Immediate transition:** UNKNOWN at `Pulse I → Beetle (Wildlife Hypercolor) → Fragments`. Exact phrase structure, perceived pulse, density and mixability are unmeasured.
+- **Surrounding three-to-five-track run:** FAILS THIS PLACEMENT. Pulse I already accumulates crooked percussion before Fragments restores clearer drive. A 5:36 hyperactive transformation between them makes the recovery compete with a second, larger event.
+- **Long-form journey:** FAILS THIS PLACEMENT. The hard left turn is allowed, but here it redirects attention away from the playlist's established recovery without evidence of a later payoff.
+- **Verdict:** placement-specific **REJECT** for the Run 103 position only; retained as an exact interesting discovery.
+
+### Auditor finding
+
+**APPROVED.** Exact selected identities were evaluated separately across all four required scales. The ADD is evidence-backed and proportional; the two rejects are placement-specific. The protected handoffs remain untouched. Three unresolved leads and three unevaluated alternates are preserved without verdict. The three selected exact tracks are genuinely interesting and eligible for the doctrine-free global utility ledger.
+
+### Run result
+
+`~69 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → 1 ADD + 2 placement-specific REJECT → 3 utility additions`
+
+Across Runs 87–103: 152 leads from approximately 715 inspections and 8 ADDs from 43 selected candidates. Recent canonical ADD rate: 4/10 across Runs 94–103. Longer-window rate: 9/49 across Runs 55–103. Current no-ADD streak: zero; last ADD: Run 103.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 102 — EXPLORE — foreground dissolution, metric attention and precision funk — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 21 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 185 exact tracks, both with matching COMPLETE receipts. No REVISIT was TRIGGERED; no listener repair was authorized; automatic publishing remained enabled; and the protected `Transparency → When We Froze → Stardancer` internal order was intact. The five-run no-ADD streak and retained-interest growth were audited as process-health signals. Run 101's move away from repeated central/pre-closing tests weakened the repetitive-placement diagnosis; no actionable objective or process REPAIR was found.

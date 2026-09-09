@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 103 — EXPLORE — a brief derailment inside established ground
+
+Nine ranked leads from approximately 69 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three exact alternates and no warnings, duplicates, substitutions or terminal technical errors.
+
+**Decision:** 1 ADD. Debit — *Encasadelciegoeltuerco* is added provisionally after *The Witching Hour*. Its exact-track description documents slippery guaracha triplets interrupting a classic techno feel and a withheld drop that appears to fall out of time. In `Marauder → The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance`, the short candidate introduces a competing-clock event before Cave and Abundance regain broader motion. Debit — *Tuve suerte* and GRRL — *Beetle (Wildlife Hypercolor)* receive placement-specific REJECT verdicts: the tested runs add another major deformation between existing deformation and recovery.
+
+STRANGE GAIT increases from 22 to 23 tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 188 to 191 tracks with the three selected exact candidates.
+
+Across Runs 87–103, the repaired funnel has produced 152 leads from approximately 715 inspections and 8 ADDs from 43 selected candidates. The recent ADD rate is 4/10 across Runs 94–103, versus 9/49 across Runs 55–103. The no-ADD streak remains zero; the last canonical addition is Run 103. The strongest counterargument is opening density: the added derailment creates another event before Worn Down. It passes because it is concise, does not complete another arrival, and is followed by two tracks of regained motion before Worn Down's longer instability arc.
+
+Canonical: 23 tracks — Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco → Cave → Abundance → Worn Down → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Ikoyi → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
 ## Run 102 — EXPLORE — foreground dissolution before reassembly
 
 Nine ranked leads from approximately 54 fresh inspections produced a matching schemaVersion 2 `PARTIAL` snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two exact alternates and one preserved release-date warning. There were no duplicates, substitutions or terminal technical errors.

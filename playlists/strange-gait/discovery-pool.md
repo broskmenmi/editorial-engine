@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 103 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Debit | Encasadelciegoeltuerco | https://open.spotify.com/track/2uMjhKjJVQrECuucVOKNGB | Canonical provisional ADD after The Witching Hour. Exact triplet-interruption and withheld-derailment structure retained globally; BPM, phrase fit and both handoffs remain unknown. |
+| EXACT TRACK | Debit | Tuve suerte | https://open.spotify.com/track/1E1xW741NZlFBxxsKlDpd9 | Placement-specific REJECT for Thick to Handle → candidate → Tehutis Law only. Exact broken-force construction retained globally; BPM and handoffs remain unknown. |
+| EXACT TRACK | GRRL | Beetle (Wildlife Hypercolor) | https://open.spotify.com/track/0AjhLHhXCy6Al3qP0AER9j | Placement-specific REJECT for Pulse I → candidate → Fragments only. Exact hyperactive mutation retained globally; resolver BPM unavailable and the published 180 BPM claim remains attributed. |
+| RESEARCH LEAD | TAWMAYUI | KID HOD CHU DUB REMIX | https://daily.bandcamp.com/scene-report/new-thai-electronic-music | Resolver error `no exact Spotify title/artist search match in market SE`; slowed dub-techno / khaen research retained without musical verdict. |
+| RESEARCH LEAD | Soup snakeS | ม้าวิ่ง ~ Ma Wing | https://daily.bandcamp.com/scene-report/new-thai-electronic-music | Same no-match error; galloping stutter-kick and chopped-metallophone research retained without verdict. |
+| RESEARCH LEAD | Lauren Flax | One Man's House is Another Woman's Techno | https://laurenflax.bandcamp.com/album/one-man-s-house-is-another-woman-s-techno-ep-the-bunker-new-york-037 | Same no-match error; hardware-led changing-pattern catalogue research retained without verdict. |
+| RELEASE WATCH | Debit / N.A.A.F.I | Potpourri | https://yourdebit.bandcamp.com/album/potpourri | Current short-form techno-guaracha window; exact claims remain attached only to cited tracks. |
+| RELEASE WATCH | GRRL / PC Music | Beetle | https://grrlmusic.bandcamp.com/album/beetle | Current digital club-mutation window; *Moire* remains a separate prior ambiguous identity. |
+| SCENE WATCH | Various | New Thai electronic music | https://daily.bandcamp.com/scene-report/new-thai-electronic-music | Adjacent regional research; unresolved titles receive no Spotify identity or verdict. |
+
+### Placement and inspiration boundaries
+
+- Tuve suerte and Beetle (Wildlife Hypercolor) are not globally rejected; only their Run 103 positions are rejected.
+- Encasadelciegoeltuerco's canonical placement is provisional and does not prove phrase fit or a live-mixing edge.
+- The three unresolved leads do not enter the global utility ledger.
+- Chlorophyll Light Reactor, dystrophica and Referencepoint resolved as alternates but were not selected, evaluated or explicitly retained as decisions.
+
 ## Run 102 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
