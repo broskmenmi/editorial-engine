@@ -4,6 +4,26 @@ Historical inspiration entries through Run 85 are preserved verbatim in `discove
 
 This file is a **target-local inspiration layer, not a Spotify publication input**. Exact tracks retained here may also enter the separate repository-wide `playlists/discovery-pool/ledger.md` only under that utility playlist's contract.
 
+## Run 94 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Steve Rachmad | Invisible Warriors Of Light | https://open.spotify.com/track/28lWAlCwtanGjnDcqCS0rG | Canonical ADD after Stardancer. Exact 4:00 low-slung electro-soul afterword retained globally; BPM, phrasing, perceived pulse and handoff remain unknown. |
+| EXACT TRACK | DJ JM | Pepper | https://open.spotify.com/track/6JxSGyNGvRcN3WwnTwsX4m | Placement-specific REJECT for Thick to Handle → candidate → Tehutis Law and Amor → candidate → Truth in Noise only. Extreme broken-techno discovery retained globally; Spotify date warning preserved. |
+| EXACT TRACK | Henry Greenleaf | Snide | https://open.spotify.com/track/1YQ7nUyuQ8Yf98aKnImQSG | PARKED. Exact pressure-cooker candidate retained globally; current early and pre-trio tests lack sufficient developmental evidence. Spotify album/date warnings preserved. |
+| RESEARCH LEAD | Shed | Boose Sweep | https://ra.co/reviews/5436 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Cio D'Or | XXII | https://ra.co/reviews/17180 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RESEARCH LEAD | Box 5ive | Silicate | https://ra.co/reviews/25100 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
+| RELEASE WATCH | Steve Rachmad | Light And Time | https://sterac.bandcamp.com/album/light-and-time | Current 2026 album remains useful for hand-played, orchestral and abstract-rhythm research. Alternate Encrypted Instructions was resolved but not selected or evaluated. |
+| RELEASE WATCH | Launaea | Adai | https://semanticarecords.bandcamp.com/album/adai-semantica-206 | Current Semantica EP remains a label/release watch. The title track resolved as an alternate but was not selected or evaluated. |
+
+### Placement and inspiration boundaries
+
+- Invisible Warriors Of Light's canonical afterword is provisional; no seamless handoff, exact felt state or live-mixing edge is asserted.
+- Pepper's two tested placements are rejected, not the track globally.
+- Snide remains PARKED pending a changed boundary need or materially richer exact-track evidence.
+- Unresolved leads and release watches are not exact publication inputs.
+
 ## Run 93 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

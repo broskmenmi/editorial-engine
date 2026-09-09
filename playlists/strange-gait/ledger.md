@@ -23,10 +23,13 @@
 | 17 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
 | 18 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
 | 19 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 20 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 19 canonical tracks.**
+**ACTIVE EXPANSION — 20 canonical tracks.**
+
+EXPLORE run `2026-09-09T05:49:37Z-explore-94` adds Steve Rachmad — Invisible Warriors Of Light after Len Faki — Stardancer. The official album notes identify the exact 4:00 track as low-slung electro soul within a hand-played, orchestral and abstract-rhythm album. Editorially, the listener-confirmed `Transparency → When We Froze → Stardancer` block still completes its protected internal motion; the new track then changes temperature and rhythmic world as a concise afterword instead of extending the block with another techno climax. The Stardancer → candidate handoff, exact pulse, phrasing, density and BPM remain unknown. This is a provisional long-form contrast, not a claim of seamless mixing.
 
 EXPLORE run `2026-09-09T02:51:09Z-explore-91` adds Purelink — Stadium Drive before Inigo Kennedy — Marauder. Resident Advisor documents a 5:40 exact track that begins as New Age ambience and assembles itself into broken techno one limb at a time. Editorially, that complete internal formation supplies a distinct long-form overture: the journey now begins by constructing a rhythm before Marauder and The Witching Hour establish the existing opening. The Stadium Drive → Marauder handoff, perceived pulse, phrasing, energy and density remain unknown; under the repaired contract those are explicit risks rather than automatic vetoes. This addition follows a no-ADD boundary audit and occupies a boundary function rather than adding another internal mechanism.
 
@@ -46,7 +49,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All seventeen individual tracks remain provisional. No opener or ending is protected.
+All twenty individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -62,9 +65,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`136 → 136 → 134 → 135 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 BPM`
+`136 → 136 → 134 → 135 → 140 → 140 → 137 → 130 → 138 → 139 → 136* → 140 → 138 → — → 138 → 143† → 140 → 137 → — BPM`
 
-`— Amor BPM is unresolved; no tempo, perceived-pulse or energy inference is made.`
+`— Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for either.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

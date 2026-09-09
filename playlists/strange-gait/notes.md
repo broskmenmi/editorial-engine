@@ -1,6 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
-Canonical: 19 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+Canonical: 20 tracks — Stadium Drive → Marauder → The Witching Hour → Cave → Abundance → Too Much Time → Moonwake → Capa → Trompe L'oeil → Thick to Handle → Tehutis Law → Pulse I → Fragments → Drummz → Amor → Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light. All individual tracks provisional. Protected handoffs: Transparency → When We Froze; When We Froze → Stardancer. Audio/live NOT TESTED.
+
+## Run 94 — EXPLORE — pressure versus afterword audit
+
+Nine ranked leads from approximately 66 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot after one transient Spotify 502 retry: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates and three preserved metadata warnings. Exact identities, errors and both resolver attempts are recorded in `discoveries.md`.
+
+**Decision:** ADD Steve Rachmad — Invisible Warriors Of Light (`spotify:track:28lWAlCwtanGjnDcqCS0rG`) after Stardancer. The official source calls the exact 4:00 track low-slung electro soul within a hand-played, orchestral and abstract-rhythm album. This passes the volume's adjacent edge and supplies a concrete afterword: the protected trio still completes its internal techno motion, then the playlist cools and changes rhythmic world instead of adding another climax. BPM, exact pulse, phrasing, density and the Stardancer handoff remain UNKNOWN; the placement is provisional.
+
+DJ JM — Pepper (`spotify:track:6JxSGyNGvRcN3WwnTwsX4m`) is a placement-specific REJECT for Thick to Handle → candidate → Tehutis Law and Amor → candidate → Truth in Noise only. Its documented extreme broken techno, burrowing bassline and gasping funky vocals pass the lens, but both positions add another crooked intensification to passages that already deform and then re-ground or consolidate.
+
+Henry Greenleaf — Snide (`spotify:track:1YQ7nUyuQ8Yf98aKnImQSG`) is PARKED. Its documented pressure-cooker character is genuinely relevant, but Cave → candidate → Abundance adds another pressure stage before an intentionally understated continuation, while Truth in Noise → candidate → Transparency re-pressurizes the approach to the protected block. Reopen for a changed boundary need or materially richer exact-track structure/pulse evidence.
+
+STRANGE GAIT grows 19 → 20 tracks. EDITORIAL ENGINE — DISCOVERY POOL grows 165 → 168 exact tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Across Runs 87–94 the repaired funnel has admitted 71 leads from approximately 373 inspections and added 5 of 20 selected candidates. The two-run no-ADD streak ends for a distinct boundary function, not an ADD quota.
 
 ## Run 93 — EXPLORE — internal-arrival and reset audit
 

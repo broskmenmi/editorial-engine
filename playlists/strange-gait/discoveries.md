@@ -2,6 +2,81 @@
 
 Historical Runs 1–51 are preserved verbatim in `discoveries-archive-through-run-51.md`. Historical Runs 52–85 are preserved verbatim in `discoveries-archive-through-run-85.md`. Both archives remain authoritative history and must be read whenever a current decision depends on prior candidate evidence, resolver receipts, verdict scope, or stagnation history. `rejected.md`, `revisit.md`, `under-review.md`, and `notes.md` remain the live decision indexes.
 
+## Run 94 — EXPLORE — pressure versus afterword audit — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 165 exact tracks. Both had matching COMPLETE receipts. The evidence-bound felt map matched all 19 canonical URIs, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. The two-run no-ADD streak and earlier expansion remained health signals rather than an objective defect.
+
+### Exploration receipt
+
+- **runId:** `2026-09-09T05:49:37Z-explore-94`
+- **sourceCommit:** `5aeb0d6016fe435d4b4713e661774e9709d99d47`
+- **request commit:** `0b9b5d4eea97ea7b056995287c15c8b416758aca`
+- **snapshot commit:** `3de040b6a5d0b5d76b7c46ccadc0e58e24164d2f`
+- **request fingerprint:** `984913cbdc0394ec7b7373c6b7aa204425da29ab5828af5af11960947b313853`
+- **scope:** approximately 66 named tracks across current 2026 releases from Steve Rachmad and Launaea, adjacent Christian AB and Well Street windows, and overlooked Cio D'Or, Shed and DJ JM catalogues; attributed descriptions and metadata only; no audio audition.
+- **freshness:** all nine retained exact titles were absent from STRANGE GAIT durable history at the immediate pre-request commit. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, previously retained exact identities and old unresolved leads without materially new identity evidence were excluded.
+- **resolver attempt 1:** **RESOLUTION_NOT_COMPLETED**. GitHub Actions run `34317013292`, attempt 1, failed before any identity verdict with exact operational error `Spotify /search?q=track%3A%22Pepper%22+artist%3A%22DJ+JM%22&type=track&market=SE&limit=10 failed: 502 {"error":{"status":502,"message":"An unexpected error occurred. Please try again later."}}`.
+- **resolver retry:** GitHub Actions run `34317013292`, attempt 2, succeeded and persisted one matching immutable snapshot.
+- **terminal resolver:** valid matching schemaVersion 2 PARTIAL; 9 requested → 6 exact resolutions + 3 unresolved; 3 selected candidates + 3 resolved alternates; 3 warnings; no duplicates, substitutions or terminal technical errors.
+
+### Exact resolver outcomes
+
+| Rank | Requested identity | Resolver outcome | Selection |
+|---:|---|---|---|
+| 1 | DJ JM — Pepper | RESOLVED — `spotify:track:6JxSGyNGvRcN3WwnTwsX4m`; 5:18; album `Abnormal`; release `2023-09-22`; BPM unavailable | SELECTED |
+| 2 | Steve Rachmad — Invisible Warriors Of Light | RESOLVED — `spotify:track:28lWAlCwtanGjnDcqCS0rG`; 4:00; album `Light And Time`; release `2026-08-07`; BPM unavailable | SELECTED |
+| 3 | Shed — Boose Sweep | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 4 | Cio D'Or — XXII | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 5 | Henry Greenleaf — Snide | RESOLVED — `spotify:track:1YQ7nUyuQ8Yf98aKnImQSG`; 4:56; album `Various (Part 2)`; release `2020-03-13`; BPM unavailable | SELECTED |
+| 6 | Christian AB — Outta Phase | RESOLVED — `spotify:track:2EMl1UuMJhUeWtwpRmhfCj`; 5:58; album `The Nu Life LP`; release `2024-07-18`; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 7 | Box 5ive — Silicate | UNRESOLVED — `no exact Spotify title/artist search match in market SE` | NOT COMPLETED |
+| 8 | Steve Rachmad — Encrypted Instructions | RESOLVED — `spotify:track:0Fb3CtqCl3AnoMNNxJVxZg`; 5:34; album `Light And Time`; release `2026-08-07`; BPM unavailable | ALTERNATE — NOT EVALUATED |
+| 9 | Launaea — Adai | RESOLVED — `spotify:track:2erzmTZVh5eUNeYnEZA9UO`; 5:20; album `Adai`; release `2026-07-10`; BPM unavailable | ALTERNATE — NOT EVALUATED |
+
+### Preserved resolver warnings
+
+- DJ JM — Pepper: `Exact title/artist matched with release metadata variance: release date requested "2023-09" but Spotify returned "2023-09-22"`
+- Henry Greenleaf — Snide: `Exact title/artist matched with release metadata variance: album requested "WSR VA2" but Spotify returned "Various (Part 2)"; release date requested "2020-03" but Spotify returned "2020-03-13"`
+- Christian AB — Outta Phase: `Exact title/artist matched with release metadata variance: album requested "The Nu Life" but Spotify returned "The Nu Life LP"; release date requested "2024-07" but Spotify returned "2024-07-18"`
+
+### Evaluator — selected exact identities only
+
+#### DJ JM — Pepper — placement-specific REJECT
+
+- **Volume fit:** PASS. Resident Advisor's exact-track account of extreme broken techno, a constantly burrowing bassline and gasping but funky vocals strongly fits the selection lens.
+- **Immediate transition:** UNKNOWN for both proposed handoffs; no phrase, pulse or mix evidence was available, and UNKNOWN was not treated as a veto.
+- **Three-to-five-track run:** `Trompe L'oeil → Thick to Handle → Pepper → Tehutis Law → Pulse I` would place extreme broken motion after an already documented broken-beat bodily deformation, delaying Tehutis Law's re-grounding. `Drummz → Amor → Pepper → Truth in Noise → Transparency` would add another crooked intensification after Amor's internal mutation and before Truth in Noise's consolidation.
+- **Long-form effect:** both tests increase articulation inside already articulated runs without establishing what the additional extremity reveals. REJECT only those two placements; retain the exact track as genuinely interesting.
+
+#### Steve Rachmad — Invisible Warriors Of Light — ADD after Stardancer
+
+- **Volume fit:** PASS at the volume's adjacent edge. The official source identifies low-slung electro soul inside a hand-played, orchestral and abstract-rhythm album. It resists a fixed techno form through rhythmic-world change without needing genre orthodoxy.
+- **Immediate transition:** Stardancer → candidate is UNKNOWN. No seamless blend, phrase fit, pulse relationship, density or live mix is claimed.
+- **Three-to-five-track run:** the available tail window is `Truth in Noise → Transparency → When We Froze → Stardancer → Invisible Warriors Of Light`. Truth in Noise consolidates; the listener-protected trio completes its internal techno motion; the candidate then lowers the stance and changes temperature and rhythmic language.
+- **Long-form effect:** PASS. The exact 4:00 duration and low-slung electro-soul description support a concise afterword rather than a second techno climax. This changes the meaning of Stardancer from absolute endpoint to threshold into afterglow while preserving both protected internal handoffs. Placement remains provisional.
+
+#### Henry Greenleaf — Snide — PARKED
+
+- **Volume fit:** PASS. Resident Advisor's pressure-cooker description and Well Street bass/deep-techno context warrant serious consideration.
+- **Immediate transition:** UNKNOWN in both proposed locations; BPM, pulse, phrasing and mixability are unavailable.
+- **Three-to-five-track run:** `The Witching Hour → Cave → Snide → Abundance → Too Much Time` would hold pressure between Cave and the intentionally understated swung continuation. `Amor → Truth in Noise → Snide → Transparency → When We Froze` would re-pressurize the threshold after current consolidation.
+- **Long-form effect:** insufficiently established. The description proves pressure, not how it develops or releases. PARK for a changed boundary need or materially richer exact-track structural/pulse evidence.
+
+### Auditor
+
+**APPROVED.** The request/snapshot pair is internally valid and immutable; the first-attempt operational failure is preserved separately from the successful terminal snapshot; all selected evaluations use exact Spotify identities; alternates remain unevaluated; three unresolved identities receive no musical verdict; all warnings are retained verbatim. The ADD has a distinct transition-scale hypothesis, a coherent tail window and a long-form afterword function. It does not split or reorder the protected trio. Pepper's rejection is placement-specific, and Snide's PARK preserves lawful future reconsideration. No scalar energy, density, phrase structure, mixability or perceived pulse is inferred from metadata.
+
+### Durable result
+
+- STRANGE GAIT: **19 → 20 canonical tracks**, adding Steve Rachmad — Invisible Warriors Of Light after Stardancer.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: Invisible Warriors Of Light exact ADD; Pepper exact placement-specific REJECT / interesting; Snide exact PARKED / interesting; Boose Sweep, XXII and Silicate unresolved research leads; current Light And Time and Adai releases retained as watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **165 → 168 exact tracks**, adding Invisible Warriors Of Light, Pepper and Snide.
+- Journey-map annotations: add Invisible Warriors Of Light as provisional Track 20 / low-slung electro-soul afterword; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 66 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **1 ADD + 1 placement-specific REJECT + 1 PARKED** → 3 utility additions. Lead conversion was 13.6%; exact-resolution conversion 66.7%; selected-candidate-to-ADD conversion 33.3%. Across Runs 87–94 the repaired funnel admitted 71 leads from approximately 373 inspections and added 5 of 20 selected candidates. The recent ADD rate is 6/10 across Runs 85–94, versus 6/40 across Runs 55–94. The two-run no-ADD streak ends; the preceding addition was Run 91. The strongest counterargument is that the playlist already closes convincingly at Stardancer and the new afterword could feel appended if the handoff or emotional temperature does not support the editorial hypothesis. The evidence establishes a different, lower-slung final state and a concise duration, not the actual handoff. This remains a provisional best-evidence decision rather than proof of phrase fit, perceived pulse, energy, density or live compatibility.
+
 ## Run 93 — EXPLORE — internal-arrival and reset audit — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 19 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 162 exact tracks, both with matching COMPLETE receipts. The generated evidence-bound felt map matched all 19 canonical URIs, unsupported dimensions remained UNKNOWN, no REVISIT was TRIGGERED, no listener repair was authorized, automatic publishing remained enabled, and the protected `Transparency → When We Froze → Stardancer` internal order was intact. Two restraint decisions in the preceding three runs kept over-expansion as a watch rather than an actionable workflow defect.

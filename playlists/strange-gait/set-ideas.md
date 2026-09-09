@@ -4,6 +4,23 @@ Historical sketches through Run 85 are preserved verbatim in `set-ideas-archive-
 
 This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledger.md`, Spotify order, `live-mixing.md`, or an ADD/REJECT/REVISIT verdict. Set ideas are not proven sequences or live-mixing edges.
 
+## Current additions — Run 94
+
+### Cooling after the close
+
+**Direction:** Explore an afterword that changes rhythmic world and temperature after a techno sequence has already completed its internal motion. The aim is not to extend the climax or make the ending smoother; it is to let the previous ending cast an afterimage in a lower-slung form.
+
+**Ingredients:**
+
+- Len Faki — Stardancer — canonical listener-confirmed block close
+- Steve Rachmad — Invisible Warriors Of Light — canonical provisional low-slung electro-soul afterword
+- Steve Rachmad — Encrypted Instructions — exact Run 94 alternate, not evaluated; angular string-processing release watch
+- Box 5ive — Silicate — unresolved Run 94 downtempo/menacing-bass research lead
+
+**Why interesting:** A coda can preserve closure by changing the listener's stance after the main argument is finished. In techno, reducing the apparent drive or changing rhythmic grammar can create consequence without treating lower BPM, electro vocabulary or warmth as lower value.
+
+**Unknown / risk:** This is not a proven sequence or mixing edge. The Stardancer → Invisible Warriors Of Light handoff, perceived pulse, exact felt temperature, density and phrase relationship remain unknown.
+
 ## Current additions — Run 93
 
 ### A reset can be over-explained
