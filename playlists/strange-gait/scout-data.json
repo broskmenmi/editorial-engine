@@ -1,608 +1,233 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "6eccb6759456ecf61f01ea6ea9284f2a07a503d3f6ce6a84dfa105b9f0cd3641",
-  "generatedAt": "2026-09-09T12:58:26.066Z",
-  "runId": "2026-09-09T12:49:18Z-explore-101",
-  "sourceCommit": "d93420b0963cb5451d9073dd5f0298f92939be7e",
+  "requestFingerprint": "192f2575b86c52f32f452e846dc00a1e6234967f10648ea255f2e9447eb29fdc",
+  "generatedAt": "2026-09-09T14:03:02.386Z",
+  "runId": "2026-09-09T13:51:02Z-explore-102",
+  "sourceCommit": "617a3f86d3c587d02a85b6838d8019f3a73e19be",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after four no-ADD runs, deliberately moving away from repeated central and pre-closing tests toward the opening formation while scrutinising whether that expanded opening needs any further articulation",
-    "position": "Whole 21-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Test primarily before Stadium Drive and among Tracks 1–6; non-protected opening neighbours remain available.",
+    "role": "fresh whole-journey contender discovery after five no-ADD runs, testing continuation and redistribution of rhythmic weight rather than another complete opening, central reset or closing coda",
+    "position": "Whole 21-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Test less-rehearsed early-middle and late-middle continuations as well as only candidate-led conspicuous turns.",
     "neighbours": [],
-    "purpose": "Compare a subtle current-techno continuation, a concise overlooked adjacent-world interruption and a current bass-world threshold, while retaining longer metric transformation and direct-drive options as honest alternates."
+    "purpose": "Compare current polyrhythmic footwork-techno, emerging reduced electro-dub, and overlooked half-time or spacious direct-techno catalogue material without assuming novelty, weirdness or a new clock is missing."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-09T12:49:18Z",
+    "timestampUtc": "2026-09-09T13:51:02Z",
     "sourceWindows": [
-      "CURRENT TECHNO: https://mutual-rytm.bandcamp.com/album/virtus-occulta — all eight tracks on Ribé & Roll Dann's 2026 Virtus Occulta inspected; Ars Non Placens, Extra Lumen and Sub Terra retained from exact-track descriptions.",
-      "CURRENT / ADJACENT: https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/ and https://bitchinbajas.bandcamp.com/album/isle-peaks — both digital tracks on Bitchin Bajas' 2026 Isle Peaks inspected; Ajami and Isle Peaks retained. Physical-only Watch Your Step excluded from Spotify resolution.",
-      "CURRENT / EMERGING ADJACENT: https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks and https://nueen.bandcamp.com/album/swerved — all thirteen tracks on Nueen's 2026 Swerved inspected; Copicat retained from exact-track structural description.",
-      "OVERLOOKED CATALOGUE: https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/ and https://positiveelevation.bandcamp.com/album/in-the-wilderness — all twelve tracks on 2023's In The Wilderness inspected; Rama, Hopoff and Blowback retained from exact-track descriptions.",
-      "FRESHNESS CHECK: exact repository searches at the pre-request state found no durable STRANGE GAIT history for these artist-title identities."
+      "CURRENT / EMERGING: https://iyaka.bandcamp.com/album/infinite-black-inside and https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/ — all twelve tracks on Ibrahim Alfa Jnr's 2026 Infinite Black Inside inspected; Subutrax, Ikoyi and Drum Slinger (Other Version) retained from exact-track or clearly attributed descriptions.",
+      "CURRENT / EMERGING: https://leoproducer.bandcamp.com/album/cicada-burnt, https://pitchfork.com/reviews/albums/leo-cicada-burnt/ and https://igloomag.com/reviews/leo-cicada-burnt-peak-oil — all six tracks on Leo's 2026 Cicada Burnt inspected; Jetti and Spirit Level (Prescript) retained. Previously PARKED Spirit Level and Descant were excluded.",
+      "CURRENT TECHNO: https://kiyadama.bandcamp.com/album/formation and https://daily.bandcamp.com/best-electronic/the-best-electronic-music-on-bandcamp-july-2026 — all fourteen tracks on HVL's 2026 Formation inspected; Raining Birds retained as a lower-ranked release-context lead.",
+      "OVERLOOKED CATALOGUE: https://ra.co/reviews/24076 — all thirteen tracks on Jeff Mills' 2019 Moon - The Area Of Influence inspected; Electromagnetic and The Tides retained from exact-track descriptions.",
+      "OVERLOOKED CATALOGUE: https://ra.co/reviews/16190?comments=1 — all nine tracks on Token's 2014 Aphelion compilation inspected; Planetary Assault Systems — The 808 Track (Parts 1 and 2) retained. Previously resolved alternate Lucy — Sana Sana Sana Cura Cura Cura was excluded.",
+      "FRESHNESS CHECK: exact repository searches at the pre-request state found no durable STRANGE GAIT or global utility history for the nine requested artist-title identities."
     ],
-    "approximateInspectedScope": "Approximately 35 named tracks across one current functional-techno release, two current adjacent releases and one overlooked experimental electronic catalogue album; official release pages and attributed criticism only; no audio audition.",
+    "approximateInspectedScope": "Approximately 54 named tracks across three current releases and two overlooked catalogue releases; official release pages and attributed criticism only; no audio audition.",
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing global discoveries and prior unresolved leads without materially new identity evidence were excluded.",
-      "Run 100's Shed, Ital Tek and Batu/Donato Dozzy ecosystems and Run 99's Short Span ecosystem were not retried.",
-      "Physical-only Bitchin Bajas — Watch Your Step was excluded because it is not an eligible Spotify resolution lead.",
-      "Tracks supported only by generic release context without a concrete belonging and placement hypothesis were inspected but not promoted.",
+      "Leo — Spirit Level and Descant were excluded because their PARKED state is not triggered; Lucy — Sana Sana Sana Cura Cura Cura was excluded as a previously resolved alternate.",
+      "Run 101's Nueen, Bitchin Bajas, Ribé/Roll Dann and Gerald Cleaver/Hprizm/Brandon Lopez ecosystems were not retried.",
+      "Tracks supported only by generic release context were ranked below candidates with exact-track structural descriptions.",
       "No phrase structure, mixability, perceived pulse, scalar energy, density, space, hypnosis or emotional effect was inferred from metadata."
     ],
     "rankedLeadSummary": [
-      "1. Ribé & Roll Dann — Ars Non Placens: hunched drums and dubby undercurrents as a subtle early deepener.",
-      "2. Gerald Cleaver, Hprizm & Brandon Lopez — Rama: concise polyrhythm assembly followed by a sudden pitch-down.",
-      "3. Nueen — Copicat: slow ratcheting hi-hats culminating in a singular heavy arrival.",
-      "4. Bitchin Bajas — Ajami: a sixteen-minute 6/8 transformation returning to 4/4 motorik motion.",
-      "5. Ribé & Roll Dann — Extra Lumen: restrained steady force as early continuation.",
-      "6. Gerald Cleaver, Hprizm & Brandon Lopez — Hopoff: muddy syncopation and marching thumps.",
-      "7. Ribé & Roll Dann — Sub Terra: direct physical club-tool continuity.",
-      "8. Gerald Cleaver, Hprizm & Brandon Lopez — Blowback: toy-like dialogue displaced by a central rhythm.",
-      "9. Bitchin Bajas — Isle Peaks: freeform field-sound and drone prelude ending in a pitch dive."
+      "1. Ibrahim Alfa Jnr — Subutrax: freehand polyrhythmic footwork pressure whose barline keeps changing under attention.",
+      "2. Leo — Jetti: reduced electro snap, dubwise chords and precision syncopation as continuation rather than full transformation.",
+      "3. Jeff Mills — Electromagnetic: overlooked half-time mechanical bob that changes bodily posture without requiring a climax.",
+      "4. Ibrahim Alfa Jnr — Ikoyi: break fragments gradually slipping into ambient dub without an obvious stable destination.",
+      "5. Planetary Assault Systems — The 808 Track (Parts 1 and 2): hyperactive, direct drums made strange by surrounding vacancy.",
+      "6. Ibrahim Alfa Jnr — Drum Slinger (Other Version): clarinet and manipulated djembe attacks wriggling around bass.",
+      "7. Jeff Mills — The Tides: strings, woody syncopated percussion and an agile bassline moving together.",
+      "8. Leo — Spirit Level (Prescript): an extended bass-and-chirp headfake that refuses a conventional kick arrival.",
+      "9. HVL — Raining Birds: current rolling-breakbeat techno from a release built around dub bass, acid and club-functional surprise."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 3,
+  "resolvedCount": 5,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Ribé, Roll Dann",
-      "track": "Ars Non Placens",
+      "artist": "Jeff Mills",
+      "track": "Electromagnetic",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Ars Non Placens",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
+        "artist": "Jeff Mills",
+        "track": "Electromagnetic",
+        "album": "Moon - The Area Of Influence",
+        "releaseDate": "2019-07",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
+        "discoverySource": "https://ra.co/reviews/24076",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test whether hunched drums and dubby undercurrents deepen the opening's existing drive before Cave widens it, or merely add another functional stage."
-          },
-          {
-            "position": "Between Rene Wise — Cave and Decoder — Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 135,
-            "purpose": "Test whether the candidate creates a purposeful shadowed turn before Abundance's swung continuation, or over-articulates an opening already lengthened by Worn Down."
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm identifies hunched drums and dubby undercurrents in a 4:50 techno track, a credible continuation/deepening candidate rather than a demand for a new chapter.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 4:50 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "Mutual Rytm describes hunched drums and dubby undercurrents, framing the track as music existing on its own terms.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current functional-techno candidate for whether a subtle change of posture can improve the early run without turning the opening into a catalogue of stages."
-        }
-      }
-    },
-    {
-      "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-      "track": "Rama",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Rama",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — Marauder and Inigo Kennedy — The Witching Hour",
-            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether a concise assembled polyrhythm and sudden pitch-down interrupts the opening pair productively before The Witching Hour restores firm drive."
-          },
-          {
-            "position": "Between Decoder — Abundance and T++ — Worn Down",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": 135,
+            "position": "Between Wheelman — Trompe L'oeil and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2TNuqpUa6hlwkEbKdQ5aN2",
+            "incomingBpm": 130,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a three-minute adjacent-world fracture gives the following threatened-coherence arc greater consequence, or crowds an already articulated opening."
-          }
-        ],
-        "fitHypothesis": "The Quietus describes a track that breaks its skeleton apart into many simultaneous clock-like layers before a jolt removes the air and pitches everything down; that exact structural event plausibly belongs at STRANGE GAIT's adjacent edge.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 3:14 track on In The Wilderness, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Quietus describes the track breaking its skeleton into pieces, assembling a confounding polyrhythm of stuttering clocks, then jolting into a much lower pitch.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked catalogue candidate for a concise, conspicuous interruption that could make the return of firm techno grammar meaningful."
-        }
-      }
-    },
-    {
-      "artist": "Ribé, Roll Dann",
-      "track": "Extra Lumen",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Extra Lumen",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test a restrained but forceful continuation before Cave's widening, without assuming restraint equals lower energy."
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm describes a restrained track built on steady forceful rhythm, a credible subtle-deepening option for a mature journey.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 4:58 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "Mutual Rytm describes restrained presentation over a steady, forceful rhythm operating in the shadows.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current alternate for early continuation whose value would depend on proportional and run-scale gain."
-        }
-      }
-    },
-    {
-      "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-      "track": "Hopoff",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Hopoff",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — Marauder and Inigo Kennedy — The Witching Hour",
-            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether a short muddy-syncopation interruption sharpens the return to firm opening drive."
-          }
-        ],
-        "fitHypothesis": "The Quietus describes tireless marching thumps, syncopations dragged through mud and trip-hop slivers, a compact adjacent rhythmic construction relevant to the lens.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 2:05 track, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Quietus describes thumps marching forward, muddy syncopations and trip-hop fragments while the material continually rearranges beneath the surface.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked concise alternate for changing rhythmic posture without demanding a full new chapter."
-        }
-      }
-    },
-    {
-      "artist": "Ribé, Roll Dann",
-      "track": "Sub Terra",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Sub Terra",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BELONGING",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Decoder — Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 135,
-            "purpose": "Test whether direct physical continuity strengthens the opening or merely lengthens it."
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm identifies a direct physical club tool with heavy low-end foundation; it clears the lead floor as functional techno, while metadata alone cannot establish its felt effect.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 4:50 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "Mutual Rytm calls the opener direct, physical and rooted in the underground with a heavy low end.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current direct-drive alternate whose journey value must exceed generic momentum."
-        }
-      }
-    },
-    {
-      "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-      "track": "Blowback",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Blowback",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Decoder — Abundance and T++ — Worn Down",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether toy-like dialogue being overtaken by a central rhythm creates a concise threshold before Worn Down, or duplicates the opening's formation logic."
-          }
-        ],
-        "fitHypothesis": "The Quietus describes elastic squeaks and toy-like dialogue being obliterated by a filthy central rhythm, followed by spectral melody and background chirps.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 2:24 track, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Quietus describes elastic squeaks in dialogue before a central rhythm obliterates them and opens onto spectral melody and chirping detail.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked alternate for whether abrupt internal replacement can prepare the opening's longer instability arc."
-        }
-      }
-    }
-  ],
-  "warnings": [],
-  "outcomes": [
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Ars Non Placens",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test whether hunched drums and dubby undercurrents deepen the opening's existing drive before Cave widens it, or merely add another functional stage."
+            "purpose": "Test whether an overlooked half-time mechanical bob rotates the slower pocket before broken-beat deformation, or extends a central passage already sufficiently articulated."
           },
           {
-            "position": "Between Rene Wise — Cave and Decoder — Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
+            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
+            "precedingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "followingUri": "spotify:track:0EPZ3sDmER2MZpx8FDtAjp",
+            "incomingBpm": 128,
             "candidateBpm": null,
             "outgoingBpm": 135,
-            "purpose": "Test whether the candidate creates a purposeful shadowed turn before Abundance's swung continuation, or over-articulates an opening already lengthened by Worn Down."
+            "purpose": "Test whether a concise half-time posture creates useful contrast before clearer drive, or interrupts accumulation without changing its destination."
           }
         ],
-        "fitHypothesis": "Mutual Rytm identifies hunched drums and dubby undercurrents in a 4:50 techno track, a credible continuation/deepening candidate rather than a demand for a new chapter.",
+        "fitHypothesis": "Resident Advisor describes half-time bob, chatty circuits and mechanical springs, supplying exact-track catalogue evidence for an off-centre bodily posture within techno.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies the exact 4:50 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
+            "The official release context identifies Electromagnetic on Jeff Mills' Moon - The Area Of Influence from 2019; exact Spotify identity, release-day variance, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "Mutual Rytm describes hunched drums and dubby undercurrents, framing the track as music existing on its own terms.",
+          "attributedDescription": "Resident Advisor describes Electromagnetic as half-time bob animated by chatty circuits and mechanical springs.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current functional-techno candidate for whether a subtle change of posture can improve the early run without turning the opening into a catalogue of stages."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked catalogue candidate for whether a conspicuous posture change can remain locally coherent without becoming a reset or coda."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      }
     },
     {
-      "status": "UNRESOLVED",
+      "artist": "Ibrahim Alfa Jnr",
+      "track": "Drum Slinger (Other Version)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Rama",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Drum Slinger (Other Version)",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Between Inigo Kennedy — Marauder and Inigo Kennedy — The Witching Hour",
-            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "incomingBpm": 136,
+            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
+            "precedingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+            "followingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether a concise assembled polyrhythm and sudden pitch-down interrupts the opening pair productively before The Witching Hour restores firm drive."
-          },
-          {
-            "position": "Between Decoder — Abundance and T++ — Worn Down",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a three-minute adjacent-world fracture gives the following threatened-coherence arc greater consequence, or crowds an already articulated opening."
+            "outgoingBpm": 128,
+            "purpose": "Test whether acoustic and manipulated attacks redistribute rhythmic weight after grounding, or introduce timbral novelty without run-scale purpose."
           }
         ],
-        "fitHypothesis": "The Quietus describes a track that breaks its skeleton apart into many simultaneous clock-like layers before a jolt removes the air and pitches everything down; that exact structural event plausibly belongs at STRANGE GAIT's adjacent edge.",
+        "fitHypothesis": "Pitchfork identifies clarinet and manipulated Ghanaian djembe hits wriggling around basslines, a concrete rhythmic language relevant to the lens without assuming acoustic material is inherently diverse or superior.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies the exact 3:14 track on In The Wilderness, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "The Quietus describes the track breaking its skeleton into pieces, assembling a confounding polyrhythm of stuttering clocks, then jolting into a much lower pitch.",
+          "attributedDescription": "Pitchfork attributes clarinet playing and manipulated Ghanaian djembe hits moving around basslines to Drum Slinger (Other Version) and related album material.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked catalogue candidate for a concise, conspicuous interruption that could make the return of firm techno grammar meaningful."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate whose unusual attack sources matter only if they alter transition, run and journey meaning."
         }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      }
     },
     {
-      "status": "RESOLVED",
+      "artist": "Jeff Mills",
+      "track": "The Tides",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Nueen",
-        "track": "Copicat",
-        "album": "Swerved",
+        "artist": "Jeff Mills",
+        "track": "The Tides",
+        "album": "Moon - The Area Of Influence",
+        "releaseDate": "2019-07",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/24076",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Clotur — Drummz and Valesuchi — Amor",
+            "precedingUri": "spotify:track:1abRmFUMCeSSkTYLRD1B5I",
+            "followingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether woody syncopation and agile bass create a different late-middle bodily relation before Amor, or turn the run into a catalogue of rhythmic materials."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes strings, woody syncopated percussion and an agile bassline spinning together, a precise catalogue lead for interacting rhythmic layers.",
+        "evidence": {
+          "measured": [
+            "The official release context identifies The Tides on Moon - The Area Of Influence from 2019; exact Spotify identity, release-day variance, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes strings, woody syncopated percussion and an agile bassline spinning together.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked alternate for testing ensemble-like rhythmic interaction within a late-middle run."
+        }
+      }
+    },
+    {
+      "artist": "Leo",
+      "track": "Spirit Level (Prescript)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Leo",
+        "track": "Spirit Level (Prescript)",
+        "album": "Cicada Burnt",
         "releaseDate": "2026-07-31",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "discoverySource": "https://pitchfork.com/reviews/albums/leo-cicada-burnt/",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3mkhsBKNbNeZIJPhT9rZTi",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 136,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a short slow ratcheting build and singular heavy arrival can frame Stadium Drive's ambience-to-broken-techno formation, or create two consecutive beginnings."
-          },
-          {
-            "position": "Between Purelink — Stadium Drive and Inigo Kennedy — Marauder",
-            "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether an adjacent bass-world cloudburst supplies a decisive hinge from constructed rhythm into the techno opening, or interrupts that formation before it can settle."
+            "outgoingBpm": 137,
+            "purpose": "Test whether a kick-refusing bass-and-chirp headfake makes Capa's redirection more charged, or withholds definition where the journey already has sufficient suspense."
           }
         ],
-        "fitHypothesis": "The Guardian documents a slow ratcheting hi-hat build culminating in the album's only drop, providing exact-track structural evidence for an adjacent-world threshold.",
+        "fitHypothesis": "Pitchfork documents an extended plunging-bass and chirp headfake that refuses the expected kick, making absence itself structural evidence rather than inferred emptiness.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies Copicat on Swerved, released 2026-07-31; exact duration, Spotify identity and BPM remain for resolver."
+            "Official Bandcamp identifies the exact prescript track on Cicada Burnt, released 2026-07-31; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "The Guardian describes a slow, agonising ratcheting build of fanbelt-like hi-hats followed by the album's only drop, arriving with cloudburst weight.",
+          "attributedDescription": "Pitchfork describes plunging bass and chirps sustaining an extended headfake that refuses to resolve into a conventional kick.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent-bass candidate whose dramatic arrival must improve the opening journey rather than merely make it bigger."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate for whether withheld physical definition can increase direction without merely prolonging suspense."
         }
-      },
-      "spotifyTrackId": "2up7nuPPW1OwyKv9M8rcMc",
-      "selected": true
-    },
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "artist": "Planetary Assault Systems",
+      "track": "The 808 Track (Parts 1 and 2)",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2014-11\" but Spotify returned \"2014\""
+    }
+  ],
+  "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Ajami",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Subutrax",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a long 6/8-to-4/4 transformation supplies a spacious prehistory to Stadium Drive, or makes the opening disproportionately elaborate."
-          },
-          {
-            "position": "Between Nørbak — Capa and Wheelman — Trompe L'oeil",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether the track's documented metric reorientation reframes the central reset, or over-explains it at extreme duration."
-          }
-        ],
-        "fitHypothesis": "Pitchfork documents a sixteen-minute piece whose steady kalimba pulse becomes lilting 6/8 under triplet bass before returning to a 4/4 motorik stomp, a substantial adjacent-world experiment in how a clock changes.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact track on Isle Peaks, released 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes steady kalimba pulses, a triplet bassline snapping the groove into lilting 6/8, syncopated forward motion, and a later return to 4/4 motorik stomp.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent candidate whose large proportional cost is part of the sequencing test, not evidence against volume belonging."
-        }
-      },
-      "spotifyTrackId": "2zEtaiNt3FIC9CyohOJcXP",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Extra Lumen",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test a restrained but forceful continuation before Cave's widening, without assuming restraint equals lower energy."
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm describes a restrained track built on steady forceful rhythm, a credible subtle-deepening option for a mature journey.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 4:58 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "Mutual Rytm describes restrained presentation over a steady, forceful rhythm operating in the shadows.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current alternate for early continuation whose value would depend on proportional and run-scale gain."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Hopoff",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
-        "searchIntent": "BOTH",
-        "proposedPlacements": [
-          {
-            "position": "Between Inigo Kennedy — Marauder and Inigo Kennedy — The Witching Hour",
-            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether a short muddy-syncopation interruption sharpens the return to firm opening drive."
-          }
-        ],
-        "fitHypothesis": "The Quietus describes tireless marching thumps, syncopations dragged through mud and trip-hop slivers, a compact adjacent rhythmic construction relevant to the lens.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 2:05 track, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "The Quietus describes thumps marching forward, muddy syncopations and trip-hop fragments while the material continually rearranges beneath the surface.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked concise alternate for changing rhythmic posture without demanding a full new chapter."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Ribé, Roll Dann",
-        "track": "Sub Terra",
-        "album": "Virtus Occulta",
-        "releaseDate": "2026-03-13",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://mutual-rytm.bandcamp.com/album/virtus-occulta",
-        "searchIntent": "BELONGING",
-        "proposedPlacements": [
-          {
-            "position": "Between Rene Wise — Cave and Decoder — Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "candidateBpm": null,
-            "outgoingBpm": 135,
-            "purpose": "Test whether direct physical continuity strengthens the opening or merely lengthens it."
-          }
-        ],
-        "fitHypothesis": "Mutual Rytm identifies a direct physical club tool with heavy low-end foundation; it clears the lead floor as functional techno, while metadata alone cannot establish its felt effect.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact 4:50 track, released 2026-03-13; exact Spotify identity and BPM remain for resolver."
-          ],
-          "attributedDescription": "Mutual Rytm calls the opener direct, physical and rooted in the underground with a heavy low end.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current direct-drive alternate whose journey value must exceed generic momentum."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Gerald Cleaver, Hprizm, Brandon Lopez",
-        "track": "Blowback",
-        "album": "In The Wilderness",
-        "releaseDate": "2023-03-17",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/gerald-cleaver-brandon-lopez-hprizm-in-the-wilderness-review/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
@@ -612,19 +237,122 @@
             "incomingBpm": 135,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether toy-like dialogue being overtaken by a central rhythm creates a concise threshold before Worn Down, or duplicates the opening's formation logic."
+            "purpose": "Test whether a compact freehand polyrhythmic turn makes Worn Down's threatened coherence more consequential, or stacks instability before an already complete instability arc."
+          },
+          {
+            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
+            "precedingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+            "followingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 128,
+            "purpose": "Test whether a short metric-ambiguity inflection changes the re-grounded body's route into crooked accumulation, or merely names that movement again."
           }
         ],
-        "fitHypothesis": "The Quietus describes elastic squeaks and toy-like dialogue being obliterated by a filthy central rhythm, followed by spectral melody and background chirps.",
+        "fitHypothesis": "Pitchfork documents a compact track whose polyrhythmic footwork rolls, wonky kick and apparently shifting barline make bodily attention choose among clocks; this is direct evidence for the selection lens without requiring a novel chapter.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies the exact 2:24 track, released 2023-03-17; exact Spotify identity and BPM remain for resolver."
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "The Quietus describes elastic squeaks in dialogue before a central rhythm obliterates them and opens onto spectral melody and chirping detail.",
+          "attributedDescription": "Pitchfork describes polyrhythmic footwork rolls jury-rigged to a wonky kick, metallic percussion continually reforming phrases, and a perceived tempo that seems to lurch depending on the listener's focus.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "An overlooked alternate for whether abrupt internal replacement can prepare the opening's longer instability arc."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current candidate for whether changing the listener's metric attention can deepen an existing run without installing another full reset."
+        }
+      },
+      "spotifyTrackId": "4N0TgtUb82ru9wYyJkNNub",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Leo",
+        "track": "Jetti",
+        "album": "Cicada Burnt",
+        "releaseDate": "2026-07-31",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://igloomag.com/reviews/leo-cicada-burnt-peak-oil",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:2TNuqpUa6hlwkEbKdQ5aN2",
+            "followingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether reduced electro snap and dubwise syncopation make the move from broken deformation toward funk grounding deliberate, or add an unnecessary intermediate explanation."
+          },
+          {
+            "position": "Between Valesuchi — Amor and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
+            "followingUri": "spotify:track:1YuZfzAMfzGM1zcIaO8oYi",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 142,
+            "purpose": "Test whether precision funk changes posture before late consolidation, or delays that consolidation with another adjacent grammar."
+          }
+        ],
+        "fitHypothesis": "Published reviews identify precision syncopation, electro snap and dubwise chords in a track where timing and negative space are central; it offers a credible continuation/deepening test rather than a demand for spectacle.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies the exact track on Cicada Burnt, released 2026-07-31; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Pitchfork describes reduced electro snap, dubwise chords and syncopated snare precision; Igloo describes negative space and timing as active instruments.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current emerging candidate for changing weight distribution inside an already moving sequence rather than adding another full structural transformation."
+        }
+      },
+      "spotifyTrackId": "2VNUvb735mHuKVTxL66Dzx",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Jeff Mills",
+        "track": "Electromagnetic",
+        "album": "Moon - The Area Of Influence",
+        "releaseDate": "2019-07",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/24076",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Wheelman — Trompe L'oeil and brenner — Thick to Handle",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2TNuqpUa6hlwkEbKdQ5aN2",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether an overlooked half-time mechanical bob rotates the slower pocket before broken-beat deformation, or extends a central passage already sufficiently articulated."
+          },
+          {
+            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
+            "precedingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "followingUri": "spotify:track:0EPZ3sDmER2MZpx8FDtAjp",
+            "incomingBpm": 128,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether a concise half-time posture creates useful contrast before clearer drive, or interrupts accumulation without changing its destination."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes half-time bob, chatty circuits and mechanical springs, supplying exact-track catalogue evidence for an off-centre bodily posture within techno.",
+        "evidence": {
+          "measured": [
+            "The official release context identifies Electromagnetic on Jeff Mills' Moon - The Area Of Influence from 2019; exact Spotify identity, release-day variance, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes Electromagnetic as half-time bob animated by chatty circuits and mechanical springs.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked catalogue candidate for whether a conspicuous posture change can remain locally coherent without becoming a reset or coda."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -632,292 +360,676 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Isle Peaks",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Ikoyi",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "searchIntent": "BELONGING",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
+        "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between Clotur — Drummz and Valesuchi — Amor",
+            "precedingUri": "spotify:track:1abRmFUMCeSSkTYLRD1B5I",
+            "followingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a freeform elemental prelude gives Stadium Drive's rhythmic formation greater consequence, or delays the journey without a sufficient rhythmic premise."
+            "purpose": "Test whether break fragments slipping into ambient dub create a productive loss of foreground before Amor's transformation, or multiply late-middle non-resolution."
+          },
+          {
+            "position": "Between T++ — Worn Down and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:4rAM9sMsVAfyhMt34O4VQA",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test whether a gradual sideways dissolution reframes the return to firmer motion, or weakens an early run whose direction is already legible."
           }
         ],
-        "fitHypothesis": "Pitchfork documents a freeform path from field and natural sounds through needling drone and strummed strings to a final pitch dive; this is an adjacent selection-lens lead, not a claim of techno orthodoxy.",
+        "fitHypothesis": "Pitchfork documents a track whose broken elements gradually slip into relaxed ambient dub without fully settling, a credible test of movement by dissolution rather than impact.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies the exact title track on the release dated 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "Pitchfork describes field and natural sounds, a needling drone, strummed strings and a final-minute pitch dive.",
+          "attributedDescription": "Pitchfork describes break fragments beneath jumbled vocal and chime details gradually slipping from the arrangement into relaxed ambient dub.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent alternate for a conspicuous non-techno prelude whose belonging and sequencing utility remain separate questions."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate for testing whether apparent withdrawal can preserve direction instead of acting as automatic release."
         }
       },
-      "spotifyTrackId": "7L2cgORwNoTrj8CYoh9pf5",
+      "spotifyTrackId": "2sq9nJXmO5OtwWemr30z32",
       "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Planetary Assault Systems",
+        "track": "The 808 Track (Parts 1 and 2)",
+        "album": "Aphelion",
+        "releaseDate": "2014-11",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/16190?comments=1",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 134,
+            "purpose": "Test whether direct hyperactive drums surrounded by vacancy sharpen the opening's physical definition before Cave, or lengthen a mature opening without a new consequence."
+          },
+          {
+            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
+            "precedingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "followingUri": "spotify:track:0EPZ3sDmER2MZpx8FDtAjp",
+            "incomingBpm": 128,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether straight but leftfield drum focus clarifies the move out of crooked accumulation, or makes the following recovery redundant."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes hyperactive vulcanized drums set against unusual vacancy: apparently direct techno whose negative space keeps it leftfield.",
+        "evidence": {
+          "measured": [
+            "Token's Aphelion compilation identifies the exact Planetary Assault Systems title from 2014; exact Spotify identity, release date, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes hyperactive, vulcanized drums and an overall sense of vacancy, calling it straight yet leftfield.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked catalogue alternate for testing focused physical continuity rather than another track-length transformation."
+        }
+      },
+      "spotifyTrackId": "3m6yVFQ4gkZbKK2tiie0Dz",
+      "selected": false
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Drum Slinger (Other Version)",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
+            "precedingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+            "followingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 128,
+            "purpose": "Test whether acoustic and manipulated attacks redistribute rhythmic weight after grounding, or introduce timbral novelty without run-scale purpose."
+          }
+        ],
+        "fitHypothesis": "Pitchfork identifies clarinet and manipulated Ghanaian djembe hits wriggling around basslines, a concrete rhythmic language relevant to the lens without assuming acoustic material is inherently diverse or superior.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Pitchfork attributes clarinet playing and manipulated Ghanaian djembe hits moving around basslines to Drum Slinger (Other Version) and related album material.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate whose unusual attack sources matter only if they alter transition, run and journey meaning."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Jeff Mills",
+        "track": "The Tides",
+        "album": "Moon - The Area Of Influence",
+        "releaseDate": "2019-07",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/24076",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Clotur — Drummz and Valesuchi — Amor",
+            "precedingUri": "spotify:track:1abRmFUMCeSSkTYLRD1B5I",
+            "followingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether woody syncopation and agile bass create a different late-middle bodily relation before Amor, or turn the run into a catalogue of rhythmic materials."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes strings, woody syncopated percussion and an agile bassline spinning together, a precise catalogue lead for interacting rhythmic layers.",
+        "evidence": {
+          "measured": [
+            "The official release context identifies The Tides on Moon - The Area Of Influence from 2019; exact Spotify identity, release-day variance, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes strings, woody syncopated percussion and an agile bassline spinning together.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked alternate for testing ensemble-like rhythmic interaction within a late-middle run."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Leo",
+        "track": "Spirit Level (Prescript)",
+        "album": "Cicada Burnt",
+        "releaseDate": "2026-07-31",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/leo-cicada-burnt/",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Sciahri — Moonwake and Nørbak — Capa",
+            "precedingUri": "spotify:track:3mkhsBKNbNeZIJPhT9rZTi",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether a kick-refusing bass-and-chirp headfake makes Capa's redirection more charged, or withholds definition where the journey already has sufficient suspense."
+          }
+        ],
+        "fitHypothesis": "Pitchfork documents an extended plunging-bass and chirp headfake that refuses the expected kick, making absence itself structural evidence rather than inferred emptiness.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies the exact prescript track on Cicada Burnt, released 2026-07-31; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Pitchfork describes plunging bass and chirps sustaining an extended headfake that refuses to resolve into a conventional kick.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate for whether withheld physical definition can increase direction without merely prolonging suspense."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "HVL",
+        "track": "Raining Birds",
+        "album": "Formation",
+        "releaseDate": "2026-07-07",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://kiyadama.bandcamp.com/album/formation",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Decoder — Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether current rolling-breakbeat and dub-bass language can continue early motion without demanding another structural explanation; reject if release-level evidence cannot support the exact track."
+          }
+        ],
+        "fitHypothesis": "Formation is documented as rolling-breakbeat, dub-bass and acid-informed club music; Raining Birds is a deliberately lower-ranked exact identity lead because the available evidence is release-level rather than candidate-specific.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies Raining Birds on Formation, released 2026-07-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Bandcamp Daily describes Formation at release level through rolling breakbeats, dub bass, acid synths and club-functional surprise; no individual sonic claim is made for Raining Birds.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current lower-ranked identity lead retained only to keep the scan broad; candidate-specific qualities remain UNKNOWN unless further evidence appears."
+        }
+      },
+      "spotifyTrackId": "3EmxrX93360ZjfMhsc4sr1",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "2up7nuPPW1OwyKv9M8rcMc",
-      "uri": "spotify:track:2up7nuPPW1OwyKv9M8rcMc",
-      "name": "Copicat",
+      "id": "4N0TgtUb82ru9wYyJkNNub",
+      "uri": "spotify:track:4N0TgtUb82ru9wYyJkNNub",
+      "name": "Subutrax",
       "artists": [
-        "Nueen"
+        "Ibrahim Alfa Jnr"
       ],
-      "album": "Swerved",
-      "releaseDate": "2026-07-31",
-      "durationMs": 201825,
-      "spotifyUrl": "https://open.spotify.com/track/2up7nuPPW1OwyKv9M8rcMc",
+      "album": "Infinite Black Inside",
+      "releaseDate": "2026-05-15",
+      "durationMs": 190385,
+      "spotifyUrl": "https://open.spotify.com/track/4N0TgtUb82ru9wYyJkNNub",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+      "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Before Purelink — Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "position": "Between Decoder — Abundance and T++ — Worn Down",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": 135,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a compact freehand polyrhythmic turn makes Worn Down's threatened coherence more consequential, or stacks instability before an already complete instability arc."
+        },
+        {
+          "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
+          "precedingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+          "followingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 128,
+          "purpose": "Test whether a short metric-ambiguity inflection changes the re-grounded body's route into crooked accumulation, or merely names that movement again."
+        }
+      ],
+      "fitHypothesis": "Pitchfork documents a compact track whose polyrhythmic footwork rolls, wonky kick and apparently shifting barline make bodily attention choose among clocks; this is direct evidence for the selection lens without requiring a novel chapter.",
+      "evidence": {
+        "measured": [
+          "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Pitchfork describes polyrhythmic footwork rolls jury-rigged to a wonky kick, metallic percussion continually reforming phrases, and a perceived tempo that seems to lurch depending on the listener's focus.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+        "editorialInterpretation": "A current candidate for whether changing the listener's metric attention can deepen an existing run without installing another full reset."
+      },
+      "requestedIdentity": {
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Subutrax",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Decoder — Abundance and T++ — Worn Down",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": 135,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a compact freehand polyrhythmic turn makes Worn Down's threatened coherence more consequential, or stacks instability before an already complete instability arc."
+          },
+          {
+            "position": "Between Jayson Wynters — Tehutis Law and Peverelist — Pulse I",
+            "precedingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
+            "followingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 128,
+            "purpose": "Test whether a short metric-ambiguity inflection changes the re-grounded body's route into crooked accumulation, or merely names that movement again."
+          }
+        ],
+        "fitHypothesis": "Pitchfork documents a compact track whose polyrhythmic footwork rolls, wonky kick and apparently shifting barline make bodily attention choose among clocks; this is direct evidence for the selection lens without requiring a novel chapter.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Pitchfork describes polyrhythmic footwork rolls jury-rigged to a wonky kick, metallic percussion continually reforming phrases, and a perceived tempo that seems to lurch depending on the listener's focus.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current candidate for whether changing the listener's metric attention can deepen an existing run without installing another full reset."
+        }
+      }
+    },
+    {
+      "id": "2VNUvb735mHuKVTxL66Dzx",
+      "uri": "spotify:track:2VNUvb735mHuKVTxL66Dzx",
+      "name": "Jetti",
+      "artists": [
+        "Leo"
+      ],
+      "album": "Cicada Burnt",
+      "releaseDate": "2026-07-31",
+      "durationMs": 360000,
+      "spotifyUrl": "https://open.spotify.com/track/2VNUvb735mHuKVTxL66Dzx",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://igloomag.com/reviews/leo-cicada-burnt-peak-oil",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+          "precedingUri": "spotify:track:2TNuqpUa6hlwkEbKdQ5aN2",
+          "followingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a short slow ratcheting build and singular heavy arrival can frame Stadium Drive's ambience-to-broken-techno formation, or create two consecutive beginnings."
+          "purpose": "Test whether reduced electro snap and dubwise syncopation make the move from broken deformation toward funk grounding deliberate, or add an unnecessary intermediate explanation."
         },
         {
-          "position": "Between Purelink — Stadium Drive and Inigo Kennedy — Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "position": "Between Valesuchi — Amor and Inspired Groove — Truth in Noise",
+          "precedingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
+          "followingUri": "spotify:track:1YuZfzAMfzGM1zcIaO8oYi",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether an adjacent bass-world cloudburst supplies a decisive hinge from constructed rhythm into the techno opening, or interrupts that formation before it can settle."
+          "outgoingBpm": 142,
+          "purpose": "Test whether precision funk changes posture before late consolidation, or delays that consolidation with another adjacent grammar."
         }
       ],
-      "fitHypothesis": "The Guardian documents a slow ratcheting hi-hat build culminating in the album's only drop, providing exact-track structural evidence for an adjacent-world threshold.",
+      "fitHypothesis": "Published reviews identify precision syncopation, electro snap and dubwise chords in a track where timing and negative space are central; it offers a credible continuation/deepening test rather than a demand for spectacle.",
       "evidence": {
         "measured": [
-          "Official Bandcamp identifies Copicat on Swerved, released 2026-07-31; exact duration, Spotify identity and BPM remain for resolver."
+          "Official Bandcamp identifies the exact track on Cicada Burnt, released 2026-07-31; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "The Guardian describes a slow, agonising ratcheting build of fanbelt-like hi-hats followed by the album's only drop, arriving with cloudburst weight.",
+        "attributedDescription": "Pitchfork describes reduced electro snap, dubwise chords and syncopated snare precision; Igloo describes negative space and timing as active instruments.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-        "editorialInterpretation": "A current adjacent-bass candidate whose dramatic arrival must improve the opening journey rather than merely make it bigger."
+        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+        "editorialInterpretation": "A current emerging candidate for changing weight distribution inside an already moving sequence rather than adding another full structural transformation."
       },
       "requestedIdentity": {
-        "artist": "Nueen",
-        "track": "Copicat",
-        "album": "Swerved",
+        "artist": "Leo",
+        "track": "Jetti",
+        "album": "Cicada Burnt",
         "releaseDate": "2026-07-31",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "discoverySource": "https://igloomag.com/reviews/leo-cicada-burnt-peak-oil",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between brenner — Thick to Handle and Jayson Wynters — Tehutis Law",
+            "precedingUri": "spotify:track:2TNuqpUa6hlwkEbKdQ5aN2",
+            "followingUri": "spotify:track:2Pn09OrnAaVGiWfXX6aLhE",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a short slow ratcheting build and singular heavy arrival can frame Stadium Drive's ambience-to-broken-techno formation, or create two consecutive beginnings."
+            "purpose": "Test whether reduced electro snap and dubwise syncopation make the move from broken deformation toward funk grounding deliberate, or add an unnecessary intermediate explanation."
           },
           {
-            "position": "Between Purelink — Stadium Drive and Inigo Kennedy — Marauder",
-            "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "position": "Between Valesuchi — Amor and Inspired Groove — Truth in Noise",
+            "precedingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
+            "followingUri": "spotify:track:1YuZfzAMfzGM1zcIaO8oYi",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether an adjacent bass-world cloudburst supplies a decisive hinge from constructed rhythm into the techno opening, or interrupts that formation before it can settle."
+            "outgoingBpm": 142,
+            "purpose": "Test whether precision funk changes posture before late consolidation, or delays that consolidation with another adjacent grammar."
           }
         ],
-        "fitHypothesis": "The Guardian documents a slow ratcheting hi-hat build culminating in the album's only drop, providing exact-track structural evidence for an adjacent-world threshold.",
+        "fitHypothesis": "Published reviews identify precision syncopation, electro snap and dubwise chords in a track where timing and negative space are central; it offers a credible continuation/deepening test rather than a demand for spectacle.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies Copicat on Swerved, released 2026-07-31; exact duration, Spotify identity and BPM remain for resolver."
+            "Official Bandcamp identifies the exact track on Cicada Burnt, released 2026-07-31; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "The Guardian describes a slow, agonising ratcheting build of fanbelt-like hi-hats followed by the album's only drop, arriving with cloudburst weight.",
+          "attributedDescription": "Pitchfork describes reduced electro snap, dubwise chords and syncopated snare precision; Igloo describes negative space and timing as active instruments.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent-bass candidate whose dramatic arrival must improve the opening journey rather than merely make it bigger."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current emerging candidate for changing weight distribution inside an already moving sequence rather than adding another full structural transformation."
         }
       }
     },
     {
-      "id": "2zEtaiNt3FIC9CyohOJcXP",
-      "uri": "spotify:track:2zEtaiNt3FIC9CyohOJcXP",
-      "name": "Ajami",
+      "id": "2sq9nJXmO5OtwWemr30z32",
+      "uri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+      "name": "Ikoyi",
       "artists": [
-        "Bitchin Bajas"
+        "Ibrahim Alfa Jnr"
       ],
-      "album": "Isle Peaks",
-      "releaseDate": "2026-08-28",
-      "durationMs": 963426,
-      "spotifyUrl": "https://open.spotify.com/track/2zEtaiNt3FIC9CyohOJcXP",
+      "album": "Infinite Black Inside",
+      "releaseDate": "2026-05-15",
+      "durationMs": 200000,
+      "spotifyUrl": "https://open.spotify.com/track/2sq9nJXmO5OtwWemr30z32",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Before Purelink — Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "position": "Between Clotur — Drummz and Valesuchi — Amor",
+          "precedingUri": "spotify:track:1abRmFUMCeSSkTYLRD1B5I",
+          "followingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a long 6/8-to-4/4 transformation supplies a spacious prehistory to Stadium Drive, or makes the opening disproportionately elaborate."
+          "purpose": "Test whether break fragments slipping into ambient dub create a productive loss of foreground before Amor's transformation, or multiply late-middle non-resolution."
         },
         {
-          "position": "Between Nørbak — Capa and Wheelman — Trompe L'oeil",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": 137,
+          "position": "Between T++ — Worn Down and Sciahri — Too Much Time",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:4rAM9sMsVAfyhMt34O4VQA",
+          "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether the track's documented metric reorientation reframes the central reset, or over-explains it at extreme duration."
+          "outgoingBpm": 136,
+          "purpose": "Test whether a gradual sideways dissolution reframes the return to firmer motion, or weakens an early run whose direction is already legible."
         }
       ],
-      "fitHypothesis": "Pitchfork documents a sixteen-minute piece whose steady kalimba pulse becomes lilting 6/8 under triplet bass before returning to a 4/4 motorik stomp, a substantial adjacent-world experiment in how a clock changes.",
+      "fitHypothesis": "Pitchfork documents a track whose broken elements gradually slip into relaxed ambient dub without fully settling, a credible test of movement by dissolution rather than impact.",
       "evidence": {
         "measured": [
-          "Official Bandcamp identifies the exact track on Isle Peaks, released 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
+          "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
         ],
-        "attributedDescription": "Pitchfork describes steady kalimba pulses, a triplet bassline snapping the groove into lilting 6/8, syncopated forward motion, and a later return to 4/4 motorik stomp.",
+        "attributedDescription": "Pitchfork describes break fragments beneath jumbled vocal and chime details gradually slipping from the arrangement into relaxed ambient dub.",
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-        "editorialInterpretation": "A current adjacent candidate whose large proportional cost is part of the sequencing test, not evidence against volume belonging."
+        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+        "editorialInterpretation": "A current alternate for testing whether apparent withdrawal can preserve direction instead of acting as automatic release."
       },
       "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Ajami",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
+        "artist": "Ibrahim Alfa Jnr",
+        "track": "Ikoyi",
+        "album": "Infinite Black Inside",
+        "releaseDate": "2026-05-15",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ibrahim-alfa-jnr-infinite-black-inside/",
         "searchIntent": "BOTH",
         "proposedPlacements": [
           {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between Clotur — Drummz and Valesuchi — Amor",
+            "precedingUri": "spotify:track:1abRmFUMCeSSkTYLRD1B5I",
+            "followingUri": "spotify:track:3PlYmi1VvFCq9t21YAkz96",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a long 6/8-to-4/4 transformation supplies a spacious prehistory to Stadium Drive, or makes the opening disproportionately elaborate."
+            "purpose": "Test whether break fragments slipping into ambient dub create a productive loss of foreground before Amor's transformation, or multiply late-middle non-resolution."
           },
           {
-            "position": "Between Nørbak — Capa and Wheelman — Trompe L'oeil",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether the track's documented metric reorientation reframes the central reset, or over-explains it at extreme duration."
-          }
-        ],
-        "fitHypothesis": "Pitchfork documents a sixteen-minute piece whose steady kalimba pulse becomes lilting 6/8 under triplet bass before returning to a 4/4 motorik stomp, a substantial adjacent-world experiment in how a clock changes.",
-        "evidence": {
-          "measured": [
-            "Official Bandcamp identifies the exact track on Isle Peaks, released 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "attributedDescription": "Pitchfork describes steady kalimba pulses, a triplet bassline snapping the groove into lilting 6/8, syncopated forward motion, and a later return to 4/4 motorik stomp.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent candidate whose large proportional cost is part of the sequencing test, not evidence against volume belonging."
-        }
-      }
-    },
-    {
-      "id": "7L2cgORwNoTrj8CYoh9pf5",
-      "uri": "spotify:track:7L2cgORwNoTrj8CYoh9pf5",
-      "name": "Isle Peaks",
-      "artists": [
-        "Bitchin Bajas"
-      ],
-      "album": "Isle Peaks",
-      "releaseDate": "2026-08-28",
-      "durationMs": 600200,
-      "spotifyUrl": "https://open.spotify.com/track/7L2cgORwNoTrj8CYoh9pf5",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-      "searchIntent": "BELONGING",
-      "proposedPlacements": [
-        {
-          "position": "Before Purelink — Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a freeform elemental prelude gives Stadium Drive's rhythmic formation greater consequence, or delays the journey without a sufficient rhythmic premise."
-        }
-      ],
-      "fitHypothesis": "Pitchfork documents a freeform path from field and natural sounds through needling drone and strummed strings to a final pitch dive; this is an adjacent selection-lens lead, not a claim of techno orthodoxy.",
-      "evidence": {
-        "measured": [
-          "Official Bandcamp identifies the exact title track on the release dated 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "attributedDescription": "Pitchfork describes field and natural sounds, a needling drone, strummed strings and a final-minute pitch dive.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-        "editorialInterpretation": "A current adjacent alternate for a conspicuous non-techno prelude whose belonging and sequencing utility remain separate questions."
-      },
-      "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Isle Peaks",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "searchIntent": "BELONGING",
-        "proposedPlacements": [
-          {
-            "position": "Before Purelink — Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between T++ — Worn Down and Sciahri — Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:4rAM9sMsVAfyhMt34O4VQA",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a freeform elemental prelude gives Stadium Drive's rhythmic formation greater consequence, or delays the journey without a sufficient rhythmic premise."
+            "outgoingBpm": 136,
+            "purpose": "Test whether a gradual sideways dissolution reframes the return to firmer motion, or weakens an early run whose direction is already legible."
           }
         ],
-        "fitHypothesis": "Pitchfork documents a freeform path from field and natural sounds through needling drone and strummed strings to a final pitch dive; this is an adjacent selection-lens lead, not a claim of techno orthodoxy.",
+        "fitHypothesis": "Pitchfork documents a track whose broken elements gradually slip into relaxed ambient dub without fully settling, a credible test of movement by dissolution rather than impact.",
         "evidence": {
           "measured": [
-            "Official Bandcamp identifies the exact title track on the release dated 2026-08-28; exact Spotify identity, duration and BPM remain for resolver."
+            "Official Bandcamp identifies the exact track on Infinite Black Inside, released 2026-05-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
-          "attributedDescription": "Pitchfork describes field and natural sounds, a needling drone, strummed strings and a final-minute pitch dive.",
+          "attributedDescription": "Pitchfork describes break fragments beneath jumbled vocal and chime details gradually slipping from the arrangement into relaxed ambient dub.",
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "craftConvention": "Credible source evidence supports exact-identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
-          "editorialInterpretation": "A current adjacent alternate for a conspicuous non-techno prelude whose belonging and sequencing utility remain separate questions."
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current alternate for testing whether apparent withdrawal can preserve direction instead of acting as automatic release."
         }
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "3m6yVFQ4gkZbKK2tiie0Dz",
+      "uri": "spotify:track:3m6yVFQ4gkZbKK2tiie0Dz",
+      "name": "The 808 Track (Parts 1 and 2)",
+      "artists": [
+        "Planetary Assault Systems"
+      ],
+      "album": "Aphelion",
+      "releaseDate": "2014",
+      "durationMs": 554906,
+      "spotifyUrl": "https://open.spotify.com/track/3m6yVFQ4gkZbKK2tiie0Dz",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/16190?comments=1",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": 136,
+          "candidateBpm": null,
+          "outgoingBpm": 134,
+          "purpose": "Test whether direct hyperactive drums surrounded by vacancy sharpen the opening's physical definition before Cave, or lengthen a mature opening without a new consequence."
+        },
+        {
+          "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
+          "precedingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+          "followingUri": "spotify:track:0EPZ3sDmER2MZpx8FDtAjp",
+          "incomingBpm": 128,
+          "candidateBpm": null,
+          "outgoingBpm": 135,
+          "purpose": "Test whether straight but leftfield drum focus clarifies the move out of crooked accumulation, or makes the following recovery redundant."
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes hyperactive vulcanized drums set against unusual vacancy: apparently direct techno whose negative space keeps it leftfield.",
+      "evidence": {
+        "measured": [
+          "Token's Aphelion compilation identifies the exact Planetary Assault Systems title from 2014; exact Spotify identity, release date, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Resident Advisor describes hyperactive, vulcanized drums and an overall sense of vacancy, calling it straight yet leftfield.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+        "editorialInterpretation": "An overlooked catalogue alternate for testing focused physical continuity rather than another track-length transformation."
+      },
+      "requestedIdentity": {
+        "artist": "Planetary Assault Systems",
+        "track": "The 808 Track (Parts 1 and 2)",
+        "album": "Aphelion",
+        "releaseDate": "2014-11",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/16190?comments=1",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Inigo Kennedy — The Witching Hour and Rene Wise — Cave",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 134,
+            "purpose": "Test whether direct hyperactive drums surrounded by vacancy sharpen the opening's physical definition before Cave, or lengthen a mature opening without a new consequence."
+          },
+          {
+            "position": "Between Peverelist — Pulse I and CHANCEKNOT — Fragments",
+            "precedingUri": "spotify:track:42t0r1qI1dBbZTBwXKjFeE",
+            "followingUri": "spotify:track:0EPZ3sDmER2MZpx8FDtAjp",
+            "incomingBpm": 128,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether straight but leftfield drum focus clarifies the move out of crooked accumulation, or makes the following recovery redundant."
+          }
+        ],
+        "fitHypothesis": "Resident Advisor describes hyperactive vulcanized drums set against unusual vacancy: apparently direct techno whose negative space keeps it leftfield.",
+        "evidence": {
+          "measured": [
+            "Token's Aphelion compilation identifies the exact Planetary Assault Systems title from 2014; exact Spotify identity, release date, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Resident Advisor describes hyperactive, vulcanized drums and an overall sense of vacancy, calling it straight yet leftfield.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "An overlooked catalogue alternate for testing focused physical continuity rather than another track-length transformation."
+        }
+      }
+    },
+    {
+      "id": "3EmxrX93360ZjfMhsc4sr1",
+      "uri": "spotify:track:3EmxrX93360ZjfMhsc4sr1",
+      "name": "Raining Birds",
+      "artists": [
+        "HVL"
+      ],
+      "album": "Formation",
+      "releaseDate": "2026-07-07",
+      "durationMs": 349830,
+      "spotifyUrl": "https://open.spotify.com/track/3EmxrX93360ZjfMhsc4sr1",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://kiyadama.bandcamp.com/album/formation",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Rene Wise — Cave and Decoder — Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 135,
+          "purpose": "Test whether current rolling-breakbeat and dub-bass language can continue early motion without demanding another structural explanation; reject if release-level evidence cannot support the exact track."
+        }
+      ],
+      "fitHypothesis": "Formation is documented as rolling-breakbeat, dub-bass and acid-informed club music; Raining Birds is a deliberately lower-ranked exact identity lead because the available evidence is release-level rather than candidate-specific.",
+      "evidence": {
+        "measured": [
+          "Official Bandcamp identifies Raining Birds on Formation, released 2026-07-07; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "attributedDescription": "Bandcamp Daily describes Formation at release level through rolling breakbeats, dub bass, acid synths and club-functional surprise; no individual sonic claim is made for Raining Birds.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+        "editorialInterpretation": "A current lower-ranked identity lead retained only to keep the scan broad; candidate-specific qualities remain UNKNOWN unless further evidence appears."
+      },
+      "requestedIdentity": {
+        "artist": "HVL",
+        "track": "Raining Birds",
+        "album": "Formation",
+        "releaseDate": "2026-07-07",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://kiyadama.bandcamp.com/album/formation",
+        "searchIntent": "BOTH",
+        "proposedPlacements": [
+          {
+            "position": "Between Rene Wise — Cave and Decoder — Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether current rolling-breakbeat and dub-bass language can continue early motion without demanding another structural explanation; reject if release-level evidence cannot support the exact track."
+          }
+        ],
+        "fitHypothesis": "Formation is documented as rolling-breakbeat, dub-bass and acid-informed club music; Raining Birds is a deliberately lower-ranked exact identity lead because the available evidence is release-level rather than candidate-specific.",
+        "evidence": {
+          "measured": [
+            "Official Bandcamp identifies Raining Birds on Formation, released 2026-07-07; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "attributedDescription": "Bandcamp Daily describes Formation at release level through rolling breakbeats, dub bass, acid synths and club-functional surprise; no individual sonic claim is made for Raining Birds.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "craftConvention": "Credible source evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form-journey assessment; unsupported felt and mixing qualities remain UNKNOWN.",
+          "editorialInterpretation": "A current lower-ranked identity lead retained only to keep the scan broad; candidate-specific qualities remain UNKNOWN unless further evidence appears."
+        }
+      }
+    }
+  ]
 }
