@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 107 — EXPLORE — freedom before identity
+
+Nine ranked leads from approximately 55 fresh inspections produced a matching schemaVersion 2 NONE snapshot: zero exact Spotify resolutions, nine unresolved identities, zero candidates, zero warnings and zero alternates. Every lead returned `no exact Spotify title/artist search match in market SE`; there were no duplicates, substitutions or technical failures.
+
+**Decision:** 0 canonical ADD and 0 musical evaluations. The nine Djrum, Andrea and Casting Spells identities remain source-backed research only. No unresolved lead enters rejected/revisit state or the global utility ledger.
+
+The protected `Transparency → When We Froze → Stardancer` internal order remains intact. STRANGE GAIT stays at 24 tracks; EDITORIAL ENGINE — DISCOVERY POOL stays at 200 tracks. The next ordinary EXPLORE should pivot to stream-available current sources rather than retrying this vinyl/forthcoming/generic-alias cohort. This is a funnel watch, not yet an actionable REPAIR.
+
 ## Run 106 — EXPLORE — rhythmic memory is not automatically long-form memory
 
 Nine ranked leads from approximately 46 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates and no warnings, alternates, duplicates, substitutions or terminal technical errors.

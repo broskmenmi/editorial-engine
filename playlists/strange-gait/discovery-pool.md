@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 107 harvest — 2026-09-09
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEAD | Djrum | Psychic Video; Turning; Leave Me Alone | https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way | Three named originals from the forthcoming DJ-Kicks window. Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or global utility entry. |
+| RESEARCH LEAD | Andrea | TrackQY; Drumzzy; Isabelle's String | https://pitchfork.com/reviews/albums/andrea-ritorno/ | Exact-track criticism supports fluttering bass, jungle mutation and shuffling-serenity research, but all three identities remain unresolved in market SE. |
+| RESEARCH LEAD | Casting Spells | Chasing Camberwell Goats; Garden Of Grass; Teatray In The Sky | https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ | Jazz/dub/electronica, mixing-board dub/deep-house and post-party-breakbeat descriptions remain useful research; all three identities are unresolved. |
+| RELEASE WATCH | Djrum / !K7 | DJ-Kicks: Djrum | https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way | October 16, 2026 release watch; do not infer individual behavior from mix-level expectation language. |
+| RELEASE WATCH | Casting Spells / Tackle Audio | Abstract Grooves Vol. 3 | https://www.deejay.de/Burning_Sole_Records__L0/lang_es | Emerging label/catalogue watch; unresolved identities are not publication inputs. |
+| CATALOGUE WATCH | Andrea / Ilian Tape | Ritorno | https://pitchfork.com/reviews/albums/andrea-ritorno/ | Overlooked free-rhythm catalogue; exact descriptions remain research evidence, not Spotify identity. |
+
+### Placement and inspiration boundaries
+
+- No row above is an exact Spotify identity or a canonical verdict.
+- The proposed placements were resolver hypotheses only and were not evaluated.
+- No BPM, energy, density, phrase fit, perceived pulse or mixability is inferred.
+- None of these rows enters EDITORIAL ENGINE — DISCOVERY POOL.
+
 ## Run 106 harvest — 2026-09-09
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

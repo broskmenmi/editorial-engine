@@ -1,5 +1,55 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 107 — EXPLORE — freedom before identity — 2026-09-09
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 unique canonical tracks with an exact matching COMPLETE Spotify receipt and current 24-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 200 exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit, objective defect or unfinished repair was actionable.
+
+### Exploration receipt
+
+Run `2026-09-09T18:49:33Z-explore-107` inspected approximately 55 named tracks across:
+
+- current September 2 and September 8, 2026 Djrum / DJ-Kicks sources;
+- Casting Spells / Tackle Audio's emerging `Abstract Grooves Vol. 3`;
+- Andrea's overlooked 2020 `Ritorno` catalogue;
+- broader current Pitchfork, Resident Advisor, Bandcamp and Quietus electronic windows.
+
+Recent Run 104–106 ecosystems were excluded. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries, generic tag-only material and prior unresolved leads without materially new identity evidence were excluded. Nine honest leads survived from approximately 55 inspections (16.4%); no low-lead-conversion warning applies.
+
+### Resolver outcome
+
+The immutable schemaVersion 2 request was pinned to `36dd9c240dbfc61cfd851680715f8d67a1dfe7e6`. The matching terminal snapshot is internally valid: `resolutionStatus: NONE`, 9 requested, 0 resolved, 9 unresolved, 0 selected candidates, 0 warnings and 0 resolved alternates. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Every lead returned the exact resolver error `no exact Spotify title/artist search match in market SE`:
+
+1. Djrum — Psychic Video
+2. Andrea — TrackQY
+3. Casting Spells — Chasing Camberwell Goats
+4. Andrea — Drumzzy
+5. Casting Spells — Garden Of Grass
+6. Djrum — Turning
+7. Andrea — Isabelle's String
+8. Casting Spells — Teatray In The Sky
+9. Djrum — Leave Me Alone
+
+These are exact-identity outcomes, not musical verdicts. No volume, transition, local-run or long-form evaluation was authorized because no candidate entered the frozen snapshot.
+
+### Auditor approval
+
+**APPROVED — EXPLORATION COMPLETE, NO QUALIFIED CANDIDATES.** Freshness coverage, evidence separation, nine-lead ranking and resolver integrity pass. The zero-resolution result is attributable to market identity availability across a forthcoming release, an emerging vinyl-oriented release and an older catalogue with a generic artist name. It does not establish musical incompatibility, playlist completeness or an actionable canonical repair. The source concentration is a next-scan watch; one diverse zero-resolution run does not yet establish sustained resolver or Scout-process failure.
+
+Auditor approves local retention of the nine unresolved research identities, the Djrum / Casting Spells / Andrea catalogue watches and the set direction **freedom before identity**. No unresolved identity may enter the global utility ledger.
+
+### Durable result
+
+- STRANGE GAIT remains **24 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration adds nine unresolved research leads, three source watches and one set direction without claiming Spotify identity or individual felt facts beyond cited evidence.
+- EDITORIAL ENGINE — DISCOVERY POOL remains **200 exact tracks**.
+- Journey annotations and generated maps are unchanged.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 55 inspected → 9 leads → 0 exact resolutions + 9 unresolved → 0 evaluations → 0 ADD → 0 utility additions. Across Runs 87–107: 188 leads from approximately 912 inspections and 9 ADDs from 52 selected candidates. Recent ADD rate is 3/10 across Runs 98–107, versus 10/58 across Runs 55–107. The no-ADD streak is two runs since Run 105; three exact genuinely interesting tracks have been retained globally during that streak, all in Run 106. This run weakens an over-filtering diagnosis because Scout used all nine honest lead slots, but strengthens an identity-loss diagnosis for this source mix. It proves the exact-identity gate worked; it does not prove that any lead fails STRANGE GAIT, that the playlist is complete, or that audio/transition compatibility was tested.
+
 ## Run 106 — EXPLORE — rhythmic memory and redundant recovery — 2026-09-09
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 24 canonical tracks and EDITORIAL ENGINE — DISCOVERY POOL at 197 exact tracks, both with exact matching COMPLETE receipts. The generated map held all 24 canonical identities; the protected Transparency → When We Froze → Stardancer internal order was intact; no REVISIT was TRIGGERED; no listener repair was authorized; and no objective defect or unfinished repair was actionable.

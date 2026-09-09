@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 107
+
+### Freedom before identity
+
+**Direction:** Keep rhythmic and structural freedom legible at the discovery stage even when the publication identity gate later closes; unresolved music can refine future search without becoming a candidate or verdict.
+
+**Ingredients:**
+
+- Djrum — Psychic Video — unresolved current-release lead; exact track singled out by Pitchfork, while the deliberately bumpy expectation language belongs to the wider DJ-Kicks construction
+- Andrea — TrackQY / Drumzzy / Isabelle's String — unresolved catalogue leads with exact criticism describing distinct free-rhythm behaviors
+- Casting Spells — Chasing Camberwell Goats / Garden Of Grass / Teatray In The Sky — unresolved adjacent jazz/dub/electronica research
+
+**Why interesting:** A future set direction could move among bodily clarity, loose-limbed mutation and adjacent acoustic/dub posture without treating one production world as a purity requirement. The discovery value is the range of structural questions, not proof that these tracks form a sequence.
+
+**Unknown / risk:** Every identity above is unresolved in Spotify market SE. No pairwise transition, BPM, perceived pulse, density, phrase compatibility, emotional effect or live-mixing edge has been established. The next scan should use different, more stream-available source ecosystems rather than retrying these names unchanged.
+
 ## Current additions — Run 106
 
 ### Rhythmic memory is not automatically long-form memory
