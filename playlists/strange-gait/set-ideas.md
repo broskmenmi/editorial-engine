@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 119 — Mediation is useful only when it changes the next task
+
+**Direction:** Explore bridges and ruptures that do more than describe an existing relation: the inserted track should alter what the following formation, transit or recovery must accomplish.
+
+**Ingredients:**
+
+- DJ Haram — *Body Count* — exact Run 119 placement-specific reject; elastic darbuka and Jersey-club percussion remain interesting outside the tested Ikoyi-to-Amor explanation.
+- Peder Mannerfelt — *This Machine Shares Memes* — exact placement-specific reject; an accident-like siren/kick rupture remains interesting outside the tested double-disruption opening.
+- Proc Fiskal — *Dopamine* — exact placement-specific reject; digital attention fragmentation remains interesting outside the established Capa-to-transit passage.
+- Tzusing — *Exascale* — exact resolved alternate, unselected and unevaluated.
+- Simo Cell & Abdullah Miniawy and Peder Mannerfelt/Sissel Wincent — five unresolved exact-title research leads.
+
+**Why interesting:** A bridge can be musically vivid yet redundant if it only names a transition that already reads clearly. A rupture earns long-form consequence when the recovery after it must change, not merely arrive later.
+
+**Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. The attributed 184 BPM description for *This Machine Shares Memes* is not resolver-verified BPM. No listed pairing is asserted to be a proven sequence or live edge.
+
 ## Run 118 — Collapse can prepare protected closure
 
 **Direction:** Explore late-set forms that begin from a familiar bodily frame and deliberately remove it, so the following stable frame arrives as consequence rather than merely continuation.

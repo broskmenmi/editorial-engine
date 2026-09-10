@@ -1,5 +1,84 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 119 — EXPLORE — mediation is not consequence — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching annotations, a current 29-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 233 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T05:52:14Z-explore-119` inspected approximately 50 named tracks, releases and current-source entries across September 8–10, 2026 coverage, Simo Cell and Abdullah Miniawy's 2026 *Dying Is the Internet*, adjacent DJ Haram percussion-led club work, and overlooked Peder Mannerfelt, Proc Fiskal and Tzusing catalogue. Runs 113–118 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (18.0%).
+
+The immutable schemaVersion 2 request was pinned to `71bded1a56828e4e7a33a2dc352c05e6cb9daab1` in request commit `70fb8950f5d34d7d5bb0a0f068bc37fe08b9c5ee`. The matching snapshot commit is `da83c7d02e0f445eb56c3f4cb09dd9e6961078e5`; request fingerprint `bc11f918bfbdbcae0ece4a517d3e117897cde14500f50e7d19346e5420ab902c`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. DJ Haram — Body Count — `spotify:track:6md1GzHW9QPHjJ6BA3uFrz` — 3:43
+2. Peder Mannerfelt — This Machine Shares Memes — `spotify:track:6C5fQ4v5gSvSq3Re5Mckn0` — 3:55
+3. Proc Fiskal — Dopamine — `spotify:track:4jbl6oeaFCZK0SKQTMoZWA` — 4:13
+
+Unresolved without musical verdict:
+
+- Simo Cell, Abdullah Miniawy — Pixelated: `no exact Spotify title/artist search match in market SE`
+- Peder Mannerfelt, Sissel Wincent — Sissel & Bass: `no exact Spotify title/artist search match in market SE`
+- Simo Cell, Abdullah Miniawy — The Dala Effect: `no exact Spotify title/artist search match in market SE`
+- Simo Cell, Abdullah Miniawy — Easing the Hearts: `no exact Spotify title/artist search match in market SE`
+- Peder Mannerfelt — Temporary Psychosis: `no exact Spotify title/artist search match in market SE`
+
+Resolved but unevaluated alternate:
+
+- Tzusing — Exascale — `spotify:track:13JKqD7hTLWJ8l5D8PlUHF`
+
+Warnings preserved exactly:
+
+- DJ Haram — Body Count: `Exact title/artist matched with release metadata variance: album requested "Grace" but Spotify returned "Grace EP"; release date requested "2019" but Spotify returned "2019-07-05"`
+- Peder Mannerfelt — This Machine Shares Memes: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-11-16"`
+- Proc Fiskal — Dopamine: `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-06-08"`
+- Tzusing — Exascale: `Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-03-31"`
+
+### Candidate evaluations
+
+#### DJ Haram — Body Count — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a percussion-led construction in which sub-bass, Jersey-club thump and sound effects move around elastic darbuka lines with only a slight melodic trace.
+- **Immediate transition:** At `Ikoyi → candidate → Amor`, the change in drum language could be deliberate, but the exact handoffs remain UNKNOWN and the candidate makes the following machine-to-hand-drum mutation less of a discovery.
+- **Three-to-five-track run:** `Drummz → Ikoyi → Body Count → Amor → Truth in Noise` names percussion change three times in succession before consolidation. Different production worlds are welcome; the failure is explanatory redundancy.
+- **Long-form journey:** The insertion supplies mediation where the current journey already moves legibly from mutation into a changed drum frame and then consolidation.
+- **Verdict:** REJECT only the tested placement. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN. Spotify packaging/date variance is preserved.
+
+#### Peder Mannerfelt — This Machine Shares Memes — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes mournful sirens and piledriving kicks at an attributed 184 BPM, functioning less as a dance track than an accident document. Resolver BPM remains null, so 184 is not treated as verified metadata.
+- **Immediate transition:** At `The Witching Hour → candidate → Encasadelciegoeltuerco`, an extreme rupture is permissible but the following triplet derailment becomes another rupture rather than a changed consequence.
+- **Three-to-five-track run:** `Marauder → The Witching Hour → This Machine Shares Memes → Encasadelciegoeltuerco → Cave` stacks two complete opening disruptions before Cave restores broader motion.
+- **Long-form journey:** The 3:55 insertion intensifies the opening without changing the recovery's task or the later journey.
+- **Verdict:** REJECT only the tested placement. Verified BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN. Spotify date variance is preserved.
+
+#### Proc Fiskal — Dopamine — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a frantic beat, twinkling keys and notification-like rhythmic spikes inside a densely rebuilt grime framework.
+- **Immediate transition:** At `Capa → candidate → Never Met`, attention fragmentation can read as an intentional left turn, but the source does not establish an endpoint that makes Never Met's approach-and-departure path newly necessary.
+- **Three-to-five-track run:** `Fulledge → Capa → Dopamine → Never Met → Trompe L'oeil` accumulates dissolution, redirection, digital fragmentation and transit before the current reset.
+- **Long-form journey:** The insertion adds another mediation stage to a central run whose causal sequence is already unusually explicit.
+- **Verdict:** REJECT only the tested placement. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN. Spotify date variance is preserved.
+
+### Auditor approval
+
+**APPROVED.** The request is immutable and pinned to the live pre-request SHA; the matching PARTIAL snapshot has the same runId, sourceCommit, mode, target and exploration receipt. All five unresolved identities, one resolved alternate, four warnings and exact resolver errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, local-run and long-form scales. No energy, density, space, hypnosis, phrase fit, perceived pulse or mixability was inferred from metadata. The protected `Transparency → When We Froze → Stardancer` order remains untouched. Auditor approves three placement-specific REJECT verdicts, local inspiration retention and three global utility additions. No actionable REPAIR emerges.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **29 canonical tracks**; no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; five unresolved research leads and current/adjacent/catalogue watches retained without invented identity or verdict; one resolved alternate remains unevaluated and is not a utility addition.
+- EDITORIAL ENGINE — DISCOVERY POOL: **233 → 236 exact tracks**, adding all three selected exact tracks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 50 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 unevaluated alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across Runs 87–119: 296 leads from approximately 1,511 inspections and 14 ADDs from 88 selected candidates. Recent ADD rate: 5/10 across Runs 110–119; overall repaired comparison: 15/94 across Runs 55–119. The no-ADD streak is one run since Run 118; three exact interesting tracks entered the utility layer during it.
+
 ## Run 118 — EXPLORE — collapse can prepare protected closure — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 28 unique canonical tracks with a current 28-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 230 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.

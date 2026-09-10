@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 119 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | DJ Haram | Body Count | https://open.spotify.com/track/6md1GzHW9QPHjJ6BA3uFrz | Placement-specific REJECT only for Ikoyi → candidate → Amor. The exact 3:43 percussion-led construction remains genuinely interesting outside the tested over-explained mutation passage; packaging/date variance preserved. |
+| EXACT TRACK | Peder Mannerfelt | This Machine Shares Memes | https://open.spotify.com/track/6C5fQ4v5gSvSq3Re5Mckn0 | Placement-specific REJECT only for The Witching Hour → candidate → Encasadelciegoeltuerco. The exact 3:55 siren-and-kick rupture remains genuinely interesting outside the tested double-disruption opening; date variance preserved. |
+| EXACT TRACK | Proc Fiskal | Dopamine | https://open.spotify.com/track/4jbl6oeaFCZK0SKQTMoZWA | Placement-specific REJECT only for Capa → candidate → Never Met. The exact 4:13 digital-attention construction remains genuinely interesting outside the tested over-articulated central passage; date variance preserved. |
+| RESEARCH LEADS | Simo Cell, Abdullah Miniawy | Pixelated; The Dala Effect; Easing the Hearts | https://pitchfork.com/reviews/albums/simo-cell-and-abdullah-miniawy-dying-is-the-internet and https://www.theguardian.com/music/2026/mar/06/simo-cell-and-abdullah-miniawy-dying-is-the-internet-review | All three returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEADS | Peder Mannerfelt, Sissel Wincent; Peder Mannerfelt | Sissel & Bass; Temporary Psychosis | https://pitchfork.com/reviews/albums/peder-mannerfelt-daily-routine | Both returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESOLVED ALTERNATE | Tzusing | Exascale | https://open.spotify.com/track/13JKqD7hTLWJ8l5D8PlUHF | Exact but unselected and unevaluated; not retained as an editorial decision and not added to the utility ledger. |
+| CURRENT WATCH | Simo Cell & Abdullah Miniawy | Dying Is the Internet | https://pitchfork.com/reviews/albums/simo-cell-and-abdullah-miniawy-dying-is-the-internet | Current 2026 stop-start, gallop-to-stomp and groove-withholding window; requested exact tracks remain unresolved. |
+| ADJACENT WATCH | DJ Haram / Hyperdub | Grace EP | https://pitchfork.com/reviews/albums/dj-haram-grace-ep | Percussion systems that alternate lead and support; exact claims remain attached only to Body Count. |
+| CATALOGUE WATCH | Peder Mannerfelt; Proc Fiskal; Tzusing | Daily Routine; Insula; 绿帽 Green Hat | https://pitchfork.com/reviews/albums/peder-mannerfelt-daily-routine | Self-reflexive rave, digital-fragmentation and escalating-breakbeat catalogue; only selected exact identities received verdicts. |
+
+### Placement and inspiration boundaries
+
+- Body Count, This Machine Shares Memes and Dopamine are rejected only for their documented Run 119 placements, not globally.
+- The five unresolved identities have no musical verdict and do not enter the global utility ledger.
+- Exascale is exact but unevaluated and was not added globally.
+- Set direction: **mediation is useful only when it changes the next track's task**. These records are not a proven live sequence or mixing prescription.
+
 ## Run 118 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

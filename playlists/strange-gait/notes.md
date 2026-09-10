@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 119 — EXPLORE — mediation is not consequence
+
+Nine ranked leads from approximately 50 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. DJ Haram — *Body Count* is rejected only between *Ikoyi* and *Amor*, where another percussion-language handoff over-explains an already legible mutation-to-consolidation passage. Peder Mannerfelt — *This Machine Shares Memes* is rejected only between *The Witching Hour* and *Encasadelciegoeltuerco*, where an extreme accident-like rupture stacks another full disruption before *Cave* restores broader motion. Proc Fiskal — *Dopamine* is rejected only between *Capa* and *Never Met*, where digital attention fragmentation adds another mediation stage to an already explicit redirection/transit/reset run.
+
+STRANGE GAIT remains at 29 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 233 to 236 tracks with all three selected exact candidates. The five unresolved identities retain their exact no-match errors and receive no musical verdict; Tzusing — *Exascale* remains an exact unevaluated alternate.
+
+Across Runs 87–119: 296 leads from approximately 1,511 inspections and 14 ADDs from 88 selected candidates. Recent ADD rate: 5/10 across Runs 110–119; overall repaired comparison: 15/94 across Runs 55–119. The no-ADD streak is one run since Run 118; three exact interesting tracks entered the utility layer during it.
+
+**Strongest counterargument:** *Body Count* could make the shift from *Ikoyi* into *Amor* feel deliberately mediated rather than abrupt. It fails because the five-track scale turns a relationship the journey already communicates into three successive explanations of changing percussion before consolidation.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 118 — EXPLORE — collapse can prepare protected closure
 
 Nine ranked leads from approximately 54 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, two packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
