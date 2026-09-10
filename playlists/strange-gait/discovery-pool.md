@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 130 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Daphni | Cherry | https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI | Placement-specific REJECT only for the two tested Run 130 positions. Its syncopated grid-trip, full-stop fakeout and clockwork return remain genuinely interesting elsewhere; release-date variance and attributed/non-resolver tempo boundary preserved. |
+| EXACT TRACK | Dolo Percussion | DOLO 14 | https://open.spotify.com/track/1QHCv7cczGNrt6LdP4lkfZ | Placement-specific REJECT only for the two tested Run 130 positions. Its slow D.C. go-go swing and spatial woodblock/cymbal field remain genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Dolo Percussion | DOLO 15 | https://open.spotify.com/track/2d6jzWTj1ZeV3A4YqY04XB | PARKED after two placement hypotheses because exact-track development and endpoint remain decision-critical unknowns. Its slow-motion drum'n'bass, finger-cymbal and ring-modulator state remains genuinely interesting; release-date variance preserved. |
+| UNRESOLVED | Matryoshka; Safety Trance, Arca; Foodman; username, Marsh crane | Lifelover; the beat drops; Hard Reclining; Report | https://pitchfork.com/reviews/albums/matryoshka-blase-saint ; https://pitchfork.com/reviews/albums/safety-trance-sacrificio ; https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu ; https://pitchfork.com/reviews/albums/username-marsh-crane-overtime | Four exact-title no-match or ambiguous outcomes are preserved in discoveries.md. No musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Safety Trance; Ibrahim Alfa Jnr | curiapo; Marine | spotify:track:5KID9y87xcbWowmqXP5cVI ; spotify:track:2tlidYMhURiKtv15AIdERw | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. Release-date variances preserved. |
+| RELEASE / CATALOGUE WATCH | Matryoshka; Safety Trance / Foodman; username / Marsh crane | Blasé Saint; sacrificio / HIKARIGASASHIKOMU; OVERTIME | https://pitchfork.com/reviews/albums/matryoshka-blase-saint ; https://pitchfork.com/reviews/albums/safety-trance-sacrificio ; https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu ; https://pitchfork.com/reviews/albums/username-marsh-crane-overtime | Current emerging transformations, abrupt switches and next-generation footwork remain useful research windows. Release-level context does not become unverified track fact. |
+| PLACEMENT BOUNDARY | Daphni; Dolo Percussion | Cherry; DOLO 14; DOLO 15 | See exact rows above | Two tracks fail only their tested placements; one remains parked. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 129 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

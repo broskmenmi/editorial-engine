@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 130 — Interruption must alter the following task
+
+**Direction:** Explore full-stop fakeouts, spatial percussion fields and ambiguous speed worlds only where their exit changes what the following formation must accomplish.
+
+**Ingredients:**
+
+- Daphni — *Cherry* — exact placement-specific reject; syncopated grid-trip, one-second stop and clockwork return remain useful outside the tested doubled-redirection and doubled-withdrawal runs.
+- Dolo Percussion — *DOLO 14* — exact placement-specific reject; slow D.C. go-go swing and disorienting spatial percussion remain useful outside the tested stacked-groove passages.
+- Dolo Percussion — *DOLO 15* — exact PARKED discovery; slow-motion drum'n'bass with finger cymbals and ring modulator is known, exact development and endpoint are not.
+- Matryoshka — *Lifelover*, Safety Trance / Arca — *the beat drops*, Foodman — *Hard Reclining*, and username / Marsh crane — *Report* — unresolved exact-title research leads without verdicts.
+- Safety Trance — *curiapo* and Ibrahim Alfa Jnr — *Marine* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A stop, apparent speed contradiction or spatially unstable groove can make a left turn legible, but only when its endpoint creates a consequence beyond the candidate's own internal event.
+
+**Unknown / risk:** BPM except source-attributed *Cherry*, perceived pulse, energy, density, space, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 129 — Acceleration must create downstream work
 
 **Direction:** Explore brief accelerations, triplet escalations and delayed beat returns only where their endpoint changes what the following formation must accomplish.

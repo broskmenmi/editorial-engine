@@ -1,5 +1,88 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 130 — EXPLORE — interruption must alter the following task — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 265 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T16:49:52Z-explore-130` inspected approximately 56 named tracks, releases and review entries across current and emerging Matryoshka, Safety Trance, Foodman, username / Marsh crane and Ibrahim Alfa Jnr. fields, plus overlooked Daphni and Dolo Percussion catalogues. Canonical, active-rejection, untriggered-PARKED and utility-retained identities were excluded; Run 124–129 selected ecosystems were not recycled. Nine honest leads survived (16.1%).
+
+The immutable schemaVersion 2 request was pinned to `5818993e41666696567cd889101acffbc92ec9d4` in request commit `5c60c385678101c2f75eda7a7b286e3ddb7762c3`. The matching snapshot commit is `badcd53dd2c6efe1d8ee651eca9683167da98690`; request fingerprint `5cc6f22350538768058ae013e9b5deccda997017c7e072925cd101561ad997d5`.
+
+### Resolver outcome
+
+The terminal schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 9 requested, 5 resolved, 3 selected candidates, 4 unresolved, 2 alternates and 5 warnings. There were no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Daphni — *Cherry* — `spotify:track:7qdthSAP02SdvLGisBEVtI` — *Cherry*, 2022-10-07, 355920 ms.
+- Dolo Percussion — *DOLO 14* — `spotify:track:1QHCv7cczGNrt6LdP4lkfZ` — *Dolo 4*, 2019-05-10, 264213 ms.
+- Dolo Percussion — *DOLO 15* — `spotify:track:2d6jzWTj1ZeV3A4YqY04XB` — *Dolo 4*, 2019-05-10, 250790 ms.
+
+Unresolved without musical verdict:
+
+- Matryoshka — *Lifelover*: `no exact Spotify title/artist search match in market SE`
+- Safety Trance, Arca — *the beat drops*: `no exact Spotify title/artist search match in market SE`
+- Foodman — *Hard Reclining*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (16K5BlFFm2lFZy33DMos65, 5coCAX6FxXys61h7v0O0FT)`
+- username, Marsh crane — *Report*: `no exact Spotify title/artist search match in market SE`
+
+Resolved but unselected and unevaluated:
+
+- Safety Trance — *curiapo* — `spotify:track:5KID9y87xcbWowmqXP5cVI`
+- Ibrahim Alfa Jnr — *Marine* — `spotify:track:2tlidYMhURiKtv15AIdERw`
+
+Warnings preserved exactly:
+
+- Daphni — *Cherry*: `Exact title/artist matched with release metadata variance: release date requested "2022" but Spotify returned "2022-10-07"`
+- Dolo Percussion — *DOLO 14*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-05-10"`
+- Dolo Percussion — *DOLO 15*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-05-10"`
+- Safety Trance — *curiapo*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-04-30"`
+- Ibrahim Alfa Jnr — *Marine*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-15"`
+
+### Evaluations
+
+#### Daphni — Cherry — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a Detroit-techno-inflected construction whose seasick syncopation trips over the grid, reaches a one-second full stop and returns to clockwork interlocking drums.
+- **Transition scale:** Between *Capa* and *Never Met*, the candidate's self-contained stop-and-return inserts another redirection before transit. Between *Truth in Noise* and *U Belong 2 Me*, its restored grid precedes another, more consequential bass-drum withdrawal.
+- **Local-run scale:** `Fulledge (Empty-40 Mix) → Capa → Cherry → Never Met → Trompe L'oeil` turns the central passage into dissolution, redirection, fakeout, transit and reset without changing *Never Met*'s task. `Amor → Truth in Noise → Cherry → U Belong 2 Me → Transparency` places two beat-removal gestures after consolidation and delays the protected re-entry.
+- **Long-form scale:** The 5:56 insertion adds a complete chaos/control episode to an already change-dense 32-track journey; neither tested exit creates a new downstream consequence.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+
+#### Dolo Percussion — DOLO 14 — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents slow, heady D.C. go-go funk whose hissing cymbals and clacking woodblocks create a disorienting surround-sound impression.
+- **Transition scale:** Between *Trompe L'oeil* and *Thick to Handle*, the candidate establishes another complete groove after reset before bodily deformation. Between *Drummz* and *Ikoyi*, it replaces one percussion frame with another before dissolution rather than changing the dissolution task.
+- **Local-run scale:** `Never Met → Trompe L'oeil → DOLO 14 → Thick to Handle → LOVE YOUR ENEMIES` accumulates reset, spatial funk, deformation and conflict. `Fragments → Drummz → DOLO 14 → Ikoyi → Amor` makes the later percussion passage more detailed but less consequential.
+- **Long-form scale:** The 4:24 insertion offers a genuinely different production world, but both positions add a groove proposition without changing the surrounding journey's work.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+
+#### Dolo Percussion — DOLO 15 — PARKED / interesting
+
+- **Volume fit:** PASS. Pitchfork identifies slow-motion drum'n'bass suffused with finger cymbals and ring modulator; a fixed genre-speed reading is productively destabilized.
+- **Transition scale:** At `Too Much Time → candidate → Moonwake`, the candidate could create a useful temporal refraction or merely interrupt a clear widening-to-intensification relation. The reasonable `Capa → candidate → Never Met` alternative could similarly reframe transit or add inert mediation.
+- **Local-run scale:** The source establishes a compelling state but not the individual track's development or endpoint, so neither five-track run can responsibly distinguish a consequential time-world shift from another self-contained percussion interval.
+- **Long-form scale:** At 4:11 the proportional cost is meaningful inside a 32-track journey. Available evidence cannot choose whether its exit deepens the long-form arc or simply lengthens two already legible passages.
+- **Decision-critical unknown:** exact-track internal direction and endpoint. This is not a generic missing-handoff veto: both a primary and reasonable alternate placement were tested, and existing provisional ADDs had track-specific directional evidence that *DOLO 15* presently lacks.
+- **Verdict:** PARK pending materially richer exact-track structural/endpoint evidence, lawful audio evidence or a changed journey need. Retain the exact identity as genuinely interesting.
+
+BPM, perceived pulse, energy, density, space, phrasing, mixability and all exact candidate-to-neighbour handoffs remain unknown. Pitchfork's 134-BPM figure for *Cherry* is attributed criticism, not resolver-measured audio.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the immediate pre-request repository SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 5 exact resolutions + 4 unresolved, with 3 selected candidates and 2 alternates. Every resolver warning and exact unresolved outcome is preserved. Only the three selected exact identities entered evaluation, each separately at volume, transition, local-run and long-form scales. *DOLO 15* is parked for a specific endpoint uncertainty after two plausible placements, not because transition audio is merely absent. No metadata-only energy, density, space, hypnosis, emotional, phrase or mixability claim entered the verdicts. The protected `Transparency → When We Froze → Stardancer` internal order remains untouched. Auditor approves two placement-specific rejections, one PARKED decision, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **32 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: two exact placement-specific REJECT / interesting tracks, one exact PARKED / interesting track, four unresolved research leads, two exact unevaluated alternates and current catalogue watches retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **265 → 268 exact tracks**, adding *Cherry*, *DOLO 14* and *DOLO 15*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 56 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Across Runs 87–130: **395 leads from approximately 2,085 inspections; 17 ADDs from 120 selected candidates**. Recent ADD rate: **3/10 across Runs 121–130**, versus **18/126 across Runs 55–130**. The no-ADD streak is five runs since Run 125, with 14 exact interesting tracks retained during it. A healthy nine-lead funnel and candidate-specific verdicts argue against Scout over-filtering or a universal epistemic veto. Four unresolved identities caused the resolver to select two tracks from one catalogue, but five exact resolutions still supplied a viable evaluation set. The strongest alternative explanation is repetitive placement search around the dense middle; this run tested central transit, late approach and percussion-dissolution boundaries, and only *DOLO 15* parked on a track-specific endpoint gap after a second reasonable placement. The streak is a visible maturity signal, not yet an actionable workflow defect. This does not prove completion, global incompatibility, exact handoff quality, phrase fit or live mixability. No actionable musical or workflow REPAIR emerges.
+
 ## Run 129 — EXPLORE — acceleration must create downstream work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 262 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
