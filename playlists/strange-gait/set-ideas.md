@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 115
+
+### Dissolution can give redirection a reason
+
+**Direction:** Explore a breakdown whose internal endpoint is clear enough that the following rhythmic redirection answers a defined condition, rather than treating instability itself as development.
+
+**Ingredients:**
+
+- Sciahri — Moonwake — canonical provisional intensification
+- Demdike Stare — Fulledge (Empty-40 Mix) — exact Run 115 canonical ADD; documented fake-outs, time-signature flips and noise dissolution
+- Nørbak — Capa — canonical provisional rhythmic redirection
+- Autechre — T ess xi — exact placement-specific reject whose evasive-beat construction remains a useful counterexample
+
+**Why interesting:** A conspicuous disruption can advance a long-form passage when its ending changes what the next track is asked to do. The idea is causal, not a requirement that every set contain a fracture stage.
+
+**Unknown / risk:** Exact pairwise phrase fit, perceived pulse, BPM, density, energy, key, mixability and live edges remain untested. T ess xi is not asserted to mix with the canonical ingredients.
+
 ## Current additions — Run 114
 
 ### Internal motion is not long-form movement

@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 115 — EXPLORE — dissolution can give redirection a reason
+
+Nine ranked leads from approximately 46 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: eight exact Spotify resolutions, one unresolved identity, three selected candidates, five unevaluated alternates, six packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 1 ADD and 2 placement-specific REJECT. Demdike Stare — *Fulledge (Empty-40 Mix)* enters between *Moonwake* and *Capa*: its documented fake-outs, time-signature flips and noise dissolution give the following redirection a defined condition to answer. Autechre — *T ess xi* is rejected only between *Capa* and *Never Met*, where 6:43 of rhythmic evasion creates two consecutive motion statements before the current reset. Laurel Halo with Klein — *Jelly* is rejected only between *Never Met* and *Trompe L'oeil*, where another self-contained populated groove weakens the newly established transit-to-reset relation.
+
+STRANGE GAIT increases from 26 to 27 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 221 to 224 tracks with all three selected exact candidates. vekoS, Moontalk, Time Loop at Hot Slit, pendulu hv moda and foldfree casual remain resolved unevaluated alternates and are not added globally.
+
+Across Runs 87–115: 260 leads from approximately 1,309 inspections and 12 ADDs from 76 selected candidates. Recent ADD rate: 3/10 across Runs 106–115; overall repaired comparison: 13/82 across Runs 55–115. Run 115 ends the one-run no-ADD streak since Run 113; three exact interesting tracks entered the utility layer during that interval.
+
+**Strongest counterargument:** *Fulledge* may over-articulate a central run already containing redirection, transit and reset. The opposing exact evidence is causal: its defined dissolution gives *Capa* a specific condition to answer before the following transit.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 114 — EXPLORE — internal motion is not long-form movement
 
 Nine ranked leads from approximately 48 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, one release-date warning and no duplicates, substitutions, relinkings or technical failures.

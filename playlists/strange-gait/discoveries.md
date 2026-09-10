@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 115 — EXPLORE — dissolution can give redirection a reason — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 26 unique canonical tracks with a current 26-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 221 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 114's one-run no-ADD result remained ordinary candidate-specific saturation rather than a process defect.
+
+### Exploration receipt
+
+Run `2026-09-10T02:09:38Z-explore-115` inspected approximately 46 named tracks across a September 4, 2026 current-track survey and linked emerging releases, Laurel Halo's adjacent 2017 voice/percussion work, and overlooked 2013–2016 Demdike Stare/Autechre club-facing catalogue. Runs 109–114 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (19.6%).
+
+The immutable schemaVersion 2 request was pinned to `3410dd06a95096fc737aaa7eb75e70afd7e01987` in request commit `20e21373bc7172e462fdb5dcd7cbe0c750ffb6f1`. The matching snapshot commit is `953422e5c52b94e320ac8707250b5c4e0957a58b`; request fingerprint `b85516771b2eb531d53e8f736dd062c5df27891d32fdb8a7609faeb384c1f069`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 8 resolved, 3 selected candidates, 5 resolved alternates, 1 unresolved and 6 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Demdike Stare — Fulledge (Empty-40 Mix) — `spotify:track:2azFGCXgxFGmyHYCvzVw4R` — 5:29
+2. Autechre — T ess xi — `spotify:track:5uPKvA8BTy8RIGimph8Yus` — 6:43
+3. Laurel Halo, Klein — Jelly — `spotify:track:6eUuZV30tZI0T0YAp7igI0` — 4:56
+
+Resolved but unevaluated alternates:
+
+- Autechre — vekoS — `spotify:track:2ZOzdv2om6HeY1Ul9xGxFd`
+- Laurel Halo — Moontalk — `spotify:track:7rz91T0Ivb87li7ilz3i62`
+- PISS — Time Loop at Hot Slit — `spotify:track:6c8pSAIdGhJhYipnjY2dQb`
+- Autechre — pendulu hv moda — `spotify:track:1ATyBVeI8ZtfMdiTIgd5ET`
+- Autechre — foldfree casual — `spotify:track:1tSd7jxvsXxPg5lbUZcutN`
+
+Unresolved without musical verdict:
+
+- Silvan Strauss — That’s Who?!? (Fast Barista): `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- Fulledge (Empty-40 Mix): `Exact title/artist matched with release metadata variance: release date requested "2016-11-25" but Spotify returned "2016-12-02"`
+- T ess xi: `Exact title/artist matched with release metadata variance: release date requested "2013-02-05" but Spotify returned "2013-03-04"`
+- vekoS: `Exact title/artist matched with release metadata variance: release date requested "2013-02-05" but Spotify returned "2013-03-04"`
+- Time Loop at Hot Slit: `Exact title/artist matched with release metadata variance: album requested "You Made Me / Skin on Linen" but Spotify returned "time loop at hot slit"; release date requested "2026-10" but Spotify returned "2026-09-02"`
+- pendulu hv moda: `Exact title/artist matched with release metadata variance: album requested "elseq 2" but Spotify returned "elseq 1"; release date requested "2016-05-19" but Spotify returned "2016-05-20"`
+- foldfree casual: `Exact title/artist matched with release metadata variance: album requested "elseq 3" but Spotify returned "elseq 4"; release date requested "2016-05-19" but Spotify returned "2016-05-20"`
+
+### Candidate evaluations
+
+#### Demdike Stare — Fulledge (Empty-40 Mix) — ADD
+
+- **Volume fit:** PASS. Pitchfork documents fake-out beats, hiccups, stumbles and time-signature flips ending in a noise dissolution. This is exact structural evidence relevant to the selection lens; unfamiliarity or technical ingenuity is not the verdict.
+- **Immediate transition:** PASS provisionally at `Moonwake → candidate → Capa`. The exact entry, exit, phrasing, perceived pulse, density and both handoffs remain UNKNOWN, as does BPM. The deliberate transition-scale purpose is still concrete: the candidate's completed metric breakdown gives Capa's redirection a specific condition to answer.
+- **Three-to-five-track run:** PASS provisionally. `Too Much Time → Moonwake → Fulledge (Empty-40 Mix) → Capa → Never Met` moves from widening and intensification through a defined fake-out/dissolution episode, then re-grounding/redirection and transit. The actions are distinct and consequential rather than a demand that every track share one room.
+- **Long-form journey:** PASS provisionally. The 5:29 insertion establishes a substantial first-half breakdown after a long physical run, distinct from the opening's concise derailment and the later simultaneous conflict before Tehutis Law. It does not touch protected state.
+- **Verdict:** **ADD** between Moonwake and Capa. Provisional; audio and live mixing remain untested.
+
+#### Autechre — T ess xi — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents several simple beats teasing and shifting around one another to avoid an obvious groove.
+- **Immediate transition:** UNKNOWN at `Capa → candidate → Never Met`; BPM, perceived pulse, phrasing, density and both handoffs remain unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Moonwake → Capa → T ess xi → Never Met → Trompe L'oeil` would spend 6:43 on rhythmic evasion between redirection and an already defined transit, producing two consecutive motion statements before the reset.
+- **Long-form journey:** FAIL for the tested placement. The candidate's internal evasiveness is compelling, but here it delays the Capa-to-transit-to-reset consequence without creating a changed exit or recovery.
+- **Verdict:** placement-specific REJECT between Capa and Never Met only. This is not a global rejection.
+
+#### Laurel Halo, Klein — Jelly — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents an oozing techno-adjacent bassline interrupted by acoustic percussion and cowbell beneath fragmented voices.
+- **Immediate transition:** UNKNOWN at `Never Met → candidate → Trompe L'oeil`; BPM, perceived pulse, phrasing, density and both handoffs remain unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Capa → Never Met → Jelly → Trompe L'oeil → Thick to Handle` inserts another populated, self-contained groove state between the newly established transit and the reset it currently makes consequential.
+- **Long-form journey:** FAIL for the tested placement. The different production world is welcome, but the insertion weakens the direct transit-to-reset relation without demonstrating a stronger journey consequence.
+- **Verdict:** placement-specific REJECT between Never Met and Trompe L'oeil only. This is not a global rejection.
+
+The unresolved Silvan Strauss lead receives no musical verdict. The five resolved alternates were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED — 1 ADD, 2 PLACEMENT-SPECIFIC REJECT.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. Fulledge (Empty-40 Mix) passes because its defined dissolution changes what Capa is asked to do; the two rejects fail only their tested placements through redundant motion or by weakening the newly established transit/reset relation. All six packaging/date warnings and the exact unresolved error are preserved.
+
+Auditor approves local retention of the three selected exact tracks, the unresolved Silvan Strauss research lead, source watches and the set direction **dissolution can give redirection a reason**. All three selected exact tracks must enter the doctrine-free global utility ledger; unresolved and unevaluated alternate identities must not.
+
+### Durable result
+
+- STRANGE GAIT increases **26 → 27 canonical tracks**; add Demdike Stare — Fulledge (Empty-40 Mix) after Moonwake and before Capa; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, one unresolved identity, five unevaluated alternates and the source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **221 → 224 exact tracks** with Fulledge (Empty-40 Mix), T ess xi and Jelly.
+- Journey-map annotations add Fulledge (Empty-40 Mix) as a provisional fake-out-to-dissolution hinge; generated outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 9 leads → 8 exact resolutions + 1 unresolved → 3 selected evaluations + 5 unevaluated alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **19.6%**, exact-resolution conversion **88.9%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–115, the repaired funnel has produced **260 leads from approximately 1,309 inspections and 12 ADDs from 76 selected candidates**. The recent ADD rate is **3/10 across Runs 106–115**, versus **13/82 across Runs 55–115**. Run 115 ends the one-run no-ADD streak since Run 113; three exact interesting tracks entered the utility layer during that interval. The strongest counterargument is that Fulledge over-articulates a central run already containing Capa's redirection, Never Met's transit and Trompe L'oeil's reset. The opposing evidence is causal rather than taxonomic: its exact ending in dissolution gives Capa a defined condition to answer before the following transit. This run does not prove either handoff, BPM/pulse continuity, phrase compatibility, density, live mixability or playlist completion.
+
 ## Run 114 — EXPLORE — internal motion is not long-form movement — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 26 unique canonical tracks with a current 26-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 218 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 113's ADD left no specific REPAIR target.

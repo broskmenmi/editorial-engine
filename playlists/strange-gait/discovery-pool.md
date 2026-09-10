@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 115 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Demdike Stare | Fulledge (Empty-40 Mix) | https://open.spotify.com/track/2azFGCXgxFGmyHYCvzVw4R | Canonical ADD between Moonwake and Capa. The exact 5:29 fake-out, time-signature-flip and noise-dissolution construction is retained; release-date variance preserved. |
+| EXACT TRACK | Autechre | T ess xi | https://open.spotify.com/track/5uPKvA8BTy8RIGimph8Yus | Placement-specific REJECT only for Capa → candidate → Never Met. The exact 6:43 mutually evasive beat construction remains genuinely interesting; release-date variance preserved. |
+| EXACT TRACK | Laurel Halo, Klein | Jelly | https://open.spotify.com/track/6eUuZV30tZI0T0YAp7igI0 | Placement-specific REJECT only for Never Met → candidate → Trompe L'oeil. The exact 4:56 bass/acoustic-percussion interruption remains genuinely interesting. |
+| RESEARCH LEAD | Silvan Strauss | That’s Who?!? (Fast Barista) | https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks | Resolver returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| CURRENT WATCH | Silvan Strauss / PISS | Sprinting / current Sub Pop material | https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks | September 4, 2026 live-drumming and noise-punk left-turn window; the selected current lead remained unresolved and PISS resolved only as an unevaluated alternate. |
+| ADJACENT WATCH | Laurel Halo / Hyperdub | Dust | https://pitchfork.com/reviews/albums/laurel-halo-dust | Voice, bass and acoustic-percussion catalogue window; Jelly was selected, while Moontalk remains an exact unevaluated alternate. |
+| CATALOGUE WATCH | Demdike Stare / Autechre | Wonderland / Exai / elseq 1–5 | https://pitchfork.com/reviews/albums/22649-wonderland | Fake-out club structures, evasive beats and spatial instability; five exact unselected Autechre/Laurel/PISS alternates remain unevaluated. |
+
+### Placement and inspiration boundaries
+
+- Fulledge (Empty-40 Mix) is canonical only between Moonwake and Capa; exact handoffs, BPM and live mix remain untested.
+- T ess xi and Jelly are rejected only for their Run 115 placements, not globally.
+- The unresolved Silvan Strauss identity has no musical verdict and does not enter the global utility ledger.
+- vekoS, Moontalk, Time Loop at Hot Slit, pendulu hv moda and foldfree casual are exact but unevaluated alternates, not retained editorial decisions or utility additions.
+- Set direction: **dissolution can give redirection a reason**. These records are not a proven live sequence or mixing prescription.
+
 ## Run 114 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
