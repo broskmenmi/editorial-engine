@@ -1,95 +1,94 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-10T10:52:15Z-explore-124",
+  "runId": "2026-09-10T11:52:00Z-explore-125",
   "mode": "EXPLORE",
-  "sourceCommit": "ce1c5988ac0e12b005994ec0e302681cbfbd1125",
+  "sourceCommit": "cc64b566ac951401884353ba37734a60fadcd3f4",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 123's no-ADD structural-turn audit, spanning current releases, adjacent/emerging rhythm worlds and overlooked UK-bass/percussion catalogue",
-    "purpose": "Test whether tempo duality, ambient percussion, ritual collage, stationary propulsion, changing swing or adjacent-world transformation gives the following track new work rather than restating an existing instability, transit, recovery or afterword.",
-    "position": "Whole 30-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat all placements as provisional and candidate-specific; do not reopen untriggered PARKED identities."
+    "role": "fresh whole-journey contender discovery after Run 124's canonical ADD, spanning current releases, adjacent/emerging song and club worlds, and overlooked broken-techno/bass catalogue",
+    "purpose": "Test whether blurred song-form, layered rhythmic complexity, digital malfunction, two-speed motion, continuous high-speed roll or adjacent dub mutation gives the following track new work rather than merely adding another event.",
+    "position": "Whole 31-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat all placements as provisional and candidate-specific; do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-10T10:52:15Z",
-    "approximateInspectedScope": "Approximately 49 named tracks, releases and source entries across Pitchfork's September 10, 2026 Argento review, April 10 Los Thuthanaka review, 2025 Nikki Nair review, and overlooked Azu Tiwaline, Lanark Artefax, Forest Drive West and Pugilist catalogue; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T11:52:00Z",
+    "approximateInspectedScope": "Approximately 52 named tracks, releases and source entries across September 10 Black Bananas, September 2 Djrum DJ-Kicks, August 14 Guardian emerging-track coverage, Djrum's 2024 Meaning's Edge and Andrea's 2020 Ritorno; attributed criticism and release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT: Pitchfork's September 10, 2026 Miraggi review supplied a current organic-percussion and adjacent-world window. https://pitchfork.com/reviews/albums/argento-miraggi/",
-      "CURRENT / ADJACENT: Pitchfork's April 10, 2026 Wak'a review supplied a current Aymara rhythm, sample and temporal-editing window. https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/",
-      "ADJACENT: Pitchfork's July 1, 2025 Violence Is the Answer review supplied a mutant two-step exact-track lead without treating genre mashup as sufficient for admission. https://pitchfork.com/reviews/albums/nikki-nair-violence-is-the-answer-ep/",
-      "OVERLOOKED CATALOGUE: Pitchfork's 2021 Draw Me a Silence review supplied exact percussion-to-ambient and metallic-qraqeb leads. https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence/",
-      "OVERLOOKED CATALOGUE: Pitchfork's Lanark Artefax track review and Forest Drive West/Pugilist Blue review supplied exact stationary-propulsion, changing-swing and tempo-duality leads. https://pitchfork.com/reviews/tracks/18465-lanark-artefax-glasz/ https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/",
-      "FRESHNESS CHECK: exact repository searches found no prior durable decision for the nine requested identities; Runs 118–123 selected ecosystems were excluded."
+      "CURRENT: Pitchfork's September 10, 2026 Bad Bunch review supplied exact blurred-song, dub-mutation and cacophony descriptions. https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
+      "CURRENT: Pitchfork's September 2, 2026 Djrum DJ-Kicks announcement and September 8 Selects entry supplied a current mix-born original and live-vinyl/editing context. https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist",
+      "ADJACENT / EMERGING: The Guardian's August 14, 2026 survey supplied Heavensouls' exact ten-minute digital-malfunction/IDM lead. https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
+      "OVERLOOKED CATALOGUE: Pitchfork's Meaning's Edge and Ritorno reviews supplied exact multi-plane breakbeat, two-speed techno, perpetual-roll, jungle-mutation and drum-and-bass/broken-techno leads. https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/ https://pitchfork.com/reviews/albums/andrea-ritorno/",
+      "FRESHNESS CHECK: exact repository searches found no prior durable decision for the nine requested identities; Runs 118–124 selected ecosystems and all prior unresolved identities without new evidence were excluded."
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Runs 118–123 selected ecosystems were not retried. Recently inspected Bitchin Bajas, Nueen, Arca, Brendon Moeller, Sotomayor, Shinichi Atobe and Chevel identities were explicitly excluded.",
-      "Current material supported only by atmosphere, prestige, novelty or release-level genre language did not displace stronger structural leads.",
+      "Runs 118–124 selected ecosystems were not retried: RP Boo, Slikback, DJ Haram, Peder Mannerfelt, Proc Fiskal, Kode9, Hodge, Carmen Villain, Nochi, Rose Holland, Yu Su, Vanishing Twin, Arca, Brendon Moeller, Pugilist and Azu Tiwaline.",
+      "Recent Black Bananas and Djrum material supported only by listing or broad reputation did not outrank exact-track descriptions; Psychic Video remains lower-ranked because its evidence is release-level.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Pugilist — Encrypted",
-      "2. Azu Tiwaline — Eyes of the Wind",
-      "3. Los Thuthanaka — Ay Kawkinpachasa? (capo-kullawada)",
-      "4. Lanark Artefax — Glasz",
-      "5. Pugilist — Descendant",
-      "6. Forest Drive West — Other",
-      "7. Nikki Nair, yunè pinku — Somebody",
-      "8. Azu Tiwaline — Berbeka",
-      "9. Argento — Mare Arcaico"
+      "1. Djrum — Codex",
+      "2. Black Bananas — Nutrageous & Jam",
+      "3. Andrea — TrackQY",
+      "4. Heavensouls — Dawn of the City",
+      "5. Djrum — Frekm pt. 2",
+      "6. Black Bananas — Dust of Ages",
+      "7. Andrea — Drumzzy",
+      "8. Djrum — Psychic Video",
+      "9. Djrum — Crawl"
     ]
   },
   "leads": [
     {
-      "artist": "Pugilist",
-      "track": "Encrypted",
-      "album": "Blue 06",
-      "releaseDate": "2019",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": 160,
-      "bpmSource": "https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/",
-      "discoverySource": "https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/",
-      "fitHypothesis": "Pitchfork describes a new cadence that toys with a 160-BPM drum'n'bass pulse while dub's dragging anchor slows the perceived tempo toward a crawl.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Pugilist — Encrypted on Blue 06, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a new cadence that toys with a 160-BPM drum'n'bass pulse while dub's dragging anchor slows the perceived tempo toward a crawl.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether this explicit tempo duality between Too Much Time and Moonwake turns widening into intensification, or merely inserts another temporal proposition.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Too Much Time and Moonwake",
-          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": 140,
-          "outgoingBpm": 140,
-          "candidateBpm": 160,
-          "purpose": "Test whether this explicit tempo duality between Too Much Time and Moonwake turns widening into intensification, or merely inserts another temporal proposition."
-        }
-      ]
-    },
-    {
-      "artist": "Azu Tiwaline",
-      "track": "Eyes of the Wind",
-      "album": "Draw Me a Silence",
-      "releaseDate": "2021",
+      "artist": "Djrum",
+      "track": "Codex",
+      "album": "Meaning's Edge",
+      "releaseDate": "2024",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence/",
-      "fitHypothesis": "Pitchfork describes a mostly ambient closing passage that cradles brief languid hand drumming inside shimmering drone and bleep, framing it as passage to another world.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
+      "fitHypothesis": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Azu Tiwaline — Eyes of the Wind on Draw Me a Silence, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Djrum — Codex on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a mostly ambient closing passage that cradles brief languid hand drumming inside shimmering drone and bleep, framing it as passage to another world.",
+        "attributedDescription": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether an ambient-percussion prologue before Stadium Drive gives the transformation-led opener a stronger point of departure, or creates an unnecessary first overture.",
+        "editorialInterpretation": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": 138,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization."
+        }
+      ]
+    },
+    {
+      "artist": "Black Bananas",
+      "track": "Nutrageous & Jam",
+      "album": "Bad Bunch",
+      "releaseDate": "2026-09-10",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
+      "fitHypothesis": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Black Bananas — Nutrageous & Jam on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
@@ -100,62 +99,29 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether an ambient-percussion prologue before Stadium Drive gives the transformation-led opener a stronger point of departure, or creates an unnecessary first overture."
+          "purpose": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder."
         }
       ]
     },
     {
-      "artist": "Los Thuthanaka",
-      "track": "Ay Kawkinpachasa? (capo-kullawada)",
-      "album": "Wak'a",
-      "releaseDate": "2026",
+      "artist": "Andrea",
+      "track": "TrackQY",
+      "album": "Ritorno",
+      "releaseDate": "2020",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/",
-      "fitHypothesis": "Pitchfork describes the track within a three-part Aymara work that uses beats, radio samples and instrumental editing to enact temporal and stylistic rupture and reintegration.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+      "fitHypothesis": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Los Thuthanaka — Ay Kawkinpachasa? (capo-kullawada) on Wak'a, requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Andrea — TrackQY on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes the track within a three-part Aymara work that uses beats, radio samples and instrumental editing to enact temporal and stylistic rupture and reintegration.",
+        "attributedDescription": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a current rhythm/collage world between Ikoyi and Amor changes Amor's mutation task, or adds another transformation before groove consolidation.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether a current rhythm/collage world between Ikoyi and Amor changes Amor's mutation task, or adds another transformation before groove consolidation."
-        }
-      ]
-    },
-    {
-      "artist": "Lanark Artefax",
-      "track": "Glasz",
-      "album": "Glasz",
-      "releaseDate": "2016",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/tracks/18465-lanark-artefax-glasz/",
-      "fitHypothesis": "Pitchfork describes forceful snares, hi-hats and depth-charge kicks circling in place, with a looping motif and tightening delay building toward a climax that never arrives.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Lanark Artefax — Glasz on Glasz, requested release metadata 2016; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes forceful snares, hi-hats and depth-charge kicks circling in place, with a looping motif and tightening delay building toward a climax that never arrives.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether stationary propulsion between Tehutis Law and Pulse I creates useful held tension before crooked accumulation, or postpones it without new consequence.",
+        "editorialInterpretation": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
@@ -166,172 +132,205 @@
           "incomingBpm": 139,
           "outgoingBpm": 136,
           "candidateBpm": null,
-          "purpose": "Test whether stationary propulsion between Tehutis Law and Pulse I creates useful held tension before crooked accumulation, or postpones it without new consequence."
+          "purpose": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition."
         }
       ]
     },
     {
-      "artist": "Pugilist",
-      "track": "Descendant",
-      "album": "Blue 06",
-      "releaseDate": "2019",
+      "artist": "Heavensouls",
+      "track": "Dawn of the City",
+      "album": "Dawn of the City",
+      "releaseDate": "2026-08-14",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/",
-      "fitHypothesis": "Pitchfork describes linear shapes with an almost Latin swing, periodically punctured by rushing breakbeat bursts, sustaining long-form development rather than an easy payoff.",
+      "discoverySource": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
+      "fitHypothesis": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Pugilist — Descendant on Blue 06, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Heavensouls — Dawn of the City on Dawn of the City, requested release metadata 2026-08-14; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes linear shapes with an almost Latin swing, periodically punctured by rushing breakbeat bursts, sustaining long-form development rather than an easy payoff.",
+        "attributedDescription": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether linear swing and intermittent breakbeat rupture between Abundance and Foundry deepens continuation before instability, or over-articulates that passage.",
+        "editorialInterpretation": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "incomingBpm": 135,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether linear swing and intermittent breakbeat rupture between Abundance and Foundry deepens continuation before instability, or over-articulates that passage."
-        }
-      ]
-    },
-    {
-      "artist": "Forest Drive West",
-      "track": "Other",
-      "album": "Blue 05",
-      "releaseDate": "2019",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/",
-      "fitHypothesis": "Pitchfork describes booming toms, a heavy syncopated groove, high-end motion and triplet figures inside linear drum programming while the surrounding atmosphere remains in flux.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Forest Drive West — Other on Blue 05, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes booming toms, a heavy syncopated groove, high-end motion and triplet figures inside linear drum programming while the surrounding atmosphere remains in flux.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether this linear-but-fluctuating continuation after Cave gives Abundance a changed swung-funk task, or merely explains the existing transition.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "outgoingBpm": 135,
-          "candidateBpm": null,
-          "purpose": "Test whether this linear-but-fluctuating continuation after Cave gives Abundance a changed swung-funk task, or merely explains the existing transition."
-        }
-      ]
-    },
-    {
-      "artist": "Nikki Nair, yunè pinku",
-      "track": "Somebody",
-      "album": "Violence Is the Answer",
-      "releaseDate": "2025",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/nikki-nair-violence-is-the-answer-ep/",
-      "fitHypothesis": "Pitchfork describes rich vocals cohering with a mutant two-step beat in a logic-defying fusion.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Nikki Nair, yunè pinku — Somebody on Violence Is the Answer, requested release metadata 2025; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes rich vocals cohering with a mutant two-step beat in a logic-defying fusion.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a vocal two-step side-world between Capa and Never Met makes the subsequent transit newly legible, or adds another mediation stage before Trompe L'oeil.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Never Met",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": 137,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether a vocal two-step side-world between Capa and Never Met makes the subsequent transit newly legible, or adds another mediation stage before Trompe L'oeil."
-        }
-      ]
-    },
-    {
-      "artist": "Azu Tiwaline",
-      "track": "Berbeka",
-      "album": "Draw Me a Silence",
-      "releaseDate": "2021",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence/",
-      "fitHypothesis": "Pitchfork describes metallic qraqeb splashing as the track's driving rhythmic material within an album centered on percussion and dub delay.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Azu Tiwaline — Berbeka on Draw Me a Silence, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes metallic qraqeb splashing as the track's driving rhythmic material within an album centered on percussion and dub delay.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether metallic hand-percussion after Amor changes Truth in Noise's consolidation task, or inserts a second percussion explanation.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Amor and Truth in Noise",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
           "incomingBpm": null,
-          "outgoingBpm": 138,
+          "outgoingBpm": 137,
           "candidateBpm": null,
-          "purpose": "Test whether metallic hand-percussion after Amor changes Truth in Noise's consolidation task, or inserts a second percussion explanation."
+          "purpose": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge."
         }
       ]
     },
     {
-      "artist": "Argento",
-      "track": "Mare Arcaico",
-      "album": "Miraggi",
-      "releaseDate": "2026",
+      "artist": "Djrum",
+      "track": "Frekm pt. 2",
+      "album": "Meaning's Edge",
+      "releaseDate": "2024",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/argento-miraggi/",
-      "fitHypothesis": "Pitchfork describes a brief current piece within an organic-percussion, flute, chime, synth and marimba Balearic/new-age world shaped by Italian library music.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
+      "fitHypothesis": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Argento — Mare Arcaico on Miraggi, requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Djrum — Frekm pt. 2 on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a brief current piece within an organic-percussion, flute, chime, synth and marimba Balearic/new-age world shaped by Italian library music.",
+        "attributedDescription": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a concise current organic-percussion side-world after Stardancer changes the electro-soul afterword's task, or creates another postscript before it.",
+        "editorialInterpretation": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "incomingBpm": 137,
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "incomingBpm": 138,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether a concise current organic-percussion side-world after Stardancer changes the electro-soul afterword's task, or creates another postscript before it."
+          "purpose": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict."
+        }
+      ]
+    },
+    {
+      "artist": "Black Bananas",
+      "track": "Dust of Ages",
+      "album": "Bad Bunch",
+      "releaseDate": "2026-09-10",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
+      "fitHypothesis": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Black Bananas — Dust of Ages on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": null,
+          "outgoingBpm": 143,
+          "candidateBpm": null,
+          "purpose": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it."
+        }
+      ]
+    },
+    {
+      "artist": "Andrea",
+      "track": "Drumzzy",
+      "album": "Ritorno",
+      "releaseDate": "2020",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
+      "fitHypothesis": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Andrea — Drumzzy on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between backsliding and Fragments",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation."
+        }
+      ]
+    },
+    {
+      "artist": "Djrum",
+      "track": "Psychic Video",
+      "album": "DJ-Kicks",
+      "releaseDate": "2026-09-02",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
+      "fitHypothesis": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Djrum — Psychic Video on DJ-Kicks, requested release metadata 2026-09-02; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint."
+        }
+      ]
+    },
+    {
+      "artist": "Djrum",
+      "track": "Crawl",
+      "album": "Meaning's Edge",
+      "releaseDate": "2024",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
+      "fitHypothesis": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Djrum — Crawl on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Fulledge (Empty-40 Mix)",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "incomingBpm": 140,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit."
         }
       ]
     }
