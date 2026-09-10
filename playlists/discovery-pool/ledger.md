@@ -261,10 +261,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 255 | Rrose | The Illuminating Glass | spotify:track:6dgcbYvjXEX4pVv5wSeiUb | STRANGE GAIT Run 126 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 256 | Ripatti | everyday | spotify:track:1Te0bwqNC5bCo4ARANJq21 | STRANGE GAIT Run 126 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 257 | Rrose | Joy of the Worm | spotify:track:1eYZCA67nhqTvUC2djr5H9 | STRANGE GAIT Run 126 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 258 | Beatrice Dillon, Kuljit Bhamra | Square Fifths | spotify:track:0Au26e7KWu9IqgkWpIP1Vn | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
+| 259 | Lechuga Zafiro | Oreja Ácida | spotify:track:723KTMA4xDVVeOaNoRU6zy | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
+| 260 | Beatrice Dillon | Basho | spotify:track:5sKMHfvZBvZAXWJLaoj5TI | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
-| 258 | Beatrice Dillon, Kuljit Bhamra | Square Fifths | spotify:track:0Au26e7KWu9IqgkWpIP1Vn | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
-| 259 | Lechuga Zafiro | Oreja Ácida | spotify:track:723KTMA4xDVVeOaNoRU6zy | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
-| 260 | Beatrice Dillon | Basho | spotify:track:5sKMHfvZBvZAXWJLaoj5TI | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
