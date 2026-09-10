@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 131 — EXPLORE — opposed speeds must create downstream work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 268 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-10T17:49:33Z-explore-131` inspected approximately 54 current, adjacent, emerging and overlooked-catalogue entries across Placid Angles, Nathan Fake, Flying Lotus and their collaborators. Persistent identities and recently selected ecosystems were excluded. Nine honest leads survived (16.7%). The immutable schemaVersion 2 request was pinned to `7a133506d6037d1c810671e1a4bcab18b646f025` in `3d8a7656ce378e81cb4d73180b6f6565ccd4ed22`. Matching snapshot: `25c441d2ad729168744ee511f1ebf6f3f8fd949c`; fingerprint `4a7084ff5c3258ce745ec6e9150a3a9f30b2df6891d04159f1c90cb5f675d020`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 4 resolved, 3 selected, 5 unresolved, 1 alternate, 4 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- John Beltran, Placid Angles, Tom VR — *Tides Alternate* — `spotify:track:1eWvrBLXd763F0nyrjOzBw` — *Canada*, 2026-02-13, 275500 ms.
+- Flying Lotus — *BROBOBASHER* — `spotify:track:1aMU637vj6dzOkphmZK5hQ` — *BIG MAMA*, 2026-03-06, 111102 ms.
+- Flying Lotus — *HORSE NUKE* — `spotify:track:0o2af5XRs8nb2RCPTuSsQf` — *BIG MAMA*, 2026-03-06, 155670 ms.
+
+Unresolved without musical verdict:
+
+- Placid Angles — *Wildfire*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6nuMagDC2BNpAWzUg1GYOY, 3RXJ6ZnpGaof2pYinUpg8s)`
+- Nathan Fake — *Bialystock*: `no exact Spotify title/artist search match in market SE`
+- Placid Angles — *I Want What I Want*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5hfkmxZw91AozPpqAQX7fU, 1g7dC3xN9jXMfQpEkcvkqo)`
+- Nathan Fake, Clark — *Orbiting Meadows*: `no exact Spotify title/artist search match in market SE`
+- Nathan Fake — *Hypercube*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (02ghfn0EsNDwJIqpIljQa5, 0hW8OSK81E2JdrJ5e51pjE, 7LiTjtEdIX3Gd70g6CtKp4)`
+
+Resolved alternate, unselected and unevaluated: Flying Lotus — *PINK DREAM* — `spotify:track:3CsaL2k1lLWC1Bz8k2LHJ9`.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-13"` — *Tides Alternate*.
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-03-06"` — separately for *Brobobasher*, *Horse Nuke* and *Pink Dream*.
+
+### Evaluations
+
+#### Tides Alternate — ADD
+
+- **Volume fit:** PASS. Attributed exact-track evidence establishes assertive breakbeat balanced by bass and synths slowing toward a somnambulant pace.
+- **Immediate transition:** After *Worn Down*, the opposed speeds remain open for *Too Much Time* to resolve; after *Capa*, they add another redirection before transit.
+- **Three-to-five-track run:** `Foundry → Worn Down → Tides Alternate → Too Much Time → Moonwake` gives widening a specific temporal split to answer. The candidate does not repeat *Crawl*'s later invariant-motion plateau.
+- **Long-form journey:** The 4:36 cost is proportionate and the different production world makes causal sense.
+- **Verdict:** ADD after *Worn Down*; reject only the tested *Capa → candidate → Never Met* alternative.
+
+#### BROBOBASHER — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Attributed evidence establishes an airy-synth/trap opening that brushes itself aside for jazz fusion, while the initial motion quickly fizzles.
+- **Immediate transition:** It adds a transit premise after *Capa* or interrupts the existing passage-to-afterword relation after *Eyes of the Wind*.
+- **Three-to-five-track run:** Both tests gain contrast but give the following track no new task.
+- **Long-form journey:** Brevity limits cost, but the miniature is an aside in both positions.
+- **Verdict:** REJECT only both tested placements; retain as interesting.
+
+#### HORSE NUKE — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Attributed evidence establishes drone tumbling into sub-bass booms and arpeggios pulling in directions that do not gel.
+- **Immediate transition:** It doubles derailment after *Encasadelciegoeltuerco* or conflict after *backsliding*.
+- **Three-to-five-track run:** Both tests delay an existing recovery/re-entry rather than change it.
+- **Long-form journey:** The 2:36 cost is small but the work is duplicated.
+- **Verdict:** REJECT only both tested placements; retain as interesting.
+
+BPM, perceived pulse, energy, density, space, phrasing, mixability and all exact handoffs remain unknown.
+
+### Auditor approval
+
+**APPROVED.** Request and snapshot match on runId, sourceCommit, mode, target and fingerprint. The accounting closes; every warning and exact unresolved outcome is preserved. Only selected exact identities were evaluated, separately at all four required scales. No metadata-only sonic claim entered a verdict. Protected state is untouched. Approve one provisional canonical ADD, two placement-specific rejections, local inspiration retention and three utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **32 → 33**, adding *Tides Alternate* after *Worn Down*; no other reorder.
+- Protected order remains `Transparency → When We Froze → Stardancer`.
+- EDITORIAL ENGINE — DISCOVERY POOL: **268 → 271**, adding all three selected exact tracks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 54 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Across Runs 87–131: **404 leads from approximately 2,139 inspections; 18 ADDs from 123 selected candidates**. Recent ADD rate: **4/10 across Runs 122–131**, versus **19/129 across Runs 55–131**. This ends the five-run no-ADD streak after Run 125; 14 exact interesting tracks were retained during it. The fresh fields, four-scale evaluations and admission of a different production world argue against Scout over-filtering or a universal veto. Playlist maturity remains the strongest competing explanation: both Flying Lotus candidates duplicate assigned work, while *Tides Alternate* passes because it changes *Too Much Time*'s task. This proves neither exact handoffs, phrase fit, live mixability nor completion. No actionable REPAIR emerges.
+
+
 ## Run 130 — EXPLORE — interruption must alter the following task — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 265 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.

@@ -1,5 +1,10 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 131 — EXPLORE — opposed speeds must create downstream work
+
+John Beltran, Placid Angles and Tom VR — *Tides Alternate* is added after *Worn Down*. Its documented breakbeat and slowed bass/synth balance leaves *Too Much Time* a temporal split to widen and resolve; the alternate placement after *Capa* adds another redirection before transit. Flying Lotus — *BROBOBASHER* and *HORSE NUKE* remain interesting but fail both tested placements by becoming an aside or duplicating conflict. The matching schemaVersion 2 snapshot is internally valid: four exact resolutions, three selected candidates, five unresolved identities, one alternate and four preserved warnings. BPM, perceived pulse, energy, density, space, phrasing, mixability and all handoffs remain unknown.
+
+
 ## Run 128 — EXPLORE — recovery must remain open for the next track
 
 No canonical track is added. Verraco — *0∞* passes STRANGE GAIT's selection lens but its two tested early placements are rejected. Pitchfork documents more than two minutes of bass withholding, a harsh breakdown and a late 4/4 return. Before *Encasadelciegoeltuerco*, that completed recovery is followed by another derailment; after it, the candidate's own late recovery leaves *Cave* to recover a second time. The exact 5:06 track remains genuinely interesting.

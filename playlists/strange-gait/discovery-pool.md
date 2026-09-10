@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 131 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | John Beltran, Placid Angles, Tom VR | Tides Alternate | https://open.spotify.com/track/1eWvrBLXd763F0nyrjOzBw | ADD after Worn Down; its opposed-speed balance gives Too Much Time a concrete split to resolve. Alternate central-transit placement rejected; date variance preserved. |
+| EXACT TRACK | Flying Lotus | BROBOBASHER | https://open.spotify.com/track/1aMU637vj6dzOkphmZK5hQ | Placement-specific REJECT only for both Run 131 positions; the short trap-to-jazz self-cancellation remains interesting. Date variance preserved. |
+| EXACT TRACK | Flying Lotus | HORSE NUKE | https://open.spotify.com/track/0o2af5XRs8nb2RCPTuSsQf | Placement-specific REJECT only for both Run 131 positions; the drone-to-directional-conflict turn remains interesting. Date variance preserved. |
+| UNRESOLVED | Placid Angles; Nathan Fake; Nathan Fake, Clark | Wildfire; Bialystock; I Want What I Want; Orbiting Meadows; Hypercube | https://pitchfork.com/reviews/albums/placid-angles-canada ; https://pitchfork.com/reviews/albums/nathan-fake-evaporator | Five exact ambiguity/no-match outcomes preserved in discoveries.md; no verdict or utility entry. |
+| RESOLVED ALTERNATE | Flying Lotus | PINK DREAM | spotify:track:3CsaL2k1lLWC1Bz8k2LHJ9 | Exact, unselected and unevaluated; no utility entry. |
+| RELEASE / CATALOGUE WATCH | Placid Angles; Nathan Fake; Flying Lotus | Canada; Evaporator; BIG MAMA | https://pitchfork.com/reviews/albums/placid-angles-canada ; https://pitchfork.com/reviews/albums/nathan-fake-evaporator ; https://pitchfork.com/reviews/albums/flying-lotus-big-mama | Opposed-speed, circular-expansion and miniature-collision fields remain useful research windows. |
+| PLACEMENT BOUNDARY | Placid Angles; Flying Lotus | Tides Alternate; BROBOBASHER; HORSE NUKE | See exact rows | One track passes one position; two fail only tested placements. Handoffs remain untested. |
+
+
 ## Run 130 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 131 — Opposed speeds must create downstream work
+
+**Direction:** Explore tracks that hold fast and slow materials in tension only where the exit gives the following formation a specific temporal problem to resolve.
+
+**Ingredients:**
+
+- *Tides Alternate* — exact ADD after *Worn Down*; alternate transit placement rejected.
+- Flying Lotus — *BROBOBASHER* / *HORSE NUKE* — exact placement-specific rejects, still useful outside the tested aside and duplicated-derailment positions.
+- *Wildfire*, *Bialystock*, *I Want What I Want*, *Orbiting Meadows*, *Hypercube* — unresolved exact-title leads without verdicts.
+- *PINK DREAM* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** Unlike rhythmic speeds can coexist without one correct form; their balance earns sequence space when the next track must transform it.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrasing, mixability and exact handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
+
 ## Run 130 — Interruption must alter the following task
 
 **Direction:** Explore full-stop fakeouts, spatial percussion fields and ambiguous speed worlds only where their exit changes what the following formation must accomplish.

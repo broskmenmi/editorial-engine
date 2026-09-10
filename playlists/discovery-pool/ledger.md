@@ -272,6 +272,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 266 | Daphni | Cherry | spotify:track:7qdthSAP02SdvLGisBEVtI | STRANGE GAIT Run 130 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 267 | Dolo Percussion | DOLO 14 | spotify:track:1QHCv7cczGNrt6LdP4lkfZ | STRANGE GAIT Run 130 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 268 | Dolo Percussion | DOLO 15 | spotify:track:2d6jzWTj1ZeV3A4YqY04XB | STRANGE GAIT Run 130 | PARKED / interesting | 2026-09-10 |
+| 269 | John Beltran, Placid Angles, Tom VR | Tides Alternate | spotify:track:1eWvrBLXd763F0nyrjOzBw | STRANGE GAIT Run 131 | ADD / interesting | 2026-09-10 |
+| 270 | Flying Lotus | BROBOBASHER | spotify:track:1aMU637vj6dzOkphmZK5hQ | STRANGE GAIT Run 131 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 271 | Flying Lotus | HORSE NUKE | spotify:track:0o2af5XRs8nb2RCPTuSsQf | STRANGE GAIT Run 131 | Placement-specific REJECT / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
