@@ -1,292 +1,127 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-09T23:49:06Z-explore-112",
+  "runId": "2026-09-10T00:50:06Z-explore-113",
   "mode": "EXPLORE",
-  "sourceCommit": "45df9937d86a765c8b0d53443d6a8433fc9eaea1",
+  "sourceCommit": "0e086bb4fa5395a347265eb5e02d792cae50559c",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 111's compact interruption scan, spanning a current live-derived dance album, emerging clipped-break/noise architecture and overlooked electro-acoustic catalogue without requiring one sonic room",
-    "purpose": "Test whether live-derived looseness, clipped rhythmic crisis and acoustic-digital transformation create transition-scale, local-run and long-form consequence rather than merely adding another event.",
+    "role": "fresh whole-journey contender discovery after Run 112's event-versus-threshold scan, spanning current cross-genre club construction, adjacent club-functional house and overlooked modular rhythm without requiring one sonic room",
+    "purpose": "Test whether abrupt descent, functional four-on-the-floor interruption and open-ended modular pulse create transition-scale, local-run and long-form consequence rather than merely adding spectacle, punctuation or delay.",
     "position": "Whole 25-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-09T23:49:06Z",
-    "approximateInspectedScope": "Approximately 49 named tracks across August 2026 current-release reviews and listings, an emerging February 2026 XL EP, linked current electronic surveys, and overlooked 2017 electro-acoustic catalogue; attributed criticism and official release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T00:50:06Z",
+    "approximateInspectedScope": "Approximately 51 named tracks across June and February 2026 dance-album reviews, September 2026 current listings and reviews, linked label/release pages, and overlooked 2020 modular-electronic catalogue; attributed criticism and official release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT: https://pitchfork.com/reviews/albums/overmono-pure-devotion and https://pitchfork.com/news/overmono-detail-new-album-pure-devotion — Overmono's August 7 album was inspected; Barum, Slowmotion and Ballad survive with exact-track structural descriptions.",
-      "ADJACENT / EMERGING: https://pitchfork.com/reviews/albums/kavari-plague-music and https://pitchfork.com/news/kavari-boldy-james-zora-jones-this-weeks-pitchfork-selects-playlist — KAVARI's February 2026 XL window was inspected; SCYTHE, SERPENT CHAMBER and PULSE survive with exact-track evidence for clipped, break-based and ritual-horror structures.",
-      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design — Sote's 2017 electro-acoustic record was inspected; Plural, Boghze Esfahan and Flux of Sorrow survive as distinct acoustic-digital transformations.",
-      "FRESHNESS CHECK: current canonical, rejected, revisit, local discovery and 212-track utility state contain no prior artist-title decision for the nine requested identities."
+      "CURRENT: https://pitchfork.com/reviews/albums/skrillex-soma and https://pitchfork.com/news/skrillex-drops-another-surprise-album — Skrillex's June 2026 SOMA was inspected; Smoke, Cheeni and Diwali survive with exact-track descriptions of descent, contrast and percussive vocal looseness.",
+      "ADJACENT / CLUB-FUNCTIONAL: https://pitchfork.com/reviews/albums/daphni-butterfly and https://pitchfork.com/news/daphni-announces-new-album-butterfly-shares-songs-listen — Daphni's February 2026 Butterfly was inspected; Waiting So Long, Napoleon's Rock and Goldie survive as exact tracks testing function, interruption and blunt weight rather than assumed weirdness.",
+      "OVERLOOKED CATALOGUE: https://pitchfork.com/reviews/albums/sam-prekop-comma and https://pitchfork.com/news/5-new-albums-you-should-listen-to-now-the-flaming-lips-conway-the-machine-lucrecia-dalt-and-more — Sam Prekop's 2020 Comma was inspected; September Remember and Never Met have exact-track descriptions, while Summer Places survives from the album's documented beat-programming and continuous-pulse context.",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, target-local discovery and 215-track utility state contain no prior artist-title decision for the nine requested identities."
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Runs 107–111 selected artist and label ecosystems were not retried; Overmono had appeared only as inspected background in an older scan, not as an exact candidate decision, and these three exact titles were absent from durable decision state.",
-      "Brendon Moeller's Control Mechanism was excluded because it is already PARKED and present in the utility ledger; lower-ranked tracks from all source records were excluded to keep nine honest leads.",
+      "Runs 108–112 selected artist and label ecosystems were not retried. September 8–9 listings dominated by already inspected Carmen Villain, Bitchin Bajas, Djrum and Miimii KDS material were excluded.",
+      "Daphni's review explicitly criticizes predictable function; that negative evidence is retained as part of the serious sequencing test rather than treated as automatic volume failure.",
       "No Spotify connector, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. KAVARI — SCYTHE",
-      "2. Sote — Plural",
-      "3. Overmono — Barum",
-      "4. KAVARI — SERPENT CHAMBER",
-      "5. Sote — Boghze Esfahan",
-      "6. Overmono — Slowmotion",
-      "7. KAVARI — PULSE",
-      "8. Sote — Flux of Sorrow",
-      "9. Overmono — Ballad"
+      "1. Skrillex, Nitepunk — Smoke",
+      "2. Daphni, Caribou — Waiting So Long",
+      "3. Sam Prekop — September Remember",
+      "4. Skrillex, Naisha — Cheeni",
+      "5. Daphni — Napoleon's Rock",
+      "6. Sam Prekop — Never Met",
+      "7. Skrillex, Naisha — Diwali",
+      "8. Daphni — Goldie",
+      "9. Sam Prekop — Summer Places"
     ]
   },
   "leads": [
     {
-      "artist": "KAVARI",
-      "track": "SCYTHE",
-      "album": "PLAGUE MUSIC EP",
+      "artist": "Skrillex, Nitepunk",
+      "track": "Smoke",
+      "album": "SOMA",
+      "releaseDate": "2026-06-05",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/skrillex-soma",
+      "fitHypothesis": "Pitchfork describes roaring bass beneath a wavering flute before the floor gives out and the track begins a fast descent between hard techno and brostep.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Skrillex, Nitepunk — Smoke on SOMA, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes roaring bass beneath a wavering flute before the floor gives out and the track begins a fast descent between hard techno and brostep.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether an abrupt descent after Worn Down turns threatened coherence into a necessary break before Too Much Time, or simply inserts another forceful event into an already sustained passage.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Worn Down and Too Much Time",
+          "precedingUri": "spotify:track:0BWA1yBD0G5FOsEWI0tPsK",
+          "followingUri": "spotify:track:0Gp8VqVcKdcz00q9sRlH5u",
+          "incomingBpm": 135,
+          "outgoingBpm": 142,
+          "candidateBpm": null,
+          "purpose": "Test whether an abrupt descent after Worn Down turns threatened coherence into a necessary break before Too Much Time, or simply inserts another forceful event into an already sustained passage."
+        }
+      ]
+    },
+    {
+      "artist": "Daphni, Caribou",
+      "track": "Waiting So Long",
+      "album": "Butterfly",
       "releaseDate": "2026-02-06",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
-      "fitHypothesis": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly",
+      "fitHypothesis": "Pitchfork describes a techno-leaning tempo built from four-on-the-floor, clean bass and a vocal sample introduced as an emotional hinge, then looped mostly unchanged.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies KAVARI — SCYTHE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Daphni, Caribou — Waiting So Long on Butterfly, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing escalate from timid to violent, creating a ritual-horror tableau.",
+        "attributedDescription": "Pitchfork describes a techno-leaning tempo built from four-on-the-floor, clean bass and a vocal sample introduced as an emotional hinge, then looped mostly unchanged.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether a conspicuously conventional bodily frame after LOVE YOUR ENEMIES gives Tehutis Law a defined re-grounding task, or performs that re-grounding too early and makes the following move redundant.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Between Truth in Noise and Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "outgoingBpm": 143,
-          "candidateBpm": null,
-          "purpose": "Test whether a radical foreground thinning after Truth in Noise can create a purposeful threshold into Transparency without disturbing the protected trio, or reopen instability immediately before closure."
-        }
-      ]
-    },
-    {
-      "artist": "Sote",
-      "track": "Plural",
-      "album": "Sacred Horror in Design",
-      "releaseDate": "2017",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
-      "fitHypothesis": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Sote — Plural on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes galloping setar being fed into a whirling vortex of rising pitches; played rhythms spark intricate algorithmic patterns.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Ikoyi",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "incomingBpm": 138,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether acoustic-digital acceleration after Drummz can make Ikoyi's later loss of foreground feel like a genuine release, or merely add another complication before it."
-        }
-      ]
-    },
-    {
-      "artist": "Overmono",
-      "track": "Barum",
-      "album": "Pure Devotion",
-      "releaseDate": "2026-08-07",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
-      "fitHypothesis": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Overmono — Barum on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork identifies a roving synth line whose deft turns recall Peverelist's Roll With the Punches within a record intentionally moving away from strict build-and-release structures.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Trompe L'oeil",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": 137,
-          "outgoingBpm": 130,
-          "candidateBpm": null,
-          "purpose": "Test whether lateral synth motion can make the move from Capa into Trompe L'oeil feel like a deliberate widening of possibility, or add a decorative detour without consequence."
-        }
-      ]
-    },
-    {
-      "artist": "KAVARI",
-      "track": "SERPENT CHAMBER",
-      "album": "PLAGUE MUSIC EP",
-      "releaseDate": "2026-02-06",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
-      "fitHypothesis": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies KAVARI — SERPENT CHAMBER on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes close-miked spoken darkness followed by a multi-vehicle-pile-up drop, with anxiety lingering in the closing static hiss.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Roxellana and Fragments",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:2zQbHLmu5RCJAUxFwXvqDE",
           "incomingBpm": null,
-          "outgoingBpm": 140,
+          "outgoingBpm": 132,
           "candidateBpm": null,
-          "purpose": "Test whether a self-contained catastrophic event after Roxellana makes Fragments' recovery more necessary, or turns one surge-to-recovery movement into two summits."
+          "purpose": "Test whether a conspicuously conventional bodily frame after LOVE YOUR ENEMIES gives Tehutis Law a defined re-grounding task, or performs that re-grounding too early and makes the following move redundant."
         }
       ]
     },
     {
-      "artist": "Sote",
-      "track": "Boghze Esfahan",
-      "album": "Sacred Horror in Design",
-      "releaseDate": "2017",
+      "artist": "Sam Prekop",
+      "track": "September Remember",
+      "album": "Comma",
+      "releaseDate": "2020-09-11",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
-      "fitHypothesis": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/sam-prekop-comma",
+      "fitHypothesis": "Pitchfork describes a gentle drone and steady click bathed in dubby artificial reverb; the album's continuous pulse is explicitly not a dance beat, and its forms remain open-ended.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Sote — Boghze Esfahan on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Sam Prekop — September Remember on Comma, requested release metadata 2020-09-11; exact Spotify identity, duration and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes quiet acoustic figures quickly morphing into buzzing bell tones, icy clinks and wheezing, toggling familiar physical material into a digital funhouse.",
+        "attributedDescription": "Pitchfork describes a gentle drone and steady click bathed in dubby artificial reverb; the album's continuous pulse is explicitly not a dance beat, and its forms remain open-ended.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether an acoustic-to-digital mutation after Ikoyi gives Amor a new reassembly task, or inserts another complete transformation inside an already legible dissolution-and-return passage."
-        }
-      ]
-    },
-    {
-      "artist": "Overmono",
-      "track": "Slowmotion",
-      "album": "Pure Devotion",
-      "releaseDate": "2026-08-07",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
-      "fitHypothesis": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Overmono — Slowmotion on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork says the beat builds like a church drummer settling into a groove, within an album deliberately loosening quantized and strict build-release forms.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "outgoingBpm": 135,
-          "candidateBpm": null,
-          "purpose": "Test whether gradual groove formation between Cave and Abundance gives the early recovery a stronger direction, or delays Abundance with another preparatory stage."
-        }
-      ]
-    },
-    {
-      "artist": "KAVARI",
-      "track": "PULSE",
-      "album": "PLAGUE MUSIC EP",
-      "releaseDate": "2026-02-06",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/kavari-plague-music",
-      "fitHypothesis": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies KAVARI — PULSE on PLAGUE MUSIC EP, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork identifies clipped sub-bass crunch and time-stretched breakbeat crackle carved into intricate detail rather than undifferentiated harsh noise.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Encasadelciegoeltuerco and Cave",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "outgoingBpm": 134,
-          "candidateBpm": null,
-          "purpose": "Test whether clipped break detail after Encasadelciegoeltuerco changes how Cave restores broader motion, or simply extends the existing opening derailment."
-        }
-      ]
-    },
-    {
-      "artist": "Sote",
-      "track": "Flux of Sorrow",
-      "album": "Sacred Horror in Design",
-      "releaseDate": "2017",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design",
-      "fitHypothesis": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Sote — Flux of Sorrow on Sacred Horror in Design, requested release metadata 2017; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes plucked and struck strings moving through vast reverb while the arrangement toggles between physical resistance and a digital space where straight lines melt.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether an open-ended click-and-drone prehistory makes Stadium Drive's later formation newly consequential, or creates another complete preface before Marauder supplies the first anchor.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
@@ -296,40 +131,205 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether a conspicuous electro-acoustic prehistory makes Stadium Drive's formation newly consequential, or creates a second complete opening before Marauder anchors the journey."
+          "purpose": "Test whether an open-ended click-and-drone prehistory makes Stadium Drive's later formation newly consequential, or creates another complete preface before Marauder supplies the first anchor."
         }
       ]
     },
     {
-      "artist": "Overmono",
-      "track": "Ballad",
-      "album": "Pure Devotion",
-      "releaseDate": "2026-08-07",
+      "artist": "Skrillex, Naisha",
+      "track": "Cheeni",
+      "album": "SOMA",
+      "releaseDate": "2026-06-05",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/overmono-pure-devotion",
-      "fitHypothesis": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/skrillex-soma",
+      "fitHypothesis": "Pitchfork describes misty IDM and ethereal vocal loops arriving as the opening album chaos fades quietly, a sharply contrasting engineered interval.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Overmono — Ballad on Pure Devotion, requested release metadata 2026-08-07; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Skrillex, Naisha — Cheeni on SOMA, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a loose, bouncy beat and conversational vocal swirl functioning as renewed bodily invitation inside a softer-focus dance record.",
+        "attributedDescription": "Pitchfork describes misty IDM and ethereal vocal loops arriving as the opening album chaos fades quietly, a sharply contrasting engineered interval.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close.",
-        "craftConvention": "Credible attributed exact-track evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether a concise contrasting interval after Roxellana makes Fragments' recovery newly legible, or delays an already clear surge-to-recovery movement.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between Roxellana and Fragments",
+          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test whether a concise contrasting interval after Roxellana makes Fragments' recovery newly legible, or delays an already clear surge-to-recovery movement."
+        }
+      ]
+    },
+    {
+      "artist": "Daphni",
+      "track": "Napoleon's Rock",
+      "album": "Butterfly",
+      "releaseDate": "2026-02-06",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly",
+      "fitHypothesis": "Pitchfork identifies a sub-minute jazz interlude that interrupts four-on-the-floor continuity but does not recalibrate the album's mood or act as a pivot.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Daphni — Napoleon's Rock on Butterfly, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork identifies a sub-minute jazz interlude that interrupts four-on-the-floor continuity but does not recalibrate the album's mood or act as a pivot.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a deliberately non-transformative punctuation after Truth in Noise can sharpen the approach to Transparency, or merely delay the protected close without changing it.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Truth in Noise and Transparency",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": 138,
+          "outgoingBpm": 143,
+          "candidateBpm": null,
+          "purpose": "Test whether a deliberately non-transformative punctuation after Truth in Noise can sharpen the approach to Transparency, or merely delay the protected close without changing it."
+        }
+      ]
+    },
+    {
+      "artist": "Sam Prekop",
+      "track": "Never Met",
+      "album": "Comma",
+      "releaseDate": "2020-09-11",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/sam-prekop-comma",
+      "fitHypothesis": "Pitchfork describes an acid-inflected synth pattern appearing at a distance, drawing near, brushing past and proceeding elsewhere within an open-ended modular field.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Sam Prekop — Never Met on Comma, requested release metadata 2020-09-11; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes an acid-inflected synth pattern appearing at a distance, drawing near, brushing past and proceeding elsewhere within an open-ended modular field.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a passing rather than arriving foreground between Capa and Trompe L'oeil makes the subsequent redirection feel chosen, or adds lateral motion without consequence.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Trompe L'oeil",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
           "incomingBpm": 137,
+          "outgoingBpm": 130,
+          "candidateBpm": null,
+          "purpose": "Test whether a passing rather than arriving foreground between Capa and Trompe L'oeil makes the subsequent redirection feel chosen, or adds lateral motion without consequence."
+        }
+      ]
+    },
+    {
+      "artist": "Skrillex, Naisha",
+      "track": "Diwali",
+      "album": "SOMA",
+      "releaseDate": "2026-06-05",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/skrillex-soma",
+      "fitHypothesis": "Pitchfork describes a percussive club rhythm under Hindi rap, vocal exclamations and laughter left deliberately loose rather than edited into polish.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Skrillex, Naisha — Diwali on SOMA, requested release metadata 2026-06-05; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a percussive club rhythm under Hindi rap, vocal exclamations and laughter left deliberately loose rather than edited into polish.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether unpolished vocal looseness after Encasadelciegoeltuerco changes how Cave restores broader motion, or extends the opening's existing interruption with another comic event.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "candidateBpm": null,
+          "purpose": "Test whether unpolished vocal looseness after Encasadelciegoeltuerco changes how Cave restores broader motion, or extends the opening's existing interruption with another comic event."
+        }
+      ]
+    },
+    {
+      "artist": "Daphni",
+      "track": "Goldie",
+      "album": "Butterfly",
+      "releaseDate": "2026-02-06",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly",
+      "fitHypothesis": "Pitchfork characterizes Goldie through metallic, blunt weight inside an album of sub-heavy four-on-the-floor with acid, dub and jazz details.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Daphni — Goldie on Butterfly, requested release metadata 2026-02-06; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork characterizes Goldie through metallic, blunt weight inside an album of sub-heavy four-on-the-floor with acid, dub and jazz details.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether blunt weight between Moonwake and Capa makes the later redirection consequential, or extends a forceful section without altering the journey.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Capa",
+          "precedingUri": "spotify:track:4XAU7sUWCxraP65ApRehiO",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": 137,
+          "outgoingBpm": 137,
+          "candidateBpm": null,
+          "purpose": "Test whether blunt weight between Moonwake and Capa makes the later redirection consequential, or extends a forceful section without altering the journey."
+        }
+      ]
+    },
+    {
+      "artist": "Sam Prekop",
+      "track": "Summer Places",
+      "album": "Comma",
+      "releaseDate": "2020-09-11",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/sam-prekop-comma",
+      "fitHypothesis": "Pitchfork's release coverage identifies Summer Places as a pre-release exact track from a record centered on beat programming, continuous pulse and modular forms that approach songs without verse-chorus structure.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Sam Prekop — Summer Places on Comma, requested release metadata 2020-09-11; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork's release coverage identifies Summer Places as a pre-release exact track from a record centered on beat programming, continuous pulse and modular forms that approach songs without verse-chorus structure.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a modular pulse stage between Ikoyi and Amor makes bodily reassembly more necessary, or adds another open-ended interval inside an already legible dissolution-and-return passage.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether a loose bodily return after Stardancer gives Invisible Warriors Of Light a distinct afterword function, or adds a second ending gesture after the protected close."
+          "purpose": "Test whether a modular pulse stage between Ikoyi and Amor makes bodily reassembly more necessary, or adds another open-ended interval inside an already legible dissolution-and-return passage."
         }
       ]
     }
