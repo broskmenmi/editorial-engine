@@ -28,15 +28,18 @@
 | 22 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
 | 23 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
 | 24 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 25 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 26 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 27 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 28 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 25 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
+| 26 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 27 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 28 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 29 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 
 ## Current state
 
-**ACTIVE EXPANSION — 28 canonical tracks.**
+**ACTIVE EXPANSION — 29 canonical tracks.**
+
+EXPLORE run `2026-09-10T04:50:27Z-explore-118` adds RP Boo — U Belong 2 Me between Inspired Groove — Truth in Noise and Linear System — Transparency. Pitchfork documents a bouncing four-on-the-floor opening whose bass drum disappears halfway through, admitting a funereal melody while two vocal samples combine into a darker refrain. Editorially, `Amor → Truth in Noise → U Belong 2 Me → Transparency → When We Froze` now moves from machine-to-hand-drum mutation and consolidation through a defined bodily-to-funereal collapse, then into the protected closing block. The 3:00 insertion gives Transparency a specific re-entry condition without splitting or reordering the listener-protected trio. Exact entry, exit, BPM, phrase structure, perceived pulse, density, scalar energy and both handoffs remain unknown.
 
 EXPLORE run `2026-09-10T03:49:15Z-explore-117` adds aya — backsliding between Shoal — Roxellana and CHANCEKNOT — Fragments. Pitchfork documents a sub-heavy rhythm dissolving into backmasked streaks of icy dissonance. Editorially, `Pulse I → Roxellana → backsliding → Fragments → Drummz` now moves from crooked accumulation and directed surge through a defined rhythm-to-dissonance collapse, then re-enters driving and unpredictable rhythmic motion. The 3:06 insertion creates a later collapse-and-return event distinct from Fulledge's earlier dissolution-to-redirection relation. Exact entry, exit, BPM, phrase structure, perceived pulse, density, scalar energy and both handoffs remain unknown. The listener-protected `Transparency → When We Froze → Stardancer` order remains intact.
 
@@ -72,7 +75,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All twenty-four individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
+All twenty-nine individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -88,7 +91,7 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`— → 136 → 136 → — → 134 → 135 → — → 140 → 140 → 137 → 130 → 138 → 139 → 136* → — → 140 → 138 → — → — → 138 → 143† → 140 → 137 → — BPM`
+`— → 136 → 136 → — → 134 → 135 → — → 140 → 140 → — → 137 → — → 130 → 138 → — → 139 → 136* → — → — → 140 → 138 → — → — → 138 → — → 143† → 140 → 137 → — BPM`
 
 `— Stadium Drive, Encasadelciegoeltuerco, Worn Down, Roxellana, Ikoyi, Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 

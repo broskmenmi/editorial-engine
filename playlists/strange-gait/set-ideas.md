@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 118 — Collapse can prepare protected closure
+
+**Direction:** Explore late-set forms that begin from a familiar bodily frame and deliberately remove it, so the following stable frame arrives as consequence rather than merely continuation.
+
+**Ingredients:**
+
+- Inspired Groove — *Truth in Noise* — canonical provisional groove consolidation.
+- RP Boo — *U Belong 2 Me* — exact Run 118 canonical ADD; bouncing four-on-the-floor gives way to a bass-drum withdrawal and funereal melody.
+- Linear System — *Transparency* — canonical listener-block opener; its incoming handoff remains provisional while the following two internal handoffs remain protected.
+- RP Boo — *Earth's Battle Dance* — exact PARKED track; drum-machine withdrawal remains interesting when a future source or changed need can establish its endpoint.
+- Slikback — *GEMINI* — exact placement-specific reject; perceptual acceleration remains interesting outside the tested Capa-to-transit passage.
+- PPP, Nídia and RP Boo — four unresolved exact-title research leads.
+
+**Why interesting:** A final transformation can earn its place when it removes a defined rhythmic frame and makes the next formation necessary. A vivid flip or middle withdrawal is not enough when its exit or downstream task remains unclear.
+
+**Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. No listed pairing beyond the canonical ledger is asserted to be a proven sequence or live edge.
+
+
 ## Run 117 — Dissolution can create re-entry
 
 **Direction:** Explore collapse-and-return forms where the ending of one track gives the following rhythm a specific re-formation task, while resisting consecutive derailments that merely restate instability.

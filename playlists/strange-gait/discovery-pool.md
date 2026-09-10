@@ -1,5 +1,27 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 118 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | RP Boo | Earth's Battle Dance | https://open.spotify.com/track/4w4ppVFXwvmey0JorGI3gX | PARKED. The exact 3:14 drum-machine-withdrawal construction remains genuinely interesting; its documented middle does not establish the exit required for the tested Worn Down → candidate → Too Much Time placement. |
+| EXACT TRACK | RP Boo | U Belong 2 Me | https://open.spotify.com/track/4gmfU2GXNxmyiEKidTcj3Y | Canonical ADD between Truth in Noise and Transparency. The exact 3:00 four-on-the-floor-to-funereal collapse is retained as a provisional pre-closing threshold. |
+| EXACT TRACK | Slikback | GEMINI | https://open.spotify.com/track/75xXEQDoyU7WVTCBhZJQNn | Placement-specific REJECT only for Capa → candidate → Never Met. The exact 2:18 slow-to-rolling-footwork flip remains genuinely interesting outside the tested stacked-motion passage; packaging/date variance preserved. |
+| RESEARCH LEADS | PPP; Nídia | Wisco; Nunun; Hard | https://pitchfork.com/reviews/tracks/ppp-piezo-dj-plead-dj-python-wisco and https://pitchfork.com/reviews/albums/nidia-st-ep | All three exact titles remained ambiguous in Spotify market SE; exact candidate IDs and errors are preserved in Run 118 discoveries, with no musical verdict or utility entry. |
+| RESEARCH LEAD | RP Boo | Flight 1235 (feat. Phil & Crossfire) | https://pitchfork.com/reviews/albums/rp-boo-ill-tell-you-what | Returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Slikback; Flying Lotus | Acid; ANTELOPE ONIGIRI | https://open.spotify.com/track/1mnphMlpgM9sSe7oJBZB0S and https://open.spotify.com/track/0ojEeHjnGMrmlSJl9RGjrd | Exact but unselected and unevaluated; not retained as editorial decisions and not added to the utility ledger. |
+| CURRENT WATCH | PPP / Wisdom Teeth; Flying Lotus / Brainfeeder | Bborn Again / BIG MAMA | https://pitchfork.com/reviews/tracks/ppp-piezo-dj-plead-dj-python-wisco | Current 2026 minimal-club and miniature-form window; only selected exact identities received verdicts. |
+| ADJACENT WATCH | Nídia / Príncipe; Slikback / Hakuna Kulala | S/T / Lasakaneku / Tomo | https://pitchfork.com/reviews/albums/nidia-st-ep | Polyrhythmic shape-change and tempo-perception catalogue; unresolved or unevaluated identities retain those boundaries. |
+| CATALOGUE WATCH | RP Boo / Planet Mu | I'll Tell You What! | https://pitchfork.com/reviews/albums/rp-boo-ill-tell-you-what | Overlooked footwork-reduction catalogue; exact claims remain attached only to cited tracks. |
+
+### Placement and inspiration boundaries
+
+- U Belong 2 Me is canonical only between Truth in Noise and Transparency; exact handoffs, BPM and live mix remain untested.
+- Earth's Battle Dance remains PARKED; GEMINI is rejected only for its Run 118 placement, not globally.
+- The four unresolved identities have no musical verdict. The two resolved alternates were not evaluated. Neither group enters the global utility ledger.
+- Set direction: **collapse can prepare protected closure when the following frame must return**. These records are not a proven live sequence or mixing prescription.
+
+
 ## Run 117 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

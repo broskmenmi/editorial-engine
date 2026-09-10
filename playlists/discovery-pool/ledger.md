@@ -234,6 +234,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 228 | aya | dis yacky | spotify:track:360YoQPwwFeDSv4HUGqQFd | STRANGE GAIT Run 117 | Placement-specific reject / interesting | 2026-09-10 |
 | 229 | aya | backsliding | spotify:track:7nPQD8wXUbAEaxGoLJxcWd | STRANGE GAIT Run 117 | Canonical ADD / retained | 2026-09-10 |
 | 230 | Speaker Music | A Genre Study of Black Male Death and Dying | spotify:track:13szCFBxzIIiczI9gkt8IS | STRANGE GAIT Run 117 | Placement-specific reject / interesting | 2026-09-10 |
+| 231 | RP Boo | Earth's Battle Dance | spotify:track:4w4ppVFXwvmey0JorGI3gX | STRANGE GAIT Run 118 | PARKED / interesting | 2026-09-10 |
+| 232 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | STRANGE GAIT Run 118 | Canonical ADD / retained | 2026-09-10 |
+| 233 | Slikback | GEMINI | spotify:track:75xXEQDoyU7WVTCBhZJQNn | STRANGE GAIT Run 118 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 118 — EXPLORE — collapse can prepare protected closure
+
+Nine ranked leads from approximately 54 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, two packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 1 ADD, 1 PARKED and 1 placement-specific REJECT. RP Boo — *U Belong 2 Me* enters between *Truth in Noise* and *Transparency*: its documented bouncing four-on-the-floor frame loses its bass drum and ends in a funereal melodic state, giving the protected closing block a defined re-entry condition. RP Boo — *Earth's Battle Dance* is PARKED because its documented drum-machine withdrawal occurs in the middle while the exit required for the Worn Down → candidate → Too Much Time placement remains unknown. Slikback — *GEMINI* is rejected only between *Capa* and *Never Met*, where its slow-to-footwork flip stacks another motion statement before the established transit/reset relation.
+
+STRANGE GAIT increases from 28 to 29 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 230 to 233 tracks with all three selected exact candidates. The four unresolved identities retain their exact ambiguity/no-match errors and receive no musical verdict; *Acid* and *ANTELOPE ONIGIRI* remain exact unevaluated alternates.
+
+Across Runs 87–118: 287 leads from approximately 1,461 inspections and 14 ADDs from 85 selected candidates. Recent ADD rate: 5/10 across Runs 109–118; overall repaired comparison: 15/91 across Runs 55–118. The no-ADD streak remains zero after consecutive additions in Runs 117 and 118; three exact interesting tracks entered the utility layer since the previous ADD.
+
+**Strongest counterargument:** *U Belong 2 Me* may make the pre-closing boundary overly theatrical after *Truth in Noise*. It passes because the exact source establishes a completed bodily-to-funereal transformation whose endpoint gives *Transparency* a specific re-entry condition without touching either protected internal handoff.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
+
 ## Run 117 — EXPLORE — dissolution can create re-entry
 
 Nine ranked leads from approximately 50 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates, no resolved alternates, no warnings and no duplicates, substitutions, relinkings or technical failures.

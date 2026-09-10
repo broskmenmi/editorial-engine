@@ -1,5 +1,88 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 118 — EXPLORE — collapse can prepare protected closure — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 28 unique canonical tracks with a current 28-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 230 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T04:50:27Z-explore-118` inspected approximately 54 named tracks, releases and current-source entries across September 7–10, 2026 coverage, a 2026 PPP/DJ Plead collaboration, adjacent Príncipe and Hakuna Kulala catalogues, and overlooked 2018 Chicago footwork. Runs 112–117 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (16.7%).
+
+The immutable schemaVersion 2 request was pinned to `af2cfd576eb6af6d7a97bb64ac1e2fc8bfe9ebf0` in request commit `bddbfb082d4f174d39101504d95c9eea4ef893a2`. The matching snapshot commit is `3aba221c9d2987c7f063d399caf6844102dbef90`; request fingerprint `b9cf4d6e58ea997664df92c32f4c7860707ae75d6f0aebf36f9339f374040767`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 5 resolved, 3 selected candidates, 2 resolved alternates, 4 unresolved and 2 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. RP Boo — Earth's Battle Dance — `spotify:track:4w4ppVFXwvmey0JorGI3gX` — 3:14
+2. RP Boo — U Belong 2 Me — `spotify:track:4gmfU2GXNxmyiEKidTcj3Y` — 3:00
+3. Slikback — GEMINI — `spotify:track:75xXEQDoyU7WVTCBhZJQNn` — 2:18
+
+Unresolved without musical verdict:
+
+- PPP — Wisco: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1sSuiIarFUaLo7X3UZkOh3, 1P1ZQqzrNf4TcNK7MKjWzT)`
+- Nídia — Nunun: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0yddeQiVKrfMAE4uJsmxQk, 4lybkKaZGGMPu1C9Duk20g)`
+- Nídia — Hard: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7qcQU2WoOZSijkzt2s8CIj, 4aOCykNZyVBtWAKAVFMdmw)`
+- RP Boo — Flight 1235 (feat. Phil & Crossfire): `no exact Spotify title/artist search match in market SE`
+
+Resolved but unevaluated alternates:
+
+- Slikback — Acid — `spotify:track:1mnphMlpgM9sSe7oJBZB0S`
+- Flying Lotus — ANTELOPE ONIGIRI — `spotify:track:0ojEeHjnGMrmlSJl9RGjrd`
+
+Warnings preserved exactly:
+
+- Slikback — GEMINI: `Exact title/artist matched with release metadata variance: album requested "Lasakaneku / Tomo" but Spotify returned "Tomo"; release date requested "2019" but Spotify returned "2019-02-01"`
+- Slikback — Acid: `Exact title/artist matched with release metadata variance: album requested "Lasakaneku / Tomo" but Spotify returned "Lasakaneku"; release date requested "2019" but Spotify returned "2018-06-29"`
+
+### Candidate evaluations
+
+#### RP Boo — Earth's Battle Dance — PARKED
+
+- **Volume fit:** PASS. Pitchfork documents footwork reduced until a lengthy middle section loses its drum machines, leaving a funk break, clipped vocal samples and bass throb to imply the form.
+- **Immediate transition:** At `Worn Down → candidate → Too Much Time`, withdrawal could turn threatened coherence into a useful reorientation. The source does not establish whether the drum machine returns or how the exact track exits, so the candidate's handoff into Too Much Time cannot be chosen responsibly from the available evidence.
+- **Three-to-five-track run:** `Abundance → Worn Down → Earth's Battle Dance → Too Much Time → Moonwake` could create a contraction before renewed physical widening, but that reading depends on an undocumented endpoint. A secondary test after Capa would instead stack another frame-withdrawal mechanism before Never Met's established transit.
+- **Long-form journey:** The track's internal subtraction belongs to the selection lens, but the current evidence cannot distinguish a consequential contraction from a self-contained middle detour.
+- **Verdict:** PARKED for materially richer exact-track endpoint/connective evidence or a changed structural need. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN.
+
+#### RP Boo — U Belong 2 Me — ADD
+
+- **Volume fit:** PASS. Pitchfork documents a bouncing four-on-the-floor opening whose bass drum disappears halfway through, admitting a funereal melody while two vocal samples combine into a darker refrain.
+- **Immediate transition:** `Truth in Noise → candidate → Transparency` passes provisionally. The candidate begins from an explicit bodily frame after groove consolidation, then removes that frame before the unprotected entrance to Transparency. Exact entry, exit and mix execution remain UNKNOWN.
+- **Three-to-five-track run:** `Amor → Truth in Noise → U Belong 2 Me → Transparency → When We Froze` now moves from machine-to-hand-drum mutation and consolidation through a complete bodily-to-funereal collapse, then into the protected closing block.
+- **Long-form journey:** The concise 3:00 insertion creates one late threshold without splitting or reordering the listener-protected trio. Unlike prior pre-closing rejects that reopened unresolved crisis, this track has a documented endpoint that makes the following return to a stable frame consequential.
+- **Verdict:** ADD between Truth in Noise and Transparency. The placement is provisional; BPM, phrase structure, perceived pulse, density, energy, both exact handoffs and live mixability remain UNKNOWN.
+
+#### Slikback — GEMINI — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents drawn-out digital gurgles turning into a rolling footwork rhythm, with perceived tempo flipping inside the track.
+- **Immediate transition:** At `Capa → candidate → Never Met`, the internal acceleration could be a deliberate hard turn, but it gives Never Met another motion state to follow rather than a distinct condition to cross.
+- **Three-to-five-track run:** `Fulledge → Capa → GEMINI → Never Met → Trompe L'oeil` accumulates dissolution, redirection, acceleration and transit before the existing reset. The production-world change is welcome; the local-run redundancy is the failure.
+- **Long-form journey:** The insertion adds a vivid perceptual flip without changing what Never Met or Trompe L'oeil must accomplish.
+- **Verdict:** REJECT only the tested placement. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN. Spotify packaging/date variance is preserved.
+
+### Auditor approval
+
+**APPROVED.** The request is immutable and pinned to the live pre-request SHA; the matching PARTIAL snapshot has the same runId, sourceCommit, mode, target and exploration receipt. All four unresolved identities, two resolved alternates, two warnings and exact resolver errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, local-run and long-form scales. The Earth's Battle Dance PARK names a decision-critical endpoint uncertainty and records a secondary placement test; UNKNOWN is not treated as contrary evidence. No energy, density, space, hypnosis, phrase fit or mixability was inferred from metadata. The protected `Transparency → When We Froze → Stardancer` order remains untouched. Auditor approves the U Belong 2 Me ADD, one PARKED revisit, one placement-specific REJECT, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **28 → 29 canonical tracks**; add RP Boo — U Belong 2 Me after Inspired Groove — Truth in Noise and before Linear System — Transparency; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; four unresolved research leads and current/adjacent/catalogue watches retained without invented identity or verdict; two resolved alternates remain unevaluated and are not utility additions.
+- EDITORIAL ENGINE — DISCOVERY POOL: **230 → 233 exact tracks**, adding all three selected exact tracks.
+- Journey-map annotations: add U Belong 2 Me as a provisional four-on-the-floor-to-funereal threshold; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 54 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 unevaluated alternates → **1 ADD + 1 PARKED + 1 placement-specific REJECT** → 3 utility additions. Across Runs 87–118: 287 leads from approximately 1,461 inspections and 14 ADDs from 85 selected candidates. Recent ADD rate: 5/10 across Runs 109–118; overall repaired comparison: 15/91 across Runs 55–118. Run 118 follows a canonical ADD in Run 117, so the no-ADD streak remains zero; three exact interesting tracks entered the utility layer since that previous ADD, including the new ADD.
+
+**Strongest counterargument:** U Belong 2 Me may make the pre-closing boundary overly theatrical after Truth in Noise already consolidates the late journey. It passes because the documented change is not an unresolved rupture: a familiar bodily frame is explicitly removed and replaced by a funereal endpoint, giving Transparency a specific re-entry condition while leaving both protected internal handoffs intact.
+
+This run proves that an overlooked catalogue form can improve a saturated boundary when its endpoint changes the following task. It does not prove either handoff, live compatibility, the globally best placement for Earth's Battle Dance or GEMINI, or that the playlist is complete. No actionable REPAIR emerges.
+
+
 ## Run 117 — EXPLORE — dissolution can create re-entry — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 27 unique canonical tracks with a current 27-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 227 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
