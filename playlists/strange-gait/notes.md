@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 134 — EXPLORE — pulse illusion needs an exit route
+
+Angine de Poitrine — *Sarniezz* is added between *Capa* and *Never Met*. Pitchfork documents a stable 6/8 frame whose melody spans four bars while the drumming alternates swung time and traditional 4/4 pounding. The production-world turn into live microtonal guitar and drums is conspicuous; it passes because *Never Met* becomes a concrete exit from the exposed metric puzzle into foreground transit before *Trompe L'oeil* resets the electronic sequence.
+
+*Yor Zarad* and Aïsha Devi — *Lick Your Wounds* pass the selection lens but fail both tested placements: the former completes another scale change before an existing recovery or re-entry, while the latter stacks a separate tension state around the early derailment without changing *Cave*'s task.
+
+The resolver required two bounded retries after transient failures at the search step; the third attempt succeeded. The final matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: six exact resolutions, three selected candidates, three ambiguous identities, three exact alternates and six preserved metadata warnings. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all tested handoffs remain unknown.
+
 ## Run 132 — EXPLORE — preparation must not become a second plateau
 
 No canonical track is added. Maymind — *From the Rooftop We Could See the Skyline*, *No Headlights, One Glove* and *Loneliness and a Kick Drum* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested positions are rejected. The first two materially lengthen the already sustained `Tides Alternate → Too Much Time → Moonwake → Crawl → Fulledge` passage without changing its rupture; the third begins the orientation problem already assigned to *Foundry*, weakening *Worn Down*'s response.

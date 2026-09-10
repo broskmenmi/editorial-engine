@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 134 — Pulse illusion needs an exit route
+
+**Direction:** Use conspicuous rhythmic-world changes when the next track provides a credible route onward, not when the candidate completes another recovery before an existing one.
+
+**Ingredients:**
+
+- Angine de Poitrine — *Sarniezz* — exact ADD between *Capa* and *Never Met*; repeated 6/8, swung and 4/4 reinterpretation creates the left turn.
+- Angine de Poitrine — *Yor Zarad* — exact placement-specific reject; halftime transformation remains useful outside the two duplicated-recovery positions.
+- Aïsha Devi — *Lick Your Wounds* — exact placement-specific reject; restrained kick puncture remains useful outside the two stacked-tension positions.
+- Aïsha Devi — *Dimensional Spleen* and Jana Rush — *Mynd Fuc* / *Disturbed* — unresolved ambiguous identities without verdicts.
+- *Disorientation*, *Utzp* and *Azoth Eyes* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A hard production-world turn can remain part of one journey when its internal rhythmic proposition is legible and the following track carries the sequence somewhere new.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every new handoff remain unknown. This is a set direction, not a proven live-mixing edge.
+
 ## Run 132 — Preparation must not become a second plateau
 
 **Direction:** Explore gradual strain, stable rolls and modest wrong-footing where they clarify a later rupture or response, without placing two extended preparation states before the same consequence.

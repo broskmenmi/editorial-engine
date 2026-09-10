@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 134 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Angine de Poitrine | Sarniezz | https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt | ADD between Capa and Never Met; the alternate late placement is rejected. Album-wording variance preserved. |
+| EXACT TRACK | Angine de Poitrine | Yor Zarad | https://open.spotify.com/track/0THaoqWjE4cyOMZALznzq9 | Placement-specific REJECT only for both Run 134 positions; pulse-locked halftime transformation remains interesting. Album-wording variance preserved. |
+| EXACT TRACK | Aïsha Devi | Lick Your Wounds | https://open.spotify.com/track/5CQzjL3npqCGRvUbxge5X6 | Placement-specific REJECT only for both Run 134 positions; restrained kick puncture remains interesting. Release-date variance preserved. |
+| UNRESOLVED | Aïsha Devi; Jana Rush | Dimensional Spleen; Mynd Fuc; Disturbed | See discoveries.md exact errors | Three ambiguous exact-title outcomes remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATES | Jana Rush; Angine de Poitrine; Aïsha Devi | Disorientation; Utzp; Azoth Eyes | spotify:track:6qBa7xlFSj4VrGB8tT2hUJ ; spotify:track:19MAOZLmfFnZZVMdGraCEQ ; spotify:track:0ZBXZ2m1TUqSZ18BVtnkyE | Exact, unselected and unevaluated; no utility entry. Warnings preserved in discoveries.md. |
+| RELEASE / CATALOGUE WATCH | Angine de Poitrine; Aïsha Devi; Jana Rush | Vol. II; Death Is Home; Painful Enlightenment | https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii ; https://pitchfork.com/reviews/albums/aisha-devi-death-is-home ; https://pitchfork.com/reviews/albums/jana-rush-painful-enlightenment | Pulse illusion, adjacent-world club formation and broken-footwork temporal conflict remain useful research windows. |
+| PLACEMENT BOUNDARY | Run 134 selected set | Three exact tracks | See exact rows | One conspicuous left turn passes; two tracks fail only tested placements. Handoffs remain untested. |
+
 ## Run 132 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

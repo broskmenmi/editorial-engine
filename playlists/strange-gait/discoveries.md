@@ -1,5 +1,87 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 134 — EXPLORE — pulse illusion needs an exit route — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 33 unique canonical tracks with 33 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 274 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 133 remained resolver-inconclusive and supplied no musical verdict or reusable candidate snapshot.
+
+### Exploration receipt
+
+Run `2026-09-10T20:49:06Z-explore-134` inspected approximately 52 current, adjacent, emerging and overlooked-catalogue entries across September 10 Angine de Poitrine performance coverage, the current *Vol. II* catalogue, Aïsha Devi's experimental-club work and Jana Rush's Chicago footwork mutations. Persistent identities, Run 133's unresolved request and Runs 126–132 selected ecosystems were excluded. Nine honest leads survived (17.3%). The immutable schemaVersion 2 request was pinned to `dde8b475b280a9b9f193046e598e6bd23926f2ca` in `84ed0a27c4c64261cfc203193079d3956b63203d`. Matching snapshot commit: `136b5014153fd668c5612b9e3bdb391c7cc36574`; fingerprint `d9d2f87a0c903ca9db309dbaaa4326ea106ed8df801fd18ca246a78cb532c2b0`.
+
+The first two resolver attempts were `RESOLUTION_NOT_COMPLETED` at the Spotify search step and produced no snapshot. The same immutable request succeeded on the third bounded attempt. The exact transient response body was not exposed by the GitHub connector, so no unobserved error text is invented here.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 6 resolved, 3 selected, 3 unresolved, 3 alternates and 6 warnings; no duplicates, substitutions, relinkings or remaining technical failures.
+
+Selected exact identities:
+
+- Angine de Poitrine — *Sarniezz* — `spotify:track:6iDKiCR13L8Ba6bkK6cqqt` — *Vol.II*, 2026-04-03, 275599 ms.
+- Angine de Poitrine — *Yor Zarad* — `spotify:track:0THaoqWjE4cyOMZALznzq9` — *Vol.II*, 2026-04-03, 389529 ms.
+- Aïsha Devi — *Lick Your Wounds* — `spotify:track:5CQzjL3npqCGRvUbxge5X6` — *Death Is Home*, 2023-11-10, 240421 ms.
+
+Unresolved without musical verdict:
+
+- Aïsha Devi — *Dimensional Spleen*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7McFwOjJ34esRFSgFxWKb7, 6zKZZxDUgdGtRZ7d8tUlrc, 1aw9uSZ7c6lQpZB2QLAusJ, 65EMHfj9IrFFaLC2R7WDwI)`
+- Jana Rush — *Mynd Fuc*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7rS1KRhdSbdoRkAqSjoemJ, 5SiqF3vjYxUjwHTJdgZ8pk)`
+- Jana Rush — *Disturbed*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2RWt1fHbvRADs8Uj7SUHYw, 77olAKD0yc0nADhwD9xm5c)`
+
+Resolved alternates, unselected and unevaluated:
+
+- Jana Rush — *Disorientation* — `spotify:track:6qBa7xlFSj4VrGB8tT2hUJ`
+- Angine de Poitrine — *Utzp* — `spotify:track:19MAOZLmfFnZZVMdGraCEQ`
+- Aïsha Devi — *Azoth Eyes* — `spotify:track:0ZBXZ2m1TUqSZ18BVtnkyE`
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: album requested "Vol. II" but Spotify returned "Vol.II"` — separately for *Sarniezz*, *Yor Zarad* and *UTZP*.
+- `Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-11-10"` — separately for *Lick Your Wounds* and *Azoth Eyes*.
+- `Exact title/artist matched with release metadata variance: release date requested "2021" but Spotify returned "2021-08-13"` — *Disorientation*.
+
+### Evaluations
+
+#### Angine de Poitrine — Sarniezz — ADD / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a stable 6/8 frame whose four-bar melody and drumming alternate swung time with traditional 4/4 pounding. The music remains designed for bodily movement while refusing one unambiguous rhythmic reading.
+- **Immediate transition:** PASS provisionally at `Capa → Sarniezz → Never Met`. *Capa* already authorizes redirection; the candidate makes that rhythmic turn explicit and *Never Met* supplies a documented foreground-transit exit. The move is intentionally conspicuous, not claimed seamless.
+- **Three-to-five-track run:** PASS provisionally. `Fulledge (Empty-40 Mix) → Capa → Sarniezz → Never Met → Trompe L'oeil` moves from metric dissolution and redirection through an exposed pulse illusion, then into passing foreground and dubwise reset. The candidate gives *Never Met* a concrete job: returning the journey from a live-band metric puzzle toward the electronic continuum.
+- **Long-form journey:** PASS provisionally. At 4:36, this is the first strong live-band left turn in the canonical journey. It expands the production world while remaining tied to the volume's bodily rhythmic question and a credible onward route. Its alternate `Truth in Noise → candidate → U Belong 2 Me` placement fails because it adds another extended rhythmic proposition before the protected approach.
+- **Verdict:** **ADD** between *Capa* and *Never Met*. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain UNKNOWN.
+
+#### Angine de Poitrine — Yor Zarad — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a pulse-locked track that cuts its established time in half, a clear example of structural freedom within a stable meter.
+- **Immediate transition:** Both tested moves are conceptually legible but remain unverified in actual audio.
+- **Three-to-five-track run:** `The Witching Hour → Encasadelciegoeltuerco → Yor Zarad → Cave` places a complete scale change after derailment before *Cave* already restores broader motion. `Roxellana → backsliding → Yor Zarad → Fragments` similarly inserts another self-contained transformation before driving re-entry.
+- **Long-form journey:** The 6:29 cost makes the duplicated recovery/re-entry work material. The track changes form, but its endpoint does not give either following track a new task.
+- **Verdict:** placement-specific **REJECT** for both Run 134 positions; retain as interesting.
+
+#### Aïsha Devi — Lick Your Wounds — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents restrained tension punctured by squeaky synths and dry, piercing kicks, relevant to negative space and bodily interruption without relying on genre orthodoxy.
+- **Immediate transition:** Both early placements have an intelligible alien-texture contrast, but exact handoffs remain UNKNOWN.
+- **Three-to-five-track run:** Before *Encasadelciegoeltuerco*, the candidate stacks a separate restrained-tension stage before the existing triplet derailment. After it, the candidate inserts another complete sparse-puncture state before *Cave* restores broader motion.
+- **Long-form journey:** At 4:00, either position extends the opening's destabilization without altering its downstream consequence.
+- **Verdict:** placement-specific **REJECT** for both Run 134 positions; retain as interesting.
+
+### Auditor finding
+
+**APPROVED.** The matching snapshot is internally valid and the three selected exact identities were evaluated separately across volume fit, immediate transition, local run and long-form journey. The ADD treats the constitution as a selection lens and justifies a conspicuous production-world turn at all three sequencing scales. The two rejects are placement-specific. Protected handoffs remain untouched. Three unresolved identities, three unselected alternates, six warnings and the bounded retry history are preserved without stale-data inference.
+
+The three selected exact tracks are genuinely interesting and eligible for the doctrine-free global utility ledger. Audio analysis and live mixing were not tested.
+
+### Run result
+
+`~52 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → 1 ADD + 2 placement-specific REJECT → 3 utility additions`
+
+STRANGE GAIT grows **33 → 34** tracks. EDITORIAL ENGINE — DISCOVERY POOL grows **274 → 277** tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. Lead conversion is 17.3%, exact resolution 66.7%, and selected-candidate-to-ADD conversion 33.3%.
+
+Across Runs 87–134, the completed evaluation record becomes **422 leads from approximately 2,248 inspections; 19 ADDs from 129 selected candidates**. Run 133 remains excluded from completed-evaluation streak statistics because its resolution did not complete. The recent completed-run ADD rate is **4/10 across Runs 124–132 plus Run 134**, versus **20/135 across Runs 55–134**. The no-ADD streak resets to zero after Run 132's single completed no-ADD result.
+
+The strongest counterargument is that the live-band excursion could feel like a collector's novelty rather than a DJ's deliberate move. The opposing evidence is candidate-specific: *Sarniezz* remains pulse-locked, its internal reinterpretation directly serves the selection lens, and *Never Met* provides a documented exit before *Trompe L'oeil* resets. This does not prove either handoff, perceived flow, phrase fit, energy, density or live mixability. No actionable musical or workflow REPAIR emerges. **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
+---
+
 ## Run 132 — EXPLORE — preparation must not become a second plateau — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 33 unique canonical tracks with 33 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 271 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.

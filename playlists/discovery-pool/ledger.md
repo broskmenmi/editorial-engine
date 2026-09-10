@@ -278,6 +278,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 272 | Maymind | From the Rooftop We Could See the Skyline | spotify:track:6p86nbIvwQrMipun3vwYRD | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 273 | Maymind | No Headlights, One Glove | spotify:track:2M0lSAiayW4gXNJ3V0dj66 | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 274 | Maymind | Loneliness and a Kick Drum | spotify:track:6zffR05O47bJDRp1A1amrV | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 275 | Angine de Poitrine | Sarniezz | spotify:track:6iDKiCR13L8Ba6bkK6cqqt | STRANGE GAIT Run 134 | ADD / interesting | 2026-09-10 |
+| 276 | Angine de Poitrine | Yor Zarad | spotify:track:0THaoqWjE4cyOMZALznzq9 | STRANGE GAIT Run 134 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 277 | Aïsha Devi | Lick Your Wounds | spotify:track:5CQzjL3npqCGRvUbxge5X6 | STRANGE GAIT Run 134 | Placement-specific REJECT / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
