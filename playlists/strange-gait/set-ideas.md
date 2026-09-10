@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 126 — Motion-stasis must change the next track's work
+
+**Direction:** Explore motion that feels stationary, grids that disappear and loops that refuse development only where their exit changes the following formation's task.
+
+**Ingredients:**
+
+- Rrose — *The Illuminating Glass* — exact placement-specific reject; progressive quivering and beat disappearance remain useful outside the tested double-breakdown runs.
+- Ripatti — *everyday* — exact placement-specific reject; dense grid-erasing polyrhythm remains useful outside the tested stacked-conflict and delayed-re-entry positions.
+- Rrose — *Joy of the Worm* — exact placement-specific reject; rotor-like motion-without-travel remains useful outside the tested doubled-plateau positions.
+- Nondi_ — *For Bluetooth Speakers Only*, Ripatti — *movathat*, and Rrose — *Mine* / *Rib Cage* — exact resolved alternates, unselected and unevaluated.
+- Rrose — *Cephalon* — unresolved exact-title research lead; Nondi_ — *I Version Melody* remains the existing Run 85 PARKED identity rather than a new lead.
+
+**Why interesting:** Perceptual stasis and buried grids can create genuine tension, but another suspension only earns space when the next track resolves, redirects or reinterprets it.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. The 160-BPM footwork figure is source-attributed rather than resolver-measured audio. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 125 — Sustained motion can make rupture consequential
 
 **Direction:** Explore long, structurally continuous motion as an intentional plateau that gives a following dissolution, redirection or hard left turn a specific state to break.

@@ -1,5 +1,78 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 126 — EXPLORE — motion-stasis must change the next track's work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 254 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T12:49:08Z-explore-126` inspected approximately 50 named tracks, releases and source entries across Nondi_'s current 2026 album, Ripatti's footwork catalogue, Rrose's *Please Touch* and *Hymn to Moisture*, and the exact *Cephalon* track review. Runs 120–125 selected ecosystems and prior canonical, rejected, PARKED or utility-retained identities were intended to be excluded. Nine leads survived (18.0%).
+
+The immutable schemaVersion 2 request was pinned to `3f603d9670648f2c21a9f4b97c101c583bb0395e` in request commit `f647b0b6ceab909c225cf96d0d16c41a6eb3e40e`. The matching snapshot commit is `004abb4ee37598aa0614569c2f541f1812f75a9f`; request fingerprint `8292cd4be1f77c7d83fbb48f70bd8e7939a32a58735b3549fc65c37a16423df5`.
+
+### Resolver outcome
+
+The first resolver attempt produced no snapshot and is preserved as `RESOLUTION_NOT_COMPLETED`:
+
+`SpotifyApiError: Spotify /search?q=movathat+Ripatti&type=track&market=SE&limit=10 failed: 502 {"error":{"status":502,"message":"An unexpected error occurred. Please try again later."}}`
+
+The failure was transient. A retry of the same immutable request succeeded and produced an internally valid schemaVersion 2 snapshot: `resolutionStatus: PARTIAL`, 9 requested, 7 resolved, 3 selected candidates, 4 resolved alternates, 2 unresolved and 7 warnings. There were no substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+- Rrose — *The Illuminating Glass* — `spotify:track:6dgcbYvjXEX4pVv5wSeiUb` — *Please Touch*, 2023-06-23, 528439 ms.
+- Ripatti — *everyday* — `spotify:track:1Te0bwqNC5bCo4ARANJq21` — *Fun Is Not A Straight Line*, 2021-06-25, 199093 ms.
+- Rrose — *Joy of the Worm* — `spotify:track:1eYZCA67nhqTvUC2djr5H9` — *Please Touch*, 2023-06-23, 469038 ms.
+
+Unresolved without new musical verdict:
+
+- Rrose — *Cephalon*: `no exact Spotify title/artist search match in market SE`
+- Nondi_ — *I Version Melody*: `already present in persistent state`
+
+The second outcome is a duplicate lead, not an unresolved identity search. The exact track was already PARKED in Run 85 as `spotify:track:791OunT1Y2MiySy4TPgbZo` and retained globally at utility row 145. Its inclusion contradicts the request's freshness claim and is recorded as a request-hygiene error; the resolver correctly prevented re-evaluation.
+
+Resolved but unselected and unevaluated:
+
+- Nondi_ — *For Bluetooth Speakers Only* — `spotify:track:3gEX7YjqIIymMfmtXf0cIV`
+- Ripatti — *movathat* — `spotify:track:4ohLMVhB4ElU83FWypNHcR`
+- Rrose — *Mine* — `spotify:track:341LlyUjtiyBj2WqUsW5cl`
+- Rrose — *Rib Cage* — `spotify:track:35F6KDvfVX1HZAfp8ScaCK`
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-06-23"` — separately for *The Illuminating Glass*, *Joy of the Worm* and *Rib Cage*.
+- `Exact title/artist matched with release metadata variance: release date requested "2021" but Spotify returned "2021-06-25"` — separately for *everyday* and *movathat*.
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-27"` — *For Bluetooth Speakers Only*.
+- `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2020-01-10"` — *Mine*.
+
+### Evaluator findings
+
+**Rrose — *The Illuminating Glass* — placement-specific REJECT.** Volume fit passes because exact criticism establishes a half-speed frame whose drum hits proliferate into violent quivering before the beats disappear. Immediate placement after *The Witching Hour* is intelligible, but the exit leaves *Encasadelciegoeltuerco* to state a second breakdown. The five-track run `Marauder → The Witching Hour → candidate → Encasadelciegoeltuerco → Cave` accumulates controlled continuation, beat erasure and triplet derailment before recovery; the candidate lengthens rather than changes that trajectory. At long-form scale, 8:48 of progressive destabilization duplicates a consequence already carried by the existing derailment. An alternate placement between *Foundry* and *Worn Down* similarly replaces the condition *Foundry* already gives *Worn Down*. The track remains genuinely interesting.
+
+**Ripatti — *everyday* — placement-specific REJECT.** Volume fit passes because the exact account establishes dense polyrhythm, buried footwork grounding and gridless percussion. At `Thick to Handle → candidate → LOVE YOUR ENEMIES`, the immediate contrast is credible but the local run becomes three successive conflict statements before *Tehutis Law* re-grounds it. An alternate test after *backsliding* delays *Fragments*' existing re-entry. At long-form scale, the 3:19 duration is proportionate, but neither placement gives the following track new work. The source-attributed 160-BPM footwork grounding is not resolver-measured audio. The track remains genuinely interesting.
+
+**Rrose — *Joy of the Worm* — placement-specific REJECT.** Volume fit passes because exact criticism establishes rotor-like motion that feels stationary over bass swells. Between *Crawl* and *Fulledge*, the immediate concept is coherent, but 7:49 of motion-without-travel follows *Crawl*'s 8:17 sustained plateau and mediates the exact relation approved in Run 125. The five-track run `Moonwake → Crawl → candidate → Fulledge → Capa` overweights suspended continuity before dissolution and redirection. An alternate position between *Capa* and *Never Met* adds another long mediation stage before transit. At long-form scale, the track duplicates rather than changes the plateau's consequence. It remains genuinely interesting.
+
+BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. Source descriptions of half-speed and attributed 160-BPM footwork are perceptual or critical evidence, not resolver-measured audio.
+
+### Sequencer decision
+
+No canonical insertion or reorder. Preserve all 32 exact identities and the listener-protected internal order `Transparency → When We Froze → Stardancer`.
+
+### Auditor decision
+
+**APPROVED.** Zero canonical ADDs, three placement-specific REJECT decisions, three target-local exact-track discoveries, one set direction and three doctrine-free global utility additions are supported by exact identities and lawful evidence. Four alternates remain unevaluated. The unresolved *Cephalon* identity, persistent-state duplicate, all seven warnings and the recovered technical failure are preserved. The request-hygiene miss is explicit and requires stricter exact persistent-state checking in future scans, but no repair-chain run is needed because the resolver prevented stale evaluation and no durable musical state was corrupted.
+
+### Durable result
+
+STRANGE GAIT remains at 32 canonical tracks with no reordering. EDITORIAL ENGINE — DISCOVERY POOL changes from 254 to 257 tracks with all three selected exact identities retained. Automatic publishing remains enabled. GitHub Actions owns the affected utility-playlist publication and exact Spotify read-back; STRANGE GAIT requires no new publication or map generation.
+
+### Run analysis
+
+Approximately 50 inspected → 9 leads → 7 exact resolutions + 1 no-match + 1 persistent-state duplicate → 3 evaluations + 4 alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions. Inspection-to-lead conversion is 18.0%, exact-resolution conversion is 77.8%, and selected-candidate-to-ADD conversion is 0/3.
+
+Across Runs 87–126: 359 leads from approximately 1,873 inspections; 17 ADDs from 109 selected candidates. The recent ADD rate is 5/10 across Runs 117–126, versus 18/115 across Runs 55–126. The no-ADD streak is one run since Run 125, with three exact interesting tracks retained during it. This is candidate-specific proportional judgment after two consecutive additions, not stagnation, Scout over-filtering or an epistemic veto. No actionable musical REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 125 — EXPLORE — sustained motion can make rupture consequential — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 31 unique canonical tracks with 31 matching journey annotations and 31 generated-map identities. Its COMPLETE 31-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 251 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.

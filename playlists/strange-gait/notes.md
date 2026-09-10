@@ -1,5 +1,11 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 126 — EXPLORE — motion-stasis must change the next track's work
+
+No canonical track is added. Rrose — *The Illuminating Glass*, Ripatti — *everyday* and Rrose — *Joy of the Worm* all pass STRANGE GAIT's selection lens, but their tested placements are rejected. *The Illuminating Glass* adds a complete quivering-to-beat-erasure arc immediately before *Encasadelciegoeltuerco*'s existing derailment; *everyday* doubles deformation before *LOVE YOUR ENEMIES* and *Tehutis Law*; *Joy of the Worm* places another 7:49 motion-without-travel construction between *Crawl*'s 8:17 plateau and *Fulledge*'s dissolution.
+
+The first resolver attempt failed on Spotify's transient HTTP 502 for the exact `movathat + Ripatti` search and produced no snapshot. The unchanged immutable request was retried successfully. One requested identity, Nondi_ — *I Version Melody*, was correctly excluded as already present in PARKED persistent state; its inclusion was a freshness-check error, not a new musical verdict. BPM, perceived pulse, energy, density, phrasing, mixability and all tested handoffs remain unknown.
+
 ## Run 125 — EXPLORE — sustained motion can make rupture consequential
 
 DjRUM — *Crawl* is added between Sciahri — *Moonwake* and Demdike Stare — *Fulledge (Empty-40 Mix)*. Pitchfork describes the exact 8:17 track as a rapid staccato-drum roll with continual stereo and reverb shifts but an essentially unchanged, endpoint-resistant structure. The review attributes 170 BPM; this is not resolver-measured audio. Editorially, `Too Much Time → Moonwake → Crawl → Fulledge (Empty-40 Mix) → Capa` gains a sustained state before metric dissolution, so *Fulledge* breaks something specific and *Capa* redirects after a proportionate rupture.

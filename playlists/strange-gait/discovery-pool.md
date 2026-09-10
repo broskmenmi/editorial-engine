@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 126 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Rrose | The Illuminating Glass | https://open.spotify.com/track/6dgcbYvjXEX4pVv5wSeiUb | Placement-specific REJECT only for the tested Run 126 positions. Its exact progressive quivering and beat-erasure arc remains genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Ripatti | everyday | https://open.spotify.com/track/1Te0bwqNC5bCo4ARANJq21 | Placement-specific REJECT only for the tested Run 126 positions. Its exact dense grid-erasing polyrhythm remains genuinely interesting elsewhere; release-date variance and non-resolver attributed tempo boundary preserved. |
+| EXACT TRACK | Rrose | Joy of the Worm | https://open.spotify.com/track/1eYZCA67nhqTvUC2djr5H9 | Placement-specific REJECT only for the tested Run 126 positions. Its exact motion-without-travel construction remains genuinely interesting elsewhere; release-date variance preserved. |
+| UNRESOLVED | Rrose | Cephalon | https://pitchfork.com/reviews/tracks/18309-rrose-cephalon/ | No exact Spotify title/artist match in market SE. No musical verdict or utility entry. |
+| PERSISTENT DUPLICATE | Nondi_ | I Version Melody | spotify:track:791OunT1Y2MiySy4TPgbZo | Already PARKED in Run 85 and present at global utility row 145. No new evaluation or duplicate utility entry. |
+| RESOLVED ALTERNATES | Nondi_; Ripatti; Rrose | For Bluetooth Speakers Only; movathat; Mine; Rib Cage | spotify:track:3gEX7YjqIIymMfmtXf0cIV ; spotify:track:4ohLMVhB4ElU83FWypNHcR ; spotify:track:341LlyUjtiyBj2WqUsW5cl ; spotify:track:35F6KDvfVX1HZAfp8ScaCK | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. |
+| RELEASE / CATALOGUE WATCH | Nondi_; Ripatti; Rrose | Nondi...; Fun Is Not A Straight Line; Please Touch; Hymn to Moisture | https://pitchfork.com/reviews/albums/nondi-nondi/ ; https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/ ; https://pitchfork.com/reviews/albums/rrose-please-touch/ ; https://pitchfork.com/reviews/albums/rrose-hymn-to-moisture/ | Current dream-juke and overlooked motion-stasis, shifting-meter and buried-grid windows; unresolved and unevaluated boundaries remain in force. |
+| PLACEMENT BOUNDARY | Rrose; Ripatti | The Illuminating Glass; everyday; Joy of the Worm | See exact rows above | These placements are rejected, not the tracks globally. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 125 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
