@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 121 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Carmen Villain | Omriss | https://open.spotify.com/track/0oa1T7edLxZu4HlrZtpTfD | Placement-specific REJECT only for the two tested Run 121 positions. The documented mechanical-to-breath reorientation remains genuinely interesting elsewhere. |
+| EXACT TRACK | Nochi, Pablo Campos | Mono Cascabel | https://open.spotify.com/track/14Nxdj0vO3o3SKLr2jdiOc | PARKED. Exact identity retained; the release context is promising, but the individual track's direction and endpoint remain undocumented. |
+| EXACT TRACK | Rose Holland | Solid On The Ground | https://open.spotify.com/track/0o7guCx1exWKYoOowpSYO8 | Placement-specific REJECT only for the two tested Run 121 positions. The exact two-step, vocal and soundsystem-bass construction remains genuinely interesting elsewhere. |
+| RESEARCH LEAD | Stenny | Psygraph; Swordfish | https://pitchfork.com/reviews/albums/stenny-upsurge | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | Tee Illa & Nu Bantu Dialekt; BEAM WONG; THE DIRT | Pitori Jive; Take off; O Superman (REMIX) (ARS MIX) | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESOLVED ALTERNATE | chimp! | This is not a test | spotify:track:1R4wLOs36iBOenVgoFp1XI | Exact but unselected and unevaluated; not retained as an editorial decision and not added to the utility ledger. Spotify returned 2026-08-19 for requested 2026-08-21. |
+| CURRENT WATCH | Nochi; Rose Holland; chimp!; Tee Illa; BEAM WONG | Sinergia; Solid On The Ground; One Billion Dinosaurs…; Nu Bantu; Presumably | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 | Current August/September 2026 organic-electronic, garage, IDM, South African and experimental club windows; exact claims remain scoped to selected tracks. |
+| CATALOGUE WATCH | Stenny; Carmen Villain | Upsurge; Memoria | https://pitchfork.com/reviews/albums/stenny-upsurge | Overlooked rhythmic-dislocation and current mechanical-to-acoustic catalogue windows; only selected exact identities received verdicts. |
+
+### Placement and inspiration boundaries
+
+- *Omriss* and *Solid On The Ground* are rejected only at their two tested placements; neither is globally rejected.
+- *Mono Cascabel* is exact and interesting but PARKED until individual-track structure or a changed need makes either hypothesis decidable.
+- The five unresolved identities and exact unevaluated alternate received no canonical verdict.
+- Set direction retained: a recovery earns space when it changes the afterword; a side-step needs exact direction, not just a release-world promise.
+- This file is an inspiration layer, not a Spotify publication input and not evidence of live-mixing compatibility.
+
 ## Run 120 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

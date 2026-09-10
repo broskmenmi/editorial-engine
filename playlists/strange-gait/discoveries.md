@@ -1,5 +1,58 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 121 — EXPLORE — self-contained recovery is not an afterword — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 239 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T07:51:13Z-explore-121` inspected approximately 55 named tracks, releases and source entries across Bandcamp Daily's September 9, 2026 electronic survey, Pitchfork's September 8, 2026 *Memoria* review, current chimp!, Nochi, BEAM WONG, Tee Illa, Rose Holland and Acid Room Studios releases, and overlooked Stenny catalogue. Runs 115–120 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (16.4%).
+
+The immutable schemaVersion 2 request was pinned to `a599ed40e676a302ee573cd63232b5ae695b237e` in request commit `b7320142f1eddd94296f703ad52f324158f86bc7`. The matching snapshot commit is `072fee717a6abe90a4b421b81c547bd569492c17`; request fingerprint `9b8fd7b6e2a3bf1f7ebc788e93d3a7987b77cd72daa535dd8273d31ea038b87c`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 1 warning. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+- Carmen Villain — *Omriss* — `spotify:track:0oa1T7edLxZu4HlrZtpTfD` — *Memoria*, 2026-09-04, 347681 ms. BPM unavailable.
+- Nochi, Pablo Campos — *Mono Cascabel* — `spotify:track:14Nxdj0vO3o3SKLr2jdiOc` — *Sinergia*, 2026-08-21, 240000 ms. BPM unavailable.
+- Rose Holland — *Solid On The Ground* — `spotify:track:0o7guCx1exWKYoOowpSYO8` — 2026-08-27, 181929 ms. BPM unavailable.
+
+Resolved but unselected and unevaluated: chimp! — *This is not a test* — `spotify:track:1R4wLOs36iBOenVgoFp1XI`.
+
+Unresolved without musical verdict; each returned `no exact Spotify title/artist search match in market SE`:
+
+- Stenny — *Psygraph*
+- Stenny — *Swordfish*
+- Tee Illa & Nu Bantu Dialekt — *Pitori Jive*
+- BEAM WONG — *Take off*
+- THE DIRT — *O Superman (REMIX) (ARS MIX)*
+
+Warning preserved exactly for chimp! — *This is not a test*: `Exact title/artist matched with release metadata variance: release date requested "2026-08-21" but Spotify returned "2026-08-19"`.
+
+### Candidate evaluations
+
+**Carmen Villain — Omriss — placement-specific REJECT.** Volume fit passes: the exact Pitchfork account documents static and distortion yielding gradually to breath-powered instruments, a complete mechanical-to-human reorientation. Immediate transition at `Stardancer → candidate → Invisible Warriors Of Light` is intelligible, but the 5:48 candidate completes its own recovery between the listener-protected close and the existing concise afterword. The local run `Transparency → When We Froze → Stardancer → candidate → Invisible Warriors Of Light` therefore produces two ending gestures rather than giving the afterword a new task. At the alternate `U Belong 2 Me → candidate → Transparency`, the candidate pre-empts the re-entry already made consequential by U Belong 2 Me's documented collapse. Long-form effect fails in both positions by resolving before an existing resolution or postscript, not because the production world changes.
+
+**Nochi, Pablo Campos — Mono Cascabel — PARKED.** The exact identity is resolved and the release-level field-recording/electronica/cumbia/Indigenous-rhythm context makes volume fit plausible. The source does not describe the individual track's direction or endpoint. At `Capa → candidate → Never Met` it could create a purposeful organic/electronic side-step or merely mediate an already clear redirection-to-transit relation; at `Ikoyi → candidate → Amor` the same evidence cannot distinguish a consequential reframing from another percussion explanation. Immediate handoffs, three-to-five-track runs and long-form effect are therefore decision-critically indeterminate for a candidate-specific reason. Reopen for materially richer exact-track structural evidence, lawful audio evidence or a changed need.
+
+**Rose Holland — Solid On The Ground — placement-specific REJECT.** Volume fit passes: the exact Bandcamp Daily account identifies a two-step garage roller with a folky vocal line and warping soundsystem bass. At `Cave → candidate → Abundance`, the candidate supplies another complete rolling mediation before Abundance's swung continuation; the five-track run `Encasadelciegoeltuerco → Cave → candidate → Abundance → Worn Down` makes recovery more explicit without changing Abundance or Worn Down's task. At `Never Met → candidate → Trompe L'oeil`, it inserts another transit stage between Never Met's documented passage and Trompe L'oeil's reset. Long-form effect fails by explaining existing causality rather than producing a new consequence.
+
+BPM, perceived pulse, density, energy, phrasing, mixability and exact handoffs remain UNKNOWN for all three.
+
+### Auditor approval and durable result
+
+The independent audit approves **0 canonical ADD, 2 placement-specific REJECT and 1 PARKED**. Each verdict separates selection-lens fit from placement value, tests an immediate handoff, a three-to-five-track run and the whole journey, and does not infer sonic properties from metadata. The protected trio remains untouched. All three selected exact tracks remain genuinely interesting and are approved for the doctrine-free global utility ledger; the five unresolved identities and one unevaluated alternate are excluded.
+
+- STRANGE GAIT: **29 → 29 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- EDITORIAL ENGINE — DISCOVERY POOL: **239 → 242 exact tracks**, adding *Omriss*, *Mono Cascabel* and *Solid On The Ground*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 55 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion was **16.4%**, lead-to-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–121: **314 leads from approximately 1,618 inspections; 14 ADDs from 94 selected candidates**. The recent ADD rate is **4/10 across Runs 112–121**, versus **15/100 across Runs 55–121**. The no-ADD streak is three runs since Run 118, with nine exact interesting tracks retained during it. The strongest counterargument is that *Omriss* could humanize the passage from the protected close into the electro-soul afterword. The opposing evidence is proportional and candidate-specific: its documented 5:48 transformation reaches its own recovery, so the afterword becomes a second postscript; the alternate pre-Transparency placement similarly pre-empts an existing re-entry. This supports playlist maturity and targeted evidence discipline, not Scout over-filtering, a universal epistemic veto or a ban on different production worlds. The run proves only that the four tested *Omriss*/*Solid On The Ground* placements do not improve the current journey and that *Mono Cascabel* lacks individual-track evidence for its two hypotheses; it does not globally reject any candidate, prove a handoff or prove STRANGE GAIT complete. No actionable REPAIR emerges.
+
 ## Run 120 — EXPLORE — internal turn is not downstream consequence — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 236 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.

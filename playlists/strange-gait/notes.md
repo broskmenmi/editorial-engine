@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 121 — EXPLORE — self-contained recovery is not an afterword
+
+Nine ranked leads from approximately 55 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, one date warning and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD, 2 placement-specific REJECT and 1 PARKED. Carmen Villain — *Omriss* is rejected only at `Stardancer → candidate → Invisible Warriors Of Light` and `U Belong 2 Me → candidate → Transparency`: its documented mechanical-to-breath recovery completes another ending before an existing afterword or re-entry. Rose Holland — *Solid On The Ground* is rejected only at `Cave → candidate → Abundance` and `Never Met → candidate → Trompe L'oeil`: its exact two-step roller mediates causal relations already legible in those runs. Nochi, Pablo Campos — *Mono Cascabel* is PARKED because the release-level organic/electronic/rhythmic context does not establish the individual track's direction or exit at either tested position.
+
+STRANGE GAIT remains at 29 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 239 to 242 tracks with all three selected exact candidates. Five unresolved identities retain their exact resolver error and receive no musical verdict; chimp! — *This is not a test* remains an exact, unevaluated alternate with its date warning preserved.
+
+Across Runs 87–121: 314 leads from approximately 1,618 inspections and 14 ADDs from 94 selected candidates. Recent ADD rate: 4/10 across Runs 112–121; overall repaired comparison: 15/100 across Runs 55–121. The no-ADD streak is three runs since Run 118; nine exact interesting tracks entered the utility layer during it.
+
+**Strongest counterargument:** *Omriss* could humanize the move from the protected close into the afterword. It fails because its 5:48 documented reorientation reaches a complete recovery of its own, making *Invisible Warriors Of Light* a second postscript rather than changing its task.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 120 — EXPLORE — internal turn is not downstream consequence
 
 Nine ranked leads from approximately 52 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.

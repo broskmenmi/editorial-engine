@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 121 — Recovery must change the afterword
+
+**Direction:** Explore transformations whose endpoint changes the following postscript or re-entry, and organic/electronic side-steps whose individual-track direction is documented rather than inferred from a release world.
+
+**Ingredients:**
+
+- Carmen Villain — *Omriss* — exact Run 121 placement-specific reject; mechanical/static material yielding to breath-powered instruments remains useful outside the tested double-ending and pre-empted-re-entry positions.
+- Nochi, Pablo Campos — *Mono Cascabel* — exact PARKED track; release-level field-recording/electronica/cumbia/Indigenous-rhythm context suggests a side-step, but the individual direction and exit remain unknown.
+- Rose Holland — *Solid On The Ground* — exact placement-specific reject; two-step, folk-vocal and soundsystem-bass construction remains useful outside the tested extra-mediation positions.
+- Stenny — *Psygraph* / *Swordfish*, Tee Illa & Nu Bantu Dialekt — *Pitori Jive*, BEAM WONG — *Take off* and THE DIRT — *O Superman (REMIX) (ARS MIX)* — unresolved exact-title research leads.
+- chimp! — *This is not a test* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** A track's self-contained recovery can be compelling yet steal the purpose of a following afterword. Conversely, a cross-world side-step may advance a set, but release-level context cannot prove the direction of one exact track.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 120 — Internal turn must create external consequence
 
 **Direction:** Explore rhythm switches, withdrawals and transformations whose endpoint changes what the following track must do, rather than inserting another complete internal arc before an already legible recovery, anchor or re-entry.
