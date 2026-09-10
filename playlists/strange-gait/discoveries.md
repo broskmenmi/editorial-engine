@@ -1,5 +1,65 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 122 — EXPLORE — instability must create a condition — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 242 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T08:52:33Z-explore-122` inspected approximately 53 named tracks, releases and source entries across Pitchfork's September 10, 2026 *Bad Bunch* review, Bandcamp Daily's September 9 Vanishing Twin catalogue survey, Pitchfork's 2026 *Foundry* review, MusicRadar's August 18 Tom VR studio feature, and overlooked Joy Orbison catalogue. Runs 116–121 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.0%).
+
+The immutable schemaVersion 2 request was pinned to `e4d8c0307f881428cf4618948f81caa7426967a9` in request commit `9a1e819591b216708aefa3fa91f7c2b16c47516f`. The matching snapshot commit is `7b18615e18098c9c5c865dea30e06c4508468d96`; request fingerprint `7e1f50a464b85e19c86f4e423ec5705c74c9a8c8a6b10ebb9947070c74dc0dac`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 8 resolved, 3 selected candidates, 5 resolved alternates, 1 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+- Yu Su, dip in the pool — *A Jewel* — `spotify:track:4coUUUPcfMJnQXjP7TVMt2` — *Foundry*, 2026-05-01, 353250 ms. BPM unavailable.
+- Vanishing Twin — *Bring Me the Axe* — `spotify:track:2LKGxp64uI1UoUYQ05iMA9` — *Bring Me the Axe / Archives*, 2026-07-01, 290000 ms. BPM unavailable.
+- Yu Su — *Foundry* — `spotify:track:0OFx2GTUHYkT575CD3uuen` — *Foundry*, 2026-05-01, 299487 ms. BPM unavailable.
+
+Unresolved without musical verdict:
+
+- Tom VR — *Don't Know How Fast I'm Moving Until I Hit Something*: `no exact Spotify title/artist search match in market SE`.
+
+Resolved but unselected and unevaluated:
+
+- Joy Orbison — *Tennov6teen* — `spotify:track:2H2AMzKBkIM2gIJbNxCa3h`
+- Vanishing Twin — *Archives* — `spotify:track:1DmZDQMgGU6x8sJlyazs1A`
+- Yu Su — *Cul De Sac* — `spotify:track:7fnRdDrb88qBxKscrmRcrv`
+- Black Bananas — *All the Way* — `spotify:track:47Y4myCNy0msMakQYulQEg`
+- Joy Orbison — *COYP* — `spotify:track:6EIeOjD2pZEmNq9z4fgAZZ`
+
+Warnings preserved exactly:
+
+- Vanishing Twin — *Bring Me the Axe*: `Exact title/artist matched with release metadata variance: album requested "Archives" but Spotify returned "Bring Me the Axe / Archives"; release date requested "2026" but Spotify returned "2026-07-01"`
+- Joy Orbison — *TENNOV6TEEN*: `Exact title/artist matched with release metadata variance: album requested "81b EP" but Spotify returned "81b"; release date requested "2018" but Spotify returned "2018-12-10"`
+- Vanishing Twin — *Archives*: `Exact title/artist matched with release metadata variance: album requested "Archives" but Spotify returned "Bring Me the Axe / Archives"; release date requested "2026" but Spotify returned "2026-07-01"`
+- Joy Orbison — *COYP*: `Exact title/artist matched with release metadata variance: album requested "81b EP" but Spotify returned "81b"; release date requested "2018" but Spotify returned "2018-12-10"`
+
+### Candidate evaluations
+
+**Yu Su, dip in the pool — A Jewel — placement-specific REJECT.** Volume fit passes: the exact Pitchfork account documents a sputtering, low-key narrated introduction interrupted by a broken-techno beat that bashes into the track. The requested immediate move `Cave → candidate → Abundance` is intelligible, but the candidate performs a complete quiet-to-impact restart immediately after Cave has begun the recovery. The five-track run `Encasadelciegoeltuerco → Cave → candidate → Abundance → Worn Down` therefore opens recovery twice before the same continuation and threshold. At the alternate `Worn Down → candidate → Too Much Time`, its self-contained restart adds another dramatic re-entry before the existing widening without changing Too Much Time's task. Long-form effect fails by repeating or postponing an established recovery consequence, not by changing production world.
+
+**Vanishing Twin — Bring Me the Axe — placement-specific REJECT.** Volume fit passes: the exact Bandcamp Daily account documents modal folk and chant giving way, once the beat enters, to pop-locking hedonism and glittering disco. The requested opening `candidate → Stadium Drive → Marauder` creates a legible hard left turn, but both the candidate and Stadium Drive complete premise-setting transformations before Marauder's first anchor. The five-track opening `candidate → Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco` consequently overstates the overture. At `Cave → candidate → Abundance`, the same complete transformation mediates an early recovery that already reads clearly. Long-form effect fails because a compelling prehistory becomes a second overture or extra recovery explanation rather than changing the next track's task.
+
+**Yu Su — Foundry — ADD between Abundance and Worn Down; requested placement rejected.** Volume fit passes: the exact Pitchfork account describes dynamic, almost out-of-control motion channelled in shifting directions instead of straightforward barreling techno. At the requested `Tehutis Law → candidate → Pulse I`, the candidate reopens instability immediately after Tehutis Law's defined re-grounding and before Pulse I's existing crooked accumulation; the local five-track run repeats a problem already resolved. The alternate `Cave → Abundance → candidate → Worn Down → Too Much Time` improves immediate and local logic: the candidate's documented directional instability gives Worn Down's threatened-coherence threshold a concrete condition to answer, and Too Much Time can widen the result. Long-form effect passes provisionally because the early passage gains causality without disturbing the later dissolution/re-entry or protected closing relations. Exact handoffs remain unproven.
+
+BPM, perceived pulse, density, energy, phrasing, mixability and exact handoffs remain UNKNOWN for all three.
+
+### Auditor approval and durable result
+
+The independent audit approves **1 canonical ADD and 2 placement-specific REJECT**. Each verdict separates selection-lens fit from placement value and independently tests immediate transition, three-to-five-track run and whole-journey effect. The alternate placement for *Foundry* is supported by the same exact-track evidence and creates a specific downstream task; the requested late position does not. The protected trio remains untouched. All three selected exact tracks remain genuinely interesting and are approved for the doctrine-free global utility ledger; the unresolved identity and five unevaluated alternates are excluded.
+
+- STRANGE GAIT: **29 → 30 canonical tracks**, adding Yu Su — *Foundry* between *Abundance* and *Worn Down*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- EDITORIAL ENGINE — DISCOVERY POOL: **242 → 245 exact tracks**, adding *A Jewel*, *Bring Me the Axe* and *Foundry*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 53 inspected → 9 ranked leads → 8 exact resolutions + 1 unresolved → 3 evaluations + 5 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **17.0%**, lead-to-resolution conversion **88.9%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–122: **323 leads from approximately 1,671 inspections; 15 ADDs from 97 selected candidates**. The recent ADD rate is **5/10 across Runs 113–122**, versus **16/103 across Runs 55–122**. The three-run no-ADD streak since Run 118 ends; twelve exact interesting tracks entered the utility layer during that interval and this run. The strongest counterargument is that *Foundry* adds another explicit instability to an already elaborate early passage. The opposing evidence is placement-specific and causal: unlike the rejected late position, `Abundance → Foundry → Worn Down` gives an existing threshold a concrete condition to answer rather than inserting instability before an already defined re-grounding. This supports productive exploration and candidate-specific proportional judgment, not forced growth. It does not prove either new handoff, BPM, phrase fit, live mixability or that STRANGE GAIT is complete. No actionable REPAIR emerges.
+
 ## Run 121 — EXPLORE — self-contained recovery is not an afterword — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 239 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.

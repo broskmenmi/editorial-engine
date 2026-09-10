@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 122 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Yu Su, dip in the pool | A Jewel | https://open.spotify.com/track/4coUUUPcfMJnQXjP7TVMt2 | Placement-specific REJECT only for the two tested Run 122 positions. The exact low-key narrated introduction and broken-techno impact remain genuinely interesting elsewhere. |
+| EXACT TRACK | Vanishing Twin | Bring Me the Axe | https://open.spotify.com/track/2LKGxp64uI1UoUYQ05iMA9 | Placement-specific REJECT only for the two tested Run 122 positions. The documented folk-to-disco transformation remains genuinely interesting outside the tested double-overture and extra-recovery positions; packaging/date variance preserved. |
+| EXACT TRACK | Yu Su | Foundry | https://open.spotify.com/track/0OFx2GTUHYkT575CD3uuen | Canonical ADD between Abundance and Worn Down. The exact unstable directional motion is retained as a provisional cause for the following threatened-coherence threshold. |
+| RESEARCH LEAD | Tom VR | Don't Know How Fast I'm Moving Until I Hit Something | https://www.musicradar.com/artists/as-soon-as-i-started-writing-music-with-computers-i-got-so-addicted-to-it-tom-vr-on-his-creative-process-game-changing-ableton-live-tips-and-the-hardware-synth-he-cant-stop-talking-about | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Joy Orbison; Vanishing Twin; Yu Su; Black Bananas; Joy Orbison | Tennov6teen; Archives; Cul De Sac; All the Way; COYP | spotify:track:2H2AMzKBkIM2gIJbNxCa3h; spotify:track:1DmZDQMgGU6x8sJlyazs1A; spotify:track:7fnRdDrb88qBxKscrmRcrv; spotify:track:47Y4myCNy0msMakQYulQEg; spotify:track:6EIeOjD2pZEmNq9z4fgAZZ | Exact but unselected and unevaluated; not retained as editorial decisions and not added to the utility ledger. |
+| CURRENT WATCH | Tom VR; Black Bananas | Don't Know How Fast I'm Moving Until I Hit Something; Bad Bunch | https://www.musicradar.com/artists/as-soon-as-i-started-writing-music-with-computers-i-got-so-addicted-to-it-tom-vr-on-his-creative-process-game-changing-ableton-live-tips-and-the-hardware-synth-he-cant-stop-talking-about | Current August/September 2026 structural-turn and collage windows; Tom VR's exact Spotify identity remains unresolved and Black Bananas' resolved alternate remains unevaluated. |
+| CATALOGUE WATCH | Yu Su; Vanishing Twin; Joy Orbison | Foundry; Archives; 81b | https://pitchfork.com/reviews/albums/yu-su-foundry/ | Overlooked unstable techno, folk-to-electronic transformation and varied-speed catalogue; only the three selected exact identities received verdicts. |
+
+### Placement and inspiration boundaries
+
+- *Foundry* is canonical only between Abundance and Worn Down; its requested Tehutis Law-to-Pulse I placement is rejected.
+- *A Jewel* and *Bring Me the Axe* are rejected only for their two tested Run 122 positions, not globally.
+- The Tom VR identity has no musical verdict. The five resolved alternates were not selected or evaluated. Neither group enters the global utility ledger.
+- Set direction: **instability earns space when it creates a condition the next track must answer**. These records are not a proven live sequence or mixing prescription.
+
 ## Run 121 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

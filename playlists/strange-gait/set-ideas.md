@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 122 — Instability must create a condition
+
+**Direction:** Explore unstable or cross-world transformations whose endpoint gives the following threshold, recovery or anchor a specific task, while resisting complete internal turns that merely add a second overture or restart.
+
+**Ingredients:**
+
+- Decoder — *Abundance* → Yu Su — *Foundry* → T++ — *Worn Down* — canonical provisional relation; directional instability now supplies a concrete condition for the following threatened-coherence threshold.
+- Yu Su, dip in the pool — *A Jewel* — exact placement-specific reject; narrated quiet-to-broken-techno impact remains interesting outside the tested double-recovery positions.
+- Vanishing Twin — *Bring Me the Axe* — exact placement-specific reject; folk-to-disco transformation remains useful outside the tested double-overture and extra-recovery positions.
+- Tom VR — *Don't Know How Fast I'm Moving Until I Hit Something* — unresolved exact-title research lead.
+- Joy Orbison — *Tennov6teen* / *COYP*, Vanishing Twin — *Archives*, Yu Su — *Cul De Sac* and Black Bananas — *All the Way* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** Instability is not automatically development. It becomes long-form movement when its endpoint changes what the next threshold or formation must accomplish; a complete transformation can remain compelling while duplicating an overture or recovery.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 121 — Recovery must change the afterword
 
 **Direction:** Explore transformations whose endpoint changes the following postscript or re-entry, and organic/electronic side-steps whose individual-track direction is documented rather than inferred from a release world.
