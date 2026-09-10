@@ -1,273 +1,120 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "890ba8aaedbca8ca070811d82ee583324da79cd5f8a52cff9501cbc44a221f9c",
-  "generatedAt": "2026-09-10T11:58:31.123Z",
-  "runId": "2026-09-10T11:52:00Z-explore-125",
-  "sourceCommit": "cc64b566ac951401884353ba37734a60fadcd3f4",
+  "requestFingerprint": "8292cd4be1f77c7d83fbb48f70bd8e7939a32a58735b3549fc65c37a16423df5",
+  "generatedAt": "2026-09-10T13:06:20.050Z",
+  "runId": "2026-09-10T12:49:08Z-explore-126",
+  "sourceCommit": "3f603d9670648f2c21a9f4b97c101c583bb0395e",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 124's canonical ADD, spanning current releases, adjacent/emerging song and club worlds, and overlooked broken-techno/bass catalogue",
-    "purpose": "Test whether blurred song-form, layered rhythmic complexity, digital malfunction, two-speed motion, continuous high-speed roll or adjacent dub mutation gives the following track new work rather than merely adding another event.",
-    "position": "Whole 31-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat all placements as provisional and candidate-specific; do not reopen untriggered PARKED identities."
+    "role": "fresh whole-journey contender discovery after consecutive canonical additions, spanning a current 2026 dream-juke edge, adjacent footwork/polyrhythm material and overlooked psychoacoustic techno catalogue",
+    "purpose": "Test whether motion-stasis, tempo ambiguity, grid erasure, beat disappearance, loop persistence or gradual spectral proliferation changes the following track's work rather than merely increasing structural incident.",
+    "position": "Whole 32-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat all placements as provisional and candidate-specific; do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-10T11:52:00Z",
-    "approximateInspectedScope": "Approximately 52 named tracks, releases and source entries across September 10 Black Bananas, September 2 Djrum DJ-Kicks, August 14 Guardian emerging-track coverage, Djrum's 2024 Meaning's Edge and Andrea's 2020 Ritorno; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T12:49:08Z",
+    "approximateInspectedScope": "Approximately 50 named tracks, releases and source entries across Nondi_'s current 2026 album, Ripatti's footwork catalogue, Rrose's Please Touch and Hymn to Moisture albums, and the exact Cephalon track review; attributed criticism and release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT: Pitchfork's September 10, 2026 Bad Bunch review supplied exact blurred-song, dub-mutation and cacophony descriptions. https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
-      "CURRENT: Pitchfork's September 2, 2026 Djrum DJ-Kicks announcement and September 8 Selects entry supplied a current mix-born original and live-vinyl/editing context. https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist",
-      "ADJACENT / EMERGING: The Guardian's August 14, 2026 survey supplied Heavensouls' exact ten-minute digital-malfunction/IDM lead. https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
-      "OVERLOOKED CATALOGUE: Pitchfork's Meaning's Edge and Ritorno reviews supplied exact multi-plane breakbeat, two-speed techno, perpetual-roll, jungle-mutation and drum-and-bass/broken-techno leads. https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/ https://pitchfork.com/reviews/albums/andrea-ritorno/",
-      "FRESHNESS CHECK: exact repository searches found no prior durable decision for the nine requested identities; Runs 118–124 selected ecosystems and all prior unresolved identities without new evidence were excluded."
+      "CURRENT: Pitchfork's March 5, 2026 Nondi... review supplied exact loop-centric dream-juke, chirped-triplet and insectoid-dembow leads. https://pitchfork.com/reviews/albums/nondi-nondi/",
+      "ADJACENT: Pitchfork's Fun Is Not a Straight Line review supplied exact dense-polyrhythm and buried-grid footwork leads. https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+      "OVERLOOKED CATALOGUE: Pitchfork's Please Touch, Hymn to Moisture and Cephalon reviews supplied exact motion-stasis, beat-erasure, shifting-meter, spectral-proliferation and tempo-ambiguity leads. https://pitchfork.com/reviews/albums/rrose-please-touch/ https://pitchfork.com/reviews/albums/rrose-hymn-to-moisture/ https://pitchfork.com/reviews/tracks/18309-rrose-cephalon/",
+      "FRESHNESS CHECK: exact repository searches found no prior durable decision for Rrose, Cephalon, Ripatti or the nine requested identities; Nondi_ appeared only as broad prior context, never as a requested or decided exact identity. Runs 120–125 selected ecosystems and all prior unresolved identities without new evidence were excluded."
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Runs 118–124 selected ecosystems were not retried: RP Boo, Slikback, DJ Haram, Peder Mannerfelt, Proc Fiskal, Kode9, Hodge, Carmen Villain, Nochi, Rose Holland, Yu Su, Vanishing Twin, Arca, Brendon Moeller, Pugilist and Azu Tiwaline.",
-      "Recent Black Bananas and Djrum material supported only by listing or broad reputation did not outrank exact-track descriptions; Psychic Video remains lower-ranked because its evidence is release-level.",
+      "Runs 120–125 selected ecosystems were not retried: Kode9, Hodge, Carmen Villain, Nochi, Rose Holland, Yu Su, Vanishing Twin, Arca, Brendon Moeller, Pugilist, Azu Tiwaline, Black Bananas and Djrum.",
+      "Rrose beatless pieces, Ripatti tracks described only at album level and Nondi_ tracks without a clear exact rhythmic account did not outrank these nine leads.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Djrum — Codex",
-      "2. Black Bananas — Nutrageous & Jam",
-      "3. Andrea — TrackQY",
-      "4. Heavensouls — Dawn of the City",
-      "5. Djrum — Frekm pt. 2",
-      "6. Black Bananas — Dust of Ages",
-      "7. Andrea — Drumzzy",
-      "8. Djrum — Psychic Video",
-      "9. Djrum — Crawl"
+      "1. Rrose — Cephalon",
+      "2. Rrose — The Illuminating Glass",
+      "3. Nondi_ — I Version Melody",
+      "4. Ripatti — everyday",
+      "5. Rrose — Joy of the Worm",
+      "6. Nondi_ — For Bluetooth Speakers Only",
+      "7. Ripatti — movathat",
+      "8. Rrose — Mine",
+      "9. Rrose — Rib Cage"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 3,
+  "resolvedCount": 7,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Djrum",
-      "track": "Codex",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0uYNmkR6aYkqQvIELm7iJ6, 5w1wf4TzE8X2Aczszf6zXA)",
-      "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Codex",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Djrum — Codex on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Andrea",
-      "track": "TrackQY",
+      "artist": "Rrose",
+      "track": "Cephalon",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Andrea",
-        "track": "TrackQY",
-        "album": "Ritorno",
-        "releaseDate": "2020",
+        "artist": "Rrose",
+        "track": "Cephalon",
+        "album": "Facticity",
+        "releaseDate": "2016",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-        "fitHypothesis": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/18309-rrose-cephalon/",
+        "fitHypothesis": "Pitchfork describes halting 100-BPM thumps spun into torrential delay bursts that can read as either slow-motion crawl or triple-time whirlwind, while a slower threatening layer crosses underneath.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Andrea — TrackQY on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — Cephalon on Facticity, requested release metadata 2016; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
+          "attributedDescription": "Pitchfork describes halting 100-BPM thumps spun into torrential delay bursts that can read as either slow-motion crawl or triple-time whirlwind, while a slower threatening layer crosses underneath.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition.",
+          "editorialInterpretation": "Test whether tempo-perception ambiguity between Never Met and Trompe L'oeil turns foreground transit into a consequential dubwise reset, or inserts another transit mechanism before an already legible reset.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "outgoingBpm": 136,
-            "candidateBpm": null,
-            "purpose": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Heavensouls",
-      "track": "Dawn of the City",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Heavensouls",
-        "track": "Dawn of the City",
-        "album": "Dawn of the City",
-        "releaseDate": "2026-08-14",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
-        "fitHypothesis": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Heavensouls — Dawn of the City on Dawn of the City, requested release metadata 2026-08-14; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
             "incomingBpm": null,
-            "outgoingBpm": 137,
+            "outgoingBpm": 130,
             "candidateBpm": null,
-            "purpose": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge."
+            "purpose": "Test whether tempo-perception ambiguity between Never Met and Trompe L'oeil turns foreground transit into a consequential dubwise reset, or inserts another transit mechanism before an already legible reset."
           }
         ]
       }
     },
     {
-      "artist": "Djrum",
-      "track": "Frekm pt. 2",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Nondi_",
+      "track": "I Version Melody",
+      "error": "already present in persistent state",
       "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Frekm pt. 2",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
+        "artist": "Nondi_",
+        "track": "I Version Melody",
+        "album": "Nondi...",
+        "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi/",
+        "fitHypothesis": "Pitchfork describes 8-bit synths moving over triplets of cartoonish chirps that combine into a delicate juke rhythm within a lo-fi, loop-centric dream-juke language.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Djrum — Frekm pt. 2 on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Nondi_ — I Version Melody on Nondi..., requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
+          "attributedDescription": "Pitchfork describes 8-bit synths moving over triplets of cartoonish chirps that combine into a delicate juke rhythm within a lo-fi, loop-centric dream-juke language.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict.",
+          "editorialInterpretation": "Test whether a current loop-bound juke side-step between Cave and Abundance makes Abundance's swung continuation answer a fragile rhythmic frame, or merely mediates an already clear recovery.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
             "candidateBpm": null,
-            "purpose": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Andrea",
-      "track": "Drumzzy",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Andrea",
-        "track": "Drumzzy",
-        "album": "Ritorno",
-        "releaseDate": "2020",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-        "fitHypothesis": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Andrea — Drumzzy on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between backsliding and Fragments",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
-            "candidateBpm": null,
-            "purpose": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Djrum",
-      "track": "Psychic Video",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Psychic Video",
-        "album": "DJ-Kicks",
-        "releaseDate": "2026-09-02",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
-        "fitHypothesis": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Djrum — Psychic Video on DJ-Kicks, requested release metadata 2026-09-02; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Foundry and Worn Down",
-            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint."
+            "purpose": "Test whether a current loop-bound juke side-step between Cave and Abundance makes Abundance's swung continuation answer a fragile rhythmic frame, or merely mediates an already clear recovery."
           }
         ]
       }
@@ -275,192 +122,175 @@
   ],
   "warnings": [
     {
-      "artist": "Black Bananas",
-      "track": "Nutrageous & Jam",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-10\" but Spotify returned \"2026-09-04\""
+      "artist": "Rrose",
+      "track": "The Illuminating Glass",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2023\" but Spotify returned \"2023-06-23\""
     },
     {
-      "artist": "Black Bananas",
-      "track": "Dust of Ages",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-10\" but Spotify returned \"2026-09-04\""
+      "artist": "Ripatti",
+      "track": "everyday",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2021\" but Spotify returned \"2021-06-25\""
     },
     {
-      "artist": "Djrum",
-      "track": "Crawl",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2024\" but Spotify returned \"2024-11-22\""
+      "artist": "Rrose",
+      "track": "Joy of the Worm",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2023\" but Spotify returned \"2023-06-23\""
+    },
+    {
+      "artist": "Nondi_",
+      "track": "For Bluetooth Speakers Only",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-02-27\""
+    },
+    {
+      "artist": "Ripatti",
+      "track": "movathat",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2021\" but Spotify returned \"2021-06-25\""
+    },
+    {
+      "artist": "Rrose",
+      "track": "Mine",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2019\" but Spotify returned \"2020-01-10\""
+    },
+    {
+      "artist": "Rrose",
+      "track": "Rib Cage",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2023\" but Spotify returned \"2023-06-23\""
     }
   ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Codex",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
+        "artist": "Rrose",
+        "track": "Cephalon",
+        "album": "Facticity",
+        "releaseDate": "2016",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/18309-rrose-cephalon/",
+        "fitHypothesis": "Pitchfork describes halting 100-BPM thumps spun into torrential delay bursts that can read as either slow-motion crawl or triple-time whirlwind, while a slower threatening layer crosses underneath.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Djrum — Codex on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — Cephalon on Facticity, requested release metadata 2016; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes intricate jazz-referencing drum programming in lurching breakbeat cadences, two competing basslines, serrated midrange motion and layered flute, pads, chimes, violin and clarinet.",
+          "attributedDescription": "Pitchfork describes halting 100-BPM thumps spun into torrential delay bursts that can read as either slow-motion crawl or triple-time whirlwind, while a slower threatening layer crosses underneath.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization.",
+          "editorialInterpretation": "Test whether tempo-perception ambiguity between Never Met and Trompe L'oeil turns foreground transit into a consequential dubwise reset, or inserts another transit mechanism before an already legible reset.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "incomingBpm": null,
+            "outgoingBpm": 130,
             "candidateBpm": null,
-            "purpose": "Test whether concentrated multi-plane rhythm after Drummz gives Ikoyi's foreground dissolution a new attenuation task, or simply adds a larger third destabilization."
+            "purpose": "Test whether tempo-perception ambiguity between Never Met and Trompe L'oeil turns foreground transit into a consequential dubwise reset, or inserts another transit mechanism before an already legible reset."
           }
         ]
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0uYNmkR6aYkqQvIELm7iJ6, 5w1wf4TzE8X2Aczszf6zXA)"
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Black Bananas",
-        "track": "Nutrageous & Jam",
-        "album": "Bad Bunch",
-        "releaseDate": "2026-09-10",
+        "artist": "Rrose",
+        "track": "The Illuminating Glass",
+        "album": "Please Touch",
+        "releaseDate": "2023",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
-        "fitHypothesis": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Black Bananas — Nutrageous & Jam on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — The Illuminating Glass on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+          "attributedDescription": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder.",
+          "editorialInterpretation": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
+            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "incomingBpm": 136,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder."
+            "purpose": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave."
           }
         ]
       },
-      "spotifyTrackId": "3IkMhiPjw4vpuiAOo3YfGP",
+      "spotifyTrackId": "6dgcbYvjXEX4pVv5wSeiUb",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Andrea",
-        "track": "TrackQY",
-        "album": "Ritorno",
-        "releaseDate": "2020",
+        "artist": "Nondi_",
+        "track": "I Version Melody",
+        "album": "Nondi...",
+        "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-        "fitHypothesis": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi/",
+        "fitHypothesis": "Pitchfork describes 8-bit synths moving over triplets of cartoonish chirps that combine into a delicate juke rhythm within a lo-fi, loop-centric dream-juke language.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Andrea — TrackQY on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Nondi_ — I Version Melody on Nondi..., requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork identifies the album's most club-facing track through fluttering late-1990s drum-and-bass-like basslines inside an otherwise non-linear hybrid language.",
+          "attributedDescription": "Pitchfork describes 8-bit synths moving over triplets of cartoonish chirps that combine into a delicate juke rhythm within a lo-fi, loop-centric dream-juke language.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition.",
+          "editorialInterpretation": "Test whether a current loop-bound juke side-step between Cave and Abundance makes Abundance's swung continuation answer a fragile rhythmic frame, or merely mediates an already clear recovery.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "outgoingBpm": 136,
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
             "candidateBpm": null,
-            "purpose": "Test whether fluttering bass motion between Tehutis Law and Pulse I makes crooked accumulation a response to a faster lateral movement, or merely inserts another bass-led proposition."
+            "purpose": "Test whether a current loop-bound juke side-step between Cave and Abundance makes Abundance's swung continuation answer a fragile rhythmic frame, or merely mediates an already clear recovery."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "error": "already present in persistent state"
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Heavensouls",
-        "track": "Dawn of the City",
-        "album": "Dawn of the City",
-        "releaseDate": "2026-08-14",
+        "artist": "Ripatti",
+        "track": "everyday",
+        "album": "Fun Is Not a Straight Line",
+        "releaseDate": "2021",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene",
-        "fitHypothesis": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+        "fitHypothesis": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Heavensouls — Dawn of the City on Dawn of the City, requested release metadata 2026-08-14; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Ripatti — everyday on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes a ten-minute odyssey evoking a malfunctioning Dance Dance Revolution machine, dreamy chiptune and frenetically lapping IDM.",
+          "attributedDescription": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": null,
-            "outgoingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test whether a long digital malfunction between Fulledge and Capa enlarges dissolution into a different production world that makes Capa's redirection necessary, or overwhelms the existing hinge."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Frekm pt. 2",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Djrum — Frekm pt. 2 on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a changing techno stormer with bleeps, jungle breaks and dubstep weight moving at two speeds, ending by dissolving into an ambient blur with a recalled flute melody.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict.",
+          "editorialInterpretation": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -471,377 +301,703 @@
             "incomingBpm": 138,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether its changing two-speed path between Thick to Handle and LOVE YOUR ENEMIES prepares competing emphasis, or completes too much transformation before the existing conflict."
+            "purpose": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "1Te0bwqNC5bCo4ARANJq21",
+      "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Black Bananas",
-        "track": "Dust of Ages",
-        "album": "Bad Bunch",
-        "releaseDate": "2026-09-10",
+        "artist": "Rrose",
+        "track": "Joy of the Worm",
+        "album": "Please Touch",
+        "releaseDate": "2023",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
-        "fitHypothesis": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Black Bananas — Dust of Ages on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — Joy of the Worm on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+          "attributedDescription": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it.",
+          "editorialInterpretation": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "position": "Between Crawl and Fulledge (Empty-40 Mix)",
+            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
             "incomingBpm": null,
-            "outgoingBpm": 143,
+            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it."
+            "purpose": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll."
           }
         ]
       },
-      "spotifyTrackId": "5JFfjxz7GgisgFKkxSUOAo",
+      "spotifyTrackId": "1eYZCA67nhqTvUC2djr5H9",
       "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Andrea",
-        "track": "Drumzzy",
-        "album": "Ritorno",
-        "releaseDate": "2020",
+        "artist": "Nondi_",
+        "track": "For Bluetooth Speakers Only",
+        "album": "Nondi...",
+        "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-        "fitHypothesis": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi/",
+        "fitHypothesis": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Andrea — Drumzzy on Ritorno, requested release metadata 2020; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Nondi_ — For Bluetooth Speakers Only on Nondi..., requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a soaring jungle mutation within loose-limbed, organized-chaos drum programming that teeters near collapse without losing its groove.",
+          "attributedDescription": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation.",
+          "editorialInterpretation": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between backsliding and Fragments",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
             "outgoingBpm": 140,
             "candidateBpm": null,
-            "purpose": "Test whether a jungle-mutation insertion after backsliding supplies a distinct reforming motion before Fragments, or duplicates the existing collapse-to-re-entry relation."
+            "purpose": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Psychic Video",
-        "album": "DJ-Kicks",
-        "releaseDate": "2026-09-02",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way",
-        "fitHypothesis": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Djrum — Psychic Video on DJ-Kicks, requested release metadata 2026-09-02; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork identifies this as a newly available original from a live-vinyl-then-edited DJ-Kicks mix whose stated design embraces bumps, ups, downs and disrupted expectations.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Foundry and Worn Down",
-            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether a current mix-born original between Foundry and Worn Down can redirect instability into threatened coherence, or adds an under-described new event without a track-specific endpoint."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "3gEX7YjqIIymMfmtXf0cIV",
+      "selected": false
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Crawl",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
+        "artist": "Ripatti",
+        "track": "movathat",
+        "album": "Fun Is Not a Straight Line",
+        "releaseDate": "2021",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+        "fitHypothesis": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Djrum — Crawl on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Ripatti — movathat on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+          "attributedDescription": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit.",
+          "editorialInterpretation": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Moonwake and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "incomingBpm": 140,
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit."
+            "purpose": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor."
           }
         ]
       },
-      "spotifyTrackId": "1QUcUBNLU27po17WyQ27jF",
-      "selected": true
+      "spotifyTrackId": "4ohLMVhB4ElU83FWypNHcR",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Rrose",
+        "track": "Mine",
+        "album": "Hymn to Moisture",
+        "releaseDate": "2019",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-hymn-to-moisture/",
+        "fitHypothesis": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rrose — Mine on Hymn to Moisture, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Moonwake and Crawl",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "incomingBpm": 140,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution."
+          }
+        ]
+      },
+      "spotifyTrackId": "341LlyUjtiyBj2WqUsW5cl",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Rrose",
+        "track": "Rib Cage",
+        "album": "Please Touch",
+        "releaseDate": "2023",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rrose — Rib Cage on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Never Met",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer."
+          }
+        ]
+      },
+      "spotifyTrackId": "35F6KDvfVX1HZAfp8ScaCK",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "3IkMhiPjw4vpuiAOo3YfGP",
-      "uri": "spotify:track:3IkMhiPjw4vpuiAOo3YfGP",
-      "name": "Nutrageous & Jam",
+      "id": "6dgcbYvjXEX4pVv5wSeiUb",
+      "uri": "spotify:track:6dgcbYvjXEX4pVv5wSeiUb",
+      "name": "The Illuminating Glass",
       "artists": [
-        "Black Bananas"
+        "Rrose"
       ],
-      "album": "Bad Bunch",
-      "releaseDate": "2026-09-04",
-      "durationMs": 272726,
-      "spotifyUrl": "https://open.spotify.com/track/3IkMhiPjw4vpuiAOo3YfGP",
+      "album": "Please Touch",
+      "releaseDate": "2023-06-23",
+      "durationMs": 528439,
+      "spotifyUrl": "https://open.spotify.com/track/6dgcbYvjXEX4pVv5wSeiUb",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
+          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "incomingBpm": 136,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder."
+          "purpose": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave."
         }
       ],
-      "fitHypothesis": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+      "fitHypothesis": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Black Bananas — Nutrageous & Jam on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Rrose — The Illuminating Glass on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+        "attributedDescription": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder.",
+        "editorialInterpretation": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Black Bananas",
-        "track": "Nutrageous & Jam",
-        "album": "Bad Bunch",
-        "releaseDate": "2026-09-10",
+        "artist": "Rrose",
+        "track": "The Illuminating Glass",
+        "album": "Please Touch",
+        "releaseDate": "2023",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
-        "fitHypothesis": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Black Bananas — Nutrageous & Jam on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — The Illuminating Glass on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a familiar-seeming R&B frame blurred into half-awake, pitch-shifted vocal smears, with guitar operating as a subliminal frequency that upsets equilibrium.",
+          "attributedDescription": "Pitchfork describes a half-speed kick-and-hi-hat frame whose individual hits ripple outward until every element quivers, followed by a seesawing closing whirr in which the beats melt away.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder.",
+          "editorialInterpretation": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
+            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "incomingBpm": 136,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether this current adjacent-world prologue gives Stadium Drive's assembly a meaningful departure from blurred song-form, or creates a second overture before Marauder."
+            "purpose": "Test whether progressive quivering and beat erasure after The Witching Hour gives Encasadelciegoeltuerco a new grid-reassembly task, or stacks two consecutive breakdown propositions before Cave."
           }
         ]
       }
     },
     {
-      "id": "5JFfjxz7GgisgFKkxSUOAo",
-      "uri": "spotify:track:5JFfjxz7GgisgFKkxSUOAo",
-      "name": "Dust of Ages",
+      "id": "1Te0bwqNC5bCo4ARANJq21",
+      "uri": "spotify:track:1Te0bwqNC5bCo4ARANJq21",
+      "name": "everyday",
       "artists": [
-        "Black Bananas"
+        "Ripatti"
       ],
-      "album": "Bad Bunch",
-      "releaseDate": "2026-09-04",
-      "durationMs": 453321,
-      "spotifyUrl": "https://open.spotify.com/track/5JFfjxz7GgisgFKkxSUOAo",
+      "album": "Fun Is Not A Straight Line",
+      "releaseDate": "2021-06-25",
+      "durationMs": 199093,
+      "spotifyUrl": "https://open.spotify.com/track/1Te0bwqNC5bCo4ARANJq21",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": null,
-          "outgoingBpm": 143,
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "incomingBpm": 138,
+          "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it."
+          "purpose": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law."
         }
       ],
-      "fitHypothesis": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+      "fitHypothesis": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Black Bananas — Dust of Ages on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Ripatti — everyday on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+        "attributedDescription": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it.",
+        "editorialInterpretation": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Black Bananas",
-        "track": "Dust of Ages",
-        "album": "Bad Bunch",
-        "releaseDate": "2026-09-10",
+        "artist": "Ripatti",
+        "track": "everyday",
+        "album": "Fun Is Not a Straight Line",
+        "releaseDate": "2021",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/",
-        "fitHypothesis": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+        "fitHypothesis": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Black Bananas — Dust of Ages on Bad Bunch, requested release metadata 2026-09-10; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Ripatti — everyday on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes seven minutes of mutating dub sludge that expands toward engulfment before machine-gunned synths stop it abruptly.",
+          "attributedDescription": "Pitchfork describes polyrhythms dense enough to bury footwork's attributed 160-BPM grounding, with gridless sharp snares and kicks subsumed by toms and rapid-fire percussion.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it.",
+          "editorialInterpretation": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "outgoingBpm": 143,
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": 138,
+            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether this current collapse event between U Belong 2 Me and Transparency gives protected re-entry a newly altered frame, or stacks a second full threshold before it."
+            "purpose": "Test whether dense grid-erasure after Thick to Handle creates a distinct conflict that LOVE YOUR ENEMIES must reorganize, or doubles an existing deformation before Tehutis Law."
           }
         ]
       }
     },
     {
-      "id": "1QUcUBNLU27po17WyQ27jF",
-      "uri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-      "name": "Crawl",
+      "id": "1eYZCA67nhqTvUC2djr5H9",
+      "uri": "spotify:track:1eYZCA67nhqTvUC2djr5H9",
+      "name": "Joy of the Worm",
       "artists": [
-        "DjRUM"
+        "Rrose"
       ],
-      "album": "Meaning's Edge",
-      "releaseDate": "2024-11-22",
-      "durationMs": 497446,
-      "spotifyUrl": "https://open.spotify.com/track/1QUcUBNLU27po17WyQ27jF",
+      "album": "Please Touch",
+      "releaseDate": "2023-06-23",
+      "durationMs": 469038,
+      "spotifyUrl": "https://open.spotify.com/track/1eYZCA67nhqTvUC2djr5H9",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
+      "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Moonwake and Fulledge (Empty-40 Mix)",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "position": "Between Crawl and Fulledge (Empty-40 Mix)",
+          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
           "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "incomingBpm": 140,
+          "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit."
+          "purpose": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll."
         }
       ],
-      "fitHypothesis": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+      "fitHypothesis": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Djrum — Crawl on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Attributed release metadata identifies Rrose — Joy of the Worm on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+        "attributedDescription": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit.",
+        "editorialInterpretation": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Djrum",
-        "track": "Crawl",
-        "album": "Meaning's Edge",
-        "releaseDate": "2024",
+        "artist": "Rrose",
+        "track": "Joy of the Worm",
+        "album": "Please Touch",
+        "releaseDate": "2023",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/",
-        "fitHypothesis": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Djrum — Crawl on Meaning's Edge, requested release metadata 2024; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Attributed release metadata identifies Rrose — Joy of the Worm on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a 170-BPM perpetual-motion roll whose rapid staccato drums occupy a dynamically shifting stereo field while the underlying structure remains essentially continuous.",
+          "attributedDescription": "Pitchfork describes nervous gamelan-like thrum over low-end swells: rotor-like drums remain in constant motion while the whole track feels almost stationary.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit.",
+          "editorialInterpretation": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Moonwake and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "position": "Between Crawl and Fulledge (Empty-40 Mix)",
+            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
             "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "incomingBpm": 140,
+            "incomingBpm": null,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether relentless high-speed continuity after Moonwake changes Fulledge's metric breakdown into a more consequential rupture, or makes the existing sequence disproportionately explicit."
+            "purpose": "Test whether motion-without-travel between Crawl and Fulledge makes the coming dissolution more dimensional, or over-explains a rupture already prepared by Crawl's sustained roll."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "3gEX7YjqIIymMfmtXf0cIV",
+      "uri": "spotify:track:3gEX7YjqIIymMfmtXf0cIV",
+      "name": "For Bluetooth Speakers Only",
+      "artists": [
+        "Nondi_"
+      ],
+      "album": "Nondi...",
+      "releaseDate": "2026-02-27",
+      "durationMs": 158426,
+      "spotifyUrl": "https://open.spotify.com/track/3gEX7YjqIIymMfmtXf0cIV",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Worn Down and Too Much Time",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Nondi_ — For Bluetooth Speakers Only on Nondi..., requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Nondi_",
+        "track": "For Bluetooth Speakers Only",
+        "album": "Nondi...",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/nondi-nondi/",
+        "fitHypothesis": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Nondi_ — For Bluetooth Speakers Only on Nondi..., requested release metadata 2026; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes insectoid dembow, an endlessly repeating melody and gravelly beats within a deliberately lo-fi, loop-centric frame.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test whether this current adjacent-world loop between Worn Down and Too Much Time turns threatened coherence into a rough lateral reset before widening, or merely delays an established consequence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4ohLMVhB4ElU83FWypNHcR",
+      "uri": "spotify:track:4ohLMVhB4ElU83FWypNHcR",
+      "name": "movathat",
+      "artists": [
+        "Ripatti"
+      ],
+      "album": "Fun Is Not A Straight Line",
+      "releaseDate": "2021-06-25",
+      "durationMs": 216466,
+      "spotifyUrl": "https://open.spotify.com/track/4ohLMVhB4ElU83FWypNHcR",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": 138,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor."
+        }
+      ],
+      "fitHypothesis": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Ripatti — movathat on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Ripatti",
+        "track": "movathat",
+        "album": "Fun Is Not a Straight Line",
+        "releaseDate": "2021",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ripatti-fun-is-not-a-straight-line/",
+        "fitHypothesis": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Ripatti — movathat on Fun Is Not a Straight Line, requested release metadata 2021; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork groups movathat with the album's densest polyrhythms, where attributed 160-BPM footwork grounding disappears beneath gridless snares, toms and machine-gun percussion.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether gridless rhythmic convolution after Drummz makes Ikoyi's foreground dissolution feel like subtraction from overload, or creates a fourth destabilization before Amor."
+          }
+        ]
+      }
+    },
+    {
+      "id": "341LlyUjtiyBj2WqUsW5cl",
+      "uri": "spotify:track:341LlyUjtiyBj2WqUsW5cl",
+      "name": "Mine",
+      "artists": [
+        "Rrose"
+      ],
+      "album": "Hymn to Moisture",
+      "releaseDate": "2020-01-10",
+      "durationMs": 440145,
+      "spotifyUrl": "https://open.spotify.com/track/341LlyUjtiyBj2WqUsW5cl",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/rrose-hymn-to-moisture/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Crawl",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": 140,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Rrose — Mine on Hymn to Moisture, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Rrose",
+        "track": "Mine",
+        "album": "Hymn to Moisture",
+        "releaseDate": "2019",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-hymn-to-moisture/",
+        "fitHypothesis": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rrose — Mine on Hymn to Moisture, requested release metadata 2019; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes an unparsable complex meter, twinkling high frequencies dissolving into dissonance and an insistent double-time bass pulse that feels like forward motion into unstable ground.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Moonwake and Crawl",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "incomingBpm": 140,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether shifting meter between Moonwake and Crawl gives the long invariant roll a contrasting entry condition, or adds another extended premise before Fulledge's existing dissolution."
+          }
+        ]
+      }
+    },
+    {
+      "id": "35F6KDvfVX1HZAfp8ScaCK",
+      "uri": "spotify:track:35F6KDvfVX1HZAfp8ScaCK",
+      "name": "Rib Cage",
+      "artists": [
+        "Rrose"
+      ],
+      "album": "Please Touch",
+      "releaseDate": "2023-06-23",
+      "durationMs": 498882,
+      "spotifyUrl": "https://open.spotify.com/track/35F6KDvfVX1HZAfp8ScaCK",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Never Met",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "incomingBpm": 137,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Rrose — Rib Cage on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Rrose",
+        "track": "Rib Cage",
+        "album": "Please Touch",
+        "releaseDate": "2023",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rrose-please-touch/",
+        "fitHypothesis": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rrose — Rib Cage on Please Touch, requested release metadata 2023; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a machine-like hum gradually spreading pulses and pings from sub-bass to high frequencies, combining engine-room and rainforest impressions.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Never Met",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether gradual spectral proliferation between Capa and Never Met makes the passing-foreground transit a response to newly distributed motion, or inserts another mediation layer."
+          }
+        ]
+      }
+    }
+  ]
 }
