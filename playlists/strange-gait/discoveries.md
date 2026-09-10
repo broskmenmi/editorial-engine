@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 123 — EXPLORE — internal turns must change downstream work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 30 unique canonical tracks with 30 matching generated-map identities and a matching COMPLETE 30-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 245 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect, objective state defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T09:50:49Z-explore-123` inspected approximately 51 named tracks, releases and source entries across Arca's current `XXXXX`, Brendon Moeller's current `Shadow Language`, Sotomayor's current `Wabi Sabi`, and overlooked Shinichi Atobe and Chevel catalogue material. Runs 117–122 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.6%).
+
+The immutable schemaVersion 2 request was pinned to `f26ab589ec114e8fc2d9fdda5bf91927f990dfdc` in request commit `4a860dbf39914eff6077f5c1146d097cb3258db8`. The matching snapshot commit is `a6910f24d99963f4b44e1ac1bd33fc69ab254149`; request fingerprint `fb977a27f2708621efe0eb0f153cc3c56d7c7db1976914a20da5a693dcd8d77c`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 6 resolved, 3 selected candidates, 3 resolved alternates, 3 unresolved and 6 warnings. There were no duplicates, substitutions, relinkings or terminal technical resolver failures.
+
+Selected exact identities:
+
+- Arca — *Willow* — `spotify:track:1F8qVSbIz2TWybUKc3ablK` — *XXXXX*, 2026-07-31, 227618 ms. BPM unavailable.
+- Brendon Moeller — *War Ghost* — `spotify:track:4UJa1ZbRHphOM6qRebScQi` — *Shadow Language*, 2026-02-05, 271745 ms. The source attributes 170 BPM; this is not resolver-measured audio.
+- Arca — *Raver* — `spotify:track:5tBkey0eCqh74gyzcm6F83` — *XXXXX*, 2026-07-31, 140028 ms. BPM unavailable.
+
+Unresolved without musical verdict:
+
+- Sotomayor — *Vida*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5ukbmDhsMpEvJpOFAJ89nS, 27kYKIqx6blSMKHlmYZLEe, 1eG6yPnORgSE9ht3jQu7B8, 54OpkFV0qtuKMPNe0hHRUE)`
+- Shinichi Atobe — *Rain 6*: `no exact Spotify title/artist search match in market SE`
+- Sotomayor — *Who's there*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0UiNcOSjADdcDNtEwOxF7I, 0zLgFtLgOHrR1wN1hDfdFK, 0VI2ZZ0RmkxaeRohQhAdDk, 5RsqUUmeizuNA05ro4nWa7)`
+
+Resolved but unselected and unevaluated:
+
+- Brendon Moeller — *Impermanence* — `spotify:track:4Ds4aom4x0JUdpfBm7sXzc`
+- Chevel — *Watery Drumming* — `spotify:track:5WyQBpUBvAwxFpbSZPhyno`
+- Chevel — *Down and Out* — `spotify:track:0CnZChBBeqpiDWOBO3192j`
+
+Warnings preserved exactly:
+
+- Arca — *Willow*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-31"`
+- Brendon Moeller — *War Ghost*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-05"`
+- Arca — *Raver*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-31"`
+- Brendon Moeller — *Impermanence*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-05"`
+- Chevel — *Watery Drumming*: `Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-09-25"`
+- Chevel — *Down and Out*: `Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-09-25"`
+
+### Evaluator findings
+
+#### Arca — Willow — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a jerky trap beat slowly taking form and pivoting into dubstep, with hi-hats and snares behaving unpredictably around the grid. That rhythmic self-reconstruction fits the selection lens.
+- **Immediate transition:** REJECT for `Worn Down → Willow → Too Much Time`. After Worn Down's threatened-coherence threshold, Willow performs a complete new beat-formation and pivot before Too Much Time's already established widening.
+- **Three-to-five-track run:** REJECT in `Foundry → Worn Down → Willow → Too Much Time → Moonwake`. Foundry supplies instability, Worn Down threatens coherence, and Willow then answers with another self-contained reformation; Too Much Time becomes a second widening rather than the direct consequence it currently provides.
+- **Long-form journey:** REJECT. The alternate `U Belong 2 Me → Willow → Transparency` was also tested: Willow's completed rhythmic reformation pre-empts Transparency's protected re-entry rather than giving it new work.
+- **Verdict:** placement-specific REJECT for both tested positions; retained as genuinely interesting. This is not a global musical rejection.
+
+#### Brendon Moeller — War Ghost — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents techno–drum-and-bass fusion whose pattern makes forward/backward and fluttering/pounding orientation perceptually ambiguous. The attributed 170 BPM is context, not evidence of energy, phrase fit or mixability.
+- **Immediate transition:** REJECT for `Drummz → War Ghost → Ikoyi`. War Ghost extends perceptual instability after Drummz instead of creating a distinct reason for Ikoyi's foreground dissolution.
+- **Three-to-five-track run:** REJECT in `Fragments → Drummz → War Ghost → Ikoyi → Amor`. The run accumulates unpredictable rhythm, orientation ambiguity and dissolution before Amor's machine-to-hand-drum mutation; the candidate adds another destabilization without changing the later mutation.
+- **Long-form journey:** REJECT. The alternate `LOVE YOUR ENEMIES → War Ghost → Tehutis Law` was also tested. It intensifies ambiguity after conflict but does not change Tehutis Law's established re-grounding task.
+- **Verdict:** placement-specific REJECT for both tested positions; retained as genuinely interesting. This is not a global musical rejection.
+
+#### Arca — Raver — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a word-blotting broken-beat construction inside confrontational, freeform club forms. That structural refusal fits the volume.
+- **Immediate transition:** REJECT for `Thick to Handle → Raver → LOVE YOUR ENEMIES`. Raver adds a compact broken-beat deformation immediately before the following track's established cross-rhythmic conflict.
+- **Three-to-five-track run:** REJECT in `Trompe L'oeil → Thick to Handle → Raver → LOVE YOUR ENEMIES → Tehutis Law`. The candidate makes the passage state rhythmic conflict twice before re-grounding, reducing rather than strengthening the following track's consequence.
+- **Long-form journey:** REJECT. The alternate `The Witching Hour → Raver → Encasadelciegoeltuerco` was also tested; it stacks two loss-of-grid gestures before Cave's existing recovery.
+- **Verdict:** placement-specific REJECT for both tested positions; retained as genuinely interesting. This is not a global musical rejection.
+
+### Sequencer finding
+
+No insertion improves transition, local-run and long-form scales together. The music may change character; the problem is not different production worlds or conspicuous turns. Each exact candidate's internal change repeats a destabilization or reformation that the surrounding journey already converts into a downstream consequence. Canonical order remains unchanged.
+
+### Auditor finding
+
+APPROVED. The request and matching snapshot are current and internally consistent; the exact unresolved errors and all six warnings are preserved; no stale candidate, alternate, duplicate or substitute entered evaluation. Each selected identity was judged separately at volume, transition, three-to-five-track and long-form scales. BPM was not converted into energy or flow. The protected internal order remains untouched. Auditor approves the three placement-specific rejections, target-local inspiration harvest and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **30 canonical tracks unchanged**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: Willow, War Ghost and Raver retained as exact placement-specific rejects that remain genuinely interesting; three unresolved research leads, three exact unselected alternates and current/catalogue watches retained with their boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **245 → 248 exact tracks**, adding Willow, War Ghost and Raver.
+- Journey map: unchanged; all 30 canonical identities remain in exact ledger order.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 51 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 unselected alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **17.6%**, lead-to-resolution conversion **66.7%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–123: **332 leads from approximately 1,722 inspections; 15 ADDs from 100 selected candidates**. The recent ADD rate is **4/10 across Runs 114–123**, versus **16/106 across Runs 55–123**. The no-ADD streak is one run since Run 122, with three exact interesting tracks retained during it. This is candidate-specific proportional judgment, not Scout over-filtering, resolver loss, an epistemic veto or repetitive placement search: six identities resolved, all three selected candidates passed the lens, and distinct requested and alternate placements were tested. The run does not globally reject the tracks, prove the handoffs, prove phrase fit or live mixability, or prove STRANGE GAIT complete.
+
 ## Run 122 — EXPLORE — instability must create a condition — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 242 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.

@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 123 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Arca | Willow | https://open.spotify.com/track/1F8qVSbIz2TWybUKc3ablK | Placement-specific REJECT only for the two tested Run 123 positions. The documented slow beat formation and dubstep pivot remain genuinely interesting elsewhere; date variance preserved. |
+| EXACT TRACK | Brendon Moeller | War Ghost | https://open.spotify.com/track/4UJa1ZbRHphOM6qRebScQi | Placement-specific REJECT only for the two tested Run 123 positions. The documented techno–drum-and-bass orientation ambiguity remains genuinely interesting elsewhere; the attributed 170 BPM is not resolver-measured audio and date variance is preserved. |
+| EXACT TRACK | Arca | Raver | https://open.spotify.com/track/5tBkey0eCqh74gyzcm6F83 | Placement-specific REJECT only for the two tested Run 123 positions. The documented word-blotting broken beat remains genuinely interesting outside those accumulated-conflict runs; date variance preserved. |
+| RESEARCH LEADS | Sotomayor; Shinichi Atobe; Sotomayor | Vida; Rain 6; Who's there | https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review ; https://pitchfork.com/reviews/albums/shinichi-atobe-peace-of-mind-ep/ | Two ambiguous exact-title searches and one no-match outcome are preserved in discoveries.md. No musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Brendon Moeller; Chevel; Chevel | Impermanence; Watery Drumming; Down and Out | spotify:track:4Ds4aom4x0JUdpfBm7sXzc; spotify:track:5WyQBpUBvAwxFpbSZPhyno; spotify:track:0CnZChBBeqpiDWOBO3192j | Exact but unselected and unevaluated; not retained as editorial decisions and not added to the utility ledger. |
+| CURRENT WATCH | Arca; Brendon Moeller; Sotomayor | XXXXX; Shadow Language; Wabi Sabi | https://pitchfork.com/reviews/albums/arca-xxxxx/ ; https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/ ; https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review | Current 2026 release windows for beat formation, perceptual ambiguity and cross-form rhythm; release context is not transferred into unevaluated tracks. |
+| CATALOGUE WATCH | Shinichi Atobe; Chevel | Peace of Mind; Blurse | https://pitchfork.com/reviews/albums/shinichi-atobe-peace-of-mind-ep/ ; https://pitchfork.com/reviews/albums/21129-blurse/ | Overlooked suspension and temporal-fragmentation windows. Exact unresolved/alternate boundaries remain in force. |
+
+### Placement and inspiration boundaries
+
+- Willow is rejected only for `Worn Down → candidate → Too Much Time` and `U Belong 2 Me → candidate → Transparency`.
+- War Ghost is rejected only for `Drummz → candidate → Ikoyi` and `LOVE YOUR ENEMIES → candidate → Tehutis Law`.
+- Raver is rejected only for `Thick to Handle → candidate → LOVE YOUR ENEMIES` and `The Witching Hour → candidate → Encasadelciegoeltuerco`.
+- These are not proven sequences or live-mixing edges. BPM, perceived pulse, energy, density, phrase fit, mixability and exact handoffs remain unknown except for the explicitly attributed, non-resolver 170-BPM source figure for War Ghost.
+
 ## Run 122 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

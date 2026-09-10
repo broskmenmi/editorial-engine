@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 123 — Internal turns must change downstream work
+
+**Direction:** Explore beat formation, tempo-perception ambiguity and broken-beat deformation where the endpoint changes the following track's task, while avoiding chains of successive destabilization that merely restate conflict.
+
+**Ingredients:**
+
+- Arca — *Willow* — exact placement-specific reject; slow beat formation and dubstep pivot remain useful outside the two tested reformation/re-entry positions.
+- Brendon Moeller — *War Ghost* — exact placement-specific reject; techno–drum-and-bass orientation ambiguity remains useful outside the two tested accumulated-instability positions.
+- Arca — *Raver* — exact placement-specific reject; compact word-blotting broken beat remains useful outside the two tested doubled-conflict positions.
+- Sotomayor — *Vida* / *Who's there* and Shinichi Atobe — *Rain 6* — unresolved exact-title research leads, without musical verdicts.
+- Brendon Moeller — *Impermanence* and Chevel — *Watery Drumming* / *Down and Out* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A strong internal turn can remain valuable even when the current journey already contains the consequence it would otherwise create. The useful set direction is to pair perceptual ambiguity with a following formation that must resolve, redirect or reinterpret it.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all exact handoffs remain unknown. War Ghost's attributed 170 BPM is not resolver-measured audio and establishes neither energy nor a mixing relationship. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 122 — Instability must create a condition
 
 **Direction:** Explore unstable or cross-world transformations whose endpoint gives the following threshold, recovery or anchor a specific task, while resisting complete internal turns that merely add a second overture or restart.
