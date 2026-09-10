@@ -1,5 +1,61 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 127 — EXPLORE — rhythmic complexity must not pre-empt its consequence — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 257 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T13:53:50Z-explore-127` inspected approximately 52 named tracks, releases and source entries across current September 2026 electronic-review windows, Lechuga Zafiro's *Desde Los Oídos de un Sapo* and *Testigo* catalogue, Beatrice Dillon's *Workaround* and *Basho*, and Skee Mask's *ISS010* and *808BB*. Current Bitchin Bajas material was excluded as already decided in Run 101; the current Windy & Carl / Optigan Conservatory material did not clear the bodily or techno-oriented lead floor. Runs 121–126 selected ecosystems and prior canonical, rejected, PARKED or utility-retained exact identities were excluded. Nine honest leads survived (17.3%).
+
+The immutable schemaVersion 2 request was pinned to `59d2aa8d407ca3a6574041c67aa6fce6f65a0432` in request commit `3174303c87fa7586da2187bedc8d4c665d02869d`. The matching snapshot commit is `f4916acd1a3ebbca32e6fcda48be4d2e8e284541`; request fingerprint `daded6fadeeb88fe520a65d3590a54a076f96b31bfcab5e864a7a8617e5c8ce0`.
+
+### Resolver outcome
+
+The terminal schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 9 requested, 5 resolved, 3 selected candidates, 2 resolved alternates, 4 unresolved and 5 warnings. There were no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Beatrice Dillon, Kuljit Bhamra — *Square Fifths* — `spotify:track:0Au26e7KWu9IqgkWpIP1Vn` — *Workaround*, 2020-02-07, 271578 ms.
+- Lechuga Zafiro — *Oreja Ácida* — `spotify:track:723KTMA4xDVVeOaNoRU6zy` — *Desde los oídos de un sapo*, 2024-10-18, 240096 ms.
+- Beatrice Dillon — *Basho* — `spotify:track:5sKMHfvZBvZAXWJLaoj5TI` — *Basho*, 2025-05-16, 1248000 ms.
+
+Unresolved without musical verdict:
+
+- Lechuga Zafiro — *Botellharpa*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5usgpykHqJgCg3ZTfIMokA, 5Z1MKlAT8LwVueM8qE7qja)`
+- Skee Mask — *Stomp*: `no exact Spotify title/artist search match in market SE`
+- Skee Mask — *Matchpoint*: `no exact Spotify title/artist search match in market SE`
+- Beatrice Dillon — *Workaround Two*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3GhvFw1pbQ2yTIRPXBOyE0, 3wq57HUiqDdSD1BueC4bPI, 6BMgGWlQ7Mv28tK8fCSwVG)`
+
+Resolved but unselected and unevaluated:
+
+- Lechuga Zafiro — *Agua de Vidrio* — `spotify:track:6a1z4eVHc3IycE3AgzTtHo`
+- Lechuga Zafiro — *Tero Sex (Danza para piedra volcánica y tero)* — `spotify:track:3zOJ1VrIaaVmB26yU7p7U4`
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-02-07"` — *Square Fifths*.
+- `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-10-18"` — separately for *Oreja Ácida*, *Agua de Vidrio* and *Tero Sex (Danza Para Piedra Volcánica y Tero)*.
+- `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-05-16"` — *Basho*.
+
+### Evaluator findings
+
+**Beatrice Dillon, Kuljit Bhamra — *Square Fifths* — placement-specific REJECT.** Volume fit passes through exact criticism describing icy rave stabs over tabla and a dembow-suggesting groove within *Workaround*'s precise 150-BPM negative-space framework. At `Ikoyi → candidate → Amor`, the transition into a different acoustic/electronic percussion frame is intelligible, but the exit pre-empts *Amor*'s machine-to-hand-drum mutation. The five-track run `Drummz → Ikoyi → candidate → Amor → Truth in Noise` becomes four successive percussion propositions before consolidation. At `Thick to Handle → candidate → LOVE YOUR ENEMIES`, the track instead adds another conflict premise before *Tehutis Law* re-grounds. Long-form gain is therefore absent in both tested placements. The source's approximately 150-BPM album framework is attributed criticism, not resolver-measured audio; exact perceived pulse and handoffs remain unknown but are not the rejection basis.
+
+**Lechuga Zafiro — *Oreja Ácida* — placement-specific REJECT.** Volume fit passes through exact criticism describing lumbering stop-start triplets that explode into hyperspeed breaks. At `The Witching Hour → candidate → Encasadelciegoeltuerco`, the immediate progression is thematically legible, but the local run states two consecutive triplet/derailment transformations before *Cave*'s recovery. A reasonable alternative between *Capa* and *Never Met* adds another slow/fast redirection before an existing transit/reset relation. At long-form scale, the candidate intensifies mechanisms already carrying clear consequences rather than changing the next track's task. Unknown BPM and handoffs are preserved without being treated as failure.
+
+**Beatrice Dillon — *Basho* — placement-specific REJECT.** Volume fit passes through exact criticism describing a 20:48 nonlinear alternation of organic and industrial elements that repeatedly crests, recedes and begins again without resolution. At `Foundry → candidate → Worn Down`, the immediate continuation of directional instability is plausible, but the candidate's duration and self-renewing form replace rather than prepare the condition *Foundry* currently gives *Worn Down*. The five-track run becomes dominated by a second unresolved journey inside the journey. A late alternative after *Eyes of the Wind* similarly creates another long passage before *Invisible Warriors Of Light*. The long-form cost is concrete and proportional; missing phrase/mix evidence is not the rejection basis.
+
+### Sequencer and Auditor
+
+The Sequencer recommends no canonical insertion. The Auditor approves all three as placement-specific REJECTs, confirms that UNKNOWN evidence was not converted into an epistemic veto, and approves retention of all three selected exact identities in the independent discovery layers and global utility ledger.
+
+Protected and review state remain intact. No ledger or journey-annotation change is approved. STRANGE GAIT remains 32 tracks with `Transparency → When We Froze → Stardancer` unchanged. EDITORIAL ENGINE — DISCOVERY POOL increases from 257 to 260 exact tracks.
+
+Across Runs 87–127: 368 leads from approximately 1,925 inspections and 17 ADDs from 112 selected candidates. Recent ADD rate: 4/10 across Runs 118–127; overall repaired comparison: 18/118 across Runs 55–127. The no-ADD streak is two runs since Run 125, with six exact interesting tracks retained during it. This supports playlist maturity and candidate-specific proportional judgment, not Scout over-filtering, evaluator epistemic veto or repetitive placement search.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 126 — EXPLORE — motion-stasis must change the next track's work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 254 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.

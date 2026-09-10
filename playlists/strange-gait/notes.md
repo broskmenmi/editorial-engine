@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 127 — EXPLORE — rhythmic complexity must not pre-empt its consequence
+
+No canonical track is added. Beatrice Dillon, Kuljit Bhamra — *Square Fifths*, Lechuga Zafiro — *Oreja Ácida* and Beatrice Dillon — *Basho* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested placements are rejected.
+
+*Square Fifths* places a precise tabla/dembow-inflected 150-BPM framework immediately before *Amor*'s existing machine-to-hand-drum mutation, pre-empting rather than preparing that consequence; its alternate conflict-run placement adds another rhythmic premise before *Tehutis Law* re-grounds. *Oreja Ácida*'s stop-start triplets and hyperspeed-break transformation doubles the existing triplet derailment before *Cave* restores motion, while a central alternative adds another redirection stage before *Never Met*. *Basho*'s 20:48 cycle of crest, recession and restart would dominate rather than prepare the *Foundry → Worn Down* relation; after *Eyes of the Wind* it would create another long passage before the existing afterword.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 5 exact resolutions, 3 selected candidates, 2 exact alternates and 4 unresolved identities. Five release-date warnings are preserved. BPM beyond the source-attributed Workaround framework, perceived pulse, energy, density, phrasing, mixability and all exact handoffs remain unknown.
+
 ## Run 126 — EXPLORE — motion-stasis must change the next track's work
 
 No canonical track is added. Rrose — *The Illuminating Glass*, Ripatti — *everyday* and Rrose — *Joy of the Worm* all pass STRANGE GAIT's selection lens, but their tested placements are rejected. *The Illuminating Glass* adds a complete quivering-to-beat-erasure arc immediately before *Encasadelciegoeltuerco*'s existing derailment; *everyday* doubles deformation before *LOVE YOUR ENEMIES* and *Tehutis Law*; *Joy of the Worm* places another 7:49 motion-without-travel construction between *Crawl*'s 8:17 plateau and *Fulledge*'s dissolution.

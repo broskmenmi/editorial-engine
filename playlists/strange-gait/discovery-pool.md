@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 127 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Beatrice Dillon, Kuljit Bhamra | Square Fifths | https://open.spotify.com/track/0Au26e7KWu9IqgkWpIP1Vn | Placement-specific REJECT only for the tested Run 127 positions. Its exact tabla/dembow-inflected 150-BPM negative-space construction remains genuinely interesting elsewhere; release-date variance and attributed-tempo boundary preserved. |
+| EXACT TRACK | Lechuga Zafiro | Oreja Ácida | https://open.spotify.com/track/723KTMA4xDVVeOaNoRU6zy | Placement-specific REJECT only for the tested Run 127 positions. Its exact stop-start-triplet-to-hyperspeed-break transformation remains genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Beatrice Dillon | Basho | https://open.spotify.com/track/5sKMHfvZBvZAXWJLaoj5TI | Placement-specific REJECT only for the tested Run 127 positions. Its exact 20:48 crest/recession/restart form remains genuinely interesting elsewhere; release-date variance preserved. |
+| UNRESOLVED | Lechuga Zafiro; Skee Mask; Beatrice Dillon | Botellharpa; Stomp; Matchpoint; Workaround Two | https://pitchfork.com/reviews/albums/lechuga-zafiro-desde-los-oidos-de-un-sapo ; https://pitchfork.com/reviews/albums/skee-mask-iss010 ; https://pitchfork.com/reviews/albums/beatrice-dillon-workaround | Two ambiguous and two no-match exact-title outcomes are preserved in discoveries.md. No musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Lechuga Zafiro | Agua de Vidrio; Tero Sex (Danza para piedra volcánica y tero) | spotify:track:6a1z4eVHc3IycE3AgzTtHo ; spotify:track:3zOJ1VrIaaVmB26yU7p7U4 | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. |
+| RELEASE / CATALOGUE WATCH | Lechuga Zafiro; Beatrice Dillon; Skee Mask | Desde los oídos de un sapo; Workaround / Basho; ISS010 / 808BB | https://pitchfork.com/reviews/albums/lechuga-zafiro-desde-los-oidos-de-un-sapo ; https://pitchfork.com/reviews/albums/beatrice-dillon-workaround ; https://pitchfork.com/reviews/tracks/beatrice-dillon-basho ; https://pitchfork.com/reviews/albums/skee-mask-iss010 | Field-recording percussion, nonlinear negative-space and continuously varied techno frameworks remain useful research windows. |
+| PLACEMENT BOUNDARY | Beatrice Dillon; Lechuga Zafiro | Square Fifths; Oreja Ácida; Basho | See exact rows above | These placements are rejected, not the tracks globally. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 126 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

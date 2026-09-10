@@ -265,3 +265,6 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
+| 258 | Beatrice Dillon, Kuljit Bhamra | Square Fifths | spotify:track:0Au26e7KWu9IqgkWpIP1Vn | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
+| 259 | Lechuga Zafiro | Oreja Ácida | spotify:track:723KTMA4xDVVeOaNoRU6zy | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
+| 260 | Beatrice Dillon | Basho | spotify:track:5sKMHfvZBvZAXWJLaoj5TI | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |

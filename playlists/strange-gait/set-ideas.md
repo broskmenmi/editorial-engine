@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 127 — Rhythmic complexity must not pre-empt its consequence
+
+**Direction:** Explore tracks whose internal rhythmic mutation creates a state the following track must answer, while distinguishing them from transformations that pre-empt, duplicate or replace the consequence already carried by the journey.
+
+**Ingredients:**
+
+- Beatrice Dillon, Kuljit Bhamra — *Square Fifths* — exact placement-specific reject; precise tabla/dembow-inflected negative space remains useful outside the tested percussion-conflict runs.
+- Lechuga Zafiro — *Oreja Ácida* — exact placement-specific reject; stop-start triplets exploding into hyperspeed breaks remain useful outside the tested double-derailment positions.
+- Beatrice Dillon — *Basho* — exact placement-specific reject; a 20:48 unresolved crest/recede/restart form remains useful outside the tested early and closing passages.
+- Lechuga Zafiro — *Agua de Vidrio* / *Tero Sex* — exact resolved alternates, unselected and unevaluated.
+- *Botellharpa*, *Stomp*, *Matchpoint* and *Workaround Two* — unresolved exact-title research leads without verdicts.
+
+**Why interesting:** Structural freedom is most useful when its endpoint hands a real problem or opening to the next track. Percussion detail, metric friction and nonlinear recurrence can remain compelling even when the current journey already performs the needed consequence.
+
+**Unknown / risk:** BPM beyond the source-attributed *Workaround* framework, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 126 — Motion-stasis must change the next track's work
 
 **Direction:** Explore motion that feels stationary, grids that disappear and loops that refuse development only where their exit changes the following formation's task.
