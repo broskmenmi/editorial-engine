@@ -255,6 +255,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 249 | Pugilist | Encrypted | spotify:track:2kEw7BaTra4HoLjNtbhfhI | STRANGE GAIT Run 124 | Placement-specific reject / interesting | 2026-09-10 |
 | 250 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | STRANGE GAIT Run 124 | Canonical ADD / interesting | 2026-09-10 |
 | 251 | Pugilist | Descendant | spotify:track:0ph1ekSlqEhdBYpg2phI2W | STRANGE GAIT Run 124 | Placement-specific reject / interesting | 2026-09-10 |
+| 252 | Black Bananas | Nutrageous & Jam | spotify:track:3IkMhiPjw4vpuiAOo3YfGP | STRANGE GAIT Run 125 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 253 | Black Bananas | Dust of Ages | spotify:track:5JFfjxz7GgisgFKkxSUOAo | STRANGE GAIT Run 125 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 254 | DjRUM | Crawl | spotify:track:1QUcUBNLU27po17WyQ27jF | STRANGE GAIT Run 125 | Canonical ADD / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

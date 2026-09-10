@@ -1,5 +1,68 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 125 — EXPLORE — sustained motion can make rupture consequential — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 31 unique canonical tracks with 31 matching journey annotations and 31 generated-map identities. Its COMPLETE 31-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 251 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T11:52:00Z-explore-125` inspected approximately 52 named tracks, releases and source entries across Pitchfork's September 10, 2026 Black Bananas review, September 2 Djrum DJ-Kicks announcement, the August 14 Guardian Heavensouls survey, and overlooked Djrum and Andrea catalogue. Runs 119–124 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.3%).
+
+The immutable schemaVersion 2 request was pinned to `cc64b566ac951401884353ba37734a60fadcd3f4` in request commit `b438a8868eb7d08cdf56d7a0168703ac3b3aee97`. The matching snapshot commit is `d1933e99faf271ee60d0fce41f3854dd91b3f5ce`; request fingerprint `890ba8aaedbca8ca070811d82ee583324da79cd5f8a52cff9501cbc44a221f9c`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 3 resolved, 3 selected candidates, 0 alternates, 6 unresolved and 3 warnings. There were no duplicates, substitutions, relinkings or terminal technical resolver failures.
+
+Selected exact identities:
+
+- Black Bananas — *Nutrageous & Jam* — `spotify:track:3IkMhiPjw4vpuiAOo3YfGP` — *Bad Bunch*, 2026-09-04, 272726 ms.
+- Black Bananas — *Dust of Ages* — `spotify:track:5JFfjxz7GgisgFKkxSUOAo` — *Bad Bunch*, 2026-09-04, 453321 ms.
+- DjRUM — *Crawl* — `spotify:track:1QUcUBNLU27po17WyQ27jF` — *Meaning's Edge*, 2024-11-22, 497446 ms. Pitchfork attributes 170 BPM; this is not resolver-measured audio.
+
+Unresolved without musical verdict:
+
+- Djrum — *Codex*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0uYNmkR6aYkqQvIELm7iJ6, 5w1wf4TzE8X2Aczszf6zXA)`
+- Andrea — *TrackQY*: `no exact Spotify title/artist search match in market SE`
+- Heavensouls — *Dawn of the City*: `no exact Spotify title/artist search match in market SE`
+- Djrum — *Frekm pt. 2*: `no exact Spotify title/artist search match in market SE`
+- Andrea — *Drumzzy*: `no exact Spotify title/artist search match in market SE`
+- Djrum — *Psychic Video*: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-09-04"` — Black Bananas — *Nutrageous & Jam*.
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-09-04"` — Black Bananas — *Dust of Ages*.
+- `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-11-22"` — Djrum — *Crawl*.
+
+### Evaluator findings
+
+**DjRUM — *Crawl* — ADD between *Moonwake* and *Fulledge (Empty-40 Mix)*.** Volume fit passes because exact track-level criticism establishes high-speed continuous form whose spatial and timbral changes do not resolve into a conventional structural endpoint. Immediate transition quality passes provisionally at `Moonwake → Crawl → Fulledge`: intensification enters an 8:17 invariant roll, then *Fulledge* receives a specific state to disrupt. The five-track run `Too Much Time → Moonwake → Crawl → Fulledge (Empty-40 Mix) → Capa` moves from widening and intensification through sustained motion into metric dissolution and redirection. At long-form scale, the unusual continuity provides a plateau inside a change-dense journey, giving the later rupture proportionate consequence. Its duration is a material cost, and the exact handoffs remain unknown. The alternate position `Thick to Handle → Crawl → LOVE YOUR ENEMIES` is rejected because it adds another long pre-grounding stage before *Tehutis Law*.
+
+**Black Bananas — *Nutrageous & Jam* — placement-specific REJECT.** The track passes the volume lens: Pitchfork describes a blurred R&B-ballad frame, half-awake vocals, brassy blare and guitar functioning as another destabilizing frequency. Before *Stadium Drive*, however, it creates a second preface before the current transformation-led overture and first anchor. After *Eyes of the Wind*, it supplies its own arrival and leaves *Invisible Warriors Of Light* with less purpose. The track remains interesting elsewhere.
+
+**Black Bananas — *Dust of Ages* — placement-specific REJECT.** The exact seven-minute dub-sludge accumulation and machine-gunned-synth stop pass the volume lens. Between *U Belong 2 Me* and *Transparency*, that complete engulfment-and-stop threshold repeats and overweights a boundary already prepared for the protected re-entry. Between *Foundry* and *Worn Down*, it replaces rather than prepares the threatened-coherence step. The track remains interesting elsewhere.
+
+BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown except for the source-attributed, non-resolver 170-BPM description of *Crawl*.
+
+### Sequencer decision
+
+Insert `spotify:track:1QUcUBNLU27po17WyQ27jF` at canonical position 11, between *Moonwake* and *Fulledge (Empty-40 Mix)*. The listener-protected internal order `Transparency → When We Froze → Stardancer` remains intact. No other canonical reorder occurs.
+
+### Auditor decision
+
+**APPROVED.** One canonical ADD, two placement-specific REJECT decisions, three target-local inspiration entries, one set direction and three doctrine-free global utility additions are supported by exact identities and lawful evidence. All unresolved identities, warnings and epistemic boundaries are preserved. No actionable REPAIR emerges.
+
+### Durable result
+
+STRANGE GAIT changes from 31 to 32 canonical tracks. EDITORIAL ENGINE — DISCOVERY POOL changes from 251 to 254 tracks with all three selected exact identities retained. Automatic publishing remains enabled. GitHub Actions owns affected-playlist publication, exact Spotify read-back and journey-map regeneration.
+
+### Run analysis
+
+Approximately 52 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 1 ADD + 2 placement-specific REJECT → 3 utility additions. Inspection-to-lead conversion is 17.3%, exact-resolution conversion is 33.3%, and selected-candidate-to-ADD conversion is 33.3%.
+
+Across Runs 87–125: 350 leads from approximately 1,823 inspections; 17 ADDs from 106 selected candidates. The recent ADD rate is 5/10 across Runs 116–125, versus 18/112 across Runs 55–125. The no-ADD streak remains zero after consecutive additions in Runs 124 and 125. This is productive exploration with candidate-specific proportional judgment, not forced expansion. The strongest counterargument is that *Crawl*'s 8:17 invariant roll overextends an already intensified central passage; it passes because the sustained state gives *Fulledge* a specific structure to break rather than adding another internal turn. No actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 124 — EXPLORE — passage can turn an afterword into arrival — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 30 unique canonical tracks with 30 matching journey annotations and 30 generated-map identities. Its COMPLETE 30-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 248 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.

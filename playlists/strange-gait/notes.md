@@ -1,5 +1,11 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 125 — EXPLORE — sustained motion can make rupture consequential
+
+DjRUM — *Crawl* is added between Sciahri — *Moonwake* and Demdike Stare — *Fulledge (Empty-40 Mix)*. Pitchfork describes the exact 8:17 track as a rapid staccato-drum roll with continual stereo and reverb shifts but an essentially unchanged, endpoint-resistant structure. The review attributes 170 BPM; this is not resolver-measured audio. Editorially, `Too Much Time → Moonwake → Crawl → Fulledge (Empty-40 Mix) → Capa` gains a sustained state before metric dissolution, so *Fulledge* breaks something specific and *Capa* redirects after a proportionate rupture.
+
+Black Bananas — *Nutrageous & Jam* and *Dust of Ages* both pass the selection lens and remain genuinely interesting, but their tested placements are rejected. *Nutrageous & Jam* creates a second preface before the transformation-led overture, while *Dust of Ages* repeats a complete engulfment-and-stop threshold between *U Belong 2 Me* and the protected re-entry at *Transparency*. Exact handoffs, perceived pulse, energy, density, phrasing and mixability remain unknown.
+
 ## Run 124 — EXPLORE — passage can turn an afterword into arrival
 
 Azu Tiwaline — *Eyes of the Wind* is added after Len Faki — *Stardancer* and before Steve Rachmad — *Invisible Warriors Of Light*. Pitchfork describes a mostly ambient 6:27 passage that cradles brief languid hand drumming inside shimmering drone and bleep, opening onto another world. Editorially, the protected trio completes before this liminal passage; the existing electro-soul afterword then becomes an arrival rather than an immediate appended contrast.

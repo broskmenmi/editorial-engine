@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 125 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Black Bananas | Nutrageous & Jam | https://open.spotify.com/track/3IkMhiPjw4vpuiAOo3YfGP | Placement-specific REJECT only for the tested Run 125 positions. Its exact blurred song-form equilibrium remains genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Black Bananas | Dust of Ages | https://open.spotify.com/track/5JFfjxz7GgisgFKkxSUOAo | Placement-specific REJECT only for the tested Run 125 positions. Its exact long dub-sludge accumulation and abrupt synth stop remain genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | DjRUM | Crawl | https://open.spotify.com/track/1QUcUBNLU27po17WyQ27jF | Canonical ADD between Moonwake and Fulledge (Empty-40 Mix). The exact sustained-motion plateau is retained; release-date variance and non-resolver attributed BPM boundary preserved. |
+| RESEARCH LEADS | Djrum; Andrea; Heavensouls | Codex; TrackQY; Dawn of the City; Frekm pt. 2; Drumzzy; Psychic Video | https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way ; https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/ ; https://pitchfork.com/reviews/albums/andrea-ritorno/ ; https://www.theguardian.com/music/2026/aug/14/add-to-playlist-rowlene | One ambiguous and five no-match exact-title outcomes are preserved in discoveries.md. No musical verdict or utility entry. |
+| CURRENT WATCH | Black Bananas; Djrum | Bad Bunch; DJ-Kicks | https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/ ; https://pitchfork.com/story/djrum-has-a-dj-kicks-on-the-way | Current September 2026 blurred-rock/electronic and shape-shifting mix windows; unresolved and unevaluated boundaries remain in force. |
+| CATALOGUE WATCH | Djrum; Andrea | Meaning's Edge; Ritorno | https://pitchfork.com/reviews/albums/djrum-meanings-edge-ep/ ; https://pitchfork.com/reviews/albums/andrea-ritorno/ | Overlooked high-speed continuity, broken-grid and spatial-rhythm windows for future fresh evidence. |
+| PLACEMENT BOUNDARY | Black Bananas; DjRUM | Nutrageous & Jam; Dust of Ages; Crawl | See exact rows above | The Black Bananas placements are rejected, not the tracks globally. Crawl's alternate pre-grounding placement is rejected while its canonical sustained-motion placement is approved. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 124 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

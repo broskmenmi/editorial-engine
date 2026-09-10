@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 125 — Sustained motion can make rupture consequential
+
+**Direction:** Explore long, structurally continuous motion as an intentional plateau that gives a following dissolution, redirection or hard left turn a specific state to break.
+
+**Ingredients:**
+
+- Sciahri — *Moonwake* → DjRUM — *Crawl* → Demdike Stare — *Fulledge (Empty-40 Mix)* — canonical provisional relation; intensification enters sustained invariant motion before metric dissolution.
+- Black Bananas — *Nutrageous & Jam* — exact placement-specific reject; blurred familiar song form remains useful outside the tested extra-preface and post-arrival positions.
+- Black Bananas — *Dust of Ages* — exact placement-specific reject; long dub-sludge accumulation and abrupt stop remain useful outside the tested duplicated-threshold positions.
+- Djrum — *Codex*, *Frekm pt. 2* and *Psychic Video*; Andrea — *TrackQY* and *Drumzzy*; Heavensouls — *Dawn of the City* — unresolved exact-title research leads without verdicts.
+
+**Why interesting:** A playlist built from structural turns can benefit from a stretch that refuses to turn. The point is not smoothness or tempo continuity; it is to make the next rupture act on a clearly sustained condition.
+
+**Unknown / risk:** *Crawl*'s 8:17 duration is a material long-form cost. The review-attributed 170 BPM is not resolver-measured audio. Perceived pulse, energy, density, phrasing, mixability and all new handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 124 — Passage can create arrival
 
 **Direction:** Explore liminal tracks whose endpoint makes a following afterword, re-entry or anchor feel like arrival, while distinguishing them from self-contained recoveries and extra development stages.
