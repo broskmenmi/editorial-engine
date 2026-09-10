@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 129 — Acceleration must create downstream work
+
+**Direction:** Explore brief accelerations, triplet escalations and delayed beat returns only where their endpoint changes what the following formation must accomplish.
+
+**Ingredients:**
+
+- Silvan Strauss — *THAT'S WHO?!? (FAST BARISTA)* — exact placement-specific reject; compact live-drumming / acid-jazz / brittle-footwork collision remains useful outside the tested pre-emption positions.
+- Gloorp — *Pergggus* — exact placement-specific reject; live-band club construction and triplet escalation remain useful outside the tested redirection and percussion-mutation passages.
+- Gloorp — *Ugggly* — exact placement-specific reject; delayed beat return remains useful outside the tested duplicated-recovery passages.
+- Rival Consoles — *Unfolding* and Pev — *Aztec Chant* — unresolved exact-title research leads without verdicts.
+- Björk — *Pluto*, Gloorp — *Glimpse*, Marina Herlop — *Jaque* and Kali Malone — *Heavy With Fruit* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A conspicuous acceleration or return can connect different production worlds, but it earns sequence space only when its exit gives the next track a new task rather than performing that track's distinctive work first.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 128 — Recovery must remain open for the next track
 
 **Direction:** Explore transformations whose endpoint leaves a real condition for the following track, distinguishing them from self-contained breakdown-and-recovery arcs that make the next recovery redundant.

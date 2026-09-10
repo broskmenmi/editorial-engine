@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 129 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Silvan Strauss | THAT'S WHO?!? (FAST BARISTA) | https://open.spotify.com/track/3LQ4zin9a46jkNbl1AIHsA | Placement-specific REJECT only for the two tested Run 129 positions. Its compact live-drum, acid-jazz and brittle-footwork collision remains genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Gloorp | Pergggus | https://open.spotify.com/track/6WuS2PecQBjySvnhxr0qY8 | Placement-specific REJECT only for the two tested Run 129 positions. Its live-band club construction and triplet escalation remain genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Gloorp | Ugggly | https://open.spotify.com/track/0iuJOUWSLk0QCo2NrGcbLm | Placement-specific REJECT only for the two tested Run 129 positions. Its delayed beat-return construction remains genuinely interesting elsewhere; release-date variance preserved. |
+| UNRESOLVED | Rival Consoles | Unfolding | https://pitchfork.com/reviews/tracks/rival-consoles-unfolding | Ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate two identities. No musical verdict or utility entry. |
+| UNRESOLVED | Pev | Aztec Chant | https://pitchfork.com/reviews/albums/18622-livity-sound-livity-sound | No exact Spotify title/artist search match in market SE. No musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Björk; Gloorp; Marina Herlop; Kali Malone | Pluto; Glimpse; Jaque; Heavy With Fruit | spotify:track:0zgPZSkp20PSuyToQ0lZ0h ; spotify:track:4Lhma3wkZBsovUt9MKAufO ; spotify:track:0vVXlh1qL9h6RbNsrEuPF7 ; spotify:track:5lmSY7B8nAcdGvZrhmiWeT | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. |
+| RELEASE / CATALOGUE WATCH | Silvan Strauss; Gloorp; Marina Herlop / Kali Malone | SPRINTING; Gloorp 'Em Up; Dja Dja / Burning Song | https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks ; https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up ; https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja ; https://pitchfork.com/story/kali-malone-readies-new-album-burning-song | Current, emerging and adjacent research windows. Release-level context does not become unverified track fact. |
+| PLACEMENT BOUNDARY | Silvan Strauss; Gloorp | THAT'S WHO?!? (FAST BARISTA); Pergggus; Ugggly | See exact rows above | These placements are rejected, not the tracks globally. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 128 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

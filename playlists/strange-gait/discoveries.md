@@ -1,5 +1,89 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 129 — EXPLORE — acceleration must create downstream work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 262 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T15:49:24Z-explore-129` inspected approximately 53 named tracks, releases and review entries across current September 2026 surveys, Silvan Strauss' *SPRINTING*, Gloorp's emerging live-band club field, Rival Consoles, Livity Sound, Marina Herlop, Kali Malone and overlooked Björk catalogue. Canonical, active-rejection, untriggered-PARKED and utility-retained identities were excluded; recently selected Run 124–128 ecosystems were not recycled. Nine honest leads survived (17.0%).
+
+The immutable schemaVersion 2 request was pinned to `7ddddec6fc6979dc709950d6cfd8f0a36518e414` in request commit `0a2b5db196771522d9a2bd9ac0f9457c5298915d`. The matching snapshot commit is `b66c22521e1115076e06b0cee25dd6cda167edaf`; request fingerprint `3a13b49` (prefix).
+
+### Resolver outcome
+
+The terminal schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 9 requested, 7 resolved, 3 selected candidates, 2 unresolved, 4 alternates and 7 warnings. There were no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Silvan Strauss — *THAT'S WHO?!? (FAST BARISTA)* — `spotify:track:3LQ4zin9a46jkNbl1AIHsA` — *SPRINTING*, 2026-09-04, 117788 ms.
+- Gloorp — *Pergggus* — `spotify:track:6WuS2PecQBjySvnhxr0qY8` — *Gloorp 'Em Up*, 2025-04-25, 177187 ms.
+- Gloorp — *Ugggly* — `spotify:track:0iuJOUWSLk0QCo2NrGcbLm` — *Gloorp 'Em Up*, 2025-04-25, 166369 ms.
+
+Unresolved without musical verdict:
+
+- Rival Consoles — *Unfolding*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (59dTY9SmLvodJPcFVZSXtQ, 0TUk2GGDZDFwvmGx7zwyMA)`
+- Pev — *Aztec Chant*: `no exact Spotify title/artist search match in market SE`
+
+Resolved but unselected and unevaluated:
+
+- Björk — *Pluto* — `spotify:track:0zgPZSkp20PSuyToQ0lZ0h`
+- Gloorp — *Glimpse* — `spotify:track:4Lhma3wkZBsovUt9MKAufO`
+- Marina Herlop — *Jaque* — `spotify:track:0vVXlh1qL9h6RbNsrEuPF7`
+- Kali Malone — *Heavy With Fruit* — `spotify:track:5lmSY7B8nAcdGvZrhmiWeT`
+
+Warnings preserved exactly:
+
+- Silvan Strauss — *That's Who?!?*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-04"`
+- Gloorp — *Pergggus*: `Exact title/artist matched with release metadata variance: release date requested "2025-04-30" but Spotify returned "2025-04-25"`
+- Gloorp — *Ugggly*: `Exact title/artist matched with release metadata variance: release date requested "2025-04-30" but Spotify returned "2025-04-25"`
+- Björk — *Pluto*: `Exact title/artist matched with release metadata variance: release date requested "1997" but Spotify returned "1997-09-22"`
+- Gloorp — *Glimpse*: `Exact title/artist matched with release metadata variance: release date requested "2025-04-30" but Spotify returned "2025-04-25"`
+- Marina Herlop — *Jaque*: `Exact title/artist matched with release metadata variance: album requested "Dja Dja" but Spotify returned "Jaque"; release date requested "2026" but Spotify returned "2026-07-01"`
+- Kali Malone — *Heavy With Fruit*: `Exact title/artist matched with release metadata variance: album requested "Burning Song" but Spotify returned "Heavy With Fruit"; release date requested "2026" but Spotify returned "2026-09-01"`
+
+### Evaluations
+
+#### Silvan Strauss — THAT'S WHO?!? (FAST BARISTA) — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. The exact current-track account presents a compact, rhythm-led collision of live drumming, acid-jazz colour and brittle footwork; fixed-form resistance is credible.
+- **Transition scale:** Between *Trompe L'oeil* and *Thick to Handle*, its brief acceleration performs rhythmic deformation before *Thick to Handle* can do that work. Between *Drummz* and *Ikoyi*, it supplies another percussion statement before foreground dissolution.
+- **Local-run scale:** `Never Met → Trompe L'oeil → candidate → Thick to Handle → LOVE YOUR ENEMIES` stacks reset, acceleration and broken-beat conflict before re-grounding. `Fragments → Drummz → candidate → Ikoyi → Amor` turns an already legible percussion/dissolution/mutation passage into four successive explanations.
+- **Long-form scale:** The 1:58 insertion is concise, but adds another early acceleration proposition without changing the later journey's task.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+
+#### Gloorp — Pergggus — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. The documented live-band club construction and triplet escalation resist a single fixed rhythmic reading.
+- **Transition scale:** After *Capa*, another groove redirection delays *Never Met*'s transit. After *Ikoyi*, the hand-played triplet escalation anticipates the acoustic/electronic percussion mutation currently carried by *Amor*.
+- **Local-run scale:** `Fulledge (Empty-40 Mix) → Capa → candidate → Never Met → Trompe L'oeil` accumulates redirection and mediation before reset. `Drummz → Ikoyi → candidate → Amor → Truth in Noise` makes *Amor* explanatory rather than transformative.
+- **Long-form scale:** The candidate adds a credible different production world, but not a new consequence; both tested runs already contain the work it would perform.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+
+#### Gloorp — Ugggly — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. The documented delayed beat return and unstable live/electronic orientation fit the selection lens.
+- **Transition scale:** Between *backsliding* and *Fragments*, the candidate supplies its own delayed rhythmic return before the existing re-entry. Between *Encasadelciegoeltuerco* and *Cave*, it adds another orientation flip before the established widening.
+- **Local-run scale:** `U Belong 2 Me → backsliding → candidate → Fragments → Drummz` duplicates collapse-to-return. `The Witching Hour → Encasadelciegoeltuerco → candidate → Cave → Abundance` stacks derailment, return and recovery rather than changing *Cave*'s task.
+- **Long-form scale:** Its 2:46 compactness does not offset the duplicated recovery logic at either tested location.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+
+BPM, perceived pulse, energy, density, space, phrasing, mixability and all exact candidate-to-neighbour handoffs remain unknown.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the immediate pre-request repository SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 7 exact resolutions + 2 unresolved, with 3 selected candidates and 4 alternates. Every resolver warning and exact unresolved outcome is preserved. Only the three selected exact identities entered evaluation, and each was judged separately at volume, transition, local-run and long-form scales. No metadata-only energy, density, space, hypnosis, emotional, phrase or mixability claim entered the verdicts. The protected `Transparency → When We Froze → Stardancer` internal order remains untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **32 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three exact placement-specific REJECT / interesting tracks, two unresolved research leads, four exact unevaluated alternates, current release/catalogue watches and one set direction retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **262 → 265 exact tracks**, adding *THAT'S WHO?!? (FAST BARISTA)*, *Pergggus* and *Ugggly*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 53 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across Runs 87–129: **386 leads from approximately 2,029 inspections; 17 ADDs from 117 selected candidates**. Recent ADD rate: **3/10 across Runs 120–129**, versus **18/123 across Runs 55–129**. The no-ADD streak is four runs since Run 125, with 11 exact interesting tracks retained during it. The fresh source fields, improved 7/9 identity resolution and distinct placement tests argue against Scout over-filtering or an epistemic veto. The strongest alternative explanation is playlist maturity: at 32 tracks, many credible transformations duplicate work already assigned locally. This does not prove completion, global incompatibility, exact handoff quality, phrase fit or live mixability. No actionable musical or workflow REPAIR emerges.
+
 ## Run 128 — EXPLORE — recovery must remain open for the next track — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 260 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
