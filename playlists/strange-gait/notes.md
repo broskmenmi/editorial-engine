@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 135 — EXPLORE — sparse disorientation must leave downstream work
+
+No canonical track is added. Pangaea — *If*, Pearson Sound — *Glass Eye* and Pangaea — *Squid* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested positions are rejected.
+
+*If* inserts another complete hybrid-contrast proposition between existing reset, deformation or re-grounding work. *Glass Eye*'s sparse dizziness pre-empts either *Pulse I*'s crooked accumulation or *Trompe L'oeil*'s rhythmic reset. *Squid* adds a second temporal-balance setup before *Tides Alternate*, or another full groove proposition before *U Belong 2 Me* removes the bass drum. Each failure is placement-specific, not a global incompatibility claim.
+
+The matching schemaVersion 2 snapshot is internally valid with \`resolutionStatus: PARTIAL\`: seven exact resolutions, three selected candidates, two unresolved identities, four exact alternates and seven preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all tested handoffs remain unknown.
+
 ## Run 134 — EXPLORE — pulse illusion needs an exit route
 
 Angine de Poitrine — *Sarniezz* is added between *Capa* and *Never Met*. Pitchfork documents a stable 6/8 frame whose melody spans four bars while the drumming alternates swung time and traditional 4/4 pounding. The production-world turn into live microtonal guitar and drums is conspicuous; it passes because *Never Met* becomes a concrete exit from the exposed metric puzzle into foreground transit before *Trompe L'oeil* resets the electronic sequence.

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 135 — Sparse disorientation must leave downstream work
+
+**Direction:** Explore hybrid club motion, sparse dizziness and kinked four-on-the-floor where the candidate leaves the next formation unfinished rather than pre-performing its reset, accumulation or temporal conflict.
+
+**Ingredients:**
+
+- Pangaea — *If* — exact placement-specific reject; diagonally cut dub-techno and jagged hybrid construction remain useful outside the tested reset/deformation and conflict/re-grounding positions.
+- Pearson Sound — *Glass Eye* — exact placement-specific reject; sparse snares and liquid-string dizziness remain useful outside the tested pre-emption positions.
+- Pangaea — *Squid* — exact placement-specific reject; kinked gliding 4/4 remains useful outside the tested doubled-temporal-balance and extended-approach positions.
+- Xosar — *The Pit* and Pangaea — *Changing Channels* — unresolved exact-title leads without verdicts.
+- *Asphalt Sparkle*, *Gush*, *Crank Call* and *Crank* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** Rhythmic ambiguity can connect unlike production worlds, but in sequence it earns space when its exit creates a distinct downstream task instead of adding another self-contained proposition.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 134 — Pulse illusion needs an exit route
 
 **Direction:** Use conspicuous rhythmic-world changes when the next track provides a credible route onward, not when the candidate completes another recovery before an existing one.

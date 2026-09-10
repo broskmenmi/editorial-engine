@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 135 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Pangaea | If | https://open.spotify.com/track/2EYpvTvml0Yrrdjq3xZLNy | Placement-specific REJECT only for both Run 135 positions; diagonally cut dub-techno and hybrid club construction remain interesting. Release-date variance preserved. |
+| EXACT TRACK | Pearson Sound | Glass Eye | https://open.spotify.com/track/4NN0tWOn5P1YDJAPvhj3XR | Placement-specific REJECT only for both Run 135 positions; sparse snares/string dizziness remains interesting. Release-date variance preserved. |
+| EXACT TRACK | Pangaea | Squid | https://open.spotify.com/track/7yH6dUvFBeqRAb54z7z7GT | Placement-specific REJECT only for both Run 135 positions; kinked gliding 4/4 motion remains interesting. Release-date variance preserved. |
+| UNRESOLVED | Xosar; Pangaea | The Pit; Changing Channels | See discoveries.md exact errors | One no-match and one ambiguous exact-title outcome remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATES | Pearson Sound; Co La | Asphalt Sparkle; Gush; Crank Call; Crank | spotify:track:45KT0Q7zuTzSFh07ow9BKB ; spotify:track:7cYBhdNzVZxYMHGtmh0VqM ; spotify:track:5d8X4OnLHjGZszfFdQ12ep ; spotify:track:68clNAYc6LU3dXFV6stoVi | Exact, unselected and unevaluated; no utility entry. Warnings preserved in discoveries.md. |
+| RELEASE / CATALOGUE WATCH | Pangaea; Pearson Sound; Xosar; Co La | Changing Channels; Pearson Sound; The Pit field; No No | https://pitchfork.com/reviews/albums/pangaea-changing-channels ; https://pitchfork.com/reviews/albums/20177-pearson-sound ; https://pitchfork.com/reviews/tracks/17390-xosar-the-pit ; https://pitchfork.com/reviews/albums/21078-no-no | Hybrid club syntax, sparse machine rhythm and sample-built rhythmic displacement remain useful research windows. |
+| PLACEMENT BOUNDARY | Run 135 selected set | Three exact tracks | See exact rows | All fail only tested positions because they duplicate or pre-empt neighboring work; identities remain interesting. Handoffs remain untested. |
+
 ## Run 134 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,81 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 135 — EXPLORE — sparse disorientation must leave downstream work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 34 unique canonical tracks with 34 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 277 contiguous unique exact tracks with a matching COMPLETE receipt. The protected \`Transparency → When We Froze → Stardancer\` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run \`2026-09-10T21:52:28Z-explore-135\` inspected approximately 46 current, adjacent, emerging and overlooked-catalogue entries across Pangaea's hybrid club writing, Pearson Sound's sparse machine-rhythm catalogue, Xosar's techno catalogue and Co La's sample-built rhythmic work. Persistent identities and the recently selected Run 126–134 ecosystems were excluded. Nine honest leads survived (19.6%). The immutable schemaVersion 2 request was pinned to \`f6ef2c7648999dded002a748cfe7a66c016b564e\` in \`c9d3b1124907eb1f8ce0b81c7342aae6f6b6751f\`. Matching snapshot commit: \`1d84f9601bac8f08dad97ce315e39b2c19970740\`; fingerprint \`e548ab266264866862e9cdfde5941a69af99045ba92616e7b4370d88bd6e8c27\`.
+
+### Resolver outcome
+
+Internally valid \`resolutionStatus: PARTIAL\`: 9 requested, 7 resolved, 3 selected, 2 unresolved, 4 alternates and 7 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Pangaea — *If* — \`spotify:track:2EYpvTvml0Yrrdjq3xZLNy\` — *Changing Channels*, 2023-10-06, 308967 ms.
+- Pearson Sound — *Glass Eye* — \`spotify:track:4NN0tWOn5P1YDJAPvhj3XR\` — *Pearson Sound*, 2015-03-09, 306349 ms.
+- Pangaea — *Squid* — \`spotify:track:7yH6dUvFBeqRAb54z7z7GT\` — *Changing Channels*, 2023-10-06, 271663 ms.
+
+Unresolved without musical verdict:
+
+- Xosar — *The Pit*: \`no exact Spotify title/artist search match in market SE\`
+- Pangaea — *Changing Channels*: \`ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1wKGelyxxXFwqvc2kTl3sw, 03BbQzD0ga8ZzBQIGg47CZ)\`
+
+Resolved alternates, unselected and unevaluated:
+
+- Pearson Sound — *Asphalt Sparkle* — \`spotify:track:45KT0Q7zuTzSFh07ow9BKB\`
+- Co La — *Gush* — \`spotify:track:7cYBhdNzVZxYMHGtmh0VqM\`
+- Pearson Sound — *Crank Call* — \`spotify:track:5d8X4OnLHjGZszfFdQ12ep\`
+- Co La — *Crank* — \`spotify:track:68clNAYc6LU3dXFV6stoVi\`
+
+Warnings preserved exactly:
+
+- \`Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-10-06"\` — separately for *If* and *Squid*.
+- \`Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-03-09"\` — separately for *Glass Eye*, *Asphalt Sparkle* and *Crank Call*.
+- \`Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-10-09"\` — separately for *Gush* and *Crank*.
+
+### Evaluations
+
+#### Pangaea — If — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Published criticism documents dub-techno chords cut diagonally by jagged synth stabs and cut-up vocal material, a hybrid club construction compatible with the volume's rhythmic and structural selection lens.
+- **Immediate transition:** FAIL proportionally at both \`Trompe L'oeil → If → Thick to Handle\` and \`LOVE YOUR ENEMIES → If → Tehutis Law\`. The first inserts a complete hybrid-contrast proposition between an existing reset and bodily deformation; the second extends conflict before the same re-grounding.
+- **Three-to-five-track run:** FAIL. \`Never Met → Trompe L'oeil → If → Thick to Handle → LOVE YOUR ENEMIES\` becomes five successive articulated turns. The alternate \`Thick to Handle → LOVE YOUR ENEMIES → If → Tehutis Law → Pulse I\` delays Tehutis Law without changing its task.
+- **Long-form journey:** FAIL for these placements. The 5:09 track adds a self-contained transformation to an already change-dense middle, but does not create new downstream work.
+- **Verdict:** Placement-specific REJECT for the two tested positions; exact track retained as genuinely interesting. No global incompatibility claim.
+
+#### Pearson Sound — Glass Eye — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Published criticism documents shivering snares and a liquid string figure using very few elements to produce dizziness rather than blunt impact.
+- **Immediate transition:** FAIL proportionally at both \`Tehutis Law → Glass Eye → Pulse I\` and \`Never Met → Glass Eye → Trompe L'oeil\`. In the first, sparse disorientation pre-empts Pulse I's existing crooked accumulation; in the second, it performs rhythmic refocusing before Trompe L'oeil's assigned reset.
+- **Three-to-five-track run:** FAIL. \`LOVE YOUR ENEMIES → Tehutis Law → Glass Eye → Pulse I → Roxellana\` makes Pulse I explanatory rather than developmental. \`Sarniezz → Never Met → Glass Eye → Trompe L'oeil → Thick to Handle\` repeats refocus and reset before the next deformation.
+- **Long-form journey:** FAIL for these placements. The 5:06 candidate adds fine-grained disorientation but leaves the following formation with no distinct new task.
+- **Verdict:** Placement-specific REJECT for the two tested positions; exact track retained as genuinely interesting. No global incompatibility claim.
+
+#### Pangaea — Squid — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Published criticism documents a spidery synth line over a gliding 4/4 beat whose delay and swing introduce a kink without abandoning bodily motion.
+- **Immediate transition:** FAIL proportionally at both \`Worn Down → Squid → Tides Alternate\` and \`Truth in Noise → Squid → U Belong 2 Me\`. The first places one temporal-balance proposition immediately before another; the second adds a complete setup before the existing beat-removal approach.
+- **Three-to-five-track run:** FAIL. \`Foundry → Worn Down → Squid → Tides Alternate → Too Much Time\` over-articulates temporal instability before its widening. \`Amor → Truth in Noise → Squid → U Belong 2 Me → Transparency\` delays the protected approach without changing U Belong 2 Me's task.
+- **Long-form journey:** FAIL for these placements. At 4:32, the candidate adds attractive internal detail but no distinct journey consequence.
+- **Verdict:** Placement-specific REJECT for the two tested positions; exact track retained as genuinely interesting. No global incompatibility claim.
+
+### Auditor verdict
+
+The snapshot is current, matching and internally valid. All three candidates separately pass the selection lens but fail the tested immediate, local-run and long-form placements for candidate-specific proportional reasons. No metadata-derived sonic inference is used: BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain UNKNOWN. Auditor approves 0 canonical ADD, the six placement-specific rejections, local inspiration retention, and three global utility additions. The canonical ledger, protected trio and journey annotations remain unchanged.
+
+### Durable result
+
+- STRANGE GAIT remains **34 canonical tracks** with no reorder.
+- Protected internal order remains \`Transparency → When We Froze → Stardancer\`.
+- Local inspiration retains *If*, *Glass Eye* and *Squid* as exact interesting placement-specific rejects; two unresolved leads and four exact unevaluated alternates are preserved.
+- EDITORIAL ENGINE — DISCOVERY POOL: **277 → 280 exact tracks**, adding the three selected exact identities.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 46 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **19.6%**, lead-to-resolution conversion **77.8%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–135: **431 leads from approximately 2,294 inspections; 19 ADDs from 132 selected candidates**. The recent completed-run ADD rate is **3/10**; Run 133 is excluded because resolution never completed. The current no-ADD streak is one completed run since Run 134, with three exact interesting tracks retained during it. Fresh catalogues, strong resolution and distinct placement tests argue against Scout over-filtering or a technical zero result. The stronger explanation is local saturation: credible disorientation and hybrid motion increasingly duplicate work already assigned to neighboring tracks. This does not prove playlist completion, exact handoff quality, phrase fit or live mixability. No actionable musical or workflow REPAIR emerges.
+
 ## Run 134 — EXPLORE — pulse illusion needs an exit route — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 33 unique canonical tracks with 33 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 274 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 133 remained resolver-inconclusive and supplied no musical verdict or reusable candidate snapshot.
