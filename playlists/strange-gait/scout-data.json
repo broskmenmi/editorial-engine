@@ -1,368 +1,109 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "b85516771b2eb531d53e8f736dd062c5df27891d32fdb8a7609faeb384c1f069",
-  "generatedAt": "2026-09-10T02:16:43.910Z",
-  "runId": "2026-09-10T02:09:38Z-explore-115",
-  "sourceCommit": "3410dd06a95096fc737aaa7eb75e70afd7e01987",
+  "requestFingerprint": "dac1122b8026b0556e3b2eb3ecdcdeba455acfe18770bc0339151ad2c03302cd",
+  "generatedAt": "2026-09-10T02:56:13.310Z",
+  "runId": "2026-09-10T02:50:18Z-explore-116",
+  "sourceCommit": "b613f662cf78f377f0cc98fa373dafdfcc065f30",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery after Run 113's transit-versus-arrival addition and Run 114's no-add result, spanning current live-drumming and noise-punk left turns, adjacent voice/percussion hybrids, and overlooked structurally unstable electronic catalogue",
-    "purpose": "Test whether stumbling, fake-out, displaced, surrendering or spatially unstable structures change what follows at transition, local-run and long-form scale rather than merely adding another vivid event.",
-    "position": "Whole 26-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities."
+    "role": "fresh whole-journey contender discovery after Run 115's dissolution-before-redirection addition, spanning September 2026 current-source checks, adjacent East African experimental club music, and overlooked 2017–2019 rhythmic-deconstruction catalogue",
+    "purpose": "Test whether deconstruction, oscillation, controlled surge, suspended direction or sparse adjacent-world rupture changes what follows at transition, local-run and long-form scale rather than merely adding another striking mechanism.",
+    "position": "Whole 27-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat every placement as provisional and candidate-specific; do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-10T02:09:38Z",
-    "approximateInspectedScope": "Approximately 46 named tracks across a September 4, 2026 current-track survey and linked emerging releases, adjacent 2017 vocal/percussion experimentation, and overlooked 2013–2016 club-facing electronic catalogue; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T02:50:18Z",
+    "approximateInspectedScope": "Approximately 48 named tracks, releases and current-source entries across September 3–9, 2026 electronic coverage, adjacent East African experimental club catalogue, and overlooked 2017–2019 rhythmic-deconstruction albums; attributed criticism and release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT / EMERGING: https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks — the September 4, 2026 survey and linked release context were inspected; Silvan Strauss — That’s Who?!? (Fast Barista) and PISS — Time Loop at Hot Slit survive as live-drumming and noise-punk left-turn leads with concrete rhythmic descriptions.",
-      "ADJACENT / VOICE-PERCUSSION: https://pitchfork.com/reviews/albums/laurel-halo-dust — Laurel Halo's 2017 Dust was inspected as an untouched voice, bass and acoustic-percussion window; Jelly and Moontalk survive on exact-track rhythmic evidence.",
-      "OVERLOOKED CLUB CATALOGUE: https://pitchfork.com/reviews/albums/22649-wonderland, https://pitchfork.com/reviews/albums/17691-autechre-exai and https://pitchfork.com/reviews/albums/21950-elseq-1-5 — Demdike Stare's 2016 fake-out club forms and Autechre's 2013/2016 unstable beat constructions were inspected; FullEdge (eMpTy-40 Mix), T ess xi, vekoS, pendulu hv moda and foldfree casual survive.",
-      "FRESHNESS CHECK: current canonical, rejected, revisit, target-local discovery and 221-track utility state contain no prior artist-title decision for the nine requested identities."
+      "CURRENT: Pitchfork's September 3 MUTEK report and September 9 reviews were inspected for fresh experimental-electronic movement. Honeydrip and Super Galaxy Meow Meow lacked exact-track evidence suitable for this resolver request; Bitchin Bajas and Mykki Blanco were excluded because their exact current tracks were already evaluated in Runs 101 and 114. https://pitchfork.com/story/mutek-is-the-avant-garde-electronic-party-for-the-people and https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep",
+      "ADJACENT / EMERGING CATALOGUE: Pitchfork's Rey Sapienz & The Congo Techno Ensemble review was inspected as an untouched Hakuna Kulala / Nyege Nyege-linked broken-electro and percussion window; Santonge and Dancehall Pigme survive on exact-track descriptions. https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala",
+      "OVERLOOKED RHYTHMIC DECONSTRUCTION: Lee Gamble's Mnestic Pressure, Errorsmith's Superlative Fatigue, and Ziúr's U Feel Anything?/ATØ were inspected for short-form deconstruction, slippage, negative-space and bodily percussion; seven exact titles survive. https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure, https://pitchfork.com/reviews/albums/errorsmith-superlative-fatigue, https://pitchfork.com/reviews/albums/ziur-u-feel-anything and https://pitchfork.com/reviews/albums/ziur-ato",
+      "FRESHNESS CHECK: current canonical, rejected, revisit, target-local discovery and 224-track utility state contain no prior artist-title decision for the nine requested identities."
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Runs 109–114 selected artist and label ecosystems were not retried; the scan moved away from Barker/Toni Geitani, SHERELLE/KAY BE, Lara Sarkissian/P. Adrix, KAVARI/Overmono/Sote, Skrillex/Daphni/Sam Prekop and Helena Hauff/Mykki Blanco.",
-      "Current non-techno sources survived only where a concrete rhythmic or structural left-turn hypothesis existed; genre distance was neither an automatic pass nor fail.",
+      "Runs 110–115 selected artist and label ecosystems were not retried; the scan moved away from SHERELLE/KAY BE, Lara Sarkissian/P. Adrix, KAVARI/Overmono/Sote, Skrillex/Daphni/Sam Prekop, Helena Hauff/Mykki Blanco and Demdike Stare/Autechre/Laurel Halo.",
+      "Current-source entries without an exact track-level route were inspected but did not become leads; catalogue age was not treated as a defect.",
       "No Spotify connector, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Demdike Stare — FullEdge (eMpTy-40 Mix)",
-      "2. Autechre — T ess xi",
-      "3. Silvan Strauss — That’s Who?!? (Fast Barista)",
-      "4. Laurel Halo — Jelly",
-      "5. Autechre — vekoS",
-      "6. Laurel Halo — Moontalk",
-      "7. PISS — Time Loop at Hot Slit",
-      "8. Autechre — pendulu hv moda",
-      "9. Autechre — foldfree casual"
+      "1. Lee Gamble — Istian",
+      "2. Ziúr — Soaked",
+      "3. Errorsmith — I'm Interesting, Cheerful & Sociable",
+      "4. Lee Gamble — East Sedducke",
+      "5. Errorsmith — Internet of Screws",
+      "6. Ziúr — It's Complicated",
+      "7. Lee Gamble — Swerva",
+      "8. Rey Sapienz & The Congo Techno Ensemble — Santonge",
+      "9. Rey Sapienz & The Congo Techno Ensemble — Dancehall Pigme"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 8,
+  "resolvedCount": 5,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Silvan Strauss",
-      "track": "That’s Who?!? (Fast Barista)",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Errorsmith",
+      "track": "I'm Interesting, Cheerful & Sociable",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0POdw31Zlv9Ho7KCx6brcb, 4cjy3JmCwTBVHFQkRY5zrU)",
       "requestedIdentity": {
-        "artist": "Silvan Strauss",
-        "track": "That’s Who?!? (Fast Barista)",
-        "album": "Sprinting",
-        "releaseDate": "2026",
+        "artist": "Errorsmith",
+        "track": "I'm Interesting, Cheerful & Sociable",
+        "album": "Superlative Fatigue",
+        "releaseDate": "2017-11-03",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
-        "fitHypothesis": "The Guardian describes acid jazz played with the breakneck pace and brittle funk of Chicago footwork by a Hamburg drummer working programmed-rhythm ideas live.",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/errorsmith-im-interesting-cheerful-and-sociable",
+        "fitHypothesis": "Pitchfork describes an easy UK-funky groove whose calm abruptly pixelates and surges, escalating pitch and momentum while remaining precisely controlled.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Silvan Strauss — That’s Who?!? (Fast Barista) on Sprinting, requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Errorsmith — I'm Interesting, Cheerful & Sociable on Superlative Fatigue, requested release metadata 2017-11-03; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes acid jazz played with the breakneck pace and brittle funk of Chicago footwork by a Hamburg drummer working programmed-rhythm ideas live.",
+          "attributedDescription": "Pitchfork describes an easy UK-funky groove whose calm abruptly pixelates and surges, escalating pitch and momentum while remaining precisely controlled.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a conspicuous live-drum footwork turn after LOVE YOUR ENEMIES makes Tehutis Law's re-grounding more consequential, or simply extends the central conflict.",
+          "editorialInterpretation": "Test whether a controlled calm-to-surge trajectory after Ikoyi redirects the late-middle journey toward Amor, or creates another self-contained escalation before consolidation.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
             "incomingBpm": null,
-            "outgoingBpm": 139,
+            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether a conspicuous live-drum footwork turn after LOVE YOUR ENEMIES makes Tehutis Law's re-grounding more consequential, or simply extends the central conflict."
+            "purpose": "Test whether a controlled calm-to-surge trajectory after Ikoyi redirects the late-middle journey toward Amor, or creates another self-contained escalation before consolidation."
           }
         ]
       }
-    }
-  ],
-  "warnings": [
-    {
-      "artist": "Demdike Stare",
-      "track": "FullEdge (eMpTy-40 Mix)",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2016-11-25\" but Spotify returned \"2016-12-02\""
     },
     {
-      "artist": "Autechre",
-      "track": "T ess xi",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2013-02-05\" but Spotify returned \"2013-03-04\""
-    },
-    {
-      "artist": "Autechre",
-      "track": "vekoS",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2013-02-05\" but Spotify returned \"2013-03-04\""
-    },
-    {
-      "artist": "PISS",
-      "track": "Time Loop at Hot Slit",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"You Made Me / Skin on Linen\" but Spotify returned \"time loop at hot slit\"; release date requested \"2026-10\" but Spotify returned \"2026-09-02\""
-    },
-    {
-      "artist": "Autechre",
-      "track": "pendulu hv moda",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"elseq 2\" but Spotify returned \"elseq 1\"; release date requested \"2016-05-19\" but Spotify returned \"2016-05-20\""
-    },
-    {
-      "artist": "Autechre",
-      "track": "foldfree casual",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"elseq 3\" but Spotify returned \"elseq 4\"; release date requested \"2016-05-19\" but Spotify returned \"2016-05-20\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
+      "artist": "Errorsmith",
+      "track": "Internet of Screws",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (19qIDkPukeUcyHdsZWQwo3, 4lV2k2i0QmOjcEPyxbROp2)",
       "requestedIdentity": {
-        "artist": "Demdike Stare",
-        "track": "FullEdge (eMpTy-40 Mix)",
-        "album": "Wonderland",
-        "releaseDate": "2016-11-25",
+        "artist": "Errorsmith",
+        "track": "Internet of Screws",
+        "album": "Superlative Fatigue",
+        "releaseDate": "2017-11-03",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/22649-wonderland",
-        "fitHypothesis": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/errorsmith-superlative-fatigue",
+        "fitHypothesis": "Pitchfork describes a woozy trap mutation whose offbeats stumble and whose scattershot rhythm approaches deliberate error while using negative space.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Demdike Stare — FullEdge (eMpTy-40 Mix) on Wonderland, requested release metadata 2016-11-25; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Errorsmith — Internet of Screws on Superlative Fatigue, requested release metadata 2017-11-03; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
+          "attributedDescription": "Pitchfork describes a woozy trap mutation whose offbeats stumble and whose scattershot rhythm approaches deliberate error while using negative space.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage."
-          }
-        ]
-      },
-      "spotifyTrackId": "2azFGCXgxFGmyHYCvzVw4R",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "T ess xi",
-        "album": "Exai",
-        "releaseDate": "2013-02-05",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
-        "fitHypothesis": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Autechre — T ess xi on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Never Met",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": 137,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset."
-          }
-        ]
-      },
-      "spotifyTrackId": "5uPKvA8BTy8RIGimph8Yus",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Silvan Strauss",
-        "track": "That’s Who?!? (Fast Barista)",
-        "album": "Sprinting",
-        "releaseDate": "2026",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
-        "fitHypothesis": "The Guardian describes acid jazz played with the breakneck pace and brittle funk of Chicago footwork by a Hamburg drummer working programmed-rhythm ideas live.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Silvan Strauss — That’s Who?!? (Fast Barista) on Sprinting, requested release metadata 2026; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes acid jazz played with the breakneck pace and brittle funk of Chicago footwork by a Hamburg drummer working programmed-rhythm ideas live.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a conspicuous live-drum footwork turn after LOVE YOUR ENEMIES makes Tehutis Law's re-grounding more consequential, or simply extends the central conflict.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": null,
-            "outgoingBpm": 139,
-            "candidateBpm": null,
-            "purpose": "Test whether a conspicuous live-drum footwork turn after LOVE YOUR ENEMIES makes Tehutis Law's re-grounding more consequential, or simply extends the central conflict."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Laurel Halo",
-        "track": "Jelly",
-        "album": "Dust",
-        "releaseDate": "2017-06-23",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-        "fitHypothesis": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Laurel Halo — Jelly on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "outgoingBpm": 130,
-            "candidateBpm": null,
-            "purpose": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit."
-          }
-        ]
-      },
-      "spotifyTrackId": "6eUuZV30tZI0T0YAp7igI0",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "vekoS",
-        "album": "Exai",
-        "releaseDate": "2013-02-05",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
-        "fitHypothesis": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Autechre — vekoS on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "outgoingBpm": 143,
-            "candidateBpm": null,
-            "purpose": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close."
-          }
-        ]
-      },
-      "spotifyTrackId": "2ZOzdv2om6HeY1Ul9xGxFd",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Laurel Halo",
-        "track": "Moontalk",
-        "album": "Dust",
-        "releaseDate": "2017-06-23",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-        "fitHypothesis": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Laurel Halo — Moontalk on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release."
-          }
-        ]
-      },
-      "spotifyTrackId": "7rz91T0Ivb87li7ilz3i62",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "PISS",
-        "track": "Time Loop at Hot Slit",
-        "album": "You Made Me / Skin on Linen",
-        "releaseDate": "2026-10",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
-        "fitHypothesis": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies PISS — Time Loop at Hot Slit on You Made Me / Skin on Linen, requested release metadata 2026-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world.",
+          "editorialInterpretation": "Test whether a slower stumbling left turn after Encasadelciegoeltuerco gives Cave's re-entry a new condition to solve, or doubles the opening derailment.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -373,72 +114,315 @@
             "incomingBpm": null,
             "outgoingBpm": 134,
             "candidateBpm": null,
-            "purpose": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world."
+            "purpose": "Test whether a slower stumbling left turn after Encasadelciegoeltuerco gives Cave's re-entry a new condition to solve, or doubles the opening derailment."
           }
         ]
-      },
-      "spotifyTrackId": "6c8pSAIdGhJhYipnjY2dQb",
-      "selected": false
+      }
     },
     {
-      "status": "RESOLVED",
+      "artist": "Rey Sapienz & The Congo Techno Ensemble",
+      "track": "Santonge",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "pendulu hv moda",
-        "album": "elseq 2",
-        "releaseDate": "2016-05-19",
+        "artist": "Rey Sapienz & The Congo Techno Ensemble",
+        "track": "Santonge",
+        "album": "Na Zala Zala",
+        "releaseDate": "2021-05-21",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
-        "fitHypothesis": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala",
+        "fitHypothesis": "Pitchfork describes a sparse beat of dull kicks and sharpening sounds, with reverb occupying the synth role beneath hoarse chant and extreme vocal texture.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Autechre — pendulu hv moda on elseq 2, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Rey Sapienz & The Congo Techno Ensemble — Santonge on Na Zala Zala, requested release metadata 2021-05-21; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
+          "attributedDescription": "Pitchfork describes a sparse beat of dull kicks and sharpening sounds, with reverb occupying the synth role beneath hoarse chant and extreme vocal texture.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment.",
+          "editorialInterpretation": "Test whether a sparse adjacent-world rupture after Roxellana gives Fragments a necessary recovery function, or creates a second crisis before the same recovery.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between Roxellana and Fragments",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "incomingBpm": null,
-            "outgoingBpm": null,
+            "outgoingBpm": 140,
             "candidateBpm": null,
-            "purpose": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment."
+            "purpose": "Test whether a sparse adjacent-world rupture after Roxellana gives Fragments a necessary recovery function, or creates a second crisis before the same recovery."
           }
         ]
-      },
-      "spotifyTrackId": "1ATyBVeI8ZtfMdiTIgd5ET",
-      "selected": false
+      }
     },
     {
-      "status": "RESOLVED",
+      "artist": "Rey Sapienz & The Congo Techno Ensemble",
+      "track": "Dancehall Pigme",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "foldfree casual",
-        "album": "elseq 3",
-        "releaseDate": "2016-05-19",
+        "artist": "Rey Sapienz & The Congo Techno Ensemble",
+        "track": "Dancehall Pigme",
+        "album": "Na Zala Zala",
+        "releaseDate": "2021-05-21",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
-        "fitHypothesis": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala",
+        "fitHypothesis": "Pitchfork describes a broken electro groove punctured by dissonant synth stabs and split vocal timbres, with rising and falling tones that resist stable orientation.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Autechre — foldfree casual on elseq 3, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Rey Sapienz & The Congo Techno Ensemble — Dancehall Pigme on Na Zala Zala, requested release metadata 2021-05-21; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+          "attributedDescription": "Pitchfork describes a broken electro groove punctured by dissonant synth stabs and split vocal timbres, with rising and falling tones that resist stable orientation.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability.",
+          "editorialInterpretation": "Test whether broken electro and unstable vocal framing after Marauder meaningfully complicate The Witching Hour's continuation, or over-articulate the opening before its existing derailment.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Marauder and The Witching Hour",
+            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "incomingBpm": 136,
+            "outgoingBpm": 136,
+            "candidateBpm": null,
+            "purpose": "Test whether broken electro and unstable vocal framing after Marauder meaningfully complicate The Witching Hour's continuation, or over-articulate the opening before its existing derailment."
+          }
+        ]
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "artist": "Lee Gamble",
+      "track": "Istian",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2017-09-15\" but Spotify returned \"2017-10-20\""
+    },
+    {
+      "artist": "Lee Gamble",
+      "track": "East Sedducke",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2017-09-15\" but Spotify returned \"2017-10-20\""
+    },
+    {
+      "artist": "Lee Gamble",
+      "track": "Swerva",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2017-09-15\" but Spotify returned \"2017-10-20\""
+    }
+  ],
+  "outcomes": [
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Lee Gamble",
+        "track": "Istian",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Lee Gamble — Istian on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
+            "candidateBpm": null,
+            "purpose": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down."
+          }
+        ]
+      },
+      "spotifyTrackId": "5nrLqDwNFmk7sOlXsb5rNt",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ziúr",
+        "track": "Soaked",
+        "album": "U Feel Anything?",
+        "releaseDate": "2017-10-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ziur-u-feel-anything",
+        "fitHypothesis": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Ziúr — Soaked on U Feel Anything?, requested release metadata 2017-10-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": null,
+            "outgoingBpm": 139,
+            "candidateBpm": null,
+            "purpose": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage."
+          }
+        ]
+      },
+      "spotifyTrackId": "6aUv5uRYnSHyvIo2dcR3Q3",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Errorsmith",
+        "track": "I'm Interesting, Cheerful & Sociable",
+        "album": "Superlative Fatigue",
+        "releaseDate": "2017-11-03",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/tracks/errorsmith-im-interesting-cheerful-and-sociable",
+        "fitHypothesis": "Pitchfork describes an easy UK-funky groove whose calm abruptly pixelates and surges, escalating pitch and momentum while remaining precisely controlled.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Errorsmith — I'm Interesting, Cheerful & Sociable on Superlative Fatigue, requested release metadata 2017-11-03; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes an easy UK-funky groove whose calm abruptly pixelates and surges, escalating pitch and momentum while remaining precisely controlled.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a controlled calm-to-surge trajectory after Ikoyi redirects the late-middle journey toward Amor, or creates another self-contained escalation before consolidation.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether a controlled calm-to-surge trajectory after Ikoyi redirects the late-middle journey toward Amor, or creates another self-contained escalation before consolidation."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0POdw31Zlv9Ho7KCx6brcb, 4cjy3JmCwTBVHFQkRY5zrU)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Lee Gamble",
+        "track": "East Sedducke",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Lee Gamble — East Sedducke on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Never Met",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit."
+          }
+        ]
+      },
+      "spotifyTrackId": "3GYZ6WH99JByOvmwRjNVFp",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Errorsmith",
+        "track": "Internet of Screws",
+        "album": "Superlative Fatigue",
+        "releaseDate": "2017-11-03",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/errorsmith-superlative-fatigue",
+        "fitHypothesis": "Pitchfork describes a woozy trap mutation whose offbeats stumble and whose scattershot rhythm approaches deliberate error while using negative space.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Errorsmith — Internet of Screws on Superlative Fatigue, requested release metadata 2017-11-03; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a woozy trap mutation whose offbeats stumble and whose scattershot rhythm approaches deliberate error while using negative space.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a slower stumbling left turn after Encasadelciegoeltuerco gives Cave's re-entry a new condition to solve, or doubles the opening derailment.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test whether a slower stumbling left turn after Encasadelciegoeltuerco gives Cave's re-entry a new condition to solve, or doubles the opening derailment."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (19qIDkPukeUcyHdsZWQwo3, 4lV2k2i0QmOjcEPyxbROp2)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ziúr",
+        "track": "It's Complicated",
+        "album": "ATØ",
+        "releaseDate": "2019-11-15",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ziur-ato",
+        "fitHypothesis": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Ziúr — It's Complicated on ATØ, requested release metadata 2019-11-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -449,100 +433,283 @@
             "incomingBpm": 140,
             "outgoingBpm": 138,
             "candidateBpm": null,
-            "purpose": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability."
+            "purpose": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence."
           }
         ]
       },
-      "spotifyTrackId": "1tSd7jxvsXxPg5lbUZcutN",
+      "spotifyTrackId": "7cB2oKcjSf9E8SmnXWjqBW",
       "selected": false
-    }
-  ],
-  "candidates": [
+    },
     {
-      "id": "2azFGCXgxFGmyHYCvzVw4R",
-      "uri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-      "name": "Fulledge (Empty-40 Mix)",
-      "artists": [
-        "Demdike Stare"
-      ],
-      "album": "Wonderland",
-      "releaseDate": "2016-12-02",
-      "durationMs": 329413,
-      "spotifyUrl": "https://open.spotify.com/track/2azFGCXgxFGmyHYCvzVw4R",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/22649-wonderland",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "outgoingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Demdike Stare — FullEdge (eMpTy-40 Mix) on Wonderland, requested release metadata 2016-11-25; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Demdike Stare",
-        "track": "FullEdge (eMpTy-40 Mix)",
-        "album": "Wonderland",
-        "releaseDate": "2016-11-25",
+        "artist": "Lee Gamble",
+        "track": "Swerva",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/22649-wonderland",
-        "fitHypothesis": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Demdike Stare — FullEdge (eMpTy-40 Mix) on Wonderland, requested release metadata 2016-11-25; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Lee Gamble — Swerva on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes fake-out beats that hiccup, stumble and flip into different time signatures, with switchback changes ending in a monstrous noise dissolution.",
+          "attributedDescription": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage.",
+          "editorialInterpretation": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
             "candidateBpm": null,
-            "purpose": "Test whether a full fake-out-to-dissolution arc after Moonwake gives Capa's redirection a sharper cause, or inserts another complete disruption before the existing transit/reset passage."
+            "purpose": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain."
+          }
+        ]
+      },
+      "spotifyTrackId": "26Xp3srh6lmQk9TzG2byIZ",
+      "selected": false
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Rey Sapienz & The Congo Techno Ensemble",
+        "track": "Santonge",
+        "album": "Na Zala Zala",
+        "releaseDate": "2021-05-21",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala",
+        "fitHypothesis": "Pitchfork describes a sparse beat of dull kicks and sharpening sounds, with reverb occupying the synth role beneath hoarse chant and extreme vocal texture.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rey Sapienz & The Congo Techno Ensemble — Santonge on Na Zala Zala, requested release metadata 2021-05-21; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a sparse beat of dull kicks and sharpening sounds, with reverb occupying the synth role beneath hoarse chant and extreme vocal texture.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a sparse adjacent-world rupture after Roxellana gives Fragments a necessary recovery function, or creates a second crisis before the same recovery.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Roxellana and Fragments",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test whether a sparse adjacent-world rupture after Roxellana gives Fragments a necessary recovery function, or creates a second crisis before the same recovery."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Rey Sapienz & The Congo Techno Ensemble",
+        "track": "Dancehall Pigme",
+        "album": "Na Zala Zala",
+        "releaseDate": "2021-05-21",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala",
+        "fitHypothesis": "Pitchfork describes a broken electro groove punctured by dissonant synth stabs and split vocal timbres, with rising and falling tones that resist stable orientation.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Rey Sapienz & The Congo Techno Ensemble — Dancehall Pigme on Na Zala Zala, requested release metadata 2021-05-21; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a broken electro groove punctured by dissonant synth stabs and split vocal timbres, with rising and falling tones that resist stable orientation.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether broken electro and unstable vocal framing after Marauder meaningfully complicate The Witching Hour's continuation, or over-articulate the opening before its existing derailment.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Marauder and The Witching Hour",
+            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "incomingBpm": 136,
+            "outgoingBpm": 136,
+            "candidateBpm": null,
+            "purpose": "Test whether broken electro and unstable vocal framing after Marauder meaningfully complicate The Witching Hour's continuation, or over-articulate the opening before its existing derailment."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "5nrLqDwNFmk7sOlXsb5rNt",
+      "uri": "spotify:track:5nrLqDwNFmk7sOlXsb5rNt",
+      "name": "Istian",
+      "artists": [
+        "Lee Gamble"
+      ],
+      "album": "Mnestic Pressure",
+      "releaseDate": "2017-10-20",
+      "durationMs": 145966,
+      "spotifyUrl": "https://open.spotify.com/track/5nrLqDwNFmk7sOlXsb5rNt",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "outgoingBpm": 135,
+          "candidateBpm": null,
+          "purpose": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Lee Gamble — Istian on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Lee Gamble",
+        "track": "Istian",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Lee Gamble — Istian on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a funky swung groove that quickly deconstructs itself through an off-time arpeggio, heaving chords and collapsed drum programming, then lurches to a close.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "outgoingBpm": 135,
+            "candidateBpm": null,
+            "purpose": "Test whether a concise self-deconstructing episode after Cave sharpens Abundance's renewed physical formation, or adds another early derailment before Worn Down."
           }
         ]
       }
     },
     {
-      "id": "5uPKvA8BTy8RIGimph8Yus",
-      "uri": "spotify:track:5uPKvA8BTy8RIGimph8Yus",
-      "name": "T ess xi",
+      "id": "6aUv5uRYnSHyvIo2dcR3Q3",
+      "uri": "spotify:track:6aUv5uRYnSHyvIo2dcR3Q3",
+      "name": "Soaked",
       "artists": [
-        "Autechre"
+        "Ziúr"
       ],
-      "album": "Exai",
-      "releaseDate": "2013-03-04",
-      "durationMs": 403397,
-      "spotifyUrl": "https://open.spotify.com/track/5uPKvA8BTy8RIGimph8Yus",
+      "album": "U Feel Anything?",
+      "releaseDate": "2017-10-06",
+      "durationMs": 211960,
+      "spotifyUrl": "https://open.spotify.com/track/6aUv5uRYnSHyvIo2dcR3Q3",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
+      "discoverySource": "https://pitchfork.com/reviews/albums/ziur-u-feel-anything",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": null,
+          "outgoingBpm": 139,
+          "candidateBpm": null,
+          "purpose": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Ziúr — Soaked on U Feel Anything?, requested release metadata 2017-10-06; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Ziúr",
+        "track": "Soaked",
+        "album": "U Feel Anything?",
+        "releaseDate": "2017-10-06",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/ziur-u-feel-anything",
+        "fitHypothesis": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Ziúr — Soaked on U Feel Anything?, requested release metadata 2017-10-06; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes oscillation between an ecstatic build and percussive plateaus, with bass-led physicality creating a bodily relation to an imagined elsewhere.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "incomingBpm": null,
+            "outgoingBpm": 139,
+            "candidateBpm": null,
+            "purpose": "Test whether a build-to-plateau oscillation after LOVE YOUR ENEMIES gives Tehutis Law a broader re-grounding task, or merely inserts another complete conflict stage."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3GYZ6WH99JByOvmwRjNVFp",
+      "uri": "spotify:track:3GYZ6WH99JByOvmwRjNVFp",
+      "name": "East Sedducke",
+      "artists": [
+        "Lee Gamble"
+      ],
+      "album": "Mnestic Pressure",
+      "releaseDate": "2017-10-20",
+      "durationMs": 177291,
+      "spotifyUrl": "https://open.spotify.com/track/3GYZ6WH99JByOvmwRjNVFp",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -552,39 +719,39 @@
           "incomingBpm": 137,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset."
+          "purpose": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit."
         }
       ],
-      "fitHypothesis": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
+      "fitHypothesis": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Autechre — T ess xi on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Lee Gamble — East Sedducke on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
+        "attributedDescription": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset.",
+        "editorialInterpretation": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "T ess xi",
-        "album": "Exai",
-        "releaseDate": "2013-02-05",
+        "artist": "Lee Gamble",
+        "track": "East Sedducke",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
-        "fitHypothesis": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Autechre — T ess xi on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Lee Gamble — East Sedducke on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes rhythmic volleyball in which several apparently simple beats tease and shift around one another to avoid settling into an obvious groove.",
+          "attributedDescription": "Pitchfork describes a track that strobes and stutters in place, suspended between sinking into stillness and leaping into hyperdrive.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset.",
+          "editorialInterpretation": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -595,79 +762,7 @@
             "incomingBpm": 137,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether mutually evasive beats after Capa prepare Never Met's completed foreground transit, or over-articulate motion before Trompe L'oeil's reset."
-          }
-        ]
-      }
-    },
-    {
-      "id": "6eUuZV30tZI0T0YAp7igI0",
-      "uri": "spotify:track:6eUuZV30tZI0T0YAp7igI0",
-      "name": "Jelly",
-      "artists": [
-        "Laurel Halo",
-        "Klein"
-      ],
-      "album": "Dust",
-      "releaseDate": "2017-06-23",
-      "durationMs": 295908,
-      "spotifyUrl": "https://open.spotify.com/track/6eUuZV30tZI0T0YAp7igI0",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "outgoingBpm": 130,
-          "candidateBpm": null,
-          "purpose": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Laurel Halo — Jelly on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "requestedIdentity": {
-        "artist": "Laurel Halo",
-        "track": "Jelly",
-        "album": "Dust",
-        "releaseDate": "2017-06-23",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-        "fitHypothesis": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Laurel Halo — Jelly on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes an oozing bassline recalling hazy techno grooves, interrupted by tactile bursts of acoustic percussion and cowbell beneath fragmented voices.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "outgoingBpm": 130,
-            "candidateBpm": null,
-            "purpose": "Test whether bass-and-acoustic interruption after Never Met changes Trompe L'oeil's reset into recovery from a populated foreground, or delays a reset already earned by transit."
+            "purpose": "Test whether suspended directional indecision between Capa and Never Met makes the later passage feel more purposeful, or repeats uncertainty before an already complete transit."
           }
         ]
       }
@@ -675,303 +770,19 @@
   ],
   "resolvedAlternates": [
     {
-      "id": "2ZOzdv2om6HeY1Ul9xGxFd",
-      "uri": "spotify:track:2ZOzdv2om6HeY1Ul9xGxFd",
-      "name": "vekoS",
+      "id": "7cB2oKcjSf9E8SmnXWjqBW",
+      "uri": "spotify:track:7cB2oKcjSf9E8SmnXWjqBW",
+      "name": "It's Complicated",
       "artists": [
-        "Autechre"
+        "Ziúr"
       ],
-      "album": "Exai",
-      "releaseDate": "2013-03-04",
-      "durationMs": 401883,
-      "spotifyUrl": "https://open.spotify.com/track/2ZOzdv2om6HeY1Ul9xGxFd",
+      "album": "ATØ",
+      "releaseDate": "2019-11-15",
+      "durationMs": 259070,
+      "spotifyUrl": "https://open.spotify.com/track/7cB2oKcjSf9E8SmnXWjqBW",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and Transparency",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": 138,
-          "outgoingBpm": 143,
-          "candidateBpm": null,
-          "purpose": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Autechre — vekoS on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "vekoS",
-        "album": "Exai",
-        "releaseDate": "2013-02-05",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/17691-autechre-exai",
-        "fitHypothesis": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Autechre — vekoS on Exai, requested release metadata 2013-02-05; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a subaquatic beat slowly surrendering to overwhelming static in a rare moment of sustained tension on an otherwise erratically shifting album.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Transparency",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": 138,
-            "outgoingBpm": 143,
-            "candidateBpm": null,
-            "purpose": "Test whether a beat-to-static surrender after Truth in Noise creates a necessary threshold into Transparency, or reopens instability immediately before the protected close."
-          }
-        ]
-      }
-    },
-    {
-      "id": "7rz91T0Ivb87li7ilz3i62",
-      "uri": "spotify:track:7rz91T0Ivb87li7ilz3i62",
-      "name": "Moontalk",
-      "artists": [
-        "Laurel Halo"
-      ],
-      "album": "Dust",
-      "releaseDate": "2017-06-23",
-      "durationMs": 264612,
-      "spotifyUrl": "https://open.spotify.com/track/7rz91T0Ivb87li7ilz3i62",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Capa",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": 140,
-          "outgoingBpm": 137,
-          "candidateBpm": null,
-          "purpose": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Laurel Halo — Moontalk on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "requestedIdentity": {
-        "artist": "Laurel Halo",
-        "track": "Moontalk",
-        "album": "Dust",
-        "releaseDate": "2017-06-23",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/laurel-halo-dust",
-        "fitHypothesis": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Laurel Halo — Moontalk on Dust, requested release metadata 2017-06-23; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes Latin percussion, highlife guitar and blinding synth bursts building the album's most graspable, addictive groove inside an otherwise lawless record.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Moonwake and Capa",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": 140,
-            "outgoingBpm": 137,
-            "candidateBpm": null,
-            "purpose": "Test whether a bright hybrid-groove left turn after Moonwake earns Capa's redirection, or adds a self-contained foothold where the journey already has force and release."
-          }
-        ]
-      }
-    },
-    {
-      "id": "6c8pSAIdGhJhYipnjY2dQb",
-      "uri": "spotify:track:6c8pSAIdGhJhYipnjY2dQb",
-      "name": "time loop at hot slit",
-      "artists": [
-        "PISS"
-      ],
-      "album": "time loop at hot slit",
-      "releaseDate": "2026-09-02",
-      "durationMs": 116783,
-      "spotifyUrl": "https://open.spotify.com/track/6c8pSAIdGhJhYipnjY2dQb",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Encasadelciegoeltuerco and Cave",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "outgoingBpm": 134,
-          "candidateBpm": null,
-          "purpose": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world."
-        }
-      ],
-      "fitHypothesis": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies PISS — Time Loop at Hot Slit on You Made Me / Skin on Linen, requested release metadata 2026-10; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "requestedIdentity": {
-        "artist": "PISS",
-        "track": "Time Loop at Hot Slit",
-        "album": "You Made Me / Skin on Linen",
-        "releaseDate": "2026-10",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
-        "fitHypothesis": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies PISS — Time Loop at Hot Slit on You Made Me / Skin on Linen, requested release metadata 2026-10; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes thrashing guitar and drums that viscerally stumble under their own weight; linked reporting places the track within an emerging noise-punk, poetry and sound-collage practice.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": 134,
-            "candidateBpm": null,
-            "purpose": "Test whether a noise-punk stumble after Encasadelciegoeltuerco makes Cave's recovery bodily and explicit, or merely doubles the opening derailment in another production world."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1ATyBVeI8ZtfMdiTIgd5ET",
-      "uri": "spotify:track:1ATyBVeI8ZtfMdiTIgd5ET",
-      "name": "pendulu hv moda",
-      "artists": [
-        "Autechre"
-      ],
-      "album": "elseq 1",
-      "releaseDate": "2016-05-20",
-      "durationMs": 735174,
-      "spotifyUrl": "https://open.spotify.com/track/1ATyBVeI8ZtfMdiTIgd5ET",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment."
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
-      "evidence": {
-        "measured": [
-          "Attributed release metadata identifies Autechre — pendulu hv moda on elseq 2, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "pendulu hv moda",
-        "album": "elseq 2",
-        "releaseDate": "2016-05-19",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
-        "fitHypothesis": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
-        "evidence": {
-          "measured": [
-            "Attributed release metadata identifies Autechre — pendulu hv moda on elseq 2, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes reverb moving rapidly between wet and dry, spacious and tight, making the perceived space expand and contract in time with the music.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Before Stadium Drive",
-            "precedingUri": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether a spatially breathing prelude before Stadium Drive gives the opening formation a changed frame, or creates another complete pre-anchor environment."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1tSd7jxvsXxPg5lbUZcutN",
-      "uri": "spotify:track:1tSd7jxvsXxPg5lbUZcutN",
-      "name": "foldfree casual",
-      "artists": [
-        "Autechre"
-      ],
-      "album": "elseq 4",
-      "releaseDate": "2016-05-20",
-      "durationMs": 589892,
-      "spotifyUrl": "https://open.spotify.com/track/1tSd7jxvsXxPg5lbUZcutN",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
+      "discoverySource": "https://pitchfork.com/reviews/albums/ziur-ato",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -981,39 +792,39 @@
           "incomingBpm": 140,
           "outgoingBpm": 138,
           "candidateBpm": null,
-          "purpose": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability."
+          "purpose": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence."
         }
       ],
-      "fitHypothesis": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+      "fitHypothesis": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
       "evidence": {
         "measured": [
-          "Attributed release metadata identifies Autechre — foldfree casual on elseq 3, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
+          "Attributed release metadata identifies Ziúr — It's Complicated on ATØ, requested release metadata 2019-11-15; exact Spotify identity, duration and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+        "attributedDescription": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability.",
+        "editorialInterpretation": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Autechre",
-        "track": "foldfree casual",
-        "album": "elseq 3",
-        "releaseDate": "2016-05-19",
+        "artist": "Ziúr",
+        "track": "It's Complicated",
+        "album": "ATØ",
+        "releaseDate": "2019-11-15",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/21950-elseq-1-5",
-        "fitHypothesis": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/ziur-ato",
+        "fitHypothesis": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
         "evidence": {
           "measured": [
-            "Attributed release metadata identifies Autechre — foldfree casual on elseq 3, requested release metadata 2016-05-19; exact Spotify identity, duration and BPM remain for resolver."
+            "Attributed release metadata identifies Ziúr — It's Complicated on ATØ, requested release metadata 2019-11-15; exact Spotify identity, duration and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes shimmering chords becoming repetitive and emotionally vacant as jittery alien rhythms push them into the wings.",
+          "attributedDescription": "Pitchfork describes drumbeats and marimba notes whose shapes invite bodily tracing, emphasizing textural rhythm rather than a fixed techno grammar.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability.",
+          "editorialInterpretation": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -1024,7 +835,78 @@
             "incomingBpm": 140,
             "outgoingBpm": 138,
             "candidateBpm": null,
-            "purpose": "Test whether foreground displacement after Fragments gives Drummz's complication a distinct cause, or repeats a transition from recovery into instability."
+            "purpose": "Test whether a marimba-and-drum left turn after Fragments creates a deliberate release into Drummz, or interrupts a late-middle run without changing its consequence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "26Xp3srh6lmQk9TzG2byIZ",
+      "uri": "spotify:track:26Xp3srh6lmQk9TzG2byIZ",
+      "name": "Swerva",
+      "artists": [
+        "Lee Gamble"
+      ],
+      "album": "Mnestic Pressure",
+      "releaseDate": "2017-10-20",
+      "durationMs": 316251,
+      "spotifyUrl": "https://open.spotify.com/track/26Xp3srh6lmQk9TzG2byIZ",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Worn Down and Too Much Time",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
+      "evidence": {
+        "measured": [
+          "Attributed release metadata identifies Lee Gamble — Swerva on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Lee Gamble",
+        "track": "Swerva",
+        "album": "Mnestic Pressure",
+        "releaseDate": "2017-09-15",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure",
+        "fitHypothesis": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
+        "evidence": {
+          "measured": [
+            "Attributed release metadata identifies Lee Gamble — Swerva on Mnestic Pressure, requested release metadata 2017-09-15; exact Spotify identity, duration and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes pulsating glassiness, ping-ponging percussion and zigzagging groove disruption held around a lone minor chord.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports identity resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Worn Down and Too Much Time",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test whether a compact groove-disruption event after Worn Down redirects sustained pressure into Too Much Time, or adds another ornamental disturbance without long-form gain."
           }
         ]
       }
