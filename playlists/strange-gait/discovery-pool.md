@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 136 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Cleveland | Tusk | https://open.spotify.com/track/6ESTwLx8tm7rjD700E3Ray | Placement-specific REJECT only for both Run 136 positions; snapping acoustic-digital percussion remains interesting. Album/date variance preserved. |
+| EXACT TRACK | Jlin | Rabbit Hole | https://open.spotify.com/track/1rerXSJBaWBKdmUzWKMzlJ | ADD between Eyes of the Wind and Invisible Warriors Of Light; alternate early placement rejected. Album/date variance preserved. |
+| EXACT TRACK | Jlin | Auto Pilot | https://open.spotify.com/track/0jHLzGTPDvhoDBcFnQk6up | Placement-specific REJECT only for both Run 136 positions; piston-and-silence construction remains interesting. Album/date variance preserved. |
+| UNRESOLVED | Heavee; DJ Taye / DJ Manny; DJ Taye / DJ Paypal; Heavee / Takayuka Nakamura; Jlin | Unlock!; Need It; Pop Drop; Smoke Break; Embryo | See discoveries.md exact errors | Four no-match and one ambiguous exact-title outcome remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATE | Heavee | Whiplash | spotify:track:0P8NEInaCrBq02JcUaHoe4 | Exact, unselected and unevaluated; no utility entry. Release-date warning preserved in discoveries.md. |
+| RELEASE / CATALOGUE WATCH | Heavee; Cleveland; Jlin; DJ Taye | Unleash; Tusk B/W Aku; Embryo; Still Trippin' | https://pitchfork.com/reviews/albums/heavee-unleash ; https://pitchfork.com/reviews/tracks/cleveland-tusk ; https://pitchfork.com/reviews/albums/jlin-embryo-ep ; https://pitchfork.com/reviews/albums/dj-taye-still-trippin | Footwork, hybrid percussion and compact negative-space machine rhythm remain useful research windows. |
+| PLACEMENT BOUNDARY | Run 136 selected set | Three exact tracks | See exact rows | One late descent passes because it changes the afterword's task; two candidates fail only placements that duplicate nearby instability. Handoffs remain untested. |
+
 ## Run 135 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

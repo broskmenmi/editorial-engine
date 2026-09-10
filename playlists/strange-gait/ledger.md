@@ -37,11 +37,14 @@
 | 31 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
 | 32 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
 | 33 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 34 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 34 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 35 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 34 canonical tracks.**
+**ACTIVE EXPANSION — 35 canonical tracks.**
+
+EXPLORE run `2026-09-10T22:52:09Z-explore-136` adds Jlin — *Rabbit Hole* between Azu Tiwaline — *Eyes of the Wind* and Steve Rachmad — *Invisible Warriors Of Light*. Pitchfork documents early-techno blurts emerging into dead space before a descent. Editorially, `When We Froze → Stardancer → Eyes of the Wind → Rabbit Hole → Invisible Warriors Of Light` lets the protected block close, crosses a liminal percussion passage, descends into exposed negative space, then gives the existing electro-soul afterword a distinct re-forming task. The 3:22 insertion is concise enough not to become a second extended ending. Its alternate early placement is rejected because descent immediately before *Encasadelciegoeltuerco* stacks two breakdown propositions before *Cave*. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The protected internal order remains intact.
 
 EXPLORE run `2026-09-10T20:49:06Z-explore-134` adds Angine de Poitrine — *Sarniezz* between Nørbak — *Capa* and Sam Prekop — *Never Met*. Pitchfork documents a basic 6/8 frame whose four-bar melody and drumming alternate swung time with traditional 4/4 pounding, repeatedly reinterpreting a stable meter. Editorially, `Fulledge (Empty-40 Mix) → Capa → Sarniezz → Never Met → Trompe L'oeil` moves from metric dissolution and redirection into an exposed pulse illusion, then foreground transit and reset. The 4:36 live-band left turn is conspicuous, but *Never Met* now carries the sequence back toward the electronic continuum rather than merely following another electronic redirection. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The protected internal order remains intact.
 
@@ -105,9 +108,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`— → 136 → 136 → — → 134 → 135 → — → 140 → 140 → — → 137 → — → 130 → 138 → — → 139 → 136* → — → — → 140 → 138 → — → — → 138 → — → 143† → 140 → 137 → — BPM`
+`— → 136 → 136 → — → 134 → 135 → — → — → — → 140 → 140 → — → — → 137 → — → — → 130 → 138 → — → 139 → 136* → — → — → 140 → 138 → — → — → 138 → — → 143† → 140 → 137 → — → — → — BPM`
 
-`— Stadium Drive, Encasadelciegoeltuerco, Worn Down, Roxellana, Ikoyi, Amor and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
+`— Stadium Drive, Encasadelciegoeltuerco, Foundry, Worn Down, Tides Alternate, Crawl, Fulledge (Empty-40 Mix), Sarniezz, Never Met, LOVE YOUR ENEMIES, Roxellana, backsliding, Ikoyi, Amor, U Belong 2 Me, Eyes of the Wind, Rabbit Hole and Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

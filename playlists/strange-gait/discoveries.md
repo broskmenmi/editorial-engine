@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 136 — EXPLORE — descent must give the afterword new work — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 34 unique canonical tracks with 34 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 280 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-10T22:52:09Z-explore-136` inspected approximately 48 current, adjacent, emerging and overlooked-catalogue entries across Heavee's footwork catalogue, Cleveland's hybrid percussion work, Jlin's compact machine-rhythm studies and DJ Taye's footwork catalogue. Persistent identities and recently selected ecosystems were excluded. Nine honest leads survived (18.8%). The immutable schemaVersion 2 request was pinned to `bfb2f6c4c05abbe28ec689cdf305d03c150523dd` in `55f76cb7cb3345ea58e9016651f4e5e87f4361bd`. Matching snapshot commit: `b75432838aca4b4b6913f3d6902bcb91d8a12f6d`; fingerprint `9942a9cc86f2edb604e6b643ce002f623615ba56223bda9e953b9a82d6f9270d`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 4 resolved, 3 selected, 5 unresolved, 1 alternate and 4 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Cleveland — *Tusk* — `spotify:track:6ESTwLx8tm7rjD700E3Ray` — *Tusk B/W Aku*, 2018-06-08, 409739 ms.
+- Jlin — *Rabbit Hole* — `spotify:track:1rerXSJBaWBKdmUzWKMzlJ` — *Embryo*, 2021-12-10, 202182 ms.
+- Jlin — *Auto Pilot* — `spotify:track:0jHLzGTPDvhoDBcFnQk6up` — *Embryo*, 2021-12-10, 222942 ms.
+
+Unresolved without musical verdict:
+
+- Heavee — *Unlock!*: `no exact Spotify title/artist search match in market SE`
+- DJ Taye, DJ Manny — *Need It*: `no exact Spotify title/artist search match in market SE`
+- DJ Taye, DJ Paypal — *Pop Drop*: `no exact Spotify title/artist search match in market SE`
+- Heavee, Takayuka Nakamura — *Smoke Break*: `no exact Spotify title/artist search match in market SE`
+- Jlin — *Embryo*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0sLblYBStpi3o5akDJpBmm, 3R36BvYhQY3SSM3PdejPod)`
+
+Resolved alternate, unselected and unevaluated:
+
+- Heavee — *Whiplash* — `spotify:track:0P8NEInaCrBq02JcUaHoe4`
+
+Warnings preserved exactly:
+
+- Cleveland — *Tusk*: `Exact title/artist matched with release metadata variance: album requested "Tusk" but Spotify returned "Tusk B/W Aku"; release date requested "2018" but Spotify returned "2018-06-08"`
+- Jlin — *Rabbit Hole*: `Exact title/artist matched with release metadata variance: album requested "Embryo EP" but Spotify returned "Embryo"; release date requested "2021" but Spotify returned "2021-12-10"`
+- Jlin — *Auto Pilot*: `Exact title/artist matched with release metadata variance: album requested "Embryo EP" but Spotify returned "Embryo"; release date requested "2021" but Spotify returned "2021-12-10"`
+- Heavee — *Whiplash*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-03-15"`
+
+### Candidate decisions
+
+#### Cleveland — Tusk — placement-specific REJECT / interesting
+
+**Volume fit:** PASS. Published exact-track criticism documents snapping and stuttering rhythm combining resonant hand drums with precision white-noise blasts inside a techno/electro/UK-bass hybrid.
+
+**Immediate transition:** REJECT only `Capa → candidate → Sarniezz` and `Drummz → candidate → Ikoyi`. In the first, its acoustic-digital percussion prefigures the live-band metric turn; in the second, it interposes another foreground percussion frame before dissolution.
+
+**Three-to-five-track run:** `Fulledge (Empty-40 Mix) → Capa → Tusk → Sarniezz → Never Met` stacks two hybrid-percussion left turns before the same transit. `Fragments → Drummz → Tusk → Ikoyi → Amor` adds another full percussion proposition before dissolution and hand-drum mutation.
+
+**Long-form journey:** FAIL in both tested positions because the journey gains detail without a new consequence. This is not a global rejection.
+
+#### Jlin — Rabbit Hole — ADD after Eyes of the Wind
+
+**Volume fit:** PASS. Published criticism documents early-techno blurts emerging into dead space before a descent, directly serving the volume's structural-freedom lens.
+
+**Immediate transition:** PASS provisionally for `Eyes of the Wind → candidate → Invisible Warriors Of Light`. A conspicuous move from liminal percussion into exposed dead space is intentional; the existing afterword then has a distinct re-forming task. Exact handoffs remain untested.
+
+**Three-to-five-track run:** `When We Froze → Stardancer → Eyes of the Wind → Rabbit Hole → Invisible Warriors Of Light` moves from the protected close through liminal passage and descent into a grounded afterword without adding another long plateau. The alternate `The Witching Hour → candidate → Encasadelciegoeltuerco` is rejected because two breakdown propositions precede the same recovery.
+
+**Long-form journey:** PASS provisionally. The concise 3:22 insertion deepens the escape without replacing the afterword or disturbing protected state.
+
+#### Jlin — Auto Pilot — placement-specific REJECT / interesting
+
+**Volume fit:** PASS. Published criticism documents pistoning drums surrounded by sepulchral silences in a post-industrial techno landscape.
+
+**Immediate transition:** REJECT only `Foundry → candidate → Worn Down` and `Encasadelciegoeltuerco → candidate → Cave`. Both positions insert another instability state before an existing response.
+
+**Three-to-five-track run:** The first placement asks *Worn Down* to answer both unstable direction and piston/silence contrast; the second adds a mediation stage between derailment and widening.
+
+**Long-form journey:** FAIL in both tested positions because the candidate delays rather than changes the downstream recovery. This is not a global rejection.
+
+### Auditor finding
+
+APPROVED: one canonical ADD, two placement-specific REJECT / interesting verdicts, three utility retentions, one journey annotation and inspiration-layer updates. Each candidate received separate volume-fit, immediate-transition, local-run and long-form assessment. The canonical addition preserves the listener-protected trio. The previously stale measured-tempo footer is corrected to enumerate all 35 canonical positions without inventing BPM.
+
+**RUN ANALYSIS:** Approximately 48 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **18.8%**, exact-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–136: **440 leads from approximately 2,342 inspections; 20 ADDs from 135 selected candidates**. The recent completed-run ADD rate is **3/10**; resolver-incomplete Run 133 is excluded. Run 136 ends the one-completed-run no-ADD streak since Run 134; three exact interesting tracks were retained during that streak. Fresh catalogues, a valid resolver snapshot and candidate-specific outcomes argue against Scout over-filtering or forced expansion. This run does not prove either new handoff, phrase fit, live mixability or playlist completion. No further actionable musical or workflow REPAIR emerges. Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 135 — EXPLORE — sparse disorientation must leave downstream work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 34 unique canonical tracks with 34 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 277 contiguous unique exact tracks with a matching COMPLETE receipt. The protected \`Transparency → When We Froze → Stardancer\` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.

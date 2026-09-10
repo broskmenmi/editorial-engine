@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 136 — Descent must give the afterword new work
+
+**Direction:** Use negative space, piston rhythm and acoustic-digital percussion where the candidate creates a distinct downstream task rather than stacking another instability before an existing response.
+
+**Ingredients:**
+
+- Jlin — *Rabbit Hole* — exact ADD between *Eyes of the Wind* and *Invisible Warriors Of Light*; early-techno blurts and dead-space descent make the afterword a re-forming event.
+- Cleveland — *Tusk* — exact placement-specific reject; snapping acoustic-digital percussion remains useful outside the tested hybrid-percussion and dissolution positions.
+- Jlin — *Auto Pilot* — exact placement-specific reject; piston-and-silence construction remains useful outside the tested duplicated-instability positions.
+- *Unlock!*, *Need It*, *Pop Drop*, *Smoke Break* and *Embryo* — unresolved exact-title leads without verdicts.
+- Heavee — *Whiplash* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** A descent can deepen a long-form close when it changes the meaning of the track that follows, while a compact instability can still fail if it merely delays an already assigned response.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 135 — Sparse disorientation must leave downstream work
 
 **Direction:** Explore hybrid club motion, sparse dizziness and kinked four-on-the-floor where the candidate leaves the next formation unfinished rather than pre-performing its reset, accumulation or temporal conflict.

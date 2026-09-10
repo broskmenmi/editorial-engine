@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 136 — EXPLORE — descent must give the afterword new work
+
+Jlin — *Rabbit Hole* is added between *Eyes of the Wind* and *Invisible Warriors Of Light*. Published criticism documents early-techno blurts emerging into dead space before a descent. The resulting five-track close moves from the protected block through a liminal passage and exposed negative space into the existing electro-soul afterword, which now performs a distinct re-forming task.
+
+Cleveland — *Tusk* and Jlin — *Auto Pilot* pass the selection lens and remain genuinely interesting, but both fail only their tested positions. *Tusk* duplicates hybrid-percussion work before *Sarniezz* or extends the percussion chain before *Ikoyi* and *Amor*. *Auto Pilot* inserts another instability stage before *Worn Down* or *Cave* can respond.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: four exact resolutions, three selected candidates, five unresolved identities, one exact alternate and four preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all tested handoffs remain unknown.
+
 ## Run 135 — EXPLORE — sparse disorientation must leave downstream work
 
 No canonical track is added. Pangaea — *If*, Pearson Sound — *Glass Eye* and Pangaea — *Squid* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested positions are rejected.
