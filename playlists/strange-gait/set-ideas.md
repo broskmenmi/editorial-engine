@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 120 — Internal turn must create external consequence
+
+**Direction:** Explore rhythm switches, withdrawals and transformations whose endpoint changes what the following track must do, rather than inserting another complete internal arc before an already legible recovery, anchor or re-entry.
+
+**Ingredients:**
+
+- Hodge — *Sense Inversion* — exact Run 120 placement-specific reject; beat withdrawal and full-swing return remain useful outside the tested double-instability and double-reformation passages.
+- Hodge — *Cutie* — exact placement-specific reject; force-to-melody transformation remains useful outside the tested delayed-accumulation and delayed-afterword positions.
+- Kode9 — *Oh* — exact placement-specific reject; a concise fluid clap-beat switch remains useful outside the tested extra-premise and extra-mediation positions.
+- Kode9 — *Infirmary*, O.Ä — *Be Bop* and Carré — *Sense Of Place* — unresolved exact-title research leads.
+- DJ POPS — *v-v-v* / *i+i+i* and Carré — *Static* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** An internal transformation can be musically complete while remaining redundant in a particular long-form sequence. The useful test is whether its exit makes the next anchor, recovery or formation newly necessary.
+
+**Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. The two DJ POPS identities have release-level rather than individual sonic evidence. No listed pairing is asserted to be a proven sequence or live edge.
+
 ## Run 119 — Mediation is useful only when it changes the next task
 
 **Direction:** Explore bridges and ruptures that do more than describe an existing relation: the inserted track should alter what the following formation, transit or recovery must accomplish.

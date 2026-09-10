@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 120 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Hodge | Sense Inversion | https://open.spotify.com/track/1qDHLdTY0p7kCuaXLjagpd | Placement-specific REJECT only for the two tested Run 120 positions. The exact beat-withdrawal-and-return construction remains genuinely interesting elsewhere; date variance preserved. |
+| EXACT TRACK | Hodge | Cutie | https://open.spotify.com/track/4SV38XO6ZeRYMoPMHl13m8 | Placement-specific REJECT only for the two tested Run 120 positions. The exact force-to-melody transformation remains genuinely interesting elsewhere; date variance preserved. |
+| EXACT TRACK | Kode9 | Oh | https://open.spotify.com/track/3u4cWJ101WW3fBBmRLS5qt | Placement-specific REJECT only for the two tested Run 120 positions. The concise fluid beat switch remains genuinely interesting elsewhere; date variance preserved. |
+| RESEARCH LEAD | Kode9 | Infirmary | https://pitchfork.com/reviews/albums/kode9-burial-infirmary-unknown-summer-ep | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (26Cc0kU9fjjIgzQtYS41Lg, 5wVjkuLg5DdnN5UNU40rEi)`; no musical verdict or utility entry. |
+| RESEARCH LEAD | O.Ä | Be Bop | https://danks.bandcamp.com/album/be-bop | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | Carré | Sense Of Place | https://thequietus.com/quietus-reviews/electronic/best-new-electronic-dance-music-review-carre-buttechno-tris/ | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6H0DYW3RyHoTatvBva0fqc, 1PA0JUbzI4xZfQoKbmHcZG)`; no musical verdict or utility entry. |
+| RESOLVED ALTERNATES | DJ POPS; Carré; DJ POPS | v-v-v; Static; i+i+i | spotify:track:0uvrsGG2M1yGYbWEEVBiWO; spotify:track:2CvD086JNMQLeDrWRTIXrI; spotify:track:0r6AP222BIKpjE4Nnh0aWa | Exact but unselected and unevaluated; not retained as editorial decisions and not added to the utility ledger. |
+| CURRENT WATCH | O.Ä; DJ POPS; Carré | Be Bop; между частотами; Citrine | https://danks.bandcamp.com/album/be-bop | Current August/September 2026 modular, glitch-breakbeat and bass-pressure windows; exact claims remain scoped to the requested or selected tracks. |
+| CATALOGUE WATCH | Hodge; Kode9 | Shadows In Blue; Hyperdub 10.4; Infirmary / Unknown Summer | https://pitchfork.com/reviews/albums/hodge-shadows-in-blue | Overlooked withdrawal, transformation and fluid-switch catalogue; only selected exact identities received verdicts. |
+
+### Placement and inspiration boundaries
+
+- Sense Inversion, Cutie and Oh are rejected only for their documented Run 120 placements, not globally.
+- The three unresolved identities have no musical verdict and do not enter the global utility ledger.
+- The three resolved alternates were not selected or evaluated and were not added globally.
+- Set direction: **an internal turn earns space only when its exit changes the next track's task**. These records are not a proven sequence or live-mixing prescription.
+
 ## Run 119 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

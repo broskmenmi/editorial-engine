@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 120 — EXPLORE — internal turn is not downstream consequence
+
+Nine ranked leads from approximately 52 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. Hodge — *Sense Inversion* is rejected only at `The Witching Hour → candidate → Encasadelciegoeltuerco` and `backsliding → candidate → Fragments`: its documented withdrawal-and-return creates an extra instability/re-entry cycle before an existing derailment or reformation. Hodge — *Cutie* is rejected only at `Tehutis Law → candidate → Pulse I` and `Stardancer → candidate → Invisible Warriors Of Light`: its complete force-to-melody arc delays an existing accumulation or afterword without changing either task. Kode9 — *Oh* is rejected only at `Stadium Drive → candidate → Marauder` and `Drummz → candidate → Ikoyi`: its fluid beat switch adds another premise or explanation without a new downstream consequence.
+
+STRANGE GAIT remains at 29 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 236 to 239 tracks with all three selected exact candidates. Three unresolved identities retain their exact errors and receive no musical verdict; DJ POPS — *v-v-v*, Carré — *Static* and DJ POPS — *i+i+i* remain exact unevaluated alternates.
+
+Across Runs 87–120: 305 leads from approximately 1,563 inspections and 14 ADDs from 91 selected candidates. Recent ADD rate: 4/10 across Runs 111–120; overall repaired comparison: 15/97 across Runs 55–120. The no-ADD streak is two runs since Run 118; six exact interesting tracks entered the utility layer during it.
+
+**Strongest counterargument:** *Oh* could serve as a concise opening thesis before Marauder. It fails because Stadium Drive already supplies a transformation-led overture, and the insertion adds another premise before the first anchor rather than changing the anchor's task.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 119 — EXPLORE — mediation is not consequence
 
 Nine ranked leads from approximately 50 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.

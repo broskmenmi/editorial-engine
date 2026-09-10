@@ -1,5 +1,86 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 120 — EXPLORE — internal turn is not downstream consequence — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching generated-map identities and a matching COMPLETE 29-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 236 contiguous unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T06:51:58Z-explore-120` inspected approximately 52 named tracks, releases and source entries across Bandcamp Daily's September 9, 2026 electronic survey, The Quietus' August 25, 2026 electronic review, O.Ä and DJ POPS' current August releases, Carré's current *Citrine* EP, and overlooked Hodge and Kode9 catalogue. Runs 114–119 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.3%).
+
+The immutable schemaVersion 2 request was pinned to `fbf9b9d03f0861b0d584cbe25dfa2d5bc168153b` in request commit `2c910453f8e89d7e40f5a710258029699d48d56c`. The matching snapshot commit is `edc7db34e1b43e54749da8dd7b21de542a040392`; request fingerprint `ec862c58f712e6dfa7a88ad77597536d850fb0d0fb11e1960ab9c15e51b4f4db`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 6 resolved, 3 selected candidates, 3 resolved alternates, 3 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Hodge — Sense Inversion — `spotify:track:1qDHLdTY0p7kCuaXLjagpd` — 4:55
+2. Hodge — Cutie — `spotify:track:4SV38XO6ZeRYMoPMHl13m8` — 5:19
+3. Kode9 — Oh — `spotify:track:3u4cWJ101WW3fBBmRLS5qt` — 3:11
+
+Unresolved without musical verdict:
+
+- Kode9 — Infirmary: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (26Cc0kU9fjjIgzQtYS41Lg, 5wVjkuLg5DdnN5UNU40rEi)`
+- O.Ä — Be Bop: `no exact Spotify title/artist search match in market SE`
+- Carré — Sense Of Place: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6H0DYW3RyHoTatvBva0fqc, 1PA0JUbzI4xZfQoKbmHcZG)`
+
+Resolved but unevaluated alternates:
+
+- DJ POPS — v-v-v — `spotify:track:0uvrsGG2M1yGYbWEEVBiWO`
+- Carré — Static — `spotify:track:2CvD086JNMQLeDrWRTIXrI`
+- DJ POPS — i+i+i — `spotify:track:0r6AP222BIKpjE4Nnh0aWa`
+
+Warnings preserved exactly:
+
+- Hodge — Sense Inversion: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-04-17"`
+- Hodge — Cutie: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-04-17"`
+- Kode9 — Oh: `Exact title/artist matched with release metadata variance: release date requested "2014" but Spotify returned "2014-11-10"`
+- Carré — Static: `Exact title/artist matched with release metadata variance: album requested "Citrine" but Spotify returned "Citrine EP"; release date requested "2026" but Spotify returned "2026-09-04"`
+
+### Candidate evaluations
+
+#### Hodge — Sense Inversion — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a percussive club construction whose beat drops into ominous drones before full-swing material returns.
+- **Immediate transition:** At `The Witching Hour → candidate → Encasadelciegoeltuerco`, withdrawal and return are intelligible, but exact handoffs remain UNKNOWN and the following triplet derailment begins a second instability episode.
+- **Three-to-five-track run:** `Marauder → The Witching Hour → Sense Inversion → Encasadelciegoeltuerco → Cave` completes withdrawal/re-entry and then derails again before Cave's existing recovery. At `backsliding → candidate → Fragments`, the candidate supplies an internal re-entry before Fragments' current reformation, duplicating the downstream task.
+- **Long-form journey:** Both placements add another loss-and-return cycle without changing what Cave or Fragments must accomplish.
+- **Verdict:** REJECT only those two placements. BPM, phrase fit, perceived pulse, density, energy and all handoffs remain UNKNOWN. Date variance is preserved.
+
+#### Hodge — Cutie — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a tough rolling beat and air-raid sirens whose synths thicken halfway into melodic forms.
+- **Immediate transition:** `Tehutis Law → candidate → Pulse I` offers a conspicuous force-to-melody turn, but its exact entry and exit remain UNKNOWN.
+- **Three-to-five-track run:** `LOVE YOUR ENEMIES → Tehutis Law → Cutie → Pulse I → Roxellana` resolves conflict, introduces a complete force-to-melody arc, then begins crooked accumulation. The candidate delays rather than changes Pulse I's task. At `Stardancer → candidate → Invisible Warriors Of Light`, another complete 5:19 arc postpones the concise afterword.
+- **Long-form journey:** Neither tested position creates a new consequence proportional to the added stage.
+- **Verdict:** REJECT only those two placements. BPM, phrase fit, perceived pulse, density, energy and all handoffs remain UNKNOWN. Date variance is preserved.
+
+#### Kode9 — Oh — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents Detroit-inflected motion, bubbling bass and an unexpected clap-beat switch that remains fluid.
+- **Immediate transition:** `Stadium Drive → candidate → Marauder` can read as deliberate rhythmic change, but exact handoffs and perceived pulse remain UNKNOWN.
+- **Three-to-five-track run:** `Stadium Drive → Oh → Marauder → The Witching Hour → Encasadelciegoeltuerco` places a second complete premise-setting movement between the current transformation-led overture and Marauder's first anchor. At `Fragments → Drummz → Oh → Ikoyi → Amor`, another switch sits between unpredictable rhythm and foreground dissolution without changing the later mutation.
+- **Long-form journey:** The 3:11 duration limits cost, but both positions explain or postpone a relation the current journey already communicates.
+- **Verdict:** REJECT only those two placements. BPM, phrase fit, perceived pulse, density, energy and all handoffs remain UNKNOWN. Date variance is preserved.
+
+The three unresolved leads receive no musical verdict. The three resolved alternates were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and matching PARTIAL snapshot agree on runId, sourceCommit, mode, target, fingerprint and exploration receipt. All nine outcomes, three unresolved errors, three resolved alternates and four warnings are preserved. Only the three selected exact candidates were evaluated, separately across volume fit, immediate transition, three-to-five-track run and long-form effect. UNKNOWN was not treated as negative evidence; each rejection rests on a concrete proportional or downstream-consequence defect across two reasonable placements. No protected or frozen region changes. Auditor approves 0 canonical ADD, three placement-specific REJECTs, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains at **29 canonical tracks**, with no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains all three selected exact tracks, three unresolved research leads, three unevaluated exact alternates and current O.Ä / DJ POPS / Carré plus Hodge / Kode9 source watches.
+- EDITORIAL ENGINE — DISCOVERY POOL increases from **236 → 239 tracks**, adding Sense Inversion, Cutie and Oh.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 52 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across Runs 87–120: 305 leads from approximately 1,563 inspections; 14 ADDs from 91 selected candidates. Recent ADD rate is 4/10 across Runs 111–120, versus 15/97 across Runs 55–120. The no-ADD streak is two runs since Run 118, with six exact interesting tracks retained during it. The strongest alternative is Oh as a concise early rhythmic thesis; its fluid switch is credible, but the five-track opening already has a transformation-led overture before Marauder and a later derailment, so the insertion adds a premise without changing the anchor. This supports playlist maturity and candidate-specific proportional judgment, not over-filtering or epistemic veto. The run proves only that these six tested placements do not improve the current journey on available evidence; it does not globally reject the tracks, prove either handoff, or prove STRANGE GAIT complete.
+
 ## Run 119 — EXPLORE — mediation is not consequence — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 29 unique canonical tracks with 29 matching annotations, a current 29-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 233 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.

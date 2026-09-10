@@ -240,6 +240,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 234 | DJ Haram | Body Count | spotify:track:6md1GzHW9QPHjJ6BA3uFrz | STRANGE GAIT Run 119 | Placement-specific reject / interesting | 2026-09-10 |
 | 235 | Peder Mannerfelt | This Machine Shares Memes | spotify:track:6C5fQ4v5gSvSq3Re5Mckn0 | STRANGE GAIT Run 119 | Placement-specific reject / interesting | 2026-09-10 |
 | 236 | Proc Fiskal | Dopamine | spotify:track:4jbl6oeaFCZK0SKQTMoZWA | STRANGE GAIT Run 119 | Placement-specific reject / interesting | 2026-09-10 |
+| 237 | Hodge | Sense Inversion | spotify:track:1qDHLdTY0p7kCuaXLjagpd | STRANGE GAIT Run 120 | Placement-specific reject / interesting | 2026-09-10 |
+| 238 | Hodge | Cutie | spotify:track:4SV38XO6ZeRYMoPMHl13m8 | STRANGE GAIT Run 120 | Placement-specific reject / interesting | 2026-09-10 |
+| 239 | Kode9 | Oh | spotify:track:3u4cWJ101WW3fBBmRLS5qt | STRANGE GAIT Run 120 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
