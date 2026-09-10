@@ -222,6 +222,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 216 | Sam Prekop | September Remember | spotify:track:0NdGElTqZrxIv6C3du4NLI | STRANGE GAIT Run 113 | Placement-specific reject / interesting | 2026-09-10 |
 | 217 | Daphni | Napoleon's Rock | spotify:track:2LkGaNyepGi9dz0PhWgJyj | STRANGE GAIT Run 113 | Placement-specific reject / interesting | 2026-09-10 |
 | 218 | Sam Prekop | Never Met | spotify:track:7C9lRN0idP1MYfMXyyXmDU | STRANGE GAIT Run 113 | Canonical ADD / retained | 2026-09-10 |
+| 219 | Helena Hauff | btdr-revisited | spotify:track:3NuBpMKkSLZUJ01yBjOifr | STRANGE GAIT Run 114 | Placement-specific reject / interesting | 2026-09-10 |
+| 220 | Helena Hauff | The Smell Of Suds And Steel | spotify:track:0wZ7yAcRnaY9Lz0YJiSizK | STRANGE GAIT Run 114 | Placement-specific reject / interesting | 2026-09-10 |
+| 221 | Mykki Blanco, Tama Gucci | FOXES | spotify:track:0QzQfWOBLvuRyMqY4Oj6lT | STRANGE GAIT Run 114 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

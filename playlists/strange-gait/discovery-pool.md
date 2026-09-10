@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 114 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Helena Hauff | btdr-revisited | https://open.spotify.com/track/3NuBpMKkSLZUJ01yBjOifr | Placement-specific REJECT only for Drummz → candidate → Ikoyi. The exact 3:30 careening fugue remains genuinely interesting outside the tested repeated-instability passage. |
+| EXACT TRACK | Helena Hauff | The Smell Of Suds And Steel | https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK | Placement-specific REJECT only for Worn Down → candidate → Too Much Time. The exact 8:11 barely varied acid wormhole remains genuinely interesting outside the tested extended plateau. |
+| EXACT TRACK | Mykki Blanco, Tama Gucci | FOXES | https://open.spotify.com/track/0QzQfWOBLvuRyMqY4Oj6lT | Placement-specific REJECT only for Truth in Noise → candidate → Transparency. The exact 6:30 stop-and-return episode remains genuinely interesting outside the tested pre-closing boundary; date warning preserved. |
+| RESEARCH LEADS | King Gizzard & the Lizard Wizard; Mykki Blanco | Rapid Alpha Decay; Level 5; Butt Sex | https://pitchfork.com/reviews/albums/king-gizzard-and-the-lizard-wizard-alien-metal and https://pitchfork.com/reviews/albums/mykki-blanco-cafe-paradiso | Two identities returned no exact Spotify match; Butt Sex remained ambiguous across three exact title/artist matches. No musical verdict or utility entry. |
+| RESEARCH LEADS | Windy & Carl, Optigan Conservatory; Jan St. Werner | Timelines; Squares Will Fall | https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory and https://pitchfork.com/story/mouse-on-mars-jan-st-werner-taps-justin-vernon-and-sufjan-stevens-for-new-album | Both returned no exact Spotify title/artist match in market SE; no musical verdict or utility entry. |
+| CURRENT WATCH | Mykki Blanco / King Gizzard & the Lizard Wizard | CAFE PARADISO / Alien Metal | https://pitchfork.com/reviews/albums/mykki-blanco-cafe-paradiso | Current club-facing genre-swerve window; exact claims remain attached only to the selected or unresolved titles above. |
+| ADJACENT WATCH | Windy & Carl with Optigan Conservatory / Jan St. Werner | Windy & Carl Meet Optigan Conservatory / Squares Will Fall | https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory | Current spatial, drone and instrument-mechanics window; unresolved identities are research, not publication inputs. |
+| CATALOGUE WATCH | Helena Hauff / Ninja Tune | Qualm | https://pitchfork.com/reviews/albums/helena-hauff-qualm | Overlooked 2018 hardware-techno window; three exact selected tracks were retained and one exact alternate remains unevaluated. |
+
+### Placement and inspiration boundaries
+
+- All three selected exact tracks are rejected only for their Run 114 placements, not globally.
+- Hyper-Intelligent Genetically Enriched Cyborg resolved as an unevaluated alternate and is not retained as an editorial decision or utility addition.
+- The five unresolved identities have no musical verdict and do not enter the global utility ledger.
+- Set direction: **internal motion is not long-form movement**. These records are not a proven live sequence or mixing prescription.
+
 ## Run 113 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

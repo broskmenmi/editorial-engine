@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 114
+
+### Internal motion is not long-form movement
+
+**Direction:** Explore tracks whose internal careening, prolonged repetition or stop-and-return action changes perception, while asking separately whether the surrounding sequence advances.
+
+**Ingredients:**
+
+- Helena Hauff — *btdr-revisited* — exact placement-specific reject; its 3:30 careening fugue remains interesting outside the tested post-*Drummz* instability stack.
+- Helena Hauff — *The Smell Of Suds And Steel* — exact placement-specific reject; its long, barely varied acid wormhole remains interesting outside the tested extended plateau.
+- Mykki Blanco with Tama Gucci — *FOXES* — exact placement-specific reject; its menace-and-return construction remains interesting outside the tested pre-closing boundary.
+- King Gizzard & the Lizard Wizard, Windy & Carl with Optigan Conservatory, Jan St. Werner and Mykki Blanco — five unresolved exact-identity research leads across current club-facing and adjacent spatial worlds.
+- `Roxellana → Fragments → Drummz → Ikoyi → Amor` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** A track can change its own perceptual frame without changing what the next track means. Internal movement becomes long-form movement only when the exit creates a new consequence.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. All three rejects are placement-specific; unresolved identities have no verdict.
+
 ## Current additions — Run 113
 
 ### Passing can prepare a reset

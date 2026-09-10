@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 114 — EXPLORE — internal motion is not long-form movement
+
+Nine ranked leads from approximately 48 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, one release-date warning and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. Helena Hauff — *btdr-revisited* passes the selection lens but its tested `Drummz → candidate → Ikoyi` position adds another careening instability before the existing dissolution. *The Smell Of Suds And Steel* produces source-described perceptual change over a barely varied 8:11 pattern, but after *Worn Down* it creates roughly 15:39 of two sustained stages before the current Sciahri pair. Mykki Blanco with Tama Gucci — *FOXES* passes as an adjacent stop-and-return construction, but between *Truth in Noise* and *Transparency* it reopens and resolves a complete 6:30 conflict after consolidation without changing the protected close.
+
+STRANGE GAIT remains at 26 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 218 to 221 tracks with all three selected exact candidates. Helena Hauff — *Hyper-Intelligent Genetically Enriched Cyborg* remains a resolved unevaluated alternate and is not added globally.
+
+Across Runs 87–114: 251 leads from approximately 1,263 inspections and 11 ADDs from 73 selected candidates. Recent ADD rate: 3/10 across Runs 105–114; overall repaired comparison: 12/79 across Runs 55–114. No-ADD streak: one run since Run 113. Three exact interesting tracks entered the utility layer during that interval.
+
+**Strongest counterargument:** *btdr-revisited* is short enough to sharpen the post-*Drummz* passage. Its duration limits cost, but the five-track run still places two consecutive instability statements before *Ikoyi*'s existing dissolution without establishing a new consequence.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 113 — EXPLORE — passing can prepare a reset
 
 Nine ranked leads from approximately 51 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, no warnings and no duplicates, substitutions, relinkings or technical failures.

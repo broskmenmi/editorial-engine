@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 114 — EXPLORE — internal motion is not long-form movement — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 26 unique canonical tracks with a current 26-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 218 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 113's ADD left no specific REPAIR target.
+
+### Exploration receipt
+
+Run `2026-09-10T01:53:17Z-explore-114` inspected approximately 48 named tracks across September and August 2026 current reviews/news, current club-facing genre changes, MUTEK and adjacent spatial/ambient windows, and Helena Hauff's overlooked 2018 `Qualm`. Runs 109–113 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (18.8%).
+
+The immutable schemaVersion 2 request was pinned to `d33cde1a01b22d3e880d3cc1166bff4e593ee5c9` in request commit `c8d9671bb5e5af0146047e59ab7d7aa435648d0b`. The matching snapshot commit is `9105a089d40b8152fc297d15c0747121e9ae0a55`; request fingerprint `fa31222d347597d001890982274db5770754ff4fe54bdd0410a93906ff7303f7`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 1 warning. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Helena Hauff — btdr-revisited — `spotify:track:3NuBpMKkSLZUJ01yBjOifr` — 3:30
+2. Helena Hauff — The Smell Of Suds And Steel — `spotify:track:0wZ7yAcRnaY9Lz0YJiSizK` — 8:11
+3. Mykki Blanco, Tama Gucci — FOXES — `spotify:track:0QzQfWOBLvuRyMqY4Oj6lT` — 6:30
+
+Resolved but unevaluated alternate:
+
+- Helena Hauff — Hyper-Intelligent Genetically Enriched Cyborg — `spotify:track:1ALKaZZVQNntzNv0nEuapp` — 6:04
+
+Unresolved identities preserved without musical verdict:
+
+- King Gizzard & the Lizard Wizard — Rapid Alpha Decay: `no exact Spotify title/artist search match in market SE`
+- Mykki Blanco — Butt Sex: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5KyyZQTlo4JuqNS0ysrlkq, 3ZV6Y7ejY47BMbM249p3ov, 44Yh72ORrBPQZ6OBP2htRk)`
+- King Gizzard & the Lizard Wizard — Level 5: `no exact Spotify title/artist search match in market SE`
+- Windy & Carl, Optigan Conservatory — Timelines: `no exact Spotify title/artist search match in market SE`
+- Jan St. Werner — Squares Will Fall: `no exact Spotify title/artist search match in market SE`
+
+Warning preserved exactly for FOXES:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-04"`
+
+### Candidate evaluations
+
+#### Helena Hauff — btdr-revisited — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes a three-minute fugue for bleeps and claps careening like colliding space debris inside a spartan hardware-techno record. Its rhythmic motion fits the selection lens without novelty serving as the verdict.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Drummz → candidate → Ikoyi`; BPM remains unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Roxellana → Fragments → Drummz → btdr-revisited → Ikoyi` follows the established unpredictable-rhythm hinge with another careening episode before Ikoyi performs the existing foreground dissolution. The candidate repeats instability instead of changing the recovery or dissolution.
+- **Long-form journey:** FAIL for the tested placement. Its 3:30 duration limits proportional cost, but the late-middle passage gains another event without a new consequence for Ikoyi or Amor.
+- **Verdict:** placement-specific REJECT between Drummz and Ikoyi only. This is not a global rejection.
+
+#### Helena Hauff — The Smell Of Suds And Steel — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes an eight-minute 303 workout over a barely varied drum pattern whose complete passage nevertheless leaves the listener subtly rearranged. Fixed repetition is not disqualifying, and its perceptual transformation remains relevant to the volume.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Worn Down → candidate → Too Much Time`; BPM remains unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Abundance → Worn Down → The Smell Of Suds And Steel → Too Much Time → Moonwake` would spend roughly 15:39 across Worn Down and the candidate before the existing Sciahri pair continues the physical passage. The candidate adds another complete sustained stage rather than changing what Too Much Time or Moonwake can do.
+- **Long-form journey:** FAIL for the tested placement. Internal perceptual change does not by itself justify lengthening the early-middle plateau before Capa's later redirection.
+- **Verdict:** placement-specific REJECT between Worn Down and Too Much Time only. This is not a global rejection.
+
+#### Mykki Blanco, Tama Gucci — FOXES — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes an ominous stripped-back midpoint that brings in reverberant synths, pounding drums and a spoken command to bring the music back. The stop-and-return construction is a credible adjacent-world fit.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Truth in Noise → candidate → Transparency`; BPM remains unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Amor → Truth in Noise → FOXES → Transparency → When We Froze` inserts a complete 6:30 menace-and-return episode after consolidation and immediately before the protected closing block.
+- **Long-form journey:** FAIL for the tested placement. The production-world change is welcome, but the source-backed return reopens and resolves its own conflict without making Transparency newly necessary.
+- **Verdict:** placement-specific REJECT between Truth in Noise and Transparency only. This is not a global rejection.
+
+The five unresolved leads receive no musical verdict. Hyper-Intelligent Genetically Enriched Cyborg was not selected and was not evaluated.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 3 PLACEMENT-SPECIFIC REJECT.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. Each selected track passes the selection lens but fails only its tested placement through candidate-specific repetition, disproportion or self-contained resolution. The one release-date warning and all five exact resolver errors are preserved.
+
+Auditor approves local retention of the three selected exact tracks, five unresolved research leads, source watches and the set direction **internal motion is not long-form movement**. All three selected exact tracks must enter the doctrine-free global utility ledger; unresolved leads and the unevaluated alternate must not.
+
+### Durable result
+
+- STRANGE GAIT remains at **26 canonical tracks** with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, five unresolved identities, one unevaluated alternate and the three source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **218 → 221 exact tracks** with btdr-revisited, The Smell Of Suds And Steel and FOXES.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 48 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 selected evaluations + 1 unevaluated alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **18.8%**, exact-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–114, the repaired funnel has produced **251 leads from approximately 1,263 inspections and 11 ADDs from 73 selected candidates**. The recent ADD rate is **3/10 across Runs 105–114**, versus **12/79 across Runs 55–114**. The no-ADD streak is one run since Run 113; three exact interesting tracks entered the utility layer during that interval. The strongest counterargument is that btdr-revisited's short careening fugue could sharpen Drummz's instability before Ikoyi dissolves the foreground. The opposing five-track evidence is proportional: Drummz already supplies the unpredictable-rhythm hinge, so the candidate makes Ikoyi arrive after two consecutive instability statements without changing its consequence. This run does not prove any global incompatibility, exact handoff, BPM/pulse continuity, phrase compatibility, live mixability or playlist completion.
+
 ## Run 113 — EXPLORE — passing can prepare a reset — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a current 25-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 215 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 112's two-run no-ADD streak remained a maturity and placement-saturation watch rather than a specific repair.
