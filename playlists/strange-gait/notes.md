@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 128 — EXPLORE — recovery must remain open for the next track
+
+No canonical track is added. Verraco — *0∞* passes STRANGE GAIT's selection lens but its two tested early placements are rejected. Pitchfork documents more than two minutes of bass withholding, a harsh breakdown and a late 4/4 return. Before *Encasadelciegoeltuerco*, that completed recovery is followed by another derailment; after it, the candidate's own late recovery leaves *Cave* to recover a second time. The exact 5:06 track remains genuinely interesting.
+
+Dj Cinéma Quartier Latin — *Blame* is PARKED. Spotify verifies the exact 2:31 identity, while Pitchfork supplies a release-level persistent muffled-breakbeat and ghostly-sample framework rather than this track's own direction or endpoint. Both `Capa → candidate → Never Met` and `Worn Down → candidate → Too Much Time` could be concise perceptual side-steps or unrelated miniatures; that exact-track direction/exit uncertainty is decision-critical. Reopen for materially richer exact-track connective evidence, lawful audio evidence or a changed need.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 2 exact selected candidates and 7 unresolved identities. Two release-date warnings are preserved. BPM, perceived pulse, energy, density, phrasing, mixability and all exact handoffs remain unknown.
+
 ## Run 127 — EXPLORE — rhythmic complexity must not pre-empt its consequence
 
 No canonical track is added. Beatrice Dillon, Kuljit Bhamra — *Square Fifths*, Lechuga Zafiro — *Oreja Ácida* and Beatrice Dillon — *Basho* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested placements are rejected.

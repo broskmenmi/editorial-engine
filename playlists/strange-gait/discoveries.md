@@ -1,5 +1,77 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 128 — EXPLORE — recovery must remain open for the next track — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 260 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T14:50:06Z-explore-128` inspected approximately 51 named tracks, releases and live/review entries across Pitchfork's September 2026 MUTEK report, Jump Source's *Fold*, DJ Cinéma Quartier Latin's *Bruise*, Rian Treanor and Ocen James' *Saccades*, Verraco's *Breathe… Godspeed* and adjacent catalogue branches. The MUTEK report supplied a current Montréal entry point; Honeydrip remained a watch because the live-system account did not establish one exact released-track identity. Canonical, active-rejection, untriggered-PARKED and utility-retained identities were excluded. Runs 122–127 selected ecosystems and Rian Treanor's prior unresolved ATAXIA titles were not retried. Nine honest leads survived (17.6%).
+
+The immutable schemaVersion 2 request was pinned to `3f1325e2f46c0d0447e4dde3a4a4101155f82744` in request commit `6039c85221b590667f3fedb9de61f9d14d289804`. The matching snapshot commit is `8701b33d4bdd5efc6dc0ac1e2e7342a74561604f`; request fingerprint `f97502dc17981826539202cca4b8a3a0b16d6e188573628ec9005d28c0bb24b4`.
+
+### Resolver outcome
+
+The terminal schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 9 requested, 2 resolved and selected candidates, 7 unresolved, 0 alternates and 2 warnings. There were no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Verraco — *0∞* — `spotify:track:4HDRrb9LafirfnFwjSpIEy` — *Breathe… Godspeed*, 2024-05-31, 305500 ms.
+- Dj Cinéma Quartier Latin — *Blame* — `spotify:track:5uBR2QbqmcuRaT0xYonSRO` — *Bruise*, 2026-07-16, 151453 ms.
+
+Unresolved without musical verdict:
+
+- Rian Treanor, Ocen James — *Rigi Rigi*: `no exact Spotify title/artist search match in market SE`
+- Verraco — *Sí, idealízame*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7HONY7xmgD8yCGTN7JM0oa, 0BbIOwJTXDLgHh281bPPXk)`
+- Jump Source, Helena Deland — *Shattered*: `no exact Spotify title/artist search match in market SE`
+- Rian Treanor, Ocen James — *Naasaccade*: `no exact Spotify title/artist search match in market SE`
+- Rian Treanor, Ocen James — *Agoya*: `no exact Spotify title/artist search match in market SE`
+- Jump Source, BEA1991 — *Endlessly*: `no exact Spotify title/artist search match in market SE`
+- DJ Cinéma Quartier Latin, DrEy ArMaNi — *Trust*: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- Verraco — *0∞*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-05-31"`
+- DJ Cinéma Quartier Latin — *Blame*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-16"`
+
+### Evaluations
+
+#### Verraco — 0∞ — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents bass withholding, a harsh plunging breakdown and a late 4/4 return; structural expectation is actively withheld and reconstructed.
+- **Transition scale:** Between *The Witching Hour* and *Encasadelciegoeltuerco*, the candidate completes its own withhold-breakdown-recovery arc before the following track derails the grid again. Between *Encasadelciegoeltuerco* and *Cave*, its late 4/4 recovery arrives before *Cave*, so the supposed preparation has already resolved itself.
+- **Local-run scale:** `Marauder → The Witching Hour → 0∞ → Encasadelciegoeltuerco → Cave` stacks two extended crisis/recovery propositions. `The Witching Hour → Encasadelciegoeltuerco → 0∞ → Cave → Abundance` turns *Cave* into a second recovery after the candidate's own late return.
+- **Long-form scale:** The 5:06 insertion increases early duration and drama without changing the established derailment-to-widening consequence.
+- **Verdict:** REJECT only the two tested placements. Retain the exact track as genuinely interesting.
+- **Unknowns:** BPM, perceived pulse, energy, density, phrasing, mixability and exact handoffs remain UNKNOWN; the verdict rests on the documented endpoint and proportional journey duplication, not those unknowns.
+
+#### Dj Cinéma Quartier Latin — Blame — PARKED / interesting
+
+- **Volume fit:** PLAUSIBLE. The exact identity is verified, and Pitchfork places it within *Bruise*'s persistent muffled-breakbeat, ghostly-sample and house/ambient-garage framework.
+- **Transition scale:** `Capa → Blame → Never Met` could create a concise perceptual side-step, but the source does not distinguish this individual track's direction or endpoint from the album framework.
+- **Local-run scale:** At 2:31 the proportional cost is small. Yet the evidence cannot tell whether it deepens redirection, simply softens the transit, or introduces an unrelated miniature. The same decision-critical gap persists in the reasonable alternate `Worn Down → Blame → Too Much Time`.
+- **Long-form scale:** A concise different-world interval could be useful, but its downstream consequence cannot be chosen responsibly from release-level behavior alone.
+- **Verdict:** PARKED. Reopen for materially richer exact-track structural/connective evidence, lawful audio evidence or a changed need that makes the direction of this exact track non-critical.
+- **Unknown audit:** This is not parked merely because phrase or mix audio is absent. The decision-critical unknown is the exact track's own direction and exit; plausible interpretations lead to materially different canonical judgments.
+
+### Auditor approval
+
+**APPROVED.** The request uses schemaVersion 2, a fresh runId and the current pre-request source SHA. The matching PARTIAL snapshot is internally valid and all seven resolver errors plus both warnings are preserved. Only its two selected exact identities were evaluated. Both pass or plausibly pass the selection lens; *0∞* fails its two tested placements through documented endpoint duplication, while *Blame* is PARKED for one specific track-level direction/exit uncertainty after a reasonable alternate placement was considered. Neither verdict treats UNKNOWN as negative by default. No canonical, protected, frozen, annotation, audio or live-mixing state changes.
+
+The 22.2% lead-to-resolution rate is the dominant funnel loss. A three-run no-ADD streak with eight exact retained tracks since Run 125 warrants continued monitoring, but consecutive canonical additions in Runs 124–125 and candidate-specific outcomes here do not yet establish Scout over-filtering, an Evaluator epistemic veto or repetitive placement search. No actionable workflow REPAIR is approved.
+
+### Durable result
+
+- STRANGE GAIT remains at **32 canonical tracks**, unchanged.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Add *0∞* to active placement-specific rejections; add *Blame* to PARKED revisit state.
+- Retain both exact tracks locally and in EDITORIAL ENGINE — DISCOVERY POOL, moving its ledger **260 → 262**.
+- Retain the seven unresolved exact-title outcomes and Honeydrip/MUTEK, *Saccades*, *Breathe… Godspeed* and *Bruise* research windows without inventing identities or track facts.
+- Journey annotations and generated map remain unchanged.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 51 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved → 2 evaluations → **0 ADD + 1 placement-specific REJECT + 1 PARKED** → 2 utility additions. Inspection-to-lead conversion is **17.6%**; lead-to-resolution conversion is **22.2%**; selected-candidate-to-ADD conversion is **0/2**. Across Runs 87–128: **377 leads from approximately 1,976 inspections; 17 ADDs from 114 selected candidates**. Across comparable Runs 119–128 the ADD rate is **3/10**, versus **18/120 selected candidates across Runs 55–128**. The no-ADD streak is three runs since Run 125, with eight exact interesting tracks retained during it. The strongest alternative explanation is resolver identity loss: seven of nine honest leads never became evaluable candidates. This run proves only that *0∞*'s two tested positions duplicate early recovery work and that *Blame* lacks track-level evidence needed for its current hypotheses; it does not globally reject either track, convert unresolved leads into failures, establish handoff feel, or prove STRANGE GAIT complete.
+
 ## Run 127 — EXPLORE — rhythmic complexity must not pre-empt its consequence — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching journey annotations and 32 generated-map identities. Its COMPLETE 32-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 257 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.

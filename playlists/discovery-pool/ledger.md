@@ -264,6 +264,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 258 | Beatrice Dillon, Kuljit Bhamra | Square Fifths | spotify:track:0Au26e7KWu9IqgkWpIP1Vn | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
 | 259 | Lechuga Zafiro | Oreja Ácida | spotify:track:723KTMA4xDVVeOaNoRU6zy | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
 | 260 | Beatrice Dillon | Basho | spotify:track:5sKMHfvZBvZAXWJLaoj5TI | STRANGE GAIT Run 127 | Placement-specific reject / interesting | 2026-09-10 |
+| 261 | Verraco | 0∞ | spotify:track:4HDRrb9LafirfnFwjSpIEy | STRANGE GAIT Run 128 | Placement-specific reject / interesting | 2026-09-10 |
+| 262 | Dj Cinéma Quartier Latin | Blame | spotify:track:5uBR2QbqmcuRaT0xYonSRO | STRANGE GAIT Run 128 | PARKED / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

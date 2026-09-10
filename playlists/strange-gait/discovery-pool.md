@@ -1,5 +1,16 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 128 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Verraco | 0∞ | https://open.spotify.com/track/4HDRrb9LafirfnFwjSpIEy | Placement-specific REJECT only for the two tested Run 128 early positions. Its exact withhold-breakdown-late-4/4-return structure remains genuinely interesting elsewhere; release-date variance preserved. |
+| EXACT TRACK | Dj Cinéma Quartier Latin | Blame | https://open.spotify.com/track/5uBR2QbqmcuRaT0xYonSRO | PARKED after two placement hypotheses because release-level evidence does not establish the exact track's direction or exit. Exact 2:31 identity remains genuinely interesting; release-date variance preserved. |
+| UNRESOLVED | Rian Treanor, Ocen James; Verraco; Jump Source; DJ Cinéma Quartier Latin | Rigi Rigi; Sí, idealízame; Shattered; Naasaccade; Agoya; Endlessly; Trust | https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades ; https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep ; https://pitchfork.com/reviews/albums/jump-source-fold ; https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise | Seven exact-title no-match or ambiguous outcomes are preserved in discoveries.md. No musical verdict or utility entry. |
+| CURRENT / RELEASE WATCH | Honeydrip; Jump Source; DJ Cinéma Quartier Latin | MUTEK 2026 live system; Fold; Bruise | https://pitchfork.com/story/mutek-is-the-avant-garde-electronic-party-for-the-people ; https://pitchfork.com/reviews/albums/jump-source-fold ; https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise | Current Montréal body-microphone, live-rework and muffled-breakbeat fields remain useful research windows. Honeydrip has no exact released-track claim here. |
+| CATALOGUE WATCH | Rian Treanor, Ocen James; Verraco | Saccades; Breathe… Godspeed | https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades ; https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep | Syncopated fiddle, reconstructed polyrhythm and withheld-recovery catalogues remain useful; unresolved titles have no verdict. |
+| PLACEMENT BOUNDARY | Verraco; Dj Cinéma Quartier Latin | 0∞; Blame | See exact rows above | The tested placements fail or remain undecidable; neither track is globally rejected. Exact handoffs and live-mix claims remain untested. |
+
 ## Run 127 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

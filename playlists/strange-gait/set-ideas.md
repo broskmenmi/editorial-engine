@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 128 — Recovery must remain open for the next track
+
+**Direction:** Explore transformations whose endpoint leaves a real condition for the following track, distinguishing them from self-contained breakdown-and-recovery arcs that make the next recovery redundant.
+
+**Ingredients:**
+
+- Verraco — *0∞* — exact placement-specific reject; bass withholding, harsh breakdown and late 4/4 return remain useful outside the tested double-recovery opening.
+- Dj Cinéma Quartier Latin — *Blame* — exact PARKED 2:31 discovery; persistent muffled-breakbeat release context is known, individual direction and exit are not.
+- Rian Treanor, Ocen James — *Rigi Rigi*, *Naasaccade*, *Agoya* — unresolved exact-title research leads with track-specific rhythmic criticism.
+- Verraco — *Sí, idealízame*, Jump Source — *Shattered* / *Endlessly*, and DJ Cinéma Quartier Latin — *Trust* — unresolved exact-title leads without verdicts.
+- Honeydrip's MUTEK 2026 body-microphone system — current live-practice watch, not an exact released-track claim.
+
+**Why interesting:** A breakdown, side-step or different production world advances a journey when its exit changes what follows; completing the recovery inside the candidate can leave the next track with nothing new to do.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all candidate-to-neighbour handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 127 — Rhythmic complexity must not pre-empt its consequence
 
 **Direction:** Explore tracks whose internal rhythmic mutation creates a state the following track must answer, while distinguishing them from transformations that pre-empt, duplicate or replace the consequence already carried by the journey.
