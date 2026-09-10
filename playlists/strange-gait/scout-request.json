@@ -1,187 +1,61 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-10T19:52:54Z-explore-133",
+  "runId": "2026-09-10T20:49:06Z-explore-134",
   "mode": "EXPLORE",
-  "sourceCommit": "4473ec652af5bffa8f3e0578a7da8421d66fa9f1",
+  "sourceCommit": "dde8b475b280a9b9f193046e598e6bd23926f2ca",
   "target": {
-    "role": "fresh whole-journey contender discovery across current instrument-led ambient collaboration, microtonal techno and overlooked compact machine-rhythm sketches",
-    "purpose": "Test whether alien materiality, tonal escape or concise rhythmic mutation gives neighbouring tracks new work rather than merely adding another self-contained state.",
+    "role": "fresh whole-journey contender discovery across a current rhythmically complex live-band field, an adjacent experimental-club catalogue and overlooked Chicago footwork mutations",
+    "purpose": "Test whether pulse illusion, adjacent-world bodily formation or competing tempo creates downstream work rather than another self-contained transformation.",
     "position": "Whole 33-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat placements as candidate-specific hypotheses and do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-10T19:52:54Z",
-    "approximateInspectedScope": "Approximately 49 named tracks, releases, review entries and catalogue references across September 2026 electronic coverage, Detroit instrument-led ambient collaboration, overlooked Efdemin microtonal techno and Autechre's compact Quaristice sketches; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T20:49:06Z",
+    "approximateInspectedScope": "Approximately 52 named tracks, releases, review entries and catalogue references across September 10, 2026 performance coverage, Angine de Poitrine's current Vol. II catalogue, Aïsha Devi's adjacent experimental-club work and Jana Rush's overlooked Chicago footwork mutations; attributed criticism and release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT / ADJACENT: Pitchfork's September 8, 2026 Windy & Carl / Optigan Conservatory review supplied exact routes through dark organ drone, exposed electric-piano mechanics and gradual guitar emergence. https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory",
-      "OVERLOOKED TECHNO CATALOGUE: Pitchfork's Efdemin — New Atlantis review supplied exact routes through expanding organ over dry kick, punishing minimal-techno thud, and rigid pulse against raga-like drone. https://pitchfork.com/reviews/albums/efdemin-new-atlantis",
-      "OVERLOOKED MACHINE-RHYTHM CATALOGUE: Pitchfork's Quaristice review and its cited critical summary supplied compact hyper-techno, neo-electro and scattershot dub-techno identities from Autechre's 2008 live-jam-derived sketches. https://pitchfork.com/reviews/albums/11245-quaristice",
-      "FRESHNESS CHECK: repository searches found no durable exact decision, revisit or utility entry for the nine requested artist-title identities. Previously selected Runs 126–132 ecosystems and earlier Nueen, Carmen Villain, Bitchin Bajas and Batu/Donato Dozzy decisions were excluded."
+      "CURRENT / EMERGING ADJACENCY: The Guardian's September 10, 2026 concert review and Pitchfork's Vol. II review supplied exact Angine de Poitrine routes through pulse-locked microtonal polyrhythm, metric illusion, halftime transformation and stable-time timbral mutation. https://www.theguardian.com/music/2026/sep/10/angine-de-poitrine-concert-review ; https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii",
+      "ADJACENT EXPERIMENTAL CLUB: Pitchfork's Aïsha Devi — Death Is Home review supplied exact routes through restrained kick puncture, direct bass-led formation and percussion-heavy distorted-beat architecture. https://pitchfork.com/reviews/albums/aisha-devi-death-is-home",
+      "OVERLOOKED CATALOGUE: Pitchfork's Jana Rush — Painful Enlightenment review supplied exact routes through opposing tempos, machinery-funk patchwork and a comparatively direct Chicago-house formation inside broken footwork. https://pitchfork.com/reviews/albums/jana-rush-painful-enlightenment",
+      "FRESHNESS CHECK: repository searches found no durable exact decision, revisit or utility entry for the nine requested artist-title identities. Run 133's unresolved Efdemin, Autechre and Windy & Carl / Optigan Conservatory request was not reused; Runs 126–132 selected ecosystems were excluded."
     ],
     "exclusions": [
-      "Canonical identities, placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and prior unresolved leads without materially new identity evidence were excluded.",
-      "Nueen, Carmen Villain, Bitchin Bajas and Batu/Donato Dozzy tracks were excluded after repository search showed prior exact decisions or unresolved research already covered those fields.",
-      "Current songs supported only by playlist inclusion or broad album atmosphere, and physical-only material without a plausible Spotify identity, were inspected but excluded.",
+      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and prior unresolved leads without materially new identity evidence were excluded.",
+      "GRRL's current Beetle field and Black Bananas' current Bad Bunch were excluded because exact tracks from those sources were already resolved or decided in Runs 103 and 125.",
+      "Angine de Poitrine tracks supported only by broad live praise, and Aïsha Devi or Jana Rush tracks without concrete individual rhythmic or structural descriptions, were inspected but excluded.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Efdemin — A Land Unknown",
-      "2. Autechre — chenc9",
-      "3. Efdemin — Good Winds",
-      "4. Autechre — rale",
-      "5. Efdemin — Black Sun",
-      "6. Autechre — Perlence",
-      "7. Windy & Carl, Optigan Conservatory — Apparition on 3rd Street",
-      "8. Windy & Carl, Optigan Conservatory — Conductor",
-      "9. Windy & Carl, Optigan Conservatory — Timelines"
+      "1. Angine de Poitrine — Sarniezz",
+      "2. Aïsha Devi — Dimensional Spleen",
+      "3. Jana Rush — Mynd Fuc",
+      "4. Angine de Poitrine — Yor Zarad",
+      "5. Aïsha Devi — Lick Your Wounds",
+      "6. Jana Rush — Disorientation",
+      "7. Angine de Poitrine — UTZP",
+      "8. Aïsha Devi — Azoth Eyes",
+      "9. Jana Rush — Disturbed"
     ]
   },
   "leads": [
     {
-      "artist": "Efdemin",
-      "track": "A Land Unknown",
-      "album": "New Atlantis",
-      "releaseDate": "2019",
+      "artist": "Angine de Poitrine",
+      "track": "Sarniezz",
+      "album": "Vol. II",
+      "releaseDate": "2026-04-03",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/efdemin-new-atlantis",
-      "fitHypothesis": "Pitchfork describes a rigid trance pulse joined to buzzing, raga-like drones, placing strict timekeeping against a tonal system that refuses ordinary techno harmony.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii",
+      "fitHypothesis": "Pitchfork describes a basic 6/8 construction whose four-bar melody and drumming alternate swung time with traditional 4/4 pounding, making a stable meter sound repeatedly reinterpreted.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a rigid trance pulse joined to buzzing, raga-like drones, placing strict timekeeping against a tonal system that refuses ordinary techno harmony.",
+        "attributedDescription": "Pitchfork describes a basic 6/8 construction whose four-bar melody and drumming alternate swung time with traditional 4/4 pounding, making a stable meter sound repeatedly reinterpreted.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether stable pulse with tonal estrangement can create a consequential bridge rather than another independent proposition.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test rigid pulse and tonal estrangement between dissolution and acoustic-electronic mutation."
-        },
-        {
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether tonal displacement sharpens the following funk re-grounding."
-        }
-      ]
-    },
-    {
-      "artist": "Autechre",
-      "track": "chenc9",
-      "album": "Quaristice",
-      "releaseDate": "2008",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/11245-quaristice",
-      "fitHypothesis": "Pitchfork identifies the track as hyper techno; the review context presents Quaristice as short, live-jam-derived sketches that isolate individual ideas rather than conventional long developments.",
-      "evidence": {
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork identifies the track as hyper techno; the review context presents Quaristice as short, live-jam-derived sketches that isolate individual ideas rather than conventional long developments.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a concise high-speed machine-rhythm left turn changes the next bodily deformation instead of merely adding intensity.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Trompe L'oeil and Thick to Handle",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test a compact hyper-techno turn between reset and bodily deformation."
-        },
-        {
-          "position": "Between Drummz and Ikoyi",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test concise machine-rhythm escalation before foreground dissolution."
-        }
-      ]
-    },
-    {
-      "artist": "Efdemin",
-      "track": "Good Winds",
-      "album": "New Atlantis",
-      "releaseDate": "2019",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/efdemin-new-atlantis",
-      "fitHypothesis": "Pitchfork describes a dry galloping kick under softly thrumming organ chords that gradually expand through the track's atmosphere.",
-      "evidence": {
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a dry galloping kick under softly thrumming organ chords that gradually expand through the track's atmosphere.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether direct forward motion carrying slow tonal expansion can clarify a local run without becoming another plateau.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test expanding direct motion before the existing re-grounding."
-        },
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test a direct galloping stage between recovery and regained abundance."
-        }
-      ]
-    },
-    {
-      "artist": "Autechre",
-      "track": "rale",
-      "album": "Quaristice",
-      "releaseDate": "2008",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/11245-quaristice",
-      "fitHypothesis": "Critical descriptions characterize the track as dark neo-electro with a prominent beat and acid riff inside Quaristice's compact, stop-start suite of single-idea sketches.",
-      "evidence": {
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Critical descriptions characterize the track as dark neo-electro with a prominent beat and acid riff inside Quaristice's compact, stop-start suite of single-idea sketches.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a concise electro-acid world can redirect the foreground without over-explaining an existing transit.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether a long-form pulse illusion can redirect the journey without merely displaying complexity.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
@@ -191,7 +65,217 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test compact electro-acid redirection before foreground transit."
+          "purpose": "Test a 6/8-to-4/4 internal reinterpretation between redirection and foreground transit."
+        },
+        {
+          "position": "Between Truth in Noise and U Belong 2 Me",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether a stable-but-reinterpreted meter gives the following bass-drum withdrawal new work."
+        }
+      ]
+    },
+    {
+      "artist": "Aïsha Devi",
+      "track": "Dimensional Spleen",
+      "album": "Death Is Home",
+      "releaseDate": "2023",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/aisha-devi-death-is-home",
+      "fitHypothesis": "Pitchfork describes twinkling synth and straight-to-the-hips bass in a Slikback collaboration that remains carefully constructed despite being unusually accessible within Devi's catalogue.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes twinkling synth and straight-to-the-hips bass in a Slikback collaboration that remains carefully constructed despite being unusually accessible within Devi's catalogue.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test a direct bodily formation from an adjacent experimental world where the current sequence can answer it rather than merely absorb novelty.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test a direct bass-led formation between foreground dissolution and acoustic-electronic mutation."
+        },
+        {
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether an adjacent-world body track sharpens the following funk re-grounding."
+        }
+      ]
+    },
+    {
+      "artist": "Jana Rush",
+      "track": "Mynd Fuc",
+      "album": "Painful Enlightenment",
+      "releaseDate": "2021",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/jana-rush-painful-enlightenment",
+      "fitHypothesis": "Pitchfork describes languid piano intersecting frantic electronic percussion so the exact track appears to operate at two opposing tempos.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes languid piano intersecting frantic electronic percussion so the exact track appears to operate at two opposing tempos.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether opposed speeds create unresolved temporal work distinct from the existing Tides Alternate hinge.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between backsliding and Fragments",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test opposed tempos between dissonant collapse and driving re-entry."
+        },
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test whether opposing speeds deepen unpredictable percussion before foreground dissolution."
+        }
+      ]
+    },
+    {
+      "artist": "Angine de Poitrine",
+      "track": "Yor Zarad",
+      "album": "Vol. II",
+      "releaseDate": "2026-04-03",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii",
+      "fitHypothesis": "Pitchfork says the track cuts its established time in half, transforming a nervous spasm into a markedly broader formation within the band's pulse-locked polyrhythmic method.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork says the track cuts its established time in half, transforming a nervous spasm into a markedly broader formation within the band's pulse-locked polyrhythmic method.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether internal halftime transformation can prepare a following consequence rather than complete its own reset.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test halftime transformation after derailment before broader motion."
+        },
+        {
+          "position": "Between backsliding and Fragments",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test a scale-changing rhythmic event before driving re-entry."
+        }
+      ]
+    },
+    {
+      "artist": "Aïsha Devi",
+      "track": "Lick Your Wounds",
+      "album": "Death Is Home",
+      "releaseDate": "2023",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/aisha-devi-death-is-home",
+      "fitHypothesis": "Pitchfork describes restrained tension in a cavernous setting punctured by squeaky synths and dry, piercing kicks.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes restrained tension in a cavernous setting punctured by squeaky synths and dry, piercing kicks.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether sparse puncture can sharpen an existing derailment-to-recovery passage rather than duplicate it.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test restrained puncture before the existing triplet derailment."
+        },
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test an alien sparse formation between derailment and recovery."
+        }
+      ]
+    },
+    {
+      "artist": "Jana Rush",
+      "track": "Disorientation",
+      "album": "Painful Enlightenment",
+      "releaseDate": "2021",
+      "spotifyTrackId": null,
+      "searchIntent": "BOTH",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/jana-rush-painful-enlightenment",
+      "fitHypothesis": "Pitchfork characterizes the track as a patchwork of elevator-machinery funk while retaining footwork's fidgety sub-bass and sharp hi-hat signature.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork characterizes the track as a patchwork of elevator-machinery funk while retaining footwork's fidgety sub-bass and sharp hi-hat signature.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether mechanical funk can serve as a distinct relay between metric dissolution and redirection.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test machinery-funk after metric dissolution before redirection."
         },
         {
           "position": "Between Tehutis Law and Pulse I",
@@ -200,114 +284,72 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test a terse tonal left turn after re-grounding before crooked accumulation."
+          "purpose": "Test a mechanical-funk relay between re-grounding and crooked accumulation."
         }
       ]
     },
     {
-      "artist": "Efdemin",
-      "track": "Black Sun",
-      "album": "New Atlantis",
-      "releaseDate": "2019",
+      "artist": "Angine de Poitrine",
+      "track": "UTZP",
+      "album": "Vol. II",
+      "releaseDate": "2026-04-03",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/efdemin-new-atlantis",
-      "fitHypothesis": "Pitchfork describes a punishing thud and gurgling minimal-techno synths enveloped by slowly expanding chords.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/angine-de-poitrine-vol-ii",
+      "fitHypothesis": "Pitchfork describes an uncomplicated 4/4 bounce whose microtonal guitar moves through Balkan-brass, angular, orchestral and metal vocabularies without abandoning the meter.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes a punishing thud and gurgling minimal-techno synths enveloped by slowly expanding chords.",
+        "attributedDescription": "Pitchfork describes an uncomplicated 4/4 bounce whose microtonal guitar moves through Balkan-brass, angular, orchestral and metal vocabularies without abandoning the meter.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether force and widening harmony can carry a transition from recovery into new formation without duplicating either side.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether stable time with extreme timbral mutation creates useful continuity instead of another self-contained showcase.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test force plus expanding harmony between recovery and regained formation."
+          "purpose": "Test straight 4/4 carrying timbral mutation before funk re-grounding."
         },
         {
-          "position": "Between Too Much Time and Moonwake",
-          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "position": "Between Capa and Never Met",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test whether a firm thud can focus widening before intensification."
+          "purpose": "Test stable-time mutation between redirection and transit."
         }
       ]
     },
     {
-      "artist": "Autechre",
-      "track": "Perlence",
-      "album": "Quaristice",
-      "releaseDate": "2008",
+      "artist": "Aïsha Devi",
+      "track": "Azoth Eyes",
+      "album": "Death Is Home",
+      "releaseDate": "2023",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/11245-quaristice",
-      "fitHypothesis": "Critical descriptions characterize the track as scattershot dub techno with a dark bassline, within an album of concise edited improvisations and sharply bounded ideas.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/aisha-devi-death-is-home",
+      "fitHypothesis": "Pitchfork describes fluttering vocal layers against ominous ambience and crushing distorted beats, explicitly identifying the track as percussion-heavy.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Critical descriptions characterize the track as scattershot dub techno with a dark bassline, within an album of concise edited improvisations and sharply bounded ideas.",
+        "attributedDescription": "Pitchfork describes fluttering vocal layers against ominous ambience and crushing distorted beats, explicitly identifying the track as percussion-heavy.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a compact dub-techno fragmentation can mediate unpredictable percussion and dissolution rather than repeat them.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Ikoyi",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test compact dub fragmentation between unpredictable percussion and dissolution."
-        },
-        {
-          "position": "Between backsliding and Fragments",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether scattershot dub creates a distinct precondition for driving re-entry."
-        }
-      ]
-    },
-    {
-      "artist": "Windy & Carl, Optigan Conservatory",
-      "track": "Apparition on 3rd Street",
-      "album": "Windy & Carl Meet Optigan Conservatory",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory",
-      "fitHypothesis": "Pitchfork says the track foregrounds the awkward mechanical noises of electric-piano keys when insufficiently amplified, within a collaboration built around aged instruments behaving in unintended ways.",
-      "evidence": {
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork says the track foregrounds the awkward mechanical noises of electric-piano keys when insufficiently amplified, within a collaboration built around aged instruments behaving in unintended ways.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test an acoustic-mechanical left turn whose strange materiality might reset attention without pretending to be a club track.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether a percussion-heavy adjacent-world ending can create an open threshold rather than a competing climax or coda.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
@@ -317,7 +359,7 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test exposed instrument mechanics as a reset before driving re-entry."
+          "purpose": "Test distorted beat weight after dissolution before re-entry."
         },
         {
           "position": "Between Stardancer and Eyes of the Wind",
@@ -326,91 +368,49 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test an alien materiality left turn after the protected trio before the liminal corridor."
+          "purpose": "Test a hard post-protected turn before the liminal corridor."
         }
       ]
     },
     {
-      "artist": "Windy & Carl, Optigan Conservatory",
-      "track": "Conductor",
-      "album": "Windy & Carl Meet Optigan Conservatory",
-      "releaseDate": "2026",
+      "artist": "Jana Rush",
+      "track": "Disturbed",
+      "album": "Painful Enlightenment",
+      "releaseDate": "2021",
       "spotifyTrackId": null,
       "searchIntent": "BOTH",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory",
-      "fitHypothesis": "Pitchfork describes the opener as dark organ drone with no apparent trace of guitar, introducing a collaboration centered on the physical mechanics of old keyboards.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/jana-rush-painful-enlightenment",
+      "fitHypothesis": "Pitchfork describes a comparatively straight 4/4 construction using classic Chicago-house vocal samples inside the album's wider broken-footwork context.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes the opener as dark organ drone with no apparent trace of guitar, introducing a collaboration centered on the physical mechanics of old keyboards.",
+        "attributedDescription": "Pitchfork describes a comparatively straight 4/4 construction using classic Chicago-house vocal samples inside the album's wider broken-footwork context.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a stark non-rhythmic opening frame gives Stadium Drive a clearer formation task rather than merely adding another preface.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        "editorialInterpretation": "Test whether an intentionally direct house formation can consolidate a passage without making the following consolidation redundant.",
+        "craftConvention": "Concrete attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "proposedPlacements": [
         {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "position": "Between Amor and Truth in Noise",
+          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test a dark mechanical-organ preface before the existing overture."
+          "purpose": "Test a direct 4/4 interlude between mutation and consolidation."
         },
         {
-          "position": "Between Eyes of the Wind and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between Truth in Noise and U Belong 2 Me",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
           "incomingBpm": null,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test an organ-drone threshold between liminal passage and afterword."
-        }
-      ]
-    },
-    {
-      "artist": "Windy & Carl, Optigan Conservatory",
-      "track": "Timelines",
-      "album": "Windy & Carl Meet Optigan Conservatory",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "searchIntent": "BOTH",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/windy-and-carl-optigan-conservatory-windy-and-carl-meet-optigan-conservatory",
-      "fitHypothesis": "Pitchfork describes the album's gradual emergence of Windy & Carl from behind organ drones as culminating in this gold-tinted guitar meditation.",
-      "evidence": {
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-        ],
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes the album's gradual emergence of Windy & Carl from behind organ drones as culminating in this gold-tinted guitar meditation.",
-        "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether gradual instrumental emergence can deepen the afterword without competing with the protected close or existing liminal corridor.",
-        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Eyes of the Wind and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test a meditative emergence before the concise afterword."
-        },
-        {
-          "position": "After Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "followingUri": null,
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "candidateBpm": null,
-          "purpose": "Test whether gradual instrumental emergence earns a distinct final coda."
+          "purpose": "Test a classic-house frame before the following bass-drum withdrawal."
         }
       ]
     }
