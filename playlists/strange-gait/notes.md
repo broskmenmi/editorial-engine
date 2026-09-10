@@ -1,5 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 117 — EXPLORE — dissolution can create re-entry
+
+Nine ranked leads from approximately 50 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: three exact Spotify resolutions, six unresolved identities, three selected candidates, no resolved alternates, no warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 1 ADD and 2 placement-specific REJECT. aya — *backsliding* enters between *Roxellana* and *Fragments*: its documented sub-heavy rhythm dissolves into backmasked icy dissonance, giving Fragments a defined re-entry task. aya — *dis yacky* is rejected only between *The Witching Hour* and *Encasadelciegoeltuerco*, where two consecutive loss-of-grid statements precede Cave's existing recovery. Speaker Music — *A Genre Study of Black Male Death and Dying* is rejected only between *Truth in Noise* and *Transparency*, where a vivid rupture reopens crisis after consolidation without changing the protected close.
+
+STRANGE GAIT increases from 27 to 28 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 227 to 230 tracks with all three selected exact candidates. The six unresolved identities retain their exact no-match errors and receive no musical verdict.
+
+Across Runs 87–117: 278 leads from approximately 1,407 inspections and 13 ADDs from 82 selected candidates. Recent ADD rate: 4/10 across Runs 108–117; overall repaired comparison: 14/88 across Runs 55–117. Run 117 ends the one-run no-ADD streak since Run 115; six exact interesting tracks entered the utility layer during that interval.
+
+**Strongest counterargument:** *backsliding* could repeat Fulledge's dissolution function. It passes because the consequences differ: Fulledge hands metric breakdown to redirection; backsliding hands a later rhythm-to-dissonance collapse to driving re-entry.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
+
 ## Run 116 — EXPLORE — deconstruction without consequence
 
 Nine ranked leads from approximately 48 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, three release-date warnings and no duplicates, substitutions, relinkings or technical failures.

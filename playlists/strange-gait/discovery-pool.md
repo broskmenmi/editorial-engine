@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 117 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | aya | dis yacky | https://open.spotify.com/track/360YoQPwwFeDSv4HUGqQFd | Placement-specific REJECT only for The Witching Hour → candidate → Encasadelciegoeltuerco. The exact 3:48 failed-containment construction remains genuinely interesting outside the tested double-derailment opening. |
+| EXACT TRACK | aya | backsliding | https://open.spotify.com/track/7nPQD8wXUbAEaxGoLJxcWd | Canonical ADD between Roxellana and Fragments. The exact 3:06 rhythm-to-backmasked-dissonance dissolution is retained as a provisional re-entry hinge. |
+| EXACT TRACK | Speaker Music | A Genre Study of Black Male Death and Dying | https://open.spotify.com/track/13szCFBxzIIiczI9gkt8IS | Placement-specific REJECT only for Truth in Noise → candidate → Transparency. The exact 3:01 pitch-shifted free-jazz/police-scanner rupture remains genuinely interesting outside the tested pre-closing boundary. |
+| RESEARCH LEADS | Nazar feat. Shannen SP; Nkisi | Bunker; AFRO PRIMITIV | https://pitchfork.com/reviews/tracks/nazar-bunker-ft-shannen-sp and https://pitchfork.com/reviews/tracks/nkisi-afro-primitiv | Both returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEADS | TSVI, Loraine James; Nueen feat. Dawuna; Loraine James feat. Jonnine | Eternal; Awaiting; Shm; Don't You See It? | https://pitchfork.com/reviews/albums/tsvi-loraine-james-053 | All four returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| CURRENT WATCH | Nueen / Hivern Discs | Swerved | https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks | Current slow R&B/drill/cloud-rap/dub crossing; Shm remains unresolved and no track-level trajectory was invented. |
+| ADJACENT WATCH | Nazar / Nkisi / Speaker Music | Guerrilla / AFRO PRIMITIV / Black Nationalist Sonic Weaponry | https://pitchfork.com/reviews/tracks/nazar-bunker-ft-shannen-sp | Rough-kuduro, hardcore-techno and fractured machine-rhythm window; exact claims remain attached only to cited tracks. |
+| CATALOGUE WATCH | aya / TSVI / Loraine James | im hole / 053 / Nothing | https://pitchfork.com/reviews/albums/aya-im-hole | Overlooked arrhythmic, competing-drum and slow-stumbling catalogue; only the three selected exact identities received verdicts. |
+
+### Placement and inspiration boundaries
+
+- backsliding is canonical only between Roxellana and Fragments; exact handoffs, BPM and live mix remain untested.
+- dis yacky and A Genre Study of Black Male Death and Dying are rejected only for their Run 117 placements, not globally.
+- The six unresolved identities have no musical verdict and do not enter the global utility ledger.
+- Set direction: **dissolution can create re-entry when the following rhythm must reform**. These records are not a proven live sequence or mixing prescription.
+
+
 ## Run 116 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

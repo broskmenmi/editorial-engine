@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 117 — Dissolution can create re-entry
+
+**Direction:** Explore collapse-and-return forms where the ending of one track gives the following rhythm a specific re-formation task, while resisting consecutive derailments that merely restate instability.
+
+**Ingredients:**
+
+- Shoal — *Roxellana* — canonical provisional directed surge.
+- aya — *backsliding* — exact Run 117 canonical ADD; a sub-heavy rhythm dissolves into backmasked icy dissonance.
+- CHANCEKNOT — *Fragments* — canonical provisional driving re-entry after the new dissolution.
+- aya — *dis yacky* — exact placement-specific reject; failed containment remains interesting outside the tested opening double-derailment.
+- Speaker Music — *A Genre Study of Black Male Death and Dying* — exact placement-specific reject; fractured drum/scanner rupture remains interesting outside the tested pre-closing boundary.
+- Nazar, Nkisi, TSVI/Loraine James and Nueen/Loraine James collaborations — six unresolved exact-title research leads.
+
+**Why interesting:** Dissolution becomes long-form movement when the next track must reform motion. The same mechanism can fail when it only adds another breakdown before an existing recovery.
+
+**Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. No listed pairing beyond the canonical ledger is asserted to be a proven sequence or live edge.
+
+
 ## Run 116 — Deconstruction must change the next formation
 
 **Direction:** Explore short self-deconstructing or suspended forms only where the following track acquires a task it does not already have.

@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 117 — EXPLORE — dissolution can create re-entry — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 27 unique canonical tracks with a current 27-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 227 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, TRIGGERED revisit, listener-authorized repair, unfinished publication defect or materially new evidence making a parked decision actionable.
+
+### Exploration receipt
+
+Run `2026-09-10T03:49:15Z-explore-117` inspected approximately 50 named tracks, releases and current-source entries across September 4–9, 2026 electronic coverage, adjacent Black experimental club and rough-kuduro work, and overlooked 2018–2022 rhythmically unstable catalogue. Runs 111–116 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (18.0%).
+
+The immutable schemaVersion 2 request was pinned to `991ea236f34006c888f71b2940f7ac131be95cb6` in request commit `d04133baf8b29485eaf7e1befc50e8ef4bc9ed12`. The matching snapshot commit is `67ec847219cec3af587e44f3701cd406fc152736`; request fingerprint `75734ce7d973963070d9ae490980c9636661b4b294b9ad554c6e1f1fd25fbbb9`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 3 resolved, 3 selected candidates, 0 resolved alternates, 6 unresolved and 0 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. aya — dis yacky — `spotify:track:360YoQPwwFeDSv4HUGqQFd` — 3:48
+2. aya — backsliding — `spotify:track:7nPQD8wXUbAEaxGoLJxcWd` — 3:06
+3. Speaker Music — A Genre Study of Black Male Death and Dying — `spotify:track:13szCFBxzIIiczI9gkt8IS` — 3:01
+
+Unresolved without musical verdict:
+
+- Nazar feat. Shannen SP — Bunker: `no exact Spotify title/artist search match in market SE`
+- Nkisi — AFRO PRIMITIV: `no exact Spotify title/artist search match in market SE`
+- TSVI, Loraine James — Eternal: `no exact Spotify title/artist search match in market SE`
+- TSVI, Loraine James — Awaiting: `no exact Spotify title/artist search match in market SE`
+- Nueen feat. Dawuna — Shm: `no exact Spotify title/artist search match in market SE`
+- Loraine James feat. Jonnine — Don't You See It?: `no exact Spotify title/artist search match in market SE`
+
+There were no resolved alternates or resolver warnings.
+
+### Candidate evaluations
+
+#### aya — dis yacky — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents arrhythmic breakbeats, cawing crows and an acid bassline attempting to hold jagged fragments together.
+- **Immediate transition:** At `The Witching Hour → candidate → Encasadelciegoeltuerco`, the candidate's failed containment could make the following triplet derailment vivid, but it does not establish a distinct exit or recovery.
+- **Three-to-five-track run:** `Marauder → The Witching Hour → dis yacky → Encasadelciegoeltuerco → Cave` places two consecutive loss-of-grid statements before Cave's existing widening/recovery function.
+- **Long-form journey:** The opening gains another striking breakdown mechanism but not a new downstream consequence.
+- **Verdict:** REJECT only the tested placement. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN.
+
+#### aya — backsliding — ADD
+
+- **Volume fit:** PASS. Pitchfork documents a sub-heavy rhythm that dissolves into backmasked streaks of icy dissonance.
+- **Immediate transition:** The exact entry and exit remain untested, but the documented endpoint gives Fragments a defined re-entry task after Roxellana rather than asking another candidate merely to intensify the surge.
+- **Three-to-five-track run:** `Pulse I → Roxellana → backsliding → Fragments → Drummz` now moves from crooked accumulation and directed surge through a complete rhythm-to-dissonance dissolution, then returns to driving motion and unpredictable rhythm.
+- **Long-form journey:** The concise 3:06 insertion creates a collapse-and-return event later in the journey. It rhymes with Fulledge's earlier dissolution without mechanically copying its consequence: Fulledge hands to redirection; backsliding hands to re-entry.
+- **Verdict:** ADD between Roxellana and Fragments. The placement is provisional; BPM, phrase structure, perceived pulse, density, energy, both exact handoffs and live mixability remain UNKNOWN.
+
+#### Speaker Music — A Genre Study of Black Male Death and Dying — placement-specific REJECT
+
+- **Volume fit:** PASS at the adjacent edge. Pitchfork documents free-jazz drums subjected to violent pitch shifting and police-scanner sound within a larger stop-start machine-rhythm suite.
+- **Immediate transition:** `Truth in Noise → candidate → Transparency` would create a conspicuous rupture after consolidation, but the evidence does not establish how that rupture exits into Transparency.
+- **Three-to-five-track run:** `Amor → Truth in Noise → candidate → Transparency → When We Froze` reopens crisis between consolidation and the protected closing block.
+- **Long-form journey:** The different production world is welcome; this position fails because the rupture does not change what the protected close needs to accomplish.
+- **Verdict:** REJECT only the tested placement. BPM, phrase fit, perceived pulse, density, energy and both handoffs remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The request is immutable and pinned to the live pre-request SHA; the matching PARTIAL snapshot has the same runId, sourceCommit, mode, target and exploration receipt. All six unresolved identities and their exact resolver errors are preserved without musical verdict. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, local-run and long-form scales. No energy, density, space, hypnosis, phrase fit or mixability was inferred from metadata. The protected `Transparency → When We Froze → Stardancer` order remains untouched. Auditor approves the backsliding ADD, the two placement-specific REJECT outcomes, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **27 → 28 canonical tracks**; add aya — backsliding after Shoal — Roxellana and before CHANCEKNOT — Fragments; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact tracks retained; six unresolved research leads and current/adjacent/catalogue watches retained without invented identity or verdict.
+- EDITORIAL ENGINE — DISCOVERY POOL: **227 → 230 exact tracks**, adding all three selected exact tracks.
+- Journey-map annotations: add backsliding as a provisional rhythm-to-dissonance-dissolution hinge; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 50 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Across Runs 87–117: 278 leads from approximately 1,407 inspections and 13 ADDs from 82 selected candidates. Recent ADD rate: 4/10 across Runs 108–117; overall repaired comparison: 14/88 across Runs 55–117. Run 117 ends the one-run no-ADD streak since Run 115; six exact interesting tracks entered the utility layer during that interval, including the new ADD.
+
+**Strongest counterargument:** backsliding could repeat Fulledge's dissolution function too soon. The opposing evidence is the different consequence: Fulledge dissolves metric orientation before Capa redirects it, while backsliding dissolves a sub-heavy rhythm so Fragments can perform a later re-entry after Roxellana's surge.
+
+
 ## Run 116 — EXPLORE — deconstruction without consequence — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 27 unique canonical tracks with a current 27-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 224 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 115's addition created no concrete defect.
