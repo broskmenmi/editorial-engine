@@ -1,291 +1,130 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "f97502dc17981826539202cca4b8a3a0b16d6e188573628ec9005d28c0bb24b4",
-  "generatedAt": "2026-09-10T14:56:49.042Z",
-  "runId": "2026-09-10T14:50:06Z-explore-128",
-  "sourceCommit": "3f1325e2f46c0d0447e4dde3a4a4101155f82744",
+  "requestFingerprint": "3a13b4904d9bb369386b557229ea0a48d96578356573f0d073de7325a95fd43d",
+  "generatedAt": "2026-09-10T15:56:25.778Z",
+  "runId": "2026-09-10T15:49:24Z-explore-129",
+  "sourceCommit": "7ddddec6fc6979dc709950d6cfd8f0a36518e414",
   "mode": "EXPLORE",
   "target": {
-    "role": "fresh whole-journey contender discovery through a live 2026 Montréal club window, an emerging Montréal breakbeat field, and overlooked rhythm-reconfiguration catalogues",
-    "purpose": "Test whether acoustic-led syncopation, near-drumless ascent, pop-facing shuffle, muffled-break persistence or delayed rhythmic recovery gives the next track new work rather than adding another self-contained transformation.",
-    "position": "Whole 32-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat all placements as provisional and candidate-specific; do not reopen untriggered PARKED identities."
+    "role": "fresh whole-journey contender discovery through current September 2026 releases, an emerging hand-played electro-percussion field and overlooked rhythm-reconfiguration catalogues",
+    "purpose": "Test whether live-drum acceleration, hand-played groove switching, methodical accumulation, delayed beat arrival, skeletal syncopation or deliberate near-stasis gives the following formation new work rather than merely adding another internal turn.",
+    "position": "Whole 32-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat placements as candidate-specific hypotheses and do not reopen untriggered PARKED identities."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-10T14:50:06Z",
-    "approximateInspectedScope": "Approximately 51 named tracks, releases and live/review entries across the September 2026 MUTEK field, Jump Source's Fold, DJ Cinéma Quartier Latin's Bruise, Rian Treanor and Ocen James' Saccades, Verraco's Breathe... Godspeed and adjacent catalogue branches; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-10T15:49:24Z",
+    "approximateInspectedScope": "Approximately 53 named tracks, releases and review entries across September 2026 current-release coverage, the emerging Gloorp hand-played electro-percussion field, Beatrice M.'s Sinking, Marina Herlop's Dja Dja preview, Kali Malone's Burning Song preview, Livity Sound, Rival Consoles' Persona, Björk's Homogenic and adjacent catalogue branches; attributed criticism and release metadata only; no audio audition.",
     "sourceWindows": [
-      "CURRENT: Pitchfork's September 4, 2026 MUTEK report identified Jump Source's live Fold rework and Honeydrip's body-microphone club set as current Montréal signals; Jump Source's 2026 Fold review supplied exact Shattered and Endlessly routes. Honeydrip remained a release watch because the report described a live system rather than an exact released track. https://pitchfork.com/story/mutek-is-the-avant-garde-electronic-party-for-the-people https://pitchfork.com/reviews/albums/jump-source-fold",
-      "ADJACENT / EMERGING: Pitchfork's July 23, 2026 Bruise review supplied DJ Cinéma Quartier Latin's persistent muffled-breakbeat and ghostly-sample framework, with Blame and Trust as exact-title resolution leads. https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
-      "OVERLOOKED CATALOGUE: Pitchfork's Saccades and Breathe... Godspeed reviews supplied exact syncopated fiddle, reconstructed polyrhythm, delayed 4/4 recovery and near-drumless ascent leads. https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
-      "FRESHNESS CHECK: exact repository search found no durable state for DJ Cinéma Quartier Latin, Rigi Rigi, Naasaccade, 0∞ or Sí, idealízame. Jump Source had one earlier track-specific decision only; Shattered and Endlessly are new exact-title leads. Rian Treanor's prior unresolved ATAXIA titles were not retried. Runs 122–127 selected ecosystems were excluded."
+      "CURRENT: The Guardian's September 4, 2026 electronic survey supplied Silvan Strauss — That's Who?!? (Fast Barista) and Kali Malone — Heavy With Fruit; Pitchfork's September 8 Selects and July 1 Marina Herlop announcement supplied current-release windows. https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks https://pitchfork.com/story/fine-djrum-miimii-kds-and-more-this-weeks-pitchfork-selects-playlist https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja",
+      "ADJACENT / EMERGING: Pitchfork's Gloorp 'Em Up review supplied exact hand-played footwork, bongo and delayed-beat candidates; Beatrice M.'s Sinking was inspected but prior local inspiration state already retained its strongest exact tracks, so it was not recycled. https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up https://pitchfork.com/reviews/albums/beatrice-m-sinking",
+      "OVERLOOKED CATALOGUE: Pitchfork reviews of Rival Consoles — Unfolding, Livity Sound and Björk's Homogenic supplied methodical polyrhythmic accumulation, skeletal syncopation and destructive four-on-the-floor rupture routes. https://pitchfork.com/reviews/tracks/rival-consoles-unfolding https://pitchfork.com/reviews/albums/18622-livity-sound-livity-sound https://pitchfork.com/reviews/albums/bjork-homogenic",
+      "FRESHNESS CHECK: exact repository search found no durable state for the nine requested identities. Runs 124–128 selected ecosystems and untriggered PARKED entries were excluded."
     ],
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and unresolved prior leads without materially new identity evidence were excluded.",
-      "Runs 122–127 selected ecosystems were not retried: Yu Su, Vanishing Twin, Arca, Brendon Moeller, Pugilist, Azu Tiwaline, Black Bananas, Djrum, Rrose, Ripatti, Nondi_, Lechuga Zafiro, Beatrice Dillon and Skee Mask.",
-      "Honeydrip's current live system remained a watch because no exact released-track identity was established from the current source; ambient-only and generic metadata entries did not clear the lead floor.",
+      "Runs 124–128 selected ecosystems were not retried: Azu Tiwaline, Pugilist, Black Bananas, Djrum, Rrose, Ripatti, Nondi_, Beatrice Dillon, Lechuga Zafiro, Skee Mask, Verraco, Jump Source, Rian Treanor/Ocen James and DJ Cinéma Quartier Latin.",
+      "Fine — Everything in the Shade was screened but did not clear the lead floor because the exact source described harmonic and vocal slipperiness without a credible rhythmic/structural route into this volume. Ambient, jazz and rock entries without a concrete volume-belonging hypothesis were excluded.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Rian Treanor, Ocen James — Rigi Rigi",
-      "2. Verraco — Sí, idealízame",
-      "3. Jump Source, Helena Deland — Shattered",
-      "4. Rian Treanor, Ocen James — Naasaccade",
-      "5. Verraco — 0∞",
-      "6. DJ Cinéma Quartier Latin — Blame",
-      "7. Rian Treanor, Ocen James — Agoya",
-      "8. Jump Source, BEA1991 — Endlessly",
-      "9. DJ Cinéma Quartier Latin, DrEy ArMaNi — Trust"
+      "1. Silvan Strauss — That's Who?!? (Fast Barista)",
+      "2. Gloorp — Pergggus",
+      "3. Rival Consoles — Unfolding",
+      "4. Gloorp — Ugggly",
+      "5. Björk — Pluto",
+      "6. Gloorp — Glimpse",
+      "7. Pev — Aztec Chant",
+      "8. Marina Herlop — Jaque",
+      "9. Kali Malone — Heavy With Fruit"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 2,
-  "candidateCount": 2,
+  "resolvedCount": 7,
+  "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Rian Treanor, Ocen James",
-      "track": "Rigi Rigi",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Rival Consoles",
+      "track": "Unfolding",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (59dTY9SmLvodJPcFVZSXtQ, 0TUk2GGDZDFwvmGx7zwyMA)",
       "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Rigi Rigi",
-        "album": "Saccades",
-        "releaseDate": "2023",
+        "artist": "Rival Consoles",
+        "track": "Unfolding",
+        "album": "Persona",
+        "releaseDate": "2018",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes a syncopated beat tumbling forward while a tense, unpredictable rigi rigi fiddle remains foregrounded and continuously shifts tone and pitch.",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/rival-consoles-unfolding",
+        "fitHypothesis": "Pitchfork describes minimal drums methodically accumulating syncopated beats, cymbals, low-end horns and synth layers into complex polyrhythms and collective release.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a syncopated beat tumbling forward while a tense, unpredictable rigi rigi fiddle remains foregrounded and continuously shifts tone and pitch.",
+          "attributedDescription": "Pitchfork describes minimal drums methodically accumulating syncopated beats, cymbals, low-end horns and synth layers into complex polyrhythms and collective release.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether acoustic-led syncopation can turn Capa's redirection into a purposeful cross-cultural transit before Never Met, or whether it adds another mediation stage.",
+          "editorialInterpretation": "Test whether an explicit long-form accumulation can give Roxellana a more stable launch or whether it duplicates the current accumulation-to-surge relation.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Capa and Never Met",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": 137,
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test an acoustic-led syncopated passage after rhythmic redirection."
+            "purpose": "Test methodical accumulation as preparation for directed surge."
           },
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": 135,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test whether foregrounded fiddle gives the later percussion mutation a new condition."
+            "purpose": "Test layered growth before directional instability."
           }
         ]
       }
     },
     {
-      "artist": "Verraco",
-      "track": "Sí, idealízame",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7HONY7xmgD8yCGTN7JM0oa, 0BbIOwJTXDLgHh281bPPXk)",
+      "artist": "Pev",
+      "track": "Aztec Chant",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Verraco",
-        "track": "Sí, idealízame",
-        "album": "Breathe... Godspeed",
-        "releaseDate": "2024",
+        "artist": "Pev",
+        "track": "Aztec Chant",
+        "album": "Livity Sound",
+        "releaseDate": "2013",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
-        "fitHypothesis": "Pitchfork describes perpetual ascent driven by melodic bass, with full drops repeatedly withheld and drums reduced to understated kick and hi-hats dissolved into mist.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/18622-livity-sound-livity-sound",
+        "fitHypothesis": "Pitchfork identifies a mesmerizing example of choppy, hovering syncopated drum-machine patterns with tuned toms and congas at the edge of functional club music.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes perpetual ascent driven by melodic bass, with full drops repeatedly withheld and drums reduced to understated kick and hi-hats dissolved into mist.",
+          "attributedDescription": "Pitchfork identifies a mesmerizing example of choppy, hovering syncopated drum-machine patterns with tuned toms and congas at the edge of functional club music.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether forceful motion with almost no drums can prepare Transparency's protected return after U Belong 2 Me, or whether it duplicates the existing collapse threshold.",
+          "editorialInterpretation": "Test whether skeletal syncopation can deepen the Tehutis Law-to-Pulse I passage or provide a late stable frame before U Belong 2 Me removes it.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "outgoingBpm": 143,
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
+            "outgoingBpm": 136,
             "candidateBpm": null,
-            "purpose": "Test withheld ascent as a deliberate precondition for protected re-entry."
+            "purpose": "Test skeletal syncopation between re-grounding and crooked accumulation."
           },
-          {
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": 137,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test a near-drumless ascent before the existing liminal corridor."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Jump Source, Helena Deland",
-      "track": "Shattered",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Jump Source, Helena Deland",
-        "track": "Shattered",
-        "album": "Fold",
-        "releaseDate": "2026",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/jump-source-fold",
-        "fitHypothesis": "Pitchfork describes a garage-inspired track with crisp shuffling percussion, singalong vocals and a bright synth lead inside a four-on-the-floor album built as varied DJ-set chapters.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a garage-inspired track with crisp shuffling percussion, singalong vocals and a bright synth lead inside a four-on-the-floor album built as varied DJ-set chapters.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a conspicuous pop-facing shuffle can refresh the Trompe L'oeil-to-Thick to Handle passage without making the move feel arbitrary.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Trompe L'oeil and Thick to Handle",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": 130,
-            "outgoingBpm": 138,
-            "candidateBpm": null,
-            "purpose": "Test bright garage shuffle as intentional contrast before broken-beat deformation."
-          },
-          {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "candidateBpm": null,
-            "purpose": "Test a pop-facing redirection inside the early recovery run."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Rian Treanor, Ocen James",
-      "track": "Naasaccade",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Naasaccade",
-        "album": "Saccades",
-        "releaseDate": "2023",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes polyrhythms resembling calabashes, drums and dancers' leg bells reconfigured into an experimental percussion construction.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes polyrhythms resembling calabashes, drums and dancers' leg bells reconfigured into an experimental percussion construction.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a reconfigured percussion world makes Ikoyi's foreground dissolution more legible or merely extends an already percussion-dense late run.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Ikoyi",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test experimental polyrhythm before foreground dissolution."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Rian Treanor, Ocen James",
-      "track": "Agoya",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Agoya",
-        "album": "Saccades",
-        "releaseDate": "2023",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes machine-gun kicks repeating until playful rigi rigi fiddle arrives, creating a strong electronic/acoustic confrontation.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes machine-gun kicks repeating until playful rigi rigi fiddle arrives, creating a strong electronic/acoustic confrontation.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a delayed fiddle arrival can sharpen the movement from Ikoyi into Amor, or whether it performs Amor's mutation in advance.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test machine-to-fiddle confrontation before Amor's machine-to-hand-drum mutation."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Jump Source, BEA1991",
-      "track": "Endlessly",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Jump Source, BEA1991",
-        "track": "Endlessly",
-        "album": "Fold",
-        "releaseDate": "2026",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026",
-        "fitHypothesis": "The Guardian describes a grooving bassline and subtle string stabs that preserve detailed production while supporting abstract vocal incantation; Pitchfork places it at an earlier lock-in point in an arcing DJ-set model.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes a grooving bassline and subtle string stabs that preserve detailed production while supporting abstract vocal incantation; Pitchfork places it at an earlier lock-in point in an arcing DJ-set model.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a concise groove lock after Truth in Noise gives U Belong 2 Me more ground to remove or simply delays the existing collapse.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
           {
             "position": "Between Truth in Noise and U Belong 2 Me",
             "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
@@ -293,45 +132,7 @@
             "incomingBpm": 138,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test pop-facing groove lock immediately before rhythmic collapse."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "DJ Cinéma Quartier Latin, DrEy ArMaNi",
-      "track": "Trust",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "DJ Cinéma Quartier Latin, DrEy ArMaNi",
-        "track": "Trust",
-        "album": "Bruise",
-        "releaseDate": "2026",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
-        "fitHypothesis": "Pitchfork names Trust as a vocal collaboration within Bruise's persistent muffled-breakbeat framework, ghostly samples and shifts among house, ambient garage and related forms.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork names Trust as a vocal collaboration within Bruise's persistent muffled-breakbeat framework, ghostly samples and shifts among house, ambient garage and related forms.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a vocal, muffled-breakbeat detour can give Worn Down a clearer human-scale consequence before Too Much Time, or whether release-level evidence is too weak for placement.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Worn Down and Too Much Time",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
-            "candidateBpm": null,
-            "purpose": "Test a vocalized breakbeat interval before physical widening."
+            "purpose": "Test an established drum-machine frame before its removal."
           }
         ]
       }
@@ -339,130 +140,63 @@
   ],
   "warnings": [
     {
-      "artist": "Verraco",
-      "track": "0∞",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2024\" but Spotify returned \"2024-05-31\""
+      "artist": "Silvan Strauss",
+      "track": "That's Who?!? (Fast Barista)",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-09-04\""
     },
     {
-      "artist": "DJ Cinéma Quartier Latin",
-      "track": "Blame",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-07-16\""
+      "artist": "Gloorp",
+      "track": "Pergggus",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-04-30\" but Spotify returned \"2025-04-25\""
+    },
+    {
+      "artist": "Gloorp",
+      "track": "Ugggly",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-04-30\" but Spotify returned \"2025-04-25\""
+    },
+    {
+      "artist": "Björk",
+      "track": "Pluto",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"1997\" but Spotify returned \"1997-09-22\""
+    },
+    {
+      "artist": "Gloorp",
+      "track": "Glimpse",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-04-30\" but Spotify returned \"2025-04-25\""
+    },
+    {
+      "artist": "Marina Herlop",
+      "track": "Jaque",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Dja Dja\" but Spotify returned \"Jaque\"; release date requested \"2026\" but Spotify returned \"2026-07-01\""
+    },
+    {
+      "artist": "Kali Malone",
+      "track": "Heavy With Fruit",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Burning Song\" but Spotify returned \"Heavy With Fruit\"; release date requested \"2026\" but Spotify returned \"2026-09-01\""
     }
   ],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Rigi Rigi",
-        "album": "Saccades",
-        "releaseDate": "2023",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes a syncopated beat tumbling forward while a tense, unpredictable rigi rigi fiddle remains foregrounded and continuously shifts tone and pitch.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a syncopated beat tumbling forward while a tense, unpredictable rigi rigi fiddle remains foregrounded and continuously shifts tone and pitch.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether acoustic-led syncopation can turn Capa's redirection into a purposeful cross-cultural transit before Never Met, or whether it adds another mediation stage.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Never Met",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": 137,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test an acoustic-led syncopated passage after rhythmic redirection."
-          },
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test whether foregrounded fiddle gives the later percussion mutation a new condition."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Verraco",
-        "track": "Sí, idealízame",
-        "album": "Breathe... Godspeed",
-        "releaseDate": "2024",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
-        "fitHypothesis": "Pitchfork describes perpetual ascent driven by melodic bass, with full drops repeatedly withheld and drums reduced to understated kick and hi-hats dissolved into mist.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes perpetual ascent driven by melodic bass, with full drops repeatedly withheld and drums reduced to understated kick and hi-hats dissolved into mist.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether forceful motion with almost no drums can prepare Transparency's protected return after U Belong 2 Me, or whether it duplicates the existing collapse threshold.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "outgoingBpm": 143,
-            "candidateBpm": null,
-            "purpose": "Test withheld ascent as a deliberate precondition for protected re-entry."
-          },
-          {
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": 137,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test a near-drumless ascent before the existing liminal corridor."
-          }
-        ]
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7HONY7xmgD8yCGTN7JM0oa, 0BbIOwJTXDLgHh281bPPXk)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Jump Source, Helena Deland",
-        "track": "Shattered",
-        "album": "Fold",
+        "artist": "Silvan Strauss",
+        "track": "That's Who?!? (Fast Barista)",
+        "album": "Sprinting",
         "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/jump-source-fold",
-        "fitHypothesis": "Pitchfork describes a garage-inspired track with crisp shuffling percussion, singalong vocals and a bright synth lead inside a four-on-the-floor album built as varied DJ-set chapters.",
+        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "fitHypothesis": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes a garage-inspired track with crisp shuffling percussion, singalong vocals and a bright synth lead inside a four-on-the-floor album built as varied DJ-set chapters.",
+          "attributedDescription": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a conspicuous pop-facing shuffle can refresh the Trompe L'oeil-to-Thick to Handle passage without making the move feel arbitrary.",
+          "editorialInterpretation": "Test whether live-drum acid-jazz/footwork motion can redirect the Trompe L'oeil reset into Thick to Handle without becoming an unrelated flourish.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -473,45 +207,8 @@
             "incomingBpm": 130,
             "outgoingBpm": 138,
             "candidateBpm": null,
-            "purpose": "Test bright garage shuffle as intentional contrast before broken-beat deformation."
+            "purpose": "Test a conspicuous live-drum redirection before broken-beat bodily deformation."
           },
-          {
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "candidateBpm": null,
-            "purpose": "Test a pop-facing redirection inside the early recovery run."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Naasaccade",
-        "album": "Saccades",
-        "releaseDate": "2023",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes polyrhythms resembling calabashes, drums and dancers' leg bells reconfigured into an experimental percussion construction.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes polyrhythms resembling calabashes, drums and dancers' leg bells reconfigured into an experimental percussion construction.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a reconfigured percussion world makes Ikoyi's foreground dissolution more legible or merely extends an already percussion-dense late run.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
           {
             "position": "Between Drummz and Ikoyi",
             "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
@@ -519,80 +216,34 @@
             "incomingBpm": 138,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test experimental polyrhythm before foreground dissolution."
+            "purpose": "Test whether live-drum footwork motion changes the later dissolution task."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Verraco",
-        "track": "0∞",
-        "album": "Breathe... Godspeed",
-        "releaseDate": "2024",
-        "spotifyTrackId": null,
-        "searchIntent": "BOTH",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
-        "fitHypothesis": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
-        "evidence": {
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
-          ],
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
-          "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a delayed return to 4/4 can create a meaningful recovery before Cave or whether it stacks another full derailment with Encasadelciegoeltuerco.",
-          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "incomingBpm": 136,
-            "outgoingBpm": null,
-            "candidateBpm": null,
-            "purpose": "Test a withhold-breakdown-recovery arc before the current derailment."
-          },
-          {
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": 134,
-            "candidateBpm": null,
-            "purpose": "Test late 4/4 recovery as preparation for Cave."
-          }
-        ]
-      },
-      "spotifyTrackId": "4HDRrb9LafirfnFwjSpIEy",
+      "spotifyTrackId": "3LQ4zin9a46jkNbl1AIHsA",
       "selected": true
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Cinéma Quartier Latin",
-        "track": "Blame",
-        "album": "Bruise",
-        "releaseDate": "2026",
+        "artist": "Gloorp",
+        "track": "Pergggus",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
-        "fitHypothesis": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+          "attributedDescription": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a muffled breakbeat can create useful perceptual distance between Capa's redirection and Never Met's transit without merely softening an already legible relation.",
+          "editorialInterpretation": "Test whether hand-played groove-switching can turn Capa's redirection into embodied accumulation before Never Met, or whether it adds another self-contained turn.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -603,34 +254,183 @@
             "incomingBpm": 137,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test muffled-break continuity as a deliberate side-step."
+            "purpose": "Test repeated groove switching as a bodily continuation after redirection."
+          },
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test a hand-played triplet escalation before machine-to-hand-drum mutation."
           }
         ]
       },
-      "spotifyTrackId": "5uBR2QbqmcuRaT0xYonSRO",
+      "spotifyTrackId": "6WuS2PecQBjySvnhxr0qY8",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Rian Treanor, Ocen James",
-        "track": "Agoya",
-        "album": "Saccades",
-        "releaseDate": "2023",
+        "artist": "Rival Consoles",
+        "track": "Unfolding",
+        "album": "Persona",
+        "releaseDate": "2018",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/rian-treanor-ocen-saccades",
-        "fitHypothesis": "Pitchfork describes machine-gun kicks repeating until playful rigi rigi fiddle arrives, creating a strong electronic/acoustic confrontation.",
+        "discoverySource": "https://pitchfork.com/reviews/tracks/rival-consoles-unfolding",
+        "fitHypothesis": "Pitchfork describes minimal drums methodically accumulating syncopated beats, cymbals, low-end horns and synth layers into complex polyrhythms and collective release.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes machine-gun kicks repeating until playful rigi rigi fiddle arrives, creating a strong electronic/acoustic confrontation.",
+          "attributedDescription": "Pitchfork describes minimal drums methodically accumulating syncopated beats, cymbals, low-end horns and synth layers into complex polyrhythms and collective release.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a delayed fiddle arrival can sharpen the movement from Ikoyi into Amor, or whether it performs Amor's mutation in advance.",
+          "editorialInterpretation": "Test whether an explicit long-form accumulation can give Roxellana a more stable launch or whether it duplicates the current accumulation-to-surge relation.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test methodical accumulation as preparation for directed surge."
+          },
+          {
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": 135,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test layered growth before directional instability."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (59dTY9SmLvodJPcFVZSXtQ, 0TUk2GGDZDFwvmGx7zwyMA)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Gloorp",
+        "track": "Ugggly",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether delayed beat arrival can create an open reformation before Fragments or whether it simply repeats backsliding's collapse/re-entry function.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between backsliding and Fragments",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test delayed beat arrival inside the existing collapse-to-re-entry boundary."
+          },
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test an orientation flip before early widening."
+          }
+        ]
+      },
+      "spotifyTrackId": "0iuJOUWSLk0QCo2NrGcbLm",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Björk",
+        "track": "Pluto",
+        "album": "Homogenic",
+        "releaseDate": "1997",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/bjork-homogenic",
+        "fitHypothesis": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a vocal industrial rupture can make Transparency's return or Cave's widening consequential without replacing the journey around it.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between U Belong 2 Me and Transparency",
+            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": null,
+            "outgoingBpm": 143,
+            "candidateBpm": null,
+            "purpose": "Test destruction as a final clearing gesture before protected re-entry."
+          },
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test rupture as preparation for early widening."
+          }
+        ]
+      },
+      "spotifyTrackId": "0zgPZSkp20PSuyToQ0lZ0h",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Gloorp",
+        "track": "Glimpse",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether concise scattered hand percussion can connect Ikoyi to Amor without pre-empting Amor's distinctive mutation.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -641,36 +441,46 @@
             "incomingBpm": null,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test machine-to-fiddle confrontation before Amor's machine-to-hand-drum mutation."
+            "purpose": "Test scattered hand percussion as a bridge into machine-to-hand-drum mutation."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "4Lhma3wkZBsovUt9MKAufO",
+      "selected": false
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Jump Source, BEA1991",
-        "track": "Endlessly",
-        "album": "Fold",
-        "releaseDate": "2026",
+        "artist": "Pev",
+        "track": "Aztec Chant",
+        "album": "Livity Sound",
+        "releaseDate": "2013",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.theguardian.com/music/2026/jul/16/songs-of-the-summer-2026",
-        "fitHypothesis": "The Guardian describes a grooving bassline and subtle string stabs that preserve detailed production while supporting abstract vocal incantation; Pitchfork places it at an earlier lock-in point in an arcing DJ-set model.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/18622-livity-sound-livity-sound",
+        "fitHypothesis": "Pitchfork identifies a mesmerizing example of choppy, hovering syncopated drum-machine patterns with tuned toms and congas at the edge of functional club music.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "The Guardian describes a grooving bassline and subtle string stabs that preserve detailed production while supporting abstract vocal incantation; Pitchfork places it at an earlier lock-in point in an arcing DJ-set model.",
+          "attributedDescription": "Pitchfork identifies a mesmerizing example of choppy, hovering syncopated drum-machine patterns with tuned toms and congas at the edge of functional club music.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a concise groove lock after Truth in Noise gives U Belong 2 Me more ground to remove or simply delays the existing collapse.",
+          "editorialInterpretation": "Test whether skeletal syncopation can deepen the Tehutis Law-to-Pulse I passage or provide a late stable frame before U Belong 2 Me removes it.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
+            "outgoingBpm": 136,
+            "candidateBpm": null,
+            "purpose": "Test skeletal syncopation between re-grounding and crooked accumulation."
+          },
           {
             "position": "Between Truth in Noise and U Belong 2 Me",
             "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
@@ -678,154 +488,202 @@
             "incomingBpm": 138,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test pop-facing groove lock immediately before rhythmic collapse."
+            "purpose": "Test an established drum-machine frame before its removal."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Cinéma Quartier Latin, DrEy ArMaNi",
-        "track": "Trust",
-        "album": "Bruise",
+        "artist": "Marina Herlop",
+        "track": "Jaque",
+        "album": "Dja Dja",
         "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
-        "fitHypothesis": "Pitchfork names Trust as a vocal collaboration within Bruise's persistent muffled-breakbeat framework, ghostly samples and shifts among house, ambient garage and related forms.",
+        "discoverySource": "https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja",
+        "fitHypothesis": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork names Trust as a vocal collaboration within Bruise's persistent muffled-breakbeat framework, ghostly samples and shifts among house, ambient garage and related forms.",
+          "attributedDescription": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a vocal, muffled-breakbeat detour can give Worn Down a clearer human-scale consequence before Too Much Time, or whether release-level evidence is too weak for placement.",
+          "editorialInterpretation": "Test whether a current gamelan-linked structural detour can create a purposeful passage after Stardancer or whether release-level evidence is too weak to choose a slot.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between Worn Down and Too Much Time",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": 140,
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test a vocalized breakbeat interval before physical widening."
+            "purpose": "Test a gamelan-linked detour before the liminal percussion corridor."
+          },
+          {
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test a different structural preface before rhythm takes form."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "0vVXlh1qL9h6RbNsrEuPF7",
+      "selected": false
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Kali Malone",
+        "track": "Heavy With Fruit",
+        "album": "Burning Song",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "fitHypothesis": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether deliberate near-stasis can function as a late threshold after Stardancer or whether it creates a competing arrival before the existing liminal passage.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test near-stasis as a threshold before the existing liminal percussion passage."
+          }
+        ]
+      },
+      "spotifyTrackId": "5lmSY7B8nAcdGvZrhmiWeT",
+      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "4HDRrb9LafirfnFwjSpIEy",
-      "uri": "spotify:track:4HDRrb9LafirfnFwjSpIEy",
-      "name": "0∞",
+      "id": "3LQ4zin9a46jkNbl1AIHsA",
+      "uri": "spotify:track:3LQ4zin9a46jkNbl1AIHsA",
+      "name": "THAT'S WHO?!? (FAST BARISTA)",
       "artists": [
-        "Verraco"
+        "Silvan Strauss"
       ],
-      "album": "Breathe… Godspeed",
-      "releaseDate": "2024-05-31",
-      "durationMs": 305500,
-      "spotifyUrl": "https://open.spotify.com/track/4HDRrb9LafirfnFwjSpIEy",
+      "album": "SPRINTING",
+      "releaseDate": "2026-09-04",
+      "durationMs": 117788,
+      "spotifyUrl": "https://open.spotify.com/track/3LQ4zin9a46jkNbl1AIHsA",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
+      "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "incomingBpm": 136,
-          "outgoingBpm": null,
+          "position": "Between Trompe L'oeil and Thick to Handle",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": 130,
+          "outgoingBpm": 138,
           "candidateBpm": null,
-          "purpose": "Test a withhold-breakdown-recovery arc before the current derailment."
+          "purpose": "Test a conspicuous live-drum redirection before broken-beat bodily deformation."
         },
         {
-          "position": "Between Encasadelciegoeltuerco and Cave",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "outgoingBpm": 134,
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": 138,
+          "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test late 4/4 recovery as preparation for Cave."
+          "purpose": "Test whether live-drum footwork motion changes the later dissolution task."
         }
       ],
-      "fitHypothesis": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
+      "fitHypothesis": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
+        "attributedDescription": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a delayed return to 4/4 can create a meaningful recovery before Cave or whether it stacks another full derailment with Encasadelciegoeltuerco.",
+        "editorialInterpretation": "Test whether live-drum acid-jazz/footwork motion can redirect the Trompe L'oeil reset into Thick to Handle without becoming an unrelated flourish.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "Verraco",
-        "track": "0∞",
-        "album": "Breathe... Godspeed",
-        "releaseDate": "2024",
+        "artist": "Silvan Strauss",
+        "track": "That's Who?!? (Fast Barista)",
+        "album": "Sprinting",
+        "releaseDate": "2026",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/verraco-breathe-godspeed-ep",
-        "fitHypothesis": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
+        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "fitHypothesis": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork describes more than two minutes of bass withholding, a plunging harsh breakdown and a late 4/4 beat clawing the track back from chaos.",
+          "attributedDescription": "The Guardian describes acid jazz played at breakneck pace with the brittle funk of Chicago footwork.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a delayed return to 4/4 can create a meaningful recovery before Cave or whether it stacks another full derailment with Encasadelciegoeltuerco.",
+          "editorialInterpretation": "Test whether live-drum acid-jazz/footwork motion can redirect the Trompe L'oeil reset into Thick to Handle without becoming an unrelated flourish.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
           {
-            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "incomingBpm": 136,
-            "outgoingBpm": null,
+            "position": "Between Trompe L'oeil and Thick to Handle",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": 130,
+            "outgoingBpm": 138,
             "candidateBpm": null,
-            "purpose": "Test a withhold-breakdown-recovery arc before the current derailment."
+            "purpose": "Test a conspicuous live-drum redirection before broken-beat bodily deformation."
           },
           {
-            "position": "Between Encasadelciegoeltuerco and Cave",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": 134,
+            "position": "Between Drummz and Ikoyi",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "incomingBpm": 138,
+            "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test late 4/4 recovery as preparation for Cave."
+            "purpose": "Test whether live-drum footwork motion changes the later dissolution task."
           }
         ]
       }
     },
     {
-      "id": "5uBR2QbqmcuRaT0xYonSRO",
-      "uri": "spotify:track:5uBR2QbqmcuRaT0xYonSRO",
-      "name": "Blame",
+      "id": "6WuS2PecQBjySvnhxr0qY8",
+      "uri": "spotify:track:6WuS2PecQBjySvnhxr0qY8",
+      "name": "Pergggus",
       "artists": [
-        "Dj Cinéma Quartier Latin"
+        "Gloorp"
       ],
-      "album": "Bruise",
-      "releaseDate": "2026-07-16",
-      "durationMs": 151453,
-      "spotifyUrl": "https://open.spotify.com/track/5uBR2QbqmcuRaT0xYonSRO",
+      "album": "Gloorp 'Em Up",
+      "releaseDate": "2025-04-25",
+      "durationMs": 177187,
+      "spotifyUrl": "https://open.spotify.com/track/6WuS2PecQBjySvnhxr0qY8",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -835,39 +693,48 @@
           "incomingBpm": 137,
           "outgoingBpm": null,
           "candidateBpm": null,
-          "purpose": "Test muffled-break continuity as a deliberate side-step."
+          "purpose": "Test repeated groove switching as a bodily continuation after redirection."
+        },
+        {
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test a hand-played triplet escalation before machine-to-hand-drum mutation."
         }
       ],
-      "fitHypothesis": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+      "fitHypothesis": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
       "evidence": {
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
         ],
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+        "attributedDescription": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
         "listenerEvidence": "No candidate-specific listener report.",
-        "editorialInterpretation": "Test whether a muffled breakbeat can create useful perceptual distance between Capa's redirection and Never Met's transit without merely softening an already legible relation.",
+        "editorialInterpretation": "Test whether hand-played groove-switching can turn Capa's redirection into embodied accumulation before Never Met, or whether it adds another self-contained turn.",
         "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
       },
       "requestedIdentity": {
-        "artist": "DJ Cinéma Quartier Latin",
-        "track": "Blame",
-        "album": "Bruise",
-        "releaseDate": "2026",
+        "artist": "Gloorp",
+        "track": "Pergggus",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
         "spotifyTrackId": null,
         "searchIntent": "BOTH",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise",
-        "fitHypothesis": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
         "evidence": {
           "measured": [
             "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
           ],
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Pitchfork places Blame inside an album whose house, ambient-garage and related styles are held together by a persistent muffled breakbeat and ghostly sampling.",
+          "attributedDescription": "Pitchfork describes tabla-like footwork triplets that switch groove repeatedly while driving toward a climax, all performed by hand.",
           "listenerEvidence": "No candidate-specific listener report.",
-          "editorialInterpretation": "Test whether a muffled breakbeat can create useful perceptual distance between Capa's redirection and Never Met's transit without merely softening an already legible relation.",
+          "editorialInterpretation": "Test whether hand-played groove-switching can turn Capa's redirection into embodied accumulation before Never Met, or whether it adds another self-contained turn.",
           "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
         },
         "proposedPlacements": [
@@ -878,11 +745,430 @@
             "incomingBpm": 137,
             "outgoingBpm": null,
             "candidateBpm": null,
-            "purpose": "Test muffled-break continuity as a deliberate side-step."
+            "purpose": "Test repeated groove switching as a bodily continuation after redirection."
+          },
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test a hand-played triplet escalation before machine-to-hand-drum mutation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0iuJOUWSLk0QCo2NrGcbLm",
+      "uri": "spotify:track:0iuJOUWSLk0QCo2NrGcbLm",
+      "name": "Ugggly",
+      "artists": [
+        "Gloorp"
+      ],
+      "album": "Gloorp 'Em Up",
+      "releaseDate": "2025-04-25",
+      "durationMs": 166369,
+      "spotifyUrl": "https://open.spotify.com/track/0iuJOUWSLk0QCo2NrGcbLm",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between backsliding and Fragments",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "candidateBpm": null,
+          "purpose": "Test delayed beat arrival inside the existing collapse-to-re-entry boundary."
+        },
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "candidateBpm": null,
+          "purpose": "Test an orientation flip before early widening."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether delayed beat arrival can create an open reformation before Fragments or whether it simply repeats backsliding's collapse/re-entry function.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Gloorp",
+        "track": "Ugggly",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes a track spending half its duration without a proper beat before a low bassline seeps in and the orientation flips.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether delayed beat arrival can create an open reformation before Fragments or whether it simply repeats backsliding's collapse/re-entry function.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between backsliding and Fragments",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "candidateBpm": null,
+            "purpose": "Test delayed beat arrival inside the existing collapse-to-re-entry boundary."
+          },
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test an orientation flip before early widening."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "0zgPZSkp20PSuyToQ0lZ0h",
+      "uri": "spotify:track:0zgPZSkp20PSuyToQ0lZ0h",
+      "name": "Pluto",
+      "artists": [
+        "Björk"
+      ],
+      "album": "Homogenic",
+      "releaseDate": "1997-09-22",
+      "durationMs": 199293,
+      "spotifyUrl": "https://open.spotify.com/track/0zgPZSkp20PSuyToQ0lZ0h",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/bjork-homogenic",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": null,
+          "outgoingBpm": 143,
+          "candidateBpm": null,
+          "purpose": "Test destruction as a final clearing gesture before protected re-entry."
+        },
+        {
+          "position": "Between Encasadelciegoeltuerco and Cave",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "candidateBpm": null,
+          "purpose": "Test rupture as preparation for early widening."
+        }
+      ],
+      "fitHypothesis": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a vocal industrial rupture can make Transparency's return or Cave's widening consequential without replacing the journey around it.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Björk",
+        "track": "Pluto",
+        "album": "Homogenic",
+        "releaseDate": "1997",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/bjork-homogenic",
+        "fitHypothesis": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Published criticism and Björk's own account frame the track as a destructive four-on-the-floor rupture whose purpose is clearing space for renewal.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a vocal industrial rupture can make Transparency's return or Cave's widening consequential without replacing the journey around it.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between U Belong 2 Me and Transparency",
+            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": null,
+            "outgoingBpm": 143,
+            "candidateBpm": null,
+            "purpose": "Test destruction as a final clearing gesture before protected re-entry."
+          },
+          {
+            "position": "Between Encasadelciegoeltuerco and Cave",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "candidateBpm": null,
+            "purpose": "Test rupture as preparation for early widening."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4Lhma3wkZBsovUt9MKAufO",
+      "uri": "spotify:track:4Lhma3wkZBsovUt9MKAufO",
+      "name": "Glimpse",
+      "artists": [
+        "Gloorp"
+      ],
+      "album": "Gloorp 'Em Up",
+      "releaseDate": "2025-04-25",
+      "durationMs": 203242,
+      "spotifyUrl": "https://open.spotify.com/track/4Lhma3wkZBsovUt9MKAufO",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test scattered hand percussion as a bridge into machine-to-hand-drum mutation."
+        }
+      ],
+      "fitHypothesis": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether concise scattered hand percussion can connect Ikoyi to Amor without pre-empting Amor's distinctive mutation.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Gloorp",
+        "track": "Glimpse",
+        "album": "Gloorp 'Em Up",
+        "releaseDate": "2025-04-30",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/reviews/albums/gloorp-gloorp-em-up",
+        "fitHypothesis": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Pitchfork describes hand-played bongo patterns that ping-pong, scatter and pop inside an electronic/acoustic percussion record.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether concise scattered hand percussion can connect Ikoyi to Amor without pre-empting Amor's distinctive mutation.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test scattered hand percussion as a bridge into machine-to-hand-drum mutation."
+          }
+        ]
+      }
+    },
+    {
+      "id": "0vVXlh1qL9h6RbNsrEuPF7",
+      "uri": "spotify:track:0vVXlh1qL9h6RbNsrEuPF7",
+      "name": "Jaque",
+      "artists": [
+        "Marina Herlop"
+      ],
+      "album": "Jaque",
+      "releaseDate": "2026-07-01",
+      "durationMs": 292173,
+      "spotifyUrl": "https://open.spotify.com/track/0vVXlh1qL9h6RbNsrEuPF7",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Eyes of the Wind",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": 137,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test a gamelan-linked detour before the liminal percussion corridor."
+        },
+        {
+          "position": "Before Stadium Drive",
+          "precedingUri": null,
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test a different structural preface before rhythm takes form."
+        }
+      ],
+      "fitHypothesis": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether a current gamelan-linked structural detour can create a purposeful passage after Stardancer or whether release-level evidence is too weak to choose a slot.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Marina Herlop",
+        "track": "Jaque",
+        "album": "Dja Dja",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://pitchfork.com/news/marina-herlop-readies-new-album-dja-dja",
+        "fitHypothesis": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Press materials describe a composition from an album structured like a giant sudoku, recorded with gamelan players and grounded in Herlop's classically trained but intentionally chaotic practice.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether a current gamelan-linked structural detour can create a purposeful passage after Stardancer or whether release-level evidence is too weak to choose a slot.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test a gamelan-linked detour before the liminal percussion corridor."
+          },
+          {
+            "position": "Before Stadium Drive",
+            "precedingUri": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test a different structural preface before rhythm takes form."
+          }
+        ]
+      }
+    },
+    {
+      "id": "5lmSY7B8nAcdGvZrhmiWeT",
+      "uri": "spotify:track:5lmSY7B8nAcdGvZrhmiWeT",
+      "name": "Heavy With Fruit",
+      "artists": [
+        "Kali Malone"
+      ],
+      "album": "Heavy With Fruit",
+      "releaseDate": "2026-09-01",
+      "durationMs": 306261,
+      "spotifyUrl": "https://open.spotify.com/track/5lmSY7B8nAcdGvZrhmiWeT",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Eyes of the Wind",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": 137,
+          "outgoingBpm": null,
+          "candidateBpm": null,
+          "purpose": "Test near-stasis as a threshold before the existing liminal percussion passage."
+        }
+      ],
+      "fitHypothesis": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+      "evidence": {
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+        ],
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+        "listenerEvidence": "No candidate-specific listener report.",
+        "editorialInterpretation": "Test whether deliberate near-stasis can function as a late threshold after Stardancer or whether it creates a competing arrival before the existing liminal passage.",
+        "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+      },
+      "requestedIdentity": {
+        "artist": "Kali Malone",
+        "track": "Heavy With Fruit",
+        "album": "Burning Song",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "searchIntent": "BOTH",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.theguardian.com/music/2026/sep/04/add-to-playlist-the-churning-darkness-of-barcelona-producer-nueen-and-the-weeks-best-new-tracks",
+        "fitHypothesis": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+        "evidence": {
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration, resolver metadata and BPM remain for resolver."
+          ],
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "The Guardian describes an intuitive organ composition that flickers like embers; Pitchfork identifies it as the lead single from a baroque-tuned Bach-organ, guitar and cello album.",
+          "listenerEvidence": "No candidate-specific listener report.",
+          "editorialInterpretation": "Test whether deliberate near-stasis can function as a late threshold after Stardancer or whether it creates a competing arrival before the existing liminal passage.",
+          "craftConvention": "Credible attributed exact-track or release-context evidence supports resolution and evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them."
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "candidateBpm": null,
+            "purpose": "Test near-stasis as a threshold before the existing liminal percussion passage."
+          }
+        ]
+      }
+    }
+  ]
 }
