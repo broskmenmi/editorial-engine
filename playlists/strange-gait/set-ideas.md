@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 137 — Disappearance must leave a formation task
+
+**Direction:** Explore cyclic intensity, continuously reshuffled percussion and abrupt internal scale changes where a candidate's endpoint leaves the next formation meaningful work.
+
+**Ingredients:**
+
+- Vladislav Delay — *Raataja* — exact ADD between *Moonwake* and *Crawl*; burst/static cycles end in instantaneous disappearance before sustained motion reforms.
+- Ricardo Villalobos — *Sieso* — exact placement-specific reject; long-form percussive reshuffling remains useful outside the two tested positions.
+- Vladislav Delay — *Rampa* — exact placement-specific reject; rapid scale changes remain useful outside the two tested duplicated-conflict positions.
+- *Trust*, *Ichso*, *Erso* and *Raajat* — unresolved exact-title leads without verdicts.
+- Ricardo Villalobos — *Duso* and Monolake — *Infinite Snow* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A violent or intricate internal construction can advance a set when its ending changes what the next track must do; self-contained complexity may remain interesting even when it duplicates the current journey.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 136 — Descent must give the afterword new work
 
 **Direction:** Use negative space, piston rhythm and acoustic-digital percussion where the candidate creates a distinct downstream task rather than stacking another instability before an existing response.

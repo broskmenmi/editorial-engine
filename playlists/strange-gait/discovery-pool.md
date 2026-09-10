@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 137 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Vladislav Delay | Raataja | https://open.spotify.com/track/5zLxgXlxNvKbzWSrEcPrTF | Canonical ADD between Moonwake and Crawl; burst/static cycles vanish instantly and give Crawl a re-forming task. Release-date variance preserved. |
+| EXACT TRACK | Ricardo Villalobos | Sieso | https://open.spotify.com/track/6zNThyM5cw73k9b1SVuKX6 | Placement-specific REJECT only for both Run 137 positions; continuous percussive reshuffling remains interesting. Release-date variance preserved. |
+| EXACT TRACK | Vladislav Delay | Rampa | https://open.spotify.com/track/3QlP0qFKnOpRZOQ0Gid6DV | Placement-specific REJECT only for both Run 137 positions; rapid internal scale changes remain interesting. Release-date variance preserved. |
+| UNRESOLVED | False Witness; Ricardo Villalobos; Vladislav Delay | Trust; Ichso; Erso; Raajat | See discoveries.md exact errors | One no-match and three ambiguous exact-title outcomes remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATE | Ricardo Villalobos; Monolake | Duso; Infinite Snow | spotify:track:6dlscRw35yOiLvzMbkRKbm ; spotify:track:4sBqxhOOWnx18yIRhtMJ50 | Exact, unselected and unevaluated; no utility entry. Metadata warnings preserved in discoveries.md. |
+| RELEASE / CATALOGUE WATCH | Ricardo Villalobos; Vladislav Delay; False Witness; Monolake | Achso; Rakka; The Art of Fighting; Silence | https://pitchfork.com/reviews/albums/8508-achso ; https://pitchfork.com/reviews/albums/vladislav-delay-rakka ; https://pitchfork.com/reviews/tracks/18935-false-witness-trust ; https://pitchfork.com/reviews/albums/13855-silence | Elastic minimal techno, grid-collapse electronics, industrial club detail and granular rhythm-texture remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- Raataja's canonical placement is provisional; exact phrase fit, perceived pulse and live handoffs were not tested.
+- Sieso and Rampa are not globally rejected.
+- Unresolved leads and unevaluated alternates do not enter the global utility ledger.
+- The set direction is an editorial hypothesis, not a proven sequence or live-mixing edge.
+
 ## Run 136 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

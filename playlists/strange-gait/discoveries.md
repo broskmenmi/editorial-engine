@@ -1,5 +1,84 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 137 — EXPLORE — disappearance must leave a formation task — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 35 unique canonical tracks with 35 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 283 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-10T23:48:19Z-explore-137` inspected approximately 51 current, adjacent, emerging and overlooked-catalogue entries across September 10–11, 2026 electronic/experimental coverage, Ricardo Villalobos' *Achso*, Vladislav Delay's *Rakka*, False Witness' exact-track coverage and Monolake's *Silence*. Existing canonical, rejected, revisit and discovery identities were excluded; recently unresolved Rian Treanor/Ocen James material and already-retained GRRL work were not recycled. Nine honest leads survived (17.6%). The immutable schemaVersion 2 request was pinned to `67de5662b1a504f67c12212c83303dbb547d39b8` in `cf17570081526bf976b2dd6fa539fe03d65242e4`. Matching snapshot commit: `fe932a14545ad1dd59d081db962f57629695c581`; fingerprint `88bdd47f1fce172d3526aaf5bb2f3374831b59a758806b6f46f1cdb781ab799a`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 5 resolved, 3 selected, 4 unresolved, 2 alternates and 5 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Ricardo Villalobos — *Sieso* — `spotify:track:6zNThyM5cw73k9b1SVuKX6` — *Achso*, 2006-02-02, 824760 ms.
+- Vladislav Delay — *Rampa* — `spotify:track:3QlP0qFKnOpRZOQ0Gid6DV` — *Rakka*, 2020-02-27, 466165 ms.
+- Vladislav Delay — *Raataja* — `spotify:track:5zLxgXlxNvKbzWSrEcPrTF` — *Rakka*, 2020-02-27, 356898 ms.
+
+Unresolved without musical verdict:
+
+- False Witness — *Trust*: `no exact Spotify title/artist search match in market SE`.
+- Ricardo Villalobos — *Ichso*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3TZabGio7gaMnOVxYGG3VB, 3onSpQccXaGm4EzPOSvqut)`.
+- Ricardo Villalobos — *Erso*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4HdA3XoXWj27M49WZaWarG, 2EBkLBOFCvEvTvf9hw6rU4)`.
+- Vladislav Delay — *Raajat*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3cbtcHzfBehkWNFKdUrTrx, 54NQTC2tUbbsqY3nVUWgId)`.
+
+Resolved but unselected and unevaluated:
+
+- Ricardo Villalobos — *Duso* — `spotify:track:6dlscRw35yOiLvzMbkRKbm`.
+- Monolake — *Infinite Snow* — `spotify:track:4sBqxhOOWnx18yIRhtMJ50`.
+
+Warnings preserved exactly:
+
+- Sieso: `Exact title/artist matched with release metadata variance: release date requested "2005" but Spotify returned "2006-02-02"`.
+- Rampa: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-02-27"`.
+- Raataja: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-02-27"`.
+- Duso: `Exact title/artist matched with release metadata variance: release date requested "2005" but Spotify returned "2006-02-02"`.
+- Infinite Snow: `Exact title/artist matched with release metadata variance: release date requested "2009" but Spotify returned "2009-11-24"`.
+
+### Evaluator and Sequencer assessment
+
+#### Ricardo Villalobos — Sieso — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork's exact-track description of sizzling surfaces, hammering clangs, flutter, a thin modulating melody and continuously reshuffled percussion directly serves the volume's rhythmic-freedom lens.
+- **Immediate transition:** UNKNOWN for both tested handoffs; BPM, perceived pulse, phrase structure and mixability remain unknown. No metadata inference is substituted.
+- **Surrounding three-to-five-track run:** FAIL for `LOVE YOUR ENEMIES → Tehutis Law → Sieso → Pulse I → Roxellana`: the 13:44 candidate performs dense pattern variation before *Pulse I*'s existing crooked accumulation. FAIL for `Fragments → Drummz → Sieso → Ikoyi → Amor`: it adds a long foreground percussion proposition before dissolution and hand-drum mutation.
+- **Long-form journey:** FAIL proportionally in both tested positions. The exact construction is compelling, but its duration and self-sufficient reshuffling expand already articulated percussion work without giving the following track a new task.
+- **Verdict:** **REJECT the two Run 137 placements only**, not the track globally. Retain as genuinely interesting.
+
+#### Vladislav Delay — Rampa — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents rapid switching among minimal-techno tick-tock, drum'n'bass bedlam, reggaeton reference and abrasive industrial motion.
+- **Immediate transition:** UNKNOWN for both tested placements; exact handoffs, BPM, perceived pulse, phrase structure and mixability remain unknown.
+- **Surrounding three-to-five-track run:** FAIL for `The Witching Hour → Encasadelciegoeltuerco → Rampa → Cave → Abundance`: another internally complete derailment sits between the existing triplet rupture and widening response. FAIL for `Roxellana → backsliding → Rampa → Fragments → Drummz`: volatile switching reopens conflict after dissolution before the existing drive-and-unpredictability return.
+- **Long-form journey:** FAIL for these positions. The 7:46 candidate contains several scale changes, but both tested insertions repeat transformation work rather than leaving recovery or re-entry meaningfully unfinished.
+- **Verdict:** **REJECT the two Run 137 placements only**, not the track globally. Retain as genuinely interesting.
+
+#### Vladislav Delay — Raataja — ADD / retained discovery
+
+- **Volume fit:** PASS. Pitchfork's exact-track account documents concussive jungle bursts and curdled-static surges across a pink-noise loop, sustained before an instantaneous disappearance.
+- **Immediate transition:** PROVISIONAL PASS between *Moonwake* and *Crawl*. The exact handoffs, BPM, perceived pulse, phrase structure and mixability are unknown, but the documented disappearance gives *Crawl* a concrete re-forming task rather than claiming invisible continuity.
+- **Surrounding three-to-five-track run:** PASS for `Too Much Time → Moonwake → Raataja → Crawl → Fulledge (Empty-40 Mix)`. Widening and intensification meet a burst/static crisis that vanishes; *Crawl* then rebuilds sustained motion before *Fulledge* dissolves it.
+- **Long-form journey:** PASS proportionally. At 5:56, the candidate lengthens the already substantial opening passage, but it changes the meaning of *Crawl* from another continuation into a re-formation and sharpens the later dissolution without touching protected state.
+- **Verdict:** **ADD** between Sciahri — *Moonwake* and DjRUM — *Crawl*. Provisional; audio and live mixing remain untested.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and its matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; all 9 outcomes, 5 warnings, 4 unresolved identities and 2 unselected alternates are preserved. Only the three selected exact candidates entered evaluation, each separately at volume, immediate-transition, local-run and long-form scales. UNKNOWN handoff properties were not converted into automatic failures. The protected trio remains intact. Auditor approves the Raataja ADD, both placement-specific rejections for Sieso and Rampa, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **35 → 36 canonical tracks**; add Vladislav Delay — *Raataja* after *Moonwake* and before *Crawl*; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact identities retained; four unresolved research leads, two exact unevaluated alternates and *Achso*, *Rakka*, False Witness and Monolake catalogue windows retained with evidence boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **283 → 286 exact tracks**, adding Sieso, Rampa and Raataja.
+- Journey-map annotations: add Raataja as a provisional burst-and-disappearance crisis before re-formation; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 51 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is 17.6%, lead-to-resolution conversion 55.6%, and selected-candidate-to-ADD conversion 33.3%. Across Runs 87–137: 449 leads from approximately 2,393 inspections; 21 ADDs from 138 selected candidates. The recent completed-run ADD rate is 4/10; resolver-incomplete Run 133 is excluded. Run 137 follows Run 136 with another ADD, so the completed-run no-ADD streak remains zero. The strongest counterargument is cumulative opening length: *Raataja* adds almost six minutes before an already long *Crawl*. It passes because the documented instantaneous disappearance changes *Crawl*'s task from continuation to re-formation before *Fulledge* breaks that formation. This proves only the best-evidence journey rationale; exact handoffs, perceived pulse, phrase fit and live mixability remain untested. No actionable musical or workflow REPAIR emerges.
+
 ## Run 136 — EXPLORE — descent must give the afterword new work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 34 unique canonical tracks with 34 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 280 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.

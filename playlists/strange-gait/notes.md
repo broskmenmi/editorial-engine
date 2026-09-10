@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 137 — EXPLORE — disappearance must leave a formation task
+
+Vladislav Delay — *Raataja* is added between *Moonwake* and *Crawl*. Pitchfork documents concussive jungle bursts and curdled-static surges across a pink-noise loop that sustain before vanishing instantly. The five-track run `Too Much Time → Moonwake → Raataja → Crawl → Fulledge (Empty-40 Mix)` now moves from widening and intensification into a burst/static crisis, sudden absence, sustained re-formation and later dissolution.
+
+Ricardo Villalobos — *Sieso* and Vladislav Delay — *Rampa* pass the selection lens and remain genuinely interesting, but fail only their tested positions. *Sieso*'s 13:44 constant reshuffling pre-empts *Pulse I* or extends the percussion chain before *Ikoyi* and *Amor*. *Rampa*'s internal scale changes duplicate derailment or reopen conflict before an existing recovery.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: five exact resolutions, three selected candidates, four unresolved identities, two exact alternates and five preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 136 — EXPLORE — descent must give the afterword new work
 
 Jlin — *Rabbit Hole* is added between *Eyes of the Wind* and *Invisible Warriors Of Light*. Published criticism documents early-techno blurts emerging into dead space before a descent. The resulting five-track close moves from the protected block through a liminal passage and exposed negative space into the existing electro-soul afterword, which now performs a distinct re-forming task.
