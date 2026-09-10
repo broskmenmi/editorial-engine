@@ -1,5 +1,84 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 132 — EXPLORE — preparation must not become a second plateau — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 33 unique canonical tracks with 33 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 271 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-10T18:53:44Z-explore-132` inspected approximately 57 current, adjacent, emerging and overlooked-catalogue entries across Booker Stardrum / Evan Shornstein, the Sudden Quarterly improvisation context, Mammo / Short Span and Maymind's overlooked catalogue. Persistent identities, prior unresolved Picture material and recently selected ecosystems were excluded. Nine honest leads survived (15.8%). The immutable schemaVersion 2 request was pinned to `7fd5ba675a1e3d3bc39d43ce3c2ca46612cf0b7f` in `bd94f0c11e90d49b84e99e0e657adc688f79bce5`. Matching snapshot commit: `c8691940ed055c94f1a26224dcab8d5e7f389116`; fingerprint `fb3d023246909929ea365753270059384427bada0650be69e1c03c2439cd7286`.
+
+The first resolver attempt was `RESOLUTION_NOT_COMPLETED`. Spotify returned exactly:
+
+`SpotifyApiError: Spotify /search?q=track%3A%22Loneliness+and+a+Kick+Drum%22+artist%3A%22Maymind%22&type=track&market=SE&limit=10 failed: 502 {"error":{"status":502,"message":"An unexpected error occurred. Please try again later."}}`
+
+The unchanged immutable request was retried successfully.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 4 resolved, 3 selected, 5 unresolved, 1 alternate and 4 warnings; no duplicates, substitutions, relinkings or remaining technical failures.
+
+Selected exact identities:
+
+- Maymind — *From the Rooftop We Could See the Skyline* — `spotify:track:6p86nbIvwQrMipun3vwYRD` — *Cheap Storage*, 2018-08-24, 382000 ms.
+- Maymind — *No Headlights, One Glove* — `spotify:track:2M0lSAiayW4gXNJ3V0dj66` — *Cheap Storage*, 2018-08-24, 380821 ms.
+- Maymind — *Loneliness and a Kick Drum* — `spotify:track:6zffR05O47bJDRp1A1amrV` — *Cheap Storage*, 2018-08-24, 247811 ms.
+
+Unresolved without musical verdict:
+
+- Booker Stardrum, Evan Shornstein — *OOPS!*: `no exact Spotify title/artist search match in market SE`
+- Booker Stardrum, Evan Shornstein — *SILVER TRIANGLE*: `no exact Spotify title/artist search match in market SE`
+- Booker Stardrum, Evan Shornstein — *HUH*: `no exact Spotify title/artist search match in market SE`
+- Booker Stardrum, Evan Shornstein — *AND A GOOD MONDAY*: `no exact Spotify title/artist search match in market SE`
+- Booker Stardrum, Evan Shornstein — *SLEET*: `no exact Spotify title/artist search match in market SE`
+
+Resolved alternate, unselected and unevaluated: Maymind — *K Density* — `spotify:track:1n8hY6lkUiY7Kx8pibRwQS`.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-08-24"` — separately for *From the Rooftop We Could See the Skyline*, *No Headlights, One Glove*, *Loneliness and a Kick Drum* and *K Density*.
+
+### Evaluations
+
+#### From the Rooftop We Could See the Skyline — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Attributed exact-track criticism establishes subtly fading synths, rising delayed hi-hats and a distant voice gradually pulling the edges taut while intensity moves in slow waves.
+- **Immediate transition:** Between *Moonwake* and *Crawl*, its gradual strain introduces another sustained preparation immediately before the existing invariant-motion plateau. Between *Drummz* and *Ikoyi*, it delays the foreground dissolution without changing what *Ikoyi* must do.
+- **Three-to-five-track run:** `Too Much Time → Moonwake → candidate → Crawl → Fulledge (Empty-40 Mix)` places a 6:22 slow-wave tightening beside an 8:17 plateau before the first rupture. `Fragments → Drummz → candidate → Ikoyi → Amor` adds detail between unpredictable rhythm and dissolution but no new consequence.
+- **Long-form journey:** The 6:22 cost materially extends an already sustained central passage; both placements duplicate preparation already assigned locally.
+- **Verdict:** REJECT only both tested placements; retain as interesting.
+
+#### No Headlights, One Glove — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Attributed exact-track criticism establishes an unchanging boom-bap roll with a late organ flare.
+- **Immediate transition:** Between *Too Much Time* and *Moonwake*, the stable roll mediates the move but its late flare pre-stages the intensification that follows.
+- **Three-to-five-track run:** `Tides Alternate → Too Much Time → candidate → Moonwake → Crawl` becomes opposed-speed balance, widening, stable roll, intensification and another sustained plateau before dissolution.
+- **Long-form journey:** At 6:21 it lengthens a legible buildup-and-sustain passage without changing the later rupture or redirection.
+- **Verdict:** REJECT only the tested placement; retain as interesting.
+
+#### Loneliness and a Kick Drum — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Attributed exact-track criticism establishes a tinny, loping construction held by steady clanking while overlapping rhythmic patterns can obscure the downbeat.
+- **Immediate transition:** Between *Abundance* and *Foundry*, the wrong-footed groove begins the orientation problem that *Foundry* already states more consequentially.
+- **Three-to-five-track run:** `Cave → Abundance → candidate → Foundry → Worn Down` produces two successive instability premises before *Worn Down* answers them, weakening the clarity of that response.
+- **Long-form journey:** The 4:08 insertion offers a modest rather than spectacular rhythmic deviation, but its tested position adds repetition rather than connective deepening.
+- **Verdict:** REJECT only the tested placement; retain as interesting.
+
+The source attributes 150 BPM to *From the Rooftop We Could See the Skyline*; this is not resolver-measured audio. BPM for the other candidates, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and all exact handoffs remain unknown.
+
+### Auditor approval
+
+**APPROVED.** Request and final snapshot match on schemaVersion, runId, sourceCommit, mode, target and fingerprint; 9 requested = 4 exact resolutions + 5 unresolved, with 3 selected candidates and 1 alternate. The transient resolver error, every final warning and each unresolved identity are preserved. Only selected exact identities were evaluated, separately at volume, transition, local-run and long-form scales. No metadata-only sonic claim entered a verdict. Protected state remains untouched. Approve three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **33 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- EDITORIAL ENGINE — DISCOVERY POOL: **271 → 274**, adding all three selected exact tracks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 57 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across Runs 87–132: **413 leads from approximately 2,196 inspections; 18 ADDs from 126 selected candidates**. Recent ADD rate: **3/10 across Runs 123–132**, versus **19/132 across Runs 55–132**. The no-ADD streak is one run since Run 131, with three exact interesting tracks retained during it. A healthy nine-lead funnel and a successful retry argue against Scout over-filtering or a technical zero-result. The stronger explanation is local saturation: every selected track is credible, but each repeats preparation or instability already assigned to its neighbours. This proves neither completion, global incompatibility, exact handoff quality, phrase fit nor live mixability. No actionable REPAIR emerges.
+
 ## Run 131 — EXPLORE — opposed speeds must create downstream work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 32 unique canonical tracks with 32 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 268 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, live TRIGGERED revisit, authorized repair, objective defect, unfinished publication defect or Auditor-confirmed workflow defect existed.

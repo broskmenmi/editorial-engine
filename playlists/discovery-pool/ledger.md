@@ -275,6 +275,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 269 | John Beltran, Placid Angles, Tom VR | Tides Alternate | spotify:track:1eWvrBLXd763F0nyrjOzBw | STRANGE GAIT Run 131 | ADD / interesting | 2026-09-10 |
 | 270 | Flying Lotus | BROBOBASHER | spotify:track:1aMU637vj6dzOkphmZK5hQ | STRANGE GAIT Run 131 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 271 | Flying Lotus | HORSE NUKE | spotify:track:0o2af5XRs8nb2RCPTuSsQf | STRANGE GAIT Run 131 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 272 | Maymind | From the Rooftop We Could See the Skyline | spotify:track:6p86nbIvwQrMipun3vwYRD | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 273 | Maymind | No Headlights, One Glove | spotify:track:2M0lSAiayW4gXNJ3V0dj66 | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
+| 274 | Maymind | Loneliness and a Kick Drum | spotify:track:6zffR05O47bJDRp1A1amrV | STRANGE GAIT Run 132 | Placement-specific REJECT / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 132 — Preparation must not become a second plateau
+
+**Direction:** Explore gradual strain, stable rolls and modest wrong-footing where they clarify a later rupture or response, without placing two extended preparation states before the same consequence.
+
+**Ingredients:**
+
+- Maymind — *From the Rooftop We Could See the Skyline* — exact placement-specific reject; subtle slow-wave tightening remains useful outside the tested doubled-plateau and delayed-dissolution positions.
+- Maymind — *No Headlights, One Glove* — exact placement-specific reject; stable roll and late organ flare remain useful outside the tested central buildup.
+- Maymind — *Loneliness and a Kick Drum* — exact placement-specific reject; obscured downbeat and steady clank remain useful outside the tested doubled-instability passage.
+- Booker Stardrum, Evan Shornstein — *OOPS!*, *SILVER TRIANGLE*, *HUH*, *AND A GOOD MONDAY* and *SLEET* — unresolved exact-title leads without verdicts.
+- Maymind — *K Density* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** Structural freedom need not announce itself with a dramatic turn; small rhythmic uncertainty can matter when it sharpens the next formation instead of merely extending anticipation.
+
+**Unknown / risk:** The source-attributed 150 BPM for *From the Rooftop We Could See the Skyline* is not resolver-measured. Other BPM, perceived pulse, energy, density, space, phrasing, mixability and all handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 131 — Opposed speeds must create downstream work
 
 **Direction:** Explore tracks that hold fast and slow materials in tension only where the exit gives the following formation a specific temporal problem to resolve.

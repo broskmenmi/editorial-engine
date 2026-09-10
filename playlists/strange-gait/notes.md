@@ -1,5 +1,11 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 132 — EXPLORE — preparation must not become a second plateau
+
+No canonical track is added. Maymind — *From the Rooftop We Could See the Skyline*, *No Headlights, One Glove* and *Loneliness and a Kick Drum* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but their tested positions are rejected. The first two materially lengthen the already sustained `Tides Alternate → Too Much Time → Moonwake → Crawl → Fulledge` passage without changing its rupture; the third begins the orientation problem already assigned to *Foundry*, weakening *Worn Down*'s response.
+
+The first resolver attempt returned Spotify HTTP 502 for the exact *Loneliness and a Kick Drum* search and completed without a snapshot. The unchanged immutable request was retried successfully. The matching final schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: four exact resolutions, three selected candidates, five unresolved Booker Stardrum/Evan Shornstein identities, one exact unevaluated alternate and four preserved date warnings. The source-attributed 150 BPM for *From the Rooftop We Could See the Skyline* is not resolver-measured audio. Other BPM, perceived pulse, energy, density, space, phrasing, mixability and all tested handoffs remain unknown.
+
 ## Run 131 — EXPLORE — opposed speeds must create downstream work
 
 John Beltran, Placid Angles and Tom VR — *Tides Alternate* is added after *Worn Down*. Its documented breakbeat and slowed bass/synth balance leaves *Too Much Time* a temporal split to widen and resolve; the alternate placement after *Capa* adds another redirection before transit. Flying Lotus — *BROBOBASHER* and *HORSE NUKE* remain interesting but fail both tested placements by becoming an aside or duplicating conflict. The matching schemaVersion 2 snapshot is internally valid: four exact resolutions, three selected candidates, five unresolved identities, one alternate and four preserved warnings. BPM, perceived pulse, energy, density, space, phrasing, mixability and all handoffs remain unknown.

@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 132 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Maymind | From the Rooftop We Could See the Skyline | https://open.spotify.com/track/6p86nbIvwQrMipun3vwYRD | Placement-specific REJECT only for both Run 132 positions; gradual dub-techno strain remains interesting. Release-date variance and source-attributed/non-resolver 150 BPM boundary preserved. |
+| EXACT TRACK | Maymind | No Headlights, One Glove | https://open.spotify.com/track/2M0lSAiayW4gXNJ3V0dj66 | Placement-specific REJECT only between Too Much Time and Moonwake; stable roll and late flare remain interesting. Release-date variance preserved. |
+| EXACT TRACK | Maymind | Loneliness and a Kick Drum | https://open.spotify.com/track/6zffR05O47bJDRp1A1amrV | Placement-specific REJECT only between Abundance and Foundry; modest wrong-footing remains interesting. Release-date variance preserved. |
+| UNRESOLVED | Booker Stardrum, Evan Shornstein | OOPS!; SILVER TRIANGLE; HUH; AND A GOOD MONDAY; SLEET | https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops | Five exact-title no-match outcomes preserved in discoveries.md; no verdict or utility entry. |
+| RESOLVED ALTERNATE | Maymind | K Density | spotify:track:1n8hY6lkUiY7Kx8pibRwQS | Exact, unselected and unevaluated; no utility entry. |
+| RELEASE / CATALOGUE WATCH | Booker Stardrum, Evan Shornstein; Maymind; Mammo / Short Span | OOPS!; Cheap Storage; Lateral / Short Span field | https://pitchfork.com/reviews/albums/booker-stardrum-evan-shornstein-oops ; https://pitchfork.com/reviews/albums/maymind-cheap-storage ; https://pitchfork.com/reviews/albums/mammo-lateral | Acoustic-electronic groove formation, wrong-footed dub-techno and tactile ambient rhythm remain useful windows. |
+| PLACEMENT BOUNDARY | Maymind | Three selected exact tracks | See exact rows | All fail only tested positions; identities remain musically interesting. Handoffs remain untested. |
+
 ## Run 131 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
