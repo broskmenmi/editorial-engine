@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 113
+
+### Passing can prepare a reset
+
+**Direction:** Explore foreground events that approach, cross and leave, distinguishing completed transit from static atmosphere, decorative wandering or an extra arrival.
+
+**Ingredients:**
+
+- Sam Prekop — *Never Met* — exact canonical addition; an approaching and departing acid-pattern trajectory now sits between *Capa* and *Trompe L'oeil*.
+- Sam Prekop — *September Remember* — exact placement-specific reject; click-and-drone prehistory remains interesting outside the tested double-preface opening.
+- Daphni — *Napoleon's Rock* — exact placement-specific reject; sub-minute jazz punctuation remains interesting outside the tested pre-closing boundary.
+- Skrillex with Nitepunk or Naisha, and Daphni with Caribou — four unresolved exact-identity research leads from current club records.
+- `Moonwake → Capa → Never Met → Trompe L'oeil → Thick to Handle` is a canonical editorial hypothesis, not a proven mix.
+
+**Why interesting:** A reset can gain purpose from music that clearly passes through and departs. Motion matters when its exit changes what follows.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The two rejects are placement-specific; unresolved identities have no verdict.
+
+
 ## Current additions — Run 112
 
 ### An event is not a threshold

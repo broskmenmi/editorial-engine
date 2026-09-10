@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 113 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Sam Prekop | September Remember | https://open.spotify.com/track/0NdGElTqZrxIv6C3du4NLI | Placement-specific REJECT only before Stadium Drive. The exact 5:09 click-and-drone construction remains genuinely interesting outside the tested double-preface opening. |
+| EXACT TRACK | Daphni | Napoleon's Rock | https://open.spotify.com/track/2LkGaNyepGi9dz0PhWgJyj | Placement-specific REJECT only for Truth in Noise → candidate → Transparency. The exact 0:48 jazz interruption remains useful punctuation outside the tested pre-closing boundary. |
+| EXACT TRACK | Sam Prekop | Never Met | https://open.spotify.com/track/7C9lRN0idP1MYfMXyyXmDU | Canonical ADD between Capa and Trompe L'oeil. The exact 4:45 approaching, passing and departing acid-pattern trajectory creates a transit hinge before reset. |
+| RESEARCH LEADS | Skrillex, Nitepunk; Daphni, Caribou; Skrillex, Naisha | Smoke; Waiting So Long; Cheeni; Diwali | https://pitchfork.com/reviews/albums/skrillex-soma and https://pitchfork.com/reviews/albums/daphni-butterfly | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE WATCH | Skrillex / SOMA | SOMA | https://pitchfork.com/reviews/albums/skrillex-soma | June 2026 cross-genre club window; its four requested collaboration identities remained unresolved. |
+| RELEASE WATCH | Daphni / Jiaolong | Butterfly | https://pitchfork.com/reviews/albums/daphni-butterfly | February 2026 club-functional window; exact Napoleon's Rock was evaluated and Goldie remains an unevaluated alternate. |
+| CATALOGUE WATCH | Sam Prekop / Thrill Jockey | Comma | https://pitchfork.com/reviews/albums/sam-prekop-comma | Overlooked 2020 modular-rhythm window; Never Met entered the canonical sequence, while Summer Places remains unevaluated. |
+
+### Placement and inspiration boundaries
+
+- September Remember and Napoleon's Rock are not globally rejected; only their Run 113 placements fail.
+- Never Met is canonical only at Capa → candidate → Trompe L'oeil; the exact handoffs and live mix remain untested.
+- Goldie and Summer Places are resolved but unevaluated alternates, not retained editorial decisions or utility additions.
+- The four unresolved collaboration identities have no musical verdict and do not enter the global utility ledger.
+- Set direction: **passing can prepare a reset**. These records are not a proven live sequence or mixing prescription.
+
+
 ## Run 112 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

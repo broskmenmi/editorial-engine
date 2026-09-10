@@ -1,5 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 113 — EXPLORE — passing can prepare a reset
+
+Nine ranked leads from approximately 51 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, no warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 1 ADD and 2 placement-specific REJECT. Sam Prekop — *Never Met* enters between *Capa* and *Trompe L'oeil*: its documented acid pattern approaches, crosses the foreground and departs, so the following reset responds to a completed transit rather than another static or merely roving state. *September Remember* is rejected only before *Stadium Drive*, where a 5:09 open-ended prehistory would precede an existing six-minute transformation-led overture. Daphni — *Napoleon's Rock* is rejected only between *Truth in Noise* and *Transparency*, where its source-described non-pivot punctuation does not change the close.
+
+STRANGE GAIT increases from 25 to 26 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 215 to 218 tracks with all three selected exact candidates. Goldie and Summer Places remain resolved unevaluated alternates and are not added globally.
+
+Across Runs 87–113: 242 leads from approximately 1,215 inspections and 11 ADDs from 70 selected candidates. Recent ADD rate: 3/10 across Runs 104–113; overall repaired comparison: 12/76 across Runs 55–113. The two-run no-ADD streak ends. Nine exact interesting tracks entered the utility layer since the previous canonical addition in Run 110.
+
+**Strongest counterargument:** *Never Met* could over-articulate a boundary already containing redirection and reset. The opposing exact evidence is that its acid pattern has a complete directional path—approach, passage and departure—so the reset follows transit rather than another decorative state.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
+
 ## Run 112 — EXPLORE — an event is not a threshold
 
 Nine ranked leads from approximately 49 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates, three album-title warnings and no duplicates, substitutions, relinkings or technical failures.

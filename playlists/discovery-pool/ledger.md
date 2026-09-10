@@ -219,6 +219,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 213 | KAVARI | SCYTHE | spotify:track:397g1KeU7j7YGYaRhXbKSe | STRANGE GAIT Run 112 | Placement-specific reject / interesting | 2026-09-10 |
 | 214 | Overmono, Jaz Karis | Barum | spotify:track:6ZvMrLDMwNuXBIIoEQEQ5Z | STRANGE GAIT Run 112 | PARKED / interesting | 2026-09-10 |
 | 215 | KAVARI | SERPENT CHAMBER | spotify:track:5JIOWeefDQBlGlXgYEI1ZZ | STRANGE GAIT Run 112 | Placement-specific reject / interesting | 2026-09-10 |
+| 216 | Sam Prekop | September Remember | spotify:track:0NdGElTqZrxIv6C3du4NLI | STRANGE GAIT Run 113 | Placement-specific reject / interesting | 2026-09-10 |
+| 217 | Daphni | Napoleon's Rock | spotify:track:2LkGaNyepGi9dz0PhWgJyj | STRANGE GAIT Run 113 | Placement-specific reject / interesting | 2026-09-10 |
+| 218 | Sam Prekop | Never Met | spotify:track:7C9lRN0idP1MYfMXyyXmDU | STRANGE GAIT Run 113 | Canonical ADD / retained | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 113 — EXPLORE — passing can prepare a reset — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a current 25-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 215 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 112's two-run no-ADD streak remained a maturity and placement-saturation watch rather than a specific repair.
+
+### Exploration receipt
+
+Run `2026-09-10T00:50:06Z-explore-113` inspected approximately 51 named tracks across Skrillex's June 2026 `SOMA`, Daphni's February 2026 `Butterfly`, Sam Prekop's overlooked 2020 `Comma`, current September 2026 listings and linked release material. Runs 108–112 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (17.6%).
+
+The immutable schemaVersion 2 request was pinned to `0e086bb4fa5395a347265eb5e02d792cae50559c` in request commit `5dd1c4d8681e5448476704dde01b99acc63a1a0d`. The matching snapshot commit is `9eb65547701cad13758847fee633ed9eef6e6f78`; request fingerprint `a5dc4d54067df8b800533c21c5081631a117d905d4d37e923174e7330b2182f3`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 5 resolved, 3 selected candidates, 2 resolved alternates, 4 unresolved and no warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Sam Prekop — September Remember — `spotify:track:0NdGElTqZrxIv6C3du4NLI` — 5:09
+2. Daphni — Napoleon's Rock — `spotify:track:2LkGaNyepGi9dz0PhWgJyj` — 0:48
+3. Sam Prekop — Never Met — `spotify:track:7C9lRN0idP1MYfMXyyXmDU` — 4:45
+
+Resolved but unevaluated alternates:
+
+- Daphni — Goldie — `spotify:track:08ClCWcj62fCl1KhCPZy98` — 3:08
+- Sam Prekop — Summer Places — `spotify:track:5soyEYI9op1hiyqEhHbtOQ` — 3:44
+
+Unresolved identities, each preserved without musical verdict and with exact error `no exact Spotify title/artist search match in market SE`:
+
+- Skrillex, Nitepunk — Smoke
+- Daphni, Caribou — Waiting So Long
+- Skrillex, Naisha — Cheeni
+- Skrillex, Naisha — Diwali
+
+### Candidate evaluations
+
+#### Sam Prekop — September Remember — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes a gentle drone and steady click in artificial dub reverb on an album whose continuous pulse explicitly avoids a dance beat and fixed song form. That open rhythmic grammar fits the selection lens.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes the exact entry, exit, phrase structure, perceived pulse, density or the candidate-to-Stadium Drive handoff; BPM remains unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `September Remember → Stadium Drive → Marauder → The Witching Hour` spends 5:09 on an open-ended click-and-drone prehistory before Stadium Drive undertakes the existing six-minute transformation-led overture. Two complete pre-anchor formations delay Marauder's first anchor.
+- **Long-form journey:** FAIL for the tested placement. The conspicuous production-world change is welcome, but it adds another opening premise without changing what Stadium Drive's formation or Marauder's arrival means.
+- **Verdict:** placement-specific REJECT before Stadium Drive only. This is not a global rejection.
+
+#### Daphni — Napoleon's Rock — placement-specific REJECT
+
+- **Volume fit:** PASS provisionally. Pitchfork identifies an exact 0:48 jazz interruption to four-on-the-floor continuity. Deliberate punctuation can belong to STRANGE GAIT even when it is neither strange nor a new groove.
+- **Immediate transition:** UNKNOWN. The review describes the source-album hard cut, not either canonical handoff at `Truth in Noise → candidate → Transparency`; BPM, phrase structure, perceived pulse and density remain unknown.
+- **Three-to-five-track run:** FAIL for the tested placement. `Amor → Truth in Noise → Napoleon's Rock → Transparency → When We Froze` inserts a palate wipe after consolidation. The exact source explicitly says the interlude does not recalibrate mood or act as a pivot, so Transparency gains no new necessity.
+- **Long-form journey:** FAIL for the tested placement. The very low duration limits cost but does not turn punctuation into development or alter the closing block's meaning.
+- **Verdict:** placement-specific REJECT between Truth in Noise and Transparency only. This is not a global rejection.
+
+#### Sam Prekop — Never Met — ADD
+
+- **Volume fit:** PASS. Pitchfork describes an acid-inflected pattern moving from distance through the foreground and onward within an open-ended modular form. Its structure resists a fixed arrival without relying on novelty or genre prestige.
+- **Immediate transition:** UNKNOWN but not decision-blocking. No lawful evidence establishes exact entry, exit, phrase structure, perceived pulse, density or either handoff at `Capa → candidate → Trompe L'oeil`; the neighbours' 137 and 130 BPM values do not supply those facts.
+- **Three-to-five-track run:** PASS. `Moonwake → Capa → Never Met → Trompe L'oeil → Thick to Handle` moves from intensification and rhythmic redirection into a foreground that approaches, passes and departs; Trompe L'oeil can then read as renewed bodily definition before Thick to Handle deforms it. Unlike Run 112's PARKED Barum hypothesis, the exact-track source establishes direction and exit.
+- **Long-form journey:** PASS. At 4:45 and Track 11 of 26, the insertion creates a transit hinge between the opening's sustained physical passage and the central run of stagger, deformation, conflict and re-grounding. It changes the reset's meaning rather than merely delaying it.
+- **Verdict:** **ADD** between Capa and Trompe L'oeil.
+
+The four unresolved leads receive no musical verdict. Goldie and Summer Places were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED — 1 ADD, 2 PLACEMENT-SPECIFIC REJECT.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. Never Met is admitted for candidate-specific transition-scale, local-run and long-form consequence; September Remember and Napoleon's Rock fail only their tested placements. Every resolver error is preserved and no warning was invented.
+
+Auditor approves local retention of the three selected exact tracks, four unresolved research leads, source watches and the set direction **passing can prepare a reset**. All three selected exact tracks must enter the doctrine-free global utility ledger; unresolved leads and unevaluated alternates must not.
+
+### Durable result
+
+- STRANGE GAIT increases **25 → 26 canonical tracks**, adding Never Met between Capa and Trompe L'oeil.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, four unresolved identities, two unevaluated alternates and three source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **215 → 218 exact tracks** with September Remember, Napoleon's Rock and Never Met.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 51 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unevaluated alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **17.6%**, exact-resolution conversion **55.6%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–113, the repaired funnel has produced **242 leads from approximately 1,215 inspections and 11 ADDs from 70 selected candidates**. The recent ADD rate is **3/10 across Runs 104–113**, versus **12/76 across Runs 55–113**. The two-run no-ADD streak ends with Run 113; nine exact interesting tracks entered the utility layer since the previous canonical addition in Run 110. The strongest counterargument is that Never Met over-articulates a boundary already containing Capa's redirection and Trompe L'oeil's reset. The opposing exact evidence is candidate-specific: the acid pattern approaches, crosses and leaves, so the reset follows a completed transit rather than another static or merely roving state. This run does not prove either exact handoff, BPM/pulse continuity, phrase compatibility, live mixability or playlist completion.
+
+
 ## Run 112 — EXPLORE — an event is not a threshold — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a current 25-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 212 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 111's utility-table continuity repair was complete.
