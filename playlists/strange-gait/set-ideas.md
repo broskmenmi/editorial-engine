@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 112
+
+### An event is not a threshold
+
+**Direction:** Explore severe crises, lateral motion and acoustic-digital transformation while keeping separate whether the event changes the terms of the following passage or merely inserts another vivid episode.
+
+**Ingredients:**
+
+- KAVARI — *SCYTHE* — exact placement-specific reject; a background heartbeat and escalating cough construction remains interesting outside the tested pre-closing boundary.
+- Overmono with Jaz Karis — *Barum* — exact PARKED discovery; roving synth motion is documented, while its direction and exit remain underdescribed.
+- KAVARI — *SERPENT CHAMBER* — exact placement-specific reject; spoken darkness, a pile-up-like drop and lingering static remain interesting outside the tested post-*Roxellana* slot.
+- Sote — *Plural*, *Boghze Esfahan*, *Flux of Sorrow* — unresolved exact-identity research into electro-acoustic transformation.
+- `Amor → Truth in Noise → Transparency → When We Froze → Stardancer` remains a canonical editorial hypothesis, not a proven mix with these discoveries.
+
+**Why interesting:** A threshold changes what the following music can mean. Intensity, crisis, motion or novelty can be vivid without doing that work.
+
+**Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The two rejects are placement-specific; Barum is PARKED, not TRIGGERED; unresolved identities have no verdict.
+
+
 ## Current additions — Run 111
 
 ### Punctuation is not development

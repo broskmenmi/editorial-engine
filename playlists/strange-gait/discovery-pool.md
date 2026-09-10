@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 112 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | KAVARI | SCYTHE | https://open.spotify.com/track/397g1KeU7j7YGYaRhXbKSe | Placement-specific REJECT only for Truth in Noise → candidate → Transparency. The exact 3:14 heartbeat/cough-escalation construction remains genuinely interesting; album-title variance preserved. |
+| EXACT TRACK | Overmono, Jaz Karis | Barum | https://open.spotify.com/track/6ZvMrLDMwNuXBIIoEQEQ5Z | PARKED. The exact 3:23 roving-synth identity remains interesting, but internal direction, exit and net consequence at Capa → candidate → Trompe L'oeil are underdescribed. |
+| EXACT TRACK | KAVARI | SERPENT CHAMBER | https://open.spotify.com/track/5JIOWeefDQBlGlXgYEI1ZZ | Placement-specific REJECT only for Roxellana → candidate → Fragments. The exact 3:31 spoken-darkness/pile-up/static arc remains genuinely interesting; album-title variance preserved. |
+| RESEARCH LEADS | Sote | Plural; Boghze Esfahan; Flux of Sorrow | https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design | Each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE WATCH | Overmono / XL Recordings | Pure Devotion | https://pitchfork.com/reviews/albums/overmono-pure-devotion | August 2026 live-derived, structurally loosened dance-music window; only Barum was selected and evaluated. |
+| RELEASE WATCH | KAVARI / XL Recordings | PLAGUE MUSIC | https://pitchfork.com/reviews/albums/kavari-plague-music | Emerging clipped-break, distortion and ritual-horror window; selected exact SCYTHE and SERPENT CHAMBER retained. |
+| CATALOGUE WATCH | Sote / Opal Tapes | Sacred Horror in Design | https://pitchfork.com/reviews/albums/sote-sacred-horror-in-design | Overlooked 2017 electro-acoustic transformation research; all three requested identities remain unresolved in Spotify market SE. |
+
+### Placement and inspiration boundaries
+
+- SCYTHE and SERPENT CHAMBER are not globally rejected; only their Run 112 placements fail.
+- Barum is PARKED and not TRIGGERED. Reopen only with materially richer exact-track/connective evidence or a changed structural need.
+- Slowmotion, PULSE and Ballad are resolved but unevaluated alternates, not retained editorial decisions or utility additions.
+- The Sote leads remain unresolved and do not enter the global utility ledger.
+- Set direction: **an event is not a threshold**. These records are not a proven sequence or live-mixing prescription.
+
+
 ## Run 111 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

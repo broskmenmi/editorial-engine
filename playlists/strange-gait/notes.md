@@ -1,5 +1,20 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 112 — EXPLORE — an event is not a threshold
+
+Nine ranked leads from approximately 49 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: six exact Spotify resolutions, three unresolved identities, three selected candidates, three unevaluated alternates, three album-title warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD, 2 placement-specific REJECT and 1 PARKED. KAVARI — *SCYTHE* passes the selection lens, but `Truth in Noise → candidate → Transparency` reopens an escalating bodily crisis after consolidation immediately before the protected close. KAVARI — *SERPENT CHAMBER* passes through a documented pile-up-like drop and lingering static, but `Roxellana → candidate → Fragments` adds a second summit-like event before an existing recovery. Overmono with Jaz Karis — *Barum* is PARKED: a roving synth line and album-level structural looseness are interesting, but the source does not establish whether `Capa → candidate → Trompe L'oeil` becomes a directional lateral turn or decoration.
+
+STRANGE GAIT remains at 25 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 212 to 215 tracks with all three selected exact candidates. Slowmotion, PULSE and Ballad remain resolved unevaluated alternates and are not added globally.
+
+Across Runs 87–112: 233 leads from approximately 1,164 inspections and 10 ADDs from 67 selected candidates. Recent ADD rate: 3/10 across Runs 103–112; overall repaired comparison: 11/73 across Runs 55–112. No-ADD streak: two runs since Run 110. Six exact interesting tracks have entered the utility layer during that interval.
+
+**Strongest counterargument:** *SCYTHE* could create a concise, severe threshold before the protected block. Its different production world is welcome, but the exact source documents escalating bodily crisis rather than the changed exit or after-effect needed to make *Transparency* newly necessary.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
+
 ## Run 111 — EXPLORE — punctuation is not development
 
 Nine ranked leads from approximately 52 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, four packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.

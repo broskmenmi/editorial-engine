@@ -216,6 +216,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 210 | Lara Sarkissian | A Ceremony (For Arax) | spotify:track:6HE1Ts78acPofSOwcZMUhj | STRANGE GAIT Run 111 | Placement-specific reject / interesting | 2026-09-10 |
 | 211 | P. Adrix | Zelda Shyt | spotify:track:0P0yeo9tPdwiVuqikD16bz | STRANGE GAIT Run 111 | Placement-specific reject / interesting | 2026-09-10 |
 | 212 | P. Adrix | Ovni | spotify:track:3ZyFdR1p3h91EOVLMivHIk | STRANGE GAIT Run 111 | Placement-specific reject / interesting | 2026-09-10 |
+| 213 | KAVARI | SCYTHE | spotify:track:397g1KeU7j7YGYaRhXbKSe | STRANGE GAIT Run 112 | Placement-specific reject / interesting | 2026-09-10 |
+| 214 | Overmono, Jaz Karis | Barum | spotify:track:6ZvMrLDMwNuXBIIoEQEQ5Z | STRANGE GAIT Run 112 | PARKED / interesting | 2026-09-10 |
+| 215 | KAVARI | SERPENT CHAMBER | spotify:track:5JIOWeefDQBlGlXgYEI1ZZ | STRANGE GAIT Run 112 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

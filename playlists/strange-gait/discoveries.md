@@ -1,5 +1,88 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 112 — EXPLORE — an event is not a threshold — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a current 25-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 212 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 111's utility-table continuity repair was complete.
+
+### Exploration receipt
+
+Run `2026-09-09T23:49:06Z-explore-112` inspected approximately 49 named tracks across Overmono's August 2026 `Pure Devotion`, KAVARI's emerging February 2026 `PLAGUE MUSIC`, Sote's overlooked 2017 `Sacred Horror in Design`, linked current listings and official release metadata. Runs 107–111 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Overmono had appeared only as inspected background in an older scan; the three requested exact titles had no prior durable decision. Nine honest leads survived (18.4%).
+
+The immutable schemaVersion 2 request was pinned to `45df9937d86a765c8b0d53443d6a8433fc9eaea1` in request commit `95322cf385967ce02fca88c63768e20134c4a1e1`. The matching snapshot commit is `326fafbd3f047fd56744749ea5a4a1fbf3d405c5`; request fingerprint `7e4706143dc613c98fedcd93b546e6695809aae73230dabc6f30508e87c229bc`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 6 resolved, 3 selected candidates, 3 resolved alternates, 3 unresolved and 3 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. KAVARI — SCYTHE — `spotify:track:397g1KeU7j7YGYaRhXbKSe` — 3:14
+2. Overmono, Jaz Karis — Barum — `spotify:track:6ZvMrLDMwNuXBIIoEQEQ5Z` — 3:23
+3. KAVARI — SERPENT CHAMBER — `spotify:track:5JIOWeefDQBlGlXgYEI1ZZ` — 3:31
+
+Resolved but unevaluated alternates:
+
+- Overmono — Slowmotion — `spotify:track:6swghzYMFkDNoHuXvGxX7z` — 3:03
+- KAVARI — PULSE — `spotify:track:3ayVwYLueOuU99MNpuvPh6` — 3:39
+- Overmono, Kindora, Rock Floyd — Ballad — `spotify:track:5qGf83HsxrBfachJA54Ldb` — 3:10
+
+Unresolved identities, each preserved without musical verdict and with exact error `no exact Spotify title/artist search match in market SE`:
+
+- Sote — Plural
+- Sote — Boghze Esfahan
+- Sote — Flux of Sorrow
+
+Warnings preserved exactly:
+
+- SCYTHE: `Exact title/artist matched with release metadata variance: album requested "PLAGUE MUSIC EP" but Spotify returned "PLAGUE MUSIC"`
+- SERPENT CHAMBER: `Exact title/artist matched with release metadata variance: album requested "PLAGUE MUSIC EP" but Spotify returned "PLAGUE MUSIC"`
+- PULSE: `Exact title/artist matched with release metadata variance: album requested "PLAGUE MUSIC EP" but Spotify returned "PLAGUE MUSIC"`
+
+### Candidate evaluations
+
+#### KAVARI — SCYTHE — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes a background kick echoing like a heartbeat while street recordings and coughing intensify from timid to violent. The exact track tests bodily time under pressure and fits the selection lens without relying on genre orthodoxy or novelty.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Truth in Noise → candidate → Transparency`; the neighbours' 138 and disputed 143/107 BPM values do not fill those gaps.
+- **Three-to-five-track run:** FAIL for the tested placement. `Amor → Truth in Noise → SCYTHE → Transparency → When We Froze` moves from reassembly and consolidation into a new escalating bodily-crisis episode immediately before the protected block. The candidate does not merely thin the foreground; the documented coughing escalation establishes a fresh late conflict after consolidation.
+- **Long-form journey:** FAIL for the tested placement. The 3:14 insertion reopens instability before the closing block without evidence that Transparency gains a new necessity. A hard left turn is allowed, but this one adds another crisis rather than changing the terms of the close.
+- **Verdict:** placement-specific REJECT between Truth in Noise and Transparency only. This is not a global rejection.
+
+#### Overmono, Jaz Karis — Barum — PARKED
+
+- **Volume fit:** PASS provisionally. Pitchfork identifies a roving synth line with deft turns inside an album intentionally moving away from strict, quantized build-and-release structure. That supports the selection lens, although the track-specific account remains brief.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes the candidate's entry, exit, phrase structure, perceived pulse, density or either handoff at `Capa → candidate → Trompe L'oeil`; BPM remains unknown.
+- **Three-to-five-track run:** UNRESOLVED. `Too Much Time → Moonwake → Capa → Barum → Trompe L'oeil` could turn intensification into a lateral roaming interval before the dubwise stagger, or merely decorate a redirection the sequence already communicates. The exact source does not describe the candidate's internal direction or exit well enough to choose.
+- **Long-form journey:** UNRESOLVED. At 3:23, proportional cost is limited, but concision and a roving line do not establish what becomes newly possible after the insertion.
+- **Verdict:** **PARKED**, not rejected. Reopen only for materially richer exact-track/connective evidence or a changed structural need.
+
+#### KAVARI — SERPENT CHAMBER — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes close-miked spoken darkness followed by a pile-up-like drop, with anxiety remaining in closing static. The exact self-contained crisis fits STRANGE GAIT's selection lens.
+- **Immediate transition:** UNKNOWN. No lawful evidence establishes entry, exit, phrase structure, perceived pulse, density or either handoff at `Roxellana → candidate → Fragments`.
+- **Three-to-five-track run:** FAIL for the tested placement. `Pulse I → Roxellana → SERPENT CHAMBER → Fragments → Drummz` places a complete catastrophic drop and unresolved static directly after Roxellana's documented surge, delaying the existing recovery with a second summit-like event.
+- **Long-form journey:** FAIL for the tested placement. The candidate's internal drama is meaningful, but the insertion repeats escalation instead of changing what Fragments or Drummz can do afterward.
+- **Verdict:** placement-specific REJECT between Roxellana and Fragments only. This is not a global rejection.
+
+The three unresolved Sote leads receive no musical verdict. Slowmotion, PULSE and Ballad were not selected and were not evaluated.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 2 PLACEMENT-SPECIFIC REJECT, 1 PARKED.** Freshness, immutable request provenance, resolver integrity, exact-identity boundaries, four-part candidate separation and protected state pass. UNKNOWN handoffs were not converted into failures. SCYTHE and SERPENT CHAMBER pass the selection lens but fail only their tested late and post-surge placements; Barum remains unresolved rather than receiving an evidence-inflated verdict. All three album-title warnings and three exact resolver errors are preserved.
+
+Auditor approves local retention of the three selected exact tracks, the three unresolved Sote research leads, source watches and the set direction **an event is not a threshold**. All three selected exact tracks must enter the doctrine-free global utility ledger; unresolved leads and unevaluated alternates must not.
+
+### Durable result
+
+- STRANGE GAIT remains at **25 canonical tracks** with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration records three selected exact tracks, three unresolved identities, three unevaluated alternates and the three source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **212 → 215 exact tracks** with SCYTHE, Barum and SERPENT CHAMBER.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 49 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 selected evaluations + 3 unevaluated alternates → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion is **18.4%**, exact-resolution conversion **66.7%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–112, the repaired funnel has produced **233 leads from approximately 1,164 inspections and 10 ADDs from 67 selected candidates**. The recent ADD rate is **3/10 across Runs 103–112**, versus **11/73 across Runs 55–112**. The no-ADD streak is two runs; the latest canonical addition remains Run 110. Six exact interesting tracks have entered the utility layer since that addition. The strongest counterargument is SCYTHE's concise ability to create a severe foreground-loss threshold before the protected close. Its low duration and different production world are not the issue: the exact account ends in escalating bodily crisis, so the five-track run reopens conflict after consolidation instead of demonstrating how Transparency becomes newly necessary. The result is consistent with playlist maturity and candidate-specific placement saturation, not an actionable workflow REPAIR. This run does not prove any global incompatibility, any exact handoff, or playlist completion.
+
+
 ## Run 111 — EXPLORE — punctuation is not development — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 25 unique canonical tracks with a matching COMPLETE Spotify receipt and a current 25-track generated map. EDITORIAL ENGINE — DISCOVERY POOL entered at 209 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact; no listener discussion, current TRIGGERED revisit or unfinished musical repair was actionable. Run 110 had just ended the prior four-run no-ADD streak, so no stagnation REPAIR was due.
