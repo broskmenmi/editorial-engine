@@ -1,5 +1,11 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 124 — EXPLORE — passage can turn an afterword into arrival
+
+Azu Tiwaline — *Eyes of the Wind* is added after Len Faki — *Stardancer* and before Steve Rachmad — *Invisible Warriors Of Light*. Pitchfork describes a mostly ambient 6:27 passage that cradles brief languid hand drumming inside shimmering drone and bleep, opening onto another world. Editorially, the protected trio completes before this liminal passage; the existing electro-soul afterword then becomes an arrival rather than an immediate appended contrast.
+
+The requested opening placement before *Stadium Drive* is rejected because it creates two consecutive ambient-to-rhythm overture stages before *Marauder*. Pugilist — *Encrypted* and *Descendant* are placement-specific rejects that remain interesting: their documented tempo duality and intermittent breakbeat swing add extra propositions to runs already carrying those ideas toward consequence. Exact handoffs, BPM where unavailable, perceived pulse, phrase fit, density, energy and mixability remain unknown.
+
 ## Run 121 — EXPLORE — self-contained recovery is not an afterword
 
 Nine ranked leads from approximately 55 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: four exact Spotify resolutions, five unresolved identities, three selected candidates, one unevaluated alternate, one date warning and no duplicates, substitutions, relinkings or technical failures.

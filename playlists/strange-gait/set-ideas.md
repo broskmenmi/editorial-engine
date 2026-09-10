@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 124 — Passage can create arrival
+
+**Direction:** Explore liminal tracks whose endpoint makes a following afterword, re-entry or anchor feel like arrival, while distinguishing them from self-contained recoveries and extra development stages.
+
+**Ingredients:**
+
+- Len Faki — *Stardancer* → Azu Tiwaline — *Eyes of the Wind* → Steve Rachmad — *Invisible Warriors Of Light* — canonical provisional relation; protected close, liminal ambient/percussion passage, then electro-soul afterword as arrival.
+- Pugilist — *Encrypted* — exact placement-specific reject; explicit drum'n'bass/dub tempo duality remains useful outside the two tested redundant temporal positions.
+- Pugilist — *Descendant* — exact placement-specific reject; linear swing with intermittent breakbeat rupture remains useful outside the two tested over-articulated development runs.
+- Los Thuthanaka — *Ay Kawkinpachasa? (capo-kullawada)*, Lanark Artefax — *Glasz*, Forest Drive West — *Other*, Nikki Nair with yunè pinku — *Somebody*, and Azu Tiwaline — *Berbeka* — unresolved exact-title research leads without verdicts.
+- Argento — *Mare Arcaico* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** An afterword can gain purpose when a preceding track opens a corridor rather than delivering another climax or recovery. Temporal ambiguity and swing remain useful when the next track must answer them, not when they simply lengthen an already coherent progression.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, phrasing, mixability and all new candidate-to-neighbour handoffs remain unknown. Encrypted's attributed 160 BPM is not resolver-measured audio and establishes neither energy nor compatibility. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 123 — Internal turns must change downstream work
 
 **Direction:** Explore beat formation, tempo-perception ambiguity and broken-beat deformation where the endpoint changes the following track's task, while avoiding chains of successive destabilization that merely restate conflict.

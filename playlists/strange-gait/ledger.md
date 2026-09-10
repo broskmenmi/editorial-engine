@@ -33,12 +33,15 @@
 | 27 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
 | 28 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
 | 29 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 30 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 30 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
+| 31 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 
 ## Current state
 
-**ACTIVE EXPANSION — 30 canonical tracks.**
+**ACTIVE EXPANSION — 31 canonical tracks.**
+
+EXPLORE run `2026-09-10T10:52:15Z-explore-124` adds Azu Tiwaline — Eyes of the Wind after Len Faki — Stardancer and before Steve Rachmad — Invisible Warriors Of Light. Pitchfork documents the exact 6:27 track as mostly ambient, cradling brief languid hand drumming inside shimmering drone and bleep, and framing passage to another world. Editorially, `U Belong 2 Me → Transparency → When We Froze → Stardancer → Eyes of the Wind → Invisible Warriors Of Light` lets the protected trio complete before a liminal corridor turns the existing electro-soul afterword into arrival rather than immediate appended contrast. Exact entry, exit, BPM, phrase structure, perceived pulse, density, scalar energy, mixability and both new handoffs remain unknown. The protected internal order remains intact.
 
 EXPLORE run `2026-09-10T08:52:33Z-explore-122` adds Yu Su — Foundry between Decoder — Abundance and T++ — Worn Down. Pitchfork documents the title track as dynamic, almost out of control and channeling motion in shifting directions rather than settling into straightforward barreling techno. Editorially, `Cave → Abundance → Foundry → Worn Down → Too Much Time` now moves from early widening and swung continuation through unstable directional motion into a threatened-coherence threshold and physical widening. The 4:59 insertion gives Worn Down a specific condition to answer. Exact entry, exit, BPM, phrase structure, perceived pulse, density, scalar energy, mixability and both handoffs remain unknown. The listener-protected `Transparency → When We Froze → Stardancer` order remains intact.
 

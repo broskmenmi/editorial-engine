@@ -1,5 +1,96 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 124 — EXPLORE — passage can turn an afterword into arrival — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 30 unique canonical tracks with 30 matching journey annotations and 30 generated-map identities. Its COMPLETE 30-track Spotify receipt matched the canonical ledger. EDITORIAL ENGINE — DISCOVERY POOL entered at 248 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, objective state defect, unfinished publication defect or Auditor-confirmed workflow defect.
+
+### Exploration receipt
+
+Run `2026-09-10T10:52:15Z-explore-124` inspected approximately 49 named tracks, releases and source entries across Pitchfork's September 10, 2026 Argento review, April 10 Los Thuthanaka review, 2025 Nikki Nair review, and overlooked Azu Tiwaline, Lanark Artefax, Forest Drive West and Pugilist catalogue. Runs 118–123 selected ecosystems and prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (18.4%).
+
+The immutable schemaVersion 2 request was pinned to `ce1c5988ac0e12b005994ec0e302681cbfbd1125` in request commit `9f4b3a60dac93619c179c8cb69c7575b391599aa`. The matching snapshot commit is `0309ac34f5e923907a2837ed7972fb2218faebc4`; request fingerprint `4d9f40e5c1d9cdc8cb6d575850570956c177bca9e47e15aab26fbef96101d87c`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 4 resolved, 3 selected candidates, 1 resolved alternate, 5 unresolved and 4 warnings. There were no duplicates, substitutions, relinkings or terminal technical resolver failures.
+
+Selected exact identities:
+
+- Pugilist — *Encrypted* — `spotify:track:2kEw7BaTra4HoLjNtbhfhI` — *Blue 06*, 2019-07-19, 312028 ms. Pitchfork attributes 160 BPM; this is not resolver-measured audio.
+- Azu Tiwaline — *Eyes of the Wind* — `spotify:track:1CrwshR68Lrx9KDeOHtfyz` — *Draw Me a Silence (Extended Version)*, 2021-04-09, 386796 ms. BPM unavailable.
+- Pugilist — *Descendant* — `spotify:track:0ph1ekSlqEhdBYpg2phI2W` — *Blue 06*, 2019-07-19, 384024 ms. BPM unavailable.
+
+Unresolved without musical verdict:
+
+- Los Thuthanaka — *Ay Kawkinpachasa? (capo-kullawada)*: `no exact Spotify title/artist search match in market SE`
+- Lanark Artefax — *Glasz*: `no exact Spotify title/artist search match in market SE`
+- Forest Drive West — *Other*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (22te7SQOppOfdLw0uO8rfN, 1mFabMWuYIpLGorbSWBu6d)`
+- Nikki Nair, yunè pinku — *Somebody*: `no exact Spotify title/artist search match in market SE`
+- Azu Tiwaline — *Berbeka*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0OSG0tl24R1w5CUMyNxq5V, 5TPk8O0WEgyxkISIp8IySo)`
+
+Resolved but unselected and unevaluated:
+
+- Argento — *Mare Arcaico* — `spotify:track:1mdHZOZBIXY8UoPvF4YvMV`
+
+Warnings preserved exactly:
+
+- Pugilist — *Encrypted*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-07-19"`
+- Azu Tiwaline — *Eyes of the Wind*: `Exact title/artist matched with release metadata variance: album requested "Draw Me a Silence" but Spotify returned "Draw Me a Silence (Extended Version)"; release date requested "2021" but Spotify returned "2021-04-09"`
+- Pugilist — *Descendant*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-07-19"`
+- Argento — *Mare Arcaico*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-10"`
+
+### Evaluator findings
+
+#### Pugilist — Encrypted — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents a cadence that toys with a 160-BPM drum'n'bass pulse while dub's dragging anchor slows perceived tempo toward a crawl. The attributed BPM is evidence of the construction, not energy or mixability.
+- **Immediate transition:** REJECT for `Too Much Time → Encrypted → Moonwake`. The candidate places a complete temporal-duality statement between an existing physical widening and intensification without establishing how Moonwake's task changes.
+- **Three-to-five-track run:** REJECT in `Worn Down → Too Much Time → Encrypted → Moonwake → Fulledge`. The run already moves from threatened coherence through widening and intensification into metric dissolution; Encrypted adds another temporal proposition before that consequence.
+- **Long-form journey:** REJECT. The alternate `backsliding → Encrypted → Fragments` was also tested and repeats perceptual instability between dissolution and the existing driving re-entry.
+- **Known unknowns:** exact perceived-pulse relation, phrase fit, density, energy, mixability and both handoffs remain unknown. They are not treated as negative evidence; the placement fails on the documented local and long-form redundancy.
+- **Verdict:** placement-specific REJECT for both tested positions; retained as genuinely interesting. This is not a global rejection.
+
+#### Azu Tiwaline — Eyes of the Wind — provisional ADD after Stardancer
+
+- **Volume fit:** PASS. Pitchfork documents a mostly ambient track that cradles brief languid hand drumming inside shimmering drone and bleep, completing a percussion-led record by opening passage to another world. The track need not satisfy techno genre orthodoxy to serve this selection lens.
+- **Immediate transition:** The requested opening `Eyes of the Wind → Stadium Drive` is REJECTED because two consecutive ambient-to-rhythm overture stages postpone Marauder's first anchor. The stronger alternate `Stardancer → Eyes of the Wind → Invisible Warriors Of Light` passes as a conspicuous, deliberate change: the protected trio completes before a liminal passage gives the existing electro-soul afterword a concrete arrival condition.
+- **Three-to-five-track run:** PASS provisionally in `Transparency → When We Froze → Stardancer → Eyes of the Wind → Invisible Warriors Of Light`. The two listener-protected handoffs remain intact; the track does not complete another recovery but creates an open passage between the close and afterword.
+- **Long-form journey:** PASS provisionally. The 6:27 duration is a material cost, but the insertion changes the existing ending relation: Invisible Warriors Of Light becomes arrival in the other world rather than an immediate appended contrast.
+- **Known unknowns:** exact entry, exit, phrase fit, perceived pulse, density, energy, BPM and mixability remain unknown. These are risks, not vetoes; the sourced complete form supports a deliberate best-evidence placement under the same provisional standard historically used for existing ADDs.
+- **Verdict:** ADD after Stardancer and before Invisible Warriors Of Light.
+
+#### Pugilist — Descendant — placement-specific REJECT / interesting
+
+- **Volume fit:** PASS. Pitchfork documents linear shapes with an almost Latin swing and periodic rushing breakbeat bursts, playing a long game rather than seeking an easy payoff.
+- **Immediate transition:** REJECT for `Abundance → Descendant → Foundry`. Descendant extends swing and intermittent rupture before Foundry's established unstable-directional hinge without changing that hinge's task.
+- **Three-to-five-track run:** REJECT in `Cave → Abundance → Descendant → Foundry → Worn Down`. The candidate adds another development stage to a run that already moves from widening and swung continuation through instability into threatened coherence.
+- **Long-form journey:** REJECT. The alternate `Capa → Descendant → Never Met` was also tested; its linear motion and breakbeat bursts add another transit premise before Never Met's completed foreground crossing and Trompe L'oeil's reset.
+- **Known unknowns:** BPM, exact perceived pulse, phrase fit, density, energy, mixability and both handoffs remain unknown. They are not the rejection basis.
+- **Verdict:** placement-specific REJECT for both tested positions; retained as genuinely interesting. This is not a global rejection.
+
+### Sequencer finding
+
+Add Eyes of the Wind at position 30, after Stardancer and before Invisible Warriors Of Light. The complete closing passage is:
+
+`U Belong 2 Me → Transparency → When We Froze → Stardancer → Eyes of the Wind → Invisible Warriors Of Light`
+
+The protected internal order and both protected handoffs remain unchanged. No other canonical order changes.
+
+### Auditor finding
+
+APPROVED. The request and matching snapshot are current and internally consistent; all five unresolved outcomes, one resolved alternate and four warnings are preserved; no stale candidate, duplicate, substitute or alternate entered evaluation. Each selected identity was assessed separately at volume, transition, three-to-five-track and long-form scales. UNKNOWN evidence was not converted into failure, and the ADD uses the same provisional evidence standard as the current ledger. Auditor approves the Eyes of the Wind ADD, two placement-specific rejections, local inspiration harvest, and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **30 → 31 canonical tracks**; add Azu Tiwaline — Eyes of the Wind after Stardancer and before Invisible Warriors Of Light; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: Encrypted, Eyes of the Wind and Descendant retained as exact interesting discoveries; five unresolved research leads, one exact unselected alternate and current/catalogue watches retained with strict boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **248 → 251 exact tracks**, adding Encrypted, Eyes of the Wind and Descendant.
+- Journey annotations: add Eyes of the Wind as a provisional liminal-percussion passage in the escape layer; generated outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 49 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 unselected alternate → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **18.4%**, lead-to-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **33.3%**. Across Runs 87–124: **341 leads from approximately 1,771 inspections; 16 ADDs from 103 selected candidates**. The recent ADD rate is **5/10 across Runs 115–124**, versus **17/109 across Runs 55–124**. Run 124 ends the one-run no-ADD streak since Run 122; three exact interesting tracks entered the utility layer during that interval. The strongest counterargument is that Eyes of the Wind creates another long postscript after the protected close. It passes because its documented form is an open passage rather than a completed recovery, so the existing afterword gains a destination rather than losing its purpose. This does not prove either new handoff, phrase fit, live mixability or that STRANGE GAIT is complete.
+
 ## Run 123 — EXPLORE — internal turns must change downstream work — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 30 unique canonical tracks with 30 matching generated-map identities and a matching COMPLETE 30-track Spotify receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 245 contiguous unique exact tracks with its own matching COMPLETE receipt. The listener-protected internal order `Transparency → When We Froze → Stardancer` was intact. There was no active listener discussion, live TRIGGERED revisit, listener-authorized repair, unfinished publication defect, objective state defect or materially new evidence making a parked decision actionable.

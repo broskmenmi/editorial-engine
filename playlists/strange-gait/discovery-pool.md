@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 124 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Pugilist | Encrypted | https://open.spotify.com/track/2kEw7BaTra4HoLjNtbhfhI | Placement-specific REJECT only for the two tested Run 124 positions. Its documented 160-BPM/dub-drag tempo duality remains genuinely interesting elsewhere; date variance preserved. |
+| EXACT TRACK | Azu Tiwaline | Eyes of the Wind | https://open.spotify.com/track/1CrwshR68Lrx9KDeOHtfyz | Canonical ADD after Stardancer and before Invisible Warriors Of Light. The exact ambient/percussion passage is retained as a provisional liminal corridor; packaging/date variance preserved. |
+| EXACT TRACK | Pugilist | Descendant | https://open.spotify.com/track/0ph1ekSlqEhdBYpg2phI2W | Placement-specific REJECT only for the two tested Run 124 positions. Its documented linear swing and intermittent breakbeat bursts remain genuinely interesting elsewhere; date variance preserved. |
+| RESEARCH LEADS | Los Thuthanaka; Lanark Artefax; Forest Drive West; Nikki Nair, yunè pinku; Azu Tiwaline | Ay Kawkinpachasa? (capo-kullawada); Glasz; Other; Somebody; Berbeka | https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/ ; https://pitchfork.com/reviews/tracks/18465-lanark-artefax-glasz/ ; https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/ ; https://pitchfork.com/reviews/albums/nikki-nair-violence-is-the-answer-ep/ ; https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence/ | Five no-match or ambiguous exact-title outcomes are preserved in discoveries.md. No musical verdict or utility entry. |
+| RESOLVED ALTERNATE | Argento | Mare Arcaico | spotify:track:1mdHZOZBIXY8UoPvF4YvMV | Exact but unselected and unevaluated; not retained as an editorial decision and not added to the utility ledger. |
+| CURRENT WATCH | Los Thuthanaka; Argento | Wak'a; Miraggi | https://pitchfork.com/reviews/albums/los-thuthanaka-waka-ep/ ; https://pitchfork.com/reviews/albums/argento-miraggi/ | Current 2026 temporal-collage and organic-percussion windows; unresolved/unevaluated boundaries remain in force. |
+| CATALOGUE WATCH | Azu Tiwaline; Pugilist; Forest Drive West; Lanark Artefax | Draw Me a Silence; Blue 06; Blue 05; Glasz | https://pitchfork.com/reviews/albums/azu-tiwaline-draw-me-a-silence/ ; https://pitchfork.com/reviews/albums/forest-drive-west-pugilist-blue-05-blue-06/ ; https://pitchfork.com/reviews/tracks/18465-lanark-artefax-glasz/ | Overlooked percussion, tempo-duality, swing and stationary-propulsion windows without inferred mix relationships. |
+
+### Placement and inspiration boundaries
+
+- Encrypted is rejected only for `Too Much Time → candidate → Moonwake` and `backsliding → candidate → Fragments`.
+- Eyes of the Wind is canonically placed only after Stardancer; its requested opening placement before Stadium Drive is rejected.
+- Descendant is rejected only for `Abundance → candidate → Foundry` and `Capa → candidate → Never Met`.
+- These are not proven live-mixing edges. BPM, perceived pulse, energy, density, phrase fit, mixability and exact handoffs remain unknown except for Encrypted's attributed, non-resolver 160-BPM source figure.
+
 ## Run 123 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
