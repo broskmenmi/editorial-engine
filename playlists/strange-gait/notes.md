@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 116 — EXPLORE — deconstruction without consequence
+
+Nine ranked leads from approximately 48 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: five exact Spotify resolutions, four unresolved identities, three selected candidates, two unevaluated alternates, three release-date warnings and no duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** 0 ADD and 3 placement-specific REJECT. Lee Gamble — *Istian* is rejected only after *Cave* and after *Worn Down*: its concise self-deconstruction repeats a collapse/recovery relation without giving the following formation a new long-form consequence. Ziúr — *Soaked* is rejected only between *LOVE YOUR ENEMIES* and *Tehutis Law* and after *Ikoyi*: its build/plateau oscillation adds a complete internal arc where the present run already has conflict, re-grounding, mutation and consolidation. Lee Gamble — *East Sedducke* is rejected only between *Capa* and *Never Met* and before *Transparency*: its suspended indecision delays established transit/reset or reopens uncertainty after consolidation.
+
+STRANGE GAIT remains at 27 canonical tracks. The protected `Transparency → When We Froze → Stardancer` internal order remains intact. EDITORIAL ENGINE — DISCOVERY POOL increases from 224 to 227 tracks with all three selected exact candidates. *It's Complicated* and *Swerva* remain resolved unevaluated alternates and are not added globally.
+
+Across Runs 87–116: 269 leads from approximately 1,357 inspections and 12 ADDs from 79 selected candidates. Recent ADD rate: 3/10 across Runs 107–116; overall repaired comparison: 13/85 across Runs 55–116. No-ADD streak: one run since Run 115. Three exact interesting tracks entered the utility layer during that interval.
+
+**Strongest counterargument:** *Soaked* is concise and could widen the problem that *Tehutis Law* resolves. The opposing five-track evidence is cumulative: *LOVE YOUR ENEMIES* already defines that problem, while the candidate inserts another complete build/plateau arc without changing the later consequence.
+
+**Audio analysis:** NOT TESTED. **Live mixing:** NOT TESTED.
+
 ## Run 115 — EXPLORE — dissolution can give redirection a reason
 
 Nine ranked leads from approximately 46 fresh inspections produced a matching schemaVersion 2 PARTIAL snapshot: eight exact Spotify resolutions, one unresolved identity, three selected candidates, five unevaluated alternates, six packaging/date warnings and no duplicates, substitutions, relinkings or technical failures.

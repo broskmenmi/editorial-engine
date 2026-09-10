@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 116 — Deconstruction must change the next formation
+
+**Direction:** Explore short self-deconstructing or suspended forms only where the following track acquires a task it does not already have.
+
+**Ingredients:**
+
+- Lee Gamble — *Istian* — exact Run 116 placement-specific reject; a swung groove collapses and lurches to a close.
+- Ziúr — *Soaked* — exact Run 116 placement-specific reject; build and percussive plateau oscillate inside one concise track.
+- Lee Gamble — *East Sedducke* — exact Run 116 placement-specific reject; strobing/stuttering motion remains suspended between opposed directions.
+- Errorsmith — *I'm Interesting, Cheerful & Sociable* / *Internet of Screws* — unresolved exact-title research with preserved ambiguity errors.
+- Rey Sapienz & The Congo Techno Ensemble — *Santonge* / *Dancehall Pigme* — unresolved adjacent-world percussion research.
+
+**Why interesting:** A compact collapse, plateau or suspension can be useful in another set when it makes the following formation, re-entry or release newly necessary; structural ingenuity alone is not that consequence.
+
+**Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. No listed pairing is asserted to be a proven sequence or live edge.
+
 ## Current additions — Run 115
 
 ### Dissolution can give redirection a reason

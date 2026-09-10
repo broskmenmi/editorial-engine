@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 116 harvest — 2026-09-10
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Lee Gamble | Istian | https://open.spotify.com/track/5nrLqDwNFmk7sOlXsb5rNt | Placement-specific REJECT only for Cave → candidate → Abundance and Worn Down → candidate → Too Much Time. The exact 2:26 swung self-deconstruction remains genuinely interesting; release-date variance preserved. |
+| EXACT TRACK | Ziúr | Soaked | https://open.spotify.com/track/6aUv5uRYnSHyvIo2dcR3Q3 | Placement-specific REJECT only for LOVE YOUR ENEMIES → candidate → Tehutis Law and Ikoyi → candidate → Amor. The exact 3:32 build/percussive-plateau oscillation remains genuinely interesting. |
+| EXACT TRACK | Lee Gamble | East Sedducke | https://open.spotify.com/track/3GYZ6WH99JByOvmwRjNVFp | Placement-specific REJECT only for Capa → candidate → Never Met and Truth in Noise → candidate → Transparency. The exact 2:57 strobing/stuttering suspension remains genuinely interesting; release-date variance preserved. |
+| RESEARCH LEAD | Errorsmith | I'm Interesting, Cheerful & Sociable / Internet of Screws | https://pitchfork.com/reviews/albums/errorsmith-superlative-fatigue | Both exact titles remained ambiguous in Spotify market SE; resolver candidate IDs and errors are preserved in Run 116 discoveries, with no musical verdict or utility entry. |
+| RESEARCH LEAD | Rey Sapienz & The Congo Techno Ensemble | Santonge / Dancehall Pigme | https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala | Both returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| CURRENT WATCH | Honeydrip / Super Galaxy Meow Meow / MUTEK 2026 | MUTEK report | https://pitchfork.com/story/mutek-is-the-avant-garde-electronic-party-for-the-people | Current September experimental-electronic window inspected; no exact-track lead was invented from performance-level description. |
+| ADJACENT WATCH | Rey Sapienz / Hakuna Kulala | Na Zala Zala | https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala | Broken-electro, percussion and vocal-extremity catalogue window; both requested exact tracks remain unresolved. |
+| CATALOGUE WATCH | Lee Gamble / Errorsmith / Ziúr | Mnestic Pressure / Superlative Fatigue / U Feel Anything? / ATØ | https://pitchfork.com/reviews/albums/lee-gamble-mnestic-pressure | Short-form deconstruction, slippage, negative-space and bodily-percussion material; two exact alternates remain unevaluated. |
+
+### Placement and inspiration boundaries
+
+- Istian, Soaked and East Sedducke are rejected only for their documented Run 116 placements, not globally.
+- The four unresolved identities have no musical verdict and do not enter the global utility ledger.
+- It's Complicated and Swerva are exact but unevaluated alternates, not retained editorial decisions or utility additions.
+- Set direction: **deconstruction earns consequence only when the following formation needs it**. These records are not a proven live sequence or mixing prescription.
+
 ## Run 115 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

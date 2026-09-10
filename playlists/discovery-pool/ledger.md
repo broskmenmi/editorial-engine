@@ -228,6 +228,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 222 | Demdike Stare | Fulledge (Empty-40 Mix) | spotify:track:2azFGCXgxFGmyHYCvzVw4R | STRANGE GAIT Run 115 | Canonical ADD / retained | 2026-09-10 |
 | 223 | Autechre | T ess xi | spotify:track:5uPKvA8BTy8RIGimph8Yus | STRANGE GAIT Run 115 | Placement-specific reject / interesting | 2026-09-10 |
 | 224 | Laurel Halo, Klein | Jelly | spotify:track:6eUuZV30tZI0T0YAp7igI0 | STRANGE GAIT Run 115 | Placement-specific reject / interesting | 2026-09-10 |
+| 225 | Lee Gamble | Istian | spotify:track:5nrLqDwNFmk7sOlXsb5rNt | STRANGE GAIT Run 116 | Placement-specific reject / interesting | 2026-09-10 |
+| 226 | Ziúr | Soaked | spotify:track:6aUv5uRYnSHyvIo2dcR3Q3 | STRANGE GAIT Run 116 | Placement-specific reject / interesting | 2026-09-10 |
+| 227 | Lee Gamble | East Sedducke | spotify:track:3GYZ6WH99JByOvmwRjNVFp | STRANGE GAIT Run 116 | Placement-specific reject / interesting | 2026-09-10 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

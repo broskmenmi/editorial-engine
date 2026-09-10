@@ -1,5 +1,83 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 116 — EXPLORE — deconstruction without consequence — 2026-09-10
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 27 unique canonical tracks with a current 27-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 224 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 115's addition created no concrete defect.
+
+### Exploration receipt
+
+Run `2026-09-10T02:50:18Z-explore-116` inspected approximately 48 named tracks, releases and current-source entries across September 3–9, 2026 electronic coverage, adjacent East African experimental club catalogue, and overlooked 2017–2019 rhythmic-deconstruction albums. Runs 110–115 selected ecosystems and all prior canonical, rejected, PARKED, utility-retained or unresolved-without-new-evidence identities were excluded. Nine honest leads survived (18.8%).
+
+The immutable schemaVersion 2 request was pinned to `b613f662cf78f377f0cc98fa373dafdfcc065f30` in request commit `2cefd26d46098a30819c9c6623ec40a86a8c15d5`. The matching snapshot commit is `c8415636d41e7efbd8d5d8cb9fa0f33532d18b28`; request fingerprint `dac1122b8026b0556e3b2eb3ecdcdeba455acfe18770bc0339151ad2c03302cd`.
+
+### Resolver outcome
+
+The matching schemaVersion 2 snapshot is internally valid: `resolutionStatus: PARTIAL`, 9 requested, 5 resolved, 3 selected candidates, 2 resolved alternates, 4 unresolved and 3 warnings. There were no duplicates, substitutions, relinkings or terminal technical failures.
+
+Selected exact identities:
+
+1. Lee Gamble — Istian — `spotify:track:5nrLqDwNFmk7sOlXsb5rNt` — 2:26
+2. Ziúr — Soaked — `spotify:track:6aUv5uRYnSHyvIo2dcR3Q3` — 3:32
+3. Lee Gamble — East Sedducke — `spotify:track:3GYZ6WH99JByOvmwRjNVFp` — 2:57
+
+Resolved but unevaluated alternates:
+
+- Ziúr — It's Complicated — `spotify:track:7cB2oKcjSf9E8SmnXWjqBW`
+- Lee Gamble — Swerva — `spotify:track:26Xp3srh6lmQk9TzG2byIZ`
+
+Unresolved without musical verdict:
+
+- Errorsmith — I'm Interesting, Cheerful & Sociable: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0POdw31Zlv9Ho7KCx6brcb, 4cjy3JmCwTBVHFQkRY5zrU)`
+- Errorsmith — Internet of Screws: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (19qIDkPukeUcyHdsZWQwo3, 4lV2k2i0QmOjcEPyxbROp2)`
+- Rey Sapienz & The Congo Techno Ensemble — Santonge: `no exact Spotify title/artist search match in market SE`
+- Rey Sapienz & The Congo Techno Ensemble — Dancehall Pigme: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- Istian: `Exact title/artist matched with release metadata variance: release date requested "2017-09-15" but Spotify returned "2017-10-20"`
+- East Sedducke: `Exact title/artist matched with release metadata variance: release date requested "2017-09-15" but Spotify returned "2017-10-20"`
+- Swerva: `Exact title/artist matched with release metadata variance: release date requested "2017-09-15" but Spotify returned "2017-10-20"`
+
+### Candidate evaluations
+
+#### Lee Gamble — Istian — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a swung groove that deconstructs through an off-time arpeggio, heaving chords and collapsed drums before lurching to a close.
+- **Immediate transition:** The proposed `Cave → candidate → Abundance` placement gives Abundance a plausible re-formation task, but it immediately undoes Cave's existing recovery from Encasadelciegoeltuerco.
+- **Three-to-five-track run:** `Encasadelciegoeltuerco → Cave → Istian → Abundance → Worn Down` repeats derailment and recovery before the longer threatened-coherence movement. An alternate `Worn Down → candidate → Too Much Time` test inserts another collapse between two already sustained physical stages.
+- **Long-form journey:** Both tested positions add a concise self-deconstruction without establishing a new consequence downstream.
+- **Verdict:** REJECT only the two tested placements. BPM, phrase fit, perceived pulse, density, energy and handoffs remain UNKNOWN.
+
+#### Ziúr — Soaked — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents oscillation between an ecstatic build and percussive plateaus, grounded in bass-led physicality.
+- **Immediate transition:** Between LOVE YOUR ENEMIES and Tehutis Law, the candidate would extend the conflict before the existing re-grounding rather than change what Tehutis Law resolves.
+- **Three-to-five-track run:** `Thick to Handle → LOVE YOUR ENEMIES → Soaked → Tehutis Law → Pulse I` contains deformation, competing emphasis, a complete build/plateau arc, re-grounding and crooked accumulation. The sequence becomes over-specified rather than deeper. An alternate after Ikoyi similarly inserts a complete oscillation between foreground dissolution and Amor's machine-to-hand-drum mutation.
+- **Long-form journey:** Neither placement changes the later consolidation; both add an internally compelling episode whose consequence the current journey already supplies.
+- **Verdict:** REJECT only the tested central and late-middle placements. BPM, phrase fit, perceived pulse, density, energy and handoffs remain UNKNOWN.
+
+#### Lee Gamble — East Sedducke — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents strobing and stuttering suspension between sinking and leaping into hyperdrive.
+- **Immediate transition:** At `Capa → candidate → Never Met`, suspended indecision delays rather than prepares Never Met's completed passage across the foreground.
+- **Three-to-five-track run:** `Fulledge → Capa → East Sedducke → Never Met → Trompe L'oeil` adds stasis between dissolution/redirection and transit/reset, weakening the causal sequence established in Runs 113 and 115.
+- **Long-form journey:** A second test between Truth in Noise and Transparency reopens an indeterminate threshold after consolidation without changing the protected close.
+- **Verdict:** REJECT only the two tested placements. BPM, phrase fit, perceived pulse, density, energy and handoffs remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The request is immutable and pinned to the live pre-request SHA; the matching PARTIAL snapshot reconciles 9 leads to 5 exact resolutions and 4 unresolved outcomes, preserves all three warnings and exact resolver errors, and selected only three unique exact identities. Only those three candidates were evaluated, each separately at volume, immediate-transition, local-run and long-form scale. The rejection reasons are concrete cumulative-structure findings rather than metadata, genre orthodoxy or missing-audio vetoes. The protected trio, canonical ledger, annotations and live state remain untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **27 canonical tracks** with no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains Istian, Soaked and East Sedducke as exact interesting placement-specific rejects; four unresolved identities and two exact unevaluated alternates remain correctly separated.
+- EDITORIAL ENGINE — DISCOVERY POOL: **224 → 227 exact tracks**, adding Istian, Soaked and East Sedducke.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 48 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 unevaluated alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was 18.8%; lead-to-resolution conversion 55.6%; selected-candidate-to-ADD conversion 0/3. Across Runs 87–116: 269 leads from approximately 1,357 inspections and 12 ADDs from 79 selected candidates. Recent ADD rate is 3/10 across Runs 107–116; repaired comparison is 13/85 across Runs 55–116. The no-ADD streak is one run since Run 115, with three exact interesting tracks retained during it. The strongest counterargument is Soaked's concise ability to widen the conflict before Tehutis Law. It fails because the five-track run already gives re-grounding a defined problem through LOVE YOUR ENEMIES, and the alternate late-middle placement adds another complete internal arc without changing consolidation. This result supports playlist maturity and candidate-specific proportional judgment, not over-filtering, epistemic veto or repetitive placement search: nine leads used varied positions, 5/9 resolved, and no candidate was rejected because audio was absent. It proves these tested placements do not improve the current journey on the available evidence; it does not globally reject the tracks, test their exact handoffs, prove the playlist complete, or establish live-mixing compatibility.
+
 ## Run 115 — EXPLORE — dissolution can give redirection a reason — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 26 unique canonical tracks with a current 26-track generated map and matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 221 unique exact tracks with its own matching COMPLETE receipt. The protected internal order `Transparency → When We Froze → Stardancer` was intact. No current TRIGGERED revisit, active review, listener-authorized repair or unfinished objective defect was actionable; Run 114's one-run no-ADD result remained ordinary candidate-specific saturation rather than a process defect.
