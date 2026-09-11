@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 152
+
+### Decay as preparation, not a second ending
+
+**Direction:** Explore how a decaying or increasingly filtered passage can leave a following afterword necessary, while avoiding self-sufficient arcs that become a competing ending.
+
+**Ingredients:**
+
+- MIZU — The Riddle — exact `spotify:track:5icUI0E8fq7roC30JQ7RyF`; placement-specific STRANGE GAIT reject; reviewer-described spare ensemble arrangement gradually shrouded in filters and distortion
+- Jlin — Rabbit Hole — canonical reference point for the current provisional dead-space descent
+- Steve Rachmad — Invisible Warriors Of Light — canonical reference point for the current provisional electro-soul afterword
+- MIZU — Stations — exact `spotify:track:0YHsvmbHEfDovna5Ir9jzX`; placement-specific STRANGE GAIT reject; reviewer-described simmering percussive clatter
+
+**Why interesting:** A set can use decay or clatter as an adjacent-world tool when it opens a consequence; the same material can overfill a playlist boundary when its arc is already complete.
+
+**Unknown / risk:** These are not proven sequences or mixing edges. BPM, perceived pulse, energy, density, space, phrase structure, key, mixability and live behavior remain unknown.
+
+
 ## Run 151 — Disruption should leave residue, not occupy it
 
 **Direction:** Explore disruptive tracks whose endpoint creates a concrete absence, instability or reassembly task for the successor; avoid inserting a complete second crisis where the journey already contains cause and consequence.

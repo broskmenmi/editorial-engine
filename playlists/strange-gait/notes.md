@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 152 — EXPLORE — adjacent-world decay must not become a second ending
+
+No canonical track is added. MIZU — *Stations* and *The Riddle* both remain genuinely interesting exact discoveries, but fail only their tested STRANGE GAIT placements.
+
+*Stations*' simmering percussive clatter fits the selection lens at an adjacent edge, yet between *backsliding* and *Mildew Swoosh* it inserts another complete unsettled stage between dissolution and opposed-temporal strain. A second test after *Sarniezz* likewise delays *Never Met*'s existing return from the live-band pulse illusion without giving that successor new work.
+
+*The Riddle*'s 10:44 spare ensemble arc is gradually shrouded in filters and distortion until its phrase decays. Between *Rabbit Hole* and *Invisible Warriors Of Light*, that full-length decay becomes another ending before the current electro-soul afterword; before *Transparency*, it would turn the unprotected entry to the listener block into a long adjacent-world preface. Both are placement-specific rejections, not global incompatibility claims.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: two exact resolutions, two selected candidates, seven unresolved identities, two preserved date warnings, and no alternates, duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** decay can prepare an afterword, but a self-sufficient decaying arc can also become the ending that makes the afterword redundant.
+
+
 ## Run 151 — EXPLORE — disruption must not occupy the consequence it is meant to create
 
 No canonical track is added. Pole — *Stechmück*, *Tempus* and *Allermannsharnisch* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.

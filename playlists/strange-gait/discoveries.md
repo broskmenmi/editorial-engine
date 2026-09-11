@@ -1,5 +1,72 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 152 — EXPLORE — decay versus second ending — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 323 contiguous unique exact tracks and a matching COMPLETE 323/323 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.
+
+### Exploration receipt
+
+Run `2026-09-11T13:50:16Z-explore-152` inspected approximately 56 named tracks, releases and catalogue references across live September 9–11, 2026 Pitchfork, Resident Advisor and Bandcamp feeds, Mark Fell's 2025 *Nite Closures* EP, Dopplereffekt's 2022 *Neurotelepathy* and MIZU's 2024 *4 | 2 | 3*. Nine honest leads survived (16.1%). Run 151 decisions and alternates, recent Run 139–151 artist fields, canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Current Argento and Bitchin Bajas releases were inspected but not padded into the resolver request because the available descriptions did not supply a strong platform-ready canonical hypothesis. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T13:50:16Z-explore-152`
+- sourceCommit: `8ed2730f6d0e391f3009cb70ff46a1b03dbb6816`
+- request commit: `e35b7ab5efee2ed1b1da70fa5cfbc8422e860fd7`
+- resolver commit: `aa8ffed3847a61419a9c6fd40c6e4602662afef4`
+- requestFingerprint: `cf7e7fe6e84c6abe867b6a28a53ac6f487945bbb5b38441c5a08c6d5bfb0a720`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 2 exact resolutions → 2 selected candidates; 7 unresolved identities; 2 warnings; no resolved alternates, duplicates, substitutions, relinkings or technical failures.
+
+Warnings preserved exactly:
+
+- MIZU — *Stations*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-11-15"`
+- MIZU — *The Riddle*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-11-15"`
+
+Unresolved without musical verdict:
+
+- Dopplereffekt — *Neural Impulse Actuator - Mirror Neuron*: `no exact Spotify title/artist search match in market SE`
+- Mark Fell — *Nite Closures (extended dub)*: `no exact Spotify title/artist search match in market SE`
+- MIZU — *Mob*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6JRU5wfB2rSDOmDfUEsksO, 5sa4yFjcW2Sq7ruEMQKqSO, 6794rrGRgqMfcMI9f70LZ5, 1kntuBekcTXpjjGuOV40fk)`
+- Dopplereffekt — *Neuroplasticity*: `no exact Spotify title/artist search match in market SE`
+- Mark Fell — *Nite Closures (version)*: `no exact Spotify title/artist search match in market SE`
+- Dopplereffekt — *Transcranial Magnetic Stimulation*: `no exact Spotify title/artist search match in market SE`
+- Mark Fell — *large modulos #3*: `no exact Spotify title/artist search match in market SE`
+
+### Candidate evaluations
+
+#### MIZU — Stations — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:0YHsvmbHEfDovna5Ir9jzX`; 3:44; *4 | 2 | 3*; Spotify release date 2024-11-15.
+- **Volume fit:** PASS at the adjacent edge. Pitchfork describes a simmering piece with unsettling percussive clatter. That rhythmic instability is relevant to the selection lens even though the broader album is an experimental cello work rather than genre-orthodox techno.
+- **Immediate transition:** FAIL for the tested positions only. In `backsliding → Stations → Mildew Swoosh`, another unsettled percussive stage sits between an existing rhythm-to-dissonance dissolution and opposed-temporal strain. A second reasonable test, `Sarniezz → Stations → Never Met`, similarly inserts clatter between the live-band pulse illusion and the foreground transit already responsible for returning the sequence toward electronic formation.
+- **Surrounding three-to-five-track run:** FAIL for those positions. `Roxellana → backsliding → Stations → Mildew Swoosh → Fragments` over-articulates the dissolution-to-re-entry passage. `Capa → Sarniezz → Stations → Never Met → Trompe L'oeil` delays the existing left-turn recovery without establishing a new consequence.
+- **Long-form journey:** NOT IMPROVED. The track is interesting, but the available endpoint evidence does not show a changed downstream task proportionate to another stage in a 42-track journey.
+- **Verdict:** **REJECT the two tested placements only**; retain as an exact discovery. BPM, perceived pulse, energy, density, space, phrase structure, mixability and handoffs remain UNKNOWN.
+
+#### MIZU — The Riddle — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5icUI0E8fq7roC30JQ7RyF`; 10:44; *4 | 2 | 3*; Spotify release date 2024-11-15.
+- **Volume fit:** PASS only at the broad adjacent edge. Pitchfork describes a spare ensemble arrangement gradually shrouded in filters and distortion until its phrase decays. Structural transformation and negative-space implications are relevant, but this alone does not make the piece techno.
+- **Immediate transition:** FAIL for the tested positions only. Between *Rabbit Hole* and *Invisible Warriors Of Light*, the complete 10:44 decay behaves as another ending before the current electro-soul afterword. A second test before *Transparency* is legally outside the protected handoffs, but makes the block entry a long self-contained preface after *U Belong 2 Me*.
+- **Surrounding three-to-five-track run:** FAIL for those positions. `Eyes of the Wind → Nukumori → Rabbit Hole → The Riddle → Invisible Warriors Of Light` turns descent into a second extended close rather than sharpening the afterword. `Truth in Noise → U Belong 2 Me → The Riddle → Transparency → When We Froze` interrupts the direct removal-to-re-entry threshold.
+- **Long-form journey:** FAIL proportionally. A 10:44 self-sufficient closing arc materially lengthens the ending while duplicating boundary work already assigned to *Rabbit Hole* and *Invisible Warriors Of Light*.
+- **Verdict:** **REJECT the two tested placements only**; retain as an exact discovery. BPM, perceived pulse, energy, density, space, phrase structure, mixability and handoffs remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target, fingerprint, counts and selected identities agree. All seven resolver errors and both warnings are preserved exactly. Only the two selected exact identities were evaluated. Each received separate volume-fit, immediate-transition, surrounding-run and long-form assessment, including a second reasonable lawful placement. Missing audio was held UNKNOWN rather than used as an automatic veto. Both rejections rest on candidate-specific duplication and proportionality, not genre orthodoxy, BPM, novelty or a ban on hard turns. The protected trio remains untouched. Auditor approves the two placement-specific rejections, local inspiration retention and two doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **42 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: two exact MIZU tracks retained; seven unresolved identities retained without verdict; Mark Fell, Dopplereffekt and MIZU source windows retained; one non-canonical set direction added.
+- EDITORIAL ENGINE — DISCOVERY POOL: **323 → 325 exact tracks**, adding *Stations* and *The Riddle*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 56 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved → 2 evaluations → **0 ADD + 2 placement-specific REJECT** → 2 utility additions. Inspection-to-lead conversion was **16.1%**; lead-to-resolution conversion was **22.2%**; selected-candidate-to-ADD conversion was **0/2**. Across Runs 87–152: **582 leads from approximately 3,220 inspections; 27 ADDs from 177 selected candidates**. The recent completed-run ADD rate is **5/10**. The no-ADD streak is three completed runs since Run 149, with eight exact interesting tracks retained during it. Resolution loss was identity-specific—Spotify-SE absence and one ambiguous short title—not technical resolver failure. The strongest contrary reading is an emerging epistemic veto because all eight retained tracks in the current drought failed placement; however, the failures vary across concrete functions and two of the three prior runs resolved healthy candidate sets. Three runs do not yet establish repetitive placement search, systematic Scout over-filtering or playlist completion. No actionable REPAIR emerges.
+
+
 ## Run 151 — EXPLORE — disruption must leave consequential residue — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 320 contiguous unique exact tracks and a matching COMPLETE receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.

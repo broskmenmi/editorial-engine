@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 152 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | MIZU | Stations | https://open.spotify.com/track/0YHsvmbHEfDovna5Ir9jzX | Placement-specific REJECT only after *backsliding* and after *Sarniezz*; simmering percussive clatter remains genuinely interesting at the adjacent edge. Date warning preserved. |
+| EXACT TRACK | MIZU | The Riddle | https://open.spotify.com/track/5icUI0E8fq7roC30JQ7RyF | Placement-specific REJECT only after *Rabbit Hole* and after *U Belong 2 Me*; a spare ensemble phrase gradually shrouded in filters and distortion remains genuinely interesting outside those positions. Date warning preserved. |
+| UNRESOLVED | Dopplereffekt; Mark Fell; MIZU | Neural Impulse Actuator - Mirror Neuron; Nite Closures (extended dub); Mob; Neuroplasticity; Nite Closures (version); Transcranial Magnetic Stimulation; large modulos #3 | See discoveries.md exact errors | Seven exact-title leads remain unresolved without musical verdicts or utility entries. |
+| CATALOGUE WATCH | Mark Fell | Nite Closures EP | https://pitchfork.com/reviews/albums/mark-fell-psychic-resynthesis-nite-closures-ep/ | Non-repeating beat contortion, singeli-tempo rubber-band motion and shuddering system beauty remain useful research directions; unresolved identities receive no verdict. |
+| CATALOGUE WATCH | Dopplereffekt | Neurotelepathy | https://pitchfork.com/reviews/albums/dopplereffekt-neurotelepathy/ | Unexpected electro grids and near-destabilizing machine/human interplay remain useful overlooked-catalogue directions. |
+| ADJACENT WATCH | MIZU | 4 \| 2 \| 3 | https://pitchfork.com/reviews/albums/mizu-4-2-3/ | Percussion-led experimental composition remains an adjacent source window, not proof of techno belonging or a canonical sequence. |
+
+### Placement and inspiration boundaries
+
+- Both exact MIZU rejections are limited to their two tested positions.
+- Unresolved Mark Fell, Dopplereffekt and MIZU leads receive no musical verdict and do not enter the global utility ledger.
+- No BPM, perceived pulse, energy, density, space, phrase structure, mixability or live edge was inferred.
+
+
 ## Run 151 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
