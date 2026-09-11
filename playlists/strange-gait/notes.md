@@ -10,6 +10,8 @@ The matching schemaVersion 2 resolver snapshot is internally valid and `PARTIAL`
 
 Auditor approves zero canonical changes, one PARKED verdict, three scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT remains 45 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 343 tracks. The protected `Transparency → When We Froze → Stardancer` internal order is untouched.
 
+The initial utility append landed below a policy-text boundary, so the publisher stopped at row 340 and produced a nonmatching 340/340 receipt. The immediate continuity repair moved only rows 341–343 into the contiguous table; exact read-back then verified 343/343 at `2026-09-11T21:02:37.288Z`. No identity or verdict changed.
+
 **Concept:** conspicuous motion earns sequence space when its endpoint gives the successor new work; protrusion alone can merely lengthen an already legible preparation.
 
 
