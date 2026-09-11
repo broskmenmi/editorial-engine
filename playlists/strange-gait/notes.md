@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 161 — EXPLORE — acceleration as an orientation problem
+
+Rian Treanor — *Hypnic Jerks* (`spotify:track:5diM5dnRKTuJaZ2CqzFwsu`) is added between *Worn Down* and *Tides Alternate*. Pitchfork documents the exact track starting at 180 BPM before its rubbery kicks accelerate into quadruple-time assault. The placement is intentionally conspicuous: after the existing rumble-to-weight threshold, explicit acceleration creates an orientation problem that the following opposed-speed balance can answer. Volume fit, transition-scale purpose, the surrounding five-track run and long-form proportionality pass provisionally. The alternative before *Sarniezz* is rejected because it preconditions the live-band metric left turn.
+
+Black Bananas — *Cold Bussin* (`spotify:track:4QnqmLDsxbm3O1f0Q3fDCH`) and Rian Treanor — *Opponent Process* (`spotify:track:0FUu4RG2P1Qh64DQcUP2TV`) remain genuinely interesting but fail only their tested placements. *Cold Bussin* either mediates the direct production-world left turn into *Sarniezz* or over-articulates the consolidation-to-pressure run before *Same Way*. *Opponent Process* either extends conflict before *Tehutis Law* re-grounds or inserts another rhythmic language before *Trompe L'oeil* resets.
+
+Resolver `2026-09-11T22:51:43Z-explore-161`: 9 leads → 6 exact resolutions → 3 selected evaluations + 3 unselected alternates → 1 ADD + 2 placement-specific REJECT. Voice Actor, aloisius — *24*, Isaac Robertson — *1200*, and abi asisa — *calling* remain unresolved with exact error `no exact Spotify title/artist search match in market SE`. There were no warnings, duplicates, substitutions, relinkings or technical failures.
+
+The request's prose-named *Worn Down → Hypnic Jerks → Tides Alternate* test carried two stale noncanonical placement URIs. Evaluation used the current ledger's exact identities; the mismatch is preserved in discoveries.md and did not drive a decision.
+
+Exact entry, exit, endpoint, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. Audio/live NOT TESTED. The listener-protected `Transparency → When We Froze → Stardancer` order remains intact.
+
 ## Run 160 — EXPLORE — interruption versus consequential residue
 
 No canonical track is added. Fase Bipolar — *Urge & Dissolve* is PARKED only at the `Drummz → candidate → Té de Cabello Blanco` hypothesis. Sungate describes a percussive pile driver interrupted by solar-flare-like high-frequency detail; that interruption could leave reassembly material for *Té de Cabello Blanco*, but the exact direction and endpoint are undocumented. Its alternative between *Pulse I* and *Roxellana* is rejected because it inserts another force-and-flash escalation between crooked accumulation and the existing directed surge.
