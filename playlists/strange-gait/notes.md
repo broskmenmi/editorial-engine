@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 160 — EXPLORE — interruption versus consequential residue
+
+No canonical track is added. Fase Bipolar — *Urge & Dissolve* is PARKED only at the `Drummz → candidate → Té de Cabello Blanco` hypothesis. Sungate describes a percussive pile driver interrupted by solar-flare-like high-frequency detail; that interruption could leave reassembly material for *Té de Cabello Blanco*, but the exact direction and endpoint are undocumented. Its alternative between *Pulse I* and *Roxellana* is rejected because it inserts another force-and-flash escalation between crooked accumulation and the existing directed surge.
+
+Fase Bipolar — *Red Noise* and *Until We Sink* pass the selection lens and remain genuinely interesting, but fail only their tested placements. *Red Noise*'s documented psychoacoustic spiral delays the return from *Sarniezz* or refills the exposed interval before *Truth in Noise*. *Until We Sink*'s documented concrete-weight-to-black-tar-bass submergence becomes another late statement before *Eyes of the Wind* or duplicates the dissolution already moving from *backsliding* into *Mildew Swoosh*.
+
+The matching schemaVersion 2 resolver snapshot is internally valid and `PARTIAL`: 9 requested, 5 exact resolutions, 3 selected candidates, 2 exact unselected alternates, 4 unresolved identities, 4 metadata warnings, and no duplicates, substitutions, relinkings or technical failures. Exact errors and warnings are preserved in `discoveries.md`.
+
+Auditor approves zero canonical changes, one PARKED verdict, five scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT remains 45 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 346 tracks. The protected `Transparency → When We Froze → Stardancer` internal order is untouched.
+
+**Concept:** interruption becomes consequential when it leaves the successor a changed problem; striking detail, disorientation or descent can instead occupy or delay an already legible consequence.
+
+
 ## Run 159 — EXPLORE — protruding motion versus downstream work
 
 No canonical track is added. Wata Igarashi — *Turbulence* is PARKED at the `Worn Down → candidate → Tides Alternate` hypothesis: its documented relentless up-and-down progression could give the following opposed-speed balance a meaningful orientation task, but the exact endpoint and exit are unknown, so the same five-track run could instead state instability twice. Its alternative between *LOVE YOUR ENEMIES* and *Tehutis Law* is rejected because it extends conflict before re-grounding.
