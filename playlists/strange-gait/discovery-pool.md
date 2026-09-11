@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 142 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Jan Jelinek | Them, Their | https://open.spotify.com/track/15LwuDTG0XV2slR4pcVaYE | PARKED after both Run 142 placements for missing exact direction/endpoint evidence; microscopic click, offset bass and out-of-tune-keyboard construction remains genuinely interesting. Date variance preserved. |
+| EXACT TRACK | Jan Jelinek | Rock In The Video Age | https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS | Placement-specific REJECT only for the two Run 142 positions; amorphous texture anchored by a house groove remains useful elsewhere. Date variance preserved. |
+| EXACT TRACK | Andrew Pekler | Rockslide | https://open.spotify.com/track/4xGBZ28AnaklKtu1xkcEYv | Placement-specific REJECT only for the two Run 142 positions; floor-tom funk and droning electronic collage remain genuinely interesting. Date variance preserved. |
+| UNRESOLVED | Reptant; Carmen Villain; Jan Jelinek; Jan Jelinek, Computer Soup | Future Proof; Hey Synapses; Do Dekor; Tendency; Straight Life; Ballet Robotique | See discoveries.md exact errors | Four no-match outcomes and two ambiguous archival identities remain without verdict or utility entry. |
+| RELEASE / CATALOGUE WATCH | Carmen Villain; Reptant / Kalahari Oyster Cult; Jan Jelinek; Computer Soup; Andrew Pekler | Memoria; Ballet Robotique; Loop-Finding-Jazz-Records; Improvisations and Edits: Tokyo 26.09.2001; Cue | https://pitchfork.com/reviews/albums/carmen-villain-memoria ; https://ra.co/reviews/36353 ; https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records ; https://pitchfork.com/reviews/albums/4236-improvisations-and-edits-tokyo-26092001 ; https://pitchfork.com/reviews/albums/10358-cue | Current brittle acoustic-electronic loops, emerging electro mutation and overlooked microsound/electronic-jazz catalogue remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- The two rejections apply only to the four tested placements; neither track is globally rejected.
+- *Them, Their* remains PARKED, not approved for a canonical position.
+- Unresolved identities receive no musical verdict and do not enter the global utility ledger.
+- Set ideas are exploratory directions, not proven sequences or live-mixing edges.
+
 ## Run 141 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

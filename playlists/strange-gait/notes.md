@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 142 — EXPLORE — microscopic rhythm must alter the following task
+
+No canonical track is added. Jan Jelinek — *Rock In The Video Age* and Andrew Pekler — *Rockslide* pass the selection lens and remain genuinely interesting, but fail only their two tested placements. Jan Jelinek — *Them, Their* is PARKED after both planned positions.
+
+*Rock In The Video Age* supplies an eight-minute house-groove anchor inside amorphous texture. Before *Sarniezz* it lengthens the approach to an already self-sufficient production-world turn; between *Foundry* and *Worn Down* it restores a familiar anchor before the latter can answer threatened coherence. *Rockslide*'s floor-tom funk adds another percussion-led mediation before either *Sarniezz* or *Ikoyi* without changing their existing task. *Them, Their*'s microscopic click and offset bass fit the volume, but the source does not establish its direction or endpoint well enough to decide whether it sharpens or pre-empts *Trompe L'oeil* or *Pulse I*.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: three exact selected candidates, six unresolved identities, no alternates and three preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 141 — EXPLORE — constraint and metric difference need candidate-specific direction
 
 No canonical track is added. Andy Stott with Elaine Howley — *Something in mind*, Sanskrit — *Ultramarine* and Sanskrit — *480Hz* are PARKED after both planned placements.

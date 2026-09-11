@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 142 — Microscopic rhythm must change the successor's task
+
+**Direction:** Explore clicks, static, floor-tom constructions and familiar grooves inside unstable surfaces only where their endpoint makes the next track do something newly legible.
+
+**Ingredients:**
+
+- Jan Jelinek — *Them, Their* — exact PARKED discovery; microscopic click, offset bass and out-of-tune keyboards are documented, but direction and exit remain unknown.
+- Jan Jelinek — *Rock In The Video Age* — exact placement-specific reject; amorphous texture held by a house groove remains useful outside the tested extra-anchor positions.
+- Andrew Pekler — *Rockslide* — exact placement-specific reject; floor-tom funk inside a droning electronic collage remains useful outside the tested extra-mediation positions.
+- Reptant — *Future Proof* / *Ballet Robotique*, Carmen Villain — *Hey Synapses*, Jan Jelinek — *Do Dekor* / *Tendency*, and Jan Jelinek with Computer Soup — *Straight Life* — unresolved exact-identity research leads.
+
+**Why interesting:** Tiny rhythmic units can carry decisive orientation, but a persuasive texture or offset becomes sequence material only when its exit changes the following formation.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability, all proposed handoffs and the unresolved Spotify identities remain unknown. These are not proven live combinations.
+
 ## Run 141 — Constraint and metric difference need candidate-specific direction
 
 **Direction:** Explore constrained production, explicit odd meter and current raw/deep techno only where the exact track's direction changes the following formation; technique, genre and metadata conflict do not supply that consequence by themselves.

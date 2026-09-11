@@ -1,5 +1,79 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 142 — EXPLORE — microscopic rhythm must alter the following task — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 297 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. The three completed no-ADD runs since Run 138 remained a proportionality signal rather than an actionable defect.
+
+### Exploration receipt
+
+Run `2026-09-11T03:51:18Z-explore-142` inspected approximately 52 current, adjacent, emerging and overlooked-catalogue entries across Resident Advisor's live 2026 review index, Pitchfork's September 8 *Memoria* review, The Guardian's September 4 electronic survey, Bandcamp Daily's September 9 survey, and overlooked Jan Jelinek, Computer Soup and Andrew Pekler criticism. Existing persistent identities and recently decided Andy Stott, Sanskrit, Norberto Lusso, FAUZIA, Container, DJ POPS, FIS, Martyn, Tyler Friedman and Vladislav Delay fields were excluded. Nine honest leads survived (17.3%). The immutable schemaVersion 2 request was pinned to `878bb13b1dd783cd26b33c525431e952b1667ffc` in `18407087d10926863091df19734a500256053a12`. Matching snapshot commit: `8e78238eb2c9b2c7e8d88ca1416ef802c170898c`; fingerprint `11d776f498892400064652d4ead417b324be8a7e85e4eedfe0476dae1d8ce54a`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 3 resolved and selected, 6 unresolved, no resolved alternates, no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. Jan Jelinek — *Them, Their* — `spotify:track:15LwuDTG0XV2slR4pcVaYE`; 5:06; album *Loop-Finding-Jazz-Records*; Spotify date 2001-01-01; BPM unavailable.
+2. Jan Jelinek — *Rock In The Video Age* — `spotify:track:6b9I77bVLGkPfhgeQHDzhS`; 8:04; album *Loop-Finding-Jazz-Records*; Spotify date 2001-01-01; BPM unavailable.
+3. Andrew Pekler — *Rockslide* — `spotify:track:4xGBZ28AnaklKtu1xkcEYv`; 4:50; album *Cue*; Spotify date 2007-05-21; BPM unavailable.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2001-02-02" but Spotify returned "2001-01-01"` — Jan Jelinek — *Them, Their*.
+- `Exact title/artist matched with release metadata variance: release date requested "2001-02-02" but Spotify returned "2001-01-01"` — Jan Jelinek — *Rock in the Video Age*.
+- `Exact title/artist matched with release metadata variance: release date requested "2007" but Spotify returned "2007-05-21"` — Andrew Pekler — *Rockslide*.
+
+Unresolved identities receive no musical verdict:
+
+- Reptant — *Future Proof*: `no exact Spotify title/artist search match in market SE`
+- Carmen Villain — *Hey Synapses*: `no exact Spotify title/artist search match in market SE`
+- Jan Jelinek — *Do Dekor*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6wrq6q4b4OL0Ry5zfPLaOJ, 6JfLu1glSTNbUmdhgqiql5)`
+- Jan Jelinek — *Tendency*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6Py6ERVoAbMCwQhTatlluh, 3lYdGqAjVoos3mXJooSgjE, 2N1i9r9axrq3LdVeqB701K)`
+- Jan Jelinek, Computer Soup — *Straight Life*: `no exact Spotify title/artist search match in market SE`
+- Reptant — *Ballet Robotique*: `no exact Spotify title/artist search match in market SE`
+
+### Candidate evaluation
+
+#### Jan Jelinek — Them, Their — PARKED
+
+- **Volume fit:** PASS. Pitchfork's exact-track account identifies a microscopic click replacing the snare while full bass outlines a funky rhythm half a tick from hip-hop beneath out-of-tune keyboards. The rhythmic substitution and offset are directly relevant to STRANGE GAIT's selection lens.
+- **Immediate transition:** UNKNOWN at both `Never Met → candidate → Trompe L'oeil` and `Tehutis Law → candidate → Pulse I`. The source establishes material and rhythmic relation, but not the track's internal direction, endpoint or either handoff.
+- **Surrounding three-to-five-track run:** NOT PROVEN. In the first run the candidate could make *Trompe L'oeil*'s staggered reset more consequential or perform that reset first. In the second it could sharpen *Pulse I*'s crooked accumulation or pre-empt it. The evidence does not distinguish those outcomes.
+- **Long-form journey:** NOT PROVEN. A five-minute microsound interval is proportionate in duration, but duration and fit cannot establish net journey gain without directional consequence.
+- **Verdict:** **PARKED**. Retain as genuinely interesting; reopen for materially richer exact-track endpoint/connective evidence, lawful audio evidence or a changed journey need.
+
+#### Jan Jelinek — Rock In The Video Age — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork identifies amorphous texture anchored by a familiar house groove; the coexistence of an unstable surface and conventional anchor fits the volume without needing novelty to justify admission.
+- **Immediate transition:** FAIL for the two proposed positions only. At `Capa → candidate → Sarniezz`, an eight-minute house anchor lengthens the approach to an already distinct live-band metric turn. At `Foundry → candidate → Worn Down`, the familiar anchor restores orientation before *Worn Down* can answer threatened coherence.
+- **Surrounding three-to-five-track run:** FAIL. `Fulledge → Capa → candidate → Sarniezz → Never Met` gains another full anchoring stage but leaves the existing left turn and exit unchanged. `Abundance → Foundry → candidate → Worn Down → Tides Alternate` resolves the instability that currently makes *Worn Down*'s response useful.
+- **Long-form journey:** FAIL for these placements. The 8:04 addition materially extends an already 37-track journey without giving a successor new work.
+- **Verdict:** **REJECT these two placements only**, not the track globally. Retain as genuinely interesting.
+
+#### Andrew Pekler — Rockslide — placement-specific REJECT
+
+- **Volume fit:** PASS at the adjacent edge. Pitchfork singles out droning tones and floor-tom funk within an electronic collage; that rhythmic/timbral construction can belong without needing to sound like the canonical room.
+- **Immediate transition:** FAIL for the two tested positions only. Before *Sarniezz*, the floor-tom collage adds another percussion-led production-world mediation before the established live-band turn. Between *Drummz* and *Ikoyi*, it extends the percussion chain without changing *Ikoyi*'s polyrhythmic task.
+- **Surrounding three-to-five-track run:** FAIL. `Fulledge → Capa → candidate → Sarniezz → Never Met` turns one purposeful left turn into a two-stage excursion. `Fragments → Drummz → candidate → Ikoyi → Amor` gains another percussive proposition before the same dissolution.
+- **Long-form journey:** FAIL for these placements. The candidate is concise enough to remain useful discovery material, but neither position creates a new consequence downstream.
+- **Verdict:** **REJECT these two placements only**, not the track globally. Retain as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode and target match; 9 requested = 3 selected exact resolutions + 6 unresolved; every warning and exact resolver error is preserved; no stale candidate, duplicate, substitute, relink or alternate entered evaluation. Each selected identity was judged separately at volume, transition, local-run and long-form scales. Unknown handoffs and absent BPM were not treated as musical failure or admission evidence. The protected trio remains untouched. Auditor approves 0 ADD, two placement-specific rejections, one PARKED revisit, local inspiration retention and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT: unchanged at **37 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three exact retained tracks, six unresolved research leads, and current/overlooked release windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **297 → 300 exact tracks**, adding *Them, Their*, *Rock In The Video Age* and *Rockslide*.
+- Target journey-map inputs are unchanged; generated outputs remain current.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 52 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion: **17.3%**; lead-to-resolution conversion: **33.3%**; selected-candidate-to-ADD conversion: **0/3**. Across Runs 87–142: **494 leads from approximately 2,659 inspections; 22 ADDs from 152 selected candidates**. The recent completed-run ADD rate is **4/10**; resolver-incomplete Run 133 is excluded. The no-ADD streak is four completed runs since Run 138, with 11 exact interesting tracks retained during it. Resolution loss was concentrated in Spotify-SE absence and archival-packaging ambiguity, not a technical resolver failure. The result supports candidate-specific proportional judgment rather than forced expansion and does not prove playlist completion, global incompatibility, exact handoff quality, phrase fit or live mixability.
+
 ## Run 141 — EXPLORE — constraint and metric difference need candidate-specific direction — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 294 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 140's PARKED *$^$^$* and Run 139's PARKED *WhyUBeingWeird* had no materially new evidence or changed journey need. The three consecutive ADDs in Runs 136–138 remained a monitoring signal rather than a defect after two completed no-ADD runs.

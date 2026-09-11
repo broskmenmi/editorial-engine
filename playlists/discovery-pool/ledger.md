@@ -301,6 +301,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 295 | Andy Stott, Elaine Howley | Something in mind | spotify:track:6UpFLmexlLHFVDDcY7vWAY | STRANGE GAIT Run 141 | PARKED / interesting | 2026-09-11 |
 | 296 | Sanskrit | Ultramarine | spotify:track:7hmeXDRfbMOes06wuxKFk8 | STRANGE GAIT Run 141 | PARKED / interesting | 2026-09-11 |
 | 297 | Sanskrit | 480Hz | spotify:track:7s1oY0FMDWuNm92h06ooCJ | STRANGE GAIT Run 141 | PARKED / interesting | 2026-09-11 |
+| 298 | Jan Jelinek | Them, Their | spotify:track:15LwuDTG0XV2slR4pcVaYE | STRANGE GAIT Run 142 | PARKED / interesting | 2026-09-11 |
+| 299 | Jan Jelinek | Rock In The Video Age | spotify:track:6b9I77bVLGkPfhgeQHDzhS | STRANGE GAIT Run 142 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 300 | Andrew Pekler | Rockslide | spotify:track:4xGBZ28AnaklKtu1xkcEYv | STRANGE GAIT Run 142 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
