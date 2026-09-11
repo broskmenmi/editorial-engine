@@ -1,5 +1,88 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 159 — EXPLORE — protruding motion versus downstream work — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 340 contiguous unique exact tracks and a matching COMPLETE 340/340 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact, and there was no active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair.
+
+### Exploration receipt
+
+Run `2026-09-11T20:50:56Z-explore-159` inspected approximately 57 named tracks, releases and catalogue references across the live September 11, 2026 Resident Advisor and Pitchfork feeds, same-day Dolly, Illegal Alien Records and Concepto Hipnotico releases, Lolina's procedural-club catalogue and Wata Igarashi's overlooked `Travelling` EP. Run 158 identities and every previously evaluated, parked, rejected, unresolved or alternate STRANGE GAIT identity found in current and archived history were excluded. Sources: https://dolly-records.bandcamp.com/album/archive-of-disappearing-now · https://illegalalienrecords.bandcamp.com/album/alchemy · https://conceptohipnotico.bandcamp.com/album/lyra-chr360 · https://ra.co/reviews/23976 · https://ra.co/reviews/19681 · https://ra.co/reviews/25219
+
+Ranked leads: (1) Wata Igarashi — *Turbulence*; (2) Wata Igarashi — *Stuck In CDG*; (3) Lolina — *The Opaque*; (4) Lolina — *Glitching*; (5) Lolina — *Strobing*; (6) DJ AGITATED — *Conflicted*; (7) DJ AGITATED — *Archive of a disappearing now*; (8) Colomboi — *Alchemy*; (9) ASKE — *Far From Oort Cloud*.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request uses source commit `deee408f77fc89e9c3a9bf60adde1640ba7c521a`. Matching snapshot fingerprint `95a8943a40527d2d49ee8eef3646fa9127b964f19e730331bc0ccd4fb4bd5f61` was generated at `2026-09-11T20:56:50.939Z`. Result: `PARTIAL`, 9 requested, 6 resolved, 3 selected candidates, 3 unselected exact alternates, 3 unresolved, no duplicates, substitutions, relinkings or technical failures.
+
+Unresolved without musical verdict:
+
+- Lolina — *The Opaque*: `no exact Spotify title/artist search match in market SE`
+- Colomboi — *Alchemy*: `no exact Spotify title/artist search match in market SE`
+- ASKE — *Far From Oort Cloud*: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- Wata Igarashi — *Turbulence*: `Exact title/artist matched with release metadata variance: album requested "Travelling" but Spotify returned "Traveling"; release date requested "2020-08" but Spotify returned "2020-08-24"`
+- Wata Igarashi — *Stuck In CDG*: `Exact title/artist matched with release metadata variance: album requested "Travelling" but Spotify returned "Traveling"; release date requested "2020-08" but Spotify returned "2020-08-24"`
+- Lolina — *Glitching*: `Exact title/artist matched with release metadata variance: release date requested "2019-06" but Spotify returned "2019-12-10"`
+- Lolina — *Strobing*: `Exact title/artist matched with release metadata variance: release date requested "2019-06" but Spotify returned "2019-12-10"`
+
+Selected exact identities:
+
+1. Wata Igarashi — *Turbulence* — `spotify:track:3ThSJp6CdMO4LVsEJQzbzB`; Spotify album `Traveling`, date `2020-08-24`, duration 6:20, BPM unavailable.
+2. Wata Igarashi — *Stuck In CDG* — `spotify:track:2BXjcVrlPs2vSXiEKxrbTn`; Spotify album `Traveling`, date `2020-08-24`, duration 6:08, BPM unavailable.
+3. Lolina — *Glitching* — `spotify:track:17Bwb2qC6uXeNWQCUR8nlc`; Spotify album `Who is experimental music?`, date `2019-12-10`, duration 2:28, BPM unavailable.
+
+Resolved but unselected and unevaluated:
+
+- Lolina — *Strobing* — `spotify:track:65wQ6kZ9rHSH77U7178rT8`; date warning above.
+- DJ Agitated — *Conflicted* — `spotify:track:5ru3BWlIPuEn3cqDoi4j6l`.
+- DJ Agitated — *Archive of a disappearing now* — `spotify:track:0foKxE75Z4ylZYTpaKSZNG`.
+
+### Canonical evaluations
+
+#### Wata Igarashi — *Turbulence* — PARKED
+
+- **Volume fit:** PASS. Resident Advisor describes a brusque techno track built around a relentless up-and-down progression and designed to protrude in a set. That conspicuous, non-neutral motion fits the selection lens without needing novelty credit.
+- **Immediate transitions:** At `Worn Down → candidate → Tides Alternate`, the candidate could make *Tides Alternate*'s opposed-speed balance answer a more explicit disorientation, but the published evidence does not establish the candidate's endpoint or exit. At `LOVE YOUR ENEMIES → candidate → Tehutis Law`, the same brusque oscillation extends conflict immediately before re-grounding and fails that placement.
+- **Three-to-five-track run:** `Foundry → Worn Down → candidate → Tides Alternate → Too Much Time` remains a plausible shape: recovery, grinding pressure, vertical-feeling oscillation, balance, then widened drive. It could also become two consecutive instability propositions before widening; available exact evidence does not distinguish those readings. `FELT → Thick to Handle → LOVE YOUR ENEMIES → candidate → Tehutis Law` clearly overextends conflict.
+- **Long-form journey:** A 6:20 high-attention proposition is proportionally material in the first third. It may give the next track consequential orientation work, but without endpoint evidence it may merely delay that work. UNKNOWN is not treated as failure, so the first placement remains PARKED; the second is placement-specific REJECT.
+- **Unknown:** BPM, perceived pulse, energy, density, space, phrase structure, exact endpoint, handoffs and mixability.
+
+#### Wata Igarashi — *Stuck In CDG* — placement-specific REJECT
+
+- **Volume fit:** PASS. Exact criticism documents a physically incisive sinusoid bassline in one of the EP's deliberately protruding, brusque techno cuts.
+- **Immediate transitions:** At `Moonwake → candidate → Raataja`, the candidate adds another long force stage after *Freepass for Them → Moonwake* have already established and intensified motion before rupture. At `Tehutis Law → candidate → Pulse I`, it inserts protruding bass pressure between re-grounding and crooked accumulation without evidence of internal redirection.
+- **Three-to-five-track run:** `Freepass for Them → Moonwake → candidate → Raataja → Crawl` delays the existing intensification-to-rupture relation. `LOVE YOUR ENEMIES → Tehutis Law → candidate → Pulse I → Roxellana` adds a new force plateau before accumulation and surge.
+- **Long-form journey:** Both placements lengthen already legible causal passages without changing what the successor must do. The rejection is placement-specific, not global.
+- **Unknown:** BPM, perceived pulse, energy, density, space, internal direction, endpoint, phrase structure, handoffs and mixability.
+
+#### Lolina — *Glitching* — placement-specific REJECT
+
+- **Volume fit:** PASS provisionally. Resident Advisor's exact description of a curiously infectious bounce inside a skipping/glitching/strobing procedural sequence supports rhythmic freedom and a different production world.
+- **Immediate transition:** At `FELT → candidate → Thick to Handle`, the concise bounce inserts a second formed rhythmic proposition between *FELT*'s sticky rolling groove and *Thick to Handle*'s existing deformation.
+- **Three-to-five-track run:** `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES` gains a novel procedural accent but loses the direct groove-to-deformation relation.
+- **Long-form journey:** The 2:28 duration limits proportional cost, yet concision and novelty do not create new downstream work. The track remains genuinely interesting outside this tested placement.
+- **Unknown:** BPM, perceived pulse, energy, density, space, internal direction, endpoint, phrase structure, handoffs and mixability.
+
+The unresolved leads receive no ADD/REJECT/REVISIT verdict. The three exact alternates are unselected and unevaluated.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode and target. All three selected identities are exact and unique; every warning and unresolved error is preserved; no alternate, duplicate, substitute, relinking or technical failure entered evaluation. Each selected candidate was judged independently for volume fit, immediate transition, surrounding run and long-form effect. No metadata-only inference supplies energy, density, space, hypnosis, emotional effect, phrase structure or mixability. The protected trio and all listener approval boundaries remain untouched. Auditor approves one PARKED verdict, three scoped placement rejections, local inspiration retention, and three global utility additions. No canonical ADD, removal or reorder is approved.
+
+### Durable result
+
+- STRANGE GAIT remains **45 canonical tracks** with no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: *Turbulence* PARKED at the Worn Down/Tides hypothesis with its LOVE/Tehutis alternative rejected; *Stuck In CDG* and *Glitching* retained as interesting placement-specific rejects; three unresolved leads and three unselected alternates preserved.
+- EDITORIAL ENGINE — DISCOVERY POOL: **340 → 343 exact tracks**, adding only the three selected retained identities.
+- Journey map: no canonical change; existing generated outputs remain current.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 57 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 selected evaluations + 3 unselected alternates → **0 ADD + 1 PARKED + 3 placement-specific rejections** → 3 utility additions. Across completed discovery Runs 87–159, excluding documentation-only Run 156: **636 leads from approximately 3,570 inspections; 30 ADDs from 195 selected candidates**. Inspection-to-lead conversion is **15.8%**, lead-to-resolution conversion **66.7%**, and selected-candidate-to-ADD conversion **0/3**. The recent completed-discovery ADD rate becomes **4/10**; the no-ADD streak is one completed discovery run since Run 158, with three exact interesting tracks retained during it. Candidate-specific outcomes and a healthy resolution yield do not support forced growth, repetitive placement search, resolver failure or epistemic veto. The run does not prove any exact handoff, BPM, perceived pulse, energy, density, space, phrase fit, mixability or playlist completion.
+
+
 ## Run 158 — EXPLORE — alternating pressure before transformation — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 337 contiguous unique exact tracks and a matching COMPLETE 337/337 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 157's placement-URI discrepancy was request-local, did not drive a publication change and did not reveal a persistent defect.
