@@ -1,5 +1,76 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 158 — EXPLORE — alternating pressure before transformation — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 337 contiguous unique exact tracks and a matching COMPLETE 337/337 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 157's placement-URI discrepancy was request-local, did not drive a publication change and did not reveal a persistent defect.
+
+### Exploration receipt
+
+Run `2026-09-11T19:52:46Z-explore-158` inspected approximately 59 named tracks, releases and catalogue references across the live September 11, 2026 Resident Advisor feed, Goon Club Allstars & Friends Volume 3, Jennifer Loveless's current and recent catalogue, Nene H's current single and September Collective's overlooked 2007 catalogue. Run 157 identities and all previously evaluated, parked, rejected, unresolved or alternate identities found in history were excluded. Sources: https://ra.co/news/86010 · https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3 · https://www.kaltblut-magazine.com/jennifer-loveless-in-touch-again/ · https://jenniferloveless.bandcamp.com/album/fever-ep · https://djmag.com/news/nene-h-announces-new-ep-shares-war-das-ein-traum-listen · https://pitchfork.com/reviews/albums/10420-all-the-birds-were-anarchists
+
+Ranked leads: (1) Cooly G — *Same Way*; (2) Neana — *Laced-X*; (3) Swimming Pools of the World — *The River Track*; (4) Jennifer Loveless — *In touch again*; (5) Jennifer Loveless — *Heaven (Late Night)*; (6) TU3SDAY, Mystic Meg — *Regular Degular*; (7) Surreal Sessions — *Dragon Warrior*; (8) Nene H — *War das ein Traum*; (9) September Collective — *Out of Intention*.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request uses source commit `d31ee5604cd20acbd9089384bf754ce5a78e9641`. Matching snapshot fingerprint `8bfafc109e5265ade11837b80036486e2a8a6ea6adcd29cdd307dfde01f1b082` was generated at `2026-09-11T19:59:30.252Z`. Result: `PARTIAL`, 9 requested, 7 resolved, 3 selected candidates, 4 unselected exact alternates, 2 unresolved, no duplicates, substitutions, relinkings or technical failures.
+
+Unresolved without musical verdict:
+
+- TU3SDAY, Mystic Meg — *Regular Degular*: `no exact Spotify title/artist search match in market SE`
+- September Collective — *Out of Intention*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2a2VRuhD4qeOh669OHcBe6, 5zhE3I4wsfRHszcYpLp4bA)`
+
+Warnings preserved exactly:
+
+- Cooly G — *Same Way*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-04" but Spotify returned "2026-09-11"`
+- Neana — *Laced-X*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-04" but Spotify returned "2026-09-11"`
+- Swimming Pools of the World — *The River Track*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-04" but Spotify returned "2026-09-11"`
+- Jennifer Loveless — *In touch again*: `Exact title/artist matched with release metadata variance: album requested "Familiar" but Spotify returned "In Touch Again"; release date requested "2026-10-09" but Spotify returned "2026-09-10"`
+- Surreal Sessions — *Dragon Warrior*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-04" but Spotify returned "2026-09-11"`
+- Nene H — *War das ein Traum*: `Exact title/artist matched with release metadata variance: album requested "Seltsame Fabeln" but Spotify returned "War das ein Traum"; release date requested "2026-10-09" but Spotify returned "2026-09-07"`
+
+Exact but unselected and unevaluated: Jennifer Loveless — *In Touch Again* (`spotify:track:1vO9UIkDzMKlhycyfWcyuG`), Jennifer Loveless — *Heaven (Late Night)* (`spotify:track:682UIjOPyzX7rzqlWfAMMU`), Surreal Sessions — *Dragon Warrior* (`spotify:track:63A5y9w3tPliujoBhamAYI`), and Nene H — *War das ein Traum* (`spotify:track:7Gx47jBfhFeTURcsPEVoqb`). These are resolver accounting, not retention or musical verdicts.
+
+### Selected-candidate evaluations
+
+**Cooly G — Same Way** — `spotify:track:34Fsg91zY7EAGvowez5DOf` — **ADD after Truth in Noise; alternative placement-specific REJECT after Capa.**
+
+- Volume fit: PASS. Official exact-track notes describe skittering drums and bass tones taking turns to deliver body blows. That rhythmic role exchange fits the selection lens without relying on novelty, genre orthodoxy or a quota.
+- Immediate transition: PASS provisionally for `Truth in Noise → Same Way → U Belong 2 Me`. Consolidation becomes alternating physical pressure, giving the successor's existing four-on-the-floor-to-funereal threshold a specific state to transform. Exact handoffs remain unknown.
+- Three-to-five-track run: PASS. `Elemental Dream → Truth in Noise → Same Way → U Belong 2 Me → Transparency` moves from self-stripping instability through consolidation and segmented pressure into threshold and protected-block opener. Character changes, but the local purpose remains legible.
+- Long-form journey: PASS. The 3:21 insertion is proportionate, creates no mandatory summit or wave and changes downstream work rather than repeating preparation.
+- Alternative after *Capa*: REJECT only for `Capa → Same Way → Sarniezz`. It mediates the direct production-world and pulse-illusion left turn, making *Sarniezz* less consequential.
+
+**Neana — Laced-X** — `spotify:track:5cfBB47kSDOQryNnsD7Wke` — **placement-specific REJECT.**
+
+- Volume fit: PASS. Official exact-track notes describe slinky melodies and club percussion meeting mutant grime sonics.
+- Immediate transition: PLAUSIBLE but insufficient for `Never Met → candidate → Trompe L'oeil`; the mutation could give the reset material, but the exact entry and exit are unknown. After *Stardancer*, it supplies another pronounced statement before the corridor.
+- Three-to-five-track run: FAIL. Between *Never Met* and *Trompe L'oeil*, it inserts a second mutation between electronic re-entry and the existing dubwise reset, delaying *FELT*'s formation. After *Stardancer*, it postpones *Eyes of the Wind*'s liminal-percussion passage.
+- Long-form journey: FAIL at both placements. The added hinge does not create new downstream work and over-articulates already legible changes.
+- Scope: rejection applies only to the two tested placements; the track remains genuinely interesting elsewhere.
+
+**Swimming Pools of the World — The River Track** — `spotify:track:33chetHTBLGFMHiYo4eFz3` — **placement-specific REJECT.**
+
+- Volume fit: PASS. Official exact-track notes describe urgent movement between babbling euphoria and deeper undercurrents.
+- Immediate transition: FAIL after *Can I live* because a complete 5:55 oscillation occupies the continuation opened by its restrained coda before *Invisible Warriors Of Light*. After *Stardancer*, the same self-contained movement delays the liminal corridor.
+- Three-to-five-track run: FAIL. `Nukumori → Rabbit Hole → Can I live → candidate → Invisible Warriors Of Light` turns flare, descent and hesitant reopening into another large event before the afterword. The post-protected alternative similarly adds a competing late cycle.
+- Long-form journey: FAIL. Both placements over-articulate the close and make existing successors less necessary.
+- Scope: rejection applies only to the two tested placements; the track remains genuinely interesting elsewhere.
+
+### Auditor approval
+
+The Auditor verifies that only the three selected exact identities were evaluated; all four scale checks were applied separately; every unresolved lead and warning is preserved; no metadata was treated as energy, density, space, hypnosis, phrase fit or mixability; the protected trio remains intact; and no listener approval boundary is crossed. Approved: one canonical ADD, one scoped alternative rejection, two placement-specific REJECT decisions, local discovery/set updates, and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **44 → 45 canonical tracks**; add Cooly G — *Same Way* after *Truth in Noise* and before *U Belong 2 Me*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`, now positions 38–40.
+- EDITORIAL ENGINE — DISCOVERY POOL: **337 → 340 exact tracks**, adding *Same Way*, *Laced-X* and *The River Track*.
+- Local inspiration retains the three selected exact tracks, two unresolved leads, four unselected exact alternates and the current Goon Club / Jennifer Loveless / Nene H / September Collective research windows without weakening canonical verdicts.
+- Journey annotations add *Same Way* as a provisional alternating-pressure hinge; generated artifacts remain GitHub Actions' responsibility.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 59 inspected → 9 leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **15.3%**, lead-to-resolution conversion is **77.8%**, and selected-candidate-to-ADD conversion is **33.3%**. Across completed discovery Runs 87–158, excluding documentation-only Run 156: **627 leads from approximately 3,513 inspections; 30 ADDs from 192 selected candidates**. The recent completed-discovery ADD rate is **5/10**. Run 158 ends the two-run no-ADD streak since Run 154, during which six exact interesting tracks were retained. The improved 7/9 resolution yield, distinct candidate outcomes and one proportionate change argue against resolver failure, repetitive placement search, forced growth or epistemic veto. The run does not prove exact handoffs, BPM, perceived pulse, energy, density, space, phrase fit, mixability or playlist completion.
+
 ## Run 157 — EXPLORE — shifting footing must change the consequence — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 334 contiguous unique exact tracks and a matching COMPLETE 334/334 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 156 completed its count-independent instruction repair, returning the normal lane to EXPLORE.

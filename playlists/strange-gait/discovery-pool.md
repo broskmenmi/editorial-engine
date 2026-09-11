@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 158 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Cooly G | Same Way | https://open.spotify.com/track/34Fsg91zY7EAGvowez5DOf | Canonical ADD after *Truth in Noise*; alternate placement after *Capa* rejected. Alternating skittering drums and bass body blows remain the exact evidence. Date warning preserved. |
+| EXACT TRACK | Neana | Laced-X | https://open.spotify.com/track/5cfBB47kSDOQryNnsD7Wke | Placement-specific REJECT only between *Never Met* and *Trompe L'oeil* and between *Stardancer* and *Eyes of the Wind*; slinky melody, club percussion and mutant grime remain genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Swimming Pools of the World | The River Track | https://open.spotify.com/track/33chetHTBLGFMHiYo4eFz3 | Placement-specific REJECT only after *Can I live* and after *Stardancer*; urgent movement between surface euphoria and deeper undercurrents remains genuinely interesting elsewhere. Date warning preserved. |
+| RESEARCH LEAD | TU3SDAY, Mystic Meg | Regular Degular | https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | September Collective | Out of Intention | https://pitchfork.com/reviews/albums/10420-all-the-birds-were-anarchists | Ambiguous exact Spotify identity `2a2VRuhD4qeOh669OHcBe6, 5zhE3I4wsfRHszcYpLp4bA`; no musical verdict or utility entry. |
+| RELEASE WATCH | Goon Club Allstars | Goon Club Allstars & Friends Volume 3 | https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3 | September 2026 compilation window for exact-track research across changing club languages. |
+| RELEASE WATCH | Jennifer Loveless | Familiar / Fever EP | https://jenniferloveless.bandcamp.com/album/familiar | Current and recent adjacent window; four exact resolver outcomes exist, but only selected candidates received verdicts. |
+| RELEASE WATCH | Nene H | Seltsame Fabeln | https://djmag.com/news/nene-h-announces-new-ep-shares-war-das-ein-traum-listen | Current techno/deconstruction window; *War das ein Traum* resolved exactly but was unselected and unevaluated. |
+
+### Placement and inspiration boundaries
+
+- *Same Way* is provisional canon only between *Truth in Noise* and *U Belong 2 Me*. Its alternative after *Capa* is rejected; exact handoffs and mixability remain untested.
+- *Laced-X* and *The River Track* remain interesting despite placement-specific rejection; neither is globally rejected.
+- Jennifer Loveless — *In Touch Again* (`spotify:track:1vO9UIkDzMKlhycyfWcyuG`), Jennifer Loveless — *Heaven (Late Night)* (`spotify:track:682UIjOPyzX7rzqlWfAMMU`), Surreal Sessions — *Dragon Warrior* (`spotify:track:63A5y9w3tPliujoBhamAYI`) and Nene H — *War das ein Traum* (`spotify:track:7Gx47jBfhFeTURcsPEVoqb`) are exact unselected alternates, not evaluated or retained decisions.
+- Unresolved leads and release watches do not enter the global utility ledger.
+- No pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge is asserted.
+
 ## Run 157 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

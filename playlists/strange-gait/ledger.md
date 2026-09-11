@@ -39,19 +39,22 @@
 | 33 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
 | 34 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
 | 35 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 36 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
-| 37 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 38 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 39 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 40 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 41 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
-| 42 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 43 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
-| 44 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 36 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
+| 37 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
+| 38 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 39 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 40 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 41 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
+| 42 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
+| 43 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 44 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 45 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 44 canonical tracks.**
+**ACTIVE EXPANSION — 45 canonical tracks.**
+
+EXPLORE run `2026-09-11T19:52:46Z-explore-158` adds Cooly G — *Same Way* between Inspired Groove — *Truth in Noise* and RP Boo — *U Belong 2 Me*. Goon Club Allstars describes the exact 3:21 track as a heads-down funky speaker-pounder in which skittering drums and bass tones take turns delivering body blows. Editorially, `Elemental Dream → Truth in Noise → Same Way → U Belong 2 Me → Transparency` moves from self-stripping instability through consolidation into alternating physical pressure, then the existing four-on-the-floor-to-funereal threshold and protected-block opener. The insertion is proportionate because it changes what *U Belong 2 Me* must transform rather than duplicating its threshold. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative `Capa → Same Way → Sarniezz` is rejected only for that placement because it mediates the conspicuous production-world and pulse-illusion left turn.
 
 EXPLORE run `2026-09-11T15:53:50Z-explore-154` adds TYGAPAW, Precious Okoyomon — *Can I live* between Jlin — *Rabbit Hole* and Steve Rachmad — *Invisible Warriors Of Light*. Pitchfork documents the exact 2:37 track moving from low-boil drone and spoken word into a restrained coda of grimy muffled bass and sandpapery footwork beats, described as a hesitant beginning rather than an ending. Editorially, `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live → Invisible Warriors Of Light` moves from liminal percussion through flare and descent into restrained re-entry, then afterword. The insertion is proportionate and gives the existing afterword a continuation task. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative before *Transparency* is rejected only for that placement because it would create another re-entry immediately before the protected block opener.
 
@@ -137,9 +140,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`— → 136 → 136 → — → — → 134 → 135 → — → — → — → 140 → — → 140 → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → 140 → 138 → — → — → — → — → 138 → — → 143 → 140 → 137 → — → — → — → — → — BPM`
+`— → 136 → 136 → — → — → 134 → 135 → — → — → — → 140 → — → 140 → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → 140 → 138 → — → — → — → — → 138 → — → — → 143 → 140 → 137 → — → — → — → — → — BPM`
 
-`— Stadium Drive, Encasadelciegoeltuerco, Carried, Foundry, Worn Down, Tides Alternate, Freepass for Them, Raataja, Crawl, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, U Belong 2 Me, Eyes of the Wind, Nukumori, Rabbit Hole, Can I live, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
+`— Stadium Drive, Encasadelciegoeltuerco, Carried, Foundry, Worn Down, Tides Alternate, Freepass for Them, Raataja, Crawl, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, Same Way, U Belong 2 Me, Eyes of the Wind, Nukumori, Rabbit Hole, Can I live, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 158
+
+### Alternating pressure before transformation
+
+**Direction:** Explore tracks that divide or exchange rhythmic emphasis so a following transformation has a specific physical state to act upon; reject extra cycles that occupy the consequence or mediate a deliberate left turn.
+
+**Ingredients:**
+
+- Cooly G — *Same Way* — exact provisional canonical ADD after *Truth in Noise*; skittering drums and bass tones alternate body-pressure roles before *U Belong 2 Me*
+- Neana — *Laced-X* — exact placement-specific reject; melodic, percussive and mutant-grime collision remains useful outside the two tested positions
+- Swimming Pools of the World — *The River Track* — exact placement-specific reject; urgent oscillation between surface euphoria and deeper undercurrents remains useful outside the tested closing positions
+- TU3SDAY, Mystic Meg — *Regular Degular* — unresolved current research lead
+- September Collective — *Out of Intention* — ambiguous exact-edition catalogue lead
+
+**Why interesting:** Editorial hypothesis: alternating pressure can make a successor's transformation more consequential, while a complete oscillation may instead consume the space the successor needed.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. BPM, exact handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
 ## Current additions — Run 157
 
 ### Shifting footing must alter what follows

@@ -341,6 +341,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 335 | Genichiro | Surface | spotify:track:1fZnT75yFDw3O433vZFbpI | STRANGE GAIT Run 157 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 336 | Surgeon | Forgotten Gods | spotify:track:3UVMLK5OgM5nw8wEdW6qow | STRANGE GAIT Run 157 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 337 | Genichiro | Reflection | spotify:track:5LaAFEhHkpOmcBSf6IPdhk | STRANGE GAIT Run 157 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 338 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | STRANGE GAIT Run 158 | Canonical ADD / interesting | 2026-09-11 |
+| 339 | Neana | Laced-X | spotify:track:5cfBB47kSDOQryNnsD7Wke | STRANGE GAIT Run 158 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 340 | Swimming Pools of the World | The River Track | spotify:track:33chetHTBLGFMHiYo4eFz3 | STRANGE GAIT Run 158 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

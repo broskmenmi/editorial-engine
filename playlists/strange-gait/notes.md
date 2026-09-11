@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 158 — EXPLORE — alternating pressure before transformation
+
+Cooly G — *Same Way* is added after *Truth in Noise* and before *U Belong 2 Me*. Goon Club Allstars describes the exact track as a heads-down funky speaker-pounder in which skittering drums and bass tones take turns delivering body blows. The track passes the selection lens and, at this placement, turns consolidated groove into alternating physical pressure that *U Belong 2 Me* must transform through its existing four-on-the-floor-to-funereal threshold. The five-track run `Elemental Dream → Truth in Noise → Same Way → U Belong 2 Me → Transparency` remains legible across a character change, and the long-form journey gains one compact pressure articulation without imposing a summit or wave. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative after *Capa* is rejected only because it mediates the direct left turn into *Sarniezz*.
+
+Neana — *Laced-X* and Swimming Pools of the World — *The River Track* pass the selection lens and remain genuinely interesting, but fail their tested placements. *Laced-X* adds a second mutation between *Never Met*'s electronic re-entry and *Trompe L'oeil*'s existing reset, or postpones the late liminal corridor after *Stardancer*. *The River Track* inserts a complete urgent surface/depth oscillation after *Can I live*'s restrained reopening or after the protected block; both placements over-articulate the closing passage and reduce downstream consequence.
+
+The matching schemaVersion 2 resolver snapshot is internally valid and `PARTIAL`: 9 requested, 7 exact resolutions, 3 selected candidates, 4 exact unselected alternates, 2 unresolved identities, 6 metadata warnings, and no duplicates, substitutions, relinkings or technical failures. The unresolved errors and every warning are preserved in `discoveries.md`.
+
+Auditor approves one canonical ADD, the scoped alternative rejection for *Same Way*, two placement-specific REJECT decisions, all local inspiration updates and three global utility additions. STRANGE GAIT becomes 45 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 340 tracks. The protected `Transparency → When We Froze → Stardancer` internal order is untouched.
+
 ## Run 157 — EXPLORE — shifting footing must change the consequence
 
 No canonical track is added. Genichiro — *Surface* and *Reflection*, and Surgeon — *Forgotten Gods*, pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
