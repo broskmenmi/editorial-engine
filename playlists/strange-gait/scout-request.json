@@ -1,55 +1,55 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-11T09:52:19Z-explore-148",
-  "sourceCommit": "53af051a2fd526d2aa351cf749e3b0416a8fab3c",
+  "runId": "2026-09-11T10:52:37Z-explore-149",
+  "sourceCommit": "96ce1ee4ddd0527a43dd50f978b3f8e8a5c498db",
   "mode": "EXPLORE",
   "target": {
-    "role": "Fresh whole-journey discovery after the resolver-yield repair closed successfully in Run 147",
-    "position": "Whole 40-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. The constitution is a selection lens, and different production worlds or conspicuous turns may pass only when transition, local-run and long-form consequences make sense.",
-    "purpose": "Explore one overlooked rhythm-first catalogue and two current 2026 techno/avant-garde releases without recycling Run 147 foodman/Aphex alternates or recent unresolved fields."
+    "role": "Fresh whole-journey discovery after Run 148 added an agitation-to-reassembly hinge and left no actionable repair",
+    "position": "Whole 41-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. The constitution remains a selection lens, and contrast may pass only when transition, local-run and long-form consequences are deliberate.",
+    "purpose": "Explore Gold Panda's current fast rough-hewn house constructions, the adjacent Studio Barnhus window, and 96 Back's overlooked compact techno/electro catalogue without recycling Run 148 or other recent fields."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-11T09:52:19Z",
-    "approximateInspectedScope": "Approximately 55 named tracks, releases and catalogue references across September 2026 current-review feeds, Bandcamp's August 2026 electronic survey and adjacent release pages, Anastasia Kristensen and Principleasure 2026 catalogues, and RRUCCULLA's overlooked SHuSH catalogue; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-11T10:52:37Z",
+    "approximateInspectedScope": "Approximately 58 named tracks, releases and catalogue references across September 2026 current-review and staff-pick feeds, Gold Panda's June 2026 TON UP and adjacent Studio Barnhus paths, and 96 Back's overlooked 2021 9696 Dream catalogue; attributed criticism and release metadata only; no audio audition.",
     "exclusions": [
-      "Run 147's foodman decisions and resolved Aphex Twin alternates were not recycled.",
-      "Recent Run 139–146 unresolved or decided DJ Phil, KAY BE, BEAM WONG, chimp!, CoKi, Picture, Stenny, Andrea, JWords, Plaid and Four Tet material was excluded by repository freshness checks.",
-      "Tracks with only title, duration or release-level framing remain lower-ranked resolution leads and cannot receive musical verdicts unless selected exact identities gain adequate candidate-specific evidence.",
+      "Run 148 RRUCCULLA decisions and Anastasia Kristensen / Principleasure alternates were not recycled.",
+      "Recent Run 139–148 Carmen Villain, Djrum, Miimii KDS, foodman, Picture, Stenny, Andrea, JWords, Plaid, Four Tet and RRUCCULLA fields were excluded by repository freshness checks.",
+      "Tracks supported only by generic current-release metadata, prestige or broad genre framing were inspected but did not clear the lead floor.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. RRUCCULLA — Té de Cabello Blanco",
-      "2. RRUCCULLA — Intro coma 绿茶",
-      "3. RRUCCULLA — Miel Oscura",
-      "4. Anastasia Kristensen — Hydraulic Whale",
-      "5. Anastasia Kristensen — Secretary Bird",
-      "6. Anastasia Kristensen — Bestiarium Sombre",
-      "7. Principleasure — Storung",
-      "8. Principleasure — System 100",
-      "9. Principleasure — Evol"
+      "1. 96 Back — 9696 Dream",
+      "2. Gold Panda — DING THE MOTOR",
+      "3. 96 Back — Freepass For Them",
+      "4. Gold Panda — LIFE IS HARD OFF",
+      "5. Gold Panda — LOSER MENTALITY",
+      "6. 96 Back — Phone",
+      "7. 96 Back — Hide_NGroove",
+      "8. 96 Back — RJam for Harp",
+      "9. Gold Panda — Cut Funk"
     ],
     "sourceWindows": [
-      "CURRENT WINDOW: Anastasia Kristensen's May 2026 Bestiarium Sombre supplied three exact-title candidates from a dance-oriented avant-garde / experimental-techno album. https://anastasiakristensen.bandcamp.com/album/bestiarium-sombre",
-      "CURRENT / ADJACENT WINDOW: Principleasure's May 2026 III supplied three exact-title candidates from a cinematic dark-techno release. https://principleasure.bandcamp.com/album/iii",
-      "OVERLOOKED CATALOGUE WINDOW: RRUCCULLA's 2018 SHuSH supplied three exact tracks with candidate-specific descriptions of odd-time live drumming, reassembling breaks and atomized trance motion. https://pitchfork.com/reviews/albums/rrucculla-shush/",
-      "FRESHNESS CHECK: repository searches found no durable prior record for RRUCCULLA, Anastasia Kristensen or Principleasure exact candidates; recent reused fields were excluded."
+      "CURRENT WINDOW: Gold Panda's June 2026 TON UP supplied four exact tracks whose review documents rough-hewn 140-BPM house blocks, loosened hand percussion and several candidate-specific development moves. https://pitchfork.com/reviews/albums/gold-panda-ton-up/",
+      "ADJACENT / EMERGING WINDOW: Studio Barnhus and the June–September 2026 electronic-release field were inspected around TON UP; bare label adjacency and currentness were not treated as sufficient lead evidence. https://pitchfork.com/news/gold-panda-readies-new-album-ton-up/",
+      "OVERLOOKED CATALOGUE WINDOW: 96 Back's 2021 9696 Dream supplied five compact exact-title tracks with candidate-specific descriptions of pivoting grooves, downbeat/electro hybrids and directional rug-pulls. https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "FRESHNESS CHECK: repository searches found no durable prior record for Gold Panda or 96 Back exact candidates; recent reused fields were excluded."
     ]
   },
   "leads": [
     {
-      "artist": "RRUCCULLA",
-      "track": "Té de Cabello Blanco",
-      "album": "SHuSH",
-      "releaseDate": "2018-10-30",
+      "artist": "96 Back",
+      "track": "9696 Dream",
+      "album": "9696 Dream",
+      "releaseDate": "2021-04-23",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rrucculla-shush/",
-      "fitHypothesis": "Pitchfork describes the exact track beginning with stuttering breaks and an atonal topline, then changing halfway as piano chords and a reassuring bassline take the edge off the agitation—an explosion apparently reassembling in reverse.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "fitHypothesis": "Pitchfork describes the title track beginning with silky pads, tightening around a juddering spring-loaded arpeggio, then stopping and changing direction about two-thirds through.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track beginning with stuttering breaks and an atonal topline, then changing halfway as piano chords and a reassuring bassline take the edge off the agitation—an explosion apparently reassembling in reverse.",
+        "attributedDescription": "Pitchfork describes the title track beginning with silky pads, tightening around a juddering spring-loaded arpeggio, then stopping and changing direction about two-thirds through.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a track that reassembles itself can make an existing successor newly consequential rather than supplying a complete recovery twice.",
+        "editorialInterpretation": "Test whether an internally redirected compact form can make an existing production-world turn feel earned rather than add another complete reset.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -58,169 +58,19 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test a documented agitation-to-reassembly arc between dissolution and temporal opposition.",
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "purpose": "Test a documented pad-to-arpeggio redirection before the rumble-to-weight threshold.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
         },
-        {
-          "position": "Between Drummz and Ikoyi",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "purpose": "Test self-reassembly after unpredictable percussion before foreground dissolution.",
-          "candidateBpm": null,
-          "incomingBpm": 138,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "RRUCCULLA",
-      "track": "Intro coma 绿茶",
-      "album": "SHuSH",
-      "releaseDate": "2018-10-30",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rrucculla-shush/",
-      "fitHypothesis": "Pitchfork describes the 1:24 opener as a showdown between blocky piano chords and RRUCCULLA's livewire drumming.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the 1:24 opener as a showdown between blocky piano chords and RRUCCULLA's livewire drumming.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a compact acoustic/electronic confrontation can clarify a production-world pivot without becoming a self-contained novelty interlude.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test a compact live-drumming confrontation after the live-band left turn before foreground transit.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "purpose": "Test a short blocky-piano/livewire-drum interruption between dubwise reset and rolling formation.",
-          "candidateBpm": null,
-          "incomingBpm": 130,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "RRUCCULLA",
-      "track": "Miel Oscura",
-      "album": "SHuSH",
-      "releaseDate": "2018-10-30",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/rrucculla-shush/",
-      "fitHypothesis": "Pitchfork describes the exact 3:09 track as seasick, built from atomized trance stabs and undulating shrieks.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact 3:09 track as seasick, built from atomized trance stabs and undulating shrieks.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a concise perceptual tilt can deepen a local passage or merely add another complete instability premise.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Fulledge (Empty-40 Mix) and Capa",
-          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "purpose": "Test a concise seasick tilt after dissolution before rhythmic redirection.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 137
-        },
-        {
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "purpose": "Test atomized trance-stab instability after cross-rhythmic conflict before funk re-grounding.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 139
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Anastasia Kristensen",
-      "track": "Hydraulic Whale",
-      "album": "Bestiarium Sombre",
-      "releaseDate": "2026-05-08",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://anastasiakristensen.bandcamp.com/album/bestiarium-sombre",
-      "fitHypothesis": "Bandcamp verifies the exact 4:09 identity inside Kristensen's current dance-oriented avant-garde album, described at release level as a kaleidoscopic set of techno, ambient and electronic specimens.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 4:09 identity inside Kristensen's current dance-oriented avant-garde album, described at release level as a kaleidoscopic set of techno, ambient and electronic specimens.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a current exact identity whose candidate-specific direction and endpoint remain unknown; do not infer them from album framing.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "purpose": "If resolved, test only with further candidate-specific evidence; current release framing cannot establish the handoffs.",
-          "candidateBpm": null,
-          "incomingBpm": 135,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Anastasia Kristensen",
-      "track": "Secretary Bird",
-      "album": "Bestiarium Sombre",
-      "releaseDate": "2026-05-08",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://anastasiakristensen.bandcamp.com/album/bestiarium-sombre",
-      "fitHypothesis": "Bandcamp verifies the exact 2:17 identity inside Kristensen's current dance-oriented avant-garde album; individual rhythmic development and endpoint are not described.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 2:17 identity inside Kristensen's current dance-oriented avant-garde album; individual rhythmic development and endpoint are not described.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a concise current candidate without converting duration, title or album genre into a musical verdict.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
         {
           "position": "Between Never Met and Trompe L'oeil",
           "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "If resolved, test only with further candidate-specific evidence; current release framing cannot establish reset or transit.",
+          "purpose": "Test a compact late direction change between passing foreground and dubwise reset.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": 130
@@ -229,19 +79,19 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "Anastasia Kristensen",
-      "track": "Bestiarium Sombre",
-      "album": "Bestiarium Sombre",
-      "releaseDate": "2026-05-08",
+      "artist": "Gold Panda",
+      "track": "DING THE MOTOR",
+      "album": "TON UP",
+      "releaseDate": "2026-06-26",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://anastasiakristensen.bandcamp.com/album/bestiarium-sombre",
-      "fitHypothesis": "Bandcamp verifies the exact 4:48 title-track identity inside a current experimental-techno album; candidate-specific direction and endpoint are not described.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gold-panda-ton-up/",
+      "fitHypothesis": "Pitchfork describes an extended breakdown, a return to the main groove, a tease of floating chords and then an abrupt beat slam.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 4:48 title-track identity inside a current experimental-techno album; candidate-specific direction and endpoint are not described.",
+        "attributedDescription": "Pitchfork describes an extended breakdown, a return to the main groove, a tease of floating chords and then an abrupt beat slam.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the title track as a research lead while preserving unknown transition and long-form consequences.",
+        "editorialInterpretation": "Test whether a breakdown-and-restart move can sharpen an existing passage without pre-empting the following track's development.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -250,31 +100,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Eyes of the Wind and Nukumori",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "If resolved, test only with further exact-track evidence; no closing-passage role is assumed.",
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "purpose": "Test abrupt beat return after rolling formation before broken-beat deformation.",
           "candidateBpm": null,
           "incomingBpm": null,
-          "outgoingBpm": null
+          "outgoingBpm": 138
+        },
+        {
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test a breakdown-and-slam contrast after funk re-grounding before crooked accumulation.",
+          "candidateBpm": null,
+          "incomingBpm": 139,
+          "outgoingBpm": 136
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Principleasure",
-      "track": "Storung",
-      "album": "III",
-      "releaseDate": "2026-05-22",
+      "artist": "96 Back",
+      "track": "Freepass For Them",
+      "album": "9696 Dream",
+      "releaseDate": "2021-04-23",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://principleasure.bandcamp.com/album/iii",
-      "fitHypothesis": "Bandcamp verifies the exact 8:20 opener on a current album framed as cinematic dark techno with warehouse-ready beats and vocal samples; the individual track's direction and endpoint are not described.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "fitHypothesis": "Pitchfork describes an insistent groove that pivots to a chilly square-wave melody while the rhythm remains unrelenting beneath soft static.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 8:20 opener on a current album framed as cinematic dark techno with warehouse-ready beats and vocal samples; the individual track's direction and endpoint are not described.",
+        "attributedDescription": "Pitchfork describes an insistent groove that pivots to a chilly square-wave melody while the rhythm remains unrelenting beneath soft static.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a long-form current techno candidate without treating duration or album framing as proof of journey need.",
+        "editorialInterpretation": "Test whether preserved drive through a melodic pivot can bridge contrasting production worlds without becoming mere continuity.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -286,28 +145,37 @@
           "position": "Between Too Much Time and Moonwake",
           "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "purpose": "If resolved, test only with candidate-specific evidence; no long-build or handoff claim is made.",
+          "purpose": "Test an unrelenting groove and square-wave pivot between physical widening and intensification.",
           "candidateBpm": null,
           "incomingBpm": 140,
           "outgoingBpm": 140
+        },
+        {
+          "position": "Between Truth in Noise and U Belong 2 Me",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "purpose": "Test sustained rhythmic insistence before the four-on-the-floor-to-funereal threshold.",
+          "candidateBpm": null,
+          "incomingBpm": 138,
+          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Principleasure",
-      "track": "System 100",
-      "album": "III",
-      "releaseDate": "2026-05-22",
+      "artist": "Gold Panda",
+      "track": "LIFE IS HARD OFF",
+      "album": "TON UP",
+      "releaseDate": "2026-06-26",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://principleasure.bandcamp.com/album/iii",
-      "fitHypothesis": "Bandcamp verifies the exact 5:24 current techno identity; available evidence is release-level only and does not establish its individual rhythmic development or exit.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gold-panda-ton-up/",
+      "fitHypothesis": "Pitchfork describes the drums occasionally stumbling as though turntables jumped from booth vibration, within the album's compact rough-hewn house framework.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 5:24 current techno identity; available evidence is release-level only and does not establish its individual rhythmic development or exit.",
+        "attributedDescription": "Pitchfork describes the drums occasionally stumbling as though turntables jumped from booth vibration, within the album's compact rough-hewn house framework.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a current techno track as an honest lead while keeping every felt and structural property unknown.",
+        "editorialInterpretation": "Test whether momentary destabilization inside a regular framework gives a following left turn useful preparation.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -316,31 +184,31 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "purpose": "If resolved, test only after candidate-specific evidence; no transition benefit is assumed.",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test brief drum-stumble preparation before the live-band pulse illusion.",
           "candidateBpm": null,
-          "incomingBpm": 134,
-          "outgoingBpm": 135
+          "incomingBpm": 137,
+          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Principleasure",
-      "track": "Evol",
-      "album": "III",
-      "releaseDate": "2026-05-22",
+      "artist": "Gold Panda",
+      "track": "LOSER MENTALITY",
+      "album": "TON UP",
+      "releaseDate": "2026-06-26",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://principleasure.bandcamp.com/album/iii",
-      "fitHypothesis": "Bandcamp verifies the exact 3:20 identity on a current cinematic dark-techno album; a listener comment calls it a favorite, but no candidate-specific structural evidence is available.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gold-panda-ton-up/",
+      "fitHypothesis": "Pitchfork describes two slightly out-of-tune stabs juggled through quick cuts over the album's skeletal forward-driving rhythm.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Bandcamp verifies the exact 3:20 identity on a current cinematic dark-techno album; a listener comment calls it a favorite, but no candidate-specific structural evidence is available.",
+        "attributedDescription": "Pitchfork describes two slightly out-of-tune stabs juggled through quick cuts over the album's skeletal forward-driving rhythm.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a concise current candidate without mistaking listener preference or album genre for canonical fit.",
+        "editorialInterpretation": "Test whether oscillating harmonic/rhythmic blocks deepen an existing transition or merely add another self-contained tension device.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -349,13 +217,145 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "If resolved, test only with candidate-specific evidence; no hinge function is inferred.",
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test quick-cut block tension before crooked accumulation.",
           "candidateBpm": null,
-          "incomingBpm": 140,
-          "outgoingBpm": 138
+          "incomingBpm": 139,
+          "outgoingBpm": 136
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "96 Back",
+      "track": "Phone",
+      "album": "9696 Dream",
+      "releaseDate": "2021-04-23",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "fitHypothesis": "Pitchfork describes glistening Japanese ambient-techno timbres paired with the desiccated downbeat of Detroit's Urban Tribe.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes glistening Japanese ambient-techno timbres paired with the desiccated downbeat of Detroit's Urban Tribe.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test an adjacent-world hybrid as a deliberate redirection without assuming atmosphere, energy or exact exit behavior.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "purpose": "Test a glistening/desiccated hybrid after dissolution before rhythmic redirection.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 137
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "96 Back",
+      "track": "Hide_NGroove",
+      "album": "9696 Dream",
+      "releaseDate": "2021-04-23",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "fitHypothesis": "Pitchfork describes neon-tinged synths flashing around a four-on-the-floor kick with a damaged, lumpy groove.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes neon-tinged synths flashing around a four-on-the-floor kick with a damaged, lumpy groove.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a documented lumpy four-on-the-floor formation can make a reset more deliberate without duplicating it.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test damaged four-on-the-floor formation before the dubwise staggered-swing reset.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 130
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "96 Back",
+      "track": "RJam for Harp",
+      "album": "9696 Dream",
+      "releaseDate": "2021-04-23",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/96-back-9696-dream/",
+      "fitHypothesis": "Pitchfork describes blippy grime synths smoothed into a slippery electro jam; individual direction and endpoint are not documented.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes blippy grime synths smoothed into a slippery electro jam; individual direction and endpoint are not documented.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve an overlooked exact hybrid while preserving candidate-specific direction and endpoint as unknown.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "purpose": "If selected, test whether slippery electro changes the closing afterword or merely pre-empts it.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Gold Panda",
+      "track": "Cut Funk",
+      "album": "TON UP",
+      "releaseDate": "2026-06-26",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/gold-panda-ton-up/",
+      "fitHypothesis": "Pitchfork verifies the exact title within a current album of compact rough-hewn house constructions built from skeletal drums, hand-percussion loops and rearranged rhythmic blocks; candidate-specific direction is not described.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork verifies the exact title within a current album of compact rough-hewn house constructions built from skeletal drums, hand-percussion loops and rearranged rhythmic blocks; candidate-specific direction is not described.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve a current exact identity without treating album-level rhythmic framing as a placement verdict.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "purpose": "If selected, test only with candidate-specific evidence; no funk or transition claim is inferred from the title.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
