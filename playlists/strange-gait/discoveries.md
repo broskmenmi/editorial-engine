@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 147 — REPAIR — resolver-yield recovery with one consequential closing flare — 2026-09-11
+
+**Pre-audit:** REPAIR. STRANGE GAIT entered at 39 unique canonical tracks with matching annotations, journey map and COMPLETE receipt; EDITORIAL ENGINE — DISCOVERY POOL entered at 308 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact and no current TRIGGERED revisit or listener repair existed. However, exact resolution declined across completed Runs 143–146: 6/9 → 4/9 → 2/9 → 0/9. Auditor classified that as an actionable Scout process defect. A stale ledger footer also still said “thirty-eight” and omitted Run 145's *FELT* from the tempo trajectory.
+
+### Repair exploration receipt
+
+Run `2026-09-11T08:48:38Z-repair-147` inspected approximately 49 named tracks, releases and catalogue references across current Pitchfork Selects, Foodman's 2026 Hyperdub album, Carmen Villain's current Smalltown Supersound album, Aphex Twin's Warp catalogue and adjacent strongly distributed fields. Seven honest leads survived (14.3%). Run 146's unresolved identities were not retried without new evidence; current tracks with thin candidate-specific descriptions and all prior durable decisions were excluded. The immutable request was pinned to `a784449babd2f62fd498e77d1c672142df190177` in `d48156223ab4ede13dec7902264471e44467f89a`. Matching snapshot fingerprint: `876dffc3f846d81e1b641f5fc1168112e8c0330910e05cc439ed4da7c40665b5`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: COMPLETE`: 7 requested, 7 resolved, 3 selected candidates, 4 resolved alternates, no unresolved identities, duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. foodman — *Kokizami* — `spotify:track:5TBC1jlDhTwF5Eal6rpa7R`; *HIKARIGASASHIKOMU*; 2026-07-24; 4:42; BPM unavailable.
+2. foodman — *Nukumori* — `spotify:track:0QNuxTFGRqgcNrcuomQory`; *HIKARIGASASHIKOMU*; 2026-07-24; 3:20; BPM unavailable.
+3. foodman — *Nakamamo* — `spotify:track:03t1aJP2Uyh06tqtTt5gHY`; *HIKARIGASASHIKOMU*; 2026-07-24; 2:34; BPM unavailable.
+
+Resolved but unselected and unevaluated:
+
+- Aphex Twin — *4* — `spotify:track:7yhDdQt66YaCfjlKjYjZKd`
+- Aphex Twin — *Carn Marth* — `spotify:track:6NUek1MOnYEFKS9JgWpKXu`
+- Aphex Twin — *Girl/Boy Song* — `spotify:track:2w6AYp7c3d4D3hbOISz0i0`
+- Aphex Twin — *To Cure A Weakling Child* — `spotify:track:1jNd1HqFj9yZlDgdkpddkm`
+
+Warnings preserved exactly:
+
+- *Kokizami*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-24"`
+- *Nukumori*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-24"`
+- *Nakamamo*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-24"`
+- *4*: `Exact title/artist matched with release metadata variance: release date requested "1996" but Spotify returned "1996-11-04"`
+- *Carn Marth*: `Exact title/artist matched with release metadata variance: release date requested "1996" but Spotify returned "1996-11-04"`
+- *Girl/Boy Song*: `Exact title/artist matched with release metadata variance: release date requested "1996" but Spotify returned "1996-11-04"`
+- *To Cure a Weakling Child*: `Exact title/artist matched with release metadata variance: release date requested "1996" but Spotify returned "1996-11-04"`
+
+### Candidate evaluations
+
+#### foodman — Nukumori — ADD after Eyes of the Wind
+
+- **Volume fit:** PASS. Pitchfork's exact-track account identifies an explosion into spidery remnants of happy hardcore, a clear instance of recognizable rhythmic material losing its fixed form.
+- **Immediate transition:** PASS provisionally at `Eyes of the Wind → Nukumori → Rabbit Hole`. The move from liminal percussion into a brief conspicuous flare and then dead-space descent is deliberately articulated on paper. Exact entry, exit, perceived pulse, density, phrasing and mixability remain unknown.
+- **Surrounding run:** PASS provisionally. `Stardancer → Eyes of the Wind → Nukumori → Rabbit Hole → Invisible Warriors Of Light` lets the protected block close, crosses liminal percussion, erupts briefly, descends, then rebuilds as electro-soul.
+- **Long-form effect:** PASS. The 3:20 insertion creates a late counter-event rather than another summit, and gives *Rabbit Hole* a specific aftermath to descend from.
+- **Alternative placement:** REJECT only at `Tehutis Law → candidate → Pulse I`; the complete explosion pre-empts *Pulse I*'s crooked accumulation.
+
+#### foodman — Kokizami — PARKED
+
+- **Volume fit:** PASS. First-half sound design threatening to tear itself apart fits the selection lens.
+- **Immediate transition:** UNKNOWN at both placements because the source does not describe the later direction or endpoint.
+- **Surrounding run:** UNKNOWN. It could deepen conflict after *LOVE YOUR ENEMIES* or compound *Carried*'s rupture without changing the successor.
+- **Long-form effect:** UNKNOWN. At 4:42 it is not disproportionate by duration alone, but its downstream consequence is undocumented.
+- **Verdict:** PARKED for materially richer endpoint evidence or changed structural need.
+
+#### foodman — Nakamamo — PARKED
+
+- **Volume fit:** PROVISIONAL PASS. The exact deep chord and album's footwork-derived context support serious consideration without proving rhythmic behavior.
+- **Immediate transition:** UNKNOWN at both placements; atmosphere does not establish direction or handoff.
+- **Surrounding run:** UNKNOWN. It could form a threshold after *Fulledge* or deepen late suspension, but could equally stall or duplicate those passages.
+- **Long-form effect:** UNKNOWN. Its 2:34 duration is concise, but brevity and atmosphere do not establish journey consequence.
+- **Verdict:** PARKED for exact-track direction/endpoint evidence or changed structural need.
+
+### Auditor gate and durable result
+
+Auditor approves one canonical ADD, two PARKED revisits, retention of all three selected exact tracks as genuinely interesting, and the resolver-process correction. STRANGE GAIT becomes 40 tracks; the protected order remains intact. EDITORIAL ENGINE — DISCOVERY POOL becomes 311 tracks. The four Aphex Twin alternates remain exact but unselected and unevaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all new handoffs remain unknown. Audio analysis and live mixing were not performed.
+
+### Run analysis
+
+`~49 inspected → 7 leads → 7 exact resolutions → 3 evaluations + 4 alternates → 1 ADD + 2 PARKED → 3 utility additions`
+
+Inspection-to-lead conversion: 14.3%. Lead-to-resolution conversion: 100%. Selected-candidate-to-ADD conversion: 33.3%.
+
+Across Runs 87–147: 537 leads from approximately 2,940 inspections; 25 ADDs from 163 selected candidates. The recent completed-run ADD rate remains 4/10. Run 147 ends the one-run no-ADD streak after Run 145. The repair restores exact resolution from 0/9 to 7/7 without lowering the musical bar; two of three selected candidates remain parked.
+
+
+
 ## Run 146 — EXPLORE — fresh rhythmic fields remain unresolved in Spotify SE — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 39 unique canonical tracks with 39 matching annotations, a matching journey map and a COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 308 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.

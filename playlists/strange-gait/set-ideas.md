@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 147 — A brief flare can turn descent into aftermath
+
+**Direction:** Explore concise rhythmic eruptions whose residue gives an existing descent or reset a concrete cause, while parking tracks whose source evidence describes only an opening gesture or atmosphere.
+
+**Ingredients:**
+
+- foodman — *Nukumori* — exact canonical ADD after *Eyes of the Wind*; an explosion into spidery happy-hardcore remnants is documented.
+- foodman — *Kokizami* and *Nakamamo* — exact PARKED discoveries; first-half near-disintegration and deep-chord atmosphere remain useful, but their endpoints are unknown.
+- Aphex Twin — *4*, *Carn Marth*, *Girl/Boy Song* and *To Cure A Weakling Child* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** A conspicuous late left turn need not become a summit; if its residue changes the meaning of the following descent, the local and long-form move can remain intentional.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and both new handoffs remain unknown. This is a set direction, not a proven live-mixing edge.
+
+
+
 ## Run 146 — Multiplication and club-language pivots need exact identity
 
 **Direction:** Explore rhythmic constructions that multiply, reverse, dissolve or switch club language only where an exact identity can support separate transition, local-run and long-form testing.

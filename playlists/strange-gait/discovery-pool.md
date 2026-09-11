@@ -1,5 +1,20 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 147 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | foodman | Nukumori | https://open.spotify.com/track/0QNuxTFGRqgcNrcuomQory | Canonical ADD after *Eyes of the Wind*; happy-hardcore-remnant flare remains independently interesting. Date variance preserved. |
+| EXACT TRACK | foodman | Kokizami | https://open.spotify.com/track/5TBC1jlDhTwF5Eal6rpa7R | PARKED for missing later direction/endpoint evidence; first-half near-disintegration remains genuinely interesting. Date variance preserved. |
+| EXACT TRACK | foodman | Nakamamo | https://open.spotify.com/track/03t1aJP2Uyh06tqtTt5gHY | PARKED for missing rhythmic direction/endpoint evidence; deep-chord dystopic atmosphere remains genuinely interesting. Date variance preserved. |
+| RESOLVED ALTERNATES | Aphex Twin | 4; Carn Marth; Girl/Boy Song; To Cure A Weakling Child | spotify:track:7yhDdQt66YaCfjlKjYjZKd ; spotify:track:6NUek1MOnYEFKS9JgWpKXu ; spotify:track:2w6AYp7c3d4D3hbOISz0i0 ; spotify:track:1jNd1HqFj9yZlDgdkpddkm | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. Date variances preserved. |
+| CURRENT / LABEL WATCH | foodman / Hyperdub | HIKARIGASASHIKOMU | https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/ | Short-form disintegration, hardcore remnants and deep-chord atmosphere remain useful current research paths. |
+| CATALOGUE WATCH | Aphex Twin / Warp | Richard D. James Album | https://pitchfork.com/reviews/albums/aphex-twin-richard-d-james-album/ | Childlike melody against blitzing or disjointed drums remains an exact, strongly distributed catalogue field. |
+
+Editorial boundary: *Nukumori* is canonical only at the approved placement; *Kokizami* and *Nakamamo* are PARKED, while the four alternates were not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all proposed handoffs remain unknown.
+
+
+
 ## Run 146 harvest — 2026-09-11
 
 | Kind | Artist / field | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 147 — REPAIR — resolver yield restored without weakening musical admission
+
+foodman — *Nukumori* is added between *Eyes of the Wind* and *Rabbit Hole*. Pitchfork documents the exact track exploding into spidery remnants of happy hardcore. The five-track close `Stardancer → Eyes of the Wind → Nukumori → Rabbit Hole → Invisible Warriors Of Light` now moves from the protected block through liminal percussion into a concise flare, then dead-space descent and electro-soul re-formation. The 3:20 insertion makes *Rabbit Hole* an aftermath rather than an isolated second descent. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.
+
+*Kokizami* and *Nakamamo* are PARKED. *Kokizami*'s first-half near-disintegration establishes volume fit but not its endpoint; *Nakamamo*'s impossibly deep chord establishes atmosphere but not direction or what a successor must do. Neither receives a musical rejection.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: COMPLETE`: seven exact resolutions, three selected candidates, four exact alternates, seven preserved metadata warnings and no unresolved identities, duplicates, substitutions, relinkings or technical failures. The process repair restores resolver yield from Run 146's 0/9 to 7/7 without relaxing the canonical bar. The stale canonical-count sentence and measured-tempo footer were also corrected to include Run 145's *FELT* and Run 147's *Nukumori*; no BPM was invented.
+
+
+
 ## Run 145 — EXPLORE — rolling formation can deepen a reset
 
 JWords — *FELT* is added between *Trompe L'oeil* and *Thick to Handle*. Pitchfork documents a sticky groove built from rolling percussion and ringing synths. The five-track run `Never Met → Trompe L'oeil → FELT → Thick to Handle → LOVE YOUR ENEMIES` now moves from foreground transit through dubwise reset and concise rolling formation into broken-beat deformation and cross-rhythmic conflict. The 2:43 insertion is a proportional bridge, not a demand for one sonic room or a new chapter role.
