@@ -290,7 +290,6 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 284 | Ricardo Villalobos | Sieso | spotify:track:6zNThyM5cw73k9b1SVuKX6 | STRANGE GAIT Run 137 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 285 | Vladislav Delay | Rampa | spotify:track:3QlP0qFKnOpRZOQ0Gid6DV | STRANGE GAIT Run 137 | Placement-specific REJECT / interesting | 2026-09-10 |
 | 286 | Vladislav Delay | Raataja | spotify:track:5zLxgXlxNvKbzWSrEcPrTF | STRANGE GAIT Run 137 | ADD / interesting | 2026-09-10 |
-
 | 287 | Martyn, Mark Cisneros | Whiplashed | spotify:track:2fazuV8dHjCS0RuxrfXbRL | STRANGE GAIT Run 138 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 288 | Tyler Friedman | Jlaljar | spotify:track:4IGTpOd4dLivxNyhuR0yKJ | STRANGE GAIT Run 138 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 289 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | STRANGE GAIT Run 138 | ADD / interesting | 2026-09-11 |
