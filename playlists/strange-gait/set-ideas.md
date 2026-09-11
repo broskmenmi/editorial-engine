@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 145 — Rolling formation between reset and deformation
+
+**Direction:** Explore concise rolling or stable formations that make a move between reset and deformation feel intentional, while rejecting extra re-entry stages that merely perform a successor's existing work.
+
+**Ingredients:**
+
+- JWords — *FELT* — exact canonical ADD after *Trompe L'oeil*; sticky groove, rolling percussion and ringing synths are documented.
+- JWords — *Gr8ful* — exact placement-specific reject; steady thump, spacey melodies and clicking drums remain useful outside the tested duplicate-re-entry positions.
+- Topdown Dialectic — *11*, *05* and *03*; Nondi_ — *Death Juke*; Skrillex, Blawan, Randomer — *Thistle*; Bonobo, Nicole Miglis — *Talk to Me* — unresolved exact-title research leads.
+- Nondi_ — *For Bluetooth Speakers Only* — persistent duplicate outcome, not newly evaluated.
+
+**Why interesting:** A character change can be curated by a short intermediate formation without demanding sonic sameness, an invisible transition or a new chapter role.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and all proposed handoffs remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
+
 ## Run 144 — Groove character must produce downstream consequence
 
 **Direction:** Explore syncopated garage, stop/start polyrhythm and patient machine waltzes where the track's development or exit changes the successor's task, rather than admitting a self-contained groove because its gait is distinctive.

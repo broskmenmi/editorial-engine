@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 145 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | JWords | FELT | https://open.spotify.com/track/2Z8Zw8lZlhFXbmNbnlozPR | Canonical ADD after *Trompe L'oeil*; concise rolling percussion and ringing-synth formation remains independently interesting. Date variance preserved. |
+| EXACT TRACK | JWords | Gr8ful | https://open.spotify.com/track/1rYhcakbaVfOKBLzlMzYMy | Placement-specific REJECT only for the two Run 145 positions; steady thump, spacey melodies and clicking drums remain interesting elsewhere. Date variance preserved. |
+| UNRESOLVED / DUPLICATE | Topdown Dialectic; Nondi_; Skrillex, Blawan, Randomer; Bonobo, Nicole Miglis | 11; Death Juke; 05; For Bluetooth Speakers Only; Thistle; 03; Talk to Me | See discoveries.md exact errors | Five no-match outcomes, one ambiguous two-ID outcome and one persistent duplicate receive no musical verdict or new utility entry. |
+| CURRENT / ADJACENT WATCH | JWords / Sine Wave; Nondi_ / Planet Mu; Skrillex / Owsla; Bonobo / Ninja Tune | Sound Therapy; Nondi…; SOMA; Distance in Static | https://pitchfork.com/reviews/albums/jwords-sound-therapy ; https://pitchfork.com/reviews/albums/nondi-nondi ; https://pitchfork.com/reviews/albums/skrillex-soma ; https://pitchfork.com/reviews/albums/bonobo-distance-in-static | Rolling percussion, lo-fi juke mechanics, cross-scene bass rhythm and song-led club hybrid remain useful current fields. |
+| OVERLOOKED CATALOGUE WATCH | Topdown Dialectic / Peak Oil | False LP A | https://pitchfork.com/reviews/albums/topdown-dialectic-false-lp-a | Reduced repeating rhythm, deconstructed dub texture and surfacing/disappearing bass remain useful research directions; unresolved identities carry no verdict. |
+
+Editorial boundary: *Gr8ful* is rejected only in its two tested positions; the unresolved and duplicate outcomes were not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all new handoffs remain unknown.
+
+
 ## Run 144 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,14 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 145 — EXPLORE — rolling formation can deepen a reset
+
+JWords — *FELT* is added between *Trompe L'oeil* and *Thick to Handle*. Pitchfork documents a sticky groove built from rolling percussion and ringing synths. The five-track run `Never Met → Trompe L'oeil → FELT → Thick to Handle → LOVE YOUR ENEMIES` now moves from foreground transit through dubwise reset and concise rolling formation into broken-beat deformation and cross-rhythmic conflict. The 2:43 insertion is a proportional bridge, not a demand for one sonic room or a new chapter role.
+
+JWords — *Gr8ful* passes the selection lens and remains genuinely interesting, but fails only its two tested placements. Its steady thump would perform the electronic re-entry already assigned to *Never Met* after *Sarniezz*, or add another re-forming destination between *Rabbit Hole* and *Invisible Warriors Of Light*.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: two selected exact resolutions, six unresolved identities, one persistent duplicate, no alternates and two preserved metadata warnings. There were no substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+
 ## Run 144 — EXPLORE — groove character must produce downstream consequence
 
 No canonical track is added. Four Tet — *Parallel 4* is PARKED after both planned placements. Plaid — *Get What You Gave* and *B Born Droid* pass the selection lens and remain genuinely interesting, but fail only their two tested placements.

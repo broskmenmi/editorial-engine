@@ -1,5 +1,70 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 145 — EXPLORE — rolling formation can deepen a reset without becoming another destination — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 38 unique canonical tracks with 38 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 306 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 144 was the only completed run since Run 143's ADD, so no stagnation repair was actionable.
+
+### Exploration receipt
+
+Run `2026-09-11T06:49:30Z-explore-145` inspected approximately 61 named tracks, releases and catalogue references across Pitchfork's September 11 current electronic window, September 9 Bitchin Bajas and September 8 Selects windows, and current or overlooked JWords, Nondi_, Topdown Dialectic, Skrillex and Bonobo fields. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, utility discoveries, recently decided fields and unresolved leads without materially new identity evidence were excluded. Nine honest leads survived (14.8%). The immutable schemaVersion 2 request was pinned to `14c123e5318fce44534fc8747efa17524900fded` in `55e8fd950b0f96784ce6e1be26d9ed0be9e38c5d`. Matching snapshot commit: `c77f8ac3dc2e78f18d5f96734a9d3c3340b46e0c`; fingerprint `bbdcc21adefde73dcecd39284fd7b7271a4f01fb07a04df2944e50b0ddb5ce27`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 2 resolved selected candidates, 6 unresolved identities, 1 duplicate persistent-state outcome, no alternates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. JWords — *FELT* — `spotify:track:2Z8Zw8lZlhFXbmNbnlozPR`; 2:43; album *Sound Therapy*; Spotify date 2026-05-08; BPM unavailable.
+2. JWords — *Gr8ful* — `spotify:track:1rYhcakbaVfOKBLzlMzYMy`; 2:27; album *Sound Therapy*; Spotify date 2026-05-08; BPM unavailable.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-08"` — separately for JWords — *FELT* and *Gr8ful*.
+
+Unresolved or duplicate without musical verdict:
+
+- Topdown Dialectic — *11*: `no exact Spotify title/artist search match in market SE`.
+- Nondi_ — *Death Juke*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0rHKa21KoVWKxoFOBZdCfj, 2oOQRyEpz3H3nVh8lLO1CR)`.
+- Topdown Dialectic — *05*: `no exact Spotify title/artist search match in market SE`.
+- Nondi_ — *For Bluetooth Speakers Only*: `already present in persistent state`.
+- Skrillex, Blawan, Randomer — *Thistle*: `no exact Spotify title/artist search match in market SE`.
+- Topdown Dialectic — *03*: `no exact Spotify title/artist search match in market SE`.
+- Bonobo, Nicole Miglis — *Talk to Me*: `no exact Spotify title/artist search match in market SE`.
+
+### Candidate evaluations
+
+#### JWords — FELT — ADD
+
+- **Volume fit:** PASS. Pitchfork identifies a sticky groove built from rolling percussion and ringing synths, and characterizes JWords' instrumental arrangements as purposeful. This is exact-track rhythmic evidence, not an artist, novelty or genre proxy.
+- **Immediate transition:** PASS provisionally at `Trompe L'oeil → FELT → Thick to Handle`. The shared emphasis on staggered or rolling percussion makes the move from dubwise reset into broken-beat deformation deliberate on paper. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrasing and mixability remain UNKNOWN.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Never Met → Trompe L'oeil → FELT → Thick to Handle → LOVE YOUR ENEMIES` moves from foreground transit through dubwise reset and concise rolling formation into bodily deformation and cross-rhythmic conflict. The insertion develops the reset rather than introducing another unrelated proposition.
+- **Long-form journey:** PASS provisionally. At 2:43, the addition is proportionate inside a 38-track journey and deepens an existing central passage without touching the protected trio or requiring one production world.
+- **Verdict:** **ADD after Trompe L'oeil.** This is a best-evidence placement, not a claim of seamless mixing or a universal requirement that every track create a new chapter role.
+
+#### JWords — Gr8ful — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents a steady thump beneath spacey melodies and clicking drums.
+- **Immediate transition:** FAIL for the two tested positions only. After *Sarniezz*, the steady electronic return performs the re-entry already assigned to *Never Met*. After *Rabbit Hole*, it forms another destination before *Invisible Warriors Of Light* can deliver the established afterword.
+- **Surrounding three-to-five-track run:** FAIL for those positions. `Capa → Sarniezz → Gr8ful → Never Met → Trompe L'oeil` turns the live-band left turn into a two-step return before the reset; `Stardancer → Eyes of the Wind → Rabbit Hole → Gr8ful → Invisible Warriors Of Light` over-articulates the closing rebuild.
+- **Long-form journey:** NO NET GAIN at either tested placement. The concise track remains genuinely interesting, but neither position improves the live journey.
+- **Verdict:** **REJECT the two Run 145 placements only**, not the track globally. Exact direction, endpoint, BPM, perceived pulse, energy, density, space, phrasing, mixability and handoffs remain UNKNOWN; the verdict rests on the documented steady formation's proportional effect in those runs.
+
+### Auditor approval
+
+**APPROVED — 1 ADD, 1 placement-specific REJECT.** The fresh receipt covers current, adjacent/emerging and overlooked material with nine non-padding leads. The immutable request is pinned to the live pre-request SHA, and the matching PARTIAL snapshot preserves runId, sourceCommit, mode, target, fingerprint, both warnings, all six unresolved errors and the exact duplicate outcome. Only the two selected exact identities were evaluated, each separately at volume, immediate-transition, local-run and long-form scales. Unknown handoffs and missing BPM were neither converted into musical failure nor treated as proof. The *FELT* addition is supported by exact rhythmic material, a concise duration and a coherent live five-track run; the *Gr8ful* verdict is placement-specific. Feedback boundaries, live/canonical separation and the protected trio remain intact. Auditor approves the canonical ADD, local inspiration retention and two doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT increases **38 → 39 canonical tracks** with JWords — *FELT* after Wheelman — *Trompe L'oeil*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains both selected exact tracks, six unresolved leads, the duplicate outcome, current/adjacent watches and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **306 → 308 exact tracks**, adding *FELT* and *Gr8ful*.
+- Journey annotations add *FELT* as a provisional rolling-groove formation between reset and deformation; generated map outputs remain GitHub Actions' responsibility.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 2 exact resolutions + 6 unresolved + 1 duplicate → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. Inspection-to-lead conversion is **14.8%**, lead-to-resolution conversion **22.2%**, and selected-candidate-to-ADD conversion **50.0%**. Across Runs 87–145: **521 leads from approximately 2,834 inspections; 24 ADDs from 160 selected candidates**. The recent completed-run ADD rate is **5/10**; resolver-incomplete Run 133 remains excluded from longitudinal completed-run comparisons. Run 145 ends the one-completed-run no-ADD gap after Run 143. Low resolution reflects Spotify-SE absence, one archival-style ambiguity and one correctly detected persistent duplicate, not a technical resolver failure. The strongest counterargument is that *FELT* could be another percussion-led mediation in an already articulated central run. It passes proportionally because its concise rolling formation makes the reset-to-deformation move more gradual without pre-empting *Thick to Handle*'s broken-beat bodily function. The run does not prove exact handoff quality, perceived pulse, phrase fit, live mixability or playlist completion. No actionable REPAIR emerges.
+
+
 ## Run 144 — EXPLORE — groove character must produce downstream consequence — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 38 unique canonical tracks with 38 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 303 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 143 had just ended the prior four-run no-ADD streak, so no stagnation repair was actionable.
