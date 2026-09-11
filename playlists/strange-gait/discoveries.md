@@ -1,5 +1,81 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 148 — EXPLORE — reassembly before deliberate dissolution — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 40 unique canonical tracks with matching annotations, journey map and COMPLETE receipt; EDITORIAL ENGINE — DISCOVERY POOL entered at 311 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, unfinished publication defect or objective workflow defect existed. Run 147's resolver repair was closed, so the normal lane returned to EXPLORE.
+
+### Exploration receipt
+
+Run `2026-09-11T09:52:19Z-explore-148` inspected approximately 55 named tracks, releases and catalogue references across current September 2026 review feeds, Bandcamp's August 2026 electronic survey, Anastasia Kristensen's *Bestiarium Sombre*, Principleasure's *III*, RRUCCULLA's overlooked *SHuSH* and adjacent catalogues. Nine honest leads survived (16.4%). Run 147 foodman decisions and Aphex Twin alternates, recent Run 139–146 fields, prior canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing utility discoveries were excluded. The immutable request was pinned to `53af051a2fd526d2aa351cf749e3b0416a8fab3c` in `acc9de745e21ee9dc89861e3887a2596abc7916f`. Matching resolver snapshot commit: `7235be3e5863acac0001f7a02f3bf5262a168b7c`; fingerprint: `8db1d719f37d0801ec09c36c7206668043c97a9d10a98e18535afe533524a58c`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 8 resolved, 3 selected candidates, 5 resolved alternates and 1 unresolved identity.
+
+Selected exact identities:
+
+1. RRUCCULLA — *Té de Cabello Blanco* — `spotify:track:3G1MYH7RObW238TbgMXzHo`; *Shush*; 2018-10-30; 3:38; BPM unavailable.
+2. RRUCCULLA — *Intro coma 绿茶* — `spotify:track:3yH47e7EdZEhBbEoWSOwOK`; *Shush*; 2018-10-30; 1:24; BPM unavailable.
+3. RRUCCULLA — *Miel Oscura* — `spotify:track:76wV3MvBACgx2K7ONswvkS`; *Shush*; 2018-10-30; 3:09; BPM unavailable.
+
+Unresolved without musical verdict:
+
+- Principleasure — *System 100*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (60koqTCtxskrRDG6SpWg6M, 1XPsfuSvCGzIckStqcEGGT)`
+
+Resolved but unselected and unevaluated:
+
+- Anastasia Kristensen — *Hydraulic Whale* — `spotify:track:0ombBOhqNcxIxlsAb0Ev8S`
+- Anastasia Kristensen — *Secretary Bird* — `spotify:track:27gxUtaBnGW19vain4dvsi`
+- Anastasia Kristensen — *Bestiarium Sombre* — `spotify:track:7jtbX7JQKFef4cpJ2m2qO1`
+- Principleasure, Nur Nur — *Storung* — `spotify:track:2wnONMpUNP8kXZFoXAEgO9`
+- Principleasure — *Evol* — `spotify:track:0GGfhk55p4qZ8QZMdj6hNi`
+
+Warnings preserved exactly:
+
+- *Storung*: `Exact title/artist matched with release metadata variance: album requested "III" but Spotify returned "3"`
+- *Evol*: `Exact title/artist matched with release metadata variance: album requested "III" but Spotify returned "Evol"; release date requested "2026-05-22" but Spotify returned "2024-06-03"`
+
+There were no duplicates, substitutions, relinkings or technical failures.
+
+### Candidate evaluations
+
+#### RRUCCULLA — Té de Cabello Blanco — ADD after Drummz
+
+- **Volume fit:** PASS. The exact account documents unstable breaks changing their internal logic and reassembling around piano chords and bass, squarely fitting the selection lens.
+- **Immediate transition:** PASS provisionally at `Drummz → Té de Cabello Blanco → Ikoyi`. Unpredictable percussion receives an articulated internal recovery; *Ikoyi* then has a concrete task in dissolving that freshly restored coherence. Exact entries, exits, perceived pulse, density, phrasing and mixability remain unknown.
+- **Surrounding run:** PASS provisionally. `Fragments → Drummz → Té de Cabello Blanco → Ikoyi → Amor` moves from driving re-entry through restless percussion, self-reassembly, foreground dissolution and machine-to-hand-drum mutation. The character changes are legible at local scale without requiring sonic sameness.
+- **Long-form effect:** PASS. At 3:38, the insertion is proportionate and turns a late percussion chain into reassembly → deliberate dissolution rather than simply extending instability.
+- **Alternative placement:** REJECT only at `backsliding → candidate → Mildew Swoosh`; the candidate completes a recovery before another temporal-conflict premise, weakening *Fragments*' later re-entry task.
+
+#### RRUCCULLA — Intro coma 绿茶 — placement-specific REJECT
+
+- **Volume fit:** PASS. The exact 1:24 blocky-piano/livewire-drum confrontation fits the selection lens.
+- **Immediate transition:** FAIL provisionally at both tested positions. After *Sarniezz* it extends a live-drum confrontation before *Never Met*; after *Trompe L'oeil* it inserts a second compact conflict before *FELT*'s rolling formation.
+- **Surrounding run:** FAIL. Both tests stack another self-contained rhythmic proposition without changing the successor's existing transit or formation work.
+- **Long-form effect:** FAIL proportionally for these positions. Brevity prevents a duration objection but does not justify duplicated local function.
+- **Verdict:** Placement-specific REJECT only; the track remains genuinely interesting elsewhere.
+
+#### RRUCCULLA — Miel Oscura — PARKED
+
+- **Volume fit:** PASS. The exact seasick field of atomized trance stabs and undulating shrieks clearly resists a fixed stable form.
+- **Immediate transition:** UNKNOWN at both proposed placements because the source establishes a state, not the track's direction or endpoint.
+- **Surrounding run:** UNKNOWN. After *Fulledge* it could deepen dissolution or delay *Capa*'s redirection; after *LOVE YOUR ENEMIES* it could sharpen conflict or simply pre-empt *Tehutis Law*.
+- **Long-form effect:** UNKNOWN. The 3:09 duration is concise, but brevity and unusual material do not prove journey consequence.
+- **Verdict:** PARKED for materially richer exact-track direction/endpoint evidence, lawful audio evidence or changed structural need.
+
+### Auditor gate and durable result
+
+Auditor approves one canonical ADD, one placement-specific REJECT, one PARKED revisit and retention of all three selected exact tracks as genuinely interesting. STRANGE GAIT becomes 41 tracks; the protected order remains intact. EDITORIAL ENGINE — DISCOVERY POOL becomes 314 tracks. The five resolved alternates remain unevaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all new handoffs remain unknown. Audio analysis and live mixing were not performed.
+
+### Run analysis
+
+`~55 inspected → 9 leads → 8 exact resolutions + 1 unresolved → 3 evaluations + 5 alternates → 1 ADD + 1 placement-specific REJECT + 1 PARKED → 3 utility additions`
+
+Inspection-to-lead conversion: 16.4%. Lead-to-resolution conversion: 88.9%. Selected-candidate-to-ADD conversion: 33.3%.
+
+Across Runs 87–148: 546 leads from approximately 2,995 inspections; 26 ADDs from 166 selected candidates. The recent completed-run ADD rate remains 4/10. The completed-run no-ADD streak is zero. Healthy lead and resolution yield, candidate-specific outcomes and a proportional insertion argue against Scout over-filtering, epistemic veto or forced growth.
+
+
 ## Run 147 — REPAIR — resolver-yield recovery with one consequential closing flare — 2026-09-11
 
 **Pre-audit:** REPAIR. STRANGE GAIT entered at 39 unique canonical tracks with matching annotations, journey map and COMPLETE receipt; EDITORIAL ENGINE — DISCOVERY POOL entered at 308 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact and no current TRIGGERED revisit or listener repair existed. However, exact resolution declined across completed Runs 143–146: 6/9 → 4/9 → 2/9 → 0/9. Auditor classified that as an actionable Scout process defect. A stale ledger footer also still said “thirty-eight” and omitted Run 145's *FELT* from the tempo trajectory.

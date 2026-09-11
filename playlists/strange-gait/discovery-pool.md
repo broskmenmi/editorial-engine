@@ -1,5 +1,20 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 148 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | RRUCCULLA | Té de Cabello Blanco | https://open.spotify.com/track/3G1MYH7RObW238TbgMXzHo | Canonical ADD after *Drummz*; the documented agitation-to-reassembly arc remains independently interesting. |
+| EXACT TRACK | RRUCCULLA | Intro coma 绿茶 | https://open.spotify.com/track/3yH47e7EdZEhBbEoWSOwOK | Placement-specific REJECT only for the two tested Run 148 positions; the compact blocky-piano/livewire-drum confrontation remains genuinely interesting elsewhere. |
+| EXACT TRACK | RRUCCULLA | Miel Oscura | https://open.spotify.com/track/76wV3MvBACgx2K7ONswvkS | PARKED for missing exact direction/endpoint evidence; seasick atomized trance stabs and undulating shrieks remain genuinely interesting. |
+| UNRESOLVED | Principleasure | System 100 | See discoveries.md exact error | Ambiguous exact identity; no musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Anastasia Kristensen; Principleasure, Nur Nur; Principleasure | Hydraulic Whale; Secretary Bird; Bestiarium Sombre; Storung; Evol | spotify:track:0ombBOhqNcxIxlsAb0Ev8S ; spotify:track:27gxUtaBnGW19vain4dvsi ; spotify:track:7jtbX7JQKFef4cpJ2m2qO1 ; spotify:track:2wnONMpUNP8kXZFoXAEgO9 ; spotify:track:0GGfhk55p4qZ8QZMdj6hNi | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. Resolver warnings for *Storung* and *Evol* are preserved in discoveries.md. |
+| CURRENT / LABEL WATCH | Anastasia Kristensen / Intercept; Principleasure | Bestiarium Sombre; III | https://anastasiakristensen.bandcamp.com/album/bestiarium-sombre ; https://principleasure.bandcamp.com/album/iii | Current dance-oriented avant-garde and cinematic dark-techno catalogues remain useful research windows. |
+| OVERLOOKED CATALOGUE WATCH | RRUCCULLA / BIIPBIIP | SHuSH | https://pitchfork.com/reviews/albums/rrucculla-shush/ | Odd-time live drumming, electronic splatter and form-to-reassembly motion remain useful catalogue directions. |
+
+Editorial boundary: *Té de Cabello Blanco* is canonical only at the approved placement; *Intro coma 绿茶* is rejected only at two tested positions; *Miel Oscura* is PARKED. The five alternates were not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all proposed handoffs remain unknown.
+
+
 ## Run 147 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

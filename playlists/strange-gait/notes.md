@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 148 — EXPLORE — reassembly can make later dissolution consequential
+
+RRUCCULLA — *Té de Cabello Blanco* is added between *Drummz* and *Ikoyi*. Pitchfork documents stuttering breaks and an atonal topline giving way halfway to piano chords and a reassuring bassline, like an explosion reassembling in reverse. The five-track run `Fragments → Drummz → Té de Cabello Blanco → Ikoyi → Amor` now moves from driving re-entry through unpredictable percussion into an internal reassembly, then foreground dissolution and machine-to-hand-drum mutation. The 3:38 insertion makes *Ikoyi* undo freshly restored coherence rather than merely continue restlessness. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.
+
+*Intro coma 绿茶* is rejected only at the two tested placements: after *Sarniezz* it extends the live-drum confrontation before *Never Met*; after *Trompe L'oeil* it inserts another compact conflict before *FELT*'s rolling formation. *Miel Oscura* is PARKED: its seasick atomized trance stabs and undulating shrieks establish volume fit, but not direction or endpoint.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: eight exact resolutions, three selected candidates, five exact alternates, one unresolved identity and two preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. Auditor approved one canonical ADD, one placement-specific REJECT, one PARKED revisit and retention of all three selected exact tracks as genuinely interesting.
+
 ## Run 147 — REPAIR — resolver yield restored without weakening musical admission
 
 foodman — *Nukumori* is added between *Eyes of the Wind* and *Rabbit Hole*. Pitchfork documents the exact track exploding into spidery remnants of happy hardcore. The five-track close `Stardancer → Eyes of the Wind → Nukumori → Rabbit Hole → Invisible Warriors Of Light` now moves from the protected block through liminal percussion into a concise flare, then dead-space descent and electro-soul re-formation. The 3:20 insertion makes *Rabbit Hole* an aftermath rather than an isolated second descent. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.

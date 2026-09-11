@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 148 — Reassembly can create a meaningful target for later dissolution
+
+**Direction:** Explore tracks that begin in rhythmic agitation but internally restore a legible formation, allowing a later dissolution to act as consequence rather than continuation.
+
+**Ingredients:**
+
+- RRUCCULLA — *Té de Cabello Blanco* — exact canonical ADD after *Drummz*; stuttering breaks and an atonal topline yield halfway to piano chords and bass.
+- RRUCCULLA — *Intro coma 绿茶* — exact placement-specific reject; its compact blocky-piano/livewire-drum confrontation remains useful outside the two tested duplicate-conflict positions.
+- RRUCCULLA — *Miel Oscura* — exact PARKED discovery; seasick atomized trance stabs and undulating shrieks are known, direction and endpoint are not.
+- Principleasure — *System 100* — unresolved ambiguous identity without musical verdict.
+- Anastasia Kristensen's *Bestiarium Sombre* and Principleasure's *III* — current exact catalogue windows; five resolved alternates remain unselected and unevaluated.
+
+**Why interesting:** Internal stabilization can make a later loss of coherence newly legible, while another compact confrontation may merely repeat local work.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every proposed handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
+
 ## Run 147 — A brief flare can turn descent into aftermath
 
 **Direction:** Explore concise rhythmic eruptions whose residue gives an existing descent or reset a concrete cause, while parking tracks whose source evidence describes only an opening gesture or atmosphere.
