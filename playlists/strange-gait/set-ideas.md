@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 157
+
+### Shifting footing must alter what follows
+
+**Direction:** Explore unstable, surging and spatial-percussive tracks where their endpoint changes the successor's task; reject insertions that merely mediate a decisive left turn, add a second late cycle or repeat an opening formation.
+
+**Ingredients:**
+
+- Genichiro — *Surface* — exact placement-specific reject; irregular broken groove shifting underfoot remains useful outside the tested left-turn and balance-to-drive boundaries
+- Surgeon — *Forgotten Gods* — exact placement-specific reject; surge-and-recession form remains useful outside the tested protected-close-to-corridor boundary
+- Genichiro — *Reflection* — exact placement-specific reject; dub spatial acoustics and Afro-club-informed percussion remain useful outside the tested double-formation opening
+- Genichiro — *Clay Motion* — exact alternate, unselected and unevaluated
+- Five Surgeon, Planetary Assault Systems and Genichiro remix titles remain unresolved without verdict
+
+**Why interesting:** Instability is not automatically consequential. Its value emerges when the following track must answer a new condition rather than wait for an extra stage to finish.
+
+**Unknown / risk:** These are not proven sequences or mixing edges. BPM, perceived pulse, energy, density, space, phrase structure, key, mixability and live behavior remain unknown.
+
 ## Current additions — Run 155
 
 ### Intermediate motion must leave a new task
