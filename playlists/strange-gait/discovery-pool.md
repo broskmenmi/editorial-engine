@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 153 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Shackleton | Elemental Dream | https://open.spotify.com/track/3ckYxax9zApx7ofjyIeSyU | Canonical ADD after *Amor*; unstable percussive density that periodically strips to dub-delay breathing room remains independently interesting. Date warning preserved. |
+| EXACT TRACK | Facta | Jets | https://open.spotify.com/track/3Jv0foQOVfSPQW73JOmuPH | Placement-specific REJECT only between *FELT* and *Thick to Handle*; twitchy minimal house whose bassline nearly overturns its groove remains genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Koreless | Hance | https://open.spotify.com/track/2cd0eqzHWcwGF95WZ21Zhy | Placement-specific REJECT only between *Tides Alternate* and *Too Much Time*; alternating-speed bright percussion remains genuinely interesting elsewhere. Date warning preserved. |
+| UNRESOLVED | Facta; Koreless; Shackleton | SLoPE; Joy Squad; Contagious Illusions; BDB | See discoveries.md exact errors | Four exact-title leads remain unresolved without musical verdicts or utility entries. |
+| RESOLVED ALTERNATES | Shackleton; Koreless | Philistine Wavelength; Shellshock | Exact URIs in discoveries.md | Two exact alternates remain unselected and unevaluated; both date warnings are preserved. |
+| CURRENT WATCH | Shackleton / AD 93 | Euphoria Bound | https://pitchfork.com/reviews/albums/shackleton-euphoria-bound/ | Unstable percussion, tonal-percussive role exchange and periodic stripping remain useful current directions. |
+| RECENT / CATALOGUE WATCH | Facta / Wisdom Teeth; Koreless / Young | GULP; Agor | https://pitchfork.com/reviews/albums/facta-gulp/ ; https://pitchfork.com/reviews/albums/koreless-agor/ | Malformed club reconstruction and tempo-illusion structures remain useful research windows; exact alternates are not verdicts. |
+
+### Placement and inspiration boundaries
+
+- *Elemental Dream* is canonical only at the approved position after *Amor*.
+- *Jets* and *Hance* are rejected only at their documented positions.
+- Four unresolved leads receive no musical verdict; two exact alternates were not evaluated.
+- No BPM, perceived pulse, energy, density, space, phrase structure, mixability or live edge was inferred.
+
 ## Run 152 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

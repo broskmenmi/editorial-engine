@@ -1,5 +1,87 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 153 — EXPLORE — self-stripping instability before consolidation — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 325 contiguous unique exact tracks and a matching COMPLETE 325/325 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.
+
+### Exploration receipt
+
+Run `2026-09-11T14:51:36Z-explore-153` inspected approximately 60 named tracks, releases and catalogue references across live September 9–11, 2026 Pitchfork, Resident Advisor and Bandcamp feeds, Shackleton's 2026 *Euphoria Bound*, Facta's 2025 *GULP* and Koreless's 2021 *Agor*. Nine honest leads survived (15.0%). Run 152 decisions and source windows, recent Run 140–152 artist fields, canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Current Bonobo, Argento and Bitchin Bajas material already present in persistent history was not recycled. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T14:51:36Z-explore-153`
+- sourceCommit: `26af9c9ab9003ed3f4e1712de2118955663bedac`
+- request commit: `0a0a95f75ef3652186ec0031faacdb2195f607c0`
+- resolver commit: `07fa5aeda92a2d790fa88b45ff346b7da5cb70ce`
+- requestFingerprint: `26ecdb2c3fd10fc36e410dda85f9c0dc5a7cdad7077e2f6c51087422d5ca2b9d`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 5 exact resolutions → 3 selected candidates; 4 unresolved identities; 5 warnings; 2 resolved alternates; no duplicates, substitutions, relinkings or technical failures.
+
+Warnings preserved exactly:
+
+- Shackleton — *Elemental Dream*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-01-30"`
+- Facta — *Jets*: `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-06-20"`
+- Koreless — *Hance*: `Exact title/artist matched with release metadata variance: release date requested "2021" but Spotify returned "2021-07-09"`
+- Shackleton — *Philistine Wavelength*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-01-30"`
+- Koreless — *Shellshock*: `Exact title/artist matched with release metadata variance: release date requested "2021" but Spotify returned "2021-07-09"`
+
+Unresolved without musical verdict:
+
+- Facta — *SLoPE*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7iQNsqEQzA3ZA8CdDknPFb, 2xSnxMox5VjP4z9IFsneju)`
+- Koreless — *Joy Squad*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4sMAGlRNOWQC1QT7gBUNgk, 3Y8T9RXnsJFjz9OgieBnyP)`
+- Shackleton — *Contagious Illusions*: `no exact Spotify title/artist search match in market SE`
+- Facta — *BDB*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5w8Ol8pH0tjNhZnWPC6svu, 46iFJ2iFiR9FuWCaQeyViB)`
+
+Resolved but unselected and unevaluated:
+
+- Shackleton — *Philistine Wavelength* — `spotify:track:0WsCg2dUpIaVvqL673RO3F`
+- Koreless — *Shellshock* — `spotify:track:4hEHRV6QOVxjHl1Yc3XSlE`
+
+### Candidate evaluations
+
+#### Shackleton — Elemental Dream — ADD
+
+- **Exact identity:** `spotify:track:3ckYxax9zApx7ofjyIeSyU`; 5:48; *Euphoria Bound*; Spotify release date 2026-01-30.
+- **Volume fit:** PASS. The documented unstable tangle treats voices, kalimba, serrated synthesizers and drums as interchangeable tonal and percussive agents, directly serving the volume's rhythmic and structural freedom without relying on weirdness or novelty alone.
+- **Immediate transition:** PASS provisionally after *Amor*. *Amor*'s documented machine-to-hand-drum mutation can yield to a track that immediately multiplies the percussion field, while *Elemental Dream*'s periodic stripping leaves a concrete state for *Truth in Noise* to consolidate. Exact handoffs remain untested.
+- **Surrounding three-to-five-track run:** PASS. `Té de Cabello Blanco → Ikoyi → Amor → Elemental Dream → Truth in Noise` moves from partial reassembly through dissolution and hand-drum mutation into self-stripping instability, then consolidation. Each successor retains distinct work.
+- **Long-form journey:** PASS. At 5:48, it adds one developed late-middle event after three no-ADD runs without creating a new mandatory summit or changing the protected block. The alternative `Eyes of the Wind → Elemental Dream → Nukumori` fails because two adjacent explosive events would weaken *Nukumori*'s concise flare and the subsequent descent.
+- **Verdict:** **ADD after Amor**. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both new handoffs remain UNKNOWN.
+
+#### Facta — Jets — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3Jv0foQOVfSPQW73JOmuPH`; 4:59; *GULP*; Spotify release date 2025-06-20.
+- **Volume fit:** PASS. A twitchy minimal-house groove whose bassline nearly overturns it is relevant to the selection lens.
+- **Immediate transition:** FAIL only at `FELT → candidate → Thick to Handle`. The near-upending bass pressure performs deformation immediately before *Thick to Handle*'s existing broken-beat deformation.
+- **Surrounding three-to-five-track run:** FAIL at the tested position. `Trompe L'oeil → FELT → Jets → Thick to Handle → LOVE YOUR ENEMIES` stacks formation, near-overturning, deformation and cross-rhythmic conflict without changing the successor's task.
+- **Long-form journey:** NOT IMPROVED by this placement. Another central instability stage is not proportionate when the existing run already moves from reset through formation into deformation and conflict.
+- **Verdict:** **REJECT the tested placement only**; retain as genuinely interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+#### Koreless — Hance — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:2cd0eqzHWcwGF95WZ21Zhy`; 1:31; *Agor*; Spotify release date 2021-07-09.
+- **Volume fit:** PASS. Bright percussive tones and a rhythm that alternately speeds and slows fit the selection lens without requiring genre purity.
+- **Immediate transition:** FAIL only at `Tides Alternate → candidate → Too Much Time`. *Tides Alternate* already holds fast breakbeat against slowing bass and synth motion; another explicit speed illusion repeats that premise before *Too Much Time* widens it.
+- **Surrounding three-to-five-track run:** FAIL at the tested position. `Worn Down → Tides Alternate → Hance → Too Much Time → Freepass for Them` places two temporal-balance propositions before widening and preserved-drive redirection.
+- **Long-form journey:** NOT IMPROVED. Its brevity reduces cost but does not create new downstream work in this already articulated early run.
+- **Verdict:** **REJECT the tested placement only**; retain as genuinely interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+### Librarian / Auditor outcome
+
+Auditor approves one canonical ADD, two placement-specific REJECTs, three target-local exact discoveries, two catalogue watches, one set direction, the two unselected exact alternates and all four unresolved identities. The global doctrine-free utility ledger receives the three selected exact identities only. The protected internal order remains unchanged.
+
+### Run analysis
+
+`~60 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → 1 ADD + 2 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 15.0%; lead-to-resolution conversion is 55.6%; selected-candidate-to-ADD conversion is 33.3%.
+
+Across Runs 87–153: 591 leads from approximately 3,280 inspections; 28 ADDs from 180 selected candidates. The recent completed-run ADD rate remains 5/10. Run 153 ends the three-completed-run no-ADD streak since Run 149; eight exact interesting tracks were retained during that drought.
+
+The new candidate field changed both source families and placement logic. *Elemental Dream* passes because its documented self-stripping endpoint gives consolidation distinct work, while *Jets* and *Hance* fail for candidate-specific duplication. That pattern argues against a repetitive placement-search defect, forced growth or epistemic veto. No actionable REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 152 — EXPLORE — decay versus second ending — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 323 contiguous unique exact tracks and a matching COMPLETE 323/323 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.

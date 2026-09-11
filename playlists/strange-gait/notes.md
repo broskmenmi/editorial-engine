@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 153 — EXPLORE — self-stripping instability can make consolidation consequential
+
+Shackleton — *Elemental Dream* is added between *Amor* and *Truth in Noise*. Pitchfork describes the track exploding after two bars into unstable voices, kalimba, serrated synthesizers and drums, then periodically stripping those layers back to swirling dub delay. The five-track run `Té de Cabello Blanco → Ikoyi → Amor → Elemental Dream → Truth in Noise` now moves from reassembly through dissolution and hand-drum mutation into instability that opens its own breathing room before consolidation. At 5:48, the insertion is proportionate. Its alternative before *Nukumori* fails because it would place one explosive event directly before another and weaken the current flare-to-descent relation.
+
+Facta — *Jets* and Koreless — *Hance* remain genuinely interesting but fail only their tested positions. *Jets* nearly overturns a twitchy minimal-house groove immediately before *Thick to Handle* already performs deformation. *Hance* alternates perceived speed immediately after *Tides Alternate* already balances fast breakbeat against slowing bass and synth motion. Their failures are local duplication, not incompatibility.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: five exact resolutions, three selected candidates, two exact unevaluated alternates, four unresolved identities and five preserved date warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** instability can prepare consolidation when it removes enough of itself to leave a clear downstream task.
+
 ## Run 152 — EXPLORE — adjacent-world decay must not become a second ending
 
 No canonical track is added. MIZU — *Stations* and *The Riddle* both remain genuinely interesting exact discoveries, but fail only their tested STRANGE GAIT placements.

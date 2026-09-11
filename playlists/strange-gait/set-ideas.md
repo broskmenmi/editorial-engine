@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 153
+
+### Self-stripping instability can prepare consolidation
+
+**Direction:** Explore constructions that multiply a rhythmic field, then remove enough of it that a successor has a concrete consolidation or re-formation task; distinguish this from tracks that merely add another destabilization premise.
+
+**Ingredients:**
+
+- Shackleton — *Elemental Dream* — exact canonical ADD after *Amor*; reviewer-described unstable voices, kalimba, serrated synthesizers and drums periodically strip back to swirling dub delay
+- Facta — *Jets* — exact placement-specific reject; a bassline nearly overturning a twitchy minimal-house groove remains useful outside the tested deformation passage
+- Koreless — *Hance* — exact placement-specific reject; alternating-speed bright percussion remains useful outside the tested opposed-speed passage
+- Inspired Groove — *Truth in Noise* — canonical reference point for the following consolidation
+- Shackleton — *Philistine Wavelength* and Koreless — *Shellshock* — exact but unselected and unevaluated catalogue references
+
+**Why interesting:** Instability can leave a specific residue rather than simply escalating. That residue can make consolidation consequential, while another near-overturning or tempo-illusion track may duplicate work already present locally.
+
+**Unknown / risk:** These are not proven sequences or mixing edges. BPM, perceived pulse, energy, density, space, phrase structure, key, mixability and live behavior remain unknown.
+
 ## Current additions — Run 152
 
 ### Decay as preparation, not a second ending
