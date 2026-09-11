@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-11T23:01:13.149Z",
+  "generatedAt": "2026-09-11T23:01:37.114Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
     "ledgerFingerprint": "2664318d2593e8c9d21fa1c962782ae8d9afab89b84ff7272047071c738f5b59",
-    "annotationsFingerprint": "7d7fd5fb9a9fb96ab9d9f7e0c163a93f87772f6df00cf8d1719ff0b88fe92703"
+    "annotationsFingerprint": "8962f53f68ce01097b362793e08d7965c8ae694c67a93185daba0eac4b2218aa"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -33,26 +33,8 @@
       "label": "Ground",
       "order": 1,
       "startPosition": 1,
-      "endPosition": 9,
-      "startMs": 0,
-      "endMs": 3240000
-    },
-    {
-      "id": "unmapped",
-      "label": "unmapped",
-      "order": 999,
-      "startPosition": 10,
-      "endPosition": 10,
-      "startMs": 3240000,
-      "endMs": 3600000
-    },
-    {
-      "id": "ground",
-      "label": "Ground",
-      "order": 1,
-      "startPosition": 11,
       "endPosition": 16,
-      "startMs": 3600000,
+      "startMs": 0,
       "endMs": 5760000
     },
     {
@@ -415,13 +397,15 @@
       "bpm": null,
       "role": "Ground — provisional acceleration-to-orientation crisis",
       "added": "2026-09-11",
-      "chapter": "unmapped",
-      "chapterOrder": 999,
-      "storyBand": "threshold",
-      "storyLevel": 3.4,
+      "chapter": "ground",
+      "chapterOrder": 1,
+      "storyBand": "fracture",
+      "storyLevel": 5.9,
       "status": "provisional",
       "labels": [
-        "auto-mapped"
+        "explicit-acceleration-orientation-crisis",
+        "opposed-speed-balance-preparation",
+        "explore-run-161-add"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -435,7 +419,7 @@
       "progressMidpoint": 0.20652173913043478,
       "felt": {
         "summary": null,
-        "direction": "auto mapped",
+        "direction": "explicit acceleration orientation crisis",
         "dimensions": {},
         "evidence": {
           "class": "EDITORIAL_INTERPRETATION",
@@ -2255,8 +2239,7 @@
     "BPM unavailable for foodman — Nukumori; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for Jlin — Rabbit Hole; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for TYGAPAW, Precious Okoyomon — Can I live; map stores null and leaves a gap in the measured-BPM layer.",
-    "BPM unavailable for Steve Rachmad — Invisible Warriors Of Light; map stores null and leaves a gap in the measured-BPM layer.",
-    "Missing annotation for Rian Treanor — Hypnic Jerks; fallback role was used."
+    "BPM unavailable for Steve Rachmad — Invisible Warriors Of Light; map stores null and leaves a gap in the measured-BPM layer."
   ],
   "visualization": {
     "schemaVersion": 1,
