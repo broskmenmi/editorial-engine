@@ -350,6 +350,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 344 | Fase Bipolar | Urge & Dissolve | spotify:track:4cXrFMeENQBf8EV3XXhL6d | STRANGE GAIT Run 160 | PARKED / interesting | 2026-09-11 |
 | 345 | Fase Bipolar | Red Noise | spotify:track:3Bi1N83BXxnrgU7NU4gTCp | STRANGE GAIT Run 160 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 346 | Fase Bipolar | Until We Sink | spotify:track:6FNZCsjC8Z7rRzfYp5VTNp | STRANGE GAIT Run 160 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 347 | Rian Treanor | Hypnic Jerks | spotify:track:5diM5dnRKTuJaZ2CqzFwsu | STRANGE GAIT Run 161 | Canonical ADD / interesting | 2026-09-11 |
+| 348 | Black Bananas | Cold Bussin | spotify:track:4QnqmLDsxbm3O1f0Q3fDCH | STRANGE GAIT Run 161 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 349 | Rian Treanor | Opponent Process | spotify:track:0FUu4RG2P1Qh64DQcUP2TV | STRANGE GAIT Run 161 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
