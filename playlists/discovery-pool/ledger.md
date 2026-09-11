@@ -346,5 +346,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 340 | Swimming Pools of the World | The River Track | spotify:track:33chetHTBLGFMHiYo4eFz3 | STRANGE GAIT Run 158 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
+| 341 | Wata Igarashi | Turbulence | spotify:track:3ThSJp6CdMO4LVsEJQzbzB | STRANGE GAIT Run 159 | PARKED / interesting | 2026-09-11 |
+| 342 | Wata Igarashi | Stuck In CDG | spotify:track:2BXjcVrlPs2vSXiEKxrbTn | STRANGE GAIT Run 159 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 343 | Lolina | Glitching | spotify:track:17Bwb2qC6uXeNWQCUR8nlc | STRANGE GAIT Run 159 | Placement-specific REJECT / interesting | 2026-09-11 |
+
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
