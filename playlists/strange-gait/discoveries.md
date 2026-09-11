@@ -1,5 +1,84 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 161 — EXPLORE — acceleration as an orientation problem — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 346 contiguous unique exact tracks and a matching COMPLETE 346/346 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact at positions 38–40, no feedback discussion or TRIGGERED revisit was active, and no actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 58 named tracks, releases and catalogue references were inspected across three distinct windows: Pitchfork's September 10, 2026 Black Bananas review; Resident Advisor's July 17, 2026 `veneration for the sacred action` review; and Rian Treanor's overlooked 2020 `File Under UK Metaplasm` catalogue. Run 160 identities and every already evaluated, parked, rejected, unresolved or alternate exact identity found in history were excluded.
+
+**Immutable snapshot**
+
+- runId: `2026-09-11T22:51:43Z-explore-161`
+- sourceCommit: `8f894f936bd9b2dfb6711b02539ca73fb669b5cb`
+- request commit: `86a59b51494c9862f89f7f9c07a7c65258e6f54d`
+- requestFingerprint: `d1ca104a679ca0dcc3286a26b9fe895dc31f08bedc7d6f35407051c72de02a87`
+- resolver generatedAt: `2026-09-11T22:56:30.247Z`
+- schemaVersion: 2
+- internal validity: PASS
+- resolutionStatus: PARTIAL
+- requested / resolved / selected: 9 / 6 / 3
+- warnings: none
+- duplicates / substitutions / relinkings / technical failures: none
+
+**Resolver outcomes**
+
+Selected exact identities:
+
+1. Rian Treanor — *Hypnic Jerks* — `spotify:track:5diM5dnRKTuJaZ2CqzFwsu`; Spotify album `File Under UK Metaplasm`, date `2020-10-02`, duration 3:52, BPM unavailable.
+2. Black Bananas — *Cold Bussin* — `spotify:track:4QnqmLDsxbm3O1f0Q3fDCH`; Spotify album `Bad Bunch`, date `2026-09-04`, duration 3:42, BPM unavailable.
+3. Rian Treanor — *Opponent Process* — `spotify:track:0FUu4RG2P1Qh64DQcUP2TV`; Spotify album `File Under UK Metaplasm`, date `2020-10-02`, duration 3:45, BPM unavailable.
+
+Resolved but unselected and unevaluated:
+
+- Black Bananas — *Turkey Burgers* — `spotify:track:6ldqQY0nOjaYfMr40UXc03`.
+- Rian Treanor — *Closed Curve* — `spotify:track:41D4hqsK5RzGvhW1yJMGG5`.
+- Black Bananas — *Outta My Head* — `spotify:track:4BclLwOYdXTHL4VACEE3C9`.
+
+Unresolved without musical verdict:
+
+- Voice Actor, aloisius — *24*: `no exact Spotify title/artist search match in market SE`.
+- Isaac Robertson — *1200*: `no exact Spotify title/artist search match in market SE`.
+- abi asisa — *calling*: `no exact Spotify title/artist search match in market SE`.
+
+The request's prose-named `Worn Down → Hypnic Jerks → Tides Alternate` boundary carried two stale/noncanonical URI values. The boundary was cross-checked against the current ledger before evaluation; the correct canonical identities are `spotify:track:01HP3HuPytbIpSdOCqpx2y → spotify:track:5diM5dnRKTuJaZ2CqzFwsu → spotify:track:1eWvrBLXd763F0nyrjOzBw`. No stale URI drove a decision, and the discrepancy is preserved here.
+
+### Canonical evaluations
+
+#### Rian Treanor — Hypnic Jerks — ADD
+
+- **Volume fit:** PASS. Pitchfork documents the exact track starting at 180 BPM and accelerating its rubbery kicks into quadruple-time assault. That explicit internal rhythmic mutation strongly fits the selection lens; speed or novelty is not used as an admission shortcut.
+- **Immediate transition:** PASS provisionally at `Worn Down → Hypnic Jerks → Tides Alternate`. *Worn Down* is the current rumble-to-weight threshold. The candidate then creates an overt acceleration problem that *Tides Alternate*'s existing opposed-speed balance can answer. The move is deliberately conspicuous rather than presumed smooth. Exact entry, exit, phrasing, perceived-pulse relation and mixability remain unknown.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Abundance → Foundry → Worn Down → Hypnic Jerks → Tides Alternate` moves from swung continuation through unstable direction and weight into explicit acceleration, then opposed-speed balance. The candidate changes what the successor must do instead of duplicating balance.
+- **Long-form journey:** PASS provisionally. The early passage gains one clear orientation crisis before physical widening and later intensification. This is proportionate because the candidate's documented mutation is answered immediately rather than left as an isolated spectacle.
+- **Alternative placement:** REJECT at `Capa → candidate → Sarniezz`. The overt electronic acceleration would precondition the listener for rhythmic dislocation immediately before the existing live-band metric left turn, making that turn less singular.
+- **Unknowns:** audio analysis, exact endpoint, energy, density, space, hypnosis, emotional effect, phrase structure, exact handoffs and live mixing are NOT TESTED.
+
+#### Black Bananas — Cold Bussin — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents a chill shuffle surrounded by shifting melodies, chopped voices, electro bleeps and guitar noise. Its unstable cross-production-world construction belongs under the selection lens.
+- **Immediate transition:** FAIL at both tested placements. Between *Capa* and *Sarniezz*, its already hybrid guitar/electronic storm performs part of the coming production-world left turn. Between *Truth in Noise* and *Same Way*, it inserts a complete multi-element disturbance before the existing consolidation-to-segmented-pressure move.
+- **Surrounding run:** FAIL. `Fulledge (Empty-40 Mix) → Capa → candidate → Sarniezz → Never Met` loses the directness of the live-band rupture. `Elemental Dream → Truth in Noise → candidate → Same Way → U Belong 2 Me` becomes over-articulated before the threshold transformation.
+- **Long-form journey:** FAIL only for those placements. The candidate adds striking material, but it makes existing successors less necessary rather than changing their work.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, exact direction and endpoint, phrase structure, exact handoffs and mixability remain unknown.
+
+#### Rian Treanor — Opponent Process — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork identifies the exact track as strange dancehall and a sputtering Equiknoxx tribute inside mangled functional dance structures.
+- **Immediate transition:** FAIL at both tested placements. Between *LOVE YOUR ENEMIES* and *Tehutis Law*, another sputtering conflict stage delays the existing re-grounding. Between *Never Met* and *Trompe L'oeil*, it adds another distinct rhythmic language before the established dubwise staggered reset.
+- **Surrounding run:** FAIL. `FELT → Thick to Handle → LOVE YOUR ENEMIES → candidate → Tehutis Law` extends conflict instead of resolving it; `Sarniezz → Never Met → candidate → Trompe L'oeil → FELT` crowds the return-and-reset passage.
+- **Long-form journey:** FAIL only for those placements. The rhythmic proposition remains genuinely interesting, but neither insertion creates new downstream consequence.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, exact direction and endpoint, phrase structure, exact handoffs and mixability remain unknown.
+
+**Sequencer decision:** ADD *Hypnic Jerks* only between *Worn Down* and *Tides Alternate*. Reject only the tested placement hypotheses for *Cold Bussin* and *Opponent Process*. Preserve the three unresolved leads and three unevaluated exact alternates. The protected trio remains contiguous and unchanged.
+
+**Inspiration decision:** retain all three selected exact tracks as genuinely interesting. Add them to the target-local discovery pool and the doctrine-free global utility ledger. Retain the three unresolved identities as research leads and the three exact alternates as unevaluated only. Set direction: a conspicuous acceleration earns space when the next track is positioned to solve the orientation problem it creates.
+
+**Auditor:** APPROVE. The snapshot matches the immutable request and sourceCommit; only selected exact identities were evaluated; every unresolved result and the placement-URI discrepancy are preserved; no metadata-only sonic inference, protected-handoff change, duplicate utility identity or unapproved live-state interpretation is present.
+
+**Run analysis:** `~58 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → 1 ADD + 2 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion is 15.5%; lead-to-resolution conversion is 66.7%; selected-candidate-to-ADD conversion is 33.3%. Across completed discovery Runs 87–161, excluding documentation-only Run 156: 654 leads from approximately 3,689 inspections; 31 ADDs from 201 selected candidates. The recent completed-discovery ADD rate is 4/10. Run 161 ends the two-run no-ADD streak since Run 158. Resolution remained healthy, and the divergent outcomes are candidate- and placement-specific; no actionable REPAIR emerges.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 160 — EXPLORE — interruption versus consequential residue — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 343 contiguous unique exact tracks and a matching COMPLETE 343/343 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact, and there was no active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair.
