@@ -1,56 +1,56 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-11T12:50:13Z-explore-151",
-  "sourceCommit": "2b5fc98033b3bacca91a6d297323a217d231366e",
+  "runId": "2026-09-11T13:50:16Z-explore-152",
+  "sourceCommit": "8ed2730f6d0e391f3009cb70ff46a1b03dbb6816",
   "mode": "EXPLORE",
   "target": {
-    "role": "Fresh whole-journey discovery after Run 150 correctly rejected three placement-specific redundancies and left no actionable repair",
-    "position": "Whole 42-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Contrast may pass only when transition, local-run and long-form consequences are deliberate.",
-    "purpose": "Explore Kelela's current rhythm-and-noise reconfigurations and Pole's overlooked rhythm-versus-decay catalogue without recycling the recent RRUCCULLA, 96 Back, Gold Panda, Boards of Canada or Theo Parrish windows."
+    "role": "Fresh whole-journey discovery after two completed no-ADD runs retained six exact interesting tracks without exposing an actionable workflow or musical repair",
+    "position": "Whole 42-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
+    "purpose": "Explore Mark Fell's recent beat systems, Dopplereffekt's overlooked grid-and-destabilization electro and MIZU's adjacent percussion-led catalogue while avoiding the recent Pole, Kelela, Boards of Canada, Theo Parrish, Gold Panda, 96 Back and RRUCCULLA fields."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-11T12:50:13Z",
-    "approximateInspectedScope": "Approximately 54 named tracks, releases and catalogue references across live September 2026 review feeds, Kelela's July 2026 new avatar, Pole's 2022 Tempus and 2007 Steingarten catalogues, plus adjacent current Bandcamp windows; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-11T13:50:16Z",
+    "approximateInspectedScope": "Approximately 56 named tracks, releases and catalogue references across live September 2026 Pitchfork and Resident Advisor feeds, Mark Fell's 2025 Nite Closures EP, Dopplereffekt's 2022 Neurotelepathy and MIZU's 2024 4 | 2 | 3, plus current Bandcamp release windows; attributed criticism and release metadata only; no audio audition.",
     "exclusions": [
-      "Run 150 Boards of Canada, Theo Parrish and BEAM WONG decisions and alternates were not recycled.",
-      "Recent Run 139–150 Carmen Villain, DJ Phil, DJ POPS, Four Tet, Plaid, JWords, foodman, RRUCCULLA, 96 Back, Gold Panda and Boards of Canada fields were excluded by repository freshness checks.",
-      "Bitchin Bajas — Ajami and current August Bandcamp candidates already present in persistent history were excluded; no PARKED item was resurfaced without materially new evidence.",
-      "Tracks supported only by generic genre framing, prestige, or titles were inspected but did not clear the lead floor.",
+      "Run 151 Pole and Kelela decisions, unresolved identities and alternates were not recycled.",
+      "Recent Run 139–151 Carmen Villain, DJ Phil, DJ POPS, Four Tet, Plaid, JWords, foodman, RRUCCULLA, 96 Back, Gold Panda, Boards of Canada, Theo Parrish, Pole, Kelela and BEAM WONG fields were excluded by repository freshness checks.",
+      "Current Argento and Bitchin Bajas releases were inspected but did not clear the lead floor for this volume: available descriptions centered atmosphere or non-Spotify physical-format material rather than a strong canonical hypothesis.",
+      "Tracks supported only by generic genre framing, prestige, process novelty or titles were inspected but excluded.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Kelela — point blank",
-      "2. Pole — Stechmück",
-      "3. Kelela — idea 1",
-      "4. Pole — Tempus",
-      "5. Kelela, A. K. Paul — outta time",
-      "6. Pole — Allermannsharnisch",
-      "7. Pole — Grauer Sand",
-      "8. Pole — Düsseldorf",
-      "9. Pole — Winkelstreben"
+      "1. Dopplereffekt — Neural Impulse Actuator - Mirror Neuron",
+      "2. Mark Fell — Nite Closures (extended dub)",
+      "3. MIZU — Mob",
+      "4. Dopplereffekt — Neuroplasticity",
+      "5. Mark Fell — Nite Closures (version)",
+      "6. MIZU — Stations",
+      "7. Dopplereffekt — Transcranial Magnetic Stimulation",
+      "8. Mark Fell — large modulos #3",
+      "9. MIZU — The Riddle"
     ],
     "sourceWindows": [
-      "CURRENT WINDOW: Kelela's July 2026 new avatar supplied exact-track descriptions of crashing funky breaks, controlled noise bursts, sparse handclaps and circular echo endings. https://ra.co/reviews/36360",
-      "OVERLOOKED CATALOGUE WINDOW: Pole's 2022 Tempus supplied exact descriptions of decaying percussion, dub-tail momentum, malfunctioning-synth disruption and piano-versus-drone structure. https://pitchfork.com/reviews/albums/pole-tempus/",
-      "OVERLOOKED CATALOGUE WINDOW: Pole's 2007 Steingarten supplied exact descriptions of delayed elements slipping out of time and opposing textures finding unexpected convergence. https://pitchfork.com/reviews/albums/10000-steingarten/",
-      "FRESHNESS CHECK: repository searches found no durable prior record for Kelela or these requested Pole tracks; recent selected, unresolved and parked fields were excluded."
+      "RECENT WINDOW: Mark Fell's 2025 Nite Closures EP supplies exact-track descriptions of non-repeating beat contortion, singeli-tempo rubber-band motion and shuddering system beauty. https://pitchfork.com/reviews/albums/mark-fell-psychic-resynthesis-nite-closures-ep/",
+      "OVERLOOKED CATALOGUE WINDOW: Dopplereffekt's 2022 Neurotelepathy supplies exact descriptions of unexpected grids, near-destabilizing vocal/synth motion and percussion that iterates pop. https://pitchfork.com/reviews/albums/dopplereffekt-neurotelepathy/",
+      "ADJACENT CATALOGUE WINDOW: MIZU's 2024 4 | 2 | 3 supplies exact descriptions of marching electronic percussion, unsettling clatter and filtered phrase decay. https://pitchfork.com/reviews/albums/mizu-4-2-3/",
+      "CURRENT FEED CHECK: September 9–11, 2026 Pitchfork, Resident Advisor and Bandcamp windows were inspected; current items with insufficient exact-track or platform-ready evidence were retained as exclusions rather than padded into leads."
     ]
   },
   "leads": [
     {
-      "artist": "Kelela",
-      "track": "point blank",
-      "album": "new avatar",
-      "releaseDate": "2026",
+      "artist": "Dopplereffekt",
+      "track": "Neural Impulse Actuator - Mirror Neuron",
+      "album": "Neurotelepathy",
+      "releaseDate": "2022",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/36360",
-      "fitHypothesis": "Resident Advisor describes the exact track as roiling, with church bells and a bassline moving across crashing funky breaks.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/dopplereffekt-neurotelepathy/",
+      "fitHypothesis": "Pitchfork describes the exact track as peppy electro grounded by a bassline that establishes unexpected grids, while human-seeming vocals and zigzagging synths nearly destabilize that grid.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Resident Advisor describes the exact track as roiling, with church bells and a bassline moving across crashing funky breaks.",
+        "attributedDescription": "Pitchfork describes the exact track as peppy electro grounded by a bassline that establishes unexpected grids, while human-seeming vocals and zigzagging synths nearly destabilize that grid.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an adjacent-world rhythmic surge can deepen an existing conflict-to-grounding passage without replacing the re-grounding.",
+        "editorialInterpretation": "Test whether an established grid that almost destabilizes can prepare an existing pulse-illusion or reset passage without completing its successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -59,19 +59,103 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "purpose": "Test crashing funky breaks after cross-rhythmic conflict before funk re-grounding.",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:2gk0oSHAVlUrE6p2l2yw18",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test unexpected-grid electro before Sarniezz's live-band pulse reinterpretation.",
           "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 139
+          "incomingBpm": 137,
+          "outgoingBpm": null
         },
         {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test a roiling adjacent-world turn after the live-band pulse illusion before foreground transit.",
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test near-destabilization after foreground transit before the dubwise reset.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 130
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Mark Fell",
+      "track": "Nite Closures (extended dub)",
+      "album": "Nite Closures",
+      "releaseDate": "2025",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/mark-fell-psychic-resynthesis-nite-closures-ep/",
+      "fitHypothesis": "Pitchfork describes the exact track beginning with glistening iridescent synths before contorting into a nine-minute barrage of seemingly non-repeating beats.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track beginning with glistening iridescent synths before contorting into a nine-minute barrage of seemingly non-repeating beats.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a long-form non-repeating contortion creates consequential reorientation or simply overfills an already articulated passage.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test a long contortion after transit before the dubwise reset.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 130
+        },
+        {
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test non-repeating beats after funk re-grounding before crooked accumulation.",
+          "candidateBpm": null,
+          "incomingBpm": 139,
+          "outgoingBpm": 136
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "MIZU",
+      "track": "Mob",
+      "album": "4 | 2 | 3",
+      "releaseDate": "2024",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/mizu-4-2-3/",
+      "fitHypothesis": "Pitchfork describes the exact track's marching electronic percussion and piledriving beats accompanying strident textures while panic-inducing drones crescendo.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track's marching electronic percussion and piledriving beats accompanying strident textures while panic-inducing drones crescendo.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a percussion-led adjacent-world escalation can make a following dissolution or descent more necessary without becoming a complete detour.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "purpose": "Test a marching crescendo after bass-drum removal before the protected block opener.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 143
+        },
+        {
+          "position": "Between Nukumori and Rabbit Hole",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "purpose": "Test adjacent-world escalation after the flare before the dead-space descent.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
@@ -80,19 +164,85 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "Pole",
-      "track": "Stechmück",
-      "album": "Tempus",
+      "artist": "Dopplereffekt",
+      "track": "Neuroplasticity",
+      "album": "Neurotelepathy",
       "releaseDate": "2022",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/pole-tempus/",
-      "fitHypothesis": "Pitchfork describes growling bass and sharp drum blasts under chaotic buzzing from a dying Minimoog; the disruption risks wrecking the track but becomes its memorable centre.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/dopplereffekt-neurotelepathy/",
+      "fitHypothesis": "Pitchfork says the exact track showcases an encyclopedic collection of hi-hats and kicks while iterating pop.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes growling bass and sharp drum blasts under chaotic buzzing from a dying Minimoog; the disruption risks wrecking the track but becomes its memorable centre.",
+        "attributedDescription": "Pitchfork says the exact track showcases an encyclopedic collection of hi-hats and kicks while iterating pop.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether malfunction-driven disruption sharpens an existing dissolution passage or simply restates instability.",
+        "editorialInterpretation": "Test whether machine-precise percussion plus pop iteration can redirect an existing run without demanding sonic sameness.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "purpose": "Test precise percussion after concise formation before broken-beat deformation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 138
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Mark Fell",
+      "track": "Nite Closures (version)",
+      "album": "Nite Closures",
+      "releaseDate": "2025",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/mark-fell-psychic-resynthesis-nite-closures-ep/",
+      "fitHypothesis": "Pitchfork describes the exact track as more frenetic than the extended dub, spinning rubber-band noises into a singeli-tempo maelstrom.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track as more frenetic than the extended dub, spinning rubber-band noises into a singeli-tempo maelstrom.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a short frenetic redirection sharpens a local turn or merely duplicates an existing rupture.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Carried and Cave",
+          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "purpose": "Test a frenetic maelstrom after self-emptying rupture before Cave rebuilds.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 134
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "MIZU",
+      "track": "Stations",
+      "album": "4 | 2 | 3",
+      "releaseDate": "2024",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/mizu-4-2-3/",
+      "fitHypothesis": "Pitchfork describes the exact track as simmering, with unsettling percussive clatter and experimental flourishes.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track as simmering, with unsettling percussive clatter and experimental flourishes.",
+        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a simmering percussive adjacent-world passage can deepen strain without adding another complete destabilization.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -104,187 +254,28 @@
           "position": "Between backsliding and Mildew Swoosh",
           "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
           "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test disruption after rhythm-to-dissonance dissolution before opposed-temporal strain.",
+          "purpose": "Test clatter after rhythm-to-dissonance dissolution before opposed-temporal strain.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
-        },
-        {
-          "position": "Between Carried and Cave",
-          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test whether chaotic buzzing extends the exposed rupture or gives Cave more rebuilding work.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 134
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Kelela",
-      "track": "idea 1",
-      "album": "new avatar",
-      "releaseDate": "2026",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/36360",
-      "fitHypothesis": "Resident Advisor describes tangled guitar ropes and scratchy bass blankets, with voice and guitars gathering force into controlled bursts of noise.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Resident Advisor describes tangled guitar ropes and scratchy bass blankets, with voice and guitars gathering force into controlled bursts of noise.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a build-into-noise arc makes a following reset newly necessary rather than creating a complete detour.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test accumulated noise after foreground transit before the dubwise reset.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 130
-        },
-        {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "purpose": "Test a controlled noise build after bass-drum removal before the protected block opener.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 143
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Pole",
-      "track": "Tempus",
-      "album": "Tempus",
+      "artist": "Dopplereffekt",
+      "track": "Transcranial Magnetic Stimulation",
+      "album": "Neurotelepathy",
       "releaseDate": "2022",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/pole-tempus/",
-      "fitHypothesis": "Pitchfork describes overlapping percussion and darting synths held by acoustic piano as emotional ballast.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/dopplereffekt-neurotelepathy/",
+      "fitHypothesis": "Pitchfork says the exact track showcases an encyclopedic collection of hi-hats and kicks while iterating pop.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes overlapping percussion and darting synths held by acoustic piano as emotional ballast.",
+        "attributedDescription": "Pitchfork says the exact track showcases an encyclopedic collection of hi-hats and kicks while iterating pop.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether piano-backed rhythmic busyness can stabilize a local passage without duplicating a following reassembly.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "purpose": "If selected, test whether piano ballast prepares or pre-empts the following internal reassembly.",
-          "candidateBpm": null,
-          "incomingBpm": 138,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Kelela, A. K. Paul",
-      "track": "outta time",
-      "album": "new avatar",
-      "releaseDate": "2026",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/36360",
-      "fitHypothesis": "Resident Advisor describes lonely handclaps, chiming guitar and a bone-rattling drone, ending in a swirl of echoes that circles rather than resolves.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Resident Advisor describes lonely handclaps, chiming guitar and a bone-rattling drone, ending in a swirl of echoes that circles rather than resolves.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a circular sparse ending can convert a following flare or descent into consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Eyes of the Wind and Nukumori",
-          "precedingUri": "spotify:track:4TYDYLPqcMxbP0J3pFMJi4",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "Test a sparse circular threshold before the late happy-hardcore flare.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "purpose": "Test whether the echoing circle deepens the flare's aftermath or delays the descent.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Pole",
-      "track": "Allermannsharnisch",
-      "album": "Tempus",
-      "releaseDate": "2022",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/pole-tempus/",
-      "fitHypothesis": "Pitchfork describes bass weight lifted by exploratory piano chords before increasingly loud synth drones overtake the track; it ends on a somber fading piano chord.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes bass weight lifted by exploratory piano chords before increasingly loud synth drones overtake the track; it ends on a somber fading piano chord.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an overtaken piano form can connect dissolution to consolidation without adding another full ending.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:25K72e6yUjqz8jAHaXTO7q",
-          "followingUri": "spotify:track:2JMnEIvFX7j2wVavStmjCL",
-          "purpose": "If selected, test whether piano-to-drone overtaking changes Amor's mutation task.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Pole",
-      "track": "Grauer Sand",
-      "album": "Tempus",
-      "releaseDate": "2022",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/pole-tempus/",
-      "fitHypothesis": "Pitchfork describes uptempo percussion hurrying beneath upper-register flashes of melody.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes uptempo percussion hurrying beneath upper-register flashes of melody.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve an exact rhythm-led catalogue identity while leaving direction, endpoint and perceived pulse unknown.",
+        "editorialInterpretation": "Test whether crisp electro percussion can preserve bodily continuity across a production-world change.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -296,7 +287,7 @@
           "position": "Between Freepass for Them and Moonwake",
           "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
           "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "purpose": "If selected, test whether hurried percussion develops preserved drive or merely inserts another acceleration.",
+          "purpose": "Test precision after preserved-drive redirection before intensification.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": 140
@@ -305,19 +296,19 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "Pole",
-      "track": "Düsseldorf",
-      "album": "Steingarten",
-      "releaseDate": "2007",
+      "artist": "Mark Fell",
+      "track": "large modulos #3",
+      "album": "Nite Closures",
+      "releaseDate": "2025",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/10000-steingarten/",
-      "fitHypothesis": "Pitchfork describes a high ping sent through delay that gradually begins to throb out of time with the rhythm track.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/mark-fell-psychic-resynthesis-nite-closures-ep/",
+      "fitHypothesis": "Pitchfork calls the exact track shuddering and emphasizes the beauty produced within its difficult, limit-testing beat system.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes a high ping sent through delay that gradually begins to throb out of time with the rhythm track.",
+        "attributedDescription": "Pitchfork calls the exact track shuddering and emphasizes the beauty produced within its difficult, limit-testing beat system.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether gradually diverging clockwork can make a reset consequential without overexplaining metric instability.",
+        "editorialInterpretation": "Test whether shuddering rhythmic beauty can open a useful consequence rather than entering on technical distinction alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -326,31 +317,31 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "If selected, test delayed temporal drift before the dubwise reset.",
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "purpose": "Test a shuddering system before the existing agitation-to-reassembly hinge.",
           "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 130
+          "incomingBpm": 138,
+          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Pole",
-      "track": "Winkelstreben",
-      "album": "Steingarten",
-      "releaseDate": "2007",
+      "artist": "MIZU",
+      "track": "The Riddle",
+      "album": "4 | 2 | 3",
+      "releaseDate": "2024",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/10000-steingarten/",
-      "fitHypothesis": "Pitchfork describes opposing shapes and textures producing unexpected convergences, with manipulated guitar feedback adding grit.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/mizu-4-2-3/",
+      "fitHypothesis": "Pitchfork describes the exact closer as a spare, gentle ensemble arrangement gradually shrouded in filters and distortion until its phrase decays.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes opposing shapes and textures producing unexpected convergences, with manipulated guitar feedback adding grit.",
+        "attributedDescription": "Pitchfork describes the exact closer as a spare, gentle ensemble arrangement gradually shrouded in filters and distortion until its phrase decays.",
         "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve a texture-conflict catalogue identity without treating convergence as proof of a canonical handoff.",
+        "editorialInterpretation": "Test whether an adjacent-world decaying phrase can make the electronic-soul afterword newly necessary without replacing the existing descent.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -359,13 +350,13 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Fulledge (Empty-40 Mix) and Capa",
-          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "purpose": "If selected, test whether opposing-texture convergence sharpens the dissolution-to-redirection turn.",
+          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "purpose": "Test a filtered-decay interlude between dead-space descent and afterword.",
           "candidateBpm": null,
           "incomingBpm": null,
-          "outgoingBpm": 137
+          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
