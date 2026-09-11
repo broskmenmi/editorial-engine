@@ -1,5 +1,27 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 159 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Wata Igarashi | Turbulence | https://open.spotify.com/track/3ThSJp6CdMO4LVsEJQzbzB | PARKED at *Worn Down → candidate → Tides Alternate*; the *LOVE YOUR ENEMIES → candidate → Tehutis Law* alternative is rejected. Relentless up/down progression remains genuinely interesting. Album/date warning preserved. |
+| EXACT TRACK | Wata Igarashi | Stuck In CDG | https://open.spotify.com/track/2BXjcVrlPs2vSXiEKxrbTn | Placement-specific REJECT only after *Moonwake* and after *Tehutis Law*; incisive sinusoid-bass protrusion remains genuinely interesting elsewhere. Album/date warning preserved. |
+| EXACT TRACK | Lolina | Glitching | https://open.spotify.com/track/17Bwb2qC6uXeNWQCUR8nlc | Placement-specific REJECT only between *FELT* and *Thick to Handle*; concise infectious procedural bounce remains genuinely interesting elsewhere. Date warning preserved. |
+| RESEARCH LEAD | Lolina | The Opaque | https://ra.co/reviews/19681 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | Colomboi | Alchemy | https://illegalalienrecords.bandcamp.com/album/alchemy | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | ASKE | Far From Oort Cloud | https://conceptohipnotico.bandcamp.com/album/lyra-chr360 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE WATCH | DJ AGITATED / Dolly | Archive of Disappearing Now | https://dolly-records.bandcamp.com/album/archive-of-disappearing-now | Same-day melodic body-oriented techno window; two exact alternates resolved but remained unselected and unevaluated. |
+| RELEASE WATCH | Colomboi / Illegal Alien Records; ASKE / Concepto Hipnotico | Alchemy; Lyra [CHR360] | https://illegalalienrecords.bandcamp.com/album/alchemy | Same-day emerging and adjacent techno windows; exact musical claims remain scoped to release-level evidence. |
+
+### Placement and inspiration boundaries
+
+- *Turbulence* remains PARKED only at the Worn Down/Tides hypothesis; its pre-Tehutis placement is rejected.
+- *Stuck In CDG* and *Glitching* remain interesting despite placement-specific rejection; neither is globally rejected.
+- Lolina — *Strobing* (`spotify:track:65wQ6kZ9rHSH77U7178rT8`), DJ Agitated — *Conflicted* (`spotify:track:5ru3BWlIPuEn3cqDoi4j6l`) and DJ Agitated — *Archive of a disappearing now* (`spotify:track:0foKxE75Z4ylZYTpaKSZNG`) are exact unselected alternates, not evaluated or retained decisions.
+- Unresolved leads and release watches do not enter the global utility ledger.
+- No BPM, pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge is asserted.
+
+
 ## Run 158 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
