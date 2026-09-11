@@ -1,5 +1,55 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 146 — EXPLORE — fresh rhythmic fields remain unresolved in Spotify SE — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 39 unique canonical tracks with 39 matching annotations, a matching journey map and a COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 308 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-11T07:48:57Z-explore-146` inspected approximately 57 named tracks, releases and catalogue references across Picture's 2026 *Uuuuuuuu*, Anysia Kym and Tony Seltzer's 2026 *Purity (Flips)*, Stenny's 2019 *Upsurge*, Andrea's 2020 *Ritorno* and adjacent Short Span, 10k and Ilian Tape paths. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries, recently decided fields and unresolved leads without materially new identity evidence were excluded. Nine honest leads survived (15.8%). The immutable schemaVersion 2 request was pinned to `21712b0dcdd20c46a01d56524ec2d410eb2411b2` in `4377521e446194d07fb821be54e33f36c743dc95`. Matching snapshot commit: `6454c2f0aaa8c57efee6e1038cf8c37506826767`; fingerprint `fb1ebefe1796a3d22749ac3fa398c38941f468070c72b18e7aed3ef3be24ddf2`.
+
+Source windows:
+
+- Current: Picture — *Uuuuuuuu* / Short Span — https://pitchfork.com/reviews/albums/picture-uuuuuuuu/
+- Adjacent/emerging: Anysia Kym, Tony Seltzer — *Purity (Flips)* / 10k — https://pitchfork.com/reviews/albums/anysia-kym-tony-seltzer-purity-flips/
+- Overlooked catalogue: Stenny — *Upsurge* and Andrea — *Ritorno* / Ilian Tape — https://pitchfork.com/reviews/albums/stenny-upsurge/ ; https://pitchfork.com/reviews/albums/andrea-ritorno/
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: NONE`: 9 requested, 0 resolved candidates, 9 unresolved identities, no duplicates, alternates, substitutions, relinkings, warnings or technical failures.
+
+Unresolved without musical verdict:
+
+- Picture — *Quuuuuuu*: `no exact Spotify title/artist search match in market SE`
+- Picture — *Leeeeee*: `no exact Spotify title/artist search match in market SE`
+- Anysia Kym, Tony Seltzer, Bored Lord — *Great Escape - Bored Lord Remix*: `no exact Spotify title/artist search match in market SE`
+- Anysia Kym, Tony Seltzer, DORIS — *Long4 - DORIS Remix*: `no exact Spotify title/artist search match in market SE`
+- Anysia Kym, Tony Seltzer, umru, username — *Speedrun - umru & username Remix*: `no exact Spotify title/artist search match in market SE`
+- Stenny — *BFRB*: `no exact Spotify title/artist search match in market SE`
+- Stenny — *Fast Fade*: `no exact Spotify title/artist search match in market SE`
+- Stenny — *Sensitive Habitat*: `no exact Spotify title/artist search match in market SE`
+- Andrea — *LS September*: `no exact Spotify title/artist search match in market SE`
+
+### Evaluation and Auditor gate
+
+No exact candidate identity existed, so no candidate was evaluated and no volume-fit, immediate-transition, local-run or long-form verdict was issued. The nine resolver errors are identity outcomes, not musical rejections and not a technical `*_NOT_COMPLETED` result.
+
+Auditor approval: preserve every unresolved lead as research state; retain the four source/catalogue windows and one set direction; make no canonical, rejected, revisit, annotation, publication-input or global utility change. BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure, mixability and all proposed handoffs remain unknown. Audio analysis and live mixing were not performed.
+
+### Durable result
+
+STRANGE GAIT remains 39 canonical tracks. EDITORIAL ENGINE — DISCOVERY POOL remains 308 tracks. Target-local discovery and set-direction layers record the nine unresolved exact-title leads and source windows. No actionable musical or workflow REPAIR emerges.
+
+### Run analysis
+
+`~57 inspected → 9 leads → 0 exact resolutions + 9 unresolved → 0 evaluations → 0 ADD / no musical verdict → 0 utility additions`
+
+Inspection-to-lead conversion: 15.8%. Lead-to-resolution conversion: 0.0%. Selected-candidate-to-ADD conversion: not applicable.
+
+Across Runs 87–146: 530 leads from approximately 2,891 inspections; 24 ADDs from 160 selected candidates. The recent completed-run ADD rate is 4/10, and the no-ADD streak is one completed run since Run 145. A single all-unresolved snapshot does not establish Scout over-filtering or playlist completion: the loss is concentrated in Spotify-SE availability and exact artist/title formatting across current, remix and Ilian Tape fields. Resolver execution itself completed successfully.
+
+
+
 ## Run 145 — EXPLORE — rolling formation can deepen a reset without becoming another destination — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 38 unique canonical tracks with 38 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 306 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 144 was the only completed run since Run 143's ADD, so no stagnation repair was actionable.

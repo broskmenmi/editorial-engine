@@ -1,5 +1,20 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 146 harvest — 2026-09-11
+
+| Kind | Artist / field | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| UNRESOLVED | Picture | Quuuuuuu; Leeeeee | See discoveries.md exact errors | Two current exact-title leads remain research state without musical verdict or utility entry. |
+| UNRESOLVED | Anysia Kym, Tony Seltzer with Bored Lord / DORIS / umru, username | Great Escape - Bored Lord Remix; Long4 - DORIS Remix; Speedrun - umru & username Remix | See discoveries.md exact errors | Three emerging remix leads remain research state without musical verdict or utility entry. |
+| UNRESOLVED | Stenny | BFRB; Fast Fade; Sensitive Habitat | See discoveries.md exact errors | Three overlooked Ilian Tape exact-title leads remain research state without musical verdict or utility entry. |
+| UNRESOLVED | Andrea | LS September | See discoveries.md exact error | One overlooked Ilian Tape exact-title lead remains research state without musical verdict or utility entry. |
+| CURRENT / ADJACENT WATCH | Picture / Short Span; Anysia Kym, Tony Seltzer / 10k | Uuuuuuuu; Purity (Flips) | https://pitchfork.com/reviews/albums/picture-uuuuuuuu/ ; https://pitchfork.com/reviews/albums/anysia-kym-tony-seltzer-purity-flips/ | Micro-rhythmic multiplication and cross-club remix mutations remain useful current fields. |
+| CATALOGUE WATCH | Stenny; Andrea / Ilian Tape | Upsurge; Ritorno | https://pitchfork.com/reviews/albums/stenny-upsurge/ ; https://pitchfork.com/reviews/albums/andrea-ritorno/ | Loose-limbed breakbeat and organized-chaos catalogue paths remain useful. |
+
+Editorial boundary: all nine identities are unresolved, were not evaluated and receive no canonical or utility verdict. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all proposed handoffs remain unknown.
+
+
+
 ## Run 145 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

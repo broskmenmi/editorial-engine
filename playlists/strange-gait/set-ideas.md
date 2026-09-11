@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 146 — Multiplication and club-language pivots need exact identity
+
+**Direction:** Explore rhythmic constructions that multiply, reverse, dissolve or switch club language only where an exact identity can support separate transition, local-run and long-form testing.
+
+**Ingredients:**
+
+- Picture — *Quuuuuuu* and *Leeeeee* — unresolved current exact-title leads involving catch-and-release detail and multiplication into grain-dissolution.
+- Anysia Kym and Tony Seltzer remix leads with Bored Lord, DORIS, umru and username — unresolved Baltimore-club, Jersey-club and breakcore-footwork research directions.
+- Stenny — *BFRB*, *Fast Fade* and *Sensitive Habitat*, plus Andrea — *LS September* — unresolved Ilian Tape catalogue leads spanning nimble attack, drum'n'bass motion, rapid percussion under drone and dreamy breakbeats.
+
+**Why interesting:** A conspicuous rhythmic turn can make changing production worlds feel deliberate, but source-level promise cannot establish what the track's exit makes its successor do.
+
+**Unknown / risk:** Every Spotify identity, BPM, perceived pulse, energy, density, space, phrase structure, mixability and proposed handoff remains unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
+
+
 ## Run 145 — Rolling formation between reset and deformation
 
 **Direction:** Explore concise rolling or stable formations that make a move between reset and deformation feel intentional, while rejecting extra re-entry stages that merely perform a successor's existing work.
