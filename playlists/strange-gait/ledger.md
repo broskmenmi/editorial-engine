@@ -46,11 +46,14 @@
 | 40 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
 | 41 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
 | 42 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 43 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 43 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 44 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 43 canonical tracks.**
+**ACTIVE EXPANSION — 44 canonical tracks.**
+
+EXPLORE run `2026-09-11T15:53:50Z-explore-154` adds TYGAPAW, Precious Okoyomon — *Can I live* between Jlin — *Rabbit Hole* and Steve Rachmad — *Invisible Warriors Of Light*. Pitchfork documents the exact 2:37 track moving from low-boil drone and spoken word into a restrained coda of grimy muffled bass and sandpapery footwork beats, described as a hesitant beginning rather than an ending. Editorially, `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live → Invisible Warriors Of Light` moves from liminal percussion through flare and descent into restrained re-entry, then afterword. The insertion is proportionate and gives the existing afterword a continuation task. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative before *Transparency* is rejected only for that placement because it would create another re-entry immediately before the protected block opener.
 
 EXPLORE run `2026-09-11T14:51:36Z-explore-153` adds Shackleton — *Elemental Dream* between Valesuchi — *Amor* and Inspired Groove — *Truth in Noise*. Pitchfork documents the exact track exploding after two bars into unstable voices, kalimba, serrated synthesizers and drums, then periodically stripping those tonal and percussive layers back to swirling dub delay. Editorially, `Té de Cabello Blanco → Ikoyi → Amor → Elemental Dream → Truth in Noise` moves through reassembly, dissolution and hand-drum mutation into instability that creates its own breathing room before groove consolidation. The 5:48 insertion is proportionate and gives *Truth in Noise* a concrete state to consolidate. Exact entry, exit, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative before *Nukumori* is rejected only for that placement because it would place one explosive event immediately before another and weaken the flare-to-descent relation.
 
@@ -118,7 +121,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All forty-three individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
+All forty-four individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -134,9 +137,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`— → 136 → 136 → — → — → 134 → 135 → — → — → — → 140 → — → 140 → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → 140 → 138 → — → — → — → — → 138 → — → 143 → 140 → 137 → — → — → — → — BPM`
+`— → 136 → 136 → — → — → 134 → 135 → — → — → — → 140 → — → 140 → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → 140 → 138 → — → — → — → — → 138 → — → 143 → 140 → 137 → — → — → — → — → — BPM`
 
-`— Stadium Drive, Encasadelciegoeltuerco, Carried, Foundry, Worn Down, Tides Alternate, Freepass for Them, Raataja, Crawl, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, U Belong 2 Me, Eyes of the Wind, Nukumori, Rabbit Hole, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
+`— Stadium Drive, Encasadelciegoeltuerco, Carried, Foundry, Worn Down, Tides Alternate, Freepass for Them, Raataja, Crawl, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, U Belong 2 Me, Eyes of the Wind, Nukumori, Rabbit Hole, Can I live, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

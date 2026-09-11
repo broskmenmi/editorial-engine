@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 154 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | TYGAPAW, Precious Okoyomon | Can I live | https://open.spotify.com/track/62MyAepcRwleCdrXXRgPmh | Canonical ADD after *Rabbit Hole*; drone and spoken word give way to a restrained footwork coda that behaves like a beginning before the afterword. Date warning preserved. |
+| EXACT TRACK | µ-Ziq | Hyper Daddy | https://open.spotify.com/track/7vVn3qhWBsNZ4c7aFNIZ63 | Placement-specific REJECT only after *LOVE YOUR ENEMIES* and after *FELT*; three interacting, humanized drum lines remain genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Gábor Lázár | Effort | https://open.spotify.com/track/7jYaEuZyZ8pW0jILWWO7ak | Placement-specific REJECT only after *Elemental Dream* and after *Capa*; swiveling, contorting bass remains genuinely interesting elsewhere. Date warning preserved. |
+| UNRESOLVED | TYGAPAW; Gábor Lázár | M32 Riddim; Boundary Object V | See discoveries.md exact errors | Two ambiguous exact-title leads remain unresolved without musical verdicts or utility entries. |
+| RESOLVED ALTERNATES | µ-Ziq; Gábor Lázár; TYGAPAW | Metaphonk; Phase; Helicopter hovers over my Crown Heights Apartment; Manscape | Exact URIs in discoveries.md | Four exact alternates remain unselected and unevaluated; all date warnings are preserved. |
+| CURRENT WATCH | TYGAPAW / Tresor | Together You Gather All Power Applied Worldwide | https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/ | Drone-to-footwork transformation, acidic drum-and-bass motion and seizure-like propulsion remain useful current directions. |
+| RECENT / CATALOGUE WATCH | µ-Ziq / Planet Mu; Gábor Lázár / Planet Mu | Grush; Source; Boundary Object | https://pitchfork.com/reviews/albums/u-ziq-grush/ ; https://pitchfork.com/reviews/albums/gabor-lazar-source/ ; https://pitchfork.com/reviews/albums/gabor-lazar-boundary-object/ | Humanized multi-line drums, dembow/post-rave construction and algorithmic phrase inversion remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- *Can I live* is canonical only at the approved position after *Rabbit Hole*.
+- *Hyper Daddy* and *Effort* are rejected only at their documented positions.
+- Two unresolved leads receive no musical verdict; four exact alternates were not evaluated.
+- No BPM, perceived pulse, energy, density, space, phrase structure, mixability or live edge was inferred.
+
 ## Run 153 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

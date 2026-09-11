@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 154 — EXPLORE — restrained eruption can reopen the afterword
+
+TYGAPAW, Precious Okoyomon — *Can I live* is added between *Rabbit Hole* and *Invisible Warriors Of Light*. Pitchfork describes the exact track moving from low-boil drone and spoken word into a restrained coda of grimy muffled bass and sandpapery footwork beats—a hesitant beginning rather than an ending. Editorially, `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live → Invisible Warriors Of Light` moves from liminal percussion through flare and descent into restrained re-entry, then continuation. At 2:37, the insertion is proportionate. Its alternative before *Transparency* fails because it would create another re-entry immediately before the protected block opener.
+
+µ-Ziq — *Hyper Daddy* and Gábor Lázár — *Effort* remain genuinely interesting but fail only their tested positions. The first extends rhythmic conflict or deformation without changing the successor's work; the second refills *Elemental Dream*'s breathing room or crowds the redirection into *Sarniezz*.
+
+The first resolver attempt failed with a transient Spotify 502 and is preserved as RESOLUTION_NOT_COMPLETED. A bounded retry of the same immutable request produced an internally valid schemaVersion 2 PARTIAL snapshot: seven exact resolutions, three selected candidates, four exact unevaluated alternates, two unresolved identities and seven preserved date warnings. There were no duplicates, substitutions or relinkings. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** a restrained eruption can reopen a journey when its endpoint gives the afterword a continuation task.
+
 ## Run 153 — EXPLORE — self-stripping instability can make consolidation consequential
 
 Shackleton — *Elemental Dream* is added between *Amor* and *Truth in Noise*. Pitchfork describes the track exploding after two bars into unstable voices, kalimba, serrated synthesizers and drums, then periodically stripping those layers back to swirling dub delay. The five-track run `Té de Cabello Blanco → Ikoyi → Amor → Elemental Dream → Truth in Noise` now moves from reassembly through dissolution and hand-drum mutation into instability that opens its own breathing room before consolidation. At 5:48, the insertion is proportionate. Its alternative before *Nukumori* fails because it would place one explosive event directly before another and weaken the current flare-to-descent relation.

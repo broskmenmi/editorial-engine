@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 154
+
+### A restrained eruption can behave like a beginning
+
+**Direction:** Explore transformations whose final rhythmic event remains open enough that an afterword becomes continuation, while rejecting intermediate flux that refills an absence or duplicates an existing deformation.
+
+**Ingredients:**
+
+- TYGAPAW, Precious Okoyomon — *Can I live* — exact canonical ADD after *Rabbit Hole*; low-boil drone and spoken word give way to a restrained footwork coda described as a hesitant beginning
+- Steve Rachmad — *Invisible Warriors Of Light* — canonical reference point for the following afterword
+- µ-Ziq — *Hyper Daddy* — exact placement-specific reject; three interacting humanized drum lines remain useful outside the two tested central passages
+- Gábor Lázár — *Effort* — exact placement-specific reject; swiveling, contorting bass remains useful outside the tested refilling and duplicate-deformation positions
+- Four exact alternates remain unselected and unevaluated; two short-title leads remain ambiguous
+
+**Why interesting:** A late rhythmic event can reopen the journey without installing a second ending when its endpoint behaves like a beginning and gives the afterword a clear continuation task.
+
+**Unknown / risk:** These are not proven sequences or mixing edges. BPM, perceived pulse, energy, density, space, phrase structure, key, mixability and live behavior remain unknown.
+
 ## Current additions — Run 153
 
 ### Self-stripping instability can prepare consolidation

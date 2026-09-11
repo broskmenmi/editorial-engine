@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 154 — EXPLORE — restrained eruption before the afterword — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 43 unique canonical rows and a matching COMPLETE 43/43 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 328 contiguous unique exact tracks and a matching COMPLETE 328/328 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 153 had just ended a three-run no-ADD streak, so no stagnation repair was warranted.
+
+### Exploration receipt
+
+Run `2026-09-11T15:53:50Z-explore-154` inspected approximately 58 named tracks, releases and catalogue references across live September 9–11, 2026 Pitchfork and Resident Advisor feeds, TYGAPAW's 2026 *Together You Gather All Power Applied Worldwide*, µ-Ziq's 2024 *Grush*, and Gábor Lázár's 2020 *Source* and 2022 *Boundary Object*. Nine honest leads survived (15.5%). Run 153 decisions and source windows, recent Run 141–153 artist fields, canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Already-inspected current Bonobo, Argento, Bitchin Bajas, Booker Stardrum/Evan Shornstein, Nathan Fake and Placid Angles material was not recycled. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T15:53:50Z-explore-154`
+- sourceCommit: `afdae3b0405f4a21a7cf5c0d52394d8c03a73b57`
+- request commit: `de1bf9585650182efa7030d84cf47871ca77cbc3`
+- resolver commit: `c3538a62192909b15321d88d0d5e50b820900161`
+- requestFingerprint: `e9ba8de20dec04218ebe8e57e5765f1881eafaa4d2611ccc21ebbb9521ede816`
+- first attempt: **RESOLUTION_NOT_COMPLETED**. Exact error preserved: `SpotifyApiError: Spotify /search?q=Effort+G%C3%A1bor+L%C3%A1z%C3%A1r&type=track&market=SE&limit=10 failed: 502 {"error":{"status":502,"message":"An unexpected error occurred. Please try again later."}}`
+- bounded retry of the same immutable request: success.
+- final matching schemaVersion 2 `PARTIAL`: 9 requested → 7 exact resolutions → 3 selected candidates; 2 unresolved identities; 7 warnings; 4 resolved alternates; no duplicates, substitutions, relinkings or terminal technical failures.
+
+Warnings preserved exactly:
+
+- TYGAPAW — *Can I live*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-08"`
+- µ-Ziq — *Hyper Daddy*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-06-14"`
+- Gábor Lázár — *Effort*: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-06-26"`
+- µ-Ziq — *Metaphonk*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-06-14"`
+- Gábor Lázár — *Phase*: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-06-26"`
+- TYGAPAW — *Helicopter hovers over my Crown Heights Apartment*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-08"`
+- µ-Ziq — *Manscape*: `Exact title/artist matched with release metadata variance: release date requested "2024" but Spotify returned "2024-06-14"`
+
+Unresolved without musical verdict:
+
+- TYGAPAW — *M32 Riddim*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2Unex0Amal5pgeIOwNOAS4, 2mCuGGAMp2K86a5XnzwBi6)`
+- Gábor Lázár — *Boundary Object V*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5jq7asOFWJxF8rGWevy7iI, 35bDBlqdmr2Pl1tjrT3AKU)`
+
+Resolved but unselected and unevaluated:
+
+- µ-Ziq — *Metaphonk* — `spotify:track:38JEtUfZpWlx3sHQXNVu5B`
+- Gábor Lázár — *Phase* — `spotify:track:2ZoFefrYAQzKspAbgXMgHW`
+- TYGAPAW — *Helicopter hovers over my Crown Heights Apartment* — `spotify:track:0pkEU4ze1HLF10WkQsJ16o`
+- µ-Ziq — *Manscape* — `spotify:track:3rBYYxzoMDhnkikFGc8coz`
+
+### Candidate evaluations
+
+#### TYGAPAW, Precious Okoyomon — Can I live — ADD
+
+- **Exact identity:** `spotify:track:62MyAepcRwleCdrXXRgPmh`; 2:37; *Together You Gather All Power Applied Worldwide*; Spotify release date 2026-05-08.
+- **Volume fit:** PASS. The exact track transforms a low-boil droning synth loop and spoken-word recitation into a coda of grimy muffled bass and sandpapery footwork beats, directly engaging rhythmic and structural freedom without relying on novelty alone.
+- **Immediate transition:** PASS provisionally at `Rabbit Hole → candidate → Invisible Warriors Of Light`. *Rabbit Hole*'s canonical dead-space descent can yield to the candidate's low-boil opening; its restrained footwork coda is described as a hesitant beginning rather than an ending, giving the electro-soul afterword a concrete continuation task. Exact handoffs remain untested.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live → Invisible Warriors Of Light` moves from liminal percussion through a brief flare and descent into a restrained re-entry, then afterword. The candidate changes the close's character while preserving causal flow.
+- **Long-form journey:** PASS. At 2:37, the insertion is proportionate and turns the existing afterword into a continuation after restraint rather than creating a mandatory summit. The alternative before *Transparency* fails because its drone-to-footwork transformation would insert another re-entry immediately before the protected block opener.
+- **Verdict:** **ADD after Rabbit Hole**. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both new handoffs remain UNKNOWN.
+
+#### µ-Ziq — Hyper Daddy — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:7vVn3qhWBsNZ4c7aFNIZ63`; 5:25; *Grush*; Spotify release date 2024-06-14.
+- **Volume fit:** PASS. Three interacting drum lines and deliberately humanized shuffling hits fit the selection lens.
+- **Immediate transition:** FAIL only at the two tested positions. After *LOVE YOUR ENEMIES*, another multi-line rhythmic conflict delays *Tehutis Law*'s re-grounding. After *FELT*, it places extended rhythmic flux directly before *Thick to Handle* already performs deformation.
+- **Surrounding three-to-five-track run:** FAIL at both placements. Either local run stacks conflict upon conflict or formation, flux and deformation without changing the successor's work.
+- **Long-form journey:** NOT IMPROVED by either insertion. The 5:25 track remains genuinely interesting, but both tested positions lengthen an already articulated central passage.
+- **Verdict:** **REJECT the two tested placements only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every handoff remain UNKNOWN.
+
+#### Gábor Lázár — Effort — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:7jYaEuZyZ8pW0jILWWO7ak`; 3:29; *Source*; Spotify release date 2020-06-26.
+- **Volume fit:** PASS. The exact track's swiveling, contorting bass within disjointed futuristic dance rhythm fits the volume's selection lens.
+- **Immediate transition:** FAIL only at the two tested positions. After *Elemental Dream*, contorting low-end motion refills the breathing room that currently makes *Truth in Noise*'s consolidation consequential. After *Capa*, it adds another electronic deformation before *Sarniezz*'s existing live-band metric left turn.
+- **Surrounding three-to-five-track run:** FAIL at both positions. One run weakens the self-stripping-to-consolidation relation; the other crowds redirection, bass contortion and the live-band excursion into consecutive stages.
+- **Long-form journey:** NOT IMPROVED by either insertion. The candidate's movement remains interesting, but neither position gives the successor new work.
+- **Verdict:** **REJECT the two tested placements only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every handoff remain UNKNOWN.
+
+### Librarian / Auditor outcome
+
+Auditor approves one canonical ADD, two placement-specific REJECTs, three target-local exact discoveries, three source watches, one set direction, four exact unselected alternates and both unresolved identities. The global doctrine-free utility ledger receives the three selected exact identities only. The protected internal order remains unchanged.
+
+### Run analysis
+
+`~58 inspected → 9 leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → 1 ADD + 2 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 15.5%; lead-to-resolution conversion is 77.8%; selected-candidate-to-ADD conversion is 33.3%.
+
+Across Runs 87–154: 600 leads from approximately 3,338 inspections; 29 ADDs from 183 selected candidates. The recent completed-run ADD rate is 6/10. The completed-run no-ADD streak remains zero.
+
+The first resolver attempt failed on a transient Spotify 502 and is preserved as RESOLUTION_NOT_COMPLETED; the same immutable request then produced a valid snapshot on bounded retry. The three selected candidates yielded distinct consequences: *Can I live* passes because its documented restrained coda behaves like a beginning that makes the afterword newly continuative, while *Hyper Daddy* and *Effort* fail for local duplication and refilling. This does not support forced growth, resolver failure, repetitive placement search or epistemic veto. No actionable REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 153 — EXPLORE — self-stripping instability before consolidation — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 325 contiguous unique exact tracks and a matching COMPLETE 325/325 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.
