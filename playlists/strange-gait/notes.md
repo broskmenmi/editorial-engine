@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 139 — EXPLORE — simplicity and hybrid colour must change the next task
+
+No canonical track is added. South Beach Recycling with Atjazz — *Reset* and DJ Phil — *WhyUBeingWeird* pass the selection lens and remain genuinely interesting.
+
+*Reset* is rejected only in the two tested positions. At 9:48, its steady kick, repeating snare syncopation and late organ-centred development become a second formation after *Stadium Drive* or a long extra statement between the protected block and *Eyes of the Wind*. In neither passage does the next track receive new work.
+
+*WhyUBeingWeird* is PARKED after both planned placements. Current evidence verifies the exact four-minute identity and its G-funk synth colour inside a hybrid footwork release, but not the individual track's rhythmic development or endpoint. That gap is decision-critical because the track could be a concise redirection or a self-contained stylistic aside.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: two exact selected candidates, seven unresolved/duplicate outcomes, no alternates and two preserved metadata warnings. One requested BARUT identity was already present in persistent state. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 138 — EXPLORE — temporal strain must make re-entry consequential
 
 FIS — *Mildew Swoosh* is added between *backsliding* and *Fragments*. Pitchfork documents insectoid percussion and a scintillating synth arpeggio pulling against somnolent pads until a halftime/doubletime dichotomy nears breaking point. The five-track run `Pulse I → Roxellana → backsliding → Mildew Swoosh → Fragments` now moves from crooked accumulation and surge through dissolution and unresolved temporal strain into clearer driving re-entry.

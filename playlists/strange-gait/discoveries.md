@@ -1,5 +1,69 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 139 — EXPLORE — simplicity and hybrid colour must change the next task — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 289 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Runs 136–138 had each produced an ADD, so proportional growth was explicitly audited; those additions occupy distinct passages and change different downstream tasks, making the streak a monitoring signal rather than an actionable defect.
+
+### Exploration receipt
+
+Run `2026-09-11T01:51:35Z-explore-139` inspected approximately 52 current, adjacent, emerging and overlooked-catalogue entries across Bandcamp Daily's September 9, 2026 survey of August electronic releases, current Bulgarian folk-hardcore, Chicago footwork/garage, slow-techno and South African low-tempo windows, plus Graze's overlooked 2013 post-bass techno catalogue. Existing persistent identities and the recent FIS/Martyn/Tyler Friedman/Jlin/Vladislav Delay/Pearson Sound fields were excluded. Nine honest leads survived (17.3%). The immutable schemaVersion 2 request was pinned to `4585cc63a8b2a298dfb43fe51828362a33950dee` in `be24642053c6345625fe6678caa24b9a40b6f419`. Matching snapshot commit: `5578a44bb53be199cf09a7871ea91f0aff6edda8`; fingerprint `77e8f5d98f7f0c8b81f8a9a756bd2e4f60fd6e85d13c43f68fd3d7084cd66394`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 2 resolved, 2 selected, 7 unresolved, 0 alternates and 2 warnings; no substitutions, relinkings or technical failures. One lead was excluded as already present in persistent state.
+
+Selected exact identities:
+
+- South Beach Recycling, Atjazz — *Reset* — `spotify:track:5cP3QaSxoIQWJQ0Jf09QIB` — *Reset*, 2026-08-14, 588000 ms.
+- DJ Phil — *WhyUBeingWeird* — `spotify:track:5vxjfs5qSktAZHLW1RhDoY` — *Roll Wit Me*, 2026-08-07, 240000 ms.
+
+Unresolved or duplicate without musical verdict:
+
+- DJ Phil, HEAVEE — *House it Up*: `no exact Spotify title/artist search match in market SE`.
+- KAY BE — *BARUT*: `already present in persistent state`.
+- Graze — *Scrap*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2GnJD7gG3PdeuSRCuJhghJ, 1DBxvky1R6nf8ZSM4VkMPC)`.
+- Graze — *Skip/Crush*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0BqlzxS0cCQB7XDzh3KjCp, 25DtRYLbaa4tSzLR0arROg)`.
+- chimp! — *Emergency Broadcast System*: `no exact Spotify title/artist search match in market SE`.
+- Tee Illa, Nu Bantu Dialekt — *Pitori Jive*: `no exact Spotify title/artist search match in market SE`.
+- KAY BE — *TORBALAN*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5SLouGaG9rJ9flJXanzV5Y, 5ETKopVcdbu4GIKmywdNCI)`.
+
+Warnings preserved exactly:
+
+- Reset: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-08-14"`.
+- WhyUBeingWeird: `Exact title/artist matched with release metadata variance: album requested "Roll Wit Me EP" but Spotify returned "Roll Wit Me"; release date requested "2026" but Spotify returned "2026-08-07"`.
+
+### Evaluator and Sequencer assessment
+
+#### South Beach Recycling, Atjazz — Reset — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS at the adjacent edge. Bandcamp Daily describes steady kick and repeating snare syncopation, sparse chords and triangle, with an organ motif moving into the foreground after roughly six minutes. The release page identifies the selected 9:48 Atjazz version and says Rhodes, strings and Moog are layered onto the same organ-centred composition.
+- **Immediate transition:** UNKNOWN for both tested positions; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** FAIL for `Stadium Drive → Reset → Marauder → The Witching Hour`: a 9:48 deep-house statement becomes a second opening formation after the transformation-led overture and delays the current two-track techno anchor. FAIL for `When We Froze → Stardancer → Reset → Eyes of the Wind → Rabbit Hole`: another long self-contained formation sits between the protected block and the existing liminal descent, making *Eyes of the Wind* postponement rather than passage.
+- **Long-form journey:** FAIL proportionally for these placements. Radical simplicity is credible STRANGE GAIT material, but nearly ten minutes of internal motif development does not give either following track a new task.
+- **Verdict:** **REJECT the two Run 139 placements only**, not the track globally. Retain as genuinely interesting.
+
+#### DJ Phil — WhyUBeingWeird — PARKED / retained discovery
+
+- **Volume fit:** PASS provisionally. Bandcamp Daily identifies the exact track's G-funk synth language inside a footwork release that is largely four-to-the-floor while absorbing electro, jungle and R&B; the label page verifies the exact four-minute track.
+- **Immediate transition:** UNKNOWN for both tested positions; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** UNDECIDABLE for both `Sarniezz → Never Met → candidate → Trompe L'oeil → Thick to Handle` and `When We Froze → Stardancer → candidate → Eyes of the Wind → Rabbit Hole`. The available source identifies colour and release grammar but not the exact track's rhythmic development or endpoint, so it cannot distinguish purposeful redirection from a self-contained stylistic aside.
+- **Long-form journey:** UNDECIDABLE. A concise four-minute hybrid could provide a useful release or make an already articulate middle more crowded; the missing exact-track direction and exit would lead to materially different decisions.
+- **Verdict:** **PARKED** for the specific exact-track structural/endpoint gap after both planned placements were tested. This is not a generic missing-audio veto. Reopen for materially richer exact-track structural/connective evidence, lawful audio evidence or a changed journey need.
+
+### Auditor approval
+
+**APPROVED.** The schemaVersion 2 request is immutable and pinned to the live pre-request SHA; its matching PARTIAL snapshot preserves all nine outcomes, seven unresolved/duplicate errors and both warnings. Only the two selected exact identities entered evaluation. The Atjazz credit and 9:48 duration were reconciled against the release page rather than silently treating the original concept as the selected version. Both candidates were assessed separately at volume, transition, local-run and long-form scales. UNKNOWN handoff properties were not converted into automatic failures. The Reset rejection is placement-specific; WhyUBeingWeird is parked for a candidate-specific direction/endpoint gap after two placements, under the same evidence standard used for prior release-context PARKED decisions. Protected and frozen state remains intact.
+
+### Durable result
+
+- STRANGE GAIT: **unchanged at 37 canonical tracks**; no reorder and no journey-annotation change.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: both selected exact identities retained; six unresolved exact-title leads, one persistent duplicate and current DJ Phil/HEAVEE, KAY BE, chimp!, Tee Illa/Nu Bantu Dialekt, South Beach Recycling and Graze windows retained with evidence boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **289 → 291 exact tracks**, adding Reset and WhyUBeingWeird.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 52 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved/duplicate → 2 evaluations → **0 ADD + 1 placement-specific REJECT + 1 PARKED** → 2 utility additions. Inspection-to-lead conversion is 17.3%, lead-to-resolution conversion 22.2%, and selected-candidate-to-ADD conversion 0%. Across Runs 87–139: 467 leads from approximately 2,499 inspections; 22 ADDs from 143 selected candidates. The recent completed-run ADD rate remains 5/10 across Runs 129–139 with resolver-incomplete Run 133 excluded. The completed-run no-ADD streak is one since Run 138, with two exact interesting tracks retained during it. Strong lead conversion but low identity resolution makes resolver/identity loss the dominant limitation; BARUT's persistent-state exclusion also exposes one freshness-check miss. The strongest alternative explanation is playlist maturity: both resolved tracks remain interesting, yet one duplicates formation/passage work and the other lacks exact-track direction needed to choose between two materially different placements. The no-ADD result weakens concern that three consecutive additions reflected automatic expansion, but it does not prove the playlist complete, either candidate globally incompatible, any handoff poor, or the workflow free from future stagnation. No actionable REPAIR emerges. **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 138 — EXPLORE — temporal strain must make re-entry consequential — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 36 unique canonical tracks with 36 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 286 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.

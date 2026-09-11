@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 139 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | South Beach Recycling, Atjazz | Reset | https://open.spotify.com/track/5cP3QaSxoIQWJQ0Jf09QIB | Placement-specific REJECT only for both Run 139 positions; long repeating syncopation and organ-centred development remain interesting. Date variance preserved. |
+| EXACT TRACK | DJ Phil | WhyUBeingWeird | https://open.spotify.com/track/5vxjfs5qSktAZHLW1RhDoY | PARKED after two placements for a specific exact-track direction/endpoint gap; G-funk/footwork adjacency remains interesting. Album/date variance preserved. |
+| UNRESOLVED / DUPLICATE | DJ Phil / HEAVEE; KAY BE; Graze; chimp!; Tee Illa / Nu Bantu Dialekt | House it Up; BARUT; Scrap; Skip/Crush; Emergency Broadcast System; Pitori Jive; TORBALAN | See discoveries.md exact errors | Six unresolved exact-title outcomes and one persistent duplicate remain without verdict or utility entry. |
+| RELEASE / CATALOGUE WATCH | DJ Phil / HEAVEE; KAY BE; chimp!; Tee Illa / Nu Bantu Dialekt; South Beach Recycling; Graze | Roll Wit Me; ERBAP; Emergency Broadcast System; Pitori Jive; Reset; Edges | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 ; https://pitchfork.com/reviews/albums/18883-graze-edges/ | Current footwork/garage, folk-hardcore, slow-techno, low-tempo South African, reduced house and overlooked post-bass techno remain useful windows. |
+
+### Placement and inspiration boundaries
+
+- Reset is not globally rejected; its exact phrase fit and handoffs were not tested.
+- WhyUBeingWeird is parked for a specific individual-track direction/endpoint gap, not merely absent mix evidence.
+- Unresolved and duplicate leads do not enter the global utility ledger.
+- The set direction is an editorial hypothesis, not a proven sequence or live-mixing edge.
+
 ## Run 138 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

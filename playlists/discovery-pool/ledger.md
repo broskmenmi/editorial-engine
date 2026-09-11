@@ -293,6 +293,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 287 | Martyn, Mark Cisneros | Whiplashed | spotify:track:2fazuV8dHjCS0RuxrfXbRL | STRANGE GAIT Run 138 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 288 | Tyler Friedman | Jlaljar | spotify:track:4IGTpOd4dLivxNyhuR0yKJ | STRANGE GAIT Run 138 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 289 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | STRANGE GAIT Run 138 | ADD / interesting | 2026-09-11 |
+| 290 | South Beach Recycling, Atjazz | Reset | spotify:track:5cP3QaSxoIQWJQ0Jf09QIB | STRANGE GAIT Run 139 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 291 | DJ Phil | WhyUBeingWeird | spotify:track:5vxjfs5qSktAZHLW1RhDoY | STRANGE GAIT Run 139 | PARKED / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

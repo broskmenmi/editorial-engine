@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 139 — Simplicity and hybrid colour must change the next task
+
+**Direction:** Explore radical rhythmic simplicity and adjacent club colour only where the candidate's endpoint changes the following formation rather than adding a second opening, extra passage or stylistic aside.
+
+**Ingredients:**
+
+- South Beach Recycling, Atjazz — *Reset* — exact placement-specific reject; long repeating snare syncopation and organ-centred development remain useful outside the two tested positions.
+- DJ Phil — *WhyUBeingWeird* — exact PARKED discovery; G-funk/footwork colour is known, individual direction and endpoint are not.
+- *House it Up*, *Scrap*, *Skip/Crush*, *Emergency Broadcast System*, *Pitori Jive* and *TORBALAN* — unresolved exact-title leads without verdicts.
+- KAY BE — *BARUT* — excluded as already present in persistent state; no new verdict.
+
+**Why interesting:** Simplicity or familiar four-to-the-floor language can resist one fixed form through context and internal emphasis, but sequence space is earned by consequence rather than novelty or contrast alone.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 138 — Temporal strain must make re-entry consequential
 
 **Direction:** Explore opposed temporal layers, live/electronic polyrhythm and acoustic-digital builds where the unresolved endpoint gives the following track a concrete task.
