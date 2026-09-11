@@ -82,7 +82,7 @@ Inspection-to-lead conversion is 15.5%; lead-to-resolution conversion is 77.8%; 
 
 Across Runs 87–154: 600 leads from approximately 3,338 inspections; 29 ADDs from 183 selected candidates. The recent completed-run ADD rate is 6/10. The completed-run no-ADD streak remains zero.
 
-The first resolver attempt failed on a transient Spotify 502 and is preserved as RESOLUTION_NOT_COMPLETED; the same immutable request then produced a valid snapshot on bounded retry. The three selected candidates yielded distinct consequences: *Can I live* passes because its documented restrained coda behaves like a beginning that makes the afterword newly continuative, while *Hyper Daddy* and *Effort* fail for local duplication and refilling. This does not support forced growth, resolver failure, repetitive placement search or epistemic veto. No actionable REPAIR emerges.
+The first resolver attempt failed on a transient Spotify 502 and is preserved as RESOLUTION_NOT_COMPLETED; the same immutable request then produced a valid snapshot on bounded retry. An initial blank separator before global utility row 329 made the publisher stop at 328; the immediate continuity repair removed only that separator without changing any identity or verdict. The three selected candidates yielded distinct consequences: *Can I live* passes because its documented restrained coda behaves like a beginning that makes the afterword newly continuative, while *Hyper Daddy* and *Effort* fail for local duplication and refilling. This does not support forced growth, resolver failure, repetitive placement search or epistemic veto. No actionable REPAIR emerges.
 
 Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
 
