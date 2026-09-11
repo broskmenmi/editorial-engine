@@ -1,5 +1,88 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 160 — EXPLORE — interruption versus consequential residue — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 343 contiguous unique exact tracks and a matching COMPLETE 343/343 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact, and there was no active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair.
+
+### Exploration receipt
+
+Run `2026-09-11T21:52:48Z-explore-160` inspected approximately 61 named tracks, releases and catalogue references across Resident Advisor's September 11, 2026 new-music round-up and Loidis announcement; same-day Moving Pressure, Sungate and SK_eleven releases; the current Saint Abdullah & Eomac single; adjacent label catalogues; and current STRANGE GAIT inside-out boundaries. Run 159 identities and every previously evaluated, parked, rejected, unresolved or alternate identity found in current and archived history were excluded. Sources: https://ra.co/news/86010 · https://ra.co/news/85999 · https://fasebipolar.bandcamp.com/album/chromatic-escape · https://skeleven.bandcamp.com/album/in-cycles-sk11corp001 · https://movingpressure.bandcamp.com/album/moving-pressure-07 · https://saintabdullaheomac.bandcamp.com/album/when-the-sandbox-has-no-edge
+
+Ranked leads: (1) Fase Bipolar — *Urge & Dissolve*; (2) Confusion — *Space*; (3) Fase Bipolar — *Red Noise*; (4) Confusion — *In Cycles*; (5) Fase Bipolar — *Until We Sink*; (6) Confusion — *Truth*; (7) Rene Wise — *Fear of The Dark*; (8) Loidis — *Towlift*; (9) Saint Abdullah & Eomac — *Cyphers Become Sifr (ft. Abbas Zahedi)*.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request uses source commit `ab97dcc096ec43694c4ee92bb5a3728e2db0c404`. Matching snapshot fingerprint `2865bce2fc34d9863defcdc77f645958df0bce40b46a040ad65718d9e4984680` was generated at `2026-09-11T21:57:28.664Z`. Result: `PARTIAL`, 9 requested, 5 resolved, 3 selected candidates, 2 unselected exact alternates, 4 unresolved, no duplicates, substitutions, relinkings or technical failures.
+
+Unresolved without musical verdict:
+
+- Confusion — *Space*: `no exact Spotify title/artist search match in market SE`
+- Confusion — *In Cycles*: `no exact Spotify title/artist search match in market SE`
+- Confusion — *Truth*: `no exact Spotify title/artist search match in market SE`
+- Saint Abdullah & Eomac — *Cyphers Become Sifr (ft. Abbas Zahedi)*: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- Fase Bipolar — *Urge & Dissolve*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-09-04"`
+- Fase Bipolar — *Red Noise*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-09-04"`
+- Fase Bipolar — *Until We Sink*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-09-04"`
+- Loidis — *Towlift*: `Exact title/artist matched with release metadata variance: album requested "From The Toolkit Of Lovers" but Spotify returned "Towlift"; release date requested "2026-10-23" but Spotify returned "2026-09-10"`
+
+Selected exact identities:
+
+1. Fase Bipolar — *Urge & Dissolve* — `spotify:track:4cXrFMeENQBf8EV3XXhL6d`; Spotify album `Chromatic Escape`, date `2026-09-04`, duration 5:45, BPM unavailable.
+2. Fase Bipolar — *Red Noise* — `spotify:track:3Bi1N83BXxnrgU7NU4gTCp`; Spotify album `Chromatic Escape`, date `2026-09-04`, duration 5:36, BPM unavailable.
+3. Fase Bipolar — *Until We Sink* — `spotify:track:6FNZCsjC8Z7rRzfYp5VTNp`; Spotify album `Chromatic Escape`, date `2026-09-04`, duration 5:42, BPM unavailable.
+
+Resolved but unselected and unevaluated:
+
+- Rene Wise — *Fear of The Dark* — `spotify:track:3Lb5izDulVGQUqM0v1KwlS`.
+- Loidis — *Towlift* — `spotify:track:077abPPoTKZBORznkrmlna`; album/date warning above.
+
+### Canonical evaluations
+
+#### Fase Bipolar — *Urge & Dissolve* — PARKED
+
+- **Volume fit:** PASS. Sungate describes the exact track as melding a percussive pile driver with solar-flare flashes of high-frequency detail inside a functional release that avoids monotony. The interruption of a forceful rhythmic proposition fits the selection lens without novelty credit.
+- **Immediate transitions:** At `Drummz → candidate → Té de Cabello Blanco`, the bright interruptions could leave altered material for the successor's agitation-to-reassembly task, but the source does not establish direction or endpoint. At `Pulse I → candidate → Roxellana`, the force-and-flash construction adds a second escalation between crooked accumulation and directed surge.
+- **Three-to-five-track run:** `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi` could turn unpredictable rhythm into interrupted force and then reassembly before foreground dissolution, or could merely overfill the percussion chain; current exact evidence cannot distinguish those readings. `Tehutis Law → Pulse I → candidate → Roxellana → backsliding` clearly crowds the existing accumulation-to-surge-to-dissolution passage.
+- **Long-form journey:** A 5:45 high-attention proposition is proportionally material. It may change what reassembly must answer, but without endpoint evidence it may only postpone that answer. UNKNOWN is not failure, so the Drummz/Té hypothesis is PARKED; the Pulse/Roxellana placement is REJECT.
+- **Unknown:** BPM, perceived pulse, energy, density, space, phrase structure, exact direction, endpoint, both handoffs and mixability.
+
+#### Fase Bipolar — *Red Noise* — placement-specific REJECT
+
+- **Volume fit:** PASS. Sungate's exact-track description of a psychoacoustic spiral into incomprehensible dimensions supports structural and perceptual resistance without requiring genre purity.
+- **Immediate transitions:** At `Sarniezz → candidate → Never Met`, the spiral delays the existing return from the live-band pulse illusion. At `Elemental Dream → candidate → Truth in Noise`, it refills the exposed interval created by *Elemental Dream* before consolidation.
+- **Three-to-five-track run:** `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil` inserts a second electronic disorientation before transit and reset. `Amor → Elemental Dream → candidate → Truth in Noise → Same Way` stacks disorientation after a self-stripping instability whose residue already gives consolidation its task.
+- **Long-form journey:** Both placements add a complete perceptual crisis where the journey already has a legible left-turn return or instability-to-consolidation consequence. The rejection is placement-specific, not global.
+- **Unknown:** BPM, perceived pulse, energy, density, space, phrase structure, exact endpoint, handoffs and mixability.
+
+#### Fase Bipolar — *Until We Sink* — placement-specific REJECT
+
+- **Volume fit:** PASS. Sungate describes the exact track as tying concrete weight to the listener until submergence in black-tar bass, a bodily structural premise that fits the volume's lens.
+- **Immediate transitions:** At `Stardancer → candidate → Eyes of the Wind`, the complete descent becomes another late statement before the liminal-percussion corridor. At `backsliding → candidate → Mildew Swoosh`, it duplicates the existing movement from rhythmic dissolution into opposed temporal strain.
+- **Three-to-five-track run:** `When We Froze → Stardancer → candidate → Eyes of the Wind → Nukumori` inserts a second post-block threshold before the corridor and flare. `Roxellana → backsliding → candidate → Mildew Swoosh → Fragments` turns a directed surge into two consecutive dissolution/descent stages before re-entry.
+- **Long-form journey:** Both placements over-articulate an already causal passage and make the successor less necessary. The rejection is placement-specific, not global.
+- **Unknown:** BPM, perceived pulse, energy, density, space, phrase structure, exact endpoint, handoffs and mixability.
+
+The four unresolved leads receive no ADD/REJECT/REVISIT verdict. The two exact alternates are unselected and unevaluated.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode and target. All three selected identities are exact and unique; every warning and unresolved error is preserved; no alternate, duplicate, substitute, relinking or technical failure entered evaluation. Each selected candidate was judged independently for volume fit, immediate transition, surrounding run and long-form effect. No metadata-only inference supplies energy, density, space, hypnosis, emotional effect, phrase structure or mixability. The protected trio and all listener approval boundaries remain untouched. Auditor approves one PARKED verdict, five scoped placement rejections, local inspiration retention and three global utility additions. No canonical ADD, removal or reorder is approved.
+
+### Durable result
+
+- STRANGE GAIT remains **45 canonical tracks** with no reordering.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: *Urge & Dissolve* PARKED at the Drummz/Té hypothesis with its Pulse/Roxellana alternative rejected; *Red Noise* and *Until We Sink* retained as interesting placement-specific rejects; four unresolved leads and two unselected alternates preserved.
+- EDITORIAL ENGINE — DISCOVERY POOL: **343 → 346 exact tracks**, adding only the three selected retained identities.
+- Journey map: no canonical change; existing generated outputs remain current.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 unselected alternates → **0 ADD + 1 PARKED + 5 placement-specific rejections** → 3 utility additions. Across completed discovery Runs 87–160, excluding documentation-only Run 156: **645 leads from approximately 3,631 inspections; 30 ADDs from 198 selected candidates**. Inspection-to-lead conversion is **14.8%**, lead-to-resolution conversion **55.6%**, and selected-candidate-to-ADD conversion **0/3**. The recent completed-discovery ADD rate becomes **4/10**; the no-ADD streak becomes two completed discovery runs since Run 158, with six exact interesting tracks retained during it. Candidate-specific outcomes and a healthy resolution yield do not support forced growth, repetitive placement search, resolver failure or epistemic veto. The run does not prove any exact handoff, BPM, perceived pulse, energy, density, space, phrase fit, mixability or playlist completion.
+
+
 ## Run 159 — EXPLORE — protruding motion versus downstream work — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 340 contiguous unique exact tracks and a matching COMPLETE 340/340 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact, and there was no active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair.
