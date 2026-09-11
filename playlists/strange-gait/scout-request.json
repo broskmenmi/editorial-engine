@@ -1,223 +1,54 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-11T19:52:46Z-explore-158",
-  "sourceCommit": "d31ee5604cd20acbd9089384bf754ce5a78e9641",
+  "runId": "2026-09-11T20:50:56Z-explore-159",
+  "sourceCommit": "deee408f77fc89e9c3a9bf60adde1640ba7c521a",
   "mode": "EXPLORE",
   "target": {
     "role": "Fresh whole-journey discovery following a clean pre-audit",
-    "position": "Whole 44-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
-    "purpose": "Explore the September 2026 Goon Club Allstars compilation, Jennifer Loveless's current and recent catalogue, Nene H's current single, and overlooked September Collective material for exact-track consequences rather than novelty, genre, or technical cleverness."
+    "position": "Whole 45-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
+    "purpose": "Explore same-day Dolly, Illegal Alien Records and Concepto Hipnotico releases, an adjacent procedural-club catalogue, and overlooked Wata Igarashi material for exact-track consequences rather than novelty, orthodoxy or technical cleverness."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-11T19:52:46Z",
-    "approximateInspectedScope": "Approximately 59 named tracks, releases and catalogue references across the live September 11, 2026 Resident Advisor feed, Goon Club Allstars & Friends Volume 3, Jennifer Loveless's Familiar and Fever windows, Nene H's September 2026 announcement, and September Collective's overlooked 2007 catalogue; attributed criticism and official release notes only; no audio audition.",
+    "timestampUtc": "2026-09-11T20:50:56Z",
+    "approximateInspectedScope": "Approximately 57 named tracks, releases and catalogue references across the live September 11, 2026 Resident Advisor and Pitchfork feeds, same-day Dolly, Illegal Alien Records and Concepto Hipnotico releases, Lolina's procedural-club catalogue and Wata Igarashi's overlooked Travelling EP; attributed criticism and official release notes only; no audio audition.",
     "exclusions": [
-      "Run 157 Genichiro, Surgeon and Planetary Assault Systems decisions, unresolved identities and alternate were not recycled.",
-      "Previously evaluated, parked, rejected, unresolved and alternate identities found in STRANGE GAIT history were excluded.",
-      "Current releases with only album-level framing or tracks supported only by genre, prestige, production process or title were inspected but excluded.",
+      "Run 158 Cooly G, Neana, Swimming Pools of the World, Jennifer Loveless, TU3SDAY, Mystic Meg, Surreal Sessions, Nene H and September Collective identities were not recycled.",
+      "Previously evaluated, parked, rejected, unresolved and alternate STRANGE GAIT identities found in current and archived history were excluded.",
+      "Current releases supported only by genre tags, prestige, production process or title were inspected but not promoted above exact-track structural evidence.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Cooly G — Same Way",
-      "2. Neana — Laced-X",
-      "3. Swimming Pools of the World — The River Track",
-      "4. Jennifer Loveless — In touch again",
-      "5. Jennifer Loveless — Heaven (Late Night)",
-      "6. TU3SDAY, Mystic Meg — Regular Degular",
-      "7. Surreal Sessions — Dragon Warrior",
-      "8. Nene H — War das ein Traum",
-      "9. September Collective — Out of Intention"
+      "1. Wata Igarashi — Turbulence",
+      "2. Wata Igarashi — Stuck In CDG",
+      "3. Lolina — The Opaque",
+      "4. Lolina — Glitching",
+      "5. Lolina — Strobing",
+      "6. DJ AGITATED — Conflicted",
+      "7. DJ AGITATED — Archive of a disappearing now",
+      "8. Colomboi — Alchemy",
+      "9. ASKE — Far From Oort Cloud"
     ],
     "sourceWindows": [
-      "CURRENT LABEL WINDOW: Goon Club Allstars & Friends Volume 3, released September 4, 2026, supplies official exact-track descriptions spanning skittering low-end exchange, mutant grime, urgent structural oscillation and maximum-impact club forms. https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "CURRENT / ADJACENT ARTIST WINDOW: Jennifer Loveless's September 2026 Familiar announcement and 2025 Fever EP supply exact current and recent tracks framed through movement/reflection and detailed late-night minimal development. https://jenniferloveless.bandcamp.com/album/familiar https://jenniferloveless.bandcamp.com/album/fever-ep",
-      "CURRENT TECHNO WINDOW: Nene H's War das ein Traum, announced September 9, 2026, is identified as one of two tough techno tracks preceding two deconstructed EP counterparts. https://djmag.com/news/nene-h-announces-new-ep-shares-war-das-ein-traum-listen",
-      "OVERLOOKED CATALOGUE WINDOW: September Collective's 2007 Out of Intention supplies exact criticism of out-of-time loops, disconnected percussion and piano against a drum-machine clock. https://pitchfork.com/reviews/albums/10420-all-the-birds-were-anarchists"
+      "CURRENT / EMERGING TECHNO WINDOW: DJ AGITATED's Archive of Disappearing Now, Colomboi's Alchemy debut EP and ASKE's Lyra were released September 11, 2026 on Dolly, Illegal Alien Records and Concepto Hipnotico. https://dolly-records.bandcamp.com/album/archive-of-disappearing-now https://illegalalienrecords.bandcamp.com/album/alchemy https://conceptohipnotico.bandcamp.com/album/lyra-chr360",
+      "ADJACENT PROCEDURAL WINDOW: Lolina's Who is experimental music? and Ψ supply exact criticism of infectious bounce, concentrated rhythmic procedure and a lucid beat disintegrating into erratic form. https://ra.co/reviews/23976 https://ra.co/reviews/19681",
+      "OVERLOOKED TECHNO CATALOGUE WINDOW: Resident Advisor's Travelling review supplies exact descriptions of Wata Igarashi's protruding sinusoid bass, relentless vertical progression and brusque set-scale contrast. https://ra.co/reviews/25219"
     ]
   },
   "leads": [
     {
-      "artist": "Cooly G",
-      "track": "Same Way",
-      "album": "Goon Club Allstars & Friends Volume 3",
-      "releaseDate": "2026-09-04",
+      "artist": "Wata Igarashi",
+      "track": "Turbulence",
+      "album": "Travelling",
+      "releaseDate": "2020-08",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "fitHypothesis": "Goon Club Allstars describes the exact track as a heads-down funky speaker-pounder in which skittering drums and bass tones take turns delivering body blows.",
+      "discoverySource": "https://ra.co/reviews/25219",
+      "fitHypothesis": "Resident Advisor describes the exact track as almost motion-sickness-inducing, driven by a relentless up-and-down progression; it also places it among the EP's brusque cuts designed to stand out.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Goon Club Allstars describes the exact track as a heads-down funky speaker-pounder in which skittering drums and bass tones take turns delivering body blows.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether alternating drum-and-bass emphasis creates downstream work or merely inserts another body-led stage.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and U Belong 2 Me",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "purpose": "Test alternating low-end emphasis after consolidation before the bodily-to-funereal threshold.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test skittering low-end exchange before the conspicuous live-band left turn.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Neana",
-      "track": "Laced-X",
-      "album": "Goon Club Allstars & Friends Volume 3",
-      "releaseDate": "2026-09-04",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "fitHypothesis": "Goon Club Allstars describes the exact track as slinky melodies and club percussion meeting mutant grime sonics.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Goon Club Allstars describes the exact track as slinky melodies and club percussion meeting mutant grime sonics.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether melodic-percussive mutation produces a deliberate hinge rather than a decorative extra layer.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test mutant club-language friction after electronic re-entry before ambient destabilisation.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "purpose": "Test a conspicuous mutant hinge after the protected block before the late corridor.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Swimming Pools of the World",
-      "track": "The River Track",
-      "album": "Goon Club Allstars & Friends Volume 3",
-      "releaseDate": "2026-09-04",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "fitHypothesis": "Goon Club Allstars says the exact track rushes urgently between babbling euphoria and deeper undercurrents.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Goon Club Allstars says the exact track rushes urgently between babbling euphoria and deeper undercurrents.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether repeated movement between surface and depth reopens a consequence or installs another complete ending gesture.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "purpose": "Test urgent surface/depth oscillation after the restrained reopening before the final afterword.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "purpose": "Test oscillation as a conspicuous post-protected-block turn.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Jennifer Loveless",
-      "track": "In touch again",
-      "album": "Familiar",
-      "releaseDate": "2026-10-09",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.kaltblut-magazine.com/jennifer-loveless-in-touch-again/",
-      "fitHypothesis": "KALTBLUT describes the exact current single as balancing warmth, movement and nostalgia at the intersection of body-moving club music and reflection.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "KALTBLUT describes the exact current single as balancing warmth, movement and nostalgia at the intersection of body-moving club music and reflection.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether reflective movement creates useful continuation near the close rather than softening the existing reopening.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "purpose": "Test reflective body motion after descent before the restrained reopening.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Worn Down and Tides Alternate",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test warmth and movement after grinding pressure before opposed-speed balance.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Jennifer Loveless",
-      "track": "Heaven (Late Night)",
-      "album": "Fever EP",
-      "releaseDate": "2025-11-07",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://jenniferloveless.bandcamp.com/album/fever-ep",
-      "fitHypothesis": "Jennifer Loveless's official notes describe the exact track through warm, woozy chords, tripped-out minimal development and a rippling acid bassline.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Jennifer Loveless's official notes describe the exact track through warm, woozy chords, tripped-out minimal development and a rippling acid bassline.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether minimal development supplies a durable bridge or simply delays an already meaningful downstream change.",
+        "attributedDescription": "Resident Advisor describes the exact track as almost motion-sickness-inducing, driven by a relentless up-and-down progression; it also places it among the EP's brusque cuts designed to stand out.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether an overt vertical-feeling progression gives an existing balance or re-grounding passage new work rather than duplicating instability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -229,115 +60,16 @@
           "position": "Between Worn Down and Tides Alternate",
           "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test gradual acid-led development after grinding pressure before opposed-speed balance.",
+          "purpose": "Test a conspicuous up/down progression after grinding pressure before the existing opposed-speed balance.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
         },
-        {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test minimal development after self-stripping instability before consolidation.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "TU3SDAY, Mystic Meg",
-      "track": "Regular Degular",
-      "album": "Goon Club Allstars & Friends Volume 3",
-      "releaseDate": "2026-09-04",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "fitHypothesis": "Goon Club Allstars describes the exact collaboration as an ethereal banger presented with an unusually immediate, in-front-of-the-listener feel.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Goon Club Allstars describes the exact collaboration as an ethereal banger presented with an unusually immediate, in-front-of-the-listener feel.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether foregrounded immediacy creates a purposeful exit from the live-band turn or merely substitutes a new spectacle.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test foregrounded ethereal immediacy between the live-band left turn and electronic re-entry.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Surreal Sessions",
-      "track": "Dragon Warrior",
-      "album": "Goon Club Allstars & Friends Volume 3",
-      "releaseDate": "2026-09-04",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3",
-      "fitHypothesis": "Goon Club Allstars describes the exact track as an Amapiano/Gqom workout aimed at maximum dance-floor impact.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Goon Club Allstars describes the exact track as an Amapiano/Gqom workout aimed at maximum dance-floor impact.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether the left turn changes the successor's task; maximum impact alone cannot justify admission.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "purpose": "Test a pronounced club-language left turn after re-grounding before crooked accumulation.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Nene H",
-      "track": "War das ein Traum",
-      "album": "Seltsame Fabeln",
-      "releaseDate": "2026-10-09",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://djmag.com/news/nene-h-announces-new-ep-shares-war-das-ein-traum-listen",
-      "fitHypothesis": "DJ Mag identifies the exact current single as one of two tough techno tracks on an EP whose latter half presents deconstructed counterparts.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "DJ Mag identifies the exact current single as one of two tough techno tracks on an EP whose latter half presents deconstructed counterparts.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve exactly, but select for evaluation only if the snapshot and evidence justify more than genre and toughness.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
         {
           "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
           "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
           "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "purpose": "Test a tough-techno bridge between conflict and re-grounding without presuming its internal behavior.",
+          "purpose": "Test whether brusque oscillation creates a more consequential target for re-grounding or merely extends conflict.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
@@ -346,19 +78,19 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "September Collective",
-      "track": "Out of Intention",
-      "album": "All the Birds Were Anarchists",
-      "releaseDate": "2007",
+      "artist": "Wata Igarashi",
+      "track": "Stuck In CDG",
+      "album": "Travelling",
+      "releaseDate": "2020-08",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/10420-all-the-birds-were-anarchists",
-      "fitHypothesis": "Pitchfork describes the exact track as out-of-time loops of cardiac thuds, insect skitter and intermittent hi-hats with rudimentary bass and free piano held against a drum machine that keeps time as if disconnected.",
+      "discoverySource": "https://ra.co/reviews/25219",
+      "fitHypothesis": "Resident Advisor identifies the exact track's sinusoid bassline as physically incisive and places it among three brusque cuts that deliberately protrude in a set.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as out-of-time loops of cardiac thuds, insect skitter and intermittent hi-hats with rudimentary bass and free piano held against a drum machine that keeps time as if disconnected.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether apparent temporal disconnection can establish an opening premise without turning the constitution into a weirdness quota.",
+        "attributedDescription": "Resident Advisor identifies the exact track's sinusoid bassline as physically incisive and places it among three brusque cuts that deliberately protrude in a set.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether aggressive bass contour creates a consequential target for rupture or accumulation rather than another stable force stage.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -367,10 +99,259 @@
       },
       "proposedPlacements": [
         {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "purpose": "Test disconnected percussion and piano as a pre-opening proposition before Stadium Drive constructs the canonical rhythm.",
+          "position": "Between Moonwake and Raataja",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "purpose": "Test protruding bass pressure after intensification before Raataja's existing rupture.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test incisive bass after re-grounding before crooked accumulation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Lolina",
+      "track": "The Opaque",
+      "album": "Ψ",
+      "releaseDate": "2016-09",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/19681",
+      "fitHypothesis": "Resident Advisor describes the exact track beginning sparsely with kick, snare, hi-hat and synth, then deconstructing and time-stretching vocals while the beat turns random and erratic and melodic material smears toward atonality.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Resident Advisor describes the exact track beginning sparsely with kick, snare, hi-hat and synth, then deconstructing and time-stretching vocals while the beat turns random and erratic and melodic material smears toward atonality.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a complete lucid-to-erratic transformation changes the successor's task or pre-empts an existing deformation/re-entry.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test a conspicuous electronic disassembly before the live-band left turn.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Truth in Noise and Same Way",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "purpose": "Test lucid-to-erratic transformation between consolidation and alternating physical pressure.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Lolina",
+      "track": "Glitching",
+      "album": "Who is experimental music?",
+      "releaseDate": "2019-06",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/23976",
+      "fitHypothesis": "Resident Advisor describes the exact track as having a curiously infectious bounce inside a short sequence built from skipping, glitching and strobing procedures.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Resident Advisor describes the exact track as having a curiously infectious bounce inside a short sequence built from skipping, glitching and strobing procedures.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as an overlooked exact rhythmic proposition; select only if the evidence supports more than procedure or novelty.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "purpose": "Test concise bounce between groove formation and deformation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Lolina",
+      "track": "Strobing",
+      "album": "Who is experimental music?",
+      "releaseDate": "2019-06",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/23976",
+      "fitHypothesis": "Resident Advisor characterizes the exact track as sounding like Squarepusher reduced to an essence within a short procedural sequence.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Resident Advisor characterizes the exact track as sounding like Squarepusher reduced to an essence within a short procedural sequence.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as an overlooked concentrated rhythmic form; do not infer its internal direction or mix behavior.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between backsliding and Mildew Swoosh",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "purpose": "Test a concentrated procedural form inside the existing dissolution passage.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "DJ AGITATED",
+      "track": "Conflicted",
+      "album": "Archive of Disappearing Now",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://dolly-records.bandcamp.com/album/archive-of-disappearing-now",
+      "fitHypothesis": "Dolly identifies this exact 6:31 track within a same-day release that marks the producer stepping outside his usual territory into melodic, body-oriented techno; the source does not describe the individual track's direction.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Dolly identifies this exact 6:31 track within a same-day release that marks the producer stepping outside his usual territory into melodic, body-oriented techno; the source does not describe the individual track's direction.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as a current emerging-label lead; do not select for canonical evaluation unless exact-track evidence is sufficient.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "purpose": "Probe a current techno identity near the late reassembly without presuming its behavior.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "DJ AGITATED",
+      "track": "Archive of a disappearing now",
+      "album": "Archive of Disappearing Now",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://dolly-records.bandcamp.com/album/archive-of-disappearing-now",
+      "fitHypothesis": "Dolly identifies this exact 6:23 title track within a same-day melodic, body-oriented techno release framed as a departure from the producer's usual territory; individual structure remains unspecified.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Dolly identifies this exact 6:23 title track within a same-day melodic, body-oriented techno release framed as a departure from the producer's usual territory; individual structure remains unspecified.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as a current adjacent lead while keeping all sonic and placement claims at release level.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Abundance and Foundry",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "purpose": "Probe a current techno identity in the early rebuilding run without presuming a groove or transition.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Colomboi",
+      "track": "Alchemy",
+      "album": "Alchemy",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://illegalalienrecords.bandcamp.com/album/alchemy",
+      "fitHypothesis": "Illegal Alien Records identifies the exact 6:42 title track on Colomboi's same-day debut EP, whose release-level palette combines rolling rhythms, powerful chords, hypnotic elements and melodic textures; the source does not isolate this track's structure.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Illegal Alien Records identifies the exact 6:42 title track on Colomboi's same-day debut EP, whose release-level palette combines rolling rhythms, powerful chords, hypnotic elements and melodic textures; the source does not isolate this track's structure.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as a same-day emerging-artist lead; genre and release-level craft alone cannot justify selection.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Too Much Time and Freepass for Them",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "purpose": "Probe a current debut identity inside the established drive-to-melodic-pivot run without presuming fit.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "ASKE",
+      "track": "Far From Oort Cloud",
+      "album": "Lyra [CHR360]",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://conceptohipnotico.bandcamp.com/album/lyra-chr360",
+      "fitHypothesis": "Concepto Hipnotico identifies the exact 6:15 track on ASKE's same-day deep and sci-fi techno release; no individual structural description is supplied.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Concepto Hipnotico identifies the exact 6:15 track on ASKE's same-day deep and sci-fi techno release; no individual structural description is supplied.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve as a same-day adjacent-label lead and preserve UNKNOWN musical behavior unless stronger exact evidence appears.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "purpose": "Probe an exact current techno identity near reformation without inferring flow from tags.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
