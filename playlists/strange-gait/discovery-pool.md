@@ -1,5 +1,27 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 160 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Fase Bipolar | Urge & Dissolve | https://open.spotify.com/track/4cXrFMeENQBf8EV3XXhL6d | PARKED at *Drummz → candidate → Té de Cabello Blanco*; the *Pulse I → candidate → Roxellana* alternative is rejected. Interrupted percussive force remains genuinely interesting. Date warning preserved. |
+| EXACT TRACK | Fase Bipolar | Red Noise | https://open.spotify.com/track/3Bi1N83BXxnrgU7NU4gTCp | Placement-specific REJECT only after *Sarniezz* and after *Elemental Dream*; psychoacoustic spiralling remains genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Fase Bipolar | Until We Sink | https://open.spotify.com/track/6FNZCsjC8Z7rRzfYp5VTNp | Placement-specific REJECT only after *Stardancer* and after *backsliding*; concrete-weight-to-black-tar-bass submergence remains genuinely interesting elsewhere. Date warning preserved. |
+| RESEARCH LEAD | Confusion | Space; In Cycles; Truth | https://skeleven.bandcamp.com/album/in-cycles-sk11corp001 | Each resolver error is `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | Saint Abdullah & Eomac | Cyphers Become Sifr (ft. Abbas Zahedi) | https://saintabdullaheomac.bandcamp.com/track/cyphers-become-sifr-ft-abbas-zahedi | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE WATCH | Rene Wise / Moving Pressure | Moving Pressure 07 | https://movingpressure.bandcamp.com/album/moving-pressure-07 | Same-day restraint-and-repetition techno window; *Fear of The Dark* resolved exactly but remained unselected and unevaluated. |
+| RELEASE WATCH | Loidis / Incienso | From The Toolkit Of Lovers | https://huercosplonk.bandcamp.com/album/from-the-toolkit-of-lovers | Extended micro-house, minimal, dub-techno and ambient DJ-toolkit window; *Towlift* resolved exactly but remained unselected and unevaluated. |
+| RELEASE WATCH | Saint Abdullah & Eomac / Planet Mu | When The Sandbox Has No Edge | https://saintabdullaheomac.bandcamp.com/album/when-the-sandbox-has-no-edge | Constrained-sampling and structured-fragment adjacent window; the available exact single remains unresolved in Spotify market SE. |
+
+### Placement and inspiration boundaries
+
+- *Urge & Dissolve* remains PARKED only at the Drummz/Té hypothesis; its pre-Roxellana placement is rejected.
+- *Red Noise* and *Until We Sink* remain interesting despite placement-specific rejection; neither is globally rejected.
+- Rene Wise — *Fear of The Dark* (`spotify:track:3Lb5izDulVGQUqM0v1KwlS`) and Loidis — *Towlift* (`spotify:track:077abPPoTKZBORznkrmlna`) are exact unselected alternates, not evaluated or retained decisions.
+- Unresolved leads and release watches do not enter the global utility ledger.
+- No BPM, pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge is asserted.
+
+
 ## Run 159 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
