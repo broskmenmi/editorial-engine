@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 141 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Andy Stott, Elaine Howley | Something in mind | https://open.spotify.com/track/6UpFLmexlLHFVDDcY7vWAY | PARKED after both Run 141 placements for a specific exact-track direction/endpoint gap; constrained song-led electronic production remains interesting. Album/date variance preserved. |
+| EXACT TRACK | Sanskrit | Ultramarine | https://open.spotify.com/track/7hmeXDRfbMOes06wuxKFk8 | PARKED after both Run 141 placements; current exact ARTS techno identity retained with unresolved 101/135 BPM metadata conflict and absent individual structure. Date variance preserved. |
+| EXACT TRACK | Sanskrit | 480Hz | https://open.spotify.com/track/7s1oY0FMDWuNm92h06ooCJ | PARKED after both Run 141 placements for a specific exact-track direction/endpoint gap; current exact ARTS techno identity remains interesting. Date variance preserved. |
+| UNRESOLVED | Beverly Glenn-Copeland; TJO; Norberto Lusso | River Dreams; Juno; Sopore (Original Mix); Akeem (Original Mix); Taped (Original Mix); JPC (Original Mix) | See discoveries.md exact errors | One ambiguous archival identity and five no-match outcomes remain without verdict or utility entry. |
+| RELEASE / CATALOGUE WATCH | Andy Stott; Sanskrit / ARTS; Norberto Lusso / trau-ma; Beverly Glenn-Copeland; TJO | Late Loop; Ultramarine EP; Akeem; River Dreams; Juno | https://pitchfork.com/story/andy-stott-returns-with-first-album-in-five-years ; https://artsrecordings.bandcamp.com/album/ultramarine-ep ; https://trau-ma.bandcamp.com/album/akeem ; https://pitchfork.com/news/beverly-glenn-copeland-announces-new-album-transmissions-shares-new-song-listen ; https://pitchfork.com/reviews/albums/6002-tjo-tko | Current constrained electronics and raw/deep techno plus overlooked odd-meter electronic composition remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- All three exact tracks are PARKED for individual direction/endpoint gaps after two planned placements, not for generic missing audio.
+- The *Ultramarine* 101/135 BPM conflict is unresolved and does not establish perceived pulse or flow.
+- Unresolved leads do not enter the global utility ledger.
+- The set direction is an editorial hypothesis, not a proven sequence or live-mixing edge.
+
 ## Run 140 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

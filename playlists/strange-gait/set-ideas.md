@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 141 — Constraint and metric difference need candidate-specific direction
+
+**Direction:** Explore constrained production, explicit odd meter and current raw/deep techno only where the exact track's direction changes the following formation; technique, genre and metadata conflict do not supply that consequence by themselves.
+
+**Ingredients:**
+
+- Andy Stott, Elaine Howley — *Something in mind* — exact PARKED discovery; bassline-free, reverb-free, delay-only project context is known, individual rhythmic direction and endpoint are not.
+- Sanskrit — *Ultramarine* — exact PARKED discovery; current ARTS techno identity and conflicting 101/135 BPM metadata are known, individual structure is not.
+- Sanskrit — *480Hz* — exact PARKED discovery; current ARTS techno identity is known, individual structure and endpoint are not.
+- *River Dreams*, *Juno*, *Sopore (Original Mix)*, *Akeem (Original Mix)*, *Taped (Original Mix)* and *JPC (Original Mix)* — unresolved exact-title leads without verdicts.
+
+**Why interesting:** An unusual meter, strict production constraint or conspicuous tempo reading can suggest a different bodily frame, but sequence space is earned only when the candidate's own movement gives the next track meaningful work.
+
+**Unknown / risk:** BPM except *Ultramarine*'s unresolved conflict, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 140 — Sharpening and chaos must leave downstream work
 
 **Direction:** Explore concise rhythmic sharpening, concentrated broken-techno violence and lopsided breakbeat only where the candidate's endpoint changes the following formation rather than pre-performing its reset, accumulation or re-entry.

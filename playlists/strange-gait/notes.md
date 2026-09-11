@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 141 — EXPLORE — constraint and metric difference need candidate-specific direction
+
+No canonical track is added. Andy Stott with Elaine Howley — *Something in mind*, Sanskrit — *Ultramarine* and Sanskrit — *480Hz* are PARKED after both planned placements.
+
+All three exact identities remain genuinely interesting. *Something in mind* comes from a current song-led project made without basslines or reverb and with delay as the only effect, but the source does not describe this exact track's rhythmic development or endpoint. *Ultramarine* and *480Hz* are exact current ARTS techno tracks, yet the available evidence supplies only release context, duration and—only for *Ultramarine*—a conflicting 101/135 BPM metadata claim. Those gaps are decision-critical: the proposed positions could create deliberate orientation or duplicate an existing transit, hinge, withdrawal or afterword.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: three exact selected candidates, six unresolved identities, no alternates and three preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM except the unresolved *Ultramarine* conflict, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 140 — EXPLORE — sharpening and chaos must leave downstream work
 
 No canonical track is added. FAUZIA — *Guide* and Container — *Drain* pass the selection lens and remain genuinely interesting, but fail only their two tested placements.

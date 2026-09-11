@@ -1,5 +1,78 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 141 — EXPLORE — constraint and metric difference need candidate-specific direction — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 294 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 140's PARKED *$^$^$* and Run 139's PARKED *WhyUBeingWeird* had no materially new evidence or changed journey need. The three consecutive ADDs in Runs 136–138 remained a monitoring signal rather than a defect after two completed no-ADD runs.
+
+### Exploration receipt
+
+Run `2026-09-11T02:51:58Z-explore-141` inspected approximately 53 current, adjacent, emerging and overlooked-catalogue entries across Pitchfork's September 9–10 electronic reviews and current news, ARTS and trau-ma's September 11 Bandcamp releases, retailer metadata, and exact odd-meter electronic catalogue criticism. Existing persistent identities and recently decided Bitchin Bajas, Argento, FAUZIA, Container, DJ POPS, South Beach Recycling and DJ Phil fields were excluded. Nine honest leads survived (17.0%). The immutable schemaVersion 2 request was pinned to `408be164c327cb192978bc95893868df465a4706` in `a0640f2337c5204b4b4bee607d623d39e6f3dfb0`. Matching snapshot commit: `dd20abab5ff2179398fe19118e8aafd9924b5303`; fingerprint `2ef8d521c1c2e39029e3766db6f47e5ece1d54854673efc9d01be476fd935a6c`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 3 resolved, 3 selected, 6 unresolved, 0 alternates and 3 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Andy Stott, Elaine Howley — *Something in mind* — `spotify:track:6UpFLmexlLHFVDDcY7vWAY` — *Something in mind*, 2026-09-02, 259665 ms.
+- Sanskrit — *Ultramarine* — `spotify:track:7hmeXDRfbMOes06wuxKFk8` — *Ultramarine EP*, 2026-06-12, 314356 ms.
+- Sanskrit — *480Hz* — `spotify:track:7s1oY0FMDWuNm92h06ooCJ` — *Ultramarine EP*, 2026-06-12, 358936 ms.
+
+Unresolved without musical verdict:
+
+- Beverly Glenn-Copeland — *River Dreams*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4bnbhD2ipp5YyfifeHwh5D, 6sW8K114e2465fjko7FASS)`.
+- TJO — *Juno*: `no exact Spotify title/artist search match in market SE`.
+- Norberto Lusso — *Sopore (Original Mix)*: `no exact Spotify title/artist search match in market SE`.
+- Norberto Lusso — *Akeem (Original Mix)*: `no exact Spotify title/artist search match in market SE`.
+- Norberto Lusso — *Taped (Original Mix)*: `no exact Spotify title/artist search match in market SE`.
+- Norberto Lusso — *JPC (Original Mix)*: `no exact Spotify title/artist search match in market SE`.
+
+Warnings preserved exactly:
+
+- Something in Mind: `Exact title/artist matched with release metadata variance: album requested "Late Loop" but Spotify returned "Something in mind"; release date requested "2026" but Spotify returned "2026-09-02"`.
+- Ultramarine: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-12"`.
+- 480Hz: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-12"`.
+
+### Evaluator and Sequencer assessment
+
+#### Andy Stott, Elaine Howley — Something in mind — PARKED / retained discovery
+
+- **Volume fit:** PASS provisionally at the adjacent edge. The exact current identity comes from a song-led electronic project whose production constraint excludes basslines and reverb and uses only delay; that is a credible production-world departure, but technique alone does not establish admission.
+- **Immediate transition:** UNKNOWN for both tested positions; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** UNDECIDABLE for both `Truth in Noise → U Belong 2 Me → candidate → Transparency → When We Froze` and `Eyes of the Wind → Rabbit Hole → candidate → Invisible Warriors Of Light`. The available source does not describe this exact track's rhythmic direction or endpoint, so it cannot distinguish an earned continuation of withdrawal/descent from another self-contained song-form interval.
+- **Long-form journey:** UNDECIDABLE. The constrained vocal-electronic turn could clarify the approach to the protected block or delay the afterword; the missing individual direction would produce materially different conclusions.
+- **Verdict:** **PARKED** after both planned placements. Reopen for materially richer exact-track structural/connective evidence, lawful audio evidence or a changed journey need.
+
+#### Sanskrit — Ultramarine — PARKED / retained discovery
+
+- **Volume fit:** PASS provisionally at the core techno level. ARTS and Spotify verify the exact 5:14 current title track, but no individual structural description establishes how it serves STRANGE GAIT's selection lens.
+- **Immediate transition:** UNKNOWN for both tested positions. Retailer metadata conflicts at 101 versus 135 BPM; neither value establishes perceived pulse, energy, phrase fit or either handoff.
+- **Surrounding three-to-five-track run:** UNDECIDABLE for both `Sarniezz → Never Met → candidate → Trompe L'oeil → Thick to Handle` and `Fragments → Drummz → candidate → Ikoyi → Amor`. The candidate could supply orientation or duplicate an existing reset/percussion chain; track-specific development and endpoint evidence are absent.
+- **Long-form journey:** UNDECIDABLE. Currentness, genre and a possible tempo contrast do not establish a net journey gain.
+- **Verdict:** **PARKED** after both planned placements. Reopen for materially richer exact-track structural/connective evidence, resolved tempo metadata, lawful audio evidence or a changed journey need.
+
+#### Sanskrit — 480Hz — PARKED / retained discovery
+
+- **Volume fit:** PASS provisionally at the core techno level. ARTS and Spotify verify the exact 5:58 current release opener, but release order is not treated as structural evidence.
+- **Immediate transition:** UNKNOWN for both tested positions; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** UNDECIDABLE for both `Cave → Abundance → candidate → Foundry → Worn Down` and `Mildew Swoosh → Fragments → candidate → Drummz → Ikoyi`. Either could provide an anchor or add another self-contained techno proposition before already legible instability/percussion work.
+- **Long-form journey:** UNDECIDABLE. The exact current identity is useful discovery, but the available evidence cannot show whether six more minutes alter the whole journey.
+- **Verdict:** **PARKED** after both planned placements. Reopen for materially richer exact-track structural/connective evidence, lawful audio evidence or a changed journey need.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and its matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; all nine outcomes, six exact resolver errors and three warnings are preserved. Only the three selected exact identities entered evaluation, each separately at volume, immediate-transition, local-run and long-form scales. UNKNOWN properties were not converted into automatic failures or admissions. The three PARKED verdicts identify candidate-specific direction/endpoint gaps after both planned placements. Protected and frozen state remains intact. Auditor approves local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **unchanged at 37 canonical tracks**; no reorder and no journey-annotation change.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact identities retained; six unresolved exact-title leads and the current ARTS/trau-ma/Andy Stott windows retained with evidence boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **294 → 297 exact tracks**, adding *Something in mind*, *Ultramarine* and *480Hz*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 53 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **0 ADD + 3 PARKED** → 3 utility additions. Inspection-to-lead conversion is 17.0%, lead-to-resolution conversion 33.3%, and selected-candidate-to-ADD conversion 0%. Across Runs 87–141: 485 leads from approximately 2,607 inspections; 22 ADDs from 149 selected candidates. The recent completed-run ADD rate remains 5/10; resolver-incomplete Run 133 is excluded. The completed-run no-ADD streak is three since Run 138, with eight exact interesting tracks retained during it. Resolution loss is concentrated in ambiguous archival packaging and current Bandcamp-first releases absent from Spotify SE, not a technical resolver failure. Three selected exact identities remained undecidable for candidate-specific evidence gaps; this does not prove playlist completion, global incompatibility, any handoff quality, phrase fit or live mixability. No actionable REPAIR emerges. **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 140 — EXPLORE — sharpening and chaos must leave downstream work — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 291 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 139's PARKED WhyUBeingWeird had no materially new evidence or changed need. The three-ADD sequence in Runs 136–138 remained a monitoring signal rather than a defect after Run 139's no-ADD result.
