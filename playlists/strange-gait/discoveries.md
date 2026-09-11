@@ -71,6 +71,10 @@ The unresolved leads receive no ADD/REJECT/REVISIT verdict. The three exact alte
 
 **APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode and target. All three selected identities are exact and unique; every warning and unresolved error is preserved; no alternate, duplicate, substitute, relinking or technical failure entered evaluation. Each selected candidate was judged independently for volume fit, immediate transition, surrounding run and long-form effect. No metadata-only inference supplies energy, density, space, hypnosis, emotional effect, phrase structure or mixability. The protected trio and all listener approval boundaries remain untouched. Auditor approves one PARKED verdict, three scoped placement rejections, local inspiration retention, and three global utility additions. No canonical ADD, removal or reorder is approved.
 
+### Post-approval utility continuity repair
+
+The first utility append placed rows 341–343 below the ledger's listener-supplied policy note. The publisher therefore stopped at the first non-row boundary and wrote a `COMPLETE` 340/340 receipt at `2026-09-11T21:01:04.400Z`; that receipt referenced the changed commit but did not verify the intended 343-row ledger. The immediate repair moved only those three exact rows directly after row 340, preserving identities and order. Repair commit `ce283e5c68512fc65c96291c379a5204a6a5bc60` produced a matching exact `COMPLETE` 343/343 receipt at `2026-09-11T21:02:37.288Z`. The defect and superseded receipt are preserved here; no musical verdict changed.
+
 ### Durable result
 
 - STRANGE GAIT remains **45 canonical tracks** with no reordering.
