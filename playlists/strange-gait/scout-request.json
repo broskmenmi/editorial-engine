@@ -1,418 +1,418 @@
 {
+  "schemaVersion": 2,
+  "runId": "2026-09-11T03:51:18Z-explore-142",
+  "sourceCommit": "878bb13b1dd783cd26b33c525431e952b1667ffc",
+  "mode": "EXPLORE",
+  "target": {
+    "role": "fresh whole-journey contender discovery across a current brittle acoustic-electronic loop, emerging electro mutation and overlooked microsound/electronic-jazz catalogue",
+    "position": "Whole 37-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat placements as candidate-specific hypotheses and do not reopen untriggered PARKED identities.",
+    "purpose": "Test whether microscopic rhythm, contorted electro and acoustic/electronic transformation change what neighbouring tracks must do rather than adding another complete proposition."
+  },
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 53 named tracks, releases and catalogue references across Pitchfork's September 9–10, 2026 electronic reviews and current news, September 11 Bandcamp label releases from ARTS and trau-ma, retailer metadata, and overlooked exact odd-meter electronic catalogue; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-11T03:51:18Z",
+    "approximateInspectedScope": "Approximately 52 named tracks, releases and catalogue references across Resident Advisor's live 2026 review index, Pitchfork's September 8 Memoria review, The Guardian's September 4 current electronic survey, Bandcamp Daily's September 9 survey, and overlooked Jan Jelinek, Computer Soup and Andrew Pekler catalogue criticism; attributed criticism and release metadata only; no audio audition.",
     "exclusions": [
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, existing utility discoveries and prior unresolved leads without materially new identity evidence were excluded.",
-      "Recently decided Bitchin Bajas, Argento, FAUZIA, Container, DJ POPS, South Beach Recycling and DJ Phil fields were screened but excluded.",
-      "Current release-context-only leads explicitly preserve the absence of exact-track mechanics; genre tags, metadata, novelty and artist reputation are not treated as admission evidence.",
+      "Recently decided Andy Stott, Sanskrit, Norberto Lusso, FAUZIA, Container, DJ POPS, FIS, Martyn, Tyler Friedman and Vladislav Delay fields were excluded.",
+      "Previously decided Carmen Villain tracks were excluded; only the newly sourced exact track Hey Synapses remains. Earlier RHR and Batu/Donato Dozzy fields were screened but excluded as recently or previously worked.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Beverly Glenn-Copeland — River Dreams",
-      "2. TJO — Juno",
-      "3. Andy Stott — Something in Mind",
-      "4. Sanskrit — Ultramarine",
-      "5. Sanskrit — 480Hz",
-      "6. Norberto Lusso — Sopore (Original Mix)",
-      "7. Norberto Lusso — Akeem (Original Mix)",
-      "8. Norberto Lusso — Taped (Original Mix)",
-      "9. Norberto Lusso — JPC (Original Mix)"
+      "1. Jan Jelinek — Them, Their",
+      "2. Reptant — Future Proof",
+      "3. Carmen Villain — Hey Synapses",
+      "4. Jan Jelinek — Do Dekor",
+      "5. Jan Jelinek — Tendency",
+      "6. Jan Jelinek — Rock in the Video Age",
+      "7. Andrew Pekler — Rockslide",
+      "8. Jan Jelinek, Computer Soup — Straight Life",
+      "9. Reptant — Ballet Robotique"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: September 11 Bandcamp pages for Sanskrit's Ultramarine EP and Norberto Lusso's Akeem supplied eight exact current tracks across ARTS and trau-ma; Pitchfork's September 2026 Andy Stott announcement supplied a current constrained-production single. https://artsrecordings.bandcamp.com/album/ultramarine-ep ; https://trau-ma.bandcamp.com/album/akeem ; https://pitchfork.com/story/andy-stott-returns-with-first-album-in-five-years",
-      "ADJACENT / EMERGING WINDOW: Sanskrit's raw/deep techno release, Norberto Lusso's current hypnotic-techno release and Andy Stott's bassline-free, reverb-free delay-only production frame supplied materially different routes without assuming one sonic room.",
-      "OVERLOOKED CATALOGUE WINDOW: Beverly Glenn-Copeland's River Dreams has artist-attributed 17/8 structure; TJO's Juno has exact criticism describing a beat entering in a different time signature from its modal opening. https://pitchfork.com/news/beverly-glenn-copeland-announces-new-album-transmissions-shares-new-song-listen ; https://pitchfork.com/reviews/albums/6002-tjo-tko",
-      "FRESHNESS CHECK: repository searches found no durable exact decision, revisit, utility or unresolved entry for the nine requested identities. Previously decided Bitchin Bajas tracks, the physical-only Watch Your Step lead, Argento's recorded Mare Arcaico alternate and the Miraggi watch were excluded."
-    ],
-    "timestampUtc": "2026-09-11T02:51:58Z"
+      "CURRENT RELEASE WINDOW: Pitchfork's September 8, 2026 Memoria review supplied Hey Synapses; Resident Advisor's live review index and May 7 Ballet Robotique review supplied Reptant's current electro field. https://pitchfork.com/reviews/albums/carmen-villain-memoria ; https://ra.co/reviews/36353",
+      "ADJACENT / EMERGING WINDOW: Reptant's Future Proof and Ballet Robotique use exact-track evidence for contorted acid/electro and deliberate 808 construction; current RHR, Picture and Bandcamp Daily fields were screened but excluded after repository freshness checks or insufficient new identity evidence.",
+      "OVERLOOKED CATALOGUE WINDOW: Pitchfork's Loop-Finding-Jazz-Records, Improvisations and Edits: Tokyo 26.09.2001 and Cue criticism supplied six exact microsound, house-groove and electronic-jazz leads. https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records ; https://pitchfork.com/reviews/albums/4236-improvisations-and-edits-tokyo-26092001 ; https://pitchfork.com/reviews/albums/10358-cue",
+      "FRESHNESS CHECK: repository searches found no durable exact decision, revisit, utility or unresolved entry for the nine requested identities. Existing Carmen Villain decisions and earlier unresolved Batu/Donato Dozzy and RHR leads were not recycled."
+    ]
   },
   "leads": [
     {
-      "album": "Transmissions: The Music of Beverly Glenn-Copeland",
-      "artist": "Beverly Glenn-Copeland",
+      "artist": "Jan Jelinek",
+      "track": "Them, Their",
+      "album": "Loop-Finding-Jazz-Records",
+      "releaseDate": "2001-02-02",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/news/beverly-glenn-copeland-announces-new-album-transmissions-shares-new-song-listen",
-      "evidence": {
-        "attributedDescription": "Beverly Glenn-Copeland identifies the exact track as a calming 17/8 composition recorded in 2019; Pitchfork separately describes circular piano melodies and synthetic orchestral chords.",
-        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an adjacent electronic odd-meter song can extend the live-band metric left turn or open a liminal corridor without becoming an unrelated interlude.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Beverly Glenn-Copeland identifies the exact track as a calming 17/8 composition recorded in 2019; Pitchfork separately describes circular piano melodies and synthetic orchestral chords.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test a second explicit metric proposition as the exit from the live-band left turn."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test a 17/8 adjacent-world corridor after the protected block before liminal percussion."
-        }
-      ],
-      "releaseDate": "2020",
+      "discoverySource": "https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records",
+      "fitHypothesis": "Pitchfork describes the exact track using one microscopic click instead of a snare while full bass outlines a funky rhythm half a tick from hip-hop beneath out-of-tune keyboards.",
       "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "River Dreams"
-    },
-    {
-      "album": "TJO TKO",
-      "artist": "TJO",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/6002-tjo-tko",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact all-electronic track beginning with a modal melody that calls for a beat; the beat then enters in a different time signature and withholds quick resolution.",
+        "attributedDescription": "Pitchfork describes the exact track using one microscopic click instead of a snare while full bass outlines a funky rhythm half a tick from hip-hop beneath out-of-tune keyboards.",
         "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether delayed metric contradiction can deepen early derailment or provide an exit from Sarniezz without duplicating already assigned instability.",
+        "editorialInterpretation": "Test whether foregrounding microscopic rhythm changes a reset or crooked accumulation without merely duplicating disorientation.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "Pitchfork describes the exact all-electronic track beginning with a modal melody that calls for a beat; the beat then enters in a different time signature and withholds quick resolution.",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "purpose": "Test beat-entry displacement before the existing triplet derailment."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test unresolved metric contradiction as an exit from the live-band left turn."
-        }
-      ],
-      "releaseDate": "2002",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Juno"
-    },
-    {
-      "album": "Late Loop",
-      "artist": "Andy Stott",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/story/andy-stott-returns-with-first-album-in-five-years",
-      "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact current single from a song-led album produced without basslines or reverb and with delay as the only effect; Elaine Howley provides vocals. The source does not describe this track's individual rhythmic development or endpoint.",
-        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a radically constrained production-world change clarifies an existing withdrawal or afterword rather than winning space through technique alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork identifies the exact current single from a song-led album produced without basslines or reverb and with delay as the only effect; Elaine Howley provides vocals. The source does not describe this track's individual rhythmic development or endpoint.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "purpose": "Test bassline-free constrained song form after bass-drum removal before the protected block."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "purpose": "Test constrained vocal electronics after descent before the electro-soul afterword."
-        }
-      ],
-      "releaseDate": "2026",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Something in Mind"
-    },
-    {
-      "album": "Ultramarine EP",
-      "artist": "Sanskrit",
-      "bpm": null,
-      "bpmSource": "Conflicting retailer metadata: Beatport search result 101 BPM; Volumo 135 BPM. Treat as unresolved metadata conflict, not perceived pulse.",
-      "discoverySource": "https://artsrecordings.bandcamp.com/album/ultramarine-ep",
-      "evidence": {
-        "attributedDescription": "ARTS identifies the exact 5:14 title track on Sanskrit's current four-track techno release. Retailer metadata conflicts at 101 versus 135 BPM; no individual structural description is available.",
-        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether the current deep/raw techno proposition creates useful orientation around the altered-gait middle; the conflicting tempo metadata cannot stand in for felt flow.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "ARTS identifies the exact 5:14 title track on Sanskrit's current four-track techno release. Retailer metadata conflicts at 101 versus 135 BPM; no individual structural description is available.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "outgoingBpm": null,
           "position": "Between Never Met and Trompe L'oeil",
           "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test current deep-techno orientation between foreground transit and staggered reset."
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test a microscopic click-and-bass construction between foreground transit and staggered reset.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
         },
         {
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test minute rhythmic displacement before Pulse I's existing crooked accumulation.",
           "candidateBpm": null,
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Drummz and Ikoyi",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test a current techno proposition between restless hinge and polyrhythmic footwork."
+          "outgoingBpm": null
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Ultramarine"
+      "spotifyTrackId": null
     },
     {
-      "album": "Ultramarine EP",
-      "artist": "Sanskrit",
+      "artist": "Reptant",
+      "track": "Future Proof",
+      "album": "Ballet Robotique",
+      "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://artsrecordings.bandcamp.com/album/ultramarine-ep",
+      "discoverySource": "https://ra.co/reviews/36353",
+      "fitHypothesis": "Resident Advisor describes the exact track contorting a gurgling acid line into nightmare hallucinations that wind out of minor-chord pads.",
+      "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "ARTS identifies the exact 5:58 opener on Sanskrit's current four-track techno release; no individual structural description or verified BPM is available.",
+        "attributedDescription": "Resident Advisor describes the exact track contorting a gurgling acid line into nightmare hallucinations that wind out of minor-chord pads.",
         "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test a current raw/deep techno opener as a potential internal anchor without inferring behaviour from release position.",
+        "editorialInterpretation": "Test whether a clearly changing electro construction creates useful consequence at an early derailment or late descent.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "ARTS identifies the exact 5:58 opener on Sanskrit's current four-track techno release; no individual structural description or verified BPM is available.",
       "proposedPlacements": [
         {
+          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "purpose": "Test contorted electro before the existing triplet derailment.",
           "candidateBpm": null,
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "purpose": "Test an internal anchor before threatened-coherence motion."
+          "outgoingBpm": null
         },
         {
+          "position": "Between Eyes of the Wind and Rabbit Hole",
+          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "purpose": "Test an acid-line mutation between liminal percussion and the concise descent.",
           "candidateBpm": null,
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "purpose": "Test current techno between driving re-entry and restless hinge."
+          "outgoingBpm": null
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "480Hz"
+      "spotifyTrackId": null
     },
     {
-      "album": "Akeem",
-      "artist": "Norberto Lusso",
-      "bpm": 135,
-      "bpmSource": "Beatport exact-track metadata; https://www.beatport.com/track/sopore/30106319",
-      "discoverySource": "https://trau-ma.bandcamp.com/track/norberto-lusso-sopore-original-mix",
-      "evidence": {
-        "attributedDescription": "trau-ma identifies the exact 5:20 current track on a dark, groove and hypnotic-techno release; Beatport reports 135 BPM. Individual development and endpoint are not described.",
-        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a current measured-tempo techno proposition supports or duplicates re-grounding and consolidation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "trau-ma identifies the exact 5:20 current track on a dark, groove and hypnotic-techno release; Beatport reports 135 BPM. Individual development and endpoint are not described.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": 135,
-          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "purpose": "Test current hypnotic-techno after bodily deformation before conflict."
-        },
-        {
-          "candidateBpm": 135,
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Amor and Truth in Noise",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "purpose": "Test a 135-BPM proposition before groove consolidation."
-        }
-      ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Sopore (Original Mix)"
-    },
-    {
-      "album": "Akeem",
-      "artist": "Norberto Lusso",
+      "artist": "Carmen Villain",
+      "track": "Hey Synapses",
+      "album": "Memoria",
+      "releaseDate": "2026-09-04",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://trau-ma.bandcamp.com/album/akeem",
+      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria",
+      "fitHypothesis": "Pitchfork describes the exact track looping layers of flute into a brittle tapestry that seems liable to disintegrate.",
+      "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "trau-ma identifies the exact 5:19 title track on a current dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
+        "attributedDescription": "Pitchfork describes the exact track looping layers of flute into a brittle tapestry that seems liable to disintegrate.",
         "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether the title track can alter a local run without assuming behaviour from release tags.",
+        "editorialInterpretation": "Test whether a current acoustic-electronic loop supplies a meaningful fragile threshold without pre-empting recovery or afterword work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "trau-ma identifies the exact 5:19 title track on a current dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": null,
-          "outgoingBpm": null,
           "position": "Between Cave and Abundance",
           "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test current techno between widening and swung-funk continuation."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "purpose": "Test current techno between driving re-entry and restless hinge."
-        }
-      ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Akeem (Original Mix)"
-    },
-    {
-      "album": "Akeem",
-      "artist": "Norberto Lusso",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://trau-ma.bandcamp.com/album/akeem",
-      "evidence": {
-        "attributedDescription": "trau-ma identifies the exact 5:31 opener on a current dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
-        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a current techno opener gives an existing early or late-middle passage new work; release position is not treated as structural evidence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "trau-ma identifies the exact 5:31 opener on a current dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
           "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "purpose": "Test a brittle flute-loop threshold between widening and swung-funk continuation.",
+          "candidateBpm": null,
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test a current techno proposition inside early widening."
+          "outgoingBpm": null
         },
         {
+          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "purpose": "Test fragile acoustic-electronic material after descent before the electro-soul afterword.",
           "candidateBpm": null,
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Mildew Swoosh and Fragments",
-          "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test current techno after temporal opposition before re-entry."
+          "outgoingBpm": null
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Taped (Original Mix)"
+      "spotifyTrackId": null
     },
     {
-      "album": "Akeem",
-      "artist": "Norberto Lusso",
+      "artist": "Jan Jelinek",
+      "track": "Do Dekor",
+      "album": "Loop-Finding-Jazz-Records",
+      "releaseDate": "2001-02-02",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://trau-ma.bandcamp.com/album/akeem",
+      "discoverySource": "https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records",
+      "fitHypothesis": "Pitchfork describes the exact track as relentless rhythm made from tiny rips of static rather than drums.",
+      "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "trau-ma identifies the exact 5:09 current track on a dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
+        "attributedDescription": "Pitchfork describes the exact track as relentless rhythm made from tiny rips of static rather than drums.",
         "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an exact current catalogue lead produces a candidate-specific journey gain rather than filling a genre slot.",
+        "editorialInterpretation": "Test whether static-made insistence changes threatened coherence or a restless hinge.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
           "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "trau-ma identifies the exact 5:09 current track on a dark, groove and hypnotic-techno release; individual development, endpoint and BPM are not described.",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
           "position": "Between Foundry and Worn Down",
           "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "purpose": "Test current techno between threatened coherence and worn-down response."
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "purpose": "Test static percussion inside the threatened-coherence passage.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
         },
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "incomingBpm": null,
-          "outgoingBpm": null,
           "position": "Between Drummz and Ikoyi",
           "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test current techno between restless hinge and polyrhythmic footwork."
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "purpose": "Test relentless microsound rhythm before Ikoyi's polyrhythmic footwork.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
         }
       ],
-      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Jan Jelinek",
+      "track": "Tendency",
+      "album": "Loop-Finding-Jazz-Records",
+      "releaseDate": "2001-02-02",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records",
+      "fitHypothesis": "Pitchfork identifies the exact track as one of the album's house-groove anchors; a second review describes its pops and cuts as a revolving door from texture and atmosphere toward bass and rhythm.",
       "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "JPC (Original Mix)"
+      "evidence": {
+        "attributedDescription": "Pitchfork identifies the exact track as one of the album's house-groove anchors; a second review describes its pops and cuts as a revolving door from texture and atmosphere toward bass and rhythm.",
+        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether an explicit texture-to-rhythm hinge clarifies a local transition rather than repeating the reset already present.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test a texture-to-rhythm hinge before Trompe L'oeil's reset.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "purpose": "Test pops-and-cuts mediation before polyrhythmic footwork.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Jan Jelinek",
+      "track": "Rock in the Video Age",
+      "album": "Loop-Finding-Jazz-Records",
+      "releaseDate": "2001-02-02",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records",
+      "fitHypothesis": "Pitchfork identifies the exact track as one of the album's rare amorphous-texture constructions anchored by a familiar house groove.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork identifies the exact track as one of the album's rare amorphous-texture constructions anchored by a familiar house groove.",
+        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a catalogue house anchor gives a left turn or re-entry new work without adding a generic stabilizer.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test a house-groove anchor before the live-band metric left turn.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "purpose": "Test an amorphous-texture anchor inside threatened coherence.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Andrew Pekler",
+      "track": "Rockslide",
+      "album": "Cue",
+      "releaseDate": "2007",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/10358-cue",
+      "fitHypothesis": "Pitchfork singles out the exact track's funky combination of droning tones and floor toms within a library-record-derived electronic collage.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork singles out the exact track's funky combination of droning tones and floor toms within a library-record-derived electronic collage.",
+        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether droning tone and floor-tom funk can change a production-world handoff rather than win space through timbral novelty.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test floor-tom funk before Sarniezz's live-band transformation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Drummz and Ikoyi",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "purpose": "Test an acoustic-feeling rhythmic collage before Ikoyi.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Jan Jelinek, Computer Soup",
+      "track": "Straight Life",
+      "album": "Improvisations and Edits: Tokyo 26.09.2001",
+      "releaseDate": "2002",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/4236-improvisations-and-edits-tokyo-26092001",
+      "fitHypothesis": "Pitchfork describes the exact track combining ghostly piano, trumpet and a looping bassline in a successful electronic/live-jazz fusion.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track combining ghostly piano, trumpet and a looping bassline in a successful electronic/live-jazz fusion.",
+        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether electronic-jazz fusion provides its own exit rather than turning Sarniezz into a longer stylistic excursion.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test live/electronic jazz as preparation for the live-band left turn.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test a looping-bass jazz construction as the exit from foreground transit.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Reptant",
+      "track": "Ballet Robotique",
+      "album": "Ballet Robotique",
+      "releaseDate": "2026",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://ra.co/reviews/36353",
+      "fitHypothesis": "Resident Advisor describes the exact track joining trunk-rattling 808s, whipping synth lines, fried pads and vocoded machine-dance vocals with deliberate precision.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Resident Advisor describes the exact track joining trunk-rattling 808s, whipping synth lines, fried pads and vocoded machine-dance vocals with deliberate precision.",
+        "craftConvention": "Attributed exact-track or clearly bounded release-context evidence supports resolution and serious evaluation. Admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a complete electro proposition can sharpen the close or central hinge without pre-empting the existing electro-soul afterword.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Eyes of the Wind and Rabbit Hole",
+          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "purpose": "Test a deliberate electro proposition before the concise descent.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "purpose": "Test machine-dance electro before the existing electro-soul afterword.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "spotifyTrackId": null
     }
-  ],
-  "mode": "EXPLORE",
-  "runId": "2026-09-11T02:51:58Z-explore-141",
-  "schemaVersion": 2,
-  "sourceCommit": "408be164c327cb192978bc95893868df465a4706",
-  "target": {
-    "position": "Whole 37-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Treat placements as candidate-specific hypotheses and do not reopen untriggered PARKED identities.",
-    "purpose": "Test whether metric asymmetry, beat-entry displacement, constrained production or current hypnotic-techno propositions create meaningful downstream work rather than adding another self-contained rhythmic premise.",
-    "role": "fresh whole-journey contender discovery across current raw/deep techno, constrained vocal electronics, adjacent odd-meter electronic composition and overlooked catalogue"
-  }
+  ]
 }
