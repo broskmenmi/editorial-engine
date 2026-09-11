@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 149 — Preserved drive before a sharper event
+
+**Direction:** Explore tracks that change melodic or textural premise while maintaining rhythmic insistence, so the next intensification acts on a stable moving target rather than restarting the sequence.
+
+**Ingredients:**
+
+- 96 Back — *Freepass for Them* — exact canonical ADD after *Too Much Time*; insistent groove persists through a square-wave melodic pivot.
+- Gold Panda — *DING THE MOTOR* — exact placement-specific reject; its breakdown-and-restart structure remains useful outside the two tested duplicate-development positions.
+- Gold Panda — *LIFE IS HARD OFF* — exact placement-specific reject; momentary drum stumbles could suit a passage that needs small destabilization rather than one already preparing a larger left turn.
+- 96 Back — *9696 Dream* — unresolved ambiguous identity without musical verdict.
+- Five exact 96 Back / Gold Panda alternates remain unselected and unevaluated.
+
+**Why interesting:** A track can redirect attention without dropping motion. That may let the next track genuinely intensify, whereas a full breakdown-and-return can finish the developmental job too early.
+
+**Unknown / risk:** Exact handoffs, BPM, perceived pulse, phrase structure, mixability, energy, density, space and the selected candidates' exits remain untested. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 148 — Reassembly can create a meaningful target for later dissolution
 
 **Direction:** Explore tracks that begin in rhythmic agitation but internally restore a legible formation, allowing a later dissolution to act as consequence rather than continuation.

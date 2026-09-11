@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 149 — EXPLORE — preserved drive can make intensification more legible
+
+96 Back — *Freepass for Them* is added between *Too Much Time* and *Moonwake*. Pitchfork describes an insistent groove pivoting to a chilly square-wave melody while the rhythm remains unrelenting beneath soft static. The five-track run `Tides Alternate → Too Much Time → Freepass for Them → Moonwake → Raataja` now moves from opposed-speed balance through widening into a sustained rhythmic pivot, then intensification and crisis. The candidate's 3:52 duration is proportionate. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.
+
+Gold Panda — *DING THE MOTOR* is rejected only at the two tested positions: after *FELT* its breakdown-and-beat-slam sequence duplicates formation before *Thick to Handle*; after *Tehutis Law* its completed restart pre-empts *Pulse I*'s gradual crooked accumulation. Gold Panda — *LIFE IS HARD OFF* is rejected only between *Capa* and *Sarniezz*: its documented momentary drum stumbles add a second destabilization premise immediately before the live-band pulse illusion. Both remain genuinely interesting.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: 8/9 leads resolved, three were selected and evaluated, one exact identity remained ambiguous, and five resolved alternates remained unselected and unevaluated. Four release-date warnings are preserved separately. No duplicates, substitutions, relinkings or technical failures occurred.
+
+The canonical ledger's stale current-state footer omitted Run 148 and still reported 40 tracks despite 41 table rows. It is repaired to 42 while the Run 149 addition is applied; no prior decision or tempo changed.
+
+**Concept:** preserved drive can create a stronger target for later intensification; a self-contained restart may instead finish the following track's work too early.
+
 ## Run 148 — EXPLORE — reassembly can make later dissolution consequential
 
 RRUCCULLA — *Té de Cabello Blanco* is added between *Drummz* and *Ikoyi*. Pitchfork documents stuttering breaks and an atonal topline giving way halfway to piano chords and a reassuring bassline, like an explosion reassembling in reverse. The five-track run `Fragments → Drummz → Té de Cabello Blanco → Ikoyi → Amor` now moves from driving re-entry through unpredictable percussion into an internal reassembly, then foreground dissolution and machine-to-hand-drum mutation. The 3:38 insertion makes *Ikoyi* undo freshly restored coherence rather than merely continue restlessness. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.

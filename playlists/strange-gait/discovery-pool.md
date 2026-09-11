@@ -1,5 +1,16 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 149 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | 96 Back | Freepass for Them | https://open.spotify.com/track/6W7R8Juu9iycysgvKB5IZW | Canonical ADD after *Too Much Time*; the documented insistent groove and melodic pivot remain independently interesting. |
+| EXACT TRACK | Gold Panda | DING THE MOTOR | https://open.spotify.com/track/7dxW8cj9tLuLrjcRGblm0F | Placement-specific REJECT only for the two tested Run 149 positions; the breakdown, chord tease and abrupt beat return remain genuinely interesting elsewhere. |
+| EXACT TRACK | Gold Panda | LIFE IS HARD OFF | https://open.spotify.com/track/423TSlACF5DGo1vtosMja5 | Placement-specific REJECT only between *Capa* and *Sarniezz*; momentary drum stumbles inside rough-hewn house remain genuinely interesting. |
+| UNRESOLVED | 96 Back | 9696 Dream | See discoveries.md exact error | Ambiguous exact identity; no musical verdict or utility entry. |
+| RESOLVED ALTERNATES | Gold Panda; 96 Back | LOSER MENTALITY; Phone; Hide_NGroove; RJam for Harp; CUT FUNK | Exact URIs in discoveries.md | Five exact alternates remain unselected and unevaluated. |
+| RELEASE WATCH | Studio Barnhus | Current rhythm-first catalogue | https://pitchfork.com/news/gold-panda-readies-new-album-ton-up/ | Adjacent label window; currentness or adjacency alone did not justify resolution. |
+
 ## Run 148 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

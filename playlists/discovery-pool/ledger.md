@@ -318,6 +318,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 312 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | STRANGE GAIT Run 148 | Canonical ADD / interesting | 2026-09-11 |
 | 313 | RRUCCULLA | Intro coma 绿茶 | spotify:track:3yH47e7EdZEhBbEoWSOwOK | STRANGE GAIT Run 148 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 314 | RRUCCULLA | Miel Oscura | spotify:track:76wV3MvBACgx2K7ONswvkS | STRANGE GAIT Run 148 | PARKED / interesting | 2026-09-11 |
+| 315 | 96 Back | Freepass for Them | spotify:track:6W7R8Juu9iycysgvKB5IZW | STRANGE GAIT Run 149 | Canonical ADD / interesting | 2026-09-11 |
+| 316 | Gold Panda | DING THE MOTOR | spotify:track:7dxW8cj9tLuLrjcRGblm0F | STRANGE GAIT Run 149 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 317 | Gold Panda | LIFE IS HARD OFF | spotify:track:423TSlACF5DGo1vtosMja5 | STRANGE GAIT Run 149 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

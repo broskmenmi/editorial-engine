@@ -1,5 +1,81 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 149 — EXPLORE — preserved drive before intensification — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 41 unique canonical table rows, matching annotations/map and a COMPLETE 41/41 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 314 contiguous unique exact tracks and a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion or current TRIGGERED revisit existed. An objective documentation defect was discovered during persistence review: the canonical ledger footer still said 40 and omitted Run 148 current-state history despite the 41-row canonical table. It did not affect resolver inputs, protected state or publication identity and is repaired atomically in this run.
+
+### Exploration receipt
+
+Run `2026-09-11T10:52:37Z-explore-149` inspected approximately 58 named tracks, releases and catalogue references across September 2026 current-review and staff-pick feeds, Gold Panda's June 2026 *TON UP* and adjacent Studio Barnhus paths, and 96 Back's overlooked 2021 *9696 Dream* catalogue. Nine honest leads survived (15.5%). Run 148 RRUCCULLA decisions and Anastasia Kristensen / Principleasure alternates, recent Run 139–148 fields, prior canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Bare currentness, label adjacency, title, prestige and generic genre framing did not clear the lead floor. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T10:52:37Z-explore-149`
+- sourceCommit: `96ce1ee4ddd0527a43dd50f978b3f8e8a5c498db`
+- requestFingerprint: `dac2cb25252fdd8715af1d885bee67b45dca9ef5d514097e77f5031c0981c2c0`
+- generatedAt: `2026-09-11T10:56:21.605Z`
+- resolutionStatus: `PARTIAL`
+- requested/resolved/selected: `9 / 8 / 3`
+
+Selected exact candidates:
+
+| Artist | Track | Spotify URI | Duration | Verdict |
+|---|---|---|---:|---|
+| Gold Panda | DING THE MOTOR | spotify:track:7dxW8cj9tLuLrjcRGblm0F | 4:04 | Placement-specific REJECT |
+| 96 Back | Freepass for Them | spotify:track:6W7R8Juu9iycysgvKB5IZW | 3:52 | ADD after *Too Much Time* |
+| Gold Panda | LIFE IS HARD OFF | spotify:track:423TSlACF5DGo1vtosMja5 | 3:03 | Placement-specific REJECT |
+
+Unresolved without musical verdict:
+
+- 96 Back — *9696 Dream*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2aCWDj2E0pFnYvT4KgyXuF, 6Uy0YychKM3HcVib5iHlt8)`
+
+Resolved but unselected and unevaluated:
+
+- Gold Panda — *LOSER MENTALITY* — `spotify:track:2xu9wodHHmYh83X5MBTG0P`
+- 96 Back — *Phone* — `spotify:track:1mjLFvK7DYKgsct8zgnoo6`
+- 96 Back — *Hide_NGroove* — `spotify:track:76XsUMgIaO1J8EoqhK1g23`
+- 96 Back — *RJam for Harp* — `spotify:track:1wHbGfHQHDJ3dSUaC9spjx`
+- Gold Panda — *CUT FUNK* — `spotify:track:4GSSBCFF9XZ91uHd0QK82O`
+
+Warnings preserved exactly:
+
+- 96 Back — *Freepass For Them*: `Exact title/artist matched with release metadata variance: release date requested "2021-04-23" but Spotify returned "2021-03-16"`
+- 96 Back — *Phone*: `Exact title/artist matched with release metadata variance: release date requested "2021-04-23" but Spotify returned "2021-03-16"`
+- 96 Back — *Hide_NGroove*: `Exact title/artist matched with release metadata variance: release date requested "2021-04-23" but Spotify returned "2021-03-16"`
+- 96 Back — *RJam for Harp*: `Exact title/artist matched with release metadata variance: release date requested "2021-04-23" but Spotify returned "2021-03-16"`
+
+There were no duplicate outcomes, substitutions, relinkings or technical failures.
+
+### Evaluator / Sequencer verdicts
+
+**96 Back — Freepass for Them — ADD after Too Much Time**
+
+- Volume fit: PASS. The documented insistent groove, persistent rhythm and melodic pivot directly engage rhythmic/structural freedom without relying on novelty.
+- Immediate transition: PASS provisionally. *Too Much Time*'s existing widening can hand a stable formation to the candidate; the candidate preserves motion while changing its melodic premise before *Moonwake*. Exact handoffs remain unknown.
+- Local run: PASS. `Tides Alternate → Too Much Time → Freepass for Them → Moonwake → Raataja` develops balance → widening → sustained pivot → intensification → burst/disappearance rather than requiring one sonic room.
+- Long form: PASS. The 3:52 insertion adds a compact period of maintained drive before the existing early crisis and does not create a second summit.
+- Unknowns: BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs. These are not decision-critical because the exact-track account supplies a concrete persistent-motion pivot and no known evidence contradicts the placement.
+
+**Gold Panda — DING THE MOTOR — placement-specific REJECT**
+
+- Volume fit: PASS.
+- After *FELT*: FAIL. Its extended breakdown and abrupt beat slam form another complete reset/restart between *FELT*'s rolling formation and *Thick to Handle*'s bodily deformation, weakening the concise reset-to-deformation arc.
+- After *Tehutis Law*: FAIL. The documented restart completes escalation before *Pulse I* begins its gradual crooked accumulation.
+- Local/long form: both tested positions add a self-contained restart where the successor already has developmental work.
+- Unknowns: BPM, perceived pulse, energy, density, space, phrase structure, mixability and handoffs remain unknown; rejection is based on documented structural duplication, not those unknowns.
+
+**Gold Panda — LIFE IS HARD OFF — placement-specific REJECT**
+
+- Volume fit: PASS.
+- Immediate transition: the documented momentary drum stumbles could prepare *Sarniezz*, but the current `Fulledge → Capa → Sarniezz → Never Met` passage already makes a direct rhythmic redirection into a full pulse-illusion left turn.
+- Local run: FAIL at the tested position because the candidate introduces a miniature destabilization immediately before the larger destabilization, weakening *Capa*'s direct setup and *Sarniezz*'s singularity.
+- Long form: FAIL proportionally at this position; another compact instability event adds articulation without useful downstream work.
+- Unknowns remain unknown; this is not a global rejection.
+
+### Auditor
+
+APPROVED. The request and snapshot match, the PARTIAL outcome is internally valid, all exact errors/warnings/alternates are preserved, every selected candidate received separate four-scale evaluation, UNKNOWN was not converted mechanically into failure, the protected trio is untouched, and the ADD is proportionate. The two rejected tracks remain explicitly placement-specific and genuinely interesting. The stale ledger footer/history defect is objective and is repaired atomically. Harvest the three selected exact tracks into the global utility ledger. Automatic publishing remains enabled.
+
 ## Run 148 — EXPLORE — reassembly before deliberate dissolution — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 40 unique canonical tracks with matching annotations, journey map and COMPLETE receipt; EDITORIAL ENGINE — DISCOVERY POOL entered at 311 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, unfinished publication defect or objective workflow defect existed. Run 147's resolver repair was closed, so the normal lane returned to EXPLORE.
