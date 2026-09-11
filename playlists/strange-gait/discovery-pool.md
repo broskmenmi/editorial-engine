@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 157 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Genichiro | Surface | https://open.spotify.com/track/1fZnT75yFDw3O433vZFbpI | Placement-specific REJECT only between *Capa* and *Sarniezz* and between *Tides Alternate* and *Too Much Time*; an irregular broken groove that shifts underfoot remains genuinely interesting elsewhere. |
+| EXACT TRACK | Surgeon | Forgotten Gods | https://open.spotify.com/track/3UVMLK5OgM5nw8wEdW6qow | Placement-specific REJECT only between *Stardancer* and *Eyes of the Wind*; synthesizers surging and receding against their restraints remain genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Genichiro | Reflection | https://open.spotify.com/track/5LaAFEhHkpOmcBSf6IPdhk | Placement-specific REJECT only between *Stadium Drive* and *Marauder*; dub-space acoustics and Afro-club-informed percussion remain genuinely interesting elsewhere. |
+| UNRESOLVED | Surgeon; Planetary Assault Systems; Genichiro, Farsight; Genichiro, andrew | Divine Shadow; Say It Loud; Surface (Farsight Remix); Swaying Reed (andrew Remix); Bang Wap | See discoveries.md exact errors | Five exact-title leads remain unresolved without musical verdicts or utility entries. |
+| RESOLVED ALTERNATE | Genichiro | Clay Motion | spotify:track:2qN4QnGeAxuS5x3Xijejfo | Exact alternate remains unselected and unevaluated; no canonical verdict or utility entry. |
+| CURRENT WATCH | Genichiro / TREKKIE TRAX | Reflection EP | https://trekkietrax.bandcamp.com/album/reflection-ep | Broken-groove displacement, dub space, Afro-club percussion and Bmore/funky hybridisation remain useful emerging directions. |
+| RECENT WATCH | Surgeon / Tresor | Shell~Wave | https://ra.co/reviews/36275 | One-take polyrhythm, fractalling broken beat and surge/recession remain useful recent-techno directions. |
+| CATALOGUE WATCH | Planetary Assault Systems / Token | Say It Loud | https://ra.co/reviews/33899 | Rhythmic hiccups, chaotic arrangement and elemental propulsion remain useful overlooked catalogue directions despite edition ambiguity. |
+
+### Placement and inspiration boundaries
+
+- All three selected exact tracks are rejected only at their documented placements and enter the global utility ledger as interesting discoveries.
+- Five unresolved leads receive no musical verdict; *Clay Motion* is an unevaluated alternate.
+- The prose-named boundaries were verified against the current ledger before evaluation; no mismatched request URI was used for a publication change.
+- No BPM, perceived pulse, energy, density, space, phrase structure, mixability or live edge was inferred.
+
 ## Run 155 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
