@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 157 — EXPLORE — shifting footing must change the consequence — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 334 contiguous unique exact tracks and a matching COMPLETE 334/334 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 156 completed its count-independent instruction repair, returning the normal lane to EXPLORE.
+
+### Exploration receipt
+
+Run `2026-09-11T18:50:01Z-explore-157` inspected approximately 57 named tracks, releases and catalogue references across the live September 11, 2026 Resident Advisor and Bandcamp windows; Genichiro's 2026 *Reflection EP*, Surgeon's 2025 *Shell~Wave* and Planetary Assault Systems' 2021 *Say It Loud*. Nine honest leads survived (15.8%). Run 155 identities and source windows, canonical identities, active placement-specific rejects, untriggered PARKED revisits and earlier Picture, Reptant, FAUZIA, Batu & Donato Dozzy and Surgeon leads were excluded. Pre-release records with only release-level framing were not promoted. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T18:50:01Z-explore-157`
+- sourceCommit: `83320a7f0a29e3e83e18b852b0dfd277e13d3fdb`
+- request commit: `4c0df2e07a5ba577f20fb4831936e9457f994063`
+- resolver commit: `32a0d85c695cef5beb4d07d0f92c9daddf0c6e80`
+- requestFingerprint: `93a206ed31cce5cebe80acd5b79d54bdb7fa6d3d3d890008669b28359429c3d5`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 4 exact resolutions → 3 selected candidates; 5 unresolved identities; 1 warning; 1 resolved alternate; no duplicates, substitutions, relinkings or technical failures.
+
+Warning preserved exactly:
+
+- Surgeon — *Forgotten Gods*: `Exact title/artist matched with release metadata variance: release date requested "2025-05" but Spotify returned "2025-05-02"`
+
+Unresolved without musical verdict:
+
+- Surgeon — *Divine Shadow*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7fdst0gGI3r21npqAhyiv2, 7EaL8DAJ4309L6oM1Xs6Jt)`
+- Planetary Assault Systems — *Say It Loud*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5wsDxwU6Px8vGOkU1CJfIl, 3MGQO4oIialt8ql02sat0S)`
+- Genichiro, Farsight — *Surface (Farsight Remix)*: `no exact Spotify title/artist search match in market SE`
+- Genichiro, andrew — *Swaying Reed (andrew Remix)*: `no exact Spotify title/artist search match in market SE`
+- Planetary Assault Systems — *Bang Wap*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6cXlJx8STo2hY5RFHGl6HS, 6HiDfXZA4zMCH0ADRel5be)`
+
+Resolved but unselected and unevaluated:
+
+- Genichiro — *Clay Motion* — `spotify:track:2qN4QnGeAxuS5x3Xijejfo`; 3:41; *Reflection EP*; Spotify release date 2026-09-04.
+
+**Boundary audit:** The request prose named the intended canonical boundaries, but several proposed-placement URI fields did not match those names. Before verdict, every named boundary was cross-checked against the current 44-row ledger and evaluated only against those current exact neighbours. No publication mutation uses a mismatched request URI, and future requests must derive boundary URIs directly from the current ledger.
+
+### Candidate evaluations
+
+#### Genichiro — Surface — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:1fZnT75yFDw3O433vZFbpI`; 3:25; *Reflection EP*; Spotify release date 2026-09-04.
+- **Volume fit:** PASS. The official description's broken beats and irregular groove that keeps shifting underfoot directly engage rhythmic freedom.
+- **Immediate transition:** FAIL only at the two tested positions. Between *Capa* and *Sarniezz*, the candidate mediates a direct production-world and pulse-illusion left turn with another electronic instability. Between *Tides Alternate* and *Too Much Time*, it adds another unstable-footing premise before sustained widening.
+- **Surrounding three-to-five-track run:** FAIL at both positions. `Fulledge (Empty-40 Mix) → Capa → candidate → Sarniezz → Never Met` adds a third transitional stage before re-entry; `Worn Down → Tides Alternate → candidate → Too Much Time → Freepass for Them` delays the existing balance-to-drive progression.
+- **Long-form journey:** NOT IMPROVED by either insertion. The track remains genuinely interesting, but neither placement gives its successor new work.
+- **Verdict:** **REJECT the two tested placements only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every handoff remain UNKNOWN.
+
+#### Surgeon — Forgotten Gods — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3UVMLK5OgM5nw8wEdW6qow`; 4:37; *Shell~Wave*; Spotify release date 2025-05-02.
+- **Volume fit:** PASS. The exact surge-and-recession construction engages mutable techno form without requiring novelty to justify admission.
+- **Immediate transition:** FAIL only between *Stardancer* and *Eyes of the Wind*. The candidate inserts a self-contained surge-and-recession cycle after the protected block before the liminal percussion corridor.
+- **Surrounding three-to-five-track run:** FAIL at this position. `When We Froze → Stardancer → candidate → Eyes of the Wind → Nukumori` turns the protected close into another intensity statement before the established passage-to-afterword sequence.
+- **Long-form journey:** NOT IMPROVED. The protected trio remains intact, but *Eyes of the Wind* is delayed rather than made more necessary.
+- **Verdict:** **REJECT the tested placement only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+#### Genichiro — Reflection — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5LaAFEhHkpOmcBSf6IPdhk`; 4:26; *Reflection EP*; Spotify release date 2026-09-04.
+- **Volume fit:** PASS. Its officially described house foundation, dub spatial acoustics and Afro-club-informed percussive groove fit the selection lens despite changing production world.
+- **Immediate transition:** FAIL only between *Stadium Drive* and *Marauder*. *Stadium Drive* already completes a transformation from ambience into broken techno; the candidate supplies a second percussive foundation before the opening anchor.
+- **Surrounding three-to-five-track run:** FAIL at this position. `Stadium Drive → candidate → Marauder → The Witching Hour → Encasadelciegoeltuerco` creates two opening formations before the established anchor and continuation.
+- **Long-form journey:** NOT IMPROVED. The character change is allowed, but it delays the journey's opening commitment without changing *Marauder*'s work.
+- **Verdict:** **REJECT the tested placement only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+### Librarian / Auditor outcome
+
+Auditor approves no canonical ADD, three placement-specific REJECTs, three target-local exact discoveries, three source watches, one set direction and all five unresolved identities without verdict. The exact alternate remains unselected and unevaluated. The global doctrine-free utility ledger receives the three selected exact identities only. STRANGE GAIT's ledger and journey annotations remain unchanged; the protected internal order remains intact.
+
+### Run analysis
+
+`~57 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 15.8%; lead-to-resolution conversion is 44.4%; selected-candidate-to-ADD conversion is 0/3.
+
+Across completed discovery Runs 87–157, excluding documentation-only Run 156: 618 leads from approximately 3,454 inspections; 29 ADDs from 189 selected candidates. The recent completed-discovery ADD rate remains 5/10. The completed-discovery no-ADD streak is two since Run 154, with six exact interesting tracks retained during it.
+
+Resolution recovered modestly from 3/9 to 4/9. Five failures were exact-title ambiguity or Spotify-SE absence, not technical failure. The three selected candidates failed for distinct local and long-form consequences—mediating a left turn, inserting another late intensity cycle and duplicating opening formation. The strongest counterargument is that *Reflection* could make the opening's production-world change deliberately conspicuous; it fails because *Stadium Drive* already performs a complete formation before *Marauder*, so the candidate makes the anchor later rather than more consequential. This does not support resolver failure, forced growth, repetitive placement search or epistemic veto. No actionable persistent REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 155 — EXPLORE — intermittent motion must leave the successor work — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 331 contiguous unique exact tracks and a matching COMPLETE 331/331 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 154 had just added a canonical track, so no stagnation repair was warranted.
