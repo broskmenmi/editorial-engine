@@ -335,6 +335,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 329 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | STRANGE GAIT Run 154 | Canonical ADD / interesting | 2026-09-11 |
 | 330 | µ-Ziq | Hyper Daddy | spotify:track:7vVn3qhWBsNZ4c7aFNIZ63 | STRANGE GAIT Run 154 | Placement-specific REJECT / interesting | 2026-09-11 |
 | 331 | Gábor Lázár | Effort | spotify:track:7jYaEuZyZ8pW0jILWWO7ak | STRANGE GAIT Run 154 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 332 | Brendon Moeller | Frozen Silence | spotify:track:39eIFIm9zYAaYEbNk58X0s | STRANGE GAIT Run 155 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 333 | Rhyw | Wolf Town | spotify:track:3sNAhQVPWOKmArWupAgSOZ | STRANGE GAIT Run 155 | Placement-specific REJECT / interesting | 2026-09-11 |
+| 334 | Brendon Moeller | Driftform | spotify:track:5Fu334Erp4ANvFJXjdutas | STRANGE GAIT Run 155 | Placement-specific REJECT / interesting | 2026-09-11 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 155 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Brendon Moeller | Frozen Silence | https://open.spotify.com/track/39eIFIm9zYAaYEbNk58X0s | Placement-specific REJECT only after *Fulledge (Empty-40 Mix)* and after *Rabbit Hole*; intermittent beats framing unstable delayed sounds remain genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Rhyw | Wolf Town | https://open.spotify.com/track/3sNAhQVPWOKmArWupAgSOZ | Placement-specific REJECT only between *Pulse I* and *Roxellana*; a build into percussive madness remains genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Brendon Moeller | Driftform | https://open.spotify.com/track/5Fu334Erp4ANvFJXjdutas | Placement-specific REJECT only between *Moonwake* and *Raataja*; a dub-techno strut remains genuinely interesting elsewhere. Date warning preserved. |
+| UNRESOLVED | RHR, BIGMAMMAZUKI; Porter Ricks; RHR, Logan_OLM; Rhyw | Inna Combination; Biokinetics 1; Port of Nuba; CICLONADA; Engine Track; Nautical Nuba | See discoveries.md exact errors | Six exact-title leads remain unresolved without musical verdicts or utility entries. |
+| CURRENT WATCH | RHR / PAN | GÍRIA | https://ra.co/reviews/36339 | Cross-territory baile-f,8-funk, jungle, electro and sub-bass mutation remains a useful current adjacent direction. |
+| CURRENT WATCH | Brendon Moeller / Samurai Music | Shadow Language | https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/ | Intermittent beats and dub-techno/drum-and-bass recomposition remain useful current directions. |
+| CATALOGUE WATCH | Porter Ricks; Rhyw | Biokinetics; Mister Melt | https://pitchfork.com/reviews/albums/16288-biokinetics/ ; https://ra.co/reviews/35813 | Groove-at-breaking-point, warped gallop and clipped percussive escalation remain useful catalogue directions despite unresolved editions. |
+
+### Placement and inspiration boundaries
+
+- All three exact tracks are rejected only at their documented placements.
+- Six unresolved leads receive no musical verdict; there are no resolved alternates.
+- No BPM, perceived pulse, energy, density, space, phrase structure, mixability or live edge was inferred.
+
 ## Run 154 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

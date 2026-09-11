@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 155
+
+### Intermediate motion must leave a new task
+
+**Direction:** Explore intermittent, unstable or stabilizing passages only where they create a concrete consequence for the successor; reject additions that merely delay redirection, duplicate escalation or insert a second formation before an existing crisis.
+
+**Ingredients:**
+
+- Brendon Moeller — *Frozen Silence* — exact placement-specific reject; broken intermittent beats framing unstable delayed sounds remain useful outside the tested dissolution and closing passages
+- Rhyw — *Wolf Town* — exact placement-specific reject; a build into percussive madness remains useful outside the tested accumulation-to-surge passage
+- Brendon Moeller — *Driftform* — exact placement-specific reject; dub-techno strut remains useful where a stable moving formation is actually needed
+- Six RHR, Porter Ricks and Rhyw exact-title leads remain unresolved without verdict
+
+**Why interesting:** A bridge is consequential when it changes what follows. Intermittence or stability can instead become another self-contained stage that postpones a successor whose work was already clear.
+
+**Unknown / risk:** These are not proven sequences or mixing edges. BPM, perceived pulse, energy, density, space, phrase structure, key, mixability and live behavior remain unknown.
+
 ## Current additions — Run 154
 
 ### A restrained eruption can behave like a beginning

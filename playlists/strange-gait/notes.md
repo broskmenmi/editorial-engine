@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 155 — EXPLORE — intermittent motion must leave the successor work
+
+No canonical track is added. Brendon Moeller — *Frozen Silence* and *Driftform*, and Rhyw — *Wolf Town*, pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
+
+*Frozen Silence* adds another intermittent destabilization between *Fulledge (Empty-40 Mix)* and *Capa*, delaying redirection; after *Rabbit Hole* it restores unstable motion before *Can I live* can perform the restrained re-entry. *Wolf Town* builds into percussive madness between *Pulse I* and *Roxellana*, duplicating escalation before the existing directed surge. *Driftform* adds a dub-techno strut after *Moonwake*, but the early run already moves through sustained formation and intensification before *Raataja*'s rupture.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: three exact resolutions, three selected candidates, six unresolved identities, three preserved date warnings and no alternates, duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** intermittent or stabilizing motion earns sequence space only when it leaves the successor a new task; another complete intermediate stage can delay or duplicate that work.
+
 ## Run 154 — EXPLORE — restrained eruption can reopen the afterword
 
 TYGAPAW, Precious Okoyomon — *Can I live* is added between *Rabbit Hole* and *Invisible Warriors Of Light*. Pitchfork describes the exact track moving from low-boil drone and spoken word into a restrained coda of grimy muffled bass and sandpapery footwork beats—a hesitant beginning rather than an ending. Editorially, `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live → Invisible Warriors Of Light` moves from liminal percussion through flare and descent into restrained re-entry, then continuation. At 2:37, the insertion is proportionate. Its alternative before *Transparency* fails because it would create another re-entry immediately before the protected block opener.

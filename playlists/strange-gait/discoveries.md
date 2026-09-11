@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 155 — EXPLORE — intermittent motion must leave the successor work — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 44 unique canonical rows and a matching COMPLETE 44/44 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 331 contiguous unique exact tracks and a matching COMPLETE 331/331 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 154 had just added a canonical track, so no stagnation repair was warranted.
+
+### Exploration receipt
+
+Run `2026-09-11T16:52:07Z-explore-155` inspected approximately 59 named tracks, releases and catalogue references across live September 11, 2026 Bandcamp Daily, Resident Advisor and Pitchfork feeds; RHR's 2026 *GÍRIA*, Brendon Moeller's 2026 *Shadow Language*, Porter Ricks' 1996/2012 *Biokinetics* and Rhyw's 2023 *Mister Melt*. Nine honest leads survived (15.3%). Run 154 decisions and source windows, recent canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Previously used current-feed candidates were not recycled without a different exact-track evidence basis. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T16:52:07Z-explore-155`
+- sourceCommit: `488786a2bd5c8d6cb14ff15357ac6524ba55242f`
+- request commit: `311f88843c091b2c3cf564c137c3157dd9434f82`
+- resolver commit: `dbd82d5e513f808a8d0057564ac0922c73b18186`
+- requestFingerprint: `dcead1bcd2bc845f3b9021b9b78617c3d70e7dce7f01c400b241100e24c4709e`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 3 exact resolutions → 3 selected candidates; 6 unresolved identities; 3 warnings; no resolved alternates, duplicates, substitutions, relinkings or technical failures.
+
+Warnings preserved exactly:
+
+- Brendon Moeller — *Frozen Silence*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-05"`
+- Rhyw — *Wolf Town*: `Exact title/artist matched with release metadata variance: release date requested "2023" but Spotify returned "2023-11-03"`
+- Brendon Moeller — *Driftform*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-05"`
+
+Unresolved without musical verdict:
+
+- RHR, BIGMAMMAZUKI — *Inna Combination*: `no exact Spotify title/artist search match in market SE`
+- Porter Ricks — *Biokinetics 1*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0zBRLshxg7wKLew0Ef21eu, 5buEnXJFyAfizjsnHXuW30)`
+- Porter Ricks — *Port of Nuba*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3DoKsv3XY33fCdsARAay4z, 6RH0E0deblr4GG6lxvunkI)`
+- RHR, Logan_OLM — *CICLONADA*: `no exact Spotify title/artist search match in market SE`
+- Rhyw — *Engine Track*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3MxLkC21L7EBBvA4UAaC4C, 05nBoYmxLVAZFq2uMqcjXG)`
+- Porter Ricks — *Nautical Nuba*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1Z1vwOqESwL7hLaKjU2oFI, 5NYWVgGZ6xfo88hJvG7bbp)`
+
+### Candidate evaluations
+
+#### Brendon Moeller — Frozen Silence — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:39eIFIm9zYAaYEbNk58X0s`; 4:36; *Shadow Language*; Spotify release date 2026-02-05.
+- **Volume fit:** PASS. Broken, intermittent beats framing unstable delayed sounds directly engage rhythmic and structural freedom.
+- **Immediate transition:** FAIL only at the two tested positions. After *Fulledge (Empty-40 Mix)*, another intermittent destabilization delays *Capa*'s redirection. After *Rabbit Hole*, it restores unstable motion before *Can I live* can reopen the close from drone into restrained footwork.
+- **Surrounding three-to-five-track run:** FAIL at both placements. The first over-articulates dissolution before redirection; the second inserts a second re-forming stage between descent and the existing restrained re-entry.
+- **Long-form journey:** NOT IMPROVED by either insertion. The exact track remains genuinely interesting, but neither tested position gives its successor new work.
+- **Verdict:** **REJECT the two tested placements only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every handoff remain UNKNOWN.
+
+#### Rhyw — Wolf Town — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3sNAhQVPWOKmArWupAgSOZ`; 5:32; *Mister Melt*; Spotify release date 2023-11-03.
+- **Volume fit:** PASS. The documented build into percussive madness fits the selection lens without relying on novelty.
+- **Immediate transition:** FAIL only between *Pulse I* and *Roxellana*. The candidate turns crooked accumulation into another full escalation immediately before *Roxellana* already supplies the directed surge.
+- **Surrounding three-to-five-track run:** FAIL at this position. `Tehutis Law → Pulse I → candidate → Roxellana → backsliding` stacks accumulation, percussive escalation and surge before dissolution without changing the successor's work.
+- **Long-form journey:** NOT IMPROVED by this insertion. At 5:32 it lengthens an already articulated surge passage.
+- **Verdict:** **REJECT the tested placement only**; retain as interesting. BPM, perceived pulse, energy, density, space, exact endpoint, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+#### Brendon Moeller — Driftform — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5Fu334Erp4ANvFJXjdutas`; 4:41; *Shadow Language*; Spotify release date 2026-02-05.
+- **Volume fit:** PASS. A dub-techno strut inside a record that recomposes techno and drum-and-bass constraints belongs under the selection lens.
+- **Immediate transition:** FAIL only between *Moonwake* and *Raataja*. The candidate supplies another stable moving formation after *Freepass for Them* and *Moonwake* already establish sustained drive and intensification before *Raataja*'s rupture.
+- **Surrounding three-to-five-track run:** FAIL at this position. `Freepass for Them → Moonwake → candidate → Raataja → Crawl` adds a second stabilizing stage before crisis instead of making the rupture more necessary.
+- **Long-form journey:** NOT IMPROVED by this insertion. The 4:41 addition over-articulates an early run that already has formation, intensification, crisis and rebuilding.
+- **Verdict:** **REJECT the tested placement only**; retain as interesting. BPM, perceived pulse, energy, density, space, phrase structure, mixability and both handoffs remain UNKNOWN.
+
+### Librarian / Auditor outcome
+
+Auditor approves no canonical ADD, three placement-specific REJECTs, three target-local exact discoveries, three source watches, one set direction and all six unresolved identities without verdict. The global doctrine-free utility ledger receives the three selected exact identities only. STRANGE GAIT's ledger and journey annotations remain unchanged; the protected internal order remains intact.
+
+### Run analysis
+
+`~59 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 15.3%; lead-to-resolution conversion is 33.3%; selected-candidate-to-ADD conversion is 0/3.
+
+Across Runs 87–155: 609 leads from approximately 3,397 inspections; 29 ADDs from 186 selected candidates. The recent completed-run ADD rate is 5/10. The completed-run no-ADD streak is one since Run 154, with three exact interesting tracks retained during it.
+
+Resolution fell from 7/9 in Run 154 to 3/9 because two collaborative artist strings were unavailable in Spotify market SE and four catalogue titles remained edition-ambiguous; the resolver itself completed successfully. The three selected candidates failed for distinct placement consequences—delayed redirection, duplicated escalation and redundant stabilization—not because transitions lacked direct audio. The strongest counterargument is that *Driftform* could sharpen *Raataja*'s rupture by supplying a stable target; the five-track run rejects it because *Freepass for Them* and *Moonwake* already perform formation and intensification. This does not support resolver failure, forced growth, repetitive placement search or epistemic veto. No actionable REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 154 — EXPLORE — restrained eruption before the afterword — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 43 unique canonical rows and a matching COMPLETE 43/43 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 328 contiguous unique exact tracks and a matching COMPLETE 328/328 receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed. Run 153 had just ended a three-run no-ADD streak, so no stagnation repair was warranted.
