@@ -51,7 +51,7 @@ When no actionable repair exists, perform a genuinely fresh outward scan across:
 
 Explore both **outside-in** and **inside-out**:
 - outside-in: find music that plausibly belongs, then test where it could help;
-- inside-out: inspect the current 15-track journey and search for music that could deepen, sharpen, release, redirect or extend an existing passage without inventing a rigid role taxonomy.
+- inside-out: inspect the current canonical journey and search for music that could deepen, sharpen, release, redirect or extend an existing passage without inventing a rigid role taxonomy.
 
 Record fresh UTC receipt, source windows, approximate inspected scope, concrete exclusions, ranked leads and inspection-to-lead conversion.
 
