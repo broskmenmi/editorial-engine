@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 140 — Sharpening and chaos must leave downstream work
+
+**Direction:** Explore concise rhythmic sharpening, concentrated broken-techno violence and lopsided breakbeat only where the candidate's endpoint changes the following formation rather than pre-performing its reset, accumulation or re-entry.
+
+**Ingredients:**
+
+- FAUZIA — *Guide* — exact placement-specific reject; concise snare-led breakbeat sharpening remains useful outside the two tested positions.
+- Container — *Drain* — exact placement-specific reject; concentrated buzzing-synth and metallic-drum chaos remains useful outside the two tested positions.
+- DJ POPS — *$^$^$* — exact PARKED discovery; release-level lopsided breakbeat context is known, individual development and endpoint are not.
+- *You No Fit Touch Am (brekkyt Remix)*, *Sanctuary (Meith Remix)*, *Beat On The Brat*, *Heyoka*, *Can You Dig It* and *Without Me* — unresolved exact-title leads without verdicts.
+
+**Why interesting:** A short reset or forceful instability can materially redirect a set, but only when its exit leaves the following track meaningful work rather than turning that track into repetition.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 139 — Simplicity and hybrid colour must change the next task
 
 **Direction:** Explore radical rhythmic simplicity and adjacent club colour only where the candidate's endpoint changes the following formation rather than adding a second opening, extra passage or stylistic aside.

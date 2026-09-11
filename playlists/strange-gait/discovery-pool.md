@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 140 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | FAUZIA | Guide | https://open.spotify.com/track/5TaGVRuwVoj8KqwzFGmk8k | Placement-specific REJECT only for both Run 140 positions; concise breakbeat sharpening remains interesting. Date variance preserved. |
+| EXACT TRACK | Container | Drain | https://open.spotify.com/track/7dUhCGC1HxVIGcjge1yCQC | Placement-specific REJECT only for both Run 140 positions; concentrated broken-techno chaos remains interesting. Date variance preserved. |
+| EXACT TRACK | DJ POPS | $^$^$ | https://open.spotify.com/track/5WT4Gr4bQD0tyEc4MrEqVF | PARKED after two placements for a specific exact-track development/endpoint gap; the release's lopsided breakbeat construction remains interesting. Date variance preserved. |
+| UNRESOLVED | Dele Sosimi; Soda303; Ryan Wildstyle; FAUZIA | You No Fit Touch Am (brekkyt Remix); Sanctuary (Meith Remix); Beat On The Brat; Heyoka; Can You Dig It; Without Me | See discoveries.md exact errors | Five no-match and one ambiguous exact-title outcome remain without verdict or utility entry. |
+| RELEASE / CATALOGUE WATCH | Dele Sosimi / brekkyt / Meith; Acid Room Studios; FAUZIA; DJ POPS; Container | Remixed 2026; A.R.S. 013 MARTE EP; I Was Here For A Moment; между частотами; LP | https://delesosimi.bandcamp.com/album/remixed-2026 ; https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 ; https://ra.co/reviews/36363 ; https://erythroleukoplakia.bandcamp.com/album/--209 ; https://pitchfork.com/reviews/tracks/container-drain/ | Current bruk/Afro-tech, acid-techno, club-haunted experimental pop, lopsided breakbeat and overlooked broken techno remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- Guide and Drain are not globally rejected; exact handoffs were not tested.
+- $^$^$ is parked for a specific individual-track direction/endpoint gap, not merely absent mix evidence.
+- Unresolved leads do not enter the global utility ledger.
+- The set direction is an editorial hypothesis, not a proven sequence or live-mixing edge.
+
 ## Run 139 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

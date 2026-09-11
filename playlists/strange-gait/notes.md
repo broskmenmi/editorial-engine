@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 140 — EXPLORE — sharpening and chaos must leave downstream work
+
+No canonical track is added. FAUZIA — *Guide* and Container — *Drain* pass the selection lens and remain genuinely interesting, but fail only their two tested placements.
+
+At 1:33, *Guide* creates a miniature re-formation between *Rabbit Hole* and *Invisible Warriors Of Light*, pre-empting the afterword; early, it adds a second concise reset after *Encasadelciegoeltuerco* before *Cave* performs its widening. *Drain* supplies a complete chaos escalation before *Pulse I*'s crooked accumulation, or adds another instability premise between *backsliding* and *Mildew Swoosh* before the same driving re-entry.
+
+DJ POPS — *$^$^$* is PARKED after both planned placements. Spotify verifies the exact 3:21 identity, but the available rhythmic/structural description is release-level and does not establish this track's development or endpoint. That gap is decision-critical around both opposed-speed balance and the approach to bass-drum removal.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: three exact selected candidates, six unresolved identities, no alternates and three preserved metadata warnings. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 139 — EXPLORE — simplicity and hybrid colour must change the next task
 
 No canonical track is added. South Beach Recycling with Atjazz — *Reset* and DJ Phil — *WhyUBeingWeird* pass the selection lens and remain genuinely interesting.
