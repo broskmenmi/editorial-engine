@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 159
+
+### Protruding motion versus downstream work
+
+**Direction:** Explore conspicuous rhythmic propositions whose endpoint forces the next track to orient, rebalance or rupture; reject extra force stages that only postpone an existing consequence.
+
+**Ingredients:**
+
+- Wata Igarashi — *Turbulence* — exact PARKED discovery; relentless up/down progression could make a following balance consequential, but endpoint and exit remain unknown
+- Wata Igarashi — *Stuck In CDG* — exact placement-specific reject; incisive sinusoid-bass protrusion remains useful outside the two tested extra-force positions
+- Lolina — *Glitching* — exact placement-specific reject; concise infectious procedural bounce remains useful outside the tested extra-groove position
+- Lolina — *The Opaque*, Colomboi — *Alchemy* and ASKE — *Far From Oort Cloud* — unresolved exact-title research leads
+- Lolina — *Strobing* and DJ Agitated — *Conflicted* / *Archive of a disappearing now* — exact unselected, unevaluated alternates
+
+**Why interesting:** Editorial hypothesis: protrusion matters when it changes what follows; intensity, concision or procedural novelty alone may only insert another stage.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. BPM, exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
+
 ## Current additions — Run 158
 
 ### Alternating pressure before transformation
