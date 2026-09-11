@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 161
+
+### Acceleration should create an orientation problem
+
+**Direction:** Explore conspicuous acceleration or rhythmic-language shifts where the next track can answer the resulting orientation problem; reject extra disorders that pre-empt a left turn, extend conflict or crowd a reset.
+
+**Ingredients:**
+
+- Rian Treanor — *Hypnic Jerks* — exact provisional canonical ADD; documented 180-BPM opening and quadruple-time acceleration before *Tides Alternate*'s opposed-speed balance
+- Black Bananas — *Cold Bussin* — exact placement-specific reject; shuffle-inside-disorder construction remains useful outside the tested left-turn and late-middle positions
+- Rian Treanor — *Opponent Process* — exact placement-specific reject; sputtering dancehall deformation remains useful outside the tested conflict and reset positions
+- Voice Actor, aloisius — *24*; Isaac Robertson — *1200*; abi asisa — *calling* — unresolved exact-title adjacent research leads
+- Black Bananas — *Turkey Burgers* / *Outta My Head* and Rian Treanor — *Closed Curve* — exact unselected, unevaluated alternates
+
+**Why interesting:** Editorial hypothesis: a conspicuous mutation earns sequence space when its successor is positioned to resolve, rebalance or redirect it; spectacle alone can merely postpone existing work.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
 ## Current additions — Run 160
 
 ### Interrupted force must leave altered material
