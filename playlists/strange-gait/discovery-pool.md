@@ -1,5 +1,20 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 144 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Four Tet | Parallel 4 | https://open.spotify.com/track/1ZeDNZoKgEOTRmTTg1zQd4 | PARKED after both Run 144 placements for missing exact direction/endpoint evidence; syncopated UK-garage construction remains genuinely interesting. Date variance preserved. |
+| EXACT TRACK | Plaid | Get What You Gave | https://open.spotify.com/track/6D43P1c3qxqFJqAdlqENX7 | Placement-specific REJECT only for the two Run 144 positions; airy polyrhythmic stop/start construction remains interesting elsewhere. Date variance preserved. |
+| EXACT TRACK | Plaid | B Born Droid | https://open.spotify.com/track/3QjKphy78bYVf83CU1WfqV | Placement-specific REJECT only for the two Run 144 positions; patient machine-waltz gait remains interesting elsewhere. Date variance preserved. |
+| UNRESOLVED | Marcel Dettmann; Junior Boys; CoKi, Durrty Goodz; Bonobo | Argon; Hazel; Screen; We Nah Business; Youth's Fountain | See discoveries.md exact errors | Three no-match and one ambiguous two-ID outcome remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATE | Objekt | Secret Snake | spotify:track:75vG2Zadt1GyuaozT2XiOB | Exact but unselected and unevaluated; not retained as a decision and not added to the utility ledger. Date variance preserved. |
+| CURRENT / ADJACENT WATCH | Bonobo / Ninja Tune; CoKi / DMZ; Bitchin Bajas | Distance in Static; Red Rocks; Isle Peaks | https://pitchfork.com/reviews/albums/bonobo-distance-in-static ; https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 ; https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep | Current unruly jazz-percussion, bass-world mutation and odd-meter cosmic-music fields remain useful; unresolved or unavailable identities carry no verdict. |
+| CATALOGUE WATCH | Marcel Dettmann; Four Tet; Plaid; Junior Boys; Objekt | Dettmann; Parallel; Spokes; Begone Dull Care; Cocoon Crush | https://pitchfork.com/reviews/albums/14213-dettmann ; https://pitchfork.com/reviews/albums/four-tet-parallel-871 ; https://pitchfork.com/reviews/albums/6337-spokes ; https://pitchfork.com/reviews/tracks/11126-hazel ; https://pitchfork.com/reviews/tracks/secret-snake | Rigid-to-airy, syncopated garage, stop/start polyrhythm, pop-structured build and organic-synthetic transformation remain useful overlooked-catalogue windows. |
+
+Editorial boundary: exact-track retention does not weaken the canonical verdicts. *Get What You Gave* and *B Born Droid* are rejected only in their tested positions; *Parallel 4* remains PARKED; *Secret Snake* was not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all tested handoffs remain unknown.
+
+
 ## Run 143 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

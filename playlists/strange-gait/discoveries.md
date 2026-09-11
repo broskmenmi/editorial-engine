@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 144 — EXPLORE — groove character must produce downstream consequence — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 38 unique canonical tracks with 38 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 303 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. Run 143 had just ended the prior four-run no-ADD streak, so no stagnation repair was actionable.
+
+### Exploration receipt
+
+Run `2026-09-11T05:51:56Z-explore-144` inspected approximately 56 named tracks, releases and catalogue references across Pitchfork's live September 11 Bonobo review, September 9 Bitchin Bajas review, September 8 Selects/current electronic window, Bandcamp Daily's September 9 August-electronic survey, and overlooked Marcel Dettmann, Four Tet, Plaid, Junior Boys and Objekt criticism. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, utility discoveries, recently decided fields and unresolved leads without materially new identity evidence were excluded. Nine honest leads survived (16.1%). The immutable schemaVersion 2 request was pinned to `89762f491bd44b80715160c5ed81b77523055f2f` in `ae925224e61a0143bbda1d91e6fb2fbc684edd54`. Matching snapshot commit: `2d141ae1b186b6f9657627a96f630712152bb5a9`; fingerprint `92db40b1958a5546fa87ed5dba2a692b121793c794b467737eed14168aa62dde`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 4 resolved, 3 selected, 1 exact alternate, 5 unresolved, no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. Four Tet — *Parallel 4* — `spotify:track:1ZeDNZoKgEOTRmTTg1zQd4`; 4:48; album *Parallel*; Spotify date 2020-12-25; BPM unavailable.
+2. Plaid — *Get What You Gave* — `spotify:track:6D43P1c3qxqFJqAdlqENX7`; 5:16; album *Spokes*; Spotify date 2003-10-20; BPM unavailable.
+3. Plaid — *B Born Droid* — `spotify:track:3QjKphy78bYVf83CU1WfqV`; 5:31; album *Spokes*; Spotify date 2003-10-20; BPM unavailable.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-12-25"` — Four Tet — *Parallel 4*.
+- `Exact title/artist matched with release metadata variance: release date requested "2003" but Spotify returned "2003-10-20"` — separately for Plaid — *Get What You Gave* and *B Born Droid*.
+- `Exact title/artist matched with release metadata variance: release date requested "2018" but Spotify returned "2018-11-09"` — Objekt — *Secret Snake*.
+
+Unresolved without musical verdict:
+
+- Marcel Dettmann — *Argon*: `no exact Spotify title/artist search match in market SE`.
+- Junior Boys — *Hazel*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2UWpCYxhBgYjunyxnI1Gsr, 7CclwMLX12pMmokZqJXsHv)`.
+- Marcel Dettmann — *Screen*: `no exact Spotify title/artist search match in market SE`.
+- CoKi, Durrty Goodz — *We Nah Business*: `no exact Spotify title/artist search match in market SE`.
+- Bonobo — *Youth's Fountain*: `no exact Spotify title/artist search match in market SE`.
+
+Resolved but unselected and unevaluated:
+
+- Objekt — *Secret Snake* — `spotify:track:75vG2Zadt1GyuaozT2XiOB`; 5:58; *Cocoon Crush*; 2018-11-09; BPM unavailable.
+
+### Candidate evaluations
+
+#### Four Tet — Parallel 4 — PARKED / retained discovery
+
+- **Volume fit:** PASS. The attributed exact-track description establishes syncopated UK-garage rhythm, vocal cut-ups and a booming, crackling groove without relying on prestige or novelty.
+- **Immediate transition:** UNKNOWN at both planned positions. The materials make `Sarniezz → candidate → Never Met` and `Rabbit Hole → candidate → Invisible Warriors Of Light` plausible, but the source does not establish the candidate's direction or endpoint.
+- **Surrounding three-to-five-track run:** UNDECIDABLE. After *Sarniezz*, the track could mediate the live-band left turn back into electronic transit or turn it into a two-track excursion. After *Rabbit Hole*, it could create useful re-formation or delay the existing afterword.
+- **Long-form journey:** UNDECIDABLE for the same candidate-specific gap. A strong groove description cannot distinguish redirection from extra destination.
+- **Verdict:** **PARKED** after both tested placements. Reopen only for materially richer exact-track direction/endpoint evidence, lawful audio evidence or a changed journey need. Retain locally and in the doctrine-free global utility playlist as genuinely interesting.
+
+#### Plaid — Get What You Gave — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork's exact-track description identifies a polyrhythmic stop/start beat with an airy Latin-leaning melodic surface.
+- **Immediate transition:** The different production world is permitted, but both tested placements fail on present evidence. Before *Trompe L'oeil*, the stop/start proposition performs another reset immediately before the established reset. Before *Drummz*, it inserts a complete airy polyrhythmic diversion after *Fragments*' re-entry.
+- **Surrounding three-to-five-track run:** FAIL for the tested positions. `Sarniezz → Never Met → candidate → Trompe L'oeil → Thick to Handle` over-articulates transit and reset; `Mildew Swoosh → Fragments → candidate → Drummz → Ikoyi` adds mediation inside an already legible strain → re-entry → percussion → dissolution passage.
+- **Long-form journey:** NO NET GAIN at these positions. The track fits the volume but does not give either successor new work.
+- **Verdict:** **REJECT the two Run 144 placements only**, not the track globally. Retain locally and in the utility playlist.
+
+#### Plaid — B Born Droid — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. A patient, shuffling cyborg waltz is directly relevant to the selection lens without needing to prove technical novelty.
+- **Immediate transition:** A conspicuous metric turn is allowable, but after *Capa* it creates two consecutive metric-reinterpretation premises before *Sarniezz*; after *Rabbit Hole* it becomes another re-forming destination before the established electro-soul afterword.
+- **Surrounding three-to-five-track run:** FAIL for the tested positions. `Fulledge → Capa → candidate → Sarniezz → Never Met` doubles the metric left-turn work; `Stardancer → Eyes of the Wind → Rabbit Hole → candidate → Invisible Warriors Of Light` adds a second destination inside the closing descent-and-rebuild passage.
+- **Long-form journey:** NO NET GAIN at either tested position. The closing alternative is a hard turn that could be interesting, but its documented gait does not improve the already articulated endpoint sequence.
+- **Verdict:** **REJECT the two Run 144 placements only**, not the track globally. Retain locally and in the utility playlist.
+
+### Auditor approval
+
+**APPROVED — 0 ADD, 2 placement-specific REJECT, 1 PARKED.** The request is immutable and pinned to the pre-request SHA; the matching PARTIAL snapshot preserves runId, sourceCommit, mode, target, fingerprint, every warning, five unresolved identities and one exact alternate. Only the three selected exact identities were evaluated. Each candidate was separated across volume fit, immediate transition, local-run and long-form effect. UNKNOWN did not become failure for *Parallel 4*; its PARKED state identifies the decision-critical direction/endpoint gap and both planned placements were tested. The Plaid rejections rely on placement-scale redundancy, not missing audio, metadata, artist diversity or genre orthodoxy. Protected state, feedback boundaries and live/canonical separation remain intact.
+
+### Durable result
+
+- STRANGE GAIT remains **38 canonical tracks** with no reorder; the protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains *Parallel 4*, *Get What You Gave* and *B Born Droid* as exact interesting tracks; five unresolved research leads, one exact unselected alternate, current/adjacent watches and one set direction are recorded.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **303 → 306 exact tracks**, adding all three selected exact retained identities.
+- Journey annotations and generated map inputs are unchanged.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 56 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Inspection-to-lead conversion is **16.1%**, lead-to-resolution conversion **44.4%**, and selected-candidate-to-ADD conversion **0/3**. Across Runs 87–144: **512 leads from approximately 2,773 inspections; 23 ADDs from 158 selected candidates**. The recent completed-run ADD rate is **4/10**, excluding resolver-incomplete Run 133. The no-ADD streak is one completed run since Run 143, with three exact interesting tracks retained during it. Strong lead conversion, a normal PARTIAL resolver outcome and distinct placement tests argue against Scout over-filtering, epistemic veto or repetitive placement search. The strongest counterargument is that *Parallel 4*'s documented groove may already provide enough evidence for a provisional left turn; it remains parked because the two materially different placements cannot be distinguished without candidate-specific direction or exit evidence. The run does not prove playlist completion, global incompatibility, exact handoff quality, phrase fit or live mixability. No actionable REPAIR emerges.
+
+
 ## Run 143 — EXPLORE — self-emptying rupture can create rebuilding work — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 300 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. The four completed no-ADD runs since Run 138, with 11 exact interesting tracks retained, remained a proportionality signal rather than an actionable defect.

@@ -1,5 +1,16 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 144 — EXPLORE — groove character must produce downstream consequence
+
+No canonical track is added. Four Tet — *Parallel 4* is PARKED after both planned placements. Plaid — *Get What You Gave* and *B Born Droid* pass the selection lens and remain genuinely interesting, but fail only their two tested placements.
+
+Pitchfork documents *Parallel 4*'s vocal cut-ups and chiming synths over a booming, crackling UK-garage groove. That establishes belonging, but not the track's direction or endpoint. At `Sarniezz → candidate → Never Met` it could mediate the live-band left turn or turn it into a two-track excursion; at `Rabbit Hole → candidate → Invisible Warriors Of Light` it could restore motion productively or delay the afterword. The evidence cannot choose responsibly.
+
+*Get What You Gave*'s light, airy stop/start polyrhythm performs another reset before *Trompe L'oeil*, or inserts a complete polyrhythmic diversion between *Fragments*' re-entry and *Drummz*' percussion-led continuation. *B Born Droid*'s patient cyborg waltz either doubles metric reinterpretation immediately before *Sarniezz* or creates another re-forming destination between *Rabbit Hole* and the existing afterword.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: four exact resolutions, three selected candidates, five unresolved identities, one exact alternate and four preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+
 ## Run 143 — EXPLORE — self-emptying rupture can create rebuilding work
 
 Lotic — *Carried* is added between *Encasadelciegoeltuerco* and *Cave*. Pitchfork documents warped synths, battering kicks and an early breakdown before a final percussion barrage dissipates until the original eerie loop remains alone. The five-track run `The Witching Hour → Encasadelciegoeltuerco → Carried → Cave → Abundance` now moves from controlled continuation through triplet derailment and a self-emptying rupture into widening and swung continuation.

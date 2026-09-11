@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 144 — Groove character must produce downstream consequence
+
+**Direction:** Explore syncopated garage, stop/start polyrhythm and patient machine waltzes where the track's development or exit changes the successor's task, rather than admitting a self-contained groove because its gait is distinctive.
+
+**Ingredients:**
+
+- Four Tet — *Parallel 4* — exact PARKED discovery; a booming, crackling UK-garage groove is documented, but direction and exit remain unknown.
+- Plaid — *Get What You Gave* and *B Born Droid* — exact placement-specific rejects; airy stop/start polyrhythm and a patient cyborg-waltz gait remain useful outside the tested duplicate-reset or duplicate-reformation positions.
+- Marcel Dettmann — *Argon* and *Screen*, Junior Boys — *Hazel*, CoKi with Durrty Goodz — *We Nah Business*, and Bonobo — *Youth's Fountain* — unresolved exact-title leads without verdicts.
+- Objekt — *Secret Snake* — exact resolved alternate, unselected and unevaluated.
+
+**Why interesting:** A distinctive gait can carry a left turn, but its canonical value depends on whether the local run gains a new consequence rather than another complete proposition.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
+
 ## Run 143 — Self-emptying rupture can create rebuilding work
 
 **Direction:** Explore club constructions whose internal conflict eventually removes or exposes material, giving the following track a concrete rebuilding or widening task rather than adding another complete instability premise.
