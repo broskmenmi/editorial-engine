@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 150 — Intrigue must leave the successor legible
+
+**Direction:** Explore rhythmically striking tracks as deliberate left turns only when their exit changes the next track's work; avoid stacking a second complete formation, destabilization or re-entry before an existing one.
+
+**Ingredients:**
+
+- Boards of Canada — *Father And Son* — exact placement-specific reject; synchronized voice fragments and B-boy groove remain useful outside the tested post-*Sarniezz* and pre-*Transparency* positions.
+- Theo Parrish — *Radar Detector* — exact placement-specific reject; cadence-destabilizing broken beat remains useful outside the tested deformation and pre-removal positions.
+- Boards of Canada — *Prophecy At 1420 MHz* — exact placement-specific reject; evolving rock-beat construction remains useful outside the tested double-overture and early sustained-run positions.
+- Theo Parrish — *Purple Angry Birds* and three BEAM WONG exact-title leads remain unresolved without verdict.
+- *All Your Boys Are Biters* and *All Reason Departs* are exact but unselected and unevaluated.
+
+**Why interesting:** A conspicuous groove or production-world change can be valuable, but interest alone is not sequence consequence. The useful set question is whether the next track becomes more necessary, not whether the candidate is unusual.
+
+**Unknown / risk:** Exact handoffs, BPM, perceived pulse, phrase structure, mixability, energy, density, space and selected candidates' exits remain untested. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 149 — Preserved drive before a sharper event
 
 **Direction:** Explore tracks that change melodic or textural premise while maintaining rhythmic insistence, so the next intensification acts on a stable moving target rather than restarting the sequence.

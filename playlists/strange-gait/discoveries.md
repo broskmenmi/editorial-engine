@@ -1,5 +1,54 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 150 — EXPLORE — rhythmic intrigue must not erase the successor — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows, matching annotations/map and a COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 317 contiguous unique exact tracks and a matching COMPLETE receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.
+
+### Exploration receipt
+
+Run `2026-09-11T11:48:41Z-explore-150` inspected approximately 57 named tracks, releases and catalogue references across September 2026 current-review and staff-pick feeds, Boards of Canada's May 2026 *Inferno*, BEAM WONG's August 2026 *Flourishing on the Brink of Collapse* and Theo Parrish's overlooked 2020 *Wuddaji* catalogue. Nine honest leads survived (15.8%). Run 149 decisions and alternates, recent Run 139–149 fields, prior canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Musicentrydelete — *eBase* and KAY BE — *BARUT* were explicitly removed as persistent-state discoveries. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T11:48:41Z-explore-150`
+- sourceCommit: `cdd42972bdbdbc970d898f2c55af4b72d7832589`
+- request commit: `ed74562fd00472feb5f9af02c2cc183aa771cacd`
+- resolver commit: `15a0dfb29241d9e1a42731c9c5655140287f5738`
+- requestFingerprint: `2a03042472af4d0e612bcc6a97a41dc8e63f5831c404b7efa8138dfa87bc4901`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 5 exact resolutions → 3 selected candidates + 2 resolved alternates; 4 unresolved identities; 2 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved exactly
+
+1. **Boards of Canada — Father And Son** — RESOLVED and selected: `spotify:track:2jS1VIUPJnepG7sIU5nJUR`; Spotify *Inferno*, 2026-05-29, 3:24, BPM unavailable.
+2. **Theo Parrish — Radar Detector** — RESOLVED and selected: `spotify:track:0Bpnnt6r46tccIofg2XoRO`; Spotify *Wuddaji*, 2020-10-02, 6:18, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-10-02"`.
+3. **Boards of Canada — Prophecy At 1420 MHz** — RESOLVED and selected: `spotify:track:4CpyZQzwxCzQPiUTvlOBrn`; Spotify *Inferno*, 2026-05-29, 5:04, BPM unavailable.
+4. **Theo Parrish — Purple Angry Birds** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+5. **Theo Parrish — All Your Boys Are Biters** — RESOLVED alternate, not selected or evaluated: `spotify:track:7B4P06No9eso4UwVN3fPvJ`; Spotify *Wuddaji*, 2020-10-02, 7:27, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2020-10-02"`.
+6. **Boards of Canada — All Reason Departs** — RESOLVED alternate, not selected or evaluated: `spotify:track:1khO7PZXaXxi8rGpnZl3fX`; Spotify *Inferno*, 2026-05-29, 6:14, BPM unavailable.
+7. **BEAM WONG — Take off** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+8. **BEAM WONG — Choke** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+9. **BEAM WONG — Earthquake/River (live)** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+
+### Canonical evaluations
+
+1. **Boards of Canada — Father And Son — placement-specific REJECT.** **Volume fit:** PASS at the electronic-adjacent edge; Pitchfork documents chopped voice fragments rhythmically synchronized to a funky B-boy groove with a contrasting undertow. **Immediate transitions:** UNKNOWN in both tests; no entry, exit, phrase, pulse or mix evidence. **Surrounding run:** FAIL at `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil` because the candidate already restores a fully formed electronic groove after the live-band left turn, reducing *Never Met* from necessary exit to another transit. FAIL at `Truth in Noise → U Belong 2 Me → candidate → Transparency → When We Froze` because the restored groove interrupts the bass-drum-removal threshold and pre-empts the protected block opener's re-entry. **Long form:** FAIL proportionally; after three consecutive ADD runs, a second explanation in either passage does not improve the journey. Retained as genuinely interesting outside these positions.
+2. **Theo Parrish — Radar Detector — placement-specific REJECT.** **Volume fit:** PASS; the exact review documents skittish broken beat, low-end echo, cadence-destabilizing shaker and evolving keyboard phrases. **Immediate transitions:** UNKNOWN in both tests. **Surrounding run:** FAIL at `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES` because its full cadence-destabilization proposition performs the deformation already assigned to *Thick to Handle*. FAIL at `Amor → Truth in Noise → candidate → U Belong 2 Me → Transparency` because another instability premise weakens the direct consolidation-to-removal threshold. **Long form:** FAIL proportionally; it adds a complete rhythmic event without changing either successor's task. Retained as genuinely interesting outside these positions.
+3. **Boards of Canada — Prophecy At 1420 MHz — placement-specific REJECT.** **Volume fit:** PASS at the adjacent edge; Pitchfork documents a chiseled rock beat and evolving synth/guitar construction that gathers steam. The unusual phrase-length statement is album-wide and is not treated as candidate-specific proof. **Immediate transitions:** UNKNOWN in both tests. **Surrounding run:** FAIL at `Stadium Drive → candidate → Marauder → The Witching Hour` because a second completed formation follows the overture before the opening anchor. FAIL at `Worn Down → Tides Alternate → candidate → Too Much Time → Freepass for Them` because it inserts another self-sufficient build inside a passage already balancing speed, widening and preserved drive. **Long form:** FAIL proportionally; the hard left turn is allowed, but neither tested placement gives its successor new work. Retained as genuinely interesting outside these positions.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and matching terminal snapshot agree on schemaVersion, runId, sourceCommit and fingerprint. Only the three selected exact identities were evaluated. All four unresolved identities, both exact unevaluated alternates and both warnings remain preserved; no metadata was converted into energy, density, space, hypnosis, phrase-fit or mixability claims. The three rejections are placement-specific, canonical and protected state remain unchanged, and only the three selected exact tracks explicitly retained as interesting enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **42 → 42 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three selected exact placement-specific rejects, four unresolved research leads and two exact unevaluated alternates retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **317 → 320 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 57 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 exact alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions. Inspection-to-lead conversion is 15.8%, lead-to-resolution conversion 55.6%, and selected-candidate-to-ADD conversion 0/3. Across Runs 87–150: 564 leads from approximately 3,110 inspections; 27 ADDs from 172 selected candidates. The recent completed-run ADD rate is 5/10 and the no-ADD streak is one run since Run 149. The healthy funnel and three distinct candidate outcomes argue against resolver failure or an epistemic veto. Run 150 appropriately breaks the three-run ADD streak: each candidate fits the selection lens, but all six tested placements duplicate or pre-empt existing downstream work. This does not prove global incompatibility or playlist completion.
+
 ## Run 149 — EXPLORE — preserved drive before intensification — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 41 unique canonical table rows, matching annotations/map and a COMPLETE 41/41 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 314 contiguous unique exact tracks and a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion or current TRIGGERED revisit existed. An objective documentation defect was discovered during persistence review: the canonical ledger footer still said 40 and omitted Run 148 current-state history despite the 41-row canonical table. It did not affect resolver inputs, protected state or publication identity and is repaired atomically in this run.

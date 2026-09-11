@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 150 — EXPLORE — rhythmic intrigue must leave the successor legible
+
+No canonical track is added. Boards of Canada — *Father And Son* and *Prophecy At 1420 MHz*, and Theo Parrish — *Radar Detector*, all pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
+
+*Father And Son* restores a fully formed electronic groove immediately after *Sarniezz*, reducing *Never Met*'s existing exit role, or restores motion between *U Belong 2 Me*'s bass-drum-removal threshold and the protected re-entry at *Transparency*. *Radar Detector* performs cadence destabilization before *Thick to Handle*'s existing deformation, or inserts another instability between consolidation and *U Belong 2 Me*'s removal. *Prophecy At 1420 MHz* supplies a second completed formation after *Stadium Drive* before *Marauder*, or another self-sufficient build inside the already articulated early run around *Tides Alternate*, *Too Much Time* and *Freepass for Them*.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: five exact resolutions, three selected candidates, two exact unevaluated alternates, four unresolved identities and two preserved date warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** rhythmic or timbral intrigue earns sequence space when it makes the successor more necessary; a complete competing formation can instead erase that work.
+
 ## Run 149 — EXPLORE — preserved drive can make intensification more legible
 
 96 Back — *Freepass for Them* is added between *Too Much Time* and *Moonwake*. Pitchfork describes an insistent groove pivoting to a chilly square-wave melody while the rhythm remains unrelenting beneath soft static. The five-track run `Tides Alternate → Too Much Time → Freepass for Them → Moonwake → Raataja` now moves from opposed-speed balance through widening into a sustained rhythmic pivot, then intensification and crisis. The candidate's 3:52 duration is proportionate. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.

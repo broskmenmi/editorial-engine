@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 150 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Boards of Canada | Father And Son | https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR | Placement-specific REJECT only for the two tested Run 150 positions; synchronized voice fragments over a B-boy groove remain genuinely interesting elsewhere. |
+| EXACT TRACK | Theo Parrish | Radar Detector | https://open.spotify.com/track/0Bpnnt6r46tccIofg2XoRO | Placement-specific REJECT only for the two tested Run 150 positions; skittish broken-beat cadence destabilization remains genuinely interesting elsewhere; date warning preserved. |
+| EXACT TRACK | Boards of Canada | Prophecy At 1420 MHz | https://open.spotify.com/track/4CpyZQzwxCzQPiUTvlOBrn | Placement-specific REJECT only for the two tested Run 150 positions; its evolving rock-beat construction remains genuinely interesting elsewhere. |
+| UNRESOLVED | Theo Parrish | Purple Angry Birds | See discoveries.md exact error | Spotify-SE identity unresolved; no musical verdict or utility entry. |
+| UNRESOLVED | BEAM WONG | Take off; Choke; Earthquake/River (live) | See discoveries.md exact errors | Three exact-title research leads remain unresolved without musical verdicts or utility entries. |
+| RESOLVED ALTERNATES | Theo Parrish; Boards of Canada | All Your Boys Are Biters; All Reason Departs | Exact URIs in discoveries.md | Two exact alternates remain unselected and unevaluated; the Theo Parrish date warning is preserved. |
+| RELEASE WATCH | BEAM WONG | Flourishing on the Brink of Collapse | https://beamwongandfriends.bandcamp.com/album/flourishing-on-the-brink-of-collapse | Emerging Bangkok improvisatory/reactive electronic window; release-level evidence does not establish individual track direction. |
+
 ## Run 149 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
