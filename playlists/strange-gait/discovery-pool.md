@@ -1,5 +1,27 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 161 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Rian Treanor | Hypnic Jerks | https://open.spotify.com/track/5diM5dnRKTuJaZ2CqzFwsu | Canonical ADD at *Worn Down → candidate → Tides Alternate*; alternative before *Sarniezz* rejected. Explicit acceleration creating an orientation problem remains the exact evidence. |
+| EXACT TRACK | Black Bananas | Cold Bussin | https://open.spotify.com/track/4QnqmLDsxbm3O1f0Q3fDCH | Placement-specific REJECT only after *Capa* and after *Truth in Noise*; deceptive shuffle inside cross-production-world disorder remains genuinely interesting elsewhere. |
+| EXACT TRACK | Rian Treanor | Opponent Process | https://open.spotify.com/track/0FUu4RG2P1Qh64DQcUP2TV | Placement-specific REJECT only after *LOVE YOUR ENEMIES* and after *Never Met*; sputtering dancehall deformation remains genuinely interesting elsewhere. |
+| RESEARCH LEAD | Voice Actor, aloisius | 24 | https://ra.co/reviews/36361 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | Isaac Robertson | 1200 | https://ra.co/reviews/36361 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RESEARCH LEAD | abi asisa | calling | https://ra.co/reviews/36361 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry. |
+| RELEASE WATCH | Black Bananas / Fire Records | Bad Bunch | https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/ | Current cross-production-world collage window; *Turkey Burgers* and *Outta My Head* resolved exactly but remained unselected and unevaluated. |
+| RELEASE WATCH | Rian Treanor / Planet Mu | File Under UK Metaplasm | https://pitchfork.com/reviews/albums/rian-treanor-file-under-uk-metaplasm/ | Overlooked functional-form mutation window; *Closed Curve* resolved exactly but remained unselected and unevaluated. |
+| RELEASE WATCH | life is beautiful | veneration for the sacred action | https://ra.co/reviews/36361 | Emerging improvisation-based London field spanning rap, poetry, jazz, electronics and acoustic miniatures; all three requested exact tracks remained Spotify-SE unavailable. |
+
+### Placement and inspiration boundaries
+
+- *Hypnic Jerks* is a canonical ADD only between *Worn Down* and *Tides Alternate*; its pre-*Sarniezz* alternative is rejected.
+- *Cold Bussin* and *Opponent Process* remain interesting despite placement-specific rejection; neither is globally rejected.
+- Black Bananas — *Turkey Burgers* (`spotify:track:6ldqQY0nOjaYfMr40UXc03`), Rian Treanor — *Closed Curve* (`spotify:track:41D4hqsK5RzGvhW1yJMGG5`) and Black Bananas — *Outta My Head* (`spotify:track:4BclLwOYdXTHL4VACEE3C9`) are exact unselected alternates, not evaluated or retained decisions.
+- Unresolved leads and release watches do not enter the global utility ledger.
+- No pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge is asserted.
+
 ## Run 160 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
