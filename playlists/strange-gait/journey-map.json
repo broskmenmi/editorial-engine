@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-11T15:01:57.343Z",
+  "generatedAt": "2026-09-11T15:03:27.907Z",
   "source": {
     "ledgerPath": "playlists/strange-gait/ledger.md",
     "annotationsPath": "playlists/strange-gait/journey-annotations.json",
     "ledgerFingerprint": "cf9f35b52f3fd36c6d45daa6b91c1c419d9be49c47275fe881cec24a36f92b7c",
-    "annotationsFingerprint": "5545b9e88848e0097c4f02f800990b7f40e232bbe3e402b64233e939273fcfdc"
+    "annotationsFingerprint": "f98e7c16f772e277270d36474273331514fc4c9e42326ac79508b3fa3e2de0ce"
   },
   "playlist": {
     "slug": "strange-gait",
@@ -42,26 +42,8 @@
       "label": "Tilt",
       "order": 2,
       "startPosition": 16,
-      "endPosition": 33,
-      "startMs": 5400000,
-      "endMs": 11880000
-    },
-    {
-      "id": "unmapped",
-      "label": "unmapped",
-      "order": 999,
-      "startPosition": 34,
-      "endPosition": 34,
-      "startMs": 11880000,
-      "endMs": 12240000
-    },
-    {
-      "id": "tilt",
-      "label": "Tilt",
-      "order": 2,
-      "startPosition": 35,
       "endPosition": 39,
-      "startMs": 12240000,
+      "startMs": 5400000,
       "endMs": 14040000
     },
     {
@@ -1316,13 +1298,15 @@
       "bpm": null,
       "role": "Tilt — provisional self-stripping percussive instability before consolidation",
       "added": "2026-09-11",
-      "chapter": "unmapped",
-      "chapterOrder": 999,
-      "storyBand": "threshold",
-      "storyLevel": 3.4,
+      "chapter": "tilt",
+      "chapterOrder": 2,
+      "storyBand": "displacement",
+      "storyLevel": 4.5,
       "status": "provisional",
       "labels": [
-        "auto-mapped"
+        "self-stripping-percussive-instability",
+        "groove-consolidation-preparation",
+        "explore-run-153-add"
       ],
       "durationMs": 360000,
       "durationSource": "fallback-six-minutes",
@@ -1336,7 +1320,7 @@
       "progressMidpoint": 0.7790697674418605,
       "felt": {
         "summary": null,
-        "direction": "auto mapped",
+        "direction": "self stripping percussive instability",
         "dimensions": {},
         "evidence": {
           "class": "EDITORIAL_INTERPRETATION",
@@ -2111,8 +2095,7 @@
     "BPM unavailable for Azu Tiwaline — Eyes of the Wind; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for foodman — Nukumori; map stores null and leaves a gap in the measured-BPM layer.",
     "BPM unavailable for Jlin — Rabbit Hole; map stores null and leaves a gap in the measured-BPM layer.",
-    "BPM unavailable for Steve Rachmad — Invisible Warriors Of Light; map stores null and leaves a gap in the measured-BPM layer.",
-    "Missing annotation for Shackleton — Elemental Dream; fallback role was used."
+    "BPM unavailable for Steve Rachmad — Invisible Warriors Of Light; map stores null and leaves a gap in the measured-BPM layer."
   ],
   "visualization": {
     "schemaVersion": 1,
