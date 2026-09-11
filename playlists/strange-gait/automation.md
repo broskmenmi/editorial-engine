@@ -78,11 +78,12 @@ These thresholds diagnose the funnel; they never authorize padding or forced ADD
 ## Canonical candidate flow
 When honest leads exist:
 1. Read current main SHA immediately before writing.
-2. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
-3. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
-4. Require the matching terminal `scout-data.json` with valid fingerprint.
-5. Evaluate only its selected one-to-three exact candidates.
-6. Preserve every warning, unresolved/duplicate outcome, resolved alternate and exact resolver error.
+2. Derive every proposed-placement `precedingUri` and `followingUri` directly from the current canonical ledger. Before writing, validate that each prose-named neighbour matches its URI and that the pair is adjacent in current ledger order. A mismatch blocks the request as `REQUEST_NOT_COMPLETED`; never commit stale URIs, resolve the request anyway, or silently fall back to prose after resolution.
+3. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
+4. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
+5. Require the matching terminal `scout-data.json` with valid fingerprint.
+6. Evaluate only its selected one-to-three exact candidates.
+7. Preserve every warning, unresolved/duplicate outcome, resolved alternate and exact resolver error.
 
 Technical resolver failures are `*_NOT_COMPLETED`, never musical zero. Never reuse stale scout data.
 
