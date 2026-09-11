@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 151 — EXPLORE — disruption must not occupy the consequence it is meant to create
+
+No canonical track is added. Pole — *Stechmück*, *Tempus* and *Allermannsharnisch* all pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
+
+*Stechmück*'s growling bass, sharp drum blasts and dying-Minimoog buzz insert a second full disruption between *backsliding* and *Mildew Swoosh*, or prolong *Carried*'s rupture before *Cave* can rebuild. *Tempus* places overlapping percussion, darting synths and piano ballast immediately before *Té de Cabello Blanco* performs its own agitation-to-piano reassembly. *Allermannsharnisch*'s bass-and-piano form is overtaken by loud drones and ends on a fading piano chord, completing another dissolution-and-resolution arc between *Ikoyi* and *Amor*.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: five exact resolutions, three selected candidates, two exact unevaluated alternates, four unresolved identities and five preserved date warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** disruption earns sequence space when its residue gives the successor work; a complete intervening disruption can instead consume that consequence.
+
 ## Run 150 — EXPLORE — rhythmic intrigue must leave the successor legible
 
 No canonical track is added. Boards of Canada — *Father And Son* and *Prophecy At 1420 MHz*, and Theo Parrish — *Radar Detector*, all pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 151 — Disruption should leave residue, not occupy it
+
+**Direction:** Explore disruptive tracks whose endpoint creates a concrete absence, instability or reassembly task for the successor; avoid inserting a complete second crisis where the journey already contains cause and consequence.
+
+**Ingredients:**
+
+- Pole — *Stechmück* — exact placement-specific reject; dying-Minimoog buzz over bass and drum blasts remains useful outside the two tested rupture passages.
+- Pole — *Tempus* — exact placement-specific reject; piano ballast amid overlapping percussion remains useful where stabilization is needed rather than already assigned.
+- Pole — *Allermannsharnisch* — exact placement-specific reject; piano-to-drone overtaking and a fading piano close remain useful outside the tested late-middle dissolution.
+- Kelela's *new avatar* — current adjacent research window; three requested identities remain unresolved without verdict.
+- Pole — *Düsseldorf* and *Winkelstreben* — exact but unselected and unevaluated.
+
+**Why interesting:** A disruptive construction can strengthen a set when its residue makes the next event necessary. If it supplies a full crisis and resolution inside an already causal passage, it can turn the successor into repetition.
+
+**Unknown / risk:** Exact handoffs, BPM, perceived pulse, phrase structure, mixability, energy, density and space remain untested. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 150 — Intrigue must leave the successor legible
 
 **Direction:** Explore rhythmically striking tracks as deliberate left turns only when their exit changes the next track's work; avoid stacking a second complete formation, destabilization or re-entry before an existing one.

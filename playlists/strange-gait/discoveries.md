@@ -1,5 +1,54 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 151 — EXPLORE — disruption must leave consequential residue — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows and a matching COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 320 contiguous unique exact tracks and a matching COMPLETE receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.
+
+### Exploration receipt
+
+Run `2026-09-11T12:50:13Z-explore-151` inspected approximately 54 named tracks, releases and catalogue references across live September 2026 review feeds, Kelela's July 2026 *new avatar*, Pole's 2022 *Tempus* and 2007 *Steingarten* catalogues, plus adjacent current Bandcamp windows. Nine honest leads survived (16.7%). Run 150 decisions and alternates, recent Run 139–150 fields, prior canonical identities, active placement-specific rejects and untriggered PARKED revisits were excluded. Bitchin Bajas — *Ajami* and current August Bandcamp identities already present in persistent history were explicitly suppressed. No audio was auditioned.
+
+### Resolver snapshot
+
+- runId: `2026-09-11T12:50:13Z-explore-151`
+- sourceCommit: `2b5fc98033b3bacca91a6d297323a217d231366e`
+- request commit: `c77fd5d3b3419fb12eedef6b778aa7cfca1071d1`
+- resolver commit: `71582168d9a8d1ae069c610b72bb960051c16c9f`
+- requestFingerprint: `432b2c15a1e359468ec94e779604e0a26ee734f887cb1477ad89fa04e5c109d9`
+- internally valid schemaVersion 2 `PARTIAL`: 9 requested → 5 exact resolutions → 3 selected candidates + 2 resolved alternates; 4 unresolved identities; 5 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved exactly
+
+1. **Kelela — point blank** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5IokAwXoNXuCGg13sBrr4D, 3iVIWU9iGw8bJ8x2mfwXnI, 7jQeJoSCmjqb05FZlfJlNS, 2WlQLXHYigkDhLiUcd6Gpj)`.
+2. **Pole — Stechmück** — RESOLVED and selected: `spotify:track:36vP7dTxI1tLvxpfuR35MT`; Spotify *Tempus*, 2022-11-18, 7:00, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2022" but Spotify returned "2022-11-18"`.
+3. **Kelela — idea 1** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0p7MiR9kVY9pX8z3v4vys3, 3ZTKg748vW7Zrll3wzwjJy, 4FdE95hMM44njJtK59UB1r, 0hjT5Sxwip21WUCeU7mcLT, 5wAlY2XwhsIaA8UZQgcN7X, 6WpFyJvtvYv0PRJkZS887S)`.
+4. **Pole — Tempus** — RESOLVED and selected: `spotify:track:7rt4jskYz6MIgi5KI9VnRo`; Spotify *Tempus*, 2022-11-18, 5:44, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2022" but Spotify returned "2022-11-18"`.
+5. **Kelela, A. K. Paul — outta time** — UNRESOLVED: `no exact Spotify title/artist search match in market SE`.
+6. **Pole — Allermannsharnisch** — RESOLVED and selected: `spotify:track:1K4BZT65olYks9Ny8832n6`; Spotify *Tempus*, 2022-11-18, 7:54, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2022" but Spotify returned "2022-11-18"`.
+7. **Pole — Grauer Sand** — UNRESOLVED: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4AnG8JoP473H6TctCqtyhX, 0gwzpOJuO7JoNXUQ8Wf1Lo)`.
+8. **Pole — Düsseldorf** — RESOLVED alternate, not selected or evaluated: `spotify:track:084jkcFVP7YSyYS48GmIq7`; Spotify *Steingarten*, 2007-03-16, 4:26, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2007" but Spotify returned "2007-03-16"`.
+9. **Pole — Winkelstreben** — RESOLVED alternate, not selected or evaluated: `spotify:track:0pGu3wkDP0ppH7PW1aYq7r`; Spotify *Steingarten*, 2007-03-16, 5:04, BPM unavailable. Warning: `Exact title/artist matched with release metadata variance: release date requested "2007" but Spotify returned "2007-03-16"`.
+
+### Canonical evaluations
+
+1. **Pole — Stechmück — placement-specific REJECT.** **Volume fit:** PASS; exact criticism documents growling bass, sharp drum blasts and chaotic dying-Minimoog buzz, a credible malfunction-driven rhythmic proposition. **Immediate transitions:** UNKNOWN; no lawful entry, exit, phrase, pulse or mix evidence exists for either test. **Surrounding run:** FAIL at `Roxellana → backsliding → candidate → Mildew Swoosh → Fragments` because the seven-minute full disruption occupies the consequence between an existing dissonant dissolution and opposed-temporal strain. FAIL at `Encasadelciegoeltuerco → Carried → candidate → Cave → Abundance` because it replaces *Carried*'s exposed absence with another complete crisis before *Cave* can rebuild. **Long form:** FAIL proportionally at both positions; the candidate is compelling, but each insertion lengthens a causally complete rupture passage without changing the successor's work.
+2. **Pole — Tempus — placement-specific REJECT.** **Volume fit:** PASS; overlapping percussion and darting synths held by acoustic piano fit the selection lens without requiring genre purity. **Immediate transition:** UNKNOWN. **Surrounding run:** FAIL at `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi`; piano ballast stabilizes the busy percussion immediately before *Té de Cabello Blanco* performs its documented agitation-to-piano reassembly, making the latter's internal turn less consequential. **Long form:** FAIL proportionally for this position; the late-middle already moves from re-entry through unpredictability and reassembly into dissolution.
+3. **Pole — Allermannsharnisch — placement-specific REJECT.** **Volume fit:** PASS; bass and exploratory piano overtaken by increasingly loud drones, ending on a fading piano chord, supplies exact structural evidence. **Immediate transition:** UNKNOWN. **Surrounding run:** FAIL at `Té de Cabello Blanco → Ikoyi → candidate → Amor → Truth in Noise`; the 7:54 candidate completes its own overtaking-and-fade arc between *Ikoyi*'s dissolution and *Amor*'s mutation-to-consolidation, reducing *Amor* from consequence to another restart. **Long form:** FAIL proportionally; it inserts a second full resolution gesture into an already articulated late-middle passage. The verdict is placement-specific, not global.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and matching terminal snapshot agree on schemaVersion, runId, sourceCommit and fingerprint. Only the three selected exact identities were evaluated. All four unresolved identities, both exact unevaluated alternates and all five warnings remain preserved; no metadata was converted into energy, density, space, hypnosis, phrase fit or mixability claims. The three rejections are placement-specific, canonical and protected state remain unchanged, and only the three selected exact tracks explicitly retained as interesting enter the doctrine-free utility ledger.
+
+### Durable result
+
+- STRANGE GAIT: **42 → 42 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: three selected exact placement-specific rejects, four unresolved research leads and two exact unevaluated alternates retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **320 → 323 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 54 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 exact alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions. Inspection-to-lead conversion is 16.7%, lead-to-resolution conversion 55.6%, and selected-candidate-to-ADD conversion 0/3. Across Runs 87–151: 573 leads from approximately 3,164 inspections; 27 ADDs from 175 selected candidates. The recent completed-run ADD rate remains 5/10. The no-ADD streak is two completed runs since Run 149, with six exact interesting tracks retained during it. The healthy lead and resolution funnel and candidate-specific failures do not support Scout over-filtering, resolver failure or epistemic veto. The strongest contrary case is *Stechmück* after *Carried*, where another rupture could make *Cave*'s rebuilding feel larger; it fails because the exact seven-minute disruption fills the exposed absence that currently gives *Cave* its work. The run proves three exact tracks are interesting and these placements are redundant; it does not prove global incompatibility, exact handoffs, perceived pulse, phrase fit, live mixability or playlist completion. No actionable REPAIR emerges.
+
 ## Run 150 — EXPLORE — rhythmic intrigue must not erase the successor — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 42 unique canonical rows, matching annotations/map and a COMPLETE 42/42 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 317 contiguous unique exact tracks and a matching COMPLETE receipt. The listener-protected `Transparency → When We Froze → Stardancer` order was intact. No active listener discussion, current TRIGGERED revisit, objective defect, unfinished repair or authorized listener repair existed.

@@ -1,5 +1,19 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 151 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Pole | Stechmück | https://open.spotify.com/track/36vP7dTxI1tLvxpfuR35MT | Placement-specific REJECT only for the two tested Run 151 positions; malfunctioning-synth disruption over bass and drum blasts remains genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Pole | Tempus | https://open.spotify.com/track/7rt4jskYz6MIgi5KI9VnRo | Placement-specific REJECT only between *Drummz* and *Té de Cabello Blanco*; percussion, synth and piano-ballast construction remains genuinely interesting elsewhere. Date warning preserved. |
+| EXACT TRACK | Pole | Allermannsharnisch | https://open.spotify.com/track/1K4BZT65olYks9Ny8832n6 | Placement-specific REJECT only between *Ikoyi* and *Amor*; piano-to-drone overtaking and fading close remain genuinely interesting elsewhere. Date warning preserved. |
+| UNRESOLVED | Kelela; Kelela, A. K. Paul; Pole | point blank; idea 1; outta time; Grauer Sand | See discoveries.md exact errors | Four exact-title leads remain unresolved without musical verdicts or utility entries. |
+| RESOLVED ALTERNATES | Pole | Düsseldorf; Winkelstreben | Exact URIs in discoveries.md | Two exact alternates remain unselected and unevaluated; both date warnings are preserved. |
+| CURRENT WATCH | Kelela / Warp | new avatar | https://ra.co/reviews/36360 | Current shoegaze/IDM/R&B and UK-garage/funky-break reconfiguration remains an adjacent research window; unresolved identities receive no verdict. |
+| CATALOGUE WATCH | Pole | Tempus; Steingarten | https://pitchfork.com/reviews/albums/pole-tempus/ ; https://pitchfork.com/reviews/albums/10000-steingarten/ | Dub-tail momentum, malfunctioning electronics, acoustic-piano ballast and delayed temporal drift remain useful catalogue directions. |
+
+Editorial boundary: all three selected exact tracks are rejected only at the documented positions. The four unresolved leads have no musical verdict; the two alternates were not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all proposed handoffs remain unknown.
+
 ## Run 150 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
