@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 157 — EXPLORE — shifting footing must change the consequence
+
+No canonical track is added. Genichiro — *Surface* and *Reflection*, and Surgeon — *Forgotten Gods*, pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
+
+*Surface* mediates the direct *Capa → Sarniezz* production-world left turn or stacks unstable footing after *Tides Alternate* before widening. *Forgotten Gods* inserts a complete surge-and-recession cycle between the protected block and *Eyes of the Wind*'s liminal corridor. *Reflection* creates a second opening formation after *Stadium Drive* has already assembled ambience into broken techno before *Marauder*.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: four exact resolutions, three selected candidates, five unresolved identities, one exact unevaluated alternate, one preserved date warning and no duplicates, substitutions, relinkings or technical failures. The named placement boundaries were cross-checked against the live ledger before verdict because several request URI fields did not match their prose labels. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
+**Concept:** rhythmic instability earns space when it changes the consequence downstream; another shifting stage can instead soften a left turn, delay a corridor or duplicate an opening formation.
+
 ## Run 155 — EXPLORE — intermittent motion must leave the successor work
 
 No canonical track is added. Brendon Moeller — *Frozen Silence* and *Driftform*, and Rhyw — *Wolf Town*, pass STRANGE GAIT's selection lens and remain genuinely interesting, but fail only their tested placements.
