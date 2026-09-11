@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 138 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | FIS | Mildew Swoosh | https://open.spotify.com/track/51HYsxmD3pQ0aLT3619uWP | Canonical ADD between backsliding and Fragments; opposed halftime/doubletime layers leave driving re-entry a concrete task. Album/date variance preserved. |
+| EXACT TRACK | Martyn, Mark Cisneros | Whiplashed | https://open.spotify.com/track/2fazuV8dHjCS0RuxrfXbRL | Placement-specific REJECT only for both Run 138 positions; cut-up live/electronic polyrhythmic matrix remains interesting. Date variance preserved. |
+| EXACT TRACK | Tyler Friedman | Jlaljar | https://open.spotify.com/track/4IGTpOd4dLivxNyhuR0yKJ | Placement-specific REJECT only for both Run 138 positions; twisting woodwind-to-serrated-bass build remains interesting. Date variance preserved. |
+| UNRESOLVED | Ukkonen; Martyn | Three Durations; Heavy Sound | See discoveries.md exact errors | One no-match and one ambiguous exact-title outcome remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATE | Tyler Friedman; FIS; Martyn; High Places | Eleaphor; Magister Nunns; Hypnotoxic Laser; Namer | See discoveries.md exact Spotify identities | Exact, unselected and unevaluated; no utility entry. Metadata warnings preserved. |
+| RELEASE / CATALOGUE WATCH | Martyn; Tyler Friedman; FIS; Ukkonen; High Places | Music for Existing; METLASR; Preparations; The Ancient Tonalities Of…; High Places | https://pitchfork.com/reviews/albums/martyn-music-for-existing ; https://pitchfork.com/reviews/albums/tyler-friedman-metlasr ; https://pitchfork.com/reviews/albums/18734-fis-preparations-ep ; https://pitchfork.com/reviews/albums/18819-ukkonen-the-ancient-tonalities-of ; https://pitchfork.com/reviews/albums/12257-high-places | Loose live/electronic rhythm, generative percussion, off-grid abstraction, changing cycles and handmade pause/release remain useful research windows. |
+
+### Placement and inspiration boundaries
+
+- Mildew Swoosh's canonical placement is provisional; exact phrase fit, perceived pulse and live handoffs were not tested.
+- Whiplashed and Jlaljar are not globally rejected.
+- Unresolved leads and unevaluated alternates do not enter the global utility ledger.
+- The set direction is an editorial hypothesis, not a proven sequence or live-mixing edge.
+
 ## Run 137 harvest — 2026-09-10
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

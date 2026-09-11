@@ -1,5 +1,86 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 138 — EXPLORE — temporal strain must make re-entry consequential — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 36 unique canonical tracks with 36 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 286 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.
+
+### Exploration receipt
+
+Run `2026-09-11T00:49:48Z-explore-138` inspected approximately 54 current, adjacent, emerging and overlooked-catalogue entries across September 10–11, 2026 coverage, Martyn's *Music for Existing*, Tyler Friedman's *METLASR*, FIS's *Preparations*, Ukkonen's changing-cycle catalogue and High Places' handmade adjacent rhythm. Persistent identities and Run 137's Ricardo Villalobos/Vladislav Delay field were excluded. Nine honest leads survived (16.7%). The immutable schemaVersion 2 request was pinned to `42dc13b63791517f42bb83cece5335be031cda95` in `5688b8b1a15e9188429f4b54a7b0ba9e0da0fdb6`. Matching snapshot commit: `85d3270ac565f9d08c9197a3954fd2456fa45aea`; fingerprint `81cd58d7678de6a168331cbc2da7684a1f8b5944381bd5e6be1dccb6543bc081`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 7 resolved, 3 selected, 2 unresolved, 4 alternates and 7 warnings; no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Martyn, Mark Cisneros — *Whiplashed* — `spotify:track:2fazuV8dHjCS0RuxrfXbRL` — *Music for Existing*, 2026-05-15, 298082 ms.
+- Tyler Friedman — *Jlaljar* — `spotify:track:4IGTpOd4dLivxNyhuR0yKJ` — *METLASR*, 2026-03-27, 449361 ms.
+- FIS — *Mildew Swoosh* — `spotify:track:51HYsxmD3pQ0aLT3619uWP` — *Preparations*, 2013-11-19, 352334 ms.
+
+Unresolved without musical verdict:
+
+- Ukkonen — *Three Durations*: `no exact Spotify title/artist search match in market SE`.
+- Martyn — *Heavy Sound*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6AdHzq8N2f9yofXgLiFhxz, 6ELem7cZojAAaG1W3nn82a)`.
+
+Resolved but unselected and unevaluated:
+
+- Tyler Friedman — *Eleaphor* — `spotify:track:2MHI93E9YtjSHbVXkFM3iq`.
+- FIS — *Magister Nunns* — `spotify:track:0LXm3RV8zwZHYu01pkm2r8`.
+- Martyn — *Hypnotoxic Laser* — `spotify:track:0fhn3q9SV4WRhS0QaMHXei`.
+- High Places — *Namer* — `spotify:track:6QtVdnvRFAiH7qlBgqHbD5`.
+
+Warnings preserved exactly:
+
+- Whiplashed: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-15"`.
+- Jlaljar: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-03-27"`.
+- Mildew Swoosh: `Exact title/artist matched with release metadata variance: album requested "Preparations EP" but Spotify returned "Preparations"; release date requested "2013" but Spotify returned "2013-11-19"`.
+- Eleaphor: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-03-27"`.
+- Magister Nunns: `Exact title/artist matched with release metadata variance: album requested "Preparations EP" but Spotify returned "Preparations"; release date requested "2013" but Spotify returned "2013-11-19"`.
+- Hypnotoxic Laser: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-15"`.
+- Namer: `Exact title/artist matched with release metadata variance: release date requested "2008" but Spotify returned "2008-09-23"`.
+
+### Evaluator and Sequencer assessment
+
+#### Martyn, Mark Cisneros — Whiplashed — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents live drums, circular saxophone, subliminal bass pressure, vibraphone, dub effects and cut-up drums forming a polyrhythmic matrix.
+- **Immediate transition:** UNKNOWN for both tested placements; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** FAIL for `Capa → Sarniezz → Whiplashed → Never Met → Trompe L'oeil`: the candidate converts *Sarniezz*'s conspicuous left turn into a two-track live-percussion excursion before the existing transit. FAIL for `Fragments → Drummz → Whiplashed → Ikoyi → Amor`: another intricate percussion statement delays the foreground dissolution and hand-drum mutation.
+- **Long-form journey:** FAIL proportionally for these placements. The 4:58 hybrid matrix is credible, but both insertions lengthen work already assigned to neighbouring tracks rather than altering the downstream task.
+- **Verdict:** **REJECT the two Run 138 placements only**, not the track globally. Retain as genuinely interesting.
+
+#### Tyler Friedman — Jlaljar — placement-specific REJECT / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents twisting woodwinds eventually finding a sparring partner in a serrated bassline and identifies it as the album's one track that clearly builds.
+- **Immediate transition:** UNKNOWN for both tested placements; BPM, perceived pulse, phrase structure, mixability and exact handoffs remain unknown.
+- **Surrounding three-to-five-track run:** FAIL for `Abundance → Foundry → Jlaljar → Worn Down → Tides Alternate`: the 7:29 build creates two consecutive extended preparations before opposed-speed balance. FAIL for `Amor → Truth in Noise → Jlaljar → U Belong 2 Me → Transparency`: serrated bass development makes the following bass-drum disappearance explanatory rather than transformative.
+- **Long-form journey:** FAIL proportionally in both positions. Its acoustic-digital build is distinct, but the duration and endpoint either prolong preparation or pre-empt a later threshold.
+- **Verdict:** **REJECT the two Run 138 placements only**, not the track globally. Retain as genuinely interesting.
+
+#### FIS — Mildew Swoosh — ADD / retained discovery
+
+- **Volume fit:** PASS. Pitchfork documents insectoid percussion and a scintillating synth arpeggio pulling against somnolent pads until halftime/doubletime opposition nears breaking point.
+- **Immediate transition:** PROVISIONAL PASS between *backsliding* and *Fragments*. Exact handoffs, BPM, perceived pulse, phrase structure and mixability remain unknown, but the documented unresolved temporal strain gives *Fragments* a concrete stabilising/re-entry task.
+- **Surrounding three-to-five-track run:** PASS for `Pulse I → Roxellana → backsliding → Mildew Swoosh → Fragments`. Crooked accumulation and directed surge dissolve; opposed temporal layers reappear under strain; *Fragments* then restores a clearer driving frame.
+- **Long-form journey:** PASS proportionally. At 5:52 it adds a new stage, but the placement changes the meaning of the existing re-entry rather than demonstrating another groove. The alternative before *Raataja* fails because it stacks temporal conflict directly before the newly added burst/static crisis.
+- **Verdict:** **ADD** between aya — *backsliding* and CHANCEKNOT — *Fragments*. Provisional; audio and live mixing remain untested.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and its matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; all 9 outcomes, 7 warnings, 2 unresolved identities and 4 unselected alternates are preserved. Only the three selected exact candidates entered evaluation, each separately at volume, immediate-transition, local-run and long-form scales. UNKNOWN handoff properties were not converted into automatic failures. The protected trio remains intact. Auditor approves the Mildew Swoosh ADD, placement-specific rejections for Whiplashed and Jlaljar, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **36 → 37 canonical tracks**; add FIS — *Mildew Swoosh* after *backsliding* and before *Fragments*; no other reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration: all three selected exact identities retained; two unresolved research leads, four exact unevaluated alternates and Martyn, Tyler Friedman, FIS, Ukkonen and High Places catalogue windows retained with evidence boundaries.
+- EDITORIAL ENGINE — DISCOVERY POOL: **286 → 289 exact tracks**, adding Whiplashed, Jlaljar and Mildew Swoosh.
+- Journey-map annotations: add Mildew Swoosh as a provisional opposed-temporal-strain hinge before driving re-entry; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 54 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is 16.7%, lead-to-resolution conversion 77.8%, and selected-candidate-to-ADD conversion 33.3%. Across Runs 87–138: 458 leads from approximately 2,447 inspections; 22 ADDs from 141 selected candidates. The recent completed-run ADD rate is 5/10; resolver-incomplete Run 133 is excluded. Runs 136–138 all produced an ADD, so the completed-run no-ADD streak remains zero. The strongest counterargument is that the late middle already contains several instability/recovery events. Mildew Swoosh passes because it does not merely add instability: its documented unresolved half/double-time opposition gives *Fragments* a specific re-entry function after *backsliding*. This proves only the best-evidence journey rationale; exact handoffs, perceived pulse, phrase fit and live mixability remain untested. The three consecutive ADDs raise a proportional-growth signal, but candidate-specific reasoning and distinct placements do not yet establish forced expansion or an actionable REPAIR.
+
 ## Run 137 — EXPLORE — disappearance must leave a formation task — 2026-09-10
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 35 unique canonical tracks with 35 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 283 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed.

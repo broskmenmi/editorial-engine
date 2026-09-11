@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 138 — Temporal strain must make re-entry consequential
+
+**Direction:** Explore opposed temporal layers, live/electronic polyrhythm and acoustic-digital builds where the unresolved endpoint gives the following track a concrete task.
+
+**Ingredients:**
+
+- FIS — *Mildew Swoosh* — exact ADD between *backsliding* and *Fragments*; halftime/doubletime opposition makes the driving re-entry consequential.
+- Martyn, Mark Cisneros — *Whiplashed* — exact placement-specific reject; cut-up live/electronic polyrhythm remains useful outside the two tested positions.
+- Tyler Friedman — *Jlaljar* — exact placement-specific reject; twisting woodwind-to-serrated-bass development remains useful outside the two tested positions.
+- *Three Durations* and *Heavy Sound* — unresolved exact-title leads without verdicts.
+- *Eleaphor*, *Magister Nunns*, *Hypnotoxic Laser* and *Namer* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** Temporal opposition can advance a set when its instability is not the destination but the condition that makes a clearer re-entry meaningful.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 137 — Disappearance must leave a formation task
 
 **Direction:** Explore cyclic intensity, continuously reshuffled percussion and abrupt internal scale changes where a candidate's endpoint leaves the next formation meaningful work.

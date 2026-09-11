@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 138 — EXPLORE — temporal strain must make re-entry consequential
+
+FIS — *Mildew Swoosh* is added between *backsliding* and *Fragments*. Pitchfork documents insectoid percussion and a scintillating synth arpeggio pulling against somnolent pads until a halftime/doubletime dichotomy nears breaking point. The five-track run `Pulse I → Roxellana → backsliding → Mildew Swoosh → Fragments` now moves from crooked accumulation and surge through dissolution and unresolved temporal strain into clearer driving re-entry.
+
+Martyn with Mark Cisneros — *Whiplashed* and Tyler Friedman — *Jlaljar* pass the selection lens and remain genuinely interesting, but fail only their tested positions. *Whiplashed* extends either the live-band excursion after *Sarniezz* or the late percussion chain before *Ikoyi*. *Jlaljar* creates a second extended preparation before *Worn Down* or pre-empts *U Belong 2 Me*'s bass-drum-removal threshold.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: seven exact resolutions, three selected candidates, two unresolved identities, four exact alternates and seven preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 137 — EXPLORE — disappearance must leave a formation task
 
 Vladislav Delay — *Raataja* is added between *Moonwake* and *Crawl*. Pitchfork documents concussive jungle bursts and curdled-static surges across a pink-noise loop that sustain before vanishing instantly. The five-track run `Too Much Time → Moonwake → Raataja → Crawl → Fulledge (Empty-40 Mix)` now moves from widening and intensification into a burst/static crisis, sudden absence, sustained re-formation and later dissolution.
