@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 159 — EXPLORE — protruding motion versus downstream work
+
+No canonical track is added. Wata Igarashi — *Turbulence* is PARKED at the `Worn Down → candidate → Tides Alternate` hypothesis: its documented relentless up-and-down progression could give the following opposed-speed balance a meaningful orientation task, but the exact endpoint and exit are unknown, so the same five-track run could instead state instability twice. Its alternative between *LOVE YOUR ENEMIES* and *Tehutis Law* is rejected because it extends conflict before re-grounding.
+
+Wata Igarashi — *Stuck In CDG* and Lolina — *Glitching* pass the selection lens and remain genuinely interesting, but fail only their tested placements. *Stuck In CDG* adds another long force stage after *Moonwake* before *Raataja*, or between re-grounding and *Pulse I*'s accumulation. *Glitching* inserts a second formed bounce between *FELT* and *Thick to Handle*, weakening the direct groove-to-deformation relation.
+
+The matching schemaVersion 2 resolver snapshot is internally valid and `PARTIAL`: 9 requested, 6 exact resolutions, 3 selected candidates, 3 exact unselected alternates, 3 unresolved identities, 4 metadata warnings, and no duplicates, substitutions, relinkings or technical failures. Exact errors and warnings are preserved in `discoveries.md`.
+
+Auditor approves zero canonical changes, one PARKED verdict, three scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT remains 45 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 343 tracks. The protected `Transparency → When We Froze → Stardancer` internal order is untouched.
+
+**Concept:** conspicuous motion earns sequence space when its endpoint gives the successor new work; protrusion alone can merely lengthen an already legible preparation.
+
+
 ## Run 158 — EXPLORE — alternating pressure before transformation
 
 Cooly G — *Same Way* is added after *Truth in Noise* and before *U Belong 2 Me*. Goon Club Allstars describes the exact track as a heads-down funky speaker-pounder in which skittering drums and bass tones take turns delivering body blows. The track passes the selection lens and, at this placement, turns consolidated groove into alternating physical pressure that *U Belong 2 Me* must transform through its existing four-on-the-floor-to-funereal threshold. The five-track run `Elemental Dream → Truth in Noise → Same Way → U Belong 2 Me → Transparency` remains legible across a character change, and the long-form journey gains one compact pressure articulation without imposing a summit or wave. Exact handoffs, BPM, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative after *Capa* is rejected only because it mediates the direct left turn into *Sarniezz*.
