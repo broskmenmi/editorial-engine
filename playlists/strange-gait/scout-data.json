@@ -1,161 +1,66 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "dcead1bcd2bc845f3b9021b9b78617c3d70e7dce7f01c400b241100e24c4709e",
-  "generatedAt": "2026-09-11T16:56:06.387Z",
-  "runId": "2026-09-11T16:52:07Z-explore-155",
-  "sourceCommit": "488786a2bd5c8d6cb14ff15357ac6524ba55242f",
+  "requestFingerprint": "93a206ed31cce5cebe80acd5b79d54bdb7fa6d3d3d890008669b28359429c3d5",
+  "generatedAt": "2026-09-11T18:55:06.651Z",
+  "runId": "2026-09-11T18:50:01Z-explore-157",
+  "sourceCommit": "83320a7f0a29e3e83e18b852b0dfd277e13d3fdb",
   "mode": "EXPLORE",
   "target": {
-    "role": "Fresh whole-journey discovery after Run 154 added a restrained re-entry before the final afterword",
+    "role": "Fresh whole-journey discovery after Run 156 repaired a stale count-specific orchestration instruction",
     "position": "Whole 44-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
-    "purpose": "Explore RHR's current cross-territory club mutations, Brendon Moeller's 2026 dub-techno/drum-and-bass constructions, and overlooked Porter Ricks and Rhyw catalogue while testing distinct continuation, destabilization and re-grounding consequences."
+    "purpose": "Explore Genichiro's September 2026 percussion-placement experiments, Surgeon's recent one-take polyrhythmic techno and overlooked Planetary Assault Systems catalogue for exact-track consequences rather than genre or novelty."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-11T16:52:07Z",
-    "approximateInspectedScope": "Approximately 59 named tracks, releases and catalogue references across live September 11, 2026 Bandcamp Daily, Resident Advisor and Pitchfork feeds; RHR's 2026 GÍRIA, Brendon Moeller's 2026 Shadow Language, Porter Ricks' 1996/2012 Biokinetics and Rhyw's 2023 Mister Melt; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-11T18:50:01Z",
+    "approximateInspectedScope": "Approximately 57 named tracks, releases and catalogue references across live September 11, 2026 Resident Advisor and Bandcamp windows, Genichiro's 2026 Reflection EP, Surgeon's 2025 Shell~Wave and Planetary Assault Systems' 2021 Say It Loud EP; attributed criticism and official release notes only; no audio audition.",
     "exclusions": [
-      "Run 154 TYGAPAW, µ-Ziq and Gábor Lázár decisions, unresolved identities and alternates were not recycled.",
-      "Recent Run 143–154 source families already represented in persistent history were excluded except where a different exact track had fresh, unused source-backed evidence.",
-      "Tracks supported only by generic genre framing, prestige, process novelty or titles were inspected but excluded.",
+      "Run 155 RHR, Brendon Moeller, Porter Ricks and Rhyw decisions and unresolved identities were not recycled.",
+      "Previously evaluated, parked, rejected, unresolved and alternate identities found in STRANGE GAIT history were excluded, including earlier Picture, Reptant, FAUZIA, Batu & Donato Dozzy and Surgeon titles.",
+      "Pre-release records with only release-level framing and tracks supported only by genre, prestige, production process or title were inspected but excluded.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. RHR, BIGMAMMAZUKI — Inna Combination",
-      "2. Brendon Moeller — Frozen Silence",
-      "3. Porter Ricks — Biokinetics 1",
-      "4. Rhyw — Wolf Town",
-      "5. Brendon Moeller — Driftform",
-      "6. Porter Ricks — Port of Nuba",
-      "7. RHR, Logan_OLM — CICLONADA",
-      "8. Rhyw — Engine Track",
-      "9. Porter Ricks — Nautical Nuba"
+      "1. Genichiro — Surface",
+      "2. Surgeon — Divine Shadow",
+      "3. Planetary Assault Systems — Say It Loud",
+      "4. Genichiro — Surface (Farsight Remix)",
+      "5. Surgeon — Forgotten Gods",
+      "6. Genichiro — Swaying Reed (andrew Remix)",
+      "7. Planetary Assault Systems — Bang Wap",
+      "8. Genichiro — Reflection",
+      "9. Genichiro — Clay Motion"
     ],
     "sourceWindows": [
-      "CURRENT ADJACENT WINDOW: RHR's 2026 GÍRIA supplies exact descriptions of outlandish drums, frantic jungle, sparkling keys, sub-bass frenzy and out-of-whack baile funk. https://ra.co/reviews/36339",
-      "CURRENT TECHNO WINDOW: Brendon Moeller's 2026 Shadow Language supplies exact descriptions of broken intermittent beats, unstable delayed textures and dub-techno movement within a 170 BPM framework. https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-      "OVERLOOKED CATALOGUE WINDOW: Porter Ricks' Biokinetics supplies exact descriptions of a groove stretched toward breaking point and warped galloping drum-machine patterns. https://pitchfork.com/reviews/albums/16288-biokinetics/",
-      "RECENT CATALOGUE WINDOW: Rhyw's 2023 Mister Melt supplies exact descriptions of percussive escalation and a drum-drop return with livewire synth charge. https://ra.co/reviews/35813",
-      "CURRENT FEED CHECK: September 11, 2026 Pitchfork, Resident Advisor and Bandcamp Daily windows were inspected; already-seen or insufficiently exact candidates were excluded rather than padded into leads."
+      "CURRENT EMERGING WINDOW: Genichiro's September 4, 2026 Reflection EP supplies official exact-track descriptions of irregular broken grooves, dub-space percussion, bouncy Bmore/funky hybridisation and raw repetition. https://trekkietrax.bandcamp.com/album/reflection-ep",
+      "RECENT TECHNO WINDOW: Surgeon's 2025 Shell~Wave supplies exact descriptions of fractalling broken beat and synthesizers surging and receding inside one-take improvisational techno. https://ra.co/reviews/36275",
+      "OVERLOOKED CATALOGUE WINDOW: Planetary Assault Systems' 2021 Say It Loud supplies exact descriptions of chaotic jabbing drum lines, rhythmic hiccups and elemental rhythm sections. https://ra.co/reviews/33899",
+      "CURRENT FEED CHECK: September 11, 2026 Resident Advisor news and review feeds were inspected alongside current pre-release Bandcamp pages; already-seen or insufficiently exact candidates were excluded rather than padded into leads."
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 3,
+  "resolvedCount": 4,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "RHR, BIGMAMMAZUKI",
-      "track": "Inna Combination",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Surgeon",
+      "track": "Divine Shadow",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7fdst0gGI3r21npqAhyiv2, 7EaL8DAJ4309L6oM1Xs6Jt)",
       "requestedIdentity": {
-        "artist": "RHR, BIGMAMMAZUKI",
-        "track": "Inna Combination",
-        "album": "GÍRIA",
-        "releaseDate": "2026",
+        "artist": "Surgeon",
+        "track": "Divine Shadow",
+        "album": "Shell~Wave",
+        "releaseDate": "2025-05",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36339",
-        "fitHypothesis": "Resident Advisor describes the exact track as BIGMAMMAZUKI moving across outlandish drums and a frantic jungle section, with harsh moments smoothed by sparkling keys and vocals.",
+        "discoverySource": "https://ra.co/reviews/36275",
+        "fitHypothesis": "Resident Advisor describes the exact track as distorted, pulsing synth stabs fractalling over thunderous broken beat.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track as BIGMAMMAZUKI moving across outlandish drums and a frantic jungle section, with harsh moments smoothed by sparkling keys and vocals.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a harsh-to-sparkling cross-territory passage gives funk re-grounding useful work or merely extends existing conflict.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "purpose": "Test an outlandish-drum and frantic-jungle passage after cross-rhythmic conflict before funk re-grounding.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 139
-          },
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test a cross-territory club mutation after redirection before the live-band pulse illusion.",
-            "candidateBpm": null,
-            "incomingBpm": 137,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "artist": "Porter Ricks",
-      "track": "Biokinetics 1",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0zBRLshxg7wKLew0Ef21eu, 5buEnXJFyAfizjsnHXuW30)",
-      "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Biokinetics 1",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as a heaving, wheezing synthesizer struggling to hold a regular pulse through disorienting delay and feedback, stretching a groove toward its breaking point.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a heaving, wheezing synthesizer struggling to hold a regular pulse through disorienting delay and feedback, stretching a groove toward its breaking point.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a groove at breaking point turns consolidation into a meaningful threshold or duplicates the later collapse sequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and U Belong 2 Me",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test pulse instability after groove consolidation before the bodily-to-funereal threshold.",
-            "candidateBpm": null,
-            "incomingBpm": 138,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test breaking-point groove after dissonant dissolution before opposed-temporal strain.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "artist": "Porter Ricks",
-      "track": "Port of Nuba",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3DoKsv3XY33fCdsARAay4z, 6RH0E0deblr4GG6lxvunkI)",
-      "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Port of Nuba",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as drum-machine rhythm warped into a galloping motion through filtering and delay.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as drum-machine rhythm warped into a galloping motion through filtering and delay.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether warped gallop provides useful bodily redirection or merely repeats existing rhythmic deformation.",
+          "attributedDescription": "Resident Advisor describes the exact track as distorted, pulsing synth stabs fractalling over thunderous broken beat.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether fractalling pressure creates consequential deformation or duplicates an already assigned broken-beat event.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -167,47 +72,18 @@
             "position": "Between FELT and Thick to Handle",
             "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
             "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "purpose": "Test warped gallop after rolling formation before broken-beat deformation.",
+            "purpose": "Test fractalling broken-beat pressure after rolling formation before existing deformation.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": 138
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "artist": "RHR, Logan_OLM",
-      "track": "CICLONADA",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "RHR, Logan_OLM",
-        "track": "CICLONADA",
-        "album": "GÍRIA",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36339",
-        "fitHypothesis": "Resident Advisor describes the exact track sculpting sub-bass and razor-edged drums into a frenzy before mutating into electro and out-of-whack baile funk.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track sculpting sub-bass and razor-edged drums into a frenzy before mutating into electro and out-of-whack baile funk.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether the frenzy-to-mutation arc creates a meaningful hinge or arrives as a self-contained event that pre-empts its successor.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
+          },
           {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "purpose": "Test frenzy-to-baile mutation after unpredictable rhythm before agitation-to-reassembly.",
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:4tCvpcVwVjUC8dNlKFVabA",
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "purpose": "Test pulsing fracture after melodic consequence before instability strips itself back.",
             "candidateBpm": null,
-            "incomingBpm": 138,
+            "incomingBpm": null,
             "outgoingBpm": null
           }
         ],
@@ -215,23 +91,23 @@
       }
     },
     {
-      "artist": "Rhyw",
-      "track": "Engine Track",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3MxLkC21L7EBBvA4UAaC4C, 05nBoYmxLVAZFq2uMqcjXG)",
+      "artist": "Planetary Assault Systems",
+      "track": "Say It Loud",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5wsDxwU6Px8vGOkU1CJfIl, 3MGQO4oIialt8ql02sat0S)",
       "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Engine Track",
-        "album": "Mister Melt",
-        "releaseDate": "2023",
+        "artist": "Planetary Assault Systems",
+        "track": "Say It Loud",
+        "album": "Say It Loud",
+        "releaseDate": "2021-05",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35813",
-        "fitHypothesis": "Resident Advisor describes the exact track beginning as UK techno, dropping its drums for nearly a minute, then returning with a livewire synth line.",
+        "discoverySource": "https://ra.co/reviews/33899",
+        "fitHypothesis": "Resident Advisor describes the exact track as taut and funky, with jabbing drum lines, rhythmic hiccups, chopped voice and an unusually chaotic arrangement.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track beginning as UK techno, dropping its drums for nearly a minute, then returning with a livewire synth line.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a full drum withdrawal and charged return leaves downstream work or completes the crisis itself.",
+          "attributedDescription": "Resident Advisor describes the exact track as taut and funky, with jabbing drum lines, rhythmic hiccups, chopped voice and an unusually chaotic arrangement.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether funk under chaotic arrangement makes a successor more necessary or merely restates destabilisation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -240,36 +116,45 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Carried and Cave",
-            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test drum withdrawal and return after self-emptying rupture before widening.",
+            "position": "Between Truth in Noise and U Belong 2 Me",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test chaotic funk after consolidation before the bodily-to-funereal threshold.",
             "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 134
+            "incomingBpm": 138,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test rhythmic hiccups after funk re-grounding before crooked accumulation.",
+            "candidateBpm": null,
+            "incomingBpm": 139,
+            "outgoingBpm": 136
           }
         ],
         "spotifyTrackId": null
       }
     },
     {
-      "artist": "Porter Ricks",
-      "track": "Nautical Nuba",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1Z1vwOqESwL7hLaKjU2oFI, 5NYWVgGZ6xfo88hJvG7bbp)",
+      "artist": "Genichiro, Farsight",
+      "track": "Surface (Farsight Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Nautical Nuba",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
+        "artist": "Genichiro, Farsight",
+        "track": "Surface (Farsight Remix)",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as a drum-machine pattern warped by filtering and delay into galloping rhythm, distinct from the source pattern's alternate treatment.",
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX says Farsight keeps the original's broken rhythms and abstract sound image, rebuilding them into a sharp three-dimensional club track with dubby atmosphere between dubstep and dark garage.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a drum-machine pattern warped by filtering and delay into galloping rhythm, distinct from the source pattern's alternate treatment.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a differently warped gallop creates a deliberate hinge without making versioning novelty do the editorial work.",
+          "attributedDescription": "TREKKIE TRAX says Farsight keeps the original's broken rhythms and abstract sound image, rebuilding them into a sharp three-dimensional club track with dubby atmosphere between dubstep and dark garage.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a rebuilt broken form creates a deliberate character change rather than adding another mediation layer.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -278,13 +163,89 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test warped gallop after funk re-grounding before crooked accumulation.",
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:1PAHzzaVz0dcs0DJYY6mXm",
+            "followingUri": "spotify:track:2Kb9DnEoy3RHuSWOe7xEae",
+            "purpose": "Test three-dimensional broken-form rebuilding after electronic re-entry before ambient destabilisation.",
             "candidateBpm": null,
-            "incomingBpm": 139,
-            "outgoingBpm": 136
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "artist": "Genichiro, andrew",
+      "track": "Swaying Reed (andrew Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Genichiro, andrew",
+        "track": "Swaying Reed (andrew Remix)",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX says andrew inherits the original's percussion-led 2000s R&B groove and redirects it through bouncy beats that hybridise Baltimore and funky-house rhythms.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX says andrew inherits the original's percussion-led 2000s R&B groove and redirects it through bouncy beats that hybridise Baltimore and funky-house rhythms.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a bouncy club-language pivot renews bodily motion or over-articulates an already active local run.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "purpose": "Test a bouncy hybrid pivot after widening before swung re-grounding.",
+            "candidateBpm": null,
+            "incomingBpm": 134,
+            "outgoingBpm": 135
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "artist": "Planetary Assault Systems",
+      "track": "Bang Wap",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6cXlJx8STo2hY5RFHGl6HS, 6HiDfXZA4zMCH0ADRel5be)",
+      "requestedIdentity": {
+        "artist": "Planetary Assault Systems",
+        "track": "Bang Wap",
+        "album": "Say It Loud",
+        "releaseDate": "2021-05",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/33899",
+        "fitHypothesis": "Resident Advisor describes the exact track through an elemental rhythm section, a belligerent lead that shudders and writhes rather than forming a coherent melody, and a late white-noise sweep.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor describes the exact track through an elemental rhythm section, a belligerent lead that shudders and writhes rather than forming a coherent melody, and a late white-noise sweep.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether elemental propulsion plus incoherent lead creates useful pressure or simply fills an existing crisis.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Moonwake and Raataja",
+            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "purpose": "Test elemental pressure after intensification before burst-and-disappearance crisis.",
+            "candidateBpm": null,
+            "incomingBpm": 140,
+            "outgoingBpm": null
           }
         ],
         "spotifyTrackId": null
@@ -293,38 +254,28 @@
   ],
   "warnings": [
     {
-      "artist": "Brendon Moeller",
-      "track": "Frozen Silence",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-02-05\""
-    },
-    {
-      "artist": "Rhyw",
-      "track": "Wolf Town",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2023\" but Spotify returned \"2023-11-03\""
-    },
-    {
-      "artist": "Brendon Moeller",
-      "track": "Driftform",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-02-05\""
+      "artist": "Surgeon",
+      "track": "Forgotten Gods",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025-05\" but Spotify returned \"2025-05-02\""
     }
   ],
   "outcomes": [
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "RHR, BIGMAMMAZUKI",
-        "track": "Inna Combination",
-        "album": "GÍRIA",
-        "releaseDate": "2026",
+        "artist": "Genichiro",
+        "track": "Surface",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36339",
-        "fitHypothesis": "Resident Advisor describes the exact track as BIGMAMMAZUKI moving across outlandish drums and a frantic jungle section, with harsh moments smoothed by sparkling keys and vocals.",
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track as BIGMAMMAZUKI moving across outlandish drums and a frantic jungle section, with harsh moments smoothed by sparkling keys and vocals.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a harsh-to-sparkling cross-territory passage gives funk re-grounding useful work or merely extends existing conflict.",
+          "attributedDescription": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether an underfoot-shifting groove creates a useful loss of footing before live-band pulse illusion or merely repeats existing instability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -332,214 +283,46 @@
           ]
         },
         "proposedPlacements": [
-          {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "purpose": "Test an outlandish-drum and frantic-jungle passage after cross-rhythmic conflict before funk re-grounding.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 139
-          },
           {
             "position": "Between Capa and Sarniezz",
             "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
             "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test a cross-territory club mutation after redirection before the live-band pulse illusion.",
+            "purpose": "Test irregular broken-groove redirection before the live-band pulse illusion.",
             "candidateBpm": null,
             "incomingBpm": 137,
             "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Brendon Moeller",
-        "track": "Frozen Silence",
-        "album": "Shadow Language",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-        "fitHypothesis": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether intermittent framing creates consequential space between dissolution and redirection without becoming another complete reset.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test intermittent-beat framing after metric dissolution before rhythmic redirection.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 137
           },
           {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test unstable intermittent motion after dead-space descent before restrained footwork re-entry.",
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:4BfdQWfKlr7PFvbRDh4iQV",
+            "purpose": "Test shifting footing after opposed-speed balance before sustained forward motion.",
             "candidateBpm": null,
             "incomingBpm": null,
-            "outgoingBpm": null
+            "outgoingBpm": 140
           }
         ],
         "spotifyTrackId": null
       },
-      "spotifyTrackId": "39eIFIm9zYAaYEbNk58X0s",
+      "spotifyTrackId": "1fZnT75yFDw3O433vZFbpI",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Biokinetics 1",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
+        "artist": "Surgeon",
+        "track": "Divine Shadow",
+        "album": "Shell~Wave",
+        "releaseDate": "2025-05",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as a heaving, wheezing synthesizer struggling to hold a regular pulse through disorienting delay and feedback, stretching a groove toward its breaking point.",
+        "discoverySource": "https://ra.co/reviews/36275",
+        "fitHypothesis": "Resident Advisor describes the exact track as distorted, pulsing synth stabs fractalling over thunderous broken beat.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a heaving, wheezing synthesizer struggling to hold a regular pulse through disorienting delay and feedback, stretching a groove toward its breaking point.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a groove at breaking point turns consolidation into a meaningful threshold or duplicates the later collapse sequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and U Belong 2 Me",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test pulse instability after groove consolidation before the bodily-to-funereal threshold.",
-            "candidateBpm": null,
-            "incomingBpm": 138,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test breaking-point groove after dissonant dissolution before opposed-temporal strain.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0zBRLshxg7wKLew0Ef21eu, 5buEnXJFyAfizjsnHXuW30)"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Wolf Town",
-        "album": "Mister Melt",
-        "releaseDate": "2023",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35813",
-        "fitHypothesis": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether percussive escalation gives a later re-grounding event stronger purpose or crowds an already articulated run.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "purpose": "Test percussive escalation after crooked accumulation before directed surge.",
-            "candidateBpm": null,
-            "incomingBpm": 136,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "spotifyTrackId": "3sNAhQVPWOKmArWupAgSOZ",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Brendon Moeller",
-        "track": "Driftform",
-        "album": "Shadow Language",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-        "fitHypothesis": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a strutting re-formation makes a following crisis more legible without simply adding another early formation.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Moonwake and Raataja",
-            "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test a dub-techno strut after intensification before burst-and-disappearance crisis.",
-            "candidateBpm": null,
-            "incomingBpm": 140,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "spotifyTrackId": "5Fu334Erp4ANvFJXjdutas",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Port of Nuba",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as drum-machine rhythm warped into a galloping motion through filtering and delay.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as drum-machine rhythm warped into a galloping motion through filtering and delay.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether warped gallop provides useful bodily redirection or merely repeats existing rhythmic deformation.",
+          "attributedDescription": "Resident Advisor describes the exact track as distorted, pulsing synth stabs fractalling over thunderous broken beat.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether fractalling pressure creates consequential deformation or duplicates an already assigned broken-beat event.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -551,32 +334,41 @@
             "position": "Between FELT and Thick to Handle",
             "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
             "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "purpose": "Test warped gallop after rolling formation before broken-beat deformation.",
+            "purpose": "Test fractalling broken-beat pressure after rolling formation before existing deformation.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": 138
+          },
+          {
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:4tCvpcVwVjUC8dNlKFVabA",
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "purpose": "Test pulsing fracture after melodic consequence before instability strips itself back.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
           }
         ],
         "spotifyTrackId": null
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3DoKsv3XY33fCdsARAay4z, 6RH0E0deblr4GG6lxvunkI)"
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7fdst0gGI3r21npqAhyiv2, 7EaL8DAJ4309L6oM1Xs6Jt)"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "RHR, Logan_OLM",
-        "track": "CICLONADA",
-        "album": "GÍRIA",
-        "releaseDate": "2026",
+        "artist": "Planetary Assault Systems",
+        "track": "Say It Loud",
+        "album": "Say It Loud",
+        "releaseDate": "2021-05",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36339",
-        "fitHypothesis": "Resident Advisor describes the exact track sculpting sub-bass and razor-edged drums into a frenzy before mutating into electro and out-of-whack baile funk.",
+        "discoverySource": "https://ra.co/reviews/33899",
+        "fitHypothesis": "Resident Advisor describes the exact track as taut and funky, with jabbing drum lines, rhythmic hiccups, chopped voice and an unusually chaotic arrangement.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track sculpting sub-bass and razor-edged drums into a frenzy before mutating into electro and out-of-whack baile funk.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether the frenzy-to-mutation arc creates a meaningful hinge or arrives as a self-contained event that pre-empts its successor.",
+          "attributedDescription": "Resident Advisor describes the exact track as taut and funky, with jabbing drum lines, rhythmic hiccups, chopped voice and an unusually chaotic arrangement.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether funk under chaotic arrangement makes a successor more necessary or merely restates destabilisation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -585,13 +377,134 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "purpose": "Test frenzy-to-baile mutation after unpredictable rhythm before agitation-to-reassembly.",
+            "position": "Between Truth in Noise and U Belong 2 Me",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test chaotic funk after consolidation before the bodily-to-funereal threshold.",
             "candidateBpm": null,
             "incomingBpm": 138,
             "outgoingBpm": null
+          },
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test rhythmic hiccups after funk re-grounding before crooked accumulation.",
+            "candidateBpm": null,
+            "incomingBpm": 139,
+            "outgoingBpm": 136
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5wsDxwU6Px8vGOkU1CJfIl, 3MGQO4oIialt8ql02sat0S)"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Genichiro, Farsight",
+        "track": "Surface (Farsight Remix)",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX says Farsight keeps the original's broken rhythms and abstract sound image, rebuilding them into a sharp three-dimensional club track with dubby atmosphere between dubstep and dark garage.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX says Farsight keeps the original's broken rhythms and abstract sound image, rebuilding them into a sharp three-dimensional club track with dubby atmosphere between dubstep and dark garage.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a rebuilt broken form creates a deliberate character change rather than adding another mediation layer.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:1PAHzzaVz0dcs0DJYY6mXm",
+            "followingUri": "spotify:track:2Kb9DnEoy3RHuSWOe7xEae",
+            "purpose": "Test three-dimensional broken-form rebuilding after electronic re-entry before ambient destabilisation.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Surgeon",
+        "track": "Forgotten Gods",
+        "album": "Shell~Wave",
+        "releaseDate": "2025-05",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/36275",
+        "fitHypothesis": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether surge-and-recession opens a consequence or behaves as a self-contained intensity cycle.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:03pMgcVWCiHGkNwBrBftNU",
+            "followingUri": "spotify:track:7EPHrHbAoJY3LdbtOZc5wI",
+            "purpose": "Test restrained surge-and-recession after the protected block before late melodic reset.",
+            "candidateBpm": null,
+            "incomingBpm": 138,
+            "outgoingBpm": 135
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "3UVMLK5OgM5nw8wEdW6qow",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Genichiro, andrew",
+        "track": "Swaying Reed (andrew Remix)",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX says andrew inherits the original's percussion-led 2000s R&B groove and redirects it through bouncy beats that hybridise Baltimore and funky-house rhythms.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX says andrew inherits the original's percussion-led 2000s R&B groove and redirects it through bouncy beats that hybridise Baltimore and funky-house rhythms.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a bouncy club-language pivot renews bodily motion or over-articulates an already active local run.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "purpose": "Test a bouncy hybrid pivot after widening before swung re-grounding.",
+            "candidateBpm": null,
+            "incomingBpm": 134,
+            "outgoingBpm": 135
           }
         ],
         "spotifyTrackId": null
@@ -601,290 +514,19 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Engine Track",
-        "album": "Mister Melt",
-        "releaseDate": "2023",
+        "artist": "Planetary Assault Systems",
+        "track": "Bang Wap",
+        "album": "Say It Loud",
+        "releaseDate": "2021-05",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35813",
-        "fitHypothesis": "Resident Advisor describes the exact track beginning as UK techno, dropping its drums for nearly a minute, then returning with a livewire synth line.",
+        "discoverySource": "https://ra.co/reviews/33899",
+        "fitHypothesis": "Resident Advisor describes the exact track through an elemental rhythm section, a belligerent lead that shudders and writhes rather than forming a coherent melody, and a late white-noise sweep.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track beginning as UK techno, dropping its drums for nearly a minute, then returning with a livewire synth line.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a full drum withdrawal and charged return leaves downstream work or completes the crisis itself.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Carried and Cave",
-            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test drum withdrawal and return after self-emptying rupture before widening.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 134
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3MxLkC21L7EBBvA4UAaC4C, 05nBoYmxLVAZFq2uMqcjXG)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Porter Ricks",
-        "track": "Nautical Nuba",
-        "album": "Biokinetics",
-        "releaseDate": "2012",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/16288-biokinetics/",
-        "fitHypothesis": "Pitchfork describes the exact track as a drum-machine pattern warped by filtering and delay into galloping rhythm, distinct from the source pattern's alternate treatment.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a drum-machine pattern warped by filtering and delay into galloping rhythm, distinct from the source pattern's alternate treatment.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a differently warped gallop creates a deliberate hinge without making versioning novelty do the editorial work.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test warped gallop after funk re-grounding before crooked accumulation.",
-            "candidateBpm": null,
-            "incomingBpm": 139,
-            "outgoingBpm": 136
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1Z1vwOqESwL7hLaKjU2oFI, 5NYWVgGZ6xfo88hJvG7bbp)"
-    }
-  ],
-  "candidates": [
-    {
-      "id": "39eIFIm9zYAaYEbNk58X0s",
-      "uri": "spotify:track:39eIFIm9zYAaYEbNk58X0s",
-      "name": "Frozen Silence",
-      "artists": [
-        "Brendon Moeller"
-      ],
-      "album": "Shadow Language",
-      "releaseDate": "2026-02-05",
-      "durationMs": 275788,
-      "spotifyUrl": "https://open.spotify.com/track/39eIFIm9zYAaYEbNk58X0s",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Fulledge (Empty-40 Mix) and Capa",
-          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "purpose": "Test intermittent-beat framing after metric dissolution before rhythmic redirection.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 137
-        },
-        {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "purpose": "Test unstable intermittent motion after dead-space descent before restrained footwork re-entry.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether intermittent framing creates consequential space between dissolution and redirection without becoming another complete reset.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Brendon Moeller",
-        "track": "Frozen Silence",
-        "album": "Shadow Language",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-        "fitHypothesis": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track through broken, intermittent beats framing unstable delayed sounds that ricochet, coil and zoom across the stereo field.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether intermittent framing creates consequential space between dissolution and redirection without becoming another complete reset.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test intermittent-beat framing after metric dissolution before rhythmic redirection.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": 137
-          },
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test unstable intermittent motion after dead-space descent before restrained footwork re-entry.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "id": "3sNAhQVPWOKmArWupAgSOZ",
-      "uri": "spotify:track:3sNAhQVPWOKmArWupAgSOZ",
-      "name": "Wolf Town",
-      "artists": [
-        "Rhyw"
-      ],
-      "album": "Mister Melt",
-      "releaseDate": "2023-11-03",
-      "durationMs": 331954,
-      "spotifyUrl": "https://open.spotify.com/track/3sNAhQVPWOKmArWupAgSOZ",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://ra.co/reviews/35813",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "purpose": "Test percussive escalation after crooked accumulation before directed surge.",
-          "candidateBpm": null,
-          "incomingBpm": 136,
-          "outgoingBpm": null
-        }
-      ],
-      "fitHypothesis": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-      "evidence": {
-        "attributedDescription": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether percussive escalation gives a later re-grounding event stronger purpose or crowds an already articulated run.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Rhyw",
-        "track": "Wolf Town",
-        "album": "Mister Melt",
-        "releaseDate": "2023",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/35813",
-        "fitHypothesis": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Resident Advisor describes the exact track building into percussive madness within the EP's off-kilter, clipped rhythmic language.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether percussive escalation gives a later re-grounding event stronger purpose or crowds an already articulated run.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "purpose": "Test percussive escalation after crooked accumulation before directed surge.",
-            "candidateBpm": null,
-            "incomingBpm": 136,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "id": "5Fu334Erp4ANvFJXjdutas",
-      "uri": "spotify:track:5Fu334Erp4ANvFJXjdutas",
-      "name": "Driftform",
-      "artists": [
-        "Brendon Moeller"
-      ],
-      "album": "Shadow Language",
-      "releaseDate": "2026-02-05",
-      "durationMs": 281312,
-      "spotifyUrl": "https://open.spotify.com/track/5Fu334Erp4ANvFJXjdutas",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Raataja",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "purpose": "Test a dub-techno strut after intensification before burst-and-disappearance crisis.",
-          "candidateBpm": null,
-          "incomingBpm": 140,
-          "outgoingBpm": null
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a strutting re-formation makes a following crisis more legible without simply adding another early formation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Brendon Moeller",
-        "track": "Driftform",
-        "album": "Shadow Language",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/brendon-moeller-shadow-language/",
-        "fitHypothesis": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as a dub-techno strut within an album that recomposes techno and drum-and-bass constraints.",
-          "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a strutting re-formation makes a following crisis more legible without simply adding another early formation.",
+          "attributedDescription": "Resident Advisor describes the exact track through an elemental rhythm section, a belligerent lead that shudders and writhes rather than forming a coherent melody, and a late white-noise sweep.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether elemental propulsion plus incoherent lead creates useful pressure or simply fills an existing crisis.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -896,15 +538,397 @@
             "position": "Between Moonwake and Raataja",
             "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
             "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test a dub-techno strut after intensification before burst-and-disappearance crisis.",
+            "purpose": "Test elemental pressure after intensification before burst-and-disappearance crisis.",
             "candidateBpm": null,
             "incomingBpm": 140,
             "outgoingBpm": null
           }
         ],
         "spotifyTrackId": null
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6cXlJx8STo2hY5RFHGl6HS, 6HiDfXZA4zMCH0ADRel5be)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Genichiro",
+        "track": "Reflection",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether spatial-percussive grounding changes the opening formation or only adds another foundation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stadium Drive and Marauder",
+            "precedingUri": "spotify:track:5BY1vsAv2DIABsZbW8u9eX",
+            "followingUri": "spotify:track:42CQ9yI9G2yqdvKhN9bGQp",
+            "purpose": "Test a spacious percussive left turn after opening ambience before electro pressure.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": 132
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "5LaAFEhHkpOmcBSf6IPdhk",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Genichiro",
+        "track": "Clay Motion",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether raw repetition can create a proportionate anchor without treating intensity or novelty as sufficient.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:5Ug4JBKp2B3e1MlBauZlD0",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test repetitive physicality after re-entry before unpredictable rhythm.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": 138
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "2qN4QnGeAxuS5x3Xijejfo",
+      "selected": false
+    }
+  ],
+  "candidates": [
+    {
+      "id": "1fZnT75yFDw3O433vZFbpI",
+      "uri": "spotify:track:1fZnT75yFDw3O433vZFbpI",
+      "name": "Surface",
+      "artists": [
+        "Genichiro"
+      ],
+      "album": "Reflection EP",
+      "releaseDate": "2026-09-04",
+      "durationMs": 205463,
+      "spotifyUrl": "https://open.spotify.com/track/1fZnT75yFDw3O433vZFbpI",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test irregular broken-groove redirection before the live-band pulse illusion.",
+          "candidateBpm": null,
+          "incomingBpm": 137,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:4BfdQWfKlr7PFvbRDh4iQV",
+          "purpose": "Test shifting footing after opposed-speed balance before sustained forward motion.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 140
+        }
+      ],
+      "fitHypothesis": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
+      "evidence": {
+        "attributedDescription": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether an underfoot-shifting groove creates a useful loss of footing before live-band pulse illusion or merely repeats existing instability.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Genichiro",
+        "track": "Surface",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX describes the exact track pairing broken beats with an abstract sound image to construct an irregular groove that keeps shifting underfoot.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether an underfoot-shifting groove creates a useful loss of footing before live-band pulse illusion or merely repeats existing instability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test irregular broken-groove redirection before the live-band pulse illusion.",
+            "candidateBpm": null,
+            "incomingBpm": 137,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:4BfdQWfKlr7PFvbRDh4iQV",
+            "purpose": "Test shifting footing after opposed-speed balance before sustained forward motion.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": 140
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "id": "3UVMLK5OgM5nw8wEdW6qow",
+      "uri": "spotify:track:3UVMLK5OgM5nw8wEdW6qow",
+      "name": "Forgotten Gods",
+      "artists": [
+        "Surgeon"
+      ],
+      "album": "Shell~Wave",
+      "releaseDate": "2025-05-02",
+      "durationMs": 277399,
+      "spotifyUrl": "https://open.spotify.com/track/3UVMLK5OgM5nw8wEdW6qow",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ra.co/reviews/36275",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Eyes of the Wind",
+          "precedingUri": "spotify:track:03pMgcVWCiHGkNwBrBftNU",
+          "followingUri": "spotify:track:7EPHrHbAoJY3LdbtOZc5wI",
+          "purpose": "Test restrained surge-and-recession after the protected block before late melodic reset.",
+          "candidateBpm": null,
+          "incomingBpm": 138,
+          "outgoingBpm": 135
+        }
+      ],
+      "fitHypothesis": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+      "evidence": {
+        "attributedDescription": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether surge-and-recession opens a consequence or behaves as a self-contained intensity cycle.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Surgeon",
+        "track": "Forgotten Gods",
+        "album": "Shell~Wave",
+        "releaseDate": "2025-05",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ra.co/reviews/36275",
+        "fitHypothesis": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor describes the exact track through synthesizers that surge and recede as though the hardware is testing the limits of its restraints.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether surge-and-recession opens a consequence or behaves as a self-contained intensity cycle.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:03pMgcVWCiHGkNwBrBftNU",
+            "followingUri": "spotify:track:7EPHrHbAoJY3LdbtOZc5wI",
+            "purpose": "Test restrained surge-and-recession after the protected block before late melodic reset.",
+            "candidateBpm": null,
+            "incomingBpm": 138,
+            "outgoingBpm": 135
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "id": "5LaAFEhHkpOmcBSf6IPdhk",
+      "uri": "spotify:track:5LaAFEhHkpOmcBSf6IPdhk",
+      "name": "Reflection",
+      "artists": [
+        "Genichiro"
+      ],
+      "album": "Reflection EP",
+      "releaseDate": "2026-09-04",
+      "durationMs": 265881,
+      "spotifyUrl": "https://open.spotify.com/track/5LaAFEhHkpOmcBSf6IPdhk",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Stadium Drive and Marauder",
+          "precedingUri": "spotify:track:5BY1vsAv2DIABsZbW8u9eX",
+          "followingUri": "spotify:track:42CQ9yI9G2yqdvKhN9bGQp",
+          "purpose": "Test a spacious percussive left turn after opening ambience before electro pressure.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 132
+        }
+      ],
+      "fitHypothesis": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+      "evidence": {
+        "attributedDescription": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether spatial-percussive grounding changes the opening formation or only adds another foundation.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Genichiro",
+        "track": "Reflection",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX describes the exact title track combining a house foundation, dub spatial acoustics and a percussive groove informed by contemporary Afro-club sounds.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether spatial-percussive grounding changes the opening formation or only adds another foundation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stadium Drive and Marauder",
+            "precedingUri": "spotify:track:5BY1vsAv2DIABsZbW8u9eX",
+            "followingUri": "spotify:track:42CQ9yI9G2yqdvKhN9bGQp",
+            "purpose": "Test a spacious percussive left turn after opening ambience before electro pressure.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": 132
+          }
+        ],
+        "spotifyTrackId": null
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "2qN4QnGeAxuS5x3Xijejfo",
+      "uri": "spotify:track:2qN4QnGeAxuS5x3Xijejfo",
+      "name": "Clay Motion",
+      "artists": [
+        "Genichiro"
+      ],
+      "album": "Reflection EP",
+      "releaseDate": "2026-09-04",
+      "durationMs": 220865,
+      "spotifyUrl": "https://open.spotify.com/track/2qN4QnGeAxuS5x3Xijejfo",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:5Ug4JBKp2B3e1MlBauZlD0",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "purpose": "Test repetitive physicality after re-entry before unpredictable rhythm.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 138
+        }
+      ],
+      "fitHypothesis": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+      "evidence": {
+        "attributedDescription": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether raw repetition can create a proportionate anchor without treating intensity or novelty as sufficient.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Genichiro",
+        "track": "Clay Motion",
+        "album": "Reflection EP",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://trekkietrax.bandcamp.com/album/reflection-ep",
+        "fitHypothesis": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "TREKKIE TRAX describes the exact track as foregrounding repetitive rhythms and raw, cranked-up physicality.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether raw repetition can create a proportionate anchor without treating intensity or novelty as sufficient.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:5Ug4JBKp2B3e1MlBauZlD0",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test repetitive physicality after re-entry before unpredictable rhythm.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": 138
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    }
+  ]
 }
