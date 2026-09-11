@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 160
+
+### Interrupted force must leave altered material
+
+**Direction:** Explore forceful rhythmic propositions whose interruptions leave a successor something changed to reassemble, orient or consolidate; reject complete spirals and descents that occupy an existing consequence.
+
+**Ingredients:**
+
+- Fase Bipolar — *Urge & Dissolve* — exact PARKED discovery; percussive force interrupted by high-frequency flashes could leave reassembly work, but direction and endpoint remain unknown
+- Fase Bipolar — *Red Noise* — exact placement-specific reject; psychoacoustic spiralling remains useful outside the tested return and consolidation positions
+- Fase Bipolar — *Until We Sink* — exact placement-specific reject; concrete-weight-to-black-tar-bass descent remains useful outside the tested dissolution and closing positions
+- Confusion — *Space*, *In Cycles* and *Truth*; Saint Abdullah & Eomac — *Cyphers Become Sifr (ft. Abbas Zahedi)* — unresolved exact-title research leads
+- Rene Wise — *Fear of The Dark* and Loidis — *Towlift* — exact unselected, unevaluated alternates
+
+**Why interesting:** Editorial hypothesis: interruption earns sequence space when it changes the successor's problem; perceptual drama or descent can instead repeat the work already underway.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. BPM, exact direction, endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
+
 ## Current additions — Run 159
 
 ### Protruding motion versus downstream work
