@@ -1,56 +1,55 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-11T14:51:36Z-explore-153",
-  "sourceCommit": "26af9c9ab9003ed3f4e1712de2118955663bedac",
+  "runId": "2026-09-11T15:53:50Z-explore-154",
+  "sourceCommit": "afdae3b0405f4a21a7cf5c0d52394d8c03a73b57",
   "mode": "EXPLORE",
   "target": {
-    "role": "Fresh whole-journey discovery after three completed no-ADD runs retained eight exact interesting tracks without yet proving an actionable repair",
-    "position": "Whole 42-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
-    "purpose": "Explore Shackleton's current unstable percussion, Facta's recent broken-club constructions and Koreless's overlooked tempo illusions while testing whether new evidence yields genuinely distinct placement consequences rather than repeating the recent pre-emption pattern."
+    "role": "Fresh whole-journey discovery after Run 153 ended a three-run no-ADD streak with one proportionate canonical addition",
+    "position": "Whole 43-track journey; preserve Transparency → When We Froze and When We Froze → Stardancer. Character changes may pass only when transition, local-run and long-form consequences are deliberate.",
+    "purpose": "Explore TYGAPAW's current abrasive-to-restrained techno, µ-Ziq's recent humanized drum programming and Gábor Lázár's overlooked algorithmic club constructions while testing three distinct downstream consequences."
   },
   "explorationReceipt": {
-    "timestampUtc": "2026-09-11T14:51:36Z",
-    "approximateInspectedScope": "Approximately 60 named tracks, releases and catalogue references across live September 9–11, 2026 Pitchfork, Resident Advisor and Bandcamp feeds, Shackleton's 2026 Euphoria Bound, Facta's 2025 GULP and Koreless's 2021 Agor; attributed criticism and release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-11T15:53:50Z",
+    "approximateInspectedScope": "Approximately 58 named tracks, releases and catalogue references across live September 9–11, 2026 Pitchfork and Resident Advisor feeds, TYGAPAW's 2026 Together You Gather All Power Applied Worldwide, µ-Ziq's 2024 Grush, and Gábor Lázár's 2020 Source and 2022 Boundary Object; attributed criticism and release metadata only; no audio audition.",
     "exclusions": [
-      "Run 152 MIZU, Mark Fell and Dopplereffekt decisions, unresolved identities and source windows were not recycled.",
-      "Recent Run 140–152 Four Tet, Plaid, JWords, foodman, RRUCCULLA, 96 Back, Gold Panda, Boards of Canada, Theo Parrish, Pole, Kelela, BEAM WONG, MIZU, Mark Fell and Dopplereffekt fields were excluded by repository freshness checks.",
-      "Current Bonobo, Argento and Bitchin Bajas material already inspected in persistent history was not recycled.",
+      "Run 153 Shackleton, Facta and Koreless decisions, unresolved identities and alternates were not recycled.",
+      "Recent Run 141–153 source families and current Bonobo, Argento, Bitchin Bajas, Booker Stardrum/Evan Shornstein, Nathan Fake and Placid Angles material already present in persistent history were excluded.",
       "Tracks supported only by generic genre framing, prestige, process novelty or titles were inspected but excluded.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Shackleton — Elemental Dream",
-      "2. Facta — SLoPE",
-      "3. Koreless — Joy Squad",
-      "4. Shackleton — Contagious Illusions",
-      "5. Facta — Jets",
-      "6. Koreless — Hance",
-      "7. Shackleton — Philistine Wavelength",
-      "8. Facta — BDB",
-      "9. Koreless — Shellshock"
+      "1. TYGAPAW — Can I live",
+      "2. µ-Ziq — Hyper Daddy",
+      "3. Gábor Lázár — Effort",
+      "4. TYGAPAW — M32 Riddim",
+      "5. µ-Ziq — Metaphonk",
+      "6. Gábor Lázár — Phase",
+      "7. TYGAPAW — Helicopter hovers over my Crown Heights Apartment",
+      "8. µ-Ziq — Manscape",
+      "9. Gábor Lázár — Boundary Object V"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Shackleton's 2026 Euphoria Bound supplies exact-track descriptions of unstable percussive density, periodic stripping and thudding-tom suspension. https://pitchfork.com/reviews/albums/shackleton-euphoria-bound/",
-      "RECENT WINDOW: Facta's 2025 GULP supplies exact descriptions of malformed drum'n'bass reconstruction, twitchy minimal house and tidal bass pressure. https://pitchfork.com/reviews/albums/facta-gulp/",
-      "OVERLOOKED CATALOGUE WINDOW: Koreless's 2021 Agor supplies exact descriptions of alternating-speed percussion, a brief house-beat release inside long build-ups and repeated drumless climax withdrawal. https://pitchfork.com/reviews/albums/koreless-agor/",
-      "CURRENT FEED CHECK: September 9–11, 2026 Pitchfork, Resident Advisor and Bandcamp windows were inspected; current items with insufficient exact-track or platform-ready evidence were excluded rather than padded into leads."
+      "CURRENT RELEASE WINDOW: TYGAPAW's 2026 Tresor album supplies exact descriptions of drone-to-footwork transformation, acidic drum-and-bass motion and seizure-like propulsion. https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/",
+      "RECENT ADJACENT WINDOW: µ-Ziq's 2024 Grush supplies exact descriptions of multiple interacting drum lines, dembow/post-rave construction and sharply angled breaks. https://pitchfork.com/reviews/albums/u-ziq-grush/",
+      "OVERLOOKED CATALOGUE WINDOW: Gábor Lázár's 2020 Source and 2022 Boundary Object supply exact descriptions of contorting bass, mutated two-step, handclap returns and mounting/releasing pressure. https://pitchfork.com/reviews/albums/gabor-lazar-source/ https://pitchfork.com/reviews/albums/gabor-lazar-boundary-object/",
+      "CURRENT FEED CHECK: September 9–11, 2026 Pitchfork and Resident Advisor windows were inspected; already-seen or insufficiently exact candidates were excluded rather than padded into leads."
     ]
   },
   "leads": [
     {
-      "artist": "Shackleton",
-      "track": "Elemental Dream",
-      "album": "Euphoria Bound",
+      "artist": "TYGAPAW",
+      "track": "Can I live",
+      "album": "Together You Gather All Power Applied Worldwide",
       "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/shackleton-euphoria-bound/",
-      "fitHypothesis": "Pitchfork describes the exact track exploding after two bars into an unstable tangle of disjointed voices, kalimba, serrated synthesizers and drums, with tonal and percussive elements periodically stripped back to focus on swirling dub delay.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/",
+      "fitHypothesis": "Pitchfork describes the exact track beginning over a low-boil droning synth loop with spoken-word recitation, then ending in a coda of grimy muffled bass and sandpapery footwork beats whose eruption remains restrained.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track exploding after two bars into an unstable tangle of disjointed voices, kalimba, serrated synthesizers and drums, with tonal and percussive elements periodically stripped back to focus on swirling dub delay.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether unstable percussive density that periodically strips itself back can extend hand-drum mutation and make subsequent groove consolidation newly necessary.",
+        "attributedDescription": "Pitchfork describes the exact track beginning over a low-boil droning synth loop with spoken-word recitation, then ending in a coda of grimy muffled bass and sandpapery footwork beats whose eruption remains restrained.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a restrained late footwork eruption can turn the closing afterword into continuation rather than installing a second ending.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -59,40 +58,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Amor and Truth in Noise",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test self-stripping percussive instability after hand-drum mutation before groove consolidation.",
+          "position": "Between Rabbit Hole and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "purpose": "Test a restrained footwork coda after dead-space descent before the electro-soul afterword.",
           "candidateBpm": null,
           "incomingBpm": null,
-          "outgoingBpm": 142
+          "outgoingBpm": null
         },
         {
-          "position": "Between Eyes of the Wind and Nukumori",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "Test whether density-and-release cycles prepare the late flare or complete too much of its event.",
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "purpose": "Test whether drone-to-footwork transformation prepares the protected block opener at its legal outer boundary or competes with it.",
           "candidateBpm": null,
-          "incomingBpm": 135,
-          "outgoingBpm": null
+          "incomingBpm": null,
+          "outgoingBpm": 143
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Facta",
-      "track": "SLoPE",
-      "album": "GULP",
-      "releaseDate": "2025",
+      "artist": "µ-Ziq",
+      "track": "Hyper Daddy",
+      "album": "Grush",
+      "releaseDate": "2024",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/facta-gulp/",
-      "fitHypothesis": "Pitchfork describes the exact track as topsy-turvy with jazzy samples, like drum'n'bass disassembled and reassembled incorrectly.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/u-ziq-grush/",
+      "fitHypothesis": "Pitchfork describes the exact track as three different drum lines that tease, fidget and needle, with a shuffling snare-and-hi-hat pattern programmed to carry a human sense of flux.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as topsy-turvy with jazzy samples, like drum'n'bass disassembled and reassembled incorrectly.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether malformed rhythmic reconstruction makes an adjacent production-world change deliberate or duplicates an existing reinterpretation.",
+        "attributedDescription": "Pitchfork describes the exact track as three different drum lines that tease, fidget and needle, with a shuffling snare-and-hi-hat pattern programmed to carry a human sense of flux.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether several interacting drum lines create consequential instability without simply duplicating the surrounding broken-beat work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -101,82 +100,82 @@
       },
       "proposedPlacements": [
         {
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "purpose": "Test interacting drum lines after cross-rhythmic conflict before funk re-grounding.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 139
+        },
+        {
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "purpose": "Test humanized rhythmic flux after concise formation before bodily deformation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 138
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "Gábor Lázár",
+      "track": "Effort",
+      "album": "Source",
+      "releaseDate": "2020",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/gabor-lazar-source/",
+      "fitHypothesis": "Pitchfork describes the exact track through a swiveling bass that contorts and jumps almost like dubstep within Source's disjointed, futuristic dance rhythms.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track through a swiveling bass that contorts and jumps almost like dubstep within Source's disjointed, futuristic dance rhythms.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether contorting low-end movement leaves a useful state for groove consolidation or merely inserts another deformation.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "purpose": "Test contorting bass after self-stripping instability before consolidation.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 138
+        },
+        {
           "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:2gk0oSHAVlUrE6p2l2yw18",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
           "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test malformed reconstruction before Sarniezz's live-band pulse illusion.",
+          "purpose": "Test bass contortion after rhythmic redirection before the live-band pulse illusion.",
           "candidateBpm": null,
           "incomingBpm": 137,
           "outgoingBpm": null
-        },
-        {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "purpose": "Test malformed reconstruction between the dubwise reset and concise groove formation.",
-          "candidateBpm": null,
-          "incomingBpm": 130,
-          "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Koreless",
-      "track": "Joy Squad",
-      "album": "Agor",
-      "releaseDate": "2021",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/koreless-agor/",
-      "fitHypothesis": "Pitchfork describes the exact track as fluttering tones over the album's sole exhilarating house beat for less than a minute, surrounded by agonizing build-ups.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as fluttering tones over the album's sole exhilarating house beat for less than a minute, surrounded by agonizing build-ups.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a long ascent with a brief house-beat release creates threshold tension or pre-empts the following track's task.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and U Belong 2 Me",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "purpose": "Test ascent and brief release before the four-on-floor-to-funereal threshold.",
-          "candidateBpm": null,
-          "incomingBpm": 142,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "purpose": "Test a withheld build after preserved-drive redirection before Moonwake's intensification.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 140
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Shackleton",
-      "track": "Contagious Illusions",
-      "album": "Euphoria Bound",
+      "artist": "TYGAPAW",
+      "track": "M32 Riddim",
+      "album": "Together You Gather All Power Applied Worldwide",
       "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/shackleton-euphoria-bound/",
-      "fitHypothesis": "Pitchfork describes the exact track with ominous drones and thudding toms guarding ghostly piano riffs.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/",
+      "fitHypothesis": "Pitchfork describes the exact track with air-raid alarms dropping in and out of a propulsive beat while bouncing bass blasts through the chaos, more rhythmic seizure than groove.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track with ominous drones and thudding toms guarding ghostly piano riffs.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether tom-led ominous suspension opens a consequence for existing dissolution rather than inserting another complete atmosphere.",
+        "attributedDescription": "Pitchfork describes the exact track with air-raid alarms dropping in and out of a propulsive beat while bouncing bass blasts through the chaos, more rhythmic seizure than groove.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a propulsive rhythmic seizure intensifies a local conflict or overstates work already assigned to the next track.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -185,10 +184,43 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Té de Cabello Blanco and Ikoyi",
-          "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "purpose": "Test tom, drone and piano suspension after reassembly before Ikoyi dissolves it.",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "purpose": "Test seizure-like propulsion after cross-rhythmic conflict before funk re-grounding.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": 139
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "µ-Ziq",
+      "track": "Metaphonk",
+      "album": "Grush",
+      "releaseDate": "2024",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/u-ziq-grush/",
+      "fitHypothesis": "Pitchfork describes the exact track as smuggling a dembow beat into a stately post-rave workout.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track as smuggling a dembow beat into a stately post-rave workout.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a dembow/post-rave construction creates a deliberate production-world pivot or functions only as a stylistic novelty.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:1Ev5KwVY73DjbIAegPo54f",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "purpose": "Test dembow/post-rave motion after chopped polyrhythm before stuttering-break reassembly.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": null
@@ -197,19 +229,19 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "Facta",
-      "track": "Jets",
-      "album": "GULP",
-      "releaseDate": "2025",
+      "artist": "Gábor Lázár",
+      "track": "Phase",
+      "album": "Source",
+      "releaseDate": "2020",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/facta-gulp/",
-      "fitHypothesis": "Pitchfork describes the exact track as twitchy minimal house whose enormous bassline nearly upends its supple groove.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gabor-lazar-source/",
+      "fitHypothesis": "Pitchfork describes the exact track as particularly frenzied, with mutated two-step rhythms and oscillated bass notes stretched to their limits.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as twitchy minimal house whose enormous bassline nearly upends its supple groove.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a groove that almost overturns itself adds meaningful pressure before deformation or merely duplicates it.",
+        "attributedDescription": "Pitchfork describes the exact track as particularly frenzied, with mutated two-step rhythms and oscillated bass notes stretched to their limits.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether frenzied two-step mutation makes a successor newly necessary or duplicates deformation already present.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -221,7 +253,7 @@
           "position": "Between FELT and Thick to Handle",
           "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
           "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "purpose": "Test near-upending bass pressure after formation before broken-beat deformation.",
+          "purpose": "Test mutated two-step after rolling formation before bodily deformation.",
           "candidateBpm": null,
           "incomingBpm": null,
           "outgoingBpm": 138
@@ -230,52 +262,19 @@
       "spotifyTrackId": null
     },
     {
-      "artist": "Koreless",
-      "track": "Hance",
-      "album": "Agor",
-      "releaseDate": "2021",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/koreless-agor/",
-      "fitHypothesis": "Pitchfork describes the exact track as bright percussive tones resembling steel pans and pinball flippers, with a rhythm that alternately speeds up and slows down.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as bright percussive tones resembling steel pans and pinball flippers, with a rhythm that alternately speeds up and slows down.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether explicit speed illusion changes the task of an early successor without becoming novelty for its own sake.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Tides Alternate and Too Much Time",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "purpose": "Test alternating perceived speed after opposed-tempo layering before physical widening.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": 125
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Shackleton",
-      "track": "Philistine Wavelength",
-      "album": "Euphoria Bound",
+      "artist": "TYGAPAW",
+      "track": "Helicopter hovers over my Crown Heights Apartment",
+      "album": "Together You Gather All Power Applied Worldwide",
       "releaseDate": "2026",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/shackleton-euphoria-bound/",
-      "fitHypothesis": "Pitchfork describes the exact track through sounds like dripping drainpipes and drums crunching through old snow.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/tygapaw-together-you-gather-all-power-applied-worldwide/",
+      "fitHypothesis": "Pitchfork describes the exact track with siren-like synths and an acidic drum-and-bass beat that mimics rusty helicopter blades while rising and falling with dancefloor timing.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track through sounds like dripping drainpipes and drums crunching through old snow.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an oblique percussion world deepens an existing dissolution passage without adding a self-contained detour.",
+        "attributedDescription": "Pitchfork describes the exact track with siren-like synths and an acidic drum-and-bass beat that mimics rusty helicopter blades while rising and falling with dancefloor timing.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether cyclic acidic pressure changes an early successor's work or adds another self-contained intensification.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -284,31 +283,64 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test crunching oblique drums after dissolution before opposed-temporal strain.",
+          "position": "Between Freepass for Them and Moonwake",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "purpose": "Test rise-and-fall acidic pressure after preserved-drive redirection before Moonwake's intensification.",
           "candidateBpm": null,
           "incomingBpm": null,
+          "outgoingBpm": 140
+        }
+      ],
+      "spotifyTrackId": null
+    },
+    {
+      "artist": "µ-Ziq",
+      "track": "Manscape",
+      "album": "Grush",
+      "releaseDate": "2024",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://pitchfork.com/reviews/albums/u-ziq-grush/",
+      "fitHypothesis": "Pitchfork describes the exact track as an ambient-techno reference point being dissected by sharply angled breaks.",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Pitchfork describes the exact track as an ambient-techno reference point being dissected by sharply angled breaks.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether sharply angled break dissection makes the live-band left turn legible or creates another detour before it.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test sharply angled breaks after rhythmic redirection before the live-band pulse illusion.",
+          "candidateBpm": null,
+          "incomingBpm": 137,
           "outgoingBpm": null
         }
       ],
       "spotifyTrackId": null
     },
     {
-      "artist": "Facta",
-      "track": "BDB",
-      "album": "GULP",
-      "releaseDate": "2025",
+      "artist": "Gábor Lázár",
+      "track": "Boundary Object V",
+      "album": "Boundary Object",
+      "releaseDate": "2022",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/facta-gulp/",
-      "fitHypothesis": "Pitchfork describes the exact track as barreling forward with an abrasive vocal hook, tidal bass and huge drums, drawing on Perlon and Afro house.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/gabor-lazar-boundary-object/",
+      "fitHypothesis": "Pitchfork describes the exact track as returning the opening handclaps in a catchy form while phrases are introduced and inverted and drum pressure mounts and releases.",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as barreling forward with an abrasive vocal hook, tidal bass and huge drums, drawing on Perlon and Afro house.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether large-scale forward motion develops the early run or overstates an already established weight-to-opposed-speed move.",
+        "attributedDescription": "Pitchfork describes the exact track as returning the opening handclaps in a catchy form while phrases are introduced and inverted and drum pressure mounts and releases.",
+        "craftConvention": "Attributed exact-track criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether returning handclaps and phrase inversion supply a consequential re-forming event without extending the journey gratuitously.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -317,46 +349,13 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Worn Down and Tides Alternate",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test tidal bass and large drums after rumble-to-weight before opposed-speed layering.",
-          "candidateBpm": null,
-          "incomingBpm": 129,
-          "outgoingBpm": null
-        }
-      ],
-      "spotifyTrackId": null
-    },
-    {
-      "artist": "Koreless",
-      "track": "Shellshock",
-      "album": "Agor",
-      "releaseDate": "2021",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/koreless-agor/",
-      "fitHypothesis": "Pitchfork describes the exact track as a drumless techno epic that repeatedly teases a climax, climbing and then pulling the rug away.",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as a drumless techno epic that repeatedly teases a climax, climbing and then pulling the rug away.",
-        "craftConvention": "Attributed exact-track or tightly bounded release-context evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether repeated climax withdrawal prepares the protected block opener at its legal outer boundary or installs a competing threshold.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "purpose": "Test drumless repeated withdrawal before the protected block opener without altering either protected internal handoff.",
+          "position": "Between Mildew Swoosh and Fragments",
+          "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "purpose": "Test mounting-and-releasing pressure after opposed-temporal strain before driving re-entry.",
           "candidateBpm": null,
           "incomingBpm": null,
-          "outgoingBpm": 143
+          "outgoingBpm": 140
         }
       ],
       "spotifyTrackId": null
