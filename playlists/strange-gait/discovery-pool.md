@@ -1,5 +1,19 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 143 harvest — 2026-09-11
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Lotic | Carried | https://open.spotify.com/track/3RIuNmWnU5gRHCldYYy83b | Canonical ADD after *Encasadelciegoeltuerco*; exact self-emptying rupture remains independently interesting. Date variance preserved. |
+| EXACT TRACK | GRRL | Rattlesnake | https://open.spotify.com/track/59dpbJoDbGHSI2R0H0hn5v | Placement-specific REJECT only for the two Run 143 positions; jagged footwork/funk construction remains genuinely interesting elsewhere. Date variance preserved. |
+| EXACT TRACK | GRRL | Amber | https://open.spotify.com/track/35QGeN9HI1QjbDM4wngGPL | Placement-specific REJECT only for the two Run 143 positions; compact percussion collapse remains genuinely interesting elsewhere. Date variance preserved. |
+| UNRESOLVED | upsammy, Valentina Magaletti; Yesterdayneverhappened, 3mouth; upsammy, Valentina Magaletti | It Comes to an End; Jungle instruction video; Every Cell Thought Every Thinkable Thing | See discoveries.md exact errors | Three no-match outcomes remain research leads without verdict or utility entry. |
+| RESOLVED ALTERNATES | GRRL; Yesterdayneverhappened; Donato Dozzy | Tumble; afro-breaking; 12H.5 | spotify:track:51L7vcPMBd3YeJPGHovNM0 ; spotify:track:14d40iGOLIPotXuZDIfZyZ ; spotify:track:1zq8ebimNALch75L9AOdmC | Exact but unselected and unevaluated; not retained as decisions and not added to the utility ledger. Date variances preserved. |
+| RELEASE / LABEL WATCH | GRRL / PC Music; Yesterdayneverhappened / Daybreak; upsammy, Valentina Magaletti / PAN | Beetle; search bar; Seismo | https://pitchfork.com/reviews/albums/grrl-beetle ; https://pitchfork.com/reviews/albums/yesterdayneverhappened-search-bar ; https://pitchfork.com/reviews/albums/upsammy-valentina-magaletti-seismo | Current and emerging digital-club, breakcore/footwork and acoustic-electronic clock-conflict fields remain useful. |
+| CATALOGUE WATCH | Lotic; Donato Dozzy | Agitations; 12H | https://pitchfork.com/reviews/tracks/17805-lotic-carried ; https://pitchfork.com/reviews/albums/donato-dozzy-12h | Self-emptying club rupture and long-form dissipation remain useful overlooked-catalogue windows. |
+
+Editorial boundary: exact-track retention does not weaken the canonical verdicts. *Rattlesnake* and *Amber* are rejected only in their tested positions; the alternates were not evaluated. BPM, perceived pulse, energy, density, space, phrase structure, mixability and all new handoffs remain unknown.
+
 ## Run 142 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

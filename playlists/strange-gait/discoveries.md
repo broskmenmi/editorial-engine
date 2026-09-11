@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 143 — EXPLORE — self-emptying rupture can create rebuilding work — 2026-09-11
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 300 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. The four completed no-ADD runs since Run 138, with 11 exact interesting tracks retained, remained a proportionality signal rather than an actionable defect.
+
+### Exploration receipt
+
+Run `2026-09-11T04:53:30Z-explore-143` inspected approximately 58 named tracks, releases and catalogue references across Pitchfork's September 2026 review/Selects pages, GRRL's 2026 *Beetle*, Yesterdayneverhappened's 2026 *search bar*, upsammy and Valentina Magaletti's 2026 *Seismo*, Foodman's 2026 *HIKARIGASASHIKOMU*, and overlooked Lotic and Donato Dozzy criticism. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, utility discoveries, recently decided fields and unresolved leads without materially new identity evidence were excluded. Nine honest leads survived (15.5%). The immutable schemaVersion 2 request was pinned to `391fac32cc55d89edce0061c23c82b5c8d6b5ba9` in `616ec6703fd462e01d37bfef9fbe1113b571d158`. Matching snapshot commit: `b6f1c811e01c8150794dea37f82c76c8264ca721`; fingerprint `41294fac8958aa24b06464db375fcbfb461f2beeaa7cd07047c38b75686c968f`.
+
+### Resolver outcome
+
+Internally valid `resolutionStatus: PARTIAL`: 9 requested, 6 resolved, 3 selected, 3 exact alternates, 3 unresolved, no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. Lotic — *Carried* — `spotify:track:3RIuNmWnU5gRHCldYYy83b`; 4:41; album *Agitations*; Spotify date 2015-11-13; BPM unavailable.
+2. GRRL — *Rattlesnake* — `spotify:track:59dpbJoDbGHSI2R0H0hn5v`; 3:36; album *Beetle*; Spotify date 2026-03-13; BPM unavailable.
+3. GRRL — *Amber* — `spotify:track:35QGeN9HI1QjbDM4wngGPL`; 2:14; album *Beetle*; Spotify date 2026-03-13; BPM unavailable.
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2015" but Spotify returned "2015-11-13"` — Lotic — *Carried*.
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-03-13"` — separately for GRRL — *Rattlesnake*, *Amber* and *Tumble*.
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-05-15"` — Yesterdayneverhappened — *Afro-breaking*.
+- `Exact title/artist matched with release metadata variance: release date requested "2020" but Spotify returned "2019-10-24"` — Donato Dozzy — *12H.5*.
+
+Unresolved identities receive no musical verdict:
+
+- upsammy, Valentina Magaletti — *It Comes to an End*: `no exact Spotify title/artist search match in market SE`
+- Yesterdayneverhappened, 3mouth — *Jungle instruction video*: `no exact Spotify title/artist search match in market SE`
+- upsammy, Valentina Magaletti — *Every Cell Thought Every Thinkable Thing*: `no exact Spotify title/artist search match in market SE`
+
+Resolved but unselected and unevaluated:
+
+- GRRL — *Tumble* — `spotify:track:51L7vcPMBd3YeJPGHovNM0`
+- Yesterdayneverhappened — *afro-breaking* — `spotify:track:14d40iGOLIPotXuZDIfZyZ`
+- Donato Dozzy — *12H.5* — `spotify:track:1zq8ebimNALch75L9AOdmC`
+
+### Candidate evaluation
+
+#### Lotic — Carried — ADD
+
+- **Volume fit:** PASS. Pitchfork's exact-track account documents warped synth progression, battering kicks, an early breakdown and a final percussion barrage that dissipates until the original eerie loop remains isolated. The track's structural self-emptying is directly relevant to STRANGE GAIT's selection lens; reputation and novelty do not supply the verdict.
+- **Immediate transition:** PLAUSIBLE / UNKNOWN in exact feel at `Encasadelciegoeltuerco → candidate → Cave`. The preceding track already establishes triplet derailment; the candidate develops a separate rupture and exits by stripping percussion away, giving *Cave* an intelligible widening/rebuilding purpose. BPM, phrase structure, perceived pulse and both handoffs remain unknown, and none is inferred.
+- **Surrounding three-to-five-track run:** PASS provisionally. `The Witching Hour → Encasadelciegoeltuerco → Carried → Cave → Abundance` reads as controlled continuation, competing-clock derailment, self-emptying rupture, widening and swung continuation. The conspicuous move is curated by consequence rather than similarity.
+- **Long-form journey:** PASS provisionally. At 4:41, the addition extends an already mature journey, but it deepens the opening without duplicating the later *Raataja* disappearance: *Carried* strips back after a developed barrage, while the following *Cave* now has a concrete rebuilding task.
+- **Verdict:** **ADD after Encasadelciegoeltuerco.** Exact handoff feel, BPM, energy, density, space, phrase structure and mixability remain unknown but are not decision-critical because the sourced endpoint and live journey context support a defensible provisional placement.
+
+#### GRRL — Rattlesnake — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork describes the exact track as a successful jagged experimental-footwork and violent-funk construction. This supports belonging without treating extremity as sufficient for admission.
+- **Immediate transition:** FAIL for the two named positions only. Between *Thick to Handle* and *LOVE YOUR ENEMIES*, it adds another full rhythmic-conflict proposition before the existing cross-rhythmic hinge. Between *Drummz* and *Ikoyi*, it extends foreground percussion before *Ikoyi*'s dissolution.
+- **Surrounding three-to-five-track run:** FAIL. `Trompe L'oeil → Thick to Handle → candidate → LOVE YOUR ENEMIES → Tehutis Law` accumulates deformation, jagged funk and cross-rhythmic conflict before the same re-grounding. `Fragments → Drummz → candidate → Ikoyi → Amor` inserts another complete percussive world before the existing dissolve-and-mutate sequence.
+- **Long-form journey:** FAIL for these placements. The track remains interesting, but neither tested position gives its successor new work.
+- **Verdict:** **REJECT these two placements only**, not the track globally. BPM, direction, endpoint, phrase structure, handoffs and mixability remain unknown; the rejection rests on the documented material's proportional effect in the live runs, not on those unknowns.
+
+#### GRRL — Amber — placement-specific REJECT
+
+- **Volume fit:** PASS. Pitchfork documents lasers, claps and kicks collapsing into one another inside a Detroit-techno-workout frame. The internal rhythmic collapse fits the selection lens.
+- **Immediate transition:** FAIL for the two named positions only. Between *Tehutis Law* and *Pulse I*, the compact collapse pre-empts the latter's crooked accumulation. Between *backsliding* and *Mildew Swoosh*, it adds another collapse before opposed temporal strain and the same driving re-entry.
+- **Surrounding three-to-five-track run:** FAIL. `Thick to Handle → LOVE YOUR ENEMIES → Tehutis Law → candidate → Pulse I` turns re-grounding immediately back into a completed collapse before the existing build. `Roxellana → backsliding → candidate → Mildew Swoosh → Fragments` over-articulates the dissolution/instability passage.
+- **Long-form journey:** FAIL for these placements. Its 2:14 duration is proportionate, but concision does not create a new journey consequence by itself.
+- **Verdict:** **REJECT these two placements only**, not the track globally. BPM, exact endpoint, phrase structure, handoffs and mixability remain unknown; they are not converted into negative evidence.
+
+### Auditor approval
+
+**APPROVED.** The fresh EXPLORE receipt spans current, adjacent/emerging and overlooked fields with nine non-padding leads. The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 3 selected exact resolutions + 3 exact alternates + 3 unresolved; every warning and exact resolver error is preserved; no stale identity, duplicate, substitute, relink or technical failure entered evaluation. Each selected candidate was judged separately at volume, transition, local-run and long-form scales. Unknown handoffs and missing BPM were not treated as musical failure or admission evidence. The protected trio remains untouched. Auditor approves one canonical ADD, two placement-specific rejections, local inspiration retention and three doctrine-free utility additions.
+
+The four-run no-ADD streak did not reveal Scout over-filtering, epistemic veto or repetitive placement search: this run supplied nine credible leads, six exact resolutions and a provisional ADD from strong endpoint evidence. The streak therefore ends as a playlist-maturity/proportionality signal rather than an actionable process defect.
+
+### Durable result
+
+- STRANGE GAIT increases **37 → 38 canonical tracks** with Lotic — *Carried* after Debit — *Encasadelciegoeltuerco*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains the three selected exact tracks, three unresolved research leads, three exact unevaluated alternates and the source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **300 → 303 exact tracks** with *Carried*, *Rattlesnake* and *Amber*.
+
+### Run analysis
+
+Run `2026-09-11T04:53:30Z-explore-143`: approximately 58 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions.
+
+Inspection-to-lead conversion: **15.5%**. Lead-to-resolution conversion: **66.7%**. Selected-candidate-to-ADD conversion: **33.3%**.
+
+Across Runs 87–143: **503 leads from approximately 2,717 inspections; 23 ADDs from 155 selected candidates**. The recent completed-run ADD rate becomes **5/10**, excluding resolver-incomplete Run 133. Run 143 ends the four-completed-run no-ADD streak since Run 138; 11 exact interesting tracks were retained during that completed drought.
+
+The strongest alternative explanation is forced growth after a four-run drought. It is weaker than the placement evidence: *Carried* is admitted because its documented self-emptying endpoint gives *Cave* a specific rebuilding task, not because the streak needed an ADD. The run proves a defensible best-evidence journey change and a healthy discovery funnel; it does not prove exact handoff quality, perceived pulse, phrase fit, live mixability, energy, density, space or playlist completion. **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 142 — EXPLORE — microscopic rhythm must alter the following task — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered at 37 unique canonical tracks with 37 matching annotations and a matching COMPLETE receipt. EDITORIAL ENGINE — DISCOVERY POOL entered at 297 contiguous unique exact tracks with a matching COMPLETE receipt. The protected `Transparency → When We Froze → Stardancer` internal order was intact. No active listener discussion, live TRIGGERED revisit, authorized musical repair, unfinished publication defect or Auditor-confirmed workflow defect existed. The three completed no-ADD runs since Run 138 remained a proportionality signal rather than an actionable defect.

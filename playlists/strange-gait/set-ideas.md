@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Run 143 — Self-emptying rupture can create rebuilding work
+
+**Direction:** Explore club constructions whose internal conflict eventually removes or exposes material, giving the following track a concrete rebuilding or widening task rather than adding another complete instability premise.
+
+**Ingredients:**
+
+- Lotic — *Carried* — exact canonical ADD; a percussion barrage dissipates until the opening loop stands alone before *Cave* rebuilds.
+- GRRL — *Rattlesnake* and *Amber* — exact placement-specific rejects; jagged funk and compact percussion collapse remain useful outside the tested stacked-conflict positions.
+- *It Comes to an End*, *Jungle instruction video* and *Every Cell Thought Every Thinkable Thing* — unresolved exact-title leads without verdicts.
+- GRRL — *Tumble*, Yesterdayneverhappened — *afro-breaking* and Donato Dozzy — *12H.5* — exact resolved alternates, unselected and unevaluated.
+
+**Why interesting:** Rhythmic violence or instability need not be a summit; when it empties itself, a successor can become a meaningful reconstruction rather than a redundant continuation.
+
+**Unknown / risk:** BPM, perceived pulse, energy, density, space, phrase structure, mixability and every new handoff remain unknown. This is a set direction, not a proven sequence or live-mixing edge.
+
 ## Run 142 — Microscopic rhythm must change the successor's task
 
 **Direction:** Explore clicks, static, floor-tom constructions and familiar grooves inside unstable surfaces only where their endpoint makes the next track do something newly legible.

@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 143 — EXPLORE — self-emptying rupture can create rebuilding work
+
+Lotic — *Carried* is added between *Encasadelciegoeltuerco* and *Cave*. Pitchfork documents warped synths, battering kicks and an early breakdown before a final percussion barrage dissipates until the original eerie loop remains alone. The five-track run `The Witching Hour → Encasadelciegoeltuerco → Carried → Cave → Abundance` now moves from controlled continuation through triplet derailment and a self-emptying rupture into widening and swung continuation.
+
+GRRL — *Rattlesnake* and *Amber* pass the selection lens and remain genuinely interesting, but fail only their tested placements. *Rattlesnake* stacks another complete jagged-funk proposition either between broken-beat deformation and cross-rhythmic conflict or inside the late percussion chain before *Ikoyi*. *Amber*'s compact internal collapse pre-empts *Pulse I*'s crooked accumulation or adds another collapse between *backsliding* and *Mildew Swoosh* before the same driving re-entry.
+
+The matching schemaVersion 2 snapshot is internally valid with `resolutionStatus: PARTIAL`: six exact resolutions, three selected candidates, three unresolved identities, three exact alternates and six preserved metadata warnings. There were no duplicates, substitutions, relinkings or technical failures. BPM, perceived pulse, energy, density, space, phrase structure, mixability and every tested handoff remain unknown.
+
 ## Run 142 — EXPLORE — microscopic rhythm must alter the following task
 
 No canonical track is added. Jan Jelinek — *Rock In The Video Age* and Andrew Pekler — *Rockslide* pass the selection lens and remain genuinely interesting, but fail only their two tested placements. Jan Jelinek — *Them, Their* is PARKED after both planned positions.
