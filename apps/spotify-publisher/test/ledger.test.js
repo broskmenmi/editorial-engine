@@ -40,3 +40,11 @@ test('rejects empty ledger by default', () => {
   assert.throws(() => parseLedger(empty), /Ledger is empty/);
   assert.deepEqual(parseLedger(empty, { allowEmpty: true }), []);
 });
+
+test('rejects track rows after a blank line terminates the ledger table', () => {
+  const split = valid.replace(
+    '| 2 | Artist B',
+    '\n| 2 | Artist B'
+  );
+  assert.throws(() => parseLedger(split), /track row after table termination/);
+});

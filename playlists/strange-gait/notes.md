@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 179 — utility publication continuity repaired
+
+The first Run 178 publication receipt reported `COMPLETE — 374/374` because a blank line terminated the global Discovery Pool table before the newly written row 375. That receipt verified the parser's truncated input, not the full visible ledger, so it is not evidence that *My Sound* was live.
+
+REPAIR `2026-09-12T13:10:28Z-repair-179` makes row 375 contiguous and changes the shared Spotify ledger parser to reject any later numeric Spotify row after table termination. The new regression reproduces the split-row case; the focused suite passes 6/6.
+
+No canonical music, order or annotation changed. The protected trio remains intact; only the global utility publication must be finalized again.
+
 ## Runs 177–178 — recovery exploration yields one parked threshold candidate
 
 Run 177 is **REQUEST_NOT_COMPLETED**. Its immutable schemaVersion 2 request failed the working pre-resolution gate with `Lead 4 placement 2 must reference two current canonical ledger URIs`; no Spotify lookup, matching snapshot, musical verdict or utility addition followed. The malformed *Abundance* URI is an operator request error caught by the validator, so no further workflow REPAIR is actionable.

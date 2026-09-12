@@ -62,6 +62,14 @@ export function parseLedger(markdown, { allowEmpty = false } = {}) {
     rows.push({ position, artist, track, uri });
   }
 
+  const parsedRowEnd = headerIndex + 2 + rows.length;
+  const strayTrackRowIndex = lines.findIndex((line, index) =>
+    index >= parsedRowEnd && /^\s*\|\s*\d+\s*\|.*spotify:track:/.test(line)
+  );
+  if (strayTrackRowIndex >= 0) {
+    throw new Error(`Ledger contains a track row after table termination on row ${strayTrackRowIndex + 1}.`);
+  }
+
   if (rows.length === 0 && !allowEmpty) {
     throw new Error('Ledger is empty. Pass --allow-empty to publish an empty playlist intentionally.');
   }

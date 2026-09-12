@@ -1,5 +1,15 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 179 — REPAIR — discovery-pool table continuity and parser fail-closed guard — 2026-09-12
+
+**RunId:** `2026-09-12T13:10:28Z-repair-179`
+
+The first publication pass after Run 178 returned `COMPLETE — 374/374` at `2026-09-12T13:09:43.473Z` even though the global utility ledger file visibly contained row 375. The new row had been separated from row 374 by a blank line. `parseLedger` stopped at that blank line, silently ignored the later track row and published only the preceding 374 identities.
+
+This is an actionable objective defect. REPAIR removes the accidental blank line so row 375 is contiguous and extends the shared Spotify ledger parser with a fail-closed check: any later numeric Markdown row containing a Spotify track URI after table termination now throws `Ledger contains a track row after table termination on row …` instead of allowing a false COMPLETE receipt. A regression test reproduces the split-row failure. The focused publisher-ledger suite passes 6/6.
+
+No musical decision changed. Extra Medium — *My Sound* remains PARKED only at `Same Way → candidate → U Belong 2 Me`, placement-specifically rejected only at `Can I live → candidate → Invisible Warriors Of Light`, and retained as genuinely interesting in EDITORIAL ENGINE — DISCOVERY POOL. STRANGE GAIT remains 49 canonical tracks; its protected trio remains contiguous.
+
 ## Runs 177–178 — invalid request quarantined; fresh recovery exploration completed — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical rows, an exact-order 49-track journey map, the last verified COMPLETE 49/49 Spotify receipt and protected `Transparency → When We Froze → Stardancer` at positions 41–43. EDITORIAL ENGINE — DISCOVERY POOL entered with 374 contiguous unique tracks and its last verified COMPLETE 374/374 receipt. There was no active clarification, current TRIGGERED revisit, publication discrepancy or actionable objective defect. Automatic publishing was enabled.
