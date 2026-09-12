@@ -1,904 +1,955 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "f631c85f67d2db4803ac00dae9ed79a2c3b252591f71e166ed695399410832c0",
-  "generatedAt": "2026-09-12T11:57:43.754Z",
-  "runId": "2026-09-12T11:54:02Z-explore-175",
-  "sourceCommit": "bd82a59149972a2bf621a6b3808aca005b188e26",
+  "requestFingerprint": "fe3afb17e3c04e41a291d8a980811778ab4919a764076756daa7b7d1b806f2fc",
+  "generatedAt": "2026-09-12T13:05:03.457Z",
+  "runId": "2026-09-12T13:04:45Z-explore-178",
+  "sourceCommit": "da73af58b95ee6f1e0e1f656c16c1ab153f72a3c",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait/",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T11:54:02Z",
-    "approximateInspectedScope": "Approximately 57 named tracks, releases and catalogue cuts across End Of Perception's September 11, 2026 Various Artist 008 compilation, its emerging contributors, Viels' June 2026 Particle Audio debut, overlooked Lee Holman catalogue, adjacent label recommendations and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
+    "timestampUtc": "2026-09-12T13:04:45Z",
+    "approximateInspectedScope": "Approximately 61 named tracks, releases and catalogue cuts across same-day Bristol bass/garage activity, September 11 raw/deep techno releases on We Are The Brave and Illegal Alien, a new Detroit-techno/IDM/electro album on Neo Ouija, current ARTS and SK_eleven material, and adjacent catalogue recommendations. Official and attributed written evidence only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: End Of Perception's September 11, 2026 Various Artist 008 supplied four exact contemporary techno leads and a release frame combining deep/hypnotic research with classic raw sounds. https://endofperception.bandcamp.com/album/various-artist-008",
-      "EMERGING WINDOW: Lowsystem, su01 and Inter Gritty were inspected as previously unrecorded contributors to the current End Of Perception compilation.",
-      "ADJACENT WINDOW: Viels' June 10, 2026 Audio Catalogue 001 inaugurated Particle Audio as a creative-freedom platform spanning experimental depths and peak-time material. https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-      "OVERLOOKED CATALOGUE WINDOW: Lee Holman's 2023 Sonic Borders EP supplied exact deep-techno catalogue leads absent from persistent STRANGE GAIT state. https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006"
+      "CURRENT RELEASE WINDOW: Extra Medium's September 12, 2026 My Sound supplied two exact same-day UK-garage/bass identities. https://thickboyrecords.bandcamp.com/album/my-sound",
+      "CURRENT TECHNO WINDOW: Procombo's September 11 Not Alone EP and Colomboi's September 11 Alchemy supplied exact raw/deep/hypnotic and groove/atmosphere leads from distinct current releases. https://wearethebraveofficial.bandcamp.com/album/not-alone-ep ; https://illegalalienrecords.bandcamp.com/album/alchemy",
+      "ADJACENT CURRENT WINDOW: Yunx's September 11 Iconiconical expanded the scan into a newly inspected Detroit-techno, IDM and electro field. https://neoouija.bandcamp.com/album/iconiconical",
+      "OVERLOOKED / EDGE WINDOW: current SK_eleven, ARTS, Kirril and Molekül pages plus their catalogue recommendations were inspected; previously handled Confusion, Sanskrit and Shez Kurx identities were excluded."
     ],
     "exclusions": [
-      "Runs 166–174 selected, alternate, unresolved and source ecosystems were not recycled.",
+      "Run 177 is REQUEST_NOT_COMPLETED because two placements contained a non-ledger URI; none of its nine identities was reused and its failed request remains immutable at commit da73af58b95ee6f1e0e1f656c16c1ab153f72a3c.",
+      "Runs 166–176 selected, alternate, unresolved and source identities were not recycled; previously handled Confusion, Sanskrit and Colomboi's unresolved title track were also excluded.",
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits and exact tracks already in the global utility ledger were excluded.",
-      "Nine honest leads survived; the shared label path reflects one newly inspected current-to-catalogue field, not a sonic-room, artist or genre quota.",
-      "All proposed placement URIs were derived from the current 49-track ledger and verified as adjacent before this request was written.",
+      "Nine honest leads survived without artist, texture or genre quotas. Every proposed URI pair was re-derived from the current 49-track ledger and programmatically checked for adjacency and prose agreement.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Dj Sodeyama — Atlas",
-      "2. Viels — PDP",
-      "3. Lee Holman — Sonic Movement",
-      "4. Lowsystem — Cantilever",
-      "5. su01 — Echoes From A Distant Future",
-      "6. Inter Gritty — Hycean Habitat",
-      "7. Viels — PLM",
-      "8. Viels — SML",
-      "9. Lee Holman — Sonic Borders"
+      "1. Yunx — Be Bop to the Shop",
+      "2. Extra Medium — My Sound",
+      "3. Procombo — Rolling Pressure (Extended Mix)",
+      "4. Colomboi — Axis of Fate",
+      "5. Yunx — Human Beats",
+      "6. Procombo — Groove Operator (Extended Mix)",
+      "7. Extra Medium — My Sound (Instrumental)",
+      "8. Colomboi — Need",
+      "9. Yunx — Moor Sanali"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 0,
-  "candidateCount": 0,
-  "resolutionStatus": "NONE",
+  "resolvedCount": 1,
+  "candidateCount": 1,
+  "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Dj Sodeyama",
-      "track": "Atlas",
+      "artist": "Yunx",
+      "track": "Be Bop to the Shop",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Dj Sodeyama",
-        "track": "Atlas",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
+        "album": "Iconiconical",
+        "artist": "Yunx",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact track within a four-cut set combining deep and hypnotic research with classic raw techno sounds; no track-specific form is described.",
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
         "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 7:08 track within a current four-cut compilation combining deep and hypnotic research with classic raw techno sounds.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test a current exact identity for a deliberate raw/deep character move while keeping its individual structure and handoffs unknown.",
+          "attributedDescription": "Neo Ouija verifies the exact 8:50 opener; its catalogue frame cites Detroit techno, IDM and electro.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 7:08."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 8:50."
           ]
         },
+        "fitHypothesis": "A long current opener in a Detroit-techno/IDM/electro label frame; individual construction is undocumented.",
         "proposedPlacements": [
           {
-            "position": "Between Foundry and Worn Down",
-            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current raw/deep frame develops the unstable-directional hinge into weight-shifted motion."
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether a long electro/IDM change makes the live-band return legible or dilutes it."
           },
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "candidateBpm": null,
             "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a current deep-techno character move develops or crowds the closing corridor."
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether the long-form opener develops or crowds the closing corridor."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Be Bop to the Shop"
       }
     },
     {
-      "artist": "Viels",
-      "track": "PDP",
+      "artist": "Procombo",
+      "track": "Rolling Pressure (Extended Mix)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Viels",
-        "track": "PDP",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
+        "album": "Not Alone EP",
+        "artist": "Procombo",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within a project framed as total creative freedom across experimental depths and peak-time energy; it does not identify this track's individual position in that range.",
+        "discoverySource": "https://wearethebraveofficial.bandcamp.com/album/not-alone-ep",
         "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:43 track within a project framed as total creative freedom across experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether the exact identity can sharpen an existing formation or pivot without inferring which end of the release's range it occupies.",
+          "attributedDescription": "We Are The Brave verifies the exact 5:12 extended mix and its raw, deep and hypnotic techno release context.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:43."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:12."
           ]
         },
+        "fitHypothesis": "An exact current pressure hypothesis inside a raw/deep/hypnotic techno release; individual structure is undocumented.",
         "proposedPlacements": [
           {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "candidateBpm": null,
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether pressure develops the direct-to-abundant passage rather than extending function."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether pressure changes or duplicates the rupture-to-instability run."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Rolling Pressure (Extended Mix)"
+      }
+    },
+    {
+      "artist": "Colomboi",
+      "track": "Axis of Fate",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Alchemy",
+        "artist": "Colomboi",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://illegalalienrecords.bandcamp.com/album/alchemy",
+        "evidence": {
+          "attributedDescription": "Illegal Alien verifies the exact 6:22 closer in an EP described through rolling rhythm, chords, hypnotic elements and atmospheric variation.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 6:22."
+          ]
+        },
+        "fitHypothesis": "A current closing cut from an EP moving between driving grooves and atmospheric passages.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "purpose": "Test whether a groove/atmosphere closer orients the move into instability."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether a driving/atmospheric closer develops or crowds the late corridor."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Axis of Fate"
+      }
+    },
+    {
+      "artist": "Yunx",
+      "track": "Human Beats",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Iconiconical",
+        "artist": "Yunx",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
+        "evidence": {
+          "attributedDescription": "Neo Ouija verifies the exact 4:55 track; no individual structural description is supplied.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 4:55."
+          ]
+        },
+        "fitHypothesis": "A current electro/IDM catalogue cut with no candidate-specific sonic claim.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
             "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the Particle Audio freedom frame develops or delays the formation-to-deformation passage."
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether the electro/IDM frame complicates or occupies the formation-to-deformation passage."
           },
           {
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate deepens the pivot into intensification or inserts another complete stage."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Lee Holman",
-      "track": "Sonic Movement",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Lee Holman",
-        "track": "Sonic Movement",
-        "album": "Sonic Borders EP",
-        "releaseDate": "2023-06-16",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006",
-        "fitHypothesis": "The official catalogue page verifies the exact track within a four-track release described as deep and spaced-out techno; its individual movement is not documented.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 6:44 track within a four-track release described as deep and spaced-out techno.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test an overlooked exact identity for continuation or release without inferring its energy, space, endpoint or mixability from release framing.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 6:44."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an overlooked deep-techno turn develops the opposed-speed balance into widening."
-          },
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a deep/spaced catalogue cut can follow the protected block without displacing Migration's deliberate pivot."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Lowsystem",
-      "track": "Cantilever",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Lowsystem",
-        "track": "Cantilever",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact emerging-artist track within its deep, hypnotic and raw techno frame; no individual form is described.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 5:26 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve an emerging exact identity and test placement while keeping track-specific structure and endpoint unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:26."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the current compilation frame deepens consolidation before Style Teef's fault line or delays it."
-          },
-          {
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a deep/raw character move makes the descent-to-re-entry relation deliberate."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "su01",
-      "track": "Echoes From A Distant Future",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "su01",
-        "track": "Echoes From A Distant Future",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact emerging-artist track within a deep/hypnotic and classic-raw frame; the title supplies no sonic evidence.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 7:00 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity without treating title, artist novelty or compilation position as proof of form.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 7:00."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the current deep/hypnotic frame develops transformation into consolidation or postpones it."
-          },
-          {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate can articulate the closing character shift without crowding it."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Inter Gritty",
-      "track": "Hycean Habitat",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Inter Gritty",
-        "track": "Hycean Habitat",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact track within a deep, hypnotic and raw techno set; no track-specific mechanics are documented.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 6:55 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve a current exact identity while keeping its rhythmic mechanism, endpoint and handoffs explicitly unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 6:55."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
             "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current frame changes the instability-to-reassembly hinge or compounds it."
-          },
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate develops restrained re-entry into the afterword or delays closure."
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether the identity changes the reassembly problem without invented sonic claims."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Human Beats"
       }
     },
     {
-      "artist": "Viels",
-      "track": "PLM",
+      "artist": "Procombo",
+      "track": "Groove Operator (Extended Mix)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Viels",
-        "track": "PLM",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
+        "album": "Not Alone EP",
+        "artist": "Procombo",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within Particle Audio's unrestricted experimental-to-peak-time scope; it does not isolate the track's form.",
+        "discoverySource": "https://wearethebraveofficial.bandcamp.com/album/not-alone-ep",
         "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:55 track within a project spanning experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity without transferring album-level range claims into track-specific sonic facts.",
+          "attributedDescription": "We Are The Brave verifies the exact 5:11 extended mix in a raw/deep/hypnotic techno release.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:11."
+          ]
+        },
+        "fitHypothesis": "A current functional-groove hypothesis, not proof of energy or sequence fit.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "purpose": "Test whether a functional groove clarifies rhythmic permission or postpones it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "purpose": "Test whether the groove frame develops or crowds the protected threshold."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Groove Operator (Extended Mix)"
+      }
+    },
+    {
+      "artist": "Extra Medium",
+      "track": "My Sound (Instrumental)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "My Sound",
+        "artist": "Extra Medium",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thickboyrecords.bandcamp.com/album/my-sound",
+        "evidence": {
+          "attributedDescription": "Thick Boy verifies the exact 3:34 instrumental and its UK-garage, bassline, swing-and-bass and house context.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 3:34."
+          ]
+        },
+        "fitHypothesis": "The same-day instrumental counterpart can be resolved without assuming the main version's vocal role.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether a concise instrumental bass/garage change clarifies or mediates the live-band return."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "purpose": "Test whether the instrumental supplies a proportionate final character turn."
+          }
+        ],
+        "releaseDate": "2026-09-12",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "My Sound (Instrumental)"
+      }
+    },
+    {
+      "artist": "Colomboi",
+      "track": "Need",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Alchemy",
+        "artist": "Colomboi",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://illegalalienrecords.bandcamp.com/album/alchemy",
+        "evidence": {
+          "attributedDescription": "Illegal Alien verifies the exact 5:55 track and the EP's rolling, hypnotic, melodic and atmospheric frame.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
             "Official duration: 5:55."
           ]
         },
+        "fitHypothesis": "An exact current cut within a release moving among groove, melody, tension and atmosphere.",
         "proposedPlacements": [
           {
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether another unrestricted-techno stage clarifies or weakens the cold-open rupture into assembly."
+            "position": "Between Hypnic Jerks and Tides Alternate",
+            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "purpose": "Test whether the current deep/melodic frame changes the rupture-to-drift passage."
           },
           {
-            "position": "Between Same Way and U BelongRESS 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the candidate changes the pressure-to-threshold passage or merely occupies it."
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether groove/atmosphere develops the unstable directional hinge."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Need"
       }
     },
     {
-      "artist": "Viels",
-      "track": "SML",
+      "artist": "Yunx",
+      "track": "Moor Sanali",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Viels",
-        "track": "SML",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
+        "album": "Iconiconical",
+        "artist": "Yunx",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within a project dedicated to creative freedom across experimental and peak-time territory; individual structure remains undocumented.",
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
         "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:25 track within a project spanning experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve a catalogue identity for serious evaluation without inferring its internal design from label framing.",
+          "attributedDescription": "Neo Ouija verifies the exact 5:12 late-album track; individual form remains undocumented.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:25."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:12."
           ]
         },
+        "fitHypothesis": "A current electro/IDM lead retained cautiously without candidate-specific sonic claims.",
         "proposedPlacements": [
           {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate develops or interrupts the rhythm-to-dissonance and temporal-strain relation."
-          },
-          {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate sharpens formation-to-deformation or adds another formed stage."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Lee Holman",
-      "track": "Sonic Borders",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Lee Holman",
-        "track": "Sonic Borders",
-        "album": "Sonic Borders EP",
-        "releaseDate": "2023-06-16",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006",
-        "fitHypothesis": "The official catalogue page verifies the exact title track within a four-track deep and spaced-out techno release; no individual structure is described.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 5:35 title track within a release described as deep and spaced-out techno.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve an overlooked exact identity and test whether it can develop an existing passage without inferring space or energy from release metadata.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:35."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an overlooked deep-techno cut changes the crooked-accumulation-to-surge passage."
-          },
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the title track can follow the protected block without displacing the existing character pivot."
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether an electro/IDM turn follows the protected block without displacing Migration."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether the identity clarifies or weakens the live-band return."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Moor Sanali"
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "artist": "Extra Medium",
+      "track": "My Sound",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-12\" but Spotify returned \"2026-02-12\""
+    }
+  ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Dj Sodeyama",
-        "track": "Atlas",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
+        "album": "Iconiconical",
+        "artist": "Yunx",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact track within a four-cut set combining deep and hypnotic research with classic raw techno sounds; no track-specific form is described.",
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
         "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 7:08 track within a current four-cut compilation combining deep and hypnotic research with classic raw techno sounds.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test a current exact identity for a deliberate raw/deep character move while keeping its individual structure and handoffs unknown.",
+          "attributedDescription": "Neo Ouija verifies the exact 8:50 opener; its catalogue frame cites Detroit techno, IDM and electro.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 7:08."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 8:50."
           ]
         },
+        "fitHypothesis": "A long current opener in a Detroit-techno/IDM/electro label frame; individual construction is undocumented.",
         "proposedPlacements": [
           {
-            "position": "Between Foundry and Worn Down",
-            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current raw/deep frame develops the unstable-directional hinge into weight-shifted motion."
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether a long electro/IDM change makes the live-band return legible or dilutes it."
           },
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "candidateBpm": null,
             "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a current deep-techno character move develops or crowds the closing corridor."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Viels",
-        "track": "PDP",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within a project framed as total creative freedom across experimental depths and peak-time energy; it does not identify this track's individual position in that range.",
-        "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:43 track within a project framed as total creative freedom across experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether the exact identity can sharpen an existing formation or pivot without inferring which end of the release's range it occupies.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:43."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the Particle Audio freedom frame develops or delays the formation-to-deformation passage."
-          },
-          {
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate deepens the pivot into intensification or inserts another complete stage."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Lee Holman",
-        "track": "Sonic Movement",
-        "album": "Sonic Borders EP",
-        "releaseDate": "2023-06-16",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006",
-        "fitHypothesis": "The official catalogue page verifies the exact track within a four-track release described as deep and spaced-out techno; its individual movement is not documented.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 6:44 track within a four-track release described as deep and spaced-out techno.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test an overlooked exact identity for continuation or release without inferring its energy, space, endpoint or mixability from release framing.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 6:44."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an overlooked deep-techno turn develops the opposed-speed balance into widening."
-          },
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a deep/spaced catalogue cut can follow the protected block without displacing Migration's deliberate pivot."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Lowsystem",
-        "track": "Cantilever",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact emerging-artist track within its deep, hypnotic and raw techno frame; no individual form is described.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 5:26 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve an emerging exact identity and test placement while keeping track-specific structure and endpoint unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:26."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the current compilation frame deepens consolidation before Style Teef's fault line or delays it."
-          },
-          {
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a deep/raw character move makes the descent-to-re-entry relation deliberate."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "su01",
-        "track": "Echoes From A Distant Future",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact emerging-artist track within a deep/hypnotic and classic-raw frame; the title supplies no sonic evidence.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 7:00 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity without treating title, artist novelty or compilation position as proof of form.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 7:00."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the current deep/hypnotic frame develops transformation into consolidation or postpones it."
-          },
-          {
             "position": "Between Migration and Eyes of the Wind",
             "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate can articulate the closing character shift without crowding it."
+            "purpose": "Test whether the long-form opener develops or crowds the closing corridor."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Be Bop to the Shop"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Inter Gritty",
-        "track": "Hycean Habitat",
-        "album": "Various Artist 008",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
+        "album": "My Sound",
+        "artist": "Extra Medium",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/various-artist-008",
-        "fitHypothesis": "The official current compilation verifies the exact track within a deep, hypnotic and raw techno set; no track-specific mechanics are documented.",
+        "discoverySource": "https://thickboyrecords.bandcamp.com/album/my-sound",
         "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 6:55 track within its current deep, hypnotic and raw techno compilation.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve a current exact identity while keeping its rhythmic mechanism, endpoint and handoffs explicitly unknown.",
+          "attributedDescription": "Thick Boy verifies the exact 3:34 main version and supplies UK-garage, swing-and-bass, bassline and house tags.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 6:55."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 3:34."
           ]
         },
+        "fitHypothesis": "A same-day main version in a UK-garage, swing-and-bass, bassline and house frame; exact form is unknown.",
         "proposedPlacements": [
           {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the current frame changes the instability-to-reassembly hinge or compounds it."
-          },
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
             "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the candidate develops restrained re-entry into the afterword or delays closure."
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "purpose": "Test whether a concise UK-bass turn is proportionate before the afterword."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "purpose": "Test whether the bass/garage frame develops or crowds the protected threshold."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-12",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "My Sound"
+      },
+      "spotifyTrackId": "6e5cYxIizeHsQWhVFOM0LT",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Not Alone EP",
+        "artist": "Procombo",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://wearethebraveofficial.bandcamp.com/album/not-alone-ep",
+        "evidence": {
+          "attributedDescription": "We Are The Brave verifies the exact 5:12 extended mix and its raw, deep and hypnotic techno release context.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:12."
+          ]
+        },
+        "fitHypothesis": "An exact current pressure hypothesis inside a raw/deep/hypnotic techno release; individual structure is undocumented.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether pressure develops the direct-to-abundant passage rather than extending function."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether pressure changes or duplicates the rupture-to-instability run."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Rolling Pressure (Extended Mix)"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Viels",
-        "track": "PLM",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
+        "album": "Alchemy",
+        "artist": "Colomboi",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within Particle Audio's unrestricted experimental-to-peak-time scope; it does not isolate the track's form.",
+        "discoverySource": "https://illegalalienrecords.bandcamp.com/album/alchemy",
         "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:55 track within a project spanning experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity without transferring album-level range claims into track-specific sonic facts.",
+          "attributedDescription": "Illegal Alien verifies the exact 6:22 closer in an EP described through rolling rhythm, chords, hypnotic elements and atmospheric variation.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 6:22."
+          ]
+        },
+        "fitHypothesis": "A current closing cut from an EP moving between driving grooves and atmospheric passages.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "purpose": "Test whether a groove/atmosphere closer orients the move into instability."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether a driving/atmospheric closer develops or crowds the late corridor."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Axis of Fate"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Iconiconical",
+        "artist": "Yunx",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
+        "evidence": {
+          "attributedDescription": "Neo Ouija verifies the exact 4:55 track; no individual structural description is supplied.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 4:55."
+          ]
+        },
+        "fitHypothesis": "A current electro/IDM catalogue cut with no candidate-specific sonic claim.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether the electro/IDM frame complicates or occupies the formation-to-deformation passage."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether the identity changes the reassembly problem without invented sonic claims."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Human Beats"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Not Alone EP",
+        "artist": "Procombo",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://wearethebraveofficial.bandcamp.com/album/not-alone-ep",
+        "evidence": {
+          "attributedDescription": "We Are The Brave verifies the exact 5:11 extended mix in a raw/deep/hypnotic techno release.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:11."
+          ]
+        },
+        "fitHypothesis": "A current functional-groove hypothesis, not proof of energy or sequence fit.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "purpose": "Test whether a functional groove clarifies rhythmic permission or postpones it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "purpose": "Test whether the groove frame develops or crowds the protected threshold."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Groove Operator (Extended Mix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "My Sound",
+        "artist": "Extra Medium",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thickboyrecords.bandcamp.com/album/my-sound",
+        "evidence": {
+          "attributedDescription": "Thick Boy verifies the exact 3:34 instrumental and its UK-garage, bassline, swing-and-bass and house context.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 3:34."
+          ]
+        },
+        "fitHypothesis": "The same-day instrumental counterpart can be resolved without assuming the main version's vocal role.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether a concise instrumental bass/garage change clarifies or mediates the live-band return."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "purpose": "Test whether the instrumental supplies a proportionate final character turn."
+          }
+        ],
+        "releaseDate": "2026-09-12",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "My Sound (Instrumental)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Alchemy",
+        "artist": "Colomboi",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://illegalalienrecords.bandcamp.com/album/alchemy",
+        "evidence": {
+          "attributedDescription": "Illegal Alien verifies the exact 5:55 track and the EP's rolling, hypnotic, melodic and atmospheric frame.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
             "Official duration: 5:55."
           ]
         },
+        "fitHypothesis": "An exact current cut within a release moving among groove, melody, tension and atmosphere.",
         "proposedPlacements": [
           {
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether another unrestricted-techno stage clarifies or weakens the cold-open rupture into assembly."
+            "position": "Between Hypnic Jerks and Tides Alternate",
+            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "purpose": "Test whether the current deep/melodic frame changes the rupture-to-drift passage."
           },
           {
-            "position": "Between Same Way and U BelongRESS 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
             "candidateBpm": null,
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the candidate changes the pressure-to-threshold passage or merely occupies it."
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether groove/atmosphere develops the unstable directional hinge."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Need"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Viels",
-        "track": "SML",
-        "album": "Audio Catalouge 001 (Particle Audio)",
-        "releaseDate": "2026-06-10",
-        "spotifyTrackId": null,
+        "album": "Iconiconical",
+        "artist": "Yunx",
         "bpm": null,
         "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio",
-        "fitHypothesis": "The official release verifies the exact track within a project dedicated to creative freedom across experimental and peak-time territory; individual structure remains undocumented.",
+        "discoverySource": "https://neoouija.bandcamp.com/album/iconiconical",
         "evidence": {
-          "attributedDescription": "The official Particle Audio release verifies the exact 5:25 track within a project spanning experimental depths and peak-time energy.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve a catalogue identity for serious evaluation without inferring its internal design from label framing.",
+          "attributedDescription": "Neo Ouija verifies the exact 5:12 late-album track; individual form remains undocumented.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:25."
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 5:12."
           ]
         },
+        "fitHypothesis": "A current electro/IDM lead retained cautiously without candidate-specific sonic claims.",
         "proposedPlacements": [
           {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate develops or interrupts the rhythm-to-dissonance and temporal-strain relation."
-          },
-          {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate sharpens formation-to-deformation or adds another formed stage."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Lee Holman",
-        "track": "Sonic Borders",
-        "album": "Sonic Borders EP",
-        "releaseDate": "2023-06-16",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006",
-        "fitHypothesis": "The official catalogue page verifies the exact title track within a four-track deep and spaced-out techno release; no individual structure is described.",
-        "evidence": {
-          "attributedDescription": "End Of Perception verifies the exact 5:35 title track within a release described as deep and spaced-out techno.",
-          "craftConvention": "Attributed exact-release and label evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve an overlooked exact identity and test whether it can develop an existing passage without inferring space or energy from release metadata.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described context only; exact Spotify identity, duration and resolver metadata remain for resolver.",
-            "Official duration: 5:35."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an overlooked deep-techno cut changes the crooked-accumulation-to-surge passage."
-          },
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
             "incomingBpm": null,
-            "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the title track can follow the protected block without displacing the existing character pivot."
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether an electro/IDM turn follows the protected block without displacing Migration."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether the identity clarifies or weakens the live-band return."
           }
-        ]
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Moor Sanali"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [],
+  "candidates": [
+    {
+      "id": "6e5cYxIizeHsQWhVFOM0LT",
+      "uri": "spotify:track:6e5cYxIizeHsQWhVFOM0LT",
+      "name": "My Sound",
+      "artists": [
+        "Extra Medium"
+      ],
+      "album": "My Sound",
+      "releaseDate": "2026-02-12",
+      "durationMs": 214000,
+      "spotifyUrl": "https://open.spotify.com/track/6e5cYxIizeHsQWhVFOM0LT",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://thickboyrecords.bandcamp.com/album/my-sound",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Can I live and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "purpose": "Test whether a concise UK-bass turn is proportionate before the afterword."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "purpose": "Test whether the bass/garage frame develops or crowds the protected threshold."
+        }
+      ],
+      "fitHypothesis": "A same-day main version in a UK-garage, swing-and-bass, bassline and house frame; exact form is unknown.",
+      "evidence": {
+        "attributedDescription": "Thick Boy verifies the exact 3:34 main version and supplies UK-garage, swing-and-bass, bassline and house tags.",
+        "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+          "Official duration: 3:34."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "My Sound",
+        "artist": "Extra Medium",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://thickboyrecords.bandcamp.com/album/my-sound",
+        "evidence": {
+          "attributedDescription": "Thick Boy verifies the exact 3:34 main version and supplies UK-garage, swing-and-bass, bassline and house tags.",
+          "craftConvention": "Attributed exact-release evidence supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test this exact identity as a deliberate character change at current canonical boundaries without presuming a seamless mix or fixed chapter role.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described context only; exact Spotify identity, resolver metadata and individual handoffs remain for resolver.",
+            "Official duration: 3:34."
+          ]
+        },
+        "fitHypothesis": "A same-day main version in a UK-garage, swing-and-bass, bassline and house frame; exact form is unknown.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "purpose": "Test whether a concise UK-bass turn is proportionate before the afterword."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "purpose": "Test whether the bass/garage frame develops or crowds the protected threshold."
+          }
+        ],
+        "releaseDate": "2026-09-12",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "My Sound"
+      }
+    }
+  ],
   "resolvedAlternates": []
 }
