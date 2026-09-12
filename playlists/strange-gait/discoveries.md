@@ -1,5 +1,77 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 171 — EXPLORE — deliberate character pivot after the protected block — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 363 contiguous unique tracks and COMPLETE 363/363 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled. The five-run no-ADD streak since Run 161 was treated as an over-filtering audit signal, not a quota.
+
+**Fresh exploration:** approximately 58 named tracks and release cuts across Pitchfork's September 11, 2026 Bonobo review, Resident Advisor's live September 12 front page and recent new-music coverage, current Ninja Tune context, adjacent Arooj Aftab / Joy Crookes / Nicole Miglis work, Bonobo's overlooked 2017 *Migration* catalogue and current inside-out boundaries. Persistent-state checks excluded Run 170 identities and previously unresolved Bonobo tracks *Talk to Me* and *Youth's Fountain*. Seven honest leads survived; the request was not padded. Sources: https://pitchfork.com/reviews/albums/bonobo-distance-in-static/ ; https://ra.co/ ; https://pitchfork.com/reviews/albums/22710-migration/
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T07:50:41Z-explore-171` was written once from `72039d40e9f5b3fe88f56024b5617d28b8341c1f` at commit `d382dd170340f930504f3e3f8c32bbc805b9d3ee`. Matching resolver output at `2026-09-12T07:55:40.447Z`, commit `fa9a89bac5d19aa584cc47c464c53535e725bce3`, fingerprint `b2a0eacf6408ba817b29a3c77890c761ef7d735c3b7c730efb7028ce67b92bbf`: 7 requested, 4 exact resolutions, 3 selected evaluations, 1 unselected alternate and 3 unresolved; `PARTIAL`. No duplicate, substitution, relinking or technical failure.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Bonobo, Arooj Aftab — *Fire on the Water*: `no exact Spotify title/artist search match in market SE`
+- Bonobo — *Me and You*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3K3yAN6QVsLNM3tNkn8zuo, 5HGwvPsWH0NmXdAgUz3JMx, 3KhX57rQ8mhtbKiq2tyev3, 3HP8BrBwp7YT9eFypijQWE, 53SBEKyl1Pvq93q8d6KuKs)`
+- Bonobo, Joy Crookes — *Always on Your Side*: `no exact Spotify title/artist search match in market SE`
+
+Exact unselected and unevaluated alternate:
+
+- Bonobo — *Uncasually* — `spotify:track:23XvXxNvhca5O77qJoVmew`
+
+Warnings preserved exactly:
+
+- Bonobo — *Outlier*: `Exact title/artist matched with release metadata variance: release date requested "2017" but Spotify returned "2017-01-13"`
+- Bonobo — *Migration*: `Exact title/artist matched with release metadata variance: release date requested "2017" but Spotify returned "2017-01-13"`
+- Bonobo — *ID700*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-11"`
+- Bonobo — *Uncasually*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-11"`
+
+### Bonobo — Migration — `spotify:track:61g7oQKm8DFEL7r2g9LS8x`
+
+- **Volume fit:** PASS. Pitchfork documents the exact 5:27 track opening through post-classical piano before an Amen-like drum break arrives midway. That structural change is a lawful selection-lens reason; the artist's reputation and stylistic novelty are not.
+- **Immediate transition:** PASS provisionally at `Stardancer → Migration → Eyes of the Wind`. The move from the protected block into piano is intentionally conspicuous, and the documented midway break prevents the track from functioning as a static interlude. Exact entry, exit, endpoint and mixability remain unknown, so this is not a seamless-transition claim.
+- **Surrounding three-to-five-track run:** PASS provisionally. `When We Froze → Stardancer → Migration → Eyes of the Wind → Nukumori` now leaves the protected internal handoffs untouched, then crosses an explicit piano-to-break character pivot before the existing liminal-percussion passage and flare. The run changes production worlds but does not feel arbitrary at the available evidence level.
+- **Long-form journey:** PASS provisionally. At 5:27, the addition is a real proportional cost, but it gives the late journey one deliberate opening-out after the protected block rather than extending another earlier accumulation or pressure stage.
+- **Verdict:** **ADD** after Len Faki — *Stardancer* and before Azu Tiwaline — *Eyes of the Wind*. The separate `Worn Down → candidate → Hypnic Jerks` placement is rejected because piano-to-break drama would add another large turn immediately before the established acceleration crisis.
+
+### Bonobo — Outlier — `spotify:track:6BbFwwHnzY74a8GOsDg8Sn`
+
+- **Volume fit:** PASS as a candidate. Pitchfork documents a nearly eight-minute shuffling gallop leaving downtempo behind, followed by breakdown and slowly disintegrating comedown.
+- **Immediate transition:** REJECT at `Freepass for Them → candidate → Moonwake` and `Elemental Dream → candidate → Truth in Noise`. In the first, the candidate installs a complete drive-to-disintegration arc between an existing pivot and intensification. In the second, its disintegrating comedown duplicates the self-stripping motion already assigned before consolidation.
+- **Surrounding three-to-five-track run:** FAIL at both placements. The early run becomes over-articulated before *Moonwake* and the late-middle run repeats reduction before *Truth in Noise*.
+- **Long-form journey:** FAIL for these placements. The exact 7:55 duration is material, and the complete internal arc does not improve proportionality enough to justify that cost.
+- **Verdict:** **REJECT both tested placements only**, not globally. Retain as genuinely interesting.
+
+### Bonobo — ID700 — `spotify:track:3SyiwKSFhhIAz1Bb89ihdF`
+
+- **Volume fit:** PASS at the adjacent edge. Pitchfork identifies the exact 3:56 track as a sleek cosmic interlude, but does not establish individual direction or endpoint.
+- **Immediate transition:** REJECT at `Tides Alternate → candidate → Too Much Time` and `Stardancer → candidate → Eyes of the Wind`. The first interrupts opposed-speed balance before widening without track-specific evidence of a beneficial reset. The second adds an underdescribed preface where *Migration* supplies the stronger documented character pivot.
+- **Surrounding three-to-five-track run:** FAIL at both placements. The interlude adds another stage to already legible local relations without enough exact-track structure to explain the insertion.
+- **Long-form journey:** FAIL for these placements. Its concision limits cost but does not outweigh the weaker evidence.
+- **Verdict:** **REJECT both tested placements only**, not globally. Retain as genuinely interesting.
+
+The three unresolved leads receive no musical verdict. *Uncasually* was not selected or evaluated.
+
+### Over-filtering check
+
+The five preceding completed EXPLORE runs repeatedly required candidates to leave a successor a new task. That is one useful test, not a universal admission rule. *Migration* passes because its documented internal change makes the post-block shift deliberate at transition, five-track-run and long-form scales even though no downstream problem is invented. *Outlier* and *ID700* still fail for candidate-specific proportional or evidence reasons. The ADD bar was not lowered and the drought was not treated as a quota.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA; the matching PARTIAL snapshot has the correct schemaVersion, runId, sourceCommit and fingerprint; 7 requested identities reconcile to 4 exact resolutions and 3 unresolved outcomes; all four warnings and exact resolver errors are preserved. Only the three selected exact identities entered evaluation. Each received separate volume, immediate-transition, local-run and long-form conclusions. UNKNOWN was preserved, BPM was not used as energy, and the conspicuous *Migration* placement was judged at all scales rather than rejected for sonic difference. The protected internal order remains intact. Auditor approves one canonical ADD, two placement-specific REJECT candidates, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **46 → 47 canonical tracks**; add Bonobo — *Migration* after *Stardancer* and before *Eyes of the Wind*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`, now at positions 39–41.
+- Local inspiration: all three selected exact tracks retained; three unresolved leads retained for research; *Uncasually* remains an unevaluated exact alternate.
+- EDITORIAL ENGINE — DISCOVERY POOL: **363 → 366 exact tracks**, adding *Migration*, *Outlier* and *ID700*.
+- Journey annotations: add *Migration* as a provisional post-block piano-to-break character pivot. Generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 58 inspected → 7 ranked leads → 4 exact resolutions + 3 unresolved → 3 selected evaluations + 1 unevaluated alternate → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **12.1%**, lead-to-resolution conversion **57.1%**, and selected-candidate-to-ADD conversion **33.3%**. Across completed discovery Runs 87–171, excluding process repairs and failed Runs 164 and 167: **702 leads from approximately 4,038 inspections; 32 ADDs from 218 selected candidates**. The recent comparable ADD rate becomes **3/10**. Run 171 ends the five-completed-run no-ADD streak since Run 161. The result supports the over-filtering correction—an intentional character pivot can pass without an invented successor problem—while two distinct failures show that no quota or blanket relaxation was applied. It does not prove exact handoffs, endpoint, perceived pulse, energy, density, space, phrase fit, mixability or playlist completion.
+
 ## Run 170 — EXPLORE — reconstructed performance and downstream consequence — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map, and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 360 contiguous unique tracks and COMPLETE 360/360 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.

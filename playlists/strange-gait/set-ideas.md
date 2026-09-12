@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 171
+
+### Character change can be the consequence
+
+**Direction:** Explore tracks whose documented internal form makes a conspicuous change of production world deliberate at transition, local-run and long-form scales. A candidate need not invent a new problem for its successor when the pivot itself articulates the journey.
+
+**Ingredients:**
+
+- Bonobo — *Migration* — provisional canonical ADD; piano gives way to an Amen-like break after the protected trio
+- Bonobo — *Outlier* — exact placement-specific reject; gallop-to-disintegration arc remains useful elsewhere
+- Bonobo — *ID700* — exact placement-specific reject; concise cosmic interlude remains useful elsewhere
+- Bonobo, Arooj Aftab — *Fire on the Water*; Bonobo — *Me and You*; Bonobo, Joy Crookes — *Always on Your Side* — unresolved research leads
+- Bonobo — *Uncasually* — exact unselected, unevaluated alternate
+
+**Why interesting:** Long-form flow can make a left turn legible through scale and placement even when the successor is not framed as solving a problem. This guards against both same-room sequencing and the recent habit of demanding downstream consequence from every candidate.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 170
 
 ### Reconstruction must change what follows

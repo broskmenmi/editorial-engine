@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 171 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Bonobo | Migration | https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x | Canonical ADD after *Stardancer* and before *Eyes of the Wind*; documented piano-to-Amen-break change creates a deliberate post-block character pivot. |
+| EXACT TRACK | Bonobo | Outlier | https://open.spotify.com/track/6BbFwwHnzY74a8GOsDg8Sn | Placement-specific REJECT only at both tested boundaries; exact gallop-to-disintegrating-comedown arc remains genuinely interesting elsewhere. |
+| EXACT TRACK | Bonobo | ID700 | https://open.spotify.com/track/3SyiwKSFhhIAz1Bb89ihdF | Placement-specific REJECT only at both tested boundaries; concise cosmic-interlude identity remains interesting elsewhere. |
+| RESEARCH LEAD | Bonobo, Arooj Aftab | Fire on the Water | https://pitchfork.com/reviews/albums/bonobo-distance-in-static/ | No exact Spotify title/artist match in market SE; transformed Urdu-vocal evidence retained without musical verdict. |
+| RESEARCH LEAD | Bonobo | Me and You | https://pitchfork.com/reviews/albums/bonobo-distance-in-static/ | Ambiguous exact Spotify match; tightly edited field-sample evidence retained without musical verdict. |
+| RESEARCH LEAD | Bonobo, Joy Crookes | Always on Your Side | https://pitchfork.com/reviews/albums/bonobo-distance-in-static/ | No exact Spotify title/artist match in market SE; current R&B-soul excursion retained without musical verdict. |
+| EXACT ALTERNATE | Bonobo | Uncasually | spotify:track:23XvXxNvhca5O77qJoVmew | Resolved exact identity, unselected and unevaluated; not a utility-retention decision. |
+| RELEASE / LABEL WATCH | Bonobo / Ninja Tune and adjacent collaborators | Distance in Static; Migration catalogue | https://pitchfork.com/reviews/albums/bonobo-distance-in-static/ · https://pitchfork.com/reviews/albums/22710-migration/ | Current and overlooked window for internal form changes across piano, breaks, vocal transformation and club-oriented production. |
+
+### Placement and inspiration boundaries
+
+- *Migration* is provisional; exact entry, exit, endpoint, perceived pulse, energy, density, space, phrase fit and mixability remain unknown.
+- *Outlier* and *ID700* are not globally rejected.
+- Three unresolved identities receive no verdict and do not enter the global utility ledger.
+- *Uncasually* was not selected or evaluated and does not enter the global utility ledger.
+- Packaging/date warnings are preserved exactly in discoveries.md.
+
 ## Run 170 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

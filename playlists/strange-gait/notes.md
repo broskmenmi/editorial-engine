@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 171 — EXPLORE — a deliberate post-block character pivot
+
+Bonobo — *Migration* (`spotify:track:61g7oQKm8DFEL7r2g9LS8x`) is added between Len Faki — *Stardancer* and Azu Tiwaline — *Eyes of the Wind*. Pitchfork documents post-classical piano and an Amen-like drum break arriving midway. The placement is a conspicuous production-world change, not a seamless-transition claim: it leaves the listener-protected internal trio intact, creates a documented piano-to-break pivot, and then yields to the existing liminal-percussion passage. Volume fit, immediate purpose, the surrounding five-track run and long-form proportionality pass provisionally.
+
+Bonobo — *Outlier* (`spotify:track:6BbFwwHnzY74a8GOsDg8Sn`) and *ID700* (`spotify:track:3SyiwKSFhhIAz1Bb89ihdF`) remain genuinely interesting but fail only their tested placements. *Outlier*'s complete gallop-to-disintegrating-comedown arc is too large and duplicative before either *Moonwake* or *Truth in Noise*. *ID700* is too underdescribed to interrupt *Tides Alternate → Too Much Time* and is a weaker post-block proposition than the exact structural evidence for *Migration*.
+
+Resolver `2026-09-12T07:50:41Z-explore-171`: 7 leads → 4 exact resolutions + 3 unresolved → 3 selected evaluations + 1 unselected alternate → 1 ADD + 2 placement-specific REJECT. All four packaging/date warnings and all three exact resolver errors are preserved in discoveries.md. There were no duplicates, substitutions, relinkings or technical failures.
+
+The five-run no-ADD streak exposed a repeated evaluation habit: treating “changes the successor's task” as a universal requirement. Run 171 restores the broader doctrine. A hard character pivot may pass when transition-scale intent, local-run legibility and long-form proportion all make sense; no downstream fiction is required.
+
+Auditor approves the canonical addition, five scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT becomes 47 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 366 tracks. The protected `Transparency → When We Froze → Stardancer` order remains intact.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 170 — EXPLORE — reconstructed performance versus sequence consequence
 
 No canonical track is added. Makaya McCraven with Theon Cross and Ben LaMar Gay — *Boom Bapped* (`spotify:track:1GqMyZxUbGC2owsONCYQNv`), *Gnu Blue* (`spotify:track:0ACrjHByr2GzPVTxKbDBix`) and *Technology* (`spotify:track:6Q6Lg9yJd7RUOb8K824qcK`) pass the STRANGE GAIT selection lens and remain genuinely interesting, but fail only their tested placements.

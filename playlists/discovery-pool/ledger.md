@@ -367,6 +367,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 361 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Boom Bapped | spotify:track:1GqMyZxUbGC2owsONCYQNv | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 362 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Gnu Blue | spotify:track:0ACrjHByr2GzPVTxKbDBix | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 363 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Technology | spotify:track:6Q6Lg9yJd7RUOb8K824qcK | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 364 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | STRANGE GAIT Run 171 | Canonical ADD / interesting | 2026-09-12 |
+| 365 | Bonobo | Outlier | spotify:track:6BbFwwHnzY74a8GOsDg8Sn | STRANGE GAIT Run 171 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 366 | Bonobo | ID700 | spotify:track:3SyiwKSFhhIAz1Bb89ihdF | STRANGE GAIT Run 171 | Placement-specific REJECT / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
