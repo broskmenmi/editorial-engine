@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 186
+
+### Let instability alter the passage, not merely repeat it
+
+**Direction:** Explore tracks with internal disassembly, fixed-versus-mobile opposition or off-beat funk, but grant sequence space only when that instability changes the surrounding transition, local run and long-form reading.
+
+**Ingredients:**
+
+- Benjamin Damage — *Rounded* and *Starfield* — exact placement-specific rejects retained as interesting
+- Jerical — *Airwaves* — exact placement-specific reject retained as interesting
+- Sleep D / Mosam Howieson, Mike Dehnert and Josh Wink / DJ ESP — unresolved current and catalogue fields
+- Jerical — *Better Living* and Mike Dehnert — *IV* — exact unselected alternates, not proven ingredients
+
+**Why interesting:** A track's internal instability can pass the selection lens while still repeating work already performed by an existing passage. The useful question is what the instability changes beyond itself.
+
+**Unknown / risk:** This is not a proven sequence or live-mixing edge. All six tested placements failed; four identities remain unresolved and two exact alternates were not evaluated. Handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
+
 ## Current additions — Runs 184–185
 
 ### Let internal transformation change the passage, not merely occupy it

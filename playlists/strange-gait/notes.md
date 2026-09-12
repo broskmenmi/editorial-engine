@@ -1,5 +1,14 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 186 — EXPLORE — instability must alter the passage
+
+Pre-audit found no actionable REPAIR: 50 unique canonical tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, and valid receipts.
+
+The fresh current/adjacent/catalogue scan produced nine leads. Its valid PARTIAL snapshot resolved five, selected Benjamin Damage — *Rounded*, Jerical — *Airwaves* and Benjamin Damage — *Starfield*, retained two exact unevaluated alternates, and preserved four unresolved identities plus the exact *IV* release-date warning.
+
+All three selected tracks pass the selection lens but fail only their tested placements. *Rounded* duplicates existing destabilisation, *Airwaves* adds another internally contested formation before an existing anchor or swung proposition, and *Starfield* crowds a closing production-world pivot or inserts another formed stage between reset and formation. STRANGE GAIT remains 50 tracks; the utility ledger retains all three. No actionable REPAIR emerges. Audio analysis and live mixing are NOT TESTED.
+
+
 ## Runs 184–185 — request failure quarantined; Oscar Later placements rejected
 
 Pre-audit found no actionable REPAIR: 50 unique tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, valid receipts.

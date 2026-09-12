@@ -390,6 +390,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 384 | Oscar Later | Wenlocked | spotify:track:4vFETIg1y83sfLZyAkvJZm | STRANGE GAIT Run 185 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 385 | Oscar Later | Air Time For Andre | spotify:track:5VfiVDHBaadc6BNMwAAdnA | STRANGE GAIT Run 185 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 386 | Oscar Later | The Moon Belongs To You | spotify:track:1Li2hrSr7VxC4FUEGquOO1 | STRANGE GAIT Run 185 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 387 | Benjamin Damage | Rounded | spotify:track:5nYgWNnUq7wkfpq28yJUFo | STRANGE GAIT Run 186 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 388 | Jerical | Airwaves | spotify:track:4vzj6ucrNaH4zNTxMehDNK | STRANGE GAIT Run 186 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 389 | Benjamin Damage | Starfield | spotify:track:6si85UBbdmObmkMjwnvs5Y | STRANGE GAIT Run 186 | Placement-specific REJECT / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,69 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 186 — EXPLORE — instability must alter the passage — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 386 contiguous unique tracks and a COMPLETE 386/386 receipt. No objective repair was actionable.
+
+**Exploration:** Approximately 63 named current tracks, EPs, reissues and catalogue cuts were inspected across Juno's current techno list, Resident Advisor's current review index, official Mind Medizin, Butter Sessions and Renegade Methodz pages, and overlooked 1995/2008 material. Prior-run and persistent identities were excluded; nine honest leads survived.
+
+**Run:** `2026-09-12T17:51:27Z-explore-186`; source `aaeb733a03bc17a86c6f7fe9bbf3c0985fa1edae`; request `881140ee6d47d5822d7fd577d5208414dc73e835`; snapshot `a3c3f2253a3318f0c156ca10147b32b15394a30d`; fingerprint `25f6bcaf24fb20faddfaff96ace02d9a326cf3ece619a32dd81b4f3c382ac86f`. The matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: 9 requested, 5 exact resolutions, 3 selected candidates, 2 unselected alternates and 4 unresolved identities; no duplicates, substitutions, relinkings or technical failures.
+
+### Canonical evaluations
+
+#### Benjamin Damage — Rounded — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:5nYgWNnUq7wkfpq28yJUFo`; 5:52; Spotify album `Starfield EP`; 2026-08-28.
+- **Volume fit:** PASS. Juno attributes a loss of structural stability through scuttling sounds and roughshod rhythms.
+- **Immediate transition:** FAIL at both tested boundaries. `Fragments → candidate → Drummz` duplicates disassembly before the existing instability hinge; `Style Teef → candidate → Same Way` repeats loss of form immediately after an already documented grid-to-frazzled mutation.
+- **Three-to-five-track run:** FAIL. It over-articulates either `Mildew Swoosh → Fragments → candidate → Drummz → Té de Cabello Blanco` or `Truth in Noise → Style Teef → candidate → Same Way → U Belong 2 Me`.
+- **Long form:** FAIL for these placements. The candidate adds another complete destabilisation rather than changing the passage's consequence.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Jerical — Airwaves — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:4vzj6ucrNaH4zNTxMehDNK`; 5:12; Spotify album `Strange Patterns`; 2026-09-04.
+- **Volume fit:** PASS. Juno documents a synth motif locked in place while bulky drums try to break free.
+- **Immediate transition:** FAIL at both tested boundaries. `Stadium Drive → candidate → Marauder` inserts another internally contested formation between overture and anchor; `Cave → candidate → Abundance` adds a complete opposition before the existing swung proposition.
+- **Three-to-five-track run:** FAIL. The opening option lengthens `Sawa → Stadium Drive → candidate → Marauder → The Witching Hour`; the second crowds `Carried → Cave → candidate → Abundance → Foundry`.
+- **Long form:** FAIL for these placements. Internal opposition passes the lens but does not produce a proportional journey gain.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Benjamin Damage — Starfield — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:6si85UBbdmObmkMjwnvs5Y`; 5:31; Spotify album `Starfield EP`; 2026-08-28.
+- **Volume fit:** PASS. Juno documents dubby punch, twisted metal sounds and odd, off-beat funk.
+- **Immediate transition:** FAIL at both tested boundaries. `Migration → candidate → Eyes of the Wind` adds another major production-world turn to the closing pivot; `Trompe L'oeil → candidate → FELT` inserts another formed dub-funk stage between reset and formation.
+- **Three-to-five-track run:** FAIL. It crowds either `Stardancer → Migration → candidate → Eyes of the Wind → Nukumori` or `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle`.
+- **Long form:** FAIL for these placements. Character difference is allowed, but neither insertion improves proportional articulation.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+Unresolved without verdict:
+
+- Sleep D, Mosam Howieson — *Syphon Filter*: `no exact Spotify title/artist search match in market SE`
+- Sleep D, Mosam Howieson — *Mirror Pool*: `no exact Spotify title/artist search match in market SE`
+- Mike Dehnert — *One O Eight*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (49rqlrfw0PVaGoBefBz2c8, 4UKAi2qPtxJRNuKYfpuiIJ)`
+- Josh Wink, DJ ESP — *No Bologna For Me*: `no exact Spotify title/artist search match in market SE`
+
+Exact but unselected and unevaluated:
+
+- Jerical — *Better Living* — `spotify:track:4MX2LDGOGVjHL9CJukuAoS`
+- Mike Dehnert — *IV* — `spotify:track:5WmgberXUQa6WXElaSiaq9`
+
+Warning preserved exactly for *IV*: `Exact title/artist matched with release metadata variance: release date requested "2008" but Spotify returned "2008-12-21"`
+
+### Auditor approval
+
+**APPROVED.** The lane is lawful and the exploration receipt spans current, adjacent/emerging and overlooked catalogue windows without recycling Run 185. The immutable request and matching terminal snapshot reconcile every selected identity, alternate, unresolved result and warning. Only three selected exact identities were evaluated, separately at volume, transition, local-run and long-form scales. Unknown handoffs were not converted into failure; each rejection instead rests on a specific proportional conflict with an already articulated passage. Protected state remains intact. Auditor approves zero canonical additions, six scoped placement rejections, local inspiration retention and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **50 tracks**; protected positions 42–44 remain intact.
+- EDITORIAL ENGINE — DISCOVERY POOL: **386 → 389**, adding *Rounded*, *Airwaves* and *Starfield*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** ~63 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 selected evaluations + 2 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion: **14.3%**; lead-to-resolution: **55.6%**; selected-to-ADD: **0/3**. Across completed discovery Runs 87–186, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **783 leads from approximately 4,587 inspections; 35 ADDs from 241 selected candidates**. The recent comparable ADD rate remains **4/10**; the no-ADD streak is three completed runs after Run 182, retaining eight exact interesting tracks. Candidate-specific proportional failures, a healthy lead field and mixed resolver yield do not show stagnation or an actionable REPAIR.
+
+
 ## Runs 184–185 — EXPLORE — internal transformation versus passage consequence — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 383 contiguous unique tracks and a COMPLETE 383/383 receipt. No objective repair was actionable.

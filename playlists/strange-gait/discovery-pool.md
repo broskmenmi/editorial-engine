@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 186 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Benjamin Damage | Rounded | `spotify:track:5nYgWNnUq7wkfpq28yJUFo` · https://open.spotify.com/track/5nYgWNnUq7wkfpq28yJUFo · https://www.juno.co.uk/techno/this-week/ | Documented structural disassembly remains genuinely interesting. Rejected only before *Drummz* and before *Same Way*; added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Jerical | Airwaves | `spotify:track:4vzj6ucrNaH4zNTxMehDNK` · https://open.spotify.com/track/4vzj6ucrNaH4zNTxMehDNK · https://renegademethodz.bandcamp.com/track/airwaves | Fixed motif against drums trying to break free remains genuinely interesting. Rejected only before *Marauder* and before *Abundance*; added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Benjamin Damage | Starfield | `spotify:track:6si85UBbdmObmkMjwnvs5Y` · https://open.spotify.com/track/6si85UBbdmObmkMjwnvs5Y · https://www.juno.co.uk/techno/this-week/ | Dubby odd, off-beat funk remains genuinely interesting. Rejected only before *Eyes of the Wind* and before *FELT*; added globally. |
+| EXACT ALTERNATES / UNEVALUATED | Jerical; Mike Dehnert | Better Living; IV | `spotify:track:4MX2LDGOGVjHL9CJukuAoS`; `spotify:track:5WmgberXUQa6WXElaSiaq9` | Resolver-verified alternates; not selected, evaluated, retained as verdicts or added to the utility ledger. *IV* preserves its exact release-date warning. |
+| RESEARCH LEADS | Sleep D, Mosam Howieson | Syphon Filter; Mirror Pool | https://buttersessions.com/ | Current Butter Sessions counter-motion and dub/trance-shift window; both returned Spotify-SE no matches. |
+| RESEARCH LEADS | Mike Dehnert; Josh Wink, DJ ESP | One O Eight; No Bologna For Me | https://www.juno.co.uk/techno/this-week/ | Overlooked 2008 machine-nonlinearity and 1995 chaotic-percussion leads; unresolved without verdict. |
+| RELEASE / LABEL WATCH | Mind Medizin; Butter Sessions; Renegade Methodz | Starfield EP; Syphon Filter; Strange Patterns | https://mindmedizinrecords.bandcamp.com/ · https://buttersessions.bandcamp.com/ · https://renegademethodz.bandcamp.com/track/airwaves | Current labels/releases with useful exact rhythmic and structural descriptions. |
+
+### Placement and inspiration boundaries
+
+- All three selected exact tracks pass the volume lens and remain interesting outside the six tested placements; none is globally rejected.
+- Four unresolved identities received no verdict or utility entry; two exact alternates remain unselected and unevaluated.
+- Phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior were not tested.
+
+
 ## Runs 184–185 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
