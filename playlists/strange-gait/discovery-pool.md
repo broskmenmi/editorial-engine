@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 169 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Daphni | Talk To Me | https://open.spotify.com/track/696nAjprJvJRmOEaWg6s0Q | PARKED only at *Truth in Noise → Same Way*; rejected only before *Moonwake*. Acid/vocal friction remains interesting elsewhere. |
+| EXACT TRACK | Daphni | Caterpillar | https://open.spotify.com/track/2M8PwQzULYUnDGkw5YrVlY | Placement-specific REJECT only at both tested boundaries; fuller range remains interesting elsewhere. |
+| EXACT TRACK | Daphni | Invention | https://open.spotify.com/track/1m3dWHTPWIEVewzdLSsuMM | Placement-specific REJECT only at both tested boundaries; concise eccentricity remains interesting elsewhere. |
+| RESEARCH LEAD | Carmen Villain | Blue; Entre Nosotros | https://pitchfork.com/reviews/albums/carmen-villain-memoria/ | Ambiguous exact Spotify matches; no verdict or utility addition. |
+| RESEARCH LEAD | Andrea | TrackQY; Drumzzy; Isabelle's String | https://pitchfork.com/reviews/albums/andrea-ritorno/ | No exact Spotify match in market SE; no verdict or utility addition. |
+| CATALOGUE WATCH | Carmen Villain / Daphni / Andrea | Memoria; Butterfly; Ritorno | https://pitchfork.com/reviews/albums/carmen-villain-memoria/ · https://pitchfork.com/reviews/albums/daphni-butterfly/ · https://pitchfork.com/reviews/albums/andrea-ritorno/ | Current, adjacent and overlooked windows for punctured grooves, club friction and organised rhythmic chaos. |
+
+### Placement and inspiration boundaries
+
+- *Talk To Me* is PARKED only at the first tested boundary; its second placement is rejected. *Caterpillar* and *Invention* are not globally rejected.
+- *Holding a Shape* was duplicate-suppressed as `already present in persistent state`; no new verdict or utility addition.
+- Five unresolved identities receive no verdict and do not enter the global utility ledger.
+- No selected track has established BPM, pulse, energy, density, space, phrase fit or mixability.
+
 ## Run 168 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

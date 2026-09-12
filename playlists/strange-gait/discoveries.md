@@ -1,5 +1,68 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 169 — EXPLORE — friction, range and downstream work — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map, and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 357 contiguous unique tracks and COMPLETE 357/357 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 60 named tracks and release cuts across Carmen Villain's September 2026 *Memoria* and Smalltown Supersound catalogue; Daphni's 2026 *Butterfly* and Jiaolong catalogue; Andrea's overlooked 2020 *Ritorno* and Ilian Tape catalogue; Bandcamp Daily's September 11 current-release round-up; and current inside-out boundaries. Run 168 identities were not recycled; failed Runs 164 and 167 supplied no musical verdicts. Sources: https://pitchfork.com/reviews/albums/carmen-villain-memoria/ ; https://pitchfork.com/reviews/albums/daphni-butterfly/ ; https://pitchfork.com/reviews/albums/andrea-ritorno/ ; https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T05:50:07Z-explore-169` was written once from `7af9c03e97dcd269c46469508171ce42937d2438`. Matching resolver output at `2026-09-12T05:54:41.215Z`, fingerprint `5f0138cfb58491518b2626a36c10cea6acffb0e3bbaea9cc989e6673e0febc9f`: 9 requested, 3 selected exact resolutions, 5 unresolved and 1 duplicate-suppressed; `PARTIAL`. No substitution, relinking, technical failure or alternate.
+
+Exact unresolved/duplicate outcomes:
+
+- Carmen Villain — *Blue*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5TjFJq3rC8kAWHqh9DWIlT, 5V9qTAjntRkserP71nX0V2)`
+- Andrea — *TrackQY*: `no exact Spotify title/artist search match in market SE`
+- Carmen Villain — *Entre Nosotros*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3AKq4Zsj15PD1p1djgNceT, 6iEl4Qt5gknF2UuitMt5xf)`
+- Andrea — *Drumzzy*: `no exact Spotify title/artist search match in market SE`
+- Andrea — *Isabelle's String*: `no exact Spotify title/artist search match in market SE`
+- Carmen Villain — *Holding a Shape*: `already present in persistent state`
+
+Exact warnings:
+
+- *Talk To Me*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-06"`
+- *Caterpillar*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-06"`
+- *Invention*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-02-06"`
+
+### Daphni — Talk To Me — `spotify:track:696nAjprJvJRmOEaWg6s0Q`
+
+- **Volume fit:** PASS as a candidate. Pitchfork documents acidic lines and an estranged vocal as rare abrasion inside *Butterfly*'s polished club frame. Relevance is not admission.
+- **Immediate transition:** PARKED at `Truth in Noise → candidate → Same Way`: friction could change consolidated material that *Same Way* divides, or merely interrupt it; exact direction and endpoint are undocumented. REJECT at `Freepass for Them → candidate → Moonwake`: no evidence makes *Moonwake*'s intensification need this extra stage.
+- **Three-to-five-track run:** PARKED for `Elemental Dream → Truth in Noise → candidate → Same Way → U Belong 2 Me`; the contested-consolidation hypothesis is plausible but unproved. FAIL for `Too Much Time → Freepass for Them → candidate → Moonwake → Raataja`, where it is an unsupported detour.
+- **Long-form journey:** NOT PROVEN for admission. First placement has a changed-task hypothesis without endpoint evidence; second lengthens an already articulated run without gain.
+- **Verdict:** **PARKED** only at the first boundary; **REJECT** only at the second. Retain as interesting.
+
+### Daphni — Caterpillar — `spotify:track:2M8PwQzULYUnDGkw5YrVlY`
+
+- **Volume fit:** PASS as a candidate. Pitchfork documents fuller emotional range and an unrulier edge; exact structure, energy, density and space remain unknown.
+- **Immediate transition:** REJECT at `Same Way → candidate → U Belong 2 Me` and `Can I live → candidate → Invisible Warriors Of Light`. Character is established, not a directional endpoint changing either successor.
+- **Three-to-five-track run:** FAIL. The first inserts a complete broader-range statement into the pressure-to-threshold run; the second reopens the restrained-re-entry-to-afterword close without new work.
+- **Long-form journey:** FAIL for these placements. Proportionate 3:37 duration does not establish net gain.
+- **Verdict:** **REJECT both placements only**, not globally. Retain as interesting.
+
+### Daphni — Invention — `spotify:track:1m3dWHTPWIEVewzdLSsuMM`
+
+- **Volume fit:** PASS as a candidate. Pitchfork describes a direct one-off attempt at weirdness; novelty and eccentricity are insufficient.
+- **Immediate transition:** REJECT at `FELT → candidate → Thick to Handle` and `U Belong 2 Me → candidate → Transparency`. No evidence says the 1:50 gesture changes either successor.
+- **Three-to-five-track run:** FAIL. It adds punctuation before the existing formation-to-deformation move, or interrupts the protected-block approach without a re-entry condition.
+- **Long-form journey:** FAIL for these placements. Concision limits cost but does not create consequence.
+- **Verdict:** **REJECT both placements only**, not globally. Retain as interesting.
+
+The five unresolved identities receive no musical verdict. Duplicate-suppressed *Holding a Shape* receives no new verdict or utility addition.
+
+### Auditor approval
+
+**APPROVED.** Request and matching PARTIAL snapshot align on runId, sourceCommit, mode, target and fingerprint; 9 requested = 3 selected + 5 unresolved + 1 duplicate. All exact warnings/errors are preserved. Only selected identities were evaluated separately at volume, transition, local-run and long-form scales. No BPM, pulse, energy, density, space, hypnosis, emotional effect, phrase fit or mixability was invented. The protected trio is untouched. Approved: one PARKED placement, five scoped rejections, local retention and three global utility additions; no canonical ADD.
+
+### Durable result
+
+- STRANGE GAIT unchanged at **46 canonical tracks**; no reorder.
+- Protected `Transparency → When We Froze → Stardancer` unchanged.
+- Local inspiration retains three exact Daphni tracks, five unresolved leads, the duplicate outcome and three catalogue windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **357 → 360 tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** ~60 inspected → 9 leads → 3 exact resolutions + 5 unresolved + 1 duplicate → 3 evaluations → **0 ADD + 1 PARKED placement + 5 scoped rejections** → 3 utility additions. Across completed discovery Runs 87–169, excluding repairs and failed Runs 164/167: **690 leads from ~3,918 inspections; 31 ADDs from 212 selected candidates**. Recent comparable ADD rate: **2/10**. The musical no-ADD streak is four completed runs since Run 161, with eleven exact interesting tracks retained. Resolver yield 33.3%; failures were ambiguity, Spotify-SE absence or persistent-state duplication, not technical resolver failure. No actionable REPAIR emerges.
+
 ## Run 168 — EXPLORE — formed swing versus downstream consequence — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 354 contiguous unique exact tracks and a matching COMPLETE 354/354 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.

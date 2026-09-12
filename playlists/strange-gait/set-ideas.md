@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 169
+
+### Friction must alter the next task
+
+**Direction:** Explore abrasive or eccentric club gestures only where their endpoint changes what the next selection must consolidate, transform or reopen; reject isolated contrast that merely interrupts a formed passage.
+
+**Ingredients:**
+
+- Daphni — *Talk To Me* — exact PARKED placement at *Truth in Noise / Same Way*; second placement rejected
+- Daphni — *Caterpillar* — exact placement-specific reject; broader range remains useful elsewhere
+- Daphni — *Invention* — exact placement-specific reject; one-off eccentricity remains useful elsewhere
+- Carmen Villain and Andrea — five unresolved exact-title leads across punctured dub rhythm and organised rhythmic chaos
+
+**Why interesting:** Conspicuous friction can strengthen flow when it leaves a successor a changed problem. Difference, ugliness or weirdness alone does not establish that consequence.
+
+**Unknown / risk:** Set direction, not a proven sequence or live-mixing edge. Endpoints, handoffs, pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 168
 
 ### Formed swing should change the successor's task
