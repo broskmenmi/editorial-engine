@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-12T04:52:49Z-explore-167",
-  "sourceCommit": "9384ad225cf1f3e55b51aa3b4705320f8d1c92f7",
+  "runId": "2026-09-12T05:03:30Z-explore-168",
+  "sourceCommit": "ad5ecd94753adb34a06ab8828f79e88307f307ef",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait/",
   "explorationReceipt": {
@@ -192,8 +192,8 @@
         },
         {
           "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
-          "followingUri": "spotify:track:28lWAlC6JesW07xNxjza",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
           "purpose": "Test whether its late motorik charge creates a meaningful final reorientation or overwhelms the concise afterword.",
           "candidateBpm": null,
           "incomingBpm": null,
@@ -310,7 +310,7 @@
         {
           "position": "Between Rabbit Hole and Can I live",
           "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "purpose": "Test whether its mechanistic rhythm-to-folk-memory fade gives restrained footwork re-entry new material or becomes another late transition.",
           "candidateBpm": null,
           "incomingBpm": null,
@@ -412,5 +412,7 @@
       ],
       "spotifyTrackId": null
     }
-  ]
+  ],
+  "recoveryOfRunId": "2026-09-12T04:52:49Z-explore-167",
+  "recoveryReason": "Run 167 request carried two stale, noncanonical placement URIs despite correct prose-named neighbours. The matching resolver output is ineligible and will not be evaluated. This immutable recovery preserves the same ranked leads, evidence and placement semantics while correcting only those neighbour identities from the current ledger."
 }
