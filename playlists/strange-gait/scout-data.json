@@ -1,1333 +1,1036 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "197a61d7a295d38403d26e5f1a0fa5b582b10f744256971903fba9b34304abbc",
-  "generatedAt": "2026-09-12T21:58:29.285Z",
-  "runId": "2026-09-12T21:53:50Z-explore-191",
-  "sourceCommit": "7ad0fb0f3090e882322a1dd04c784098e24b9d7f",
+  "requestFingerprint": "2aa56becabd61df99de6d8ca6b79a10fa76a1e2671bc6ae704cbab328e3ded38",
+  "generatedAt": "2026-09-12T22:58:07.974Z",
+  "runId": "2026-09-12T22:52:54Z-explore-192",
+  "sourceCommit": "266db9185e1122f4eb9d92416c6dead6ac13b440",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 59 named tracks, releases, reviews and catalogue references across the live September 2026 Boomkat, Resident Advisor and Bandcamp windows; Alexander Holm's current Stroom edition; adjacent Metempsychosis material; Planet Rhythm's 2026 catalogue; and current canonical inside-out boundaries. Written metadata and attributed descriptions only; no audio audition.",
+    "approximateInspectedScope": "Approximately 58 named tracks, releases, reviews and catalogue references across live September 2026 Juno, Boomkat, Resident Advisor and Bandcamp windows; Damage Music's current Sinee remixes; Type-303's Cold Blow debut; Max F's overlooked 2026 Peace World catalogue; and current canonical inside-out boundaries. Written metadata and attributed descriptions only; no audio audition.",
     "exclusions": [
-      "Runs 168–190 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, unselected alternates and exact utility-ledger identities were excluded.",
-      "Already-recorded Carmen Villain, Loidis, Ploy, Mark Fell, December, D1, Confusion and other recent fields were excluded from the request even where current coverage recurred.",
+      "Runs 169–191 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, unselected alternates and exact utility-ledger identities were excluded.",
+      "The immediately prior Stroom, Metempsychosis and Planet Rhythm fields were excluded, as were already-recorded Alexander Holm, Flaminia and Jon Head identities.",
       "The scan covered current releases, adjacent/emerging artists and labels, and overlooked catalogue material. Nine exact-title leads survived without padding.",
-      "Every placement pair was re-derived from the current 51-track ledger and checked for adjacency and prose agreement. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
+      "Every placement pair was re-derived from the current 52-track ledger and checked for adjacency and prose agreement. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Alexander Holm — Egue Into Hs",
-      "2. Flaminia — The Sahara (Caco Menegaz Live Didgeridoo)",
-      "3. Jon Head — Keysweet",
-      "4. Flaminia — Confrontation",
-      "5. Jon Head — Broken Bells",
-      "6. Alexander Holm — News",
-      "7. Flaminia — Intention",
-      "8. Jon Head — Damage Flux",
-      "9. Alexander Holm — It's Time"
+      "1. Alexander Kowalski — Sinee (GZI Remix)",
+      "2. Max F — Soul Control",
+      "3. Type-303 — Calypso of Acid",
+      "4. Alexander Kowalski — Sinee (SMBR Remix)",
+      "5. Max F — Zone 6",
+      "6. Type-303 — Module 303",
+      "7. Alexander Kowalski — Sinee (Sven Köhne Remix)",
+      "8. Max F — Dub Select",
+      "9. Type-303 — Paradise"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Boomkat and Stroom/Word and Sound supplied Alexander Holm's current Dial / Head Stroll edition and exact-track construction for Egue Into Hs. https://boomkat.com/products/dial-head-stroll · https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-      "ADJACENT / EMERGING WINDOW: Metempsychosis supplied Flaminia's May 8, 2026 Samskaras EP, exact durations, live-didgeridoo credit and pattern/break-open concept. https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-      "OVERLOOKED CATALOGUE WINDOW: Planet Rhythm and Beatport supplied Jon Head's February 2026 Broken Bells EP, exact titles, durations and measured tempos. https://planetrhythm.bandcamp.com/album/broken-bells-ep · https://www.beatport.com/artist/jon-head/1172132/tracks"
+      "CURRENT RELEASE WINDOW: Damage Music, Juno and Clone supplied Alexander Kowalski's September 2026 Sinee remix package and exact GZI construction. https://damagemusicberlin.bandcamp.com/album/sinee-remixes · https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/ · https://clone.nl/all/artist/Alexander%2BKowalski",
+      "ADJACENT / EMERGING WINDOW: Cold Blow and current retailer listings supplied Type-303's September 2026 Enigmatic Dreams debut, exact track titles and cross-era acid/house frame. https://coldblowrecords.bandcamp.com/track/module-303 · https://www.deejay.de/Type-303_Enigmatic_Dreams_BLOW24_Vinyl__1263869",
+      "OVERLOOKED CATALOGUE WINDOW: Peace World, Boomkat and Apple Music supplied Max F's April 2026 Hidden Atmospheres, exact titles/durations and the co-described percussion-and-bass construction. https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres · https://boomkat.com/products/hidden-atmospheres · https://music.apple.com/gb/album/hidden-atmospheres/1882112933"
     ],
-    "timestampUtc": "2026-09-12T21:53:50Z"
+    "timestampUtc": "2026-09-12T22:52:54Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 9,
+  "resolvedCount": 3,
   "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "artist": "Alexander Holm",
-      "track": "Egue Into Hs",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Dial / Head Stroll\" but Spotify returned \"Dial\"; release date requested \"2026-09-04\" but Spotify returned \"2026-08-18\""
-    },
-    {
-      "artist": "Flaminia",
-      "track": "The Sahara (Caco Menegaz Live Didgeridoo)",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Samskaras (feat. Benas BAR & Caco Menegaz)\" but Spotify returned \"Samskaras\""
-    },
-    {
-      "artist": "Flaminia",
-      "track": "Confrontation",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Samskaras (feat. Benas BAR & Caco Menegaz)\" but Spotify returned \"Samskaras\""
-    },
-    {
-      "artist": "Alexander Holm",
-      "track": "News",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Dial / Head Stroll\" but Spotify returned \"Dial\"; release date requested \"2026-09-04\" but Spotify returned \"2026-08-18\""
-    },
-    {
-      "artist": "Flaminia",
-      "track": "Intention",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Samskaras (feat. Benas BAR & Caco Menegaz)\" but Spotify returned \"Samskaras\""
-    },
-    {
-      "artist": "Alexander Holm",
-      "track": "It's Time",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Dial / Head Stroll\" but Spotify returned \"Dial\"; release date requested \"2026-09-04\" but Spotify returned \"2026-08-18\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
+      "artist": "Alexander Kowalski",
+      "track": "Sinee (GZI Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/dial-head-stroll",
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/track/sinee-gzi-remix",
         "evidence": {
-          "attributedDescription": "Boomkat describes this exact track as a slow-motion, worn house experiment combining electro-acoustic saturation with one unrelenting kick; the current Stroom edition confirms the title.",
+          "attributedDescription": "Juno's current review identifies the GZI remix as the set's broken, nearly 2-step techno renegade; Damage Music confirms the exact title, 5:37 duration and September 4, 2026 release.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Word and Sound lists the current edition for September 4, 2026.",
-            "The source describes construction but not exact handoffs, phrase fit or mixability."
+            "Official duration 5:37 and release date September 4, 2026.",
+            "Exact BPM, phrase fit, perceived pulse, endpoints and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A single fixed kick beneath unstable electro-acoustic material is a direct form-versus-grid proposition, but does not itself prove sequence gain.",
+        "fitHypothesis": "The documented break from the original dub-techno grid toward a nearly 2-step construction makes this a direct form-resistance lead; placement value remains separate.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tender Is The Night and Cave",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "purpose": "Test whether the fixed kick gives early suspension a purposeful exit into widening or inserts another suspended world."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Trompe L'oeil and FELT",
             "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether the conspicuous slow-house/electro-acoustic turn makes reset yield to formation or delays that relation."
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          },
+          {
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
           }
         ],
         "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Egue Into Hs"
-      },
-      "spotifyTrackId": "2HiLKItrGfvkF6F9KjJlRV",
-      "selected": true
+        "track": "Sinee (GZI Remix)"
+      }
     },
     {
-      "status": "RESOLVED",
+      "artist": "Type-303",
+      "track": "Calypso of Acid",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
         "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 6:53 exact track and live didgeridoo contribution within a broken-techno EP whose stated concept concerns repeated patterns forming and occasionally breaking open.",
+          "attributedDescription": "Cold Blow and current retailer listings confirm the exact title within Type-303's six-track release, framed across late-1980s acid, Italian dream house and early-1990s Balearic influences using 303, 808 and piano timbres.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 6:53; released May 8, 2026.",
-            "Exact rhythmic direction, endpoint, handoffs and mixability remain unknown."
+            "Cold Blow lists the digital release for September 4, 2026.",
+            "Individual direction, endpoint, BPM, perceived pulse and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "The exact live-instrument intervention and pattern/break context make this an honest form-resistant lead; the release concept cannot establish the track's full individual arc.",
+        "fitHypothesis": "The adjacent acid/house vocabulary is credible for the selection lens, but title and release framing do not establish the individual track's form or sequence consequence.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Raataja and Crawl",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test whether the live-instrument intervention changes burst-and-disappearance into sustained motion or adds another isolated left turn."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether it gives dissolution a bodily re-entry before temporal strain or crowds an already consequential passage."
-          }
-        ],
-        "releaseDate": "2026-05-08",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "The Sahara (Caco Menegaz Live Didgeridoo)"
-      },
-      "spotifyTrackId": "0ajHfA26eBJD08ccmHxVhJ",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 140,
-        "bpmSource": "https://www.beatport.com/track/t/23963017",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-        "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 5:03 track on Jon Head's Broken Bells EP; Beatport classifies the exact mix as raw/deep/hypnotic techno and reports 140 BPM.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Beatport reports 140 BPM; Planet Rhythm reports 5:03 and February 13, 2026.",
-            "Energy, density, hypnosis, exact structure, phrase fit and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "The exact contemporary techno identity is a credible less-conspicuous candidate; genre and tempo remain context rather than evidence of energy or flow.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": 140,
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
-            "outgoingBpm": null,
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test whether a measured 140 BPM techno stage turns crooked accumulation toward Roxellana or merely adds another complete lock."
-          },
-          {
-            "candidateBpm": 140,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether it changes unpredictability into reassembly or smooths over a useful instability-to-false-stability relation."
-          }
-        ],
-        "releaseDate": "2026-02-13",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Keysweet"
-      },
-      "spotifyTrackId": "1ft4GBwmmxkUh9Z5id9vrT",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-        "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 6:27 exact title on a broken-techno EP explicitly framed around grooves becoming automatic and occasionally breaking open.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 6:27; released May 8, 2026.",
-            "Individual materials, endpoint, handoffs and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "The release frame makes Confrontation a credible pattern-disruption lead, while individual form and endpoint remain undocumented.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether it develops the threshold before the programmed-organ continuum or adds another complete struggle."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Capa and Sarniezz",
             "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test whether it makes metric redirection yield purposefully to the live-band left turn or over-articulates change."
-          }
-        ],
-        "releaseDate": "2026-05-08",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Confrontation"
-      },
-      "spotifyTrackId": "6NspHFIlvsebslWNGcutEd",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 141,
-        "bpmSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-        "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 4:34 title track; Beatport reports the original mix as raw/deep/hypnotic techno at 141 BPM.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Beatport reports 141 BPM; official duration 4:34 and release date February 13, 2026.",
-            "Perceived pulse, energy, structure, endpoint and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "This is an exact measured techno lead from an overlooked 2026 catalogue pocket; its title, genre and BPM do not establish individual behavior.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": 141,
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test whether the 141 BPM proposition changes crooked accumulation into Roxellana or adds a redundant techno stage."
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
           },
           {
-            "candidateBpm": 141,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Same Way and U Belong 2 Me",
             "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether a measured techno intervention makes the pre-protected threshold deliberate or crowds the approach."
-          }
-        ],
-        "releaseDate": "2026-02-13",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Broken Bells"
-      },
-      "spotifyTrackId": "5yV9GpxjIaRmtzWlj6X3ml",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-        "evidence": {
-          "attributedDescription": "The current Stroom tracklist confirms this exact title; release credits specify cello by Cæcilie Trier within a set combining spoken word, acoustic instruments and subtle electronic processing.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The current edition is listed for September 4, 2026.",
-            "Exact duration, rhythm, direction, endpoint and mixability remain unknown from the cited sources."
-          ]
-        },
-        "fitHypothesis": "The exact acoustic/electronic identity is an adjacent structural lead, but the available evidence does not establish whether it behaves as transition, interruption or complete miniature.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
             "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tender Is The Night and Cave",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "purpose": "Test whether a short acoustic/electronic articulation makes suspension exit legibly or fragments the early held passage."
-          },
-          {
             "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it clarifies the closing pivot or adds an unsupported afterword stage."
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
           }
         ],
         "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "News"
-      },
-      "spotifyTrackId": "4hdBHvkZ4xDqrDFzuByUaN",
-      "selected": false
+        "track": "Calypso of Acid"
+      }
     },
     {
-      "status": "RESOLVED",
+      "artist": "Alexander Kowalski",
+      "track": "Sinee (SMBR Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
         "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 4:30 exact title within a broken-techno release concerned with repeated patterns and moments when those patterns break open.",
+          "attributedDescription": "Damage Music confirms the exact 7:24 remix title and September 4, 2026 release; current retailer framing describes the remix package as rhythmic, ricocheting and dubby techno.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 4:30; released May 8, 2026.",
-            "Individual rhythmic behavior, endpoint, handoffs and mixability remain unknown."
+            "Official duration 7:24.",
+            "Exact BPM, individual structure, endpoints and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "The release concept supplies a plausible volume-fit question without supplying candidate-specific form.",
+        "fitHypothesis": "A current remix of a rhythmic dub-techno source is an honest exact-title lead; the specific remix behavior remains less described than GZI's.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Trompe L'oeil and FELT",
             "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether the concise cut develops reset into formation or inserts another undocumented system."
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between backsliding and Mildew Swoosh",
             "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether it changes dissolution into temporal strain or merely delays the existing hinge."
-          }
-        ],
-        "releaseDate": "2026-05-08",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Intention"
-      },
-      "spotifyTrackId": "2Ngn5qiuMCyIxipMs07RBS",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 71,
-        "bpmSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-        "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 4:58 title; Beatport reports the original mix as raw/deep/hypnotic techno at 71 BPM.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Beatport reports 71 BPM; official duration 4:58 and release date February 13, 2026.",
-            "No half-time equivalence, energy, perceived pulse, structure or mixability is inferred."
-          ]
-        },
-        "fitHypothesis": "The exact low-number tempo makes this a potentially conspicuous measured proposition, but half-time interpretation, perceived pulse and flow must not be inferred.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": 71,
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
             "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether the measured tempo creates a purposeful threshold before continuity or an unevidenced reset."
-          },
-          {
-            "candidateBpm": 71,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it supplies a final measured pivot or overextends the closing passage."
-          }
-        ],
-        "releaseDate": "2026-02-13",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Damage Flux"
-      },
-      "spotifyTrackId": "4z9X2lgzA9FhllrdclTfmo",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-        "evidence": {
-          "attributedDescription": "The current Stroom edition confirms this exact title within a release moving among spoken word, acoustic instruments, subtle electronic processing and fragmentary pop structures.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The current edition is listed for September 4, 2026.",
-            "Individual duration, rhythmic behavior, endpoint, handoffs and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "Its exact identity belongs to an adjacent form-unstable field, but title and release context cannot establish what the individual track does.",
-        "proposedPlacements": [
-          {
             "candidateBpm": null,
-            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Raataja and Crawl",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test whether a compact acoustic/electronic fragment changes the burst-to-motion relation or distracts from it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether it articulates the threshold before the protected approach or introduces an unsupported extra stage."
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
           }
         ],
         "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "It's Time"
+        "track": "Sinee (SMBR Remix)"
+      }
+    },
+    {
+      "artist": "Type-303",
+      "track": "Module 303",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
+        "evidence": {
+          "attributedDescription": "Cold Blow confirms Module 303 as an exact track on Type-303's Enigmatic Dreams and frames the release through late-1980s acid, Italian dream house and early-1990s Balearic influences.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Digital release listed September 4, 2026.",
+            "Exact duration, BPM, form, endpoint and mixability remain unknown from the cited page."
+          ]
+        },
+        "fitHypothesis": "The exact current title comes from a cross-era acid/house release, but neither title nor equipment references prove individual behavior.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Module 303"
+      }
+    },
+    {
+      "artist": "Alexander Kowalski",
+      "track": "Sinee (Sven Köhne Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
+        "evidence": {
+          "attributedDescription": "Damage Music confirms the exact 6:12 title and release date; current retailer framing describes Sinee and its remixes as energetic, rhythmic and dubby techno.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 6:12.",
+            "Exact BPM, remix-specific structure, endpoints and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "This exact current remix is credible catalogue-adjacent techno material; current evidence is package-level rather than track-specific.",
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          },
+          {
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinee (Sven Köhne Remix)"
+      }
+    },
+    {
+      "artist": "Type-303",
+      "track": "Paradise",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
+        "evidence": {
+          "attributedDescription": "Cold Blow and retailer tracklists confirm Paradise within Enigmatic Dreams, a release framed through acid, dream-house and Balearic lineages.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Digital release listed September 4, 2026.",
+            "Exact duration, BPM, individual structure, emotional effect and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "The exact current track belongs to a credible acid/house field, but its title cannot establish emotional effect or sequence role.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Paradise"
+      }
+    }
+  ],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/track/sinee-gzi-remix",
+        "evidence": {
+          "attributedDescription": "Juno's current review identifies the GZI remix as the set's broken, nearly 2-step techno renegade; Damage Music confirms the exact title, 5:37 duration and September 4, 2026 release.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 5:37 and release date September 4, 2026.",
+            "Exact BPM, phrase fit, perceived pulse, endpoints and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "The documented break from the original dub-techno grid toward a nearly 2-step construction makes this a direct form-resistance lead; placement value remains separate.",
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          },
+          {
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinee (GZI Remix)"
       },
-      "spotifyTrackId": "1VE52tjg6ZoGbHDFbjfb4E",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
+        "evidence": {
+          "attributedDescription": "Boomkat describes Soul Control and Zone 6 specifically as using subtle yet hard-hitting percussion grooves and deep bass beneath ethereal pads and sweeps, with evolving arrangements; Peace World confirms the exact 4:55 title.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 4:55; Apple Music dates the seven-track release April 9, 2026.",
+            "Exact BPM, individual endpoint, perceived energy, phrase fit and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A comparatively understated groove can belong without introducing a new mechanism; the question is whether it changes a specific passage rather than merely occupying it.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
+          },
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
+          }
+        ],
+        "releaseDate": "2026-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Soul Control"
+      },
+      "spotifyTrackId": "3KmITjAzlBB2uOxJm1nTTr",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
+        "evidence": {
+          "attributedDescription": "Cold Blow and current retailer listings confirm the exact title within Type-303's six-track release, framed across late-1980s acid, Italian dream house and early-1990s Balearic influences using 303, 808 and piano timbres.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Cold Blow lists the digital release for September 4, 2026.",
+            "Individual direction, endpoint, BPM, perceived pulse and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "The adjacent acid/house vocabulary is credible for the selection lens, but title and release framing do not establish the individual track's form or sequence consequence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Calypso of Acid"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
+        "evidence": {
+          "attributedDescription": "Damage Music confirms the exact 7:24 remix title and September 4, 2026 release; current retailer framing describes the remix package as rhythmic, ricocheting and dubby techno.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 7:24.",
+            "Exact BPM, individual structure, endpoints and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current remix of a rhythmic dub-techno source is an honest exact-title lead; the specific remix behavior remains less described than GZI's.",
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          },
+          {
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinee (SMBR Remix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
+        "evidence": {
+          "attributedDescription": "Boomkat names Zone 6 with Soul Control while describing subtle yet hard-hitting percussion grooves, deep basslines, ethereal pads and evolving arrangements; Peace World confirms the exact 5:20 title.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 5:20.",
+            "The shared source paragraph does not establish Zone 6's individual endpoint, BPM or mixability."
+          ]
+        },
+        "fitHypothesis": "The co-described percussion-and-bass construction is a credible quieter structural lead, without assuming it shares Soul Control's exact development.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
+          },
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
+          }
+        ],
+        "releaseDate": "2026-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Zone 6"
+      },
+      "spotifyTrackId": "36BYGXw0lseivzVDiYnRqp",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
+        "evidence": {
+          "attributedDescription": "Cold Blow confirms Module 303 as an exact track on Type-303's Enigmatic Dreams and frames the release through late-1980s acid, Italian dream house and early-1990s Balearic influences.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Digital release listed September 4, 2026.",
+            "Exact duration, BPM, form, endpoint and mixability remain unknown from the cited page."
+          ]
+        },
+        "fitHypothesis": "The exact current title comes from a cross-era acid/house release, but neither title nor equipment references prove individual behavior.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Module 303"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Sinee Remixes",
+        "artist": "Alexander Kowalski",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
+        "evidence": {
+          "attributedDescription": "Damage Music confirms the exact 6:12 title and release date; current retailer framing describes Sinee and its remixes as energetic, rhythmic and dubby techno.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 6:12.",
+            "Exact BPM, remix-specific structure, endpoints and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "This exact current remix is credible catalogue-adjacent techno material; current evidence is package-level rather than track-specific.",
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": 130,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          },
+          {
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Sinee (Sven Köhne Remix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
+        "evidence": {
+          "attributedDescription": "Peace World confirms the exact 4:51 track on Hidden Atmospheres; the release is framed as balancing meditative and kinetic material, while track-specific behavior is not described.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official duration 4:51 and release date April 9, 2026.",
+            "Exact BPM, structure, endpoint, perceived space and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "The exact title belongs to an overlooked house release balancing meditative and kinetic framing, but the title cannot establish dub behavior or placement.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
+          },
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
+          }
+        ],
+        "releaseDate": "2026-04-09",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Dub Select"
+      },
+      "spotifyTrackId": "2ykgteM66TViBL6jyK1EOc",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Enigmatic Dreams",
+        "artist": "Type-303",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
+        "evidence": {
+          "attributedDescription": "Cold Blow and retailer tracklists confirm Paradise within Enigmatic Dreams, a release framed through acid, dream-house and Balearic lineages.",
+          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Digital release listed September 4, 2026.",
+            "Exact duration, BPM, individual structure, emotional effect and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "The exact current track belongs to a credible acid/house field, but its title cannot establish emotional effect or sequence role.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Paradise"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "2HiLKItrGfvkF6F9KjJlRV",
-      "uri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-      "name": "Egue into hs",
+      "id": "3KmITjAzlBB2uOxJm1nTTr",
+      "uri": "spotify:track:3KmITjAzlBB2uOxJm1nTTr",
+      "name": "Soul Control",
       "artists": [
-        "Alexander Holm",
-        "Francesca Burattelli"
+        "Max F"
       ],
-      "album": "Dial",
-      "releaseDate": "2026-08-18",
-      "durationMs": 392041,
-      "spotifyUrl": "https://open.spotify.com/track/2HiLKItrGfvkF6F9KjJlRV",
+      "album": "Hidden Atmospheres",
+      "releaseDate": "2026-04-09",
+      "durationMs": 295000,
+      "spotifyUrl": "https://open.spotify.com/track/3KmITjAzlBB2uOxJm1nTTr",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/dial-head-stroll",
+      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Tender Is The Night and Cave",
-          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-          "purpose": "Test whether the fixed kick gives early suspension a purposeful exit into widening or inserts another suspended world."
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
         },
         {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
           "candidateBpm": null,
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test whether the conspicuous slow-house/electro-acoustic turn makes reset yield to formation or delays that relation."
+          "outgoingBpm": 135,
+          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
         }
       ],
-      "fitHypothesis": "A single fixed kick beneath unstable electro-acoustic material is a direct form-versus-grid proposition, but does not itself prove sequence gain.",
+      "fitHypothesis": "A comparatively understated groove can belong without introducing a new mechanism; the question is whether it changes a specific passage rather than merely occupying it.",
       "evidence": {
-        "attributedDescription": "Boomkat describes this exact track as a slow-motion, worn house experiment combining electro-acoustic saturation with one unrelenting kick; the current Stroom edition confirms the title.",
+        "attributedDescription": "Boomkat describes Soul Control and Zone 6 specifically as using subtle yet hard-hitting percussion grooves and deep bass beneath ethereal pads and sweeps, with evolving arrangements; Peace World confirms the exact 4:55 title.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Word and Sound lists the current edition for September 4, 2026.",
-          "The source describes construction but not exact handoffs, phrase fit or mixability."
+          "Official duration 4:55; Apple Music dates the seven-track release April 9, 2026.",
+          "Exact BPM, individual endpoint, perceived energy, phrase fit and mixability remain unknown."
         ]
       },
       "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/dial-head-stroll",
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
         "evidence": {
-          "attributedDescription": "Boomkat describes this exact track as a slow-motion, worn house experiment combining electro-acoustic saturation with one unrelenting kick; the current Stroom edition confirms the title.",
+          "attributedDescription": "Boomkat describes Soul Control and Zone 6 specifically as using subtle yet hard-hitting percussion grooves and deep bass beneath ethereal pads and sweeps, with evolving arrangements; Peace World confirms the exact 4:55 title.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Word and Sound lists the current edition for September 4, 2026.",
-            "The source describes construction but not exact handoffs, phrase fit or mixability."
+            "Official duration 4:55; Apple Music dates the seven-track release April 9, 2026.",
+            "Exact BPM, individual endpoint, perceived energy, phrase fit and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A single fixed kick beneath unstable electro-acoustic material is a direct form-versus-grid proposition, but does not itself prove sequence gain.",
+        "fitHypothesis": "A comparatively understated groove can belong without introducing a new mechanism; the question is whether it changes a specific passage rather than merely occupying it.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tender Is The Night and Cave",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "purpose": "Test whether the fixed kick gives early suspension a purposeful exit into widening or inserts another suspended world."
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
           },
           {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
             "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether the conspicuous slow-house/electro-acoustic turn makes reset yield to formation or delays that relation."
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
           }
         ],
-        "releaseDate": "2026-09-04",
+        "releaseDate": "2026-04-09",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Egue Into Hs"
+        "track": "Soul Control"
       }
     },
     {
-      "id": "0ajHfA26eBJD08ccmHxVhJ",
-      "uri": "spotify:track:0ajHfA26eBJD08ccmHxVhJ",
-      "name": "The Sahara (Caco Menegaz Live Didgeridoo)",
+      "id": "36BYGXw0lseivzVDiYnRqp",
+      "uri": "spotify:track:36BYGXw0lseivzVDiYnRqp",
+      "name": "Zone 6",
       "artists": [
-        "Flaminia",
-        "Caco Menegaz"
+        "Max F"
       ],
-      "album": "Samskaras",
-      "releaseDate": "2026-05-08",
-      "durationMs": 413972,
-      "spotifyUrl": "https://open.spotify.com/track/0ajHfA26eBJD08ccmHxVhJ",
+      "album": "Hidden Atmospheres",
+      "releaseDate": "2026-04-09",
+      "durationMs": 320500,
+      "spotifyUrl": "https://open.spotify.com/track/36BYGXw0lseivzVDiYnRqp",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
+      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Raataja and Crawl",
-          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "purpose": "Test whether the live-instrument intervention changes burst-and-disappearance into sustained motion or adds another isolated left turn."
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
         },
         {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
           "candidateBpm": null,
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "purpose": "Test whether it gives dissolution a bodily re-entry before temporal strain or crowds an already consequential passage."
+          "outgoingBpm": 135,
+          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
         }
       ],
-      "fitHypothesis": "The exact live-instrument intervention and pattern/break context make this an honest form-resistant lead; the release concept cannot establish the track's full individual arc.",
+      "fitHypothesis": "The co-described percussion-and-bass construction is a credible quieter structural lead, without assuming it shares Soul Control's exact development.",
       "evidence": {
-        "attributedDescription": "Flaminia's official page confirms this 6:53 exact track and live didgeridoo contribution within a broken-techno EP whose stated concept concerns repeated patterns forming and occasionally breaking open.",
+        "attributedDescription": "Boomkat names Zone 6 with Soul Control while describing subtle yet hard-hitting percussion grooves, deep basslines, ethereal pads and evolving arrangements; Peace World confirms the exact 5:20 title.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official duration 6:53; released May 8, 2026.",
-          "Exact rhythmic direction, endpoint, handoffs and mixability remain unknown."
+          "Official duration 5:20.",
+          "The shared source paragraph does not establish Zone 6's individual endpoint, BPM or mixability."
         ]
       },
       "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
         "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 6:53 exact track and live didgeridoo contribution within a broken-techno EP whose stated concept concerns repeated patterns forming and occasionally breaking open.",
+          "attributedDescription": "Boomkat names Zone 6 with Soul Control while describing subtle yet hard-hitting percussion grooves, deep basslines, ethereal pads and evolving arrangements; Peace World confirms the exact 5:20 title.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 6:53; released May 8, 2026.",
-            "Exact rhythmic direction, endpoint, handoffs and mixability remain unknown."
+            "Official duration 5:20.",
+            "The shared source paragraph does not establish Zone 6's individual endpoint, BPM or mixability."
           ]
         },
-        "fitHypothesis": "The exact live-instrument intervention and pattern/break context make this an honest form-resistant lead; the release concept cannot establish the track's full individual arc.",
+        "fitHypothesis": "The co-described percussion-and-bass construction is a credible quieter structural lead, without assuming it shares Soul Control's exact development.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Raataja and Crawl",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test whether the live-instrument intervention changes burst-and-disappearance into sustained motion or adds another isolated left turn."
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
           },
           {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
             "candidateBpm": null,
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether it gives dissolution a bodily re-entry before temporal strain or crowds an already consequential passage."
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
           }
         ],
-        "releaseDate": "2026-05-08",
+        "releaseDate": "2026-04-09",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "The Sahara (Caco Menegaz Live Didgeridoo)"
+        "track": "Zone 6"
       }
     },
     {
-      "id": "1ft4GBwmmxkUh9Z5id9vrT",
-      "uri": "spotify:track:1ft4GBwmmxkUh9Z5id9vrT",
-      "name": "Keysweet",
+      "id": "2ykgteM66TViBL6jyK1EOc",
+      "uri": "spotify:track:2ykgteM66TViBL6jyK1EOc",
+      "name": "Dub Select",
       "artists": [
-        "Jon Head"
+        "Max F"
       ],
-      "album": "Broken Bells EP",
-      "releaseDate": "2026-02-13",
-      "durationMs": 303905,
-      "spotifyUrl": "https://open.spotify.com/track/1ft4GBwmmxkUh9Z5id9vrT",
-      "bpm": 140,
-      "tempoSource": "https://www.beatport.com/track/t/23963017",
-      "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
+      "album": "Hidden Atmospheres",
+      "releaseDate": "2026-04-09",
+      "durationMs": 291000,
+      "spotifyUrl": "https://open.spotify.com/track/2ykgteM66TViBL6jyK1EOc",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": 140,
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "incomingBpm": 136,
-          "outgoingBpm": null,
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "purpose": "Test whether a measured 140 BPM techno stage turns crooked accumulation toward Roxellana or merely adds another complete lock."
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
         },
         {
-          "candidateBpm": 140,
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": 138,
-          "outgoingBpm": null,
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test whether it changes unpredictability into reassembly or smooths over a useful instability-to-false-stability relation."
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 135,
+          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
         }
       ],
-      "fitHypothesis": "The exact contemporary techno identity is a credible less-conspicuous candidate; genre and tempo remain context rather than evidence of energy or flow.",
+      "fitHypothesis": "The exact title belongs to an overlooked house release balancing meditative and kinetic framing, but the title cannot establish dub behavior or placement.",
       "evidence": {
-        "attributedDescription": "Planet Rhythm confirms the exact 5:03 track on Jon Head's Broken Bells EP; Beatport classifies the exact mix as raw/deep/hypnotic techno and reports 140 BPM.",
+        "attributedDescription": "Peace World confirms the exact 4:51 track on Hidden Atmospheres; the release is framed as balancing meditative and kinetic material, while track-specific behavior is not described.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Beatport reports 140 BPM; Planet Rhythm reports 5:03 and February 13, 2026.",
-          "Energy, density, hypnosis, exact structure, phrase fit and mixability remain unknown."
+          "Official duration 4:51 and release date April 9, 2026.",
+          "Exact BPM, structure, endpoint, perceived space and mixability remain unknown."
         ]
       },
       "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 140,
-        "bpmSource": "https://www.beatport.com/track/t/23963017",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
+        "album": "Hidden Atmospheres",
+        "artist": "Max F",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
         "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 5:03 track on Jon Head's Broken Bells EP; Beatport classifies the exact mix as raw/deep/hypnotic techno and reports 140 BPM.",
+          "attributedDescription": "Peace World confirms the exact 4:51 track on Hidden Atmospheres; the release is framed as balancing meditative and kinetic material, while track-specific behavior is not described.",
           "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Beatport reports 140 BPM; Planet Rhythm reports 5:03 and February 13, 2026.",
-            "Energy, density, hypnosis, exact structure, phrase fit and mixability remain unknown."
+            "Official duration 4:51 and release date April 9, 2026.",
+            "Exact BPM, structure, endpoint, perceived space and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "The exact contemporary techno identity is a credible less-conspicuous candidate; genre and tempo remain context rather than evidence of energy or flow.",
+        "fitHypothesis": "The exact title belongs to an overlooked house release balancing meditative and kinetic framing, but the title cannot establish dub behavior or placement.",
         "proposedPlacements": [
           {
-            "candidateBpm": 140,
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
-            "outgoingBpm": null,
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test whether a measured 140 BPM techno stage turns crooked accumulation toward Roxellana or merely adds another complete lock."
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 140,
+            "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
           },
           {
-            "candidateBpm": 140,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": 138,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether it changes unpredictability into reassembly or smooths over a useful instability-to-false-stability relation."
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": 134,
+            "candidateBpm": null,
+            "outgoingBpm": 135,
+            "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
           }
         ],
-        "releaseDate": "2026-02-13",
+        "releaseDate": "2026-04-09",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Keysweet"
+        "track": "Dub Select"
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "6NspHFIlvsebslWNGcutEd",
-      "uri": "spotify:track:6NspHFIlvsebslWNGcutEd",
-      "name": "Confrontation",
-      "artists": [
-        "Flaminia"
-      ],
-      "album": "Samskaras",
-      "releaseDate": "2026-05-08",
-      "durationMs": 387719,
-      "spotifyUrl": "https://open.spotify.com/track/6NspHFIlvsebslWNGcutEd",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Worn Down and Atlantis",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "purpose": "Test whether it develops the threshold before the programmed-organ continuum or adds another complete struggle."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "purpose": "Test whether it makes metric redirection yield purposefully to the live-band left turn or over-articulates change."
-        }
-      ],
-      "fitHypothesis": "The release frame makes Confrontation a credible pattern-disruption lead, while individual form and endpoint remain undocumented.",
-      "evidence": {
-        "attributedDescription": "Flaminia's official page confirms this 6:27 exact title on a broken-techno EP explicitly framed around grooves becoming automatic and occasionally breaking open.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official duration 6:27; released May 8, 2026.",
-          "Individual materials, endpoint, handoffs and mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-        "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 6:27 exact title on a broken-techno EP explicitly framed around grooves becoming automatic and occasionally breaking open.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 6:27; released May 8, 2026.",
-            "Individual materials, endpoint, handoffs and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "The release frame makes Confrontation a credible pattern-disruption lead, while individual form and endpoint remain undocumented.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether it develops the threshold before the programmed-organ continuum or adds another complete struggle."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test whether it makes metric redirection yield purposefully to the live-band left turn or over-articulates change."
-          }
-        ],
-        "releaseDate": "2026-05-08",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Confrontation"
-      }
-    },
-    {
-      "id": "5yV9GpxjIaRmtzWlj6X3ml",
-      "uri": "spotify:track:5yV9GpxjIaRmtzWlj6X3ml",
-      "name": "Broken Bells",
-      "artists": [
-        "Jon Head"
-      ],
-      "album": "Broken Bells EP",
-      "releaseDate": "2026-02-13",
-      "durationMs": 274891,
-      "spotifyUrl": "https://open.spotify.com/track/5yV9GpxjIaRmtzWlj6X3ml",
-      "bpm": 141,
-      "tempoSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-      "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": 141,
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "incomingBpm": 136,
-          "outgoingBpm": null,
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "purpose": "Test whether the 141 BPM proposition changes crooked accumulation into Roxellana or adds a redundant techno stage."
-        },
-        {
-          "candidateBpm": 141,
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "purpose": "Test whether a measured techno intervention makes the pre-protected threshold deliberate or crowds the approach."
-        }
-      ],
-      "fitHypothesis": "This is an exact measured techno lead from an overlooked 2026 catalogue pocket; its title, genre and BPM do not establish individual behavior.",
-      "evidence": {
-        "attributedDescription": "Planet Rhythm confirms the exact 4:34 title track; Beatport reports the original mix as raw/deep/hypnotic techno at 141 BPM.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Beatport reports 141 BPM; official duration 4:34 and release date February 13, 2026.",
-          "Perceived pulse, energy, structure, endpoint and mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 141,
-        "bpmSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-        "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 4:34 title track; Beatport reports the original mix as raw/deep/hypnotic techno at 141 BPM.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Beatport reports 141 BPM; official duration 4:34 and release date February 13, 2026.",
-            "Perceived pulse, energy, structure, endpoint and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "This is an exact measured techno lead from an overlooked 2026 catalogue pocket; its title, genre and BPM do not establish individual behavior.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": 141,
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
-            "outgoingBpm": null,
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "purpose": "Test whether the 141 BPM proposition changes crooked accumulation into Roxellana or adds a redundant techno stage."
-          },
-          {
-            "candidateBpm": 141,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether a measured techno intervention makes the pre-protected threshold deliberate or crowds the approach."
-          }
-        ],
-        "releaseDate": "2026-02-13",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Broken Bells"
-      }
-    },
-    {
-      "id": "4hdBHvkZ4xDqrDFzuByUaN",
-      "uri": "spotify:track:4hdBHvkZ4xDqrDFzuByUaN",
-      "name": "News",
-      "artists": [
-        "Alexander Holm"
-      ],
-      "album": "Dial",
-      "releaseDate": "2026-08-18",
-      "durationMs": 271448,
-      "spotifyUrl": "https://open.spotify.com/track/4hdBHvkZ4xDqrDFzuByUaN",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Tender Is The Night and Cave",
-          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-          "purpose": "Test whether a short acoustic/electronic articulation makes suspension exit legibly or fragments the early held passage."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether it clarifies the closing pivot or adds an unsupported afterword stage."
-        }
-      ],
-      "fitHypothesis": "The exact acoustic/electronic identity is an adjacent structural lead, but the available evidence does not establish whether it behaves as transition, interruption or complete miniature.",
-      "evidence": {
-        "attributedDescription": "The current Stroom tracklist confirms this exact title; release credits specify cello by Cæcilie Trier within a set combining spoken word, acoustic instruments and subtle electronic processing.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The current edition is listed for September 4, 2026.",
-          "Exact duration, rhythm, direction, endpoint and mixability remain unknown from the cited sources."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-        "evidence": {
-          "attributedDescription": "The current Stroom tracklist confirms this exact title; release credits specify cello by Cæcilie Trier within a set combining spoken word, acoustic instruments and subtle electronic processing.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The current edition is listed for September 4, 2026.",
-            "Exact duration, rhythm, direction, endpoint and mixability remain unknown from the cited sources."
-          ]
-        },
-        "fitHypothesis": "The exact acoustic/electronic identity is an adjacent structural lead, but the available evidence does not establish whether it behaves as transition, interruption or complete miniature.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tender Is The Night and Cave",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "purpose": "Test whether a short acoustic/electronic articulation makes suspension exit legibly or fragments the early held passage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it clarifies the closing pivot or adds an unsupported afterword stage."
-          }
-        ],
-        "releaseDate": "2026-09-04",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "News"
-      }
-    },
-    {
-      "id": "2Ngn5qiuMCyIxipMs07RBS",
-      "uri": "spotify:track:2Ngn5qiuMCyIxipMs07RBS",
-      "name": "Intention",
-      "artists": [
-        "Flaminia"
-      ],
-      "album": "Samskaras",
-      "releaseDate": "2026-05-08",
-      "durationMs": 270132,
-      "spotifyUrl": "https://open.spotify.com/track/2Ngn5qiuMCyIxipMs07RBS",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test whether the concise cut develops reset into formation or inserts another undocumented system."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "purpose": "Test whether it changes dissolution into temporal strain or merely delays the existing hinge."
-        }
-      ],
-      "fitHypothesis": "The release concept supplies a plausible volume-fit question without supplying candidate-specific form.",
-      "evidence": {
-        "attributedDescription": "Flaminia's official page confirms this 4:30 exact title within a broken-techno release concerned with repeated patterns and moments when those patterns break open.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official duration 4:30; released May 8, 2026.",
-          "Individual rhythmic behavior, endpoint, handoffs and mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Samskaras (feat. Benas BAR & Caco Menegaz)",
-        "artist": "Flaminia",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras",
-        "evidence": {
-          "attributedDescription": "Flaminia's official page confirms this 4:30 exact title within a broken-techno release concerned with repeated patterns and moments when those patterns break open.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 4:30; released May 8, 2026.",
-            "Individual rhythmic behavior, endpoint, handoffs and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "The release concept supplies a plausible volume-fit question without supplying candidate-specific form.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether the concise cut develops reset into formation or inserts another undocumented system."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether it changes dissolution into temporal strain or merely delays the existing hinge."
-          }
-        ],
-        "releaseDate": "2026-05-08",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Intention"
-      }
-    },
-    {
-      "id": "4z9X2lgzA9FhllrdclTfmo",
-      "uri": "spotify:track:4z9X2lgzA9FhllrdclTfmo",
-      "name": "Damage Flux",
-      "artists": [
-        "Jon Head"
-      ],
-      "album": "Broken Bells EP",
-      "releaseDate": "2026-02-13",
-      "durationMs": 298734,
-      "spotifyUrl": "https://open.spotify.com/track/4z9X2lgzA9FhllrdclTfmo",
-      "bpm": 71,
-      "tempoSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-      "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": 71,
-          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Worn Down and Atlantis",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "purpose": "Test whether the measured tempo creates a purposeful threshold before continuity or an unevidenced reset."
-        },
-        {
-          "candidateBpm": 71,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether it supplies a final measured pivot or overextends the closing passage."
-        }
-      ],
-      "fitHypothesis": "The exact low-number tempo makes this a potentially conspicuous measured proposition, but half-time interpretation, perceived pulse and flow must not be inferred.",
-      "evidence": {
-        "attributedDescription": "Planet Rhythm confirms the exact 4:58 title; Beatport reports the original mix as raw/deep/hypnotic techno at 71 BPM.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Beatport reports 71 BPM; official duration 4:58 and release date February 13, 2026.",
-          "No half-time equivalence, energy, perceived pulse, structure or mixability is inferred."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Broken Bells EP",
-        "artist": "Jon Head",
-        "bpm": 71,
-        "bpmSource": "https://www.beatport.com/artist/jon-head/1172132/tracks",
-        "discoverySource": "https://planetrhythm.bandcamp.com/album/broken-bells-ep",
-        "evidence": {
-          "attributedDescription": "Planet Rhythm confirms the exact 4:58 title; Beatport reports the original mix as raw/deep/hypnotic techno at 71 BPM.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Beatport reports 71 BPM; official duration 4:58 and release date February 13, 2026.",
-            "No half-time equivalence, energy, perceived pulse, structure or mixability is inferred."
-          ]
-        },
-        "fitHypothesis": "The exact low-number tempo makes this a potentially conspicuous measured proposition, but half-time interpretation, perceived pulse and flow must not be inferred.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": 71,
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether the measured tempo creates a purposeful threshold before continuity or an unevidenced reset."
-          },
-          {
-            "candidateBpm": 71,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it supplies a final measured pivot or overextends the closing passage."
-          }
-        ],
-        "releaseDate": "2026-02-13",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Damage Flux"
-      }
-    },
-    {
-      "id": "1VE52tjg6ZoGbHDFbjfb4E",
-      "uri": "spotify:track:1VE52tjg6ZoGbHDFbjfb4E",
-      "name": "It's time",
-      "artists": [
-        "Alexander Holm"
-      ],
-      "album": "Dial",
-      "releaseDate": "2026-08-18",
-      "durationMs": 282125,
-      "spotifyUrl": "https://open.spotify.com/track/1VE52tjg6ZoGbHDFbjfb4E",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Raataja and Crawl",
-          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "purpose": "Test whether a compact acoustic/electronic fragment changes the burst-to-motion relation or distracts from it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "purpose": "Test whether it articulates the threshold before the protected approach or introduces an unsupported extra stage."
-        }
-      ],
-      "fitHypothesis": "Its exact identity belongs to an adjacent form-unstable field, but title and release context cannot establish what the individual track does.",
-      "evidence": {
-        "attributedDescription": "The current Stroom edition confirms this exact title within a release moving among spoken word, acoustic instruments, subtle electronic processing and fragmentary pop structures.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The current edition is listed for September 4, 2026.",
-          "Individual duration, rhythmic behavior, endpoint, handoffs and mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Dial / Head Stroll",
-        "artist": "Alexander Holm",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll",
-        "evidence": {
-          "attributedDescription": "The current Stroom edition confirms this exact title within a release moving among spoken word, acoustic instruments, subtle electronic processing and fragmentary pop structures.",
-          "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The current edition is listed for September 4, 2026.",
-            "Individual duration, rhythmic behavior, endpoint, handoffs and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "Its exact identity belongs to an adjacent form-unstable field, but title and release context cannot establish what the individual track does.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Raataja and Crawl",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "purpose": "Test whether a compact acoustic/electronic fragment changes the burst-to-motion relation or distracts from it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether it articulates the threshold before the protected approach or introduces an unsupported extra stage."
-          }
-        ],
-        "releaseDate": "2026-09-04",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "It's Time"
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
