@@ -1,210 +1,65 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "d12d12f0dec0c897bc324232f3a3f7aa09ea43f381b69524dfac46da89c1bf57",
-  "generatedAt": "2026-09-12T14:54:06.347Z",
-  "runId": "2026-09-12T14:49:00Z-explore-182",
-  "sourceCommit": "130476d2baa26b997a2979947db3431236a76bbe",
+  "requestFingerprint": "b7e15027d3203d21806daca8f3e206d86c1ad9133893ab3f455c1397980e4736",
+  "generatedAt": "2026-09-12T16:00:11.699Z",
+  "runId": "2026-09-12T15:53:38Z-explore-183",
+  "sourceCommit": "b467831b822f309fdcd8858ea591ae8b4a35879e",
   "mode": "EXPLORE",
-  "target": "playlists/strange-gait/",
+  "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 61 named tracks, releases and catalogue cuts across current September electronic pages, Maxime Denuc's September 11 programmed-organ album, D1's September 11 Tempa archive, adjacent Hiss Is Bliss/ODAE/Light-years/Tempa material, current Boomkat and Bandcamp Daily pages, and overlooked early-2000s dubstep catalogue links. Official and attributed written evidence only; no audio audition.",
+    "approximateInspectedScope": "Approximately 62 named tracks, releases and catalogue cuts across current September 10–12 electronic pages, TraTraTrax's newly issued Los Totes Vol. 3 sampler, Meakusma's emerging 666ridims field, adjacent Colombian/Caribbean club-music label pages, and overlooked raw polyrhythmic and experimental-techno catalogue links. Official and attributed written evidence only; no audio audition.",
     "exclusions": [
-      "Run 181's Picture, Akufen and Marco Maldarella field and Runs 170–180 were not recycled; failed requests and process repairs supplied no reusable musical verdicts.",
-      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior discovery leads and exact tracks already in the global utility ledger were excluded.",
-      "Nine honest exact-title leads survived without artist, texture or genre quotas. Every proposed URI pair was re-derived from the current 49-track ledger and checked for adjacency and prose agreement.",
-      "Maxime Denuc's six leads rank first because the official release notes describe individual construction. Three D1 archive identities remain lower-ranked catalogue leads because the official Tempa page confirms exact identity and 2002–2006 provenance while detailed structure is attributed rather than auditioned.",
-      "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Run 182's Maxime Denuc and D1 field and Runs 170–181 were not recycled; canonical identities, active placement-specific rejects, untriggered PARKED revisits and exact utility-ledger identities were excluded.",
+      "Five Los Totes Vol. 3 identities survived because current exact-track criticism distinguishes their rhythmic or structural propositions. Four 666ridims identities survive at a weaker collection-level evidence class because Meakusma explicitly frames the set around odd metres, polyrhythm, swing transformation and speculative club forms.",
+      "Other current pages and catalogue items were excluded when they offered only artist prestige, generic genre tags, ambiguous track naming, a prior persistent-state identity or no credible lawful placement hypothesis.",
+      "All proposed placement pairs were re-derived from the current 50-track ledger and checked for adjacency and prose agreement. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Maxime Denuc — Hallucinogen",
-      "2. Maxime Denuc — Atlantis",
-      "3. Maxime Denuc — Club Imperiale",
-      "4. Maxime Denuc — La Paloma",
-      "5. Maxime Denuc — Pegasus",
-      "6. Maxime Denuc — Everytime",
-      "7. D1 — Snatch",
-      "8. D1 — Earth",
-      "9. D1 — Tabala"
+      "1. DJ Babatr — Cabo E (Substance Remix)",
+      "2. Aquarian — Kool Ranch FM",
+      "3. Anthony Naples — Perk",
+      "4. Maoupa Mazzocchetti feat. Clara! — Mantequilla (Pariah Remix)",
+      "5. WOST & Entrañas — Miniteca Selvática (Pangaea Remix)",
+      "6. ghostbika — Rain Riddim",
+      "7. lil darkonda — very66killa",
+      "8. djmu — 0to100mimi5fast",
+      "9. names9s — hubble"
     ],
     "sourceWindows": [
-      "CURRENT STRUCTURAL-FREEDOM WINDOW: Maxime Denuc's Club Imperiale, released September 11, 2026, uses a hand-built Max/MSP/OSC system to control pipe-organ keys, stops and pedals, reworking trance, techno, church acoustics and historical reference. https://maximedenuc.bandcamp.com/album/club-imperiale",
-      "OVERLOOKED CATALOGUE / CURRENT ARCHIVE WINDOW: D1's Tempa Archive, Vol 2: Enigma, issued September 11, 2026, makes eight 2002–2006 dubs available as exact identities. https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-      "ADJACENT / EMERGING WINDOW: current Light-years, Tempa, Hiss Is Bliss, ODAE, Boomkat, Bandcamp Daily and Resident Advisor pages were inspected; recent handled Ploy, Bonobo, Blawan, Jay Mitta, Lil_art_hoe, Picture, Akufen and Marco Maldarella identities were excluded."
+      "CURRENT CLUB-CATALOGUE WINDOW: TraTraTrax's Los Totes Vol. 3 was released September 10–11, 2026; Juno provides individual criticism for all five exact cuts. https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+      "ADJACENT / EMERGING WINDOW: Meakusma's 666ridims (2020–2026) compiles fourteen raw collaborative pieces framed around transformed swing, new grids, odd metres, polyrhythm, improvisation and speculative club genres. https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+      "OVERLOOKED CATALOGUE WINDOW: raw 666ridims source releases and unhandled experimental-techno, broken-rhythm and Latin-club catalogue links adjacent to TraTraTrax/Meakusma were inspected; generic-tag-only items were excluded from the lead set."
     ],
-    "timestampUtc": "2026-09-12T14:49:00Z"
+    "timestampUtc": "2026-09-12T15:53:38Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 9,
-  "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
-  "warnings": [],
-  "outcomes": [
+  "resolvedCount": 2,
+  "candidateCount": 2,
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
     {
-      "status": "RESOLVED",
+      "artist": "DJ Babatr",
+      "track": "Cabo E (Substance Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
+        "album": "Los Totes Vol. 3",
+        "artist": "DJ Babatr",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
         "evidence": {
-          "attributedDescription": "Denuc's official notes identify the exact opener as directly referencing a minute fragment of Simon Posford's mid-1990s trance track LSD, mapping its squelches to pipe organ and building a separate world around that fragment.",
+          "attributedDescription": "Juno identifies the exact Substance remix of Cabo E as a stomping, buzzing tribal-techno reframe.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official identity and duration: 5:03.",
-            "The source documents construction and reference, not perceived energy, exact endpoint or mixability."
+            "Current exact remix identity and duration: 5:15.",
+            "The attributed review documents re-framing and rhythmic character, not phrase structure, perceived energy or either handoff."
           ]
         },
-        "fitHypothesis": "A trance fragment rebuilt through church acoustics and a programmed pipe organ is a strong selection-lens lead because its fixed source is structurally recontextualized.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "purpose": "Test whether the organ-mapped trance reconstruction makes Stadium Drive's overture newly legible or overextends the cold open."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Style Teef and Same Way",
-            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "purpose": "Test whether the radical production-world change develops the fault-line passage or crowds Same Way."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Hallucinogen"
-      },
-      "spotifyTrackId": "0rGjgJxRWezdF7x9V7zbAV",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify Atlantis as the first result of a compositional breakthrough: extremely short note repetitions create a seemingly continuous organ drone associated with a water-surface shimmer.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 6:40.",
-            "The source documents the mechanism and intended image, not exact transition behavior or perceived space."
-          ]
-        },
-        "fitHypothesis": "A continuous form generated from rapid discrete repetitions directly tests the volume's interest in rhythm and structure resisting one fixed reading.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether repetition perceived as continuity changes the worn-down-to-jerk relation or adds another preparatory stage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the discrete-to-continuous construction makes the late production-world shift intentional or crowds the closing corridor."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Atlantis"
-      },
-      "spotifyTrackId": "4KFH3vH0uHTAleEXpYYxyA",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes call the title track the album's dreamy core and describe natural delays and breath-like traces dissolving the fabric of time in the record's mirage-like second half.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:36.",
-            "This is exact-track authorial framing; the candidate's handoffs, endpoint and mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An exact work framed around temporal dissolution may fit the selection lens, while canonical purpose at either boundary remains to be proved.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether temporal dissolution gives FELT a deliberate re-formation context or merely postpones it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the title track clarifies the late shift from Migration toward Eyes of the Wind or creates a second complete threshold."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Club Imperiale"
-      },
-      "spotifyTrackId": "6i68vhnKBXHHbpeEVelnzp",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify La Paloma as programmed with his hand-built sequencer and built around perceived affinities between baroque music and progressive trance.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:44.",
-            "The source supplies exact conceptual construction but not phrase structure, energy, endpoint or mixability."
-          ]
-        },
-        "fitHypothesis": "A baroque/progressive-trance relation rendered by programmed organ is an honest structural-freedom lead without relying on novelty alone.",
+        "fitHypothesis": "A remix that re-frames a Caracas club source through a different rhythmic system is a credible selection-lens contender.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -213,342 +68,7 @@
             "outgoingBpm": null,
             "position": "Between Amor and Elemental Dream",
             "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether the cross-historical construction makes Elemental Dream's change legible or simply precedes it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether the organ/trance character pivot articulates the threshold before U Belong 2 Me or crowds it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "La Paloma"
-      },
-      "spotifyTrackId": "2fslqKkwBJPyQB7FCh5HcD",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify the exact closer as a long chord sequence moving steadily downward into contemplative reminiscence and explicitly not taking flight.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 6:02.",
-            "The source documents direction and endpoint image, not actual adjacent-track transitions or perceived energy."
-          ]
-        },
-        "fitHypothesis": "A directional descent whose title promise is structurally refused is a strong exact lead; its proportional place in STRANGE GAIT remains unproven.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the downward sequence deepens the established descent before Rabbit Hole or duplicates it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether a documented descending endpoint makes the late turn more purposeful or overloads the closing corridor."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Pegasus"
-      },
-      "spotifyTrackId": "4tybhmGADaMsAPqyOfqIGa",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify Everytime as a revisionist trance anthem whose core motif is allowed to bounce around the church walls.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 4:36.",
-            "This exact-track description does not establish phrase structure, energy, density or either handoff."
-          ]
-        },
-        "fitHypothesis": "A trance proposition re-formed by pipe-organ architecture is a valid selection-lens lead; placement consequence remains unknown.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Stadium Drive and Marauder",
-            "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "purpose": "Test whether the revisionist anthem develops the opening construction or turns it into an extended preface."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "purpose": "Test whether the architectural motif reorients Moonwake's intensification or delays it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Everytime"
-      },
-      "spotifyTrackId": "4Kz15biC1FKSuteqOkxWL8",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-        "evidence": {
-          "attributedDescription": "Tempa's official page verifies Snatch as an exact D1 identity on the September 11 archive; Boomkat attributes a nervous-funk and West London broken-beat relation to the exact cut.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:06.",
-            "The official release frames the archive as 2002–2006 material; no raw audio was auditioned."
-          ]
-        },
-        "fitHypothesis": "An overlooked dubstep-era cut with attributed broken-beat finesse may fit the selection lens; the exact placement effect remains unproved.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether the archived broken-beat relation changes the instability-to-reassembly passage or crowds it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether the archive cut creates a deliberate threshold or another unsupported pressure stage."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Snatch"
-      },
-      "spotifyTrackId": "0w7EVy7nYvVmgRXLOJUL2l",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-        "evidence": {
-          "attributedDescription": "Tempa's official page verifies Earth as an exact D1 identity on the September 11 archive; Boomkat attributes a neuro halfstep snarl to the exact cut.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:16.",
-            "The official release frames the archive as 2002–2006 material; detailed endpoint and handoffs are unknown."
-          ]
-        },
-        "fitHypothesis": "An exact archival halfstep identity may create purposeful character change, but neither impact nor flow is inferred from the descriptor.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether the halfstep language changes the rupture-to-instability run or adds another force stage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the archive cut makes the late descent-to-reopening relation intentional or interrupts it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Earth"
-      },
-      "spotifyTrackId": "2mqACJ0rkiG9jtz4vd5U9i",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-        "evidence": {
-          "attributedDescription": "Tempa's official page verifies Tabala as an exact D1 identity on the September 11 archive; Boomkat attributes a Muslimgauze-adjacent relation to the exact cut.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:38.",
-            "The official release frames the archive as 2002–2006 material; individual form and transitions remain insufficiently documented."
-          ]
-        },
-        "fitHypothesis": "The attributed cross-reference makes Tabala an honest adjacent catalogue lead, not a canonical claim.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "purpose": "Test whether the archive identity changes the early rupture-to-reassembly run or adds unsupported contrast."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether the adjacent rhythmic language alters the Cave-to-Abundance relation or merely occupies it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Tabala"
-      },
-      "spotifyTrackId": "7sGAb6PQxEFQy5CrtMhpJO",
-      "selected": false
-    }
-  ],
-  "candidates": [
-    {
-      "id": "0rGjgJxRWezdF7x9V7zbAV",
-      "uri": "spotify:track:0rGjgJxRWezdF7x9V7zbAV",
-      "name": "Hallucinogen",
-      "artists": [
-        "Maxime Denuc"
-      ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 303666,
-      "spotifyUrl": "https://open.spotify.com/track/0rGjgJxRWezdF7x9V7zbAV",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Sawa and Stadium Drive",
-          "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-          "purpose": "Test whether the organ-mapped trance reconstruction makes Stadium Drive's overture newly legible or overextends the cold open."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Style Teef and Same Way",
-          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "purpose": "Test whether the radical production-world change develops the fault-line passage or crowds Same Way."
-        }
-      ],
-      "fitHypothesis": "A trance fragment rebuilt through church acoustics and a programmed pipe organ is a strong selection-lens lead because its fixed source is structurally recontextualized.",
-      "evidence": {
-        "attributedDescription": "Denuc's official notes identify the exact opener as directly referencing a minute fragment of Simon Posford's mid-1990s trance track LSD, mapping its squelches to pipe organ and building a separate world around that fragment.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 5:03.",
-          "The source documents construction and reference, not perceived energy, exact endpoint or mixability."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify the exact opener as directly referencing a minute fragment of Simon Posford's mid-1990s trance track LSD, mapping its squelches to pipe organ and building a separate world around that fragment.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:03.",
-            "The source documents construction and reference, not perceived energy, exact endpoint or mixability."
-          ]
-        },
-        "fitHypothesis": "A trance fragment rebuilt through church acoustics and a programmed pipe organ is a strong selection-lens lead because its fixed source is structurally recontextualized.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "purpose": "Test whether the organ-mapped trance reconstruction makes Stadium Drive's overture newly legible or overextends the cold open."
+            "purpose": "Test whether the remix develops machine-to-hand-drum mutation before self-stripping percussion or merely adds force."
           },
           {
             "candidateBpm": null,
@@ -557,89 +77,286 @@
             "outgoingBpm": null,
             "position": "Between Style Teef and Same Way",
             "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "purpose": "Test whether the radical production-world change develops the fault-line passage or crowds Same Way."
+            "purpose": "Test whether the tribal reframe deepens the fault-line passage or crowds the approach to threshold."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Hallucinogen"
+        "track": "Cabo E (Substance Remix)"
       }
     },
     {
-      "id": "4KFH3vH0uHTAleEXpYYxyA",
-      "uri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-      "name": "Atlantis",
-      "artists": [
-        "Maxime Denuc"
-      ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 400906,
-      "spotifyUrl": "https://open.spotify.com/track/4KFH3vH0uHTAleEXpYYxyA",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Worn Down and Hypnic Jerks",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "purpose": "Test whether repetition perceived as continuity changes the worn-down-to-jerk relation or adds another preparatory stage."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether the discrete-to-continuous construction makes the late production-world shift intentional or crowds the closing corridor."
-        }
-      ],
-      "fitHypothesis": "A continuous form generated from rapid discrete repetitions directly tests the volume's interest in rhythm and structure resisting one fixed reading.",
-      "evidence": {
-        "attributedDescription": "Denuc's official notes identify Atlantis as the first result of a compositional breakthrough: extremely short note repetitions create a seemingly continuous organ drone associated with a water-surface shimmer.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 6:40.",
-          "The source documents the mechanism and intended image, not exact transition behavior or perceived space."
-        ]
-      },
+      "artist": "Maoupa Mazzocchetti feat. Clara!",
+      "track": "Mantequilla (Pariah Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
+        "album": "Los Totes Vol. 3",
+        "artist": "Maoupa Mazzocchetti feat. Clara!",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
         "evidence": {
-          "attributedDescription": "Denuc's official notes identify Atlantis as the first result of a compositional breakthrough: extremely short note repetitions create a seemingly continuous organ drone associated with a water-surface shimmer.",
+          "attributedDescription": "Juno describes Pariah's exact Mantequilla remix as wild, heavy and acid-seeped.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official identity and duration: 6:40.",
-            "The source documents the mechanism and intended image, not exact transition behavior or perceived space."
+            "Current exact remix identity and duration: 4:38.",
+            "The criticism does not establish endpoint, phrase structure, perceived pulse, emotional effect or mixability."
           ]
         },
-        "fitHypothesis": "A continuous form generated from rapid discrete repetitions directly tests the volume's interest in rhythm and structure resisting one fixed reading.",
+        "fitHypothesis": "A heavy acid rework of a distinct source form plausibly fits the volume's structural-freedom lens; canonical consequence remains unproved.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether repetition perceived as continuity changes the worn-down-to-jerk relation or adds another preparatory stage."
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "purpose": "Test whether the acid-seeped rework sharpens intensification or adds another force stage."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Truth in Noise and Style Teef",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether the remix contests consolidation before the familiar-grid fault line or makes that passage crowded."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Mantequilla (Pariah Remix)"
+      }
+    },
+    {
+      "artist": "WOST & Entrañas",
+      "track": "Miniteca Selvática (Pangaea Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "WOST & Entrañas",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno describes Pangaea's exact Miniteca Selvática remix as sturdy while identifying it as a distinct rework.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact remix identity and duration: 4:58.",
+            "The terse criticism does not establish groove mechanics, exact endpoint, phrase fit or either handoff."
+          ]
+        },
+        "fitHypothesis": "A cross-scene rework is a credible adjacent contender, but the terse exact-track evidence makes its canonical claim weaker than the top four.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether the sturdy rework prepares the live-band metric left turn or mediates it unnecessarily."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether the remix changes instability before reassembly or adds another formed stage."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Miniteca Selvática (Pangaea Remix)"
+      }
+    },
+    {
+      "artist": "ghostbika",
+      "track": "Rain Riddim",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "ghostbika",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists Rain Riddim as an exact identity inside a compilation framed around transformed rhythm, swing, new grids, odd metres and polyrhythm.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "Evidence is collection-level and does not establish this track's form, pulse, density, space or endpoint."
+          ]
+        },
+        "fitHypothesis": "The exact identity sits in a strongly relevant emerging field; resolution is warranted while individual behaviour remains unknown.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sawa and Stadium Drive",
+            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
+            "purpose": "Test whether the emerging riddim identity develops the cold open or creates an extended preface."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether the adjacent field changes the flare-to-descent relation or interrupts it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Rain Riddim"
+      }
+    },
+    {
+      "artist": "lil darkonda",
+      "track": "very66killa",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "lil darkonda",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists very66killa as an exact identity within its odd-metre, polyrhythmic and speculative-club compilation.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "The collection frame is not individual rhythmic, structural or transition evidence."
+          ]
+        },
+        "fitHypothesis": "The exact emerging identity is a credible resolver lead because the surrounding project explicitly researches alternative grids, not because its title implies aggression.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Raataja and Crawl",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "purpose": "Test whether the emerging-grid identity enables re-formation into sustained motion or adds unsupported rupture."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "purpose": "Test whether it develops the pre-threshold fault line or crowds it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "very66killa"
+      }
+    },
+    {
+      "artist": "djmu",
+      "track": "0to100mimi5fast",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "djmu",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists 0to100mimi5fast as an exact identity inside a set described through improvisation, rhythm transformation, odd metres and club-oriented speculative genres.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "Neither title nor compilation description establishes perceived speed, energy, phrase structure or mixability."
+          ]
+        },
+        "fitHypothesis": "The project context supports resolution as a serious structural-freedom lead while every individual sonic claim stays unknown.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Carried and Cave",
+            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "purpose": "Test whether the exact identity changes rupture-to-widening or inserts another unsupported event."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether speculative grid change develops drive-to-instability or overloads it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "0to100mimi5fast"
+      }
+    },
+    {
+      "artist": "names9s",
+      "track": "hubble",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "names9s",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists hubble as an exact identity within a raw collection framed around odd metres, polyrhythm, swing transformation and minimalist speculative club forms.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "The release-level evidence cannot establish this track's individual direction, endpoint or transitions."
+          ]
+        },
+        "fitHypothesis": "The exact identity belongs to a credible emerging new-grid field and merits resolution without assuming a cosmic or spacious role from its title.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "purpose": "Test whether the emerging-grid identity changes opposed-speed balance before widening or merely delays it."
           },
           {
             "candidateBpm": null,
@@ -648,29 +365,470 @@
             "outgoingBpm": null,
             "position": "Between Migration and Eyes of the Wind",
             "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the discrete-to-continuous construction makes the late production-world shift intentional or crowds the closing corridor."
+            "purpose": "Test whether it articulates the closing character pivot or crowds the corridor."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-03",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Atlantis"
+        "track": "hubble"
       }
+    }
+  ],
+  "warnings": [
+    {
+      "artist": "Aquarian",
+      "track": "Kool Ranch FM",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Los Totes Vol. 3\" but Spotify returned \"Split 2\"; release date requested \"2026-09-10\" but Spotify returned \"2024-08-22\""
     },
     {
-      "id": "6i68vhnKBXHHbpeEVelnzp",
-      "uri": "spotify:track:6i68vhnKBXHHbpeEVelnzp",
-      "name": "Club Imperiale",
+      "artist": "Anthony Naples",
+      "track": "Perk",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Los Totes Vol. 3\" but Spotify returned \"Split 3\"; release date requested \"2026-09-10\" but Spotify returned \"2025-07-24\""
+    }
+  ],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "DJ Babatr",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno identifies the exact Substance remix of Cabo E as a stomping, buzzing tribal-techno reframe.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact remix identity and duration: 5:15.",
+            "The attributed review documents re-framing and rhythmic character, not phrase structure, perceived energy or either handoff."
+          ]
+        },
+        "fitHypothesis": "A remix that re-frames a Caracas club source through a different rhythmic system is a credible selection-lens contender.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "purpose": "Test whether the remix develops machine-to-hand-drum mutation before self-stripping percussion or merely adds force."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "purpose": "Test whether the tribal reframe deepens the fault-line passage or crowds the approach to threshold."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Cabo E (Substance Remix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "Aquarian",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno places the exact Kool Ranch FM between breathless Latin techno and delay-laden tropical-house muscularity.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact identity and duration: 7:12.",
+            "The attributed genre relation does not establish exact internal form, endpoint, perceived pulse or mixability."
+          ]
+        },
+        "fitHypothesis": "An exact track described across Latin-techno and tropical-house languages may create a deliberate adjacent-world pivot without requiring genre purity.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether the adjacent-world pivot changes the reset-to-formation passage or overextends it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether the long-form character change clarifies the closing pivot or crowds it."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Kool Ranch FM"
+      },
+      "spotifyTrackId": "4d3JjEneDi1OlHZoj1KK8e",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "Anthony Naples",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno describes the exact Perk through bouncy, drum-laden weight.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact identity and duration: 5:29.",
+            "The review supplies rhythmic emphasis but not detailed structure, endpoint, energy, density or transitions."
+          ]
+        },
+        "fitHypothesis": "A drum-forward proposition with attributed bounce is an honest volume-fit lead; whether it deepens or duplicates current groove stages requires evaluation.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether drum-laden bounce deepens the early widening-to-swing run or duplicates it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether the track develops formation before deformation or inserts another completed groove stage."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Perk"
+      },
+      "spotifyTrackId": "3vZSMAzBp0V9pyczvAmYBd",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "Maoupa Mazzocchetti feat. Clara!",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno describes Pariah's exact Mantequilla remix as wild, heavy and acid-seeped.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact remix identity and duration: 4:38.",
+            "The criticism does not establish endpoint, phrase structure, perceived pulse, emotional effect or mixability."
+          ]
+        },
+        "fitHypothesis": "A heavy acid rework of a distinct source form plausibly fits the volume's structural-freedom lens; canonical consequence remains unproved.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "purpose": "Test whether the acid-seeped rework sharpens intensification or adds another force stage."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Truth in Noise and Style Teef",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether the remix contests consolidation before the familiar-grid fault line or makes that passage crowded."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Mantequilla (Pariah Remix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Los Totes Vol. 3",
+        "artist": "WOST & Entrañas",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+        "evidence": {
+          "attributedDescription": "Juno describes Pangaea's exact Miniteca Selvática remix as sturdy while identifying it as a distinct rework.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current exact remix identity and duration: 4:58.",
+            "The terse criticism does not establish groove mechanics, exact endpoint, phrase fit or either handoff."
+          ]
+        },
+        "fitHypothesis": "A cross-scene rework is a credible adjacent contender, but the terse exact-track evidence makes its canonical claim weaker than the top four.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "purpose": "Test whether the sturdy rework prepares the live-band metric left turn or mediates it unnecessarily."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether the remix changes instability before reassembly or adds another formed stage."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Miniteca Selvática (Pangaea Remix)"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "ghostbika",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists Rain Riddim as an exact identity inside a compilation framed around transformed rhythm, swing, new grids, odd metres and polyrhythm.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "Evidence is collection-level and does not establish this track's form, pulse, density, space or endpoint."
+          ]
+        },
+        "fitHypothesis": "The exact identity sits in a strongly relevant emerging field; resolution is warranted while individual behaviour remains unknown.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sawa and Stadium Drive",
+            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
+            "purpose": "Test whether the emerging riddim identity develops the cold open or creates an extended preface."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether the adjacent field changes the flare-to-descent relation or interrupts it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Rain Riddim"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "lil darkonda",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists very66killa as an exact identity within its odd-metre, polyrhythmic and speculative-club compilation.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "The collection frame is not individual rhythmic, structural or transition evidence."
+          ]
+        },
+        "fitHypothesis": "The exact emerging identity is a credible resolver lead because the surrounding project explicitly researches alternative grids, not because its title implies aggression.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Raataja and Crawl",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "purpose": "Test whether the emerging-grid identity enables re-formation into sustained motion or adds unsupported rupture."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "purpose": "Test whether it develops the pre-threshold fault line or crowds it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "very66killa"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "djmu",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists 0to100mimi5fast as an exact identity inside a set described through improvisation, rhythm transformation, odd metres and club-oriented speculative genres.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "Neither title nor compilation description establishes perceived speed, energy, phrase structure or mixability."
+          ]
+        },
+        "fitHypothesis": "The project context supports resolution as a serious structural-freedom lead while every individual sonic claim stays unknown.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Carried and Cave",
+            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "purpose": "Test whether the exact identity changes rupture-to-widening or inserts another unsupported event."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether speculative grid change develops drive-to-instability or overloads it."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "0to100mimi5fast"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "666ridims (2020 - 2026)",
+        "artist": "names9s",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "evidence": {
+          "attributedDescription": "Meakusma lists hubble as an exact identity within a raw collection framed around odd metres, polyrhythm, swing transformation and minimalist speculative club forms.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Official exact title/artist listing; individual duration is unavailable on the current page.",
+            "The release-level evidence cannot establish this track's individual direction, endpoint or transitions."
+          ]
+        },
+        "fitHypothesis": "The exact identity belongs to a credible emerging new-grid field and merits resolution without assuming a cosmic or spacious role from its title.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "purpose": "Test whether the emerging-grid identity changes opposed-speed balance before widening or merely delays it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether it articulates the closing character pivot or crowds the corridor."
+          }
+        ],
+        "releaseDate": "2026-09-03",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "hubble"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "4d3JjEneDi1OlHZoj1KK8e",
+      "uri": "spotify:track:4d3JjEneDi1OlHZoj1KK8e",
+      "name": "Kool Ranch FM",
       "artists": [
-        "Maxime Denuc"
+        "Aquarian"
       ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 336053,
-      "spotifyUrl": "https://open.spotify.com/track/6i68vhnKBXHHbpeEVelnzp",
+      "album": "Split 2",
+      "releaseDate": "2024-08-22",
+      "durationMs": 431506,
+      "spotifyUrl": "https://open.spotify.com/track/4d3JjEneDi1OlHZoj1KK8e",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+      "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -680,7 +838,7 @@
           "outgoingBpm": null,
           "position": "Between Trompe L'oeil and FELT",
           "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test whether temporal dissolution gives FELT a deliberate re-formation context or merely postpones it."
+          "purpose": "Test whether the adjacent-world pivot changes the reset-to-formation passage or overextends it."
         },
         {
           "candidateBpm": null,
@@ -689,39 +847,39 @@
           "outgoingBpm": null,
           "position": "Between Migration and Eyes of the Wind",
           "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether the title track clarifies the late shift from Migration toward Eyes of the Wind or creates a second complete threshold."
+          "purpose": "Test whether the long-form character change clarifies the closing pivot or crowds it."
         }
       ],
-      "fitHypothesis": "An exact work framed around temporal dissolution may fit the selection lens, while canonical purpose at either boundary remains to be proved.",
+      "fitHypothesis": "An exact track described across Latin-techno and tropical-house languages may create a deliberate adjacent-world pivot without requiring genre purity.",
       "evidence": {
-        "attributedDescription": "Denuc's official notes call the title track the album's dreamy core and describe natural delays and breath-like traces dissolving the fabric of time in the record's mirage-like second half.",
+        "attributedDescription": "Juno places the exact Kool Ranch FM between breathless Latin techno and delay-laden tropical-house muscularity.",
         "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official identity and duration: 5:36.",
-          "This is exact-track authorial framing; the candidate's handoffs, endpoint and mixability remain unknown."
+          "Current exact identity and duration: 7:12.",
+          "The attributed genre relation does not establish exact internal form, endpoint, perceived pulse or mixability."
         ]
       },
       "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
+        "album": "Los Totes Vol. 3",
+        "artist": "Aquarian",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
         "evidence": {
-          "attributedDescription": "Denuc's official notes call the title track the album's dreamy core and describe natural delays and breath-like traces dissolving the fabric of time in the record's mirage-like second half.",
+          "attributedDescription": "Juno places the exact Kool Ranch FM between breathless Latin techno and delay-laden tropical-house muscularity.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official identity and duration: 5:36.",
-            "This is exact-track authorial framing; the candidate's handoffs, endpoint and mixability remain unknown."
+            "Current exact identity and duration: 7:12.",
+            "The attributed genre relation does not establish exact internal form, endpoint, perceived pulse or mixability."
           ]
         },
-        "fitHypothesis": "An exact work framed around temporal dissolution may fit the selection lens, while canonical purpose at either boundary remains to be proved.",
+        "fitHypothesis": "An exact track described across Latin-techno and tropical-house languages may create a deliberate adjacent-world pivot without requiring genre purity.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -730,7 +888,7 @@
             "outgoingBpm": null,
             "position": "Between Trompe L'oeil and FELT",
             "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether temporal dissolution gives FELT a deliberate re-formation context or merely postpones it."
+            "purpose": "Test whether the adjacent-world pivot changes the reset-to-formation passage or overextends it."
           },
           {
             "candidateBpm": null,
@@ -739,497 +897,31 @@
             "outgoingBpm": null,
             "position": "Between Migration and Eyes of the Wind",
             "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the title track clarifies the late shift from Migration toward Eyes of the Wind or creates a second complete threshold."
+            "purpose": "Test whether the long-form character change clarifies the closing pivot or crowds it."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Club Imperiale"
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "2fslqKkwBJPyQB7FCh5HcD",
-      "uri": "spotify:track:2fslqKkwBJPyQB7FCh5HcD",
-      "name": "La Paloma",
-      "artists": [
-        "Maxime Denuc"
-      ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 344240,
-      "spotifyUrl": "https://open.spotify.com/track/2fslqKkwBJPyQB7FCh5HcD",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Amor and Elemental Dream",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "purpose": "Test whether the cross-historical construction makes Elemental Dream's change legible or simply precedes it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "purpose": "Test whether the organ/trance character pivot articulates the threshold before U Belong 2 Me or crowds it."
-        }
-      ],
-      "fitHypothesis": "A baroque/progressive-trance relation rendered by programmed organ is an honest structural-freedom lead without relying on novelty alone.",
-      "evidence": {
-        "attributedDescription": "Denuc's official notes identify La Paloma as programmed with his hand-built sequencer and built around perceived affinities between baroque music and progressive trance.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 5:44.",
-          "The source supplies exact conceptual construction but not phrase structure, energy, endpoint or mixability."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify La Paloma as programmed with his hand-built sequencer and built around perceived affinities between baroque music and progressive trance.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:44.",
-            "The source supplies exact conceptual construction but not phrase structure, energy, endpoint or mixability."
-          ]
-        },
-        "fitHypothesis": "A baroque/progressive-trance relation rendered by programmed organ is an honest structural-freedom lead without relying on novelty alone.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether the cross-historical construction makes Elemental Dream's change legible or simply precedes it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether the organ/trance character pivot articulates the threshold before U Belong 2 Me or crowds it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "La Paloma"
+        "track": "Kool Ranch FM"
       }
     },
     {
-      "id": "4tybhmGADaMsAPqyOfqIGa",
-      "uri": "spotify:track:4tybhmGADaMsAPqyOfqIGa",
-      "name": "Pegasus",
+      "id": "3vZSMAzBp0V9pyczvAmYBd",
+      "uri": "spotify:track:3vZSMAzBp0V9pyczvAmYBd",
+      "name": "Perk",
       "artists": [
-        "Maxime Denuc"
+        "Anthony Naples"
       ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 361200,
-      "spotifyUrl": "https://open.spotify.com/track/4tybhmGADaMsAPqyOfqIGa",
+      "album": "Split 3",
+      "releaseDate": "2025-07-24",
+      "durationMs": 329915,
+      "spotifyUrl": "https://open.spotify.com/track/3vZSMAzBp0V9pyczvAmYBd",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+      "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "Test whether the downward sequence deepens the established descent before Rabbit Hole or duplicates it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether a documented descending endpoint makes the late turn more purposeful or overloads the closing corridor."
-        }
-      ],
-      "fitHypothesis": "A directional descent whose title promise is structurally refused is a strong exact lead; its proportional place in STRANGE GAIT remains unproven.",
-      "evidence": {
-        "attributedDescription": "Denuc's official notes identify the exact closer as a long chord sequence moving steadily downward into contemplative reminiscence and explicitly not taking flight.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 6:02.",
-          "The source documents direction and endpoint image, not actual adjacent-track transitions or perceived energy."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify the exact closer as a long chord sequence moving steadily downward into contemplative reminiscence and explicitly not taking flight.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 6:02.",
-            "The source documents direction and endpoint image, not actual adjacent-track transitions or perceived energy."
-          ]
-        },
-        "fitHypothesis": "A directional descent whose title promise is structurally refused is a strong exact lead; its proportional place in STRANGE GAIT remains unproven.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the downward sequence deepens the established descent before Rabbit Hole or duplicates it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether a documented descending endpoint makes the late turn more purposeful or overloads the closing corridor."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Pegasus"
-      }
-    },
-    {
-      "id": "4Kz15biC1FKSuteqOkxWL8",
-      "uri": "spotify:track:4Kz15biC1FKSuteqOkxWL8",
-      "name": "Everytime",
-      "artists": [
-        "Maxime Denuc"
-      ],
-      "album": "Club Imperiale",
-      "releaseDate": "2026-09-11",
-      "durationMs": 276933,
-      "spotifyUrl": "https://open.spotify.com/track/4Kz15biC1FKSuteqOkxWL8",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "purpose": "Test whether the revisionist anthem develops the opening construction or turns it into an extended preface."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "purpose": "Test whether the architectural motif reorients Moonwake's intensification or delays it."
-        }
-      ],
-      "fitHypothesis": "A trance proposition re-formed by pipe-organ architecture is a valid selection-lens lead; placement consequence remains unknown.",
-      "evidence": {
-        "attributedDescription": "Denuc's official notes identify Everytime as a revisionist trance anthem whose core motif is allowed to bounce around the church walls.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 4:36.",
-          "This exact-track description does not establish phrase structure, energy, density or either handoff."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Club Imperiale",
-        "artist": "Maxime Denuc",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://maximedenuc.bandcamp.com/album/club-imperiale",
-        "evidence": {
-          "attributedDescription": "Denuc's official notes identify Everytime as a revisionist trance anthem whose core motif is allowed to bounce around the church walls.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 4:36.",
-            "This exact-track description does not establish phrase structure, energy, density or either handoff."
-          ]
-        },
-        "fitHypothesis": "A trance proposition re-formed by pipe-organ architecture is a valid selection-lens lead; placement consequence remains unknown.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Stadium Drive and Marauder",
-            "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "purpose": "Test whether the revisionist anthem develops the opening construction or turns it into an extended preface."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "purpose": "Test whether the architectural motif reorients Moonwake's intensification or delays it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Everytime"
-      }
-    },
-    {
-      "id": "0w7EVy7nYvVmgRXLOJUL2l",
-      "uri": "spotify:track:0w7EVy7nYvVmgRXLOJUL2l",
-      "name": "Snatch",
-      "artists": [
-        "D1"
-      ],
-      "album": "Tempa Archive, Vol 2: Enigma - EP",
-      "releaseDate": "2026-09-11",
-      "durationMs": 283752,
-      "spotifyUrl": "https://open.spotify.com/track/0w7EVy7nYvVmgRXLOJUL2l",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test whether the archived broken-beat relation changes the instability-to-reassembly passage or crowds it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "purpose": "Test whether the archive cut creates a deliberate threshold or another unsupported pressure stage."
-        }
-      ],
-      "fitHypothesis": "An overlooked dubstep-era cut with attributed broken-beat finesse may fit the selection lens; the exact placement effect remains unproved.",
-      "evidence": {
-        "attributedDescription": "Tempa's official page verifies Snatch as an exact D1 identity on the September 11 archive; Boomkat attributes a nervous-funk and West London broken-beat relation to the exact cut.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 5:06.",
-          "The official release frames the archive as 2002–2006 material; no raw audio was auditioned."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-        "evidence": {
-          "attributedDescription": "Tempa's official page verifies Snatch as an exact D1 identity on the September 11 archive; Boomkat attributes a nervous-funk and West London broken-beat relation to the exact cut.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:06.",
-            "The official release frames the archive as 2002–2006 material; no raw audio was auditioned."
-          ]
-        },
-        "fitHypothesis": "An overlooked dubstep-era cut with attributed broken-beat finesse may fit the selection lens; the exact placement effect remains unproved.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether the archived broken-beat relation changes the instability-to-reassembly passage or crowds it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether the archive cut creates a deliberate threshold or another unsupported pressure stage."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Snatch"
-      }
-    },
-    {
-      "id": "2mqACJ0rkiG9jtz4vd5U9i",
-      "uri": "spotify:track:2mqACJ0rkiG9jtz4vd5U9i",
-      "name": "Earth",
-      "artists": [
-        "D1"
-      ],
-      "album": "Tempa Archive, Vol 2: Enigma - EP",
-      "releaseDate": "2026-09-11",
-      "durationMs": 226000,
-      "spotifyUrl": "https://open.spotify.com/track/2mqACJ0rkiG9jtz4vd5U9i",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "purpose": "Test whether the halfstep language changes the rupture-to-instability run or adds another force stage."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "Test whether the archive cut makes the late descent-to-reopening relation intentional or interrupts it."
-        }
-      ],
-      "fitHypothesis": "An exact archival halfstep identity may create purposeful character change, but neither impact nor flow is inferred from the descriptor.",
-      "evidence": {
-        "attributedDescription": "Tempa's official page verifies Earth as an exact D1 identity on the September 11 archive; Boomkat attributes a neuro halfstep snarl to the exact cut.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official identity and duration: 5:16.",
-          "The official release frames the archive as 2002–2006 material; detailed endpoint and handoffs are unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-        "evidence": {
-          "attributedDescription": "Tempa's official page verifies Earth as an exact D1 identity on the September 11 archive; Boomkat attributes a neuro halfstep snarl to the exact cut.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official identity and duration: 5:16.",
-            "The official release frames the archive as 2002–2006 material; detailed endpoint and handoffs are unknown."
-          ]
-        },
-        "fitHypothesis": "An exact archival halfstep identity may create purposeful character change, but neither impact nor flow is inferred from the descriptor.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether the halfstep language changes the rupture-to-instability run or adds another force stage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the archive cut makes the late descent-to-reopening relation intentional or interrupts it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Earth"
-      }
-    },
-    {
-      "id": "7sGAb6PQxEFQy5CrtMhpJO",
-      "uri": "spotify:track:7sGAb6PQxEFQy5CrtMhpJO",
-      "name": "Tabala",
-      "artists": [
-        "D1"
-      ],
-      "album": "Tempa Archive, Vol 2: Enigma - EP",
-      "releaseDate": "2026-09-11",
-      "durationMs": 339364,
-      "spotifyUrl": "https://open.spotify.com/track/7sGAb6PQxEFQy5CrtMhpJO",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Fulledge (Empty-40 Mix) and Capa",
-          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "purpose": "Test whether the archive identity changes the early rupture-to-reassembly run or adds unsupported contrast."
-        },
         {
           "candidateBpm": null,
           "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
@@ -1237,49 +929,49 @@
           "outgoingBpm": null,
           "position": "Between Cave and Abundance",
           "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test whether the adjacent rhythmic language alters the Cave-to-Abundance relation or merely occupies it."
+          "purpose": "Test whether drum-laden bounce deepens the early widening-to-swing run or duplicates it."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "purpose": "Test whether the track develops formation before deformation or inserts another completed groove stage."
         }
       ],
-      "fitHypothesis": "The attributed cross-reference makes Tabala an honest adjacent catalogue lead, not a canonical claim.",
+      "fitHypothesis": "A drum-forward proposition with attributed bounce is an honest volume-fit lead; whether it deepens or duplicates current groove stages requires evaluation.",
       "evidence": {
-        "attributedDescription": "Tempa's official page verifies Tabala as an exact D1 identity on the September 11 archive; Boomkat attributes a Muslimgauze-adjacent relation to the exact cut.",
+        "attributedDescription": "Juno describes the exact Perk through bouncy, drum-laden weight.",
         "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official identity and duration: 5:38.",
-          "The official release frames the archive as 2002–2006 material; individual form and transitions remain insufficiently documented."
+          "Current exact identity and duration: 5:29.",
+          "The review supplies rhythmic emphasis but not detailed structure, endpoint, energy, density or transitions."
         ]
       },
       "requestedIdentity": {
-        "album": "Tempa Archive, Vol 2: Enigma - EP",
-        "artist": "D1",
+        "album": "Los Totes Vol. 3",
+        "artist": "Anthony Naples",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep",
+        "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
         "evidence": {
-          "attributedDescription": "Tempa's official page verifies Tabala as an exact D1 identity on the September 11 archive; Boomkat attributes a Muslimgauze-adjacent relation to the exact cut.",
+          "attributedDescription": "Juno describes the exact Perk through bouncy, drum-laden weight.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate character change, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official identity and duration: 5:38.",
-            "The official release frames the archive as 2002–2006 material; individual form and transitions remain insufficiently documented."
+            "Current exact identity and duration: 5:29.",
+            "The review supplies rhythmic emphasis but not detailed structure, endpoint, energy, density or transitions."
           ]
         },
-        "fitHypothesis": "The attributed cross-reference makes Tabala an honest adjacent catalogue lead, not a canonical claim.",
+        "fitHypothesis": "A drum-forward proposition with attributed bounce is an honest volume-fit lead; whether it deepens or duplicates current groove stages requires evaluation.",
         "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Fulledge (Empty-40 Mix) and Capa",
-            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "purpose": "Test whether the archive identity changes the early rupture-to-reassembly run or adds unsupported contrast."
-          },
           {
             "candidateBpm": null,
             "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
@@ -1287,14 +979,24 @@
             "outgoingBpm": null,
             "position": "Between Cave and Abundance",
             "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether the adjacent rhythmic language alters the Cave-to-Abundance relation or merely occupies it."
+            "purpose": "Test whether drum-laden bounce deepens the early widening-to-swing run or duplicates it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether the track develops formation before deformation or inserts another completed groove stage."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Tabala"
+        "track": "Perk"
       }
     }
-  ]
+  ],
+  "resolvedAlternates": []
 }
