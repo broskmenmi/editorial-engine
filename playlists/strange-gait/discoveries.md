@@ -1,5 +1,70 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 172 — EXPLORE — a cold open can make reassembly legible — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 47 unique canonical rows, COMPLETE 47/47 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 366 contiguous unique tracks and COMPLETE 366/366 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 61 named tracks and release cuts across September 2026 current-release coverage, Nyege Nyege Tapes and Psychic Hotline label windows, adjacent East African rhythmic innovators, overlooked Congo Techno and experimental-club catalogue, and current inside-out boundaries. Persistent-state checks excluded Run 171 identities and previously unresolved Rey Sapienz tracks. Nine honest leads survived without padding. Sources: https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza ; https://nyegenyegetapes.bandcamp.com/album/kadodi-season ; https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more ; https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala/
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T08:53:44Z-explore-172` was written once from `6a8238017399842dd6b8785fade1ec68d7508925` at commit `e59217ba52ed3536842f4d1bc7ac641b25414fe6`. Matching resolver output at `2026-09-12T08:58:29.962Z`, commit `290f0e604fcfd683d57529b5b4d69526ff953129`, fingerprint `46ef4a806c0d418efdfa6de33fe18854d8830a2e19cea681a67b6573152bad16`: 9 requested, 7 exact resolutions, 3 selected evaluations, 4 unselected alternates and 2 unresolved; `PARTIAL`. No warning, duplicate, substitution, relinking or technical failure.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Jay Mitta — *Mitta Baba Fet*: `no exact Spotify title/artist search match in market SE`
+- DJ Jeff the Lastborn — *Kadodi Season Two*: `no exact Spotify title/artist search match in market SE`
+
+Exact unselected and unevaluated alternates:
+
+- Jay Mitta — *Koma No* — `spotify:track:7JPYPtTmXroRn8l3xzHn8V`
+- Jay Mitta — *Kesheshe Beat* — `spotify:track:4UdrmHJdtRJAL1Yd2Xm2jy`
+- Jay Mitta — *Mwanzo* — `spotify:track:2CiUzQruYxqtGDHUtNvfhx`
+- Jay Mitta — *Funga Mtaa* — `spotify:track:35e4sNncfzT6X3yvPo0s7K`
+
+No resolver warnings were returned.
+
+### Jay Mitta — Sawa — `spotify:track:19htZ2qdGDXVIFxI1ugYtW`
+
+- **Volume fit:** PASS. Nyege Nyege Tapes documents the exact 3:14 track through swinging, ratcheting singeli patterns, distorted blaring leads and hardstyle-inspired kicks that follow the synths into a disorienting vortex. This rhythmic and structural mutation satisfies the selection lens; speed or novelty alone does not.
+- **Immediate transition:** PASS provisionally before *Stadium Drive*. The candidate's documented vortex gives way to the current opener's documented New Age ambience and gradual assembly into broken techno. The cut is intentionally conspicuous; exact endpoint, entry, handoff and mixability remain unknown.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Sawa → Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco` moves from a compact cold-open rupture through self-assembly, two established anchors and later triplet derailment. The production-world change is legible at local scale rather than accidental.
+- **Long-form journey:** PASS provisionally. At 3:14, the addition is proportionate and changes the overture from first construction to reconstruction after an opening rupture. It does not impose a fixed wave or require sonic sameness.
+- **Verdict:** **ADD** before Purelink — *Stadium Drive*. The alternative `Drummz → candidate → Té de Cabello Blanco` is rejected because another complete vortex over-articulates instability before the existing reassembly.
+
+### Jay Mitta — Ubongo Beat — `spotify:track:1YWQHThVF6alS5LErliJbi`
+
+- **Volume fit:** PASS. Nyege Nyege Tapes documents a chaotic cut-and-paste roll of videogame stings, drum fills and DJ tags, with gliding trance stabs over snaps and metallic ticks.
+- **Immediate transition:** REJECT at `Drummz → candidate → Té de Cabello Blanco` and `Same Way → candidate → U Belong 2 Me`. The first overloads an already unstable boundary before reassembly; the second inserts another complete pressure proposition before the established four-on-the-floor-to-funereal threshold.
+- **Surrounding three-to-five-track run:** FAIL at both placements. The middle passage gains a redundant agitation stage, while the late-middle passage crowds the consolidation-to-pressure-to-threshold relation.
+- **Long-form journey:** FAIL for these placements. Its 2:52 duration limits cost, but the documented construction does not make either tested insertion more deliberate.
+- **Verdict:** **REJECT both tested placements only**, not globally. Retain as genuinely interesting.
+
+### Jay Mitta — 44444 — `spotify:track:4K9W3xZ9YorVNKqKnIgxXx`
+
+- **Volume fit:** PASS. Nyege Nyege Tapes documents the exact 3:48 track sandwiching baroque organ stabs between trance supersaws, marimba smacks and a possible amapiano-style log drum. The source's comparatively slower 170 BPM is context, not an energy or flow inference.
+- **Immediate transition:** REJECT at `Hypnic Jerks → candidate → Tides Alternate` and `backsliding → candidate → Mildew Swoosh`. The first inserts a complete layered proposition between acceleration crisis and opposed-speed balance; the second interrupts the existing dissolution-to-temporal-strain relation.
+- **Surrounding three-to-five-track run:** FAIL at both placements. Each creates an extra self-contained stage where the current run already has a specific directional consequence.
+- **Long-form journey:** FAIL for these placements. The track's layered construction remains compelling, but neither insertion improves the 48-track journey enough to justify the added stage.
+- **Verdict:** **REJECT both tested placements only**, not globally. Retain as genuinely interesting.
+
+The two unresolved leads receive no musical verdict. The four exact alternates were not selected or evaluated.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA; the matching PARTIAL snapshot has the correct schemaVersion, runId, sourceCommit, target and fingerprint; 9 requested identities reconcile to 7 exact resolutions and 2 unresolved outcomes. Both exact resolver errors are preserved, and no warnings, duplicates, substitutions, relinkings or technical failures exist. Only the three selected exact identities entered evaluation. Each received separate volume, immediate-transition, local-run and long-form conclusions. UNKNOWN remains UNKNOWN, BPM was not used as energy, and the conspicuous cold open was judged at all scales. The protected internal order remains intact. Auditor approves one canonical ADD, five scoped placement rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **47 → 48 canonical tracks**; add Jay Mitta — *Sawa* before *Stadium Drive*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`, shifted intact to positions 40–42.
+- Local inspiration: all three selected exact tracks retained; two unresolved leads retained for research; four exact alternates remain unevaluated.
+- EDITORIAL ENGINE — DISCOVERY POOL: **366 → 369 exact tracks**, adding *Sawa*, *Ubongo Beat* and *44444*.
+- Journey annotations: add *Sawa* as a provisional hyper-rhythmic cold open before ambient-to-broken-techno reassembly. Generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 selected evaluations + 4 unevaluated alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was **14.8%**, lead-to-resolution conversion **77.8%**, and selected-candidate-to-ADD conversion **33.3%**. Across completed discovery Runs 87–172, excluding process repairs and failed Runs 164 and 167: **711 leads from approximately 4,099 inspections; 33 ADDs from 221 selected candidates**. The recent comparable ADD rate remains **3/10** and the musical no-ADD streak remains zero because Run 172 adds *Sawa*. The result continues the Run 171 over-filtering correction without becoming permissive: a conspicuous transition passes when it is deliberate at transition, local-run and long-form scales, while two other exact candidates fail for placement-specific proportional reasons. It does not prove exact handoffs, endpoints, perceived pulse, energy, density, space, phrase fit, mixability or playlist completion.
+
 ## Run 171 — EXPLORE — deliberate character pivot after the protected block — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 363 contiguous unique tracks and COMPLETE 363/363 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled. The five-run no-ADD streak since Run 161 was treated as an over-filtering audit signal, not a quota.

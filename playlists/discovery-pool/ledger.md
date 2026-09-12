@@ -370,6 +370,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 364 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | STRANGE GAIT Run 171 | Canonical ADD / interesting | 2026-09-12 |
 | 365 | Bonobo | Outlier | spotify:track:6BbFwwHnzY74a8GOsDg8Sn | STRANGE GAIT Run 171 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 366 | Bonobo | ID700 | spotify:track:3SyiwKSFhhIAz1Bb89ihdF | STRANGE GAIT Run 171 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 367 | Jay Mitta | Sawa | spotify:track:19htZ2qdGDXVIFxI1ugYtW | STRANGE GAIT Run 172 | Canonical ADD / interesting | 2026-09-12 |
+| 368 | Jay Mitta | Ubongo Beat | spotify:track:1YWQHThVF6alS5LErliJbi | STRANGE GAIT Run 172 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 369 | Jay Mitta | 44444 | spotify:track:4K9W3xZ9YorVNKqKnIgxXx | STRANGE GAIT Run 172 | Placement-specific REJECT / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

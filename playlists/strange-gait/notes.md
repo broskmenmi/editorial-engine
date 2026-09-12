@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 172 — EXPLORE — rupture before formation
+
+Jay Mitta — *Sawa* (`spotify:track:19htZ2qdGDXVIFxI1ugYtW`) is added before Purelink — *Stadium Drive*. Nyege Nyege Tapes documents the exact 3:14 track through swinging, ratcheting singeli patterns, distorted blaring leads and hardstyle-inspired kicks that enter a disorienting vortex. The following move into *Stadium Drive*'s New Age ambience and gradual broken-techno assembly is a conspicuous cold-open reset, not a seamless-transition claim. Volume fit, transition intent, the surrounding five-track run and long-form proportion pass provisionally.
+
+Jay Mitta — *Ubongo Beat* (`spotify:track:1YWQHThVF6alS5LErliJbi`) and *44444* (`spotify:track:4K9W3xZ9YorVNKqKnIgxXx`) remain genuinely interesting but fail only their tested placements. *Ubongo Beat* overloads the unstable Drummz/Té boundary or crowds the pressure-to-threshold run. *44444* delays opposed-speed balance after *Hypnic Jerks* or interrupts the existing dissolution-to-temporal-strain passage.
+
+Resolver `2026-09-12T08:53:44Z-explore-172`: 9 leads → 7 exact resolutions + 2 unresolved → 3 selected evaluations + 4 unselected alternates → 1 ADD + 2 placement-specific REJECT. Both exact resolver errors are preserved in discoveries.md. There were no warnings, duplicates, substitutions, relinkings or technical failures.
+
+Auditor approves the canonical addition, five scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT becomes 48 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 369 tracks. The protected `Transparency → When We Froze → Stardancer` order remains contiguous and shifts intact to positions 40–42.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 171 — EXPLORE — a deliberate post-block character pivot
 
 Bonobo — *Migration* (`spotify:track:61g7oQKm8DFEL7r2g9LS8x`) is added between Len Faki — *Stardancer* and Azu Tiwaline — *Eyes of the Wind*. Pitchfork documents post-classical piano and an Amen-like drum break arriving midway. The placement is a conspicuous production-world change, not a seamless-transition claim: it leaves the listener-protected internal trio intact, creates a documented piano-to-break pivot, and then yields to the existing liminal-percussion passage. Volume fit, immediate purpose, the surrounding five-track run and long-form proportionality pass provisionally.

@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 172 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Jay Mitta | Sawa | https://open.spotify.com/track/19htZ2qdGDXVIFxI1ugYtW | Canonical ADD before *Stadium Drive*; documented singeli/hardstyle vortex creates a deliberate hyper-rhythmic cold open before ambient-to-broken-techno reassembly. |
+| EXACT TRACK | Jay Mitta | Ubongo Beat | https://open.spotify.com/track/1YWQHThVF6alS5LErliJbi | Placement-specific REJECT only at both tested boundaries; cut-and-paste stings, tags, fills and gliding trance material remain genuinely interesting elsewhere. |
+| EXACT TRACK | Jay Mitta | 44444 | https://open.spotify.com/track/4K9W3xZ9YorVNKqKnIgxXx | Placement-specific REJECT only at both tested boundaries; organ, supersaw, marimba and possible log-drum layering remains genuinely interesting elsewhere. |
+| RESEARCH LEAD | Jay Mitta | Mitta Baba Fet | https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility addition. |
+| RESEARCH LEAD | DJ Jeff the Lastborn | Kadodi Season Two | https://nyegenyegetapes.bandcamp.com/album/kadodi-season | Resolver error `no exact Spotify title/artist search match in market SE`; current pre-release evidence retained without verdict. |
+| EXACT ALTERNATES | Jay Mitta | Koma No; Kesheshe Beat; Mwanzo; Funga Mtaa | spotify:track:7JPYPtTmXroRn8l3xzHn8V ; spotify:track:4UdrmHJdtRJAL1Yd2Xm2jy ; spotify:track:2CiUzQruYxqtGDHUtNvfhx ; spotify:track:35e4sNncfzT6X3yvPo0s7K | Resolved exact identities, unselected and unevaluated; not utility-retention decisions. |
+| RELEASE / LABEL WATCH | Jay Mitta / DJ Jeff the Lastborn / Nyege Nyege Tapes | Kazi Kwanza; Kadodi Season | https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza · https://nyegenyegetapes.bandcamp.com/album/kadodi-season | Current East African rhythmic-adaptation window across singeli and Kadodi; only selected exact identities receive verdicts. |
+
+### Placement and inspiration boundaries
+
+- *Sawa* is provisional; exact endpoint, handoff, perceived pulse, energy, density, space, phrase fit and mixability remain unknown.
+- *Ubongo Beat* and *44444* are not globally rejected.
+- The two unresolved identities receive no verdict and do not enter the global utility ledger.
+- Four exact alternates were not selected or evaluated and do not enter the global utility ledger.
+- No resolver warnings were returned.
+
 ## Run 171 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 172
+
+### Rupture can precede formation
+
+**Direction:** Explore concise cold opens whose conspicuous rhythmic rupture makes an existing overture's construction or reassembly newly legible. Judge the cut at transition, local-run and long-form scales; do not require sonic sameness or invent an endpoint.
+
+**Ingredients:**
+
+- Jay Mitta — *Sawa* — provisional canonical ADD; documented singeli/hardstyle vortex before *Stadium Drive* assembles broken techno from ambience
+- Jay Mitta — *Ubongo Beat* — exact placement-specific reject; cut-and-paste whirlwind remains useful outside the tested instability and pressure boundaries
+- Jay Mitta — *44444* — exact placement-specific reject; layered organ/supersaw/marimba construction remains useful outside the tested acceleration and dissolution passages
+- Jay Mitta — *Mitta Baba Fet* and DJ Jeff the Lastborn — *Kadodi Season Two* — unresolved current-release research leads
+- Jay Mitta — *Koma No*, *Kesheshe Beat*, *Mwanzo* and *Funga Mtaa* — exact unselected, unevaluated alternates
+
+**Why interesting:** A journey need not begin with orderly construction. A brief rupture can make the following assembly feel purposeful when the hard change is proportionate and legible at several scales.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 171
 
 ### Character change can be the consequence
