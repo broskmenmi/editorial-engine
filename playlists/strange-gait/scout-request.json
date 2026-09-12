@@ -1,54 +1,54 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-12T08:53:44Z-explore-172",
-  "sourceCommit": "6a8238017399842dd6b8785fade1ec68d7508925",
+  "runId": "2026-09-12T09:56:48Z-explore-173",
+  "sourceCommit": "c7a2fcf43580b6e6203f4cf19e143224886f7fb0",
   "target": "playlists/strange-gait/",
   "mode": "EXPLORE",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T08:53:44Z",
-    "approximateInspectedScope": "Approximately 61 named tracks and release cuts across September 2026 current-release coverage, Nyege Nyege Tapes and Psychic Hotline label windows, adjacent East African rhythmic innovators, overlooked Congo Techno and experimental-club catalogue, and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
+    "timestampUtc": "2026-09-12T09:56:48Z",
+    "approximateInspectedScope": "Approximately 59 named tracks, releases and catalogue cuts across September 9–12, 2026 current electronic coverage, Blawan's current XL return, overlooked SickElixir and Woke Up Right Handed exact-track criticism, adjacent Karenn catalogue, Bandcamp Daily's August-electronic survey, the emerging Mossacre release, and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Nyege Nyege Tapes' official September 4, 2026 notes for Jay Mitta's Kazi Kwanza supplied exact track titles and descriptions across singeli, trap, trance, grime, drill and hard-techno adaptations. https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "ADJACENT / EMERGING WINDOW: Nyege Nyege Tapes' September 18, 2026 Kadodi Season pre-release page supplied one currently available exact track and documented DJ Jeff the Lastborn's reconfiguration of Kadodi rhythm. https://nyegenyegetapes.bandcamp.com/album/kadodi-season",
-      "CURRENT CROSS-PRODUCTION WINDOW: Pitchfork's September 11, 2026 release roundup and July 21 Sylvan Esso announcement were inspected; only exact-track evidence survived initial review and no thinly described identity was ranked above the stronger Nyege cohort. https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more",
-      "OVERLOOKED CATALOGUE WINDOW: Rey Sapienz and the Congo Techno Ensemble, Errorsmith and related experimental-club catalogue were re-audited; previously unresolved or handled exact identities were excluded from this immutable request. https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala/"
+      "CURRENT RELEASE WINDOW: The Quietus' September 9, 2026 report on Blawan's Gi Mi Keys Back / Auto Fake supplied current title, release context and the lead track's availability. https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/",
+      "OVERLOOKED CATALOGUE WINDOW: Pitchfork, The Quietus, The Fader and DJ Mag exact-track criticism for SickElixir and Woke Up Right Handed supplied candidate-specific structural descriptions. https://pitchfork.com/reviews/albums/blawan-sickelixir/",
+      "ADJACENT WINDOW: Pitchfork's Grapefruit Regret review supplied an exact Karenn track lead within groove-oriented hardware techno. https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/",
+      "EMERGING WINDOW: Bandcamp Daily's September 9, 2026 electronic survey and Mossacre's official August 21 release page supplied an emerging outsider-electronic lead. https://mossacre.bandcamp.com/album/scaping"
     ],
     "exclusions": [
-      "Run 171 selected and alternate Bonobo identities were not recycled.",
-      "Rey Sapienz & The Congo Techno Ensemble — Santonge and Dancehall Pigme were excluded because persistent state already records unresolved Spotify-SE outcomes.",
-      "Previously handled Nyege Nyege, Hakuna Kulala and experimental-club identities were excluded after checks against the canonical ledger, discoveries, discovery pool, rejected, revisit and archived history.",
-      "Nine honest leads survived on exact-track evidence; no unresolved persistent identity was recycled and the request was not padded.",
-      "All proposed placement URIs were derived from the current 47-track ledger and verified as adjacent before this request was written.",
+      "Runs 165–172 selected, alternate, unresolved and source ecosystems were not recycled.",
+      "Previously handled Blawan collaboration Thistle remained unresolved and was not retried without materially new identity evidence.",
+      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits and exact tracks already in the global utility ledger were excluded.",
+      "Nine honest leads survived; the artist concentration reflects the strongest exact-track evidence, not a quota or one-room rule.",
+      "All proposed placement URIs were derived from the current 48-track ledger and verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Jay Mitta — Sawa",
-      "2. Jay Mitta — Ubongo beat",
-      "3. Jay Mitta — 44444",
-      "4. Jay Mitta — Koma No",
-      "5. Jay Mitta — Mitta Baba Fet",
-      "6. DJ Jeff the Lastborn — Kadodi Season Two",
-      "7. Jay Mitta — Kesheshe beat",
-      "8. Jay Mitta — Mwanzo",
-      "9. Jay Mitta — Funga mtaa"
+      "1. Blawan — Style Teef",
+      "2. Blawan — The GL Lights",
+      "3. Blawan — NOS",
+      "4. Blawan — Gi Mi Keys Back",
+      "5. Blawan — Casch",
+      "6. Blawan — WTF",
+      "7. Blawan — Under Belly",
+      "8. Karenn — Lemon Dribble",
+      "9. Mossacre — Assignment Modulation (Instrumental)"
     ]
   },
   "leads": [
     {
-      "artist": "Jay Mitta",
-      "track": "Sawa",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
+      "artist": "Blawan",
+      "track": "Style Teef",
+      "album": "SickElixir",
+      "releaseDate": "2025-10-10",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact opener through swinging, ratcheting singeli patterns and distorted blaring leads that tangle with hardstyle-inspired kicks and follow the synths into a disorienting vortex.",
+      "discoverySource": "https://www.thefader.com/2025/10/10/blawan-sickelixir-review",
+      "fitHypothesis": "The Fader describes the exact track as starting from a classic Detroit-techno drum line and becoming increasingly elusive and frazzled.",
       "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact opener through swinging, ratcheting singeli patterns and distorted blaring leads that tangle with hardstyle-inspired kicks and follow the synths into a disorienting vortex.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a complete disorientation arc can open or interrupt the journey without mistaking intensity or novelty for sequence value.",
+        "attributedDescription": "The Fader describes the exact track as starting from a classic Detroit-techno drum line and becoming increasingly elusive and frazzled.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a documented change from legible drum line to frazzled elusiveness creates useful reorientation rather than another self-contained mutation.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -57,13 +57,13 @@
       },
       "proposedPlacements": [
         {
-          "position": "Before Stadium Drive",
-          "precedingUri": null,
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "position": "Between Truth in Noise and Same Way",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test a conspicuous hyper-rhythmic opening before the current ambience-to-broken-techno assembly."
+          "purpose": "Test whether legible-to-frazzled motion changes the consolidation-to-alternating-pressure relation."
         },
         {
           "position": "Between Drummz and Té de Cabello Blanco",
@@ -72,193 +72,25 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the vortex gives Té de Cabello Blanco new reassembly work or merely adds another agitation stage."
+          "purpose": "Test whether the frazzled turn gives the following reassembly a distinct task or merely extends instability."
         }
       ]
     },
     {
-      "artist": "Jay Mitta",
-      "track": "Ubongo beat",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
+      "artist": "Blawan",
+      "track": "The GL Lights",
+      "album": "SickElixir",
+      "releaseDate": "2025-10-10",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as a chaotic cut-and-paste roll of videogame stings, drum fills and DJ tags, augmented by gliding trance stabs over a whirlwind of snaps and metallic ticks.",
+      "discoverySource": "https://pitchfork.com/reviews/albums/blawan-sickelixir/",
+      "fitHypothesis": "Pitchfork describes the exact opener through lurching vocal cadence and controlled chaos, with techno extracted from mechanized grit through sharp edges and switchbacks until the frame contorts into a new picture.",
       "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact track as a chaotic cut-and-paste roll of videogame stings, drum fills and DJ tags, augmented by gliding trance stabs over a whirlwind of snaps and metallic ticks.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether simultaneous cut-and-paste and gliding material creates a legible local consequence rather than a self-contained display.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the whirlwind changes the following reassembly task or overloads an already unstable boundary."
-        },
-        {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether cut-and-paste motion makes the following threshold newly meaningful or inserts another complete pressure stage."
-        }
-      ]
-    },
-    {
-      "artist": "Jay Mitta",
-      "track": "44444",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact track at a comparatively slower 170 BPM, sandwiching baroque organ stabs between trance supersaws, marimba smacks and a possible amapiano-style log drum.",
-      "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact track at a comparatively slower 170 BPM, sandwiching baroque organ stabs between trance supersaws, marimba smacks and a possible amapiano-style log drum.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Use the documented 170 BPM only as context while testing whether its layered proposition can orient or complicate a neighbouring run.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the track extends the acceleration crisis productively before opposed-speed balance or merely delays that balance."
-        },
-        {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the organ-and-supersaw construction changes the dissolution-to-temporal-strain passage or interrupts it."
-        }
-      ]
-    },
-    {
-      "artist": "Jay Mitta",
-      "track": "Koma No",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as descending into disorder and dissonance.",
-      "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact track as descending into disorder and dissonance.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test a documented descent without inferring its starting state, endpoint or mix behavior.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Roxellana and backsliding",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether one descent meaningfully reframes the existing rhythm-to-dissonance dissolution or duplicates it."
-        },
-        {
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether disorder gives the dead-space descent new context or creates a redundant double descent."
-        }
-      ]
-    },
-    {
-      "artist": "Jay Mitta",
-      "track": "Mitta Baba Fet",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as a dancehall-inflected, high-NRG response to the Streets of Rage II soundtrack, complete with overdriven guitars and 16-bit bleeps.",
-      "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact track as a dancehall-inflected, high-NRG response to the Streets of Rage II soundtrack, complete with overdriven guitars and 16-bit bleeps.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test a conspicuous production-world turn by its transition, local-run and long-form effect rather than its stylistic novelty.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the digital-guitar turn develops the live-band left turn or postpones the direct electronic return."
-        },
-        {
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its dancehall-inflected construction changes the formation-to-deformation run or adds another formed groove."
-        }
-      ]
-    },
-    {
-      "artist": "DJ Jeff the Lastborn",
-      "track": "Kadodi Season Two",
-      "album": "Kadodi Season",
-      "releaseDate": "2026-09-18",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kadodi-season",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact currently available pre-release track as shuffling around a central four-on-the-floor pulse, with syncopated cracks, metallic clangs and amapiano-inspired FM synths.",
-      "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact currently available pre-release track as shuffling around a central four-on-the-floor pulse, with syncopated cracks, metallic clangs and amapiano-inspired FM synths.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test rhythmic adaptation without treating four-on-the-floor framing as proof of energy or compatibility.",
+        "attributedDescription": "Pitchfork describes the exact opener through lurching vocal cadence and controlled chaos, with techno extracted from mechanized grit through sharp edges and switchbacks until the frame contorts into a new picture.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a complete contortion can function as deliberate character change without being admitted for spectacle alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -273,34 +105,244 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the shuffled central pulse sharpens the coming live-band pulse illusion or mediates it."
+          "purpose": "Test whether the contorted frame sharpens the coming live-band left turn or mediates it."
         },
         {
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the syncopated adaptation changes the consolidation-to-alternating-pressure relation."
+          "purpose": "Test whether controlled chaos productively changes the late piano-to-break pivot or overloads the closing corridor."
         }
       ]
     },
     {
-      "artist": "Jay Mitta",
-      "track": "Kesheshe beat",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
+      "artist": "Blawan",
+      "track": "NOS",
+      "album": "SickElixir",
+      "releaseDate": "2025-10-10",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as mashing minimal techno's rolling bass with sizzling high-end horns.",
+      "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/sickelixir-blawan-review/",
+      "fitHypothesis": "The Quietus describes the exact track through furious burnt-edge basslines and blasts of distorted melody, likening its nightclub effect to a hostile takeover.",
       "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact track as mashing minimal techno's rolling bass with sizzling high-end horns.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test a rolling-bass and horn proposition without inferring its endpoint, density or mixability.",
+        "attributedDescription": "The Quietus describes the exact track through furious burnt-edge basslines and blasts of distorted melody, likening its nightclub effect to a hostile takeover.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test conspicuous force by transition, local-run and long-form proportionality rather than treating impact as sufficient.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the hostile-takeover force changes the hinge into Drummz or creates another force stage."
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the bass-and-melody assault gives U Belong 2 Me a meaningful threshold or crowds it."
+        }
+      ]
+    },
+    {
+      "artist": "Blawan",
+      "track": "Gi Mi Keys Back",
+      "album": "Gi Mi Keys Back / Auto Fake",
+      "releaseDate": "2026-09-09",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/",
+      "fitHypothesis": "The Quietus identifies the exact current lead track within Blawan's mischievous modular-techno language and a renewed dancefloor-directed excursion; it does not document the individual track's internal form.",
+      "evidence": {
+        "attributedDescription": "The Quietus identifies the exact current lead track within Blawan's mischievous modular-techno language and a renewed dancefloor-directed excursion; it does not document the individual track's internal form.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the current exact identity while keeping structure, endpoint and handoffs explicitly unknown.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Sawa and Stadium Drive",
+          "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the current dancefloor excursion clarifies or weakens the cold-open rupture into assembly."
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a modular-techno character turn changes the pressure-to-threshold passage."
+        }
+      ]
+    },
+    {
+      "artist": "Blawan",
+      "track": "Casch",
+      "album": "SickElixir",
+      "releaseDate": "2025-10-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/sickelixir-blawan-review/",
+      "fitHypothesis": "The Quietus describes the exact industrial-techno track as peppering inherited rhythmic machinery with clicks, ticks, pops, whirrs, buzzes, clangs and mechanised violence.",
+      "evidence": {
+        "attributedDescription": "The Quietus describes the exact industrial-techno track as peppering inherited rhythmic machinery with clicks, ticks, pops, whirrs, buzzes, clangs and mechanised violence.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether the documented additions create a distinct structural consequence rather than merely a compelling surface.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether mechanised punctuation changes the transition from formation into weight-shifted dub motion."
+        },
+        {
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the industrial construction alters the formation-to-deformation run or adds another formed stage."
+        }
+      ]
+    },
+    {
+      "artist": "Blawan",
+      "track": "WTF",
+      "album": "SickElixir",
+      "releaseDate": "2025-10-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://djmag.com/reviews/blawan-sickelixir",
+      "fitHypothesis": "DJ Mag describes the exact track as mutant electro with a funkier undercurrent capable of moving bodies in a conventional dancefloor setting.",
+      "evidence": {
+        "attributedDescription": "DJ Mag describes the exact track as mutant electro with a funkier undercurrent capable of moving bodies in a conventional dancefloor setting.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test rhythmic mutation without equating funk or bodily usefulness with sequence fit.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether mutant electro changes the local pressure relation or repeats a complete groove proposition."
+        },
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the electro turn makes the following weight shift deliberate or merely changes genre."
+        }
+      ]
+    },
+    {
+      "artist": "Blawan",
+      "track": "Under Belly",
+      "album": "Woke Up Right Handed",
+      "releaseDate": "2021",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://pitchfork.com/reviews/albums/blawan-woke-up-right-handed-ep/",
+      "fitHypothesis": "Pitchfork identifies the exact track through chaotic, unpredictable rhythms and a volcanic bassline, presenting it as the EP's most radical break from dancefloor norms.",
+      "evidence": {
+        "attributedDescription": "Pitchfork identifies the exact track through chaotic, unpredictable rhythms and a volcanic bassline, presenting it as the EP's most radical break from dancefloor norms.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether radical unpredictability makes a left turn legible across three scales rather than earning admission through novelty.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Hypnic Jerks and Tides Alternate",
+          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether chaos sharpens the existing acceleration-to-orientation relation or overloads it."
+        },
+        {
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether volcanic unpredictability gives reassembly a changed task or merely compounds instability."
+        }
+      ]
+    },
+    {
+      "artist": "Karenn",
+      "track": "Lemon Dribble",
+      "album": "Grapefruit Regret",
+      "releaseDate": "2019",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/",
+      "fitHypothesis": "Pitchfork cites the exact track as part of Karenn's funkier, lighter and more groove-oriented side within a direct hardware techno record.",
+      "evidence": {
+        "attributedDescription": "Pitchfork cites the exact track as part of Karenn's funkier, lighter and more groove-oriented side within a direct hardware techno record.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve an adjacent exact identity and test a character change without inferring structure, energy or handoff quality.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -315,34 +357,34 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the track changes the established consolidation-to-pressure relation or merely extends it."
+          "purpose": "Test whether the lighter groove changes the consolidation-to-pressure run or simply inserts contrast."
         },
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether rolling bass and horns alter the reset-to-formation run or add another complete formation."
+          "purpose": "Test whether the groove-oriented turn develops or delays the current formation-to-deformation passage."
         }
       ]
     },
     {
-      "artist": "Jay Mitta",
-      "track": "Mwanzo",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
+      "artist": "Mossacre",
+      "track": "Assignment Modulation (Instrumental)",
+      "album": "Scaping",
+      "releaseDate": "2026-08-21",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes identifies the exact track as the album's elegiac, more melancholy turn.",
+      "discoverySource": "https://mossacre.bandcamp.com/album/scaping",
+      "fitHypothesis": "Mossacre's official current release page verifies the exact 2:00 instrumental title and states that drum programming appears on the album; Bandcamp Daily describes the project as outsider electronic music using cheap keyboard drum machines, but supplies no exact-track structure.",
       "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes identifies the exact track as the album's elegiac, more melancholy turn.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test a character change without inferring rhythm, space, energy, endpoint or emotional effect beyond the source's attributed description.",
+        "attributedDescription": "Mossacre's official current release page verifies the exact 2:00 instrumental title and states that drum programming appears on the album; Bandcamp Daily describes the project as outsider electronic music using cheap keyboard drum machines, but supplies no exact-track structure.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the emerging exact identity while keeping its individual rhythmic design and canonical belonging unproven.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -351,64 +393,22 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether an elegiac turn makes the documented piano-to-break pivot more deliberate or adds another threshold."
+          "purpose": "Test a brief emerging-electronic interruption without presuming its production-world or rhythmic behaviour."
         },
         {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the character turn changes the descent-to-re-entry relation or prolongs the closing corridor."
-        }
-      ]
-    },
-    {
-      "artist": "Jay Mitta",
-      "track": "Funga mtaa",
-      "album": "Kazi Kwanza",
-      "releaseDate": "2026-09-04",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
-      "fitHypothesis": "Nyege Nyege Tapes describes the exact 1:13 album finale as brief, freewheeling and carnival-bound.",
-      "evidence": {
-        "attributedDescription": "Nyege Nyege Tapes describes the exact 1:13 album finale as brief, freewheeling and carnival-bound.",
-        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test concise punctuation without inferring its internal form, energy, endpoint or ability to close this different journey.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether brief carnival punctuation makes the following descent more consequential or merely delays it."
-        },
-        {
-          "position": "After Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "followingUri": null,
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the brief finale changes the afterword into a deliberate final release or appends a second ending."
+          "purpose": "Test whether a two-minute instrumental could articulate the late character pivot; exact form remains unknown."
         }
       ]
     }
