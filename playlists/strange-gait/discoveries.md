@@ -1,5 +1,77 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 191 — EXPLORE — fixed grid as re-entry — 2026-09-12
+
+**runId:** `2026-09-12T21:53:50Z-explore-191`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 51 unique canonical tracks; the generated map matched the ledger; the protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 43–45; no active listener discussion, current TRIGGERED revisit, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 59 named tracks, releases, reviews and catalogue references were inspected across the live September 2026 Boomkat, Resident Advisor and Bandcamp windows; Alexander Holm's current Stroom edition; adjacent Metempsychosis material; Planet Rhythm's 2026 catalogue; and current inside-out boundaries. Runs 168–190 fields and every recorded canonical, evaluated, parked, rejected, unresolved, alternate or utility identity were excluded. Nine exact-title leads survived without padding.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request was written against sourceCommit `7ad0fb0f3090e882322a1dd04c784098e24b9d7f` at request commit `221d44e0aae4e2a52051a9366338565b51cc8c69`. The matching snapshot at `3a8b9dbd6fea22043d7e0727c818b21ef1ec3858` is internally valid and `COMPLETE`: **9 requested = 9 exact resolutions = 3 selected candidates + 6 unevaluated alternates**; no unresolved identities, duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Alexander Holm, Francesca Burattelli — *Egue into hs* — `spotify:track:2HiLKItrGfvkF6F9KjJlRV` — 6:32.
+- Flaminia, Caco Menegaz — *The Sahara (Caco Menegaz Live Didgeridoo)* — `spotify:track:0ajHfA26eBJD08ccmHxVhJ` — 6:54.
+- Jon Head — *Keysweet* — `spotify:track:1ft4GBwmmxkUh9Z5id9vrT` — 5:04; 140 BPM from the declared Beatport source.
+
+Exact but unselected and unevaluated: Flaminia — *Confrontation* (`spotify:track:6NspHFIlvsebslWNGcutEd`) and *Intention* (`spotify:track:2Ngn5qiuMCyIxipMs07RBS`); Jon Head — *Broken Bells* (`spotify:track:5yV9GpxjIaRmtzWlj6X3ml`) and *Damage Flux* (`spotify:track:4z9X2lgzA9FhllrdclTfmo`); Alexander Holm — *News* (`spotify:track:4hdBHvkZ4xDqrDFzuByUaN`) and *It's time* (`spotify:track:1VE52tjg6ZoGbHDFbjfb4E`).
+
+Every resolver warning is preserved exactly:
+
+- Alexander Holm — *Egue Into Hs*: `Exact title/artist matched with release metadata variance: album requested "Dial / Head Stroll" but Spotify returned "Dial"; release date requested "2026-09-04" but Spotify returned "2026-08-18"`
+- Flaminia — *The Sahara (Caco Menegaz Live Didgeridoo)*: `Exact title/artist matched with release metadata variance: album requested "Samskaras (feat. Benas BAR & Caco Menegaz)" but Spotify returned "Samskaras"`
+- Flaminia — *Confrontation*: `Exact title/artist matched with release metadata variance: album requested "Samskaras (feat. Benas BAR & Caco Menegaz)" but Spotify returned "Samskaras"`
+- Alexander Holm — *News*: `Exact title/artist matched with release metadata variance: album requested "Dial / Head Stroll" but Spotify returned "Dial"; release date requested "2026-09-04" but Spotify returned "2026-08-18"`
+- Flaminia — *Intention*: `Exact title/artist matched with release metadata variance: album requested "Samskaras (feat. Benas BAR & Caco Menegaz)" but Spotify returned "Samskaras"`
+- Alexander Holm — *It's Time*: `Exact title/artist matched with release metadata variance: album requested "Dial / Head Stroll" but Spotify returned "Dial"; release date requested "2026-09-04" but Spotify returned "2026-08-18"`
+
+### Candidate evaluation — Alexander Holm, Francesca Burattelli — Egue into hs
+
+- **Volume fit:** PASS. Boomkat describes the exact track as slow-motion, worn house built from electro-acoustic saturation under one unrelenting kick. The tension between fixed grid and unstable material directly fits the selection lens without requiring novelty as a role.
+- **Immediate transition:** provisional PASS at `Tender Is The Night → candidate → Cave`. The fixed kick gives the preceding held suspension a legible rhythmic re-entry, while the following widening supplies a consequence. The character change is conspicuous rather than presented as seamless; exact handoffs remain UNKNOWN.
+- **Surrounding three-to-five-track run:** PASS. `Carried → Tender Is The Night → Egue into hs → Cave → Abundance` reads as emptying → suspension → fixed-pulse re-entry inside unstable material → widening → swung continuation. The candidate changes how both neighbours function rather than merely adding another production world.
+- **Long-form journey:** PASS. It turns the new early held interval into a two-step suspension-and-return passage without touching protected state or imposing a single summit.
+- **Alternative placement:** REJECT at `Trompe L'oeil → candidate → FELT`; a 6:32 fixed-grid stage after the staggered reset makes the reset-to-formation passage over-explicit before *FELT*.
+- **Verdict:** **ADD** between *Tender Is The Night* and *Cave*. Phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Candidate evaluation — Flaminia, Caco Menegaz — The Sahara (Caco Menegaz Live Didgeridoo)
+
+- **Volume fit:** provisional PASS. The exact identity includes live didgeridoo inside an officially described broken-techno release about patterns forming, repeating and occasionally breaking open. That supports selection interest without establishing the track's complete arc.
+- **Immediate transition:** PARKED at `Raataja → candidate → Crawl`. A live-instrument intervention could make burst-and-disappearance yield purposefully to sustained motion, but the available source does not establish its individual rhythmic direction or endpoint.
+- **Surrounding three-to-five-track run:** PARKED. `Moonwake → Raataja → candidate → Crawl → Fulledge (Empty-40 Mix)` could gain a useful material transformation or another isolated left turn; lawful writing cannot distinguish them.
+- **Long-form journey:** PARKED. The 6:54 duration makes the insertion consequential, but the long-form gain is unproven.
+- **Alternative placement:** REJECT at `backsliding → candidate → Mildew Swoosh`; another extended, incompletely described stage delays the direct dissolution-to-temporal-strain relation without connective evidence.
+
+### Candidate evaluation — Jon Head — Keysweet
+
+- **Volume fit:** provisional PASS. The exact 5:04 identity is classified as raw/deep/hypnotic techno at a reported 140 BPM. Neither category nor tempo proves energy, hypnosis, flow or canonical belonging.
+- **Immediate transition:** PARKED at `Pulse I → candidate → Roxellana`. The measured scale makes the test concrete, but no track-specific form or endpoint shows whether it develops crooked accumulation or inserts a self-contained lock.
+- **Surrounding three-to-five-track run:** PARKED. `Tehutis Law → Pulse I → candidate → Roxellana → backsliding` has a plausible measured continuation, while transition and local-run consequence remain unknown.
+- **Long-form journey:** PARKED. A less-conspicuous techno insertion may preserve flow, but smoothness and close tempo are not sufficient reasons to add.
+- **Alternative placement:** REJECT at `Drummz → candidate → Té de Cabello Blanco`; an undescribed intervening techno stage risks softening a direct instability-to-reassembly consequence without evidence of gain.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode, target and request fingerprint. Only the three selected exact identities were evaluated; all six exact alternates remain unevaluated. Every warning is preserved. Each candidate received separate volume-fit, immediate-transition, local-run and long-form assessment. The ADD is justified by a specific two-sided passage consequence, not novelty, genre, BPM or a demand for sonic sameness. The two PARKED outcomes preserve candidate-specific uncertainty without converting UNKNOWN facts into a veto. All alternate rejections are placement-specific. The protected trio remains intact.
+
+### Durable result
+
+- STRANGE GAIT: **51 → 52 canonical tracks**; add Alexander Holm, Francesca Burattelli — *Egue into hs* at position 8.
+- Listener-protected sequence remains contiguous, now positions 44–46.
+- *The Sahara (Caco Menegaz Live Didgeridoo)* and *Keysweet* are PARKED at one lawful placement each; each has one placement-specific alternate rejection.
+- Target-local discovery and set-direction layers retain the three selected identities, six exact unevaluated alternates and the three research windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **397 → 400 exact tracks**, adding the three selected identities as ADD / interesting or PARKED / interesting.
+- Journey annotations add the provisional fixed-kick re-entry; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 59 inspected → 9 ranked leads → 9 exact resolutions → 3 evaluations + 6 unevaluated alternates → **1 ADD + 2 PARKED + 3 alternate placement rejections** → 3 utility additions. Inspection-to-lead conversion is 15.3%; lead-to-resolution conversion is 100%; selected-candidate-to-ADD conversion is 33.3%. Across completed discovery Runs 87–191, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **819 leads from approximately 4,829 inspections; 37 ADDs from 252 selected candidates**. The recent comparable ADD rate becomes 4/10 and the musical no-ADD streak resets to zero. The result is candidate-specific: a hard production-world turn passes because it changes both neighbours, while a measured conventional techno identity remains PARKED because close tempo cannot prove sequence value. No actionable REPAIR emerges.
+
 ## Run 190 — EXPLORE — exact identity without individual form — 2026-09-12
 
 **runId:** `2026-09-12T20:53:16Z-explore-190`

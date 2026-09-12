@@ -1,5 +1,16 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 191 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / ADD | Alexander Holm, Francesca Burattelli | Egue into hs | `spotify:track:2HiLKItrGfvkF6F9KjJlRV` · https://open.spotify.com/track/2HiLKItrGfvkF6F9KjJlRV · https://boomkat.com/products/dial-head-stroll | Canonical ADD only between *Tender Is The Night* and *Cave*; alternate after *Trompe L'oeil* rejected. Added globally. |
+| EXACT TRACK / PARKED | Flaminia, Caco Menegaz | The Sahara (Caco Menegaz Live Didgeridoo) | `spotify:track:0ajHfA26eBJD08ccmHxVhJ` · https://open.spotify.com/track/0ajHfA26eBJD08ccmHxVhJ · https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras | PARKED only between *Raataja* and *Crawl*; alternate before *Mildew Swoosh* rejected. Added globally. |
+| EXACT TRACK / PARKED | Jon Head | Keysweet | `spotify:track:1ft4GBwmmxkUh9Z5id9vrT` · https://open.spotify.com/track/1ft4GBwmmxkUh9Z5id9vrT · https://planetrhythm.bandcamp.com/album/broken-bells-ep | PARKED only between *Pulse I* and *Roxellana*; 140 BPM is context, not flow proof. Alternate before *Té de Cabello Blanco* rejected. Added globally. |
+| EXACT ALTERNATES / UNEVALUATED | Flaminia; Jon Head; Alexander Holm | Confrontation; Intention; Broken Bells; Damage Flux; News; It's time | `spotify:track:6NspHFIlvsebslWNGcutEd`; `spotify:track:2Ngn5qiuMCyIxipMs07RBS`; `spotify:track:5yV9GpxjIaRmtzWlj6X3ml`; `spotify:track:4z9X2lgzA9FhllrdclTfmo`; `spotify:track:4hdBHvkZ4xDqrDFzuByUaN`; `spotify:track:1VE52tjg6ZoGbHDFbjfb4E` | Resolver-confirmed alternates only; not selected, evaluated, retained globally or assigned canonical verdicts. |
+| RELEASE / LABEL WATCH | STROOM; Metempsychosis; Planet Rhythm | Dial / Head Stroll; Samskaras; Broken Bells EP | https://wordandsound.net/release/170014-STRLP-105-Alexander-Holm-Dial--Head-Stroll · https://metempsychosisrecords.bandcamp.com/album/flaminia-samskaras · https://planetrhythm.bandcamp.com/album/broken-bells-ep | Current, adjacent and overlooked windows for fixed-grid/electro-acoustic tension, pattern formation/breaking and measured less-conspicuous techno. |
+| SET DIRECTION | — | Fixed grid as re-entry | target-local idea only | Let one fixed pulse articulate a return from suspension; then require the move to change both neighbours rather than merely display another production world. Not a proven live sequence or mixing edge. |
+
 ## Run 190 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

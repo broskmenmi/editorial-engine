@@ -401,6 +401,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 395 | December | An Accident In Favor Of Human Life | spotify:track:5FBmczdFYKD96A5pIf4RWO | STRANGE GAIT Run 190 | PARKED / interesting | 2026-09-12 |
 | 396 | December | No Photographs, Only Memories | spotify:track:1BiLmWmeEZG4RoK3IUsg8W | STRANGE GAIT Run 190 | PARKED / interesting | 2026-09-12 |
 | 397 | December | Modern Phobias | spotify:track:4sQ6noGSMh1iaWn4EeJqIL | STRANGE GAIT Run 190 | PARKED / interesting | 2026-09-12 |
+| 398 | Alexander Holm, Francesca Burattelli | Egue into hs | spotify:track:2HiLKItrGfvkF6F9KjJlRV | STRANGE GAIT Run 191 | ADD / interesting | 2026-09-12 |
+| 399 | Flaminia, Caco Menegaz | The Sahara (Caco Menegaz Live Didgeridoo) | spotify:track:0ajHfA26eBJD08ccmHxVhJ | STRANGE GAIT Run 191 | PARKED / interesting | 2026-09-12 |
+| 400 | Jon Head | Keysweet | spotify:track:1ft4GBwmmxkUh9Z5id9vrT | STRANGE GAIT Run 191 | PARKED / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

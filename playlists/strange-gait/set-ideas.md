@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 191
+
+### Let a fixed grid articulate re-entry
+
+**Direction:** Explore moments where a stable pulse returns inside unstable material after a held or drifting passage. The move may change production world conspicuously; it earns sequence space only when both its incoming and outgoing relations become clearer.
+
+**Ingredients:**
+
+- Luigi Tozzi — *Tender Is The Night* — canonical held suspension
+- Alexander Holm, Francesca Burattelli — *Egue into hs* — canonical fixed-kick/electro-acoustic re-entry, `spotify:track:2HiLKItrGfvkF6F9KjJlRV`
+- Rene Wise — *Cave* — canonical widening consequence
+- Flaminia, Caco Menegaz — *The Sahara (Caco Menegaz Live Didgeridoo)* — exact PARKED material-transformation question, `spotify:track:0ajHfA26eBJD08ccmHxVhJ`
+- Jon Head — *Keysweet* — exact PARKED measured-continuation question, `spotify:track:1ft4GBwmmxkUh9Z5id9vrT`
+- Six resolver-confirmed alternates from Alexander Holm, Flaminia and Jon Head — unevaluated research only
+
+**Why interesting:** A fixed kick need not imply sameness or lock. Under unstable electro-acoustic material it can make a previous suspension feel consequential and allow a following widening to read as movement rather than restart.
+
+**Unknown / risk:** This is not a proven live sequence or mixing edge. Exact handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown. The six alternates were not evaluated.
+
 ## Current additions — Run 190
 
 ### Let exact identity preserve the gap to individual form

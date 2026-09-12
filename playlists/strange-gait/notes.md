@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 191 — EXPLORE — fixed grid as re-entry
+
+Pre-audit was clean, so the lane remained EXPLORE. Approximately 59 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is COMPLETE: nine exact resolutions, three selected candidates and six unevaluated alternates. Six packaging/date warnings are preserved; there were no unresolved identities, duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** ADD Alexander Holm, Francesca Burattelli — *Egue into hs* (`spotify:track:2HiLKItrGfvkF6F9KjJlRV`) between *Tender Is The Night* and *Cave*. Boomkat's exact-track description of one unrelenting kick beneath slow-motion electro-acoustic saturation gives the early suspension a specific rhythmic re-entry. `Carried → Tender Is The Night → Egue into hs → Cave → Abundance` gains a readable emptying → suspension → fixed-grid return → widening → swung continuation at transition, local-run and long-form scales. The alternative after *Trompe L'oeil* is placement-specifically rejected because it over-articulates reset before *FELT*.
+
+Flaminia, Caco Menegaz — *The Sahara (Caco Menegaz Live Didgeridoo)* (`spotify:track:0ajHfA26eBJD08ccmHxVhJ`) is PARKED between *Raataja* and *Crawl*; Jon Head — *Keysweet* (`spotify:track:1ft4GBwmmxkUh9Z5id9vrT`, 140 BPM from Beatport) is PARKED between *Pulse I* and *Roxellana*. Their exact identities create concrete placement questions, but individual direction, endpoints and local-run consequences remain insufficiently established. Their weaker alternatives before *Mildew Swoosh* and *Té de Cabello Blanco* are scoped rejections.
+
+STRANGE GAIT becomes 52 tracks, with the protected trio contiguous at positions 44–46. The global utility ledger becomes 400 tracks by retaining all three selected exact identities. Audio and live mixing were not tested.
+
+Run 191: `~59 inspected → 9 leads → 9 exact resolutions → 3 evaluations + 6 alternates → 1 ADD + 2 PARKED + 3 alternate placement rejections → 3 utility additions`. Across completed Runs 87–191: 819 leads / ~4,829 inspections / 37 ADDs / 252 selected candidates. Recent comparable ADD rate: 4/10. The musical no-ADD streak resets to zero. No actionable REPAIR emerges.
+
 ## Run 190 — EXPLORE — exact identity without individual form
 
 Pre-audit was clean, so the lane remained EXPLORE. Approximately 61 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is PARTIAL: three selected exact December resolutions and six Mark Fell Spotify-SE misses, with no warnings, alternates, duplicates, substitutions, relinkings or technical failures.
