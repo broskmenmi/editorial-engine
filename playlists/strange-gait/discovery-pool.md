@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 182 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Maxime Denuc | Atlantis | https://open.spotify.com/track/4KFH3vH0uHTAleEXpYYxyA | Canonical ADD between *Worn Down* and *Hypnic Jerks*; official exact-track evidence documents extremely short pipe-organ repetitions creating a seemingly continuous drone. |
+| EXACT TRACK | Maxime Denuc | Hallucinogen | https://open.spotify.com/track/0rGjgJxRWezdF7x9V7zbAV | Placement-specific REJECT only at the two tested boundaries; the trance-fragment-to-programmed-organ reconstruction remains genuinely interesting. |
+| EXACT TRACK | Maxime Denuc | Club Imperiale | https://open.spotify.com/track/6i68vhnKBXHHbpeEVelnzp | Placement-specific REJECT only at the two tested boundaries; the documented natural-delay temporal dissolution remains genuinely interesting. |
+| EXACT ALTERNATES | Maxime Denuc / D1 | La Paloma; Pegasus; Everytime; Snatch; Earth; Tabala | Resolver snapshot Run 182 | Six exact identities resolved but were unselected and unevaluated; no verdict and no utility-retention decision. |
+| RELEASE WATCH | Maxime Denuc / Light-years | Club Imperiale | https://maximedenuc.bandcamp.com/album/club-imperiale | September 11, 2026 programmed-pipe-organ field connecting trance, techno, baroque reference and church architecture. |
+| CATALOGUE WATCH | D1 / Tempa | Tempa Archive, Vol 2: Enigma - EP | https://d1london.bandcamp.com/album/tempa-archive-vol-2-enigma-ep | September 11, 2026 issue of 2002–2006 dubs; exact alternates remain unevaluated rather than musically rejected. |
+
+### Placement and inspiration boundaries
+
+- Atlantis is provisional; the alternate closing placement is rejected.
+- Hallucinogen and Club Imperiale remain interesting outside the four tested boundaries and are not globally rejected.
+- Exact entry, exit, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase fit and mixability were not tested.
+- The six exact alternates are not retained editorial decisions and do not enter the global utility ledger.
+
 ## Runs 180–181 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

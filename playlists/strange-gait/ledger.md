@@ -14,49 +14,52 @@
 | 8 | Decoder | Abundance | spotify:track:33HI2gasxwfGyvWrd9yG5c | 135 | ADD | Ground — provisional swung-funk continuation | 2026-09-09 |
 | 9 | Yu Su | Foundry | spotify:track:0OFx2GTUHYkT575CD3uuen | — | ADD | Ground — provisional unstable-directional hinge | 2026-09-10 |
 | 10 | T++ | Worn Down | spotify:track:01HP3HuPytbIpSdOCqpx2y | — | ADD | Ground — provisional rumble-to-weight threshold | 2026-09-09 |
-| 11 | Rian Treanor | Hypnic Jerks | spotify:track:5diM5dnRKTuJaZ2CqzFwsu | — | ADD | Ground — provisional acceleration-to-orientation crisis | 2026-09-11 |
-| 12 | John Beltran, Placid Angles, Tom VR | Tides Alternate | spotify:track:1eWvrBLXd763F0nyrjOzBw | — | ADD | Ground — provisional opposed-speed balance hinge | 2026-09-10 |
-| 13 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
-| 14 | 96 Back | Freepass for Them | spotify:track:6W7R8Juu9iycysgvKB5IZW | — | ADD | Ground — provisional unrelenting-groove pivot before intensification | 2026-09-11 |
-| 15 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
-| 16 | Vladislav Delay | Raataja | spotify:track:5zLxgXlxNvKbzWSrEcPrTF | — | ADD | Ground — provisional burst-and-disappearance crisis before re-formation | 2026-09-10 |
-| 17 | DjRUM | Crawl | spotify:track:1QUcUBNLU27po17WyQ27jF | — | ADD | Ground — provisional sustained-motion plateau before metric dissolution | 2026-09-10 |
-| 18 | Demdike Stare | Fulledge (Empty-40 Mix) | spotify:track:2azFGCXgxFGmyHYCvzVw4R | — | ADD | Tilt — provisional fake-out-to-dissolution hinge | 2026-09-10 |
-| 19 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
-| 20 | Angine de Poitrine | Sarniezz | spotify:track:6iDKiCR13L8Ba6bkK6cqqt | — | ADD | Tilt — provisional pulse-illusion live-band left turn | 2026-09-10 |
-| 21 | Sam Prekop | Never Met | spotify:track:7C9lRN0idP1MYfMXyyXmDU | — | ADD | Tilt — provisional passing-foreground hinge | 2026-09-10 |
-| 22 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | 130 | ADD | Tilt — provisional dubwise staggered-swing reset | 2026-09-08 |
-| 23 | JWords | FELT | spotify:track:2Z8Zw8lZlhFXbmNbnlozPR | — | ADD | Tilt — provisional rolling-groove formation before deformation | 2026-09-11 |
-| 24 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
-| 25 | SHERELLE, Cameo Blush | LOVE YOUR ENEMIES | spotify:track:6UqZGPmUv9OUibCZbqYubL | — | ADD | Tilt — provisional cross-rhythmic conflict hinge | 2026-09-09 |
-| 26 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
-| 27 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
-| 28 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | — | ADD | Tilt — provisional uncontained-directed surge | 2026-09-09 |
-| 29 | aya | backsliding | spotify:track:7nPQD8wXUbAEaxGoLJxcWd | — | ADD | Tilt — provisional rhythm-to-dissonance dissolution hinge | 2026-09-10 |
-| 30 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | — | ADD | Tilt — provisional opposed-temporal-strain hinge before driving re-entry | 2026-09-11 |
-| 31 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
-| 32 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 33 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | — | ADD | Tilt — provisional agitation-to-reassembly false-stability hinge | 2026-09-11 |
-| 34 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
-| 35 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
-| 36 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
-| 37 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 38 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional familiar-grid-to-frazzled fault line | 2026-09-12 |
-| 39 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
-| 40 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
-| 41 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 42 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 43 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 44 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
-| 45 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 46 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
-| 47 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 48 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
-| 49 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 11 | Maxime Denuc | Atlantis | spotify:track:4KFH3vH0uHTAleEXpYYxyA | — | ADD | Ground — provisional micro-repetition-to-continuum hinge before acceleration crisis | 2026-09-12 |
+| 12 | Rian Treanor | Hypnic Jerks | spotify:track:5diM5dnRKTuJaZ2CqzFwsu | — | ADD | Ground — provisional acceleration-to-orientation crisis | 2026-09-11 |
+| 13 | John Beltran, Placid Angles, Tom VR | Tides Alternate | spotify:track:1eWvrBLXd763F0nyrjOzBw | — | ADD | Ground — provisional opposed-speed balance hinge | 2026-09-10 |
+| 14 | Sciahri | Too Much Time | spotify:track:7db90RzgCxJSu9XzKJhxKO | 140 | ADD | Ground — provisional physical widening | 2026-09-06 |
+| 15 | 96 Back | Freepass for Them | spotify:track:6W7R8Juu9iycysgvKB5IZW | — | ADD | Ground — provisional unrelenting-groove pivot before intensification | 2026-09-11 |
+| 16 | Sciahri | Moonwake | spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j | 140 | ADD | Ground — provisional intensification | 2026-09-06 |
+| 17 | Vladislav Delay | Raataja | spotify:track:5zLxgXlxNvKbzWSrEcPrTF | — | ADD | Ground — provisional burst-and-disappearance crisis before re-formation | 2026-09-10 |
+| 18 | DjRUM | Crawl | spotify:track:1QUcUBNLU27po17WyQ27jF | — | ADD | Ground — provisional sustained-motion plateau before metric dissolution | 2026-09-10 |
+| 19 | Demdike Stare | Fulledge (Empty-40 Mix) | spotify:track:2azFGCXgxFGmyHYCvzVw4R | — | ADD | Tilt — provisional fake-out-to-dissolution hinge | 2026-09-10 |
+| 20 | Nørbak | Capa | spotify:track:5np6Qsak6d5kIdkktjblRB | 137 | ADD | Tilt — provisional rhythmic redirection | 2026-09-06 |
+| 21 | Angine de Poitrine | Sarniezz | spotify:track:6iDKiCR13L8Ba6bkK6cqqt | — | ADD | Tilt — provisional pulse-illusion live-band left turn | 2026-09-10 |
+| 22 | Sam Prekop | Never Met | spotify:track:7C9lRN0idP1MYfMXyyXmDU | — | ADD | Tilt — provisional passing-foreground hinge | 2026-09-10 |
+| 23 | Wheelman | Trompe L'oeil | spotify:track:4xJgdoF9E3vyBKsYvEXTba | 130 | ADD | Tilt — provisional dubwise staggered-swing reset | 2026-09-08 |
+| 24 | JWords | FELT | spotify:track:2Z8Zw8lZlhFXbmNbnlozPR | — | ADD | Tilt — provisional rolling-groove formation before deformation | 2026-09-11 |
+| 25 | brenner | Thick to Handle | spotify:track:7CUodG7GLLbzOtO6qXGJxT | 138 | ADD | Tilt — provisional broken-beat bodily deformation | 2026-09-07 |
+| 26 | SHERELLE, Cameo Blush | LOVE YOUR ENEMIES | spotify:track:6UqZGPmUv9OUibCZbqYubL | — | ADD | Tilt — provisional cross-rhythmic conflict hinge | 2026-09-09 |
+| 27 | Jayson Wynters | Tehutis Law | spotify:track:79yeMWxkbiNZ4su5UuhS6z | 139 | ADD | Tilt — provisional funk re-grounding | 2026-09-06 |
+| 28 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
+| 29 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | — | ADD | Tilt — provisional uncontained-directed surge | 2026-09-09 |
+| 30 | aya | backsliding | spotify:track:7nPQD8wXUbAEaxGoLJxcWd | — | ADD | Tilt — provisional rhythm-to-dissonance dissolution hinge | 2026-09-10 |
+| 31 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | — | ADD | Tilt — provisional opposed-temporal-strain hinge before driving re-entry | 2026-09-11 |
+| 32 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
+| 33 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
+| 34 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | — | ADD | Tilt — provisional agitation-to-reassembly false-stability hinge | 2026-09-11 |
+| 35 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
+| 36 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
+| 37 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
+| 38 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 39 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional familiar-grid-to-frazzled fault line | 2026-09-12 |
+| 40 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
+| 41 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
+| 42 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 43 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 44 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 45 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
+| 46 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
+| 47 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
+| 48 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 49 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 50 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 49 canonical tracks.**
+**ACTIVE EXPANSION — 50 canonical tracks.**
+
+EXPLORE run `2026-09-12T14:49:00Z-explore-182` adds Maxime Denuc — *Atlantis* between T++ — *Worn Down* and Rian Treanor — *Hypnic Jerks*. Denuc's official notes describe extremely short pipe-organ note repetitions creating a seemingly continuous drone. Editorially, `Foundry → Worn Down → Atlantis → Hypnic Jerks → Tides Alternate` now moves from an unstable directional hinge and rumble-to-weight threshold into discrete repetition perceived as continuity, then an explicit acceleration-orientation crisis and opposed-speed balance. The production-world change is conspicuous by design and passes at transition, five-track-run and long-form scales; exact entry, exit, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. The alternative between *Migration* and *Eyes of the Wind* is rejected because another long-form threshold crowds the existing pivot-to-liminal-passage relation.
 
 EXPLORE run `2026-09-12T08:53:44Z-explore-172` adds Jay Mitta — *Sawa* before Purelink — *Stadium Drive*. Nyege Nyege Tapes describes the exact 3:14 opener through swinging, ratcheting singeli patterns and distorted blaring leads that tangle with hardstyle-inspired kicks and follow the synths into a disorienting vortex. Editorially, `Sawa → Stadium Drive → Marauder → The Witching Hour → Encasadelciegoeltuerco` uses a conspicuous hyper-rhythmic cold open before the existing ambience-to-broken-techno assembly, established anchors, controlled continuation and later derailment. The contrast is deliberate at transition, local-run and long-form scales; exact handoff, endpoint, perceived pulse, energy, density, space, phrase structure and mixability remain unknown. The alternative between *Drummz* and *Té de Cabello Blanco* is rejected because another complete vortex over-articulates instability before reassembly.
 

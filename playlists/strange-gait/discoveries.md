@@ -1,5 +1,64 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 182 — EXPLORE — discrete repetition becomes continuum — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical tracks, exact-order map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 41–43, and a last verified COMPLETE 49/49 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 378 contiguous unique tracks and a COMPLETE 378/378 receipt. No objective repair was actionable.
+
+**Exploration:** approximately 61 named tracks, releases and catalogue cuts were inspected across current September electronic pages, Maxime Denuc's September 11 programmed-organ album, D1's September 11 Tempa archive, adjacent Hiss Is Bliss / ODAE / Light-years / Tempa material and overlooked 2002–2006 dubstep catalogue links. Runs 170–181, canonical identities, active rejects, untriggered PARKED revisits and utility identities were excluded. Nine honest leads survived.
+
+- **runId:** `2026-09-12T14:49:00Z-explore-182`
+- **sourceCommit:** `130476d2baa26b997a2979947db3431236a76bbe`
+- **request commit:** `113326bba036550a132b0eb113550b6ac6d65fe0`
+- **snapshot commit:** `f8ee75d9f9009581806859c537635a9171c1ed78`
+- **request fingerprint:** `d12d12f0dec0c897bc324232f3a3f7aa09ea43f381b69524dfac46da89c1bf57`
+- **resolver:** internally valid schemaVersion 2 `COMPLETE`; 9 requested, 9 exact resolutions, 3 selected and 6 exact unselected alternates; no warnings, unresolved identities, duplicates, substitutions, relinkings or technical failures.
+
+### Canonical evaluations
+
+#### Maxime Denuc — Atlantis — ADD
+
+- **Exact identity:** `spotify:track:4KFH3vH0uHTAleEXpYYxyA`; 6:40; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. Denuc's official exact-track notes document extremely short pipe-organ note repetitions creating a seemingly continuous drone. The same material supports both discrete and continuous readings, directly fitting the selection lens without relying on novelty.
+- **Immediate transition:** PASS provisionally at `Worn Down → Atlantis → Hypnic Jerks`. Worn Down is the existing rumble-to-weight threshold; Atlantis introduces documented micro-repetition perceived as continuity; Hypnic Jerks then creates the existing explicit acceleration-orientation crisis. The move is a conspicuous production-world change, not an asserted seamless mix.
+- **Three-to-five-track run:** PASS provisionally for `Foundry → Worn Down → Atlantis → Hypnic Jerks → Tides Alternate`: unstable directional hinge → weight threshold → repetition/continuum ambiguity → acceleration crisis → opposed-speed balance. These surrounding functions are existing editorial annotations, not metadata-derived sonic facts.
+- **Long form:** PASS provisionally. The 6:40 insertion gives the opening third a new temporal hinge before the established acceleration event, without touching the protected trio or forcing the rest of the volume into the same sonic room.
+- **Alternative placement:** REJECT at `Migration → Atlantis → Eyes of the Wind`. The closing corridor already moves from a piano-to-break character pivot into a liminal-percussion passage; another long threshold crowds that relation.
+- **Risk:** exact entry, exit, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN.
+
+#### Maxime Denuc — Hallucinogen — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:0rGjgJxRWezdF7x9V7zbAV`; 5:03; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. The official notes document a minute fragment of Simon Posford's `LSD` mapped to pipe organ, with a new world built around it.
+- **Immediate transition:** FAIL at both tested boundaries. `Sawa → candidate → Stadium Drive` inserts a second complete world between the cold-open rupture and the established transformation-led overture. `Style Teef → candidate → Same Way` places another major production-world change between the familiar-grid fault line and alternating body-pressure hinge.
+- **Three-to-five-track run:** FAIL. The opening option makes `Sawa → candidate → Stadium Drive → Marauder → The Witching Hour` an extended multi-overture preface; the later option crowds `Truth in Noise → Style Teef → candidate → Same Way → U Belong 2 Me`.
+- **Long form:** FAIL for these placements. The reconstruction is selection-worthy, but neither insertion has a proportional journey gain.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Maxime Denuc — Club Imperiale — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:6i68vhnKBXHHbpeEVelnzp`; 5:36; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. Denuc's exact-track notes describe natural delays and breath-like traces dissolving temporal structure in the album's mirage-like second half.
+- **Immediate transition:** FAIL at both tested boundaries. `Trompe L'oeil → candidate → FELT` adds dissolution between an existing reset and rolling-groove formation. `Migration → candidate → Eyes of the Wind` inserts another full threshold between the post-block pivot and liminal passage.
+- **Three-to-five-track run:** FAIL. The first option delays `Never Met → Trompe L'oeil → FELT → Thick to Handle`; the second crowds `Stardancer → Migration → Eyes of the Wind → Nukumori`.
+- **Long form:** FAIL for these placements. The title track remains compelling, but the sequence already articulates both passages without another five-and-a-half-minute stage.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+Exact but unselected and unevaluated: Maxime Denuc — *La Paloma* (`spotify:track:2fslqKkwBJPyQB7FCh5HcD`), *Pegasus* (`spotify:track:4tybhmGADaMsAPqyOfqIGa`), *Everytime* (`spotify:track:4Kz15biC1FKSuteqOkxWL8`); D1 — *Snatch* (`spotify:track:0w7EVy7nYvVmgRXLOJUL2l`), *Earth* (`spotify:track:2mqACJ0rkiG9jtz4vd5U9i`), *Tabala* (`spotify:track:7sGAb6PQxEFQy5CrtMhpJO`). They receive no verdict and are not utility-retention decisions.
+
+### Auditor approval
+
+**APPROVED.** The immutable request was written from the live pre-request SHA and the matching snapshot agrees on schemaVersion, runId, sourceCommit, target, mode, receipt and fingerprint. All nine outcomes reconcile exactly; no warning or resolver error is omitted. Only the three selected exact identities were evaluated, each separately at volume, transition, local-run and long-form scales. Atlantis has a concrete cross-scale purpose despite untested handoffs; Hallucinogen and Club Imperiale fail only their tested placements on cumulative proportion. Protected state remains intact. Auditor approves one canonical ADD, two placement-specific rejections, local inspiration retention and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **49 → 50 canonical tracks**, adding Maxime Denuc — *Atlantis* between *Worn Down* and *Hypnic Jerks*.
+- Protected order remains `Transparency → When We Froze → Stardancer`, now at positions 42–44.
+- Local inspiration retains all three selected exact tracks, the six exact unevaluated alternates, current Light-years / Tempa research windows and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL: **378 → 381**, adding *Hallucinogen*, *Atlantis* and *Club Imperiale*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 9 exact resolutions → 3 selected evaluations + 6 exact alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Across completed discovery Runs 87–182, excluding process repairs and failed Runs 164, 167, 175, 177 and 180: **756 leads from approximately 4,398 inspections; 35 ADDs from 233 selected candidates**. Inspection-to-lead conversion was 14.8%, lead-to-resolution conversion 100%, and selected-candidate-to-ADD conversion 33.3%. The recent comparable ADD rate is **4/10**; Run 182 ends the three-completed-run no-ADD streak after Run 173. The strongest counterargument is that a 6:40 programmed-organ continuum may turn the Worn Down-to-Hypnic Jerks threshold into a long stylistic detour. It passes provisionally because the exact micro-repetition/continuity mechanism changes the local temporal logic at all three sequencing scales; this does not prove either handoff, perceived pulse or live compatibility and creates no ADD quota. No stagnation or actionable REPAIR emerges.
+
 ## Runs 180–181 — invalid request quarantined; Akufen recovery exploration completed — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical tracks, an exact-order map, no active feedback or triggered revisit, protected `Transparency → When We Froze → Stardancer` at positions 41–43, and a last verified COMPLETE 49/49 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 375 contiguous unique tracks and a COMPLETE 375/375 receipt. No objective repair was actionable.

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 182
+
+### Let discrete repetition become a continuous hinge
+
+**Direction:** Explore tracks whose microscopic repeated events become a perceived continuum, using that ambiguity to reframe a following acceleration, balance or character change without requiring sonic sameness.
+
+**Ingredients:**
+
+- T++ — *Worn Down* — canonical rumble-to-weight threshold
+- Maxime Denuc — *Atlantis* — — provisional canonical ADD, `spotify:track:4KFH3vH0uHTAleEXpYYxyA`; official notes document extremely short organ repetitions becoming seemingly continuous
+- Rian Treanor — *Hypnic Jerks* — canonical explicit acceleration-orientation crisis
+- Maxime Denuc — *Hallucinogen* and *Club Imperiale* — exact placement-specific rejects retained as different programmed-organ structural references
+- D1 — *Snatch*, *Earth*, *Tabala* — exact unselected archive alternates, not proven ingredients
+
+**Why interesting:** Continuity need not mean smoothness. A repeated micro-event can be heard as a sustained state, making the next temporal rupture legible at local-run scale.
+
+**Unknown / risk:** This is not a proven live sequence or mixing edge. Exact handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown; D1 alternates were not evaluated.
+
 ## Current additions — Runs 180–181
 
 ### Let controlled architecture change scale, not merely add a stage
