@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 170 — EXPLORE — reconstructed performance versus sequence consequence
+
+No canonical track is added. Makaya McCraven with Theon Cross and Ben LaMar Gay — *Boom Bapped* (`spotify:track:1GqMyZxUbGC2owsONCYQNv`), *Gnu Blue* (`spotify:track:0ACrjHByr2GzPVTxKbDBix`) and *Technology* (`spotify:track:6Q6Lg9yJd7RUOb8K824qcK`) pass the STRANGE GAIT selection lens and remain genuinely interesting, but fail only their tested placements.
+
+*Boom Bapped* adds a complete live/studio ensemble proposition before *FELT*'s formation or inside the established consolidation-to-pressure run. *Gnu Blue* creates another threshold after the protected block or another coda before the electro-soul afterword. *Technology* mediates the direct return from *Sarniezz* or lengthens the early rupture-to-widening passage. None of the available exact-track evidence establishes a changed downstream task at those boundaries.
+
+Resolver `2026-09-12T06:52:46Z-explore-170`: 5 leads → 5 exact resolutions → 3 selected evaluations + 2 unselected alternates → 0 ADD + 3 placement-specific REJECT. All five identities preserve the same album-title variance warning, recorded exactly in discoveries.md. There were no unresolved, duplicate, substitution, relinking or technical-failure outcomes.
+
+Auditor approves zero canonical changes, six scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT remains 46 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 363 tracks. The protected `Transparency → When We Froze → Stardancer` order remains intact. No actionable REPAIR emerges.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 165 — EXPLORE — self-transformation versus downstream work
 
 Mouse On Mars — *DOG* (`spotify:track:1MxmwiRLaSAsenFRv5ljBv`), Matmos — *Polychords* (`spotify:track:6Eo38ZR9BzXFTa3ER1RarR`) and ODAE — *can it bleed* (`spotify:track:09kF88tshMr9Yis48ECsVc`) pass the STRANGE GAIT selection lens but are rejected only at their tested placements.

@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 170 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Makaya McCraven, Theon Cross, Ben LaMar Gay | Boom Bapped | https://open.spotify.com/track/1GqMyZxUbGC2owsONCYQNv | Placement-specific REJECT only at both tested boundaries; live/studio ensemble reconstruction remains genuinely interesting elsewhere. |
+| EXACT TRACK | Makaya McCraven, Theon Cross, Ben LaMar Gay | Gnu Blue | https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix | Placement-specific REJECT only at both tested closing boundaries; wordless vocal presence within reconstructed improvisation remains interesting elsewhere. |
+| EXACT TRACK | Makaya McCraven, Theon Cross, Ben LaMar Gay | Technology | https://open.spotify.com/track/6Q6Lg9yJd7RUOb8K824qcK | Placement-specific REJECT only at both tested boundaries; dreamlike alteration of live performance remains interesting elsewhere. |
+| EXACT ALTERNATE | Makaya McCraven, Theon Cross, Ben LaMar Gay | Prime; Strikes Again | spotify:track:2inX5HbuDbjVEzPW9r1CRX ; spotify:track:2OdiQeuwybJw9rt7VGdCE1 | Resolved exact identities, unselected and unevaluated; not utility-retention decisions. |
+| CATALOGUE / LABEL WATCH | Makaya McCraven / Theon Cross / Ben LaMar Gay / International Anthem | Techno Logic and adjacent live-to-edited composition | https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay | Overlooked window for spontaneous ensemble material transformed through later editing and overdubs. |
+
+### Placement and inspiration boundaries
+
+- All three selected exact tracks remain interesting despite placement-specific rejection; none is globally rejected.
+- *Prime* and *Strikes Again* were exact alternates, not evaluated or retained decisions, and do not enter the global utility ledger.
+- The album-title variance warning for all five requested identities is preserved exactly in discoveries.md.
+- No selected track has established BPM, pulse, energy, density, space, phrase fit or mixability.
+
 ## Run 169 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

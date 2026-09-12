@@ -364,6 +364,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 358 | Daphni | Talk To Me | spotify:track:696nAjprJvJRmOEaWg6s0Q | STRANGE GAIT Run 169 | PARKED / interesting | 2026-09-12 |
 | 359 | Daphni | Caterpillar | spotify:track:2M8PwQzULYUnDGkw5YrVlY | STRANGE GAIT Run 169 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 360 | Daphni | Invention | spotify:track:1m3dWHTPWIEVewzdLSsuMM | STRANGE GAIT Run 169 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 361 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Boom Bapped | spotify:track:1GqMyZxUbGC2owsONCYQNv | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 362 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Gnu Blue | spotify:track:0ACrjHByr2GzPVTxKbDBix | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 363 | Makaya McCraven, Theon Cross, Ben LaMar Gay | Technology | spotify:track:6Q6Lg9yJd7RUOb8K824qcK | STRANGE GAIT Run 170 | Placement-specific REJECT / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

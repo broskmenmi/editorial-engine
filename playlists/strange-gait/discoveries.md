@@ -1,5 +1,58 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 170 — EXPLORE — reconstructed performance and downstream consequence — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map, and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 360 contiguous unique tracks and COMPLETE 360/360 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 62 named tracks and release cuts across Resident Advisor's live September 12 front page and September 11 new-music round-up; Bandcamp Daily's September 9 current/emerging electronic field; Makaya McCraven's overlooked 2025 International Anthem material; adjacent Theon Cross and Ben LaMar Gay catalogue; and current inside-out boundaries. Persistent-state checks excluded already handled KAY BE, DJ Phil, DJ POPS, Nochi and Run 169 identities. Five honest leads survived; the request was not padded. Sources: https://ra.co/ ; https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 ; https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review ; https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T06:52:46Z-explore-170` was written once from `4c403824dd0f4a33396642e511ac6170fc2337af`. Matching resolver output at `2026-09-12T06:57:32.324Z`, fingerprint `c6b44198cc20f2fdd9482af8154d0f41bb0123e5ca1ac88e4d0286d50c2cba0a`: 5 requested, 5 exact resolutions, 3 selected evaluations and 2 unselected alternates; `COMPLETE`. No unresolved, duplicate, substitution, relinking or technical failure.
+
+Each requested track — *Boom Bapped*, *Gnu Blue*, *Technology*, *Prime* and *Strikes Again* — preserved this exact warning:
+
+`Exact title/artist matched with release metadata variance: album requested "Techno Logic (featuring Theon Cross & Ben LaMar Gay)" but Spotify returned "Techno Logic"`
+
+Exact unselected, unevaluated alternates:
+
+- Makaya McCraven, Theon Cross, Ben LaMar Gay — *Prime* — `spotify:track:2inX5HbuDbjVEzPW9r1CRX`
+- Makaya McCraven, Theon Cross, Ben LaMar Gay — *Strikes Again* — `spotify:track:2OdiQeuwybJw9rt7VGdCE1`
+
+### Makaya McCraven, Theon Cross, Ben LaMar Gay — Boom Bapped — `spotify:track:1GqMyZxUbGC2owsONCYQNv`
+
+- **Volume fit:** PASS as a candidate. Bandcamp Daily's exact-track image of Louis Armstrong sitting in with D'Angelo, plus the documented live-recording/studio-reconstruction method, supports structural freedom across performance and edit. Hybridity alone is not admission.
+- **Immediate transition:** REJECT at `Trompe L'oeil → candidate → FELT` and `Truth in Noise → candidate → Same Way`. The source supports a strongly formed ensemble/soul proposition but no endpoint that changes either successor; at the first boundary it adds another formation before *FELT*, and at the second it interrupts consolidation before the existing pressure division.
+- **Three-to-five-track run:** FAIL at both placements. `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle` over-articulates formation before deformation. `Elemental Dream → Truth in Noise → candidate → Same Way → U Belong 2 Me` inserts another complete proposition into the already legible consolidation-to-pressure-to-threshold run.
+- **Long-form journey:** FAIL for these placements. Its 3:00 duration limits cost but does not establish a new downstream consequence.
+- **Verdict:** **REJECT both placements only**, not globally. Retain as genuinely interesting.
+
+### Makaya McCraven, Theon Cross, Ben LaMar Gay — Gnu Blue — `spotify:track:0ACrjHByr2GzPVTxKbDBix`
+
+- **Volume fit:** PASS as a candidate. Exact criticism documents Ben LaMar Gay's wordless, shaman-like vocal presence inside the live/studio hybrid method.
+- **Immediate transition:** REJECT at `Stardancer → candidate → Eyes of the Wind` and `Can I live → candidate → Invisible Warriors Of Light`. After the protected block, the documented vocal presence creates another threshold without evidence that *Eyes of the Wind* must answer it. Before the afterword, it creates an extra coda between restrained re-entry and arrival.
+- **Three-to-five-track run:** FAIL. The first turns `Transparency → When We Froze → Stardancer → Eyes of the Wind` into a two-stage post-block corridor; the second over-articulates `Rabbit Hole → Can I live → Invisible Warriors Of Light`.
+- **Long-form journey:** FAIL for these placements. A 4:52 addition materially lengthens the closing passage without an established endpoint or changed successor task.
+- **Verdict:** **REJECT both placements only**, not globally. Retain as genuinely interesting.
+
+### Makaya McCraven, Theon Cross, Ben LaMar Gay — Technology — `spotify:track:6Q6Lg9yJd7RUOb8K824qcK`
+
+- **Volume fit:** PASS as a candidate. The exact single belongs to a documented dreamlike alteration of live performance using drums, tuba, cornet, voice, percussion, synths and electronics, then editing and overdubs. Instrumentation and method are not flow evidence.
+- **Immediate transition:** REJECT at `Sarniezz → candidate → Never Met` and `Carried → candidate → Cave`. The first mediates the direct live-band left turn into *Never Met*'s electronic foreground transit; the second inserts another reconstructed-performance stage between self-emptying rupture and widening.
+- **Three-to-five-track run:** FAIL. `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil` delays the established return from the live-band detour. `Encasadelciegoeltuerco → Carried → candidate → Cave → Abundance` lengthens rupture-to-widening without exact-track direction or endpoint evidence.
+- **Long-form journey:** FAIL for these placements. The production method is relevant to the volume but does not establish net journey gain.
+- **Verdict:** **REJECT both placements only**, not globally. Retain as genuinely interesting.
+
+**Auditor:** APPROVED. All three canonical candidates were evaluated separately at volume-fit, immediate-transition, surrounding-run and long-form scales. No metadata-only inference supplied energy, density, space, hypnosis, emotional effect, phrase structure or mixability. The protected trio and both internal handoffs remain unchanged. Auditor approves zero canonical changes, six scoped placement rejections, local inspiration retention, and three doctrine-free global utility additions. No actionable REPAIR emerges.
+
+### Durable result
+
+- STRANGE GAIT remains **46 canonical tracks**; no reorder.
+- Protected internal order remains `Transparency → When We Froze → Stardancer` at positions 39–41.
+- Local inspiration: three exact placement-specific rejects retained; two exact unselected alternates recorded; Makaya McCraven / Theon Cross / Ben LaMar Gay and International Anthem remain an overlooked live-to-edited-composition window.
+- EDITORIAL ENGINE — DISCOVERY POOL: **360 → 363 exact tracks**, adding the three selected exact identities.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 62 inspected → 5 ranked leads → 5 exact resolutions → 3 selected evaluations + 2 unselected alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion 8.1%; lead-to-resolution conversion 100%; selected-candidate-to-ADD conversion 0/3. Across completed discovery Runs 87–170, excluding process repairs and failed Runs 164 and 167: **695 leads from approximately 3,980 inspections; 31 ADDs from 215 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak becomes five completed discovery runs since Run 161, with fourteen exact interesting tracks retained during it. The exact resolver yield and candidate-specific four-scale failures do not indicate technical resolver failure, repetitive placement search or an identity bottleneck. The streak warrants continued explicit over-filtering checks, not forced growth.
+
 ## Run 169 — EXPLORE — friction, range and downstream work — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, COMPLETE 46/46 Spotify receipt, matching journey map, and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 357 contiguous unique tracks and COMPLETE 357/357 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.

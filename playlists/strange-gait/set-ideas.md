@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 170
+
+### Reconstruction must change what follows
+
+**Direction:** Explore live performance transformed through editing and overdubs only where the resulting track leaves the next selection a changed orientation, formation or re-entry task; reject hybrid method or unusual instrumentation as admission reasons by themselves.
+
+**Ingredients:**
+
+- Makaya McCraven, Theon Cross, Ben LaMar Gay — *Boom Bapped* — exact placement-specific reject; live/studio ensemble reconstruction remains useful elsewhere
+- Makaya McCraven, Theon Cross, Ben LaMar Gay — *Gnu Blue* — exact placement-specific reject; wordless vocal presence remains useful outside the tested closing corridor
+- Makaya McCraven, Theon Cross, Ben LaMar Gay — *Technology* — exact placement-specific reject; dreamlike alteration of performance remains useful elsewhere
+- *Prime* and *Strikes Again* — exact unselected, unevaluated alternates
+- International Anthem and the adjacent Theon Cross / Ben LaMar Gay catalogue — overlooked live-to-edited-composition research window
+
+**Why interesting:** A conspicuous production-world change can flow when its endpoint gives the successor necessary work. The transformation process itself does not prove that consequence.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 169
 
 ### Friction must alter the next task
