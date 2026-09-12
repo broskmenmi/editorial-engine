@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 173
+
+### Let the familiar grid become the fault line
+
+**Direction:** Explore tracks whose documented internal movement begins from a recognisable rhythmic frame and makes its loss legible. Judge the mutation at transition, local-run and long-form scales; do not require sonic sameness, invent a downstream repair task or confuse internal spectacle with sequence value.
+
+**Ingredients:**
+
+- Blawan — *Style Teef* — provisional canonical ADD; classic Detroit-techno line becomes elusive and frazzled between *Truth in Noise* and *Same Way*
+- Blawan — *The GL Lights* — exact placement-specific reject; controlled-chaos frame contortion remains useful outside the tested live-band and closing boundaries
+- Blawan — *NOS* — exact placement-specific reject; blown-out-bass-to-clipped-whisper dynamics remain useful outside the tested force and threshold passages
+- Mossacre — *Assignment Modulation (Instrumental)* — unresolved emerging exact-title research lead
+- Blawan — *Gi Mi Keys Back*, *Casch*, *WTF* and *Under Belly*; Karenn — *Lemon Dribble* — exact unselected, unevaluated alternates
+
+**Why interesting:** A left turn can be generated inside a track: the listener first receives a familiar grid, then hears that certainty become unstable. The following passage can remain legible without pretending to be seamless.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 172
 
 ### Rupture can precede formation

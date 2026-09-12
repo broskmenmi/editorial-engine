@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 173 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Blawan | Style Teef | https://open.spotify.com/track/0KeJYT04VhNp6xKA3PYOgo | Canonical ADD between *Truth in Noise* and *Same Way*; documented Detroit-techno line becomes elusive and frazzled, creating a deliberate fault line before the protected block. |
+| EXACT TRACK | Blawan | The GL Lights | https://open.spotify.com/track/4UtabPSJZkKjeUyKfmFTXY | Placement-specific REJECT only at both tested boundaries; controlled-chaos frame contortion remains genuinely interesting elsewhere. |
+| EXACT TRACK | Blawan | NOS | https://open.spotify.com/track/5z46Jo6PQMz2kDmJuKknhV | Placement-specific REJECT only at both tested boundaries; blown-out-bass-to-clipped-whisper dynamics remain genuinely interesting elsewhere. |
+| RESEARCH LEAD | Mossacre | Assignment Modulation (Instrumental) | https://mossacre.bandcamp.com/album/scaping | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict or utility addition. |
+| EXACT ALTERNATES | Blawan; Karenn | Gi Mi Keys Back; Casch; WTF; Under Belly; Lemon Dribble | spotify:track:16i94QP7ZKmdtbW5tIsm28 ; spotify:track:3EZ4vS3UHbzdiKo1QnoDNI ; spotify:track:78ZmrRcMYPYg3Vdbiq9wG1 ; spotify:track:29EqYPuLdMrl6sQwq4nh2X ; spotify:track:6jFVCNIdplfdUTcx3Otjpo | Resolved exact identities, unselected and unevaluated; not utility-retention decisions. Three metadata warnings are preserved in discoveries.md. |
+| CURRENT / CATALOGUE WATCH | Blawan / XL; Karenn; Mossacre | Gi Mi Keys Back / Auto Fake; SickElixir; Woke Up Right Handed; Grapefruit Regret; Scaping | https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/ · https://pitchfork.com/reviews/albums/blawan-sickelixir/ · https://pitchfork.com/reviews/albums/blawan-woke-up-right-handed-ep/ · https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/ · https://mossacre.bandcamp.com/album/scaping | Current modular-techno return, overlooked unstable-form catalogue, adjacent hardware techno and emerging outsider electronic material remain useful windows. |
+
+### Placement and inspiration boundaries
+
+- *Style Teef* is provisional; exact entry, exit, endpoint, perceived pulse, energy, density, space, phrase fit and mixability remain unknown.
+- *The GL Lights* and *NOS* are not globally rejected.
+- The unresolved Mossacre identity receives no verdict and does not enter the global utility ledger.
+- Five exact alternates were not selected or evaluated and do not enter the global utility ledger.
+
 ## Run 172 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

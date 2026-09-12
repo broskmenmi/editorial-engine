@@ -377,3 +377,6 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
+| 370 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | STRANGE GAIT Run 173 | Canonical ADD / retained | 2026-09-12 |
+| 371 | Blawan | The GL Lights | spotify:track:4UtabPSJZkKjeUyKfmFTXY | STRANGE GAIT Run 173 | Placement-specific reject / interesting | 2026-09-12 |
+| 372 | Blawan | NOS | spotify:track:5z46Jo6PQMz2kDmJuKknhV | STRANGE GAIT Run 173 | Placement-specific reject / interesting | 2026-09-12 |

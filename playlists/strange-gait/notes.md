@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 173 — EXPLORE — familiar grid to deliberate fault line
+
+Blawan — *Style Teef* (`spotify:track:0KeJYT04VhNp6xKA3PYOgo`) is added between *Truth in Noise* and *Same Way*. The Fader documents the exact 4:18 track beginning with a classic Detroit-techno drum line and becoming increasingly elusive and frazzled. The five-track passage `Elemental Dream → Truth in Noise → Style Teef → Same Way → U Belong 2 Me` moves from self-stripping instability through consolidation, an explicit loss of the familiar grid, alternating drum/bass pressure and threshold. This is a deliberate mutation claim, not a seamless-transition or mixability claim.
+
+Blawan — *The GL Lights* (`spotify:track:4UtabPSJZkKjeUyKfmFTXY`) and *NOS* (`spotify:track:5z46Jo6PQMz2kDmJuKknhV`) pass the selection lens and remain genuinely interesting, but fail only their tested placements. *The GL Lights* either mediates the direct live-band left turn or overloads the closing character-pivot passage. *NOS* adds a complete force-and-reduction arc before an existing unpredictable hinge or crowds pressure before the established threshold.
+
+Resolver `2026-09-12T09:56:48Z-explore-173`: 9 leads → 8 exact resolutions + 1 unresolved → 3 selected evaluations + 5 unselected alternates → 1 ADD + 2 placement-specific REJECT. All three warnings and the exact resolver error are preserved in discoveries.md. There were no duplicates, substitutions, relinkings or technical failures.
+
+Auditor approves the canonical addition, five scoped placement rejections, local inspiration updates and three global utility additions. STRANGE GAIT becomes 49 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 372 tracks. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 41–43.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 172 — EXPLORE — rupture before formation
 
 Jay Mitta — *Sawa* (`spotify:track:19htZ2qdGDXVIFxI1ugYtW`) is added before Purelink — *Stadium Drive*. Nyege Nyege Tapes documents the exact 3:14 track through swinging, ratcheting singeli patterns, distorted blaring leads and hardstyle-inspired kicks that enter a disorienting vortex. The following move into *Stadium Drive*'s New Age ambience and gradual broken-techno assembly is a conspicuous cold-open reset, not a seamless-transition claim. Volume fit, transition intent, the surrounding five-track run and long-form proportion pass provisionally.

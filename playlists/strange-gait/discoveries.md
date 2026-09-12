@@ -1,5 +1,71 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 173 — EXPLORE — a familiar grid can become a deliberate fault line — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 48 unique canonical rows, COMPLETE 48/48 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 40–42. EDITORIAL ENGINE — DISCOVERY POOL entered with 369 contiguous unique tracks and COMPLETE 369/369 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 59 named tracks, releases and catalogue cuts across September 9–12, 2026 current electronic coverage, Blawan's current XL return, overlooked *SickElixir* and *Woke Up Right Handed* exact-track criticism, adjacent Karenn catalogue, Bandcamp Daily's August-electronic survey, the emerging Mossacre release, and current inside-out boundaries. Runs 165–172 identities, canonical tracks, active rejects, untriggered PARKED revisits and utility identities were excluded. Nine honest leads survived without padding. Sources: https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/ ; https://pitchfork.com/reviews/albums/blawan-sickelixir/ ; https://www.thefader.com/2025/10/10/blawan-sickelixir-review ; https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/ ; https://mossacre.bandcamp.com/album/scaping
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T09:56:48Z-explore-173` was written once from `c7a2fcf43580b6e6203f4cf19e143224886f7fb0` at commit `128f1e09a4eafb710ede5b3cd76c6cf8a94f3129`. Matching resolver output at `2026-09-12T09:57:13.301Z`, commit `72e2f18470bd5a6f2dd430c89be9555bd7239c77`, fingerprint `feba0fa2d25abba98cb91b1e5395de353101834322ccca4d8474b57a70157f7a`: 9 requested, 8 exact resolutions, 3 selected evaluations, 5 unselected alternates and 1 unresolved; `PARTIAL`. No duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Mossacre — *Assignment Modulation (Instrumental)*: `no exact Spotify title/artist search match in market SE`
+
+Exact unselected and unevaluated alternates:
+
+- Blawan — *Gi Mi Keys Back* — `spotify:track:16i94QP7ZKmdtbW5tIsm28`
+- Blawan — *Casch* — `spotify:track:3EZ4vS3UHbzdiKo1QnoDNI`
+- Blawan — *WTF* — `spotify:track:78ZmrRcMYPYg3Vdbiq9wG1`
+- Blawan — *Under Belly* — `spotify:track:29EqYPuLdMrl6sQwq4nh2X`
+- Karenn — *Lemon Dribble* — `spotify:track:6jFVCNIdplfdUTcx3Otjpo`
+
+Warnings preserved exactly:
+
+- Blawan — *Gi Mi Keys Back*: `Exact title/artist matched with release metadata variance: album requested "Gi Mi Keys Back / Auto Fake" but Spotify returned "Gi Mi Keys Back"`
+- Blawan — *Under Belly*: `Exact title/artist matched with release metadata variance: release date requested "2021" but Spotify returned "2021-11-12"`
+- Karenn — *Lemon Dribble*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-11-08"`
+
+### Blawan — Style Teef — `spotify:track:0KeJYT04VhNp6xKA3PYOgo`
+
+- **Volume fit:** PASS. The Fader documents the exact 4:18 track beginning with a classic Detroit-techno drum line and becoming increasingly elusive and frazzled. The movement from familiar grid toward unstable form satisfies the selection lens without relying on novelty.
+- **Immediate transition:** PASS provisionally at `Truth in Noise → candidate → Same Way`. The placement moves from the existing groove consolidation into a documented familiar-grid-to-frazzled mutation and then into *Same Way*'s established alternating drum/bass pressure. Exact entries, exits, phrase fit and mixability remain unknown.
+- **Surrounding three-to-five-track run:** PASS provisionally. `Elemental Dream → Truth in Noise → Style Teef → Same Way → U Belong 2 Me` reads as self-stripping instability, consolidation, a newly legible loss of that grid, divided pressure and threshold. The mutation changes character without making the local logic accidental.
+- **Long-form journey:** PASS provisionally. The addition introduces a concise fault line before the protected trio without splitting it, imposing a fixed wave or requiring the successor to solve a fictional problem.
+- **Verdict:** **ADD** between *Truth in Noise* and *Same Way*. The alternative `Drummz → candidate → Té de Cabello Blanco` is rejected because a second frazzling stage duplicates instability before the existing reassembly.
+
+### Blawan — The GL Lights — `spotify:track:4UtabPSJZkKjeUyKfmFTXY`
+
+- **Volume fit:** PASS. Pitchfork documents controlled chaos, lurching cadence, sharp edges and switchbacks that contort a mangled techno frame into a new picture.
+- **Immediate transition:** REJECT at both tested boundaries. Between *Capa* and *Sarniezz*, the complete contortion mediates the current direct live-band metric left turn. Between *Migration* and *Eyes of the Wind*, it adds another major production-world turn after the piano-to-break pivot.
+- **Surrounding three-to-five-track run:** FAIL at both placements. The middle run gains an unnecessary bridge before its conspicuous live-band change; the closing run becomes a stack of three character pivots rather than a legible post-block passage.
+- **Long-form journey:** FAIL for these placements. Its 3:09 scale is not inherently excessive, but neither position supplies proportionate journey value beyond its compelling internal form.
+- **Verdict:** **REJECT both tested placements only**. Retain as genuinely interesting elsewhere.
+
+### Blawan — NOS — `spotify:track:5z46Jo6PQMz2kDmJuKknhV`
+
+- **Volume fit:** PASS. Pitchfork documents yo-yoing volume dynamics from blown-out bass to clipped whisper as one continuous eruption; The Quietus separately describes burnt-edge basslines and blasts of distorted melody.
+- **Immediate transition:** REJECT at `Fragments → candidate → Drummz` and `Same Way → candidate → U Belong 2 Me`. The first adds a complete force-and-reduction arc before an already unpredictable hinge. The second crowds alternating pressure before the established threshold.
+- **Surrounding three-to-five-track run:** FAIL at both placements. Its internal opposition is already a complete statement, so either insertion lengthens a run whose consequence is currently carried by the surrounding tracks.
+- **Long-form journey:** FAIL for these placements. The 3:03 duration limits cost, but the documented dynamics do not make either tested passage more deliberate.
+- **Verdict:** **REJECT both tested placements only**. Retain as genuinely interesting elsewhere.
+
+### Auditor approval
+
+**APPROVED.** The request is pinned to the live pre-request SHA, and the matching PARTIAL snapshot reconciles 9 requested identities to 8 exact resolutions, 1 unresolved identity, 3 selected candidates and 5 alternates. Every warning and resolver error is preserved. Only the three selected exact identities were evaluated, each across volume fit, immediate transition, local run and long-form journey. The Style Teef addition is supported by a distinct five-track arc and does not split the protected trio; the two other candidates fail only their tested placements. Auditor approves one canonical ADD, five scoped placement rejections, local inspiration updates and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **48 → 49 canonical tracks**, adding *Style Teef* at position 38.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`, contiguous at positions 41–43.
+- Local inspiration retains all three selected exact tracks, the unresolved Mossacre lead, five exact alternates, four source windows and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL: **369 → 372 exact tracks**, adding *Style Teef*, *The GL Lights* and *NOS*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 59 inspected → 9 ranked leads → 8 exact resolutions + 1 unresolved → 3 selected evaluations + 5 alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was 15.3%; lead-to-resolution conversion was 88.9%; selected-candidate-to-ADD conversion was 33.3%. Across completed discovery Runs 87–173, excluding process repairs and failed Runs 164 and 167: **720 leads from approximately 4,158 inspections; 34 ADDs from 224 selected candidates**. The recent comparable ADD rate becomes **4/10**, and the musical no-ADD streak remains zero. Three consecutive ADD runs increase the need for proportionality checks but do not establish a quota or forced-growth defect: this candidate passes on a specific five-track arc, while two same-field candidates fail for distinct local and long-form reasons. The run proves that a familiar grid becoming unstable can make a deliberate fault line before a protected block. It does not prove exact handoffs, felt state, BPM, perceived pulse, energy, density, space, phrase fit or live-mixing compatibility.
+
 ## Run 172 — EXPLORE — a cold open can make reassembly legible — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 47 unique canonical rows, COMPLETE 47/47 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 366 contiguous unique tracks and COMPLETE 366/366 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
