@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Runs 184–185 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Oscar Later | Wenlocked | `spotify:track:4vFETIg1y83sfLZyAkvJZm` · https://open.spotify.com/track/4vFETIg1y83sfLZyAkvJZm · https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP | Sketch-to-heavier-club development remains interesting. Rejected only before *Moonwake* and before *Mildew Swoosh*; added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Oscar Later | Air Time For Andre | `spotify:track:5VfiVDHBaadc6BNMwAAdnA` · https://open.spotify.com/track/5VfiVDHBaadc6BNMwAAdnA · source above | Chopped breaks and found audio remain interesting. Rejected only before *Marauder* and before *Too Much Time*; added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Oscar Later | The Moon Belongs To You | `spotify:track:1Li2hrSr7VxC4FUEGquOO1` · https://open.spotify.com/track/1Li2hrSr7VxC4FUEGquOO1 · source above | Vocoded-ad and detuned one-note construction remains interesting. Rejected only before *Never Met* and before *Hypnic Jerks*; added globally. |
+| RESEARCH LEADS | Excalibur, DJ Spence | Medium Rare; Simmer | https://ra.co/reviews/36335 | Exact micro-modulation/dub contrast remains useful; both Spotify-SE no matches. |
+| RESEARCH LEADS | Shin Watanabe | Red Zone Trax I; Ethos Mama Trax VI; Ethos Mama Trax X | https://boomkat.com/products/red-zone-ethos-mama-trax | Raw-house field remains useful; all Spotify-SE no matches. |
+| RESEARCH LEAD | Oscar Later | That's Quite A Lot Of Zeroes! | Oscar Later source above | Stripped Buchla line expanding through chopped samples remains useful; Spotify-SE no match. |
+
+### Placement and inspiration boundaries
+
+- The exact tracks pass the volume lens and are not globally rejected.
+- Six unresolved identities received no verdict or utility entry; Run 184 failed before lookup.
+- Phrase fit, pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior were not tested.
+
+
 ## Run 183 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

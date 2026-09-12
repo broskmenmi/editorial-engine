@@ -1,5 +1,62 @@
 # STRANGE GAIT — Discovery Log
 
+## Runs 184–185 — EXPLORE — internal transformation versus passage consequence — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 383 contiguous unique tracks and a COMPLETE 383/383 receipt. No objective repair was actionable.
+
+**Exploration:** Approximately 64 current, adjacent and overlooked tracks/releases were inspected across Oscar Later / PROGRAMM LDN, Montreal minimal and dub techno, Shin Watanabe / L.I.E.S. and related September pages. Persistent identities were excluded; nine honest leads survived.
+
+**Run 184:** `2026-09-12T16:50:52Z-explore-184` is **REQUEST_NOT_COMPLETED**. Request commit `12bfd24a61f128ead1b114f816b225b0fff548e8` failed before Spotify lookup with `Lead 1 placement 2 must reference two current canonical ledger URIs`. No identity was resolved, judged or retained; the existing gate caught an operator URI error, so no code REPAIR is actionable.
+
+**Run 185:** `2026-09-12T17:00:00Z-explore-185`; source `12bfd24a61f128ead1b114f816b225b0fff548e8`; request `ad04fdb1746a6a456634c7b7b4906340751fe83a`; snapshot `67b36e6e41b51e8cdfd5a5f563eaad281e33187c`; fingerprint `1405e36385c9b2e656ecda951face516537fd1ab5087e19d42bd4c3e53c1774f`. The matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: 9 requested, 3 exact selected resolutions, 6 unresolved; no duplicates, substitutions, relinkings, alternates or technical failures.
+
+### Canonical evaluations
+
+#### Oscar Later — Wenlocked — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:4vFETIg1y83sfLZyAkvJZm`; 5:27; Spotify album `The Moon Belongs To You`; 2026-09-03.
+- **Warning:** `Exact title/artist matched with release metadata variance: album requested "The Moon Belongs To You EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-11" but Spotify returned "2026-09-03"`
+- **Volume fit:** PASS. Exact notes document a downtempo sketch developing into a heavier club form as its bassline builds.
+- **Immediate transition:** FAIL at both tested boundaries. `Freepass for Them → candidate → Moonwake` adds another full build between groove pivot and intensification; `backsliding → candidate → Mildew Swoosh` rebuilds weight before the existing temporal-strain hinge.
+- **Three-to-five-track run:** FAIL. The first option over-articulates `Tides Alternate → Too Much Time → Freepass for Them → candidate → Moonwake`; the second changes `Roxellana → backsliding → Mildew Swoosh → Fragments` into dissolution → build → strain → re-entry.
+- **Long form:** FAIL for these placements. The transformation is meaningful but lengthens an already explicit progression.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Oscar Later — Air Time For Andre — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:5VfiVDHBaadc6BNMwAAdnA`; 3:54; same warning: `Exact title/artist matched with release metadata variance: album requested "The Moon Belongs To You EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-11" but Spotify returned "2026-09-03"`
+- **Volume fit:** PASS. Chopped breaks and processed found audio are a credible adjacent rhythmic construction.
+- **Immediate transition:** FAIL. `Stadium Drive → candidate → Marauder` inserts another formed electronic statement after the overture; `Tides Alternate → candidate → Too Much Time` delays widening without documented direction or endpoint.
+- **Three-to-five-track run:** FAIL. The opening option extends `Sawa → Stadium Drive → candidate → Marauder → The Witching Hour` into a multi-stage preface; the second crowds `Atlantis → Hypnic Jerks → Tides Alternate → candidate → Too Much Time`.
+- **Long form:** FAIL for these placements. Source evidence establishes materials, not a proportional journey gain.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Oscar Later — The Moon Belongs To You — placement-specific REJECT / retained discovery
+
+- **Identity:** `spotify:track:1Li2hrSr7VxC4FUEGquOO1`; 3:30; same warning: `Exact title/artist matched with release metadata variance: album requested "The Moon Belongs To You EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-11" but Spotify returned "2026-09-03"`
+- **Volume fit:** PASS. A vocoded advertisement through a detuned one-note synth is a credible constrained-form proposition.
+- **Immediate transition:** FAIL. `Sarniezz → candidate → Never Met` mediates the direct live-band return; `Atlantis → candidate → Hypnic Jerks` inserts a separate concept between continuum and acceleration.
+- **Three-to-five-track run:** FAIL. The first crowds `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil`; the second breaks `Worn Down → Atlantis → Hypnic Jerks → Tides Alternate`.
+- **Long form:** FAIL for these placements. Surreal framing and constrained pitch do not establish a journey gain.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+All three selected identities preserve the same warning exactly: `Exact title/artist matched with release metadata variance: album requested "The Moon Belongs To You EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-11" but Spotify returned "2026-09-03"`
+
+Unresolved without verdict, each preserving `no exact Spotify title/artist search match in market SE`: Excalibur, DJ Spence — *Medium Rare*, *Simmer*; Shin Watanabe — *Red Zone Trax I*, *Ethos Mama Trax VI*, *Ethos Mama Trax X*; Oscar Later — *That's Quite A Lot Of Zeroes!*.
+
+### Auditor approval
+
+**APPROVED.** Run 184 is quarantined as uncompleted. Run 185 has matching immutable request/snapshot identity and reconciles every warning and unresolved result. Only its three selected exact identities were evaluated, separately at volume, transition, local-run and long-form scales. Protected state remains intact. Auditor approves zero canonical additions, six scoped placement rejections, local inspiration retention and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **50 tracks**; protected positions 42–44 remain intact.
+- EDITORIAL ENGINE — DISCOVERY POOL: **383 → 386**, adding the three selected Oscar Later tracks.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Run 184: ~64 inspected → 9 leads → REQUEST_NOT_COMPLETED before lookup → 0 resolutions/evaluations/additions. Run 185: same field → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across completed discovery Runs 87–185, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **774 leads from approximately 4,524 inspections; 35 ADDs from 238 selected candidates**. Run 185 conversion: 14.1% inspection-to-lead, 33.3% lead-to-resolution, 0/3 selected-to-ADD. Recent comparable ADD rate remains **4/10**; the no-ADD streak is two completed runs after Run 182, retaining five exact interesting tracks. No stagnation signal or actionable REPAIR emerges.
+
+
 ## Run 183 — EXPLORE — sampler reframing versus complete track arc — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 50 unique canonical tracks, an exact-order map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a last verified COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 381 contiguous unique tracks and a COMPLETE 381/381 receipt. No objective repair was actionable.

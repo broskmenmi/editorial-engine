@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Runs 184–185
+
+### Let internal transformation change the passage, not merely occupy it
+
+**Direction:** Explore tracks whose internal state changes, but grant sequence space only when that change alters the immediate boundary, surrounding run and long-form reading rather than adding another complete build or concept stage.
+
+**Ingredients:**
+
+- Oscar Later — *Wenlocked*, *Air Time For Andre*, *The Moon Belongs To You* — exact placement-specific rejects retained as interesting
+- Excalibur / DJ Spence and Shin Watanabe — unresolved micro-modulation and raw-house fields
+
+**Why interesting:** Internal distinction can pass the selection lens and still fail a particular passage. A within-track transformation is evidence, not automatic sequence consequence.
+
+**Unknown / risk:** Not a proven sequence or live-mixing edge. All six tested placements failed; six leads remain unresolved. Handoffs, phrase fit, pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
+
 ## Current additions — Run 183
 
 ### Let sampler reframing reveal a complete track arc without granting it sequence space

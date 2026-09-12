@@ -1,5 +1,14 @@
 # STRANGE GAIT — Editorial Notes
 
+## Runs 184–185 — request failure quarantined; Oscar Later placements rejected
+
+Pre-audit found no actionable REPAIR: 50 unique tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, valid receipts.
+
+Run 184 is REQUEST_NOT_COMPLETED. Its request used a non-ledger *backsliding* URI and failed before Spotify lookup; no identity was resolved or judged. Recovery Run 185 used a new runId, current SHA and ledger-derived pairs. Its valid PARTIAL snapshot selected three Oscar Later tracks, preserved six Spotify-SE misses and the exact common metadata warning, with no duplicates, substitutions, relinkings, alternates or technical failures.
+
+All three selected tracks pass the lens but fail only their tested placements: *Wenlocked* adds a second build; *Air Time For Andre* adds formation without direction evidence; the title track mediates purposeful relations through concept rather than passage consequence. STRANGE GAIT remains 50 tracks; the utility ledger retains all three. No actionable REPAIR remains. Audio analysis and live mixing are NOT TESTED.
+
+
 ## Runs 180–181 — request failure quarantined; Akufen placements rejected
 
 Pre-audit found no actionable REPAIR: 49 unique canonical tracks, exact-order map, protected `Transparency → When We Froze → Stardancer` at positions 41–43, no active feedback or triggered revisit, and valid existing receipts.
