@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 174
+
+### Let groove complication change the passage, not merely occupy it
+
+**Direction:** Explore non-standard club constructions whose complication makes an existing character change or deformation more legible. A documented hybrid, acid line or unusual drum pattern is a selection lead, not automatic sequence value; test whether the exact track changes the transition, local run and long-form journey.
+
+**Ingredients:**
+
+- Lil_art_hoe — *Gone* — exact placement-specific reject; documented non-standard kick/snare construction remains useful outside the tested live-band-return and closing-afterword boundaries
+- Lil_art_hoe — *A Lot of Talk* — exact PARKED lead between *FELT* and *Thick to Handle*; individual form and endpoint remain unknown
+- whoisgeno — *YOU <3*, *REVERSE COWGIRL* and *BOP LIKE THI$* — unresolved Southern-club research leads
+- SIISKO — *Chillin En La Playa - Siisko*; KILOBAUUD — *BACKATOWN* and *SLUGGED UP* — unresolved bounce, soca and multi-club-language research leads
+- Pu22L3 — *Ninakaw Na Tunog Remix* — unresolved extended prepared-piano reconstruction lead
+
+**Why interesting:** A groove can be unusual yet still be self-contained. The useful set question is whether its complication alters the meaning of the surrounding passage rather than simply adding another striking construction.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 173
 
 ### Let the familiar grid become the fault line

@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 174 — EXPLORE — groove complication without canonical displacement
+
+Lil_art_hoe — *Gone* (`spotify:track:7fm4fgxXntmvGWqCXlnpoh`) passes the selection lens and remains genuinely interesting, but is rejected only at both tested placements. Its documented non-standard kick/snare pattern, acid bass, vocal samples and wordless melodies either mediate the direct return from *Sarniezz* or install another complete groove between restrained re-entry and the closing afterword.
+
+Lil_art_hoe — *A Lot of Talk* (`spotify:track:43L9iOoLolYvrUyonnzCIs`) is PARKED at `FELT → candidate → Thick to Handle`. Release-level evidence supports leftfield dancefloor and groove-complication interest, but does not isolate this exact track's form or endpoint; richer candidate-specific evidence could show whether it develops or delays the formation-to-deformation passage. Its alternative between *Sarniezz* and *Never Met* is placement-specifically rejected.
+
+Resolver `2026-09-12T10:48:38Z-explore-174`: 9 leads → 2 exact resolutions + 7 unresolved → 2 selected evaluations → 0 ADD + 1 PARKED placement + 3 scoped placement rejections. Both metadata warnings and all seven exact resolver errors are preserved in discoveries.md. There were no duplicates, substitutions, relinkings, alternates or technical failures.
+
+Auditor approves the placement outcomes, local inspiration updates and two global utility additions. STRANGE GAIT remains 49 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 374 tracks. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 41–43.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 173 — EXPLORE — familiar grid to deliberate fault line
 
 Blawan — *Style Teef* (`spotify:track:0KeJYT04VhNp6xKA3PYOgo`) is added between *Truth in Noise* and *Same Way*. The Fader documents the exact 4:18 track beginning with a classic Detroit-techno drum line and becoming increasingly elusive and frazzled. The five-track passage `Elemental Dream → Truth in Noise → Style Teef → Same Way → U Belong 2 Me` moves from self-stripping instability through consolidation, an explicit loss of the familiar grid, alternating drum/bass pressure and threshold. This is a deliberate mutation claim, not a seamless-transition or mixability claim.

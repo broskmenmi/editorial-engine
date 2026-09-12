@@ -376,6 +376,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 370 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | STRANGE GAIT Run 173 | Canonical ADD / interesting | 2026-09-12 |
 | 371 | Blawan | The GL Lights | spotify:track:4UtabPSJZkKjeUyKfmFTXY | STRANGE GAIT Run 173 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 372 | Blawan | NOS | spotify:track:5z46Jo6PQMz2kDmJuKknhV | STRANGE GAIT Run 173 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 373 | Lil_art_hoe | Gone | spotify:track:7fm4fgxXntmvGWqCXlnpoh | STRANGE GAIT Run 174 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 374 | Lil_art_hoe | A Lot of Talk | spotify:track:43L9iOoLolYvrUyonnzCIs | STRANGE GAIT Run 174 | PARKED / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

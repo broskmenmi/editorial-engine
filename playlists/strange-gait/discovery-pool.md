@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 174 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Lil_art_hoe | Gone | https://open.spotify.com/track/7fm4fgxXntmvGWqCXlnpoh | Placement-specific REJECT only at both tested boundaries; documented non-standard kick/snare pattern, acid bass, vocal samples and wordless melodies remain genuinely interesting elsewhere. |
+| EXACT TRACK | Lil_art_hoe | A Lot of Talk | https://open.spotify.com/track/43L9iOoLolYvrUyonnzCIs | PARKED at *FELT → candidate → Thick to Handle*; exact identity and release-level groove-complication frame are useful, while individual form and endpoint remain unknown. |
+| RESEARCH LEADS | whoisgeno | YOU <3; REVERSE COWGIRL; BOP LIKE THI$ | https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report · https://whoisgeno.bandcamp.com/track/reverse-cowgirl · https://whoisgeno.bandcamp.com/album/plz-stay-bop-like-thi | Spotify-SE-unavailable exact-title leads; no musical verdict or utility addition. |
+| RESEARCH LEADS | SIISKO; KILOBAUUD | Chillin En La Playa - Siisko; BACKATOWN; SLUGGED UP | https://siisko.bandcamp.com/track/chillin-en-la-playa-siisko · https://kilobauud.bandcamp.com/album/yakamein | Spotify-SE-unavailable exact-title leads; no musical verdict or utility addition. |
+| RESEARCH LEAD | Pu22L3 | Ninakaw Na Tunog Remix | https://pu22l3.bandcamp.com/album/ninakaw-na-tunog-remix-album | Spotify-SE-unavailable 29:59 prepared-piano reconstruction lead; no musical verdict or utility addition. |
+| SCENE / RELEASE WATCH | New Orleans house and adjacent Southern club | KILOBAUUD; lil_art_hoe; whoisgeno; SIISKO; Pu22L3; Mojami | https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report | Emerging intersections among local bounce, house, techno, Jersey, Baltimore, soca and prepared-piano practice remain a useful discovery window. |
+
+### Placement and inspiration boundaries
+
+- *Gone* is not globally rejected; only the two tested canonical placements fail.
+- *A Lot of Talk* is PARKED only at the *FELT*/*Thick to Handle* boundary and rejected only at the *Sarniezz*/*Never Met* boundary.
+- Both exact retained tracks enter the separate doctrine-free global utility ledger.
+- Seven unresolved identities receive no musical verdict and do not enter the global utility ledger.
+- There were no exact unselected alternates.
+
 ## Run 173 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

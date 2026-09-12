@@ -1,5 +1,54 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 174 — EXPLORE — groove complication without canonical displacement — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical rows, COMPLETE 49/49 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 41–43. EDITORIAL ENGINE — DISCOVERY POOL entered with 372 contiguous unique tracks and COMPLETE 372/372 receipt. No active feedback, current TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 60 named tracks, releases and catalogue cuts across Bandcamp Daily's August 28, 2026 New Orleans house scene report, KILOBAUUD's current *YAKAMEIN*, lil_art_hoe's *Tarocco Singles Club No.5*, whoisgeno's current Southern-club singles, SIISKO's bounce/soca hybrid, Pu22L3's prepared-piano reconstruction and current inside-out boundaries. Runs 165–173 identities, canonical tracks, active rejects, untriggered PARKED revisits and utility identities were excluded. Nine honest leads survived without padding. Sources: https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report ; https://kilobauud.bandcamp.com/album/yakamein ; https://lilarthoe.bandcamp.com/album/tarocco-singles-club-no-5 ; https://whoisgeno.bandcamp.com/track/reverse-cowgirl ; https://siisko.bandcamp.com/track/chillin-en-la-playa-siisko ; https://pu22l3.bandcamp.com/album/ninakaw-na-tunog-remix-album
+
+**Immutable resolution:** schemaVersion 2 request `2026-09-12T10:48:38Z-explore-174` was written once from `8d52fd1eb962399c5921c5055159b95431caedab` at commit `3cd48f7878081f61c2a88d90ecbf027900702e38`. Matching resolver output at `2026-09-12T10:55:23.087Z`, commit `1480a738e0ef06522460da178d1d750e7d000db3`, fingerprint `7ba2be436d7a4be69c55b6e0ed74e929f730e85a89ca9b91a9dc724ac4ea6ae5`: 9 requested, 2 exact resolutions, 2 selected evaluations, 0 alternates and 7 unresolved; `PARTIAL`. No duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- whoisgeno — *YOU <3*: `no exact Spotify title/artist search match in market SE`
+- SIISKO — *Chillin En La Playa - Siisko*: `no exact Spotify title/artist search match in market SE`
+- KILOBAUUD — *BACKATOWN*: `no exact Spotify title/artist search match in market SE`
+- whoisgeno — *REVERSE COWGIRL*: `no exact Spotify title/artist search match in market SE`
+- KILOBAUUD — *SLUGGED UP*: `no exact Spotify title/artist search match in market SE`
+- Pu22L3 — *Ninakaw Na Tunog Remix*: `no exact Spotify title/artist search match in market SE`
+- whoisgeno — *BOP LIKE THI$*: `no exact Spotify title/artist search match in market SE`
+
+Warnings preserved exactly:
+
+- lil_art_hoe — *Gone*: `Exact title/artist matched with release metadata variance: album requested "Tarocco Singles Club No.5" but Spotify returned "Tarocco Singles Club No. 5"`
+- lil_art_hoe — *A Lot of Talk*: `Exact title/artist matched with release metadata variance: album requested "Tarocco Singles Club No.5" but Spotify returned "Tarocco Singles Club No. 5"`
+
+There were no exact unselected alternates.
+
+### Lil_art_hoe — Gone — `spotify:track:7fm4fgxXntmvGWqCXlnpoh`
+
+- **Volume fit:** PASS. The official release notes document the exact 5:08 track through haunting vocal samples, a non-standard kick/snare pattern, acid bass and wordless melodies. Rhythmic complication satisfies the selection lens without relying on novelty or genre membership.
+- **Immediate transition:** FAIL at `Sarniezz → candidate → Never Met`. A fully articulated acid/dancefloor construction mediates the current direct move from the live-band metric left turn into *Never Met*'s passing-foreground hinge. FAIL at `Can I live → candidate → Invisible Warriors Of Light`: another complicated groove interrupts the restrained re-entry-to-afterword relation.
+- **Surrounding three-to-five-track run:** FAIL at both placements. `Capa → Sarniezz → Gone → Never Met → Trompe L'oeil` adds a second production-world turn before the staggered-swing reset. `Rabbit Hole → Can I live → Gone → Invisible Warriors Of Light` gives the closing passage a new full groove after it has already reopened.
+- **Long-form journey:** FAIL proportionally for these placements. The track's exact construction is compelling, but neither insertion clarifies a journey-scale change; each postpones an already legible consequence. This is not a same-room or smoothness judgment.
+- **Verdict:** placement-specific REJECT for both tested boundaries. The exact track remains genuinely interesting and enters the global utility ledger. Exact handoffs, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase fit and mixability remain UNKNOWN.
+
+### Lil_art_hoe — A Lot of Talk — `spotify:track:43L9iOoLolYvrUyonnzCIs`
+
+- **Volume fit:** PASS provisionally. The official page verifies the exact 5:14 identity within a leftfield dancefloor two-tracker built from earthy percussion, acid bass and groove complications, but does not isolate this track's individual form.
+- **Immediate transition:** FAIL at `Sarniezz → candidate → Never Met`. Without candidate-specific form or endpoint evidence, the release-level frame cannot justify interposing another dancefloor construction across the direct live-band return. At `FELT → candidate → Thick to Handle`, the handoff is UNKNOWN rather than failed.
+- **Surrounding three-to-five-track run:** FAIL for the Sarniezz placement. PARKED for `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES`: exact-track evidence could show a useful complication between rolling formation and bodily deformation, or another completed stage that delays it.
+- **Long-form journey:** PARKED. The release-level evidence supports belonging interest but cannot establish whether this exact track changes the journey or merely lengthens an already articulated formation-to-deformation passage.
+- **Verdict:** PARKED at `FELT → candidate → Thick to Handle`; placement-specific REJECT at `Sarniezz → candidate → Never Met`. Reopen only for materially richer exact-track structural or endpoint evidence, lawful audio evidence, changed journey need or explicit listener instruction. The exact track remains genuinely interesting and enters the global utility ledger. Exact handoffs, individual form, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase fit and mixability remain UNKNOWN.
+
+**Auditor:** APPROVED. The two exact identities were evaluated separately at volume, immediate-transition, local-run and long-form scales. The verdicts do not infer sonic facts from metadata, do not treat BPM or novelty as proof, do not split the protected trio, and do not mutate GROOVE OVER NOISE. The seven unresolved leads receive no verdict or utility addition. Both exact selected tracks are explicitly retained as genuinely interesting and are absent from the utility ledger, so two doctrine-free utility additions are required. STRANGE GAIT remains 49 tracks; EDITORIAL ENGINE — DISCOVERY POOL becomes 374 tracks.
+
+**Run analysis:** approximately 60 inspected → 9 leads → 2 exact resolutions + 7 unresolved → 2 selected evaluations → 0 ADD + 1 PARKED placement + 3 scoped placement rejections → 2 utility additions. Inspection-to-lead conversion 15.0%; lead-to-resolution conversion 22.2%; selected-candidate-to-ADD conversion 0/2. Across completed discovery Runs 87–174, excluding process repairs and failed Runs 164 and 167: 729 leads from approximately 4,218 inspections; 34 ADDs from 226 selected candidates. The recent comparable ADD rate remains 4/10. The musical no-ADD streak becomes one completed run after three consecutive ADD runs. The low resolution yield is explained by Spotify-SE absence, not a technical resolver failure or musical zero. The candidate-specific outcomes demonstrate proportionality without imposing a no-ADD quota. No actionable REPAIR emerges.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 173 — EXPLORE — a familiar grid can become a deliberate fault line — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 48 unique canonical rows, COMPLETE 48/48 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 40–42. EDITORIAL ENGINE — DISCOVERY POOL entered with 369 contiguous unique tracks and COMPLETE 369/369 receipt. No active feedback, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
