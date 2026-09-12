@@ -1,19 +1,8 @@
 {
-  "schemaVersion": 2,
-  "runId": "2026-09-12T13:56:00Z-explore-180",
-  "sourceCommit": "a6631efef30d3ba3eeac1c028659138c19e25d64",
-  "target": "playlists/strange-gait/",
-  "mode": "EXPLORE",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T13:56:00Z",
     "approximateInspectedScope": "Approximately 58 named tracks, releases and catalogue cuts across current September electronic pages, Picture's newly surfaced July album, Akufen's August 21 BRUK reissue, Marco Maldarella's September 1 album, adjacent Short Span/BRUK/Omen Wapta material and overlooked catalogue links. Official and attributed written evidence only; no audio audition.",
-    "sourceWindows": [
-      "CURRENT / NEWLY SURFACED WINDOW: Picture's July 17, 2026 Uuuuuuuu supplied exact track-level descriptions for freely chained percussion and stereo constructions. https://pppicture.bandcamp.com/album/uuuuuuuu ; https://pitchfork.com/reviews/albums/picture-uuuuuuuu/",
-      "OVERLOOKED CATALOGUE REISSUE: Akufen's Architextures 1 -2 -3, originally released in 2000 and reissued by BRUK on August 21, 2026, supplied three exact dub-techno architecture leads. https://brukrecords.bandcamp.com/album/architextures-1-2-3",
-      "CURRENT ADJACENT WINDOW: Marco Maldarella's September 1, 2026 ere Scyld supplied restrained, non-climactic experimental-techno leads. https://marcomaldarella.bandcamp.com/album/ere-scyld",
-      "ADJACENT LABEL / REVIEW WINDOW: current Resident Advisor, Bandcamp, Boomkat, Short Span, BRUK and Omen Wapta pages were inspected; already handled Batu/Donato Dozzy, Reptant and RHR identities were excluded as persistent-state duplicates."
-    ],
     "exclusions": [
+      "Run 180 is REQUEST_NOT_COMPLETED: its immutable request at commit 8bb5820311aa339814b26d674d0b510f93fad777 failed before Spotify lookup because Lead 2 placement 2 referenced a non-ledger URI. No Run 180 identity received a resolution, verdict or utility addition; this recovery uses a new runId and current sourceCommit.",
       "Run 178's Bristol bass/garage, Yunx, Procombo and Colomboi field was not recycled; failed Runs 175 and 177 and repair Runs 176 and 179 supplied no reusable musical verdicts.",
       "Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior discovery leads and exact tracks already in the global utility ledger were excluded.",
       "Nine honest exact-title leads survived without artist, texture or genre quotas. Every proposed URI pair was re-derived from the current 49-track ledger and checked for adjacency and prose agreement.",
@@ -29,7 +18,14 @@
       "7. Marco Maldarella — Subvelo",
       "8. Marco Maldarella — Slack Tide",
       "9. Marco Maldarella — Velzna"
-    ]
+    ],
+    "sourceWindows": [
+      "CURRENT / NEWLY SURFACED WINDOW: Picture's July 17, 2026 Uuuuuuuu supplied exact track-level descriptions for freely chained percussion and stereo constructions. https://pppicture.bandcamp.com/album/uuuuuuuu ; https://pitchfork.com/reviews/albums/picture-uuuuuuuu/",
+      "OVERLOOKED CATALOGUE REISSUE: Akufen's Architextures 1 -2 -3, originally released in 2000 and reissued by BRUK on August 21, 2026, supplied three exact dub-techno architecture leads. https://brukrecords.bandcamp.com/album/architextures-1-2-3",
+      "CURRENT ADJACENT WINDOW: Marco Maldarella's September 1, 2026 ere Scyld supplied restrained, non-climactic experimental-techno leads. https://marcomaldarella.bandcamp.com/album/ere-scyld",
+      "ADJACENT LABEL / REVIEW WINDOW: current Resident Advisor, Bandcamp, Boomkat, Short Span, BRUK and Omen Wapta pages were inspected; already handled Batu/Donato Dozzy, Reptant and RHR identities were excluded as persistent-state duplicates."
+    ],
+    "timestampUtc": "2026-09-12T14:01:00Z"
   },
   "leads": [
     {
@@ -105,7 +101,7 @@
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:12xu2Ssg4yZ7dtrYR1D2iH",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Elemental Dream and Truth in Noise",
@@ -225,11 +221,11 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:4YhDFHnYBrwdgMnqNbPoTQ",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRnnLOJpRnPS84GZRJmH",
+          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
           "purpose": "Test whether the dub-techno architecture develops the opening construction or delays Marauder."
         },
         {
@@ -238,7 +234,7 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJxygTo2obHeIQrVPwiOM",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
           "purpose": "Test whether chord-pulse architecture reorients FELT's formation or adds an unnecessary preparatory stage."
         }
       ],
@@ -277,11 +273,11 @@
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:1rerEzUYckORdGeQ95WpSy",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuhtFbOx2DSoEY2mjPtV",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
           "purpose": "Test whether the dub-techno swing makes the late descent-to-reopening move intentional or occupies it."
         }
       ],
@@ -354,20 +350,20 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:2PiPOiJrEL0PgXaBg2QamZ",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yehCP8lxWJg0gNw1brFS",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "purpose": "Test whether the tek-field identity changes or merely lengthens the law-to-pulse passage."
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:51HYVCXUkDr3qYIKJZVZCW",
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQ56BAjbMkFHLA73YQt4",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
           "purpose": "Test whether restrained temporal form develops the local turn or postpones Mildew Swoosh."
         }
       ],
@@ -397,11 +393,11 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:5zLxBz2sq7RG7STNldz3HX",
+          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Moonwake and Raataja",
-          "precedingUri": "spotify:track:3HyoqhEKUgV8OocST2gAdj",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
           "purpose": "Test whether the restrained field changes the Moonwake-to-Raataja turn or inserts unsupported atmosphere."
         },
         {
@@ -419,5 +415,10 @@
       "spotifyTrackId": null,
       "track": "Velzna"
     }
-  ]
+  ],
+  "mode": "EXPLORE",
+  "runId": "2026-09-12T14:01:00Z-explore-181",
+  "schemaVersion": 2,
+  "sourceCommit": "8bb5820311aa339814b26d674d0b510f93fad777",
+  "target": "playlists/strange-gait/"
 }
