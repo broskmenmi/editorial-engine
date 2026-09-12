@@ -1,210 +1,66 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "1405e36385c9b2e656ecda951face516537fd1ab5087e19d42bd4c3e53c1774f",
-  "generatedAt": "2026-09-12T17:01:14.360Z",
-  "runId": "2026-09-12T17:00:00Z-explore-185",
-  "sourceCommit": "12bfd24a61f128ead1b114f816b225b0fff548e8",
+  "requestFingerprint": "25f6bcaf24fb20faddfaff96ace02d9a326cf3ece619a32dd81b4f3c382ac86f",
+  "generatedAt": "2026-09-12T17:56:14.157Z",
+  "runId": "2026-09-12T17:51:27Z-explore-186",
+  "sourceCommit": "aaeb733a03bc17a86c6f7fe9bbf3c0985fa1edae",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 64 named tracks, releases and catalogue cuts across current September 11–12 electronic release pages, PROGRAMM LDN's new Oscar Later EP, adjacent Montreal minimal/dub-techno, L.I.E.S. raw-house catalogue, new Boomkat pages, Resident Advisor current reviews and overlooked 2026 label material. Official and attributed written evidence only; no audio audition.",
+    "approximateInspectedScope": "Approximately 63 named tracks, EPs, reissues and catalogue cuts across Juno's current techno release list, Resident Advisor's current review index, official label pages for Mind Medizin, Butter Sessions and Renegade Methodz, and overlooked 1995/2008 catalogue reissues. Official and attributed written evidence only; no audio audition.",
     "exclusions": [
-      "Run 184 is REQUEST_NOT_COMPLETED: its immutable request at commit 12bfd24a61f128ead1b114f816b225b0fff548e8 failed before Spotify lookup because Lead 1 placement 2 referenced a non-ledger URI. No Run 184 identity received a resolution, verdict or utility addition; this recovery uses a new runId and current sourceCommit.",
-      "Run 183's TraTraTrax and Meakusma field and Runs 170–182 were not recycled; canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved identities and exact utility-ledger identities were excluded.",
-      "Four Oscar Later tracks survived because current exact-track notes distinguish construction or internal direction. Two Excalibur/DJ Spence tracks survived through exact criticism. Three Shin Watanabe tracks survived as a weaker adjacent/catalogue field with exact attribution.",
-      "Other items were excluded when they offered only prestige, generic tags, ambiguous naming, pre-release-only status, persistent-state duplication or no credible placement hypothesis.",
-      "All placement pairs were re-derived from the current 50-track ledger and checked for adjacency and prose agreement. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Run 185's Oscar Later, Excalibur/DJ Spence and Shin Watanabe field and Runs 170–184 were not recycled; canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved identities and exact utility-ledger identities were excluded.",
+      "The fresh field included current releases, adjacent/emerging artists and labels, and overlooked catalogue material; nine leads survived because attributed exact-track or tightly scoped release descriptions supported a credible selection-lens hypothesis and at least one lawful current boundary.",
+      "Other inspected items were excluded for canonical or persistent-state duplication, generic tags, prestige, straight-function description without a serious form hypothesis, ambiguous naming, future-only availability or lack of a credible placement hypothesis.",
+      "All placement pairs were re-derived from the current 50-track ledger and checked for adjacency and prose agreement. The protected Transparency → When We Froze → Stardancer sequence is untouched.",
+      "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Oscar Later — Wenlocked",
-      "2. Excalibur, DJ Spence — Medium Rare",
-      "3. Shin Watanabe — Red Zone Trax I",
-      "4. Oscar Later — That's Quite A Lot Of Zeroes!",
-      "5. Excalibur, DJ Spence — Simmer",
-      "6. Oscar Later — Air Time For Andre",
-      "7. Shin Watanabe — Ethos Mama Trax VI",
-      "8. Oscar Later — The Moon Belongs To You",
-      "9. Shin Watanabe — Ethos Mama Trax X"
+      "1. Benjamin Damage — Rounded",
+      "2. Sleep D, Mosam Howieson — Syphon Filter",
+      "3. Jerical — Airwaves",
+      "4. Benjamin Damage — Starfield",
+      "5. Sleep D, Mosam Howieson — Mirror Pool",
+      "6. Jerical — Better Living",
+      "7. Mike Dehnert — One O Eight",
+      "8. Mike Dehnert — Iv",
+      "9. Josh Wink, DJ ESP — No Bologna For Me"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Oscar Later's September 2026 PROGRAMM LDN EP has individual notes for structurally distinct club and non-club forms. https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
-      "ADJACENT / EMERGING WINDOW: Montreal label Doo's Excalibur and DJ Spence collaboration has exact-track criticism for sustained micro-modulation and a fuller anxious counterpart. https://ra.co/reviews/36335",
-      "OVERLOOKED CATALOGUE WINDOW: Shin Watanabe's May 2026 L.I.E.S. double album revisits raw early-house systems through disco, industrial, soul and synth-pop cross-currents. https://boomkat.com/products/red-zone-ethos-mama-trax"
+      "CURRENT RELEASE WINDOW: Juno's September 1–4 techno list supplied current exact track names and attributed structural descriptions for Benjamin Damage and Sleep D with Mosam Howieson. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: Jerical's September 4 Strange Patterns release on Renegade Methodz documents a fixed-motif/mobile-drum opposition and a psychedelic dub variant. https://renegademethodz.bandcamp.com/track/airwaves",
+      "OVERLOOKED CATALOGUE WINDOW: September reissues resurfaced Mike Dehnert's 2008 Freiraum machine nonlinearities and Josh Wink/DJ ESP's 1995 chaotic percussion. https://www.juno.co.uk/techno/this-week/"
     ],
-    "timestampUtc": "2026-09-12T17:00:00Z"
+    "timestampUtc": "2026-09-12T17:51:27Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 3,
+  "resolvedCount": 5,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Excalibur, DJ Spence",
-      "track": "Medium Rare",
+      "artist": "Sleep D, Mosam Howieson",
+      "track": "Syphon Filter",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Medium Rare",
-        "artist": "Excalibur, DJ Spence",
+        "album": "Syphon Filter",
+        "artist": "Sleep D, Mosam Howieson",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36335",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes the title track as deep chords, clicking hand drums and a melodic motif undergoing only slight modulations across nearly eight minutes.",
+          "attributedDescription": "Juno describes psychedelic synth loops fluctuating in frequency while drums clamp down like a robot production line.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 7:39.",
-            "Long-form micro-modulation is documented; phrase fit, exact endpoint, mixability and handoffs remain unknown."
+            "Current Butter Sessions release; label listing gives 5:36.",
+            "Materials and interaction are documented; exact direction, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
           ]
         },
-        "fitHypothesis": "A long track whose fixed materials change through slight modulation is a credible alternative-form contender.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "purpose": "Test whether sustained micro-modulation gives opposed-speed balance a purposeful continuation or stalls widening."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the unhurried continuum changes the flare-to-descent relation or lengthens it."
-          }
-        ],
-        "releaseDate": "2026-01-23",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Medium Rare"
-      }
-    },
-    {
-      "artist": "Shin Watanabe",
-      "track": "Red Zone Trax I",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
-        "evidence": {
-          "attributedDescription": "Boomkat characterises Red Zone Trax I through DJ Pierre-style percolation inside an album joining early house vocabulary to disco, industrial, soul and synth-pop references.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 4:30.",
-            "The exact comparison supports lineage but not development, endpoint, energy, density, phrase structure or handoffs."
-          ]
-        },
-        "fitHypothesis": "A raw-house machine phrase fits the lens only if its placement clarifies a passage rather than merely adding orthodoxy.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether percolating machine phrasing changes the widening-to-swing relation or duplicates it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "purpose": "Test whether it develops formation before deformation or inserts another stage."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Red Zone Trax I"
-      }
-    },
-    {
-      "artist": "Oscar Later",
-      "track": "That's Quite A Lot Of Zeroes!",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
-        "evidence": {
-          "attributedDescription": "Word and Sound describes the track as expanding from a stripped-back Buchla line into something huge through chopped samples and science-fiction-score influence.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Current exact identity.",
-            "Expansion is documented; perceived energy, density, exact endpoint, phrase structure and handoffs remain unknown."
-          ]
-        },
-        "fitHypothesis": "A discrete expansion from stripped material to a large endpoint is an honest structural-freedom lead.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether expansion develops drive into instability or completes too much before Drummz."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether expansion sharpens the fault line or overcrowds it."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "That's Quite A Lot Of Zeroes!"
-      }
-    },
-    {
-      "artist": "Excalibur, DJ Spence",
-      "track": "Simmer",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "album": "Medium Rare",
-        "artist": "Excalibur, DJ Spence",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36335",
-        "evidence": {
-          "attributedDescription": "Resident Advisor describes Simmer as fuller than the title track, with drums higher in the mix and slightly anxious against detuned dub-infused chords.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 5:20.",
-            "Contrast is documented; phrase structure, exact ending, energy, density, mixability and handoffs remain unknown."
-          ]
-        },
-        "fitHypothesis": "A fuller dub-techno structure with mild friction is a credible placement lead, not an automatic continuity solution.",
+        "fitHypothesis": "Counter-motion between shifting loops and constraining drums directly supports a credible mutable-form hypothesis.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -213,7 +69,55 @@
             "outgoingBpm": null,
             "position": "Between Capa and Sarniezz",
             "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test whether it prepares the live-band metric left turn or mediates it unnecessarily."
+            "purpose": "Test whether clamped fluctuation makes the live-band left turn more legible or unnecessarily mediates it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "purpose": "Test whether fluctuating-loop constraint develops opposed-speed balance or adds another complete system."
+          }
+        ],
+        "releaseDate": "2026-08-21",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Syphon Filter"
+      }
+    },
+    {
+      "artist": "Sleep D, Mosam Howieson",
+      "track": "Mirror Pool",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Syphon Filter",
+        "artist": "Sleep D, Mosam Howieson",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes Mirror Pool as combining dubby, croaky and Goa-trance elements; HHV characterises it as continually shifting the distance between head and body.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current Butter Sessions release; label listing gives 7:10.",
+            "Relational shifting is attributed; exact endpoint, phrase structure, handoffs and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "Continual relational shifting across dub and trance references is a credible structural-freedom lead.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether shifting distance clarifies the flare-to-descent relation or lengthens it."
           },
           {
             "candidateBpm": null,
@@ -222,292 +126,140 @@
             "outgoingBpm": null,
             "position": "Between Migration and Eyes of the Wind",
             "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the detuned dub stage clarifies the closing pivot or crowds it."
+            "purpose": "Test whether the dub/trance shift redirects the closing passage or adds another full production world."
           }
         ],
-        "releaseDate": "2026-01-23",
+        "releaseDate": "2026-08-21",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Simmer"
+        "track": "Mirror Pool"
       }
     },
     {
-      "artist": "Shin Watanabe",
-      "track": "Ethos Mama Trax VI",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Mike Dehnert",
+      "track": "One O Eight",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (49rqlrfw0PVaGoBefBz2c8, 4UKAi2qPtxJRNuKYfpuiIJ)",
       "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
+        "album": "Freiraum EP",
+        "artist": "Mike Dehnert",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Boomkat describes Ethos Mama Trax VI through a haughty stride and belting vocals within Watanabe's early-house/disco/industrial hybrid set.",
+          "attributedDescription": "Juno describes One O Eight's dustered pump as shaped by saturation, drum-machine nonlinearities, tape flutter and uncertain noise.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 4:46.",
-            "The terse account does not establish development, endpoint, energy, density, phrase structure or handoffs."
+            "Originally released in 2008 and reissued in September 2026; Juno lists 5:09.",
+            "Machine-treatment evidence is attributed; form, endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A vocal-bearing raw-house proposition may create a character shift, but vocals or attitude alone do not earn admission.",
+        "fitHypothesis": "An overlooked minimal-techno structure whose machine instability alters an otherwise clear treatment is a credible catalogue lead.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether vocal stride changes the threshold approach or inserts another statement."
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether machine instability changes the widening-to-swing relation or duplicates settled propulsion."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test whether the shift is a deliberate final afterword or reopens the journey."
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether nonlinear texture develops formation before deformation or adds another complete structure."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "2008",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Ethos Mama Trax VI"
+        "track": "One O Eight"
       }
     },
     {
-      "artist": "Shin Watanabe",
-      "track": "Ethos Mama Trax X",
+      "artist": "Josh Wink, DJ ESP",
+      "track": "No Bologna For Me",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
+        "album": "Stairway To Headphones",
+        "artist": "Josh Wink, DJ ESP",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Boomkat places Ethos Mama Trax X in a Virgo Four-like house lineage within the album's disco, industrial, soul and synth-pop cross-current.",
+          "attributedDescription": "Juno describes No Bologna For Me as the chaotic, pots-and-pans side of the 1995 two-tracker.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 4:28.",
-            "The comparison does not establish individual form, endpoint, pulse, energy, density, phrase structure or handoffs."
+            "Originally issued in 1995 and reissued in September 2026; Juno lists 11:14.",
+            "Chaotic percussive character is documented; internal development, endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "This is an honest catalogue-resolution lead from a raw hybrid-house record, with a weaker canonical claim than the structural top ranks.",
+        "fitHypothesis": "A chaotic percussive catalogue cut is an honest lower-ranked lead for testing passage consequence rather than historical importance.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "purpose": "Test whether it changes the hand-drum-to-mutation relation or adds another settled stage."
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether pots-and-pans chaos deepens instability before reassembly or duplicates it."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether it clarifies mutation before self-stripping percussion or delays consolidation."
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether chaotic percussion develops the live-band left turn or delays the direct return."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "1995",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Ethos Mama Trax X"
+        "track": "No Bologna For Me"
       }
     }
   ],
   "warnings": [
     {
-      "artist": "Oscar Later",
-      "track": "Wenlocked",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"The Moon Belongs To You EP\" but Spotify returned \"The Moon Belongs To You\"; release date requested \"2026-09-11\" but Spotify returned \"2026-09-03\""
-    },
-    {
-      "artist": "Oscar Later",
-      "track": "Air Time For Andre",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"The Moon Belongs To You EP\" but Spotify returned \"The Moon Belongs To You\"; release date requested \"2026-09-11\" but Spotify returned \"2026-09-03\""
-    },
-    {
-      "artist": "Oscar Later",
-      "track": "The Moon Belongs To You",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"The Moon Belongs To You EP\" but Spotify returned \"The Moon Belongs To You\"; release date requested \"2026-09-11\" but Spotify returned \"2026-09-03\""
+      "artist": "Mike Dehnert",
+      "track": "Iv",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2008\" but Spotify returned \"2008-12-21\""
     }
   ],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Starfield EP",
+        "artist": "Benjamin Damage",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes Wenlocked as developing from a downtempo sketch into a heavier club track as its bassline builds.",
+          "attributedDescription": "Juno describes Rounded as beginning to fall apart at the seams through scuttling sounds and roughshod rhythms.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact identity on a six-track September 2026 EP.",
-            "Internal direction is documented; exact endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Current four-track EP; Juno lists 5:56.",
+            "Structural disassembly is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A documented shift from sketch to heavier club form directly tests the volume's interest in music that refuses one fixed state.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "purpose": "Test whether the internal weight shift makes intensification deliberate or adds another self-contained build."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether sketch-to-club development clarifies the unstable turn or delays its consequence."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Wenlocked"
-      },
-      "spotifyTrackId": "4vFETIg1y83sfLZyAkvJZm",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "Medium Rare",
-        "artist": "Excalibur, DJ Spence",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36335",
-        "evidence": {
-          "attributedDescription": "Resident Advisor describes the title track as deep chords, clicking hand drums and a melodic motif undergoing only slight modulations across nearly eight minutes.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 7:39.",
-            "Long-form micro-modulation is documented; phrase fit, exact endpoint, mixability and handoffs remain unknown."
-          ]
-        },
-        "fitHypothesis": "A long track whose fixed materials change through slight modulation is a credible alternative-form contender.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "purpose": "Test whether sustained micro-modulation gives opposed-speed balance a purposeful continuation or stalls widening."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "purpose": "Test whether the unhurried continuum changes the flare-to-descent relation or lengthens it."
-          }
-        ],
-        "releaseDate": "2026-01-23",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Medium Rare"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
-        "evidence": {
-          "attributedDescription": "Boomkat characterises Red Zone Trax I through DJ Pierre-style percolation inside an album joining early house vocabulary to disco, industrial, soul and synth-pop references.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 4:30.",
-            "The exact comparison supports lineage but not development, endpoint, energy, density, phrase structure or handoffs."
-          ]
-        },
-        "fitHypothesis": "A raw-house machine phrase fits the lens only if its placement clarifies a passage rather than merely adding orthodoxy.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether percolating machine phrasing changes the widening-to-swing relation or duplicates it."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "purpose": "Test whether it develops formation before deformation or inserts another stage."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Red Zone Trax I"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
-        "evidence": {
-          "attributedDescription": "Word and Sound describes the track as expanding from a stripped-back Buchla line into something huge through chopped samples and science-fiction-score influence.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Current exact identity.",
-            "Expansion is documented; perceived energy, density, exact endpoint, phrase structure and handoffs remain unknown."
-          ]
-        },
-        "fitHypothesis": "A discrete expansion from stripped material to a large endpoint is an honest structural-freedom lead.",
+        "fitHypothesis": "Documented loss of structural stability is a strong fit for the volume's selection lens, subject to proportion at the tested boundaries.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -516,45 +268,46 @@
             "outgoingBpm": null,
             "position": "Between Fragments and Drummz",
             "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether expansion develops drive into instability or completes too much before Drummz."
+            "purpose": "Test whether disassembly develops the drive-to-instability passage or duplicates its existing work."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether expansion sharpens the fault line or overcrowds it."
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "purpose": "Test whether a second destabilisation sharpens the pre-protected turn or overcrowds it."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-08-28",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "That's Quite A Lot Of Zeroes!"
+        "track": "Rounded"
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "5nYgWNnUq7wkfpq28yJUFo",
+      "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "album": "Medium Rare",
-        "artist": "Excalibur, DJ Spence",
+        "album": "Syphon Filter",
+        "artist": "Sleep D, Mosam Howieson",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://ra.co/reviews/36335",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Resident Advisor describes Simmer as fuller than the title track, with drums higher in the mix and slightly anxious against detuned dub-infused chords.",
+          "attributedDescription": "Juno describes psychedelic synth loops fluctuating in frequency while drums clamp down like a robot production line.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 5:20.",
-            "Contrast is documented; phrase structure, exact ending, energy, density, mixability and handoffs remain unknown."
+            "Current Butter Sessions release; label listing gives 5:36.",
+            "Materials and interaction are documented; exact direction, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
           ]
         },
-        "fitHypothesis": "A fuller dub-techno structure with mild friction is a credible placement lead, not an automatic continuity solution.",
+        "fitHypothesis": "Counter-motion between shifting loops and constraining drums directly supports a credible mutable-form hypothesis.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -563,45 +316,45 @@
             "outgoingBpm": null,
             "position": "Between Capa and Sarniezz",
             "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "purpose": "Test whether it prepares the live-band metric left turn or mediates it unnecessarily."
+            "purpose": "Test whether clamped fluctuation makes the live-band left turn more legible or unnecessarily mediates it."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether the detuned dub stage clarifies the closing pivot or crowds it."
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "purpose": "Test whether fluctuating-loop constraint develops opposed-speed balance or adds another complete system."
           }
         ],
-        "releaseDate": "2026-01-23",
+        "releaseDate": "2026-08-21",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Simmer"
+        "track": "Syphon Filter"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Strange Patterns",
+        "artist": "Jerical",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes Air Time For Andre through chopped-up breaks and processed found audio.",
+          "attributedDescription": "Juno describes a trippy synth motif locked in one place while bulky drums try to break free.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact opener.",
-            "Materials are documented; internal direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Current Renegade Methodz release; official track page confirms exact title.",
+            "Motif/drum opposition is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "Chopped rhythm and found-audio framing merit exact resolution as an adjacent contender.",
+        "fitHypothesis": "A fixed motif contested by mobile drums is a direct, credible rhythmic-freedom proposition.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -610,150 +363,150 @@
             "outgoingBpm": null,
             "position": "Between Stadium Drive and Marauder",
             "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "purpose": "Test whether chopped breaks transform opening assembly or create a second formation."
+            "purpose": "Test whether internal opposition changes opening assembly into a deliberate anchor or adds a second formation."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "purpose": "Test whether chopped construction changes opposed-speed balance or delays widening."
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether contested motion deepens the widening-to-swing relation or delays it."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Air Time For Andre"
+        "track": "Airwaves"
       },
-      "spotifyTrackId": "5VfiVDHBaadc6BNMwAAdnA",
+      "spotifyTrackId": "4vzj6ucrNaH4zNTxMehDNK",
       "selected": true
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
+        "album": "Starfield EP",
+        "artist": "Benjamin Damage",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Boomkat describes Ethos Mama Trax VI through a haughty stride and belting vocals within Watanabe's early-house/disco/industrial hybrid set.",
+          "attributedDescription": "Juno describes Starfield through dubby punch and twisted metal sounds producing odd, off-beat funk.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Official duration 4:46.",
-            "The terse account does not establish development, endpoint, energy, density, phrase structure or handoffs."
+            "Current four-track EP; Juno lists 5:35.",
+            "Material character is documented; development, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
           ]
         },
-        "fitHypothesis": "A vocal-bearing raw-house proposition may create a character shift, but vocals or attitude alone do not earn admission.",
+        "fitHypothesis": "Off-beat funk inside a dub-weighted frame is an honest adjacent contender without relying on genre novelty.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "purpose": "Test whether vocal stride changes the threshold approach or inserts another statement."
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether odd off-beat funk redirects the closing pivot or crowds it."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test whether the shift is a deliberate final afterword or reopens the journey."
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether dub punch changes reset into formation or inserts another fully formed stage."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "2026-08-28",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Ethos Mama Trax VI"
+        "track": "Starfield"
+      },
+      "spotifyTrackId": "6si85UBbdmObmkMjwnvs5Y",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Syphon Filter",
+        "artist": "Sleep D, Mosam Howieson",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes Mirror Pool as combining dubby, croaky and Goa-trance elements; HHV characterises it as continually shifting the distance between head and body.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current Butter Sessions release; label listing gives 7:10.",
+            "Relational shifting is attributed; exact endpoint, phrase structure, handoffs and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "Continual relational shifting across dub and trance references is a credible structural-freedom lead.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether shifting distance clarifies the flare-to-descent relation or lengthens it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether the dub/trance shift redirects the closing passage or adds another full production world."
+          }
+        ],
+        "releaseDate": "2026-08-21",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Mirror Pool"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Strange Patterns",
+        "artist": "Jerical",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes the title track as a vocoded 1990s advertisement run through a detuned one-note synth, intended as surreal, wacky and club-facing.",
+          "attributedDescription": "Juno describes Better Living through serious dub punch and intricate psychedelic swirls.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact identity.",
-            "Materials and intent are documented; direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Current Renegade Methodz release; official page confirms exact title.",
+            "Materials are documented; internal direction, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
           ]
         },
-        "fitHypothesis": "Constrained pitch and recontextualised speech are a credible lens lead, but concept alone cannot justify placement.",
+        "fitHypothesis": "A dub-weighted rhythmic frame complicated by psychedelic detail is a credible emerging-label lead.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether the vocal construction develops the live-band left turn or delays the return."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Atlantis and Hypnic Jerks",
-            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "purpose": "Test whether constrained-pitch speech makes the continuum-to-acceleration hinge legible or adds a concept stage."
-          }
-        ],
-        "releaseDate": "2026-09-11",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "The Moon Belongs To You"
-      },
-      "spotifyTrackId": "1Li2hrSr7VxC4FUEGquOO1",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "RED ZONE-ETHOS MAMA TRAX",
-        "artist": "Shin Watanabe",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
-        "evidence": {
-          "attributedDescription": "Boomkat places Ethos Mama Trax X in a Virgo Four-like house lineage within the album's disco, industrial, soul and synth-pop cross-current.",
-          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Official duration 4:28.",
-            "The comparison does not establish individual form, endpoint, pulse, energy, density, phrase structure or handoffs."
-          ]
-        },
-        "fitHypothesis": "This is an honest catalogue-resolution lead from a raw hybrid-house record, with a weaker canonical claim than the structural top ranks.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "purpose": "Test whether it changes the hand-drum-to-mutation relation or adds another settled stage."
+            "position": "Between Truth in Noise and Style Teef",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether intricate dub pressure sharpens the fault line or overcrowds it."
           },
           {
             "candidateBpm": null,
@@ -762,93 +515,85 @@
             "outgoingBpm": null,
             "position": "Between Amor and Elemental Dream",
             "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether it clarifies mutation before self-stripping percussion or delays consolidation."
+            "purpose": "Test whether the psychedelic complication changes mutation before consolidation or inserts another stage."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Ethos Mama Trax X"
+        "track": "Better Living"
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    }
-  ],
-  "candidates": [
+      "spotifyTrackId": "4MX2LDGOGVjHL9CJukuAoS",
+      "selected": false
+    },
     {
-      "id": "4vFETIg1y83sfLZyAkvJZm",
-      "uri": "spotify:track:4vFETIg1y83sfLZyAkvJZm",
-      "name": "Wenlocked",
-      "artists": [
-        "Oscar Later"
-      ],
-      "album": "The Moon Belongs To You",
-      "releaseDate": "2026-09-03",
-      "durationMs": 327000,
-      "spotifyUrl": "https://open.spotify.com/track/4vFETIg1y83sfLZyAkvJZm",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "purpose": "Test whether the internal weight shift makes intensification deliberate or adds another self-contained build."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "purpose": "Test whether sketch-to-club development clarifies the unstable turn or delays its consequence."
-        }
-      ],
-      "fitHypothesis": "A documented shift from sketch to heavier club form directly tests the volume's interest in music that refuses one fixed state.",
-      "evidence": {
-        "attributedDescription": "Word and Sound describes Wenlocked as developing from a downtempo sketch into a heavier club track as its bassline builds.",
-        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Current exact identity on a six-track September 2026 EP.",
-          "Internal direction is documented; exact endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
-        ]
-      },
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Freiraum EP",
+        "artist": "Mike Dehnert",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes Wenlocked as developing from a downtempo sketch into a heavier club track as its bassline builds.",
+          "attributedDescription": "Juno describes One O Eight's dustered pump as shaped by saturation, drum-machine nonlinearities, tape flutter and uncertain noise.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact identity on a six-track September 2026 EP.",
-            "Internal direction is documented; exact endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Originally released in 2008 and reissued in September 2026; Juno lists 5:09.",
+            "Machine-treatment evidence is attributed; form, endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A documented shift from sketch to heavier club form directly tests the volume's interest in music that refuses one fixed state.",
+        "fitHypothesis": "An overlooked minimal-techno structure whose machine instability alters an otherwise clear treatment is a credible catalogue lead.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Freepass for Them and Moonwake",
-            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-            "purpose": "Test whether the internal weight shift makes intensification deliberate or adds another self-contained build."
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether machine instability changes the widening-to-swing relation or duplicates settled propulsion."
           },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between FELT and Thick to Handle",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether nonlinear texture develops formation before deformation or adds another complete structure."
+          }
+        ],
+        "releaseDate": "2008",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "One O Eight"
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (49rqlrfw0PVaGoBefBz2c8, 4UKAi2qPtxJRNuKYfpuiIJ)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Freiraum EP",
+        "artist": "Mike Dehnert",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno groups Iv with One O Eight as dustered pump masked by saturation, tape flutter and uncertain noise.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Originally released in 2008 and reissued in September 2026; Juno lists 5:06.",
+            "Release-level exact attribution does not establish individual form, endpoint, phrase structure or handoffs."
+          ]
+        },
+        "fitHypothesis": "This weaker catalogue lead tests whether production instability can alter a passage without novelty or orthodoxy doing the editorial work.",
+        "proposedPlacements": [
           {
             "candidateBpm": null,
             "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
@@ -856,29 +601,180 @@
             "outgoingBpm": null,
             "position": "Between backsliding and Mildew Swoosh",
             "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "purpose": "Test whether sketch-to-club development clarifies the unstable turn or delays its consequence."
+            "purpose": "Test whether uncertain machine texture clarifies the unstable turn or merely occupies it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether the dustered pump develops drive into instability or crowds the passage."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2008",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Wenlocked"
+        "track": "Iv"
+      },
+      "spotifyTrackId": "5WmgberXUQa6WXElaSiaq9",
+      "selected": false
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Stairway To Headphones",
+        "artist": "Josh Wink, DJ ESP",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes No Bologna For Me as the chaotic, pots-and-pans side of the 1995 two-tracker.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Originally issued in 1995 and reissued in September 2026; Juno lists 11:14.",
+            "Chaotic percussive character is documented; internal development, endpoint, phrase structure, handoffs and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A chaotic percussive catalogue cut is an honest lower-ranked lead for testing passage consequence rather than historical importance.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether pots-and-pans chaos deepens instability before reassembly or duplicates it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether chaotic percussion develops the live-band left turn or delays the direct return."
+          }
+        ],
+        "releaseDate": "1995",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "No Bologna For Me"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "5nYgWNnUq7wkfpq28yJUFo",
+      "uri": "spotify:track:5nYgWNnUq7wkfpq28yJUFo",
+      "name": "Rounded",
+      "artists": [
+        "Benjamin Damage"
+      ],
+      "album": "Starfield EP",
+      "releaseDate": "2026-08-28",
+      "durationMs": 352447,
+      "spotifyUrl": "https://open.spotify.com/track/5nYgWNnUq7wkfpq28yJUFo",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "purpose": "Test whether disassembly develops the drive-to-instability passage or duplicates its existing work."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Style Teef and Same Way",
+          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "purpose": "Test whether a second destabilisation sharpens the pre-protected turn or overcrowds it."
+        }
+      ],
+      "fitHypothesis": "Documented loss of structural stability is a strong fit for the volume's selection lens, subject to proportion at the tested boundaries.",
+      "evidence": {
+        "attributedDescription": "Juno describes Rounded as beginning to fall apart at the seams through scuttling sounds and roughshod rhythms.",
+        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Current four-track EP; Juno lists 5:56.",
+          "Structural disassembly is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "Starfield EP",
+        "artist": "Benjamin Damage",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes Rounded as beginning to fall apart at the seams through scuttling sounds and roughshod rhythms.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current four-track EP; Juno lists 5:56.",
+            "Structural disassembly is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "Documented loss of structural stability is a strong fit for the volume's selection lens, subject to proportion at the tested boundaries.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether disassembly develops the drive-to-instability passage or duplicates its existing work."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "purpose": "Test whether a second destabilisation sharpens the pre-protected turn or overcrowds it."
+          }
+        ],
+        "releaseDate": "2026-08-28",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Rounded"
       }
     },
     {
-      "id": "5VfiVDHBaadc6BNMwAAdnA",
-      "uri": "spotify:track:5VfiVDHBaadc6BNMwAAdnA",
-      "name": "Air Time For Andre",
+      "id": "4vzj6ucrNaH4zNTxMehDNK",
+      "uri": "spotify:track:4vzj6ucrNaH4zNTxMehDNK",
+      "name": "Airwaves",
       "artists": [
-        "Oscar Later"
+        "Jerical"
       ],
-      "album": "The Moon Belongs To You",
-      "releaseDate": "2026-09-03",
-      "durationMs": 234000,
-      "spotifyUrl": "https://open.spotify.com/track/5VfiVDHBaadc6BNMwAAdnA",
+      "album": "Strange Patterns",
+      "releaseDate": "2026-09-04",
+      "durationMs": 312376,
+      "spotifyUrl": "https://open.spotify.com/track/4vzj6ucrNaH4zNTxMehDNK",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -888,48 +784,48 @@
           "outgoingBpm": null,
           "position": "Between Stadium Drive and Marauder",
           "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "purpose": "Test whether chopped breaks transform opening assembly or create a second formation."
+          "purpose": "Test whether internal opposition changes opening assembly into a deliberate anchor or adds a second formation."
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
           "incomingBpm": null,
           "outgoingBpm": null,
-          "position": "Between Tides Alternate and Too Much Time",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test whether chopped construction changes opposed-speed balance or delays widening."
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "purpose": "Test whether contested motion deepens the widening-to-swing relation or delays it."
         }
       ],
-      "fitHypothesis": "Chopped rhythm and found-audio framing merit exact resolution as an adjacent contender.",
+      "fitHypothesis": "A fixed motif contested by mobile drums is a direct, credible rhythmic-freedom proposition.",
       "evidence": {
-        "attributedDescription": "Word and Sound describes Air Time For Andre through chopped-up breaks and processed found audio.",
+        "attributedDescription": "Juno describes a trippy synth motif locked in one place while bulky drums try to break free.",
         "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Current exact opener.",
-          "Materials are documented; internal direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+          "Current Renegade Methodz release; official track page confirms exact title.",
+          "Motif/drum opposition is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
         ]
       },
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Strange Patterns",
+        "artist": "Jerical",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes Air Time For Andre through chopped-up breaks and processed found audio.",
+          "attributedDescription": "Juno describes a trippy synth motif locked in one place while bulky drums try to break free.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact opener.",
-            "Materials are documented; internal direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Current Renegade Methodz release; official track page confirms exact title.",
+            "Motif/drum opposition is documented; exact endpoint, phrase structure, handoffs and mixability remain unknown."
           ]
         },
-        "fitHypothesis": "Chopped rhythm and found-audio framing merit exact resolution as an adjacent contender.",
+        "fitHypothesis": "A fixed motif contested by mobile drums is a direct, credible rhythmic-freedom proposition.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -938,115 +834,298 @@
             "outgoingBpm": null,
             "position": "Between Stadium Drive and Marauder",
             "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "purpose": "Test whether chopped breaks transform opening assembly or create a second formation."
+            "purpose": "Test whether internal opposition changes opening assembly into a deliberate anchor or adds a second formation."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Tides Alternate and Too Much Time",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "purpose": "Test whether chopped construction changes opposed-speed balance or delays widening."
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "purpose": "Test whether contested motion deepens the widening-to-swing relation or delays it."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-09-04",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Air Time For Andre"
+        "track": "Airwaves"
       }
     },
     {
-      "id": "1Li2hrSr7VxC4FUEGquOO1",
-      "uri": "spotify:track:1Li2hrSr7VxC4FUEGquOO1",
-      "name": "The Moon Belongs To You",
+      "id": "6si85UBbdmObmkMjwnvs5Y",
+      "uri": "spotify:track:6si85UBbdmObmkMjwnvs5Y",
+      "name": "Starfield",
       "artists": [
-        "Oscar Later"
+        "Benjamin Damage"
       ],
-      "album": "The Moon Belongs To You",
-      "releaseDate": "2026-09-03",
-      "durationMs": 210500,
-      "spotifyUrl": "https://open.spotify.com/track/1Li2hrSr7VxC4FUEGquOO1",
+      "album": "Starfield EP",
+      "releaseDate": "2026-08-28",
+      "durationMs": 331267,
+      "spotifyUrl": "https://open.spotify.com/track/6si85UBbdmObmkMjwnvs5Y",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
           "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test whether the vocal construction develops the live-band left turn or delays the return."
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "purpose": "Test whether odd off-beat funk redirects the closing pivot or crowds it."
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
           "incomingBpm": null,
           "outgoingBpm": null,
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "purpose": "Test whether constrained-pitch speech makes the continuum-to-acceleration hinge legible or adds a concept stage."
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test whether dub punch changes reset into formation or inserts another fully formed stage."
         }
       ],
-      "fitHypothesis": "Constrained pitch and recontextualised speech are a credible lens lead, but concept alone cannot justify placement.",
+      "fitHypothesis": "Off-beat funk inside a dub-weighted frame is an honest adjacent contender without relying on genre novelty.",
       "evidence": {
-        "attributedDescription": "Word and Sound describes the title track as a vocoded 1990s advertisement run through a detuned one-note synth, intended as surreal, wacky and club-facing.",
+        "attributedDescription": "Juno describes Starfield through dubby punch and twisted metal sounds producing odd, off-beat funk.",
         "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Current exact identity.",
-          "Materials and intent are documented; direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+          "Current four-track EP; Juno lists 5:35.",
+          "Material character is documented; development, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
         ]
       },
       "requestedIdentity": {
-        "album": "The Moon Belongs To You EP",
-        "artist": "Oscar Later",
+        "album": "Starfield EP",
+        "artist": "Benjamin Damage",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://wordandsound.net/release/170163-PRGMM012-Oscar-Later-The-Moon-Belongs-To-You-EP",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "Word and Sound describes the title track as a vocoded 1990s advertisement run through a detuned one-note synth, intended as surreal, wacky and club-facing.",
+          "attributedDescription": "Juno describes Starfield through dubby punch and twisted metal sounds producing odd, off-beat funk.",
           "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
           "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Current exact identity.",
-            "Materials and intent are documented; direction, endpoint, perceived pulse, energy, phrase structure and handoffs remain unknown."
+            "Current four-track EP; Juno lists 5:35.",
+            "Material character is documented; development, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
           ]
         },
-        "fitHypothesis": "Constrained pitch and recontextualised speech are a credible lens lead, but concept alone cannot justify placement.",
+        "fitHypothesis": "Off-beat funk inside a dub-weighted frame is an honest adjacent contender without relying on genre novelty.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether the vocal construction develops the live-band left turn or delays the return."
+            "position": "Between Migration and Eyes of the Wind",
+            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "purpose": "Test whether odd off-beat funk redirects the closing pivot or crowds it."
           },
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Atlantis and Hypnic Jerks",
-            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "purpose": "Test whether constrained-pitch speech makes the continuum-to-acceleration hinge legible or adds a concept stage."
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether dub punch changes reset into formation or inserts another fully formed stage."
           }
         ],
-        "releaseDate": "2026-09-11",
+        "releaseDate": "2026-08-28",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "The Moon Belongs To You"
+        "track": "Starfield"
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "4MX2LDGOGVjHL9CJukuAoS",
+      "uri": "spotify:track:4MX2LDGOGVjHL9CJukuAoS",
+      "name": "Better Living",
+      "artists": [
+        "Jerical"
+      ],
+      "album": "Strange Patterns",
+      "releaseDate": "2026-09-04",
+      "durationMs": 312100,
+      "spotifyUrl": "https://open.spotify.com/track/4MX2LDGOGVjHL9CJukuAoS",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Truth in Noise and Style Teef",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "purpose": "Test whether intricate dub pressure sharpens the fault line or overcrowds it."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Amor and Elemental Dream",
+          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "purpose": "Test whether the psychedelic complication changes mutation before consolidation or inserts another stage."
+        }
+      ],
+      "fitHypothesis": "A dub-weighted rhythmic frame complicated by psychedelic detail is a credible emerging-label lead.",
+      "evidence": {
+        "attributedDescription": "Juno describes Better Living through serious dub punch and intricate psychedelic swirls.",
+        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Current Renegade Methodz release; official page confirms exact title.",
+          "Materials are documented; internal direction, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "Strange Patterns",
+        "artist": "Jerical",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes Better Living through serious dub punch and intricate psychedelic swirls.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Current Renegade Methodz release; official page confirms exact title.",
+            "Materials are documented; internal direction, endpoint, perceived pulse, phrase structure and handoffs remain unknown."
+          ]
+        },
+        "fitHypothesis": "A dub-weighted rhythmic frame complicated by psychedelic detail is a credible emerging-label lead.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Truth in Noise and Style Teef",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether intricate dub pressure sharpens the fault line or overcrowds it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "purpose": "Test whether the psychedelic complication changes mutation before consolidation or inserts another stage."
+          }
+        ],
+        "releaseDate": "2026-09-04",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Better Living"
+      }
+    },
+    {
+      "id": "5WmgberXUQa6WXElaSiaq9",
+      "uri": "spotify:track:5WmgberXUQa6WXElaSiaq9",
+      "name": "IV",
+      "artists": [
+        "Mike Dehnert"
+      ],
+      "album": "Freiraum EP",
+      "releaseDate": "2008-12-21",
+      "durationMs": 305792,
+      "spotifyUrl": "https://open.spotify.com/track/5WmgberXUQa6WXElaSiaq9",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between backsliding and Mildew Swoosh",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "purpose": "Test whether uncertain machine texture clarifies the unstable turn or merely occupies it."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "purpose": "Test whether the dustered pump develops drive into instability or crowds the passage."
+        }
+      ],
+      "fitHypothesis": "This weaker catalogue lead tests whether production instability can alter a passage without novelty or orthodoxy doing the editorial work.",
+      "evidence": {
+        "attributedDescription": "Juno groups Iv with One O Eight as dustered pump masked by saturation, tape flutter and uncertain noise.",
+        "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Originally released in 2008 and reissued in September 2026; Juno lists 5:06.",
+          "Release-level exact attribution does not establish individual form, endpoint, phrase structure or handoffs."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "Freiraum EP",
+        "artist": "Mike Dehnert",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno groups Iv with One O Eight as dustered pump masked by saturation, tape flutter and uncertain noise.",
+          "craftConvention": "Attributed exact-track or exact-release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test the exact identity at the stated current boundaries as a potentially deliberate move, without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Originally released in 2008 and reissued in September 2026; Juno lists 5:06.",
+            "Release-level exact attribution does not establish individual form, endpoint, phrase structure or handoffs."
+          ]
+        },
+        "fitHypothesis": "This weaker catalogue lead tests whether production instability can alter a passage without novelty or orthodoxy doing the editorial work.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "purpose": "Test whether uncertain machine texture clarifies the unstable turn or merely occupies it."
+          },
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "purpose": "Test whether the dustered pump develops drive into instability or crowds the passage."
+          }
+        ],
+        "releaseDate": "2008",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Iv"
+      }
+    }
+  ]
 }
