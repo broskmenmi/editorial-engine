@@ -1,64 +1,65 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "62ba27a2dda5b9f2433149b205c40d2ef02c3bdb3cb246ef78f98135df4eb84b",
-  "generatedAt": "2026-09-12T04:59:33.282Z",
-  "runId": "2026-09-12T04:52:49Z-explore-167",
-  "sourceCommit": "9384ad225cf1f3e55b51aa3b4705320f8d1c92f7",
+  "requestFingerprint": "4001fb3aa5cc9c1965557151c9ea0f09b24caad3d3594d731cdb6ebb66c789ed",
+  "generatedAt": "2026-09-12T05:05:51.017Z",
+  "runId": "2026-09-12T05:12:00Z-explore-168",
+  "sourceCommit": "85a91d9e6467c76c663738b7cd28dad96b36ec51",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait/",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T04:52:49Z",
-    "approximateInspectedScope": "Approximately 57 named tracks, release cuts and catalogue references across Carmen Villain's September 4, 2026 Memoria release and September 8 review; Bitchin Bajas' August 28 Isle Peaks release and September 9 review; Carrier's 2025 Rhythm Immortal review and tracklist; Topdown Dialectic's 2026 False LP A and earlier Peak Oil catalogues; Jan Jelinek's Loop-Finding-Jazz-Records catalogue; related label pages; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-12T05:12:00Z",
+    "approximateInspectedScope": "Approximately 55 named tracks and release cuts across Ploy's September 11, 2026 Glizzy EP; Fleck E.S.C.'s July 21 Interior Reset album and September 5 review; Otto Taimela's July 24 Cheap Ingredients album and September 8 review; Kid Bucle's August 21 Incompleteness EP and September 10 feature; related Dekmantel, Pyramid Transmissions, Cudighi and Science Cult catalogues; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
     "exclusions": [
-      "Run 166 selected and unresolved identities were not recycled.",
-      "Run 165 selected, unresolved and alternate identities were not recycled.",
-      "Run 164 remains REQUEST_NOT_COMPLETED; none of its nine malformed-request leads were recycled.",
-      "Previously evaluated, parked, rejected, unresolved and alternate STRANGE GAIT exact identities found in current and archived history were excluded.",
+      "Run 167 is REQUEST_NOT_COMPLETED because its immutable placement identities were invalid; none of its selected, unresolved or duplicate-suppressed identities were reused.",
+      "The two rejected same-runId mutation attempts are obsolete technical failures and supplied no musical evidence.",
+      "Runs 165–166 selected, unresolved and alternate identities were not recycled.",
+      "Every ranked Artist — Track pair was checked against the current ledger, discoveries, discovery pool, rejected, revisit and archived history before submission.",
       "Exact tracks supported only by novelty, prestige, genre tags, metadata or generic release praise were inspected but not ranked unless a concrete structural or belonging question remained.",
+      "All proposed placement URIs were derived from the current ledger and programmatically verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Carrier — Outer Shell",
-      "2. Carmen Villain — Blue",
-      "3. Carrier — Wave After Wave",
-      "4. Bitchin Bajas — Ajami",
-      "5. Carmen Villain — Holding a Shape",
-      "6. Carrier — That Veil of Yours",
-      "7. Carmen Villain — Entre Nosotros",
-      "8. Jan Jelinek — Rock In The Video Age",
-      "9. Bitchin Bajas — Isle Peaks"
+      "1. Fleck E.S.C. — Interior Reset",
+      "2. Ploy — Yesterday now Tomorrow",
+      "3. Otto Taimela — Spell 3",
+      "4. Fleck E.S.C. — Opalissism",
+      "5. Ploy — Slowan Dip",
+      "6. Otto Taimela — Bullfinch Nest",
+      "7. Ploy — Glizzy",
+      "8. Fleck E.S.C. — Technical Support",
+      "9. Ploy — Global Underground"
     ],
     "sourceWindows": [
-      "CURRENT WINDOW: Carmen Villain's official September 4, 2026 Memoria page and Pitchfork's September 8 review document exact tracks in a decelerated spectral-dub system where rhythms and textures degrade, sounds recede or enlarge, and forms repeatedly mutate. https://carmenvillain.bandcamp.com/album/memoria ; https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "CURRENT / ADJACENT WINDOW: Bitchin Bajas' August 28 Isle Peaks release and Pitchfork's September 9 review document a 6/8-to-4/4 suite and a freeform elemental drone, extending the scan beyond conventional techno while preserving concrete structural questions. https://www.dragcity.com/artists/bitchin-bajas ; https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-      "ADJACENT WINDOW: Pitchfork's October 27, 2025 Carrier review documents exact tracks translating drum'n'bass time manipulation and dub-techno physicality into reversed, gated and spatially discontinuous percussion. https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-      "OVERLOOKED CATALOGUE WINDOW: AllMusic and Pitchfork's Loop-Finding-Jazz-Records reviews document Jan Jelinek's exact microhouse pieces, including house pulse disrupted by surging chords and unpredictable accents. https://www.allmusic.com/album/loop-finding-jazz-records-mw0000115298 ; https://pitchfork.com/reviews/albums/4234-loop-finding-jazz-records/"
+      "CURRENT WINDOW: Ploy's official September 11, 2026 Glizzy release supplies exact per-track construction notes across arpeggiated, rolling, entangled and heavily swung house forms. https://ployuk.bandcamp.com/album/glizzy",
+      "CURRENT / EMERGING WINDOW: Igloo's September 5 Fleck E.S.C. review and the official July 21 Interior Reset release document exact contemporary electro tracks where familiar form is pushed through negative space, broken digital percussion and staccato spatial detail. https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions ; https://pyramidtransmissions.bandcamp.com/album/interior-reset",
+      "ADJACENT WINDOW: Igloo's September 8 Otto Taimela review and the official Cheap Ingredients release document exact IDM/drum'n'bass pieces built around abstract structure, loops, recurring warble and low-end warmth. https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi ; https://ottotaimela.bandcamp.com/album/cheap-ingredients",
+      "EMERGING / CATALOGUE WINDOW: Igloo's September 10 Kid Bucle feature and the Science Cult release expanded the scan into contemporary tek-funk and broken-machine mutations; no exact cut from that window survived the nine-lead ranking. https://igloomag.com/features/kid-bucle-incompleteness-science-cult ; https://shop.sciencecult.com/album/incompleteness"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 1,
-  "candidateCount": 1,
+  "resolvedCount": 4,
+  "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Carmen Villain",
-      "track": "Blue",
-      "error": "already present in persistent state",
+      "artist": "Fleck E.S.C.",
+      "track": "Interior Reset",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Blue",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
+        "artist": "Fleck E.S.C.",
+        "track": "Interior Reset",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork describes the exact track's unstable, ungainly bassline glitching on impact and displacing surrounding sounds while flute circles over a staggered beat.",
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact full eight-minute version as beefed-up and unruly, with prime-time beats and synthetic muscle; the title construction elsewhere uses negative space and broken digital breaks to let darker pressure breathe.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track's unstable, ungainly bassline glitching on impact and displacing surrounding sounds while flute circles over a staggered beat.",
+          "attributedDescription": "Igloo describes the exact full eight-minute version as beefed-up and unruly, with prime-time beats and synthetic muscle; the title construction elsewhere uses negative space and broken digital breaks to let darker pressure breathe.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether bass-led displacement creates downstream transit or threshold work instead of another self-contained instability.",
+          "editorialInterpretation": "Test whether a muscular broken-electro construction changes a reassembly or consolidation task rather than merely extending force.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -67,19 +68,19 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "purpose": "Test whether unstable bass displacement gives the following foreground transit a distinct field to cross or delays the direct production-world turn.",
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "purpose": "Test whether broken-electro pressure opens useful room for the existing reassembly or crowds the unstable-rhythm hinge.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
           },
           {
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether a bassline that destabilizes surrounding sounds gives the threshold new transformation work or adds another complete pressure event.",
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether negative-space pressure gives consolidation altered material or adds another complete instability.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -89,23 +90,23 @@
       }
     },
     {
-      "artist": "Carrier",
-      "track": "Wave After Wave",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4oLPHdbUNsWTkjyqAEjnwA, 5X4vVTNu91pgex5Mf5V3px)",
+      "artist": "Otto Taimela",
+      "track": "Spell 3",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "Wave After Wave",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
+        "artist": "Otto Taimela",
+        "track": "Spell 3",
+        "album": "Cheap Ingredients",
+        "releaseDate": "2026-07-24",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork says the exact track retools drum'n'bass thrust into anxious pitter-patter under pretty synth melodies formed into icily geometric shapes.",
+        "discoverySource": "https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi",
+        "fitHypothesis": "Igloo describes the exact track as especially hypnotic in its ambience and loop, with a subtle form that becomes apparent only after sustained immersion.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork says the exact track retools drum'n'bass thrust into anxious pitter-patter under pretty synth melodies formed into icily geometric shapes.",
+          "attributedDescription": "Igloo describes the exact track as especially hypnotic in its ambience and loop, with a subtle form that becomes apparent only after sustained immersion.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether anxious rhythmic thrust under defined melodic form changes a following acceleration or reset.",
+          "editorialInterpretation": "Test whether a concise ambient-loop suspension can create useful re-entry or orientation work rather than serving as atmosphere.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -114,104 +115,10 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "purpose": "Test whether anxious pitter-patter under geometric synth form gives the following acceleration a clearer launch condition or merely inserts another rhythmic mechanism.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether anxious reformulation makes the reset more necessary or interrupts the existing transit-to-reset relation.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "artist": "Bitchin Bajas",
-      "track": "Ajami",
-      "error": "already present in persistent state",
-      "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Ajami",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "fitHypothesis": "Pitchfork documents the exact 16-minute suite moving from kalimba pulse into a lilting 6/8 grid, then returning around minute ten to a 4/4 motorik stomp and arpeggiated finale.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork documents the exact 16-minute suite moving from kalimba pulse into a lilting 6/8 grid, then returning around minute ten to a 4/4 motorik stomp and arpeggiated finale.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an extended, internally transforming suite is proportionate anywhere in the journey and leaves a successor genuinely new work.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether the documented 6/8-to-4/4 suite makes the live-band pulse illusion more consequential or preconditions it at disproportionate length.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
-            "followingUri": "spotify:track:28lWAlC6JesW07xNxjza",
-            "purpose": "Test whether its late motorik charge creates a meaningful final reorientation or overwhelms the concise afterword.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    },
-    {
-      "artist": "Carmen Villain",
-      "track": "Holding a Shape",
-      "error": "already present in persistent state",
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Holding a Shape",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork identifies the exact track as dissipated, shuddering dub-techno machinery.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as dissipated, shuddering dub-techno machinery.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether dissipation can function as a purposeful hinge rather than duplicate an existing breakdown or late suspension.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test whether dissipated shuddering changes the following temporal strain or repeats dissolution.",
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "purpose": "Test whether looped suspension creates a distinct post-block threshold or delays the existing liminal corridor.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -220,7 +127,7 @@
             "position": "Between U Belong 2 Me and Transparency",
             "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
             "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "purpose": "Test whether dissipation gives the protected opener a distinct re-entry condition without weakening the block approach.",
+            "purpose": "Test whether sustained subtle repetition gives the protected opener a new re-entry condition without weakening the block approach.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -230,23 +137,23 @@
       }
     },
     {
-      "artist": "Carrier",
-      "track": "That Veil of Yours",
+      "artist": "Fleck E.S.C.",
+      "track": "Opalissism",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "That Veil of Yours",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
+        "artist": "Fleck E.S.C.",
+        "track": "Opalissism",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork describes Voice Actor's sibilant exhalations over howling wind and martial drums, with concrete sounds moving in unnatural arcs.",
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact track as bringing weight and width through staccato arpeggios and spray-gun beats flickering across the stereo field.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork describes Voice Actor's sibilant exhalations over howling wind and martial drums, with concrete sounds moving in unnatural arcs.",
+          "attributedDescription": "Igloo describes the exact track as bringing weight and width through staccato arpeggios and spray-gun beats flickering across the stereo field.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an uncanny spatial and martial construction leaves useful consolidation or descent work downstream.",
+          "editorialInterpretation": "Test whether staccato width creates downstream consolidation or redirection work instead of another force stage.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -258,16 +165,16 @@
             "position": "Between Elemental Dream and Truth in Noise",
             "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
             "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether uncanny martial movement alters what consolidation must resolve or adds another atmospheric instability.",
+            "purpose": "Test whether flickering weight changes consolidation's task or repeats preparation.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
           },
           {
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "purpose": "Test whether an unnatural spatial arc changes the descent or duplicates the existing flare-to-dead-space movement.",
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether staccato width gives unpredictable rhythm a distinct condition or extends the driving surge.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -277,23 +184,23 @@
       }
     },
     {
-      "artist": "Carmen Villain",
-      "track": "Entre Nosotros",
-      "error": "already present in persistent state",
+      "artist": "Otto Taimela",
+      "track": "Bullfinch Nest",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Entre Nosotros",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
+        "artist": "Otto Taimela",
+        "track": "Bullfinch Nest",
+        "album": "Cheap Ingredients",
+        "releaseDate": "2026-07-24",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork documents a slow hulking rhythm around disruptive bass notes whose electronic layer fades until fuzzy, warm, haunting folk-like strumming remains.",
+        "discoverySource": "https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi",
+        "fitHypothesis": "Igloo documents a vocal warble recurring every four to eight bars and becoming the track's character when pads arrive alongside it.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork documents a slow hulking rhythm around disruptive bass notes whose electronic layer fades until fuzzy, warm, haunting folk-like strumming remains.",
+          "attributedDescription": "Igloo documents a vocal warble recurring every four to eight bars and becoming the track's character when pads arrive alongside it.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a mechanistic-to-acoustic transformation creates a useful late re-entry condition without becoming another complete transition.",
+          "editorialInterpretation": "Test whether a recurring non-musical character can create a useful foreground or afterword relation without inventing its energy or space.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -302,19 +209,19 @@
         },
         "proposedPlacements": [
           {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
-            "purpose": "Test whether its mechanistic rhythm-to-folk-memory fade gives restrained footwork re-entry new material or becomes another late transition.",
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether the recurring warble changes the transit-to-reset relation or inserts another foreground.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
           },
           {
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "purpose": "Test whether the slow mechanistic-to-acoustic change creates a purposeful post-block threshold or delays the existing liminal corridor.",
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "purpose": "Test whether characterful recurrence gives the afterword a new continuation task or delays it.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -324,23 +231,117 @@
       }
     },
     {
-      "artist": "Jan Jelinek",
-      "track": "Rock In The Video Age",
-      "error": "already present in persistent state",
+      "artist": "Fleck E.S.C.",
+      "track": "Technical Support",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Jan Jelinek",
-        "track": "Rock In The Video Age",
-        "album": "Loop-Finding-Jazz-Records",
-        "releaseDate": "2001",
+        "artist": "Fleck E.S.C.",
+        "track": "Technical Support",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://www.allmusic.com/album/loop-finding-jazz-records-mw0000115298",
-        "fitHypothesis": "AllMusic describes the exact track as a gently insistent house thump undercut by surging chords and unpredictable percussive accents.",
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact track as groove-heavy, grand and funky.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "AllMusic describes the exact track as a gently insistent house thump undercut by surging chords and unpredictable percussive accents.",
+          "attributedDescription": "Igloo describes the exact track as groove-heavy, grand and funky.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an overlooked microhouse construction can give a following formation or threshold distinct work rather than add smoothness.",
+          "editorialInterpretation": "Test whether a strongly formed groove can create consequential accumulation or consolidation work rather than pass on confidence alone.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test whether groove-heavy grandeur gives crooked accumulation a useful launch or supplants it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether formed funk changes consolidation's role or makes it redundant.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    }
+  ],
+  "warnings": [],
+  "outcomes": [
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Fleck E.S.C.",
+        "track": "Interior Reset",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact full eight-minute version as beefed-up and unruly, with prime-time beats and synthetic muscle; the title construction elsewhere uses negative space and broken digital breaks to let darker pressure breathe.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Igloo describes the exact full eight-minute version as beefed-up and unruly, with prime-time beats and synthetic muscle; the title construction elsewhere uses negative space and broken digital breaks to let darker pressure breathe.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a muscular broken-electro construction changes a reassembly or consolidation task rather than merely extending force.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "purpose": "Test whether broken-electro pressure opens useful room for the existing reassembly or crowds the unstable-rhythm hinge.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether negative-space pressure gives consolidation altered material or adds another complete instability.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Yesterday now Tomorrow",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether entangled swing can give a following groove formation or threshold genuinely new work without being admitted for polish alone.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -352,7 +353,7 @@
             "position": "Between Trompe L'oeil and FELT",
             "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
             "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "purpose": "Test whether gently insistent house pulse with unpredictable accents gives FELT a new formation task or duplicates it.",
+            "purpose": "Test whether entangled swing changes FELT's formation task or becomes another formed groove before it.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -361,33 +362,33 @@
             "position": "Between Same Way and U Belong 2 Me",
             "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
             "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether amorphous texture anchored to house groove changes the threshold's work or crowds the pressure run.",
+            "purpose": "Test whether swinging sampled pressure changes the threshold's material or crowds the existing pressure run.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
           }
         ],
         "spotifyTrackId": null
-      }
+      },
+      "spotifyTrackId": "6PxWf2WPFY51ffGbCZi6Xt",
+      "selected": true
     },
     {
-      "artist": "Bitchin Bajas",
-      "track": "Isle Peaks",
-      "error": "already present in persistent state",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Isle Peaks",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
+        "artist": "Otto Taimela",
+        "track": "Spell 3",
+        "album": "Cheap Ingredients",
+        "releaseDate": "2026-07-24",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "fitHypothesis": "Pitchfork documents the exact track beginning with crickets, waves and a rising drone, developing as a freeform sound field, then diving slowly in pitch during its final minute.",
+        "discoverySource": "https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi",
+        "fitHypothesis": "Igloo describes the exact track as especially hypnotic in its ambience and loop, with a subtle form that becomes apparent only after sustained immersion.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork documents the exact track beginning with crickets, waves and a rising drone, developing as a freeform sound field, then diving slowly in pitch during its final minute.",
+          "attributedDescription": "Igloo describes the exact track as especially hypnotic in its ambience and loop, with a subtle form that becomes apparent only after sustained immersion.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a freeform elemental descent can create a proportionate liminal or re-entry problem in this volume.",
+          "editorialInterpretation": "Test whether a concise ambient-loop suspension can create useful re-entry or orientation work rather than serving as atmosphere.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -399,7 +400,7 @@
             "position": "Between Stardancer and Eyes of the Wind",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
             "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "purpose": "Test whether the freeform drone and final pitch dive make the liminal corridor more necessary or duplicate it.",
+            "purpose": "Test whether looped suspension creates a distinct post-block threshold or delays the existing liminal corridor.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -408,292 +409,7 @@
             "position": "Between U Belong 2 Me and Transparency",
             "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
             "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "purpose": "Test whether elemental suspension creates a deliberate protected-block re-entry or weakens long-form proportionality.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      }
-    }
-  ],
-  "warnings": [
-    {
-      "artist": "Carrier",
-      "track": "Outer Shell",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2025\" but Spotify returned \"2025-10-24\""
-    }
-  ],
-  "outcomes": [
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "Outer Shell",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether reverse/forward physical motion leaves a successor with consolidation or temporal-orientation work rather than earning admission through sound design alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether reversed, gated and periodically interrupted drum motion leaves consolidation altered material or duplicates the preceding self-stripping transformation.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test whether stop-reverse-unspool motion sharpens the following opposed-temporal strain or crowds an already defined dissolution passage.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "spotifyTrackId": "6BRqlnjjD0c5ay9VPk0mDm",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Blue",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork describes the exact track's unstable, ungainly bassline glitching on impact and displacing surrounding sounds while flute circles over a staggered beat.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track's unstable, ungainly bassline glitching on impact and displacing surrounding sounds while flute circles over a staggered beat.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether bass-led displacement creates downstream transit or threshold work instead of another self-contained instability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "purpose": "Test whether unstable bass displacement gives the following foreground transit a distinct field to cross or delays the direct production-world turn.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether a bassline that destabilizes surrounding sounds gives the threshold new transformation work or adds another complete pressure event.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "Wave After Wave",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork says the exact track retools drum'n'bass thrust into anxious pitter-patter under pretty synth melodies formed into icily geometric shapes.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork says the exact track retools drum'n'bass thrust into anxious pitter-patter under pretty synth melodies formed into icily geometric shapes.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether anxious rhythmic thrust under defined melodic form changes a following acceleration or reset.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "purpose": "Test whether anxious pitter-patter under geometric synth form gives the following acceleration a clearer launch condition or merely inserts another rhythmic mechanism.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether anxious reformulation makes the reset more necessary or interrupts the existing transit-to-reset relation.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4oLPHdbUNsWTkjyqAEjnwA, 5X4vVTNu91pgex5Mf5V3px)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Ajami",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "fitHypothesis": "Pitchfork documents the exact 16-minute suite moving from kalimba pulse into a lilting 6/8 grid, then returning around minute ten to a 4/4 motorik stomp and arpeggiated finale.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork documents the exact 16-minute suite moving from kalimba pulse into a lilting 6/8 grid, then returning around minute ten to a 4/4 motorik stomp and arpeggiated finale.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an extended, internally transforming suite is proportionate anywhere in the journey and leaves a successor genuinely new work.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether the documented 6/8-to-4/4 suite makes the live-band pulse illusion more consequential or preconditions it at disproportionate length.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
-            "followingUri": "spotify:track:28lWAlC6JesW07xNxjza",
-            "purpose": "Test whether its late motorik charge creates a meaningful final reorientation or overwhelms the concise afterword.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Holding a Shape",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork identifies the exact track as dissipated, shuddering dub-techno machinery.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork identifies the exact track as dissipated, shuddering dub-techno machinery.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether dissipation can function as a purposeful hinge rather than duplicate an existing breakdown or late suspension.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test whether dissipated shuddering changes the following temporal strain or repeats dissolution.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "purpose": "Test whether dissipation gives the protected opener a distinct re-entry condition without weakening the block approach.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "That Veil of Yours",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork describes Voice Actor's sibilant exhalations over howling wind and martial drums, with concrete sounds moving in unnatural arcs.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes Voice Actor's sibilant exhalations over howling wind and martial drums, with concrete sounds moving in unnatural arcs.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an uncanny spatial and martial construction leaves useful consolidation or descent work downstream.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether uncanny martial movement alters what consolidation must resolve or adds another atmospheric instability.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Nukumori and Rabbit Hole",
-            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "purpose": "Test whether an unnatural spatial arc changes the descent or duplicates the existing flare-to-dead-space movement.",
+            "purpose": "Test whether sustained subtle repetition gives the protected opener a new re-entry condition without weakening the block approach.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -706,203 +422,19 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Carmen Villain",
-        "track": "Entre Nosotros",
-        "album": "Memoria",
-        "releaseDate": "2026-09-04",
+        "artist": "Fleck E.S.C.",
+        "track": "Opalissism",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-        "fitHypothesis": "Pitchfork documents a slow hulking rhythm around disruptive bass notes whose electronic layer fades until fuzzy, warm, haunting folk-like strumming remains.",
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact track as bringing weight and width through staccato arpeggios and spray-gun beats flickering across the stereo field.",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Pitchfork documents a slow hulking rhythm around disruptive bass notes whose electronic layer fades until fuzzy, warm, haunting folk-like strumming remains.",
+          "attributedDescription": "Igloo describes the exact track as bringing weight and width through staccato arpeggios and spray-gun beats flickering across the stereo field.",
           "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a mechanistic-to-acoustic transformation creates a useful late re-entry condition without becoming another complete transition.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRw9L6oM1Xs6Jt",
-            "purpose": "Test whether its mechanistic rhythm-to-folk-memory fade gives restrained footwork re-entry new material or becomes another late transition.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "purpose": "Test whether the slow mechanistic-to-acoustic change creates a purposeful post-block threshold or delays the existing liminal corridor.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Jan Jelinek",
-        "track": "Rock In The Video Age",
-        "album": "Loop-Finding-Jazz-Records",
-        "releaseDate": "2001",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://www.allmusic.com/album/loop-finding-jazz-records-mw0000115298",
-        "fitHypothesis": "AllMusic describes the exact track as a gently insistent house thump undercut by surging chords and unpredictable percussive accents.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "AllMusic describes the exact track as a gently insistent house thump undercut by surging chords and unpredictable percussive accents.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an overlooked microhouse construction can give a following formation or threshold distinct work rather than add smoothness.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "purpose": "Test whether gently insistent house pulse with unpredictable accents gives FELT a new formation task or duplicates it.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether amorphous texture anchored to house groove changes the threshold's work or crowds the pressure run.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Bitchin Bajas",
-        "track": "Isle Peaks",
-        "album": "Isle Peaks",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
-        "fitHypothesis": "Pitchfork documents the exact track beginning with crickets, waves and a rising drone, developing as a freeform sound field, then diving slowly in pitch during its final minute.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork documents the exact track beginning with crickets, waves and a rising drone, developing as a freeform sound field, then diving slowly in pitch during its final minute.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a freeform elemental descent can create a proportionate liminal or re-entry problem in this volume.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "purpose": "Test whether the freeform drone and final pitch dive make the liminal corridor more necessary or duplicate it.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          },
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "purpose": "Test whether elemental suspension creates a deliberate protected-block re-entry or weakens long-form proportionality.",
-            "candidateBpm": null,
-            "incomingBpm": null,
-            "outgoingBpm": null
-          }
-        ],
-        "spotifyTrackId": null
-      },
-      "error": "already present in persistent state"
-    }
-  ],
-  "candidates": [
-    {
-      "id": "6BRqlnjjD0c5ay9VPk0mDm",
-      "uri": "spotify:track:6BRqlnjjD0c5ay9VPk0mDm",
-      "name": "Outer Shell",
-      "artists": [
-        "Carrier"
-      ],
-      "album": "Rhythm Immortal",
-      "releaseDate": "2025-10-24",
-      "durationMs": 300000,
-      "spotifyUrl": "https://open.spotify.com/track/6BRqlnjjD0c5ay9VPk0mDm",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether reversed, gated and periodically interrupted drum motion leaves consolidation altered material or duplicates the preceding self-stripping transformation.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        },
-        {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test whether stop-reverse-unspool motion sharpens the following opposed-temporal strain or crowds an already defined dissolution passage.",
-          "candidateBpm": null,
-          "incomingBpm": null,
-          "outgoingBpm": null
-        }
-      ],
-      "fitHypothesis": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether reverse/forward physical motion leaves a successor with consolidation or temporal-orientation work rather than earning admission through sound design alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Carrier",
-        "track": "Outer Shell",
-        "album": "Rhythm Immortal",
-        "releaseDate": "2025",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/reviews/albums/carrier-rhythm-immortal/",
-        "fitHypothesis": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Pitchfork describes the exact track as drums wading through a mucky pond before aquaplaning over it, interrupted by periodic silences and sharp snares.",
-          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether reverse/forward physical motion leaves a successor with consolidation or temporal-orientation work rather than earning admission through sound design alone.",
+          "editorialInterpretation": "Test whether staccato width creates downstream consolidation or redirection work instead of another force stage.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -914,16 +446,519 @@
             "position": "Between Elemental Dream and Truth in Noise",
             "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
             "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether reversed, gated and periodically interrupted drum motion leaves consolidation altered material or duplicates the preceding self-stripping transformation.",
+            "purpose": "Test whether flickering weight changes consolidation's task or repeats preparation.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
           },
           {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "purpose": "Test whether stop-reverse-unspool motion sharpens the following opposed-temporal strain or crowds an already defined dissolution passage.",
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "purpose": "Test whether staccato width gives unpredictable rhythm a distinct condition or extends the driving surge.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Slowan Dip",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether heavy swing can redirect an early run or make a later threshold more consequential rather than simply supplying body.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether heavy swing turns the early continuation toward unstable direction or merely extends the existing swung proposition.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether swung chug changes the following formation or duplicates it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "6dAlFWR2ZQts5VXCWdSA3z",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Otto Taimela",
+        "track": "Bullfinch Nest",
+        "album": "Cheap Ingredients",
+        "releaseDate": "2026-07-24",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi",
+        "fitHypothesis": "Igloo documents a vocal warble recurring every four to eight bars and becoming the track's character when pads arrive alongside it.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Igloo documents a vocal warble recurring every four to eight bars and becoming the track's character when pads arrive alongside it.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a recurring non-musical character can create a useful foreground or afterword relation without inventing its energy or space.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Never Met and Trompe L'oeil",
+            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "purpose": "Test whether the recurring warble changes the transit-to-reset relation or inserts another foreground.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "purpose": "Test whether characterful recurrence gives the afterword a new continuation task or delays it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Glizzy",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether percussive nuance and odd melody can change a local run without treating DJ functionality or polish as admission evidence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether nuanced arpeggiation gives FELT a new formation problem or delays it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test whether odd melodic pressure changes the threshold or crowds its setup.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "20XHLOv7vEvfELxUW4g5Fb",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Fleck E.S.C.",
+        "track": "Technical Support",
+        "album": "Interior Reset",
+        "releaseDate": "2026-07-21",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions",
+        "fitHypothesis": "Igloo describes the exact track as groove-heavy, grand and funky.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Igloo describes the exact track as groove-heavy, grand and funky.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a strongly formed groove can create consequential accumulation or consolidation work rather than pass on confidence alone.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "purpose": "Test whether groove-heavy grandeur gives crooked accumulation a useful launch or supplants it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "purpose": "Test whether formed funk changes consolidation's role or makes it redundant.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Global Underground",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether continuous groove can alter an intensification or threshold rather than duplicate work already being done.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "purpose": "Test whether another unrelenting proposition changes intensification or merely repeats it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test whether melodic blasts and continuous groove give the threshold new work or overfill the local run.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      },
+      "spotifyTrackId": "7nJa8DAaK7Ucvl8Uir5cN6",
+      "selected": false
+    }
+  ],
+  "candidates": [
+    {
+      "id": "6PxWf2WPFY51ffGbCZi6Xt",
+      "uri": "spotify:track:6PxWf2WPFY51ffGbCZi6Xt",
+      "name": "Yesterday Now Tomorrow",
+      "artists": [
+        "Ploy"
+      ],
+      "album": "Glizzy",
+      "releaseDate": "2026-09-11",
+      "durationMs": 414082,
+      "spotifyUrl": "https://open.spotify.com/track/6PxWf2WPFY51ffGbCZi6Xt",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "purpose": "Test whether entangled swing changes FELT's formation task or becomes another formed groove before it.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "purpose": "Test whether swinging sampled pressure changes the threshold's material or crowds the existing pressure run.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "fitHypothesis": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+      "evidence": {
+        "attributedDescription": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether entangled swing can give a following groove formation or threshold genuinely new work without being admitted for polish alone.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Yesterday now Tomorrow",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official release notes describe the exact track as entangled percussion and carefully dosed sampling forming a swinging heavy-house burner.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether entangled swing can give a following groove formation or threshold genuinely new work without being admitted for polish alone.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether entangled swing changes FELT's formation task or becomes another formed groove before it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test whether swinging sampled pressure changes the threshold's material or crowds the existing pressure run.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "id": "6dAlFWR2ZQts5VXCWdSA3z",
+      "uri": "spotify:track:6dAlFWR2ZQts5VXCWdSA3z",
+      "name": "Slowan Dip",
+      "artists": [
+        "Ploy"
+      ],
+      "album": "Glizzy",
+      "releaseDate": "2026-09-11",
+      "durationMs": 359275,
+      "spotifyUrl": "https://open.spotify.com/track/6dAlFWR2ZQts5VXCWdSA3z",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Abundance and Foundry",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "purpose": "Test whether heavy swing turns the early continuation toward unstable direction or merely extends the existing swung proposition.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "purpose": "Test whether swung chug changes the following formation or duplicates it.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "fitHypothesis": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+      "evidence": {
+        "attributedDescription": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether heavy swing can redirect an early run or make a later threshold more consequential rather than simply supplying body.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Slowan Dip",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as a heavily swung percussive chugger paired with a system-testing bassline.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether heavy swing can redirect an early run or make a later threshold more consequential rather than simply supplying body.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether heavy swing turns the early continuation toward unstable direction or merely extends the existing swung proposition.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether swung chug changes the following formation or duplicates it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    },
+    {
+      "id": "20XHLOv7vEvfELxUW4g5Fb",
+      "uri": "spotify:track:20XHLOv7vEvfELxUW4g5Fb",
+      "name": "Glizzy",
+      "artists": [
+        "Ploy"
+      ],
+      "album": "Glizzy",
+      "releaseDate": "2026-09-11",
+      "durationMs": 430098,
+      "spotifyUrl": "https://open.spotify.com/track/20XHLOv7vEvfELxUW4g5Fb",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "purpose": "Test whether nuanced arpeggiation gives FELT a new formation problem or delays it.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "purpose": "Test whether odd melodic pressure changes the threshold or crowds its setup.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "fitHypothesis": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+      "evidence": {
+        "attributedDescription": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether percussive nuance and odd melody can change a local run without treating DJ functionality or polish as admission evidence.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Glizzy",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as an arpeggiated tech-house tool whose percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies distinguish it.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether percussive nuance and odd melody can change a local run without treating DJ functionality or polish as admission evidence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "purpose": "Test whether nuanced arpeggiation gives FELT a new formation problem or delays it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test whether odd melodic pressure changes the threshold or crowds its setup.",
             "candidateBpm": null,
             "incomingBpm": null,
             "outgoingBpm": null
@@ -933,5 +968,95 @@
       }
     }
   ],
-  "resolvedAlternates": []
+  "resolvedAlternates": [
+    {
+      "id": "7nJa8DAaK7Ucvl8Uir5cN6",
+      "uri": "spotify:track:7nJa8DAaK7Ucvl8Uir5cN6",
+      "name": "Global Underground",
+      "artists": [
+        "Ploy"
+      ],
+      "album": "Glizzy",
+      "releaseDate": "2026-09-11",
+      "durationMs": 399313,
+      "spotifyUrl": "https://open.spotify.com/track/7nJa8DAaK7Ucvl8Uir5cN6",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Freepass for Them and Moonwake",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "purpose": "Test whether another unrelenting proposition changes intensification or merely repeats it.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "purpose": "Test whether melodic blasts and continuous groove give the threshold new work or overfill the local run.",
+          "candidateBpm": null,
+          "incomingBpm": null,
+          "outgoingBpm": null
+        }
+      ],
+      "fitHypothesis": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+      "evidence": {
+        "attributedDescription": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+        "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether continuous groove can alter an intensification or threshold rather than duplicate work already being done.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Ploy",
+        "track": "Global Underground",
+        "album": "Glizzy",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://ployuk.bandcamp.com/album/glizzy",
+        "fitHypothesis": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Dekmantel's official notes describe the exact track as a progressive-house roller with melodic blasts, unrelenting groove and a powerful bassline.",
+          "craftConvention": "Attributed exact-track criticism or official release notes support resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether continuous groove can alter an intensification or threshold rather than duplicate work already being done.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "purpose": "Test whether another unrelenting proposition changes intensification or merely repeats it.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          },
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "purpose": "Test whether melodic blasts and continuous groove give the threshold new work or overfill the local run.",
+            "candidateBpm": null,
+            "incomingBpm": null,
+            "outgoingBpm": null
+          }
+        ],
+        "spotifyTrackId": null
+      }
+    }
+  ]
 }
