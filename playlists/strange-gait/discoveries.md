@@ -1,5 +1,63 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 168 — EXPLORE — formed swing versus downstream consequence — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 354 contiguous unique exact tracks and a matching COMPLETE 354/354 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Technical prelude:** Run 167 (`2026-09-12T04:52:49Z-explore-167`; request commit `8c62fd5a4b305776f98c2cb341843dde68b18830`) is `REQUEST_NOT_COMPLETED`. Its immutable request carried canonical placement URI/name mismatches, so its matching resolver output was not eligible for evaluation or retention. Carrier — *Outer Shell* resolved as `spotify:track:6BRqlnjjD0c5ay9VPk0mDm` but was not evaluated. Preserve its warning exactly: `Exact title/artist matched with release metadata variance: release date requested "2025" but Spotify returned "2025-10-24"`. Preserve every remaining resolver result exactly: Carmen Villain — *Blue*: `already present in persistent state`; Carrier — *Wave After Wave*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4oLPHdbUNsWTkjyqAEjnwA, 5X4vVTNu91pgex5Mf5V3px)`; Bitchin Bajas — *Ajami*: `already present in persistent state`; Carmen Villain — *Holding a Shape*: `already present in persistent state`; Carrier — *That Veil of Yours*: `no exact Spotify title/artist search match in market SE`; Carmen Villain — *Entre Nosotros*: `already present in persistent state`; Jan Jelinek — *Rock In The Video Age*: `already present in persistent state`; Bitchin Bajas — *Isle Peaks*: `already present in persistent state`. Two same-runId mutation attempts (commits `7c610986ae7ff27deb4e8cf05de0517e3fba47ef` and `85a91d9e6467c76c663738b7cd28dad96b36ec51`) were correctly rejected by immutable-history validation. None supplied musical evidence, entered the utility ledger or advanced the completed-run funnel.
+
+**Fresh exploration:** approximately 55 named tracks and release cuts were inspected across Ploy's September 11, 2026 *Glizzy* EP; Fleck E.S.C.'s July 21 *Interior Reset* album and September 5 review; Otto Taimela's July 24 *Cheap Ingredients* album and September 8 review; Kid Bucle's August 21 *Incompleteness* EP and September 10 feature; related Dekmantel, Pyramid Transmissions, Cudighi and Science Cult catalogues; and current STRANGE GAIT inside-out boundaries. Run 167 identities, Runs 165–166 identities, and every previously recorded evaluated, parked, rejected, unresolved or alternate identity were excluded. Every placement URI was derived from the live ledger and programmatically verified as adjacent before submission.
+
+**Immutable request and resolution:** runId `2026-09-12T05:12:00Z-explore-168`; sourceCommit `85a91d9e6467c76c663738b7cd28dad96b36ec51`; request commit `0170aa017cb06a4db6e3bf68f74e87cd4835fec0`; matching resolver snapshot commit `c194fb80315aee815dddb4265b8407453a3aa602`; fingerprint `4001fb3aa5cc9c1965557151c9ea0f09b24caad3d3594d731cdb6ebb66c789ed`. The internally valid schemaVersion 2 snapshot is `PARTIAL`: 9 requested, 4 resolved, 3 selected, 1 exact alternate and 5 unresolved; no warnings, duplicate outcomes, substitutions, relinkings or technical failures.
+
+**Ranked leads:** (1) Fleck E.S.C. — *Interior Reset*; (2) Ploy — *Yesterday now Tomorrow*; (3) Otto Taimela — *Spell 3*; (4) Fleck E.S.C. — *Opalissism*; (5) Ploy — *Slowan Dip*; (6) Otto Taimela — *Bullfinch Nest*; (7) Ploy — *Glizzy*; (8) Fleck E.S.C. — *Technical Support*; (9) Ploy — *Global Underground*.
+
+### Canonical evaluations
+
+#### Ploy — Yesterday Now Tomorrow — placement-specific REJECT
+
+- **Volume fit:** PASS. Dekmantel's official exact-track notes describe entangled percussion and carefully dosed sampling forming a swinging heavy-house burner. This supports the selection lens without making polish or genre membership an admission shortcut.
+- **Immediate transition:** REJECT at `Trompe L'oeil → candidate → FELT`: after the reset, another complete formed swing proposition delays rather than changes *FELT*'s existing formation task. REJECT at `Same Way → candidate → U Belong 2 Me`: another full pressure/groove statement crowds the established segmented-pressure-to-threshold relation.
+- **Surrounding run:** `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle` becomes reset followed by successive formations before deformation. `Truth in Noise → Same Way → candidate → U Belong 2 Me → Transparency` over-articulates consolidation, pressure and threshold.
+- **Long form:** Both insertions add a complete rhythmic proposition without leaving the successor demonstrably new work. The track remains genuinely interesting elsewhere.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, phrase structure, exact handoffs and mixability remain UNKNOWN or NOT TESTED.
+
+#### Ploy — Slowan Dip — placement-specific REJECT
+
+- **Volume fit:** PASS. Dekmantel's official exact-track notes describe a heavily swung percussive chugger paired with a system-testing bassline.
+- **Immediate transition:** REJECT at `Abundance → candidate → Foundry`: the documented heavy swing extends *Abundance*'s current swung continuation before *Foundry*'s unstable directional hinge rather than changing the hinge's task. REJECT at `Trompe L'oeil → candidate → FELT`: another formed chugger delays the established formation.
+- **Surrounding run:** `Cave → Abundance → candidate → Foundry → Worn Down` repeats continuation before directional instability and weight. The central alternative again creates successive formations before deformation.
+- **Long form:** Functional body and bass pressure are interesting but do not create a proportional new consequence in either tested run.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, phrase structure, exact handoffs and mixability remain UNKNOWN or NOT TESTED.
+
+#### Ploy — Glizzy — placement-specific REJECT
+
+- **Volume fit:** PASS. Dekmantel's official exact-track notes describe an arpeggiated tech-house tool distinguished by percussive subtleties, thematic sampling, nuanced arrangement and oddball melodies.
+- **Immediate transition:** REJECT at `Trompe L'oeil → candidate → FELT`: the candidate supplies another complete formation before *FELT*. REJECT at `Same Way → candidate → U Belong 2 Me`: another nuanced tool/pressure stage crowds the existing threshold setup.
+- **Surrounding run:** The central run gains another formation before deformation; the later run gains another complete proposition between segmented pressure and threshold. Neither improves the surrounding five-track logic.
+- **Long form:** Technical detail and odd melody do not by themselves justify a new stage. No tested placement gives the successor a materially different task.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, phrase structure, exact handoffs and mixability remain UNKNOWN or NOT TESTED.
+
+**Unresolved without musical verdict:**
+
+- Fleck E.S.C. — *Interior Reset*: `no exact Spotify title/artist search match in market SE`
+- Otto Taimela — *Spell 3*: `no exact Spotify title/artist search match in market SE`
+- Fleck E.S.C. — *Opalissism*: `no exact Spotify title/artist search match in market SE`
+- Otto Taimela — *Bullfinch Nest*: `no exact Spotify title/artist search match in market SE`
+- Fleck E.S.C. — *Technical Support*: `no exact Spotify title/artist search match in market SE`
+
+**Exact but unselected and unevaluated:** Ploy — *Global Underground* — `spotify:track:7nJa8DAaK7Ucvl8Uir5cN6`. No utility addition or musical verdict.
+
+**Warnings:** none.
+
+**Independent inspiration:** all three selected exact Ploy tracks remain genuinely interesting and are approved for the target-local discovery pool and doctrine-free global utility ledger. The exact alternate remains unevaluated. Five unresolved identities remain research leads only. The current Ploy/Dekmantel window and overlooked Fleck E.S.C., Otto Taimela and Kid Bucle fields remain useful. Concrete set direction: formed swing should leave the successor a changed task; another complete groove stage can merely postpone the existing consequence.
+
+**Auditor:** APPROVED. The Run 168 request and snapshot match; only the three selected exact identities received canonical evaluation; all four required dimensions are explicit per candidate; the exact alternate and five resolver errors are preserved without verdict; there are no warnings or duplicate outcomes; no metadata-only sonic inference, protected-state breach, stale-data reuse, publication overclaim or utility-ledger overreach occurred. No canonical ledger or annotation change is authorized. Three placement-specific rejection records, local inspiration retention and three global utility additions are authorized.
+
+**Run analysis:** `~55 inspected → 9 leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → 0 ADD + 3 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion: 16.4%; lead-to-resolution conversion: 44.4%; selected-candidate-to-ADD conversion: 0/3. Across completed discovery Runs 87–168, excluding process repairs and failed Runs 164 and 167: 681 leads from approximately 3,858 inspections; 31 ADDs from 209 selected candidates. The recent comparable completed-discovery ADD rate is 3/10. The musical no-ADD streak is three completed discovery runs since Run 161, with eight exact interesting tracks retained during it. Candidate-specific placement failures do not indicate an actionable REPAIR.
+
+**Evidence boundary:** Audio analysis NOT TESTED. Live mixing NOT TESTED. No exact handoff, energy, density, space, phrase structure, mixability or playlist-completion claim is made.
+
 ## Run 166 — EXPLORE — bass rupture versus consequential reassembly — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 352 contiguous unique exact tracks and a matching COMPLETE 352/352 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.

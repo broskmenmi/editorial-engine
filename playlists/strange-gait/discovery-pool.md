@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 168 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Ploy | Yesterday Now Tomorrow | https://open.spotify.com/track/6PxWf2WPFY51ffGbCZi6Xt | Placement-specific REJECT only at the two tested boundaries; entangled percussion and sampled swing remain genuinely interesting elsewhere. |
+| EXACT TRACK | Ploy | Slowan Dip | https://open.spotify.com/track/6dAlFWR2ZQts5VXCWdSA3z | Placement-specific REJECT only after *Abundance* and after *Trompe L'oeil*; heavily swung percussion and bass pressure remain genuinely interesting elsewhere. |
+| EXACT TRACK | Ploy | Glizzy | https://open.spotify.com/track/20XHLOv7vEvfELxUW4g5Fb | Placement-specific REJECT only after *Trompe L'oeil* and after *Same Way*; percussive nuance, sampling and odd melody remain genuinely interesting elsewhere. |
+| RESEARCH LEAD | Fleck E.S.C. | Interior Reset; Opalissism; Technical Support | https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions | All three exact-title searches were unavailable in Spotify market SE; preserve without verdict or utility additions. |
+| RESEARCH LEAD | Otto Taimela | Spell 3; Bullfinch Nest | https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi | Both exact-title searches were unavailable in Spotify market SE; preserve without verdict or utility additions. |
+| RELEASE WATCH | Ploy / Dekmantel | Glizzy | https://ployuk.bandcamp.com/album/glizzy | September 11, 2026 current window for distinct swung and arpeggiated club forms; *Global Underground* resolved exactly but remained unselected and unevaluated. |
+| CATALOGUE WATCH | Fleck E.S.C. / Otto Taimela / Kid Bucle | broken digital space, subtle loop form and tek-funk mutation | https://igloomag.com/reviews/fleck-e-s-c-interior-reset-pyramid-transmissions · https://igloomag.com/reviews/otto-taimela-cheap-ingredients-cudighi · https://igloomag.com/features/kid-bucle-incompleteness-science-cult | Adjacent and emerging fields remain useful despite unresolved or unranked exact identities. |
+
+### Placement and inspiration boundaries
+
+- All three selected Ploy tracks remain interesting despite placement-specific rejection; none is globally rejected.
+- Ploy — *Global Underground* (`spotify:track:7nJa8DAaK7Ucvl8Uir5cN6`) is an exact unselected alternate, not an evaluated or retained decision.
+- The five unresolved leads receive no ADD, REJECT or PARKED verdict and do not enter the global utility ledger.
+- Run 167 remains `REQUEST_NOT_COMPLETED`; its exact resolution and duplicate/unresolved outcomes are preserved in discoveries.md only.
+- No BPM, pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge is asserted.
+
 ## Run 166 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

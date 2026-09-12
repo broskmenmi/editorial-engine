@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 168
+
+### Formed swing should change the successor's task
+
+**Direction:** Explore swung, sampled and arpeggiated club forms where the endpoint gives the next selection a new orientation, transformation or threshold problem; reject another complete groove stage when it only postpones work already assigned downstream.
+
+**Ingredients:**
+
+- Ploy — *Yesterday Now Tomorrow* — exact placement-specific reject; entangled percussion and carefully dosed sampling remain useful elsewhere
+- Ploy — *Slowan Dip* — exact placement-specific reject; heavily swung percussive chug and bass pressure remain useful elsewhere
+- Ploy — *Glizzy* — exact placement-specific reject; arpeggiated tool logic, percussive nuance and odd melody remain useful elsewhere
+- Fleck E.S.C. and Otto Taimela — five unresolved exact-title research leads across broken digital space and subtle loop form
+- Ploy — *Global Underground* — exact unselected, unevaluated alternate
+
+**Why interesting:** A coherent groove can support a conspicuous change of character, but canonical sequence space is earned by changing what follows rather than by polish, body or functionality alone.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
 ## Current additions — Run 166
 
 ### Bass rupture should change the reconstruction
