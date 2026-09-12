@@ -53,7 +53,7 @@
 
 ## Current state
 
-**ACTIVE EXPANSION — 45 canonical tracks.**
+**ACTIVE EXPANSION — 46 canonical tracks.**
 
 EXPLORE run `2026-09-11T22:51:43Z-explore-161` adds Rian Treanor — Hypnic Jerks between T++ — Worn Down and John Beltran, Placid Angles, Tom VR — Tides Alternate. Pitchfork documents the exact track opening at 180 BPM before accelerating its rubbery kicks into quadruple-time assault. Because the tempo changes internally, the canonical BPM field remains unresolved rather than reducing the track to one fixed value. Editorially, Worn Down's rumble-to-weight threshold now gives way to an explicit acceleration crisis that Tides Alternate's opposed-speed balance can answer. The move is intentionally conspicuous; exact entry, exit, endpoint, perceived pulse, energy, density, phrase structure and mixability remain unknown.
 
