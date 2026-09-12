@@ -1,51 +1,90 @@
 {
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 60 named tracks and release cuts across Carmen Villain's September 2026 Memoria album and adjacent Smalltown Supersound catalogue; Daphni's 2026 Butterfly album and Jiaolong catalogue; Andrea's overlooked 2020 Ritorno album and Ilian Tape catalogue; Bandcamp Daily's September 11 current-release round-up; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
+    "approximateInspectedScope": "Approximately 62 named tracks and release cuts across September 2026 current-release coverage from Resident Advisor, Pitchfork and Bandcamp Daily; emerging artists and labels surfaced in Bandcamp Daily's August electronic round-up; Makaya McCraven's overlooked 2025 International Anthem material; adjacent Theon Cross and Ben LaMar Gay catalogue; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
     "exclusions": [
-      "Run 168 selected, unresolved and alternate identities were not recycled.",
+      "Run 169 selected, unresolved and duplicate identities were not recycled.",
+      "KAY BE, DJ Phil, DJ POPS, Nochi and other names surfaced by the current Bandcamp window were excluded after persistent-state checks showed earlier resolution, verdict, parking or unresolved history.",
       "Failed Runs 164 and 167 remain technical non-completions and supplied no musical verdicts.",
       "Every ranked Artist — Track pair was checked against the current ledger, discoveries, discovery pool, rejected, revisit and archived history before submission.",
-      "Exact tracks supported only by novelty, prestige, genre tags, metadata or generic release praise were inspected but not ranked unless a concrete structural or belonging question remained.",
+      "Only five honest leads survived; the request was not padded to nine.",
       "All proposed placement URIs were derived from the current ledger and programmatically verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Carmen Villain — Blue",
-      "2. Andrea — TrackQY",
-      "3. Daphni — Talk to Me",
-      "4. Carmen Villain — Entre Nosotros",
-      "5. Andrea — Drumzzy",
-      "6. Daphni — Caterpillar",
-      "7. Carmen Villain — Holding a Shape",
-      "8. Andrea — Isabelle's String",
-      "9. Daphni — Invention"
+      "1. Makaya McCraven — Boom Bapped",
+      "2. Makaya McCraven — Gnu Blue",
+      "3. Makaya McCraven — Technology",
+      "4. Makaya McCraven — Prime",
+      "5. Makaya McCraven — Strikes Again"
     ],
     "sourceWindows": [
-      "CURRENT WINDOW: Pitchfork's September 8, 2026 review of Carmen Villain's Memoria documents exact tracks where grooves are repeatedly punctured, destabilised, withdrawn and reoriented. https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "CURRENT / ADJACENT WINDOW: Pitchfork's February 12, 2026 review of Daphni's Butterfly identifies exact cuts where acidic friction, emotional range and one-off eccentricity push against the album's polished club convention. https://pitchfork.com/reviews/albums/daphni-butterfly/",
-      "OVERLOOKED CATALOGUE WINDOW: Pitchfork's April 14, 2020 Andrea review documents exact Ilian Tape tracks built from fluttering bass, jungle mutation and shuffling serenity inside organized rhythmic chaos. https://pitchfork.com/reviews/albums/andrea-ritorno/",
-      "CURRENT ROUND-UP WINDOW: Bandcamp Daily's September 11, 2026 essential-releases scan was inspected as a broad current-release check; ODAE identities already handled in Run 165 were excluded. https://daily.bandcamp.com/essential-releases/essential-releases-september-11-2026"
+      "CURRENT WINDOW: Resident Advisor's live September 12, 2026 front page and September 11 new-music round-up were inspected for newly announced electronic releases; previously handled candidates were excluded. https://ra.co/",
+      "CURRENT / EMERGING WINDOW: Bandcamp Daily's September 9, 2026 electronic round-up surfaced emerging and current club/electronic releases, then persistent-state checks removed already handled identities. https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
+      "OVERLOOKED CATALOGUE WINDOW: Bandcamp Daily's October 29, 2025 Makaya McCraven review supplies exact-track descriptions for Gnu Blue and Boom Bapped and documents the live/studio reconstruction method. https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+      "OFFICIAL LABEL WINDOW: International Anthem verifies the Techno Logic track list, exact credits, dates and editing/composition process. https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay"
     ],
-    "timestampUtc": "2026-09-12T05:50:07Z"
+    "timestampUtc": "2026-09-12T06:52:46Z"
   },
   "leads": [
     {
-      "album": "Memoria",
-      "artist": "Carmen Villain",
+      "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
+      "artist": "Makaya McCraven",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
+      "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as a staggered beat with flute circling above an unstable bassline that glitches and wobbles on impact, displacing and destabilising surrounding sounds.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether documented instability creates useful downstream orientation or descent rather than another complete rupture.",
+        "attributedDescription": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
+        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a live/studio hybrid formation changes a successor's task rather than earning admission from hybridity alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "Pitchfork describes the exact track as a staggered beat with flute circling above an unstable bassline that glitches and wobbles on impact, displacing and destabilising surrounding sounds.",
+      "fitHypothesis": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test whether reconstructed ensemble motion gives FELT a changed formation task or supplies another formed stage."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Truth in Noise and Same Way",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "purpose": "Test whether the live/studio hybrid changes Same Way's pressure division or crowds the established consolidation-to-pressure move."
+        }
+      ],
+      "releaseDate": "2025-10-31",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Boom Bapped"
+    },
+    {
+      "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
+      "artist": "Makaya McCraven",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+      "evidence": {
+        "attributedDescription": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
+        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether an exposed vocal/improvisational state creates meaningful liminal continuation without treating singularity as sufficient.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "fitHypothesis": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
       "proposedPlacements": [
         {
           "candidateBpm": null,
@@ -54,217 +93,7 @@
           "outgoingBpm": null,
           "position": "Between Stardancer and Eyes of the Wind",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether unstable bass gives the liminal passage a changed orientation task or delays it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "purpose": "Test whether a second kind of instability clarifies the existing temporal-strain handoff or crowds it."
-        }
-      ],
-      "releaseDate": "2026",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Blue"
-    },
-    {
-      "album": "Ritorno",
-      "artist": "Andrea",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as the album's most club-ready tune, built around fluttering basslines recalling late-1990s drum'n'bass while avoiding staid linear rhythm.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether fluttering low-end motion changes a following formation or accumulation task without treating club readiness as sufficient.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork describes the exact track as the album's most club-ready tune, built around fluttering basslines recalling late-1990s drum'n'bass while avoiding staid linear rhythm.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "purpose": "Test whether fluttering bass gives crooked accumulation a distinct launch or supplants it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Worn Down and Hypnic Jerks",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "purpose": "Test whether broken low-end motion changes the acceleration crisis or simply adds another unstable stage."
-        }
-      ],
-      "releaseDate": "2020",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "TrackQY"
-    },
-    {
-      "album": "Butterfly",
-      "artist": "Daphni",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly/",
-      "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as the album's standout for acidic lines and an unusually estranged vocal, a moment where the record allows ugliness into its polished club frame.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether abrasive acid/vocal friction changes a local consequence without admitting it merely for contrast.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork identifies the exact track as the album's standout for acidic lines and an unusually estranged vocal, a moment where the record allows ugliness into its polished club frame.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether abrasive friction changes the alternating-pressure setup or crowds consolidation."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "purpose": "Test whether acidic vocal friction alters intensification or postpones it."
-        }
-      ],
-      "releaseDate": "2026",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Talk to Me"
-    },
-    {
-      "album": "Memoria",
-      "artist": "Carmen Villain",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact opener as a slow hulking rhythm arranged around a disruptive bass note, with electronic rhythm eventually fading until fuzzy guitar-like warmth remains.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a documented electronic-to-acoustic withdrawal creates rebuilding or descent work rather than another self-contained transformation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork describes the exact opener as a slow hulking rhythm arranged around a disruptive bass note, with electronic rhythm eventually fading until fuzzy guitar-like warmth remains.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "purpose": "Test whether withdrawal leaves a distinct condition for dead-space descent or performs that descent first."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Carried and Cave",
-          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "purpose": "Test whether a second self-emptying process gives widening new work or duplicates the existing rupture."
-        }
-      ],
-      "releaseDate": "2026",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Entre Nosotros"
-    },
-    {
-      "album": "Ritorno",
-      "artist": "Andrea",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as a soaring jungle mutation within an album whose loose-limbed programming teeters near collapse without losing groove.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a jungle mutation can redirect a run or set up re-grounding without being justified by stylistic hybridity alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork describes the exact track as a soaring jungle mutation within an album whose loose-limbed programming teeters near collapse without losing groove.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "purpose": "Test whether mutation intensifies the need for re-grounding or extends conflict."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "purpose": "Test whether loose-limbed mutation changes the threatened-coherence threshold or repeats instability."
-        }
-      ],
-      "releaseDate": "2020",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Drumzzy"
-    },
-    {
-      "album": "Butterfly",
-      "artist": "Daphni",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly/",
-      "evidence": {
-        "attributedDescription": "Pitchfork says the exact track is one of the album's few edges where Daphni's unrulier instinct remains present and that it displays a fuller emotional range than the surrounding record.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether that documented range changes a threshold or afterword relation rather than counting eccentricity as fit.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork says the exact track is one of the album's few edges where Daphni's unrulier instinct remains present and that it displays a fuller emotional range than the surrounding record.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "purpose": "Test whether broader range changes the bodily-to-funereal threshold or delays it."
+          "purpose": "Test whether the exposed vocal/improvisational state changes the liminal passage's task or delays it."
         },
         {
           "candidateBpm": null,
@@ -273,31 +102,115 @@
           "outgoingBpm": null,
           "position": "Between Can I live and Invisible Warriors Of Light",
           "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "purpose": "Test whether an unrulier club form changes the afterword's task or weakens the close."
+          "purpose": "Test whether the same state gives the electro-soul afterword a changed arrival condition or creates an extra coda."
         }
       ],
-      "releaseDate": "2026",
+      "releaseDate": "2025-10-31",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Caterpillar"
+      "track": "Gnu Blue"
     },
     {
-      "album": "Memoria",
-      "artist": "Carmen Villain",
+      "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
+      "artist": "Makaya McCraven",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/carmen-villain-memoria/",
+      "discoverySource": "https://pitchfork.com/news/makaya-mccraven-announces-tour-and-four-new-eps",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as dissipated and shuddering, placing its dub-techno character inside ghostly machinery rather than stable genre form.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether dissipated motion makes consolidation or liminal passage newly necessary rather than merely extending atmosphere.",
+        "attributedDescription": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
+        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether transformed performance can leave a concrete rebuilding or re-entry problem rather than merely introduce another production world.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
-      "fitHypothesis": "Pitchfork describes the exact track as dissipated and shuddering, placing its dub-techno character inside ghostly machinery rather than stable genre form.",
+      "fitHypothesis": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test whether altered live performance changes Never Met's electronic re-entry task or postpones it."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Carried and Cave",
+          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+          "purpose": "Test whether reconstructed ensemble material gives Cave new widening work or duplicates Carried's self-emptying rupture."
+        }
+      ],
+      "releaseDate": "2025-10-31",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Technology"
+    },
+    {
+      "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
+      "artist": "Makaya McCraven",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay",
+      "evidence": {
+        "attributedDescription": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
+        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test a bounded placement while preserving the missing exact-track structural evidence as a decision risk.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "fitHypothesis": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Worn Down and Hypnic Jerks",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "purpose": "Test whether edited improvisation changes Hypnic Jerks' acceleration crisis or adds an unsupported stage."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "purpose": "Test whether ensemble reconstruction leaves material for Té de Cabello Blanco to reassemble or duplicates that function."
+        }
+      ],
+      "releaseDate": "2025-10-31",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Prime"
+    },
+    {
+      "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
+      "artist": "Makaya McCraven",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://intlanthem.bandcamp.com/track/strikes-again",
+      "evidence": {
+        "attributedDescription": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
+        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test whether a long reconstructed performance has placement consequence without inferring flow from duration or instrumentation.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "fitHypothesis": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
       "proposedPlacements": [
         {
           "candidateBpm": null,
@@ -306,7 +219,7 @@
           "outgoingBpm": null,
           "position": "Between Elemental Dream and Truth in Noise",
           "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "purpose": "Test whether dissipation changes consolidation's task or repeats self-stripping instability."
+          "purpose": "Test whether reconstructed performance changes Truth in Noise's consolidation task or inserts another unsupported transformation."
         },
         {
           "candidateBpm": null,
@@ -315,102 +228,18 @@
           "outgoingBpm": null,
           "position": "Between Stardancer and Eyes of the Wind",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether shuddering dissipation creates a useful post-block threshold or delays the liminal corridor."
+          "purpose": "Test whether the six-minute reconstructed form creates a purposeful post-block corridor or delays the existing one."
         }
       ],
-      "releaseDate": "2026",
+      "releaseDate": "2025-10-31",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Holding a Shape"
-    },
-    {
-      "album": "Ritorno",
-      "artist": "Andrea",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/andrea-ritorno/",
-      "evidence": {
-        "attributedDescription": "Pitchfork describes the exact track as shuffling serenity within a record of organized rhythmic chaos that repeatedly approaches collapse without losing groove.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether shuffling serenity can provide consequential orientation or reset without treating contrast as sufficient.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork describes the exact track as shuffling serenity within a record of organized rhythmic chaos that repeatedly approaches collapse without losing groove.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test whether serenity gives the dubwise reset a changed condition or mediates it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Tides Alternate and Too Much Time",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test whether shuffled calm changes physical widening or delays it."
-        }
-      ],
-      "releaseDate": "2020",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Isabelle's String"
-    },
-    {
-      "album": "Butterfly",
-      "artist": "Daphni",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://pitchfork.com/reviews/albums/daphni-butterfly/",
-      "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as a direct attempt at weirdness and one of the album's few gestures toward Daphni's earlier eccentricity, while cautioning that it functions as a one-off.",
-        "craftConvention": "Attributed exact-track criticism supports resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a self-contained eccentric gesture creates downstream work; novelty itself is not admission evidence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "fitHypothesis": "Pitchfork identifies the exact track as a direct attempt at weirdness and one of the album's few gestures toward Daphni's earlier eccentricity, while cautioning that it functions as a one-off.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "purpose": "Test whether the gesture changes bodily deformation or adds another formed stage."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "purpose": "Test whether eccentricity changes the protected opener's re-entry condition or interrupts the approach."
-        }
-      ],
-      "releaseDate": "2026",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Invention"
+      "track": "Strikes Again"
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-12T05:50:07Z-explore-169",
+  "runId": "2026-09-12T06:52:46Z-explore-170",
   "schemaVersion": 2,
-  "sourceCommit": "7af9c03e97dcd269c46469508171ce42937d2438",
+  "sourceCommit": "4c403824dd0f4a33396642e511ac6170fc2337af",
   "target": "playlists/strange-gait/"
 }
