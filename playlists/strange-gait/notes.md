@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Runs 177–178 — recovery exploration yields one parked threshold candidate
+
+Run 177 is **REQUEST_NOT_COMPLETED**. Its immutable schemaVersion 2 request failed the working pre-resolution gate with `Lead 4 placement 2 must reference two current canonical ledger URIs`; no Spotify lookup, matching snapshot, musical verdict or utility addition followed. The malformed *Abundance* URI is an operator request error caught by the validator, so no further workflow REPAIR is actionable.
+
+Run 178 used a new runId, the current source SHA and a wholly separate nine-lead field. Its matching internally valid `PARTIAL` snapshot resolved only Extra Medium — *My Sound* (`spotify:track:6e5cYxIizeHsQWhVFOM0LT`). The exact track is PARKED at `Same Way → candidate → U Belong 2 Me`: its official UK-garage / swing-and-bass / bassline / house frame supports a plausible pre-protected character change, but exact form, vocal role, endpoint and both handoffs remain unknown. The alternative `Can I live → candidate → Invisible Warriors Of Light` is placement-specifically rejected because it would add an unsupported reopening before the closing afterword.
+
+The resolver warning is preserved: `Exact title/artist matched with release metadata variance: release date requested "2026-09-12" but Spotify returned "2026-02-12"`. Eight other leads remain unresolved with `no exact Spotify title/artist search match in market SE`; none receives a verdict.
+
+STRANGE GAIT remains 49 canonical tracks. The protected `Transparency → When We Froze → Stardancer` trio remains contiguous at positions 41–43. EDITORIAL ENGINE — DISCOVERY POOL moves from 374 to 375 tracks by retaining *My Sound*. Audio analysis and live mixing are NOT TESTED.
+
 ## Runs 175–176 — malformed placement quarantined; validator repaired
 
 Run 175's immutable request is **REQUEST_NOT_COMPLETED**. Viels — *PLM* named `U BelongRESS 2 Me` in one placement label while its URI resolved to the current canonical *U Belong 2 Me*. The matching terminal `NONE` snapshot is preserved, including all nine exact `no exact Spotify title/artist search match in market SE` errors, but receives no musical interpretation, candidate evaluation or utility addition.

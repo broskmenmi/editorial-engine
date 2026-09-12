@@ -1,5 +1,45 @@
 # STRANGE GAIT — Discovery Log
 
+## Runs 177–178 — invalid request quarantined; fresh recovery exploration completed — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical rows, an exact-order 49-track journey map, the last verified COMPLETE 49/49 Spotify receipt and protected `Transparency → When We Froze → Stardancer` at positions 41–43. EDITORIAL ENGINE — DISCOVERY POOL entered with 374 contiguous unique tracks and its last verified COMPLETE 374/374 receipt. There was no active clarification, current TRIGGERED revisit, publication discrepancy or actionable objective defect. Automatic publishing was enabled.
+
+### Run 177 — REQUEST_NOT_COMPLETED
+
+Run `2026-09-12T12:53:54Z-explore-177` inspected approximately 63 current, adjacent/emerging and overlooked catalogue items and committed nine honest leads against source commit `0faa41cfc05606558363cec6b785341dfe5bed5d`. The shared pre-resolution gate rejected the immutable request before Spotify lookup with the exact error:
+
+`Lead 4 placement 2 must reference two current canonical ledger URIs`
+
+The following-URI for *Abundance* contained an extra terminal character. No matching scout snapshot was produced or reused, and none of the nine identities received a musical verdict or utility addition: Oliver Rosemann — *There Are Always Red Ants Underneath*; Decibel Place — *Fortified* and *Fit To Stand Trial*; 1OO1O — *II (Venganza Djembe)* and *IIII (Abismo) Feat. DNZA*; Jerical — *Airwaves*; Monoblocx — *A Pain That Never Left*; Kaoru Inoue — *Kebo Jiro - Lembe Lembe Edit*; NHOAH — *Hillside*. Request commit: `da73af58b95ee6f1e0e1f656c16c1ab153f72a3c`. Failed action: https://github.com/broskmenmi/editorial-engine/actions/runs/34695169608
+
+This is a request-construction non-completion, not a musical zero result and not a new workflow defect: the repaired validator operated as intended.
+
+### Run 178 — completed EXPLORE recovery
+
+A separate fresh field was scanned without reusing any Run 177 identity. Approximately 61 current releases, adjacent/emerging artists and labels, and overlooked catalogue items were inspected across Thick Boy, Neo Ouija, We Are The Brave, Illegal Alien and adjacent current techno/electronic fields. Nine honest leads were committed in schemaVersion 2 with runId `2026-09-12T13:04:45Z-explore-178` and sourceCommit `da73af58b95ee6f1e0e1f656c16c1ab153f72a3c`. Request commit: `9e1330715fbb9787bbec1c90f4ab813e501564a2`. Matching resolver commit: `a23beca0c0191027a865b2bfadde03b450842836`; generatedAt `2026-09-12T13:05:03.457Z`; request fingerprint `fe3afb17e3c04e41a291d8a980811778ab4919a764076756daa7b7d1b806f2fc`.
+
+The internally valid snapshot is `PARTIAL`: 9 requested, 1 exact resolution, 1 selected candidate, 0 alternates, 8 unresolved, 0 duplicates, substitutions, relinkings or technical failures.
+
+**Selected canonical candidate:** Extra Medium — *My Sound* — `spotify:track:6e5cYxIizeHsQWhVFOM0LT` — https://open.spotify.com/track/6e5cYxIizeHsQWhVFOM0LT
+
+- **Volume fit — PASS, provisionally.** The exact identity and official 3:34 UK-garage / swing-and-bass / bassline / house release frame make it a plausible selection-lens candidate. They do not establish individual structure, energy or journey function.
+- **Immediate transition — PARKED** at `Same Way → candidate → U Belong 2 Me`. The adjacent bass/garage frame could develop the existing threshold, but candidate-specific form, vocal role, endpoint and both handoffs are unknown; the same evidence is equally compatible with another self-contained stage.
+- **Surrounding three-to-five-track run — PARKED** at `Style Teef → Same Way → candidate → U Belong 2 Me → Transparency`. The character change may be legible, but the evidence does not establish whether it clarifies or crowds the pre-protected passage.
+- **Long-form journey — PARKED.** The hypothesis is proportionate enough to preserve, but not proven enough to alter the 49-track sequence.
+- **Alternative placement — REJECT** at `Can I live → candidate → Invisible Warriors Of Light`. A new concise bass/garage item would create another unsupported reopening before the final afterword; the available evidence supplies no exact direction or endpoint to justify that cost.
+
+**Canonical verdict:** 0 ADD. PARKED only at `Same Way → candidate → U Belong 2 Me`; placement-specific REJECT only at `Can I live → candidate → Invisible Warriors Of Light`. Reopen for materially richer candidate-specific form, endpoint or vocal-role evidence; lawful audio evidence; changed journey need; or explicit listener evidence. Pulse, BPM, energy, density, space, hypnosis, emotional effect, phrase fit, mixability and both handoffs remain UNKNOWN.
+
+Warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026-09-12" but Spotify returned "2026-02-12"`
+
+Unresolved without musical verdict — each preserved the exact resolver error `no exact Spotify title/artist search match in market SE`: Yunx — *Be Bop to the Shop*, *Human Beats* and *Moor Sanali*; Procombo — *Rolling Pressure (Extended Mix)* and *Groove Operator (Extended Mix)*; Colomboi — *Axis of Fate* and *Need*; Extra Medium — *My Sound (Instrumental)*.
+
+### Auditor approval
+
+Approved. The immutable failed Run 177 request remains historical evidence; Run 178 uses a new runId, current source SHA and a separate lead field. Only the exact selected identity was evaluated. The PARKED/REJECT split is candidate- and placement-specific, preserves the protected trio, states unknowns, and does not infer flow properties from metadata. *My Sound* is genuinely interesting and therefore enters the doctrine-free global utility ledger; unresolved identities do not. STRANGE GAIT's canonical ledger and journey annotations remain unchanged.
+
 ## Runs 175–176 — EXPLORE request not completed; placement validator repaired — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical rows, the last verified COMPLETE 49/49 Spotify receipt, matching journey map and protected `Transparency → When We Froze → Stardancer` at positions 41–43. EDITORIAL ENGINE — DISCOVERY POOL entered with 374 contiguous unique tracks and the last verified COMPLETE 374/374 receipt. No active feedback, current TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.

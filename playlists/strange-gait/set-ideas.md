@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Runs 177–178
+
+### Let a bass/garage pivot promise a threshold without presuming it proves one
+
+**Direction:** Explore whether a concise UK-bass or garage character change can make the pre-protected passage more legible while preserving `Transparency → When We Froze → Stardancer`. Judge the move at transition, local-run and long-form scales; sonic adjacency alone is insufficient.
+
+**Ingredients:**
+
+- Cooly G — *Same Way* — current canonical predecessor
+- Extra Medium — *My Sound* — exact PARKED candidate, `spotify:track:6e5cYxIizeHsQWhVFOM0LT`
+- DJ HMC — *U Belong 2 Me* — current canonical successor
+- Yunx, Procombo and Colomboi — unresolved research field only, not proven ingredients
+
+**Why interesting:** The official UK-garage / swing-and-bass / bassline / house frame creates a credible character-pivot hypothesis between segmented pressure and the existing threshold. A hard change may pass if its purpose is legible across all three scales.
+
+**Unknown / risk:** *My Sound*'s individual form, vocal role, endpoint, pulse, BPM, energy, density, space, hypnosis, emotional effect, phrase fit, mixability and both handoffs are unknown. This is a research/set direction, not a proven sequence or live-mixing edge.
+
 ## Current additions — Runs 175–176
 
 ### Let deep research and raw sound coexist without assuming one room

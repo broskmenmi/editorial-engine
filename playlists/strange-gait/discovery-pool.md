@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Runs 177–178 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Extra Medium | My Sound | `spotify:track:6e5cYxIizeHsQWhVFOM0LT` · https://open.spotify.com/track/6e5cYxIizeHsQWhVFOM0LT · https://thickboyrecords.bandcamp.com/album/my-sound | Genuinely interesting exact identity. PARKED only at `Same Way → candidate → U Belong 2 Me`; the UK-garage / swing-and-bass / bassline / house release frame supports a plausible threshold change, but exact form, vocal role, endpoint and both handoffs remain unknown. The final placement is rejected. Added to the global utility ledger. Spotify returned 2026-02-12 for requested 2026-09-12. |
+| RESEARCH LEADS | Yunx | Be Bop to the Shop; Human Beats; Moor Sanali | https://neoouija.bandcamp.com/album/iconiconical | Current electro/IDM catalogue leads. Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility addition. |
+| RESEARCH LEADS | Procombo | Rolling Pressure (Extended Mix); Groove Operator (Extended Mix) | https://wearethebraveofficial.bandcamp.com/album/not-alone-ep | Current raw/deep/hypnotic techno release leads. Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility addition. |
+| RESEARCH LEADS | Colomboi | Axis of Fate; Need | https://illegalalienrecords.bandcamp.com/album/alchemy | Current rolling/groove/atmosphere release leads. Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility addition. |
+| RESEARCH LEAD | Extra Medium | My Sound (Instrumental) | https://thickboyrecords.bandcamp.com/album/my-sound | Exact-title counterpart returned `no exact Spotify title/artist search match in market SE`. It was not inferred from the resolved main version and receives no verdict. |
+| RELEASE / LABEL WATCH | Thick Boy; Neo Ouija; We Are The Brave; Illegal Alien | Current September field | Source links above | Useful bass/garage, electro/IDM and techno windows; release-level language remains lead-generation context, not proof of track structure or sequence fit. |
+| RELEASE / LABEL WATCH | Andy BSK; 1OO1O; La Munai; NHOAH | Run 177 fresh field | https://andybsk.bandcamp.com/album/subverted-ep · https://1oo1o.bandcamp.com/album/tribalista · https://lamunairecords.bandcamp.com/album/harry-roesli-remiks · https://nhoah.bandcamp.com/album/hillside | Run 177 request was not completed, so these remain source-level watches only. No Spotify identity, verdict or utility retention was inferred. |
+
 ## Runs 175–176 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
