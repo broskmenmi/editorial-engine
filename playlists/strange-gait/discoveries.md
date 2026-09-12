@@ -1,5 +1,58 @@
 # STRANGE GAIT — Discovery Log
 
+## Runs 180–181 — invalid request quarantined; Akufen recovery exploration completed — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical tracks, an exact-order map, no active feedback or triggered revisit, protected `Transparency → When We Froze → Stardancer` at positions 41–43, and a last verified COMPLETE 49/49 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 375 contiguous unique tracks and a COMPLETE 375/375 receipt. No objective repair was actionable.
+
+**Run 180:** `2026-09-12T13:56:00Z-explore-180` is **REQUEST_NOT_COMPLETED**. Its immutable request at `8bb5820311aa339814b26d674d0b510f93fad777` failed before Spotify lookup with `Lead 2 placement 2 must reference two current canonical ledger URIs`. The prose named `Elemental Dream → Truth in Noise`, but the Truth in Noise URI was wrong. No identity was resolved, judged or retained. The working gate caught an operator error, so no code REPAIR is actionable.
+
+**Run 181:** `2026-09-12T14:01:00Z-explore-181` recovered the field with a new runId, current sourceCommit `8bb5820311aa339814b26d674d0b510f93fad777` and ledger-derived placement pairs. Its matching snapshot at `55b8954e30f6f5e8b802d45bb39dd3f60c8c9f39` is internally valid and `PARTIAL`: 9 requested, 6 exact resolutions, 3 selected, 3 exact alternates and 3 unresolved. There are no warnings, duplicates, substitutions, relinkings or technical failures.
+
+### Candidate evaluations
+
+#### Akufen — Architexture 3 — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:1sfcI1L5wtUMuBgLvlkO4g`; 7:36; Spotify release date 2026-08-21.
+- **Volume fit:** PASS. BRUK describes the exact track through choppier motion, bouncy synth snatches and huff-and-puff percussion under tight control.
+- **Immediate transition:** FAIL at both tested boundaries. `FELT → candidate → Thick to Handle` adds another controlled formation before existing deformation; `Fragments → candidate → Drummz` adds a complete choppy construction between drive and the unpredictable-rhythm hinge.
+- **Three-to-five-track run:** FAIL. `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES` over-articulates formation; `Mildew Swoosh → Fragments → candidate → Drummz → Té de Cabello Blanco` crowds the drive–instability–reassembly passage.
+- **Long form:** FAIL for these insertions. The 7:36 stage lengthens an already dense middle without a proportional gain.
+- **Verdict:** REJECT only these two placements; retain as genuinely interesting.
+
+#### Akufen — Architexture 1 — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:43zcoMgVqUJKT6ZcxH88KJ`; 7:08; Spotify release date 2026-08-21.
+- **Volume fit:** PASS. BRUK's chord-pulse and pad-tone architecture within cool-headed dub-techno repetition supports the selection lens without proving energy, hypnosis or mixability.
+- **Immediate transition:** FAIL. `Stadium Drive → candidate → Marauder` adds another architected stage after the overture; `Trompe L'oeil → candidate → FELT` adds a second formed proposition between reset and rolling formation.
+- **Three-to-five-track run:** FAIL. `Sawa → Stadium Drive → candidate → Marauder → The Witching Hour` becomes an extended preface; `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle` delays the reset–formation–deformation relation.
+- **Long form:** FAIL for the tested insertions. The production-world change is credible, but neither passage justifies another seven-minute stage.
+- **Verdict:** REJECT only these two placements; retain as genuinely interesting.
+
+#### Akufen — Architexture 2 — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:1W25hISPmTzXs1b4TRd7zV`; 6:42; Spotify release date 2026-08-21.
+- **Volume fit:** PASS. BRUK's exact steady-cruising swing within dub-techno atmospherics is relevant without treating steadiness as a flaw.
+- **Immediate transition:** FAIL. `Cave → candidate → Abundance` puts one swung proposition before another; `Nukumori → candidate → Rabbit Hole` inserts a complete cruising stage between flare and dead-space descent.
+- **Three-to-five-track run:** FAIL. `Carried → Cave → candidate → Abundance → Foundry` extends the early proposition; `Eyes of the Wind → Nukumori → candidate → Rabbit Hole → Can I live` interrupts the closing flare–descent–re-entry sequence.
+- **Long form:** FAIL for these insertions: the early option is redundant, while the late option weakens the closing proportion.
+- **Verdict:** REJECT only these two placements; retain as genuinely interesting.
+
+Unresolved without verdict, each preserving `no exact Spotify title/artist search match in market SE`: Picture — *Leeeeeee*, *Quuuuuu*, *Wooooooo*. Exact but unselected and unevaluated: Marco Maldarella — *Subvelo* (`spotify:track:28hysCBWPZBogIqZyfbMh3`), *Slack Tide* (`spotify:track:1CB951Td6DVGyvFinIKzMS`), *Velzna* (`spotify:track:22kOxdFuBV9G4lcfmMMZWC`).
+
+### Auditor approval
+
+**APPROVED.** Run 180 is quarantined as REQUEST_NOT_COMPLETED. Run 181's request and snapshot match on schemaVersion, runId, sourceCommit, target, mode and receipt. Only its three selected exact identities were evaluated; every unresolved error and alternate is preserved. Each candidate received separate volume, transition, local-run and long-form assessment. No metadata-only sonic inference entered the verdict. The protected trio is untouched. Three placement-specific rejections, local inspiration retention and three doctrine-free utility additions are approved.
+
+### Durable result
+
+- STRANGE GAIT remains **49 canonical tracks** with no reorder or map change.
+- Protected order remains `Transparency → When We Froze → Stardancer`.
+- Local inspiration retains three exact Akufen tracks, three unresolved Picture leads, three exact unevaluated Maldarella alternates and the source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **375 → 378**, adding the three selected Akufen identities.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Run 180: approximately 58 inspected → 9 leads → REQUEST_NOT_COMPLETED before Spotify lookup → 0 resolutions / evaluations / additions. Recovery Run 181: the same fresh 58-inspection field → 9 leads → 6 exact resolutions + 3 unresolved → 3 selected evaluations + 3 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Across completed discovery Runs 87–181, excluding process repairs and failed Runs 164, 167, 175, 177 and 180: **747 leads from approximately 4,337 inspections; 34 ADDs from 230 selected candidates**. Inspection-to-lead conversion was 15.5%, lead-to-resolution conversion 66.7%, and selected-candidate-to-ADD conversion 0/3. The recent comparable ADD rate remains **3/10**; the musical no-ADD streak is three completed discovery runs. No actionable REPAIR emerges.
+
 ## Run 179 — REPAIR — discovery-pool table continuity and parser fail-closed guard — 2026-09-12
 
 **RunId:** `2026-09-12T13:10:28Z-repair-179`

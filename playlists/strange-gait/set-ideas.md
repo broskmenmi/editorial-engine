@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Runs 180–181
+
+### Let controlled architecture change scale, not merely add a stage
+
+**Direction:** Explore dub-techno and adjacent rhythmic constructions where control, swing or atmosphere changes a passage at transition, local-run and long-form scales. Elegant architecture alone is not enough; the insertion must remain proportionate.
+
+**Ingredients:**
+
+- Akufen — *Architexture 1* — exact placement-specific reject / interesting, `spotify:track:43zcoMgVqUJKT6ZcxH88KJ`
+- Akufen — *Architexture 2* — exact placement-specific reject / interesting, `spotify:track:1W25hISPmTzXs1b4TRd7zV`
+- Akufen — *Architexture 3* — exact placement-specific reject / interesting, `spotify:track:1sfcI1L5wtUMuBgLvlkO4g`
+- Picture — *Leeeeeee*, *Quuuuuu*, *Wooooooo* — unresolved research field
+- Marco Maldarella — *Subvelo*, *Slack Tide*, *Velzna* — exact unevaluated alternates
+
+**Why interesting:** The Akufen trio offers chord/pad relation, steady swing and controlled choppiness; Picture and Maldarella point toward freer stereo construction and stretched temporal form. The live question is whether any such move changes a passage rather than displaying another complete system.
+
+**Unknown / risk:** The six tested Akufen placements failed proportionality. Picture is unresolved; Maldarella was not selected. Endpoints, handoffs, phrase fit, pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior remain unknown. This is a research/set direction, not a proven sequence or live-mixing edge.
+
 ## Current additions — Runs 177–178
 
 ### Let a bass/garage pivot promise a threshold without presuming it proves one

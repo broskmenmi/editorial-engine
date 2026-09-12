@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Runs 180–181 — request failure quarantined; Akufen placements rejected
+
+Pre-audit found no actionable REPAIR: 49 unique canonical tracks, exact-order map, protected `Transparency → When We Froze → Stardancer` at positions 41–43, no active feedback or triggered revisit, and valid existing receipts.
+
+Run 180 is **REQUEST_NOT_COMPLETED**. Its immutable request failed before Spotify lookup because the correctly named `Elemental Dream → Truth in Noise` boundary carried a non-ledger Truth in Noise URI. The validator caught the operator error; no identity was resolved or judged and no workflow-code change is warranted.
+
+Recovery Run 181 used a new runId, current source SHA and ledger-derived URI pairs. Its matching `PARTIAL` snapshot resolved six of nine leads, selected three Akufen tracks, and preserved three Picture identity misses plus three Marco Maldarella exact alternates. No warnings, duplicates, substitutions, relinkings or technical failures occurred.
+
+All three Akufen candidates pass the selection lens but fail only their tested placements. *Architexture 3* adds another controlled formation before deformation or inside the drive-to-instability passage. *Architexture 1* extends the opening overture or inserts another formed stage between reset and formation. *Architexture 2* extends an existing swung proposition or interrupts the late flare-to-descent relation. STRANGE GAIT remains 49 tracks; the utility ledger retains all three. No actionable REPAIR remains. Audio analysis and live mixing are NOT TESTED.
+
 ## Run 179 — utility publication continuity repaired
 
 The first Run 178 publication receipt reported `COMPLETE — 374/374` because a blank line terminated the global Discovery Pool table before the newly written row 375. That receipt verified the parser's truncated input, not the full visible ledger, so it is not evidence that *My Sound* was live.

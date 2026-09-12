@@ -1,5 +1,25 @@
 # STRANGE GAIT — Discovery Pool
 
+## Runs 180–181 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Akufen | Architexture 3 | `spotify:track:1sfcI1L5wtUMuBgLvlkO4g` · https://open.spotify.com/track/1sfcI1L5wtUMuBgLvlkO4g · https://brukrecords.bandcamp.com/album/architextures-1-2-3 | Controlled choppiness remains genuinely interesting. Rejected only at `FELT → candidate → Thick to Handle` and `Fragments → candidate → Drummz`; added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Akufen | Architexture 1 | `spotify:track:43zcoMgVqUJKT6ZcxH88KJ` · https://open.spotify.com/track/43zcoMgVqUJKT6ZcxH88KJ · https://brukrecords.bandcamp.com/album/architextures-1-2-3 | Chord-pulse and pad-tone architecture remains genuinely interesting. Rejected only at `Stadium Drive → candidate → Marauder` and `Trompe L'oeil → candidate → FELT`; added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Akufen | Architexture 2 | `spotify:track:1W25hISPmTzXs1b4TRd7zV` · https://open.spotify.com/track/1W25hISPmTzXs1b4TRd7zV · https://brukrecords.bandcamp.com/album/architextures-1-2-3 | Steady-cruising dub-techno swing remains genuinely interesting. Rejected only at `Cave → candidate → Abundance` and `Nukumori → candidate → Rabbit Hole`; added to the global utility ledger. |
+| RESEARCH LEADS | Picture | Leeeeeee; Quuuuuu; Wooooooo | https://pppicture.bandcamp.com/album/uuuuuuuu · https://pitchfork.com/reviews/albums/picture-uuuuuuuu/ | Useful exact-track criticism, but each identity returned `no exact Spotify title/artist search match in market SE`; no verdict or utility entry. |
+| EXACT ALTERNATES / UNEVALUATED | Marco Maldarella | Subvelo; Slack Tide; Velzna | `spotify:track:28hysCBWPZBogIqZyfbMh3`; `spotify:track:1CB951Td6DVGyvFinIKzMS`; `spotify:track:22kOxdFuBV9G4lcfmMMZWC` · https://marcomaldarella.bandcamp.com/album/ere-scyld | Resolver-verified alternates; not selected, evaluated, retained as verdicts or added to the utility ledger. |
+| RELEASE / LABEL WATCH | BRUK / Akufen | Architextures 1 -2 -3 | https://brukrecords.bandcamp.com/album/architextures-1-2-3 | August 21, 2026 reissue of overlooked 2000 dub-techno architecture. |
+| RELEASE WATCH | Picture / Short Span | Uuuuuuuu | https://pppicture.bandcamp.com/album/uuuuuuuu | July 17, 2026 stereo-percussion field; unresolved on Spotify SE. |
+| RELEASE WATCH | Marco Maldarella | ere Scyld | https://marcomaldarella.bandcamp.com/album/ere-scyld | September 1, 2026 restrained experimental-techno field; three exact alternates remain unevaluated. |
+
+### Placement and inspiration boundaries
+
+- The Akufen verdicts reject only six tested placements; none is globally rejected.
+- Picture remains unresolved without verdict; Maldarella remains exact but unselected and unevaluated.
+- Run 180 failed before lookup and contributes no identity result.
+- No phrase fit, perceived-pulse relation, energy, density, space, hypnosis, emotional effect, mixability or live edge is asserted.
+
 ## Runs 177–178 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
