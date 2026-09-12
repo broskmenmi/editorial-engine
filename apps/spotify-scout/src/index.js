@@ -59,6 +59,54 @@ export function persistentExclusions(mode, sourceTexts) {
   return excluded;
 }
 
+function canonicalLedgerTracks(ledgerText) {
+  const tracks = [];
+
+  for (const line of String(ledgerText ?? '').split('\n')) {
+    if (!line.startsWith('|')) continue;
+    const columns = line.split('|').slice(1, -1).map((column) => column.trim());
+    if (!/^\d+$/.test(columns[0] ?? '')) continue;
+    const uri = columns[3];
+    if (!/^spotify:track:[A-Za-z0-9]{22}$/.test(uri ?? '')) continue;
+    tracks.push({ track: columns[2], uri, index: tracks.length });
+  }
+
+  return tracks;
+}
+
+export function validateProposedPlacements(request, ledgerText) {
+  if (request?.schemaVersion !== CURRENT_SCHEMA_VERSION) return;
+
+  const tracks = canonicalLedgerTracks(ledgerText);
+  if (tracks.length === 0) {
+    throw new Error('Current canonical ledger contains no parseable Spotify track rows');
+  }
+  const byUri = new Map(tracks.map((track) => [track.uri, track]));
+
+  request.leads.forEach((lead, leadIndex) => {
+    lead.proposedPlacements.forEach((placement, placementIndex) => {
+      const label = `Lead ${leadIndex + 1} placement ${placementIndex + 1}`;
+      if (typeof placement?.precedingUri !== 'string' || typeof placement?.followingUri !== 'string') {
+        throw new Error(`${label} must contain precedingUri and followingUri`);
+      }
+
+      const preceding = byUri.get(placement.precedingUri);
+      const following = byUri.get(placement.followingUri);
+      if (!preceding || !following) {
+        throw new Error(`${label} must reference two current canonical ledger URIs`);
+      }
+      if (following.index !== preceding.index + 1) {
+        throw new Error(`${label} URI pair must be adjacent in current canonical ledger order`);
+      }
+
+      const position = normalized(placement.position);
+      if (!position.includes(normalized(preceding.track)) || !position.includes(normalized(following.track))) {
+        throw new Error(`${label} prose must name current canonical neighbours "${preceding.track}" and "${following.track}"`);
+      }
+    });
+  });
+}
+
 export function normalized(value) {
   return String(value ?? '')
     .normalize('NFKD')
@@ -498,13 +546,18 @@ export function buildSnapshot({ request, mode, candidates, resolvedAlternates, u
 }
 
 export async function main() {
-  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_REFRESH_TOKEN) {
-    throw new Error('Missing Spotify credentials');
-  }
-
   const request = JSON.parse(await fs.readFile(REQUEST, 'utf8'));
   const { mode } = validateRequest(request);
   const requestedEntries = requestEntries(request);
+  const sourceEntries = await Promise.all(SOURCE_PATHS.map(async (filePath) => (
+    [filePath, await fs.readFile(filePath, 'utf8')]
+  )));
+  const sourceTexts = Object.fromEntries(sourceEntries);
+  validateProposedPlacements(request, sourceTexts[SOURCE_PATHS[0]]);
+
+  if (!process.env.SPOTIFY_CLIENT_ID || !process.env.SPOTIFY_REFRESH_TOKEN) {
+    throw new Error('Missing Spotify credentials');
+  }
 
   const existing = await readJsonIfPresent(OUTPUT);
   const snapshotState = snapshotStateForRequest(existing, request);
@@ -516,10 +569,7 @@ export async function main() {
     throw new Error(`runId ${request.runId} already has a different immutable terminal snapshot; create a new runId`);
   }
 
-  const sourceEntries = await Promise.all(SOURCE_PATHS.map(async (filePath) => (
-    [filePath, await fs.readFile(filePath, 'utf8')]
-  )));
-  const excluded = persistentExclusions(mode, Object.fromEntries(sourceEntries));
+  const excluded = persistentExclusions(mode, sourceTexts);
 
   const token = await refreshToken();
   const resolved = [];

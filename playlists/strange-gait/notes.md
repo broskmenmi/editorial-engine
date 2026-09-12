@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Runs 175–176 — malformed placement quarantined; validator repaired
+
+Run 175's immutable request is **REQUEST_NOT_COMPLETED**. Viels — *PLM* named `U BelongRESS 2 Me` in one placement label while its URI resolved to the current canonical *U Belong 2 Me*. The matching terminal `NONE` snapshot is preserved, including all nine exact `no exact Spotify title/artist search match in market SE` errors, but receives no musical interpretation, candidate evaluation or utility addition.
+
+REPAIR `2026-09-12T12:03:23Z-repair-176` moves the repository's existing placement contract into the shared resolver gate. Before credentials, terminal-snapshot reuse or Spotify lookup, every schemaVersion 2 placement must use two current canonical ledger URIs, an adjacent URI pair and prose that names both URI-resolved track titles. Tests cover the observed typo, non-adjacent URIs and an unknown URI.
+
+The fresh End Of Perception / Particle Audio / Lee Holman field remains a local research window only. STRANGE GAIT remains 49 tracks; EDITORIAL ENGINE — DISCOVERY POOL remains 374 tracks. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 41–43.
+
+Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
 ## Run 174 — EXPLORE — groove complication without canonical displacement
 
 Lil_art_hoe — *Gone* (`spotify:track:7fm4fgxXntmvGWqCXlnpoh`) passes the selection lens and remains genuinely interesting, but is rejected only at both tested placements. Its documented non-standard kick/snare pattern, acid bass, vocal samples and wordless melodies either mediate the direct return from *Sarniezz* or install another complete groove between restrained re-entry and the closing afterword.

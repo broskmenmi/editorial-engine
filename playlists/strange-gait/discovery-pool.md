@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Runs 175–176 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEADS | Dj Sodeyama; Lowsystem; su01; Inter Gritty | Atlas; Cantilever; Echoes From A Distant Future; Hycean Habitat | https://endofperception.bandcamp.com/album/various-artist-008 | Current End Of Perception exact-title leads; resolver returned `no exact Spotify title/artist search match in market SE` for each. No musical verdict or utility addition. |
+| RESEARCH LEADS | Viels | PDP; PLM; SML | https://endofperception.bandcamp.com/album/viels-audio-catalouge-001-particle-audio | Adjacent Particle Audio exact-title leads; resolver returned `no exact Spotify title/artist search match in market SE` for each. No musical verdict or utility addition. |
+| RESEARCH LEADS | Lee Holman | Sonic Movement; Sonic Borders | https://endofperception.bandcamp.com/album/lee-holman-sonic-borders-ep-eopep006 | Overlooked-catalogue exact-title leads; resolver returned `no exact Spotify title/artist search match in market SE` for each. No musical verdict or utility addition. |
+| LABEL / CATALOGUE WATCH | End Of Perception; Particle Audio | Various Artist 008; Audio Catalouge 001; Sonic Borders EP | https://endofperception.bandcamp.com | The label's stated meeting of deep/hypnotic research with classic raw sounds, Viels' creative-freedom frame and Lee Holman's deep/spaced-out catalogue remain useful research directions. |
+
+### Placement and inspiration boundaries
+
+- Run 175 is REQUEST_NOT_COMPLETED because one placement label did not match its URI-resolved canonical neighbour.
+- The matching resolver snapshot and all nine exact errors are preserved as diagnostic identity evidence only, not as musical verdicts.
+- No exact Spotify identity was retained, so EDITORIAL ENGINE — DISCOVERY POOL receives no addition.
+- The release and label windows remain useful without asserting exact-track form, energy, density, space, hypnosis, phrase fit or mixability.
+
 ## Run 174 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -12,6 +12,7 @@ import {
   recordResolution,
   snapshotStateForRequest,
   SpotifyApiError,
+  validateProposedPlacements,
   validateRequest,
 } from '../src/index.js';
 import { validateRequestChange } from '../src/validate-request-change.js';
@@ -53,6 +54,50 @@ test('schemaVersion 2 distinguishes ranked leads from resolved candidates', () =
   assert.throws(
     () => validateRequest(request({ leads: undefined, candidates: [lead()] }), { requireCurrentSchema: true }),
     /ranked leads/,
+  );
+});
+
+test('placement prose and URI pairs must match adjacent current ledger neighbours', () => {
+  const firstUri = 'spotify:track:1111111111111111111111';
+  const secondUri = 'spotify:track:2222222222222222222222';
+  const thirdUri = 'spotify:track:3333333333333333333333';
+  const ledger = [
+    '| # | Artist | Track | Spotify URI | BPM |',
+    '|---:|---|---|---|---:|',
+    `| 1 | Artist One | Example One | ${firstUri} | — |`,
+    `| 2 | Artist Two | U Belong 2 Me | ${secondUri} | — |`,
+    `| 3 | Artist Three | Example Three | ${thirdUri} | — |`,
+  ].join('\n');
+  const validPlacement = {
+    position: 'Between Example One and U Belong 2 Me',
+    precedingUri: firstUri,
+    followingUri: secondUri,
+  };
+
+  assert.doesNotThrow(() => validateProposedPlacements(
+    request({ leads: [lead({ proposedPlacements: [validPlacement] })] }),
+    ledger,
+  ));
+  assert.throws(
+    () => validateProposedPlacements(
+      request({ leads: [lead({ proposedPlacements: [{ ...validPlacement, position: 'Between Example One and U BelongRESS 2 Me' }] })] }),
+      ledger,
+    ),
+    /prose must name current canonical neighbours/,
+  );
+  assert.throws(
+    () => validateProposedPlacements(
+      request({ leads: [lead({ proposedPlacements: [{ ...validPlacement, followingUri: thirdUri, position: 'Between Example One and Example Three' }] })] }),
+      ledger,
+    ),
+    /must be adjacent/,
+  );
+  assert.throws(
+    () => validateProposedPlacements(
+      request({ leads: [lead({ proposedPlacements: [{ ...validPlacement, precedingUri: 'spotify:track:4444444444444444444444' }] })] }),
+      ledger,
+    ),
+    /current canonical ledger URIs/,
   );
 });
 

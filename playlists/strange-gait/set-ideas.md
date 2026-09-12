@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Runs 175–176
+
+### Let deep research and raw sound coexist without assuming one room
+
+**Direction:** Explore the End Of Perception and adjacent Particle Audio field for sequences where research-oriented and classic raw approaches can change character deliberately. Treat release descriptions as lead-generation evidence only; require exact identity and separate transition, local-run and long-form evaluation before any canonical claim.
+
+**Ingredients:**
+
+- Dj Sodeyama — *Atlas*; Lowsystem — *Cantilever*; su01 — *Echoes From A Distant Future*; Inter Gritty — *Hycean Habitat* — unresolved current-compilation research leads
+- Viels — *PDP*, *PLM* and *SML* — unresolved adjacent Particle Audio research leads
+- Lee Holman — *Sonic Movement* and *Sonic Borders* — unresolved overlooked-catalogue research leads
+
+**Why interesting:** The official release frames create a useful contrast field between deep/hypnotic research, creative freedom and classic raw techno language. That is a scouting direction, not proof that any track belongs or that a transition works.
+
+**Unknown / risk:** Run 175 is REQUEST_NOT_COMPLETED, and every identity is unresolved in Spotify market SE. This is not a proven sequence or live-mixing edge; exact forms, endpoints, handoffs, perceived pulse, energy, density, space, key, phrase fit and mixability remain untested or unknown.
+
 ## Current additions — Run 174
 
 ### Let groove complication change the passage, not merely occupy it
