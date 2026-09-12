@@ -1,5 +1,41 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 165 — EXPLORE — self-transformation versus downstream work — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 349 contiguous unique exact tracks and a matching COMPLETE 349/349 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Run 164 remained an honest `REQUEST_NOT_COMPLETED`; its stale scout snapshot was not reused. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 56 named tracks, release cuts and catalogue references were inspected across current, adjacent/emerging and overlooked-catalogue windows: Bandcamp Daily's September 11, 2026 ODAE feature and official *MOIREMOIREMOIRE* page; overlooked Mouse on Mars material documented in Pitchfork reviews of *WOW*, *Varcharz* and *Live04*; and Matmos catalogue material documented in Pitchfork reviews of *Supreme Balloon* and *Plastic Anniversary*. Run 164's identities and the recent Run 158–161 pool were excluded.
+
+**Immutable request and resolution:** runId `2026-09-12T02:49:59Z-explore-165`; sourceCommit `ef3f111b4abdc79e9c500c19e12e7856a125ed27`; request commit `d3d10caa8f6c858793bb7fbca6a77cfc84583736`; matching resolver snapshot commit `d6c1c7b3806cf590c850cba074d1ed38fa252338`; fingerprint `cc129e5e7a70f458ae2a654e5da46843c38e3bc537e3bb1e4ebe5086660fa1b8`. The internally valid schemaVersion 2 snapshot is `PARTIAL`: 9 requested, 8 resolved, 3 selected, 5 exact alternates and 1 unresolved; no duplicates, substitutions, relinkings or technical failures.
+
+**Ranked leads:** (1) Mouse on Mars — *DOG*; (2) Matmos — *Polychords*; (3) ODAE — *can it bleed*; (4) Mouse on Mars — *Distroia*; (5) Matmos — *Silicone Gel Implant*; (6) ODAE — *read on*; (7) Mouse on Mars — *Düül*; (8) Matmos — *Extending the Plastisphere to GJ237b*; (9) ODAE — *nine pretty lives*.
+
+**Selected exact identities and verdicts:**
+
+- Mouse On Mars — *DOG* — `spotify:track:1MxmwiRLaSAsenFRv5ljBv` — **volume fit PASS; placement-specific REJECT** at both `Elemental Dream → candidate → Truth in Noise` and `Never Met → candidate → Trompe L'oeil`. Pitchfork documents eerie tones and ruddy bass, with each repetition changing through high clusters, rhythm and mechanics until only a skeleton remains. Immediate purpose is plausible, but the first placement duplicates self-stripping transformation before consolidation; the second inserts a complete mutation before the existing reset. Both surrounding runs repeat work and the long-form journey gains no proportional consequence.
+- Matmos — *Polychords* — `spotify:track:6Eo38ZR9BzXFTa3ER1RarR` — **volume fit PASS; placement-specific REJECT** at both `Trompe L'oeil → candidate → FELT` and `Drummz → candidate → Té de Cabello Blanco`. Pitchfork documents punchy, sprightly almost-techno built from a stilted march, soft background chords and electronic chatter. The first immediate move is legible but partially reforms motion before *FELT*'s existing formation; the second prematurely supplies a grid before *Té de Cabello Blanco* must reassemble. The local runs become successive formations or a premature answer, and the long-form journey gains no new downstream work.
+- ODAE — *can it bleed* — `spotify:track:09kF88tshMr9Yis48ECsVc` — **volume fit PASS; placement-specific REJECT** at both `Capa → candidate → Sarniezz` and `Rabbit Hole → candidate → Can I live`. Bandcamp Daily documents clipped phrasing, bitcrushed instrumentals, liminal pockets and fluctuating decibels that challenge on-rails presentation. At the first boundary another conspicuous production world mediates the direct electronic-to-live-band left turn; at the second it installs another reopening before the restrained-footwork re-entry. Both local runs and the long-form closing logic become over-articulated.
+
+**Unresolved without musical verdict:** Matmos — *Silicone Gel Implant*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6YkyYqwL58IASh7wJhXXSL, 0lOJB8wS01aX05f3qORXOU)`.
+
+**Exact but unselected and unevaluated:** Mouse On Mars — *Distroia* (`spotify:track:1H0QVQKniAW5FuYQ8ZI3qa`); ODAE — *read on* (`spotify:track:5ffCeIN8gCnsi62Bj7DgJw`); Mouse On Mars — *Duul* (`spotify:track:18xF17pEyHNH3kuR4tLSS1`); Matmos — *Extending The Plastisphere To GJ237b* (`spotify:track:1HtWxQB4mbaSxZl6shAd82`); ODAE — *nine pretty lives* (`spotify:track:1Ai7zybUuc4DgTAjbpVtUc`).
+
+**Warnings preserved exactly:**
+
+- *DOG*: `Exact title/artist matched with release metadata variance: release date requested "2012" but Spotify returned "2012-11-02"`
+- *Polychords*: `Exact title/artist matched with release metadata variance: release date requested "2008" but Spotify returned "2008-05-05"`
+- *Distroia*: `Exact title/artist matched with release metadata variance: album requested "Live04" but Spotify returned "Niun Niggung"; release date requested "2005" but Spotify returned "1999-01-01"`
+- *Düül*: `Exact title/artist matched with release metadata variance: release date requested "2006" but Spotify returned "2006-09-12"`
+- *Extending the Plastisphere to GJ237b*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-03-15"`
+
+**Independent inspiration:** all three selected exact tracks remain genuinely interesting and are approved for the target-local discovery pool and doctrine-free global utility ledger. The five resolved alternates remain unevaluated and are not utility additions. The unresolved identity remains a research lead only. Concrete set direction: let tracks that complete their own mutation stand alone; place them only where the successor receives a genuinely new task.
+
+**Auditor:** APPROVED. The request and snapshot match; selected identities alone received canonical evaluation; all four required dimensions are explicit per candidate; hard turns were allowed; no metadata-only sonic inference, protected-state breach, stale data reuse, publication overclaim or utility-ledger overreach occurred. No canonical ledger or annotation change is authorized. Global utility additions are authorized only for the three selected exact identities.
+
+**Run analysis:** `~56 inspected → 9 leads → 8 exact resolutions + 1 unresolved → 3 evaluations + 5 alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion: 16.1%; lead-to-resolution conversion: 88.9%; selected-candidate-to-ADD conversion: 0/3. Across completed discovery Runs 87–165, excluding documentation/process repairs and failed Run 164: 663 leads from approximately 3,745 inspections; 31 ADDs from 204 selected candidates. The recent comparable completed-discovery ADD rate remains 4/10. The musical no-ADD streak is one completed discovery run since Run 161, with three exact interesting tracks retained during it; this is not a stagnation signal.
+
+**Evidence boundary:** Audio analysis NOT TESTED. Live mixing NOT TESTED. No exact handoff, energy, density, space, phrase structure, mixability or playlist-completion claim is made.
+
 ## Run 161 — EXPLORE — acceleration as an orientation problem — 2026-09-11
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 45 unique canonical rows and a matching COMPLETE 45/45 Spotify receipt; EDITORIAL ENGINE — DISCOVERY POOL entered with 346 contiguous unique exact tracks and a matching COMPLETE 346/346 receipt. The generated journey map matched canonical order, the listener-protected `Transparency → When We Froze → Stardancer` order was intact at positions 38–40, no feedback discussion or TRIGGERED revisit was active, and no actionable objective defect existed. Automatic publishing was enabled.

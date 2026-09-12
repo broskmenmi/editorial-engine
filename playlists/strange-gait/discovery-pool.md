@@ -1,5 +1,16 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 165 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Mouse On Mars | DOG | https://open.spotify.com/track/1MxmwiRLaSAsenFRv5ljBv | Placement-specific REJECT only at the two tested boundaries; repetition that mutates until only a skeleton remains is genuinely interesting elsewhere. |
+| EXACT TRACK | Matmos | Polychords | https://open.spotify.com/track/6Eo38ZR9BzXFTa3ER1RarR | Placement-specific REJECT only at the two tested boundaries; stilted almost-techno formation remains genuinely interesting elsewhere. |
+| EXACT TRACK | ODAE | can it bleed | https://open.spotify.com/track/09kF88tshMr9Yis48ECsVc | Placement-specific REJECT only at the two tested boundaries; clipped, bitcrushed and fluctuating presentation remains genuinely interesting elsewhere. |
+| RESEARCH LEAD | Matmos | Silicone Gel Implant | https://pitchfork.com/reviews/albums/matmos-plastic-anniversary/ | Exact Spotify edition unresolved; preserve without verdict or utility addition. |
+| RELEASE WATCH | ODAE | MOIREMOIREMOIRE | https://ruairiobrien.bandcamp.com/album/moiremoiremoire | Current September 11, 2026 album remains a useful adjacent window beyond the selected exact track. |
+| CATALOGUE WATCH | Mouse on Mars / Matmos | mutable repetition and constructed almost-techno | https://pitchfork.com/reviews/albums/17274-wow/ · https://pitchfork.com/reviews/albums/11492-supreme-balloon/ | Overlooked catalogue window for forms that complete or destabilize their own motion. |
+
 ## Run 161 harvest — 2026-09-11
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

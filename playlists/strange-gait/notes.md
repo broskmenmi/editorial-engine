@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 165 — EXPLORE — self-transformation versus downstream work
+
+Mouse On Mars — *DOG* (`spotify:track:1MxmwiRLaSAsenFRv5ljBv`), Matmos — *Polychords* (`spotify:track:6Eo38ZR9BzXFTa3ER1RarR`) and ODAE — *can it bleed* (`spotify:track:09kF88tshMr9Yis48ECsVc`) pass the STRANGE GAIT selection lens but are rejected only at their tested placements.
+
+*DOG* already mutates repetition until only a skeleton remains, so it duplicates transformation before *Truth in Noise* and inserts a complete mutation before *Trompe L'oeil*'s reset. *Polychords*' stilted almost-techno formation either partially performs *FELT*'s coming formation or imposes a grid before *Té de Cabello Blanco* must reassemble motion. *can it bleed*'s clipped, bitcrushed changes either mediate the direct electronic-to-live-band left turn into *Sarniezz* or create another reopening before *Can I live*.
+
+All three remain genuinely interesting outside those placements. No canonical ADD or reorder is approved. Auditor approves the scoped verdicts and inspiration retention; no actionable REPAIR emerges.
+
 ## Run 161 — EXPLORE — acceleration as an orientation problem
 
 Rian Treanor — *Hypnic Jerks* (`spotify:track:5diM5dnRKTuJaZ2CqzFwsu`) is added between *Worn Down* and *Tides Alternate*. Pitchfork documents the exact track starting at 180 BPM before its rubbery kicks accelerate into quadruple-time assault. The placement is intentionally conspicuous: after the existing rumble-to-weight threshold, explicit acceleration creates an orientation problem that the following opposed-speed balance can answer. Volume fit, transition-scale purpose, the surrounding five-track run and long-form proportionality pass provisionally. The alternative before *Sarniezz* is rejected because it preconditions the live-band metric left turn.

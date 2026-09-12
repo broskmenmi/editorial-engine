@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 165
+
+### Completed mutation should leave new work downstream
+
+**Direction:** Explore self-transforming tracks where the following selection must orient, consolidate or reassemble a state the candidate leaves unresolved; reject candidates whose internal arc already performs the successor's assigned transformation.
+
+**Ingredients:**
+
+- Mouse On Mars — *DOG* — exact placement-specific reject; repetition mutates until only a skeleton remains
+- Matmos — *Polychords* — exact placement-specific reject; stilted almost-techno formation
+- ODAE — *can it bleed* — exact placement-specific reject; clipped, bitcrushed, fluctuating presentation
+- Matmos — *Silicone Gel Implant* — unresolved identity retained only as a research lead
+
+This is a set direction, not a proven sequence or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 161
 
 ### Acceleration should create an orientation problem
