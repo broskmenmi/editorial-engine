@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 189
+
+### Let suspension become a consequence
+
+**Direction:** Use a sustained state after a rupture when the following widening makes that state legible across transition, local-run and long-form scales. Different production worlds may touch conspicuously; the sequence still needs an intentional before-and-after relation.
+
+**Ingredients:**
+
+- Luigi Tozzi — *Tender Is The Night* — exact Run 189 canonical ADD; current Non Series retrospective describes swirling drone logic
+- Lotic — *Carried* — canonical self-emptying rupture
+- Rene Wise — *Cave* — canonical widening move
+- Aiken — *Genetics* — exact placement-specific reject retained as a contrasting complete restraint-to-release arc
+
+**Why interesting:** Editorial hypothesis: a suspended interval can change the meaning of both its incoming rupture and outgoing widening, while a track that completes another build may over-articulate the same amount of sequence space.
+
+**Unknown / risk:** Exact handoffs, phrase structure, perceived pulse, energy, density, key and live mixability were not tested. These ingredients are not a proven DJ sequence outside the canonical placement.
+
 ## Current additions — Run 187
 
 ### Let exact identity remain uncertainty when track structure is undocumented

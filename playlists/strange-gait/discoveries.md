@@ -1,5 +1,72 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 189 — EXPLORE — suspension as consequence — 2026-09-12
+
+**runId:** `2026-09-12T19:50:04Z-explore-189`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 50 unique canonical tracks; the generated map matched the ledger; the protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 42–44; no live feedback discussion or TRIGGERED revisit existed; and the last exact publication receipts were COMPLETE. The normal lane was therefore EXPLORE.
+
+Approximately 62 named tracks, releases, compilations and catalogue cuts were inspected across Bandcamp Daily's September 9 electronic survey, linked official Sofia/Chicago/Pretoria/Miami pages, Non Series' current retrospective and overlooked catalogue, and adjacent recommendations. Run 187's field and persistent canonical/reject/revisit identities were excluded. Nine exact-title leads survived without padding.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request was written against sourceCommit `fa02bc3f3414b21668ab8c0210181b24230493dd`. The matching snapshot is internally valid and PARTIAL: **9 requested = 2 selected exact resolutions + 7 unresolved/duplicate leads**; 0 alternates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Aiken — *Genetics* — `spotify:track:0yJWRvfa9dY1uvkl1YPtS2` — 6:13.
+- Luigi Tozzi — *Tender Is The Night* — `spotify:track:42WjfDtnP5Ktt8GzpPAwkq` — 6:45.
+
+Warning preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: release date requested "2017-10-10" but Spotify returned "2017"`
+
+Every non-resolution is preserved without musical verdict:
+
+- KAY BE — *BARUT*: `already present in persistent state`
+- DJ Phil, HEAVEE — *House It Up*: `no exact Spotify title/artist search match in market SE`
+- South Beach Recycling — *Reset (Original Concept)*: `no exact Spotify title/artist search match in market SE`
+- Tee Illa & Nu Bantu Dialekt — *Pitori Jive*: `no exact Spotify title/artist search match in market SE`
+- KAY BE — *TORBALAN*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5SLouGaG9rJ9flJXanzV5Y, 5ETKopVcdbu4GIKmywdNCI)`
+- DJ Phil — *Feel For You*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6USP3cV6ins8IJLj3Qn9aL, 6EqJsmEyzGGXNnvn0bTDeq, 0KkUu9ARZ1t1jiIs3KkOpJ)`
+- DJ Phil — *WhyUBeingWeird*: `already present in persistent state`
+
+`BARUT` and `WhyUBeingWeird` were already present in persistent state from Runs 110 and 139. The duplicate guard worked as intended; neither was re-evaluated or re-added. The other five identities remain unresolved. Ambiguous matches were not guessed.
+
+### Candidate evaluation — Aiken — Genetics
+
+- **Volume fit:** PASS. Beatportal's current Non Series retrospective describes the exact title track as beginning minimal and taut before being let off the leash. That internal restraint-to-release movement fits the selection lens without relying on genre orthodoxy.
+- **Immediate transition:** FAIL for both tested placements. Between *Worn Down* and *Atlantis*, the track completes its own release before the established micro-repetition-to-continuum hinge. Between *backsliding* and *Mildew Swoosh*, it resets and releases after dissolution before the existing temporal-strain consequence.
+- **Surrounding three-to-five-track run:** FAIL for both tests. `Foundry → Worn Down → Genetics → Atlantis → Hypnic Jerks` stacks threshold, complete release, continuum and acceleration as successive self-contained stages. `Roxellana → backsliding → Genetics → Mildew Swoosh → Fragments` interrupts dissolution-to-strain with another full build.
+- **Long-form journey:** FAIL for the tested insertions. The problem is proportional over-articulation, not sonic difference, missing BPM or unknown mixability.
+- **Verdict:** placement-specific REJECT for the two Run 189 placements; retain as genuinely interesting.
+
+### Candidate evaluation — Luigi Tozzi — Tender Is The Night
+
+- **Volume fit:** PASS. The current Non Series retrospective identifies the exact track through swirling drone logic. Its sustained structural proposition fits the volume without needing to be weird, groove-novel or in one sonic room.
+- **Immediate transition:** provisional PASS at `Carried → candidate → Cave`. The conspicuous change from self-emptying rupture into a 6:45 drone proposition is intentional; the following widening gives that suspension a consequence. Exact handoffs remain UNKNOWN.
+- **Surrounding three-to-five-track run:** PASS. `Encasadelciegoeltuerco → Carried → Tender Is The Night → Cave → Abundance` reads as derailment → emptying → suspension → widening → swung continuation. The added state changes the passage rather than merely occupying it.
+- **Long-form journey:** PASS. The insertion creates an early held interval before later acceleration and fracture, adding temporal proportion without touching protected state or forcing one fixed macro-arc.
+- **Alternative placement:** REJECT at `Migration → candidate → Eyes of the Wind`; another 6:45 suspended world crowds the already articulated post-protected closing pivot.
+- **Verdict:** **ADD** between *Carried* and *Cave*. Phrase structure, perceived pulse, energy, density, exact endpoint and mixability remain UNKNOWN and are not presented as proven.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on runId, sourceCommit, mode and target. Only the two selected exact candidates were evaluated. All seven non-results and the exact warning are preserved. Both candidates received separate volume, immediate-transition, local-run and long-form judgments. UNKNOWN facts were not converted into vetoes or invented positives. The hard production-world change for *Tender Is The Night* passes because its suspension has a specific consequence at all three sequencing scales; *Genetics* fails for two proportional conflicts. The protected trio remains intact.
+
+### Durable result
+
+- STRANGE GAIT: **50 → 51 canonical tracks**; add Luigi Tozzi — *Tender Is The Night* at position 7.
+- Listener-protected sequence remains contiguous, now positions 43–45.
+- Target-local discovery and set-direction layers retain both exact candidates, all non-results and the current/adjacent/catalogue research windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **392 → 394 exact tracks**, adding *Genetics* and *Tender Is The Night*.
+- Journey annotations add the provisional swirling-drone suspension; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 62 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved/duplicate leads → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. Inspection-to-lead conversion is 14.5%; lead-to-resolution conversion is 22.2%; selected-candidate-to-ADD conversion is 50.0%. Across completed discovery Runs 87–189, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **801 leads from approximately 4,709 inspections; 36 ADDs from 246 selected candidates**. The recent comparable ADD rate becomes **4/10**. Run 189 ends the four-completed-run no-ADD streak after Run 182. The exact-track evidence and differentiated outcomes show no systematic UNKNOWN veto; the two duplicate leads are a research-efficiency miss caught by the existing persistent-state guard, not a corrupted verdict or an actionable workflow defect.
+
 ## Run 188 — REPAIR — utility-ledger table continuity — 2026-09-12
 
 **Trigger:** The first Run 187 publication pass failed closed with `Ledger contains a track row after table termination on row 397.` The immutable editorial result had inserted a blank line between rows 389 and 390, so no 392-track Spotify publication was claimed.

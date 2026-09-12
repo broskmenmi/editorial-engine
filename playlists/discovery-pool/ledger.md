@@ -396,6 +396,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 390 | Koinen | Magic Plastic | spotify:track:3rP4zLIPhxX5uLzynDbrTa | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
 | 391 | Koinen | Creep On I-25 | spotify:track:19s4s5hgWRv3tRpilPUnBQ | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
 | 392 | Koinen | CPU (Create! Persevere! Uplift!) | spotify:track:5OdS9O8dTk39pK7pvqCuNw | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
+| 393 | Aiken | Genetics | spotify:track:0yJWRvfa9dY1uvkl1YPtS2 | STRANGE GAIT Run 189 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 394 | Luigi Tozzi | Tender Is The Night | spotify:track:42WjfDtnP5Ktt8GzpPAwkq | STRANGE GAIT Run 189 | Canonical ADD / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

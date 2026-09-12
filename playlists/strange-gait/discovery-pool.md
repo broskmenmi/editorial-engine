@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 189 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / ADD | Luigi Tozzi | Tender Is The Night | `spotify:track:42WjfDtnP5Ktt8GzpPAwkq` · https://open.spotify.com/track/42WjfDtnP5Ktt8GzpPAwkq · https://www.beatportal.com/articles/1595811-label-of-the-month-non-series | Canonical ADD between *Carried* and *Cave*; current retrospective describes swirling drone logic. Alternate closing placement rejected. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Aiken | Genetics | `spotify:track:0yJWRvfa9dY1uvkl1YPtS2` · https://open.spotify.com/track/0yJWRvfa9dY1uvkl1YPtS2 · https://nonseries.bandcamp.com/album/genetics | Exact 6:13 identity; rejected only before *Atlantis* and before *Mildew Swoosh*. Remains interesting and added globally. |
+| DUPLICATE LEADS | KAY BE; DJ Phil | BARUT; WhyUBeingWeird | `spotify:track:6Y6HaqCzXpjefNcSlhNaxE`; `spotify:track:5vxjfs5qSktAZHLW1RhDoY` | Resolver returned `already present in persistent state`; no Run 189 evaluation or utility re-addition. |
+| UNRESOLVED LEADS | DJ Phil, HEAVEE; South Beach Recycling; Tee Illa & Nu Bantu Dialekt | House It Up; Reset (Original Concept); Pitori Jive | https://djphil.bandcamp.com/album/mtxlt901-roll-wit-me-ep · https://southbeachrecycling.bandcamp.com/album/reset · https://teeillasound.bandcamp.com/track/pitori-jive | Exact-title current leads; each returned no exact Spotify title/artist match in market SE. No verdict or utility entry. |
+| AMBIGUOUS LEADS | KAY BE; DJ Phil | TORBALAN; Feel For You | https://kaybe.bandcamp.com/album/erbap · https://djphil.bandcamp.com/album/mtxlt901-roll-wit-me-ep | Resolver returned multiple exact-title/artist matches not disambiguated by requested release metadata. No identity was guessed. |
+| RELEASE / LABEL WATCH | Bandcamp Daily; KAY BE; DJ Phil; Tee Illa; South Beach Recycling; Non Series | August 2026 electronic field; ERBAP; Roll Wit Me EP; Pitori Jive; Reset; Non Series catalogue | https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026 · official sources above | Current Sofia, Chicago, Pretoria and Miami material plus an overlooked Spanish-label catalogue window. |
+
+### Placement and inspiration boundaries
+
+- *Tender Is The Night* is a provisional canonical suspension, not a proven mix edge.
+- *Genetics* is rejected only at the two tested placements; it is not globally incompatible.
+- Duplicate, unresolved and ambiguous leads received no new musical verdict.
+- No BPM, phrase fit, energy, density, key or mixability was inferred.
+
 ## Run 187 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

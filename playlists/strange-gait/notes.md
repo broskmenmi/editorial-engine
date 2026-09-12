@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 189 — EXPLORE — suspension as consequence
+
+Pre-audit was clean, so the lane remained EXPLORE. Approximately 62 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is PARTIAL: two selected exact resolutions and seven unresolved/duplicate leads, with one packaging warning and no alternates, substitutions, relinkings or technical failures.
+
+**Decision:** ADD Luigi Tozzi — *Tender Is The Night* (`spotify:track:42WjfDtnP5Ktt8GzpPAwkq`) between *Carried* and *Cave*. The exact 6:45 identity and current Non Series description of swirling drone logic support a deliberate suspended interval. `Encasadelciegoeltuerco → Carried → Tender Is The Night → Cave → Abundance` gains a readable emptying → suspension → widening consequence at transition, local-run and long-form scales. Exact handoffs, phrase structure, perceived pulse, energy and mixability remain unknown.
+
+Aiken — *Genetics* (`spotify:track:0yJWRvfa9dY1uvkl1YPtS2`) is rejected only between *Worn Down* and *Atlantis* and between *backsliding* and *Mildew Swoosh*. Its documented minimal/taut-to-released arc passes the selection lens but completes another build where each passage already has a clear consequence. *Tender Is The Night* is separately rejected between *Migration* and *Eyes of the Wind* because another extended suspended world crowds the closing pivot.
+
+Resolver warning preserved: `Exact title/artist matched with release metadata variance: release date requested "2017-10-10" but Spotify returned "2017"`. `BARUT` and `WhyUBeingWeird` were duplicate persistent identities and were not re-evaluated; five other titles remain unresolved or ambiguous without verdict.
+
+STRANGE GAIT becomes 51 tracks. The protected trio remains contiguous at positions 43–45. The global utility ledger becomes 394 tracks by retaining both exact selected candidates. Audio and live mixing were not tested.
+
+Run 189: `~62 inspected → 9 leads → 2 exact resolutions + 7 unresolved/duplicate → 2 evaluations → 1 ADD + 1 placement-specific REJECT → 2 utility additions`. Across completed Runs 87–189: 801 leads / ~4,709 inspections / 36 ADDs / 246 selected candidates. Recent comparable ADD rate: 4/10. The four-run no-ADD streak ends. No actionable REPAIR emerges.
+
 ## Run 188 — REPAIR — utility-ledger table continuity
 
 Run 187's first utility publication failed closed because a blank line separated row 389 from rows 390–392. The parser guard correctly refused to publish a truncated table. This repair restores one contiguous 392-row ledger; no musical verdict, canonical order, protected state or target-local inspiration record changes.
