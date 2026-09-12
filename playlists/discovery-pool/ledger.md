@@ -394,6 +394,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 388 | Jerical | Airwaves | spotify:track:4vzj6ucrNaH4zNTxMehDNK | STRANGE GAIT Run 186 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 389 | Benjamin Damage | Starfield | spotify:track:6si85UBbdmObmkMjwnvs5Y | STRANGE GAIT Run 186 | Placement-specific REJECT / interesting | 2026-09-12 |
 
+| 390 | Koinen | Magic Plastic | spotify:track:3rP4zLIPhxX5uLzynDbrTa | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
+| 391 | Koinen | Creep On I-25 | spotify:track:19s4s5hgWRv3tRpilPUnBQ | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
+| 392 | Koinen | CPU (Create! Persevere! Uplift!) | spotify:track:5OdS9O8dTk39pK7pvqCuNw | STRANGE GAIT Run 187 | PARKED / interesting | 2026-09-12 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.

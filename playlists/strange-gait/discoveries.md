@@ -1,5 +1,63 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 187 — EXPLORE — identity without invented structure — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 389 contiguous unique tracks and a COMPLETE 389/389 receipt. No objective repair was actionable.
+
+**Exploration:** Approximately 60 current releases, adjacent/emerging artists and labels, and overlooked catalogue cuts were inspected across Resident Advisor's September 11 announcement, 999RECORDS999's September 9 debut compilation, Dedicated Floor and the Koinen catalogue. Prior-run and persistent identities were excluded; nine honest leads survived.
+
+**Run:** `2026-09-12T18:48:20Z-explore-187`; source `4b89bc163ecd4228b6de89d6df4946effd2146b3`; request `67aa32b002963ae6e53f5fe9779f79a2e860815e`; snapshot `cffc1e0cbaac1f634164855559d200fe3215aa9f`; fingerprint `3e9394ca3efd1555979d7955c4077169b58deb47f646220f1d52654d340c47d3`. The matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: 9 requested, 3 exact selected resolutions and 6 unresolved identities; no warnings, alternates, duplicates, substitutions, relinkings or technical failures.
+
+### Canonical evaluations
+
+#### Koinen — Magic Plastic — PARKED / retained discovery
+
+- **Identity:** `spotify:track:3rP4zLIPhxX5uLzynDbrTa`; 8:03; Spotify album `Moth, Flame, and the Magic Plastic`; 2025-01-01.
+- **Volume fit:** provisional PASS. The official page places the exact identity on a release tagged across breaks, footwork, hard drum, juke, IDM and deconstructed club, but does not describe the track individually.
+- **Immediate transition:** PARKED at `Worn Down → candidate → Atlantis`. The exact direction, endpoint and both handoffs are unknown, so the evidence cannot distinguish a purposeful long-form threshold from an overextended one.
+- **Three-to-five-track run:** PARKED for `Foundry → Worn Down → candidate → Atlantis → Hypnic Jerks`; an eight-minute insertion is materially consequential, but duration does not reveal its effect.
+- **Long form:** plausible selection-lens fit; net journey gain is not proven.
+- **Verdict:** PARK the Worn Down/Atlantis placement. REJECT only `Nukumori → candidate → Rabbit Hole`, where another 8:03 stage would delay the established flare-to-descent relation without track-specific connective evidence. Retain as genuinely interesting.
+
+#### Koinen — Creep On I-25 — PARKED / retained discovery
+
+- **Identity:** `spotify:track:19s4s5hgWRv3tRpilPUnBQ`; 4:24; Spotify album `Moth, Flame, and the Magic Plastic`; 2025-01-01.
+- **Volume fit:** provisional PASS from exact identity plus release-level post-club context; individual materials and form remain unknown.
+- **Immediate transition:** PARKED at `Cave → candidate → Abundance`. The placement could change widening-to-swing or insert an unrelated proposition; the source cannot distinguish those outcomes.
+- **Three-to-five-track run:** PARKED for `Carried → Cave → candidate → Abundance → Foundry`; no track-specific direction or endpoint establishes development or redundancy.
+- **Long form:** possible adjacent-language value; not proven at journey scale.
+- **Verdict:** PARK the Cave/Abundance placement. REJECT only `Style Teef → candidate → Same Way`, where an undescribed extra stage lacks evidence of a consequence before the already articulated protected approach. Retain as genuinely interesting.
+
+#### Koinen — CPU (Create! Persevere! Uplift!) — PARKED / retained discovery
+
+- **Identity:** `spotify:track:5OdS9O8dTk39pK7pvqCuNw`; 3:19; Spotify album `Moth, Flame, and the Magic Plastic`; 2025-01-01.
+- **Volume fit:** provisional PASS from exact identity plus release context; title and tags are not used to invent behavior.
+- **Immediate transition:** PARKED at `Trompe L'oeil → candidate → FELT`. A concise intervention could alter reset-to-formation, but individual rhythm, direction and endpoint are undocumented.
+- **Three-to-five-track run:** PARKED for `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle`; the available evidence does not show whether the candidate develops or delays formation.
+- **Long form:** proportionally plausible because of its 3:19 duration, but duration alone cannot prove a journey function.
+- **Verdict:** PARK the Trompe L'oeil/FELT placement. REJECT only `Sarniezz → candidate → Never Met`, where an undescribed intermediary would weaken the direct live-band-to-electronic return without evidence of a specific gain. Retain as genuinely interesting.
+
+Unresolved without verdict; each returned `no exact Spotify title/artist search match in market SE`:
+
+- Jaséda Galore — *Jefferson Ave*
+- JAYSWANN — *PLUTOPIA*
+- DreamTension — *The Dark Wizard*
+- SWAP MEET — *TRIPLE 9 MAFIA*
+- THE ARTIST ERICA — *THEORY OF C.U.T.E*
+- G L O W Z I — *IBOKONGO*
+
+### Auditor approval
+
+**APPROVED.** The lane is lawful and the fresh scan covers current, adjacent/emerging and overlooked catalogue windows. The immutable request and matching terminal snapshot reconcile every selected and unresolved identity. Only the three selected exact identities were evaluated, separately at volume, transition, local-run and long-form scales. Release tags and titles were not converted into sonic facts, and missing audio was treated as uncertainty rather than musical failure. Each alternate rejection rests on a specific existing passage and is not global. Protected state remains intact. Auditor approves zero canonical additions, three PARKED placements, three alternate placement rejections, local inspiration retention and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **50 tracks**; protected positions 42–44 remain intact.
+- EDITORIAL ENGINE — DISCOVERY POOL: **389 → 392**, adding *Magic Plastic*, *Creep On I-25* and *CPU (Create! Persevere! Uplift!)*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** ~60 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 selected evaluations → **0 ADD + 3 PARKED placements + 3 alternate placement rejections** → 3 utility additions. Inspection-to-lead conversion: **15.0%**; lead-to-resolution: **33.3%**; selected-to-ADD: **0/3**. Across completed discovery Runs 87–187, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **792 leads from approximately 4,647 inspections; 35 ADDs from 244 selected candidates**. The recent comparable ADD rate becomes **3/10**; the no-ADD streak is four completed runs after Run 182, retaining eleven exact interesting tracks. The result identifies an evidence-resolution bottleneck for these placements, not an actionable REPAIR or a musical zero result.
+
 ## Run 186 — EXPLORE — instability must alter the passage — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 386 contiguous unique tracks and a COMPLETE 386/386 receipt. No objective repair was actionable.

@@ -1,5 +1,14 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 187 — EXPLORE — identity without invented structure
+
+Pre-audit found no actionable REPAIR: 50 unique canonical tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, and valid receipts.
+
+The fresh current/adjacent/catalogue scan produced nine leads. Its valid PARTIAL snapshot selected three exact Koinen identities and preserved six current-compilation Spotify-SE misses with no warnings, alternates, duplicates, substitutions, relinkings or technical failures.
+
+All three pass the selection lens only provisionally at release level. *Magic Plastic* is PARKED between *Worn Down* and *Atlantis*; *Creep On I-25* between *Cave* and *Abundance*; *CPU (Create! Persevere! Uplift!)* between *Trompe L'oeil* and *FELT*. Their weaker alternate placements are scoped rejections. STRANGE GAIT remains 50 tracks; the utility ledger retains all three. No actionable REPAIR emerges. Audio analysis and live mixing are NOT TESTED.
+
+
 ## Run 186 — EXPLORE — instability must alter the passage
 
 Pre-audit found no actionable REPAIR: 50 unique canonical tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, and valid receipts.

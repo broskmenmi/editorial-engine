@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 187
+
+### Let exact identity remain uncertainty when track structure is undocumented
+
+**Direction:** Use broad current and catalogue contexts to find exact candidates, then preserve the gap between release-level belonging and track-specific sequence consequence. Park the strongest lawful boundary when form and endpoint are still unknown; reject only alternate placements with a concrete proportional conflict.
+
+**Ingredients:**
+
+- Koinen — *Magic Plastic*, *Creep On I-25*, *CPU (Create! Persevere! Uplift!)* — exact PARKED tracks retained as interesting
+- 999RECORDS999 — *TRANSMISSION 999 VOL.1* — current Black electronic compilation window with six unresolved leads
+- Dedicated Floor — continuous-side DJ-mix context, not a discrete-track publication lead
+
+**Why interesting:** A track may be exactly identified and adjacent to the volume's selection lens while its actual transition and long-form effects remain unknown. That gap is useful evidence, not a reason to invent form or force a verdict.
+
+**Unknown / risk:** This is not a proven sequence or live-mixing edge. Three placements are parked, three alternates are rejected and six identities remain unresolved. Individual form, endpoints, handoffs, phrase fit, pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
+
 ## Current additions — Run 186
 
 ### Let instability alter the passage, not merely repeat it

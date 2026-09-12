@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 187 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Koinen | Magic Plastic | `spotify:track:3rP4zLIPhxX5uLzynDbrTa` · https://open.spotify.com/track/3rP4zLIPhxX5uLzynDbrTa · https://koinen.bandcamp.com/album/moth-flame-and-the-magic-plastic | Exact 8:03 identity; PARKED only at *Worn Down → Atlantis*. Alternate before *Rabbit Hole* rejected. Added globally. |
+| EXACT TRACK / PARKED | Koinen | Creep On I-25 | `spotify:track:19s4s5hgWRv3tRpilPUnBQ` · https://open.spotify.com/track/19s4s5hgWRv3tRpilPUnBQ · source above | Exact 4:24 identity; PARKED only at *Cave → Abundance*. Alternate before *Same Way* rejected. Added globally. |
+| EXACT TRACK / PARKED | Koinen | CPU (Create! Persevere! Uplift!) | `spotify:track:5OdS9O8dTk39pK7pvqCuNw` · https://open.spotify.com/track/5OdS9O8dTk39pK7pvqCuNw · source above | Exact 3:19 identity; PARKED only at *Trompe L'oeil → FELT*. Alternate before *Never Met* rejected. Added globally. |
+| RESEARCH LEADS | Jaséda Galore; JAYSWANN; DreamTension | Jefferson Ave; PLUTOPIA; The Dark Wizard | https://999records9999.bandcamp.com/album/transmission-999-vol-1 | Exact-title current-compilation leads; all returned Spotify-SE no matches and received no verdict. |
+| RESEARCH LEADS | SWAP MEET; THE ARTIST ERICA; G L O W Z I | TRIPLE 9 MAFIA; THEORY OF C.U.T.E; IBOKONGO | source above | Exact-title current-compilation leads; all returned Spotify-SE no matches and received no verdict. |
+| RELEASE / LABEL WATCH | 999RECORDS999; Dedicated Floor; Koinen | TRANSMISSION 999 VOL.1; BASSLINE; Moth, Flame, and the Magic Plastic | https://ra.co/news/86010 · https://999records9999.bandcamp.com/album/transmission-999-vol-1 · https://dedicatedfloor.bandcamp.com/ · https://koinen.bandcamp.com/album/moth-flame-and-the-magic-plastic | Current Black electronic compilation/label field, continuous DJ-mix context and overlooked post-club catalogue. Continuous-side releases were not submitted as discrete identities. |
+
+### Placement and inspiration boundaries
+
+- All three selected exact identities are PARKED at one concrete placement and placement-specifically rejected at one alternate; none is globally rejected.
+- Six unresolved identities received no verdict or utility entry.
+- Release tags are context only. Individual rhythm, direction, endpoint, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior remain unknown.
+
+
 ## Run 186 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
