@@ -1,96 +1,96 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-12T09:56:48Z-explore-173",
-  "sourceCommit": "c7a2fcf43580b6e6203f4cf19e143224886f7fb0",
+  "runId": "2026-09-12T10:48:38Z-explore-174",
+  "sourceCommit": "8d52fd1eb962399c5921c5055159b95431caedab",
   "target": "playlists/strange-gait/",
   "mode": "EXPLORE",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T09:56:48Z",
-    "approximateInspectedScope": "Approximately 59 named tracks, releases and catalogue cuts across September 9–12, 2026 current electronic coverage, Blawan's current XL return, overlooked SickElixir and Woke Up Right Handed exact-track criticism, adjacent Karenn catalogue, Bandcamp Daily's August-electronic survey, the emerging Mossacre release, and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
+    "timestampUtc": "2026-09-12T10:48:38Z",
+    "approximateInspectedScope": "Approximately 60 named tracks, releases and catalogue cuts across September 2026 current electronic coverage, Bandcamp Daily's August 28 New Orleans house scene report, KILOBAUUD's 2026 YAKAMEIN, lil_art_hoe's Tarocco Singles Club entry, whoisgeno's current Southern-club singles, SIISKO's bounce/soca hybrid, Pu22L3's prepared-piano reconstruction and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: The Quietus' September 9, 2026 report on Blawan's Gi Mi Keys Back / Auto Fake supplied current title, release context and the lead track's availability. https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/",
-      "OVERLOOKED CATALOGUE WINDOW: Pitchfork, The Quietus, The Fader and DJ Mag exact-track criticism for SickElixir and Woke Up Right Handed supplied candidate-specific structural descriptions. https://pitchfork.com/reviews/albums/blawan-sickelixir/",
-      "ADJACENT WINDOW: Pitchfork's Grapefruit Regret review supplied an exact Karenn track lead within groove-oriented hardware techno. https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/",
-      "EMERGING WINDOW: Bandcamp Daily's September 9, 2026 electronic survey and Mossacre's official August 21 release page supplied an emerging outsider-electronic lead. https://mossacre.bandcamp.com/album/scaping"
+      "CURRENT SCENE WINDOW: Bandcamp Daily's August 28, 2026 New Orleans house report supplied exact tracks and an emerging field connecting local bounce with house, techno, Jersey, Baltimore and Southern club languages. https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report",
+      "CURRENT RELEASE WINDOW: whoisgeno's official September 4, 2026 REVERSE COWGIRL page and August 7 PLZ STAY // BOP LIKE THI$ release supplied recent exact adjacent-field leads. https://whoisgeno.bandcamp.com/track/reverse-cowgirl",
+      "EMERGING WINDOW: KILOBAUUD's official March 27, 2026 YAKAMEIN page and lil_art_hoe's January 23 Tarocco Singles Club release supplied exact emerging identities and attributed release-level craft evidence. https://kilobauud.bandcamp.com/album/yakamein",
+      "OVERLOOKED/ADJACENT WINDOW: SIISKO's June 2026 soca/bounce hybrid and Pu22L3's February 2026 prepared-piano reinterpretation extended the scan beyond one production world. https://siisko.bandcamp.com/track/chillin-en-la-playa-siisko"
     ],
     "exclusions": [
-      "Runs 165–172 selected, alternate, unresolved and source ecosystems were not recycled.",
-      "Previously handled Blawan collaboration Thistle remained unresolved and was not retried without materially new identity evidence.",
-      "Canonical identities, active placement-specific rejects, untriggered PARKED revisits and exact tracks already in the global utility ledger were excluded.",
-      "Nine honest leads survived; the artist concentration reflects the strongest exact-track evidence, not a quota or one-room rule.",
-      "All proposed placement URIs were derived from the current 48-track ledger and verified as adjacent before this request was written.",
+      "Runs 165–173 selected, alternate, unresolved and source ecosystems were not recycled.",
+      "Previously handled canonical identities, active placement-specific rejects, untriggered PARKED revisits and exact tracks already in the global utility ledger were excluded.",
+      "Nine honest leads survived; field concentration reflects one newly documented scene window, not an artist, genre, texture or one-room quota.",
+      "All proposed placement URIs were derived from the current 49-track ledger and verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Blawan — Style Teef",
-      "2. Blawan — The GL Lights",
-      "3. Blawan — NOS",
-      "4. Blawan — Gi Mi Keys Back",
-      "5. Blawan — Casch",
-      "6. Blawan — WTF",
-      "7. Blawan — Under Belly",
-      "8. Karenn — Lemon Dribble",
-      "9. Mossacre — Assignment Modulation (Instrumental)"
+      "1. lil_art_hoe — Gone",
+      "2. whoisgeno — YOU <3",
+      "3. SIISKO — Chillin En La Playa - Siisko",
+      "4. KILOBAUUD — BACKATOWN",
+      "5. whoisgeno — REVERSE COWGIRL",
+      "6. lil_art_hoe — A Lot of Talk",
+      "7. KILOBAUUD — SLUGGED UP",
+      "8. Pu22L3 — Ninakaw Na Tunog Remix",
+      "9. whoisgeno — BOP LIKE THI$"
     ]
   },
   "leads": [
     {
-      "artist": "Blawan",
-      "track": "Style Teef",
-      "album": "SickElixir",
-      "releaseDate": "2025-10-10",
+      "artist": "lil_art_hoe",
+      "track": "Gone",
+      "album": "Tarocco Singles Club No.5",
+      "releaseDate": "2026-01-23",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.thefader.com/2025/10/10/blawan-sickelixir-review",
-      "fitHypothesis": "The Fader describes the exact track as starting from a classic Detroit-techno drum line and becoming increasingly elusive and frazzled.",
+      "discoverySource": "https://lilarthoe.bandcamp.com/album/tarocco-singles-club-no-5",
+      "fitHypothesis": "The official release notes describe the exact track through haunting vocal samples, a non-standard kick/snare pattern, acid bass and wordless melodies.",
       "evidence": {
-        "attributedDescription": "The Fader describes the exact track as starting from a classic Detroit-techno drum line and becoming increasingly elusive and frazzled.",
+        "attributedDescription": "The official release notes describe the exact track through haunting vocal samples, a non-standard kick/snare pattern, acid bass and wordless melodies.",
         "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a documented change from legible drum line to frazzled elusiveness creates useful reorientation rather than another self-contained mutation.",
+        "editorialInterpretation": "Test whether the documented rhythmic complication can make a production-world change deliberate rather than merely inserting another complete groove.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 5:08."
         ]
       },
       "proposedPlacements": [
         {
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether legible-to-frazzled motion changes the consolidation-to-alternating-pressure relation."
+          "purpose": "Test whether the non-standard acid construction clarifies or mediates the return from the live-band metric left turn."
         },
         {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "position": "Between Can I live and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the frazzled turn gives the following reassembly a distinct task or merely extends instability."
+          "purpose": "Test whether the complicated groove develops the final reopening or delays restrained re-entry."
         }
       ]
     },
     {
-      "artist": "Blawan",
-      "track": "The GL Lights",
-      "album": "SickElixir",
-      "releaseDate": "2025-10-10",
+      "artist": "whoisgeno",
+      "track": "YOU <3",
+      "album": "YOU <3",
+      "releaseDate": "2026-06-05",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/blawan-sickelixir/",
-      "fitHypothesis": "Pitchfork describes the exact opener through lurching vocal cadence and controlled chaos, with techno extracted from mechanized grit through sharp edges and switchbacks until the frame contorts into a new picture.",
+      "discoverySource": "https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report",
+      "fitHypothesis": "Bandcamp Daily identifies the exact track as an exceptionally fun style-clash of southern club flows.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact opener through lurching vocal cadence and controlled chaos, with techno extracted from mechanized grit through sharp edges and switchbacks until the frame contorts into a new picture.",
+        "attributedDescription": "Bandcamp Daily identifies the exact track as an exceptionally fun style-clash of southern club flows.",
         "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a complete contortion can function as deliberate character change without being admitted for spectacle alone.",
+        "editorialInterpretation": "Test a documented style clash as a deliberate character move without inferring its energy, density, form or handoffs.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -99,40 +99,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the contorted frame sharpens the coming live-band left turn or mediates it."
+          "purpose": "Test whether the southern-club style clash makes the abstract-rhythmic re-entry into reopening purposeful or adds an unsupported stage."
         },
         {
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether controlled chaos productively changes the late piano-to-break pivot or overloads the closing corridor."
+          "purpose": "Test whether the style clash develops or mediates the direct production-world return."
         }
       ]
     },
     {
-      "artist": "Blawan",
-      "track": "NOS",
-      "album": "SickElixir",
-      "releaseDate": "2025-10-10",
+      "artist": "SIISKO",
+      "track": "Chillin En La Playa - Siisko",
+      "album": "Chillin En La Playa - Siisko",
+      "releaseDate": "2026-06-14",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/sickelixir-blawan-review/",
-      "fitHypothesis": "The Quietus describes the exact track through furious burnt-edge basslines and blasts of distorted melody, likening its nightclub effect to a hostile takeover.",
+      "discoverySource": "https://daily.bandcamp.com/scene-report/new-orleans-house-scene-report",
+      "fitHypothesis": "Bandcamp Daily describes the exact track as a hybrid of modern soca and classic New Orleans bounce.",
       "evidence": {
-        "attributedDescription": "The Quietus describes the exact track through furious burnt-edge basslines and blasts of distorted melody, likening its nightclub effect to a hostile takeover.",
+        "attributedDescription": "Bandcamp Daily describes the exact track as a hybrid of modern soca and classic New Orleans bounce.",
         "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test conspicuous force by transition, local-run and long-form proportionality rather than treating impact as sufficient.",
+        "editorialInterpretation": "Test whether a documented hybrid creates a legible left turn across three sequencing scales without treating hybridity as sufficient.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -140,15 +140,6 @@
         ]
       },
       "proposedPlacements": [
-        {
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the hostile-takeover force changes the hinge into Drummz or creates another force stage."
-        },
         {
           "position": "Between Same Way and U Belong 2 Me",
           "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
@@ -156,29 +147,39 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the bass-and-melody assault gives U Belong 2 Me a meaningful threshold or crowds it."
+          "purpose": "Test whether the soca-bounce hybrid changes the pressure-to-threshold relation or merely inserts a new groove."
+        },
+        {
+          "position": "Between Nukumori and Rabbit Hole",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the hybrid makes the descent-to-abstract-rhythmic re-entry feel intentionally changed in character."
         }
       ]
     },
     {
-      "artist": "Blawan",
-      "track": "Gi Mi Keys Back",
-      "album": "Gi Mi Keys Back / Auto Fake",
-      "releaseDate": "2026-09-09",
+      "artist": "KILOBAUUD",
+      "track": "BACKATOWN",
+      "album": "YAKAMEIN",
+      "releaseDate": "2026-03-27",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://thequietus.com/news/blawan-reveals-new-two-track-ep-for-xl-recordings/",
-      "fitHypothesis": "The Quietus identifies the exact current lead track within Blawan's mischievous modular-techno language and a renewed dancefloor-directed excursion; it does not document the individual track's internal form.",
+      "discoverySource": "https://kilobauud.bandcamp.com/album/yakamein",
+      "fitHypothesis": "KILOBAUUD's official release page verifies the exact track within a bass-heavy, fast and raw Southern club album built from techno, Baltimore club, Jersey club and New Orleans bounce; it does not document the track's individual form.",
       "evidence": {
-        "attributedDescription": "The Quietus identifies the exact current lead track within Blawan's mischievous modular-techno language and a renewed dancefloor-directed excursion; it does not document the individual track's internal form.",
+        "attributedDescription": "KILOBAUUD's official release page verifies the exact track within a bass-heavy, fast and raw Southern club album built from techno, Baltimore club, Jersey club and New Orleans bounce; it does not document the track's individual form.",
         "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the current exact identity while keeping structure, endpoint and handoffs explicitly unknown.",
+        "editorialInterpretation": "Resolve the exact identity while keeping its structure, endpoint and handoffs explicitly unknown.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 3:27."
         ]
       },
       "proposedPlacements": [
@@ -189,217 +190,7 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the current dancefloor excursion clarifies or weakens the cold-open rupture into assembly."
-        },
-        {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a modular-techno character turn changes the pressure-to-threshold passage."
-        }
-      ]
-    },
-    {
-      "artist": "Blawan",
-      "track": "Casch",
-      "album": "SickElixir",
-      "releaseDate": "2025-10-10",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://thequietus.com/quietus-reviews/album-of-the-week/sickelixir-blawan-review/",
-      "fitHypothesis": "The Quietus describes the exact industrial-techno track as peppering inherited rhythmic machinery with clicks, ticks, pops, whirrs, buzzes, clangs and mechanised violence.",
-      "evidence": {
-        "attributedDescription": "The Quietus describes the exact industrial-techno track as peppering inherited rhythmic machinery with clicks, ticks, pops, whirrs, buzzes, clangs and mechanised violence.",
-        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether the documented additions create a distinct structural consequence rather than merely a compelling surface.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether mechanised punctuation changes the transition from formation into weight-shifted dub motion."
-        },
-        {
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the industrial construction alters the formation-to-deformation run or adds another formed stage."
-        }
-      ]
-    },
-    {
-      "artist": "Blawan",
-      "track": "WTF",
-      "album": "SickElixir",
-      "releaseDate": "2025-10-10",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://djmag.com/reviews/blawan-sickelixir",
-      "fitHypothesis": "DJ Mag describes the exact track as mutant electro with a funkier undercurrent capable of moving bodies in a conventional dancefloor setting.",
-      "evidence": {
-        "attributedDescription": "DJ Mag describes the exact track as mutant electro with a funkier undercurrent capable of moving bodies in a conventional dancefloor setting.",
-        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test rhythmic mutation without equating funk or bodily usefulness with sequence fit.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether mutant electro changes the local pressure relation or repeats a complete groove proposition."
-        },
-        {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the electro turn makes the following weight shift deliberate or merely changes genre."
-        }
-      ]
-    },
-    {
-      "artist": "Blawan",
-      "track": "Under Belly",
-      "album": "Woke Up Right Handed",
-      "releaseDate": "2021",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/blawan-woke-up-right-handed-ep/",
-      "fitHypothesis": "Pitchfork identifies the exact track through chaotic, unpredictable rhythms and a volcanic bassline, presenting it as the EP's most radical break from dancefloor norms.",
-      "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track through chaotic, unpredictable rhythms and a volcanic bassline, presenting it as the EP's most radical break from dancefloor norms.",
-        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether radical unpredictability makes a left turn legible across three scales rather than earning admission through novelty.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether chaos sharpens the existing acceleration-to-orientation relation or overloads it."
-        },
-        {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether volcanic unpredictability gives reassembly a changed task or merely compounds instability."
-        }
-      ]
-    },
-    {
-      "artist": "Karenn",
-      "track": "Lemon Dribble",
-      "album": "Grapefruit Regret",
-      "releaseDate": "2019",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/karenn-grapefruit-regret/",
-      "fitHypothesis": "Pitchfork cites the exact track as part of Karenn's funkier, lighter and more groove-oriented side within a direct hardware techno record.",
-      "evidence": {
-        "attributedDescription": "Pitchfork cites the exact track as part of Karenn's funkier, lighter and more groove-oriented side within a direct hardware techno record.",
-        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve an adjacent exact identity and test a character change without inferring structure, energy or handoff quality.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the lighter groove changes the consolidation-to-pressure run or simply inserts contrast."
-        },
-        {
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the groove-oriented turn develops or delays the current formation-to-deformation passage."
-        }
-      ]
-    },
-    {
-      "artist": "Mossacre",
-      "track": "Assignment Modulation (Instrumental)",
-      "album": "Scaping",
-      "releaseDate": "2026-08-21",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://mossacre.bandcamp.com/album/scaping",
-      "fitHypothesis": "Mossacre's official current release page verifies the exact 2:00 instrumental title and states that drum programming appears on the album; Bandcamp Daily describes the project as outsider electronic music using cheap keyboard drum machines, but supplies no exact-track structure.",
-      "evidence": {
-        "attributedDescription": "Mossacre's official current release page verifies the exact 2:00 instrumental title and states that drum programming appears on the album; Bandcamp Daily describes the project as outsider electronic music using cheap keyboard drum machines, but supplies no exact-track structure.",
-        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the emerging exact identity while keeping its individual rhythmic design and canonical belonging unproven.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
-        ]
-      },
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test a brief emerging-electronic interruption without presuming its production-world or rhythmic behaviour."
+          "purpose": "Test whether a Southern club character move clarifies or weakens the cold-open rupture into assembly."
         },
         {
           "position": "Between Migration and Eyes of the Wind",
@@ -408,7 +199,221 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a two-minute instrumental could articulate the late character pivot; exact form remains unknown."
+          "purpose": "Test whether the character change develops or crowds the late closing corridor."
+        }
+      ]
+    },
+    {
+      "artist": "whoisgeno",
+      "track": "REVERSE COWGIRL",
+      "album": "REVERSE COWGIRL",
+      "releaseDate": "2026-09-04",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://whoisgeno.bandcamp.com/track/reverse-cowgirl",
+      "fitHypothesis": "The official current release page verifies the exact title and frames it within Atlanta, Miami bass and Southern club contexts, but supplies no individual structural description.",
+      "evidence": {
+        "attributedDescription": "The official September 4 release page verifies the exact title and frames it within Atlanta, Miami bass and Southern club contexts, but supplies no individual structural description.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve a current adjacent-field identity without inferring its rhythmic design or canonical belonging.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test a current Southern-club identity at the abstract-rhythmic re-entry boundary while keeping exact behaviour unknown."
+        },
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a current bass-world turn changes or crowds the pressure-to-threshold passage."
+        }
+      ]
+    },
+    {
+      "artist": "lil_art_hoe",
+      "track": "A Lot of Talk",
+      "album": "Tarocco Singles Club No.5",
+      "releaseDate": "2026-01-23",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://lilarthoe.bandcamp.com/album/tarocco-singles-club-no-5",
+      "fitHypothesis": "The official release notes place the exact track in a leftfield dancefloor two-tracker built from earthy percussion, acid bass and groove complications, but do not isolate its individual form.",
+      "evidence": {
+        "attributedDescription": "The official release notes place the exact track in a leftfield dancefloor two-tracker built from earthy percussion, acid bass and groove complications, but do not isolate its individual form.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test belonging without transferring track-specific claims from its companion.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 5:14."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test the release's leftfield dancefloor frame at the direct live-band return boundary."
+        },
+        {
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether another groove complication develops or delays the formation-to-deformation passage."
+        }
+      ]
+    },
+    {
+      "artist": "KILOBAUUD",
+      "track": "SLUGGED UP",
+      "album": "YAKAMEIN",
+      "releaseDate": "2026-03-27",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://kilobauud.bandcamp.com/album/yakamein",
+      "fitHypothesis": "The official release page verifies the exact track within YAKAMEIN's raw multi-club-language frame, but supplies no track-specific structural description.",
+      "evidence": {
+        "attributedDescription": "The official release page verifies the exact track within YAKAMEIN's raw multi-club-language frame, but supplies no track-specific structural description.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity without inferring its form from album-level energy or genre context.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 3:58."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the current Southern-club frame changes the hinge into Drummz or adds another force stage."
+        },
+        {
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the club-language shift develops or crowds the late corridor."
+        }
+      ]
+    },
+    {
+      "artist": "Pu22L3",
+      "track": "Ninakaw Na Tunog Remix",
+      "album": "Ninakaw Na Tunog Remix Album",
+      "releaseDate": "2026-02-14",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://pu22l3.bandcamp.com/album/ninakaw-na-tunog-remix-album",
+      "fitHypothesis": "The official release page verifies a 29:59 reinterpretation of a prepared-piano work using samples, synthesizers and pitched gong frequencies, recorded in New Orleans.",
+      "evidence": {
+        "attributedDescription": "The official release page verifies a 29:59 reinterpretation of a prepared-piano work using samples, synthesizers and pitched gong frequencies, recorded in New Orleans.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve an extended reconstruction lead while treating duration and conceptual method as context rather than proof of sequence fit.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 29:59."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Migration",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the extended reconstruction can follow the protected block without displacing Migration's deliberate character pivot."
+        },
+        {
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the prepared-piano reinterpretation changes the transformation-to-consolidation passage or postpones it."
+        }
+      ]
+    },
+    {
+      "artist": "whoisgeno",
+      "track": "BOP LIKE THI$",
+      "album": "PLZ STAY // BOP LIKE THI$",
+      "releaseDate": "2026-08-07",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://whoisgeno.bandcamp.com/album/plz-stay-bop-like-thi",
+      "fitHypothesis": "The official release page verifies the exact recent title within whoisgeno's Atlanta club catalogue, but supplies no track-specific structural description.",
+      "evidence": {
+        "attributedDescription": "The official release page verifies the exact recent title within whoisgeno's Atlanta club catalogue, but supplies no track-specific structural description.",
+        "craftConvention": "Attributed exact-track or release criticism supports identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve a recent exact adjacent-field identity while keeping structure, endpoint and handoffs unknown.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver.",
+          "Official duration: 2:54."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Sawa and Stadium Drive",
+          "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a brief club intervention strengthens or weakens the cold-open rupture into assembly."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test a concise adjacent-field turn at the closing abstract-rhythmic re-entry boundary."
         }
       ]
     }
