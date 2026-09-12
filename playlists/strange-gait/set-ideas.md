@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 183
+
+### Let sampler reframing reveal a complete track arc without granting it sequence space
+
+**Direction:** Use current samplers and compilations to rediscover exact older structures, then judge the track's own complete arc against the live passage rather than treating reissue context, novelty or stylistic contrast as an admission argument.
+
+**Ingredients:**
+
+- Aquarian — *Kool Ranch FM* — exact placement-specific reject / interesting, `spotify:track:4d3JjEneDi1OlHZoj1KK8e`
+- Anthony Naples — *Perk* — exact placement-specific reject / interesting, `spotify:track:3vZSMAzBp0V9pyczvAmYBd`
+- TraTraTrax — *Los Totes Vol. 3* — current sampler/reframing window with three unresolved remixes
+- Meakusma / 666ridims — current odd-metre and speculative-club-form research window with four unresolved exact leads
+
+**Why interesting:** A sampler can make an older digital split newly legible. *Kool Ranch FM* and *Perk* each have a documented complete internal proposition, but that proposition still has to remain proportionate at transition, local-run and long-form scales.
+
+**Unknown / risk:** This is not a proven live sequence or mixing edge. Both candidates failed their tested placements; seven leads remain unresolved. Exact handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior remain unknown.
+
 ## Current additions — Run 182
 
 ### Let discrete repetition become a continuous hinge
@@ -9,7 +26,7 @@
 **Ingredients:**
 
 - T++ — *Worn Down* — canonical rumble-to-weight threshold
-- Maxime Denuc — *Atlantis* — — provisional canonical ADD, `spotify:track:4KFH3vH0uHTAleEXpYYxyA`; official notes document extremely short organ repetitions becoming seemingly continuous
+- Maxime Denuc — *Atlantis* — provisional canonical ADD, `spotify:track:4KFH3vH0uHTAleEXpYYxyA`; official notes document extremely short organ repetitions becoming seemingly continuous
 - Rian Treanor — *Hypnic Jerks* — canonical explicit acceleration-orientation crisis
 - Maxime Denuc — *Hallucinogen* and *Club Imperiale* — exact placement-specific rejects retained as different programmed-organ structural references
 - D1 — *Snatch*, *Earth*, *Tabala* — exact unselected archive alternates, not proven ingredients

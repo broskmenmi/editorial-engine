@@ -385,6 +385,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 379 | Maxime Denuc | Hallucinogen | spotify:track:0rGjgJxRWezdF7x9V7zbAV | STRANGE GAIT Run 182 | Placement-specific REJECT / interesting | 2026-09-12 |
 | 380 | Maxime Denuc | Atlantis | spotify:track:4KFH3vH0uHTAleEXpYYxyA | STRANGE GAIT Run 182 | Canonical ADD / interesting | 2026-09-12 |
 | 381 | Maxime Denuc | Club Imperiale | spotify:track:6i68vhnKBXHHbpeEVelnzp | STRANGE GAIT Run 182 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 382 | Aquarian | Kool Ranch FM | spotify:track:4d3JjEneDi1OlHZoj1KK8e | STRANGE GAIT Run 183 | Placement-specific REJECT / interesting | 2026-09-12 |
+| 383 | Anthony Naples | Perk | spotify:track:3vZSMAzBp0V9pyczvAmYBd | STRANGE GAIT Run 183 | Placement-specific REJECT / interesting | 2026-09-12 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

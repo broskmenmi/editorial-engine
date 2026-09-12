@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 183 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Aquarian | Kool Ranch FM | `spotify:track:4d3JjEneDi1OlHZoj1KK8e` · https://open.spotify.com/track/4d3JjEneDi1OlHZoj1KK8e · https://aquariandekmantel.bandcamp.com/track/kool-ranch-fm | Breakbeat-laced hard-house sidespin remains genuinely interesting. Rejected only at `Trompe L'oeil → candidate → FELT` and `Migration → candidate → Eyes of the Wind`; added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Anthony Naples | Perk | `spotify:track:3vZSMAzBp0V9pyczvAmYBd` · https://open.spotify.com/track/3vZSMAzBp0V9pyczvAmYBd · https://tratratrax.com/track/perk | Gradual beatbox-percussion build into a syncopated syn-drum second half remains genuinely interesting. Rejected only at `Cave → candidate → Abundance` and `FELT → candidate → Thick to Handle`; added to the global utility ledger. |
+| RESEARCH LEADS | DJ Babatr; Maoupa Mazzocchetti feat. Clara!; WOST & Entrañas | Cabo E (Substance Remix); Mantequilla (Pariah Remix); Miniteca Selvática (Pangaea Remix) | https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/ | Current TraTraTrax sampler field; all three returned `no exact Spotify title/artist search match in market SE`. No verdict or utility entry. |
+| RESEARCH LEADS | ghostbika; lil darkonda; djmu; names9s | Rain Riddim; very66killa; 0to100mimi5fast; hubble | https://meakusma.bandcamp.com/album/666ridims-2020-2026 | Odd-metre, polyrhythmic and speculative club-form window; all four returned the same Spotify-SE no-match error. No verdict or utility entry. |
+| RELEASE / LABEL WATCH | TraTraTrax | Los Totes Vol. 3 | https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/ | September 10–11, 2026 sampler that repackages earlier digital splits alongside unresolved remixes. |
+| RELEASE / LABEL WATCH | Meakusma / 666ridims | 666ridims (2020–2026) | https://meakusma.bandcamp.com/album/666ridims-2020-2026 | Current compilation window for rhythmic grids, swing transformation and speculative club forms; selected leads remain unresolved. |
+
+### Placement and inspiration boundaries
+
+- Both exact tracks pass the volume lens and remain interesting outside the four tested placements; neither is globally rejected.
+- The 2026 sampler date is not either track's Spotify release date; all resolver warnings remain preserved.
+- The seven unresolved identities received no musical verdict and do not enter the global utility ledger.
+- Phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect, mixability and live behavior were not tested.
+
 ## Run 182 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

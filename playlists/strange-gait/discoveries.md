@@ -1,5 +1,56 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 183 — EXPLORE — sampler reframing versus complete track arc — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 50 unique canonical tracks, an exact-order map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a last verified COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 381 contiguous unique tracks and a COMPLETE 381/381 receipt. No objective repair was actionable.
+
+**Exploration:** approximately 62 named tracks, releases and catalogue cuts were inspected across current September electronic pages, TraTraTrax's September 10–11 `Los Totes Vol. 3`, Meakusma's `666ridims (2020–2026)`, adjacent artists and labels, and overlooked Aquarian and Anthony Naples catalogue material. Canonical identities, active rejects, untriggered PARKED revisits and existing utility identities were excluded. Nine honest leads survived.
+
+- **runId:** `2026-09-12T15:53:38Z-explore-183`
+- **sourceCommit:** `b467831b822f309fdcd8858ea591ae8b4a35879e`
+- **request commit:** `2a6d4507fe6e618b82ac6175147a9ed72b4523bd`
+- **snapshot commit:** `5e7e3634baaa7a72a2b432100f883e17c144a8cd`
+- **request fingerprint:** `b7e15027d3203d21806daca8f3e206d86c1ad9133893ab3f455c1397980e4736`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 2 exact resolutions, 2 selected and 7 unresolved; no duplicates, substitutions, relinkings, resolved alternates or technical failures.
+
+### Canonical evaluations
+
+#### Aquarian — Kool Ranch FM — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4d3JjEneDi1OlHZoj1KK8e`; 7:11; Spotify album `Split 2`; Spotify release date 2024-08-22.
+- **Warning:** `Exact title/artist matched with release metadata variance: album requested "Los Totes Vol. 3" but Spotify returned "Split 2"; release date requested "2026-09-10" but Spotify returned "2024-08-22"`
+- **Volume fit:** PASS. Exact-track criticism documents a breakbeat-laced hard-house sidespin with mentasm and diva-stab rave signifiers and a big-beat bassline. This resists one fixed techno form without relying on sampler novelty.
+- **Immediate transition:** FAIL at both tested boundaries. `Trompe L'oeil → candidate → FELT` inserts a complete maximal proposition between reset and rolling formation. `Migration → candidate → Eyes of the Wind` adds another major production-world pivot after the existing post-protected character change.
+- **Three-to-five-track run:** FAIL. The first option crowds `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle`; the second overloads `Stardancer → Migration → candidate → Eyes of the Wind → Nukumori`.
+- **Long form:** FAIL for these placements. A conspicuous left turn is allowed, but neither seven-minute insertion produces a proportional journey gain here.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+#### Anthony Naples — Perk — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3vZSMAzBp0V9pyczvAmYBd`; 5:29; Spotify album `Split 3`; Spotify release date 2025-07-24.
+- **Warning:** `Exact title/artist matched with release metadata variance: album requested "Los Totes Vol. 3" but Spotify returned "Split 3"; release date requested "2026-09-10" but Spotify returned "2025-07-24"`
+- **Volume fit:** PASS. Exact-track criticism documents beatbox percussion gradually building into a syncopated syn-drum second half, a clear internal structural change relevant to the selection lens.
+- **Immediate transition:** FAIL at both tested boundaries. `Cave → candidate → Abundance` inserts another complete rhythmic proposition before the existing swung-funk continuation. `FELT → candidate → Thick to Handle` places a self-contained formation-to-transformation arc before an already purposeful deformation.
+- **Three-to-five-track run:** FAIL. The early option crowds `Carried → Cave → candidate → Abundance → Foundry`; the middle option extends `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES`.
+- **Long form:** FAIL for these placements. The track's own complete arc is compelling, but both insertions over-articulate passages already proportionate.
+- **Verdict:** REJECT only the two tested placements; retain as genuinely interesting.
+
+Unresolved without verdict, each preserving `no exact Spotify title/artist search match in market SE`: DJ Babatr — *Cabo E (Substance Remix)*; Maoupa Mazzocchetti feat. Clara! — *Mantequilla (Pariah Remix)*; WOST & Entrañas — *Miniteca Selvática (Pangaea Remix)*; ghostbika — *Rain Riddim*; lil darkonda — *very66killa*; djmu — *0to100mimi5fast*; names9s — *hubble*.
+
+### Auditor approval
+
+**APPROVED.** The immutable request was written from the live pre-request SHA and the matching snapshot agrees on schemaVersion, runId, sourceCommit, target, mode, receipt and fingerprint. Every warning and unresolved outcome is preserved. Only the two selected exact identities were evaluated, each separately at volume, transition, local-run and long-form scales. The sampler's later date was not mistaken for either track's Spotify release date. Protected state remains intact. Auditor approves zero canonical additions, four scoped placement rejections, local inspiration retention and two doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **50 canonical tracks** with no reorder.
+- Protected order remains `Transparency → When We Froze → Stardancer` at positions 42–44.
+- Local inspiration retains both selected exact tracks, seven unresolved research leads, two release/label windows and one set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL: **381 → 383**, adding *Kool Ranch FM* and *Perk*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 62 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved → 2 selected evaluations → **0 ADD + 2 placement-specific REJECT** → 2 utility additions. Across completed discovery Runs 87–183, excluding process repairs and failed Runs 164, 167, 175, 177 and 180: **765 leads from approximately 4,460 inspections; 35 ADDs from 235 selected candidates**. Inspection-to-lead conversion was 14.5%, lead-to-resolution conversion 22.2%, and selected-candidate-to-ADD conversion 0/2. The recent comparable ADD rate remains **4/10**; the musical no-ADD streak is one completed discovery run after Run 182, retaining two exact interesting tracks. The low resolution yield reflects Spotify-SE absence and sampler/original-edition variance, not technical resolver failure or a musical zero result. The strongest counterargument is that *Perk* could develop `FELT → Thick to Handle` through its documented gradual transformation. It fails proportionally because the candidate completes its own formation-to-syncopation arc before the existing deformation, lengthening rather than clarifying the passage. No stagnation signal or actionable REPAIR emerges.
+
 ## Run 182 — EXPLORE — discrete repetition becomes continuum — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 49 unique canonical tracks, exact-order map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 41–43, and a last verified COMPLETE 49/49 receipt. EDITORIAL ENGINE — DISCOVERY POOL entered with 378 contiguous unique tracks and a COMPLETE 378/378 receipt. No objective repair was actionable.
