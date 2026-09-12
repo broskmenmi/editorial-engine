@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 192
+
+### Let quieter continuation remain a candidate, not an assumption
+
+**Direction:** Explore comparatively understated groove material at two existing boundaries, while refusing to equate stylistic adjacency or shared release language with proven transition value.
+
+**Ingredients:**
+
+- Max F — *Soul Control*, *Zone 6* and *Dub Select* — three exact PARKED identities retained as interesting
+- *Tides Alternate → Too Much Time* — canonical balance-to-widening boundary
+- *Cave → Abundance* — canonical widening-to-swung-continuation boundary
+- Alexander Kowalski's *Sinee* remixes and Type-303's *Enigmatic Dreams* — unresolved current research windows
+
+**Why interesting:** A sequence can gain from a subtle continuation as readily as from a conspicuous left turn. The useful distinction is whether the exact track changes the surrounding passage, not whether it announces novelty.
+
+**Unknown / risk:** This is not a proven sequence or live-mixing edge. The source co-describes *Soul Control* and *Zone 6* and supplies only release-level framing for *Dub Select*. Individual direction, endpoints, handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
 ## Current additions — Run 191
 
 ### Let a fixed grid articulate re-entry

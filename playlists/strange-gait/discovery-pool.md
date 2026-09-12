@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 192 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Max F | Soul Control | `spotify:track:3KmITjAzlBB2uOxJm1nTTr` · https://open.spotify.com/track/3KmITjAzlBB2uOxJm1nTTr · https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres | Exact 4:55 identity; PARKED at *Tides Alternate → Too Much Time* and *Cave → Abundance*. Added globally. |
+| EXACT TRACK / PARKED | Max F | Zone 6 | `spotify:track:36BYGXw0lseivzVDiYnRqp` · https://open.spotify.com/track/36BYGXw0lseivzVDiYnRqp · source above | Exact 5:20 identity; PARKED at *Cave → Abundance* and *Tides Alternate → Too Much Time*. Added globally. |
+| EXACT TRACK / PARKED | Max F | Dub Select | `spotify:track:2ykgteM66TViBL6jyK1EOc` · https://open.spotify.com/track/2ykgteM66TViBL6jyK1EOc · source above | Exact 4:51 identity; PARKED at *Tides Alternate → Too Much Time* and *Cave → Abundance*. Added globally. |
+| UNRESOLVED LEADS | Alexander Kowalski; Type-303 | Sinee (GZI Remix); Sinee (SMBR Remix); Sinee (Sven Köhne Remix); Calypso of Acid; Module 303; Paradise | https://damagemusicberlin.bandcamp.com/album/sinee-remixes · https://coldblowrecords.bandcamp.com/track/module-303 | Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | Damage Music; Cold Blow; Peace World Records | Sinee Remixes; Enigmatic Dreams; Hidden Atmospheres | https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/ · https://boomkat.com/products/enigmatic-dreams · https://boomkat.com/products/hidden-atmospheres | Current broken-remix and acid/house windows plus an overlooked subtle-groove catalogue pocket. |
+| SET DIRECTION | — | Underdescribed continuation | target-local idea only | Let quieter material compete for sequence space, but require track-specific direction and endpoint evidence before choosing among co-described neighbours. Not a proven sequence or live edge. |
+
+### Placement and inspiration boundaries
+
+- The three exact Max F tracks are independently PARKED, not treated as interchangeable and not added canonically.
+- Six unresolved Kowalski and Type-303 identities received no musical verdict or utility entry.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability was inferred.
+
 ## Run 191 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

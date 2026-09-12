@@ -1,5 +1,74 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 192 — EXPLORE — underdescribed continuations — 2026-09-13
+
+**runId:** `2026-09-12T22:52:54Z-explore-192`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 52 unique canonical tracks; the generated map matched the ledger; the protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 44–46; no active listener discussion, current TRIGGERED revisit, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 58 named tracks, releases, reviews and catalogue references were inspected across live September 2026 Juno, Boomkat, Resident Advisor and Bandcamp windows; Damage Music's current *Sinee* remixes; Type-303's Cold Blow debut; Max F's overlooked 2026 Peace World catalogue; and current inside-out boundaries. Runs 169–191 fields and every recorded canonical, evaluated, parked, rejected, unresolved, alternate or utility identity were excluded. Nine exact-title leads survived without padding.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request was written against sourceCommit `266db9185e1122f4eb9d92416c6dead6ac13b440` at request commit `e04e136f37155fae77707c7081869bbc3c944351`. The matching snapshot at `6cef782131e1cd920c373654f9a9eba0a26d5e1f` is internally valid and `PARTIAL`: **9 requested = 3 selected exact resolutions + 6 unresolved leads**; there were no warnings, duplicates, substitutions, relinkings, resolved alternates or technical failures.
+
+Selected exact identities:
+
+- Max F — *Soul Control* — `spotify:track:3KmITjAzlBB2uOxJm1nTTr` — 4:55.
+- Max F — *Zone 6* — `spotify:track:36BYGXw0lseivzVDiYnRqp` — 5:20.
+- Max F — *Dub Select* — `spotify:track:2ykgteM66TViBL6jyK1EOc` — 4:51.
+
+Each unresolved lead returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Alexander Kowalski — *Sinee (GZI Remix)*
+- Type-303 — *Calypso of Acid*
+- Alexander Kowalski — *Sinee (SMBR Remix)*
+- Type-303 — *Module 303*
+- Alexander Kowalski — *Sinee (Sven Köhne Remix)*
+- Type-303 — *Paradise*
+
+They remain unresolved without musical verdict or utility entry.
+
+### Candidate evaluation — Max F — Soul Control
+
+- **Volume fit:** provisional PASS. Boomkat names the exact track while describing subtle yet hard-hitting percussion grooves and deep bass beneath ethereal pads and sweeps, with an evolving arrangement. A comparatively understated house track can fit the selection lens without proving a new mechanism.
+- **Immediate transition:** PARKED at `Tides Alternate → candidate → Too Much Time`. The documented groove may articulate a measured return before the existing widening, or may be a self-contained house stage; the individual endpoint and both handoffs remain unknown.
+- **Surrounding three-to-five-track run:** PARKED. `Hypnic Jerks → Tides Alternate → candidate → Too Much Time → Freepass for Them` could turn opposed-speed balance into a quieter continuation before renewed motion, but current evidence cannot establish that consequence.
+- **Long-form journey:** PARKED. A subtle continuation could improve proportion after the acceleration crisis, but subtlety and stylistic adjacency are not admission proof.
+- **Second placement:** PARKED at `Cave → candidate → Abundance`. It may deepen the widening-to-swung-continuation passage or redundantly delay *Abundance*; the source cannot distinguish those outcomes.
+
+### Candidate evaluation — Max F — Zone 6
+
+- **Volume fit:** provisional PASS. The same source specifically names *Zone 6* alongside *Soul Control* under the percussion, bass, pad and evolving-arrangement description. That supports interest without making the two tracks interchangeable.
+- **Immediate transition:** PARKED at `Cave → candidate → Abundance`. The 5:20 identity might extend the early widening into a longer groove proposition, while its individual direction and endpoint are not described.
+- **Surrounding three-to-five-track run:** PARKED. `Egue into hs → Cave → candidate → Abundance → Foundry` could gain a paced continuation or another completed stage before the unstable-directional hinge.
+- **Long-form journey:** PARKED. The candidate could deepen an early run without introducing a conspicuous new world, but smoothness cannot be inferred and sequence gain remains unproven.
+- **Second placement:** PARKED at `Tides Alternate → candidate → Too Much Time`; the same individual-form gap prevents a lawful distinction between useful re-entry and displacement.
+
+### Candidate evaluation — Max F — Dub Select
+
+- **Volume fit:** provisional PASS. Peace World confirms the exact title and 4:51 duration within a release framed as balancing meditative and kinetic material. The track title does not establish dub behavior, space or emotional effect.
+- **Immediate transition:** PARKED at `Tides Alternate → candidate → Too Much Time`. The compact duration makes the test proportionally plausible, but track-specific rhythm, direction, endpoint and handoffs are undocumented.
+- **Surrounding three-to-five-track run:** PARKED. The candidate may provide a concise intermediate stage or merely postpone *Too Much Time*.
+- **Long-form journey:** PARKED. Release-level balance is insufficient to establish a distinct journey consequence.
+- **Second placement:** PARKED at `Cave → candidate → Abundance`; no current evidence shows that this exact track improves the already purposeful relation.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode, target and request fingerprint. Only the three selected exact identities were evaluated; all six unresolved identities retain their exact resolver error and no verdict. There were no warnings, duplicates, alternates, substitutions, relinkings or technical failures. Each selected candidate received separate volume-fit, immediate-transition, local-run and long-form assessment. The PARKED outcomes preserve concrete placement questions without inferring individual form from shared release writing, title, genre or duration. No candidate is rejected globally or placement-specifically. The protected trio remains intact.
+
+### Durable result
+
+- STRANGE GAIT remains **52 canonical tracks**; the ledger and journey annotations do not change.
+- *Soul Control*, *Zone 6* and *Dub Select* are PARKED with concrete current-journey hypotheses and track-specific reopening conditions.
+- Target-local discovery and set-direction layers retain the three exact tracks, six unresolved research leads and three fresh source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **400 → 403 exact tracks**, adding all three selected identities as PARKED / interesting.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 58 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **0 ADD + 3 PARKED** → 3 utility additions. Inspection-to-lead conversion is 15.5%; lead-to-resolution conversion is 33.3%; selected-candidate-to-ADD conversion is 0/3. Across completed discovery Runs 87–192, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **828 leads from approximately 4,887 inspections; 37 ADDs from 255 selected candidates**. The recent comparable ADD rate is 4/10; the musical no-ADD streak is one completed run after Run 191. The result proves that this fresh field produced three exact interesting identities and honest placement questions; it does not prove that understated house cannot improve the sequence. The limitation is shared rather than track-differentiating source evidence, not an UNKNOWN-as-veto pattern or actionable workflow defect. No REPAIR emerges.
+
 ## Run 191 — EXPLORE — fixed grid as re-entry — 2026-09-12
 
 **runId:** `2026-09-12T21:53:50Z-explore-191`
