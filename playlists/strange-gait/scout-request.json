@@ -1,53 +1,54 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-12T07:50:41Z-explore-171",
-  "sourceCommit": "72039d40e9f5b3fe88f56024b5617d28b8341c1f",
+  "runId": "2026-09-12T08:53:44Z-explore-172",
+  "sourceCommit": "6a8238017399842dd6b8785fade1ec68d7508925",
   "target": "playlists/strange-gait/",
   "mode": "EXPLORE",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T07:50:41Z",
-    "approximateInspectedScope": "Approximately 58 named tracks and release cuts across September 2026 current-release coverage from Pitchfork, Resident Advisor and Bandcamp Daily; adjacent collaborators and Ninja Tune context; Bonobo's overlooked 2017 Migration catalogue; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-12T08:53:44Z",
+    "approximateInspectedScope": "Approximately 61 named tracks and release cuts across September 2026 current-release coverage, Nyege Nyege Tapes and Psychic Hotline label windows, adjacent East African rhythmic innovators, overlooked Congo Techno and experimental-club catalogue, and current STRANGE GAIT inside-out boundaries. Official and attributed written evidence only; no audio audition.",
     "sourceWindows": [
-      "CURRENT WINDOW: Pitchfork's September 11, 2026 Distance in Static review supplied exact-track descriptions for Bonobo's current record and collaborators Arooj Aftab, Joy Crookes and Nicole Miglis. https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "CURRENT / EMERGING WINDOW: Resident Advisor's live September 12, 2026 front page and September 11 new-music coverage were inspected; identities already handled in persistent state were excluded. https://ra.co/",
-      "CURRENT LABEL WINDOW: Ninja Tune's current Bonobo release context was checked through the review's label and release metadata; previously unresolved Talk to Me and Youth's Fountain were not recycled.",
-      "OVERLOOKED CATALOGUE WINDOW: Pitchfork's January 14, 2017 Migration review supplied exact structural descriptions for Outlier and Migration. https://pitchfork.com/reviews/albums/22710-migration/"
+      "CURRENT RELEASE WINDOW: Nyege Nyege Tapes' official September 4, 2026 notes for Jay Mitta's Kazi Kwanza supplied exact track titles and descriptions across singeli, trap, trance, grime, drill and hard-techno adaptations. https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "ADJACENT / EMERGING WINDOW: Nyege Nyege Tapes' September 18, 2026 Kadodi Season pre-release page supplied one currently available exact track and documented DJ Jeff the Lastborn's reconfiguration of Kadodi rhythm. https://nyegenyegetapes.bandcamp.com/album/kadodi-season",
+      "CURRENT CROSS-PRODUCTION WINDOW: Pitchfork's September 11, 2026 release roundup and July 21 Sylvan Esso announcement were inspected; only exact-track evidence survived initial review and no thinly described identity was ranked above the stronger Nyege cohort. https://pitchfork.com/story/10-new-albums-you-should-listen-to-now-this-is-lorelei-alex-g-and-more",
+      "OVERLOOKED CATALOGUE WINDOW: Rey Sapienz and the Congo Techno Ensemble, Errorsmith and related experimental-club catalogue were re-audited; previously unresolved or handled exact identities were excluded from this immutable request. https://pitchfork.com/reviews/albums/rey-sapienz-the-congo-techno-ensemble-na-zala-zala/"
     ],
     "exclusions": [
-      "Run 170 selected and alternate identities were not recycled.",
-      "Bonobo — Talk to Me and Bonobo — Youth's Fountain were excluded because persistent state already records unresolved identity outcomes.",
-      "Previously handled Resident Advisor and Bandcamp candidates were excluded after checks against the canonical ledger, discoveries, discovery pool, rejected, revisit and archived history.",
-      "Only seven honest leads survived; the request was not padded to nine.",
-      "All proposed placement URIs were derived from the current ledger and verified as adjacent before this request was written.",
-      "Failed Runs 164 and 167 remain technical non-completions and supplied no musical verdicts.",
+      "Run 171 selected and alternate Bonobo identities were not recycled.",
+      "Rey Sapienz & The Congo Techno Ensemble — Santonge and Dancehall Pigme were excluded because persistent state already records unresolved Spotify-SE outcomes.",
+      "Previously handled Nyege Nyege, Hakuna Kulala and experimental-club identities were excluded after checks against the canonical ledger, discoveries, discovery pool, rejected, revisit and archived history.",
+      "Nine honest leads survived on exact-track evidence; no unresolved persistent identity was recycled and the request was not padded.",
+      "All proposed placement URIs were derived from the current 47-track ledger and verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Bonobo, Arooj Aftab — Fire on the Water",
-      "2. Bonobo — Outlier",
-      "3. Bonobo — Me and You",
-      "4. Bonobo — Migration",
-      "5. Bonobo, Joy Crookes — Always on Your Side",
-      "6. Bonobo — ID700",
-      "7. Bonobo — Uncasually"
+      "1. Jay Mitta — Sawa",
+      "2. Jay Mitta — Ubongo beat",
+      "3. Jay Mitta — 44444",
+      "4. Jay Mitta — Koma No",
+      "5. Jay Mitta — Mitta Baba Fet",
+      "6. DJ Jeff the Lastborn — Kadodi Season Two",
+      "7. Jay Mitta — Kesheshe beat",
+      "8. Jay Mitta — Mwanzo",
+      "9. Jay Mitta — Funga mtaa"
     ]
   },
   "leads": [
     {
-      "artist": "Bonobo, Arooj Aftab",
-      "track": "Fire on the Water",
-      "album": "Distance in Static",
-      "releaseDate": "2026",
+      "artist": "Jay Mitta",
+      "track": "Sawa",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "fitHypothesis": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact opener through swinging, ratcheting singeli patterns and distorted blaring leads that tangle with hardstyle-inspired kicks and follow the synths into a disorienting vortex.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether transformed vocal material can create a deliberate post-block change of character without becoming a redundant late threshold.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact opener through swinging, ratcheting singeli patterns and distorted blaring leads that tangle with hardstyle-inspired kicks and follow the synths into a disorienting vortex.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a complete disorientation arc can open or interrupt the journey without mistaking intensity or novelty for sequence value.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -56,40 +57,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Before Stadium Drive",
+          "precedingUri": null,
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test a conspicuous vocal-sheet threshold after the protected block and before the existing liminal-percussion passage."
+          "purpose": "Test a conspicuous hyper-rhythmic opening before the current ambience-to-broken-techno assembly."
         },
         {
-          "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the vocal transformation gives the afterword a purposeful new arrival condition or adds another ending."
+          "purpose": "Test whether the vortex gives Té de Cabello Blanco new reassembly work or merely adds another agitation stage."
         }
       ]
     },
     {
-      "artist": "Bonobo",
-      "track": "Outlier",
-      "album": "Migration",
-      "releaseDate": "2017",
+      "artist": "Jay Mitta",
+      "track": "Ubongo beat",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
-      "fitHypothesis": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as a chaotic cut-and-paste roll of videogame stings, drum fills and DJ tags, augmented by gliding trance stabs over a whirlwind of snaps and metallic ticks.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a long gallop-to-disintegration arc changes a local run at a proportional cost the long-form journey can support.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact track as a chaotic cut-and-paste roll of videogame stings, drum fills and DJ tags, augmented by gliding trance stabs over a whirlwind of snaps and metallic ticks.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether simultaneous cut-and-paste and gliding material creates a legible local consequence rather than a self-contained display.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -98,40 +99,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the gallop and disintegrating comedown deepen the pivot-to-intensification run or replace its existing logic with another complete arc."
+          "purpose": "Test whether the whirlwind changes the following reassembly task or overloads an already unstable boundary."
         },
         {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its comedown makes groove consolidation newly necessary or duplicates the existing self-stripping transition."
+          "purpose": "Test whether cut-and-paste motion makes the following threshold newly meaningful or inserts another complete pressure stage."
         }
       ]
     },
     {
-      "artist": "Bonobo",
-      "track": "Me and You",
-      "album": "Distance in Static",
-      "releaseDate": "2026",
+      "artist": "Jay Mitta",
+      "track": "44444",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "fitHypothesis": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact track at a comparatively slower 170 BPM, sandwiching baroque organ stabs between trance supersaws, marimba smacks and a possible amapiano-style log drum.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test a clearly formed but critically frictionless groove without mistaking sample provenance or polish for sequence value.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact track at a comparatively slower 170 BPM, sandwiching baroque organ stabs between trance supersaws, marimba smacks and a possible amapiano-style log drum.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Use the documented 170 BPM only as context while testing whether its layered proposition can orient or complicate a neighbouring run.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -140,40 +141,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "position": "Between Hypnic Jerks and Tides Alternate",
+          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the tightly edited bounce sharpens the move into unstable direction or merely postpones it."
+          "purpose": "Test whether the track extends the acceleration crisis productively before opposed-speed balance or merely delays that balance."
         },
         {
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "position": "Between backsliding and Mildew Swoosh",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the track changes the consolidation-to-alternating-pressure relation or inserts a self-contained extra groove."
+          "purpose": "Test whether the organ-and-supersaw construction changes the dissolution-to-temporal-strain passage or interrupts it."
         }
       ]
     },
     {
-      "artist": "Bonobo",
-      "track": "Migration",
-      "album": "Migration",
-      "releaseDate": "2017",
+      "artist": "Jay Mitta",
+      "track": "Koma No",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
-      "fitHypothesis": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as descending into disorder and dissonance.",
       "evidence": {
-        "attributedDescription": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test a piano-to-break turn while preserving unknown endpoint, density and transition behavior.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact track as descending into disorder and dissonance.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test a documented descent without inferring its starting state, endpoint or mix behavior.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -182,40 +183,40 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Worn Down and Hypnic Jerks",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "position": "Between Roxellana and backsliding",
+          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the midway break meaningfully prepares acceleration or adds another dramatic turn before it."
+          "purpose": "Test whether one descent meaningfully reframes the existing rhythm-to-dissonance dissolution or duplicates it."
         },
         {
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Between Nukumori and Rabbit Hole",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether piano and break create a purposeful post-block character change or delay the existing corridor."
+          "purpose": "Test whether disorder gives the dead-space descent new context or creates a redundant double descent."
         }
       ]
     },
     {
-      "artist": "Bonobo, Joy Crookes",
-      "track": "Always on Your Side",
-      "album": "Distance in Static",
-      "releaseDate": "2026",
+      "artist": "Jay Mitta",
+      "track": "Mitta Baba Fet",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "fitHypothesis": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as a dancehall-inflected, high-NRG response to the Streets of Rage II soundtrack, complete with overdriven guitars and 16-bit bleeps.",
       "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test whether a self-contained production-world excursion can still make a deliberate, proportionate left turn.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact track as a dancehall-inflected, high-NRG response to the Streets of Rage II soundtrack, complete with overdriven guitars and 16-bit bleeps.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test a conspicuous production-world turn by its transition, local-run and long-form effect rather than its stylistic novelty.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -230,34 +231,34 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the R&B-soul excursion develops the live-band turn or mediates the direct return to the electronic continuum."
+          "purpose": "Test whether the digital-guitar turn develops the live-band left turn or postpones the direct electronic return."
         },
         {
-          "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the excursion changes the closing re-entry-to-afterword relation or supplies another complete coda."
+          "purpose": "Test whether its dancehall-inflected construction changes the formation-to-deformation run or adds another formed groove."
         }
       ]
     },
     {
-      "artist": "Bonobo",
-      "track": "ID700",
-      "album": "Distance in Static",
-      "releaseDate": "2026",
+      "artist": "DJ Jeff the Lastborn",
+      "track": "Kadodi Season Two",
+      "album": "Kadodi Season",
+      "releaseDate": "2026-09-18",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kadodi-season",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact currently available pre-release track as shuffling around a central four-on-the-floor pulse, with syncopated cracks, metallic clangs and amapiano-inspired FM synths.",
       "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test concise contrast without inferring flow from the interlude label alone.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact currently available pre-release track as shuffling around a central four-on-the-floor pulse, with syncopated cracks, metallic clangs and amapiano-inspired FM synths.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test rhythmic adaptation without treating four-on-the-floor framing as proof of energy or compatibility.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -266,40 +267,124 @@
       },
       "proposedPlacements": [
         {
-          "position": "Between Tides Alternate and Too Much Time",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the interlude clarifies opposed-speed balance before widening or interrupts it."
+          "purpose": "Test whether the shuffled central pulse sharpens the coming live-band pulse illusion or mediates it."
         },
         {
-          "position": "Between Stardancer and Eyes of the Wind",
+          "position": "Between Truth in Noise and Same Way",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the syncopated adaptation changes the consolidation-to-alternating-pressure relation."
+        }
+      ]
+    },
+    {
+      "artist": "Jay Mitta",
+      "track": "Kesheshe beat",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact track as mashing minimal techno's rolling bass with sizzling high-end horns.",
+      "evidence": {
+        "attributedDescription": "Nyege Nyege Tapes describes the exact track as mashing minimal techno's rolling bass with sizzling high-end horns.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test a rolling-bass and horn proposition without inferring its endpoint, density or mixability.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Truth in Noise and Same Way",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the track changes the established consolidation-to-pressure relation or merely extends it."
+        },
+        {
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether rolling bass and horns alter the reset-to-formation run or add another complete formation."
+        }
+      ]
+    },
+    {
+      "artist": "Jay Mitta",
+      "track": "Mwanzo",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes identifies the exact track as the album's elegiac, more melancholy turn.",
+      "evidence": {
+        "attributedDescription": "Nyege Nyege Tapes identifies the exact track as the album's elegiac, more melancholy turn.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test a character change without inferring rhythm, space, energy, endpoint or emotional effect beyond the source's attributed description.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+        ]
+      },
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Migration",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether concise cosmic contrast changes the post-block corridor or redundantly prefaces it."
+          "purpose": "Test whether an elegiac turn makes the documented piano-to-break pivot more deliberate or adds another threshold."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the character turn changes the descent-to-re-entry relation or prolongs the closing corridor."
         }
       ]
     },
     {
-      "artist": "Bonobo",
-      "track": "Uncasually",
-      "album": "Distance in Static",
-      "releaseDate": "2026",
+      "artist": "Jay Mitta",
+      "track": "Funga mtaa",
+      "album": "Kazi Kwanza",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
-      "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+      "discoverySource": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "fitHypothesis": "Nyege Nyege Tapes describes the exact 1:13 album finale as brief, freewheeling and carnival-bound.",
       "evidence": {
-        "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
-        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test whether an interlude can create a proportionate transition-scale reset without relying on novelty.",
+        "attributedDescription": "Nyege Nyege Tapes describes the exact 1:13 album finale as brief, freewheeling and carnival-bound.",
+        "craftConvention": "Official exact-track notes and release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM is context only, and perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test concise punctuation without inferring its internal form, energy, endpoint or ability to close this different journey.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -307,15 +392,6 @@
         ]
       },
       "proposedPlacements": [
-        {
-          "position": "Between Carried and Cave",
-          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the interlude gives Cave a different widening condition or erases Carried's exposed-loop consequence."
-        },
         {
           "position": "Between Nukumori and Rabbit Hole",
           "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
@@ -323,7 +399,16 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the interlude supports flare-to-descent or delays that established relation."
+          "purpose": "Test whether brief carnival punctuation makes the following descent more consequential or merely delays it."
+        },
+        {
+          "position": "After Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "followingUri": null,
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the brief finale changes the afterword into a deliberate final release or appends a second ending."
         }
       ]
     }
