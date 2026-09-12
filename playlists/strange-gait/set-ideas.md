@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 190
+
+### Let exact identity preserve the gap to individual form
+
+**Direction:** Use current poly-temporal writing and overlooked hybrid catalogues to form exact placement hypotheses, then keep admission open when the track's own direction and endpoint remain undocumented.
+
+**Ingredients:**
+
+- December — *An Accident In Favor Of Human Life*, *No Photographs, Only Memories* and *Modern Phobias* — exact PARKED tracks retained as interesting
+- Mark Fell — *Servitude In Context EP* — current exact-track structural window with six Spotify-SE-unresolved identities
+- December — *Transform Pt. 2, An Accident In Favor Of Human Life* — overlooked industrial/electro, post-punk, ambient and musique-concrète hybrid catalogue
+
+**Why interesting:** Exact identity and release-level belonging can justify a concrete test without proving what the track does. The useful discipline is to park the plausible passage, reject only the weaker alternate, and leave individual form genuinely unknown.
+
+**Unknown / risk:** This is not a proven sequence or live-mixing edge. Three placements are parked, three alternates are rejected and six current identities remain unresolved. Individual direction, endpoints, handoffs, phrase fit, pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
+
 ## Current additions — Run 189
 
 ### Let suspension become a consequence

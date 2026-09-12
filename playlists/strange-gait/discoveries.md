@@ -1,5 +1,66 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 190 — EXPLORE — exact identity without individual form — 2026-09-12
+
+**runId:** `2026-09-12T20:53:16Z-explore-190`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 51 unique canonical tracks; the generated map matched the ledger; the protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 43–45; no active listener discussion, current TRIGGERED revisit, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 61 named tracks, releases, reviews and catalogue references were inspected across the live September 11–12 Resident Advisor and Boomkat feeds; Mark Fell's current *Servitude In Context* EP; adjacent National Centre for Mark Fell Studies, Incienso and Dekmantel catalogues; same-day Bandcamp releases; and December's overlooked 2023 Tresor catalogue. Runs 168–189 fields and every recorded canonical, evaluated, parked, rejected, unresolved, alternate or utility identity were excluded. Nine exact-title leads survived without padding.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request was written against sourceCommit `42a05b16f9c71a834c972bcaea388ae04656664e`. The matching snapshot at `588fd37c3d02f796260cd6bf734f2bf3c303f0ee` is internally valid and `PARTIAL`: **9 requested = 3 selected exact resolutions + 6 unresolved leads**; no warnings, alternates, duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- December — *An Accident In Favor Of Human Life* — `spotify:track:5FBmczdFYKD96A5pIf4RWO` — 6:53.
+- December — *No Photographs, Only Memories* — `spotify:track:1BiLmWmeEZG4RoK3IUsg8W` — 5:56.
+- December — *Modern Phobias* — `spotify:track:4sQ6noGSMh1iaWn4EeJqIL` — 6:24.
+
+The six Mark Fell leads—*Actutations #1 (extended)*, *time-slur*, *Taut manifold*, *Low energy mantra*, *anode* and *3 lost contours (pts 1-5)*—each returned exactly: `no exact Spotify title/artist search match in market SE`. They remain unresolved without musical verdict or utility entry.
+
+### Candidate evaluation — December — An Accident In Favor Of Human Life
+
+- **Volume fit:** provisional PASS. The exact title track belongs to an official release framed through hybridisation and juddering, staccato industrial/electro construction. That is relevant to the selection lens without making release membership admission proof.
+- **Immediate transition:** PARKED at `Stadium Drive → candidate → Marauder`. The identity and 6:53 duration make the overture test concrete, but available writing does not isolate its individual form, direction or endpoint; whether it develops or extends the opening remains unknown.
+- **Surrounding three-to-five-track run:** PARKED. `Sawa → Stadium Drive → candidate → Marauder → The Witching Hour` could turn rupture and transformation into a purposeful hybrid interval, or make the opening an overlong preface. The source cannot distinguish those outcomes.
+- **Long-form journey:** PARKED. A major early insertion is proportionally consequential, but its actual effect is not established.
+- **Alternative placement:** REJECT at `Freepass for Them → candidate → Moonwake`; an undocumented 6:53 stage would delay the existing groove-pivot-to-intensification relation without track-specific connective evidence.
+
+### Candidate evaluation — December — No Photographs, Only Memories
+
+- **Volume fit:** provisional PASS. The exact identity sits within a release combining industrial, electro, post-punk, ambient and musique concrète sources, but the available evidence is release-level.
+- **Immediate transition:** PARKED at `Tender Is The Night → candidate → Cave`. A conspicuous hybrid character turn after suspension is plausible, while individual behavior and both handoffs remain unknown.
+- **Surrounding three-to-five-track run:** PARKED. `Carried → Tender Is The Night → candidate → Cave → Abundance` could give the new suspension an articulated exit or crowd a relation that already has a clear widening consequence.
+- **Long-form journey:** PARKED. The 5:56 insertion may add useful early-scale change, but no lawful evidence proves that consequence.
+- **Alternative placement:** REJECT at `Truth in Noise → candidate → Style Teef`; an undocumented intermediary weakens the direct consolidation-to-fault-line relation without a specific gain.
+
+### Candidate evaluation — December — Modern Phobias
+
+- **Volume fit:** provisional PASS. The exact 6:24 identity belongs to the same documented juddering, staccato hybrid field; that supports selection interest but not individual structure.
+- **Immediate transition:** PARKED at `Drummz → candidate → Té de Cabello Blanco`. A hybrid intervention could leave altered material for reassembly or simply add another instability stage; exact direction and endpoint are unknown.
+- **Surrounding three-to-five-track run:** PARKED. `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi` has a credible but unresolved drive–instability–hybrid–reassembly reading.
+- **Long-form journey:** PARKED. The candidate may change the fracture passage, but the source does not establish whether it develops or displaces it.
+- **Alternative placement:** REJECT at `Tides Alternate → candidate → Too Much Time`; an undocumented production world would delay opposed-speed balance yielding to physical widening without track-specific evidence.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on runId, sourceCommit, mode and target. Only the three selected exact identities were evaluated. All six exact resolver errors are preserved. Each candidate received separate volume-fit, immediate-transition, local-run and long-form assessment. Release-level evidence was not converted into invented track behavior, a canonical ADD, or a metadata-based veto. PARKED placements have concrete lawful boundaries and explicit reopening conditions; alternate rejections are placement-specific. The protected trio remains intact.
+
+### Durable result
+
+- STRANGE GAIT remains **51 canonical tracks**; no canonical order or annotation changed.
+- Three exact December identities are PARKED at one lawful placement each and rejected only at one alternate each.
+- Target-local discovery and set-direction layers retain the selected identities, six unresolved Mark Fell leads and current/catalogue watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **394 → 397 exact tracks**, adding the three selected December identities as PARKED / interesting.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **0 ADD + 3 PARKED + 3 alternate placement rejections** → 3 utility additions. Inspection-to-lead conversion is 14.8%; lead-to-resolution conversion is 33.3%; selected-candidate-to-ADD conversion is 0/3. Across completed discovery Runs 87–190, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **810 leads from approximately 4,770 inspections; 36 ADDs from 249 selected candidates**. The recent comparable ADD rate is 3/10; the musical no-ADD streak is one completed run after Run 189. A healthy exact catalogue yield and six current-release availability misses do not indicate stagnation or a musical zero result. No actionable REPAIR emerges.
+
+
 ## Run 189 — EXPLORE — suspension as consequence — 2026-09-12
 
 **runId:** `2026-09-12T19:50:04Z-explore-189`

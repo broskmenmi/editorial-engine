@@ -1,5 +1,18 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 190 — EXPLORE — exact identity without individual form
+
+Pre-audit was clean, so the lane remained EXPLORE. Approximately 61 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is PARTIAL: three selected exact December resolutions and six Mark Fell Spotify-SE misses, with no warnings, alternates, duplicates, substitutions, relinkings or technical failures.
+
+**Decision:** no canonical ADD. December — *An Accident In Favor Of Human Life* (`spotify:track:5FBmczdFYKD96A5pIf4RWO`) is PARKED at `Stadium Drive → candidate → Marauder`; *No Photographs, Only Memories* (`spotify:track:1BiLmWmeEZG4RoK3IUsg8W`) at `Tender Is The Night → candidate → Cave`; and *Modern Phobias* (`spotify:track:4sQ6noGSMh1iaWn4EeJqIL`) at `Drummz → candidate → Té de Cabello Blanco`. Exact identities, durations and release-level hybrid industrial/electro context support concrete hypotheses, but individual form, direction, endpoints and handoffs remain unknown.
+
+Their alternate placements before *Moonwake*, *Style Teef* and *Too Much Time* are placement-specifically rejected because an undocumented 5:56–6:53 intermediary would delay an already purposeful relation without track-specific evidence. All three exact tracks remain interesting and enter the global utility ledger.
+
+The six current Mark Fell titles each returned `no exact Spotify title/artist search match in market SE`; no musical verdict or utility entry was assigned. STRANGE GAIT remains 51 tracks, with the protected trio contiguous at positions 43–45. The global utility ledger becomes 397 tracks. Audio and live mixing were not tested.
+
+Run 190: `~61 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 0 ADD + 3 PARKED + 3 alternate placement rejections → 3 utility additions`. Across completed Runs 87–190: 810 leads / ~4,770 inspections / 36 ADDs / 249 selected candidates. Recent comparable ADD rate: 3/10. The musical no-ADD streak is one. No actionable REPAIR emerges.
+
+
 ## Run 189 — EXPLORE — suspension as consequence
 
 Pre-audit was clean, so the lane remained EXPLORE. Approximately 62 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is PARTIAL: two selected exact resolutions and seven unresolved/duplicate leads, with one packaging warning and no alternates, substitutions, relinkings or technical failures.

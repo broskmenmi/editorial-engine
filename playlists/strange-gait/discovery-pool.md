@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 190 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | December | An Accident In Favor Of Human Life | `spotify:track:5FBmczdFYKD96A5pIf4RWO` · https://open.spotify.com/track/5FBmczdFYKD96A5pIf4RWO · https://december4.bandcamp.com/album/transform-part-2-an-accident-in-favor-of-human-life-tresor | Exact 6:53 identity; PARKED only at *Stadium Drive → Marauder*. Alternate before *Moonwake* rejected. Added globally. |
+| EXACT TRACK / PARKED | December | No Photographs, Only Memories | `spotify:track:1BiLmWmeEZG4RoK3IUsg8W` · https://open.spotify.com/track/1BiLmWmeEZG4RoK3IUsg8W · source above | Exact 5:56 identity; PARKED only at *Tender Is The Night → Cave*. Alternate before *Style Teef* rejected. Added globally. |
+| EXACT TRACK / PARKED | December | Modern Phobias | `spotify:track:4sQ6noGSMh1iaWn4EeJqIL` · https://open.spotify.com/track/4sQ6noGSMh1iaWn4EeJqIL · source above | Exact 6:24 identity; PARKED only at *Drummz → Té de Cabello Blanco*. Alternate before *Too Much Time* rejected. Added globally. |
+| RESEARCH LEADS | Mark Fell | Actutations #1 (extended); time-slur; Taut manifold; Low energy mantra; anode; 3 lost contours (pts 1-5) | https://boomkat.com/products/servitude-in-context-ep | Current exact-title leads; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility entry. |
+| RELEASE / LABEL WATCH | Mark Fell / National Centre for Mark Fell Studies; December / Tresor | Servitude In Context EP; Transform Pt. 2, An Accident In Favor Of Human Life | https://boomkat.com/products/servitude-in-context-ep · https://december4.bandcamp.com/album/transform-part-2-an-accident-in-favor-of-human-life-tresor | Current poly-temporal exact-track descriptions and an overlooked hybrid industrial/electro catalogue window. |
+
+### Placement and inspiration boundaries
+
+- All three selected December identities are PARKED at one concrete placement and placement-specifically rejected at one alternate; none is globally rejected.
+- Six unresolved Mark Fell identities received no verdict or utility entry.
+- Release context is evidence of selection interest, not individual form. Direction, endpoints, handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown.
+
+
 ## Run 189 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
