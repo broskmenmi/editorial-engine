@@ -1,136 +1,50 @@
 {
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 58 named tracks, releases, reviews and catalogue references across live September 2026 Juno, Boomkat, Resident Advisor and Bandcamp windows; Damage Music's current Sinee remixes; Type-303's Cold Blow debut; Max F's overlooked 2026 Peace World catalogue; and current canonical inside-out boundaries. Written metadata and attributed descriptions only; no audio audition.",
+    "approximateInspectedScope": "Approximately 60 named tracks, releases, reviews and catalogue references across live September 2026 Juno, Resident Advisor and Bandcamp windows; Guy From Downstairs' current self-released EP; REZZETT's current expanded jam archive; and fresh current-canonical inside-out boundaries. Written metadata and attributed descriptions only; no audio audition.",
     "exclusions": [
-      "Runs 169–191 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, unselected alternates and exact utility-ledger identities were excluded.",
-      "The immediately prior Stroom, Metempsychosis and Planet Rhythm fields were excluded, as were already-recorded Alexander Holm, Flaminia and Jon Head identities.",
+      "Runs 169–192 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, unselected alternates and exact utility-ledger identities were excluded.",
+      "The immediately prior Peace World, Damage Music and Cold Blow fields were excluded, as were all recorded Max F, Alexander Kowalski and Type-303 identities.",
       "The scan covered current releases, adjacent/emerging artists and labels, and overlooked catalogue material. Nine exact-title leads survived without padding.",
-      "Every placement pair was re-derived from the current 52-track ledger and checked for adjacency and prose agreement. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
+      "Every placement pair was re-derived from the current 52-track ledger and checked for adjacency. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Alexander Kowalski — Sinee (GZI Remix)",
-      "2. Max F — Soul Control",
-      "3. Type-303 — Calypso of Acid",
-      "4. Alexander Kowalski — Sinee (SMBR Remix)",
-      "5. Max F — Zone 6",
-      "6. Type-303 — Module 303",
-      "7. Alexander Kowalski — Sinee (Sven Köhne Remix)",
-      "8. Max F — Dub Select",
-      "9. Type-303 — Paradise"
+      "1. Guy From Downstairs — Ayy!",
+      "2. Guy From Downstairs — Them Roots",
+      "3. Guy From Downstairs — The Son Of Knuf",
+      "4. Guy From Downstairs — Sub Conscious",
+      "5. REZZETT — Dread",
+      "6. REZZETT — Fling It",
+      "7. REZZETT — Third Shoe",
+      "8. REZZETT — Clangerz",
+      "9. REZZETT — Bliss Up"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Damage Music, Juno and Clone supplied Alexander Kowalski's September 2026 Sinee remix package and exact GZI construction. https://damagemusicberlin.bandcamp.com/album/sinee-remixes · https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/ · https://clone.nl/all/artist/Alexander%2BKowalski",
-      "ADJACENT / EMERGING WINDOW: Cold Blow and current retailer listings supplied Type-303's September 2026 Enigmatic Dreams debut, exact track titles and cross-era acid/house frame. https://coldblowrecords.bandcamp.com/track/module-303 · https://www.deejay.de/Type-303_Enigmatic_Dreams_BLOW24_Vinyl__1263869",
-      "OVERLOOKED CATALOGUE WINDOW: Peace World, Boomkat and Apple Music supplied Max F's April 2026 Hidden Atmospheres, exact titles/durations and the co-described percussion-and-bass construction. https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres · https://boomkat.com/products/hidden-atmospheres · https://music.apple.com/gb/album/hidden-atmospheres/1882112933"
+      "CURRENT RELEASE WINDOW: Juno and specialist retailers supplied Guy From Downstairs' September 4, 2026 four-track EP, exact tracklist and track-level construction notes. https://www.juno.co.uk/ · https://www.selectedwax.com/products/guy-from-downstairs-the-son-of-knuf-gfd012-vinyl-12",
+      "ADJACENT / EMERGING WINDOW: Guy From Downstairs' self-operated GFD label and current four-track range supplied a groove-rooted field that crosses tempos, frequencies, 808-led club language and dub-techno framing.",
+      "OVERLOOKED / EXPANDED CATALOGUE WINDOW: REZZETT's official June 26, 2026 digital expansion supplied exact titles and durations from three years of London/Estonia jams. https://rezzett.bandcamp.com/album/into-the-boiling-darks"
     ],
-    "timestampUtc": "2026-09-12T22:52:54Z"
+    "timestampUtc": "2026-09-12T23:53:29Z"
   },
   "leads": [
     {
-      "album": "Sinee Remixes",
-      "artist": "Alexander Kowalski",
+      "album": "The Son Of Knuf",
+      "artist": "Guy From Downstairs",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://damagemusicberlin.bandcamp.com/track/sinee-gzi-remix",
+      "discoverySource": "https://www.juno.co.uk/",
       "evidence": {
-        "attributedDescription": "Juno's current review identifies the GZI remix as the set's broken, nearly 2-step techno renegade; Damage Music confirms the exact title, 5:37 duration and September 4, 2026 release.",
+        "attributedDescription": "Juno identifies Ayy! individually through filterswept claps, cheeky vocals and spiky 808s; specialist retailers confirm the exact title within the four-track EP.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official duration 5:37 and release date September 4, 2026.",
-          "Exact BPM, phrase fit, perceived pulse, endpoints and mixability remain unknown."
+          "The release is dated September 4, 2026.",
+          "Exact BPM, endpoint, perceived pulse, phrase fit and mixability remain unknown."
         ]
       },
-      "fitHypothesis": "The documented break from the original dub-techno grid toward a nearly 2-step construction makes this a direct form-resistance lead; placement value remains separate.",
-      "proposedPlacements": [
-        {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": 130,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
-        },
-        {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
-        }
-      ],
-      "releaseDate": "2026-09-04",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Sinee (GZI Remix)"
-    },
-    {
-      "album": "Hidden Atmospheres",
-      "artist": "Max F",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
-      "evidence": {
-        "attributedDescription": "Boomkat describes Soul Control and Zone 6 specifically as using subtle yet hard-hitting percussion grooves and deep bass beneath ethereal pads and sweeps, with evolving arrangements; Peace World confirms the exact 4:55 title.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official duration 4:55; Apple Music dates the seven-track release April 9, 2026.",
-          "Exact BPM, individual endpoint, perceived energy, phrase fit and mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "A comparatively understated groove can belong without introducing a new mechanism; the question is whether it changes a specific passage rather than merely occupying it.",
-      "proposedPlacements": [
-        {
-          "position": "Between Tides Alternate and Too Much Time",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
-        },
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 135,
-          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
-        }
-      ],
-      "releaseDate": "2026-04-09",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Soul Control"
-    },
-    {
-      "album": "Enigmatic Dreams",
-      "artist": "Type-303",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
-      "evidence": {
-        "attributedDescription": "Cold Blow and current retailer listings confirm the exact title within Type-303's six-track release, framed across late-1980s acid, Italian dream house and early-1990s Balearic influences using 303, 808 and piano timbres.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Cold Blow lists the digital release for September 4, 2026.",
-          "Individual direction, endpoint, BPM, perceived pulse and mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "The adjacent acid/house vocabulary is credible for the selection lens, but title and release framing do not establish the individual track's form or sequence consequence.",
+      "fitHypothesis": "The documented interaction of claps, vocals and 808s supplies a concrete rhythmic proposition, while placement value remains separate.",
       "proposedPlacements": [
         {
           "position": "Between Capa and Sarniezz",
@@ -139,84 +53,84 @@
           "incomingBpm": 137,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          "purpose": "Test whether the documented claps, vocals and spiky 808s sharpen the redirection into the live-band left turn or add a self-contained club vignette."
         },
         {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
+          "position": "Between Truth in Noise and Style Teef",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          "purpose": "Test whether the exact track makes consolidation pivot deliberately toward the frazzled fault line or crowds the late-middle approach."
         }
       ],
       "releaseDate": "2026-09-04",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Calypso of Acid"
+      "track": "Ayy!"
     },
     {
-      "album": "Sinee Remixes",
-      "artist": "Alexander Kowalski",
+      "album": "The Son Of Knuf",
+      "artist": "Guy From Downstairs",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
+      "discoverySource": "https://www.juno.co.uk/",
       "evidence": {
-        "attributedDescription": "Damage Music confirms the exact 7:24 remix title and September 4, 2026 release; current retailer framing describes the remix package as rhythmic, ricocheting and dubby techno.",
+        "attributedDescription": "Juno identifies Them Roots individually as closing the EP with a psychic impression of yard-born thought set to dub techno; specialist retailers confirm the exact title.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official duration 7:24.",
-          "Exact BPM, individual structure, endpoints and mixability remain unknown."
+          "The release is dated September 4, 2026.",
+          "Exact BPM, endpoint, perceived pulse, phrase fit and mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current remix of a rhythmic dub-techno source is an honest exact-title lead; the specific remix behavior remains less described than GZI's.",
+      "fitHypothesis": "The exact track's documented dub-techno setting is compatible with the selection lens, but its internal direction and endpoint remain unknown.",
       "proposedPlacements": [
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": 130,
+          "position": "Between Truth in Noise and Style Teef",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
+          "purpose": "Test whether the documented dub-techno setting redirects groove consolidation before the fault line or inserts another completed dub stage."
         },
         {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "position": "Between Egue into hs and Cave",
+          "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
+          "outgoingBpm": 134,
+          "purpose": "Test whether a dub-rooted proposition gives fixed-pulse re-entry a distinct exit before widening or overextends the early rebuilt passage."
         }
       ],
       "releaseDate": "2026-09-04",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Sinee (SMBR Remix)"
+      "track": "Them Roots"
     },
     {
-      "album": "Hidden Atmospheres",
-      "artist": "Max F",
+      "album": "The Son Of Knuf",
+      "artist": "Guy From Downstairs",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
+      "discoverySource": "https://www.juno.co.uk/",
       "evidence": {
-        "attributedDescription": "Boomkat names Zone 6 with Soul Control while describing subtle yet hard-hitting percussion grooves, deep basslines, ethereal pads and evolving arrangements; Peace World confirms the exact 5:20 title.",
+        "attributedDescription": "Juno names the title track with Sub Conscious as breaching different tempos and frequencies; specialist retailers confirm the exact title and track order.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official duration 5:20.",
-          "The shared source paragraph does not establish Zone 6's individual endpoint, BPM or mixability."
+          "The release is dated September 4, 2026.",
+          "Exact BPM, endpoint, perceived pulse, phrase fit and mixability remain unknown."
         ]
       },
-      "fitHypothesis": "The co-described percussion-and-bass construction is a credible quieter structural lead, without assuming it shares Soul Control's exact development.",
+      "fitHypothesis": "A documented cross-tempo/frequency proposition is a direct form-resistance lead, without proving this track's individual arc.",
       "proposedPlacements": [
         {
           "position": "Between Tides Alternate and Too Much Time",
@@ -225,50 +139,7 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
-        },
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 135,
-          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
-        }
-      ],
-      "releaseDate": "2026-04-09",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Zone 6"
-    },
-    {
-      "album": "Enigmatic Dreams",
-      "artist": "Type-303",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
-      "evidence": {
-        "attributedDescription": "Cold Blow confirms Module 303 as an exact track on Type-303's Enigmatic Dreams and frames the release through late-1980s acid, Italian dream house and early-1990s Balearic influences.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Digital release listed September 4, 2026.",
-          "Exact duration, BPM, form, endpoint and mixability remain unknown from the cited page."
-        ]
-      },
-      "fitHypothesis": "The exact current title comes from a cross-era acid/house release, but neither title nor equipment references prove individual behavior.",
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          "purpose": "Test whether the release's documented breach of tempos and frequencies changes opposed-speed balance into widening or merely adds another complete temporal proposition."
         },
         {
           "position": "Between Same Way and U Belong 2 Me",
@@ -277,75 +148,32 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          "purpose": "Test whether the cross-tempo proposition clarifies the approach to the existing threshold or crowds it."
         }
       ],
       "releaseDate": "2026-09-04",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Module 303"
+      "track": "The Son Of Knuf"
     },
     {
-      "album": "Sinee Remixes",
-      "artist": "Alexander Kowalski",
+      "album": "The Son Of Knuf",
+      "artist": "Guy From Downstairs",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://damagemusicberlin.bandcamp.com/album/sinee-remixes",
+      "discoverySource": "https://www.juno.co.uk/",
       "evidence": {
-        "attributedDescription": "Damage Music confirms the exact 6:12 title and release date; current retailer framing describes Sinee and its remixes as energetic, rhythmic and dubby techno.",
+        "attributedDescription": "Juno names Sub Conscious with the title track as breaching different tempos and frequencies; specialist retailers confirm the exact title and track order.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Official duration 6:12.",
-          "Exact BPM, remix-specific structure, endpoints and mixability remain unknown."
+          "The release is dated September 4, 2026.",
+          "Exact BPM, endpoint, perceived pulse, phrase fit and mixability remain unknown."
         ]
       },
-      "fitHypothesis": "This exact current remix is credible catalogue-adjacent techno material; current evidence is package-level rather than track-specific.",
-      "proposedPlacements": [
-        {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": 130,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the documented broken, nearly 2-step remix develops Trompe L'oeil into FELT or inserts another complete rhythmic system before formation."
-        },
-        {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the broken remix turns dissolution toward temporal strain or merely adds another instability stage."
-        }
-      ],
-      "releaseDate": "2026-09-04",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Sinee (Sven Köhne Remix)"
-    },
-    {
-      "album": "Hidden Atmospheres",
-      "artist": "Max F",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://peaceworldrecords.bandcamp.com/album/hidden-atmospheres",
-      "evidence": {
-        "attributedDescription": "Peace World confirms the exact 4:51 track on Hidden Atmospheres; the release is framed as balancing meditative and kinetic material, while track-specific behavior is not described.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Official duration 4:51 and release date April 9, 2026.",
-          "Exact BPM, structure, endpoint, perceived space and mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "The exact title belongs to an overlooked house release balancing meditative and kinetic framing, but the title cannot establish dub behavior or placement.",
+      "fitHypothesis": "The shared cross-tempo/frequency description makes this an honest lead, while the source does not distinguish its individual development.",
       "proposedPlacements": [
         {
           "position": "Between Tides Alternate and Too Much Time",
@@ -354,50 +182,7 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test whether the documented subtle percussion-and-bass groove turns opposed-speed balance into physical widening or adds a self-contained house stage."
-        },
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 135,
-          "purpose": "Test whether a quieter groove deepens the widening-to-swung-continuation relation or redundantly delays Abundance."
-        }
-      ],
-      "releaseDate": "2026-04-09",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Dub Select"
-    },
-    {
-      "album": "Enigmatic Dreams",
-      "artist": "Type-303",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://coldblowrecords.bandcamp.com/track/module-303",
-      "evidence": {
-        "attributedDescription": "Cold Blow and retailer tracklists confirm Paradise within Enigmatic Dreams, a release framed through acid, dream-house and Balearic lineages.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Digital release listed September 4, 2026.",
-          "Exact duration, BPM, individual structure, emotional effect and mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "The exact current track belongs to a credible acid/house field, but its title cannot establish emotional effect or sequence role.",
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the classic acid/house vocabulary redirects Capa toward the live-band left turn or adds an unsupported stylistic exhibit."
+          "purpose": "Test whether the release's documented breach of tempos and frequencies changes opposed-speed balance into widening or merely adds another complete temporal proposition."
         },
         {
           "position": "Between Same Way and U Belong 2 Me",
@@ -406,18 +191,233 @@
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the adjacent house/acid world clarifies the threshold into U Belong 2 Me or crowds the protected approach."
+          "purpose": "Test whether the cross-tempo proposition clarifies the approach to the existing threshold or crowds it."
         }
       ],
       "releaseDate": "2026-09-04",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Paradise"
+      "track": "Sub Conscious"
+    },
+    {
+      "album": "Into the Boiling Darks",
+      "artist": "REZZETT",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://rezzett.bandcamp.com/album/into-the-boiling-darks",
+      "evidence": {
+        "attributedDescription": "REZZETT's official page confirms the exact title within a 21-track digital expansion of jams recorded over three years between London and Estonia, describing the collection collectively as unkempt but meticulous and spanning contrasting emotional states.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Official duration 3:38; release date June 26, 2026.",
+          "The shared release note does not establish this track's individual rhythm, direction, endpoint, energy, density, space, phrase structure or mixability."
+        ]
+      },
+      "fitHypothesis": "The exact short-form identity belongs to a current jam-derived adjacent field, but shared album language does not establish its individual sequence consequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether this exact identity from the documented three-year jam archive changes sudden absence into sustained re-formation or adds an unsupported episode."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the short archival piece develops descent into restrained re-entry or over-articulates the ending."
+        }
+      ],
+      "releaseDate": "2026-06-26",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Dread"
+    },
+    {
+      "album": "Into the Boiling Darks",
+      "artist": "REZZETT",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://rezzett.bandcamp.com/album/into-the-boiling-darks",
+      "evidence": {
+        "attributedDescription": "REZZETT's official page confirms the exact title within a 21-track digital expansion of jams recorded over three years between London and Estonia, describing the collection collectively as unkempt but meticulous and spanning contrasting emotional states.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Official duration 2:30; release date June 26, 2026.",
+          "The shared release note does not establish this track's individual rhythm, direction, endpoint, energy, density, space, phrase structure or mixability."
+        ]
+      },
+      "fitHypothesis": "The exact short-form identity belongs to a current jam-derived adjacent field, but shared album language does not establish its individual sequence consequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether this exact identity from the documented three-year jam archive changes sudden absence into sustained re-formation or adds an unsupported episode."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the short archival piece develops descent into restrained re-entry or over-articulates the ending."
+        }
+      ],
+      "releaseDate": "2026-06-26",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Fling It"
+    },
+    {
+      "album": "Into the Boiling Darks",
+      "artist": "REZZETT",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://rezzett.bandcamp.com/album/into-the-boiling-darks",
+      "evidence": {
+        "attributedDescription": "REZZETT's official page confirms the exact title within a 21-track digital expansion of jams recorded over three years between London and Estonia, describing the collection collectively as unkempt but meticulous and spanning contrasting emotional states.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Official duration 3:04; release date June 26, 2026.",
+          "The shared release note does not establish this track's individual rhythm, direction, endpoint, energy, density, space, phrase structure or mixability."
+        ]
+      },
+      "fitHypothesis": "The exact short-form identity belongs to a current jam-derived adjacent field, but shared album language does not establish its individual sequence consequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether this exact identity from the documented three-year jam archive changes sudden absence into sustained re-formation or adds an unsupported episode."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the short archival piece develops descent into restrained re-entry or over-articulates the ending."
+        }
+      ],
+      "releaseDate": "2026-06-26",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Third Shoe"
+    },
+    {
+      "album": "Into the Boiling Darks",
+      "artist": "REZZETT",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://rezzett.bandcamp.com/album/into-the-boiling-darks",
+      "evidence": {
+        "attributedDescription": "REZZETT's official page confirms the exact title within a 21-track digital expansion of jams recorded over three years between London and Estonia, describing the collection collectively as unkempt but meticulous and spanning contrasting emotional states.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Official duration 3:02; release date June 26, 2026.",
+          "The shared release note does not establish this track's individual rhythm, direction, endpoint, energy, density, space, phrase structure or mixability."
+        ]
+      },
+      "fitHypothesis": "The exact short-form identity belongs to a current jam-derived adjacent field, but shared album language does not establish its individual sequence consequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether this exact identity from the documented three-year jam archive changes sudden absence into sustained re-formation or adds an unsupported episode."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the short archival piece develops descent into restrained re-entry or over-articulates the ending."
+        }
+      ],
+      "releaseDate": "2026-06-26",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Clangerz"
+    },
+    {
+      "album": "Into the Boiling Darks",
+      "artist": "REZZETT",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://rezzett.bandcamp.com/album/into-the-boiling-darks",
+      "evidence": {
+        "attributedDescription": "REZZETT's official page confirms the exact title within a 21-track digital expansion of jams recorded over three years between London and Estonia, describing the collection collectively as unkempt but meticulous and spanning contrasting emotional states.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Official duration 3:18; release date June 26, 2026.",
+          "The shared release note does not establish this track's individual rhythm, direction, endpoint, energy, density, space, phrase structure or mixability."
+        ]
+      },
+      "fitHypothesis": "The exact short-form identity belongs to a current jam-derived adjacent field, but shared album language does not establish its individual sequence consequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether this exact identity from the documented three-year jam archive changes sudden absence into sustained re-formation or adds an unsupported episode."
+        },
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the short archival piece develops descent into restrained re-entry or over-articulates the ending."
+        }
+      ],
+      "releaseDate": "2026-06-26",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Bliss Up"
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-12T22:52:54Z-explore-192",
+  "runId": "2026-09-12T23:53:29Z-explore-193",
   "schemaVersion": 2,
-  "sourceCommit": "266db9185e1122f4eb9d92416c6dead6ac13b440",
+  "sourceCommit": "c71fdc94f4f609d0d5778f7d73ba37a0dfafe1cc",
   "target": "playlists/strange-gait"
 }
