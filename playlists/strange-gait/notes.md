@@ -1,5 +1,9 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 188 — REPAIR — utility-ledger table continuity
+
+Run 187's first utility publication failed closed because a blank line separated row 389 from rows 390–392. The parser guard correctly refused to publish a truncated table. This repair restores one contiguous 392-row ledger; no musical verdict, canonical order, protected state or target-local inspiration record changes.
+
 ## Run 187 — EXPLORE — identity without invented structure
 
 Pre-audit found no actionable REPAIR: 50 unique canonical tracks, exact-order map, protected positions 42–44, no active feedback or triggered revisit, and valid receipts.

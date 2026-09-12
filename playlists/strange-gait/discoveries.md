@@ -1,5 +1,13 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 188 — REPAIR — utility-ledger table continuity — 2026-09-12
+
+**Trigger:** The first Run 187 publication pass failed closed with `Ledger contains a track row after table termination on row 397.` The immutable editorial result had inserted a blank line between rows 389 and 390, so no 392-track Spotify publication was claimed.
+
+**Repair:** Removed the blank line so rows 1–392 form one contiguous Markdown table. The existing fail-closed parser guard behaved correctly; no code change is warranted. Canonical music, STRANGE GAIT order, protected state, discovery identities and verdicts are unchanged.
+
+**RUN ANALYSIS:** 1 objective publication-ledger continuity defect → 1 contiguous-table repair → 0 musical evaluations or canonical changes. Final Spotify status must come from the fresh post-repair receipt.
+
 ## Run 187 — EXPLORE — identity without invented structure — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT had 50 unique canonical tracks, an exact-order 50-track / 49-transition map, no active feedback or current TRIGGERED revisit, protected `Transparency → When We Froze → Stardancer` at positions 42–44, and a COMPLETE 50/50 receipt. EDITORIAL ENGINE — DISCOVERY POOL had 389 contiguous unique tracks and a COMPLETE 389/389 receipt. No objective repair was actionable.
