@@ -1,763 +1,894 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "c6b44198cc20f2fdd9482af8154d0f41bb0123e5ca1ac88e4d0286d50c2cba0a",
-  "generatedAt": "2026-09-12T06:57:32.324Z",
-  "runId": "2026-09-12T06:52:46Z-explore-170",
-  "sourceCommit": "4c403824dd0f4a33396642e511ac6170fc2337af",
+  "requestFingerprint": "b2a0eacf6408ba817b29a3c77890c761ef7d735c3b7c730efb7028ce67b92bbf",
+  "generatedAt": "2026-09-12T07:55:40.447Z",
+  "runId": "2026-09-12T07:50:41Z-explore-171",
+  "sourceCommit": "72039d40e9f5b3fe88f56024b5617d28b8341c1f",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait/",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 62 named tracks and release cuts across September 2026 current-release coverage from Resident Advisor, Pitchfork and Bandcamp Daily; emerging artists and labels surfaced in Bandcamp Daily's August electronic round-up; Makaya McCraven's overlooked 2025 International Anthem material; adjacent Theon Cross and Ben LaMar Gay catalogue; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
+    "timestampUtc": "2026-09-12T07:50:41Z",
+    "approximateInspectedScope": "Approximately 58 named tracks and release cuts across September 2026 current-release coverage from Pitchfork, Resident Advisor and Bandcamp Daily; adjacent collaborators and Ninja Tune context; Bonobo's overlooked 2017 Migration catalogue; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
+    "sourceWindows": [
+      "CURRENT WINDOW: Pitchfork's September 11, 2026 Distance in Static review supplied exact-track descriptions for Bonobo's current record and collaborators Arooj Aftab, Joy Crookes and Nicole Miglis. https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+      "CURRENT / EMERGING WINDOW: Resident Advisor's live September 12, 2026 front page and September 11 new-music coverage were inspected; identities already handled in persistent state were excluded. https://ra.co/",
+      "CURRENT LABEL WINDOW: Ninja Tune's current Bonobo release context was checked through the review's label and release metadata; previously unresolved Talk to Me and Youth's Fountain were not recycled.",
+      "OVERLOOKED CATALOGUE WINDOW: Pitchfork's January 14, 2017 Migration review supplied exact structural descriptions for Outlier and Migration. https://pitchfork.com/reviews/albums/22710-migration/"
+    ],
     "exclusions": [
-      "Run 169 selected, unresolved and duplicate identities were not recycled.",
-      "KAY BE, DJ Phil, DJ POPS, Nochi and other names surfaced by the current Bandcamp window were excluded after persistent-state checks showed earlier resolution, verdict, parking or unresolved history.",
+      "Run 170 selected and alternate identities were not recycled.",
+      "Bonobo — Talk to Me and Bonobo — Youth's Fountain were excluded because persistent state already records unresolved identity outcomes.",
+      "Previously handled Resident Advisor and Bandcamp candidates were excluded after checks against the canonical ledger, discoveries, discovery pool, rejected, revisit and archived history.",
+      "Only seven honest leads survived; the request was not padded to nine.",
+      "All proposed placement URIs were derived from the current ledger and verified as adjacent before this request was written.",
       "Failed Runs 164 and 167 remain technical non-completions and supplied no musical verdicts.",
-      "Every ranked Artist — Track pair was checked against the current ledger, discoveries, discovery pool, rejected, revisit and archived history before submission.",
-      "Only five honest leads survived; the request was not padded to nine.",
-      "All proposed placement URIs were derived from the current ledger and programmatically verified as adjacent before this request was written.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Makaya McCraven — Boom Bapped",
-      "2. Makaya McCraven — Gnu Blue",
-      "3. Makaya McCraven — Technology",
-      "4. Makaya McCraven — Prime",
-      "5. Makaya McCraven — Strikes Again"
-    ],
-    "sourceWindows": [
-      "CURRENT WINDOW: Resident Advisor's live September 12, 2026 front page and September 11 new-music round-up were inspected for newly announced electronic releases; previously handled candidates were excluded. https://ra.co/",
-      "CURRENT / EMERGING WINDOW: Bandcamp Daily's September 9, 2026 electronic round-up surfaced emerging and current club/electronic releases, then persistent-state checks removed already handled identities. https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026",
-      "OVERLOOKED CATALOGUE WINDOW: Bandcamp Daily's October 29, 2025 Makaya McCraven review supplies exact-track descriptions for Gnu Blue and Boom Bapped and documents the live/studio reconstruction method. https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
-      "OFFICIAL LABEL WINDOW: International Anthem verifies the Techno Logic track list, exact credits, dates and editing/composition process. https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay"
-    ],
-    "timestampUtc": "2026-09-12T06:52:46Z"
+      "1. Bonobo, Arooj Aftab — Fire on the Water",
+      "2. Bonobo — Outlier",
+      "3. Bonobo — Me and You",
+      "4. Bonobo — Migration",
+      "5. Bonobo, Joy Crookes — Always on Your Side",
+      "6. Bonobo — ID700",
+      "7. Bonobo — Uncasually"
+    ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 5,
-  "resolvedCount": 5,
+  "requestedCount": 7,
+  "resolvedCount": 4,
   "candidateCount": 3,
-  "resolutionStatus": "COMPLETE",
-  "unresolved": [],
+  "resolutionStatus": "PARTIAL",
+  "unresolved": [
+    {
+      "artist": "Bonobo, Arooj Aftab",
+      "track": "Fire on the Water",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Bonobo, Arooj Aftab",
+        "track": "Fire on the Water",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether transformed vocal material can create a deliberate post-block change of character without becoming a redundant late threshold.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test a conspicuous vocal-sheet threshold after the protected block and before the existing liminal-percussion passage."
+          },
+          {
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the vocal transformation gives the afterword a purposeful new arrival condition or adds another ending."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Bonobo",
+      "track": "Me and You",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3K3yAN6QVsLNM3tNkn8zuo, 5HGwvPsWH0NmXdAgUz3JMx, 3KhX57rQ8mhtbKiq2tyev3, 3HP8BrBwp7YT9eFypijQWE, 53SBEKyl1Pvq93q8d6KuKs)",
+      "requestedIdentity": {
+        "artist": "Bonobo",
+        "track": "Me and You",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test a clearly formed but critically frictionless groove without mistaking sample provenance or polish for sequence value.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the tightly edited bounce sharpens the move into unstable direction or merely postpones it."
+          },
+          {
+            "position": "Between Truth in Noise and Same Way",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the track changes the consolidation-to-alternating-pressure relation or inserts a self-contained extra groove."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Bonobo, Joy Crookes",
+      "track": "Always on Your Side",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Bonobo, Joy Crookes",
+        "track": "Always on Your Side",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test whether a self-contained production-world excursion can still make a deliberate, proportionate left turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the R&B-soul excursion develops the live-band turn or mediates the direct return to the electronic continuum."
+          },
+          {
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the excursion changes the closing re-entry-to-afterword relation or supplies another complete coda."
+          }
+        ]
+      }
+    }
+  ],
   "warnings": [
     {
-      "artist": "Makaya McCraven",
-      "track": "Boom Bapped",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Techno Logic (featuring Theon Cross & Ben LaMar Gay)\" but Spotify returned \"Techno Logic\""
+      "artist": "Bonobo",
+      "track": "Outlier",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2017\" but Spotify returned \"2017-01-13\""
     },
     {
-      "artist": "Makaya McCraven",
-      "track": "Gnu Blue",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Techno Logic (featuring Theon Cross & Ben LaMar Gay)\" but Spotify returned \"Techno Logic\""
+      "artist": "Bonobo",
+      "track": "Migration",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2017\" but Spotify returned \"2017-01-13\""
     },
     {
-      "artist": "Makaya McCraven",
-      "track": "Technology",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Techno Logic (featuring Theon Cross & Ben LaMar Gay)\" but Spotify returned \"Techno Logic\""
+      "artist": "Bonobo",
+      "track": "ID700",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-09-11\""
     },
     {
-      "artist": "Makaya McCraven",
-      "track": "Prime",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Techno Logic (featuring Theon Cross & Ben LaMar Gay)\" but Spotify returned \"Techno Logic\""
-    },
-    {
-      "artist": "Makaya McCraven",
-      "track": "Strikes Again",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Techno Logic (featuring Theon Cross & Ben LaMar Gay)\" but Spotify returned \"Techno Logic\""
+      "artist": "Bonobo",
+      "track": "Uncasually",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-09-11\""
     }
   ],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
-        "evidence": {
-          "attributedDescription": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a live/studio hybrid formation changes a successor's task rather than earning admission from hybridity alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "fitHypothesis": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether reconstructed ensemble motion gives FELT a changed formation task or supplies another formed stage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Truth in Noise and Same Way",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether the live/studio hybrid changes Same Way's pressure division or crowds the established consolidation-to-pressure move."
-          }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
+        "artist": "Bonobo, Arooj Aftab",
+        "track": "Fire on the Water",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
         "spotifyTrackId": null,
-        "track": "Boom Bapped"
-      },
-      "spotifyTrackId": "1GqMyZxUbGC2owsONCYQNv",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
         "evidence": {
-          "attributedDescription": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an exposed vocal/improvisational state creates meaningful liminal continuation without treating singularity as sufficient.",
+          "attributedDescription": "Pitchfork describes the exact collaboration as hypnotic and immersive, transforming Arooj Aftab's Urdu vocals into thick sheets of sound.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether transformed vocal material can create a deliberate post-block change of character without becoming a redundant late threshold.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Stardancer and Eyes of the Wind",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether the exposed vocal/improvisational state changes the liminal passage's task or delays it."
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test a conspicuous vocal-sheet threshold after the protected block and before the existing liminal-percussion passage."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Can I live and Invisible Warriors Of Light",
             "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test whether the same state gives the electro-soul afterword a changed arrival condition or creates an extra coda."
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the vocal transformation gives the afterword a purposeful new arrival condition or adds another ending."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Gnu Blue"
+        ]
       },
-      "spotifyTrackId": "0ACrjHByr2GzPVTxKbDBix",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
+        "artist": "Bonobo",
+        "track": "Outlier",
+        "album": "Migration",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/news/makaya-mccraven-announces-tour-and-four-new-eps",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
+        "fitHypothesis": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
         "evidence": {
-          "attributedDescription": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether transformed performance can leave a concrete rebuilding or re-entry problem rather than merely introduce another production world.",
+          "attributedDescription": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a long gallop-to-disintegration arc changes a local run at a proportional cost the long-form journey can support.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether altered live performance changes Never Met's electronic re-entry task or postpones it."
+            "purpose": "Test whether the gallop and disintegrating comedown deepen the pivot-to-intensification run or replace its existing logic with another complete arc."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Carried and Cave",
-            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-            "purpose": "Test whether reconstructed ensemble material gives Cave new widening work or duplicates Carried's self-emptying rupture."
-          }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Technology"
-      },
-      "spotifyTrackId": "6Q6Lg9yJd7RUOb8K824qcK",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay",
-        "evidence": {
-          "attributedDescription": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity and test a bounded placement while preserving the missing exact-track structural evidence as a decision risk.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "fitHypothesis": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether edited improvisation changes Hypnic Jerks' acceleration crisis or adds an unsupported stage."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether ensemble reconstruction leaves material for Té de Cabello Blanco to reassemble or duplicates that function."
-          }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Prime"
-      },
-      "spotifyTrackId": "2inX5HbuDbjVEzPW9r1CRX",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://intlanthem.bandcamp.com/track/strikes-again",
-        "evidence": {
-          "attributedDescription": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity and test whether a long reconstructed performance has placement consequence without inferring flow from duration or instrumentation.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "fitHypothesis": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "outgoingBpm": null,
             "position": "Between Elemental Dream and Truth in Noise",
             "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "purpose": "Test whether reconstructed performance changes Truth in Noise's consolidation task or inserts another unsupported transformation."
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its comedown makes groove consolidation newly necessary or duplicates the existing self-stripping transition."
+          }
+        ]
+      },
+      "spotifyTrackId": "6BbFwwHnzY74a8GOsDg8Sn",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Bonobo",
+        "track": "Me and You",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the exact single as bouncy, playful and tightly edited, using a 1950 Malawian field recording, while criticizing its forward motion as frictionless and compliant.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test a clearly formed but critically frictionless groove without mistaking sample provenance or polish for sequence value.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the tightly edited bounce sharpens the move into unstable direction or merely postpones it."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Truth in Noise and Same Way",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
+            "purpose": "Test whether the track changes the consolidation-to-alternating-pressure relation or inserts a self-contained extra groove."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3K3yAN6QVsLNM3tNkn8zuo, 5HGwvPsWH0NmXdAgUz3JMx, 3KhX57rQ8mhtbKiq2tyev3, 3HP8BrBwp7YT9eFypijQWE, 53SBEKyl1Pvq93q8d6KuKs)"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Bonobo",
+        "track": "Migration",
+        "album": "Migration",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
+        "fitHypothesis": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
+        "evidence": {
+          "attributedDescription": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test a piano-to-break turn while preserving unknown endpoint, density and transition behavior.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Worn Down and Hypnic Jerks",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the midway break meaningfully prepares acceleration or adds another dramatic turn before it."
+          },
+          {
             "position": "Between Stardancer and Eyes of the Wind",
             "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether the six-minute reconstructed form creates a purposeful post-block corridor or delays the existing one."
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether piano and break create a purposeful post-block character change or delay the existing corridor."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Strikes Again"
+        ]
       },
-      "spotifyTrackId": "2OdiQeuwybJw9rt7VGdCE1",
+      "spotifyTrackId": "61g7oQKm8DFEL7r2g9LS8x",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Bonobo, Joy Crookes",
+        "track": "Always on Your Side",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies the exact Joy Crookes collaboration as a groovy R&B-soul excursion within an album whose styles are tidily siloed.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test whether a self-contained production-world excursion can still make a deliberate, proportionate left turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the R&B-soul excursion develops the live-band turn or mediates the direct return to the electronic continuum."
+          },
+          {
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the excursion changes the closing re-entry-to-afterword relation or supplies another complete coda."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Bonobo",
+        "track": "ID700",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test concise contrast without inferring flow from the interlude label alone.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the interlude clarifies opposed-speed balance before widening or interrupts it."
+          },
+          {
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether concise cosmic contrast changes the post-block corridor or redundantly prefaces it."
+          }
+        ]
+      },
+      "spotifyTrackId": "3SyiwKSFhhIAz1Bb89ihdF",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Bonobo",
+        "track": "Uncasually",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+        "evidence": {
+          "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test whether an interlude can create a proportionate transition-scale reset without relying on novelty.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          ]
+        },
+        "proposedPlacements": [
+          {
+            "position": "Between Carried and Cave",
+            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the interlude gives Cave a different widening condition or erases Carried's exposed-loop consequence."
+          },
+          {
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the interlude supports flare-to-descent or delays that established relation."
+          }
+        ]
+      },
+      "spotifyTrackId": "23XvXxNvhca5O77qJoVmew",
       "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "1GqMyZxUbGC2owsONCYQNv",
-      "uri": "spotify:track:1GqMyZxUbGC2owsONCYQNv",
-      "name": "Boom Bapped",
+      "id": "6BbFwwHnzY74a8GOsDg8Sn",
+      "uri": "spotify:track:6BbFwwHnzY74a8GOsDg8Sn",
+      "name": "Outlier",
       "artists": [
-        "Makaya McCraven",
-        "Theon Cross",
-        "Ben LaMar Gay"
+        "Bonobo"
       ],
-      "album": "Techno Logic",
-      "releaseDate": "2025-10-31",
-      "durationMs": 180893,
-      "spotifyUrl": "https://open.spotify.com/track/1GqMyZxUbGC2owsONCYQNv",
+      "album": "Migration",
+      "releaseDate": "2017-01-13",
+      "durationMs": 475480,
+      "spotifyUrl": "https://open.spotify.com/track/6BbFwwHnzY74a8GOsDg8Sn",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+      "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "position": "Between Freepass for Them and Moonwake",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test whether reconstructed ensemble motion gives FELT a changed formation task or supplies another formed stage."
+          "purpose": "Test whether the gallop and disintegrating comedown deepen the pivot-to-intensification run or replace its existing logic with another complete arc."
         },
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Truth in Noise and Same Way",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether the live/studio hybrid changes Same Way's pressure division or crowds the established consolidation-to-pressure move."
+          "purpose": "Test whether its comedown makes groove consolidation newly necessary or duplicates the existing self-stripping transition."
         }
       ],
-      "fitHypothesis": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
+      "fitHypothesis": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
       "evidence": {
-        "attributedDescription": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
-        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether a live/studio hybrid formation changes a successor's task rather than earning admission from hybridity alone.",
+        "attributedDescription": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
+        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test whether a long gallop-to-disintegration arc changes a local run at a proportional cost the long-form journey can support.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
+        "artist": "Bonobo",
+        "track": "Outlier",
+        "album": "Migration",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
+        "fitHypothesis": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
         "evidence": {
-          "attributedDescription": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether a live/studio hybrid formation changes a successor's task rather than earning admission from hybridity alone.",
+          "attributedDescription": "Pitchfork describes the nearly eight-minute track as a shuffling gallop that leaves downtempo behind, then breaks down into a slowly disintegrating comedown.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Test whether a long gallop-to-disintegration arc changes a local run at a proportional cost the long-form journey can support.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "Bandcamp Daily describes the exact track as imagining Louis Armstrong sitting in on a D'Angelo track, within music where live recording and McCraven's studio reconstruction become difficult to separate.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "purpose": "Test whether reconstructed ensemble motion gives FELT a changed formation task or supplies another formed stage."
+            "purpose": "Test whether the gallop and disintegrating comedown deepen the pivot-to-intensification run or replace its existing logic with another complete arc."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Truth in Noise and Same Way",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "purpose": "Test whether the live/studio hybrid changes Same Way's pressure division or crowds the established consolidation-to-pressure move."
+            "purpose": "Test whether its comedown makes groove consolidation newly necessary or duplicates the existing self-stripping transition."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Boom Bapped"
+        ]
       }
     },
     {
-      "id": "0ACrjHByr2GzPVTxKbDBix",
-      "uri": "spotify:track:0ACrjHByr2GzPVTxKbDBix",
-      "name": "Gnu Blue",
+      "id": "61g7oQKm8DFEL7r2g9LS8x",
+      "uri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+      "name": "Migration",
       "artists": [
-        "Makaya McCraven",
-        "Theon Cross",
-        "Ben LaMar Gay"
+        "Bonobo"
       ],
-      "album": "Techno Logic",
-      "releaseDate": "2025-10-31",
-      "durationMs": 292346,
-      "spotifyUrl": "https://open.spotify.com/track/0ACrjHByr2GzPVTxKbDBix",
+      "album": "Migration",
+      "releaseDate": "2017-01-13",
+      "durationMs": 327400,
+      "spotifyUrl": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+      "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Between Worn Down and Hypnic Jerks",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
+          "purpose": "Test whether the midway break meaningfully prepares acceleration or adds another dramatic turn before it."
+        },
+        {
           "position": "Between Stardancer and Eyes of the Wind",
           "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether the exposed vocal/improvisational state changes the liminal passage's task or delays it."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "purpose": "Test whether the same state gives the electro-soul afterword a changed arrival condition or creates an extra coda."
+          "purpose": "Test whether piano and break create a purposeful post-block character change or delay the existing corridor."
         }
       ],
-      "fitHypothesis": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
+      "fitHypothesis": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
       "evidence": {
-        "attributedDescription": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
-        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether an exposed vocal/improvisational state creates meaningful liminal continuation without treating singularity as sufficient.",
+        "attributedDescription": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
+        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test a piano-to-break turn while preserving unknown endpoint, density and transition behavior.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
+        "artist": "Bonobo",
+        "track": "Migration",
+        "album": "Migration",
+        "releaseDate": "2017",
+        "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://daily.bandcamp.com/album-of-the-day/makaya-mccraven-four-eps-review",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/22710-migration/",
+        "fitHypothesis": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
         "evidence": {
-          "attributedDescription": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether an exposed vocal/improvisational state creates meaningful liminal continuation without treating singularity as sufficient.",
+          "attributedDescription": "Pitchfork describes the opener through post-classical piano and an Amen-like drum break midway that amplifies its longing.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test a piano-to-break turn while preserving unknown endpoint, density and transition behavior.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "Bandcamp Daily describes the exact track through Ben LaMar Gay's wordless, shaman-like vocal presence, within music whose live recording and studio reconstruction are deliberately hard to separate.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Worn Down and Hypnic Jerks",
+            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether the exposed vocal/improvisational state changes the liminal passage's task or delays it."
+            "purpose": "Test whether the midway break meaningfully prepares acceleration or adds another dramatic turn before it."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "purpose": "Test whether the same state gives the electro-soul afterword a changed arrival condition or creates an extra coda."
+            "purpose": "Test whether piano and break create a purposeful post-block character change or delay the existing corridor."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Gnu Blue"
+        ]
       }
     },
     {
-      "id": "6Q6Lg9yJd7RUOb8K824qcK",
-      "uri": "spotify:track:6Q6Lg9yJd7RUOb8K824qcK",
-      "name": "Technology",
+      "id": "3SyiwKSFhhIAz1Bb89ihdF",
+      "uri": "spotify:track:3SyiwKSFhhIAz1Bb89ihdF",
+      "name": "ID700",
       "artists": [
-        "Makaya McCraven",
-        "Theon Cross",
-        "Ben LaMar Gay"
+        "Bonobo"
       ],
-      "album": "Techno Logic",
-      "releaseDate": "2025-10-31",
-      "durationMs": 228346,
-      "spotifyUrl": "https://open.spotify.com/track/6Q6Lg9yJd7RUOb8K824qcK",
+      "album": "Distance in Static",
+      "releaseDate": "2026-09-11",
+      "durationMs": 236820,
+      "spotifyUrl": "https://open.spotify.com/track/3SyiwKSFhhIAz1Bb89ihdF",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://pitchfork.com/news/makaya-mccraven-announces-tour-and-four-new-eps",
+      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test whether altered live performance changes Never Met's electronic re-entry task or postpones it."
+          "purpose": "Test whether the interlude clarifies opposed-speed balance before widening or interrupts it."
         },
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "position": "Between Stardancer and Eyes of the Wind",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Carried and Cave",
-          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "purpose": "Test whether reconstructed ensemble material gives Cave new widening work or duplicates Carried's self-emptying rupture."
+          "purpose": "Test whether concise cosmic contrast changes the post-block corridor or redundantly prefaces it."
         }
       ],
-      "fitHypothesis": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
+      "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
       "evidence": {
-        "attributedDescription": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
-        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test whether transformed performance can leave a concrete rebuilding or re-entry problem rather than merely introduce another production world.",
+        "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test concise contrast without inferring flow from the interlude label alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
+        "artist": "Bonobo",
+        "track": "ID700",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://pitchfork.com/news/makaya-mccraven-announces-tour-and-four-new-eps",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
         "evidence": {
-          "attributedDescription": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Test whether transformed performance can leave a concrete rebuilding or re-entry problem rather than merely introduce another production world.",
+          "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test concise contrast without inferring flow from the interlude label alone.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "The release announcement identifies the exact track as the Techno Logic single and frames the project as a dreamlike alteration of in-person performance; official credits document drums, tuba, cornet, voice, percussion, synths, electronics and diddley bow later edited and overdubbed.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "position": "Between Tides Alternate and Too Much Time",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether altered live performance changes Never Met's electronic re-entry task or postpones it."
+            "purpose": "Test whether the interlude clarifies opposed-speed balance before widening or interrupts it."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "position": "Between Stardancer and Eyes of the Wind",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Carried and Cave",
-            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-            "purpose": "Test whether reconstructed ensemble material gives Cave new widening work or duplicates Carried's self-emptying rupture."
+            "purpose": "Test whether concise cosmic contrast changes the post-block corridor or redundantly prefaces it."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Technology"
+        ]
       }
     }
   ],
   "resolvedAlternates": [
     {
-      "id": "2inX5HbuDbjVEzPW9r1CRX",
-      "uri": "spotify:track:2inX5HbuDbjVEzPW9r1CRX",
-      "name": "Prime",
+      "id": "23XvXxNvhca5O77qJoVmew",
+      "uri": "spotify:track:23XvXxNvhca5O77qJoVmew",
+      "name": "Uncasually",
       "artists": [
-        "Makaya McCraven",
-        "Theon Cross",
-        "Ben LaMar Gay"
+        "Bonobo"
       ],
-      "album": "Techno Logic",
-      "releaseDate": "2025-10-31",
-      "durationMs": 270560,
-      "spotifyUrl": "https://open.spotify.com/track/2inX5HbuDbjVEzPW9r1CRX",
+      "album": "Distance in Static",
+      "releaseDate": "2026-09-11",
+      "durationMs": 261517,
+      "spotifyUrl": "https://open.spotify.com/track/23XvXxNvhca5O77qJoVmew",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay",
+      "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "position": "Between Carried and Cave",
+          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Worn Down and Hypnic Jerks",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "purpose": "Test whether edited improvisation changes Hypnic Jerks' acceleration crisis or adds an unsupported stage."
+          "purpose": "Test whether the interlude gives Cave a different widening condition or erases Carried's exposed-loop consequence."
         },
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "position": "Between Nukumori and Rabbit Hole",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test whether ensemble reconstruction leaves material for Té de Cabello Blanco to reassemble or duplicates that function."
+          "purpose": "Test whether the interlude supports flare-to-descent or delays that established relation."
         }
       ],
-      "fitHypothesis": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
+      "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
       "evidence": {
-        "attributedDescription": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
-        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test a bounded placement while preserving the missing exact-track structural evidence as a decision risk.",
+        "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+        "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Resolve the exact identity and test whether an interlude can create a proportionate transition-scale reset without relying on novelty.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+          "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
       },
       "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
+        "artist": "Bonobo",
+        "track": "Uncasually",
+        "album": "Distance in Static",
+        "releaseDate": "2026",
+        "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://intlanthem.bandcamp.com/album/techno-logic-featuring-theon-cross-ben-lamar-gay",
+        "searchIntent": "BOTH",
+        "discoverySource": "https://pitchfork.com/reviews/albums/bonobo-distance-in-static/",
+        "fitHypothesis": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
         "evidence": {
-          "attributedDescription": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity and test a bounded placement while preserving the missing exact-track structural evidence as a decision risk.",
+          "attributedDescription": "Pitchfork identifies the exact track as a sleek cosmic interlude; the source does not establish its individual direction or endpoint.",
+          "craftConvention": "Attributed criticism and official release metadata support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+          "editorialInterpretation": "Resolve the exact identity and test whether an interlude can create a proportionate transition-scale reset without relying on novelty.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
+            "Requested release metadata and source-described form only; exact Spotify identity, duration and resolver metadata remain for resolver."
           ]
         },
-        "fitHypothesis": "International Anthem verifies the exact track within an EP composed from performances across 2017, 2024 and 2025, with later editing, additional composition and overdubs; the source does not describe this track's individual direction or endpoint.",
         "proposedPlacements": [
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "position": "Between Carried and Cave",
+            "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Worn Down and Hypnic Jerks",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "purpose": "Test whether edited improvisation changes Hypnic Jerks' acceleration crisis or adds an unsupported stage."
+            "purpose": "Test whether the interlude gives Cave a different widening condition or erases Carried's exposed-loop consequence."
           },
           {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
             "incomingBpm": null,
+            "candidateBpm": null,
             "outgoingBpm": null,
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "purpose": "Test whether ensemble reconstruction leaves material for Té de Cabello Blanco to reassemble or duplicates that function."
+            "purpose": "Test whether the interlude supports flare-to-descent or delays that established relation."
           }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Prime"
-      }
-    },
-    {
-      "id": "2OdiQeuwybJw9rt7VGdCE1",
-      "uri": "spotify:track:2OdiQeuwybJw9rt7VGdCE1",
-      "name": "Strikes Again",
-      "artists": [
-        "Makaya McCraven",
-        "Theon Cross",
-        "Ben LaMar Gay"
-      ],
-      "album": "Techno Logic",
-      "releaseDate": "2025-10-31",
-      "durationMs": 367201,
-      "spotifyUrl": "https://open.spotify.com/track/2OdiQeuwybJw9rt7VGdCE1",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://intlanthem.bandcamp.com/track/strikes-again",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "purpose": "Test whether reconstructed performance changes Truth in Noise's consolidation task or inserts another unsupported transformation."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Stardancer and Eyes of the Wind",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether the six-minute reconstructed form creates a purposeful post-block corridor or delays the existing one."
-        }
-      ],
-      "fitHypothesis": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-      "evidence": {
-        "attributedDescription": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-        "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Resolve the exact identity and test whether a long reconstructed performance has placement consequence without inferring flow from duration or instrumentation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
         ]
-      },
-      "requestedIdentity": {
-        "album": "Techno Logic (featuring Theon Cross & Ben LaMar Gay)",
-        "artist": "Makaya McCraven",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://intlanthem.bandcamp.com/track/strikes-again",
-        "evidence": {
-          "attributedDescription": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-          "craftConvention": "Official release metadata and attributed criticism support exact-identity resolution and serious evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment; BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-          "editorialInterpretation": "Resolve the exact identity and test whether a long reconstructed performance has placement consequence without inferring flow from duration or instrumentation.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "Requested release metadata and source-described personnel/method only; exact Spotify identity, duration and resolver metadata remain for resolver."
-          ]
-        },
-        "fitHypothesis": "International Anthem verifies the exact 6:07 track within Techno Logic and its live-performance-to-edited-composition method; no source used here establishes the individual track's sonic direction or endpoint.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "purpose": "Test whether reconstructed performance changes Truth in Noise's consolidation task or inserts another unsupported transformation."
-          },
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Stardancer and Eyes of the Wind",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "purpose": "Test whether the six-minute reconstructed form creates a purposeful post-block corridor or delays the existing one."
-          }
-        ],
-        "releaseDate": "2025-10-31",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Strikes Again"
       }
     }
   ]
