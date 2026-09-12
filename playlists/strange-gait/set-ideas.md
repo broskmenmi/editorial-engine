@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 166
+
+### Bass rupture should change the reconstruction
+
+**Direction:** Explore bass-world ruptures only where their endpoint leaves a successor altered material to reassemble, redirect or descend from; reject extra impact that merely inserts another force stage or duplicates an existing flare.
+
+**Ingredients:**
+
+- Coki — *Red Rocks* — exact PARKED discovery at the Drummz/Té boundary; pre-*Sarniezz* alternative rejected
+- Coki — *Fried Dumpling* — exact placement-specific reject; current instrumental bass construction remains useful elsewhere
+- Nídia, Skrillex and DJ Lycox — seven unresolved exact-title research leads across grid refusal, tamborzão/Miami-bass mutation and cumulative polyrhythm
+
+**Why interesting:** A production-world left turn can be conspicuous and still flow when the following track has a changed task. Release-level impact does not establish that consequence by itself.
+
+**Unknown / risk:** This is a set direction, not a proven sequence or live-mixing edge. Exact endpoints, handoffs, perceived pulse, energy, density, key, phrase fit and mixability are untested or unknown.
+
 ## Current additions — Run 165
 
 ### Completed mutation should leave new work downstream

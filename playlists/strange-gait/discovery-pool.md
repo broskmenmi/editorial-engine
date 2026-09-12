@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 166 harvest — 2026-09-12
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK | Coki | Red Rocks | https://open.spotify.com/track/2slzExBhY82VQsXucYewwi | PARKED at *Drummz → candidate → Té de Cabello Blanco*; the alternative before *Sarniezz* is rejected. Current wrong-footed bass construction remains genuinely interesting; album warning preserved. |
+| EXACT TRACK | Coki | Fried Dumpling | https://open.spotify.com/track/57bndeyXXrTjJVOEME4pm6 | Placement-specific REJECT only after *Fragments* and after *Nukumori*; current instrumental bass construction remains genuinely interesting elsewhere. Album warning preserved. |
+| RESEARCH LEAD | Nídia | Sinistro; Mulher Profissional; Biotheke | https://pitchfork.com/reviews/albums/nidia-nidia-e-ma-nidia-e-fudida/ | One Spotify-SE absence and two ambiguous exact matches; preserve in discoveries.md without verdict or utility additions. |
+| RESEARCH LEAD | Skrillex | Pente Rala; Thistle | https://pitchfork.com/reviews/albums/skrillex-soma/ | Both exact-title searches were ambiguous; preserve in discoveries.md without verdict or utility additions. |
+| RESEARCH LEAD | DJ Lycox | Mortal Kombat; YAAAH | https://pitchfork.com/reviews/albums/dj-lycox-guetto-star/ | One ambiguous match and one Spotify-SE absence; preserve in discoveries.md without verdict or utility additions. |
+| RELEASE WATCH | CoKi / Tempa | Red Rocks | https://cokidmz.bandcamp.com/album/red-rocks | August 28, 2026 release window for deliberately wrong-footed bass construction; only selected exact tracks receive verdicts. |
+| CATALOGUE WATCH | Nídia / DJ Lycox / Príncipe | grid refusal, near-collapse and cumulative polyrhythm | https://pitchfork.com/reviews/tracks/19175-nidia-sinistro/ · https://pitchfork.com/reviews/albums/dj-lycox-guetto-star/ | Overlooked adjacent catalogue remains useful despite unresolved Spotify identities. |
+
+### Placement and inspiration boundaries
+
+- *Red Rocks* remains PARKED only at the Drummz/Té hypothesis; its pre-*Sarniezz* placement is rejected.
+- *Fried Dumpling* remains interesting despite placement-specific rejection; it is not globally rejected.
+- All seven unresolved leads receive no ADD, REJECT or PARKED verdict and do not enter the global utility ledger.
+- No BPM, pairwise phrase fit, perceived-pulse relation, energy, density, key, exact track structure, mixability or live edge is asserted.
+
 ## Run 165 harvest — 2026-09-12
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

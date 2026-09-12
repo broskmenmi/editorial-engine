@@ -1,5 +1,56 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 166 — EXPLORE — bass rupture versus consequential reassembly — 2026-09-12
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 352 contiguous unique exact tracks and a matching COMPLETE 352/352 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Automatic publishing was enabled.
+
+**Fresh exploration:** approximately 58 named tracks, release cuts and catalogue references were inspected across current, adjacent/emerging and overlooked-catalogue windows: Bandcamp Daily's September 9, 2026 electronic round-up and CoKi's August 28 *Red Rocks* release; Pitchfork's June 12, 2026 *SOMA* review; and Pitchfork's Nídia and DJ Lycox catalogue reviews. Run 165 identities, Run 164's malformed-request identities and every previously evaluated, parked, rejected, unresolved or alternate exact identity found in history were excluded.
+
+**Immutable request and resolution:** runId `2026-09-12T03:48:24Z-explore-166`; sourceCommit `72585d0766c64ffd7bb290272f32cfe4fc00746c`; request commit `360a3208695d29c952f73cb922dbc378b865cc19`; matching resolver snapshot commit `776502dbaa5a736181f9180327673966895705bc`; fingerprint `74accf9719870accfffd1b8e98231f657f00de6a97bcdad2a8030e016c8a2c0c`. The internally valid schemaVersion 2 snapshot is `PARTIAL`: 9 requested, 2 resolved and selected, 7 unresolved, no unselected alternates, duplicates, substitutions, relinkings or technical failures.
+
+**Ranked leads:** (1) Nídia — *Sinistro*; (2) Skrillex — *Pente Rala*; (3) CoKi — *Red Rocks*; (4) DJ Lycox — *Mortal Kombat*; (5) Nídia — *Mulher Profissional*; (6) Skrillex — *Thistle*; (7) CoKi — *Fried Dumpling*; (8) DJ Lycox — *YAAAH*; (9) Nídia — *Biotheke*.
+
+### Canonical evaluations
+
+#### Coki — Red Rocks — PARKED / one placement-specific REJECT
+
+- **Volume fit:** PASS at the adjacent bass-music edge. Bandcamp Daily embeds the title track while describing the instrumental EP as CoKi's return to pitch-bending, crunching, crashing and deliberately wrong-footed construction. The official page verifies the exact 4:36 title.
+- **Immediate transition:** At `Drummz → candidate → Té de Cabello Blanco`, a bass-world rupture could leave altered material for the existing reassembly, but the release-level description does not establish the exact track's direction or endpoint. PARKED. At `Capa → candidate → Sarniezz`, another conspicuous electronic rupture would mediate the direct live-band metric left turn. REJECT.
+- **Surrounding run:** The first hypothesis could change the `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi` run, but may also make three consecutive instability/reassembly stages. The second weakens the direct `Fulledge → Capa → Sarniezz → Never Met` production-world turn.
+- **Long form:** No addition is authorized. The Drummz/Té hypothesis remains proportionate enough to revisit only if exact direction/endpoint evidence or changed journey need makes the successor's new work demonstrable.
+- **Unknowns:** BPM, perceived pulse, energy, density, space, phrase structure, exact handoffs and mixability remain UNKNOWN or NOT TESTED.
+
+#### Coki — Fried Dumpling — placement-specific REJECT
+
+- **Volume fit:** PASS at the adjacent bass-music edge. The exact 4:36 identity is verified; Bandcamp Daily's structural language applies at release level, so no unique internal arc is invented.
+- **Immediate transition:** REJECT at `Fragments → candidate → Drummz`: release-level wrong-footing adds another force stage before the existing unpredictable-rhythm hinge without establishing a changed task. REJECT at `Nukumori → candidate → Rabbit Hole`: another bass-world flare duplicates the current flare-to-descent relation.
+- **Surrounding run:** The first insertion crowds `Mildew Swoosh → Fragments → Drummz → Té de Cabello Blanco`; the second over-articulates `Eyes of the Wind → Nukumori → Rabbit Hole → Can I live`.
+- **Long form:** Neither tested placement creates a new consequence; the track remains genuinely interesting elsewhere.
+- **Unknowns:** Exact internal structure, direction, endpoint, BPM, perceived pulse, energy, density, space, phrase structure, handoffs and mixability remain UNKNOWN or NOT TESTED.
+
+**Unresolved without musical verdict:**
+
+- Nídia — *Sinistro*: `no exact Spotify title/artist search match in market SE`
+- Skrillex — *Pente Rala*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (16zADfKuIBd0rB8YnpddBI, 67ApLzlDvlrFHvtoZfequ1)`
+- DJ Lycox — *Mortal Kombat*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (23kBGOSHJexE8zVqDJOvIZ, 3fMbMHA0QarQka7vBBRDLS)`
+- Nídia — *Mulher Profissional*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3Gc7rPBjdsynCyTu4v71ah, 16XtUvbCY9QdNSG8qKGzRT)`
+- Skrillex — *Thistle*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7ipmIWVARgxxwcXZxzRYUX, 7bqe0mNTl2Ql9JwmM8nkFg, 1oFtHbzi44zV1M0mRNhFAd, 1dvatvpAemdtN0KNwRzgF6)`
+- DJ Lycox — *YAAAH*: `no exact Spotify title/artist search match in market SE`
+- Nídia — *Biotheke*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (2QLJDqIOV6JesW07xNxjza, 4oXR5dMN01yxKpZDvyRHLN)`
+
+**Warnings preserved exactly:**
+
+- *Red Rocks*: `Exact title/artist matched with release metadata variance: album requested "Red Rocks" but Spotify returned "Red Rocks - EP"`
+- *Fried Dumpling*: `Exact title/artist matched with release metadata variance: album requested "Red Rocks" but Spotify returned "Red Rocks - EP"`
+
+**Independent inspiration:** both selected exact tracks remain genuinely interesting and are approved for the target-local discovery pool and doctrine-free global utility ledger. The seven unresolved identities remain research leads only. Current CoKi/Tempa, 2026 *SOMA*, and overlooked Príncipe catalogues remain useful watch windows. Concrete set direction: a bass rupture should leave reassembly or descent with changed material; extra impact alone does not earn sequence space.
+
+**Auditor:** APPROVED. The request and snapshot match; only the two selected exact identities received canonical evaluation; all four required dimensions are explicit per candidate; all warnings and exact resolver errors are preserved; release-level evidence was not inflated into exact-track structure; no protected-state breach, stale-data reuse, publication overclaim or utility-ledger overreach occurred. No canonical ledger or annotation change is authorized. One PARKED revisit, scoped rejections and two global utility additions are authorized.
+
+**Run analysis:** `~58 inspected → 9 leads → 2 exact resolutions + 7 unresolved → 2 evaluations → 0 ADD + 1 PARKED + 3 scoped placement rejections → 2 utility additions`. Inspection-to-lead conversion: 15.5%; lead-to-resolution conversion: 22.2%; selected-candidate-to-ADD conversion: 0/2. Across completed discovery Runs 87–166, excluding process repairs and failed Run 164: 672 leads from approximately 3,803 inspections; 31 ADDs from 206 selected candidates. The recent comparable completed-discovery ADD rate remains 4/10. The musical no-ADD streak is two completed discovery runs since Run 161, with five exact interesting tracks retained during it. The low resolution yield stems from Spotify-SE absence and exact-edition ambiguity, not resolver failure or a musical veto. No actionable REPAIR emerges.
+
+**Evidence boundary:** Audio analysis NOT TESTED. Live mixing NOT TESTED. No exact handoff, energy, density, space, phrase structure, mixability or playlist-completion claim is made.
+
 ## Run 165 — EXPLORE — self-transformation versus downstream work — 2026-09-12
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 46 unique canonical rows, a matching COMPLETE 46/46 Spotify receipt, a journey map matching canonical order, and the listener-protected `Transparency → When We Froze → Stardancer` trio intact at positions 39–41. EDITORIAL ENGINE — DISCOVERY POOL entered with 349 contiguous unique exact tracks and a matching COMPLETE 349/349 receipt. No active feedback discussion, TRIGGERED revisit, publication discrepancy or actionable objective defect existed. Run 164 remained an honest `REQUEST_NOT_COMPLETED`; its stale scout snapshot was not reused. Automatic publishing was enabled.
