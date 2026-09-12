@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-12T05:03:30Z-explore-168",
-  "sourceCommit": "ad5ecd94753adb34a06ab8828f79e88307f307ef",
+  "runId": "2026-09-12T05:08:30Z-explore-169",
+  "sourceCommit": "7c610986ae7ff27deb4e8cf05de0517e3fba47ef",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait/",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-12T04:52:49Z",
+    "timestampUtc": "2026-09-12T05:08:30Z",
     "approximateInspectedScope": "Approximately 57 named tracks, release cuts and catalogue references across Carmen Villain's September 4, 2026 Memoria release and September 8 review; Bitchin Bajas' August 28 Isle Peaks release and September 9 review; Carrier's 2025 Rhythm Immortal review and tracklist; Topdown Dialectic's 2026 False LP A and earlier Peak Oil catalogues; Jan Jelinek's Loop-Finding-Jazz-Records catalogue; related label pages; and current STRANGE GAIT inside-out boundaries. Attributed criticism and official release metadata only; no audio audition.",
     "exclusions": [
       "Run 166 selected and unresolved identities were not recycled.",
@@ -414,5 +414,5 @@
     }
   ],
   "recoveryOfRunId": "2026-09-12T04:52:49Z-explore-167",
-  "recoveryReason": "Run 167 request carried two stale, noncanonical placement URIs despite correct prose-named neighbours. The matching resolver output is ineligible and will not be evaluated. This immutable recovery preserves the same ranked leads, evidence and placement semantics while correcting only those neighbour identities from the current ledger."
+  "recoveryReason": "Resolver-only recovery: Run 167's immutable request carried two noncanonical placement URIs for Can I live and Invisible Warriors Of Light. Preserve the frozen nine-lead search semantics while correcting only those neighbour identities from the current ledger. Run 168 attempted the same correction without the required recovery declaration and failed immutable-history validation; no resolver data was produced."
 }
