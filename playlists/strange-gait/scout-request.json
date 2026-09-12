@@ -2,6 +2,7 @@
   "explorationReceipt": {
     "approximateInspectedScope": "Approximately 64 named tracks, releases and catalogue cuts across current September 11–12 electronic release pages, PROGRAMM LDN's new Oscar Later EP, adjacent Montreal minimal/dub-techno, L.I.E.S. raw-house catalogue, new Boomkat pages, Resident Advisor current reviews and overlooked 2026 label material. Official and attributed written evidence only; no audio audition.",
     "exclusions": [
+      "Run 184 is REQUEST_NOT_COMPLETED: its immutable request at commit 12bfd24a61f128ead1b114f816b225b0fff548e8 failed before Spotify lookup because Lead 1 placement 2 referenced a non-ledger URI. No Run 184 identity received a resolution, verdict or utility addition; this recovery uses a new runId and current sourceCommit.",
       "Run 183's TraTraTrax and Meakusma field and Runs 170–182 were not recycled; canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved identities and exact utility-ledger identities were excluded.",
       "Four Oscar Later tracks survived because current exact-track notes distinguish construction or internal direction. Two Excalibur/DJ Spence tracks survived through exact criticism. Three Shin Watanabe tracks survived as a weaker adjacent/catalogue field with exact attribution.",
       "Other items were excluded when they offered only prestige, generic tags, ambiguous naming, pre-release-only status, persistent-state duplication or no credible placement hypothesis.",
@@ -23,7 +24,7 @@
       "ADJACENT / EMERGING WINDOW: Montreal label Doo's Excalibur and DJ Spence collaboration has exact-track criticism for sustained micro-modulation and a fuller anxious counterpart. https://ra.co/reviews/36335",
       "OVERLOOKED CATALOGUE WINDOW: Shin Watanabe's May 2026 L.I.E.S. double album revisits raw early-house systems through disco, industrial, soul and synth-pop cross-currents. https://boomkat.com/products/red-zone-ethos-mama-trax"
     ],
-    "timestampUtc": "2026-09-12T16:50:52Z"
+    "timestampUtc": "2026-09-12T17:00:00Z"
   },
   "leads": [
     {
@@ -56,11 +57,11 @@
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:51H8ZgSHVvvLVtGUZ7jKhZ",
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPCKUS08fPVj4so81TpNh",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
           "purpose": "Test whether sketch-to-club development clarifies the unstable turn or delays its consequence."
         }
       ],
@@ -262,7 +263,7 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:4Yhdbak6e9AH0YuJIvCcw9",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Stadium Drive and Marauder",
@@ -305,7 +306,7 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:4gmDRdgMYcJsq0AlRNjhmV",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Same Way and U Belong 2 Me",
@@ -314,11 +315,11 @@
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:28lIl94DVTlOrqtW1Vf9C3",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyClpnOOZo6sK7g5bcrD",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "purpose": "Test whether the shift is a deliberate final afterword or reopens the journey."
         }
       ],
@@ -348,7 +349,7 @@
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:7C9tNtGFOwgoJ1zvkRQqrI",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Sarniezz and Never Met",
@@ -357,7 +358,7 @@
         },
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:5diSoBY8VjU4N8GNrdoce5",
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Atlantis and Hypnic Jerks",
@@ -395,7 +396,7 @@
           "incomingBpm": null,
           "outgoingBpm": null,
           "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sqekTHzMjrKKADBkfToKq",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
           "purpose": "Test whether it changes the hand-drum-to-mutation relation or adds another settled stage."
         },
         {
@@ -415,8 +416,8 @@
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-12T16:50:52Z-explore-184",
+  "runId": "2026-09-12T17:00:00Z-explore-185",
   "schemaVersion": 2,
-  "sourceCommit": "bb67fd684da073df52d406574d72f67e0774e46a",
+  "sourceCommit": "12bfd24a61f128ead1b114f816b225b0fff548e8",
   "target": "playlists/strange-gait"
 }
