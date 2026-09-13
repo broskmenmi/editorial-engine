@@ -1,340 +1,340 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T08:50:47Z-explore-207",
-  "sourceCommit": "4c6e637cc31d656524af582986fdb6af361a4f4e",
+  "runId": "2026-09-13T09:50:52Z-explore-208",
+  "sourceCommit": "9cee346a391e935f0ffd7603c32a3a6aabc318b4",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T08:50:47Z",
-    "approximateInspectedScope": "Approximately 63 named tracks, current release cuts, adjacent label material and overlooked 2026 catalogue selections across Juno's current techno/electro listings, Boomkat's September 11 new-release field and Limousine Dream's 2026 compilation catalogue. Written metadata and attributed exact-track descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T09:50:52Z",
+    "approximateInspectedScope": "Approximately 61 named tracks, current release cuts and overlooked catalogue selections across Boomkat's September 11 new-release field, current electronic and techno/house pages, and adjacent dub, experimental-song and instrumental-guitar windows. Written metadata and attributed exact-track descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Rene Wise's Moving Pressure 07 and Planet Rhythm's What Time Is Love EP were both released 2026-09-10, while Curbside Lambsear's debut arrived 2026-09-11; each supplied differentiated exact-track propositions. https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/ · https://www.juno.co.uk/products/planet-rhythm-what-time-is-love-ep-vinyl/1172334-01/ · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
-      "ADJACENT / EMERGING WINDOW: Belarus-born, Poland-based PRIDI's Nesreh debut and Curbside Lambsear's electronic/post-rock debut supplied roaming, echoing and song-disassembly questions beyond one techno room. https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/ · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
-      "OVERLOOKED / CATALOGUE WINDOW: Vakula's March 2026 Pure Delay debut and Limousine Dream's March 2026 Life Spiral compilation supplied polyrhythmic, acid, dub and off-kilter forms that had not entered STRANGE GAIT's durable history. https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/ · https://www.juno.co.uk/products/life-spiral-vinyl/1135044-01/"
+      "CURRENT RELEASE WINDOW: Turning Jewels Into Water's Morning Birds and Distant Drums and Regina Collage's Horizont appeared in Boomkat's 11 September 2026 field with differentiated exact-track descriptions. https://boomkat.com/products/morning-birds-and-distant-drums · https://boomkat.com/products/horizont",
+      "ADJACENT / EMERGING WINDOW: Regina Collage's distorted machine-song forms and Dean McPhee's looping, unusual-meter guitar work supplied candidate-specific structural questions outside a single techno production world. https://boomkat.com/products/horizont · https://boomkat.com/products/northern-earth",
+      "OVERLOOKED / CATALOGUE WINDOW: Black Steel's 1988 Jungle Warrior and Soichi Terada's early-1990s Far East Recording material were considered through current reissue circulation, without nostalgia or prestige credit. https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78 · https://boomkat.com/products/sounds-from-the-far-east-2025-edition"
     ],
     "exclusions": [
-      "Recent Runs 198–206 source fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
-      "The five-run repetition check avoided every placement boundary proposed in completed exploration Runs 198, 201, 202, 203 and 206. Current placements are candidate-specific questions, not a boundary-distribution quota.",
+      "Run 207's entire source field, recent Runs 201–207 fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
+      "The five-run repetition check avoided every exact placement boundary proposed in completed exploration Runs 201, 202, 203, 206 and 207. Current placements are candidate-specific questions, not a boundary-distribution quota.",
       "Nine leads survived because each has differentiated exact-track evidence and a concrete transition/local-run/long-form question; no list slot was padded.",
       "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Rene Wise — Night Time Swim",
-      "2. Vakula — Pulsation",
-      "3. PRIDI — Disembarkation",
-      "4. Planet Rhythm — What Time Is Love",
-      "5. Curbside Lambsear — Jjochstubn",
-      "6. Mungo Sound Machine — Spiral Run",
-      "7. Vakula — Spaceman",
-      "8. PRIDI — Hollow Whispers",
-      "9. Curbside Lambsear — Avril"
+      "1. Turning Jewels Into Water — A Fire of Flowers",
+      "2. Turning Jewels Into Water — In Dombivili",
+      "3. Turning Jewels Into Water — Tapori Beat Special",
+      "4. Black Steel — Celestial Rock + Dub",
+      "5. Black Steel — Jungle Spirit + Dub",
+      "6. Regina Collage — Davno",
+      "7. Regina Collage — I Hope",
+      "8. Soichi Terada — Rising Sun Up",
+      "9. Dean McPhee — Indica Fields"
     ]
   },
   "leads": [
     {
-      "artist": "Rene Wise",
-      "track": "Night Time Swim",
-      "album": "Moving Pressure 07",
-      "releaseDate": "2026-09-10",
+      "artist": "Turning Jewels Into Water",
+      "track": "A Fire of Flowers",
+      "album": "Morning Birds and Distant Drums",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/",
-      "fitHypothesis": "Its documented stereo-panned bass reaching a point of instability offers a current techno form whose internal escalation can be tested by consequence, not loudness or orthodoxy.",
+      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
+      "fitHypothesis": "A rolling syncopated beat, off-grid looped voices and cross-regional rhythmic references offer a current exact-track test of multi-stable motion without making complexity an admission shortcut.",
       "proposedPlacements": [
         {
-          "position": "Between Marauder and The Witching Hour",
-          "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "incomingBpm": 136,
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "incomingBpm": 138,
           "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
+          "outgoingBpm": null,
+          "purpose": "Test whether its off-grid rolling construction changes unpredictable rhythm into a newly legible condition for reassembly, or merely adds another busy stage."
         }
       ],
       "evidence": {
         "measured": [
-          "Juno lists the exact 6:07 title on Moving Pressure 07, released 2026-09-10.",
-          "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno identifies Night Time Swim as the standout and describes stereo-panned, rubber-ball-like bass reaching a point of madness.",
+        "attributedDescription": "Boomkat describes a rolling, syncopated beat, brittle synths, looped voices just off the grid, claps and rhythmelodic knocks, with drill sub and arpeggiated synth references.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
+        "editorialInterpretation": "Test whether its off-grid rolling construction changes unpredictable rhythm into a newly legible condition for reassembly, or merely adds another busy stage."
       }
     },
     {
-      "artist": "Vakula",
-      "track": "Pulsation",
-      "album": "Pulsation",
-      "releaseDate": "2026-03-30",
+      "artist": "Turning Jewels Into Water",
+      "track": "In Dombivili",
+      "album": "Morning Birds and Distant Drums",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
-      "fitHypothesis": "A documented polyrhythmic, tribal-inflected techno construction directly tests rhythmic freedom without treating complexity as automatic admission.",
+      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
+      "fitHypothesis": "Echoing transformer-like scratches and an illbient lineage offer a sparse production-world intervention whose usefulness depends on downstream consequence.",
       "proposedPlacements": [
         {
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "incomingBpm": 130,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the transformer-scratch field gives the dubwise reset a productive unstable residue before rolling formation, or delays a direct re-formation."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat differentiates the exact track through echoing transformer scratches that warm up a reference to New York illbient.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the transformer-scratch field gives the dubwise reset a productive unstable residue before rolling formation, or delays a direct re-formation."
+      }
+    },
+    {
+      "artist": "Turning Jewels Into Water",
+      "track": "Tapori Beat Special",
+      "album": "Morning Birds and Distant Drums",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
+      "fitHypothesis": "Its documented search for a midpoint between kuduro and Haitian spiritual forms presents rhythmic freedom as relation rather than novelty.",
+      "proposedPlacements": [
+        {
+          "position": "Between Atlantis and Hypnic Jerks",
+          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the cross-rhythmic midpoint makes the micro-repetition hinge tip purposefully into acceleration crisis, or inserts a second complete premise before Hypnic Jerks."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat says the exact track searches for a midpoint between kuduro and Haitian spiritual forms within a sparse, highly focused percussion-led album.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the cross-rhythmic midpoint makes the micro-repetition hinge tip purposefully into acceleration crisis, or inserts a second complete premise before Hypnic Jerks."
+      }
+    },
+    {
+      "artist": "Black Steel",
+      "track": "Celestial Rock + Dub",
+      "album": "Jungle Warrior",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78",
+      "fitHypothesis": "A long-overlooked steppers construction with documented swirl and heave provides a catalogue test of propulsion across a conspicuous dub production world.",
+      "proposedPlacements": [
+        {
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "candidateBpm": null,
+          "outgoingBpm": 135,
+          "purpose": "Test whether its swirling heave gives Cave's widening a distinct propelled consequence before swung-funk continuation, or creates an unrelated full dub scene."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat identifies Celestial Rock + Dub as a Jungle Warrior centrepiece distinguished by swirling colours and heave, within Black Steel's rugged, etheric and propulsive 1988 Ariwa sound.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its swirling heave gives Cave's widening a distinct propelled consequence before swung-funk continuation, or creates an unrelated full dub scene."
+      }
+    },
+    {
+      "artist": "Black Steel",
+      "track": "Jungle Spirit + Dub",
+      "album": "Jungle Warrior",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78",
+      "fitHypothesis": "The exact track's documented pitching roil offers an overlooked rhythmic destabilization test across dub and techno contexts.",
+      "proposedPlacements": [
+        {
+          "position": "Between Serpentine Tale and Too Much Time",
+          "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 130,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the pitching roil changes the new low-slung consequence into a purposeful launch toward widening, or overextends the already lengthened passage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat singles out Jungle Spirit + Dub for its pitching roil within the album's effortless propulsion and three-dimensional dub design.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the pitching roil changes the new low-slung consequence into a purposeful launch toward widening, or overextends the already lengthened passage."
+      }
+    },
+    {
+      "artist": "Regina Collage",
+      "track": "Davno",
+      "album": "Horizont",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/horizont",
+      "fitHypothesis": "Voice moving around distorted drum machine and ebbing analogue synths supplies an emerging exact-track left turn whose structural value can be tested without inferring mood as flow.",
+      "proposedPlacements": [
+        {
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": 138,
-          "purpose": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
+          "purpose": "Test whether the distorted machine-song state lets self-stripping percussion leave a clearer condition for groove consolidation, or refills space before Truth in Noise."
         }
       ],
       "evidence": {
         "measured": [
-          "Juno lists the exact title on Vakula's four-track Pure Delay release dated 2026-03-30.",
-          "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno differentiates Pulsation as polyrhythmic, tribal-inflected techno drawing on Livity Sound and Timedance.",
+        "attributedDescription": "Boomkat describes Davno through voice floating around a distorted drum machine and ebbing analogue synths, shaped into casual verses.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
+        "editorialInterpretation": "Test whether the distorted machine-song state lets self-stripping percussion leave a clearer condition for groove consolidation, or refills space before Truth in Noise."
       }
     },
     {
-      "artist": "PRIDI",
-      "track": "Disembarkation",
-      "album": "Nesreh001",
-      "releaseDate": "2026-02-19",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
-      "fitHypothesis": "A roaming, threading bassline cut by sharp hits offers a directional deep-techno proposition rather than a demand for surface weirdness.",
-      "proposedPlacements": [
-        {
-          "position": "Between Too Much Time and Freepass for Them",
-          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Juno lists Disembarkation as the 5:39 A1 on Nesreh001, released 2026-02-19.",
-          "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes the exact track through a roaming, threading bassline and sharp hits cutting through a swampy, muddy field.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
-      }
-    },
-    {
-      "artist": "Planet Rhythm",
-      "track": "What Time Is Love",
-      "album": "What Time Is Love EP",
-      "releaseDate": "2026-09-10",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/planet-rhythm-what-time-is-love-ep-vinyl/1172334-01/",
-      "fitHypothesis": "A crazed remake driven by roughened kicks and shearing 909s offers a current transformation test; reference familiarity and force do not justify admission by themselves.",
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Juno lists the exact 5:29 title on the EP released 2026-09-10.",
-          "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes a crazed rendition roughened and reinforced at the kick, with shearing 909s made wilder than the source.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
-      }
-    },
-    {
-      "artist": "Curbside Lambsear",
-      "track": "Jjochstubn",
-      "album": "Put Rings On All My Fingers To Weigh Down My Hands",
+      "artist": "Regina Collage",
+      "track": "I Hope",
+      "album": "Horizont",
       "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
-      "fitHypothesis": "Its documented dismantling of song form across time-stretched voice, crooked slowed drums and unstable electronics is a legitimate structural-freedom proposition outside a single club-production world.",
+      "discoverySource": "https://boomkat.com/products/horizont",
+      "fitHypothesis": "A bass-led song that anticipates a beat which never arrives offers a structural withholding proposition, not a claim that beatlessness automatically creates space.",
       "proposedPlacements": [
         {
-          "position": "Between Nukumori and Rabbit Hole",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "position": "Between Hypnic Jerks and Tides Alternate",
+          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
+          "purpose": "Test whether the withheld beat gives acceleration crisis a purposeful false arrival before opposed-speed balance, or breaks the relation without a changed consequence."
         }
       ],
       "evidence": {
         "measured": [
-          "The debut EP was released 2026-09-11; Boomkat identifies Jjochstubn as a roughly four-minute exact track.",
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes keyboard mash, time-stretched voice, crooked slowed drums and malfunctioning-air-conditioner textures pulling apart the traces of a song.",
+        "attributedDescription": "Boomkat describes words curling around a Hooky-style bassline that anticipates a beat which never comes.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
+        "editorialInterpretation": "Test whether the withheld beat gives acceleration crisis a purposeful false arrival before opposed-speed balance, or breaks the relation without a changed consequence."
       }
     },
     {
-      "artist": "Mungo Sound Machine",
-      "track": "Spiral Run",
-      "album": "Life Spiral",
-      "releaseDate": "2026-03-24",
+      "artist": "Soichi Terada",
+      "track": "Rising Sun Up",
+      "album": "Sounds from the Far East (2025 Edition)",
+      "releaseDate": "2025",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/life-spiral-vinyl/1135044-01/",
-      "fitHypothesis": "A bleeping, off-kilter opener from an emerging compilation field can test how a concise odd-angle groove changes a hand-drum mutation passage.",
+      "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
+      "fitHypothesis": "Crafty chords and an interlocking groove from an early-1990s catalogue window offer a concrete rhythmic relation test without prestige or nostalgia credit.",
       "proposedPlacements": [
         {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
+          "purpose": "Test whether the interlocking groove turns burst-and-disappearance into a legible re-formation before sustained motion, or softens the rupture prematurely."
         }
       ],
       "evidence": {
         "measured": [
-          "Juno lists Spiral Run as the opening track of Life Spiral, released 2026-03-24.",
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno singles out Mungo Sound Machine's exact track as the compilation's bleeping, off-kilter opener.",
+        "attributedDescription": "Boomkat differentiates Rising Sun Up through crafty chords and an interlocking groove in Soichi Terada's early-1990s Far East Recording catalogue.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
+        "editorialInterpretation": "Test whether the interlocking groove turns burst-and-disappearance into a legible re-formation before sustained motion, or softens the rupture prematurely."
       }
     },
     {
-      "artist": "Vakula",
-      "track": "Spaceman",
-      "album": "Pulsation",
-      "releaseDate": "2026-03-30",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
-      "fitHypothesis": "Increasingly wild acid lines inside spaced-out electro provide a documented internal escalation whose sequence value must be tested beyond genre or novelty.",
-      "proposedPlacements": [
-        {
-          "position": "Between Roxellana and backsliding",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Juno lists the exact title on the four-track Pulsation release dated 2026-03-30.",
-          "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno differentiates Spaceman as spaced-out intergalactic electro whose acid lines become increasingly wild and intense.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
-      }
-    },
-    {
-      "artist": "PRIDI",
-      "track": "Hollow Whispers",
-      "album": "Nesreh001",
-      "releaseDate": "2026-02-19",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
-      "fitHypothesis": "An echoing, industrially haunted deep-techno form offers a spatially described boundary question without allowing atmosphere alone to establish flow.",
-      "proposedPlacements": [
-        {
-          "position": "Between Encasadelciegoeltuerco and Carried",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "followingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Juno lists Hollow Whispers as the 6:26 A2 on Nesreh001, released 2026-02-19.",
-          "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes unsettling echo and distant groans, likened to a long-forgotten factory.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
-      }
-    },
-    {
-      "artist": "Curbside Lambsear",
-      "track": "Avril",
-      "album": "Put Rings On All My Fingers To Weigh Down My Hands",
+      "artist": "Dean McPhee",
+      "track": "Indica Fields",
+      "album": "Northern Earth",
       "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
-      "fitHypothesis": "Casual voice over euphoric noise, compressed drums and feedback supplies a current production-world left turn that must earn downstream consequence rather than novelty credit.",
+      "discoverySource": "https://boomkat.com/products/northern-earth",
+      "fitHypothesis": "A slow stately procession with a documented melodic coda, made with looping, unusual meter and sub pressure, offers an adjacent instrumental form test outside a single sonic room.",
       "proposedPlacements": [
         {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "position": "Between Stadium Drive and Marauder",
+          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
+          "outgoingBpm": 136,
+          "purpose": "Test whether the stately procession gives transformation-led formation a deliberate heavy pause before the opening anchor, or overbuilds the overture."
         }
       ],
       "evidence": {
         "measured": [
-          "The debut EP was released 2026-09-11 and Boomkat names Avril among its five tracks.",
+          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes casual words over euphoric noise, hyper-compressed drums and feedback cohering into a near-pop song.",
+        "attributedDescription": "Boomkat describes Indica Fields as a slow, stately procession with a sublime melodic coda; the album uses looping, unusual meter, a snare-drum pedal and an 18-inch sub.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
+        "editorialInterpretation": "Test whether the stately procession gives transformation-led formation a deliberate heavy pause before the opening anchor, or overbuilds the overture."
       }
     }
   ]
