@@ -1,431 +1,433 @@
 {
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 61 named tracks, release cuts, reviews and catalogue references across live September 2026 Juno and Bandcamp windows, Resident Advisor's current 2026 reviews, FAUZIA's official adjacent song-form release, 747 and Night Format current club material, and Boards of Canada's current archival transmission. Written metadata and attributed descriptions only; no audio audition.",
+    "approximateInspectedScope": "Approximately 63 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 techno window, official Bandcamp and distributor pages, COW and PS11 emerging hardware-led fields, Alex Wilcox's current vinyl-contextualized June digital release, adjacent label catalogues and overlooked acid, broken-beat and experimental-techno catalogue material. Written metadata and attributed descriptions only; no audio audition.",
     "exclusions": [
-      "Runs 169–193 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, prior ranked leads, unselected alternates and exact utility-ledger identities were excluded.",
-      "The immediately prior REZZETT and Guy From Downstairs fields were excluded. Reptant, RHR, earlier FAUZIA titles and C-System identities surfaced during research but were removed after persistent-state checks.",
+      "Runs 170–196 artist and release fields were not recycled. Canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, prior ranked leads, unselected alternates and exact utility-ledger identities were excluded.",
+      "The immediately prior FAUZIA, 747, Boards of Canada, Night Format, BRNT and D.A.V.E. The Drummer field was excluded. Previously unresolved End Of Perception identities and the still-forthcoming Sa Pa September 14 release watch were also excluded.",
       "The scan covered current releases, adjacent/emerging artists and labels, and overlooked or newly contextualized catalogue material. Nine exact-title leads survived without padding.",
       "Every placement pair was re-derived from the current 52-track ledger and checked for adjacency. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
-      "No Spotify connector, raw audio, audio-feature inference or invented identity was used.",
-      "Failed Runs 194 and 195 are preserved separately as REQUEST_NOT_COMPLETED; this standalone request uses the same fresh field with exact current-ledger placement URIs."
+      "No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. FAUZIA — I Can be anything",
-      "2. 747 — Aurora Centralis",
-      "3. Boards of Canada — Tape 05",
-      "4. 747 — Night Passage",
-      "5. Night Format — Indecisive",
-      "6. FAUZIA — Just a dream",
-      "7. BRNT — Pleasure Circuit",
-      "8. 747 — Tenke",
-      "9. D.A.V.E. The Drummer — Indecisive - D.A.V.E. The Drummer Remix"
+      "1. PS11 — Mid Point",
+      "2. COW — Dead Air",
+      "3. Alex Wilcox — Recess",
+      "4. COW — Velvet",
+      "5. PS11 — Stratos",
+      "6. Alex Wilcox — Drowsy Outside",
+      "7. PS11 — Timble Snake",
+      "8. Alex Wilcox — I Never Know",
+      "9. COW — Shinkansen"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Juno's live September 2026 techno listings supplied exact tracklists and track-specific descriptions for 747, BRNT and Night Format. https://www.juno.co.uk/techno/this-week/",
-      "ADJACENT / EMERGING WINDOW: FAUZIA's official July 17 EP and Resident Advisor review supplied exact song-form evidence crossing jungle, downtempo, guitar and spatial rhythmic construction. https://fauzia.bandcamp.com/ · https://ra.co/reviews/36363",
-      "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: Resident Advisor's April 2026 exact-track review and Warp's official release context supplied Boards of Canada's drumless Tape 05 structure. https://ra.co/reviews/36346 · https://warp.net/artists/boards-of-canada"
+      "CURRENT RELEASE WINDOW: Juno's live September 2026 listings supplied exact tracklists and track-specific descriptions for COW, PS11 and Alex Wilcox. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: COW's official UMAY release and PS11's current limited Downside Up release supplied exact identities and emerging-artist context. https://umay.bandcamp.com/album/open-the-closed · https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
+      "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: Alex Wilcox's June digital release re-entered the current field through the September vinyl listing, supplying concise exact identities across frantic, contemplative and Detroit-framed directions. https://alexwilcox.bandcamp.com/album/rumpelstiltskin"
     ],
-    "timestampUtc": "2026-09-13T01:07:30Z"
+    "timestampUtc": "2026-09-13T01:53:43Z"
   },
   "leads": [
     {
-      "album": "I Was Here For a Moment",
-      "artist": "FAUZIA",
+      "album": "Stratos EP",
+      "artist": "PS11",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/36363",
+      "discoverySource": "https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
       "evidence": {
-        "attributedDescription": "Resident Advisor describes gnarled subs and fading drums producing a spatial rhythm before guitar redirects the exact track toward Americana; FAUZIA's official page confirms the four-track EP and its jungle, downtempo and guitar-driven frame.",
+        "attributedDescription": "Juno describes the exact track as serene and spacious, with a broken beat and widescreen outlook; a current retailer independently describes it as an uplifting but hard-hitting break before the release returns to pressure.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Release date 2026-07-17.",
+          "Release date 2026-09-07.",
+          "Juno lists the release as a September 2026 limited 12-inch and the exact track as 5:50.",
           "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
         ]
       },
-      "fitHypothesis": "The documented internal redirection offers a direct form-resistance proposition whose sequence value must be tested at both boundaries.",
+      "fitHypothesis": "A documented broken-beat opening-out is an honest structural proposition, while neither boundary is assumed to need a bridge.",
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
           "incomingBpm": null,
           "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test whether the documented subs/drums-to-guitar redirection makes the live-band return consequential or inserts a second complete change of production world."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "purpose": "Test whether the track's own redirection develops descent into restrained re-entry or over-articulates the ending."
-        }
-      ],
-      "releaseDate": "2026-07-17",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "I Can be anything"
-    },
-    {
-      "album": "Aurora Centralis EP",
-      "artist": "747",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes surreal processed vocals set against 303-driven ambience on the exact title track; Aquaregia confirms the current four-track edition.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 7:04 duration.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "A voice-and-acid proposition can resist one fixed techno form, while placement consequence remains to be established.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "purpose": "Test whether processed voice against 303 ambience changes crooked accumulation into the surge or adds a self-contained acid scene."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "purpose": "Test whether the exact track gives reset a different internal tension before formation or over-articulates the passage."
-        }
-      ],
-      "releaseDate": "2026-09-03",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Aurora Centralis"
-    },
-    {
-      "album": "Tape 05",
-      "artist": "Boards of Canada",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://ra.co/reviews/36346",
-      "evidence": {
-        "attributedDescription": "Resident Advisor's exact-track review describes a drumless ambient construction whose dusty chords and rising synth material open into a larger motif and harp refrain; Warp and Boards of Canada's official channels identify the track.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-04-16.",
-          "The track was first shared on April 16, 2026 and reviewed April 17, 2026.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "A drumless structural turn can belong to the volume without being treated as a mandatory ambient reset.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test whether the drumless crescendo makes the move from live-band return into reset feel purposeful or delays that reset."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether the documented expansion and refrain deepen the closing pivot or crowd it."
-        }
-      ],
-      "releaseDate": "2026-04-16",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Tape 05"
-    },
-    {
-      "album": "Aurora Centralis EP",
-      "artist": "747",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno says the exact track dissolves the preceding tension into a disorienting, buoyant state closer to floating than dancing.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 5:40 duration.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "The documented dissolution supplies a clear structural action, without proving that either placement needs another release.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "purpose": "Test whether documented dissolution sharpens continuum into acceleration or adds another suspended stage."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether floating disorientation changes the closing pivot or overextends it."
-        }
-      ],
-      "releaseDate": "2026-09-03",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Night Passage"
-    },
-    {
-      "album": "Night Format Records 002",
-      "artist": "Night Format",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes the exact track as fizzing, rusted synths layered over weighty percussion, landing with a clang.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 5:46 duration.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "The documented opposed materials fit the selection lens, while the track's endpoint and local effect require exact evaluation.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "purpose": "Test whether the rusted-synth/percussion collision changes instability into reassembly or repeats instability."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Truth in Noise and Style Teef",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether the exact collision gives consolidation a useful rupture before the fault line or crowds the approach."
-        }
-      ],
-      "releaseDate": "2026-09-03",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Indecisive"
-    },
-    {
-      "album": "I Was Here For a Moment",
-      "artist": "FAUZIA",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://fauzia.bandcamp.com/",
-      "evidence": {
-        "attributedDescription": "FAUZIA's official page says the exact closing track emerged from a studio jam and is tender, elusive and subtly crafted inside a jungle, downtempo and guitar-driven EP.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-07-17.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "Jam-derived song form is a lawful adjacent proposition; the source does not prove either canonical handoff.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "purpose": "Test whether the jam-derived closer prepares the live-band return or dilutes its directness."
-        },
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "purpose": "Test whether the subtle closing form develops the ending or inserts an undocumented extra scene."
-        }
-      ],
-      "releaseDate": "2026-07-17",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Just a dream"
-    },
-    {
-      "album": "Night Format Records 002",
-      "artist": "BRNT",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes the exact track as locking into a rolling groove built for extended blends rather than showy drops.",
-        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
-        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 5:32 duration.",
-          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
-        ]
-      },
-      "fitHypothesis": "Functional continuity is eligible under the selection lens, but apparent smoothness cannot justify placement by itself.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test whether the rolling construction gives widening a useful intermediate scale or merely adds another formed groove."
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "purpose": "Test whether the broken-beat opening-out makes disappearance into sustained motion more consequential or inserts a self-contained release."
         },
         {
           "candidateBpm": null,
           "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "incomingBpm": null,
-          "outgoingBpm": null,
+          "outgoingBpm": 140,
           "position": "Between Tides Alternate and Too Much Time",
           "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test whether functional continuity clarifies opposed-speed balance into widening or lengthens it."
+          "purpose": "Test whether the track changes opposed-speed balance into widening or adds another spacious stage."
         }
       ],
-      "releaseDate": "2026-09-03",
+      "releaseDate": "2026-09-07",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Pleasure Circuit"
+      "track": "Mid Point"
     },
     {
-      "album": "Aurora Centralis EP",
-      "artist": "747",
+      "album": "Open The Closed",
+      "artist": "COW",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://umay.bandcamp.com/album/open-the-closed",
       "evidence": {
-        "attributedDescription": "Juno describes a thumping acid bassline pulling the exact track into heavier, more physical territory in contrast with the release opener.",
+        "attributedDescription": "Juno describes the exact closer as leaving the release unsettled; the official page confirms its 5:31 identity inside an EP built around movement before any one fixed sound.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 7:35 duration.",
+          "Release date 2026-09-01.",
+          "Official duration 5:31.",
           "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
         ]
       },
-      "fitHypothesis": "The documented contrast makes this an honest exact lead, not proof of energy, flow or a chapter role.",
+      "fitHypothesis": "An unsettled endpoint and movement-led release frame fit the selection lens, while the track's exact internal direction remains only partly documented.",
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "incomingBpm": 138,
           "outgoingBpm": null,
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "purpose": "Test whether acid-bass weight changes formation into deformation or supplies another complete formed stage."
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "purpose": "Test whether the unsettled closer changes instability into reassembly or merely repeats unsettledness."
         },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "incomingBpm": 136,
+          "outgoingBpm": null,
+          "position": "Between Pulse I and Roxellana",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "purpose": "Test whether the track turns crooked accumulation toward surge or supplies another complete tense scene."
+        }
+      ],
+      "releaseDate": "2026-09-01",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Dead Air"
+    },
+    {
+      "album": "rumpelstiltskin",
+      "artist": "Alex Wilcox",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://alexwilcox.bandcamp.com/album/rumpelstiltskin",
+      "evidence": {
+        "attributedDescription": "Juno describes the exact track as a frantic techno hot-stepper; the artist's official page confirms the concise 3:58 identity on the seven-track release.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-06-19.",
+          "Official duration 3:58.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "Concise frantic motion can be proportionate without proving energy continuity, endpoint or either handoff.",
+      "proposedPlacements": [
         {
           "candidateBpm": null,
           "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
           "incomingBpm": null,
-          "outgoingBpm": null,
+          "outgoingBpm": 140,
           "position": "Between Freepass for Them and Moonwake",
           "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "purpose": "Test whether the documented physical contrast sharpens the existing groove pivot or duplicates its build."
+          "purpose": "Test whether the concise hot-step changes the groove pivot into intensification or duplicates the existing build."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": 140,
+          "outgoingBpm": 138,
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "purpose": "Test whether compressed frantic motion gives fragmentation a useful consequence before instability or crowds it."
         }
       ],
-      "releaseDate": "2026-09-03",
+      "releaseDate": "2026-06-19",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Tenke"
+      "track": "Recess"
     },
     {
-      "album": "Night Format Records 002",
-      "artist": "D.A.V.E. The Drummer",
+      "album": "Open The Closed",
+      "artist": "COW",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://umay.bandcamp.com/album/open-the-closed",
       "evidence": {
-        "attributedDescription": "Juno says the remix strips Night Format's original down further into a warehouse-oriented construction.",
+        "attributedDescription": "Juno describes the exact track as having a more liquid flow, with sharper percussion cutting through; the official page confirms its 5:31 identity.",
         "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
         "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Release date 2026-09-03.",
-          "Juno lists a 6:51 duration.",
+          "Release date 2026-09-01.",
+          "Official duration 5:31.",
           "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
         ]
       },
-      "fitHypothesis": "Reduction can produce structural freedom, but the source does not establish phrase behavior, endpoint or mixability.",
+      "fitHypothesis": "Opposed liquid flow and sharp percussion offer a mutable movement proposition without establishing perceived energy or a transition.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
+          "outgoingBpm": 135,
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "purpose": "Test whether liquid flow and sharper percussion create a useful intermediate relation between widening and swung continuation."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": null,
+          "outgoingBpm": 138,
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "purpose": "Test whether the exact opposition changes formation into deformation or adds another formed stage."
+        }
+      ],
+      "releaseDate": "2026-09-01",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Velvet"
+    },
+    {
+      "album": "Stratos EP",
+      "artist": "PS11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
+      "evidence": {
+        "attributedDescription": "Juno describes the exact title track as anxious, pent-up and unresolved; a current retailer identifies tightly wound hardware-driven club rhythm holding its tension in place.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-09-07.",
+          "Juno lists the exact track as 5:58.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "Held unresolved tension is eligible, but metadata does not establish hypnosis, density, perceived energy or sequence gain.",
       "proposedPlacements": [
         {
           "candidateBpm": null,
           "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": null,
+          "incomingBpm": 138,
           "outgoingBpm": null,
           "position": "Between Truth in Noise and Style Teef",
           "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether the stripped construction gives consolidation a useful consequence before the fault line or adds another utilitarian stage."
+          "purpose": "Test whether held tension gives consolidation a consequential rupture before the fault line or stalls the approach."
         },
         {
           "candidateBpm": null,
           "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": null,
-          "outgoingBpm": null,
+          "incomingBpm": 134,
+          "outgoingBpm": 135,
           "position": "Between Cave and Abundance",
           "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "purpose": "Test whether reduction changes widening into swung continuation or crowds it."
+          "purpose": "Test whether unresolved tension changes widening into swung continuation or adds another suspended stage."
         }
       ],
-      "releaseDate": "2026-09-03",
+      "releaseDate": "2026-09-07",
       "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Indecisive - D.A.V.E. The Drummer Remix"
+      "track": "Stratos"
+    },
+    {
+      "album": "rumpelstiltskin",
+      "artist": "Alex Wilcox",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://alexwilcox.bandcamp.com/album/rumpelstiltskin",
+      "evidence": {
+        "attributedDescription": "Juno describes the exact track as pulling the release into hazier, more contemplative territory; the artist's official page confirms its 5:29 identity.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-06-19.",
+          "Official duration 5:29.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "A contemplative character change can belong without functioning as a mandatory reset; both placement consequences require separate evaluation.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "incomingBpm": null,
+          "outgoingBpm": 130,
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "purpose": "Test whether the hazier turn makes live-band return into reset more purposeful or delays that reset."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "purpose": "Test whether contemplation deepens the closing pivot or crowds it."
+        }
+      ],
+      "releaseDate": "2026-06-19",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Drowsy Outside"
+    },
+    {
+      "album": "Stratos EP",
+      "artist": "PS11",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
+      "evidence": {
+        "attributedDescription": "Juno describes the exact closer through tight loops, inky bass and increased suspense; a current retailer additionally attributes warped vocal textures.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-09-07.",
+          "Juno lists the exact track as 5:36.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "A pressure-building closer fits the selection lens, while tight loops and bass do not establish energy, hypnosis or mixability.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between backsliding and Mildew Swoosh",
+          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "purpose": "Test whether tightened suspense gives dissolution a productive intermediate strain or delays the established hinge."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "incomingBpm": 140,
+          "outgoingBpm": 138,
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "purpose": "Test whether looped suspense changes fragmentation into instability or repeats that pressure."
+        }
+      ],
+      "releaseDate": "2026-09-07",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Timble Snake"
+    },
+    {
+      "album": "rumpelstiltskin",
+      "artist": "Alex Wilcox",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://alexwilcox.bandcamp.com/album/rumpelstiltskin",
+      "evidence": {
+        "attributedDescription": "Juno describes the exact closer as classic Detroit techno reimagined toward a utopian frame; the artist's official page confirms its 5:33 identity.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-06-19.",
+          "Official duration 5:33.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "The exact closer is an honest adjacent proposition, but category and tonal framing alone cannot prove form, endpoint or transition quality.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "incomingBpm": 130,
+          "outgoingBpm": null,
+          "position": "Between Trompe L'oeil and FELT",
+          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "purpose": "Test whether the Detroit-framed closer makes reset into formation newly consequential or inserts another complete formed world."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "outgoingBpm": null,
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "purpose": "Test whether its closing proposition changes the post-protected pivot or adds another finale."
+        }
+      ],
+      "releaseDate": "2026-06-19",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "I Never Know"
+    },
+    {
+      "album": "Open The Closed",
+      "artist": "COW",
+      "bpm": null,
+      "bpmSource": null,
+      "discoverySource": "https://umay.bandcamp.com/album/open-the-closed",
+      "evidence": {
+        "attributedDescription": "The official page confirms the exact 5:31 opener; Juno describes the EP collectively as tense, unpredictable and built around dancers and movement before any one fixed sound, but does not isolate this track's internal form.",
+        "craftConvention": "Attributed exact-track or tightly scoped release evidence supports resolution and evaluation. Canonical admission still requires separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. BPM is context only; perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain UNKNOWN unless lawful evidence supplies them.",
+        "editorialInterpretation": "Test the exact identity at the stated lawful boundaries without presuming sonic sameness, a seamless mix, a fixed chapter role or a mandatory downstream repair.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "Release date 2026-09-01.",
+          "Official duration 5:31.",
+          "Individual rhythm, direction and endpoint remain undocumented.",
+          "Exact BPM, endpoint, phrase fit and live mixability remain unknown unless stated above."
+        ]
+      },
+      "fitHypothesis": "The exact opener is interesting enough to resolve, while release-level evidence must not be mistaken for track-specific behavior.",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "incomingBpm": null,
+          "outgoingBpm": 136,
+          "position": "Between Stadium Drive and Marauder",
+          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "purpose": "Test whether the underdescribed opener gives the transformation-led overture a useful consequence before the anchor or extends the preface."
+        },
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "position": "Between Tides Alternate and Too Much Time",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "purpose": "Test whether it creates a useful movement relation or adds an undocumented stage."
+        }
+      ],
+      "releaseDate": "2026-09-01",
+      "searchIntent": "BOTH",
+      "spotifyTrackId": null,
+      "track": "Shinkansen"
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-13T01:07:30Z-explore-196",
+  "runId": "2026-09-13T01:53:43Z-explore-197",
   "schemaVersion": 2,
-  "sourceCommit": "4018c002325252662018fe30a8d9b5b89609edf1",
+  "sourceCommit": "7664019e31bb84781bed135027670346bb59d81d",
   "target": "playlists/strange-gait"
 }
