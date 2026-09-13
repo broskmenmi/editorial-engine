@@ -1,214 +1,253 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "6f57a329f6367b36ef1f7408c66815b6735c85aac36f91094be433a735ee10d8",
-  "generatedAt": "2026-09-13T10:57:04.683Z",
-  "runId": "2026-09-13T10:52:06Z-explore-209",
-  "sourceCommit": "c9b9a6412700acba2b6c3f472df1a070a1b9fb43",
+  "requestFingerprint": "8e3284443d0bf9782ea6aa24ef317f1d44b3834befecf1ca0284a0beb91d1122",
+  "generatedAt": "2026-09-13T11:54:55.896Z",
+  "runId": "2026-09-13T11:50:27Z-explore-210",
+  "sourceCommit": "be878527478efd35aabf433ee53a52793b5eb50e",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T10:52:06Z",
-    "approximateInspectedScope": "Approximately 62 named tracks and versions across Juno's September 2026 breakbeat, electro and techno recommendation fields, with current remix/release cuts, adjacent electro forms and overlooked Detroit/techno catalogue material. Written metadata and attributed exact-track descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T11:50:27Z",
+    "approximateInspectedScope": "Approximately 61 named tracks across Clone's current Breaks catalogue, the 2026 Ilian Tape field and Animalia's emerging-artist catalogue. Written catalogue metadata and attributed release or exact-track descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Mind Games Remixes LP Part 1 supplied differentiated August 2026 exact-track descriptions for broken-beat, crawling, displaced-stab and narrative-remix structures. https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-      "ADJACENT / EMERGING WINDOW: DMX Krew and Ben Pest supplied exact electro propositions whose restless cover logic and mechanical breakdowns cross the volume's selection lens without requiring one production world. https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-      "OVERLOOKED / CATALOGUE WINDOW: Galaxy 2 Galaxy's reissue and BIZ's current limited-series circulation reopened Detroit/jazz and metallic-percussive catalogue questions without prestige credit. https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart"
+      "CURRENT RELEASE WINDOW: Delta Division's August 2026 Dead Channels Ritual release supplied broken-system, tension and grit propositions across techno, bass and breaks. https://clone.nl/item84189.html",
+      "ADJACENT / EMERGING WINDOW: Aedis's 2026 Animalia debut supplied off-centre, dub-tinged, small-shift groove propositions without requiring one production world. https://clone.nl/item81667.html",
+      "OVERLOOKED / CATALOGUE WINDOW: Skee Mask's February 2026 ISS012 field supplied four groovy, wobbly techno-hybrid exact-title questions from the Ilian Tape catalogue. https://clone.nl/item82428.html"
     ],
     "exclusions": [
-      "Run 208's entire source field, recent Runs 202–208 fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
-      "The five-run repetition check avoided every selected boundary from completed exploration Runs 202, 203, 206, 207 and 208. Current placements are candidate-specific questions, not a boundary-distribution quota.",
-      "Nine leads survived because each has exact-track or exact-version evidence and a concrete transition/local-run/long-form question; no list slot was padded.",
-      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. Stardancer → Migration is not protected by implication. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Run 209's entire source field, completed Runs 203 and 206–209 source fields, every prior ranked lead and alternate found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
+      "The five-completed-exploration repetition check avoided every selected candidate boundary from Runs 203, 206, 207, 208 and 209. Placements are candidate-specific hypotheses, not a boundary-distribution quota.",
+      "Nine leads survived because each has an exact title, concrete current/emerging/catalogue source context, a constitution-relevant belonging hypothesis and a lawful placement question; no list slot was padded.",
+      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. David Gtronic, Reboot, Voigtmann — Leave Your Body - Voigtmann's Broken Tequila Mix",
-      "2. DMX Krew — Voices Inside My Head",
-      "3. Galaxy 2 Galaxy — Star Sailing",
-      "4. David Gtronic, Reboot, Cristi Cons — Loose - Cristi Cons Remix",
-      "5. David Gtronic, Reboot, Mihai Pol — Mind Games - Mihai Pol Remix",
-      "6. David Gtronic, Reboot, Alexis Cabrera — Kongafluss - Alexis Cabrera Tell Me A Story Remix",
-      "7. Model 500, DJ Stingray — IDLE - DJ Stingray Remix",
-      "8. Ben Pest — Shruthi EB",
-      "9. BIZ — Monozukuri"
+      "1. Skee Mask — The Usual Suspects",
+      "2. Aedis — Saense",
+      "3. Delta Division — Rupture",
+      "4. Skee Mask — Primotiv",
+      "5. Aedis — Extarnel",
+      "6. Delta Division — ST600",
+      "7. Skee Mask — Highkey Phasing",
+      "8. Aedis — Ortogon",
+      "9. Delta Division — Dead Channel Rituals"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 4,
-  "candidateCount": 3,
-  "resolutionStatus": "PARTIAL",
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
   "unresolved": [
     {
-      "artist": "David Gtronic, Reboot, Voigtmann",
-      "track": "Leave Your Body - Voigtmann's Broken Tequila Mix",
+      "artist": "Skee Mask",
+      "track": "The Usual Suspects",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Voigtmann",
-        "track": "Leave Your Body - Voigtmann's Broken Tequila Mix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Skee Mask",
+        "track": "The Usual Suspects",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A broken-beat remix described through off-axis elasticity offers a serious bodily multi-stability test without treating rhythmic novelty as sufficient.",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "A track from an explicitly groovy, wobbly techno-hybrid release offers a serious test of flexible bodily propulsion without assuming the release-level description proves the individual form.",
         "proposedPlacements": [
           {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 139,
-            "purpose": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Voigtmann's remix as opening in broken-beat mode with off-axis elasticity.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
-        }
-      }
-    },
-    {
-      "artist": "David Gtronic, Reboot, Cristi Cons",
-      "track": "Loose - Cristi Cons Remix",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Cristi Cons",
-        "track": "Loose - Cristi Cons Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A pared-down crawl offers a continuation test between suspension and fixed-kick re-entry without assuming restraint is automatically connective.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tender Is The Night and Egue into hs",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "incomingBpm": null,
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": 135,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
+            "purpose": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Cristi Cons's remix as paring Loose down to a hooting, lasery crawl.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
+          "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
         }
       }
     },
     {
-      "artist": "David Gtronic, Reboot, Mihai Pol",
-      "track": "Mind Games - Mihai Pol Remix",
+      "artist": "Aedis",
+      "track": "Saense",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Mihai Pol",
-        "track": "Mind Games - Mihai Pol Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Aedis",
+        "track": "Saense",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "Deep rolling minimalism disrupted by out-of-time stabs offers a precise instability test inside a mutating percussive passage.",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "Off-centre, dub-tinged groove built from small shifts fits the selection lens and merits an exact-track test without treating minimal structure as automatically connective.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+            "outgoingBpm": 136,
+            "purpose": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Mihai Pol's remix as deep, rolling minimalism punctured by out-of-time stabs.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+          "attributedDescription": "Clone describes the Saense EP collectively as off-centre, deep and dub-tinged, with rhythm upfront and small shifts and textures doing the work.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
         }
       }
     },
     {
-      "artist": "David Gtronic, Reboot, Alexis Cabrera",
-      "track": "Kongafluss - Alexis Cabrera Tell Me A Story Remix",
+      "artist": "Delta Division",
+      "track": "Rupture",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Alexis Cabrera",
-        "track": "Kongafluss - Alexis Cabrera Tell Me A Story Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Delta Division",
+        "track": "Rupture",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A narrative move from legato motion toward ambient and progressive space offers an ending-scale redirection test rather than a smoothness claim.",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "A track explicitly associated with surgical tension inside a broken-system rhythmic release offers a serious structural-freedom test beyond novelty.",
         "proposedPlacements": [
           {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+            "outgoingBpm": 138,
+            "purpose": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Alexis Cabrera's remix as nudging Kongafluss toward legato, ambient and progressive vistas.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+          "attributedDescription": "Clone describes Rupture through surgical tension within an EP of ritualistic rhythms born from broken systems.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
         }
       }
     },
     {
-      "artist": "Model 500, DJ Stingray",
-      "track": "IDLE - DJ Stingray Remix",
+      "artist": "Skee Mask",
+      "track": "Primotiv",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Model 500, DJ Stingray",
-        "track": "IDLE - DJ Stingray Remix",
-        "album": "IDLE (remixes)",
-        "releaseDate": "2026-08-24",
+        "artist": "Skee Mask",
+        "track": "Primotiv",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "A futurist electro acceleration derived from a cyborg-funk source offers a continuation test between groove pivot and intensification.",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "A second exact title from the groovy, wobbly hybrid release offers a distinct identity-resolution question; its individual mechanics remain unknown.",
+        "proposedPlacements": [
+          {
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 134,
+            "purpose": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP; it does not distinguish Primotiv's individual direction.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
+        }
+      }
+    },
+    {
+      "artist": "Aedis",
+      "track": "Extarnel",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Aedis",
+        "track": "Extarnel",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "Release-level off-centre groove and subtle evolution make Extarnel a credible contender while leaving its individual endpoint open.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes the Saense EP collectively through dub-tinged groove, minimal structure and small shifts rather than individual track mechanics.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
+        }
+      }
+    },
+    {
+      "artist": "Delta Division",
+      "track": "ST600",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Delta Division",
+        "track": "ST600",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "The source's explicit grit makes ST600 a concrete bodily-material proposition inside a broken-rhythm frame, without proving its direction or placement.",
         "proposedPlacements": [
           {
             "position": "Between Freepass for Them and Moonwake",
@@ -217,196 +256,176 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+            "purpose": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes the original as cyborg funk with electro rhythms and says DJ Stingray pushes the remix into high-velocity futurist territory.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+          "attributedDescription": "Clone identifies ST600 with grit and places it inside a release framed around distortion as language and ritualistic rhythms.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
+        }
+      }
+    },
+    {
+      "artist": "Skee Mask",
+      "track": "Highkey Phasing",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Skee Mask",
+        "track": "Highkey Phasing",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "The exact title is a credible hybrid-techno contender from a release explicitly framed by groove and wobble; individual phasing behavior must remain unknown until stronger evidence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes ISS012 collectively as a groovy and wobbly techno hybrid EP; no individual sonic claim is assigned to Highkey Phasing.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
+        }
+      }
+    },
+    {
+      "artist": "Aedis",
+      "track": "Ortogon",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Aedis",
+        "track": "Ortogon",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "A debut-release track from an off-centre groove system offers a credible exact identity question for the late passage without assuming title or genre proves geometry.",
+        "proposedPlacements": [
+          {
+            "position": "Between Eyes of the Wind and Nukumori",
+            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes the Saense EP collectively as deep, dub-tinged and movement-anchored, with small shifts carrying its development.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
+        }
+      }
+    },
+    {
+      "artist": "Delta Division",
+      "track": "Dead Channel Rituals",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Delta Division",
+        "track": "Dead Channel Rituals",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "A title track framed around communication through collapse and broken-system ritual offers a credible structural proposition for the final re-entry-to-afterword relation.",
+        "proposedPlacements": [
+          {
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone frames Dead Channel Rituals through communication beyond collapse, ritualistic rhythms and distortion becoming language.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
         }
       }
     }
   ],
-  "warnings": [
-    {
-      "artist": "DMX Krew",
-      "track": "Voices Inside My Head",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-08-31\" but Spotify returned \"2026-08-14\""
-    },
-    {
-      "artist": "Galaxy 2 Galaxy",
-      "track": "Star Sailing",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Galaxy 2 Galaxy (reissue)\" but Spotify returned \"Galaxy 2 Galaxy: A High Tech Jazz Compilation\"; release date requested \"2026-06-22\" but Spotify returned \"2005\""
-    },
-    {
-      "artist": "Ben Pest",
-      "track": "Shruthi EB",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-08-31\" but Spotify returned \"2026-08-14\""
-    },
-    {
-      "artist": "BIZ",
-      "track": "Monozukuri",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Biz Limited Series #3\" but Spotify returned \"Monozukuri\"; release date requested \"2026-06-29\" but Spotify returned \"2024-06-10\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Voigtmann",
-        "track": "Leave Your Body - Voigtmann's Broken Tequila Mix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Skee Mask",
+        "track": "The Usual Suspects",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A broken-beat remix described through off-axis elasticity offers a serious bodily multi-stability test without treating rhythmic novelty as sufficient.",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "A track from an explicitly groovy, wobbly techno-hybrid release offers a serious test of flexible bodily propulsion without assuming the release-level description proves the individual form.",
         "proposedPlacements": [
           {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 139,
-            "purpose": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Voigtmann's remix as opening in broken-beat mode with off-axis elasticity.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
-        }
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "DMX Krew",
-        "track": "Voices Inside My Head",
-        "album": "Voices Inside My Head / On The Beach",
-        "releaseDate": "2026-08-31",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "A no-wave dub-disco cover recast as restless electro offers an adjacent-world test of transformation and return rather than genre belonging by name.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": null,
+            "position": "Between Abundance and Foundry",
+            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "incomingBpm": 135,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
+            "purpose": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes the exact cover as a squelchy, bleeping, funky and restless electro/nu-disco re-imagining of a no-wave dub-disco source.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
-        }
-      },
-      "spotifyTrackId": "4hKBBvzgDm5rFGpyfnKa1a",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Galaxy 2 Galaxy",
-        "track": "Star Sailing",
-        "album": "Galaxy 2 Galaxy (reissue)",
-        "releaseDate": "2026-06-22",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-        "fitHypothesis": "An overlooked Detroit catalogue cut combining acid, synth-heavy jazz and analogue drums offers a structured production-world continuation after the protected block.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Star Sailing as a thriving ecosystem of acid, synth-heavy jazz and analogue drums.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
-        }
-      },
-      "spotifyTrackId": "78u4errSiEmxrmakIwJQer",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Cristi Cons",
-        "track": "Loose - Cristi Cons Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A pared-down crawl offers a continuation test between suspension and fixed-kick re-entry without assuming restraint is automatically connective.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tender Is The Night and Egue into hs",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Cristi Cons's remix as paring Loose down to a hooting, lasery crawl.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
+          "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -414,37 +433,37 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Mihai Pol",
-        "track": "Mind Games - Mihai Pol Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Aedis",
+        "track": "Saense",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "Deep rolling minimalism disrupted by out-of-time stabs offers a precise instability test inside a mutating percussive passage.",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "Off-centre, dub-tinged groove built from small shifts fits the selection lens and merits an exact-track test without treating minimal structure as automatically connective.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+            "outgoingBpm": 136,
+            "purpose": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Mihai Pol's remix as deep, rolling minimalism punctured by out-of-time stabs.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+          "attributedDescription": "Clone describes the Saense EP collectively as off-centre, deep and dub-tinged, with rhythm upfront and small shifts and textures doing the work.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -452,37 +471,37 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "David Gtronic, Reboot, Alexis Cabrera",
-        "track": "Kongafluss - Alexis Cabrera Tell Me A Story Remix",
-        "album": "Mind Games Remixes LP Part 1",
-        "releaseDate": "2026-08-24",
+        "artist": "Delta Division",
+        "track": "Rupture",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
-        "fitHypothesis": "A narrative move from legato motion toward ambient and progressive space offers an ending-scale redirection test rather than a smoothness claim.",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "A track explicitly associated with surgical tension inside a broken-system rhythmic release offers a serious structural-freedom test beyond novelty.",
         "proposedPlacements": [
           {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+            "outgoingBpm": 138,
+            "purpose": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Alexis Cabrera's remix as nudging Kongafluss toward legato, ambient and progressive vistas.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+          "attributedDescription": "Clone describes Rupture through surgical tension within an EP of ritualistic rhythms born from broken systems.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
@@ -490,16 +509,92 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Model 500, DJ Stingray",
-        "track": "IDLE - DJ Stingray Remix",
-        "album": "IDLE (remixes)",
-        "releaseDate": "2026-08-24",
+        "artist": "Skee Mask",
+        "track": "Primotiv",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "A futurist electro acceleration derived from a cyborg-funk source offers a continuation test between groove pivot and intensification.",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "A second exact title from the groovy, wobbly hybrid release offers a distinct identity-resolution question; its individual mechanics remain unknown.",
+        "proposedPlacements": [
+          {
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 134,
+            "purpose": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP; it does not distinguish Primotiv's individual direction.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Aedis",
+        "track": "Extarnel",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "Release-level off-centre groove and subtle evolution make Extarnel a credible contender while leaving its individual endpoint open.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Clone describes the Saense EP collectively through dub-tinged groove, minimal structure and small shifts rather than individual track mechanics.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Delta Division",
+        "track": "ST600",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "The source's explicit grit makes ST600 a concrete bodily-material proposition inside a broken-rhythm frame, without proving its direction or placement.",
         "proposedPlacements": [
           {
             "position": "Between Freepass for Them and Moonwake",
@@ -508,396 +603,138 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": 140,
-            "purpose": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+            "purpose": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes the original as cyborg funk with electro rhythms and says DJ Stingray pushes the remix into high-velocity futurist territory.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+          "attributedDescription": "Clone identifies ST600 with grit and places it inside a release framed around distortion as language and ritualistic rhythms.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
         }
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Ben Pest",
-        "track": "Shruthi EB",
-        "album": "Lacquer Of Empathy EP",
-        "releaseDate": "2026-08-31",
+        "artist": "Skee Mask",
+        "track": "Highkey Phasing",
+        "album": "ISS012",
+        "releaseDate": "2026-02-20",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "Full-bodied electro rhythm combined with twitchy synth motion and mechanical breakdown offers an exact deformation-to-conflict test.",
+        "discoverySource": "https://clone.nl/item82428.html",
+        "fitHypothesis": "The exact title is a credible hybrid-techno contender from a release explicitly framed by groove and wobble; individual phasing behavior must remain unknown until stronger evidence.",
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Shruthi EB as full-fat electro rhythm joined to twitchy synths and mechanical meltdowns.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
-        }
-      },
-      "spotifyTrackId": "3DzK6EOtu12YsTBlaldabH",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "BIZ",
-        "track": "Monozukuri",
-        "album": "Biz Limited Series #3",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-        "fitHypothesis": "Metallic percussive texture and a distinct lead supply an overlooked catalogue-style test of how swung continuation can tilt into directional instability.",
-        "proposedPlacements": [
-          {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Monozukuri as prickly, with metallic percussive textures and a forlorn lead.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-        }
-      },
-      "spotifyTrackId": "34SbdNILggB48O7QBSsuLb",
-      "selected": false
-    }
-  ],
-  "candidates": [
-    {
-      "id": "4hKBBvzgDm5rFGpyfnKa1a",
-      "uri": "spotify:track:4hKBBvzgDm5rFGpyfnKa1a",
-      "name": "Voices Inside My Head",
-      "artists": [
-        "DMX Krew"
-      ],
-      "album": "Voices Inside My Head / On The Beach",
-      "releaseDate": "2026-08-14",
-      "durationMs": 323921,
-      "spotifyUrl": "https://open.spotify.com/track/4hKBBvzgDm5rFGpyfnKa1a",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
-        }
-      ],
-      "fitHypothesis": "A no-wave dub-disco cover recast as restless electro offers an adjacent-world test of transformation and return rather than genre belonging by name.",
-      "evidence": {
-        "measured": [
-          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes the exact cover as a squelchy, bleeping, funky and restless electro/nu-disco re-imagining of a no-wave dub-disco source.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
-      },
-      "requestedIdentity": {
-        "artist": "DMX Krew",
-        "track": "Voices Inside My Head",
-        "album": "Voices Inside My Head / On The Beach",
-        "releaseDate": "2026-08-31",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "A no-wave dub-disco cover recast as restless electro offers an adjacent-world test of transformation and return rather than genre belonging by name.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "position": "Between Amor and Elemental Dream",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
+            "purpose": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes the exact cover as a squelchy, bleeping, funky and restless electro/nu-disco re-imagining of a no-wave dub-disco source.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
+          "attributedDescription": "Clone describes ISS012 collectively as a groovy and wobbly techno hybrid EP; no individual sonic claim is assigned to Highkey Phasing.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
         }
-      }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "id": "78u4errSiEmxrmakIwJQer",
-      "uri": "spotify:track:78u4errSiEmxrmakIwJQer",
-      "name": "Star Sailing",
-      "artists": [
-        "Galaxy 2 Galaxy"
-      ],
-      "album": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
-      "releaseDate": "2005",
-      "durationMs": 391706,
-      "spotifyUrl": "https://open.spotify.com/track/78u4errSiEmxrmakIwJQer",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
-        }
-      ],
-      "fitHypothesis": "An overlooked Detroit catalogue cut combining acid, synth-heavy jazz and analogue drums offers a structured production-world continuation after the protected block.",
-      "evidence": {
-        "measured": [
-          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Star Sailing as a thriving ecosystem of acid, synth-heavy jazz and analogue drums.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
-      },
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Galaxy 2 Galaxy",
-        "track": "Star Sailing",
-        "album": "Galaxy 2 Galaxy (reissue)",
-        "releaseDate": "2026-06-22",
+        "artist": "Aedis",
+        "track": "Ortogon",
+        "album": "Saense",
+        "releaseDate": "2026-01-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-        "fitHypothesis": "An overlooked Detroit catalogue cut combining acid, synth-heavy jazz and analogue drums offers a structured production-world continuation after the protected block.",
+        "discoverySource": "https://clone.nl/item81667.html",
+        "fitHypothesis": "A debut-release track from an off-centre groove system offers a credible exact identity question for the late passage without assuming title or genre proves geometry.",
         "proposedPlacements": [
           {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
+            "position": "Between Eyes of the Wind and Nukumori",
+            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
+            "purpose": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Star Sailing as a thriving ecosystem of acid, synth-heavy jazz and analogue drums.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
+          "attributedDescription": "Clone describes the Saense EP collectively as deep, dub-tinged and movement-anchored, with small shifts carrying its development.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
         }
-      }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "id": "3DzK6EOtu12YsTBlaldabH",
-      "uri": "spotify:track:3DzK6EOtu12YsTBlaldabH",
-      "name": "Shruthi EB",
-      "artists": [
-        "Ben Pest"
-      ],
-      "album": "Lacquer of Empathy EP",
-      "releaseDate": "2026-08-14",
-      "durationMs": 272086,
-      "spotifyUrl": "https://open.spotify.com/track/3DzK6EOtu12YsTBlaldabH",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
-        }
-      ],
-      "fitHypothesis": "Full-bodied electro rhythm combined with twitchy synth motion and mechanical breakdown offers an exact deformation-to-conflict test.",
-      "evidence": {
-        "measured": [
-          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Shruthi EB as full-fat electro rhythm joined to twitchy synths and mechanical meltdowns.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
-      },
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Ben Pest",
-        "track": "Shruthi EB",
-        "album": "Lacquer Of Empathy EP",
-        "releaseDate": "2026-08-31",
+        "artist": "Delta Division",
+        "track": "Dead Channel Rituals",
+        "album": "Dead Channels Ritual",
+        "releaseDate": "2026-08-12",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
-        "fitHypothesis": "Full-bodied electro rhythm combined with twitchy synth motion and mechanical breakdown offers an exact deformation-to-conflict test.",
+        "discoverySource": "https://clone.nl/all/tag/Breaks",
+        "fitHypothesis": "A title track framed around communication through collapse and broken-system ritual offers a credible structural proposition for the final re-entry-to-afterword relation.",
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
+            "position": "Between Can I live and Invisible Warriors Of Light",
+            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+            "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
+            "purpose": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
           }
         ],
         "evidence": {
           "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+            "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
             "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Shruthi EB as full-fat electro rhythm joined to twitchy synths and mechanical meltdowns.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
+          "attributedDescription": "Clone frames Dead Channel Rituals through communication beyond collapse, ritualistic rhythms and distortion becoming language.",
+          "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
         }
-      }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "34SbdNILggB48O7QBSsuLb",
-      "uri": "spotify:track:34SbdNILggB48O7QBSsuLb",
-      "name": "Monozukuri",
-      "artists": [
-        "Biz"
-      ],
-      "album": "Monozukuri",
-      "releaseDate": "2024-06-10",
-      "durationMs": 328125,
-      "spotifyUrl": "https://open.spotify.com/track/34SbdNILggB48O7QBSsuLb",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "incomingBpm": 135,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-        }
-      ],
-      "fitHypothesis": "Metallic percussive texture and a distinct lead supply an overlooked catalogue-style test of how swung continuation can tilt into directional instability.",
-      "evidence": {
-        "measured": [
-          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Monozukuri as prickly, with metallic percussive textures and a forlorn lead.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-      },
-      "requestedIdentity": {
-        "artist": "BIZ",
-        "track": "Monozukuri",
-        "album": "Biz Limited Series #3",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-        "fitHypothesis": "Metallic percussive texture and a distinct lead supply an overlooked catalogue-style test of how swung continuation can tilt into directional instability.",
-        "proposedPlacements": [
-          {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
-            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Juno describes Monozukuri as prickly, with metallic percussive textures and a forlorn lead.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
-        }
-      }
-    }
-  ]
+  "candidates": [],
+  "resolvedAlternates": []
 }
