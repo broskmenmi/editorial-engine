@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 226 — REPAIR — remove Carried, retain Tender Is The Night
+
+The listener's report that Lotic — *Carried* caused “the same” severe fear/anxiety response as *Sawa* was previously frozen at `AWAITING CLARIFICATION`. The exact command “Loved tender is the night tho. Yes remove carried exactly” now authorizes one action: remove *Carried* and keep Luigi Tozzi — *Tender Is The Night*.
+
+Run 143's productive-rupture paper model is preserved historically but overridden by direct listener experience. STRANGE GAIT becomes 53 tracks; `Encasadelciegoeltuerco → Tender Is The Night` is the unavoidable new adjacency, not a claimed mix result. No replacement, bridge, additional reorder, neighbour removal or wider redesign is authorized. The protected trio remains intact at positions 44–46. The doctrine-free global Discovery Pool remains 455 tracks and retains *Carried*.
+
+Run 226: `1 listener complaint + 1 exact action command → 1 APPROVED REMOVE → 1 canonical removal → 0 replacements`. Discovery statistics do not change. Audio analysis and live mixing were not tested.
+
 ## Run 225 — EXPLORE — frozen listener region, low resolution, two exact retentions
 
 Pre-audit found no actionable repair. The listener-authorized *Sawa* removal remains complete. Lotic — *Carried* is now an active `AWAITING CLARIFICATION` discussion, so `Encasadelciegoeltuerco → Carried → Tender Is The Night` remained frozen and outside all nine placement hypotheses.

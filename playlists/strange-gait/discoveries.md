@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 226 — REPAIR — listener-authorized Carried removal — 2026-09-14
+
+**Pre-audit:** REPAIR. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations and an exact-order 54-track/53-transition generated map. Lotic — *Carried* was canonical at position 5 inside the frozen `Encasadelciegoeltuerco → Carried → Tender Is The Night` discussion. The discussion was `AWAITING CLARIFICATION` after the listener reported “Holy fuck, carried by lotic was the same,” explicitly referring to the severe fear/anxiety response documented for *Sawa*. The new command “Loved tender is the night tho. Yes remove carried exactly” supplies exact removal authorization and separately protects *Tender Is The Night* from implication. The `Transparency → When We Froze → Stardancer` handoffs were contiguous and protected at positions 45–47. Automatic publishing was enabled.
+
+**Listener-evidence evaluation:** Volume fit is not re-litigated as a metadata question. Direct experience establishes that *Carried* failed the listener's actual STRANGE GAIT journey despite Run 143's coherent paper model. At immediate-transition scale, the experienced move into *Carried* produced the same severe fear/anxiety response as *Sawa*. At surrounding-run scale, the track broke trust in the opening rather than functioning as productive rupture. At long-form scale, retaining it would knowingly preserve a listener-harmful stage. The listener's explicit love for *Tender Is The Night* is independent positive evidence for keeping that exact track; no wider inference, replacement or redesign is authorized.
+
+**Auditor approval:** **APPROVED — REMOVE.** The direct action command resolves the live clarification gate exactly. Remove only Lotic — *Carried* (`spotify:track:3RIuNmWnU5gRHCldYYy83b`), retain *Tender Is The Night*, preserve Run 143 historically, close the active discussion, and block ordinary resurfacing absent explicit listener instruction or materially new listener evidence. The separate doctrine-free Discovery Pool row is outside scope and remains unchanged.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 53 canonical tracks**.
+- New opening adjacency: `Encasadelciegoeltuerco → Tender Is The Night`; this is a consequence of removal, not a claimed phrase-level or live-mixing result.
+- *Tender Is The Night* remains canonical at position 5.
+- The protected trio remains exact and contiguous at positions 44–46.
+- EDITORIAL ENGINE — DISCOVERY POOL remains **455 → 455**; *Carried* remains retained there under the independent doctrine-free utility contract.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** `1 severe listener complaint + 1 exact removal command → 1 APPROVED REMOVE → 1 canonical removal → 0 replacements → 53-track target`. This is a direct listener repair, not EXPLORE; discovery totals remain **1,026 leads from approximately 6,371 inspections, 40 ADDs from 307 selected candidates**. The recent comparable ADD rate remains **1/10**, and the seven-run musical no-ADD streak after Run 214 is unchanged because repairs are excluded. The repair establishes a second concrete case where an internally coherent “productive rupture” abstraction failed the listener's actual experience. It does not create a genre, intensity, disorientation or left-turn ban; it establishes that direct severe listener response overrides speculative sequence value.
+
 ## Run 225 — EXPLORE — exact interest survives a low-resolution field — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations and an exact-order 54-track/53-transition map. The listener-authorized *Sawa* removal remained complete and protected from ordinary resurfacing. Lotic — *Carried* had a newer `AWAITING CLARIFICATION` discussion, so `Encasadelciegoeltuerco → Carried → Tender Is The Night` remained frozen and was excluded from scouting. There was no current TRIGGERED revisit or other actionable repair. The protected `Transparency → When We Froze → Stardancer` order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 453 contiguous unique tracks. Automatic publishing was enabled.

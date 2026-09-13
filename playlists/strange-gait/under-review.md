@@ -4,9 +4,13 @@
 
 ## Active discussions
 
-### 2026-09-13 — Lotic — Carried
+None.
 
-**Affected region (frozen pending clarification):**
+## Resolved reviews
+
+### 2026-09-14 — Lotic — Carried
+
+**Affected region before repair:**
 
 `Encasadelciegoeltuerco → Carried → Tender Is The Night`
 
@@ -18,21 +22,23 @@
 
 “the same” refers to the immediately preceding resolved *Sawa* complaint, where the listener reported an extreme fear/anxiety response while continuing to listen because they expected the sequence to become techno.
 
-**Current editorial role:**
+**Original editorial role:**
 
-Run 143 placed *Carried* as a provisional self-emptying rupture between Debit — *Encasadelciegoeltuerco* and the later widening passage. That paper role is now materially contradicted by direct listener evidence of the same severe reaction reported for *Sawa*.
+Run 143 placed *Carried* as a provisional self-emptying rupture after *Encasadelciegoeltuerco*. The paper model treated its dissipation as a state that made later widening and rebuilding consequential.
 
-**Status:** `AWAITING CLARIFICATION`
+**Listener-evidence diagnosis:**
 
-**Freeze:**
+The actual ordered-listening experience materially contradicts that paper role. For this listener, *Carried* produced the same severe fear/anxiety response as *Sawa*. Direct listener experience outranks the earlier editorial abstraction. The listener separately said they loved *Tender Is The Night*, so this evidence does not implicate that track or authorize a wider opening redesign.
 
-Do not move, remove, replace, resurface, scout into, or otherwise modify `Encasadelciegoeltuerco → Carried → Tender Is The Night` until the listener authorizes an exact action. No listening homework is required.
+**User action command:** “Loved tender is the night tho. Yes remove carried exactly”
 
-**Clarification needed:**
+**Status:** `APPROVED — REMOVE` — exact single-track removal authorized; *Tender Is The Night* explicitly retained.
 
-Does the listener want *Carried* removed from STRANGE GAIT as well, or only the current placement reconsidered?
+**Resolution:**
 
-## Resolved reviews
+Remove Lotic — *Carried* (`spotify:track:3RIuNmWnU5gRHCldYYy83b`) from the STRANGE GAIT canonical ledger and Spotify publication. Keep Luigi Tozzi — *Tender Is The Night* unchanged; it becomes the immediate successor to Debit — *Encasadelciegoeltuerco* only because the intervening track is removed. No replacement, bridge, additional reorder, neighbour removal or wider redesign is authorized. The listener-protected `Transparency → When We Froze → Stardancer` internal order remains unchanged.
+
+Do not resurface *Carried* as an ordinary STRANGE GAIT candidate without explicit listener instruction or materially new listener evidence. Historical records of Run 143 remain preserved rather than rewritten. Its separate doctrine-free Discovery Pool retention is outside this repair scope and remains unchanged.
 
 ### 2026-09-13 — Jay Mitta — Sawa
 
