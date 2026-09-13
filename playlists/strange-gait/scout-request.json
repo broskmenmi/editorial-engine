@@ -1,340 +1,340 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T09:50:52Z-explore-208",
-  "sourceCommit": "9cee346a391e935f0ffd7603c32a3a6aabc318b4",
+  "runId": "2026-09-13T10:52:06Z-explore-209",
+  "sourceCommit": "c9b9a6412700acba2b6c3f472df1a070a1b9fb43",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T09:50:52Z",
-    "approximateInspectedScope": "Approximately 61 named tracks, current release cuts and overlooked catalogue selections across Boomkat's September 11 new-release field, current electronic and techno/house pages, and adjacent dub, experimental-song and instrumental-guitar windows. Written metadata and attributed exact-track descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T10:52:06Z",
+    "approximateInspectedScope": "Approximately 62 named tracks and versions across Juno's September 2026 breakbeat, electro and techno recommendation fields, with current remix/release cuts, adjacent electro forms and overlooked Detroit/techno catalogue material. Written metadata and attributed exact-track descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Turning Jewels Into Water's Morning Birds and Distant Drums and Regina Collage's Horizont appeared in Boomkat's 11 September 2026 field with differentiated exact-track descriptions. https://boomkat.com/products/morning-birds-and-distant-drums · https://boomkat.com/products/horizont",
-      "ADJACENT / EMERGING WINDOW: Regina Collage's distorted machine-song forms and Dean McPhee's looping, unusual-meter guitar work supplied candidate-specific structural questions outside a single techno production world. https://boomkat.com/products/horizont · https://boomkat.com/products/northern-earth",
-      "OVERLOOKED / CATALOGUE WINDOW: Black Steel's 1988 Jungle Warrior and Soichi Terada's early-1990s Far East Recording material were considered through current reissue circulation, without nostalgia or prestige credit. https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78 · https://boomkat.com/products/sounds-from-the-far-east-2025-edition"
+      "CURRENT RELEASE WINDOW: Mind Games Remixes LP Part 1 supplied differentiated August 2026 exact-track descriptions for broken-beat, crawling, displaced-stab and narrative-remix structures. https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
+      "ADJACENT / EMERGING WINDOW: DMX Krew and Ben Pest supplied exact electro propositions whose restless cover logic and mechanical breakdowns cross the volume's selection lens without requiring one production world. https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
+      "OVERLOOKED / CATALOGUE WINDOW: Galaxy 2 Galaxy's reissue and BIZ's current limited-series circulation reopened Detroit/jazz and metallic-percussive catalogue questions without prestige credit. https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart"
     ],
     "exclusions": [
-      "Run 207's entire source field, recent Runs 201–207 fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
-      "The five-run repetition check avoided every exact placement boundary proposed in completed exploration Runs 201, 202, 203, 206 and 207. Current placements are candidate-specific questions, not a boundary-distribution quota.",
-      "Nine leads survived because each has differentiated exact-track evidence and a concrete transition/local-run/long-form question; no list slot was padded.",
-      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Run 208's entire source field, recent Runs 202–208 fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
+      "The five-run repetition check avoided every selected boundary from completed exploration Runs 202, 203, 206, 207 and 208. Current placements are candidate-specific questions, not a boundary-distribution quota.",
+      "Nine leads survived because each has exact-track or exact-version evidence and a concrete transition/local-run/long-form question; no list slot was padded.",
+      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. Stardancer → Migration is not protected by implication. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Turning Jewels Into Water — A Fire of Flowers",
-      "2. Turning Jewels Into Water — In Dombivili",
-      "3. Turning Jewels Into Water — Tapori Beat Special",
-      "4. Black Steel — Celestial Rock + Dub",
-      "5. Black Steel — Jungle Spirit + Dub",
-      "6. Regina Collage — Davno",
-      "7. Regina Collage — I Hope",
-      "8. Soichi Terada — Rising Sun Up",
-      "9. Dean McPhee — Indica Fields"
+      "1. David Gtronic, Reboot, Voigtmann — Leave Your Body - Voigtmann's Broken Tequila Mix",
+      "2. DMX Krew — Voices Inside My Head",
+      "3. Galaxy 2 Galaxy — Star Sailing",
+      "4. David Gtronic, Reboot, Cristi Cons — Loose - Cristi Cons Remix",
+      "5. David Gtronic, Reboot, Mihai Pol — Mind Games - Mihai Pol Remix",
+      "6. David Gtronic, Reboot, Alexis Cabrera — Kongafluss - Alexis Cabrera Tell Me A Story Remix",
+      "7. Model 500, DJ Stingray — IDLE - DJ Stingray Remix",
+      "8. Ben Pest — Shruthi EB",
+      "9. BIZ — Monozukuri"
     ]
   },
   "leads": [
     {
-      "artist": "Turning Jewels Into Water",
-      "track": "A Fire of Flowers",
-      "album": "Morning Birds and Distant Drums",
-      "releaseDate": "2026-09-11",
+      "artist": "David Gtronic, Reboot, Voigtmann",
+      "track": "Leave Your Body - Voigtmann's Broken Tequila Mix",
+      "album": "Mind Games Remixes LP Part 1",
+      "releaseDate": "2026-08-24",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
-      "fitHypothesis": "A rolling syncopated beat, off-grid looped voices and cross-regional rhythmic references offer a current exact-track test of multi-stable motion without making complexity an admission shortcut.",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
+      "fitHypothesis": "A broken-beat remix described through off-axis elasticity offers a serious bodily multi-stability test without treating rhythmic novelty as sufficient.",
       "proposedPlacements": [
         {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 139,
+          "purpose": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Voigtmann's remix as opening in broken-beat mode with off-axis elasticity.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its off-axis elasticity turns cross-rhythmic conflict into a newly useful condition for funk re-grounding, or merely inserts another conflict statement."
+      }
+    },
+    {
+      "artist": "DMX Krew",
+      "track": "Voices Inside My Head",
+      "album": "Voices Inside My Head / On The Beach",
+      "releaseDate": "2026-08-31",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
+      "fitHypothesis": "A no-wave dub-disco cover recast as restless electro offers an adjacent-world test of transformation and return rather than genre belonging by name.",
+      "proposedPlacements": [
+        {
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the exact cover as a squelchy, bleeping, funky and restless electro/nu-disco re-imagining of a no-wave dub-disco source.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the restless electro afterimage changes the live-band pulse illusion into purposeful transit, or over-articulates the existing left turn and return."
+      }
+    },
+    {
+      "artist": "Galaxy 2 Galaxy",
+      "track": "Star Sailing",
+      "album": "Galaxy 2 Galaxy (reissue)",
+      "releaseDate": "2026-06-22",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "fitHypothesis": "An overlooked Detroit catalogue cut combining acid, synth-heavy jazz and analogue drums offers a structured production-world continuation after the protected block.",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Migration",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Star Sailing as a thriving ecosystem of acid, synth-heavy jazz and analogue drums.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its acid-and-jazz ecosystem gives the protected block a meaningful outward continuation before the piano-to-break pivot, or postpones a stronger character change."
+      }
+    },
+    {
+      "artist": "David Gtronic, Reboot, Cristi Cons",
+      "track": "Loose - Cristi Cons Remix",
+      "album": "Mind Games Remixes LP Part 1",
+      "releaseDate": "2026-08-24",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
+      "fitHypothesis": "A pared-down crawl offers a continuation test between suspension and fixed-kick re-entry without assuming restraint is automatically connective.",
+      "proposedPlacements": [
+        {
+          "position": "Between Tender Is The Night and Egue into hs",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Cristi Cons's remix as paring Loose down to a hooting, lasery crawl.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the crawl gives the swirling suspension a distinct compressed consequence before fixed-kick re-entry, or delays an already clear reassembly."
+      }
+    },
+    {
+      "artist": "David Gtronic, Reboot, Mihai Pol",
+      "track": "Mind Games - Mihai Pol Remix",
+      "album": "Mind Games Remixes LP Part 1",
+      "releaseDate": "2026-08-24",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
+      "fitHypothesis": "Deep rolling minimalism disrupted by out-of-time stabs offers a precise instability test inside a mutating percussive passage.",
+      "proposedPlacements": [
+        {
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Mihai Pol's remix as deep, rolling minimalism punctured by out-of-time stabs.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its rolling frame and displaced stabs turn foreground dissolution toward the machine-to-hand-drum mutation, or add another self-contained destabilisation."
+      }
+    },
+    {
+      "artist": "David Gtronic, Reboot, Alexis Cabrera",
+      "track": "Kongafluss - Alexis Cabrera Tell Me A Story Remix",
+      "album": "Mind Games Remixes LP Part 1",
+      "releaseDate": "2026-08-24",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart",
+      "fitHypothesis": "A narrative move from legato motion toward ambient and progressive space offers an ending-scale redirection test rather than a smoothness claim.",
+      "proposedPlacements": [
+        {
+          "position": "Between Can I live and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Alexis Cabrera's remix as nudging Kongafluss toward legato, ambient and progressive vistas.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the narrative widening gives restrained re-entry a consequential route into the afterword, or turns one closing relation into another full ending stage."
+      }
+    },
+    {
+      "artist": "Model 500, DJ Stingray",
+      "track": "IDLE - DJ Stingray Remix",
+      "album": "IDLE (remixes)",
+      "releaseDate": "2026-08-24",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
+      "fitHypothesis": "A futurist electro acceleration derived from a cyborg-funk source offers a continuation test between groove pivot and intensification.",
+      "proposedPlacements": [
+        {
+          "position": "Between Freepass for Them and Moonwake",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the original as cyborg funk with electro rhythms and says DJ Stingray pushes the remix into high-velocity futurist territory.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the remix sharpens the groove pivot into a changed launch for Moonwake, or duplicates the existing intensification step."
+      }
+    },
+    {
+      "artist": "Ben Pest",
+      "track": "Shruthi EB",
+      "album": "Lacquer Of Empathy EP",
+      "releaseDate": "2026-08-31",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart",
+      "fitHypothesis": "Full-bodied electro rhythm combined with twitchy synth motion and mechanical breakdown offers an exact deformation-to-conflict test.",
+      "proposedPlacements": [
+        {
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
           "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its off-grid rolling construction changes unpredictable rhythm into a newly legible condition for reassembly, or merely adds another busy stage."
+          "purpose": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
         }
       ],
       "evidence": {
         "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes a rolling, syncopated beat, brittle synths, looped voices just off the grid, claps and rhythmelodic knocks, with drill sub and arpeggiated synth references.",
+        "attributedDescription": "Juno describes Shruthi EB as full-fat electro rhythm joined to twitchy synths and mechanical meltdowns.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its off-grid rolling construction changes unpredictable rhythm into a newly legible condition for reassembly, or merely adds another busy stage."
+        "editorialInterpretation": "Test whether its mechanical breakdown changes bodily deformation into a more legible cross-rhythmic conflict, or stacks another complete fracture stage."
       }
     },
     {
-      "artist": "Turning Jewels Into Water",
-      "track": "In Dombivili",
-      "album": "Morning Birds and Distant Drums",
-      "releaseDate": "2026-09-11",
+      "artist": "BIZ",
+      "track": "Monozukuri",
+      "album": "Biz Limited Series #3",
+      "releaseDate": "2026-06-29",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
-      "fitHypothesis": "Echoing transformer-like scratches and an illbient lineage offer a sparse production-world intervention whose usefulness depends on downstream consequence.",
+      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "fitHypothesis": "Metallic percussive texture and a distinct lead supply an overlooked catalogue-style test of how swung continuation can tilt into directional instability.",
       "proposedPlacements": [
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "incomingBpm": 130,
+          "position": "Between Abundance and Foundry",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "incomingBpm": 135,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the transformer-scratch field gives the dubwise reset a productive unstable residue before rolling formation, or delays a direct re-formation."
+          "purpose": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
         }
       ],
       "evidence": {
         "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
+          "Juno lists the exact title in its September 2026 techno recommendation field, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat differentiates the exact track through echoing transformer scratches that warm up a reference to New York illbient.",
+        "attributedDescription": "Juno describes Monozukuri as prickly, with metallic percussive textures and a forlorn lead.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the transformer-scratch field gives the dubwise reset a productive unstable residue before rolling formation, or delays a direct re-formation."
-      }
-    },
-    {
-      "artist": "Turning Jewels Into Water",
-      "track": "Tapori Beat Special",
-      "album": "Morning Birds and Distant Drums",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/morning-birds-and-distant-drums",
-      "fitHypothesis": "Its documented search for a midpoint between kuduro and Haitian spiritual forms presents rhythmic freedom as relation rather than novelty.",
-      "proposedPlacements": [
-        {
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the cross-rhythmic midpoint makes the micro-repetition hinge tip purposefully into acceleration crisis, or inserts a second complete premise before Hypnic Jerks."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat says the exact track searches for a midpoint between kuduro and Haitian spiritual forms within a sparse, highly focused percussion-led album.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the cross-rhythmic midpoint makes the micro-repetition hinge tip purposefully into acceleration crisis, or inserts a second complete premise before Hypnic Jerks."
-      }
-    },
-    {
-      "artist": "Black Steel",
-      "track": "Celestial Rock + Dub",
-      "album": "Jungle Warrior",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78",
-      "fitHypothesis": "A long-overlooked steppers construction with documented swirl and heave provides a catalogue test of propulsion across a conspicuous dub production world.",
-      "proposedPlacements": [
-        {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 135,
-          "purpose": "Test whether its swirling heave gives Cave's widening a distinct propelled consequence before swung-funk continuation, or creates an unrelated full dub scene."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat identifies Celestial Rock + Dub as a Jungle Warrior centrepiece distinguished by swirling colours and heave, within Black Steel's rugged, etheric and propulsive 1988 Ariwa sound.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its swirling heave gives Cave's widening a distinct propelled consequence before swung-funk continuation, or creates an unrelated full dub scene."
-      }
-    },
-    {
-      "artist": "Black Steel",
-      "track": "Jungle Spirit + Dub",
-      "album": "Jungle Warrior",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/jungle-warrior-971e87c8-390c-434d-ab03-008539582a78",
-      "fitHypothesis": "The exact track's documented pitching roil offers an overlooked rhythmic destabilization test across dub and techno contexts.",
-      "proposedPlacements": [
-        {
-          "position": "Between Serpentine Tale and Too Much Time",
-          "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 130,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether the pitching roil changes the new low-slung consequence into a purposeful launch toward widening, or overextends the already lengthened passage."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat singles out Jungle Spirit + Dub for its pitching roil within the album's effortless propulsion and three-dimensional dub design.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the pitching roil changes the new low-slung consequence into a purposeful launch toward widening, or overextends the already lengthened passage."
-      }
-    },
-    {
-      "artist": "Regina Collage",
-      "track": "Davno",
-      "album": "Horizont",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/horizont",
-      "fitHypothesis": "Voice moving around distorted drum machine and ebbing analogue synths supplies an emerging exact-track left turn whose structural value can be tested without inferring mood as flow.",
-      "proposedPlacements": [
-        {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether the distorted machine-song state lets self-stripping percussion leave a clearer condition for groove consolidation, or refills space before Truth in Noise."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes Davno through voice floating around a distorted drum machine and ebbing analogue synths, shaped into casual verses.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the distorted machine-song state lets self-stripping percussion leave a clearer condition for groove consolidation, or refills space before Truth in Noise."
-      }
-    },
-    {
-      "artist": "Regina Collage",
-      "track": "I Hope",
-      "album": "Horizont",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/horizont",
-      "fitHypothesis": "A bass-led song that anticipates a beat which never arrives offers a structural withholding proposition, not a claim that beatlessness automatically creates space.",
-      "proposedPlacements": [
-        {
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the withheld beat gives acceleration crisis a purposeful false arrival before opposed-speed balance, or breaks the relation without a changed consequence."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes words curling around a Hooky-style bassline that anticipates a beat which never comes.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the withheld beat gives acceleration crisis a purposeful false arrival before opposed-speed balance, or breaks the relation without a changed consequence."
-      }
-    },
-    {
-      "artist": "Soichi Terada",
-      "track": "Rising Sun Up",
-      "album": "Sounds from the Far East (2025 Edition)",
-      "releaseDate": "2025",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
-      "fitHypothesis": "Crafty chords and an interlocking groove from an early-1990s catalogue window offer a concrete rhythmic relation test without prestige or nostalgia credit.",
-      "proposedPlacements": [
-        {
-          "position": "Between Raataja and Crawl",
-          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the interlocking groove turns burst-and-disappearance into a legible re-formation before sustained motion, or softens the rupture prematurely."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat differentiates Rising Sun Up through crafty chords and an interlocking groove in Soichi Terada's early-1990s Far East Recording catalogue.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the interlocking groove turns burst-and-disappearance into a legible re-formation before sustained motion, or softens the rupture prematurely."
-      }
-    },
-    {
-      "artist": "Dean McPhee",
-      "track": "Indica Fields",
-      "album": "Northern Earth",
-      "releaseDate": "2026-09-11",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/northern-earth",
-      "fitHypothesis": "A slow stately procession with a documented melodic coda, made with looping, unusual meter and sub pressure, offers an adjacent instrumental form test outside a single sonic room.",
-      "proposedPlacements": [
-        {
-          "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether the stately procession gives transformation-led formation a deliberate heavy pause before the opening anchor, or overbuilds the overture."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Boomkat lists the exact title in the cited release field checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes Indica Fields as a slow, stately procession with a sublime melodic coda; the album uses looping, unusual meter, a snare-drum pedal and an 18-inch sub.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the stately procession gives transformation-led formation a deliberate heavy pause before the opening anchor, or overbuilds the overture."
+        "editorialInterpretation": "Test whether its prickly metallic percussion changes swung-funk continuation into a useful precursor for Foundry, or merely narrates the existing transition."
       }
     }
   ]
