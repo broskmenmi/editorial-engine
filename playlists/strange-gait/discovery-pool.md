@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 213 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Evelyne / Masao | Sakuramochi | `spotify:track:65IgPAqPsKDlf6UmOyxI8z` · https://open.spotify.com/track/65IgPAqPsKDlf6UmOyxI8z · https://boomkat.com/products/testpattern | Rejected only at `Stadium Drive → candidate → Marauder`; the 6:09.671 intricate-minimalist melodic scene remains genuinely interesting. Added globally. Date warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Evelyne / Masao | Bird Island | `spotify:track:33tUejOKSsAB2zs6GRXzMk` · https://open.spotify.com/track/33tUejOKSsAB2zs6GRXzMk · https://boomkat.com/products/testpattern | Rejected only at `Té de Cabello Blanco → candidate → Ikoyi`; the 4:49.081 archival melodic construction remains genuinely interesting. Added globally. Date warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Evelyne / Masao | Alien Go Home | `spotify:track:2QEN0HNAbxBVkpnrpzSxZI` · https://open.spotify.com/track/2QEN0HNAbxBVkpnrpzSxZI · https://boomkat.com/products/testpattern | Rejected only at `FELT → candidate → Thick to Handle`; the 5:49.589 punkier DIY-electronic scene remains genuinely interesting. Added globally. Date warning preserved. |
+| UNRESOLVED | tuuun; tendencyitis | the future made me hardcore; Rhizomes; living in the disgusting now; Pistils; it doesn't need to be so complicated; Fronds | See discoveries.md exact errors | Six exact-title Run 213 leads remain unresolved without musical verdict or utility entry. |
+| REQUEST NOT COMPLETED | tendencyitis; Dopplereffekt; Nazar | 0020A; Time Modulation-Graviton Pulse; Core; Collapse of Simultaneity; 0020AA; Disarm; Anticipate; Multiverse Wavefunction; Olbers Paradox | https://github.com/broskmenmi/editorial-engine/commit/46e7a017fb1e4e81f591bee7d862eafa905f0083 | Run 212 stopped before identity resolution: `Lead 9 placement 1 must contain precedingUri and followingUri`. Research only; no verdict or utility entry. |
+| CURRENT WATCH | tuuun / FLUF | the future made me hardcore | https://boomkat.com/products/the-future-made-me-hardcore | Four long-form minimal techno constructions differentiated by nuanced modulation; Spotify-SE identities unresolved. |
+| ADJACENT WATCH | tendencyitis / SM-LL | Batch 0013 | https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73 | Reductionist stochastic computer-music window; all three exact leads unresolved. |
+| ARCHIVAL WATCH | Evelyne / Masao / Dark Entries | TESTPATTERN | https://boomkat.com/products/testpattern | Previously unreleased 1984–85 electronic material; three exact selected identities were retained without turning archival difference into canonical entitlement. |
+
+### Placement and inspiration boundaries
+
+- The three TESTPATTERN tracks are rejected only at their tested placements, not globally.
+- Run 212 is a technical request failure and carries no musical conclusion.
+- The six Run 213 Spotify-SE misses remain distinct research questions.
+- Set direction: an added foreground scene should alter the downstream consequence.
+- No phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 211 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

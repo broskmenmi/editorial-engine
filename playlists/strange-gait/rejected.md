@@ -10,6 +10,9 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Evelyne / Masao | Sakuramochi | Run 213 rejects only `Stadium Drive → candidate → Marauder`. The exact 6:09.671 intricate-minimalist melodic scene remains interesting, but it adds a second full overture after Stadium Drive's assembly without demonstrating a changed task for Marauder. | 2026-09-13 |
+| Evelyne / Masao | Bird Island | Run 213 rejects only `Té de Cabello Blanco → candidate → Ikoyi`. The exact 4:49.081 archival melodic construction remains interesting, but its endpoint does not demonstrate a changed dissolution task for Ikoyi. | 2026-09-13 |
+| Evelyne / Masao | Alien Go Home | Run 213 rejects only `FELT → candidate → Thick to Handle`. The exact 5:49.589 punkier DIY-electronic scene remains interesting, but it interrupts the concise formation-to-deformation relation without a demonstrated downstream change. | 2026-09-13 |
 | DMX Krew | Voices Inside My Head | Run 209 rejects only `Sarniezz → candidate → Never Met`. Its exact 5:24 restless electro reworking remains interesting, but it inserts another complete transformation between the live-band pulse illusion and passing-foreground transit without changing the return. | 2026-09-13 |
 | Galaxy 2 Galaxy | Star Sailing | Run 209 rejects only `Stardancer → candidate → Migration`. Its exact 6:32 acid, synth-jazz and analogue-drum construction remains interesting, but it extends the listener-confirmed block with another full scene and postpones the existing piano-to-break character pivot. | 2026-09-13 |
 | Ben Pest | Shruthi EB | Run 209 rejects only `Thick to Handle → candidate → LOVE YOUR ENEMIES`. Its exact 4:32 electro rhythm and mechanical breakdown remain interesting, but the insertion stacks another deformation stage before cross-rhythmic conflict and funk re-grounding. | 2026-09-13 |

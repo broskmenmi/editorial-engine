@@ -1,5 +1,25 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 213
+
+### An added scene must change the consequence
+
+**Direction:** Use conspicuous melodic, archival or DIY-electronic left turns when they produce a specific downstream change; a complete new foreground scene is not enough by itself.
+
+**Ingredients:**
+
+- Purelink — *Stadium Drive* → Inigo Kennedy — *Marauder* — existing assembled-overture-to-anchor relation
+- Evelyne / Masao — *Sakuramochi* — exact 6:09.671 identity; rejected only at that opening placement
+- RRUCCULLA — *Té de Cabello Blanco* → Ibrahim Alfa Jnr — *Ikoyi* — existing false-stability-to-dissolution relation
+- Evelyne / Masao — *Bird Island* — exact 4:49.081 identity; rejected only at that placement
+- JWords — *FELT* → brenner — *Thick to Handle* — existing rolling-formation-to-deformation relation
+- Evelyne / Masao — *Alien Go Home* — exact 5:49.589 identity; rejected only at that placement
+- tuuun and tendencyitis — six unresolved long-form modulation and stochastic-form leads
+
+**Why interesting:** Different production worlds remain welcome, but duration and foreground completeness create a real programming cost. The productive question is what the added scene changes in the successor's task.
+
+**Unknown / risk:** No exact handoff, phrase structure, perceived pulse, scalar energy, density, space, hypnosis, emotional effect or live mixability was tested. Run 212's nine identities were not resolved and remain research only.
+
 ## Current additions — Run 211
 
 ### Attributed force is not individual consequence

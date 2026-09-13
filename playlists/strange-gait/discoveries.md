@@ -1,5 +1,44 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 213 — EXPLORE — an added scene must change the consequence — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 433 contiguous unique tracks. Automatic publishing was enabled.
+
+**Failed Run 212 preserved:** `2026-09-13T13:51:03Z-explore-212` inspected approximately 61 named tracks and releases and froze nine ranked leads at request commit `46e7a017fb1e4e81f591bee7d862eafa905f0083`: tendencyitis — *0020A*, Dopplereffekt — *Time Modulation-Graviton Pulse*, Nazar — *Core*, Dopplereffekt — *Collapse of Simultaneity*, tendencyitis — *0020AA*, Nazar — *Disarm*, Nazar — *Anticipate*, Dopplereffekt — *Multiverse Wavefunction* and Dopplereffekt — *Olbers Paradox*. Resolver execution failed before identity search with the exact error `Lead 9 placement 1 must contain precedingUri and followingUri`. Run 212 is **REQUEST_NOT_COMPLETED**, supplies no musical zero result, no exact Spotify identity and no verdict, and is excluded from completed-run metrics. Its request was not mutated or recovered.
+
+**Fresh exploration:** Run `2026-09-13T14:02:00Z-explore-213` performed a second outward scan across approximately 66 named tracks and releases in Boomkat's FLUF, SM-LL and Dark Entries windows: current long-form techno, emerging reductionist computer music and previously unreleased 1984–85 electronics. It excluded all nine failed Run 212 identities and the completed Runs 207–211 fields. Nine new leads survived without padding.
+
+**Resolver result:** the schemaVersion 2 snapshot matches Run 213 and source commit `46e7a017fb1e4e81f591bee7d862eafa905f0083`; fingerprint `30b017a46914e34695a95e5acfc21c0950aed125fb97c3b4f85b7410f433e7f0`; generated `2026-09-13T13:59:30.956Z`. It is internally valid and `PARTIAL`: nine requested, three resolved and selected, six unresolved, no alternates, duplicates, substitutions, relinkings or technical failures.
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- tuuun — *the future made me hardcore*
+- tendencyitis — *Rhizomes*
+- tuuun — *living in the disgusting now*
+- tendencyitis — *Pistils*
+- tuuun — *it doesn't need to be so complicated*
+- tendencyitis — *Fronds*
+
+All three selected Evelyne / Masao tracks preserve the exact warning `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "1982-03-01"`.
+
+**Candidate 1 — Evelyne / Masao — *Sakuramochi* — placement-specific REJECT.** Exact Spotify identity `spotify:track:65IgPAqPsKDlf6UmOyxI8z`; 6:09.671; BPM unresolved. Volume fit PASS: Dark Entries' attributed intricate-minimalist electronic construction and soaring melody make a lawful conspicuous left turn. Immediate transition FAIL only at `Stadium Drive → candidate → Marauder`: the evidence establishes a complete melodic scene but no exit that changes Marauder's task. Five-track run FAIL proportionally: `Sawa → Stadium Drive → candidate → Marauder → The Witching Hour` gains a second full overture after Stadium Drive's documented assembly before the two established anchors. Long-form effect FAIL at this placement: six further minutes delay the first anchor without a demonstrated new consequence. This does not reject the track globally.
+
+**Candidate 2 — Evelyne / Masao — *Bird Island* — placement-specific REJECT.** Exact Spotify identity `spotify:track:33tUejOKSsAB2zs6GRXzMk`; 4:49.081; BPM unresolved. Volume fit PASS for the same exact-track intricate-minimalist and melodic proposition. Immediate transition FAIL only at `Té de Cabello Blanco → candidate → Ikoyi`: the source does not establish an endpoint that changes Ikoyi's foreground-dissolution task. Five-track run FAIL proportionally: `Drummz → Té de Cabello Blanco → candidate → Ikoyi → Amor` inserts a complete archival melodic scene between existing agitation/reassembly and dissolution/mutation. Long-form effect FAIL at this placement because the left turn explains no new downstream consequence. This does not reject the track globally.
+
+**Candidate 3 — Evelyne / Masao — *Alien Go Home* — placement-specific REJECT.** Exact Spotify identity `spotify:track:2QEN0HNAbxBVkpnrpzSxZI`; 5:49.589; BPM unresolved. Volume fit PASS: the documented quirky, punkier DIY-electronic stance is compatible with the selection lens. Immediate transition FAIL only at `FELT → candidate → Thick to Handle`: the evidence identifies a foreground style but not an exit that changes Thick to Handle's deformation task. Five-track run FAIL proportionally: `Trompe L'oeil → FELT → candidate → Thick to Handle → LOVE YOUR ENEMIES` interrupts the concise reset–formation–deformation–conflict passage with another complete scene. Long-form effect FAIL at this placement because the added duration does not establish a new journey consequence. This does not reject the track globally.
+
+**Auditor:** APPROVED. The three verdicts are proportionate and placement-specific; none treats different production worlds, age, melody, genre adjacency or unresolved BPM as a disqualifier. All three exact tracks remain genuinely interesting and therefore enter the doctrine-free global Discovery Pool. The six unresolved leads and failed Run 212 identities remain research only. Canonical membership, order, annotations, BPM fields, live/canonical separation and protected handoffs remain unchanged.
+
+**Inspiration harvest:** TESTPATTERN remains a useful archival electronic window; tuuun's long-form nuanced modulation and tendencyitis's reductionist stochastic forms remain unresolved research. Set direction: an added foreground scene should alter the downstream consequence, not merely make the route more elaborate.
+
+**Run analysis:** completed Run 213 produced `~66 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 0 ADD + 3 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion 13.6%; resolution yield 33.3%; selected-candidate-to-ADD conversion 0/3. Across completed discovery Runs 87–213, excluding process repairs and failed runs including Run 212: 954 leads from approximately 5,753 inspections; 39 ADDs from 288 selected candidates. The recent comparable ADD rate remains 2/10. The musical no-ADD streak is five completed runs after Run 207; Run 212 does not increment it. The five-run pattern mixes three exact placement-conflict runs, one identity-loss run and one evidence-limited PARK run across varied boundaries, so it is a maturity/monitoring signal rather than an actionable workflow defect.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
+## Run 212 — REQUEST_NOT_COMPLETED — invalid tail placement schema — 2026-09-13
+
+Run `2026-09-13T13:51:03Z-explore-212` froze nine fresh ranked leads from approximately 61 inspected tracks/releases, but resolver execution stopped before Spotify search with `Lead 9 placement 1 must contain precedingUri and followingUri`. Request commit: `46e7a017fb1e4e81f591bee7d862eafa905f0083`; source commit: `ffee0aa69a69930a762ccbadf6bbc94a8bf5d0d4`. The request remains immutable. No matching terminal snapshot exists, no identity or musical verdict was produced, and stale Run 211 data was not reused. Run 213 performed a genuinely fresh second scan rather than mutating or claiming recovery of Run 212.
+
 ## Run 211 — EXPLORE — attributed force is not individual consequence — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 430 contiguous unique tracks. Automatic publishing was enabled. Run 210 ended in exact-identity absence rather than a workflow failure.
