@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 222 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Ghost Dubs | Low Times | `spotify:track:501l8DGrbXhdoTZmuQ5RVk` · https://open.spotify.com/track/501l8DGrbXhdoTZmuQ5RVk · https://boomkat.com/products/oblique-5169cab1-f744-4a88-b474-d4e93e427748 | Exact 5:25.194 identity; rejected only at *Mildew Swoosh → Fragments*. Its rolling dub-pressure construction remains genuinely interesting and entered the global utility ledger. Album/date warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Psychick Warriors Ov Gaia | Obsidian | `spotify:track:4CVF0ZuHeigvs65IbX5aHr` · https://open.spotify.com/track/4CVF0ZuHeigvs65IbX5aHr · https://clone.nl/ | Exact 6:50.360 identity; rejected only at *Can I live → Invisible Warriors Of Light*. The melody-over-steady-bass proposition remains genuinely interesting and entered the global utility ledger. |
+| PARKED / EXACT | Robert Hood | Quartz | `spotify:track:3CZbP83ymhUWsKjFrCE6K6` · https://open.spotify.com/track/3CZbP83ymhUWsKjFrCE6K6 · https://clone.nl/ | Exact 6:35.133 identity; volume fit passes provisionally, while individual materials, direction, endpoint and the tested *Amor → Elemental Dream* consequence remain unknown. Added globally; date warning preserved. |
+| UNRESOLVED | Volkan; Marco Shuttle; Tom Carruthers; Nuron; Die Elektronische Wohlfahrt | Perception Pattern; Meteora; Release It; In Motion; Sommerbad Neukolln | See discoveries.md Run 222 | Five exact-title Spotify-SE misses remain distinct research questions; no verdict or utility row. |
+| EXACT ALTERNATE | Kosh | Endless Quest | `spotify:track:3gOzRWAi6gulBcN8W85LRo` · https://open.spotify.com/track/3gOzRWAi6gulBcN8W85LRo · https://clone.nl/item56913.html | Resolved but unselected and unevaluated; absent from the utility ledger. Date warning preserved. |
+| WATCH | Ghost Dubs; Giegling; Marco Shuttle; Rotterdam Electronix; Likemind | Oblique; planet kotti; MSP03; Release It; restored catalogue | Sources above | Current, emerging, pre-order and overlooked-catalogue windows remain useful without promoting release framing into exact felt claims. |
+
+### Placement and inspiration boundaries
+
+- Two exact tracks are rejected only for STRANGE GAIT's documented placements; *Quartz* remains PARKED.
+- Five unresolved leads remain identity questions only; the exact alternate received no musical verdict.
+- Set direction: distinguish a settled intermediate premise from a transition that changes the successor's task.
+- No BPM, phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 221 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

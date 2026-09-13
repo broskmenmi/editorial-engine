@@ -1,5 +1,90 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 222 — EXPLORE — two scoped rejections and one evidence-limited PARK — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 447 contiguous unique tracks. Automatic publishing was enabled. Run 220's temporary evidence guard had been closed by Run 221 and was not treated as an active repair trigger.
+
+**Fresh exploration:** Run `2026-09-13T19:53:31Z-explore-222` inspected approximately 79 named tracks across Clone's live current, pre-order and catalogue field, Boomkat and Bandcamp current electronic releases, and targeted exact-track source checks. Completed Runs 214, 217, 218, 219 and 221 were excluded; unresolved, duplicate, rejected and untriggered PARKED identities were not reused. Nine honest leads from nine releases survived without padding, and none of the nine placements repeated a selected-candidate boundary from those five runs.
+
+- **runId:** `2026-09-13T19:53:31Z-explore-222`
+- **sourceCommit:** `a3ecd9fa08facbdcfa290aaee5ad0e32f95f171b`
+- **request commit:** `6e7737172ecb1cd65b05a39210c9beb56301c189`
+- **snapshot commit:** `de0de5ea92323554c15874bb13e9e7bb053f7838`
+- **request fingerprint:** `6fbb2323c431f6d8eaadde672a327bfb480761477871527e7964aab9bd478dc0`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 4 exact resolutions, 3 selected candidates, 1 exact alternate and 5 unresolved identities, with no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Volkan — *Perception Pattern*
+- Marco Shuttle — *Meteora*
+- Tom Carruthers — *Release It*
+- Nuron — *In Motion*
+- Die Elektronische Wohlfahrt — *Sommerbad Neukolln*
+
+Exact but unselected and unevaluated:
+
+- Kosh — *Endless Quest* — `spotify:track:3gOzRWAi6gulBcN8W85LRo`; 398,526 ms; BPM unresolved.
+
+Warnings preserved exactly:
+
+- Ghost Dubs — *Low Times*: `Exact title/artist matched with release metadata variance: album requested "Oblique" but Spotify returned "Low Times"; release date requested "2026-08-21" but Spotify returned "2026-08-19"`
+- Robert Hood — *Quartz*: `Exact title/artist matched with release metadata variance: release date requested "2013-10-10" but Spotify returned "2019-05-17"`
+- Kosh — *Endless Quest*: `Exact title/artist matched with release metadata variance: release date requested "2019" but Spotify returned "2019-04-19"`
+
+### Candidate evaluation — Ghost Dubs — Low Times
+
+- **Exact identity:** `spotify:track:501l8DGrbXhdoTZmuQ5RVk`; 325,194 ms; BPM unresolved.
+- **Volume fit:** PASS. Boomkat's exact-track account establishes a current dub-pressure construction with rolling heft. The cited lineage supports context, not merit or sequencing.
+- **Immediate transition:** FAIL only at `Mildew Swoosh → candidate → Fragments`. The documented rolling pressure adds a substantial settled premise between temporal strain and driving re-entry, but no candidate-specific endpoint changes *Fragments*' existing task.
+- **Surrounding run:** FAIL at `backsliding → Mildew Swoosh → candidate → Fragments → Drummz`. The 5:25.194 insertion lengthens the dissolution-to-strain-to-re-entry passage without producing a different local consequence.
+- **Long-form effect:** FAIL at this placement. A dub-world change is lawful; here it elaborates a later recovery already carrying a defined strain and re-escalation.
+- **Verdict:** placement-specific REJECT. Retain locally and globally as genuinely interesting; no claim about another placement.
+
+### Candidate evaluation — Psychick Warriors Ov Gaia — Obsidian
+
+- **Exact identity:** `spotify:track:4CVF0ZuHeigvs65IbX5aHr`; 410,360 ms; BPM unresolved.
+- **Volume fit:** PASS. The exact-track description distinguishes a delicate central melody grounded by steady bass inside an early-1990s techno construction. Catalogue stature confers no advantage.
+- **Immediate transition:** FAIL only at `Can I live → candidate → Invisible Warriors Of Light`. The stable melody/bass relation supplies a second complete preparation after restrained re-entry without changing the electro-soul afterword's task.
+- **Surrounding run:** FAIL at `Jjochstubn → Rabbit Hole → Can I live → candidate → Invisible Warriors Of Light`. The 6:50.360 stage extends the late descent and re-entry with another settled premise rather than a different exit.
+- **Long-form effect:** FAIL at this placement. The melodic left turn is allowed, but the ending becomes more explained rather than more consequential.
+- **Verdict:** placement-specific REJECT. Retain locally and globally as genuinely interesting; no global incompatibility is claimed.
+
+### Candidate evaluation — Robert Hood — Quartz
+
+- **Exact identity:** `spotify:track:3CZbP83ymhUWsKjFrCE6K6`; 395,133 ms; BPM unresolved.
+- **Volume fit:** PASS provisionally. Exact title, artist, release context and techno catalogue placement support a serious volume proposition; artist and genre do not establish admission.
+- **Immediate transition:** UNKNOWN at `Amor → candidate → Elemental Dream`. The available source confirms identity and duration but no individual materials, direction, development or endpoint.
+- **Surrounding run:** UNDECIDABLE at `Ikoyi → Amor → candidate → Elemental Dream → Truth in Noise`. Without candidate-specific behavior, the track could create a consequential intermediary or simply postpone the existing mutation-to-instability relation.
+- **Long-form effect:** UNKNOWN. A 6:35.133 stage is a material cost, but metadata cannot establish whether it changes the late-middle journey.
+- **Verdict:** PARKED. Reopen only for materially richer exact-track structure or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. Retain locally and globally as genuinely interesting.
+
+### Auditor
+
+APPROVED. All decisions use only the three selected exact identities. The evaluations keep volume fit, immediate transition, three-to-five-track run and long-form effect separate; no energy, density, space, hypnosis, emotion, phrasing, perceived pulse or mixability is inferred from metadata. The two rejections are placement-specific and proportional. *Quartz* has one concrete candidate-specific blocker—complete absence of individual musical behavior—not a mechanical UNKNOWN cascade. Its selection does not reopen the closed Run 220 repair because the higher-ranked candidate-specific fields produced decisive outcomes and the catalogue identity was the strongest exact remaining resolution after the higher-ranked Volkan lead failed identity resolution.
+
+### Durable state
+
+- STRANGE GAIT remains 55 canonical tracks with no reorder or annotation change.
+- The protected trio remains contiguous at positions 46–48.
+- Three exact interesting tracks are added to the doctrine-free global utility ledger, taking it from 447 to 450 unique identities.
+- Five unresolved leads remain research only; one exact alternate remains unevaluated and outside the utility ledger.
+- Target-local discovery, rejection, revisit and set-direction layers are updated.
+- No actionable REPAIR emerges.
+
+### Run analysis
+
+`~79 inspected → 9 leads from 9 releases → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 alternate → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`
+
+Inspection-to-lead conversion was **11.4%**, resolution yield **44.4%**, and selected-candidate-to-ADD conversion **0/3**.
+
+Across completed discovery Runs 87–222, excluding repairs and failed runs: **1,008 leads from approximately 6,211 inspections; 40 ADDs from 302 selected candidates**. The recent comparable ADD rate remains **1/10**; the musical no-ADD streak is five completed runs after Run 214. Twelve exact interesting tracks have been retained since that ADD.
+
+The strongest counterargument is that the source does not prove *Low Times* or *Obsidian* fail at phrase level. It does not need to: both verdicts are explicitly limited to the tested insertion and the documented long-form cost. *Quartz* shows the opposite discipline—where individual behavior is absent, the workflow preserves the question instead of manufacturing a rejection.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 221 — EXPLORE — candidate-specific evidence supports three scoped rejections — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 444 contiguous unique tracks. Automatic publishing was enabled. Run 220's post-recurrence evidence guard governed this outward scan.

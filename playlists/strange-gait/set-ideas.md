@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 222
+
+### A settled premise still needs a changed exit
+
+**Direction:** Test whether an intermediate world changes the successor's job. Rolling pressure, a stable melodic centre or canonical techno context can establish genuine interest, but a substantial insertion must produce more than another settled premise.
+
+**Ingredients:**
+
+- FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments* — existing temporal-strain-to-driving-re-entry relation
+- Ghost Dubs — *Low Times* — exact rolling-pressure counterexample, rejected only between those tracks
+- TYGAPAW, Precious Okoyomon — *Can I live* → Steve Rachmad — *Invisible Warriors Of Light* — existing restrained re-entry into afterword
+- Psychick Warriors Ov Gaia — *Obsidian* — exact melody-over-steady-bass counterexample before that afterword
+- Valesuchi — *Amor* → Shackleton — *Elemental Dream* — existing mutation-to-instability relation
+- Robert Hood — *Quartz* — exact PARKED catalogue question whose individual direction and endpoint remain unknown
+
+**Why interesting:** The comparison spans current dub, early-1990s techno and an overlooked Robert Hood catalogue identity without treating them as one sonic room or imposing a stylistic quota.
+
+**Boundary:** These are placement lessons and research directions, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred.
+
 ## Current additions — Run 221
 
 ### Ask whether contrast changes the successor's task
