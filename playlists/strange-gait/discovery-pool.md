@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 223 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Shed | Rave Predator | `spotify:track:3TWdJBkUtFCJwoToOPN4NU` · https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU · https://shed030.bandcamp.com/album/rave-echoes | Exact 4:32.762 identity; rejected only at *Thick to Handle → LOVE YOUR ENEMIES*. Sparse step-and-break construction remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Answer Code Request | Fading Shadows | `spotify:track:50r49UidENUN3NYaGBnvJ9` · https://open.spotify.com/track/50r49UidENUN3NYaGBnvJ9 · https://answercoderequest.bandcamp.com/album/halo | Exact 4:25.846 identity; rejected only at *Jjochstubn → Rabbit Hole*. Evolving fractured micro-beat construction remains genuinely interesting and entered the global utility ledger. |
+| PARKED / EXACT | Planetary Assault Systems | Sermon of the Light Tides | `spotify:track:3YPZHSb9Q648r7a4OUBBD4` · https://open.spotify.com/track/3YPZHSb9Q648r7a4OUBBD4 · https://ostgut.bandcamp.com/track/sermon-of-the-light-tides | Exact 6:23.070 identity; scrambled metallic bell sequences establish interest, while individual development, endpoint and two tested placement consequences remain unknown. Added globally. |
+| UNRESOLVED | Suburban Knight; Mix Mup; CV313 | Midnight Sunshine; Untitled Remix; Standing Still (Reduced) | See discoveries.md Run 223 | One ambiguous exact match and two Spotify-SE misses remain distinct research questions; no verdict or utility row. |
+| EXACT ALTERNATE | Infant; Uväll; Wax | Piedra Lumbre; Parallel Shift; 11110A | `spotify:track:4HgyWBYoawjT7vKinhV58v`; `spotify:track:3tJewIq0D10r423Nln9qV2`; `spotify:track:44cxZxkB7aHQvaLcn1PByH` | Resolved but unselected and unevaluated; absent from the utility ledger. Both resolver warnings are preserved in discoveries.md. |
+| WATCH | Shed; Delsin / Answer Code Request; Infant; Hayes; Underground Resistance; Workshop; Echospace; Wax; Ostgut Ton | Current, emerging and reissue windows | Sources above and https://hardwax.com/ | Useful outward research windows without invented track behavior. |
+
+### Placement and inspiration boundaries
+
+- The two rejections are scoped to the named insertions; neither track is globally rejected.
+- *Sermon of the Light Tides* is PARKED, not rejected or admitted. Its alternative boundary is a research test, not a proven sequence.
+- The three alternates were not selected or evaluated and do not enter the global utility ledger.
+- Unresolved identities receive no musical verdict. No phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
+
 ## Run 222 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

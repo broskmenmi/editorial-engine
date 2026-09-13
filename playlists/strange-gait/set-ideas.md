@@ -1,5 +1,25 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 223
+
+### A rhythmic vocabulary still needs a knowable exit
+
+**Direction:** Distinguish an interesting internal vocabulary from a consequential intermediate stage. Sparse steps, evolving fractals and scrambled bell sequences can all justify attention; canonical placement depends on what each construction changes downstream.
+
+**Ingredients:**
+
+- brenner — *Thick to Handle* → SHERELLE, Cameo Blush — *LOVE YOUR ENEMIES* — existing deformation-to-cross-rhythmic-conflict relation
+- Shed — *Rave Predator* — exact sparse step-and-break counterexample, rejected only between those tracks
+- Curbside Lambsear — *Jjochstubn* → Jlin — *Rabbit Hole* — existing contaminated-disassembly-to-dead-space relation
+- Answer Code Request — *Fading Shadows* — exact evolving-fractal counterexample before that descent
+- Inspired Groove — *Truth in Noise* → Blawan — *Style Teef* — existing consolidation-to-fault-line relation
+- Planetary Assault Systems — *Sermon of the Light Tides* — exact PARKED question whose scrambled bell material is known but individual endpoint is not
+
+**Why interesting:** The comparison separates current techno propositions by downstream function without demanding one production world, an invisible blend or stylistic sameness.
+
+**Boundary:** These are placement lessons and research directions, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred.
+
+
 ## Current additions — Run 222
 
 ### A settled premise still needs a changed exit

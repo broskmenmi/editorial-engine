@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 223 — EXPLORE recovery — two scoped rejections, one PARK and one completed boundary-validator repair — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable musical repair. The protected `Transparency → When We Froze → Stardancer` order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 450 contiguous unique tracks. Automatic publishing was enabled.
+
+**Fresh exploration:** Source Run `2026-09-13T20:50:45Z-explore-223` inspected approximately 86 named tracks across Hard Wax's live September current/reissue field, official Bandcamp and label pages, and adjacent catalogue follow-through. Completed Runs 217, 218, 219, 221 and 222 were excluded; no selected identity or tested boundary from those runs was reused. Nine honest leads from nine releases survived without padding. The three strongest carried candidate-specific evidence.
+
+### Resolver and recovery chain
+
+- **source Run 223:** `2026-09-13T20:50:45Z-explore-223`
+- **sourceCommit:** `faf4704ef12dbd8d6698be7e2707c83bbcd85065`
+- **source request commit:** `e3524a083e0d3ad830eac57496fbf5d08d2c1a7e`
+- **source request status:** **REQUEST_NOT_COMPLETED**
+- **exact source error:** `Lead 4 placement 1 must contain precedingUri and followingUri`
+- **Repair Run 224 commit:** `9574192d117bfac9ee023517caa6db1c3b20f374`
+- **repair:** the resolver now accepts a single absent-side `null` only for a true before-opener or after-closer placement, verifies the present URI against the current boundary track, and retains strict two-URI adjacency for internal insertions. Tests and the target contract were updated together. No musical state changed.
+- **first recovery request:** `2026-09-13T20:58:30Z-explore-223-recovery` at `4198873ac4ae850487c7c34a85a97d129044fabb` — **REQUEST_NOT_COMPLETED**
+- **exact first recovery error:** `Recovery sourceCommit must be the commit containing 2026-09-13T20:50:45Z-explore-223`
+- **completed recovery runId:** `2026-09-13T21:00:10Z-explore-223-recovery`
+- **completed recovery request commit:** `99372bf818f696e87eca9d587b8a1bab9a1d3d2e`
+- **snapshot commit:** `62d5f01fcb0a5de2ada21720345725c63809c4bc`
+- **request fingerprint:** `35cefde32740af91a1209d86b0cc1dbf0a5670b69c341ed4700ef0d48454f83e`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 6 exact resolutions, 3 selected candidates, 3 exact alternates and 3 unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures occurred in the completed recovery.
+
+The recovery preserved the source Run 223 mode, target, exploration receipt and ranked leads exactly. It completed the same scan; it is not counted as another exploration field.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Suburban Knight — *Midnight Sunshine*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4MzjEWraDkQrCAZYmDKz3N, 62p77f7Dpm7ctf6dkF3Pyr)`
+- Mix Mup — *Untitled Remix*: `no exact Spotify title/artist search match in market SE`
+- CV313 — *Standing Still (Reduced)*: `no exact Spotify title/artist search match in market SE`
+
+Exact but unselected and unevaluated:
+
+- Infant — *Piedra Lumbre* — `spotify:track:4HgyWBYoawjT7vKinhV58v`
+- Uväll — *Parallel Shift* — `spotify:track:3tJewIq0D10r423Nln9qV2`
+- Wax — *11110A* — `spotify:track:44cxZxkB7aHQvaLcn1PByH`
+
+Warnings preserved exactly:
+
+- Infant — *Piedra Lumbre*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-07-03"`
+- Wax — *11110A*: `Exact title/artist matched with release metadata variance: album requested "No. 11110" but Spotify returned "11110"; release date requested "2026" but Spotify returned "2026-05-01"`
+
+### Evaluator decisions
+
+#### Shed — Rave Predator — `spotify:track:3TWdJBkUtFCJwoToOPN4NU`
+
+- **Volume fit:** PASS. The official exact-track note distinguishes a 4:32 sparse, steppy soundscape scattered with sharply sliced breaks. That construction is relevant to STRANGE GAIT without needing to be weird, novel or genre-pure.
+- **Immediate transition:** FAIL only at `Thick to Handle → candidate → LOVE YOUR ENEMIES`. The candidate adds another articulated step-and-break premise between bodily deformation and the existing cross-rhythmic conflict without changing what *LOVE YOUR ENEMIES* must do.
+- **Surrounding run:** FAIL proportionally. `Trompe L'oeil → FELT → Thick to Handle → Rave Predator → LOVE YOUR ENEMIES → Tehutis Law` would spend another complete stage specifying rhythmic disruption before the existing conflict and re-grounding.
+- **Long-form journey:** FAIL for this insertion. The 272,762-ms addition lengthens an already consequential middle passage without an evidenced changed exit.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT** at this boundary only. Retain as genuinely interesting.
+
+#### Answer Code Request — Fading Shadows — `spotify:track:50r49UidENUN3NYaGBnvJ9`
+
+- **Volume fit:** PASS. The official exact-track account identifies fractured downtempo micro-beats and angular breakbeat-derived fractals whose drum sequence keeps evolving.
+- **Immediate transition:** FAIL only at `Jjochstubn → candidate → Rabbit Hole`. The evolving fractured construction introduces a second explicit disassembly stage before the established dead-space descent.
+- **Surrounding run:** FAIL proportionally. `Nukumori → Jjochstubn → Fading Shadows → Rabbit Hole → Can I live` over-explains the flare-to-disassembly-to-descent relation rather than changing *Rabbit Hole*'s task.
+- **Long-form journey:** FAIL for this insertion. The exact 265,846-ms stage delays the restrained re-entry without a different documented consequence.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT** at this boundary only. Retain as genuinely interesting.
+
+#### Planetary Assault Systems — Sermon of the Light Tides — `spotify:track:3YPZHSb9Q648r7a4OUBBD4`
+
+- **Volume fit:** PASS provisionally. The exact identity and candidate-specific scrambled metallic bell sequences form a credible techno proposition under the selection lens.
+- **Immediate transition:** UNKNOWN at `Truth in Noise → candidate → Style Teef`. The source does not establish whether the bell sequence develops, settles or exits in a way that changes *Style Teef*'s familiar-grid-to-frazzled task.
+- **Surrounding run:** UNKNOWN. The 383,070-ms insertion could either create a concrete object for the fault line or another self-contained foreground system. The evidence does not decide between those outcomes.
+- **Long-form journey:** UNKNOWN for the same reason. Duration is a material cost, not a veto.
+- **Alternative test:** `Capa → candidate → Sarniezz` leaves the same decision-critical blocker: the documented material does not reveal the individual direction or endpoint needed to judge whether the pulse-illusion handoff changes.
+- **Verdict:** **PARKED**. Reopen only for materially richer exact-track development/endpoint evidence, lawful audio evidence, changed structural need or explicit listener evidence. Retain as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The completed recovery preserves the failed source field exactly, cites its exact request commit, and produces a matching internally valid schemaVersion 2 snapshot. All nine outcomes, both warnings and both request failures are preserved; only the three selected exact identities entered evaluation. Each candidate was judged separately at volume, immediate-transition, surrounding-run and long-form scales. The PARK decision identifies a specific critical blocker and includes an alternative placement test. No metadata was converted into energy, density, space, hypnosis, emotion, phrase structure or mixability. No canonical membership/order changed, and both protected handoffs remain intact. Auditor approves two scoped rejections, one PARK, local inspiration harvest, three global utility additions and the boundary-validator repair.
+
+### Durable result
+
+- STRANGE GAIT: **55 → 55 canonical tracks**; no reorder or annotation change.
+- Protected internal order remains `Transparency → When We Froze → Stardancer` at positions 46–48.
+- Local inspiration: three exact evaluated tracks, three exact unevaluated alternates, three unresolved research leads, current/reissue watches and one set direction retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **450 → 453 exact tracks**, adding *Rave Predator*, *Fading Shadows* and *Sermon of the Light Tides*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 86 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Source Run 223 and the first recovery request are both REQUEST_NOT_COMPLETED and are excluded from musical-zero statistics; the completed recovery counts once. Across completed discovery Runs 87–223, excluding repairs and failed requests: **1,017 leads from approximately 6,297 inspections; 40 ADDs from 305 selected candidates**. Inspection-to-lead conversion was **10.5%**, resolution yield **66.7%**, and selected-candidate-to-ADD conversion was **0/3**. The recent comparable ADD rate remains **1/10**; the musical no-ADD streak is six completed runs after Run 214. Fifteen exact interesting tracks have been retained since that ADD. The validator repair closes the exact contract/runtime mismatch that caused the source failure; it does not prove any candidate's musical fit.
+
+
 ## Run 222 — EXPLORE — two scoped rejections and one evidence-limited PARK — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 447 contiguous unique tracks. Automatic publishing was enabled. Run 220's temporary evidence guard had been closed by Run 221 and was not treated as an active repair trigger.
