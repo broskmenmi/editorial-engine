@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 197
+
+### Preserve endpoint uncertainty
+
+**Direction:** Use track-specific descriptions of motion, tension or material opposition to form precise placement questions, while refusing to turn those descriptions into invented endpoints, handoffs or long-form effects.
+
+**Ingredients:**
+
+- COW — *Dead Air* — exact PARKED identity at the *Drummz → Té de Cabello Blanco* boundary
+- COW — *Velvet* — exact PARKED identity at the *Cave → Abundance* boundary
+- Alex Wilcox — *recess* — exact placement-specific REJECT whose concise frantic action remains useful outside the tested runs
+- Alex Wilcox — *drowsy outside*, *i never know*; COW — *Shinkansen* — exact resolver-confirmed alternates, unselected and unevaluated
+- PS11 — *Mid Point*, *Stratos*, *Timble Snake* — current Spotify-SE-unresolved research leads with distinct broken-beat, held-tension and looped-suspense descriptions
+
+**Why interesting:** Exact descriptions can establish a local action without establishing where it ends or what follows. That gap is editorially productive: it allows concrete sequence questions without converting metadata into imagined flow.
+
+**Boundary:** This is an inspiration and programming direction, not a proven canonical sequence or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 196
 
 ### Let internal redirection answer the passage

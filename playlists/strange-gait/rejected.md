@@ -10,6 +10,9 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| COW | Dead Air | Run 197 rejects only `Pulse I → candidate → Roxellana`. The exact track remains PARKED at `Drummz → candidate → Té de Cabello Blanco`; the weaker alternative would mediate crooked accumulation into surge without track-specific direction or endpoint evidence. | 2026-09-13 |
+| Alex Wilcox | recess | Run 197 rejects only `Freepass for Them → candidate → Moonwake` and `Fragments → candidate → Drummz`. Its concise frantic action remains interesting, but both tested insertions add another complete intensification stage to an already consequential run. | 2026-09-13 |
+| COW | Velvet | Run 197 rejects only `FELT → candidate → Thick to Handle`. The exact track remains PARKED at `Cave → candidate → Abundance`; the weaker alternative would mediate formation into deformation without evidence that both neighbours change meaning. | 2026-09-13 |
 | FAUZIA | I can be anything | Run 196 rejects only `Sarniezz → candidate → Never Met` and `Rabbit Hole → candidate → Can I live`. The documented production-world redirection remains interesting, but each tested insertion adds another complete turn before an existing return rather than changing the passage. | 2026-09-13 |
 | 747 | Aurora Centralis | Run 196 rejects only `Pulse I → candidate → Roxellana` and `Trompe L'oeil → candidate → FELT`. Its acid/voice scene remains interesting, but both tested insertions over-articulate an already legible transformation. | 2026-09-13 |
 | 747 | Night Passage | Run 196 rejects only `Atlantis → candidate → Hypnic Jerks` and `Migration → candidate → Eyes of the Wind`. Its tension-dissolving action remains interesting, but each tested insertion delays an existing consequence. | 2026-09-13 |

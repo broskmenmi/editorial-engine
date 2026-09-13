@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 197 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | COW | Dead Air | `spotify:track:4SvP77fetGxqrGdDm3030J` · https://open.spotify.com/track/4SvP77fetGxqrGdDm3030J · https://umay.bandcamp.com/album/open-the-closed | Exact 331,052-ms identity; PARKED only at *Drummz → Té de Cabello Blanco*. Alternate at *Pulse I → Roxellana* rejected. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Alex Wilcox | recess | `spotify:track:1y63sXD2hA2TkoJoLD8tat` · https://open.spotify.com/track/1y63sXD2hA2TkoJoLD8tat · https://alexwilcox.bandcamp.com/album/rumpelstiltskin | Exact 238,344-ms identity; rejected only at *Freepass for Them → Moonwake* and *Fragments → Drummz*. Its concise frantic action remains genuinely interesting. Added globally. |
+| EXACT TRACK / PARKED | COW | Velvet | `spotify:track:2VYgzccmvtpTxPiLwcMzrX` · https://open.spotify.com/track/2VYgzccmvtpTxPiLwcMzrX · https://umay.bandcamp.com/album/open-the-closed | Exact 331,895-ms identity; PARKED only at *Cave → Abundance*. Alternate at *FELT → Thick to Handle* rejected. Added globally. |
+| EXACT ALTERNATES / UNEVALUATED | Alex Wilcox | drowsy outside; i never know | `spotify:track:4G8nqpnLdcNO4kabKJrUb4`; `spotify:track:0igxkjdOFUw0IZtzvUyAaB` · https://alexwilcox.bandcamp.com/album/rumpelstiltskin | Resolver-confirmed alternates; unselected, unevaluated and not added globally. |
+| EXACT ALTERNATE / UNEVALUATED | COW | Shinkansen | `spotify:track:1kPWR3vFh6FsrPzR26OD66` · https://umay.bandcamp.com/album/open-the-closed | Resolver-confirmed alternate; unselected, unevaluated and not added globally. |
+| RESEARCH LEADS / UNRESOLVED | PS11 | Mid Point; Stratos; Timble Snake | https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/ | Three track-specific broken-beat, held-tension and looped-suspense leads; each returned no exact Spotify title/artist search match in market SE. No verdict or utility addition. |
+| SET DIRECTION | — | Preserve endpoint uncertainty | Run 197 evaluations | Use exact movement descriptions to form concrete placement questions, then preserve the gap between a documented local action and an undocumented endpoint or handoff. |
+
 ## Run 196 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

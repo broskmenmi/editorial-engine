@@ -1,5 +1,87 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 197 — EXPLORE — movement evidence without invented endpoints — 2026-09-13
+
+**runId:** `2026-09-13T01:53:43Z-explore-197`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 52 unique canonical tracks; the generated map matched the ledger; the listener-protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 44–46; the revisit queue contained PARKED items but no current TRIGGERED item; no listener discussion, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 63 named tracks, releases, reviews and catalogue references were inspected across Juno's live September 2026 techno window, official Bandcamp and distributor pages, COW and PS11 emerging hardware-led fields, Alex Wilcox's current vinyl-contextualized June digital release, adjacent label catalogues and overlooked acid, broken-beat and experimental-techno catalogue material. Runs 170–196 fields, canonical identities, active rejects, untriggered PARKED revisits, prior unresolved titles, ranked leads, alternates and utility identities were excluded.
+
+Sources: https://www.juno.co.uk/techno/this-week/ · https://umay.bandcamp.com/album/open-the-closed · https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/ · https://alexwilcox.bandcamp.com/album/rumpelstiltskin
+
+### Resolver integrity
+
+Run 197 used source commit `7664019e31bb84781bed135027670346bb59d81d`. Its matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: nine requested, six exact resolutions, three selected candidates, three alternates and three unresolved identities. There were no warnings, duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- COW — *Dead Air* — `spotify:track:4SvP77fetGxqrGdDm3030J`
+- Alex Wilcox — *recess* — `spotify:track:1y63sXD2hA2TkoJoLD8tat`
+- COW — *Velvet* — `spotify:track:2VYgzccmvtpTxPiLwcMzrX`
+
+Exact but unselected and unevaluated:
+
+- Alex Wilcox — *drowsy outside* — `spotify:track:4G8nqpnLdcNO4kabKJrUb4`
+- Alex Wilcox — *i never know* — `spotify:track:0igxkjdOFUw0IZtzvUyAaB`
+- COW — *Shinkansen* — `spotify:track:1kPWR3vFh6FsrPzR26OD66`
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- PS11 — *Mid Point*
+- PS11 — *Stratos*
+- PS11 — *Timble Snake*
+
+### Candidate evaluations
+
+#### COW — Dead Air
+
+- **Volume fit:** provisional PASS. Juno's exact-track endpoint description and the official movement-led release context support the selection lens without proving individual rhythm or direction.
+- **Immediate transition:** UNKNOWN at the primary `Drummz → candidate → Té de Cabello Blanco` test. An unsettled endpoint could turn instability toward reassembly or merely prolong instability; the source cannot distinguish these.
+- **Three-to-five-track run:** UNKNOWN for `Fragments → Drummz → candidate → Té de Cabello Blanco → Truth in Noise`. The question is concrete, but internal development and incoming handoff remain underdescribed.
+- **Long-form journey:** UNKNOWN. A 5:31 additional stage is consequential, and no net gain is yet established.
+- **Verdict:** PARKED at `Drummz → candidate → Té de Cabello Blanco`. Reopen only for materially richer exact-track evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- **Alternative:** REJECT only at `Pulse I → candidate → Roxellana`; an underdescribed tense scene would mediate crooked accumulation into surge without specific evidence of gain.
+
+#### Alex Wilcox — recess
+
+- **Volume fit:** PASS. The exact 3:58 track's documented frantic techno hot-step supplies concise mobile form without needing to establish a new chapter.
+- **Immediate transition:** FAIL only at `Freepass for Them → candidate → Moonwake` and `Fragments → candidate → Drummz`. The first adds another explicit intensification between a groove pivot and its established consequence; the second inserts compressed frantic motion between driving re-escalation and unpredictable rhythm.
+- **Three-to-five-track run:** FAIL for both tests. Each adds another complete motion stage rather than changing the surrounding run.
+- **Long-form journey:** FAIL for the tested insertions. Concision lowers proportional cost but does not create a new journey effect.
+- **Verdict:** placement-specific REJECT; exact track retained as genuinely interesting.
+
+#### COW — Velvet
+
+- **Volume fit:** PASS. Juno's exact-track account of liquid flow opposed by sharper percussion supports a mutable rhythmic proposition without inferring energy, density or mixability.
+- **Immediate transition:** UNKNOWN at the primary `Cave → candidate → Abundance` test. The described opposition could develop widening toward swung continuation or add another formed stage.
+- **Three-to-five-track run:** UNKNOWN for `Tender Is The Night → Egue into hs → Cave → candidate → Abundance`. The track-specific source does not establish direction or endpoint strongly enough to resolve whether the early passage develops or overextends.
+- **Long-form journey:** UNKNOWN. Another 5:31 stage after the recently articulated suspension and fixed-grid return needs stronger consequence evidence.
+- **Verdict:** PARKED at `Cave → candidate → Abundance`. Reopen only for materially richer exact-track evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- **Alternative:** REJECT only at `FELT → candidate → Thick to Handle`; the existing formation-to-deformation relation should not be mediated without evidence that both neighbours change meaning.
+
+### Auditor approval and durable result
+
+Auditor approval confirmed that request and snapshot match; only the three selected exact identities were evaluated; all unresolved identities and unevaluated alternates are preserved; each candidate was tested separately for volume fit, immediate transition, three-to-five-track run and long-form effect; UNKNOWN claims remain UNKNOWN rather than inferred from metadata; the PARKED and REJECT outcomes remain placement-scoped; and protected state remains untouched.
+
+STRANGE GAIT remains at 52 canonical tracks. All three selected exact identities were retained in the repository-wide doctrine-free utility ledger, increasing it from 409 to 412 tracks. The target-local inspiration, revisit, rejection and set-direction records were updated. No actionable REPAIR emerged.
+
+### RUN ANALYSIS
+
+Run `2026-09-13T01:53:43Z-explore-197` produced:
+
+`~63 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → 0 ADD + 2 PARKED + 1 placement-specific REJECT + 2 alternate-placement rejections → 3 utility additions`
+
+Inspection-to-lead conversion was **14.3%**, resolution yield **66.7%**, and selected-candidate-to-ADD conversion **0/3**.
+
+Across completed discovery Runs 87–197, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **855 leads from approximately 5,071 inspections; 37 ADDs from 264 selected candidates**. The recent comparable ADD rate remains **2/10**; the musical no-ADD streak is four completed runs after Run 191.
+
+The four-run streak now deserves continued monitoring, but it does not yet establish systematic over-filtering: Runs 192–193 were limited by shared non-differentiating evidence, Run 196 produced three placement-specific failures, and this run produces two concrete PARKED questions plus one placement-specific failure. The field remains fresh, exact-interest retention remains active, and no objective repair target is present.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 196 — EXPLORE — internal redirection versus passage consequence — 2026-09-13
 
 **runId:** `2026-09-13T01:07:30Z-explore-196`
