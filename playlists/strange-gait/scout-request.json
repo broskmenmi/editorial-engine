@@ -1,57 +1,57 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T13:51:03Z-explore-212",
-  "sourceCommit": "ffee0aa69a69930a762ccbadf6bbc94a8bf5d0d4",
+  "runId": "2026-09-13T14:02:00Z-explore-213",
+  "sourceCommit": "46e7a017fb1e4e81f591bee7d862eafa905f0083",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T13:51:03Z",
-    "approximateInspectedScope": "Approximately 61 named tracks and releases across Boomkat's current electronic field, FLUF's emerging Toronto window, Hyperdub's adjacent Nazar catalogue, Tresor's 2026 Metasymmetry repress and connected label/catalogue listings. Written exact-track and attributed release descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T14:02:00Z",
+    "approximateInspectedScope": "Approximately 66 named tracks and releases across a second fresh outward scan of Boomkat's FLUF, SM-LL and Dark Entries windows: current long-form techno, emerging reductionist computer music and unreleased 1984–85 archival electronics. Written exact-track and attributed release descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT / EMERGING WINDOW: tendencyitis's AA0020 debut on FLUF supplied two individually described awkward computer-music constructions. https://boomkat.com/products/aa0020",
-      "ADJACENT WINDOW: Nazar's Demilitarize supplied exact-track grid-messing and concrète-electronic propositions outside a fixed techno-room assumption. https://boomkat.com/products/demilitarize",
-      "OVERLOOKED / REPRESS WINDOW: Dopplereffekt's Metasymmetry, returned as a 2026 Tresor repress, supplied four individually described electro, techno and beatless constructions. https://boomkat.com/products/metasymmetry"
+      "CURRENT RELEASE WINDOW: tuuun's the future made me hardcore supplied four individually differentiated ten-minute techno constructions. https://boomkat.com/products/the-future-made-me-hardcore",
+      "ADJACENT / EMERGING WINDOW: tendencyitis's Batch 0013 supplied three exact stochastic-reductionist computer-music propositions. https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
+      "OVERLOOKED / ARCHIVAL WINDOW: Evelyne / Masao's TESTPATTERN supplied previously unreleased 1984–85 electronic material with several exact tracks individually described. https://boomkat.com/products/testpattern"
     ],
     "exclusions": [
-      "Runs 207–211 source fields, every prior ranked lead or alternate found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
-      "The five-completed-exploration repetition check avoided every selected or proposed boundary from Runs 207–211. Placements remain candidate-specific hypotheses, not a boundary-distribution quota.",
-      "Recent Curbside Lambsear, Turning Jewels Into Water, DMX Krew, Galaxy 2 Galaxy, Ben Pest, Skee Mask, Aedis, Delta Division, François X and Confusion fields were not recycled.",
-      "Nine leads survived because each has an exact title, concrete attributed description, constitution-relevant belonging hypothesis and lawful placement question. The three highest ranks come from different source/release windows; no slot was padded.",
-      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. Truth in Noise → Transparency was not treated as protected. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Failed Run 212 is preserved as REQUEST_NOT_COMPLETED and none of its nine ranked identities was reused.",
+      "Runs 207–211 source fields, all prior ranked leads or alternates found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
+      "The repetition check avoided selected and proposed boundaries from Runs 207–211 and all placements proposed in failed Run 212. Placements remain candidate-specific hypotheses, not a boundary quota.",
+      "Nine honest leads survived with exact titles, concrete attributed descriptions, constitution-relevant belonging hypotheses and lawful adjacent URI pairs. The highest three come from different releases; no slot was padded.",
+      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. tendencyitis — 0020A",
-      "2. Dopplereffekt — Time Modulation-Graviton Pulse",
-      "3. Nazar — Core",
-      "4. Dopplereffekt — Collapse of Simultaneity",
-      "5. tendencyitis — 0020AA",
-      "6. Nazar — Disarm",
-      "7. Nazar — Anticipate",
-      "8. Dopplereffekt — Multiverse Wavefunction",
-      "9. Dopplereffekt — Olbers Paradox"
+      "1. tuuun — the future made me hardcore",
+      "2. Evelyne / Masao — Sakuramochi",
+      "3. tendencyitis — Rhizomes",
+      "4. tuuun — living in the disgusting now",
+      "5. Evelyne / Masao — Bird Island",
+      "6. tendencyitis — Pistils",
+      "7. tuuun — it doesn't need to be so complicated",
+      "8. Evelyne / Masao — Alien Go Home",
+      "9. tendencyitis — Fronds"
     ]
   },
   "leads": [
     {
-      "artist": "tendencyitis",
-      "track": "0020A",
-      "album": "AA0020",
+      "artist": "tuuun",
+      "track": "the future made me hardcore",
+      "album": "the future made me hardcore",
       "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/aa0020",
-      "fitHypothesis": "Its documented thudding-kick, surface-disturbance and hacked-stab construction is a direct rhythmic-structure proposition, not a novelty claim.",
+      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
+      "fitHypothesis": "Its individually described nano-tight bleep-techno modulation offers a current exact-track test of locked form under change.",
       "proposedPlacements": [
         {
-          "position": "Between Truth in Noise and Style Teef",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": 138,
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "incomingBpm": 134,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a disturbed but still legible kick-state makes Style Teef's grid-to-fault-line move more consequential, or merely adds a second complete rupture before it."
+          "outgoingBpm": 135,
+          "purpose": "Test whether its sustained modulating lock gives Cave's widening a changed consequence before Abundance, or inserts an overlong second premise."
         }
       ],
       "evidence": {
@@ -61,133 +61,99 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes 0020A as a thudding kick encased in prickly surface disturbance and sealed with hacked bleep-rave stabs.",
+        "attributedDescription": "Boomkat describes the title track as nano-tight bleep techno within a ten-minute square-acid construction shaped by nuanced modulation.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether a disturbed but still legible kick-state makes Style Teef's grid-to-fault-line move more consequential, or merely adds a second complete rupture before it."
+        "editorialInterpretation": "Test whether its sustained modulating lock gives Cave's widening a changed consequence before Abundance, or inserts an overlong second premise."
       }
     },
     {
-      "artist": "Dopplereffekt",
-      "track": "Time Modulation-Graviton Pulse",
-      "album": "Metasymmetry",
-      "releaseDate": "2024",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/metasymmetry",
-      "fitHypothesis": "The exact track's documented kick/clap and arp counterpoint developing into strings offers a serious internal-transformation candidate.",
-      "proposedPlacements": [
-        {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the track turns rhythm-to-dissonance dissolution into a newly articulated tension before Mildew's opposed-time crisis, or overstates an already specific passage."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes a duel of grid-snapped kick/clap and needling arp counterpoint leading to taut strings.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the track turns rhythm-to-dissonance dissolution into a newly articulated tension before Mildew's opposed-time crisis, or overstates an already specific passage."
-      }
-    },
-    {
-      "artist": "Nazar",
-      "track": "Core",
-      "album": "Demilitarize",
-      "releaseDate": "2025",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/demilitarize",
-      "fitHypothesis": "The exact track's documented concrete-electronic shapeshifting and tarraxho comparison make it a credible adjacent-form test for structural freedom.",
-      "proposedPlacements": [
-        {
-          "position": "Between Carried and Tender Is The Night",
-          "precedingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
-          "followingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether Core gives Carried's self-emptying rupture a distinct mutable consequence before drone suspension, or replaces a clear widening setup with an unrelated scene."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat attributes steep concrète-electronic shapeshifting to Core, comparing it to Philip Jeck or Parmegiani gone tarraxho.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Core gives Carried's self-emptying rupture a distinct mutable consequence before drone suspension, or replaces a clear widening setup with an unrelated scene."
-      }
-    },
-    {
-      "artist": "Dopplereffekt",
-      "track": "Collapse of Simultaneity",
-      "album": "Metasymmetry",
-      "releaseDate": "2024",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/metasymmetry",
-      "fitHypothesis": "Its individually documented Detroit electro-techno piston motion and synth-plane construction offer a concrete movement proposition.",
-      "proposedPlacements": [
-        {
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "incomingBpm": 136,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a piston-driven intermediate state changes crooked accumulation into directed surge, or simply duplicates propulsion before Roxellana."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes pistoning Detroit electro-techno combustion with three-dimensional synth planes.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether a piston-driven intermediate state changes crooked accumulation into directed surge, or simply duplicates propulsion before Roxellana."
-      }
-    },
-    {
-      "artist": "tendencyitis",
-      "track": "0020AA",
-      "album": "AA0020",
+      "artist": "Evelyne / Masao",
+      "track": "Sakuramochi",
+      "album": "TESTPATTERN",
       "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/aa0020",
-      "fitHypothesis": "Its explicitly more abstract modem-conflict construction supplies a differentiated current-release identity question.",
+      "discoverySource": "https://boomkat.com/products/testpattern",
+      "fitHypothesis": "The archival exact track's intricate minimalist electronics and documented melodic construction make it a credible left-turn test without requiring genre orthodoxy.",
       "proposedPlacements": [
         {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "position": "Between Stadium Drive and Marauder",
+          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 136,
+          "purpose": "Test whether this archival electronic scene changes Stadium Drive's assembled rhythm into a purposeful state before Marauder, or weakens the direct overture-to-anchor handoff."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Dark Entries' notes, reproduced by Boomkat, identify Sakuramochi through intricate minimalist electronics and a soaring melody that redeploys East Asian musical tropes.",
+        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether this archival electronic scene changes Stadium Drive's assembled rhythm into a purposeful state before Marauder, or weakens the direct overture-to-anchor handoff."
+      }
+    },
+    {
+      "artist": "tendencyitis",
+      "track": "Rhizomes",
+      "album": "Batch 0013",
+      "releaseDate": "2026",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
+      "fitHypothesis": "Its exact-track description of meshed straightjacket unfunk is a serious rhythmic-constraint proposition for the volume lens.",
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Raataja",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether constrained unfunk sharpens intensification into burst-and-disappearance, or adds a separate mechanism before an already specific crisis."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat describes Rhizomes as meshed straightjacket unfunk within stochastic, reductionist computer music.",
+        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether constrained unfunk sharpens intensification into burst-and-disappearance, or adds a separate mechanism before an already specific crisis."
+      }
+    },
+    {
+      "artist": "tuuun",
+      "track": "living in the disgusting now",
+      "album": "the future made me hardcore",
+      "releaseDate": "2026",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
+      "fitHypothesis": "Its individually attributed dissonant modulation offers a differentiated exact-track question inside a long minimal techno form.",
+      "proposedPlacements": [
+        {
+          "position": "Between Roxellana and backsliding",
+          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether abstract machine contention changes foreground dissolution into a useful precondition for Amor's machine-to-hand-drum mutation, or interrupts that relation without payoff."
+          "purpose": "Test whether sustained dissonant modulation changes directed surge into rhythm-to-dissonance dissolution, or redundantly precedes that same consequence."
         }
       ],
       "evidence": {
@@ -197,31 +163,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat calls 0020AA more abstract and likens it to two modems squabbling over a poor connection.",
+        "attributedDescription": "Boomkat attributes nosedrip dissonance to this exact ten-minute track within a set of quick, tunnelling minimal techno tracts.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether abstract machine contention changes foreground dissolution into a useful precondition for Amor's machine-to-hand-drum mutation, or interrupts that relation without payoff."
+        "editorialInterpretation": "Test whether sustained dissonant modulation changes directed surge into rhythm-to-dissonance dissolution, or redundantly precedes that same consequence."
       }
     },
     {
-      "artist": "Nazar",
-      "track": "Disarm",
-      "album": "Demilitarize",
-      "releaseDate": "2025",
+      "artist": "Evelyne / Masao",
+      "track": "Bird Island",
+      "album": "TESTPATTERN",
+      "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/demilitarize",
-      "fitHypothesis": "Its exact-track shapeshifting description makes it a distinct adjacent rhythmic proposition despite sharing release context with Core.",
+      "discoverySource": "https://boomkat.com/products/testpattern",
+      "fitHypothesis": "This exact archival track offers an intricate-minimalist melodic proposition for a conspicuous production-world change.",
       "proposedPlacements": [
         {
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Between Té de Cabello Blanco and Ikoyi",
+          "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether Disarm changes Migration's piano-to-break pivot into a useful unstable passage before liminal percussion, or delays the existing left turn."
+          "purpose": "Test whether the melodic left turn changes false stability into a meaningful state before Ikoyi dissolves the foreground, or over-articulates the passage."
         }
       ],
       "evidence": {
@@ -231,31 +197,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat attributes steep concrète-electronic shapeshifting to Disarm, comparing it to Philip Jeck or Parmegiani gone tarraxho.",
+        "attributedDescription": "Dark Entries' notes identify Bird Island through intricate minimalist electronics and a soaring melody with subtly ironic East Asian trope redeployment.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Disarm changes Migration's piano-to-break pivot into a useful unstable passage before liminal percussion, or delays the existing left turn."
+        "editorialInterpretation": "Test whether the melodic left turn changes false stability into a meaningful state before Ikoyi dissolves the foreground, or over-articulates the passage."
       }
     },
     {
-      "artist": "Nazar",
-      "track": "Anticipate",
-      "album": "Demilitarize",
-      "releaseDate": "2025",
+      "artist": "tendencyitis",
+      "track": "Pistils",
+      "album": "Batch 0013",
+      "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/demilitarize",
-      "fitHypothesis": "The source identifies this exact track through dance-songcraft inside a grid-messing, club-derived album, supporting a serious threshold question.",
+      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
+      "fitHypothesis": "Its exact description of frayed growth offers a differentiated structural process without assuming sonic facts beyond the source.",
       "proposedPlacements": [
         {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "position": "Between Encasadelciegoeltuerco and Carried",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": 143,
-          "purpose": "Test whether Anticipate changes the funereal threshold into a purposeful new state before the protected block opener, or dilutes the direct unprotected handoff."
+          "outgoingBpm": null,
+          "purpose": "Test whether a fraying process gives triplet derailment a distinct route into Carried's self-emptying rupture, or merely doubles the breakdown."
         }
       ],
       "evidence": {
@@ -265,31 +231,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat identifies Anticipate as the album's dance-songcraft single within club-derived, grid-messing arrangements.",
+        "attributedDescription": "Boomkat characterizes Pistils as frayed growth within stochastic, reductionist computer music.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Anticipate changes the funereal threshold into a purposeful new state before the protected block opener, or dilutes the direct unprotected handoff."
+        "editorialInterpretation": "Test whether a fraying process gives triplet derailment a distinct route into Carried's self-emptying rupture, or merely doubles the breakdown."
       }
     },
     {
-      "artist": "Dopplereffekt",
-      "track": "Multiverse Wavefunction",
-      "album": "Metasymmetry",
-      "releaseDate": "2024",
+      "artist": "tuuun",
+      "track": "it doesn't need to be so complicated",
+      "album": "the future made me hardcore",
+      "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/metasymmetry",
-      "fitHypothesis": "Its intricate-arp and choral-pad construction offers a different structural question from the release's harder tracks.",
+      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
+      "fitHypothesis": "Its documented curdled synth voices and nuanced modulation make it a credible exact identity question, not an inferred transition.",
       "proposedPlacements": [
         {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "position": "Between Tides Alternate and Serpentine Tale",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": 130,
-          "purpose": "Test whether this layered formation gives Never Met's passing foreground a new condition for Trompe L'oeil to reset, or postpones an already effective reset."
+          "purpose": "Test whether its long-form modulation makes opposed-speed balance arrive differently before Serpentine Tale, or delays the existing low-slung consequence."
         }
       ],
       "evidence": {
@@ -299,31 +265,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes intricate arpeggiation coordinated with choral pads.",
+        "attributedDescription": "Boomkat attributes curdled synth voices to this exact ten-minute track within a set of fast, minimal, modulating techno tracts.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether this layered formation gives Never Met's passing foreground a new condition for Trompe L'oeil to reset, or postpones an already effective reset."
+        "editorialInterpretation": "Test whether its long-form modulation makes opposed-speed balance arrive differently before Serpentine Tale, or delays the existing low-slung consequence."
       }
     },
     {
-      "artist": "Dopplereffekt",
-      "track": "Olbers Paradox",
-      "album": "Metasymmetry",
-      "releaseDate": "2024",
+      "artist": "Evelyne / Masao",
+      "track": "Alien Go Home",
+      "album": "TESTPATTERN",
+      "releaseDate": "2026",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/metasymmetry",
-      "fitHypothesis": "The beatless side of the same electro project is a lawful long-form ending question, not an assumed escape role.",
+      "discoverySource": "https://boomkat.com/products/testpattern",
+      "fitHypothesis": "The exact archival track's documented punkier DIY-electronic stance offers a clear production-world left-turn question.",
       "proposedPlacements": [
         {
-          "position": "After Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-          "followingUri": null,
+          "position": "Between FELT and Thick to Handle",
+          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a conspicuous beatless coda changes the existing electro-soul afterword into a purposeful final aperture, or overextends a completed ending."
+          "outgoingBpm": 138,
+          "purpose": "Test whether this DIY-electronic left turn changes rolling formation into a stronger precondition for bodily deformation, or interrupts a concise functional handoff."
         }
       ],
       "evidence": {
@@ -333,9 +299,43 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes Olbers Paradox as opening into a beatless, ensemble-like electronic scene.",
+        "attributedDescription": "Dark Entries' notes identify Alien Go Home as a quirky track with a punkier continental DIY-electronic ethos.",
         "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether a conspicuous beatless coda changes the existing electro-soul afterword into a purposeful final aperture, or overextends a completed ending."
+        "editorialInterpretation": "Test whether this DIY-electronic left turn changes rolling formation into a stronger precondition for bodily deformation, or interrupts a concise functional handoff."
+      }
+    },
+    {
+      "artist": "tendencyitis",
+      "track": "Fronds",
+      "album": "Batch 0013",
+      "releaseDate": "2026",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
+      "fitHypothesis": "Its individually described chaotic overlap of searching sounds is a concrete structural-freedom proposition.",
+      "proposedPlacements": [
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether chaotic searching changes dead-space descent into a distinct condition for restrained re-entry, or crowds an already proportionate late passage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat describes Fronds as a chaotic overlap of searching, flapping sounds within stochastic computer music.",
+        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether chaotic searching changes dead-space descent into a distinct condition for restrained re-entry, or crowds an already proportionate late passage."
       }
     }
   ]
