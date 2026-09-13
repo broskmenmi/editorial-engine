@@ -78,7 +78,7 @@ These thresholds diagnose the funnel; they never authorize padding or forced ADD
 ## Canonical candidate flow
 When honest leads exist:
 1. Read current main SHA immediately before writing.
-2. Derive every proposed-placement `precedingUri` and `followingUri` directly from the current canonical ledger. Before writing, validate that each prose-named neighbour matches its URI and that the pair is adjacent in current ledger order. A mismatch blocks the request as `REQUEST_NOT_COMPLETED`; never commit stale URIs, resolve the request anyway, or silently fall back to prose after resolution.
+2. Derive every proposed-placement boundary directly from the current canonical ledger. For an internal insertion, `precedingUri` and `followingUri` must name an adjacent current pair. For a lawful before-opener or after-closer test, use `null` only for the absent side and reference the current opener or closer on the present side. Before writing, validate that each prose-named neighbour matches its URI. A mismatch blocks the request as `REQUEST_NOT_COMPLETED`; never commit stale URIs, resolve the request anyway, or silently fall back to prose after resolution.
 3. Write one immutable schemaVersion 2 `scout-request.json` with a new runId, current `sourceCommit`, mode, target, EXPLORE receipt and 1–9 ranked `leads`.
 4. Never reuse runId, write request-side candidates, mutate request content or combine diagnostic request writes with editorial state.
 5. Require the matching terminal `scout-data.json` with valid fingerprint.

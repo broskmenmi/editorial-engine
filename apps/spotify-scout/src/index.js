@@ -86,22 +86,31 @@ export function validateProposedPlacements(request, ledgerText) {
   request.leads.forEach((lead, leadIndex) => {
     lead.proposedPlacements.forEach((placement, placementIndex) => {
       const label = `Lead ${leadIndex + 1} placement ${placementIndex + 1}`;
-      if (typeof placement?.precedingUri !== 'string' || typeof placement?.followingUri !== 'string') {
-        throw new Error(`${label} must contain precedingUri and followingUri`);
+      const hasPreceding = typeof placement?.precedingUri === 'string';
+      const hasFollowing = typeof placement?.followingUri === 'string';
+      if (!hasPreceding && !hasFollowing) {
+        throw new Error(`${label} must contain precedingUri or followingUri`);
       }
 
-      const preceding = byUri.get(placement.precedingUri);
-      const following = byUri.get(placement.followingUri);
-      if (!preceding || !following) {
-        throw new Error(`${label} must reference two current canonical ledger URIs`);
+      const preceding = hasPreceding ? byUri.get(placement.precedingUri) : null;
+      const following = hasFollowing ? byUri.get(placement.followingUri) : null;
+      if ((hasPreceding && !preceding) || (hasFollowing && !following)) {
+        throw new Error(`${label} must reference current canonical ledger URIs`);
       }
-      if (following.index !== preceding.index + 1) {
+      if (preceding && following && following.index !== preceding.index + 1) {
         throw new Error(`${label} URI pair must be adjacent in current canonical ledger order`);
+      }
+      if (!preceding && following.index !== 0) {
+        throw new Error(`${label} without precedingUri must reference the current opener`);
+      }
+      if (preceding && !following && preceding.index !== tracks.length - 1) {
+        throw new Error(`${label} without followingUri must reference the current closer`);
       }
 
       const position = normalized(placement.position);
-      if (!position.includes(normalized(preceding.track)) || !position.includes(normalized(following.track))) {
-        throw new Error(`${label} prose must name current canonical neighbours "${preceding.track}" and "${following.track}"`);
+      const namedTracks = [preceding?.track, following?.track].filter(Boolean);
+      if (namedTracks.some((track) => !position.includes(normalized(track)))) {
+        throw new Error(`${label} prose must name current canonical neighbour${namedTracks.length === 1 ? '' : 's'} "${namedTracks.join('" and "')}"`);
       }
     });
   });

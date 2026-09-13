@@ -99,6 +99,28 @@ test('placement prose and URI pairs must match adjacent current ledger neighbour
     ),
     /current canonical ledger URIs/,
   );
+  assert.doesNotThrow(() => validateProposedPlacements(
+    request({ leads: [lead({ proposedPlacements: [{ position: 'Before Example One', precedingUri: null, followingUri: firstUri }] })] }),
+    ledger,
+  ));
+  assert.doesNotThrow(() => validateProposedPlacements(
+    request({ leads: [lead({ proposedPlacements: [{ position: 'After Example Three', precedingUri: thirdUri, followingUri: null }] })] }),
+    ledger,
+  ));
+  assert.throws(
+    () => validateProposedPlacements(
+      request({ leads: [lead({ proposedPlacements: [{ position: 'Before U Belong 2 Me', precedingUri: null, followingUri: secondUri }] })] }),
+      ledger,
+    ),
+    /current opener/,
+  );
+  assert.throws(
+    () => validateProposedPlacements(
+      request({ leads: [lead({ proposedPlacements: [{ position: 'After U Belong 2 Me', precedingUri: secondUri, followingUri: null }] })] }),
+      ledger,
+    ),
+    /current closer/,
+  );
 });
 
 test('optional direct Spotify IDs must be exact base62 track IDs', () => {
