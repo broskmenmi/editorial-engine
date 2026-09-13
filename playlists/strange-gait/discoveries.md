@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 216 — REPAIR — correct Run 214 resolver-outcome count — 2026-09-13
+
+**Pre-audit:** REPAIR. Final validation found one objective factual defect in Run 214's durable-result summary: it reported five unresolved/ambiguous outcomes plus three duplicate-state outcomes even though the immutable nine-lead resolver snapshot contains two selected exact candidates, four unresolved/ambiguous outcomes and three duplicate-state outcomes.
+
+- **runId:** `2026-09-13T15:05:00Z-repair-216`
+- **repair:** changed only `Five unresolved/ambiguous` to `Four unresolved/ambiguous` in Run 214's durable-result summary
+- **preserved evidence:** all seven exact resolver errors, both warnings, both evaluations and the immutable request/snapshot remain unchanged
+- **musical and publication state:** unchanged; STRANGE GAIT remains 55 tracks and EDITORIAL ENGINE — DISCOVERY POOL remains 438 tracks
+
+**RUN ANALYSIS:** 1 stale factual count → 1 textual correction → 0 musical decisions → 0 publication-input changes.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 215 — REPAIR — restore Discovery Pool ledger continuity — 2026-09-13
 
 **Pre-audit:** REPAIR. Automatic publication of EDITORIAL ENGINE — DISCOVERY POOL failed closed after Run 214 with the exact receipt error `Ledger contains a track row after table termination on row 444.` STRANGE GAIT itself had already verified COMPLETE at 55/55, and the 55-track canonical ledger, regenerated journey map and listener-protected trio were intact.
@@ -73,7 +86,7 @@ Warnings preserved exactly:
 - STRANGE GAIT: **54 → 55 canonical tracks**, adding *IF U WANT 2* at position 22.
 - 710 Exit — *Strat* is retained as an exact placement-specific reject.
 - EDITORIAL ENGINE — DISCOVERY POOL: **436 → 438**, adding both exact evaluated identities.
-- Five unresolved/ambiguous search outcomes and three duplicate-state outcomes are preserved without musical verdicts.
+- Four unresolved/ambiguous search outcomes and three duplicate-state outcomes are preserved without musical verdicts.
 - Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
 
 **RUN ANALYSIS:** Approximately 64 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved/duplicate outcomes → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. Inspection-to-lead conversion was 14.1%; resolution yield was 22.2%; selected-candidate-to-ADD conversion was 50%. Across completed discovery Runs 87–214, excluding process repairs and failed runs including Run 212: **963 leads from approximately 5,817 inspections; 40 ADDs from 290 selected candidates**. The recent comparable ADD rate becomes **3/10**; Run 214 ends the five-completed-run no-ADD streak after Run 207. Twelve exact interesting tracks were retained during that streak before this run's two. The duplicate-state misses weaken confidence in Scout exclusion execution but were caught transparently and did not contaminate evaluation. The run proves that a fresh catalogue exact track can improve one current passage under best-available evidence; it does not verify either handoff, BPM, perceived pulse, energy, density, phrase fit or live mixability.
