@@ -1,5 +1,18 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 196 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | FAUZIA | I can be anything | `spotify:track:16WpgfIq98L5mVwWQ7WKn6` · https://open.spotify.com/track/16WpgfIq98L5mVwWQ7WKn6 · https://ra.co/reviews/36363 · https://fauzia.bandcamp.com/ | Exact selected identity; rejected only at *Sarniezz → Never Met* and *Rabbit Hole → Can I live*. Its internal production-world redirection remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | 747 | Aurora Centralis | `spotify:track:7A1YcSeFJpLTHybu78qgT9` · https://open.spotify.com/track/7A1YcSeFJpLTHybu78qgT9 · https://www.juno.co.uk/techno/this-week/ | Exact selected identity; rejected only at *Pulse I → Roxellana* and *Trompe L'oeil → FELT*. The current listing resolves to Spotify's original 2017 edition. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | 747 | Night Passage | `spotify:track:1oo22UQMesqltFe0vziWkl` · https://open.spotify.com/track/1oo22UQMesqltFe0vziWkl · source above | Exact selected identity; rejected only at *Atlantis → Hypnic Jerks* and *Migration → Eyes of the Wind*. Its tension-dissolving action remains genuinely interesting. Added globally. |
+| EXACT ALTERNATE / UNEVALUATED | FAUZIA | Just a dream | `spotify:track:3ElcHYfV9McmfEUcj51uof` · https://open.spotify.com/track/3ElcHYfV9McmfEUcj51uof · https://fauzia.bandcamp.com/ | Resolver-confirmed alternate; unselected, unevaluated and not added globally. |
+| EXACT ALTERNATE / UNEVALUATED | 747 | Tenke | `spotify:track:3RrtBaS45Kwl6q1cyDtJXL` · https://open.spotify.com/track/3RrtBaS45Kwl6q1cyDtJXL · https://www.juno.co.uk/techno/this-week/ | Resolver-confirmed alternate; unselected, unevaluated and not added globally. Current listing resolves to Spotify's original 2017 edition. |
+| RESEARCH LEAD / UNRESOLVED | Boards of Canada | Tape 05 | https://ra.co/reviews/36346 · https://warp.net/artists/boards-of-canada | Drumless ambient exact-title lead; no exact Spotify title/artist search match in market SE. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Night Format; BRNT; D.A.V.E. The Drummer | Indecisive; Pleasure Circuit; Indecisive remix | https://www.juno.co.uk/techno/this-week/ | Three exact current-listing leads; each returned no exact Spotify title/artist search match in market SE. No verdict or utility addition. |
+| SET DIRECTION | — | Let internal redirection answer the passage | Run 196 evaluations | A track with its own form change earns sequence space only when that change makes both neighbours newly consequential; character difference itself remains allowed. |
+
 ## Run 193 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

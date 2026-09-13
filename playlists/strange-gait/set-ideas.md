@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 196
+
+### Let internal redirection answer the passage
+
+**Direction:** Test tracks with strong internal production-world or tension-state changes at existing boundaries, then require the change to alter both neighbouring relations rather than merely add another complete scene.
+
+**Ingredients:**
+
+- FAUZIA — *I can be anything* — exact, placement-specific REJECT; its documented low-end/drum-to-guitar redirection remains useful outside the two tested boundaries
+- 747 — *Aurora Centralis* and *Night Passage* — exact, placement-specific REJECTs; distinct acid-voice and tension-dissolving actions, not interchangeable roles
+- FAUZIA — *Just a dream* and 747 — *Tenke* — exact resolver-confirmed alternates, unselected and unevaluated
+- Boards of Canada, Night Format, BRNT and D.A.V.E. The Drummer — four current exact-title research leads unresolved in Spotify market SE
+
+**Why interesting:** A conspicuous left turn can succeed, but an internally complete redirection can also over-articulate a passage. This direction keeps character freedom while asking whether the incoming track, the candidate and the outgoing track become more meaningfully related.
+
+**Boundary:** This is an inspiration and programming direction, not a proven canonical sequence or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 193
 
 ### Let short form earn consequence

@@ -1,5 +1,110 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 196 — EXPLORE — internal redirection versus passage consequence — 2026-09-13
+
+**runId:** `2026-09-13T01:07:30Z-explore-196`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 52 unique canonical tracks; the generated map matched the ledger; the listener-protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 44–46; no active listener discussion, current TRIGGERED revisit, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 61 named tracks, releases, reviews and catalogue references were inspected across live September 2026 Juno and Resident Advisor windows, official Bandcamp and label pages, and overlooked acid, ambient, broken-club and hybrid songwriter/electronic catalogue material. Previously retained, rejected, unresolved and duplicate identities were removed before ranking.
+
+### Resolver integrity
+
+Two requests failed before musical resolution and are preserved as technical non-completions:
+
+- Run 194, `2026-09-13T00:51:26Z-explore-194`, is `REQUEST_NOT_COMPLETED`. Several proposed-placement neighbour URIs did not match the current canonical ledger, so validation stopped before Spotify lookup. No Run 194 identity received a verdict or utility addition.
+- Run 195, `2026-09-13T01:03:00Z-explore-195`, is `REQUEST_NOT_COMPLETED`. Validation returned exactly: `Error: Recovery request must preserve the source run mode, target, receipt, and ranked leads exactly`. No Run 195 identity received a verdict or utility addition.
+
+Run 196 used source commit `4018c002325252662018fe30a8d9b5b89609edf1`. Its matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: nine requested, five exact resolutions, three selected candidates, two alternates and four unresolved identities. There were no duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- FAUZIA — *I can be anything* — `spotify:track:16WpgfIq98L5mVwWQ7WKn6`
+- 747 — *Aurora Centralis* — `spotify:track:7A1YcSeFJpLTHybu78qgT9`
+- 747 — *Night Passage* — `spotify:track:1oo22UQMesqltFe0vziWkl`
+
+Exact but unselected and unevaluated:
+
+- FAUZIA — *Just a dream* — `spotify:track:3ElcHYfV9McmfEUcj51uof`
+- 747 — *Tenke* — `spotify:track:3RrtBaS45Kwl6q1cyDtJXL`
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Boards of Canada — *Tape 05*
+- Night Format — *Indecisive*
+- BRNT — *Pleasure Circuit*
+- D.A.V.E. The Drummer — *Indecisive - D.A.V.E. The Drummer Remix*
+
+Warnings preserved exactly:
+
+- 747 — *Aurora Centralis*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-03" but Spotify returned "2017-07-14"`
+- 747 — *Night Passage*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-03" but Spotify returned "2017-07-14"`
+- 747 — *Tenke*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-03" but Spotify returned "2017-07-14"`
+
+The variance records a current reissue/listing date against Spotify's original 2017 edition; it does not alter the exact-title/artist identity match.
+
+### Candidate evaluations
+
+#### FAUZIA — I can be anything
+
+- **Volume fit:** PASS. The exact track's documented change from spatial low-end and receding drums into guitar-led Americana resists a single fixed production or rhythmic form.
+- **Immediate transition:** FAIL only at `Sarniezz → candidate → Never Met` and `Rabbit Hole → candidate → Can I live`. At either boundary, the track completes its own production-world redirection before an already purposeful return.
+- **Three-to-five-track run:** FAIL. `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil` gains a second complete redirection between the live-band left turn and reset rather than changing their consequence.
+- **Long-form journey:** FAIL for the tested insertions. The character change is welcome; the added stage is not proportionate.
+- **Verdict:** placement-specific REJECT; exact track retained as genuinely interesting.
+
+Evidence: https://ra.co/reviews/36363 · https://fauzia.bandcamp.com/
+
+#### 747 — Aurora Centralis
+
+- **Volume fit:** PASS. Surreal processed voice over acid ambience supplies a mutable, non-orthodox acid proposition.
+- **Immediate transition:** FAIL only at `Pulse I → candidate → Roxellana` and `Trompe L'oeil → candidate → FELT`. The first creates another complete acid/voice scene between crooked accumulation and uncontained surge; the second adds another formed acid world before formation.
+- **Three-to-five-track run:** FAIL. Both placements lengthen an already legible transformation without a new local consequence.
+- **Long-form journey:** FAIL for the tested insertions; the long-form path gains duration and another scene, not a clearer or more productive turn.
+- **Verdict:** placement-specific REJECT; exact track retained as genuinely interesting.
+
+Evidence: https://www.juno.co.uk/techno/this-week/
+
+#### 747 — Night Passage
+
+- **Volume fit:** PASS. Its documented tension-dissolution and floating state offer structural freedom without needing to announce a new chapter.
+- **Immediate transition:** FAIL only at `Atlantis → candidate → Hypnic Jerks` and `Migration → candidate → Eyes of the Wind`. The first inserts another suspended stage between the established continuum and acceleration crisis; the second crowds the closing post-protected pivot.
+- **Three-to-five-track run:** FAIL. At either boundary, its complete dissolving action delays an existing consequence.
+- **Long-form journey:** FAIL for the tested insertions. The left turn is allowed, but it does not improve the proportion of either passage.
+- **Verdict:** placement-specific REJECT; exact track retained as genuinely interesting.
+
+Evidence: https://www.juno.co.uk/techno/this-week/
+
+### Auditor approval and durable result
+
+Auditor approval confirmed that the request and snapshot match; only the three selected exact identities were evaluated; all warnings, unresolved identities and unevaluated alternates are preserved; each candidate was tested separately for volume fit, immediate transition, three-to-five-track run and long-form effect; the rejections remain placement-scoped; and the protected sequence remains untouched.
+
+STRANGE GAIT remains at 52 canonical tracks. The three selected exact identities were added to the repository-wide doctrine-free utility ledger, increasing it from 406 to 409 tracks. Target-local discovery and set-direction records were updated. No actionable REPAIR emerged.
+
+### RUN ANALYSIS
+
+Run 194:
+
+`~61 inspected → 9 leads → REQUEST_NOT_COMPLETED during placement validation → 0 resolutions / evaluations / additions`
+
+Run 195:
+
+`same field → REQUEST_NOT_COMPLETED during immutable recovery-history validation → 0 resolutions / evaluations / additions`
+
+Successful Run 196:
+
+`same fresh field with corrected current-ledger references → 9 leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Run 196's inspection-to-lead conversion was **14.8%**, resolution yield **55.6%**, and selected-candidate-to-ADD conversion **0/3**.
+
+Across completed discovery Runs 87–196, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **846 leads from approximately 5,008 inspections; 37 ADDs from 261 selected candidates**. The recent comparable ADD rate becomes **2/10**; the musical no-ADD streak is three completed runs after Run 191.
+
+The fresh field produced three exact, musically differentiated placement failures rather than a metadata-only UNKNOWN veto. That is not an actionable stagnation or systematic over-filtering signal.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 193 — EXPLORE — exact short forms, underdescribed tracks — 2026-09-13
 
 **runId:** `2026-09-12T23:53:29Z-explore-193`

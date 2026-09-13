@@ -10,6 +10,9 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| FAUZIA | I can be anything | Run 196 rejects only `Sarniezz → candidate → Never Met` and `Rabbit Hole → candidate → Can I live`. The documented production-world redirection remains interesting, but each tested insertion adds another complete turn before an existing return rather than changing the passage. | 2026-09-13 |
+| 747 | Aurora Centralis | Run 196 rejects only `Pulse I → candidate → Roxellana` and `Trompe L'oeil → candidate → FELT`. Its acid/voice scene remains interesting, but both tested insertions over-articulate an already legible transformation. | 2026-09-13 |
+| 747 | Night Passage | Run 196 rejects only `Atlantis → candidate → Hypnic Jerks` and `Migration → candidate → Eyes of the Wind`. Its tension-dissolving action remains interesting, but each tested insertion delays an existing consequence. | 2026-09-13 |
 | Rezzett | Dread | Run 193 rejects only `Rabbit Hole → candidate → Can I live`. The exact 218,000-ms track remains PARKED between *Raataja* and *Crawl*, but at this alternate an underdescribed extra stage over-articulates the existing descent-to-re-entry relation without evidence of gain. Not a global rejection. | 2026-09-13 |
 | Rezzett | Fling It | Run 193 rejects only `Raataja → candidate → Crawl`. The exact 150,000-ms track remains PARKED between *Rabbit Hole* and *Can I live*, but at this alternate an undocumented intermediary weakens the direct disappearance-to-sustained-motion relation without a specific consequence. Not a global rejection. | 2026-09-13 |
 | Rezzett | Third Shoe | Run 193 rejects only `Rabbit Hole → candidate → Can I live`. The exact 184,888-ms track remains PARKED between *Raataja* and *Crawl*, but at this alternate another underdescribed ending stage lacks evidence of long-form gain. Not a global rejection. | 2026-09-13 |
