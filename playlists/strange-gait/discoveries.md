@@ -2,11 +2,11 @@
 
 **runId:** `2026-09-13T06:05:30Z-repair-204`
 
-Finalization of Run 203 found one objective publication defect: a blank line before global utility row 416 terminated the Markdown table, so the parser correctly failed closed with `Ledger contains a track row after table termination on row 423.` Repair Run 204 removes only that blank line, restoring rows 1–418 as one contiguous table. It also restores Run 203 to newest-first position in this history after the prior header boundary placed it below Run 200. No Spotify identity, canonical verdict, placement, BPM, order, protected state or utility membership changes.
+Finalization of Run 203 found two objective technical defects: a blank line before global utility row 416 terminated the Markdown table, so the parser correctly failed closed with `Ledger contains a track row after table termination on row 423.`; and the generated STRANGE GAIT journey map remained stale at 52 tracks after the 53-track ledger was published. Repair Run 204 removes only that blank line, restores rows 1–418 as one contiguous table, and records a factual ledger-state repair marker so normal main-branch automation regenerates the map. It also restores Run 203 to newest-first position in this history after the prior header boundary placed it below Run 200. No Spotify identity, canonical verdict, placement, BPM, order, protected state or utility membership changes.
 
 **Auditor approval:** APPROVED. Global row numbers are contiguous 1–418, all Spotify URIs are unique, the three Run 203 rows remain exact and unchanged, STRANGE GAIT remains 53 tracks with *Serpentine Tale* at position 16, and the protected trio remains positions 45–47.
 
-**RUN ANALYSIS:** 1 publication-ledger continuity defect + 1 discovery-log ordering defect → 2 representation repairs → 0 musical decisions → canonical 53 and utility 418 memberships unchanged.
+**RUN ANALYSIS:** 1 publication-ledger continuity defect + 1 stale generated map + 1 discovery-log ordering defect → 3 technical/representation repairs → 0 musical decisions → canonical 53 and utility 418 memberships unchanged.
 
 ## Run 203 — EXPLORE — low-slung consequence after opposed-speed balance — 2026-09-13
 
