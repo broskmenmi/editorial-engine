@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 211 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | François X | Bound State | `spotify:track:1wlIs41ahbKnr8Vzl1T6C7` · https://open.spotify.com/track/1wlIs41ahbKnr8Vzl1T6C7 · https://yoyaku.io/release/francois-x-bound-states-ep-xxl012/ | PARKED after `Raataja → Crawl` and `Capa → Sarniezz` tests; release-level cohesion does not establish individual direction or endpoint. Added globally. |
+| EXACT TRACK / PARKED | François X | Bones & Harmony | `spotify:track:7amILcKU3n8Rsi5ul1FPqi` · https://open.spotify.com/track/7amILcKU3n8Rsi5ul1FPqi · https://yoyaku.io/release/francois-x-bound-states-ep-xxl012/ | PARKED after opening and consolidation tests; the attributed dense-atmosphere description remains interesting but does not prove development or handoffs. Added globally. |
+| EXACT TRACK / PARKED | François X | Type X | `spotify:track:3YQS68TyLO0jzI4LoekbRZ` · https://open.spotify.com/track/3YQS68TyLO0jzI4LoekbRZ · https://yoyaku.io/release/francois-x-bound-states-ep-xxl012/ | PARKED after conflict-to-re-grounding and pivot-to-intensification tests; attributed driving energy is not treated as measured flow. Added globally. |
+| EXACT ALTERNATE / UNEVALUATED | François X | Just A Feeling | `spotify:track:0q3x9BtRvRWEuSYb5px1EF` | Resolver-confirmed but unselected and unevaluated; not retained globally by implication. |
+| RESEARCH LEADS / UNRESOLVED | Confusion | In Cycles; Space; Clay Bound; Object Definition; Red 96 | https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/ | Five exact-title Spotify-SE misses from the current restless-techno album; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | SK Eleven; XX Lab | Confusion — In Cycles; François X — Bound States | Run 211 sources | Current restless-techno and cross-cultural hypnotic-techno fields remain useful, with track-level consequence kept separate from release framing. |
+| SET DIRECTION | — | Attributed force is not individual consequence | target-local idea only | Use atmosphere, hypnosis or driving language to frame exact questions, then keep sequence consequence open until individual development and endpoint are evidenced. |
+
+### Placement and inspiration boundaries
+
+- The three exact PARKED tracks remain genuinely interesting and enter EDITORIAL ENGINE — DISCOVERY POOL.
+- *Just A Feeling* was not selected or evaluated and does not enter the global utility ledger.
+- The five unresolved Confusion identities receive no musical verdict and do not enter the global utility ledger.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 210 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

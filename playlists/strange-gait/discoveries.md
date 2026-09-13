@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 211 — EXPLORE — attributed force is not individual consequence — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 430 contiguous unique tracks. Automatic publishing was enabled. Run 210 ended in exact-identity absence rather than a workflow failure.
+
+**Fresh exploration:** approximately 64 named tracks and releases were inspected across Juno's September 7–13 techno field, SK Eleven's current Confusion album, XX Lab's current François X release, and adjacent/reissue catalogue windows. Runs 206–210 source fields, prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. The five-completed-exploration repetition check avoided recent selected and proposed boundaries. Nine honest leads survived without padding.
+
+- **runId:** `2026-09-13T12:53:25Z-explore-211`
+- **sourceCommit:** `f07ebf5d3041ba066303778feca333a8dfd10a02`
+- **request commit:** `40c3d557b113809016b6b1b770e95509c9d5c53a`
+- **snapshot commit:** `2c877297c9b4bd6ef49fd9c835ee3be378ce4ff4`
+- **request fingerprint:** `c5a276fbaefce6c4f8a97cd99e7a196fea736e7e1c8a95542d2acba8b7b36d6e`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 4 exact resolutions, 3 selected candidates, 1 exact unselected alternate and 5 unresolved identities; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Confusion — *In Cycles*
+- Confusion — *Space*
+- Confusion — *Clay Bound*
+- Confusion — *Object Definition*
+- Confusion — *Red 96*
+
+Exact but unselected and unevaluated alternate:
+
+- François X — *Just A Feeling* — `spotify:track:0q3x9BtRvRWEuSYb5px1EF`
+
+Warnings preserved exactly:
+
+- François X — *Bound State*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-19"`
+- François X — *Bones & Harmony*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-19"`
+- François X — *Type X*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-19"`
+- François X — *Just A Feeling*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-19"`
+
+### Canonical evaluations
+
+#### François X — Bound State — PARKED / retained discovery
+
+- **Exact identity:** `spotify:track:1wlIs41ahbKnr8Vzl1T6C7`; 341,500 ms; Spotify release date 2026-06-19.
+- **Volume fit:** PASS. The exact track belongs to a current EP documented as techno rooted in Black American dance music and shaped through European club culture, with hypnotic rhythms, warm textures and driving low-end. This is a selection-lens pass, not proof of individual behaviour.
+- **Immediate transition:** UNKNOWN at `Raataja → candidate → Crawl`. The track could give burst-and-disappearance a deliberate re-formation or insert a generic consolidation stage; the available evidence does not distinguish those outcomes.
+- **Surrounding three-to-five-track run:** UNKNOWN for `Moonwake → Raataja → candidate → Crawl → Fulledge (Empty-40 Mix)`. Individual direction, endpoint and both handoffs are decision-critical.
+- **Long-form journey:** UNKNOWN. Release-level cohesion cannot establish whether this 5:41.5 stage adds a needed consequence or merely lengthens the passage.
+- **Alternative placement check:** `Capa → candidate → Sarniezz` remains UNKNOWN for the same track-specific direction and endpoint gap; it is neither approved nor rejected.
+- **Verdict:** PARKED for materially richer exact-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and live mixability remain UNKNOWN.
+
+#### François X — Bones & Harmony — PARKED / retained discovery
+
+- **Exact identity:** `spotify:track:7amILcKU3n8Rsi5ul1FPqi`; 369,659 ms; Spotify release date 2026-06-19.
+- **Volume fit:** PASS. Yoyaku names this exact track as the EP's dense-atmosphere end of a current techno continuum. That attributed wording supports interest but is not treated as measured density, energy or flow.
+- **Immediate transition:** UNKNOWN at `Sawa → candidate → Stadium Drive`. The evidence does not establish whether it purposefully settles the hyper-rhythmic cold open or weakens the direct contrast into the overture.
+- **Surrounding three-to-five-track run:** UNKNOWN for `Sawa → candidate → Stadium Drive → Marauder → The Witching Hour`. Individual development, exit and attention cost remain unestablished.
+- **Long-form journey:** UNKNOWN. A 6:09.659 intermediate stage could enlarge the opening proportionately or turn one overture into two; catalogue prose cannot decide.
+- **Alternative placement check:** `Elemental Dream → candidate → Truth in Noise` remains UNKNOWN because the exact track's direction and endpoint are still missing; it is neither approved nor rejected.
+- **Verdict:** PARKED for materially richer exact-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and live mixability remain UNKNOWN.
+
+#### François X — Type X — PARKED / retained discovery
+
+- **Exact identity:** `spotify:track:3YQS68TyLO0jzI4LoekbRZ`; 386,000 ms; Spotify release date 2026-06-19.
+- **Volume fit:** PASS. Yoyaku identifies Type X as the EP's driving-energy end. That is preserved as attributed exact-track prose, not converted into measured energy, density, perceived pulse or transition quality.
+- **Immediate transition:** UNKNOWN at `LOVE YOUR ENEMIES → candidate → Tehutis Law`. The source does not establish whether the track transforms cross-rhythmic conflict into a changed state or delays direct funk re-grounding.
+- **Surrounding three-to-five-track run:** UNKNOWN for `Thick to Handle → LOVE YOUR ENEMIES → candidate → Tehutis Law → Pulse I`. Individual development, endpoint and both handoffs are decision-critical.
+- **Long-form journey:** UNKNOWN. Duration and an attributed driving descriptor do not prove that the middle needs another complete stage.
+- **Alternative placement check:** `Freepass for Them → candidate → Moonwake` remains UNKNOWN because the candidate's exact direction and endpoint are not documented; it is neither approved nor rejected.
+- **Verdict:** PARKED for materially richer exact-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching terminal PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 4 exact resolutions + 5 unresolved; three unique exact candidates were selected and one exact alternate remained unevaluated. Every warning and resolver error is preserved. No stale candidate, duplicate, substitute or relinked identity entered evaluation. Each selected candidate was assessed separately for volume fit, immediate transition, three-to-five-track run and long-form effect, and each received an alternate placement check before PARK. The decision-critical gaps are individual direction, endpoint and handoffs—not a generic demand for sameness, novelty or BPM compliance. Unknown audio properties remain unknown. The protected `Transparency → When We Froze → Stardancer` order and both internal handoffs remain untouched. Auditor approves three PARKED revisits, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 54 canonical tracks**; no reorder, annotation, verdict or protected-state change.
+- Local inspiration: three exact PARKED tracks retained; François X — *Just A Feeling* remains exact but unevaluated; five Confusion resolver misses remain research leads; SK Eleven and XX Lab remain release/label watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **430 → 433 exact tracks**, adding *Bound State*, *Bones & Harmony* and *Type X*.
+- Set direction: attributed force, atmosphere or hypnosis should establish a concrete question without being mistaken for individual consequence.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 64 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 exact alternate → **0 ADD + 3 PARKED** → 3 utility additions. Inspection-to-lead conversion was 14.1%; resolution yield was 44.4%; selected-candidate-to-ADD conversion was 0/3. Across completed discovery Runs 87–211, excluding process repairs and failed runs: **945 leads from approximately 5,687 inspections; 39 ADDs from 285 selected candidates**. The recent comparable ADD rate remains **2/10**; the musical no-ADD streak is four completed runs after Run 207. This run's three PARKED results share one specific source limitation—one EP whose available prose distinguishes atmosphere and attributed drive without documenting individual development or endpoints. That is a monitoring signal, but one post-repair occurrence does not yet satisfy the five-completed-run repetition trigger. The strongest counterargument is that Type X's attributed driving character should be enough to reject the extra middle stage; it is not, because the workflow forbids converting metadata prose into measured energy or flow. The run proves that exact identity and release-level interest can coexist with unresolved sequence consequence; it does not prove these tracks fail STRANGE GAIT or that the playlist is complete.
+
 ## Run 210 — EXPLORE — platform absence preserves the musical question — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 430 contiguous unique tracks. Automatic publishing was enabled. Run 209 produced three differentiated placement-specific rejections and no repair trigger.

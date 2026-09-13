@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 211
+
+### Attributed force is not individual consequence
+
+**Direction:** Use release or exact-track prose about atmosphere, hypnosis or drive to form placement questions, while requiring individual development and endpoint evidence before claiming what a transition or local run will do.
+
+**Ingredients:**
+
+- Vladislav Delay — *Raataja* → DjRUM — *Crawl* — existing disappearance-to-sustained-motion relation
+- François X — *Bound State* — exact 5:41.5 identity; PARKED after two placement tests
+- Jay Mitta — *Sawa* → Purelink — *Stadium Drive* — existing hyper-rhythmic cold open into transformation-led overture
+- François X — *Bones & Harmony* — exact 6:09.659 identity with an attributed dense-atmosphere description; PARKED
+- SHERELLE, Cameo Blush — *LOVE YOUR ENEMIES* → Jayson Wynters — *Tehutis Law* — existing conflict-to-re-grounding relation
+- François X — *Type X* — exact 6:26 identity with an attributed driving-energy description; PARKED
+
+**Why interesting:** Strong source language can identify a serious programming proposition without proving its downstream consequence. The gap itself yields precise questions about re-formation, opening proportion and re-grounding.
+
+**Boundary:** This is a set direction, not a proven sequence or live-mixing edge. All three candidates are PARKED; their individual direction, endpoint, handoffs, BPM, phrase fit, perceived pulse, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 210
 
 ### Platform absence preserves the musical question
