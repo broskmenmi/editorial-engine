@@ -420,6 +420,10 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 414 | Lars Huismann | Neon Shadows | spotify:track:1HIwSTvQBj2XXQuvepRjDB | STRANGE GAIT Run 201 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 415 | Franco Rossi | Radias | spotify:track:6gFlZUkk2OsmPx3F1AdlZS | STRANGE GAIT Run 201 | Placement-specific REJECT / interesting | 2026-09-13 |
 
+| 416 | Acid Pauli | Gwar Is Not The Answer | spotify:track:1e6fOHSRMbWqR6C8o6ZG4v | STRANGE GAIT Run 203 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 417 | Vinicius Honorio | Labyrinth of Sin | spotify:track:3RkjahuTkrxdYUvZLZKfSf | STRANGE GAIT Run 203 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 418 | Baby Ford | Serpentine Tale | spotify:track:1J2HLUmgLEf9Nun0Stg0qj | STRANGE GAIT Run 203 | ADD / interesting | 2026-09-13 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
