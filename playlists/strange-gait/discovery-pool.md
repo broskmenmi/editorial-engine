@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 210 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEADS / UNRESOLVED | Skee Mask | The Usual Suspects; Primotiv; Highkey Phasing | https://clone.nl/item82428.html | Three exact-title Spotify-SE misses from the groovy/wobbly techno-hybrid ISS012 field; no verdict or utility entry. |
+| RESEARCH LEADS / UNRESOLVED | Aedis | Saense; Extarnel; Ortogon | https://clone.nl/item81667.html | Three exact-title Spotify-SE misses from an off-centre, dub-tinged debut built around small shifts; no verdict or utility entry. |
+| RESEARCH LEADS / UNRESOLVED | Delta Division | Rupture; ST600; Dead Channel Rituals | https://clone.nl/item84189.html | Three exact-title Spotify-SE misses spanning surgical tension, grit and broken-system ritual; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | AcidReflux; Animalia; Ilian Tape | Dead Channels Ritual; Saense; ISS012 | Run 210 sources | Broken-system rhythm, small-shift groove and wobbly hybrid techno remain useful separate research windows. |
+| SET DIRECTION | — | Platform absence preserves the musical question | target-local idea only | Keep differentiated source evidence intact when exact streaming identity is absent; do not turn a resolver miss into a musical verdict. |
+
+### Placement and inspiration boundaries
+
+- All nine identities remain unresolved in Spotify market SE and receive no musical verdict.
+- No Run 210 track enters EDITORIAL ENGINE — DISCOVERY POOL.
+- The release-level descriptions establish research value, not individual direction, endpoint, handoff or mixability.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 209 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

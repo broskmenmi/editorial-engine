@@ -1,5 +1,48 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 210 — EXPLORE — platform absence preserves the musical question — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 430 contiguous unique tracks. Automatic publishing was enabled. Run 209 produced three differentiated placement-specific rejections and no repair trigger.
+
+**Fresh exploration:** approximately 61 named tracks were inspected across Clone's current Breaks catalogue, the 2026 Ilian Tape field and Animalia's emerging-artist catalogue. The field combined Delta Division's current broken-system release, Aedis's off-centre debut and Skee Mask's groovy/wobbly techno-hybrid catalogue release. Run 209's field, completed Runs 203 and 206–209 fields, prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. The five-completed-exploration repetition check avoided every selected candidate boundary from Runs 203, 206, 207, 208 and 209. Nine exact-title leads survived without padding.
+
+- **runId:** `2026-09-13T11:50:27Z-explore-210`
+- **sourceCommit:** `be878527478efd35aabf433ee53a52793b5eb50e`
+- **request commit:** `c7cee308378dd14e9f0f0664c95c73544b611978`
+- **snapshot commit:** `afae61a38a052ab112ff7a7f6de3f69976091fca`
+- **request fingerprint:** `8e3284443d0bf9782ea6aa24ef317f1d44b3834befecf1ca0284a0beb91d1122`
+- **resolver:** internally valid schemaVersion 2 `NONE`; 9 requested, 0 exact resolutions, 0 selected candidates and 9 unresolved identities; no warnings, duplicates, alternates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Skee Mask — *The Usual Suspects*
+- Aedis — *Saense*
+- Delta Division — *Rupture*
+- Skee Mask — *Primotiv*
+- Aedis — *Extarnel*
+- Delta Division — *ST600*
+- Skee Mask — *Highkey Phasing*
+- Aedis — *Ortogon*
+- Delta Division — *Dead Channel Rituals*
+
+No exact identity entered evaluation. Consequently, none received ADD, PARKED, REVISIT or REJECT status.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching terminal `NONE` snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; all nine requested identities are preserved with exact resolver errors. No stale candidate, duplicate, substitute, relinking or technical failure entered evaluation. Unknown Spotify identities and all musical properties remain unknown. The protected `Transparency → When We Froze → Stardancer` order and both internal handoffs remain untouched. Auditor approves the local research harvest only; no canonical or global utility mutation is lawful.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 54 canonical tracks**; no reorder, annotation, verdict or protected-state change.
+- Local inspiration: all nine Spotify-SE misses retained as research leads; AcidReflux, Animalia and Ilian Tape retained as release/label watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **430 → 430 exact tracks**; unresolved identities are ineligible.
+- Set direction: platform absence must preserve distinct musical questions rather than collapse them into rejection or sameness.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 0 exact resolutions + 9 unresolved → 0 evaluations → **0 ADD** → 0 utility additions. Inspection-to-lead conversion was 14.8%; resolution yield was 0%; candidate-to-ADD conversion is not applicable. Across completed discovery Runs 87–210, excluding process repairs and failed runs: **936 leads from approximately 5,623 inspections; 39 ADDs from 282 selected candidates**. The recent comparable ADD rate remains **2/10**; the musical no-ADD streak is three completed runs after Run 207. This third recent zero-resolution result makes Spotify-SE identity loss a material contributor to the current streak, but still does not establish a broken resolver: each request completed normally and the misses cluster in vinyl-first or catalogue fields. It is a monitoring signal, not yet an actionable REPAIR. The run proves that the exact-identity gate prevented unsupported evaluation; it does not prove that these tracks fail STRANGE GAIT or that the playlist is complete.
+
 ## Run 209 — EXPLORE — an extra transformation must alter the return — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 427 contiguous unique tracks. Automatic publishing was enabled. Run 208 produced three differentiated placement-specific rejections and no repair trigger.

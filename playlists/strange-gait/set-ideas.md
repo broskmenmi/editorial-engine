@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 210
+
+### Platform absence preserves the musical question
+
+**Direction:** Keep different unresolved propositions musically distinct—broken-system tension, off-centre small-shift groove and wobbly hybrid techno—without treating their shared Spotify-SE absence as evidence that they sound alike or fail the volume.
+
+**Ingredients:**
+
+- Delta Division — *Rupture*, *ST600*, *Dead Channel Rituals* — current AcidReflux research
+- Aedis — *Saense*, *Extarnel*, *Ortogon* — emerging Animalia research
+- Skee Mask — *The Usual Suspects*, *Primotiv*, *Highkey Phasing* — overlooked 2026 Ilian Tape research
+
+**Why interesting:** Exact-title source evidence can preserve several concrete programming questions even when no exact streaming identity is available for evaluation.
+
+**Boundary:** This is an inspiration direction, not a proven sequence or live-mixing edge. All nine tracks remain unresolved in Spotify market SE; no identity, BPM, individual direction, endpoint, handoff, phrase fit, perceived pulse, energy, density, key or mixability is inferred.
+
 ## Current additions — Run 209
 
 ### An extra transformation must alter the return
