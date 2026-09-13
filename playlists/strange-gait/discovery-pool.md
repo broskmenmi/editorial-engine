@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 201 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Pierce | Detachment | `spotify:track:3pN6V1C5K9igkOUpOiH3ev` · https://open.spotify.com/track/3pN6V1C5K9igkOUpOiH3ev · https://www.juno.co.uk/techno/charts/bestsellers/this-week/?items_per_page=500 | Exact 4:50 identity; rejected only at *Té de Cabello Blanco → Ikoyi*. Nervy, twitching acid construction remains genuinely interesting. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Lars Huismann | Neon Shadows | `spotify:track:1HIwSTvQBj2XXQuvepRjDB` · https://open.spotify.com/track/1HIwSTvQBj2XXQuvepRjDB · source above | Exact 6:15 identity; rejected only at *Capa → Sarniezz*. Continuous unsettled movement remains useful beyond the tested passage. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Franco Rossi | Radias | `spotify:track:6gFlZUkk2OsmPx3F1AdlZS` · https://open.spotify.com/track/6gFlZUkk2OsmPx3F1AdlZS · source above | Exact 5:31 identity; rejected only at *Never Met → Trompe L'oeil*. Scratchy textures and off-grid motifs remain useful discovery evidence. |
+| EXACT ALTERNATE / UNEVALUATED | Lars Huismann | Atonal | `spotify:track:674bZyacKuuVOWsZRDWl7s` · https://open.spotify.com/track/674bZyacKuuVOWsZRDWl7s | Resolver-confirmed alternate; not selected, evaluated or globally retained. |
+| RESEARCH LEADS / UNRESOLVED | Luke Hess, Brian Kage | Northward; Tenebrous | source above | Exact-title current-release leads; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Eddie Richards | Destiny; The Soul | source above | Remastered catalogue leads; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEAD / UNRESOLVED | Franco Rossi | Alma Matter | source above | Emerging split-release lead; returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| SET DIRECTION | — | High-information rejection can still repair the funnel | Run 201 evidence | Prefer exact-track movement evidence and fresh boundaries; treat a specific proportional rejection as information rather than converting uncertainty into PARK. |
+
+### Placement and inspiration boundaries
+
+- The three exact tracks are not globally rejected; only the Run 201 placements are rejected.
+- The five unresolved leads receive no musical verdict and do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- *Atonal* remains exact but unselected and unevaluated; it is absent from the global utility ledger.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability was inferred.
+
+
 ## Run 198 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

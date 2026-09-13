@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 201
+
+### Use exact movement evidence to reject proportionally
+
+**Direction:** Break repetitive PARK loops by pairing exact-track movement descriptions with fresh boundaries, then allow a clear placement-specific REJECT when the surrounding passage already has a proportionate consequence.
+
+**Ingredients:**
+
+- Pierce — *Detachment* — exact twitching-acid construction; rejected only between *Té de Cabello Blanco* and *Ikoyi*
+- Lars Huismann — *Neon Shadows* — exact continuously unsettled movement; rejected only between *Capa* and *Sarniezz*
+- Franco Rossi — *Radias* — exact cut-loose, off-grid motif action; rejected only between *Never Met* and *Trompe L'oeil*
+- Luke Hess, Brian Kage — *Northward* and *Tenebrous*; Eddie Richards — *Destiny* and *The Soul*; Franco Rossi — *Alma Matter* — unresolved exact-title research leads
+
+**Why interesting:** Better evidence does not need to produce an ADD to improve the workflow. It can distinguish a specific proportional conflict from an epistemic veto and leave the exact track useful elsewhere.
+
+**Boundary:** This is an inspiration and programming direction, not a proven canonical sequence or live-mixing edge. The exact three placements are rejected, the research leads are unresolved, and audio/live mixing remain untested.
+
+
 ## Current additions — Run 198
 
 ### Preserve identity uncertainty across differentiated forms

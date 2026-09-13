@@ -10,6 +10,9 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Pierce | Detachment | Run 201 rejects only `Té de Cabello Blanco → candidate → Ikoyi`. Its exact nervy, twitching acid construction remains interesting, but another articulated instability would intervene before Ikoyi's existing dissolution-and-mutation consequence. | 2026-09-13 |
+| Lars Huismann | Neon Shadows | Run 201 rejects only `Capa → candidate → Sarniezz`. Its exact continuously unsettled movement remains interesting, but the 6:15 insertion would prepare and delay an already purposeful production-world and pulse-illusion left turn. | 2026-09-13 |
+| Franco Rossi | Radias | Run 201 rejects only `Never Met → candidate → Trompe L'oeil`. Its exact cut-loose off-grid action remains interesting, but another 5:31 loosening stage would over-articulate transit into the existing staggered reset and formation. | 2026-09-13 |
 | COW | Dead Air | Run 197 rejects only `Pulse I → candidate → Roxellana`. The exact track remains PARKED at `Drummz → candidate → Té de Cabello Blanco`; the weaker alternative would mediate crooked accumulation into surge without track-specific direction or endpoint evidence. | 2026-09-13 |
 | Alex Wilcox | recess | Run 197 rejects only `Freepass for Them → candidate → Moonwake` and `Fragments → candidate → Drummz`. Its concise frantic action remains interesting, but both tested insertions add another complete intensification stage to an already consequential run. | 2026-09-13 |
 | COW | Velvet | Run 197 rejects only `FELT → candidate → Thick to Handle`. The exact track remains PARKED at `Cave → candidate → Abundance`; the weaker alternative would mediate formation into deformation without evidence that both neighbours change meaning. | 2026-09-13 |
