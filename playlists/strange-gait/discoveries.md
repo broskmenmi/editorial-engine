@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 209 — EXPLORE — an extra transformation must alter the return — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 427 contiguous unique tracks. Automatic publishing was enabled. Run 208 produced three differentiated placement-specific rejections and no repair trigger.
+
+**Fresh exploration:** approximately 62 named tracks and versions were inspected across Juno's September 2026 breakbeat, electro and techno recommendation fields. The field combined current remix/release cuts, adjacent electro forms and overlooked Detroit/techno catalogue circulation. Run 208's entire source field, recent Runs 202–208 fields, prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. The five-run repetition check avoided every selected boundary from completed exploration Runs 202, 203, 206, 207 and 208. Nine exact-track or exact-version leads survived without padding.
+
+- **runId:** `2026-09-13T10:52:06Z-explore-209`
+- **sourceCommit:** `c9b9a6412700acba2b6c3f472df1a070a1b9fb43`
+- **request commit:** `bfa20d9f5121f6dd056b8d86513c388ccc9247ff`
+- **snapshot commit:** `f73a4a0b46f1bea74ce009eefc84c288b47472fd`
+- **request fingerprint:** `6f57a329f6367b36ef1f7408c66815b6735c85aac36f91094be433a735ee10d8`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 4 exact resolutions, 3 selected candidates, 1 exact unselected alternate and 5 unresolved identities; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- David Gtronic, Reboot, Voigtmann — *Leave Your Body - Voigtmann's Broken Tequila Mix*
+- David Gtronic, Reboot, Cristi Cons — *Loose - Cristi Cons Remix*
+- David Gtronic, Reboot, Mihai Pol — *Mind Games - Mihai Pol Remix*
+- David Gtronic, Reboot, Alexis Cabrera — *Kongafluss - Alexis Cabrera Tell Me A Story Remix*
+- Model 500, DJ Stingray — *IDLE - DJ Stingray Remix*
+
+Exact but unselected and unevaluated alternate:
+
+- Biz — *Monozukuri* — `spotify:track:34SbdNILggB48O7QBSsuLb`
+
+Warnings preserved exactly:
+
+- DMX Krew — *Voices Inside My Head*: `Exact title/artist matched with release metadata variance: release date requested "2026-08-31" but Spotify returned "2026-08-14"`
+- Galaxy 2 Galaxy — *Star Sailing*: `Exact title/artist matched with release metadata variance: album requested "Galaxy 2 Galaxy (reissue)" but Spotify returned "Galaxy 2 Galaxy: A High Tech Jazz Compilation"; release date requested "2026-06-22" but Spotify returned "2005"`
+- Ben Pest — *Shruthi EB*: `Exact title/artist matched with release metadata variance: release date requested "2026-08-31" but Spotify returned "2026-08-14"`
+- BIZ — *Monozukuri*: `Exact title/artist matched with release metadata variance: album requested "Biz Limited Series #3" but Spotify returned "Monozukuri"; release date requested "2026-06-29" but Spotify returned "2024-06-10"`
+
+### Canonical evaluations
+
+#### DMX Krew — Voices Inside My Head — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4hKBBvzgDm5rFGpyfnKa1a`; 5:24; Spotify release date 2026-08-14.
+- **Volume fit:** PASS. Juno documents a no-wave dub-disco source recast as squelchy, bleeping, funky and restless electro/nu-disco. That production-world translation fits the selection lens without making hybridity or familiarity an admission argument.
+- **Immediate transition:** FAIL only at `Sarniezz → candidate → Never Met`. The candidate supplies another fully stated transformation between the live-band pulse illusion and the existing passing-foreground transit.
+- **Surrounding three-to-five-track run:** FAIL for `Capa → Sarniezz → candidate → Never Met → Trompe L'oeil`. At 5:24, it turns redirection and electronic return into two successive foregrounded scenes before the dubwise reset rather than giving either neighbour a changed task.
+- **Long-form journey:** FAIL proportionally at this placement. The middle already makes a conspicuous live-band left turn and returns through transit; the extra cover transformation explains that movement twice.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Galaxy 2 Galaxy — Star Sailing — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:78u4errSiEmxrmakIwJQer`; 6:32; Spotify album `Galaxy 2 Galaxy: A High Tech Jazz Compilation`, release year 2005.
+- **Volume fit:** PASS. Juno documents an ecosystem of acid, synth-heavy jazz and analogue drums. That belongs as a serious catalogue proposition without prestige or Detroit lineage deciding the verdict.
+- **Immediate transition:** FAIL only at `Stardancer → candidate → Migration`. The candidate continues with another complete electronic/jazz stage after the listener-confirmed block close, postponing the deliberate piano-to-break character pivot.
+- **Surrounding three-to-five-track run:** FAIL for `When We Froze → Stardancer → candidate → Migration → Eyes of the Wind`. The 6:32 insertion extends the protected block's production world outward but does not change Migration's pivot or Eyes of the Wind's liminal-percussion task.
+- **Long-form journey:** FAIL proportionally at this placement. The current late sequence earns its conspicuous change immediately after the protected block; another full scene weakens that scale change.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. The protected internal handoffs remain untouched. Exact entry, exit, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Ben Pest — Shruthi EB — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:3DzK6EOtu12YsTBlaldabH`; 4:32; Spotify release date 2026-08-14.
+- **Volume fit:** PASS. Juno documents full-bodied electro rhythm joined to twitchy synths and mechanical breakdown. That deformation fits the lens; technical intensity and currentness do not earn admission.
+- **Immediate transition:** FAIL only at `Thick to Handle → candidate → LOVE YOUR ENEMIES`. The candidate adds another complete rhythm-and-meltdown stage between bodily deformation and cross-rhythmic conflict.
+- **Surrounding three-to-five-track run:** FAIL for `FELT → Thick to Handle → candidate → LOVE YOUR ENEMIES → Tehutis Law`. The 4:32 insertion stacks three foregrounded deformation/conflict propositions before funk re-grounding without changing the successor's consequence.
+- **Long-form journey:** FAIL proportionally at this placement. The middle already moves clearly through formation, deformation, conflict and re-grounding; another fracture stage makes that passage more explicit but not more consequential.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The immutable schemaVersion 2 request is pinned to the live pre-request SHA and the matching PARTIAL snapshot is internally valid: runId, sourceCommit, mode, target and fingerprint match; 9 requested = 4 exact resolutions + 5 unresolved; three unique exact candidates were selected and one exact alternate remained unevaluated. Every warning and resolver error is preserved. No stale candidate, duplicate, substitute or relinked identity entered evaluation. All selected candidates were assessed separately for volume fit, immediate transition, three-to-five-track run and long-form effect. Unknown audio properties remain unknown. The protected `Transparency → When We Froze → Stardancer` order and both internal handoffs remain untouched. Auditor approves three placement-specific REJECT decisions, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 54 canonical tracks**; no reorder, annotation change or protected-state change.
+- Local inspiration: three exact placement-specific rejects retained as interesting; Biz — *Monozukuri* remains exact but unevaluated; five resolver misses retained as research leads; Juno's current breakbeat/electro and Detroit-techno circulation retained as watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **427 → 430 exact tracks**, adding *Voices Inside My Head*, *Star Sailing* and *Shruthi EB*.
+- Set direction: an extra transformation earns passage space only when it changes the return or downstream pivot, not when it restates an already legible change.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 62 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 exact alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was 14.5%; resolution yield was 44.4%; selected-candidate-to-ADD conversion was 0/3. Across completed discovery Runs 87–209, excluding process repairs and failed runs: **927 leads from approximately 5,562 inspections; 39 ADDs from 282 selected candidates**. The recent comparable ADD rate remains **2/10**; the musical no-ADD streak is two completed runs after Run 207, with six exact interesting tracks retained. The strongest maturity reading is that all three placements fail for specific proportional reasons, not missing direct audio. The counterargument is that *Star Sailing* could supply a generous release after the protected block; it still fails because the current immediate character pivot is itself the stronger long-form event. This run proves that fresh sources and fresh boundaries can yield decisive placement outcomes; it does not prove the tracks lack other homes, that the playlist is complete, or that any handoff, phrase structure, perceived pulse or live mix would fail.
+
 ## Run 208 — EXPLORE — rhythmic translation must alter the exit — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, an exact-order 54-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 424 contiguous unique tracks. Automatic publishing was enabled. Run 207 produced a canonical ADD and no repair trigger.

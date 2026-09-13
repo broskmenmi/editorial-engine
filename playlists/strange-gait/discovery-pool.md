@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 209 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DMX Krew | Voices Inside My Head | `spotify:track:4hKBBvzgDm5rFGpyfnKa1a` · https://open.spotify.com/track/4hKBBvzgDm5rFGpyfnKa1a · https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart | Rejected only at *Sarniezz → Never Met*; its restless electro reworking remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Galaxy 2 Galaxy | Star Sailing | `spotify:track:78u4errSiEmxrmakIwJQer` · https://open.spotify.com/track/78u4errSiEmxrmakIwJQer · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Rejected only at *Stardancer → Migration*; its acid, synth-jazz and analogue-drum construction remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Ben Pest | Shruthi EB | `spotify:track:3DzK6EOtu12YsTBlaldabH` · https://open.spotify.com/track/3DzK6EOtu12YsTBlaldabH · https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart | Rejected only at *Thick to Handle → LOVE YOUR ENEMIES*; its electro rhythm and mechanical-breakdown construction remains genuinely interesting. Added globally. |
+| EXACT ALTERNATE / UNEVALUATED | Biz | Monozukuri | `spotify:track:34SbdNILggB48O7QBSsuLb` | Resolver-confirmed but unselected and unevaluated; not retained globally by implication. |
+| RESEARCH LEADS / UNRESOLVED | David Gtronic, Reboot, Voigtmann, Cristi Cons, Mihai Pol, Alexis Cabrera; Model 500, DJ Stingray | Leave Your Body; Loose; Mind Games; Kongafluss remix versions; IDLE remix | https://www.juno.co.uk/charts/juno-recommends/628994-Juno_Recommends_Breakbeat/33361848-Chart · https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart | Five exact-version Spotify-SE misses with preserved errors; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | Personality Disorder Music; Permanent Vacation; Underground Resistance; Co-Accused; Subjekt | current remix, electro and catalogue fields | Run 209 sources | Off-axis broken beat, transformed cover logic, electro breakdown and Detroit/jazz forms remain useful research windows. |
+| SET DIRECTION | — | An extra transformation must alter the return | target-local idea only | A complete intermediate scene earns space when it changes the downstream pivot, not when it merely restates an already legible redirection. |
+
+### Placement and inspiration boundaries
+
+- All three exact rejects are placement-specific, not global.
+- *Monozukuri* was not selected or evaluated and does not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- The five unresolved exact versions receive no musical verdict and do not enter the global utility ledger.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 208 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

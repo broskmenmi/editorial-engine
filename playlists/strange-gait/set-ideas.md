@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 209
+
+### An extra transformation must alter the return
+
+**Direction:** When a passage already contains a conspicuous production-world change and a clear return or pivot, test an extra complete scene by whether it changes that downstream event rather than merely extending or explaining the redirection.
+
+**Ingredients:**
+
+- Angine de Poitrine — *Sarniezz* → Sam Prekop — *Never Met* — existing live-band left turn into passing-foreground transit
+- DMX Krew — *Voices Inside My Head* — exact 5:24 restless electro reworking; Run 209 placement rejected
+- Len Faki — *Stardancer* → Bonobo — *Migration* — listener-confirmed block close into deliberate piano-to-break character pivot
+- Galaxy 2 Galaxy — *Star Sailing* — exact 6:32 acid, synth-jazz and analogue-drum proposition; Run 209 placement rejected
+- brenner — *Thick to Handle* → SHERELLE, Cameo Blush — *LOVE YOUR ENEMIES* — existing deformation-to-conflict relation
+- Ben Pest — *Shruthi EB* — exact 4:32 electro rhythm and mechanical-breakdown proposition; Run 209 placement rejected
+
+**Why interesting:** A conspicuous intermediate scene can be strong music while weakening a long-form relation. The decisive question is whether the return, re-grounding or character pivot acquires new work.
+
+**Boundary:** This is a set direction, not a proven sequence or live-mixing edge. All three candidates remain genuinely interesting outside the rejected placements. Exact handoffs, phrase fit, perceived pulse, BPM, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 208
 
 ### Rhythmic translation must alter the exit

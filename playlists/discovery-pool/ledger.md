@@ -431,6 +431,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 425 | Turning Jewels Into Water | A Fire Of Flowers | spotify:track:4llVZXAuxlcO1o9KIVYB9n | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 426 | Turning Jewels Into Water | In Dombivili | spotify:track:5cB64T8C7GEj81Dk5hFLTt | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 427 | Turning Jewels Into Water | Tapori Beat Special | spotify:track:2AYQ3zytXxPrFAxJ2I4tWQ | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 428 | DMX Krew | Voices Inside My Head | spotify:track:4hKBBvzgDm5rFGpyfnKa1a | STRANGE GAIT Run 209 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 429 | Galaxy 2 Galaxy | Star Sailing | spotify:track:78u4errSiEmxrmakIwJQer | STRANGE GAIT Run 209 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 430 | Ben Pest | Shruthi EB | spotify:track:3DzK6EOtu12YsTBlaldabH | STRANGE GAIT Run 209 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
