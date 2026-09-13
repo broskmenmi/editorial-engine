@@ -1,16 +1,21 @@
 {
-  "status": "FAILED",
-  "playlistId": null,
-  "playlistUrl": null,
-  "ledgerCommit": "e7da86a3ffaaaa1c3196e540f5bf038dfcb161dc",
-  "ledgerFingerprint": null,
-  "ledgerTrackCount": null,
-  "spotifyTrackCount": null,
-  "metadataVerified": false,
-  "coverConfigured": null,
-  "coverUploaded": false,
-  "coverPresent": false,
-  "verifiedAt": "2026-09-13T15:00:56.165Z",
-  "snapshotId": null,
-  "error": "Ledger contains a track row after table termination on row 444."
+  "status": "COMPLETE",
+  "playlistId": "1a1HuQF55fFfVJS83qe4WV",
+  "playlistUrl": "https://open.spotify.com/playlist/1a1HuQF55fFfVJS83qe4WV",
+  "ledgerCommit": "42be20adf3568bb1b35dc1e0a5b78b32ebd0a03a",
+  "ledgerFingerprint": "d1c0a0603eba4d2a293b138360053b134b26b990ddaa9c4aa5ab6380a8313be1",
+  "ledgerTrackCount": 438,
+  "spotifyTrackCount": 438,
+  "metadataVerified": true,
+  "metadataChecks": {
+    "nameMatch": true,
+    "descriptionMatch": true,
+    "privacyMatch": true
+  },
+  "coverConfigured": true,
+  "coverUploaded": true,
+  "coverPresent": true,
+  "verifiedAt": "2026-09-13T15:04:31.249Z",
+  "snapshotId": "AAACcAT+g865lLapBJ1D1zc/V2IZANBm",
+  "error": null
 }
