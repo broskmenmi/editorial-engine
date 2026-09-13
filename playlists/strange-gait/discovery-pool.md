@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 202 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEADS / UNRESOLVED | Nick Fasoli | Express Thyself; All You | https://www.juno.co.uk/electro/this-week/ | Current False Shuffle EP leads with differentiated straight-grid repetition and documented ending context; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Lisovskyi; Vitya Payal'nik; Xorsia | Dyr Dyr; Zikr Atagi; Cash For Sex | source above | Emerging Kyiv techno/breakbeat leads; each returned the same exact Spotify-SE miss. No identity was guessed and no verdict or utility addition followed. |
+| RESEARCH LEADS / UNRESOLVED | Arovane | Revart Amx; Nonlin R | https://www.juno.co.uk/experimental-electronic/this-week/ | Overlooked 1999 Atol Scrap catalogue paths newly contextualized by the 2026 remaster; both returned the exact Spotify-SE miss. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | MOLO | Fluff; Bump | source above | Current shuffling-techno and breaks album cuts; both returned the exact Spotify-SE miss. No verdict or utility addition. |
+| RELEASE / LABEL WATCH | Freaking Tricks; Lisosmuha; Keplar; Studio Barnhus | False Shuffle EP; LIS 003; Atol Scrap remaster; Fold | sources above | Current, emerging and newly recirculated windows remain useful without becoming Spotify identities or sequence claims. |
+| SET DIRECTION | — | Let identity loss remain inconclusive | Run 202 research only | Use differentiated rhythmic propositions and fresh boundaries, while refusing to convert platform absence into a musical verdict. |
+
+### Placement and inspiration boundaries
+
+- Resolution completed normally with zero exact identities; all nine leads remain unevaluated and receive no ADD, REJECT or PARKED verdict.
+- No unresolved identity enters EDITORIAL ENGINE — DISCOVERY POOL.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability was inferred.
+
+
 ## Run 201 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 202
+
+### Keep identity loss separate from editorial maturity
+
+**Direction:** Explore differentiated straight-grid, broken-percussion, shuffling and nonlinear catalogue propositions at fresh boundaries, while treating a valid zero-resolution result as platform evidence rather than a musical conclusion.
+
+**Ingredients:**
+
+- Nick Fasoli — *Express Thyself* and *All You* — current exact-title False Shuffle EP research
+- Lisovskyi — *Dyr Dyr*; Vitya Payal'nik — *Zikr Atagi*; Xorsia — *Cash For Sex* — emerging Kyiv techno/breakbeat research
+- Arovane — *Revart Amx* and *Nonlin R* — overlooked 1999 nonlinear catalogue material newly recirculated in remastered form
+- MOLO — *Fluff* and *Bump* — current shuffling-techno and breaks research
+
+**Why interesting:** The field tests materially different formal propositions without recycling the recent UNKNOWN/PARK boundary cluster. Its failure at exact Spotify identity resolution says nothing about musical fit, while still revealing identity loss as a growing contributor to the current no-ADD streak.
+
+**Boundary:** This is an inspiration and programming direction, not a proven canonical sequence or live-mixing edge. All nine identities remain unresolved in Spotify market SE; none was evaluated, globally retained or assigned a verdict. Audio analysis and live mixing remain untested.
+
+
 ## Current additions — Run 201
 
 ### Use exact movement evidence to reject proportionally
