@@ -428,6 +428,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 422 | Rene Wise | Night Time Swim | spotify:track:4m2Ck8iySn7iNk56a7LuSo | STRANGE GAIT Run 207 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 423 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | STRANGE GAIT Run 207 | ADD / interesting | 2026-09-13 |
 | 424 | Curbside Lambsear | Avril | spotify:track:0Ho2e61IcKT57H3CttlyPy | STRANGE GAIT Run 207 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 425 | Turning Jewels Into Water | A Fire Of Flowers | spotify:track:4llVZXAuxlcO1o9KIVYB9n | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 426 | Turning Jewels Into Water | In Dombivili | spotify:track:5cB64T8C7GEj81Dk5hFLTt | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 427 | Turning Jewels Into Water | Tapori Beat Special | spotify:track:2AYQ3zytXxPrFAxJ2I4tWQ | STRANGE GAIT Run 208 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

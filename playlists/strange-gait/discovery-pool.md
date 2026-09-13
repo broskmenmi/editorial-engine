@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 208 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Turning Jewels Into Water | A Fire Of Flowers | `spotify:track:4llVZXAuxlcO1o9KIVYB9n` · https://open.spotify.com/track/4llVZXAuxlcO1o9KIVYB9n · https://boomkat.com/products/morning-birds-and-distant-drums | Rejected only at *Drummz → Té de Cabello Blanco*; its off-grid rolling construction remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Turning Jewels Into Water | In Dombivili | `spotify:track:5cB64T8C7GEj81Dk5hFLTt` · https://open.spotify.com/track/5cB64T8C7GEj81Dk5hFLTt · https://boomkat.com/products/morning-birds-and-distant-drums | Rejected only at *Trompe L'oeil → FELT*; its transformer-scratch / illbient gesture remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Turning Jewels Into Water | Tapori Beat Special | `spotify:track:2AYQ3zytXxPrFAxJ2I4tWQ` · https://open.spotify.com/track/2AYQ3zytXxPrFAxJ2I4tWQ · https://boomkat.com/products/morning-birds-and-distant-drums | Rejected only at *Atlantis → Hypnic Jerks*; its cross-rhythmic proposition remains genuinely interesting. Added globally. |
+| EXACT ALTERNATES / UNEVALUATED | Regina Collage; Dean McPhee | Davno; I Hope; Indica Fields | `spotify:track:4qtycWmt0pSpLSwl9xNSVB`; `spotify:track:1lc9qDpUdrsWbsr65sIXNr`; `spotify:track:6MSxtPT6WBFIoaBonXlzDp` | Resolver-confirmed but unselected and unevaluated; not retained globally by implication. |
+| RESEARCH LEADS / UNRESOLVED | Black Steel; Soichi Terada | Celestial Rock + Dub; Jungle Spirit + Dub; Rising Sun Up | Run 208 request sources | Two Spotify-SE misses and one preserved exact-match ambiguity; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | TRULE; do you have peace?; Ariwa Sounds; Far East Recording; Bass Ritual | current and overlooked fields | Run 208 sources | Percussion-led electronics, machine-song, dub, early house and unusual-meter guitar remain useful research windows. |
+| SET DIRECTION | — | Rhythmic translation must alter the exit | target-local idea only | An intermediate rhythmic vocabulary earns sequence space when it changes what the successor must do, not when it only explains the route more fully. |
+
+### Placement and inspiration boundaries
+
+- All three exact rejects are placement-specific, not global.
+- The exact alternates were not selected or evaluated and do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- The unresolved identities receive no musical verdict and do not enter the global utility ledger.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 207 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

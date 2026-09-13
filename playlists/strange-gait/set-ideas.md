@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 208
+
+### Rhythmic translation must alter the exit
+
+**Direction:** Test a new rhythmic vocabulary between two established states only when it changes what the successor must do; translation, hybridity or complexity alone should not lengthen the passage.
+
+**Ingredients:**
+
+- Clotur — *Drummz* → RRUCCULLA — *Té de Cabello Blanco* — existing unpredictability-to-reassembly relation
+- Turning Jewels Into Water — *A Fire Of Flowers* — exact 5:47 off-grid rolling proposition; Run 208 placement rejected
+- Wheelman — *Trompe L'oeil* → JWords — *FELT* — existing reset-to-formation relation
+- Turning Jewels Into Water — *In Dombivili* — exact 4:28 transformer-scratch / illbient gesture; Run 208 placement rejected
+- Maxime Denuc — *Atlantis* → Rian Treanor — *Hypnic Jerks* — existing continuum-to-acceleration-crisis relation
+- Turning Jewels Into Water — *Tapori Beat Special* — exact 4:19 cross-rhythmic proposition; Run 208 placement rejected
+
+**Why interesting:** A conspicuous or hybrid middle stage may be musically compelling and still fail if it leaves the downstream event doing exactly the same work. The exit, not stylistic adjacency, is the decisive test.
+
+**Boundary:** This is a set direction, not a proven sequence or live-mixing edge. All three candidates remain genuinely interesting outside the rejected placements. Exact handoffs, phrase fit, perceived pulse, BPM, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 207
 
 ### Let rupture leave residue before descent

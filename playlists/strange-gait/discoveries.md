@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 208 — EXPLORE — rhythmic translation must alter the exit — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, an exact-order 54-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 424 contiguous unique tracks. Automatic publishing was enabled. Run 207 produced a canonical ADD and no repair trigger.
+
+**Fresh exploration:** approximately 61 named tracks, current release cuts and catalogue references were inspected across Turning Jewels Into Water's percussion-led current album, Regina Collage's emerging machine-song work, Black Steel and Soichi Terada catalogue circulation, and Dean McPhee's unusual-meter instrumental field. Run 207's entire field, recent Runs 201–207 fields, all prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. The five-run repetition check avoided every exact boundary proposed in Runs 201, 202, 203, 206 and 207. Nine differentiated leads survived without padding.
+
+- **runId:** `2026-09-13T09:50:52Z-explore-208`
+- **sourceCommit:** `9cee346a391e935f0ffd7603c32a3a6aabc318b4`
+- **request commit:** `0c60e2c55b2af63209ecbb69eae8074e6729119c`
+- **snapshot commit:** `d0f3e2485f55d1cbdcb234459c3dd36b7f46981c`
+- **request fingerprint:** `6cfae8d3d2e893369f2007eeaca37b798cde632ba4baf92e78fba25759e6900b`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 6 exact resolutions, 3 selected candidates, 3 exact unselected alternates and 3 unresolved identities; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Black Steel — *Celestial Rock + Dub*: `no exact Spotify title/artist search match in market SE`
+- Black Steel — *Jungle Spirit + Dub*: `no exact Spotify title/artist search match in market SE`
+- Soichi Terada — *Rising Sun Up*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3mQOs8OvKe7fP2s9BV4rRV, 3h1uDpQRqH9FE71aoPgXtW)`
+
+Exact but unselected and unevaluated alternates:
+
+- Regina Collage — *Davno* — `spotify:track:4qtycWmt0pSpLSwl9xNSVB`
+- Regina Collage — *I Hope* — `spotify:track:1lc9qDpUdrsWbsr65sIXNr`
+- Dean McPhee — *Indica Fields* — `spotify:track:6MSxtPT6WBFIoaBonXlzDp`
+
+Warnings preserved exactly:
+
+- Turning Jewels Into Water — *A Fire of Flowers*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-08-28"`
+- Turning Jewels Into Water — *In Dombivili*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-08-28"`
+- Turning Jewels Into Water — *Tapori Beat Special*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-08-28"`
+- Regina Collage — *Davno*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-08-21"`
+- Regina Collage — *I Hope*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-08-21"`
+
+### Canonical evaluations
+
+#### Turning Jewels Into Water — A Fire Of Flowers — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4llVZXAuxlcO1o9KIVYB9n`; 5:47; Spotify release date 2026-08-28.
+- **Volume fit:** PASS. Boomkat documents rolling syncopation, off-grid looped voices and cross-regional rhythmic references. That multi-stable construction fits the lens; complexity and currentness are not admission arguments.
+- **Immediate transition:** FAIL only at `Drummz → candidate → Té de Cabello Blanco`. The candidate supplies another fully articulated off-grid rhythmic scene between unpredictable rhythm and reassembly, making the incoming condition more explicit without changing the successor's task.
+- **Surrounding three-to-five-track run:** FAIL for `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi`. At 5:47, it turns the run into four successive foregrounded rhythmic propositions before dissolution rather than giving Té or Ikoyi a new consequence.
+- **Long-form journey:** FAIL proportionally for this placement. The late-middle already accumulates, destabilizes, reassembles and dissolves; the extra stage over-articulates that passage.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Turning Jewels Into Water — In Dombivili — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5cB64T8C7GEj81Dk5hFLTt`; 4:28; Spotify release date 2026-08-28.
+- **Volume fit:** PASS. Its documented echoing transformer-scratch gesture and illbient lineage make a production-world intervention eligible without requiring it to sound like adjacent tracks.
+- **Immediate transition:** FAIL only at `Trompe L'oeil → candidate → FELT`. The evidence establishes a warm-up gesture but not the track's endpoint; at this particular boundary the exit is decision-critical because the existing dubwise reset already hands directly to rolling formation.
+- **Surrounding three-to-five-track run:** FAIL for `Never Met → Trompe L'oeil → candidate → FELT → Thick to Handle`. The 4:28 insertion adds preparation between reset and formation without evidence that FELT or the following deformation receives a new task.
+- **Long-form journey:** FAIL proportionally for this placement. It lengthens an already legible transit-reset-formation passage rather than changing its destination.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. This is not a global verdict and does not turn unknown endpoint evidence into musical failure elsewhere. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Turning Jewels Into Water — Tapori Beat Special — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:2AYQ3zytXxPrFAxJ2I4tWQ`; 4:19; Spotify release date 2026-08-28.
+- **Volume fit:** PASS. Boomkat's exact-track account places kuduro and Haitian spiritual forms in productive relation. That rhythmic search fits the selection lens; novelty and hybridity do not earn admission.
+- **Immediate transition:** FAIL only at `Atlantis → candidate → Hypnic Jerks`. The candidate adds a complete cross-rhythmic premise between micro-repetition/continuum and an existing acceleration-to-orientation crisis.
+- **Surrounding three-to-five-track run:** FAIL for `Worn Down → Atlantis → candidate → Hypnic Jerks → Tides Alternate`. The added 4:19 stage explains the movement toward rhythmic crisis twice before opposed-speed balance, without changing Tides Alternate's consequence.
+- **Long-form journey:** FAIL proportionally for this placement. It enlarges the early instability passage with another resolved rhythmic proposition rather than sharpening the turn.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, target, mode, receipt and fingerprint. Only the three selected exact identities were evaluated. All three unresolved results, all three exact unselected alternates and all five metadata warnings are preserved. No identity, tempo, energy, density, space, hypnosis, emotion, phrase or mixability claim was invented; the protected trio remains contiguous and untouched.
+
+The three placement-specific rejections are proportionate, not global. The strongest counterargument is that the concise *In Dombivili* could give *FELT* a more textured state to form from. It fails only at the tested boundary because the source documents the opening warm-up gesture, not an exit that changes FELT's task; that endpoint is decision-critical here, while remaining unknown rather than negative evidence elsewhere.
+
+All three selected exact tracks are retained as genuinely interesting and enter the global utility ledger. The three alternates remain exact but unevaluated and are not retained by implication. The unresolved identities remain research only. No actionable REPAIR emerges.
+
+### Run analysis
+
+`~61 inspected → 9 leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 14.8%; resolution yield is 66.7%; selected-candidate-to-ADD conversion is 0/3. Across completed discovery Runs 87–208, excluding process repairs and failed runs: 918 leads from approximately 5,500 inspections; 39 ADDs from 279 selected candidates. The recent comparable ADD rate remains 2/10; the musical no-ADD streak is one completed run after Run 207.
+
+The result is a genuine discovery success without canonical expansion: one exact album yielded three distinct placement decisions, while adjacent and catalogue windows produced useful unresolved and unevaluated research. Audio analysis and live mixing were NOT TESTED.
+
 ## Run 207 — EXPLORE — contaminated residue before descent — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique canonical tracks, an exact-order 53-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 421 contiguous unique tracks. Automatic publishing was enabled. Run 206 was the only completed no-ADD exploration after Run 203; Repairs 204–205 were closed and did not create a current repair trigger.
