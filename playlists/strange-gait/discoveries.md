@@ -1,5 +1,27 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 199 — REPAIR — stale canonical-count statements — 2026-09-13
+
+**runId:** `2026-09-13T02:55:16Z-repair-199`
+
+### Objective defect
+
+Run 198's final consistency check found two stale statements in the canonical ledger footer: `ACTIVE EXPANSION — 50 canonical tracks` and `All forty-eight individual tracks remain provisional`. The canonical table, journey map and Spotify receipt all independently report 52 tracks. This is an actionable factual state defect, not a musical complaint, triggered revisit or publication divergence.
+
+### Repair and audit
+
+The footer statements are corrected to 52 / fifty-two. No row, Spotify URI, BPM, decision, structural role, order, annotation, protected handoff or listener state changes. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 44–46. Auditor approval is limited to this count-consistency correction.
+
+The repair changes the ledger file but not its 52-track publication membership. Automatic publishing remains enabled; exact post-commit Spotify status must be reported only from the resulting receipt.
+
+### RUN ANALYSIS
+
+`2 stale current-state count statements → 2 factual corrections → 0 musical evaluations → 0 ADD / REMOVE / REORDER → 52 canonical rows unchanged`
+
+This repair does not reset the five-completed-run musical no-ADD streak after Run 191 and does not count as a discovery run. It proves only that the ledger's human-readable summary is now consistent with its table; it does not establish any new musical conclusion.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 197 — EXPLORE — movement evidence without invented endpoints — 2026-09-13
 
 **runId:** `2026-09-13T01:53:43Z-explore-197`

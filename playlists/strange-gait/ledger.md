@@ -59,7 +59,9 @@
 
 ## Current state
 
-**ACTIVE EXPANSION — 50 canonical tracks.**
+**ACTIVE EXPANSION — 52 canonical tracks.**
+
+REPAIR run `2026-09-13T02:55:16Z-repair-199` corrects two stale current-state count statements that still reported 50 and forty-eight tracks after the ledger had reached 52. The ordered 52-row table, Spotify identities, BPM fields, decisions, structural roles, protected handoffs and publication order are unchanged.
 
 EXPLORE run `2026-09-12T14:49:00Z-explore-182` adds Maxime Denuc — *Atlantis* between T++ — *Worn Down* and Rian Treanor — *Hypnic Jerks*. Denuc's official notes describe extremely short pipe-organ note repetitions creating a seemingly continuous drone. Editorially, `Foundry → Worn Down → Atlantis → Hypnic Jerks → Tides Alternate` now moves from an unstable directional hinge and rumble-to-weight threshold into discrete repetition perceived as continuity, then an explicit acceleration-orientation crisis and opposed-speed balance. The production-world change is conspicuous by design and passes at transition, five-track-run and long-form scales; exact entry, exit, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. The alternative between *Migration* and *Eyes of the Wind* is rejected because another long-form threshold crowds the existing pivot-to-liminal-passage relation.
 
@@ -139,7 +141,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All forty-eight individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
+All fifty-two individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 

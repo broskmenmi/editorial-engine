@@ -1,5 +1,11 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 199 — REPAIR — stale canonical-count statements
+
+Final validation after Run 198 found two stale human-readable counts in the ledger footer even though the canonical table, journey map and Spotify receipt all showed 52 tracks. The statements reporting 50 and forty-eight tracks are corrected to 52 / fifty-two. No identity, BPM, verdict, role, order, annotation, protected handoff or Spotify membership changes.
+
+Run 199: `2 stale count statements → 2 factual corrections → 0 musical decisions → 52-track order unchanged`. Audio analysis and live mixing were not tested.
+
 ## Run 191 — EXPLORE — fixed grid as re-entry
 
 Pre-audit was clean, so the lane remained EXPLORE. Approximately 59 current, adjacent/emerging and overlooked-catalogue items produced nine ranked leads. The matching schemaVersion 2 snapshot is COMPLETE: nine exact resolutions, three selected candidates and six unevaluated alternates. Six packaging/date warnings are preserved; there were no unresolved identities, duplicates, substitutions, relinkings or technical failures.
