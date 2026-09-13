@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 217
+
+### Make the intermediate change the downstream task
+
+**Direction:** A strong intermediate production world earns sequence space when it changes what the successor must do. Making an existing transformation more explicit is not enough.
+
+**Ingredients:**
+
+- Peverelist — *Pulse I* → Shoal — *Roxellana* — existing accumulation-to-surge relation
+- Carrier — *Black Channels* — exact 7:42 bass-science counterexample, rejected only between those tracks
+- Curbside Lambsear — *Jjochstubn* → Jlin — *Rabbit Hole* — existing damaged-residue-to-dead-space descent
+- DB1 — *Fluktuation #2* — exact 6:07 half-step counterexample that would explain rather than alter that descent
+- John Beltran, Placid Angles, Tom VR — *Tides Alternate* → Baby Ford — *Serpentine Tale* — existing opposed-speed balance into held consequence
+- Ignacio — *Organon* — exact seven-minute sustained counterexample that would duplicate the held stage
+
+**Why interesting:** These three placement tests separate musical interest from sequence value. Each candidate supplies a serious rhythmic world; none demonstrates a new downstream consequence at the tested boundary.
+
+**Boundary:** This is a programming direction, not a proven sequence, phrase-fit claim or live-mixing edge. No energy, density, space, hypnosis, emotional effect or mixability is inferred.
+
 ## Current additions — Run 214
 
 ### Give dissolution a concrete object

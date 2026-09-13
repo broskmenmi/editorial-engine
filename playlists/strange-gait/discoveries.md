@@ -1,5 +1,81 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 217 — EXPLORE — an intermediate scene must change the downstream task — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 438 contiguous unique tracks. Automatic publishing was enabled.
+
+**Fresh exploration:** Run `2026-09-13T15:48:52Z-explore-217` inspected approximately 96 named tracks across roughly twenty releases on Hard Wax's current-arrivals page, covering current techno, adjacent/emerging bass, dub and experimental labels, and overlooked Music Man/Sähkö catalogue material. Completed Runs 209–214 fields and failed Run 212 identities were excluded. Every exact pair was checked against persistent state before ranking; all nine placements avoided selected-candidate boundaries from the previous five completed discovery runs. Nine honest leads survived without padding.
+
+- **runId:** `2026-09-13T15:48:52Z-explore-217`
+- **sourceCommit:** `47572a9fa8824e8dda5b31b163206e01b1c3dc83`
+- **request commit:** `c8a2cdbe5fe0bb728c4ca17f60ae8428e059704a`
+- **snapshot commit:** `819ee27303258fe26e0227bb970fa4863a969caa`
+- **request fingerprint:** `9f9e9b9ba5f8e51b4765f264868c890d298c98263981cad0d12175b773a1bcf4`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 6 exact resolutions, 3 selected candidates, 3 exact unselected alternates and 3 unresolved identities; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Sub Basics & Pugilist — *20-25*: `no exact Spotify title/artist search match in market SE`
+- Temudo & Kwartz — *Recentering*: `no exact Spotify title/artist search match in market SE`
+- Delikwe — *Agna Street [Words Create Vibrations]*: `no exact Spotify title/artist search match in market SE`
+
+Exact but unselected and unevaluated:
+
+- Erik Jabari — *Dust Illusion*: `spotify:track:0fmPGT1b85VawZamxihdb1`
+- Pugilist — *Woven*: `spotify:track:07tTMXfXkn73Dt4e0QmNvC`
+- Ø, Mika Vainio — *Muuntaja*: `spotify:track:2axBdFnyqkn1watX7TwRR8`
+
+Warning preserved exactly:
+
+- DB1 — *Fluktuation #2*: `Exact title/artist matched with release metadata variance: release date requested "2026-07-26" but Spotify returned "2026-08-01"`
+
+### Canonical evaluations
+
+#### Carrier — Black Channels — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4SewdQqfUDoE6ekxb5rkMo`; 462,336 ms; BPM unresolved.
+- **Volume fit:** PASS. Hard Wax attributes razor-edge, bold drum-and-bass/electronic/bass fusion to *Thresholds*; the exact-track page identifies *Black Channels* within that release. Hybridity is not treated as merit by itself.
+- **Immediate transition:** FAIL only at `Pulse I → candidate → Roxellana`. The evidence establishes a complete 7:42 bass-science redirection but not an endpoint that changes Roxellana's existing surge task.
+- **Three-to-five-track run:** FAIL proportionally for `Tehutis Law → Pulse I → candidate → Roxellana → backsliding`. Another long foreground system over-articulates the established re-grounding, accumulation, surge and dissolution passage.
+- **Long-form journey:** FAIL at this placement. The substantial redirection delays the surge-to-dissolution consequence without demonstrating a different destination. This is not a global rejection.
+- **Unknowns:** exact handoffs, BPM, phrase structure, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain unknown.
+
+#### DB1 — Fluktuation #2 — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4lJEyJzwFZuo7GGWMewhCD`; 367,058 ms; BPM unresolved.
+- **Volume fit:** PASS. DB1's exact Bandcamp page identifies the track, while Hard Wax attributes gloomy half-stepping bass to the release.
+- **Immediate transition:** FAIL only at `Jjochstubn → candidate → Rabbit Hole`. The half-step proposition makes the damaged-residue-to-dead-space descent more explicit without establishing a changed endpoint for *Rabbit Hole*.
+- **Three-to-five-track run:** FAIL proportionally for `Nukumori → Jjochstubn → candidate → Rabbit Hole → Can I live`. The 6:07 stage adds another complete descent vocabulary before disappearance and restrained re-entry.
+- **Long-form journey:** FAIL at this placement. The late sequence becomes more explanatory and materially longer without a demonstrated downstream gain. This is not a global rejection.
+- **Unknowns:** exact handoffs, BPM, phrase structure, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain unknown.
+
+#### Ignacio — Organon — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:2hmDaPETmX0LvfGloRRhiz`; 420,000 ms; BPM unresolved.
+- **Volume fit:** PASS. Hard Wax identifies the exact seven-minute track and attributes an extended, upbuilding, trippy, space-flavoured groove to the remastered *Organa* release.
+- **Immediate transition:** FAIL only at `Tides Alternate → candidate → Serpentine Tale`. The extended sustained proposition does not demonstrate a changed task for *Serpentine Tale* and risks duplicating its held consequence.
+- **Three-to-five-track run:** FAIL proportionally for `Hypnic Jerks → Tides Alternate → candidate → Serpentine Tale → Too Much Time`. Two extended states accumulate before the established widening without a new exit condition.
+- **Long-form journey:** FAIL at this placement. The early-middle passage becomes overdeveloped without a distinct downstream consequence. This is not a global rejection.
+- **Unknowns:** exact handoffs, BPM, phrase structure, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain unknown.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and terminal snapshot match on runId, sourceCommit, mode, target and fingerprint. Nine requested outcomes equal three unique selected candidates, three exact alternates and three preserved unresolved identities. All selected candidates were separately tested for volume fit, immediate transition, a five-track run and long-form effect. The three verdicts are placement-specific and preserve unknowns; none converts metadata into felt audio claims. The protected trio, feedback boundaries, live/canonical separation and current ledger order remain intact.
+
+### Durable result
+
+- STRANGE GAIT remains **55 canonical tracks** with no reorder or annotation change.
+- Carrier — *Black Channels*, DB1 — *Fluktuation #2* and Ignacio — *Organon* are retained as exact placement-specific rejects.
+- EDITORIAL ENGINE — DISCOVERY POOL: **438 → 441**, adding the three exact evaluated identities.
+- Three exact alternates remain unevaluated; three unresolved identities retain their exact resolver errors.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 96 inspected → 9 ranked leads → 6 exact resolutions + 3 unresolved → 3 evaluations + 3 alternates → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion was 9.4%; resolution yield was 66.7%; selected-candidate-to-ADD conversion was 0/3. Across completed discovery Runs 87–217, excluding process repairs and failed runs including Run 212: **972 leads from approximately 5,913 inspections; 40 ADDs from 293 selected candidates**. The recent comparable ADD rate remains **3/10**; the musical no-ADD streak is one completed run after Run 214. The run produced decisive scoped outcomes from a fresh field and clean exclusion execution. It does not prove these tracks lack another home, that STRANGE GAIT is complete, or that any handoff fails in phrase-level or live-mixing terms.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 216 — REPAIR — correct Run 214 resolver-outcome count — 2026-09-13
 
 **Pre-audit:** REPAIR. Final validation found one objective factual defect in Run 214's durable-result summary: it reported five unresolved/ambiguous outcomes plus three duplicate-state outcomes even though the immutable nine-lead resolver snapshot contains two selected exact candidates, four unresolved/ambiguous outcomes and three duplicate-state outcomes.

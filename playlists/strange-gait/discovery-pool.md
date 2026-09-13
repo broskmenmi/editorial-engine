@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 217 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Carrier | Black Channels | `spotify:track:4SewdQqfUDoE6ekxb5rkMo` · https://open.spotify.com/track/4SewdQqfUDoE6ekxb5rkMo · https://hardwax.com/ | Rejected only at `Pulse I → candidate → Roxellana`; the exact 7:42 bass-science redirection remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DB1 | Fluktuation #2 | `spotify:track:4lJEyJzwFZuo7GGWMewhCD` · https://open.spotify.com/track/4lJEyJzwFZuo7GGWMewhCD · https://d-b-1.bandcamp.com/ | Rejected only at `Jjochstubn → candidate → Rabbit Hole`; the exact 6:07 half-step proposition remains genuinely interesting. Added globally. Date warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Ignacio | Organon | `spotify:track:2hmDaPETmX0LvfGloRRhiz` · https://open.spotify.com/track/2hmDaPETmX0LvfGloRRhiz · https://hardwax.com/ | Rejected only at `Tides Alternate → candidate → Serpentine Tale`; the exact seven-minute sustained catalogue proposition remains genuinely interesting. Added globally. |
+| EXACT / UNEVALUATED ALTERNATES | Erik Jabari; Pugilist; Ø, Mika Vainio | Dust Illusion; Woven; Muuntaja | Exact URIs preserved in discoveries.md Run 217. | Resolved but unselected; no verdict and no global utility row. |
+| UNRESOLVED | Sub Basics & Pugilist; Temudo & Kwartz; Delikwe | 20-25; Recentering; Agna Street [Words Create Vibrations] | See discoveries.md Run 217 for exact resolver errors. | Research only; no invented Spotify identity, verdict or utility row. |
+| WATCH | Carrier; DB1 / Nullpunkt; Ignacio / Music Man | Thresholds; Fluktuationen; Organa remaster | Sources above | Current, adjacent and overlooked-catalogue windows retained without promoting release-level facts into track-level felt claims. |
+
+### Placement and inspiration boundaries
+
+- All three rejections are scoped to their tested placements, not global incompatibility claims.
+- Exact alternates remain unevaluated and unresolved leads remain identity questions.
+- Set direction: an intermediate scene should change the downstream task, not merely explain the route.
+- No phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 214 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
