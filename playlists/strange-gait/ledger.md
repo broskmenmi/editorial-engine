@@ -62,6 +62,8 @@
 
 **ACTIVE EXPANSION — 53 canonical tracks.**
 
+REPAIR run `2026-09-13T06:05:30Z-repair-204` restores the 418-row global utility table's Markdown continuity and retriggers the generated STRANGE GAIT journey artifacts after Run 203 publication left the map at 52 tracks. Canonical membership, order, roles, BPM fields and protected handoffs are unchanged.
+
 EXPLORE run `2026-09-13T05:51:30Z-explore-203` adds Baby Ford — *Serpentine Tale* between John Beltran, Placid Angles, Tom VR — *Tides Alternate* and Sciahri — *Too Much Time*. Eastern Bloc and Boomkat describe the exact 6:01 track as coiling through hissing rhythms and shadowy bass pressure; Eastern Bloc reports 130 BPM. Editorially, `Hypnic Jerks → Tides Alternate → Serpentine Tale → Too Much Time → Freepass for Them` now moves from acceleration crisis through opposed-speed balance into a sustained low-slung consequence, then conspicuous 140 BPM widening and a preserved groove pivot. The tempo drop and return are supporting metadata, not a claim of smooth mixing or measured energy. Exact handoffs, phrase fit, perceived pulse, density, space, hypnosis and emotional effect remain unknown. *Gwar Is Not The Answer* and *Labyrinth of Sin* are rejected only at their tested placements because each inserts another fully stated stage into an already proportionate escalation.
 
 REPAIR run `2026-09-13T02:55:16Z-repair-199` corrects two stale current-state count statements that still reported 50 and forty-eight tracks after the ledger had reached 52. The ordered 52-row table, Spotify identities, BPM fields, decisions, structural roles, protected handoffs and publication order are unchanged.
