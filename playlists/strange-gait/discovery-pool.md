@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 218 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| UNRESOLVED | HAL | Prismatic Incoherence; Parallax Attractor | https://mojubarecords.bandcamp.com/album/halcyon | Two distinct new-to-label deep-techno research questions; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility row. |
+| UNRESOLVED | Daniel[i] | Between Layers; Reduce | https://mojubarecords.bandcamp.com/album/shifting-clouds-ep | Two exact-title catalogue leads with attributed evolving-form context; each returned the same Spotify-SE miss. No verdict or utility row. |
+| UNRESOLVED | TU3SDAY, Mystic Meg; Convextion; Roseen | Regular Degular; Kuiper; Toxic Glitch | https://gooncluballstars.bandcamp.com/album/goon-club-allstars-friends-volume-3 · https://mojubarecords.bandcamp.com/album/r-cnvx2 · https://mojubarecords.bandcamp.com/album/conditioning-chamber-ep | Current, adjacent and overlooked-catalogue leads; all remain identity questions only. |
+| DUPLICATE OUTCOMES | Surreal Sessions; Neana | Dragon Warrior; Laced-X | See discoveries.md Run 218 | Already present in persistent state; no new verdict or utility row. |
+| WATCH | GCA; Mojuba / a.r.t.less | Goon Club Allstars & Friends Volume 3; Halcyon; Shifting Clouds EP; R-CNVX2; Conditioning Chamber EP | Sources above | Continue as current, emerging and catalogue windows without promoting release-level language into exact felt claims. |
+
+### Placement and inspiration boundaries
+
+- No candidate was selected or evaluated; unresolved leads retain questions, not verdicts.
+- Persistent duplicates remain governed by their existing state.
+- Set direction: hold exact programming questions open when platform identity is absent.
+- No BPM, phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 217 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 218
+
+### Hold programming questions open across identity loss
+
+**Direction:** Keep current club redirections, long suspended forms and catalogue deformations as separate programming questions when their exact Spotify identities cannot be verified. Platform absence is neither a musical failure nor permission to invent a substitute.
+
+**Ingredients:**
+
+- HAL — *Prismatic Incoherence* and *Parallax Attractor* — unresolved new-to-a.r.t.less duration and suspension questions
+- Daniel[i] — *Between Layers* and *Reduce* — unresolved catalogue development and endpoint questions
+- TU3SDAY, Mystic Meg — *Regular Degular* — unresolved current foreground-presence question
+- Convextion — *Kuiper* and Roseen — *Toxic Glitch* — unresolved extended-form and concise-deformation catalogue questions
+
+**Why interesting:** The leads propose different ways to alter a journey—redirection, suspension, development and deformation—without collapsing identity failure into one stylistic category.
+
+**Boundary:** These are research directions, not exact Spotify identities, proven sequences, phrase-fit claims or live-mixing edges. No BPM, energy, density, space, hypnosis or emotional effect is inferred.
+
 ## Current additions — Run 217
 
 ### Make the intermediate change the downstream task

@@ -1,5 +1,60 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 218 — EXPLORE — identity absence preserves distinct programming questions — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 441 contiguous unique tracks. Automatic publishing was enabled.
+
+**Fresh exploration:** Run `2026-09-13T16:48:13Z-explore-218` inspected approximately 63 named tracks across roughly fourteen current, adjacent/emerging and overlooked-catalogue releases and roundups. The field combined Resident Advisor's September 11 current-release survey, Goon Club Allstars' September sampler, HAL's new-to-a.r.t.less release and Daniel[i], Convextion and Roseen catalogue windows. Completed Runs 210, 211, 213, 214 and 217 fields were excluded, and all nine placements avoided their selected-candidate boundaries. Nine honest leads survived without padding.
+
+- **runId:** `2026-09-13T16:48:13Z-explore-218`
+- **sourceCommit:** `4dacfa4907e61671e450f119ed07944579512f24`
+- **request commit:** `d0d763bed42628fafa6cb678be342ccb0314a0a4`
+- **snapshot commit:** `366196823e01c6120996b945c6a29f4d889336cc`
+- **request fingerprint:** `ba370fc61e9c9e35d1ba6e2a6ac9af32907ce9c34713e3f0ed6c1a13e7205c10`
+- **resolver:** internally valid schemaVersion 2 `NONE`; 9 requested, 0 exact resolutions, 0 selected candidates, 7 Spotify-SE misses and 2 persistent-state duplicates; no warnings, alternates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Persistent-state duplicates without a new verdict:
+
+- Surreal Sessions — *Dragon Warrior*: `already present in persistent state`
+- Neana — *Laced-X*: `already present in persistent state`
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- HAL — *Prismatic Incoherence*
+- Daniel[i] — *Between Layers*
+- TU3SDAY, Mystic Meg — *Regular Degular*
+- HAL — *Parallax Attractor*
+- Daniel[i] — *Reduce*
+- Convextion — *Kuiper*
+- Roseen — *Toxic Glitch*
+
+### Canonical evaluation
+
+No exact identity was selected, so no lead entered volume-fit, immediate-transition, three-to-five-track-run or long-form evaluation. No ADD, PARKED, REVISIT or REJECT verdict was assigned. Metadata descriptions remain source-backed research context only.
+
+### Auditor decision
+
+APPROVED as a completed zero-resolution exploration. Preserve all seven unresolved identities and both duplicate outcomes; make no canonical, annotation, rejection, revisit or global utility change. The two duplicates expose imperfect exclusion execution but did not contaminate evaluation and do not establish an actionable workflow defect. Spotify-SE identity loss, not musical rejection, explains the zero-candidate result.
+
+### Discovery harvest
+
+- Retain the seven Spotify-SE misses as distinct research leads.
+- Retain GCA and Mojuba/a.r.t.less as current/emerging/catalogue watches.
+- Preserve the set direction: hold exact programming questions open when platform identity is absent.
+- Do not add persistent duplicates or unresolved leads to the global utility ledger.
+
+### Run analysis
+
+`~63 inspected → 9 leads → 0 exact resolutions + 7 unresolved + 2 duplicates → 0 evaluations → 0 ADD → 0 utility additions`
+
+Inspection-to-lead conversion: 14.3%. Resolution yield: 0%. Candidate-to-ADD conversion: not applicable. Across completed discovery Runs 87–218, excluding process repairs and failed runs: 981 leads from approximately 5,976 inspections; 40 ADDs from 293 selected candidates. The recent comparable ADD rate is 2/10, and the musical no-ADD streak is two completed runs after Run 214. Three exact genuinely interesting tracks have been retained since that ADD, all in Run 217.
+
+The strongest counterargument is that another zero-resolution run indicates a broken resolver. It does not: the snapshot completed normally, differentiated seven genuine market misses from two known persistent identities and emitted no technical error. The result supports a continuing identity-loss diagnosis but does not prove playlist completion, musical incompatibility or a sequence defect.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 217 — EXPLORE — an intermediate scene must change the downstream task — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 438 contiguous unique tracks. Automatic publishing was enabled.
