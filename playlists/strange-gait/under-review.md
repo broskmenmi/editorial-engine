@@ -4,7 +4,33 @@
 
 ## Active discussions
 
-None.
+### 2026-09-13 — Lotic — Carried
+
+**Affected region (frozen pending clarification):**
+
+`Encasadelciegoeltuerco → Carried → Tender Is The Night`
+
+**Listener report:**
+
+> “Holy fuck, carried by lotic was the same”
+
+**Context:**
+
+“the same” refers to the immediately preceding resolved *Sawa* complaint, where the listener reported an extreme fear/anxiety response while continuing to listen because they expected the sequence to become techno.
+
+**Current editorial role:**
+
+Run 143 placed *Carried* as a provisional self-emptying rupture between Debit — *Encasadelciegoeltuerco* and the later widening passage. That paper role is now materially contradicted by direct listener evidence of the same severe reaction reported for *Sawa*.
+
+**Status:** `AWAITING CLARIFICATION`
+
+**Freeze:**
+
+Do not move, remove, replace, resurface, scout into, or otherwise modify `Encasadelciegoeltuerco → Carried → Tender Is The Night` until the listener authorizes an exact action. No listening homework is required.
+
+**Clarification needed:**
+
+Does the listener want *Carried* removed from STRANGE GAIT as well, or only the current placement reconsidered?
 
 ## Resolved reviews
 
