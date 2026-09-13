@@ -1,1028 +1,852 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "1693ada09046ab0bee24bd033faee9c0442063a97b6132ac0938344f6023bd70",
-  "generatedAt": "2026-09-13T07:56:24.212Z",
-  "runId": "2026-09-13T07:50:37Z-explore-206",
-  "sourceCommit": "465bc2a177b24c26e3e7203c405237b3fb2c5dc5",
+  "requestFingerprint": "2abf218a0069f489c5fb5fa0873685bc7b5a5b00c386940e30caa50b22cb85fb",
+  "generatedAt": "2026-09-13T08:56:26.506Z",
+  "runId": "2026-09-13T08:50:47Z-explore-207",
+  "sourceCommit": "4c6e637cc31d656524af582986fdb6af361a4f4e",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T07:50:37Z",
-    "approximateInspectedScope": "Approximately 60 named tracks, release cuts, current listings and catalogue references across a newly surfaced September 11 debut, adjacent Detroit/Soiree material in current distribution, and a newly recirculated early Blueprint catalogue work. Written metadata and attributed exact-track descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T08:50:47Z",
+    "approximateInspectedScope": "Approximately 63 named tracks, current release cuts, adjacent label material and overlooked 2026 catalogue selections across Juno's current techno/electro listings, Boomkat's September 11 new-release field and Limousine Dream's 2026 compilation catalogue. Written metadata and attributed exact-track descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Active Systems' September 11, 2026 debut supplied three differentiated rhythmic propositions spanning glacial hip-hop, restless skippage and mechanical funk. https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-      "ADJACENT / EMERGING WINDOW: Soiree's current Immortal compilation supplied four Detroit-rooted exact tracks with differentiated pad, bass, dialogue, jazz, acid and vocal constructions. https://clonedistribution.com/release/84644?play=28",
-      "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: the September 11, 2026 reissue of James Ruskin's 1998 Further Design supplied lean early Blueprint material newly available for exact identity testing. https://www.normanrecords.com/features/upcoming-album-releases/known-delays"
+      "CURRENT RELEASE WINDOW: Rene Wise's Moving Pressure 07 and Planet Rhythm's What Time Is Love EP were both released 2026-09-10, while Curbside Lambsear's debut arrived 2026-09-11; each supplied differentiated exact-track propositions. https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/ · https://www.juno.co.uk/products/planet-rhythm-what-time-is-love-ep-vinyl/1172334-01/ · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+      "ADJACENT / EMERGING WINDOW: Belarus-born, Poland-based PRIDI's Nesreh debut and Curbside Lambsear's electronic/post-rock debut supplied roaming, echoing and song-disassembly questions beyond one techno room. https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/ · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+      "OVERLOOKED / CATALOGUE WINDOW: Vakula's March 2026 Pure Delay debut and Limousine Dream's March 2026 Life Spiral compilation supplied polyrhythmic, acid, dub and off-kilter forms that had not entered STRANGE GAIT's durable history. https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/ · https://www.juno.co.uk/products/life-spiral-vinyl/1135044-01/"
     ],
     "exclusions": [
-      "Recent Runs 196–205 source fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
-      "The five-run repetition check avoided the placement boundaries tested in completed exploration Runs 197, 198, 201, 202 and 203. The current placements span opening, early, middle, late and post-protected boundaries because candidate-specific evidence created honest questions there, not to satisfy a distribution quota.",
+      "Recent Runs 198–206 source fields, every prior ranked lead and alternate, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
+      "The five-run repetition check avoided every placement boundary proposed in completed exploration Runs 198, 201, 202, 203 and 206. Current placements are candidate-specific questions, not a boundary-distribution quota.",
       "Nine leads survived because each has differentiated exact-track evidence and a concrete transition/local-run/long-form question; no list slot was padded.",
       "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Active Systems — Gabbol",
-      "2. DJ Sinjin — Things On My Mind",
-      "3. James Ruskin — The Divide",
-      "4. Active Systems — Itsover",
-      "5. DJ Mourad — Dreams Of An Insomniac",
-      "6. Active Systems — Avoid",
-      "7. Drivetrain — Feel Me",
-      "8. Jay Strata — Something 4 U",
-      "9. James Ruskin — Indirect World"
+      "1. Rene Wise — Night Time Swim",
+      "2. Vakula — Pulsation",
+      "3. PRIDI — Disembarkation",
+      "4. Planet Rhythm — What Time Is Love",
+      "5. Curbside Lambsear — Jjochstubn",
+      "6. Mungo Sound Machine — Spiral Run",
+      "7. Vakula — Spaceman",
+      "8. PRIDI — Hollow Whispers",
+      "9. Curbside Lambsear — Avril"
     ]
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 8,
+  "resolvedCount": 3,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "James Ruskin",
-      "track": "The Divide",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6hvMe4IwK39hV9Z0T7Zi9z, 6fCwakqA0Xgl60xrz6fzry)",
+      "artist": "Vakula",
+      "track": "Pulsation",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "James Ruskin",
-        "track": "The Divide",
-        "album": "Further Design",
-        "releaseDate": "1998",
+        "artist": "Vakula",
+        "track": "Pulsation",
+        "album": "Pulsation",
+        "releaseDate": "2026-03-30",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.normanrecords.com/features/upcoming-album-releases/known-delays",
-        "fitHypothesis": "A wiry, crunching catalogue form newly recirculated in 2026 supplies an overlooked precision-versus-fracture test rather than a heritage exception.",
+        "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
+        "fitHypothesis": "A documented polyrhythmic, tribal-inflected techno construction directly tests rhythmic freedom without treating complexity as automatic admission.",
         "proposedPlacements": [
           {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its wiry, crunching articulation gives rhythm-to-dissonance collapse a purposeful intermediate edge before opposed temporal strain, or merely adds another fracture stage."
+            "outgoingBpm": 138,
+            "purpose": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
           }
         ],
         "evidence": {
           "measured": [
-            "Norman Records dates the current reissue window to 2026-09-11 and identifies Further Design as originally issued in 1998.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "Juno lists the exact title on Vakula's four-track Pure Delay release dated 2026-03-30.",
+            "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Norman Records differentiates The Divide through wiry synths and crunching percussion within James Ruskin's lean early Blueprint design.",
+          "attributedDescription": "Juno differentiates Pulsation as polyrhythmic, tribal-inflected techno drawing on Livity Sound and Timedance.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its wiry, crunching articulation gives rhythm-to-dissonance collapse a purposeful intermediate edge before opposed temporal strain, or merely adds another fracture stage."
+          "editorialInterpretation": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
+        }
+      }
+    },
+    {
+      "artist": "PRIDI",
+      "track": "Disembarkation",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "PRIDI",
+        "track": "Disembarkation",
+        "album": "Nesreh001",
+        "releaseDate": "2026-02-19",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
+        "fitHypothesis": "A roaming, threading bassline cut by sharp hits offers a directional deep-techno proposition rather than a demand for surface weirdness.",
+        "proposedPlacements": [
+          {
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists Disembarkation as the 5:39 A1 on Nesreh001, released 2026-02-19.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes the exact track through a roaming, threading bassline and sharp hits cutting through a swampy, muddy field.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
+        }
+      }
+    },
+    {
+      "artist": "Planet Rhythm",
+      "track": "What Time Is Love",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Planet Rhythm",
+        "track": "What Time Is Love",
+        "album": "What Time Is Love EP",
+        "releaseDate": "2026-09-10",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/planet-rhythm-what-time-is-love-ep-vinyl/1172334-01/",
+        "fitHypothesis": "A crazed remake driven by roughened kicks and shearing 909s offers a current transformation test; reference familiarity and force do not justify admission by themselves.",
+        "proposedPlacements": [
+          {
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists the exact 5:29 title on the EP released 2026-09-10.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes a crazed rendition roughened and reinforced at the kick, with shearing 909s made wilder than the source.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
+        }
+      }
+    },
+    {
+      "artist": "Mungo Sound Machine",
+      "track": "Spiral Run",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Mungo Sound Machine",
+        "track": "Spiral Run",
+        "album": "Life Spiral",
+        "releaseDate": "2026-03-24",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/life-spiral-vinyl/1135044-01/",
+        "fitHypothesis": "A bleeping, off-kilter opener from an emerging compilation field can test how a concise odd-angle groove changes a hand-drum mutation passage.",
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists Spiral Run as the opening track of Life Spiral, released 2026-03-24.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno singles out Mungo Sound Machine's exact track as the compilation's bleeping, off-kilter opener.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
+        }
+      }
+    },
+    {
+      "artist": "Vakula",
+      "track": "Spaceman",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Vakula",
+        "track": "Spaceman",
+        "album": "Pulsation",
+        "releaseDate": "2026-03-30",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
+        "fitHypothesis": "Increasingly wild acid lines inside spaced-out electro provide a documented internal escalation whose sequence value must be tested beyond genre or novelty.",
+        "proposedPlacements": [
+          {
+            "position": "Between Roxellana and backsliding",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists the exact title on the four-track Pulsation release dated 2026-03-30.",
+            "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno differentiates Spaceman as spaced-out intergalactic electro whose acid lines become increasingly wild and intense.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
+        }
+      }
+    },
+    {
+      "artist": "PRIDI",
+      "track": "Hollow Whispers",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "PRIDI",
+        "track": "Hollow Whispers",
+        "album": "Nesreh001",
+        "releaseDate": "2026-02-19",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
+        "fitHypothesis": "An echoing, industrially haunted deep-techno form offers a spatially described boundary question without allowing atmosphere alone to establish flow.",
+        "proposedPlacements": [
+          {
+            "position": "Between Encasadelciegoeltuerco and Carried",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists Hollow Whispers as the 6:26 A2 on Nesreh001, released 2026-02-19.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes unsettling echo and distant groans, likened to a long-forgotten factory.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
         }
       }
     }
   ],
   "warnings": [
     {
-      "artist": "James Ruskin",
-      "track": "Indirect World",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"1998\" but Spotify returned \"1998-01-01\""
+      "artist": "Rene Wise",
+      "track": "Night Time Swim",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-10\" but Spotify returned \"2026-09-11\""
     }
   ],
   "outcomes": [
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Gabbol",
-        "album": "The Red EP",
-        "releaseDate": "2026-09-11",
+        "artist": "Rene Wise",
+        "track": "Night Time Swim",
+        "album": "Moving Pressure 07",
+        "releaseDate": "2026-09-10",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "An off-kilter glacial hip-hop construction is a credible selection-lens proposition because its resistance is rhythmic and structural, not a demand for surface weirdness.",
+        "discoverySource": "https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/",
+        "fitHypothesis": "Its documented stereo-panned bass reaching a point of instability offers a current techno form whose internal escalation can be tested by consequence, not loudness or orthodoxy.",
         "proposedPlacements": [
           {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
+            "position": "Between Marauder and The Witching Hour",
+            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "incomingBpm": 136,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+            "outgoingBpm": 136,
+            "purpose": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
           }
         ],
         "evidence": {
           "measured": [
-            "Dancing Vinyl lists the four-track debut on 2026-09-11.",
-            "The cited source identifies Gabbol as the A1 track; exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "Juno lists the exact 6:07 title on Moving Pressure 07, released 2026-09-10.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track through a glacial hip-hop beat and starlit melancholia within a debut that moves familiar patterns toward unexpected emotional spaces.",
+          "attributedDescription": "Juno identifies Night Time Swim as the standout and describes stereo-panned, rubber-ball-like bass reaching a point of madness.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+          "editorialInterpretation": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
         }
       },
-      "spotifyTrackId": "1MPIKytvZvjq9zWQYSH7oI",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Sinjin",
-        "track": "Things On My Mind",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Its fierce bass-and-dialogue construction offers a direct foreground proposition without requiring one production world or treating vocal presence as novelty.",
-        "proposedPlacements": [
-          {
-            "position": "Between Style Teef and Same Way",
-            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; Clone documents the current 2026 physical circulation.",
-            "Spotify identity, exact BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as straightforward, funky and direct, driven by a fierce bass line and aggressive dialogue.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-        }
-      },
-      "spotifyTrackId": "5pYko1oRFN8pgzRNXofcJP",
+      "spotifyTrackId": "4m2Ck8iySn7iNk56a7LuSo",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "James Ruskin",
-        "track": "The Divide",
-        "album": "Further Design",
-        "releaseDate": "1998",
+        "artist": "Vakula",
+        "track": "Pulsation",
+        "album": "Pulsation",
+        "releaseDate": "2026-03-30",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.normanrecords.com/features/upcoming-album-releases/known-delays",
-        "fitHypothesis": "A wiry, crunching catalogue form newly recirculated in 2026 supplies an overlooked precision-versus-fracture test rather than a heritage exception.",
+        "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
+        "fitHypothesis": "A documented polyrhythmic, tribal-inflected techno construction directly tests rhythmic freedom without treating complexity as automatic admission.",
         "proposedPlacements": [
           {
-            "position": "Between backsliding and Mildew Swoosh",
-            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-            "incomingBpm": null,
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": 140,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its wiry, crunching articulation gives rhythm-to-dissonance collapse a purposeful intermediate edge before opposed temporal strain, or merely adds another fracture stage."
+            "outgoingBpm": 138,
+            "purpose": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
           }
         ],
         "evidence": {
           "measured": [
-            "Norman Records dates the current reissue window to 2026-09-11 and identifies Further Design as originally issued in 1998.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "Juno lists the exact title on Vakula's four-track Pure Delay release dated 2026-03-30.",
+            "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Norman Records differentiates The Divide through wiry synths and crunching percussion within James Ruskin's lean early Blueprint design.",
+          "attributedDescription": "Juno differentiates Pulsation as polyrhythmic, tribal-inflected techno drawing on Livity Sound and Timedance.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its wiry, crunching articulation gives rhythm-to-dissonance collapse a purposeful intermediate edge before opposed temporal strain, or merely adds another fracture stage."
+          "editorialInterpretation": "Test whether its polyrhythmic construction changes driving re-escalation into a newly legible condition for unpredictable rhythm, or merely adds another busy stage."
         }
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6hvMe4IwK39hV9Z0T7Zi9z, 6fCwakqA0Xgl60xrz6fzry)"
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "PRIDI",
+        "track": "Disembarkation",
+        "album": "Nesreh001",
+        "releaseDate": "2026-02-19",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
+        "fitHypothesis": "A roaming, threading bassline cut by sharp hits offers a directional deep-techno proposition rather than a demand for surface weirdness.",
+        "proposedPlacements": [
+          {
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "incomingBpm": 140,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists Disembarkation as the 5:39 A1 on Nesreh001, released 2026-02-19.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes the exact track through a roaming, threading bassline and sharp hits cutting through a swampy, muddy field.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether roaming bass and cutting hits redirect physical widening into Freepass's unrelenting pivot, or interrupt an already sufficient relation."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Planet Rhythm",
+        "track": "What Time Is Love",
+        "album": "What Time Is Love EP",
+        "releaseDate": "2026-09-10",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/planet-rhythm-what-time-is-love-ep-vinyl/1172334-01/",
+        "fitHypothesis": "A crazed remake driven by roughened kicks and shearing 909s offers a current transformation test; reference familiarity and force do not justify admission by themselves.",
+        "proposedPlacements": [
+          {
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists the exact 5:29 title on the EP released 2026-09-10.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes a crazed rendition roughened and reinforced at the kick, with shearing 909s made wilder than the source.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the roughened remake gives the live-band pulse illusion a purposeful electronic answer before foreground transit, or crowds a conspicuous return already carried by Never Met."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Itsover",
-        "album": "The Red EP",
+        "artist": "Curbside Lambsear",
+        "track": "Jjochstubn",
+        "album": "Put Rings On All My Fingers To Weigh Down My Hands",
         "releaseDate": "2026-09-11",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "Documented restless, skippy rhythm is a concrete mutable-groove proposition, not a claim that novelty or genre adjacency earns admission.",
+        "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+        "fitHypothesis": "Its documented dismantling of song form across time-stretched voice, crooked slowed drums and unstable electronics is a legitimate structural-freedom proposition outside a single club-production world.",
         "proposedPlacements": [
           {
-            "position": "Between Crawl and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+            "purpose": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
           }
         ],
         "evidence": {
           "measured": [
-            "Dancing Vinyl lists the exact A2 title on the four-track debut released 2026-09-11.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "The debut EP was released 2026-09-11; Boomkat identifies Jjochstubn as a roughly four-minute exact track.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track through skippy rhythms, while Norman Records further characterizes them as restless.",
+          "attributedDescription": "Boomkat describes keyboard mash, time-stretched voice, crooked slowed drums and malfunctioning-air-conditioner textures pulling apart the traces of a song.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+          "editorialInterpretation": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
         }
       },
-      "spotifyTrackId": "25HzDbwdA0lAOdaXORUKkS",
+      "spotifyTrackId": "5czyvXZq06uxrrKVp28FTb",
       "selected": true
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Mourad",
-        "track": "Dreams Of An Insomniac",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
+        "artist": "Mungo Sound Machine",
+        "track": "Spiral Run",
+        "album": "Life Spiral",
+        "releaseDate": "2026-03-24",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "A documented jazz-acid conjunction with muted trumpet and bleeps can test structural freedom through conspicuous production-world change.",
+        "discoverySource": "https://www.juno.co.uk/products/life-spiral-vinyl/1135044-01/",
+        "fitHypothesis": "A bleeping, off-kilter opener from an emerging compilation field can test how a concise odd-angle groove changes a hand-drum mutation passage.",
         "proposedPlacements": [
           {
-            "position": "Between Eyes of the Wind and Nukumori",
-            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
+            "purpose": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
           }
         ],
         "evidence": {
           "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "Juno lists Spiral Run as the opening track of Life Spiral, released 2026-03-24.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as jazz meeting acid through muted trumpet and bleeps.",
+          "attributedDescription": "Juno singles out Mungo Sound Machine's exact track as the compilation's bleeping, off-kilter opener.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
+          "editorialInterpretation": "Test whether the off-kilter bleep construction turns foreground dissolution toward Amor's machine-to-hand-drum mutation, or explains a transition that already works directly."
         }
       },
-      "spotifyTrackId": "6BnBfTlcogkcYBISZC1T4K",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Vakula",
+        "track": "Spaceman",
+        "album": "Pulsation",
+        "releaseDate": "2026-03-30",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
+        "fitHypothesis": "Increasingly wild acid lines inside spaced-out electro provide a documented internal escalation whose sequence value must be tested beyond genre or novelty.",
+        "proposedPlacements": [
+          {
+            "position": "Between Roxellana and backsliding",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists the exact title on the four-track Pulsation release dated 2026-03-30.",
+            "Exact duration, Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno differentiates Spaceman as spaced-out intergalactic electro whose acid lines become increasingly wild and intense.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the intensifying acid trajectory gives Roxellana's surge a useful condition to collapse from, or duplicates escalation before backsliding's dissolution."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "PRIDI",
+        "track": "Hollow Whispers",
+        "album": "Nesreh001",
+        "releaseDate": "2026-02-19",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/pridi-nesreh001-vinyl/1127009-01/",
+        "fitHypothesis": "An echoing, industrially haunted deep-techno form offers a spatially described boundary question without allowing atmosphere alone to establish flow.",
+        "proposedPlacements": [
+          {
+            "position": "Between Encasadelciegoeltuerco and Carried",
+            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "followingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists Hollow Whispers as the 6:26 A2 on Nesreh001, released 2026-02-19.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno describes unsettling echo and distant groans, likened to a long-forgotten factory.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the echo-and-groan field gives triplet derailment a purposeful decayed continuation before Carried empties itself, or delays the existing rupture."
+        }
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Avoid",
-        "album": "The Red EP",
+        "artist": "Curbside Lambsear",
+        "track": "Avril",
+        "album": "Put Rings On All My Fingers To Weigh Down My Hands",
         "releaseDate": "2026-09-11",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "Mechanical funk offers a specific rhythm-machine proposition that may articulate re-entry without requiring a new chapter or sonic room.",
+        "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+        "fitHypothesis": "Casual voice over euphoric noise, compressed drums and feedback supplies a current production-world left turn that must earn downstream consequence rather than novelty credit.",
         "proposedPlacements": [
           {
-            "position": "Between Egue into hs and Cave",
-            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Dancing Vinyl lists Avoid as the B1 track on the debut released 2026-09-11.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track as clock-shop funk and peculiar mechanical funk.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-        }
-      },
-      "spotifyTrackId": "0AHL7aQpWeMUZ9PtqkQ1Dh",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Drivetrain",
-        "track": "Feel Me",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Its pad-vocal-punch construction presents a formed contrast that can compete at the opening without being presumed smooth or necessary.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
+            "purpose": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
           }
         ],
         "evidence": {
           "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "The debut EP was released 2026-09-11 and Boomkat names Avril among its five tracks.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track through ethereal pads, beguiling vocal repetition and punchy rhythm.",
+          "attributedDescription": "Boomkat describes casual words over euphoric noise, hyper-compressed drums and feedback cohering into a near-pop song.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
+          "editorialInterpretation": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
         }
       },
-      "spotifyTrackId": "20W5eaSknMuGoCdHZ2D6uC",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Jay Strata",
-        "track": "Something 4 U",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Directed bass, pad lines and vocal drops offer a concrete post-protected contrast proposition without using vocal novelty as justification.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as mondo bass directing spicy pad lines and female vocal drops.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-        }
-      },
-      "spotifyTrackId": "395HWxAaptEp7pn9THgfH1",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "James Ruskin",
-        "track": "Indirect World",
-        "album": "Further Design",
-        "releaseDate": "1998",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.normanrecords.com/features/upcoming-album-releases/known-delays",
-        "fitHypothesis": "Precise rolling catalogue techno can still resist fixed form through internal electronic change; utility must be proven by consequence rather than orthodoxy.",
-        "proposedPlacements": [
-          {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Norman Records dates the current reissue window to 2026-09-11 and identifies Further Design as originally issued in 1998.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Norman Records groups the exact track with Enter and Below as running on rolling low end and precise electronics.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-        }
-      },
-      "spotifyTrackId": "1KM7UIiL4evTq5Hr82qppt",
-      "selected": false
+      "spotifyTrackId": "0Ho2e61IcKT57H3CttlyPy",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "1MPIKytvZvjq9zWQYSH7oI",
-      "uri": "spotify:track:1MPIKytvZvjq9zWQYSH7oI",
-      "name": "Gabbol",
+      "id": "4m2Ck8iySn7iNk56a7LuSo",
+      "uri": "spotify:track:4m2Ck8iySn7iNk56a7LuSo",
+      "name": "Night Time Swim",
       "artists": [
-        "Active Systems"
+        "Rene Wise"
       ],
-      "album": "The Red EP",
+      "album": "Moving Pressure 07",
       "releaseDate": "2026-09-11",
-      "durationMs": 229139,
-      "spotifyUrl": "https://open.spotify.com/track/1MPIKytvZvjq9zWQYSH7oI",
+      "durationMs": 364688,
+      "spotifyUrl": "https://open.spotify.com/track/4m2Ck8iySn7iNk56a7LuSo",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
+      "discoverySource": "https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Worn Down and Atlantis",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "incomingBpm": null,
+          "position": "Between Marauder and The Witching Hour",
+          "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+          "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "incomingBpm": 136,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+          "outgoingBpm": 136,
+          "purpose": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
         }
       ],
-      "fitHypothesis": "An off-kilter glacial hip-hop construction is a credible selection-lens proposition because its resistance is rhythmic and structural, not a demand for surface weirdness.",
+      "fitHypothesis": "Its documented stereo-panned bass reaching a point of instability offers a current techno form whose internal escalation can be tested by consequence, not loudness or orthodoxy.",
       "evidence": {
         "measured": [
-          "Dancing Vinyl lists the four-track debut on 2026-09-11.",
-          "The cited source identifies Gabbol as the A1 track; exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+          "Juno lists the exact 6:07 title on Moving Pressure 07, released 2026-09-10.",
+          "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Dancing Vinyl describes the exact track through a glacial hip-hop beat and starlit melancholia within a debut that moves familiar patterns toward unexpected emotional spaces.",
+        "attributedDescription": "Juno identifies Night Time Swim as the standout and describes stereo-panned, rubber-ball-like bass reaching a point of madness.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+        "editorialInterpretation": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
       },
       "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Gabbol",
-        "album": "The Red EP",
+        "artist": "Rene Wise",
+        "track": "Night Time Swim",
+        "album": "Moving Pressure 07",
+        "releaseDate": "2026-09-10",
+        "spotifyTrackId": null,
+        "bpm": null,
+        "bpmSource": null,
+        "searchIntent": "BOTH",
+        "discoverySource": "https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/",
+        "fitHypothesis": "Its documented stereo-panned bass reaching a point of instability offers a current techno form whose internal escalation can be tested by consequence, not loudness or orthodoxy.",
+        "proposedPlacements": [
+          {
+            "position": "Between Marauder and The Witching Hour",
+            "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
+            "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
+          }
+        ],
+        "evidence": {
+          "measured": [
+            "Juno lists the exact 6:07 title on Moving Pressure 07, released 2026-09-10.",
+            "Exact Spotify identity, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          ],
+          "listenerEvidence": "No candidate-specific listener report.",
+          "lawfulAudioEvidence": null,
+          "attributedDescription": "Juno identifies Night Time Swim as the standout and describes stereo-panned, rubber-ball-like bass reaching a point of madness.",
+          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+          "editorialInterpretation": "Test whether the unstable bass action turns the opening anchor toward controlled continuation, or inserts another self-contained assertion before The Witching Hour."
+        }
+      }
+    },
+    {
+      "id": "5czyvXZq06uxrrKVp28FTb",
+      "uri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+      "name": "Jjochstubn",
+      "artists": [
+        "Curbside Lambsear"
+      ],
+      "album": "Put Rings On All My Fingers To Weigh Down My Hands",
+      "releaseDate": "2026-09-11",
+      "durationMs": 397986,
+      "spotifyUrl": "https://open.spotify.com/track/5czyvXZq06uxrrKVp28FTb",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Nukumori and Rabbit Hole",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
+        }
+      ],
+      "fitHypothesis": "Its documented dismantling of song form across time-stretched voice, crooked slowed drums and unstable electronics is a legitimate structural-freedom proposition outside a single club-production world.",
+      "evidence": {
+        "measured": [
+          "The debut EP was released 2026-09-11; Boomkat identifies Jjochstubn as a roughly four-minute exact track.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Boomkat describes keyboard mash, time-stretched voice, crooked slowed drums and malfunctioning-air-conditioner textures pulling apart the traces of a song.",
+        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
+      },
+      "requestedIdentity": {
+        "artist": "Curbside Lambsear",
+        "track": "Jjochstubn",
+        "album": "Put Rings On All My Fingers To Weigh Down My Hands",
         "releaseDate": "2026-09-11",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "An off-kilter glacial hip-hop construction is a credible selection-lens proposition because its resistance is rhythmic and structural, not a demand for surface weirdness.",
+        "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+        "fitHypothesis": "Its documented dismantling of song form across time-stretched voice, crooked slowed drums and unstable electronics is a legitimate structural-freedom proposition outside a single club-production world.",
         "proposedPlacements": [
           {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "position": "Between Nukumori and Rabbit Hole",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+            "purpose": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
           }
         ],
         "evidence": {
           "measured": [
-            "Dancing Vinyl lists the four-track debut on 2026-09-11.",
-            "The cited source identifies Gabbol as the A1 track; exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "The debut EP was released 2026-09-11; Boomkat identifies Jjochstubn as a roughly four-minute exact track.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track through a glacial hip-hop beat and starlit melancholia within a debut that moves familiar patterns toward unexpected emotional spaces.",
+          "attributedDescription": "Boomkat describes keyboard mash, time-stretched voice, crooked slowed drums and malfunctioning-air-conditioner textures pulling apart the traces of a song.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the slowed broken-beat proposition makes the rumble-to-weight threshold turn purposefully toward micro-repetition, or inserts a self-contained pause before Atlantis."
+          "editorialInterpretation": "Test whether the slowed song-disassembly gives the hardcore-remnant flare a purposeful contaminated aftermath before dead-space descent, or adds an unrelated full vignette."
         }
       }
     },
     {
-      "id": "5pYko1oRFN8pgzRNXofcJP",
-      "uri": "spotify:track:5pYko1oRFN8pgzRNXofcJP",
-      "name": "Things On My Mind",
+      "id": "0Ho2e61IcKT57H3CttlyPy",
+      "uri": "spotify:track:0Ho2e61IcKT57H3CttlyPy",
+      "name": "Avril",
       "artists": [
-        "DJ Sinjin"
+        "Curbside Lambsear"
       ],
-      "album": "Immortal",
-      "releaseDate": "2026-06-29",
-      "durationMs": 352875,
-      "spotifyUrl": "https://open.spotify.com/track/5pYko1oRFN8pgzRNXofcJP",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Style Teef and Same Way",
-          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-        }
-      ],
-      "fitHypothesis": "Its fierce bass-and-dialogue construction offers a direct foreground proposition without requiring one production world or treating vocal presence as novelty.",
-      "evidence": {
-        "measured": [
-          "Apple Music lists Immortal as a four-song EP released 2026-06-29; Clone documents the current 2026 physical circulation.",
-          "Spotify identity, exact BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the exact track as straightforward, funky and direct, driven by a fierce bass line and aggressive dialogue.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-      },
-      "requestedIdentity": {
-        "artist": "DJ Sinjin",
-        "track": "Things On My Mind",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Its fierce bass-and-dialogue construction offers a direct foreground proposition without requiring one production world or treating vocal presence as novelty.",
-        "proposedPlacements": [
-          {
-            "position": "Between Style Teef and Same Way",
-            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; Clone documents the current 2026 physical circulation.",
-            "Spotify identity, exact BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as straightforward, funky and direct, driven by a fierce bass line and aggressive dialogue.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its direct bass-and-dialogue foreground converts the frazzled fault line into alternating body pressure, or overstates a change already completed by Same Way."
-        }
-      }
-    },
-    {
-      "id": "25HzDbwdA0lAOdaXORUKkS",
-      "uri": "spotify:track:25HzDbwdA0lAOdaXORUKkS",
-      "name": "Itsover",
-      "artists": [
-        "Active Systems"
-      ],
-      "album": "The Red EP",
+      "album": "Put Rings On All My Fingers To Weigh Down My Hands",
       "releaseDate": "2026-09-11",
-      "durationMs": 207938,
-      "spotifyUrl": "https://open.spotify.com/track/25HzDbwdA0lAOdaXORUKkS",
+      "durationMs": 318666,
+      "spotifyUrl": "https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
+      "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Crawl and Fulledge (Empty-40 Mix)",
-          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+          "purpose": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
         }
       ],
-      "fitHypothesis": "Documented restless, skippy rhythm is a concrete mutable-groove proposition, not a claim that novelty or genre adjacency earns admission.",
+      "fitHypothesis": "Casual voice over euphoric noise, compressed drums and feedback supplies a current production-world left turn that must earn downstream consequence rather than novelty credit.",
       "evidence": {
         "measured": [
-          "Dancing Vinyl lists the exact A2 title on the four-track debut released 2026-09-11.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+          "The debut EP was released 2026-09-11 and Boomkat names Avril among its five tracks.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Dancing Vinyl describes the exact track through skippy rhythms, while Norman Records further characterizes them as restless.",
+        "attributedDescription": "Boomkat describes casual words over euphoric noise, hyper-compressed drums and feedback cohering into a near-pop song.",
         "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+        "editorialInterpretation": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
       },
       "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Itsover",
-        "album": "The Red EP",
+        "artist": "Curbside Lambsear",
+        "track": "Avril",
+        "album": "Put Rings On All My Fingers To Weigh Down My Hands",
         "releaseDate": "2026-09-11",
         "spotifyTrackId": null,
         "bpm": null,
         "bpmSource": null,
         "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "Documented restless, skippy rhythm is a concrete mutable-groove proposition, not a claim that novelty or genre adjacency earns admission.",
+        "discoverySource": "https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands",
+        "fitHypothesis": "Casual voice over euphoric noise, compressed drums and feedback supplies a current production-world left turn that must earn downstream consequence rather than novelty credit.",
         "proposedPlacements": [
           {
-            "position": "Between Crawl and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+            "purpose": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
           }
         ],
         "evidence": {
           "measured": [
-            "Dancing Vinyl lists the exact A2 title on the four-track debut released 2026-09-11.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
+            "The debut EP was released 2026-09-11 and Boomkat names Avril among its five tracks.",
+            "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
           ],
           "listenerEvidence": "No candidate-specific listener report.",
           "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track through skippy rhythms, while Norman Records further characterizes them as restless.",
+          "attributedDescription": "Boomkat describes casual words over euphoric noise, hyper-compressed drums and feedback cohering into a near-pop song.",
           "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether restless skippage changes sustained invariant motion into a sharper approach to metric dissolution, or delays Fulledge's direct consequence."
+          "editorialInterpretation": "Test whether the noise-pop compression changes alternating drum-and-bass pressure into a sharper threshold problem for U Belong 2 Me, or inserts another completed scene before the collapse."
         }
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "6BnBfTlcogkcYBISZC1T4K",
-      "uri": "spotify:track:6BnBfTlcogkcYBISZC1T4K",
-      "name": "Dreams Of An Insomniac",
-      "artists": [
-        "DJ Mourad"
-      ],
-      "album": "Immortal",
-      "releaseDate": "2026-06-29",
-      "durationMs": 394341,
-      "spotifyUrl": "https://open.spotify.com/track/6BnBfTlcogkcYBISZC1T4K",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Eyes of the Wind and Nukumori",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
-        }
-      ],
-      "fitHypothesis": "A documented jazz-acid conjunction with muted trumpet and bleeps can test structural freedom through conspicuous production-world change.",
-      "evidence": {
-        "measured": [
-          "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the exact track as jazz meeting acid through muted trumpet and bleeps.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
-      },
-      "requestedIdentity": {
-        "artist": "DJ Mourad",
-        "track": "Dreams Of An Insomniac",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "A documented jazz-acid conjunction with muted trumpet and bleeps can test structural freedom through conspicuous production-world change.",
-        "proposedPlacements": [
-          {
-            "position": "Between Eyes of the Wind and Nukumori",
-            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as jazz meeting acid through muted trumpet and bleeps.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether the jazz-acid scene gives the liminal percussion passage a purposeful mutation before the hardcore-remnant flare, or adds an unrelated complete vignette."
-        }
-      }
-    },
-    {
-      "id": "0AHL7aQpWeMUZ9PtqkQ1Dh",
-      "uri": "spotify:track:0AHL7aQpWeMUZ9PtqkQ1Dh",
-      "name": "Avoid",
-      "artists": [
-        "Active Systems"
-      ],
-      "album": "The Red EP",
-      "releaseDate": "2026-09-11",
-      "durationMs": 283610,
-      "spotifyUrl": "https://open.spotify.com/track/0AHL7aQpWeMUZ9PtqkQ1Dh",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Egue into hs and Cave",
-          "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 134,
-          "purpose": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-        }
-      ],
-      "fitHypothesis": "Mechanical funk offers a specific rhythm-machine proposition that may articulate re-entry without requiring a new chapter or sonic room.",
-      "evidence": {
-        "measured": [
-          "Dancing Vinyl lists Avoid as the B1 track on the debut released 2026-09-11.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Dancing Vinyl describes the exact track as clock-shop funk and peculiar mechanical funk.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-      },
-      "requestedIdentity": {
-        "artist": "Active Systems",
-        "track": "Avoid",
-        "album": "The Red EP",
-        "releaseDate": "2026-09-11",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep",
-        "fitHypothesis": "Mechanical funk offers a specific rhythm-machine proposition that may articulate re-entry without requiring a new chapter or sonic room.",
-        "proposedPlacements": [
-          {
-            "position": "Between Egue into hs and Cave",
-            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 134,
-            "purpose": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Dancing Vinyl lists Avoid as the B1 track on the debut released 2026-09-11.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Dancing Vinyl describes the exact track as clock-shop funk and peculiar mechanical funk.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether mechanical funk develops fixed-kick re-entry into Cave's widening, or over-articulates a transition the current pair already performs."
-        }
-      }
-    },
-    {
-      "id": "20W5eaSknMuGoCdHZ2D6uC",
-      "uri": "spotify:track:20W5eaSknMuGoCdHZ2D6uC",
-      "name": "Feel Me",
-      "artists": [
-        "Drivetrain"
-      ],
-      "album": "Immortal",
-      "releaseDate": "2026-06-29",
-      "durationMs": 411729,
-      "spotifyUrl": "https://open.spotify.com/track/20W5eaSknMuGoCdHZ2D6uC",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Sawa and Stadium Drive",
-          "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
-        }
-      ],
-      "fitHypothesis": "Its pad-vocal-punch construction presents a formed contrast that can compete at the opening without being presumed smooth or necessary.",
-      "evidence": {
-        "measured": [
-          "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the exact track through ethereal pads, beguiling vocal repetition and punchy rhythm.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
-      },
-      "requestedIdentity": {
-        "artist": "Drivetrain",
-        "track": "Feel Me",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Its pad-vocal-punch construction presents a formed contrast that can compete at the opening without being presumed smooth or necessary.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sawa and Stadium Drive",
-            "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track through ethereal pads, beguiling vocal repetition and punchy rhythm.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its formed pad-and-rhythm scene makes the hyper-rhythmic cold open turn meaningfully toward Stadium Drive's reassembly, or postpones the overture with another complete opening."
-        }
-      }
-    },
-    {
-      "id": "395HWxAaptEp7pn9THgfH1",
-      "uri": "spotify:track:395HWxAaptEp7pn9THgfH1",
-      "name": "Something 4 U",
-      "artists": [
-        "Jay Strata"
-      ],
-      "album": "Immortal",
-      "releaseDate": "2026-06-29",
-      "durationMs": 386889,
-      "spotifyUrl": "https://open.spotify.com/track/395HWxAaptEp7pn9THgfH1",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "incomingBpm": 137,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-        }
-      ],
-      "fitHypothesis": "Directed bass, pad lines and vocal drops offer a concrete post-protected contrast proposition without using vocal novelty as justification.",
-      "evidence": {
-        "measured": [
-          "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the exact track as mondo bass directing spicy pad lines and female vocal drops.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-      },
-      "requestedIdentity": {
-        "artist": "Jay Strata",
-        "track": "Something 4 U",
-        "album": "Immortal",
-        "releaseDate": "2026-06-29",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://clonedistribution.com/release/84644?play=28",
-        "fitHypothesis": "Directed bass, pad lines and vocal drops offer a concrete post-protected contrast proposition without using vocal novelty as justification.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Apple Music lists Immortal as a four-song EP released 2026-06-29; current physical distribution is documented in 2026.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Clone describes the exact track as mondo bass directing spicy pad lines and female vocal drops.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether its directed bass-and-pad form supplies a purposeful scene after the protected block before Migration's piano-to-break pivot, or delays that existing character change."
-        }
-      }
-    },
-    {
-      "id": "1KM7UIiL4evTq5Hr82qppt",
-      "uri": "spotify:track:1KM7UIiL4evTq5Hr82qppt",
-      "name": "Indirect World",
-      "artists": [
-        "James Ruskin"
-      ],
-      "album": "Further Design",
-      "releaseDate": "1998-01-01",
-      "durationMs": 310466,
-      "spotifyUrl": "https://open.spotify.com/track/1KM7UIiL4evTq5Hr82qppt",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.normanrecords.com/features/upcoming-album-releases/known-delays",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "incomingBpm": 135,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-        }
-      ],
-      "fitHypothesis": "Precise rolling catalogue techno can still resist fixed form through internal electronic change; utility must be proven by consequence rather than orthodoxy.",
-      "evidence": {
-        "measured": [
-          "Norman Records dates the current reissue window to 2026-09-11 and identifies Further Design as originally issued in 1998.",
-          "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Norman Records groups the exact track with Enter and Below as running on rolling low end and precise electronics.",
-        "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-      },
-      "requestedIdentity": {
-        "artist": "James Ruskin",
-        "track": "Indirect World",
-        "album": "Further Design",
-        "releaseDate": "1998",
-        "spotifyTrackId": null,
-        "bpm": null,
-        "bpmSource": null,
-        "searchIntent": "BOTH",
-        "discoverySource": "https://www.normanrecords.com/features/upcoming-album-releases/known-delays",
-        "fitHypothesis": "Precise rolling catalogue techno can still resist fixed form through internal electronic change; utility must be proven by consequence rather than orthodoxy.",
-        "proposedPlacements": [
-          {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-            "incomingBpm": 135,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-          }
-        ],
-        "evidence": {
-          "measured": [
-            "Norman Records dates the current reissue window to 2026-09-11 and identifies Further Design as originally issued in 1998.",
-            "Exact duration, BPM, phrase fit, perceived pulse and live mixability remain unknown."
-          ],
-          "listenerEvidence": "No candidate-specific listener report.",
-          "lawfulAudioEvidence": null,
-          "attributedDescription": "Norman Records groups the exact track with Enter and Below as running on rolling low end and precise electronics.",
-          "craftConvention": "Attributed exact-track language and release metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-          "editorialInterpretation": "Test whether rolling precision gives swung continuation a meaningful condition for Foundry's unstable directional change, or merely prepares that instability too explicitly."
-        }
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
