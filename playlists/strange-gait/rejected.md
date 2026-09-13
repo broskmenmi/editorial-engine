@@ -10,6 +10,8 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Acid Pauli | Gwar Is Not The Answer | Run 203 rejects only `Foundry → candidate → Worn Down`. Its exact compressed, twisted rave construction remains interesting, but the 6:18 insertion adds a second fully stated disruption before the existing rumble-to-weight threshold and perceived-continuum passage. | 2026-09-13 |
+| Vinicius Honorio | Labyrinth of Sin | Run 203 rejects only `Moonwake → candidate → Raataja`. Its forceful maze construction remains interesting, but another complete stage weakens the direct intensification-to-burst/disappearance crisis. | 2026-09-13 |
 | Pierce | Detachment | Run 201 rejects only `Té de Cabello Blanco → candidate → Ikoyi`. Its exact nervy, twitching acid construction remains interesting, but another articulated instability would intervene before Ikoyi's existing dissolution-and-mutation consequence. | 2026-09-13 |
 | Lars Huismann | Neon Shadows | Run 201 rejects only `Capa → candidate → Sarniezz`. Its exact continuously unsettled movement remains interesting, but the 6:15 insertion would prepare and delay an already purposeful production-world and pulse-illusion left turn. | 2026-09-13 |
 | Franco Rossi | Radias | Run 201 rejects only `Never Met → candidate → Trompe L'oeil`. Its exact cut-loose off-grid action remains interesting, but another 5:31 loosening stage would over-articulate transit into the existing staggered reset and formation. | 2026-09-13 |
