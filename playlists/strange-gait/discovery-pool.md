@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 221 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Romain Azzaro | Fusion | `spotify:track:2EMoo3kbKTHrIiYZvyfVWG` · https://open.spotify.com/track/2EMoo3kbKTHrIiYZvyfVWG · https://boomkat.com/products/digital-sound-residency-vol-2 | Exact 4:19.609 identity; rejected only at *Sarniezz → Never Met*. The trap-gamelan hybrid remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Boards of Canada | The Word Becomes Flesh | `spotify:track:2zKrt7YUpsKWEQagjS4rOQ` · https://open.spotify.com/track/2zKrt7YUpsKWEQagjS4rOQ · https://boomkat.com/new-releases | Exact 5:20.100 identity; rejected only at *Freepass for Them → Moonwake*. The voice/acid opposition remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | The Actions | Music Like Dirt | `spotify:track:4F6eHWVK4BidJCXrFuVX2g` · https://open.spotify.com/track/4F6eHWVK4BidJCXrFuVX2g · https://boomkat.com/new-releases | Exact 1:56.160 identity; volume fit is unestablished and the tested *Egue into hs → Cave* placement fails. Retained as a doctrine-free catalogue discovery and added globally. Date warning preserved. |
+| UNRESOLVED / AMBIGUOUS | Sabre | Brisket | https://www.juno.co.uk/experimental-electronic/this-week/ | Exact-title ambiguity preserved: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0Jd52Ad25Ms6D6sMJwME7r, 1IYMHen0VlcvxWVvfokSLO)`. No verdict or utility row. |
+| UNRESOLVED | TLIC; G Rush; Lisovskyi; Johnny Clarke; Lee Perry | USB Stick In Quarantine; Seduction; Dyr Dyr; Nuclear War; Groovy Dub | See discoveries.md Run 221 | Five exact-title Spotify-SE misses remain research questions only; no verdict or utility row. |
+| WATCH | Critical Music; Minor; Kuboraum Editions; Ariwa; Studio 16 | Big Cat EP; Winterplague Adopt; Kuboraum Sound Residency Vol. 2; Yard Style; Megaton Dub 2 | Sources above | Current, emerging, adjacent and catalogue windows with track-specific questions preserved. |
+
+### Placement and inspiration boundaries
+
+- All three exact tracks are rejected only for STRANGE GAIT's documented tests; the utility ledger carries no sequencing meaning.
+- Six unresolved leads remain identity questions only.
+- Set direction: distinguish vivid material opposition from a transition that changes the successor's task.
+- No BPM, phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 219 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

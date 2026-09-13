@@ -448,6 +448,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 442 | EDC | EDC1_1 | spotify:track:2VCzAhyXi4l9VteKVtpNBJ | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
 | 443 | EDC | EDC1_3 | spotify:track:7lFUadxKw6ziPB1ZfFCipI | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
 | 444 | Stefàn Dubs | Lion Last | spotify:track:7oUKzN6K4DJHFDWDLPrBoE | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
+| 445 | Romain Azzaro | Fusion | spotify:track:2EMoo3kbKTHrIiYZvyfVWG | STRANGE GAIT Run 221 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 446 | Boards of Canada | The Word Becomes Flesh | spotify:track:2zKrt7YUpsKWEQagjS4rOQ | STRANGE GAIT Run 221 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 447 | The Actions | Music Like Dirt | spotify:track:4F6eHWVK4BidJCXrFuVX2g | STRANGE GAIT Run 221 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

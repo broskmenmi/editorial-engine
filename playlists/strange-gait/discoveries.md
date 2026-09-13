@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 221 — EXPLORE — candidate-specific evidence supports three scoped rejections — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 444 contiguous unique tracks. Automatic publishing was enabled. Run 220's post-recurrence evidence guard governed this outward scan.
+
+**Fresh exploration:** Run `2026-09-13T18:53:10Z-explore-221` inspected approximately 84 named tracks across live techno and experimental listings, adjacent bass/electronic releases, emerging-label pages and overlooked electronic, dub and sound-system catalogue. Completed Runs 213, 214, 217, 218 and 219 fields were excluded; failed Run 212 identities and Run 197's unresolved Mark Fell leads were not reused. Nine honest leads from nine releases survived without padding, every pair was checked across persistent state and every placement avoided the previous five completed runs' selected boundaries.
+
+- **runId:** `2026-09-13T18:53:10Z-explore-221`
+- **sourceCommit:** `c756a151ca7945f7664694bbab4c66027c1de43a`
+- **request commit:** `3a8aaa029bc644d41ce846929e4588eff1e688d6`
+- **snapshot commit:** `b7b7bf4ee134e6b7ab0c97b45c8331efcc9fc6e4`
+- **request fingerprint:** `95c898a67b8fc87acd491e6d17117dad8ac60b8822ed9dc2887c47bc8c0de3c9`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 3 exact resolutions and selected candidates, 6 unresolved identities, no alternates, duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- Sabre — *Brisket*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0Jd52Ad25Ms6D6sMJwME7r, 1IYMHen0VlcvxWVvfokSLO)`
+- TLIC — *USB Stick In Quarantine*: `no exact Spotify title/artist search match in market SE`
+- G Rush — *Seduction*: `no exact Spotify title/artist search match in market SE`
+- Lisovskyi — *Dyr Dyr*: `no exact Spotify title/artist search match in market SE`
+- Johnny Clarke — *Nuclear War*: `no exact Spotify title/artist search match in market SE`
+- Lee Perry — *Groovy Dub*: `no exact Spotify title/artist search match in market SE`
+
+Warning preserved exactly:
+
+- The Actions — *Music Like Dirt*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-11"`
+
+### Candidate evaluation — Romain Azzaro — Fusion
+
+- **Exact identity:** `spotify:track:2EMoo3kbKTHrIiYZvyfVWG`; 259,609 ms; BPM unresolved.
+- **Volume fit:** PASS. Boomkat's exact-track description identifies a trap-gamelan hybrid whose motion carries forward from the preceding compilation cut. Hybrid form establishes a serious selection proposition but is not merit by itself.
+- **Immediate transition:** FAIL only at `Sarniezz → candidate → Never Met`. The material adds a further cross-form rhythmic premise between the existing live-band pulse illusion and passing foreground without evidence that it changes *Never Met*'s transit task.
+- **Surrounding run:** FAIL at `Fulledge → Capa → Sarniezz → candidate → Never Met`. The current dissolution, redirection, pulse reinterpretation and transit remain a complete local relation; the 4:19.609 insertion elaborates rather than redirects it.
+- **Long-form effect:** FAIL at this placement. The production-world turn is lawful and interesting, but its documented material does not establish a changed downstream consequence.
+- **Verdict:** placement-specific REJECT. Retain locally and globally as genuinely interesting; no claim about another placement.
+
+### Candidate evaluation — Boards of Canada — The Word Becomes Flesh
+
+- **Exact identity:** `spotify:track:2zKrt7YUpsKWEQagjS4rOQ`; 320,100 ms; BPM unresolved.
+- **Volume fit:** PASS. Boomkat's exact-track account establishes dystopian robot voices balanced with squelchy acid gurgles inside an electronic construction. Familiarity or prominence confers no advantage.
+- **Immediate transition:** FAIL only at `Freepass for Them → candidate → Moonwake`. The voice/acid opposition creates a complete foreground scene before an already direct groove-pivot-to-intensification relation, without an evidenced endpoint that changes *Moonwake*'s task.
+- **Surrounding run:** FAIL at `Serpentine Tale → Too Much Time → Freepass for Them → candidate → Moonwake`. The 5:20.100 insertion restates opposition before intensification instead of changing its consequence.
+- **Long-form effect:** FAIL at this placement. A conspicuous character change is allowed, but the available candidate-specific evidence supports material contrast rather than directional gain.
+- **Verdict:** placement-specific REJECT. Retain locally and globally as genuinely interesting; no global incompatibility is claimed.
+
+### Candidate evaluation — The Actions — Music Like Dirt
+
+- **Exact identity:** `spotify:track:4F6eHWVK4BidJCXrFuVX2g`; 116,160 ms; BPM unresolved.
+- **Volume fit:** FAIL on current evidence. Boomkat establishes a rude vocal duet, bassline and reverse-tape stabs, but not a techno or structurally free rhythmic proposition for this volume. Distinctive effects and catalogue interest cannot substitute for the selection lens.
+- **Immediate transition:** FAIL only at `Egue into hs → candidate → Cave`. The concise vocal/effects scene interrupts the existing fixed-kick re-entry into widening without evidence that it changes *Cave*'s task.
+- **Surrounding run:** FAIL at `Carried → Tender Is The Night → Egue into hs → candidate → Cave`. The 1:56.160 left turn adds a separate foreground vignette inside an already specific emptying, suspension, re-entry and widening passage.
+- **Long-form effect:** FAIL for STRANGE GAIT at this placement. Brevity does not offset the missing volume-fit and downstream-consequence evidence.
+- **Verdict:** placement-specific REJECT with volume fit unestablished. Retain locally and globally as an interesting exact catalogue discovery; no doctrine-free utility exclusion follows from the canonical verdict.
+
+### Auditor
+
+APPROVED. All three selected identities come from different releases and carry candidate-specific descriptions. The evaluations keep volume fit, immediate transition, local-run and long-form effects separate; they do not infer energy, density, space, hypnosis, emotion, phrasing or mixability from metadata. The three rejections are proportional and preserve musical interest without converting unknowns into failures. Run 221 demonstrates the higher candidate-specific information quality required by Repair Run 220, so the temporary evidence guard is closed. No ADD pressure, stylistic quota or weakened canonical bar was used.
+
+### Durable state
+
+- STRANGE GAIT remains 55 canonical tracks with no reorder or annotation change.
+- The protected trio remains contiguous at positions 46–48.
+- Three exact interesting tracks are added to the doctrine-free global utility ledger, taking it from 444 to 447 unique identities.
+- Six unresolved leads remain research only; no identity, verdict or utility entry was invented.
+- Target-local discovery and set-direction layers are updated.
+- No further actionable REPAIR emerges.
+
+### Run analysis
+
+`~84 inspected → 9 leads from 9 releases → 3 exact resolutions + 6 unresolved → 3 evaluations → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion was **10.7%**, resolution yield **33.3%**, and selected-candidate-to-ADD conversion **0/3**.
+
+Across completed discovery Runs 87–221, excluding repairs and failed runs: **999 leads from approximately 6,132 inspections; 40 ADDs from 299 selected candidates**. The recent comparable ADD rate is **1/10**; the musical no-ADD streak is four completed runs after Run 214. Nine exact interesting tracks have been retained since that ADD.
+
+The strongest counterargument is that decisive rejections still depend on written accounts rather than heard transitions. That limitation is explicit: each verdict is scoped to the tested placement and available evidence, and none claims phrase-level or live-mixing failure. The repair-success claim concerns information quality—three differentiated track-specific propositions—not musical certainty or an ADD.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 220 — REPAIR — activate the post-recurrence evidence guard — 2026-09-13
 
 - **runId:** `2026-09-13T17:59:17Z-repair-220`

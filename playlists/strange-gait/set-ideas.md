@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 221
+
+### Ask whether contrast changes the successor's task
+
+**Direction:** Use track-specific material evidence to distinguish a vivid intermediate scene from a consequential transition. Contrast may be hard or smooth; it earns sequence space when it changes what the following track must accomplish.
+
+**Ingredients:**
+
+- Angine de Poitrine — *Sarniezz* → Sam Prekop — *Never Met* — existing pulse-illusion-to-passing-foreground relation
+- Romain Azzaro — *Fusion* — exact trap-gamelan counterexample, rejected only between those tracks
+- 96 Back — *Freepass for Them* → Sciahri — *Moonwake* — existing groove pivot into intensification
+- Boards of Canada — *The Word Becomes Flesh* — exact voice/acid counterexample before that intensification
+- Alexander Holm, Francesca Burattelli — *Egue into hs* → Rene Wise — *Cave* — existing fixed-kick re-entry into widening
+- The Actions — *Music Like Dirt* — exact catalogue vignette whose volume fit and downstream gain remain unestablished
+
+**Why interesting:** Three different production worlds test the same programming question without implying one sonic room, a diversity quota or a preference for invisible transitions.
+
+**Boundary:** These are placement lessons, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred.
+
 ## Current additions — Run 219
 
 ### Ask what the circle leaves behind
