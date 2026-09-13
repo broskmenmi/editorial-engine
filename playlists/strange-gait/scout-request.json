@@ -1,125 +1,56 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T14:02:00Z-explore-213",
-  "sourceCommit": "46e7a017fb1e4e81f591bee7d862eafa905f0083",
+  "runId": "2026-09-13T14:50:53Z-explore-214",
+  "sourceCommit": "c8101f51632a65ef33f440e15b483ab312119766",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T14:02:00Z",
-    "approximateInspectedScope": "Approximately 66 named tracks and releases across a second fresh outward scan of Boomkat's FLUF, SM-LL and Dark Entries windows: current long-form techno, emerging reductionist computer music and unreleased 1984–85 archival electronics. Written exact-track and attributed release descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T14:50:53Z",
+    "approximateInspectedScope": "Approximately 64 named tracks and releases across Juno's 75-release current techno field, an emerging Umay/remix-contest and adjacent club window, and an overlooked electro/techno catalogue window. Written exact-track and attributed release descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: tuuun's the future made me hardcore supplied four individually differentiated ten-minute techno constructions. https://boomkat.com/products/the-future-made-me-hardcore",
-      "ADJACENT / EMERGING WINDOW: tendencyitis's Batch 0013 supplied three exact stochastic-reductionist computer-music propositions. https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
-      "OVERLOOKED / ARCHIVAL WINDOW: Evelyne / Masao's TESTPATTERN supplied previously unreleased 1984–85 electronic material with several exact tracks individually described. https://boomkat.com/products/testpattern"
+      "CURRENT RELEASE WINDOW: Juno's September 7–13 techno listings, with exact current pages for COW, Alexander Kowalski remixers, PS11 and VVAA008. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: Umay newcomer COW, student-remix entrant GZI, and TraTraTrax's current cross-regional club sampler. https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/ ; https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/ ; https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+      "OVERLOOKED CATALOGUE WINDOW: Juno's electro back catalogue, including 710 Exit, Acid Jesus and 50DIX. https://www.juno.co.uk/electro/back-cat/"
     ],
     "exclusions": [
-      "Failed Run 212 is preserved as REQUEST_NOT_COMPLETED and none of its nine ranked identities was reused.",
-      "Runs 207–211 source fields, all prior ranked leads or alternates found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
-      "The repetition check avoided selected and proposed boundaries from Runs 207–211 and all placements proposed in failed Run 212. Placements remain candidate-specific hypotheses, not a boundary quota.",
-      "Nine honest leads survived with exact titles, concrete attributed descriptions, constitution-relevant belonging hypotheses and lawful adjacent URI pairs. The highest three come from different releases; no slot was padded.",
+      "Completed Runs 209–213 source fields and ranked identities, failed Run 212 identities, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
+      "The repetition check compared the previous five completed discovery runs (208, 209, 210, 211 and 213). None of the nine primary placements repeats their selected-candidate boundaries; failed Run 212 boundaries were also avoided.",
+      "Nine honest leads survived with concrete source evidence, constitution-relevant belonging hypotheses and adjacent current-ledger URI pairs. Ranking balances current, emerging/adjacent and overlooked catalogue information gain without imposing a quota.",
       "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. tuuun — the future made me hardcore",
-      "2. Evelyne / Masao — Sakuramochi",
-      "3. tendencyitis — Rhizomes",
-      "4. tuuun — living in the disgusting now",
-      "5. Evelyne / Masao — Bird Island",
-      "6. tendencyitis — Pistils",
-      "7. tuuun — it doesn't need to be so complicated",
-      "8. Evelyne / Masao — Alien Go Home",
-      "9. tendencyitis — Fronds"
+      "1. COW — Velvet",
+      "2. Alexander Kowalski — Sinee - GZI Remix",
+      "3. 710 Exit — Strat",
+      "4. Acid Jesus — Radium",
+      "5. PS11 — Mid Point",
+      "6. 50DIX — If U Want 2",
+      "7. DJ Sodeyama — Atlas",
+      "8. Anthony Naples — Perk",
+      "9. COW — Dead Air"
     ]
   },
   "leads": [
     {
-      "artist": "tuuun",
-      "track": "the future made me hardcore",
-      "album": "the future made me hardcore",
-      "releaseDate": "2026",
+      "artist": "COW",
+      "track": "Velvet",
+      "album": "Open The Closed",
+      "releaseDate": "2026-09-08",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
-      "fitHypothesis": "Its individually described nano-tight bleep-techno modulation offers a current exact-track test of locked form under change.",
+      "discoverySource": "https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/",
+      "fitHypothesis": "Its individually described liquid motion and cutting percussion make it a current, non-formulaic techno proposition for the selection lens.",
       "proposedPlacements": [
         {
-          "position": "Between Cave and Abundance",
-          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "incomingBpm": 134,
-          "candidateBpm": null,
-          "outgoingBpm": 135,
-          "purpose": "Test whether its sustained modulating lock gives Cave's widening a changed consequence before Abundance, or inserts an overlong second premise."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes the title track as nano-tight bleep techno within a ten-minute square-acid construction shaped by nuanced modulation.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its sustained modulating lock gives Cave's widening a changed consequence before Abundance, or inserts an overlong second premise."
-      }
-    },
-    {
-      "artist": "Evelyne / Masao",
-      "track": "Sakuramochi",
-      "album": "TESTPATTERN",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/testpattern",
-      "fitHypothesis": "The archival exact track's intricate minimalist electronics and documented melodic construction make it a credible left-turn test without requiring genre orthodoxy.",
-      "proposedPlacements": [
-        {
-          "position": "Between Stadium Drive and Marauder",
-          "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
-          "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether this archival electronic scene changes Stadium Drive's assembled rhythm into a purposeful state before Marauder, or weakens the direct overture-to-anchor handoff."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Dark Entries' notes, reproduced by Boomkat, identify Sakuramochi through intricate minimalist electronics and a soaring melody that redeploys East Asian musical tropes.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether this archival electronic scene changes Stadium Drive's assembled rhythm into a purposeful state before Marauder, or weakens the direct overture-to-anchor handoff."
-      }
-    },
-    {
-      "artist": "tendencyitis",
-      "track": "Rhizomes",
-      "album": "Batch 0013",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
-      "fitHypothesis": "Its exact-track description of meshed straightjacket unfunk is a serious rhythmic-constraint proposition for the volume lens.",
-      "proposedPlacements": [
-        {
-          "position": "Between Moonwake and Raataja",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "incomingBpm": 140,
+          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "incomingBpm": 136,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether constrained unfunk sharpens intensification into burst-and-disappearance, or adds a separate mechanism before an already specific crisis."
+          "purpose": "Test whether Velvet turns controlled continuation into a useful fluid precondition for triplet derailment, or inserts a self-contained scene before an already purposeful rupture."
         }
       ],
       "evidence": {
@@ -129,31 +60,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes Rhizomes as meshed straightjacket unfunk within stochastic, reductionist computer music.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether constrained unfunk sharpens intensification into burst-and-disappearance, or adds a separate mechanism before an already specific crisis."
+        "attributedDescription": "Juno describes Velvet as having liquid flow, with sharper percussion cutting through, inside an EP built around movement rather than one fixed sound.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Velvet turns controlled continuation into a useful fluid precondition for triplet derailment, or inserts a self-contained scene before an already purposeful rupture."
       }
     },
     {
-      "artist": "tuuun",
-      "track": "living in the disgusting now",
-      "album": "the future made me hardcore",
-      "releaseDate": "2026",
+      "artist": "Alexander Kowalski",
+      "track": "Sinee - GZI Remix",
+      "album": "Sinee Remixes",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
-      "fitHypothesis": "Its individually attributed dissonant modulation offers a differentiated exact-track question inside a long minimal techno form.",
+      "discoverySource": "https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/",
+      "fitHypothesis": "The exact GZI remix is described as broken, nearly two-step techno: a direct structural-freedom test rather than a novelty claim.",
       "proposedPlacements": [
         {
-          "position": "Between Roxellana and backsliding",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+          "position": "Between Hypnic Jerks and Tides Alternate",
+          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether sustained dissonant modulation changes directed surge into rhythm-to-dissonance dissolution, or redundantly precedes that same consequence."
+          "purpose": "Test whether the remix makes Hypnic Jerks' acceleration crisis resolve through a new broken intermediate state before opposed-speed balance, or delays that existing answer."
         }
       ],
       "evidence": {
@@ -163,31 +94,65 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat attributes nosedrip dissonance to this exact ten-minute track within a set of quick, tunnelling minimal techno tracts.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether sustained dissonant modulation changes directed surge into rhythm-to-dissonance dissolution, or redundantly precedes that same consequence."
+        "attributedDescription": "Juno identifies GZI's exact remix as the broken, nearly two-step outlier among respectful versions that evolve the original rhythmic dub-techno material.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the remix makes Hypnic Jerks' acceleration crisis resolve through a new broken intermediate state before opposed-speed balance, or delays that existing answer."
       }
     },
     {
-      "artist": "Evelyne / Masao",
-      "track": "Bird Island",
-      "album": "TESTPATTERN",
-      "releaseDate": "2026",
+      "artist": "710 Exit",
+      "track": "Strat",
+      "album": "Close To The Sun",
+      "releaseDate": "2026-06-18",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/testpattern",
-      "fitHypothesis": "This exact archival track offers an intricate-minimalist melodic proposition for a conspicuous production-world change.",
+      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
+      "fitHypothesis": "Its understated funk groove carrying warped guitar and soul samples is a credible overlooked adjacent-world test with a concrete rhythmic proposition.",
       "proposedPlacements": [
         {
-          "position": "Between Té de Cabello Blanco and Ikoyi",
-          "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "position": "Between Serpentine Tale and Too Much Time",
+          "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "incomingBpm": 130,
+          "candidateBpm": null,
+          "outgoingBpm": 140,
+          "purpose": "Test whether Strat changes the coiling low-slung consequence into a distinct funk-mediated state before renewed widening, or merely lengthens the held passage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Strat as the more experimental side of the release, with warped guitar and soul samples taking on an almost vocal quality over an understated infectious funk groove.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Strat changes the coiling low-slung consequence into a distinct funk-mediated state before renewed widening, or merely lengthens the held passage."
+      }
+    },
+    {
+      "artist": "Acid Jesus",
+      "track": "Radium",
+      "album": "Radium",
+      "releaseDate": "1995",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
+      "fitHypothesis": "Its proto-minimal motifs, object-like percussion and machine-drum framework make an overlooked catalogue proposition for bodily repetition under unusual texture.",
+      "proposedPlacements": [
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the melodic left turn changes false stability into a meaningful state before Ikoyi dissolves the foreground, or over-articulates the passage."
+          "purpose": "Test whether Radium turns Foundry's unstable direction into a tangible machine-percussion condition before Worn Down's weight threshold, or adds another complete threshold."
         }
       ],
       "evidence": {
@@ -197,31 +162,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Dark Entries' notes identify Bird Island through intricate minimalist electronics and a soaring melody with subtly ironic East Asian trope redeployment.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the melodic left turn changes false stability into a meaningful state before Ikoyi dissolves the foreground, or over-articulates the passage."
+        "attributedDescription": "Juno describes Radium as alien electro sonics and proto-minimal techno motifs with pots-and-pans percussion around deep bass and hypnotic machine drums.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Radium turns Foundry's unstable direction into a tangible machine-percussion condition before Worn Down's weight threshold, or adds another complete threshold."
       }
     },
     {
-      "artist": "tendencyitis",
-      "track": "Pistils",
-      "album": "Batch 0013",
-      "releaseDate": "2026",
+      "artist": "PS11",
+      "track": "Mid Point",
+      "album": "Stratos EP",
+      "releaseDate": "2026-09-07",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
-      "fitHypothesis": "Its exact description of frayed growth offers a differentiated structural process without assuming sonic facts beyond the source.",
+      "discoverySource": "https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
+      "fitHypothesis": "Its exact broken-beat and wide-view construction is a current contrast proposition that can be tested without inferring spaciousness or energy as measurement.",
       "proposedPlacements": [
         {
-          "position": "Between Encasadelciegoeltuerco and Carried",
-          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "followingUri": "spotify:track:3RIuNmWnU5gRHCldYYy83b",
+          "position": "Between Worn Down and Atlantis",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a fraying process gives triplet derailment a distinct route into Carried's self-emptying rupture, or merely doubles the breakdown."
+          "purpose": "Test whether the broken-beat stage gives Worn Down a useful release before Atlantis converts micro-repetition into continuum, or weakens the direct weight-to-continuum relation."
         }
       ],
       "evidence": {
@@ -231,99 +196,31 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat characterizes Pistils as frayed growth within stochastic, reductionist computer music.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether a fraying process gives triplet derailment a distinct route into Carried's self-emptying rupture, or merely doubles the breakdown."
+        "attributedDescription": "Juno describes Mid Point as a serene, spacious sound with a broken beat and widescreen outlook; those terms remain attributed prose rather than measured feeling.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the broken-beat stage gives Worn Down a useful release before Atlantis converts micro-repetition into continuum, or weakens the direct weight-to-continuum relation."
       }
     },
     {
-      "artist": "tuuun",
-      "track": "it doesn't need to be so complicated",
-      "album": "the future made me hardcore",
-      "releaseDate": "2026",
+      "artist": "50DIX",
+      "track": "If U Want 2",
+      "album": "Go Ahead! EP",
+      "releaseDate": "2025-03-03",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/the-future-made-me-hardcore",
-      "fitHypothesis": "Its documented curdled synth voices and nuanced modulation make it a credible exact identity question, not an inferred transition.",
+      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
+      "fitHypothesis": "The exact combination of frenzied drums and soothing pads offers an overlooked broken-world tension without relying on genre prestige.",
       "proposedPlacements": [
         {
-          "position": "Between Tides Alternate and Serpentine Tale",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether its long-form modulation makes opposed-speed balance arrive differently before Serpentine Tale, or delays the existing low-slung consequence."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat attributes curdled synth voices to this exact ten-minute track within a set of fast, minimal, modulating techno tracts.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its long-form modulation makes opposed-speed balance arrive differently before Serpentine Tale, or delays the existing low-slung consequence."
-      }
-    },
-    {
-      "artist": "Evelyne / Masao",
-      "track": "Alien Go Home",
-      "album": "TESTPATTERN",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/testpattern",
-      "fitHypothesis": "The exact archival track's documented punkier DIY-electronic stance offers a clear production-world left-turn question.",
-      "proposedPlacements": [
-        {
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether this DIY-electronic left turn changes rolling formation into a stronger precondition for bodily deformation, or interrupts a concise functional handoff."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Dark Entries' notes identify Alien Go Home as a quirky track with a punkier continental DIY-electronic ethos.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether this DIY-electronic left turn changes rolling formation into a stronger precondition for bodily deformation, or interrupts a concise functional handoff."
-      }
-    },
-    {
-      "artist": "tendencyitis",
-      "track": "Fronds",
-      "album": "Batch 0013",
-      "releaseDate": "2026",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://boomkat.com/products/batch-0013-b4646a12-7dcd-43eb-8bf2-35a321b2ec73",
-      "fitHypothesis": "Its individually described chaotic overlap of searching sounds is a concrete structural-freedom proposition.",
-      "proposedPlacements": [
-        {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "position": "Between Crawl and Fulledge (Empty-40 Mix)",
+          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether chaotic searching changes dead-space descent into a distinct condition for restrained re-entry, or crowds an already proportionate late passage."
+          "purpose": "Test whether its opposed materials sharpen sustained motion into Fulledge's dissolution, or insert another foreground conflict before a direct break."
         }
       ],
       "evidence": {
@@ -333,9 +230,111 @@
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Boomkat describes Fronds as a chaotic overlap of searching, flapping sounds within stochastic computer music.",
-        "craftConvention": "Attributed exact-track evidence supports a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether chaotic searching changes dead-space descent into a distinct condition for restrained re-entry, or crowds an already proportionate late passage."
+        "attributedDescription": "Juno describes If U Want 2 through frenzied drums and soothing pads within a footwork, UK bass, funk, jazz and acid blend.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its opposed materials sharpen sustained motion into Fulledge's dissolution, or insert another foreground conflict before a direct break."
+      }
+    },
+    {
+      "artist": "DJ Sodeyama",
+      "track": "Atlas",
+      "album": "VVAA008",
+      "releaseDate": "2026-09-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "Its exact streamlined rolling construction with phased movement offers a current continuation test rather than a claim that smoothness is inherently useful.",
+      "proposedPlacements": [
+        {
+          "position": "Between Style Teef and Same Way",
+          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether its shifting roller translates frazzled grid pressure into Same Way's body-pressure hinge, or adds a complete scene before an existing threshold."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Atlas as a streamlined roller with phased lines shifting through the mix and psychedelic colour bubbling through the bass.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its shifting roller translates frazzled grid pressure into Same Way's body-pressure hinge, or adds a complete scene before an existing threshold."
+      }
+    },
+    {
+      "artist": "Anthony Naples",
+      "track": "Perk",
+      "album": "Los Totes Vol 3",
+      "releaseDate": "2026-09-10",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
+      "fitHypothesis": "Its exact bouncy, drum-laden weight is a credible adjacent-club proposition for rhythmic physicality without assuming a canonical role.",
+      "proposedPlacements": [
+        {
+          "position": "Between Same Way and U Belong 2 Me",
+          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Perk changes body pressure into a more elastic preparation for U Belong 2 Me's threshold, or redundantly extends the foreground stage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes Perk as bouncy and drum-laden within an imaginative club-focused compilation spanning Colombian and adjacent rhythmic approaches.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Perk changes body pressure into a more elastic preparation for U Belong 2 Me's threshold, or redundantly extends the foreground stage."
+      }
+    },
+    {
+      "artist": "COW",
+      "track": "Dead Air",
+      "album": "Open The Closed",
+      "releaseDate": "2026-09-08",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/",
+      "fitHypothesis": "Its individually described unsettled endpoint offers a second exact current proposition from an EP organized around movement instead of one fixed sound.",
+      "proposedPlacements": [
+        {
+          "position": "Between Nukumori and Jjochstubn",
+          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Dead Air changes Nukumori's flare into a distinct unsettled condition before Jjochstubn's damaged residue, or over-articulates the late descent."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno says Dead Air leaves the release feeling unsettled within a tense, unpredictable techno set that still has somewhere to go.",
+        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Dead Air changes Nukumori's flare into a distinct unsettled condition before Jjochstubn's damaged residue, or over-articulates the late descent."
       }
     }
   ]
