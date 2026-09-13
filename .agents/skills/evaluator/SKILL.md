@@ -104,6 +104,8 @@ For each selected candidate, compare the planned placement and principal blocker
 
 A repeated boundary can still be the best placement, and a specific decision-critical unknown can still justify PARK. The requirement is an explicit information-gain rationale, not novelty for its own sake.
 
+When a target's activated evidence guard applies, verify that a same-release multi-candidate set carries differentiated exact-track evidence or materially different lawful audio evidence before evaluating it as a group. If it does not, return the selection defect to Scout rather than manufacturing differentiated verdicts. A properly selected candidate may still PARK when its individual uncertainty is decision-critical; never convert that UNKNOWN to FAIL or lower the ADD bar to close the repair.
+
 ## Relaxation-first rule
 The Evaluator makes the decision. Never assign A/B comparisons, rankings, prescribed sessions or required subjective confirmation. Natural listener feedback may reopen any ADD later.
 

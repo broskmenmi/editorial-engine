@@ -148,6 +148,18 @@ When repeated PARK outcomes are driven by the same evidence gap or the same smal
 
 This repair changes search and evaluation discipline, not the ADD bar. It never authorizes padding, forced novelty or automatic admission.
 
+#### Activated post-recurrence evidence guard
+
+When two completed discovery runs within the previous five produce two or more PARK outcomes apiece from the same shared release-level description gap, the next run is REPAIR. Record the affected runIds, exact candidates and common decision-critical unknown before another ordinary EXPLORE.
+
+After activation, the next outward scan:
+- may allocate at most one selected-candidate slot per release when the available musical evidence is only shared release-level framing;
+- must prefer exact-track evidence about individual direction, development or endpoint when honest alternatives exist;
+- may select multiple tracks from one release only when each has differentiated exact-track evidence or materially different lawful audio evidence that makes the comparison informative;
+- must keep PARK valid when an individual uncertainty remains decision-critical and must not convert UNKNOWN to FAIL.
+
+This is a temporary information-quality guard, not an artist, label, texture, role or stylistic diversity quota. It creates no ADD pressure and does not disqualify any track from future consideration. Auditor closes the repair only after a completed outward scan demonstrates higher candidate-specific information quality or a candidate-specific reason that shared framing remains the strongest honest evidence.
+
 The Run 55–85 drought is historical evidence of this failure mode and must remain visible in comparative analysis rather than being forgotten after one successful ADD.
 
 ## Inspiration layer

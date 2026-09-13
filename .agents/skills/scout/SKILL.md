@@ -90,6 +90,8 @@ If repeated PARK outcomes share one decision-critical evidence gap, prefer top-r
 
 This is an information-gain rule, not a diversity quota. It does not disqualify shared release prose, repeated boundaries, subtle continuations or adjacent styles; it prevents the resolver's scarce selected slots from reproducing the same unanswered question by habit.
 
+If two completed discovery runs within the previous five each PARK two or more selected candidates because shared release-level framing cannot distinguish individual direction, development or endpoint, stop ordinary EXPLORE and execute the target's evidence-diversity REPAIR. On the next outward scan after activation, allocate at most one selected-candidate slot per release when shared release-level framing is the only musical evidence. Multiple selections from one release require differentiated exact-track evidence or materially different lawful audio evidence that makes the comparison informative. This is a temporary information-quality guard, not a musical-diversity quota or a veto on any track.
+
 ## Procedure
 1. Pre-audit `under-review.md`, `notes.md`, `revisit.md`, recent discoveries and the current ledger.
 2. In REPAIR, search the concrete repair target. In EXPLORE, search all three source families freshly.

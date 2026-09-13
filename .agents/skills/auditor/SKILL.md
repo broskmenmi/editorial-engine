@@ -118,6 +118,8 @@ After a repair for repeated evidence or placement search, require the next compl
 
 Success means higher information quality, not necessarily an ADD. If the run reproduces the same blockers without a candidate-specific reason, keep the repair open rather than treating each PARK as fresh musical evidence.
 
+Trigger the target's post-recurrence evidence guard when two completed discovery runs within the previous five each PARK two or more selected candidates because shared release-level framing cannot distinguish individual direction, development or endpoint. Confirm the repair record names the affected runIds and candidates. On the next outward scan, reject more than one selected candidate from a release when shared release-level framing is the only musical evidence, unless differentiated exact-track evidence or materially different lawful audio evidence makes the comparison informative. Treat this as an information-quality control, never as an ADD quota, musical-diversity requirement or global rejection.
+
 ## Resolver integrity
 New requests must use schemaVersion 2, fresh runId, current pre-request `sourceCommit`, one to nine honest `leads`, and no request-side candidates. Require matching terminal `scout-data.json` and valid fingerprint.
 

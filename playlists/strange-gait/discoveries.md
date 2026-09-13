@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 220 — REPAIR — activate the post-recurrence evidence guard — 2026-09-13
+
+- **runId:** `2026-09-13T17:59:17Z-repair-220`
+- **trigger:** Runs 211 and 219 each PARKED three exact selected candidates because shared release-level descriptions could not distinguish individual direction, development or endpoint. The six affected candidates were François X — *Bound State*, *Bones & Harmony* and *Type X*; EDC — *EDC1_1* and *EDC1_3*; and Stefàn Dubs — *Lion Last*.
+- **objective defect:** Within the previous five comparable completed discovery runs, scarce selected-candidate slots twice reproduced the same release-level evidence gap across different placements. The candidate verdicts remain valid; the repeated evidence-selection pattern is one actionable workflow-health defect.
+- **repair:** Hardened the target automation plus Scout, Evaluator and Auditor contracts. After this recurrence, the next outward scan may select at most one candidate per release when shared release-level framing is the only musical evidence; multiple selections require differentiated exact-track evidence or materially different lawful audio evidence. Scout must prefer candidate-specific direction/development/endpoint sources when honest alternatives exist; Evaluator returns noncompliant grouped selections rather than manufacturing differentiated verdicts; Auditor keeps the repair open until a completed outward scan demonstrates higher information quality or a candidate-specific reason for the remaining gap.
+- **scope:** This is a temporary information-quality guard, not an artist, label, texture, role or stylistic diversity quota. It creates no ADD pressure, does not lower the canonical bar, does not convert UNKNOWN to FAIL and does not reject or reopen any track.
+- **Auditor:** APPROVED. The repair is proportional to the documented recurrence and preserves all canonical, protected, listener-feedback, rejected, revisit and utility states.
+- **state change:** Four workflow contracts changed. No musical verdict, canonical identity, annotation, order, local inspiration item or global utility membership changed.
+
+### Run analysis
+
+`2 clustered completed runs → 6 exact PARKED candidates with one shared evidence gap → 1 actionable workflow-health defect → 4 contract updates → 0 musical decisions`
+
+The strongest counterargument is that different placements make the six PARK outcomes independent. They remain independent candidate decisions, but the repeated inability to distinguish tracks selected from a shared release frame is a process-level recurrence under the existing contract. The repair addresses what earns a scarce selected slot; it does not prejudge the tracks or demand an ADD.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 219 — EXPLORE — shared release framing cannot choose an individual consequence — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 441 contiguous unique tracks. Automatic publishing was enabled. Run 218's two duplicate outcomes remained documented as non-actionable and were not reopened.
