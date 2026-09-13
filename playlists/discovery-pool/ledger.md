@@ -441,6 +441,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 435 | Evelyne / Masao | Bird Island | spotify:track:33tUejOKSsAB2zs6GRXzMk | STRANGE GAIT Run 213 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 436 | Evelyne / Masao | Alien Go Home | spotify:track:2QEN0HNAbxBVkpnrpzSxZI | STRANGE GAIT Run 213 | Placement-specific REJECT / interesting | 2026-09-13 |
 
+| 437 | 710 Exit | Strat | spotify:track:67kL1WG0ZgayqcyvAvhsDX | STRANGE GAIT Run 214 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 438 | 50Dix | IF U WANT 2 | spotify:track:1GwYTxRVL5uhtUGVmmkT4s | STRANGE GAIT Run 214 | ADD / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

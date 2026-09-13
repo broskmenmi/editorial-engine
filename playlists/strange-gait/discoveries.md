@@ -1,5 +1,69 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 214 — EXPLORE — opposed materials can give dissolution a concrete object — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 436 contiguous unique tracks. Automatic publishing was enabled.
+
+**Fresh exploration:** Run `2026-09-13T14:50:53Z-explore-214` inspected approximately 64 named tracks and releases across Juno's 75-release September 7–13 techno field, the emerging Umay/GZI-remix and TraTraTrax window, and an overlooked electro/techno catalogue window. Completed Runs 209–213 fields and failed Run 212 identities were excluded. The nine planned placements avoided the selected-candidate boundaries from the previous five completed discovery runs. Nine honest leads survived without padding. Three leads nevertheless returned `already present in persistent state`; this is a scan-execution miss caught by the resolver, not a musical result or a contract defect.
+
+- **runId:** `2026-09-13T14:50:53Z-explore-214`
+- **sourceCommit:** `c8101f51632a65ef33f440e15b483ab312119766`
+- **request commit:** `1200d75b4493b22d11ac9bb68b422c590e8c6b61`
+- **snapshot commit:** `b2acac4193fd914991980ef0b663c7360eb38afa`
+- **request fingerprint:** `18cf02b342557be701c3d05f80d30c48eebb4712702e9029479a0486757430c0`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 2 exact resolutions and selected candidates, 7 unresolved/duplicate outcomes, no alternates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+- COW — *Velvet*: `already present in persistent state`
+- Alexander Kowalski — *Sinee - GZI Remix*: `no exact Spotify title/artist search match in market SE`
+- Acid Jesus — *Radium*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6KeYis9QFXDLVVhCwjEyjq, 49qnMDKK9Y6yVIaPFxKcIL, 0lkmmIS2EjKOTRPb3Qq2md)`
+- PS11 — *Mid Point*: `no exact Spotify title/artist search match in market SE`
+- DJ Sodeyama — *Atlas*: `no exact Spotify title/artist search match in market SE`
+- Anthony Naples — *Perk*: `already present in persistent state`
+- COW — *Dead Air*: `already present in persistent state`
+
+Warnings preserved exactly:
+
+- 710 Exit — *Strat*: `Exact title/artist matched with release metadata variance: album requested "Close To The Sun" but Spotify returned "Close To The Sun E.P."; release date requested "2026-06-18" but Spotify returned "2026-06-22"`
+- 50DIX — *If U Want 2*: `Exact title/artist matched with release metadata variance: album requested "Go Ahead! EP" but Spotify returned "Go Ahead!"; release date requested "2025-03-03" but Spotify returned "2024-11-06"`
+
+### Canonical evaluations
+
+#### 710 Exit — Strat — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:67kL1WG0ZgayqcyvAvhsDX`; 455,500 ms; BPM unresolved.
+- **Volume fit:** PASS. Juno's exact-track account describes warped guitar and soul samples acting almost like a voice over an understated infectious funk groove.
+- **Immediate transition:** FAIL only at `Serpentine Tale → candidate → Too Much Time`. The evidence supplies a complete 7:35 funk-mediated scene but no endpoint that changes Too Much Time's renewed-widening task.
+- **Three-to-five-track run:** FAIL proportionally for `Tides Alternate → Serpentine Tale → candidate → Too Much Time → Freepass for Them`. The insertion prolongs the already held consequence before widening and groove pivot.
+- **Long-form journey:** FAIL at this placement. Another extended scene makes the early passage more elaborate without a demonstrated downstream gain. This is not a global rejection.
+- **Unknowns:** exact handoffs, BPM, phrase structure, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain unknown.
+
+#### 50Dix — IF U WANT 2 — provisional ADD
+
+- **Exact identity:** `spotify:track:1GwYTxRVL5uhtUGVmmkT4s`; 257,700 ms; BPM unresolved.
+- **Volume fit:** PASS. Juno's exact-track account documents frenzied drums against soothing pads within a footwork/UK-bass/funk/jazz/acid context.
+- **Immediate transition:** provisional PASS at `Crawl → candidate → Fulledge (Empty-40 Mix)`. The documented opposition creates a concrete conflicted state for Fulledge's existing fake-out dissolution to break.
+- **Three-to-five-track run:** PASS provisionally for `Raataja → Crawl → candidate → Fulledge (Empty-40 Mix) → Capa`: burst/disappearance, sustained motion, concise opposed material, metric dissolution and rhythmic redirection.
+- **Long-form journey:** PASS provisionally. At 4:17.7 the new stage sharpens the passage's object of dissolution without imposing a chapter template or relying on close tempo.
+- **Unknowns:** exact entry, exit, BPM, phrase structure, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain unknown. They are not decision-critical under the best available evidence because the candidate's documented internal opposition supplies a specific purpose and no known evidence contradicts it.
+
+### Auditor approval
+
+**APPROVED.** The schemaVersion 2 request and matching terminal PARTIAL snapshot agree on runId, sourceCommit, mode, target and fingerprint. Nine requested outcomes equal two unique selected exact candidates plus seven preserved duplicate/unresolved outcomes. Both candidates were separately tested for volume fit, immediate transitions, a five-track run and long-form effect. The ADD is provisional and does not convert metadata into measured feeling or mixability; the rejection is placement-specific. The resolver's three duplicate-state outcomes expose one execution-quality miss but do not invalidate the exact candidates or require a workflow-contract REPAIR after one occurrence. The protected trio, feedback boundaries and live/canonical separation remain intact.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 55 canonical tracks**, adding *IF U WANT 2* at position 22.
+- 710 Exit — *Strat* is retained as an exact placement-specific reject.
+- EDITORIAL ENGINE — DISCOVERY POOL: **436 → 438**, adding both exact evaluated identities.
+- Five unresolved/ambiguous search outcomes and three duplicate-state outcomes are preserved without musical verdicts.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 64 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved/duplicate outcomes → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. Inspection-to-lead conversion was 14.1%; resolution yield was 22.2%; selected-candidate-to-ADD conversion was 50%. Across completed discovery Runs 87–214, excluding process repairs and failed runs including Run 212: **963 leads from approximately 5,817 inspections; 40 ADDs from 290 selected candidates**. The recent comparable ADD rate becomes **3/10**; Run 214 ends the five-completed-run no-ADD streak after Run 207. Twelve exact interesting tracks were retained during that streak before this run's two. The duplicate-state misses weaken confidence in Scout exclusion execution but were caught transparently and did not contaminate evaluation. The run proves that a fresh catalogue exact track can improve one current passage under best-available evidence; it does not verify either handoff, BPM, perceived pulse, energy, density, phrase fit or live mixability.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 213 — EXPLORE — an added scene must change the consequence — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 433 contiguous unique tracks. Automatic publishing was enabled.

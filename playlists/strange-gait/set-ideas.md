@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 214
+
+### Give dissolution a concrete object
+
+**Direction:** A concise intermediate stage can earn its place when its documented internal opposition creates a specific state for the next track to dissolve, rather than merely adding another rhythmic vocabulary.
+
+**Ingredients:**
+
+- Vladislav Delay — *Raataja* → DjRUM — *Crawl* — existing burst/disappearance into sustained motion
+- 50Dix — *IF U WANT 2* — exact 4:17.7 identity; documented frenzied drums against soothing pads
+- Demdike Stare — *Fulledge (Empty-40 Mix)* → Nørbak — *Capa* — existing fake-out dissolution into redirection
+- 710 Exit — *Strat* — exact extended funk-mediated counterexample, rejected only before *Too Much Time*
+
+**Why interesting:** The productive intermediate does not simply narrate change. It gives the following breakdown a more precise object, while the extended counterexample shows how a compelling scene can still overlengthen a held passage.
+
+**Boundary:** This is an editorial set direction, not a proven live-mixing edge. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain untested.
+
 ## Current additions — Run 213
 
 ### An added scene must change the consequence

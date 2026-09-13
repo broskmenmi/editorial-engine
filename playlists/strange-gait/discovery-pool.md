@@ -1,5 +1,14 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 214 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / ADD | 50Dix | IF U WANT 2 | `spotify:track:1GwYTxRVL5uhtUGVmmkT4s` · https://open.spotify.com/track/1GwYTxRVL5uhtUGVmmkT4s · https://www.juno.co.uk/electro/back-cat/ | Added canonically between *Crawl* and *Fulledge (Empty-40 Mix)*; the exact 4:17.7 drum/pad opposition gives metric dissolution a concrete object. Added globally. Metadata warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | 710 Exit | Strat | `spotify:track:67kL1WG0ZgayqcyvAvhsDX` · https://open.spotify.com/track/67kL1WG0ZgayqcyvAvhsDX · https://www.juno.co.uk/electro/back-cat/ | Rejected only at `Serpentine Tale → candidate → Too Much Time`; the exact 7:35.5 warped-guitar/soul-sample funk construction remains genuinely interesting. Added globally. Metadata warning preserved. |
+| UNRESOLVED / DUPLICATE OUTCOMES | COW; Alexander Kowalski; Acid Jesus; PS11; DJ Sodeyama; Anthony Naples | Velvet; Sinee - GZI Remix; Radium; Mid Point; Atlas; Perk; Dead Air | See discoveries.md Run 214 for exact resolver errors. | Three identities were already present in persistent state; four remained unresolved or ambiguous. None receives a new musical verdict or utility row. |
+| WATCH | Umay; Damage Music/GZI; 710 Exit/Il Corpo | Current/emerging/remix and overlooked catalogue windows | Sources above and https://www.juno.co.uk/techno/this-week/ | Continue only as distinct source windows; no release-level identity or inferred sonic fact is promoted. |
+
 ## Run 213 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -10,6 +10,7 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| 710 Exit | Strat | Run 214 rejects only `Serpentine Tale → candidate → Too Much Time`. Its exact 7:35.5 warped-guitar, soul-sample and understated-funk construction remains interesting, but it prolongs the already held low-slung consequence before renewed widening without a demonstrated downstream gain. | 2026-09-13 |
 | Evelyne / Masao | Sakuramochi | Run 213 rejects only `Stadium Drive → candidate → Marauder`. The exact 6:09.671 intricate-minimalist melodic scene remains interesting, but it adds a second full overture after Stadium Drive's assembly without demonstrating a changed task for Marauder. | 2026-09-13 |
 | Evelyne / Masao | Bird Island | Run 213 rejects only `Té de Cabello Blanco → candidate → Ikoyi`. The exact 4:49.081 archival melodic construction remains interesting, but its endpoint does not demonstrate a changed dissolution task for Ikoyi. | 2026-09-13 |
 | Evelyne / Masao | Alien Go Home | Run 213 rejects only `FELT → candidate → Thick to Handle`. The exact 5:49.589 punkier DIY-electronic scene remains interesting, but it interrupts the concise formation-to-deformation relation without a demonstrated downstream change. | 2026-09-13 |
