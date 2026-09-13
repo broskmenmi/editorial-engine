@@ -7,7 +7,7 @@
       "The scan covered current releases, adjacent/emerging artists and labels, and overlooked or newly contextualized catalogue material. Nine exact-title leads survived without padding.",
       "Every placement pair was re-derived from the current 52-track ledger and checked for adjacency. The protected Transparency → When We Froze → Stardancer sequence remains untouched.",
       "No Spotify connector, raw audio, audio-feature inference or invented identity was used.",
-      "Recovery of Run 194 preserves the same ranked musical field; only invalid canonical neighbour URI references were corrected from the current ledger."
+      "Failed Runs 194 and 195 are preserved separately as REQUEST_NOT_COMPLETED; this standalone request uses the same fresh field with exact current-ledger placement URIs."
     ],
     "rankedLeadSummary": [
       "1. FAUZIA — I Can be anything",
@@ -25,7 +25,7 @@
       "ADJACENT / EMERGING WINDOW: FAUZIA's official July 17 EP and Resident Advisor review supplied exact song-form evidence crossing jungle, downtempo, guitar and spatial rhythmic construction. https://fauzia.bandcamp.com/ · https://ra.co/reviews/36363",
       "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: Resident Advisor's April 2026 exact-track review and Warp's official release context supplied Boards of Canada's drumless Tape 05 structure. https://ra.co/reviews/36346 · https://warp.net/artists/boards-of-canada"
     ],
-    "timestampUtc": "2026-09-13T01:03:00Z"
+    "timestampUtc": "2026-09-13T01:07:30Z"
   },
   "leads": [
     {
@@ -424,10 +424,8 @@
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-13T01:03:00Z-explore-195",
+  "runId": "2026-09-13T01:07:30Z-explore-196",
   "schemaVersion": 2,
-  "sourceCommit": "efadaf251fca28144e3c6c82bfe2a7aa09713812",
-  "target": "playlists/strange-gait",
-  "recoveryOfRunId": "2026-09-13T00:51:26Z-explore-194",
-  "recoveryReason": "Run 194 REQUEST_NOT_COMPLETED because multiple proposed-placement URIs were not exact current canonical identities; this recovery preserves the same fresh field and corrects only those URI references from the current ledger."
+  "sourceCommit": "4018c002325252662018fe30a8d9b5b89609edf1",
+  "target": "playlists/strange-gait"
 }
