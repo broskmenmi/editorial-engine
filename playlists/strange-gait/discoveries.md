@@ -1,154 +1,12 @@
-## Run 202 — EXPLORE — electro and nonlinear catalogue identity-loss scan — 2026-09-13
+## Repair Run 204 — utility table continuity — 2026-09-13
 
-**Pre-audit:** STRANGE GAIT entered with 52 unique canonical tracks, an exact-order 52-track / 51-transition map, no active listener discussion or current TRIGGERED revisit, and protected `Transparency → When We Froze → Stardancer` at positions 44–46. Repair Run 200 was completed and Run 201 found no further actionable workflow defect. Automatic publishing remained enabled. EDITORIAL ENGINE — DISCOVERY POOL entered with 415 exact tracks and a matching COMPLETE receipt.
+**runId:** `2026-09-13T06:05:30Z-repair-204`
 
-### Exploration receipt
+Finalization of Run 203 found one objective publication defect: a blank line before global utility row 416 terminated the Markdown table, so the parser correctly failed closed with `Ledger contains a track row after table termination on row 423.` Repair Run 204 removes only that blank line, restoring rows 1–418 as one contiguous table. It also restores Run 203 to newest-first position in this history after the prior header boundary placed it below Run 200. No Spotify identity, canonical verdict, placement, BPM, order, protected state or utility membership changes.
 
-- **runId:** `2026-09-13T04:52:23Z-explore-202`
-- **sourceCommit:** `3777bc78887ab423b664eac972a78dab0fecc502`
-- **request commit:** `b3d7b6a7515f95deb54e20804f78e092fc5cb463`
-- **snapshot commit:** `3f1f0b792624c66abb6b4e5c814a1135c88b6425`
-- **request fingerprint:** `7a9f006174e7164449b85c3226dba6d416d49b1a3d8fd0fa0bfb0724a0dbbe3f`
-- **scope:** approximately 58 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 electro and experimental/electronic windows, Freaking Tricks, Kyiv label Lisosmuha, Studio Barnhus, EC Underground and Keplar's remastered Arovane catalogue; written metadata and attributed descriptions only; no audio audition.
-- **repetition break:** every planned boundary avoided Runs 197, 198 and 201 placements and the recurring `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live` cluster. Top slots contrasted straight repeated-vocal insistence, harsh broken percussion and overlooked nonlinear/proto-dubstep catalogue work.
-- **resolver:** internally valid schemaVersion 2 `NONE`; nine requested, zero exact resolutions and zero candidates; no warnings, duplicates, alternates, substitutions, relinkings or technical failures.
+**Auditor approval:** APPROVED. Global row numbers are contiguous 1–418, all Spotify URIs are unique, the three Run 203 rows remain exact and unchanged, STRANGE GAIT remains 53 tracks with *Serpentine Tale* at position 16, and the protected trio remains positions 45–47.
 
-### Resolver outcomes preserved
-
-All nine leads remain unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
-
-1. Nick Fasoli — *Express Thyself*
-2. Lisovskyi — *Dyr Dyr*
-3. Arovane — *Revart Amx*
-4. Nick Fasoli — *All You*
-5. Vitya Payal'nik — *Zikr Atagi*
-6. MOLO — *Fluff*
-7. Arovane — *Nonlin R*
-8. MOLO — *Bump*
-9. Xorsia — *Cash For Sex*
-
-Sources: https://www.juno.co.uk/electro/this-week/ · https://www.juno.co.uk/experimental-electronic/this-week/
-
-### Auditor approval
-
-**APPROVED.** The immutable request and terminal snapshot match on schemaVersion, runId, sourceCommit, mode, target, exploration receipt and fingerprint. Nine requested identities reconcile to nine explicit unresolved outcomes and zero candidates. The `NONE` status is lawful because every lookup completed normally; no credential, network, rate-limit, Spotify 5xx, malformed-snapshot or stale-input failure occurred. No candidate received an ADD, PARKED or REJECT verdict. The fresh receipt clears the Scout lead floor without low-conversion warning, the repetition check is explicit, the protected trio remains untouched, and no global utility addition is authorized.
-
-### Durable result
-
-- STRANGE GAIT remains **52 canonical tracks** with no reorder or annotation change.
-- The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 44–46.
-- All nine unresolved identities are retained locally as research and release/catalogue watches only.
-- EDITORIAL ENGINE — DISCOVERY POOL remains **415 exact tracks**.
-- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
-
-**RUN ANALYSIS:** Approximately 58 inspected → 9 ranked leads → 0 exact resolutions + 9 unresolved → 0 evaluations → **0 ADD** → 0 utility additions. Inspection-to-lead conversion is **15.5%**; resolution yield is **0%**; selected-candidate-to-ADD conversion is not applicable because no candidate existed. Across completed discovery Runs 87–202, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **882 leads from approximately 5,255 inspections; 37 ADDs from 267 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak is seven completed runs after Run 191, with 15 exact interesting selected tracks retained before this zero-resolution run.
-
-The strongest concern is that a second recent `NONE` result increases the contribution of identity loss to the no-ADD streak. That concern is real, but every lookup completed normally and the nine leads came from a fresh, coherent non-techno-only field; Spotify-SE absence is not a technical resolver failure or an Evaluator veto. The run proves that the exact-identity gate worked and that the repaired ranking did not recycle recent boundaries. It does not test whether these tracks fit canonically, prove playlist maturity, establish that the music fails STRANGE GAIT, or justify another workflow REPAIR yet.
-
-## Run 201 — EXPLORE — post-repair evidence-and-placement test — 2026-09-13
-
-**Pre-audit:** Run 200 completed an Auditor-confirmed workflow REPAIR for repeated direction/endpoint PARK blockers and repetitive placement search. STRANGE GAIT entered with 52 unique canonical tracks, an exact-order 52-track / 51-transition map, no active listener discussion or current TRIGGERED revisit, and protected `Transparency → When We Froze → Stardancer` at positions 44–46. Automatic publishing remained enabled. EDITORIAL ENGINE — DISCOVERY POOL entered with 412 unique exact tracks and a matching COMPLETE receipt.
-
-### Exploration receipt
-
-- **runId:** `2026-09-13T03:58:56Z-explore-201`
-- **sourceCommit:** `f929ea85a3d06a3fc13a97c86f5b0b4d727d0a69`
-- **request commit:** `63a0a0d70e540346d738048e33cbdd70d669edbd`
-- **snapshot commit:** `53b22a35320c115b05558d108dcf97dbad080363`
-- **request fingerprint:** `8fbb274b73ce18816c79901423df94d7e309bb0b5cde1a0db2de8e01f262801f`
-- **scope:** approximately 64 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 techno window, current Monnom Black and Michigander releases, Clergy's emerging split series, Eddie Richards' remastered catalogue circulation, related labels and adjacent electro, dub-techno, minimal, acid and broken-pattern material; written metadata and attributed descriptions only; no audio audition.
-- **repetition break:** the top three tests used exact-track movement evidence and avoided the recent `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live` cluster.
-- **resolver:** internally valid schemaVersion 2 PARTIAL; nine requested, four exact resolutions, three selected candidates, one exact alternate and five unresolved; four metadata-variance warnings; no duplicates, substitutions, relinkings or technical failures.
-
-### Resolver outcomes preserved
-
-Selected exact candidates:
-
-1. **Pierce — Detachment** — `spotify:track:3pN6V1C5K9igkOUpOiH3ev`; Spotify *Clergy Splits [04-B]*, `2026-08-28`, 4:50.
-2. **Lars Huismann — Neon Shadows** — `spotify:track:1HIwSTvQBj2XXQuvepRjDB`; Spotify *System Collapse*, `2026-09-04`, 6:15.
-3. **Franco Rossi — Radias** — `spotify:track:6gFlZUkk2OsmPx3F1AdlZS`; Spotify *Clergy Splits [04-A]*, `2026-08-21`, 5:31.
-
-Exact alternate, unselected and unevaluated:
-
-- **Lars Huismann — Atonal** — `spotify:track:674bZyacKuuVOWsZRDWl7s`.
-
-Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
-
-- Luke Hess, Brian Kage — *Northward*
-- Eddie Richards — *Destiny*
-- Luke Hess, Brian Kage — *Tenebrous*
-- Franco Rossi — *Alma Matter*
-- Eddie Richards — *The Soul*
-
-Warnings preserved exactly:
-
-- Pierce — *Detachment*: `Exact title/artist matched with release metadata variance: album requested "Clergy Splits 04" but Spotify returned "Clergy Splits [04-B]"; release date requested "2026-08-27" but Spotify returned "2026-08-28"`
-- Lars Huismann — *Neon Shadows*: `Exact title/artist matched with release metadata variance: album requested "System Collapse EP" but Spotify returned "System Collapse"; release date requested "2026-09-03" but Spotify returned "2026-09-04"`
-- Franco Rossi — *Radias*: `Exact title/artist matched with release metadata variance: album requested "Clergy Splits 04" but Spotify returned "Clergy Splits [04-A]"; release date requested "2026-08-27" but Spotify returned "2026-08-21"`
-- Lars Huismann — *Atonal*: `Exact title/artist matched with release metadata variance: album requested "System Collapse EP" but Spotify returned "System Collapse"; release date requested "2026-09-03" but Spotify returned "2026-09-04"`
-
-### Canonical evaluations
-
-#### Pierce — Detachment — placement-specific REJECT
-
-- **Volume fit:** PASS. Juno's exact-track description identifies a nervy, twitching acid construction. Technique alone does not authorize admission, but the unstable form belongs under the selection lens.
-- **Immediate transition:** FAIL at `Té de Cabello Blanco → candidate → Ikoyi`. The source phrase “shuts down” describes its position as the release closer; it is not treated as measured endpoint evidence. What is concrete is that another twitching stage would intervene between Té de Cabello Blanco's provisional false stability and Ikoyi's documented gradual dissolution.
-- **Three-to-five-track run:** FAIL for `Drummz → Té de Cabello Blanco → candidate → Ikoyi → Amor`. The candidate adds another articulated instability before the existing dissolution-and-mutation consequence rather than changing either neighbour's work.
-- **Long form:** FAIL for this placement only. A 4:50 insertion increases segmentation in an already fully articulated late-middle passage without a distinct journey gain.
-- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
-
-#### Lars Huismann — Neon Shadows — placement-specific REJECT
-
-- **Volume fit:** PASS. Juno's exact-track description of continuous unsettled movement is directly relevant; “speedy” and “anxious” remain attributed language rather than measured energy.
-- **Immediate transition:** FAIL at `Capa → candidate → Sarniezz`. The candidate would prolong movement after Capa before Sarniezz's purposeful live-band pulse-illusion left turn.
-- **Three-to-five-track run:** FAIL for `Fulledge → Capa → candidate → Sarniezz → Never Met`. Its 6:15 continuously mobile stage prepares and delays a contrast that is already legible directly from Capa into Sarniezz.
-- **Long form:** FAIL for this placement only. The addition would turn a conspicuous left turn into a second prepared arrival without opening a materially different downstream possibility.
-- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
-
-#### Franco Rossi — Radias — placement-specific REJECT
-
-- **Volume fit:** PASS. Juno documents scratchy textures, off-grid synth motifs and a cut-loose action; this is exact-track form evidence, not a claim about phrase fit or mixability.
-- **Immediate transition:** plausible but not sufficient at `Never Met → candidate → Trompe L'oeil`. Radias could give Trompe L'oeil a more explicit instability to reset, but the current direct passing-foreground-to-staggered-reset relation already has a clear consequence.
-- **Three-to-five-track run:** FAIL proportionally for `Sarniezz → Never Met → candidate → Trompe L'oeil → FELT`. Another 5:31 loosening stage over-articulates the move from pulse illusion and transit into reset and formation.
-- **Long form:** FAIL for this placement only. The documented action is interesting, but the insertion lengthens an established transformation without changing its destination.
-- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
-
-### Auditor approval
-
-**APPROVED.** The immutable request and terminal snapshot match on schemaVersion, runId, sourceCommit, mode, target and fingerprint. Nine requested identities reconcile to four exact resolutions plus five unresolved; four exact resolutions reconcile to three selected candidates plus one unevaluated alternate. All four warnings and five exact resolver errors are preserved. Each selected candidate was evaluated separately at volume-fit, immediate-transition, local-run and long-form scales. UNKNOWN was not converted into PARK: all three decisions rest on specific proportional conflicts in fresh placements. The protected trio remains untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
-
-### Durable result
-
-- STRANGE GAIT remains **52 canonical tracks** with no reorder.
-- The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 44–46.
-- Pierce — *Detachment*, Lars Huismann — *Neon Shadows* and Franco Rossi — *Radias* are retained locally and globally as exact interesting placement-specific rejects.
-- Five unresolved leads are retained locally as research. *Atonal* remains an exact, unselected, unevaluated alternate and is not retained in the global utility ledger.
-- EDITORIAL ENGINE — DISCOVERY POOL increases **412 → 415 exact tracks**.
-- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
-
-**RUN ANALYSIS:** Approximately 64 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 exact alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **14.1%**; resolution yield is **44.4%**; selected-candidate-to-ADD conversion is **0/3**. Across completed discovery Runs 87–201, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **873 leads from approximately 5,197 inspections; 37 ADDs from 267 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak is six completed runs after Run 191, with 15 exact interesting selected tracks retained.
-
-The strongest alternative explanation is playlist maturity: at 52 tracks, even relevant exact forms may fail because existing passages already have proportionate consequences. This run strengthens that explanation and weakens the repeated-epistemic-veto diagnosis: exact-track movement evidence and fresh boundaries produced three decisive placement-specific rejections, no PARKED outcomes and no repeated UNKNOWN cascade. The repair therefore improves information quality without forcing an ADD. It does not prove these tracks lack another home, that STRANGE GAIT is complete, or that direct audio would confirm the paper transitions.
-
-## Run 200 — REPAIR — repeated evidence-gap and placement-search loop — 2026-09-13
-
-**runId:** `2026-09-13T03:52:11Z-repair-200`
-
-### Auditor-confirmed defect
-
-The five completed discovery runs after Run 191 produced 12 exact genuinely interesting selected tracks and no canonical ADD. Eight of those 12 were PARKED. The dominant blocker repeated: shared or incomplete descriptions did not establish individual direction or endpoint. The same small boundary set also recurred, especially `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live`. Run 198 then lost all nine leads at identity resolution. The no-ADD count alone is not the defect; the retained-interest inventory, eight similar PARK outcomes and recycled boundary questions together establish repeated epistemic and placement-search behavior under workflow-health causes 5–6.
-
-### Repair
-
-The target automation and Scout, Evaluator and Auditor contracts now require a five-run repetition check. After repeated PARK outcomes, the next scan must prefer decision-specific exact-track direction/development/endpoint evidence when honest alternatives exist, avoid a recently repeated boundary unless materially new candidate evidence justifies it, and rank scarce selected slots for information gain as well as canonical potential. Repetition remains allowed when candidate-specific evidence supports it; no boundary-diversity quota, ADD quota, novelty requirement or lower admission bar is created.
-
-### Auditor approval
-
-**APPROVED process repair.** The change addresses the evidenced workflow loop without altering canonical music, protected/frozen state, listener authority, resolver identity rules, publication semantics or the distinction between UNKNOWN and FAIL. STRANGE GAIT remains 52 tracks; EDITORIAL ENGINE — DISCOVERY POOL remains 412 tracks. Audio analysis and live mixing are **NOT TESTED**.
-
-**RUN ANALYSIS:** Five completed post-Run-191 discovery runs → 12 exact retained selected tracks → 8 PARKED with repeated direction/endpoint gaps + recurring boundary hypotheses → 1 actionable workflow/process defect → 4 coherent contract updates → 0 musical verdicts, canonical changes or utility additions. This repair proves the repetition is now explicit and testable; it does not prove that any parked track belongs canonically or that the playlist is immature.
-
-# STRANGE GAIT — Discovery Log
+**RUN ANALYSIS:** 1 publication-ledger continuity defect + 1 discovery-log ordering defect → 2 representation repairs → 0 musical decisions → canonical 53 and utility 418 memberships unchanged.
 
 ## Run 203 — EXPLORE — low-slung consequence after opposed-speed balance — 2026-09-13
 
@@ -7117,4 +6975,156 @@ The unresolved `Suspension of Disbelief` lead receives no ADD/REJECT/REVISIT ver
 - Journey-map annotations: add Pulse I as provisional Track 9 / crooked-accumulation hinge and renumber downstream positional labels; generated map outputs are left to GitHub Actions.
 - Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
 
-**RUN ANALYSIS:** Approximately 34 inspected → 3 ranked leads → 2 exact resolutions + 1 unresolved → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. The pre-run stagnation count was **31 consecutive runs without a canonical ADD**, last ADD Run 54. Run 86 ends that drought; it is the first ADD in 32 runs counting Runs 55–86. The important workflow finding is not that the bar should be looser: repeated prior evaluations had effectively promoted missing direct handoff audio from an uncertainty into a veto, even though the repository permits provisional best-evidence sequencing. Pulse I clears the bar because its exact evidence supplies a concrete transition-scale purpose, a coherent local-run function and a long-form gain without touching protected state. A Dull Knife demonstrates the opposite: interesting exact discovery value does not override an unsupported placement. The run does not prove Pulse I's live transition or phrase fit, does not globally reject A Dull Knife, and does not prove STRANGE GAIT is complete.
+**RUN ANALYSIS:** Approximately 34 inspected → 3 ranked leads → 2 exact resolutions + 1 unresolved → 2 evaluations → **1 ADD + 1 placement-specific REJECT** → 2 utility additions. The pre-run stagnation count was **31 consecutive runs without a canonical ADD**, last ADD Run 54. Run 86 ends that drought; it is the first ADD in 32 runs counting Runs 55–86. The important workflow finding is not that the bar should be looser: repeated prior evaluations had effectively promoted missing direct handoff audio from an uncertainty into a veto, even though the repository permits provisional best-evidence sequencing. Pulse I clears the bar because its exact evidence supplies a concrete transition-scale purpose, a coherent local-run function and a long-form gain without touching protected state. A Dull Knife demonstrates the opposite: interesting exact discovery value does not override an unsupported placement. The run does not prove Pulse I's live transition or phrase fit, does not globally reject A Dull Knife, and does not prove STRANGE GAIT is complete.## Run 202 — EXPLORE — electro and nonlinear catalogue identity-loss scan — 2026-09-13
+
+**Pre-audit:** STRANGE GAIT entered with 52 unique canonical tracks, an exact-order 52-track / 51-transition map, no active listener discussion or current TRIGGERED revisit, and protected `Transparency → When We Froze → Stardancer` at positions 44–46. Repair Run 200 was completed and Run 201 found no further actionable workflow defect. Automatic publishing remained enabled. EDITORIAL ENGINE — DISCOVERY POOL entered with 415 exact tracks and a matching COMPLETE receipt.
+
+### Exploration receipt
+
+- **runId:** `2026-09-13T04:52:23Z-explore-202`
+- **sourceCommit:** `3777bc78887ab423b664eac972a78dab0fecc502`
+- **request commit:** `b3d7b6a7515f95deb54e20804f78e092fc5cb463`
+- **snapshot commit:** `3f1f0b792624c66abb6b4e5c814a1135c88b6425`
+- **request fingerprint:** `7a9f006174e7164449b85c3226dba6d416d49b1a3d8fd0fa0bfb0724a0dbbe3f`
+- **scope:** approximately 58 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 electro and experimental/electronic windows, Freaking Tricks, Kyiv label Lisosmuha, Studio Barnhus, EC Underground and Keplar's remastered Arovane catalogue; written metadata and attributed descriptions only; no audio audition.
+- **repetition break:** every planned boundary avoided Runs 197, 198 and 201 placements and the recurring `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live` cluster. Top slots contrasted straight repeated-vocal insistence, harsh broken percussion and overlooked nonlinear/proto-dubstep catalogue work.
+- **resolver:** internally valid schemaVersion 2 `NONE`; nine requested, zero exact resolutions and zero candidates; no warnings, duplicates, alternates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+All nine leads remain unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+1. Nick Fasoli — *Express Thyself*
+2. Lisovskyi — *Dyr Dyr*
+3. Arovane — *Revart Amx*
+4. Nick Fasoli — *All You*
+5. Vitya Payal'nik — *Zikr Atagi*
+6. MOLO — *Fluff*
+7. Arovane — *Nonlin R*
+8. MOLO — *Bump*
+9. Xorsia — *Cash For Sex*
+
+Sources: https://www.juno.co.uk/electro/this-week/ · https://www.juno.co.uk/experimental-electronic/this-week/
+
+### Auditor approval
+
+**APPROVED.** The immutable request and terminal snapshot match on schemaVersion, runId, sourceCommit, mode, target, exploration receipt and fingerprint. Nine requested identities reconcile to nine explicit unresolved outcomes and zero candidates. The `NONE` status is lawful because every lookup completed normally; no credential, network, rate-limit, Spotify 5xx, malformed-snapshot or stale-input failure occurred. No candidate received an ADD, PARKED or REJECT verdict. The fresh receipt clears the Scout lead floor without low-conversion warning, the repetition check is explicit, the protected trio remains untouched, and no global utility addition is authorized.
+
+### Durable result
+
+- STRANGE GAIT remains **52 canonical tracks** with no reorder or annotation change.
+- The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 44–46.
+- All nine unresolved identities are retained locally as research and release/catalogue watches only.
+- EDITORIAL ENGINE — DISCOVERY POOL remains **415 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 58 inspected → 9 ranked leads → 0 exact resolutions + 9 unresolved → 0 evaluations → **0 ADD** → 0 utility additions. Inspection-to-lead conversion is **15.5%**; resolution yield is **0%**; selected-candidate-to-ADD conversion is not applicable because no candidate existed. Across completed discovery Runs 87–202, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **882 leads from approximately 5,255 inspections; 37 ADDs from 267 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak is seven completed runs after Run 191, with 15 exact interesting selected tracks retained before this zero-resolution run.
+
+The strongest concern is that a second recent `NONE` result increases the contribution of identity loss to the no-ADD streak. That concern is real, but every lookup completed normally and the nine leads came from a fresh, coherent non-techno-only field; Spotify-SE absence is not a technical resolver failure or an Evaluator veto. The run proves that the exact-identity gate worked and that the repaired ranking did not recycle recent boundaries. It does not test whether these tracks fit canonically, prove playlist maturity, establish that the music fails STRANGE GAIT, or justify another workflow REPAIR yet.
+
+## Run 201 — EXPLORE — post-repair evidence-and-placement test — 2026-09-13
+
+**Pre-audit:** Run 200 completed an Auditor-confirmed workflow REPAIR for repeated direction/endpoint PARK blockers and repetitive placement search. STRANGE GAIT entered with 52 unique canonical tracks, an exact-order 52-track / 51-transition map, no active listener discussion or current TRIGGERED revisit, and protected `Transparency → When We Froze → Stardancer` at positions 44–46. Automatic publishing remained enabled. EDITORIAL ENGINE — DISCOVERY POOL entered with 412 unique exact tracks and a matching COMPLETE receipt.
+
+### Exploration receipt
+
+- **runId:** `2026-09-13T03:58:56Z-explore-201`
+- **sourceCommit:** `f929ea85a3d06a3fc13a97c86f5b0b4d727d0a69`
+- **request commit:** `63a0a0d70e540346d738048e33cbdd70d669edbd`
+- **snapshot commit:** `53b22a35320c115b05558d108dcf97dbad080363`
+- **request fingerprint:** `8fbb274b73ce18816c79901423df94d7e309bb0b5cde1a0db2de8e01f262801f`
+- **scope:** approximately 64 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 techno window, current Monnom Black and Michigander releases, Clergy's emerging split series, Eddie Richards' remastered catalogue circulation, related labels and adjacent electro, dub-techno, minimal, acid and broken-pattern material; written metadata and attributed descriptions only; no audio audition.
+- **repetition break:** the top three tests used exact-track movement evidence and avoided the recent `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live` cluster.
+- **resolver:** internally valid schemaVersion 2 PARTIAL; nine requested, four exact resolutions, three selected candidates, one exact alternate and five unresolved; four metadata-variance warnings; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Selected exact candidates:
+
+1. **Pierce — Detachment** — `spotify:track:3pN6V1C5K9igkOUpOiH3ev`; Spotify *Clergy Splits [04-B]*, `2026-08-28`, 4:50.
+2. **Lars Huismann — Neon Shadows** — `spotify:track:1HIwSTvQBj2XXQuvepRjDB`; Spotify *System Collapse*, `2026-09-04`, 6:15.
+3. **Franco Rossi — Radias** — `spotify:track:6gFlZUkk2OsmPx3F1AdlZS`; Spotify *Clergy Splits [04-A]*, `2026-08-21`, 5:31.
+
+Exact alternate, unselected and unevaluated:
+
+- **Lars Huismann — Atonal** — `spotify:track:674bZyacKuuVOWsZRDWl7s`.
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Luke Hess, Brian Kage — *Northward*
+- Eddie Richards — *Destiny*
+- Luke Hess, Brian Kage — *Tenebrous*
+- Franco Rossi — *Alma Matter*
+- Eddie Richards — *The Soul*
+
+Warnings preserved exactly:
+
+- Pierce — *Detachment*: `Exact title/artist matched with release metadata variance: album requested "Clergy Splits 04" but Spotify returned "Clergy Splits [04-B]"; release date requested "2026-08-27" but Spotify returned "2026-08-28"`
+- Lars Huismann — *Neon Shadows*: `Exact title/artist matched with release metadata variance: album requested "System Collapse EP" but Spotify returned "System Collapse"; release date requested "2026-09-03" but Spotify returned "2026-09-04"`
+- Franco Rossi — *Radias*: `Exact title/artist matched with release metadata variance: album requested "Clergy Splits 04" but Spotify returned "Clergy Splits [04-A]"; release date requested "2026-08-27" but Spotify returned "2026-08-21"`
+- Lars Huismann — *Atonal*: `Exact title/artist matched with release metadata variance: album requested "System Collapse EP" but Spotify returned "System Collapse"; release date requested "2026-09-03" but Spotify returned "2026-09-04"`
+
+### Canonical evaluations
+
+#### Pierce — Detachment — placement-specific REJECT
+
+- **Volume fit:** PASS. Juno's exact-track description identifies a nervy, twitching acid construction. Technique alone does not authorize admission, but the unstable form belongs under the selection lens.
+- **Immediate transition:** FAIL at `Té de Cabello Blanco → candidate → Ikoyi`. The source phrase “shuts down” describes its position as the release closer; it is not treated as measured endpoint evidence. What is concrete is that another twitching stage would intervene between Té de Cabello Blanco's provisional false stability and Ikoyi's documented gradual dissolution.
+- **Three-to-five-track run:** FAIL for `Drummz → Té de Cabello Blanco → candidate → Ikoyi → Amor`. The candidate adds another articulated instability before the existing dissolution-and-mutation consequence rather than changing either neighbour's work.
+- **Long form:** FAIL for this placement only. A 4:50 insertion increases segmentation in an already fully articulated late-middle passage without a distinct journey gain.
+- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
+
+#### Lars Huismann — Neon Shadows — placement-specific REJECT
+
+- **Volume fit:** PASS. Juno's exact-track description of continuous unsettled movement is directly relevant; “speedy” and “anxious” remain attributed language rather than measured energy.
+- **Immediate transition:** FAIL at `Capa → candidate → Sarniezz`. The candidate would prolong movement after Capa before Sarniezz's purposeful live-band pulse-illusion left turn.
+- **Three-to-five-track run:** FAIL for `Fulledge → Capa → candidate → Sarniezz → Never Met`. Its 6:15 continuously mobile stage prepares and delays a contrast that is already legible directly from Capa into Sarniezz.
+- **Long form:** FAIL for this placement only. The addition would turn a conspicuous left turn into a second prepared arrival without opening a materially different downstream possibility.
+- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
+
+#### Franco Rossi — Radias — placement-specific REJECT
+
+- **Volume fit:** PASS. Juno documents scratchy textures, off-grid synth motifs and a cut-loose action; this is exact-track form evidence, not a claim about phrase fit or mixability.
+- **Immediate transition:** plausible but not sufficient at `Never Met → candidate → Trompe L'oeil`. Radias could give Trompe L'oeil a more explicit instability to reset, but the current direct passing-foreground-to-staggered-reset relation already has a clear consequence.
+- **Three-to-five-track run:** FAIL proportionally for `Sarniezz → Never Met → candidate → Trompe L'oeil → FELT`. Another 5:31 loosening stage over-articulates the move from pulse illusion and transit into reset and formation.
+- **Long form:** FAIL for this placement only. The documented action is interesting, but the insertion lengthens an established transformation without changing its destination.
+- **Verdict:** REJECT this placement only; retain the exact track as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and terminal snapshot match on schemaVersion, runId, sourceCommit, mode, target and fingerprint. Nine requested identities reconcile to four exact resolutions plus five unresolved; four exact resolutions reconcile to three selected candidates plus one unevaluated alternate. All four warnings and five exact resolver errors are preserved. Each selected candidate was evaluated separately at volume-fit, immediate-transition, local-run and long-form scales. UNKNOWN was not converted into PARK: all three decisions rest on specific proportional conflicts in fresh placements. The protected trio remains untouched. Auditor approves three placement-specific rejections, local inspiration retention and three global utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **52 canonical tracks** with no reorder.
+- The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 44–46.
+- Pierce — *Detachment*, Lars Huismann — *Neon Shadows* and Franco Rossi — *Radias* are retained locally and globally as exact interesting placement-specific rejects.
+- Five unresolved leads are retained locally as research. *Atonal* remains an exact, unselected, unevaluated alternate and is not retained in the global utility ledger.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **412 → 415 exact tracks**.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 64 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 evaluations + 1 exact alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **14.1%**; resolution yield is **44.4%**; selected-candidate-to-ADD conversion is **0/3**. Across completed discovery Runs 87–201, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **873 leads from approximately 5,197 inspections; 37 ADDs from 267 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak is six completed runs after Run 191, with 15 exact interesting selected tracks retained.
+
+The strongest alternative explanation is playlist maturity: at 52 tracks, even relevant exact forms may fail because existing passages already have proportionate consequences. This run strengthens that explanation and weakens the repeated-epistemic-veto diagnosis: exact-track movement evidence and fresh boundaries produced three decisive placement-specific rejections, no PARKED outcomes and no repeated UNKNOWN cascade. The repair therefore improves information quality without forcing an ADD. It does not prove these tracks lack another home, that STRANGE GAIT is complete, or that direct audio would confirm the paper transitions.
+
+## Run 200 — REPAIR — repeated evidence-gap and placement-search loop — 2026-09-13
+
+**runId:** `2026-09-13T03:52:11Z-repair-200`
+
+### Auditor-confirmed defect
+
+The five completed discovery runs after Run 191 produced 12 exact genuinely interesting selected tracks and no canonical ADD. Eight of those 12 were PARKED. The dominant blocker repeated: shared or incomplete descriptions did not establish individual direction or endpoint. The same small boundary set also recurred, especially `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live`. Run 198 then lost all nine leads at identity resolution. The no-ADD count alone is not the defect; the retained-interest inventory, eight similar PARK outcomes and recycled boundary questions together establish repeated epistemic and placement-search behavior under workflow-health causes 5–6.
+
+### Repair
+
+The target automation and Scout, Evaluator and Auditor contracts now require a five-run repetition check. After repeated PARK outcomes, the next scan must prefer decision-specific exact-track direction/development/endpoint evidence when honest alternatives exist, avoid a recently repeated boundary unless materially new candidate evidence justifies it, and rank scarce selected slots for information gain as well as canonical potential. Repetition remains allowed when candidate-specific evidence supports it; no boundary-diversity quota, ADD quota, novelty requirement or lower admission bar is created.
+
+### Auditor approval
+
+**APPROVED process repair.** The change addresses the evidenced workflow loop without altering canonical music, protected/frozen state, listener authority, resolver identity rules, publication semantics or the distinction between UNKNOWN and FAIL. STRANGE GAIT remains 52 tracks; EDITORIAL ENGINE — DISCOVERY POOL remains 412 tracks. Audio analysis and live mixing are **NOT TESTED**.
+
+**RUN ANALYSIS:** Five completed post-Run-191 discovery runs → 12 exact retained selected tracks → 8 PARKED with repeated direction/endpoint gaps + recurring boundary hypotheses → 1 actionable workflow/process defect → 4 coherent contract updates → 0 musical verdicts, canonical changes or utility additions. This repair proves the repetition is now explicit and testable; it does not prove that any parked track belongs canonically or that the playlist is immature.
+
+# STRANGE GAIT — Discovery Log
+
+
