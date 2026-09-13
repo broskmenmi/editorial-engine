@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 198
+
+### Preserve identity uncertainty across differentiated forms
+
+**Direction:** Use track-specific release writing to compare formal opposition, return, redirection and version differences, while keeping Spotify identity uncertainty separate from musical interest.
+
+**Ingredients:**
+
+- Scope — *Antinomy* and *Pivot* — current exact-title research leads with opposing and returning roles inside *Mire*; unresolved in Spotify market SE
+- Gary Martin — *Pimping People In High Places* (Woodward Ave mix and album mix) — newly reissued, mix-specific Detroit catalogue research; unresolved in Spotify market SE
+- Nicolas Amaro — *Citizen Ene*, *TN (feat. Lafed)* and *Enfesti* — differentiated emerging-artist exact-title leads; unresolved in Spotify market SE
+- Extrawelt — *How Much Is The Quiche?* and *Between Two Days* — current electro-techno leads with multiple exact Spotify matches that the requested release metadata did not disambiguate
+
+**Why interesting:** A release can document several distinct structural gestures without proving that any exact identity is available or that the release's internal contrast maps onto the canonical journey. Keeping those layers separate preserves useful discovery while preventing invented sequence evidence.
+
+**Boundary:** This is an inspiration and programming direction, not a proven canonical sequence or live-mixing edge. None of the nine tracks was resolved or evaluated; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 197
 
 ### Preserve endpoint uncertainty

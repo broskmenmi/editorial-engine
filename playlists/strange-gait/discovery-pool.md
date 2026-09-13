@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 198 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| RESEARCH LEADS / UNRESOLVED | Scope | Antinomy; Pivot | https://www.juno.co.uk/techno/charts/bestsellers/this-week/?items_per_page=500 | Track-specific current Non Series leads; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Gary Martin | Pimping People In High Places (Woodward Ave mix); Pimping People In High Places (album mix) | source above | Mix-specific early-2000s Detroit catalogue leads recontextualized by the August 2026 reissue; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Nicolas Amaro | Citizen Ene; TN (feat. Lafed); Enfesti | source above | Three differentiated tracks from the artist's first solo Outside In EP; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / AMBIGUOUS | Extrawelt | How Much Is The Quiche?; Between Two Days | https://www.juno.co.uk/products/extrawelt-jamborghini-ep-vinyl/1170532-01/ | Exact title/artist search returned two identities for each track that the requested release metadata did not disambiguate: `4I5YwRb7aRQRYnSaNvewrP, 2yoyiY8P4403oxzyxHZchS` and `27lxLh4AUURBHOGbPUbrMT, 07xSVedMLEZEtV4FoJ5SsA`. No identity was guessed; no verdict or utility addition. |
+| RELEASE / LABEL WATCH | Non Series; DET 313; Outside In; Turbo Canada | Mire; Pimping People In High Places; Citizen Complexities; Jamborghini EP | sources above | Current, emerging and newly reissued windows with differentiated structural descriptions. Release context remains research evidence, not a Spotify identity or canonical verdict. |
+| SET DIRECTION | — | Preserve identity uncertainty across differentiated forms | Run 198 research only | Compare track-specific turns, returns and alternate mixes without converting release-level contrast into a sequence claim. |
+
+### Placement and inspiration boundaries
+
+- Resolution completed normally with zero exact identities; all nine leads remain unevaluated and receive no ADD, REJECT or PARKED verdict.
+- The two Extrawelt titles remain ambiguous, and the other seven remain unavailable as exact title/artist matches in Spotify market SE.
+- No unresolved or ambiguous lead enters EDITORIAL ENGINE — DISCOVERY POOL.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability was inferred.
+
 ## Run 197 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
