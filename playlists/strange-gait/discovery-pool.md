@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 193 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Rezzett | Dread | `spotify:track:0HjiFQ4Xrpk3bM72rmu55H` · https://open.spotify.com/track/0HjiFQ4Xrpk3bM72rmu55H · https://rezzett.bandcamp.com/album/into-the-boiling-darks | Exact 218,000-ms identity; PARKED only at *Raataja → Crawl*. Alternate at *Rabbit Hole → Can I live* rejected. Added globally. |
+| EXACT TRACK / PARKED | Rezzett | Fling It | `spotify:track:5pCPONxKPMlJrrvzK4339N` · https://open.spotify.com/track/5pCPONxKPMlJrrvzK4339N · source above | Exact 150,000-ms identity; PARKED only at *Rabbit Hole → Can I live*. Alternate at *Raataja → Crawl* rejected. Added globally. |
+| EXACT TRACK / PARKED | Rezzett | Third Shoe | `spotify:track:3CtgjcZIas1CYnUsx7NBtg` · https://open.spotify.com/track/3CtgjcZIas1CYnUsx7NBtg · source above | Exact 184,888-ms identity; PARKED only at *Raataja → Crawl*. Alternate at *Rabbit Hole → Can I live* rejected. Added globally. |
+| EXACT ALTERNATES / UNEVALUATED | Rezzett | Clangerz; Bliss Up | `spotify:track:1xmoyAFEyAsf93WPNdihbf`; `spotify:track:6nr1SJx33r8EJ1CQCmPqxx` | Resolver-confirmed only; not selected, evaluated, retained globally or assigned canonical verdicts. |
+| UNRESOLVED LEADS | Guy From Downstairs | Ayy!; Them Roots; The Son Of Knuf; Sub Conscious | https://www.juno.co.uk/products/guy-from-downstairs-the-son-of-knuf-vinyl/1161282-01/ | Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | GFD; Rezzett | The Son Of Knuf; Into the Boiling Darks | https://www.juno.co.uk/products/guy-from-downstairs-the-son-of-knuf-vinyl/1161282-01/ · https://rezzett.bandcamp.com/album/into-the-boiling-darks | Current cross-tempo/dub-rooted vinyl field and a 21-track expansion of three-year London/Estonia jams. |
+| SET DIRECTION | — | Short form still needs a consequence | target-local idea only | Let concise tracks compete for sequence space, but require individual direction and endpoint evidence before treating duration as connective. Not a proven sequence or live edge. |
+
+### Placement and inspiration boundaries
+
+- The three selected Rezzett tracks are independently PARKED and not treated as interchangeable.
+- Three alternate placements are rejected only at the documented boundaries; no track is globally rejected.
+- The four unresolved Guy From Downstairs titles receive no musical verdict or utility entry; two Rezzett alternates remain unevaluated.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability was inferred.
+
 ## Run 192 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

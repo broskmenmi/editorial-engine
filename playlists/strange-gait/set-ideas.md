@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 193
+
+### Let short form earn consequence
+
+**Direction:** Explore concise exact tracks as possible intermediate turns at established boundaries, while refusing to treat short duration or a shared jam-archive description as proof of connection.
+
+**Ingredients:**
+
+- Rezzett — *Dread* and *Third Shoe* — exact PARKED identities at the *Raataja → Crawl* boundary
+- Rezzett — *Fling It* — exact PARKED identity at the *Rabbit Hole → Can I live* boundary
+- Rezzett — *Clangerz* and *Bliss Up* — exact resolver-confirmed alternates, unselected and unevaluated
+- Guy From Downstairs — *The Son Of Knuf* EP — four current Spotify-SE-unresolved titles with cross-tempo, dub-rooted and 808-focused track writing
+
+**Why interesting:** Concision can reduce proportional cost without establishing a transition. The useful question is whether an exact short form changes both neighbouring relations, not whether it is brief enough to fit between them.
+
+**Unknown / risk:** This is not a proven sequence or live-mixing edge. Individual rhythm, direction, endpoint, both handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and mixability remain unknown for the selected tracks. The alternates were not evaluated and the Guy From Downstairs titles remain unresolved.
+
 ## Current additions — Run 192
 
 ### Let quieter continuation remain a candidate, not an assumption

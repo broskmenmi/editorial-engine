@@ -1,5 +1,77 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 193 — EXPLORE — exact short forms, underdescribed tracks — 2026-09-13
+
+**runId:** `2026-09-12T23:53:29Z-explore-193`
+
+### Pre-audit and lane
+
+Pre-audit found no actionable REPAIR: STRANGE GAIT had 52 unique canonical tracks; the generated map matched the ledger; the protected `Transparency → When We Froze → Stardancer` sequence remained contiguous at positions 44–46; no active listener discussion, current TRIGGERED revisit, objective defect or authorized listener repair existed; and both publication receipts were COMPLETE. The lane was therefore EXPLORE.
+
+Approximately 60 named tracks, releases, reviews and catalogue references were inspected across live September 2026 Juno, Resident Advisor and Bandcamp windows, Guy From Downstairs' current self-released EP, REZZETT's current expanded jam archive and current inside-out boundaries. Runs 169–192 fields and every recorded canonical, evaluated, parked, rejected, unresolved, alternate or utility identity were excluded. Nine exact-title leads survived without padding.
+
+### Resolver integrity
+
+The immutable schemaVersion 2 request was written against sourceCommit `c71fdc94f4f609d0d5778f7d73ba37a0dfafe1cc` at request commit `8f52daed9122ce6205243214cc47d173b384901b`. The matching snapshot at `fd03e3299e02325f48cb996ab61b551ac639dd52` is internally valid and `PARTIAL`: **9 requested = 3 selected exact resolutions + 2 exact unselected alternates + 4 unresolved leads**. There were no warnings, duplicates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+- Rezzett — *Dread* — `spotify:track:0HjiFQ4Xrpk3bM72rmu55H` — 218,000 ms.
+- Rezzett — *Fling It* — `spotify:track:5pCPONxKPMlJrrvzK4339N` — 150,000 ms.
+- Rezzett — *Third Shoe* — `spotify:track:3CtgjcZIas1CYnUsx7NBtg` — 184,888 ms.
+
+Exact unselected and unevaluated alternates:
+
+- Rezzett — *Clangerz* — `spotify:track:1xmoyAFEyAsf93WPNdihbf`.
+- Rezzett — *Bliss Up* — `spotify:track:6nr1SJx33r8EJ1CQCmPqxx`.
+
+Each unresolved Guy From Downstairs lead returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- *Ayy!*
+- *Them Roots*
+- *The Son Of Knuf*
+- *Sub Conscious*
+
+They remain unresolved without musical verdict or utility entry.
+
+### Candidate evaluation — Rezzett — Dread
+
+- **Volume fit:** provisional PASS. REZZETT's official page confirms this exact short-form identity within a current 21-track digital expansion of three years of London/Estonia jams and describes the collection collectively as unkempt but meticulous. That release-level frame supports the selection lens but does not establish this track's individual behavior.
+- **Immediate transition:** PARKED at `Raataja → candidate → Crawl`. The exact 3:38 identity makes the intervention concrete, while rhythm, direction, endpoint and both handoffs remain undocumented.
+- **Surrounding three-to-five-track run:** PARKED. `Moonwake → Raataja → candidate → Crawl → Fulledge (Empty-40 Mix)` could gain a short intermediate consequence after sudden disappearance or merely delay sustained re-formation.
+- **Long-form journey:** PARKED. The current evidence cannot distinguish development from displacement.
+- **Alternate placement:** REJECT only at `Rabbit Hole → candidate → Can I live`; an undocumented extra stage would over-articulate the established descent-to-re-entry relation without evidence of gain.
+
+### Candidate evaluation — Rezzett — Fling It
+
+- **Volume fit:** provisional PASS for the same exact-release frame, evaluated independently. The title and 2:30 duration do not establish gesture, energy or direction.
+- **Immediate transition:** PARKED at `Rabbit Hole → candidate → Can I live`. Its compact duration makes the question proportionally plausible, but no lawful evidence establishes whether it develops descent into restrained re-entry.
+- **Surrounding three-to-five-track run:** PARKED. `Nukumori → Rabbit Hole → candidate → Can I live → Invisible Warriors Of Light` may gain an intermediate turn or an unnecessary extra ending stage.
+- **Long-form journey:** PARKED. Shortness reduces duration cost but does not prove sequence consequence.
+- **Alternate placement:** REJECT only at `Raataja → candidate → Crawl`; an undocumented intermediary would mediate the direct disappearance-to-sustained-motion relation without a specific gain.
+
+### Candidate evaluation — Rezzett — Third Shoe
+
+- **Volume fit:** provisional PASS. Its exact 184,888-ms identity is independently confirmed, while the shared collection language does not describe its individual form.
+- **Immediate transition:** PARKED at `Raataja → candidate → Crawl`. It could make sudden absence turn through a concise event before sustained motion, or simply insert another episode.
+- **Surrounding three-to-five-track run:** PARKED. The exact identity and duration make the test concrete but do not resolve either handoff or local-run effect.
+- **Long-form journey:** PARKED. No track-specific evidence establishes a net gain.
+- **Alternate placement:** REJECT only at `Rabbit Hole → candidate → Can I live`; another underdescribed stage would lengthen the ending without proving a new consequence.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, mode, target and request fingerprint. Only the three selected exact identities were evaluated. All four unresolved identities retain their exact resolver error; both exact alternates remain unselected and unevaluated. There were no warnings, duplicates, substitutions, relinkings or technical failures. Each selected candidate received separate volume-fit, immediate-transition, three-to-five-track-run and long-form assessment. The PARKED decisions preserve exact placement questions without inventing individual form from album language, titles or duration. The three alternate-placement rejections are scoped and do not reject any track globally. The protected trio remains intact. Auditor approves the local inspiration harvest and three doctrine-free utility additions.
+
+### Durable result
+
+- STRANGE GAIT remains **52 canonical tracks**; the ledger and journey annotations do not change.
+- *Dread*, *Fling It* and *Third Shoe* are PARKED at concrete boundaries, with their weaker alternate placements rejected.
+- Target-local discovery and set-direction layers retain the three exact tracks, four unresolved research leads, two exact unevaluated alternates and two source windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **403 → 406 exact tracks**, adding all three selected identities as PARKED / interesting.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 60 inspected → 9 ranked leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → **0 ADD + 3 PARKED + 3 alternate-placement rejections** → 3 utility additions. Inspection-to-lead conversion is 15.0%; resolution yield is 55.6%; selected-candidate-to-ADD conversion is 0/3. Across completed discovery Runs 87–193, excluding process repairs and failed Runs 164, 167, 175, 177, 180 and 184: **837 leads from approximately 4,947 inspections; 37 ADDs from 258 selected candidates**. The recent comparable ADD rate becomes **3/10**; the musical no-ADD streak is two completed runs after Run 191. This run proves only that three exact current identities create unresolved placement questions; it does not infer that short tracks are connective, treat shared album language as individual evidence or reject REZZETT globally. No actionable REPAIR emerges.
+
 ## Run 192 — EXPLORE — underdescribed continuations — 2026-09-13
 
 **runId:** `2026-09-12T22:52:54Z-explore-192`

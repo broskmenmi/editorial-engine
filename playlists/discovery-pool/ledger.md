@@ -407,6 +407,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 401 | Max F | Soul Control | spotify:track:3KmITjAzlBB2uOxJm1nTTr | STRANGE GAIT Run 192 | PARKED / interesting | 2026-09-13 |
 | 402 | Max F | Zone 6 | spotify:track:36BYGXw0lseivzVDiYnRqp | STRANGE GAIT Run 192 | PARKED / interesting | 2026-09-13 |
 | 403 | Max F | Dub Select | spotify:track:2ykgteM66TViBL6jyK1EOc | STRANGE GAIT Run 192 | PARKED / interesting | 2026-09-13 |
+| 404 | Rezzett | Dread | spotify:track:0HjiFQ4Xrpk3bM72rmu55H | STRANGE GAIT Run 193 | PARKED / interesting | 2026-09-13 |
+| 405 | Rezzett | Fling It | spotify:track:5pCPONxKPMlJrrvzK4339N | STRANGE GAIT Run 193 | PARKED / interesting | 2026-09-13 |
+| 406 | Rezzett | Third Shoe | spotify:track:3CtgjcZIas1CYnUsx7NBtg | STRANGE GAIT Run 193 | PARKED / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
