@@ -1,63 +1,63 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "35cefde32740af91a1209d86b0cc1dbf0a5670b69c341ed4700ef0d48454f83e",
-  "generatedAt": "2026-09-13T20:59:49.778Z",
-  "runId": "2026-09-13T21:00:10Z-explore-223-recovery",
-  "sourceCommit": "e3524a083e0d3ad830eac57496fbf5d08d2c1a7e",
+  "requestFingerprint": "e78efb4bda0ff75e6b53e467a71782c5e981d4ebf7d6d7db8c10300805348d63",
+  "generatedAt": "2026-09-13T21:58:54.032Z",
+  "runId": "2026-09-13T21:53:08Z-explore-225",
+  "sourceCommit": "156de4defa4ea0cd4f3e890053b15a8e81ad8649",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 86 named tracks across Hard Wax's live September 2026 current/reissue field, official Bandcamp and label pages for exact-track checks, and adjacent catalogue follow-through. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 74 named tracks across current 2026 Molecular Recordings, Cold Blow and Keplar/Bandcamp windows, adjacent techno/bass review trails, and overlooked 2007–2021 catalogue reviews. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "Completed Runs 214, 217, 218, 219, 221 and 222 selected identities and tested boundaries were excluded; unresolved, duplicate, rejected and untriggered PARKED identities were not reused.",
+      "The active AWAITING CLARIFICATION region Encasadelciegoeltuerco → Carried → Tender Is The Night was frozen and excluded from every placement hypothesis; the listener-authorized Sawa removal was not reconsidered.",
+      "Completed Runs 218, 219, 221, 222 and 223 selected identities and tested boundaries were excluded; unresolved, duplicate, rejected and untriggered PARKED identities were not reused.",
       "Every exact artist/title pair below was checked against the canonical ledger, discoveries, target-local discovery pool, active rejections, PARKED revisit queue and global utility ledger before ranking; none was present.",
-      "The repetition check compared the previous five completed discovery runs (217, 218, 219, 221 and 222). None of the nine placements repeats a selected-candidate boundary from those runs.",
-      "The three strongest leads come from three releases and carry candidate-specific information. Lower-ranked leads preserve release-level evidence limits rather than inventing individual behavior.",
-      "Nine honest leads survived without padding. The protected Transparency → When We Froze → Stardancer internal order and both protected handoffs remain untouched. No Spotify connector, raw audio, invented identity or metadata-to-feeling inference was used."
+      "The repetition check found no proposed boundary matching a selected-candidate boundary from the previous five completed discovery runs. The protected Transparency → When We Froze → Stardancer internal order and both protected handoffs remain untouched.",
+      "The three strongest leads come from three releases and carry candidate-specific rhythmic or developmental evidence. Lower-ranked leads preserve current/reissue context limits rather than inventing individual behavior. Nine honest leads survived without padding; no Spotify connector or metadata-to-feeling inference was used."
     ],
     "rankedLeadSummary": [
-      "1. Shed — Rave Predator",
-      "2. Answer Code Request — Fading Shadows",
-      "3. Planetary Assault Systems — Sermon of the Light Tides",
-      "4. Infant — Piedra Lumbre",
-      "5. Suburban Knight — Midnight Sunshine",
-      "6. Mix Mup — Untitled Remix",
-      "7. CV313 — Standing Still (Reduced)",
-      "8. Uväll — Parallel Shift",
-      "9. Wax — 11110A"
+      "1. Jonny L — Piper (Overmono Remix)",
+      "2. Flore — Congos (LCY Remix)",
+      "3. Asusu — Trephine",
+      "4. Joshua Calleja — Space Metric",
+      "5. Ezekiel Honig — Displacement",
+      "6. Connective Zone — Electrons",
+      "7. Permutation — Atlas",
+      "8. CiM — Lead Point",
+      "9. Linkwood — Ignorance Is Bliss (Live Mix)"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Shed — Rave Echoes and Answer Code Request — Halo, with official candidate-specific notes checked 2026-09-13. https://shed030.bandcamp.com/album/rave-echoes ; https://answercoderequest.bandcamp.com/album/halo",
-      "ADJACENT / EMERGING WINDOW: Infant — Dustlick and Uväll — Parallel Shift on Hard Wax's current field. https://hardwax.com/",
-      "OVERLOOKED / REISSUE CATALOGUE WINDOW: Suburban Knight — Midnight Sunshine, Mix Mup — Untitled Remix, CV313 — Standing Still (Reduced), Wax — 11110A and Planetary Assault Systems — Sermon of the Light Tides. https://hardwax.com/ ; https://ostgut.bandcamp.com/track/sermon-of-the-light-tides",
-      "BROADER SURVEY: Hard Wax's live current and label-catalogue listings were scanned outward from previously unused exact identities; official artist/label pages were used where they supplied stronger individual evidence. https://hardwax.com/"
+      "CURRENT RELEASE WINDOW: Joshua Calleja — Breaking Patterns (Molecular, 2026-06-05), Ezekiel Honig — Surfaces Of A Broken Marching Band (2026 Remaster) (Keplar, 2026-06-19), and Cold Blow's Documents of Different Reality (2026-07-10), checked 2026-09-13. https://moleculartechno.bandcamp.com/album/joshua-calleja-breaking-patterns ; https://ezekiel-honig.bandcamp.com/album/surfaces-of-a-broken-marching-band-2026-remaster ; https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
+      "ADJACENT / EMERGING WINDOW: Flore / LCY and Seph review trails around percussive, cross-form techno and club music; exact-title candidates were separated from reviewer descriptions. https://ra.co/reviews/33940 ; https://ra.co/reviews/33066",
+      "OVERLOOKED CATALOGUE WINDOW: Jonny L / Overmono, Asusu, Yard and Linkwood exact-track review evidence from 2007–2021. https://ra.co/reviews/22435 ; https://ra.co/reviews/18144 ; https://ra.co/reviews/21049 ; https://ra.co/reviews/16586",
+      "BROADER SURVEY: Resident Advisor review search and official Bandcamp tracklists were scanned outward for current, adjacent and catalogue propositions without reusing the previous five completed runs' identities or boundaries."
     ],
-    "timestampUtc": "2026-09-13T20:50:45Z"
+    "timestampUtc": "2026-09-13T21:53:08Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 6,
-  "candidateCount": 3,
+  "resolvedCount": 2,
+  "candidateCount": 2,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Suburban Knight",
-      "track": "Midnight Sunshine",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4MzjEWraDkQrCAZYmDKz3N, 62p77f7Dpm7ctf6dkF3Pyr)",
+      "artist": "Jonny L",
+      "track": "Piper (Overmono Remix)",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Suburban Knight",
-        "track": "Midnight Sunshine",
-        "album": "Dark Energy",
-        "releaseDate": "2026",
+        "artist": "Jonny L",
+        "track": "Piper (Overmono Remix)",
+        "album": "Piper (Remixes)",
+        "releaseDate": "2018-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://ra.co/reviews/22435",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Midnight Sunshine as the Suburban Knight opener on the 2026 Dark Energy reissue; the source identifies the release as an essential Underground Resistance catalogue work but gives no individual form description.",
+          "attributedDescription": "Resident Advisor distinguishes Overmono's eight-minute Piper remix as a slow burn that morphs from pitter-patter into uplifting trance.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the reissued catalogue identity creates a useful re-entry between Migration and Eyes of the Wind without presuming its direction from lineage.",
+          "editorialInterpretation": "Test whether the documented internal morph gives Foundry's unstable hinge a consequential expansion before Worn Down's weight threshold, or creates a second complete transition that postpones the existing move.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -65,38 +65,38 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked Detroit catalogue proposition; historical importance justifies inspection, not sequence space.",
+        "fitHypothesis": "An overlooked broken-techno remix with candidate-specific development; its long transformation supports a serious journey test rather than automatic admission.",
         "proposedPlacements": [
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the reissued catalogue identity creates a useful re-entry between Migration and Eyes of the Wind without presuming its direction from lineage."
+            "purpose": "Test whether the documented internal morph gives Foundry's unstable hinge a consequential expansion before Worn Down's weight threshold, or creates a second complete transition that postpones the existing move."
           }
         ]
       }
     },
     {
-      "artist": "Mix Mup",
-      "track": "Untitled Remix",
+      "artist": "Flore",
+      "track": "Congos (LCY Remix)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Mix Mup",
-        "track": "Untitled Remix",
-        "album": "Workshop 34",
-        "releaseDate": "2026",
+        "artist": "Flore",
+        "track": "Congos (LCY Remix)",
+        "album": "Congos Remixes",
+        "releaseDate": "2021-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://ra.co/reviews/33940",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Mix Mup's Untitled Remix as a 10:44 track on Workshop 34 and describes the release collectively as a chilly leftfield house remix treatment; individual development and endpoint are unspecified.",
+          "attributedDescription": "Resident Advisor describes the LCY remix through layered rhythmic percussion and hammering basslines, with skittering hand drums leading the track toward a hard-dance sound.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the long remix changes Rabbit Hole's dead-space descent into Can I live's restrained re-entry, with duration treated as a proportional cost rather than a veto.",
+          "editorialInterpretation": "Test whether that candidate-specific direction turns Hypnic Jerks' acceleration crisis into a purposeful route toward Tides Alternate's opposed-speed balance, or merely adds another high-impact premise.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -104,38 +104,38 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A leftfield house/techno catalogue-remix proposition; duration and release framing are evidence, not proof of felt effect.",
+        "fitHypothesis": "A percussive techno/club proposition whose internal direction fits the selection lens; descriptive force is not treated as listener emotion or measured energy.",
         "proposedPlacements": [
           {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "position": "Between Hypnic Jerks and Tides Alternate",
+            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the long remix changes Rabbit Hole's dead-space descent into Can I live's restrained re-entry, with duration treated as a proportional cost rather than a veto."
+            "purpose": "Test whether that candidate-specific direction turns Hypnic Jerks' acceleration crisis into a purposeful route toward Tides Alternate's opposed-speed balance, or merely adds another high-impact premise."
           }
         ]
       }
     },
     {
-      "artist": "CV313",
-      "track": "Standing Still (Reduced)",
+      "artist": "Asusu",
+      "track": "Trephine",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "CV313",
-        "track": "Standing Still (Reduced)",
-        "album": "Altering Illusions [1/3]",
-        "releaseDate": "2026",
+        "artist": "Asusu",
+        "track": "Trephine",
+        "album": "Trephine",
+        "releaseDate": "2015-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://ra.co/reviews/18144",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Standing Still (Reduced) on the current Altering Illusions reissue and frames the release collectively as deep dub-techno immersion from 2012–14; exact individual behavior is not described.",
+          "attributedDescription": "Resident Advisor distinguishes Trephine as a rolling, polyrhythmic techno/bass hybrid in the Livity Sound tradition.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the reduced catalogue identity can create a lawful afterword after Invisible Warriors Of Light, keeping direction and endpoint unknown.",
+          "editorialInterpretation": "Test whether its documented rolling polyrhythm changes Pulse I's crooked accumulation into Roxellana's surge, while leaving individual endpoint and handoffs unknown.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -143,16 +143,172 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A reissued dub-techno proposition with possible long-form afterword value; immersion language is not converted into inferred hypnosis or space.",
+        "fitHypothesis": "An overlooked techno/bass hybrid with candidate-specific rhythmic identity and credible bodily relevance; lineage alone does not decide placement.",
         "proposedPlacements": [
           {
-            "position": "After Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "followingUri": null,
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its documented rolling polyrhythm changes Pulse I's crooked accumulation into Roxellana's surge, while leaving individual endpoint and handoffs unknown."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Ezekiel Honig",
+      "track": "Displacement",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Ezekiel Honig",
+        "track": "Displacement",
+        "album": "Surfaces Of A Broken Marching Band (2026 Remaster)",
+        "releaseDate": "2026-06-19",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://ezekiel-honig.bandcamp.com/album/surfaces-of-a-broken-marching-band-2026-remaster",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "The official 2026 remaster lists Displacement at 3:37 inside a record built from environmental recordings, instrumental fragments and soft electronics, guided collectively by a faint recurrent 4/4 pulse; individual behavior is not specified.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the concise current-remaster identity creates a useful lateral turn between Tides Alternate and Serpentine Tale without inferring its pulse, intimacy or direction from album-level prose.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current remaster at the muted-techno/beat-research edge; exact identity and collection context justify resolution, not placement.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 130,
+            "purpose": "Test whether the concise current-remaster identity creates a useful lateral turn between Tides Alternate and Serpentine Tale without inferring its pulse, intimacy or direction from album-level prose."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Permutation",
+      "track": "Atlas",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Permutation",
+        "track": "Atlas",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Cold Blow lists Atlas at 6:26 as a contemporary Barcelona contribution to Documents of Different Reality; the compilation framing establishes techno/electro context but no individual materials, direction or endpoint.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether this contemporary exact-title proposition creates a meaningful bridge from Style Teef's fault line into Same Way without inventing individual flow from compilation context.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A contemporary adjacent-world lead whose exact listing and curatorial context warrant resolution; prestige and compilation inclusion do not warrant admission.",
+        "proposedPlacements": [
+          {
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the reduced catalogue identity can create a lawful afterword after Invisible Warriors Of Light, keeping direction and endpoint unknown."
+            "purpose": "Test whether this contemporary exact-title proposition creates a meaningful bridge from Style Teef's fault line into Same Way without inventing individual flow from compilation context."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "CiM",
+      "track": "Lead Point",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "CiM",
+        "track": "Lead Point",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Cold Blow lists Lead Point at 5:54 and describes CiM's contribution as stylistically fused and rhythmically twitchy, drawing from hardcore and jungle as much as techno; individual development and endpoint remain unspecified.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the catalogue proposition changes the post-protected pivot from Stardancer into Migration without disturbing either protected internal handoff.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked cross-form catalogue proposition relevant to rhythmic freedom; source language is not converted into measured motion or felt effect.",
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the catalogue proposition changes the post-protected pivot from Stardancer into Migration without disturbing either protected internal handoff."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Linkwood",
+      "track": "Ignorance Is Bliss (Live Mix)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Linkwood",
+        "track": "Ignorance Is Bliss (Live Mix)",
+        "album": "Expressions",
+        "releaseDate": "2015-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://ra.co/reviews/16586",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor distinguishes Ignorance Is Bliss (Live Mix) as a Chicago jack track nuanced by a dense array of played chords.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether that exact rhythmic-and-harmonic proposition changes Fulledge's dissolution into Capa's redirection, or inserts a complete house scene without downstream gain.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked house/techno catalogue track with candidate-specific construction and adjacent-world relevance; house vocabulary is neither a veto nor a virtue.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether that exact rhythmic-and-harmonic proposition changes Fulledge's dissolution into Capa's redirection, or inserts a complete house scene without downstream gain."
           }
         ]
       }
@@ -160,189 +316,28 @@
   ],
   "warnings": [
     {
-      "artist": "Infant",
-      "track": "Piedra Lumbre",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-07-03\""
-    },
-    {
-      "artist": "Wax",
-      "track": "11110A",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"No. 11110\" but Spotify returned \"11110\"; release date requested \"2026\" but Spotify returned \"2026-05-01\""
+      "artist": "Connective Zone",
+      "track": "Electrons",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Documents of Different Reality\" but Spotify returned \"Dat Tapes\"; release date requested \"2026-07-10\" but Spotify returned \"2021-08-19\""
     }
   ],
   "outcomes": [
     {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Shed",
-        "track": "Rave Predator",
-        "album": "Rave Echoes",
-        "releaseDate": "2026-05-29",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://shed030.bandcamp.com/album/rave-echoes",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Shed's official notes distinguish Rave Predator as a sparse, steppy soundscape scattered with sharply sliced breaks; the exact track runs 4:32.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current angular techno proposition with track-specific rhythmic construction; vividness alone does not establish admission.",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage."
-          }
-        ]
-      },
-      "spotifyTrackId": "3TWdJBkUtFCJwoToOPN4NU",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Answer Code Request",
-        "track": "Fading Shadows",
-        "album": "Halo",
-        "releaseDate": "2026-06-26",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://answercoderequest.bandcamp.com/album/halo",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Answer Code Request's official notes distinguish Fading Shadows through fractured, downtempo micro-beats and angular breakbeat-derived fractals whose drum sequence keeps evolving; the exact track runs 4:25.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current structurally mobile techno/electronica proposition; atmospheric framing is not treated as a flow claim.",
-        "proposedPlacements": [
-          {
-            "position": "Between Jjochstubn and Rabbit Hole",
-            "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent."
-          }
-        ]
-      },
-      "spotifyTrackId": "50r49UidENUN3NYaGBnvJ9",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Planetary Assault Systems",
-        "track": "Sermon of the Light Tides",
-        "album": "Planetary People",
-        "releaseDate": "2026-05-15",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://ostgut.bandcamp.com/track/sermon-of-the-light-tides",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "The official track page verifies the exact identity; current release copy distinguishes it by scrambled metallic bell sequences. The exact track is listed at 6:24.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current Luke Slater techno proposition whose altered sequence language may fit the selection lens; artist stature and floor focus do not decide placement.",
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system."
-          }
-        ]
-      },
-      "spotifyTrackId": "3YPZHSb9Q648r7a4OUBBD4",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Infant",
-        "track": "Piedra Lumbre",
-        "album": "Dustlick",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Hard Wax lists Piedra Lumbre as the opening track of Infant's Dustlick and describes the mini-album collectively as carefully textured dub ambient; no individual direction or endpoint is attributed.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An emerging dub-ambient lead with credible cross-form relevance; release texture cannot prove the opener or its handoff.",
-        "proposedPlacements": [
-          {
-            "position": "Before Sawa",
-            "precedingUri": null,
-            "followingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown."
-          }
-        ]
-      },
-      "spotifyTrackId": "4HgyWBYoawjT7vKinhV58v",
-      "selected": false
-    },
-    {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Suburban Knight",
-        "track": "Midnight Sunshine",
-        "album": "Dark Energy",
-        "releaseDate": "2026",
+        "artist": "Jonny L",
+        "track": "Piper (Overmono Remix)",
+        "album": "Piper (Remixes)",
+        "releaseDate": "2018-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://ra.co/reviews/22435",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Midnight Sunshine as the Suburban Knight opener on the 2026 Dark Energy reissue; the source identifies the release as an essential Underground Resistance catalogue work but gives no individual form description.",
+          "attributedDescription": "Resident Advisor distinguishes Overmono's eight-minute Piper remix as a slow burn that morphs from pitter-patter into uplifting trance.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the reissued catalogue identity creates a useful re-entry between Migration and Eyes of the Wind without presuming its direction from lineage.",
+          "editorialInterpretation": "Test whether the documented internal morph gives Foundry's unstable hinge a consequential expansion before Worn Down's weight threshold, or creates a second complete transition that postpones the existing move.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -350,54 +345,16 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked Detroit catalogue proposition; historical importance justifies inspection, not sequence space.",
+        "fitHypothesis": "An overlooked broken-techno remix with candidate-specific development; its long transformation supports a serious journey test rather than automatic admission.",
         "proposedPlacements": [
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the reissued catalogue identity creates a useful re-entry between Migration and Eyes of the Wind without presuming its direction from lineage."
-          }
-        ]
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4MzjEWraDkQrCAZYmDKz3N, 62p77f7Dpm7ctf6dkF3Pyr)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Mix Mup",
-        "track": "Untitled Remix",
-        "album": "Workshop 34",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Hard Wax lists Mix Mup's Untitled Remix as a 10:44 track on Workshop 34 and describes the release collectively as a chilly leftfield house remix treatment; individual development and endpoint are unspecified.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the long remix changes Rabbit Hole's dead-space descent into Can I live's restrained re-entry, with duration treated as a proportional cost rather than a veto.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A leftfield house/techno catalogue-remix proposition; duration and release framing are evidence, not proof of felt effect.",
-        "proposedPlacements": [
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the long remix changes Rabbit Hole's dead-space descent into Can I live's restrained re-entry, with duration treated as a proportional cost rather than a veto."
+            "purpose": "Test whether the documented internal morph gives Foundry's unstable hinge a consequential expansion before Worn Down's weight threshold, or creates a second complete transition that postpones the existing move."
           }
         ]
       },
@@ -406,19 +363,19 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "CV313",
-        "track": "Standing Still (Reduced)",
-        "album": "Altering Illusions [1/3]",
-        "releaseDate": "2026",
+        "artist": "Flore",
+        "track": "Congos (LCY Remix)",
+        "album": "Congos Remixes",
+        "releaseDate": "2021-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://ra.co/reviews/33940",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Standing Still (Reduced) on the current Altering Illusions reissue and frames the release collectively as deep dub-techno immersion from 2012–14; exact individual behavior is not described.",
+          "attributedDescription": "Resident Advisor describes the LCY remix through layered rhythmic percussion and hammering basslines, with skittering hand drums leading the track toward a hard-dance sound.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the reduced catalogue identity can create a lawful afterword after Invisible Warriors Of Light, keeping direction and endpoint unknown.",
+          "editorialInterpretation": "Test whether that candidate-specific direction turns Hypnic Jerks' acceleration crisis into a purposeful route toward Tides Alternate's opposed-speed balance, or merely adds another high-impact premise.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -426,16 +383,54 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A reissued dub-techno proposition with possible long-form afterword value; immersion language is not converted into inferred hypnosis or space.",
+        "fitHypothesis": "A percussive techno/club proposition whose internal direction fits the selection lens; descriptive force is not treated as listener emotion or measured energy.",
         "proposedPlacements": [
           {
-            "position": "After Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "followingUri": null,
+            "position": "Between Hypnic Jerks and Tides Alternate",
+            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the reduced catalogue identity can create a lawful afterword after Invisible Warriors Of Light, keeping direction and endpoint unknown."
+            "purpose": "Test whether that candidate-specific direction turns Hypnic Jerks' acceleration crisis into a purposeful route toward Tides Alternate's opposed-speed balance, or merely adds another high-impact premise."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Asusu",
+        "track": "Trephine",
+        "album": "Trephine",
+        "releaseDate": "2015-11",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://ra.co/reviews/18144",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor distinguishes Trephine as a rolling, polyrhythmic techno/bass hybrid in the Livity Sound tradition.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether its documented rolling polyrhythm changes Pulse I's crooked accumulation into Roxellana's surge, while leaving individual endpoint and handoffs unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked techno/bass hybrid with candidate-specific rhythmic identity and credible bodily relevance; lineage alone does not decide placement.",
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its documented rolling polyrhythm changes Pulse I's crooked accumulation into Roxellana's surge, while leaving individual endpoint and handoffs unknown."
           }
         ]
       },
@@ -444,19 +439,19 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Uväll",
-        "track": "Parallel Shift",
-        "album": "HYS007",
-        "releaseDate": "2026-09-04",
+        "artist": "Joshua Calleja",
+        "track": "Space Metric",
+        "album": "Breaking Patterns",
+        "releaseDate": "2026-06-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://moleculartechno.bandcamp.com/album/joshua-calleja-breaking-patterns",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Parallel Shift on the current HYS007 compilation and describes the compilation collectively as deep, impactful techno; the exact track's individual form is not described.",
+          "attributedDescription": "Molecular Recordings lists Space Metric as the 6:44 opener of Breaking Patterns; release copy describes evolving percussion and movement across the EP but does not distinguish this track's individual direction or endpoint.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy.",
+          "editorialInterpretation": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -464,7 +459,7 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An emerging techno lead with exact current-release context; collective descriptors do not establish its consequence.",
+        "fitHypothesis": "A current techno lead from a long-running label with a credible rhythm-development context; shared EP framing remains explicitly limited.",
         "proposedPlacements": [
           {
             "position": "Between Abundance and Foundry",
@@ -473,29 +468,67 @@
             "incomingBpm": 135,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy."
+            "purpose": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior."
           }
         ]
       },
-      "spotifyTrackId": "3tJewIq0D10r423Nln9qV2",
-      "selected": false
+      "spotifyTrackId": "4ONiVfg3mkAGlzmZFCLyqS",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Ezekiel Honig",
+        "track": "Displacement",
+        "album": "Surfaces Of A Broken Marching Band (2026 Remaster)",
+        "releaseDate": "2026-06-19",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://ezekiel-honig.bandcamp.com/album/surfaces-of-a-broken-marching-band-2026-remaster",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "The official 2026 remaster lists Displacement at 3:37 inside a record built from environmental recordings, instrumental fragments and soft electronics, guided collectively by a faint recurrent 4/4 pulse; individual behavior is not specified.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the concise current-remaster identity creates a useful lateral turn between Tides Alternate and Serpentine Tale without inferring its pulse, intimacy or direction from album-level prose.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current remaster at the muted-techno/beat-research edge; exact identity and collection context justify resolution, not placement.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 130,
+            "purpose": "Test whether the concise current-remaster identity creates a useful lateral turn between Tides Alternate and Serpentine Tale without inferring its pulse, intimacy or direction from album-level prose."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Wax",
-        "track": "11110A",
-        "album": "No. 11110",
-        "releaseDate": "2026",
+        "artist": "Connective Zone",
+        "track": "Electrons",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists 11110A as the 7:09 A-side of No. 11110 and describes the release collectively as sub-heavy dub house/techno; individual development and endpoint remain unspecified.",
+          "attributedDescription": "Cold Blow lists Electrons at 5:31 and characterizes Connective Zone's contribution as a fractured bleep dream within a 2026 survey of 1990s machine soul; the source does not give individual development or endpoint.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim.",
+          "editorialInterpretation": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -503,332 +536,152 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked dub-house/techno proposition; anonymous presentation and catalogue interest do not justify admission.",
+        "fitHypothesis": "An overlooked machine-soul and bleep-techno proposition with credible structural freedom; compilation context remains attributed and non-decisive.",
         "proposedPlacements": [
           {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": 137,
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim."
+            "outgoingBpm": 136,
+            "purpose": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof."
           }
         ]
       },
-      "spotifyTrackId": "44cxZxkB7aHQvaLcn1PByH",
-      "selected": false
+      "spotifyTrackId": "69eNnnAsVfB2QCjxCIX0Uh",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Permutation",
+        "track": "Atlas",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Cold Blow lists Atlas at 6:26 as a contemporary Barcelona contribution to Documents of Different Reality; the compilation framing establishes techno/electro context but no individual materials, direction or endpoint.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether this contemporary exact-title proposition creates a meaningful bridge from Style Teef's fault line into Same Way without inventing individual flow from compilation context.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A contemporary adjacent-world lead whose exact listing and curatorial context warrant resolution; prestige and compilation inclusion do not warrant admission.",
+        "proposedPlacements": [
+          {
+            "position": "Between Style Teef and Same Way",
+            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether this contemporary exact-title proposition creates a meaningful bridge from Style Teef's fault line into Same Way without inventing individual flow from compilation context."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "CiM",
+        "track": "Lead Point",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Cold Blow lists Lead Point at 5:54 and describes CiM's contribution as stylistically fused and rhythmically twitchy, drawing from hardcore and jungle as much as techno; individual development and endpoint remain unspecified.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the catalogue proposition changes the post-protected pivot from Stardancer into Migration without disturbing either protected internal handoff.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked cross-form catalogue proposition relevant to rhythmic freedom; source language is not converted into measured motion or felt effect.",
+        "proposedPlacements": [
+          {
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "incomingBpm": 137,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the catalogue proposition changes the post-protected pivot from Stardancer into Migration without disturbing either protected internal handoff."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Linkwood",
+        "track": "Ignorance Is Bliss (Live Mix)",
+        "album": "Expressions",
+        "releaseDate": "2015-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://ra.co/reviews/16586",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Resident Advisor distinguishes Ignorance Is Bliss (Live Mix) as a Chicago jack track nuanced by a dense array of played chords.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether that exact rhythmic-and-harmonic proposition changes Fulledge's dissolution into Capa's redirection, or inserts a complete house scene without downstream gain.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked house/techno catalogue track with candidate-specific construction and adjacent-world relevance; house vocabulary is neither a veto nor a virtue.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": 137,
+            "purpose": "Test whether that exact rhythmic-and-harmonic proposition changes Fulledge's dissolution into Capa's redirection, or inserts a complete house scene without downstream gain."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "3TWdJBkUtFCJwoToOPN4NU",
-      "uri": "spotify:track:3TWdJBkUtFCJwoToOPN4NU",
-      "name": "Rave Predator",
+      "id": "4ONiVfg3mkAGlzmZFCLyqS",
+      "uri": "spotify:track:4ONiVfg3mkAGlzmZFCLyqS",
+      "name": "Space Metric",
       "artists": [
-        "Shed"
+        "Joshua Calleja"
       ],
-      "album": "Rave Echoes",
-      "releaseDate": "2026-05-29",
-      "durationMs": 272762,
-      "spotifyUrl": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU",
+      "album": "Breaking Patterns",
+      "releaseDate": "2026-06-05",
+      "durationMs": 404142,
+      "spotifyUrl": "https://open.spotify.com/track/4ONiVfg3mkAGlzmZFCLyqS",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://shed030.bandcamp.com/album/rave-echoes",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage."
-        }
-      ],
-      "fitHypothesis": "A current angular techno proposition with track-specific rhythmic construction; vividness alone does not establish admission.",
-      "evidence": {
-        "attributedDescription": "Shed's official notes distinguish Rave Predator as a sparse, steppy soundscape scattered with sharply sliced breaks; the exact track runs 4:32.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Shed",
-        "track": "Rave Predator",
-        "album": "Rave Echoes",
-        "releaseDate": "2026-05-29",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://shed030.bandcamp.com/album/rave-echoes",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Shed's official notes distinguish Rave Predator as a sparse, steppy soundscape scattered with sharply sliced breaks; the exact track runs 4:32.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current angular techno proposition with track-specific rhythmic construction; vividness alone does not establish admission.",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether its documented sparse step-and-break construction changes Thick to Handle's deformation before LOVE YOUR ENEMIES, or adds another competing-rhythm stage."
-          }
-        ]
-      }
-    },
-    {
-      "id": "50r49UidENUN3NYaGBnvJ9",
-      "uri": "spotify:track:50r49UidENUN3NYaGBnvJ9",
-      "name": "Fading Shadows",
-      "artists": [
-        "Answer Code Request"
-      ],
-      "album": "Halo",
-      "releaseDate": "2026-06-26",
-      "durationMs": 265846,
-      "spotifyUrl": "https://open.spotify.com/track/50r49UidENUN3NYaGBnvJ9",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://answercoderequest.bandcamp.com/album/halo",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Jjochstubn and Rabbit Hole",
-          "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
-          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent."
-        }
-      ],
-      "fitHypothesis": "A current structurally mobile techno/electronica proposition; atmospheric framing is not treated as a flow claim.",
-      "evidence": {
-        "attributedDescription": "Answer Code Request's official notes distinguish Fading Shadows through fractured, downtempo micro-beats and angular breakbeat-derived fractals whose drum sequence keeps evolving; the exact track runs 4:25.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Answer Code Request",
-        "track": "Fading Shadows",
-        "album": "Halo",
-        "releaseDate": "2026-06-26",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://answercoderequest.bandcamp.com/album/halo",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Answer Code Request's official notes distinguish Fading Shadows through fractured, downtempo micro-beats and angular breakbeat-derived fractals whose drum sequence keeps evolving; the exact track runs 4:25.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current structurally mobile techno/electronica proposition; atmospheric framing is not treated as a flow claim.",
-        "proposedPlacements": [
-          {
-            "position": "Between Jjochstubn and Rabbit Hole",
-            "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
-            "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether that evolving fractured construction gives Jjochstubn's contaminated disassembly a distinct precursor before Rabbit Hole, or over-explains the descent."
-          }
-        ]
-      }
-    },
-    {
-      "id": "3YPZHSb9Q648r7a4OUBBD4",
-      "uri": "spotify:track:3YPZHSb9Q648r7a4OUBBD4",
-      "name": "Sermon of the Light Tides",
-      "artists": [
-        "Planetary Assault Systems"
-      ],
-      "album": "Planetary People",
-      "releaseDate": "2026-05-15",
-      "durationMs": 383070,
-      "spotifyUrl": "https://open.spotify.com/track/3YPZHSb9Q648r7a4OUBBD4",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://ostgut.bandcamp.com/track/sermon-of-the-light-tides",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and Style Teef",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system."
-        }
-      ],
-      "fitHypothesis": "A current Luke Slater techno proposition whose altered sequence language may fit the selection lens; artist stature and floor focus do not decide placement.",
-      "evidence": {
-        "attributedDescription": "The official track page verifies the exact identity; current release copy distinguishes it by scrambled metallic bell sequences. The exact track is listed at 6:24.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Planetary Assault Systems",
-        "track": "Sermon of the Light Tides",
-        "album": "Planetary People",
-        "releaseDate": "2026-05-15",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://ostgut.bandcamp.com/track/sermon-of-the-light-tides",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "The official track page verifies the exact identity; current release copy distinguishes it by scrambled metallic bell sequences. The exact track is listed at 6:24.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current Luke Slater techno proposition whose altered sequence language may fit the selection lens; artist stature and floor focus do not decide placement.",
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Style Teef",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented bell-sequence scrambling changes groove consolidation into Style Teef's fault line, or creates another self-contained foreground system."
-          }
-        ]
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "4HgyWBYoawjT7vKinhV58v",
-      "uri": "spotify:track:4HgyWBYoawjT7vKinhV58v",
-      "name": "Piedra Lumbre",
-      "artists": [
-        "Infant"
-      ],
-      "album": "Dustlick",
-      "releaseDate": "2026-07-03",
-      "durationMs": 256265,
-      "spotifyUrl": "https://open.spotify.com/track/4HgyWBYoawjT7vKinhV58v",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://hardwax.com/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Before Sawa",
-          "precedingUri": null,
-          "followingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown."
-        }
-      ],
-      "fitHypothesis": "An emerging dub-ambient lead with credible cross-form relevance; release texture cannot prove the opener or its handoff.",
-      "evidence": {
-        "attributedDescription": "Hard Wax lists Piedra Lumbre as the opening track of Infant's Dustlick and describes the mini-album collectively as carefully textured dub ambient; no individual direction or endpoint is attributed.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Infant",
-        "track": "Piedra Lumbre",
-        "album": "Dustlick",
-        "releaseDate": "2026",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Hard Wax lists Piedra Lumbre as the opening track of Infant's Dustlick and describes the mini-album collectively as carefully textured dub ambient; no individual direction or endpoint is attributed.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An emerging dub-ambient lead with credible cross-form relevance; release texture cannot prove the opener or its handoff.",
-        "proposedPlacements": [
-          {
-            "position": "Before Sawa",
-            "precedingUri": null,
-            "followingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether this emerging exact identity can establish a purposeful cold open before Sawa, while leaving its individual behavior unknown."
-          }
-        ]
-      }
-    },
-    {
-      "id": "3tJewIq0D10r423Nln9qV2",
-      "uri": "spotify:track:3tJewIq0D10r423Nln9qV2",
-      "name": "Parallel Shift",
-      "artists": [
-        "Uväll"
-      ],
-      "album": "HYS007",
-      "releaseDate": "2026-09-04",
-      "durationMs": 316521,
-      "spotifyUrl": "https://open.spotify.com/track/3tJewIq0D10r423Nln9qV2",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://hardwax.com/",
+      "discoverySource": "https://moleculartechno.bandcamp.com/album/joshua-calleja-breaking-patterns",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
@@ -838,14 +691,14 @@
           "incomingBpm": 135,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy."
+          "purpose": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior."
         }
       ],
-      "fitHypothesis": "An emerging techno lead with exact current-release context; collective descriptors do not establish its consequence.",
+      "fitHypothesis": "A current techno lead from a long-running label with a credible rhythm-development context; shared EP framing remains explicitly limited.",
       "evidence": {
-        "attributedDescription": "Hard Wax lists Parallel Shift on the current HYS007 compilation and describes the compilation collectively as deep, impactful techno; the exact track's individual form is not described.",
+        "attributedDescription": "Molecular Recordings lists Space Metric as the 6:44 opener of Breaking Patterns; release copy describes evolving percussion and movement across the EP but does not distinguish this track's individual direction or endpoint.",
         "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy.",
+        "editorialInterpretation": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -854,19 +707,19 @@
         ]
       },
       "requestedIdentity": {
-        "artist": "Uväll",
-        "track": "Parallel Shift",
-        "album": "HYS007",
-        "releaseDate": "2026-09-04",
+        "artist": "Joshua Calleja",
+        "track": "Space Metric",
+        "album": "Breaking Patterns",
+        "releaseDate": "2026-06-05",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://moleculartechno.bandcamp.com/album/joshua-calleja-breaking-patterns",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists Parallel Shift on the current HYS007 compilation and describes the compilation collectively as deep, impactful techno; the exact track's individual form is not described.",
+          "attributedDescription": "Molecular Recordings lists Space Metric as the 6:44 opener of Breaking Patterns; release copy describes evolving percussion and movement across the EP but does not distinguish this track's individual direction or endpoint.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy.",
+          "editorialInterpretation": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -874,7 +727,7 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An emerging techno lead with exact current-release context; collective descriptors do not establish its consequence.",
+        "fitHypothesis": "A current techno lead from a long-running label with a credible rhythm-development context; shared EP framing remains explicitly limited.",
         "proposedPlacements": [
           {
             "position": "Between Abundance and Foundry",
@@ -883,42 +736,42 @@
             "incomingBpm": 135,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current emerging proposition changes Abundance's swung continuation before Foundry's unstable hinge without inferring impact or depth from the shared release copy."
+            "purpose": "Test whether this current exact-title proposition deepens Abundance's continuation before Foundry's unstable hinge without transferring shared release claims into individual behavior."
           }
         ]
       }
     },
     {
-      "id": "44cxZxkB7aHQvaLcn1PByH",
-      "uri": "spotify:track:44cxZxkB7aHQvaLcn1PByH",
-      "name": "11110A",
+      "id": "69eNnnAsVfB2QCjxCIX0Uh",
+      "uri": "spotify:track:69eNnnAsVfB2QCjxCIX0Uh",
+      "name": "Electrons",
       "artists": [
-        "Wax"
+        "Connective Zone"
       ],
-      "album": "11110",
-      "releaseDate": "2026-05-01",
-      "durationMs": 429150,
-      "spotifyUrl": "https://open.spotify.com/track/44cxZxkB7aHQvaLcn1PByH",
+      "album": "Dat Tapes",
+      "releaseDate": "2021-08-19",
+      "durationMs": 333500,
+      "spotifyUrl": "https://open.spotify.com/track/69eNnnAsVfB2QCjxCIX0Uh",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://hardwax.com/",
+      "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": 137,
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "incomingBpm": 139,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim."
+          "outgoingBpm": 136,
+          "purpose": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof."
         }
       ],
-      "fitHypothesis": "An overlooked dub-house/techno proposition; anonymous presentation and catalogue interest do not justify admission.",
+      "fitHypothesis": "An overlooked machine-soul and bleep-techno proposition with credible structural freedom; compilation context remains attributed and non-decisive.",
       "evidence": {
-        "attributedDescription": "Hard Wax lists 11110A as the 7:09 A-side of No. 11110 and describes the release collectively as sub-heavy dub house/techno; individual development and endpoint remain unspecified.",
+        "attributedDescription": "Cold Blow lists Electrons at 5:31 and characterizes Connective Zone's contribution as a fractured bleep dream within a 2026 survey of 1990s machine soul; the source does not give individual development or endpoint.",
         "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim.",
+        "editorialInterpretation": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -927,19 +780,19 @@
         ]
       },
       "requestedIdentity": {
-        "artist": "Wax",
-        "track": "11110A",
-        "album": "No. 11110",
-        "releaseDate": "2026",
+        "artist": "Connective Zone",
+        "track": "Electrons",
+        "album": "Documents of Different Reality",
+        "releaseDate": "2026-07-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://hardwax.com/",
+        "discoverySource": "https://coldblowrecords.bandcamp.com/album/documents-of-different-reality",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Hard Wax lists 11110A as the 7:09 A-side of No. 11110 and describes the release collectively as sub-heavy dub house/techno; individual development and endpoint remain unspecified.",
+          "attributedDescription": "Cold Blow lists Electrons at 5:31 and characterizes Connective Zone's contribution as a fractured bleep dream within a 2026 survey of 1990s machine soul; the source does not give individual development or endpoint.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim.",
+          "editorialInterpretation": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -947,19 +800,20 @@
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked dub-house/techno proposition; anonymous presentation and catalogue interest do not justify admission.",
+        "fitHypothesis": "An overlooked machine-soul and bleep-techno proposition with credible structural freedom; compilation context remains attributed and non-decisive.",
         "proposedPlacements": [
           {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": 137,
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the exact catalogue proposition changes Capa's redirection into Sarniezz's pulse illusion, without treating sub-weight as an energy or flow claim."
+            "outgoingBpm": 136,
+            "purpose": "Test whether the reissued fractured-bleep proposition changes Tehutis Law's re-grounding into Pulse I's crooked accumulation without treating compilation narrative as sequence proof."
           }
         ]
       }
     }
-  ]
+  ],
+  "resolvedAlternates": []
 }
