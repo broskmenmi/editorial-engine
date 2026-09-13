@@ -1,340 +1,341 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T14:50:53Z-explore-214",
-  "sourceCommit": "c8101f51632a65ef33f440e15b483ab312119766",
+  "runId": "2026-09-13T15:48:52Z-explore-217",
+  "sourceCommit": "47572a9fa8824e8dda5b31b163206e01b1c3dc83",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T14:50:53Z",
-    "approximateInspectedScope": "Approximately 64 named tracks and releases across Juno's 75-release current techno field, an emerging Umay/remix-contest and adjacent club window, and an overlooked electro/techno catalogue window. Written exact-track and attributed release descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T15:48:52Z",
+    "approximateInspectedScope": "Approximately 96 named tracks across roughly twenty releases in Hard Wax's current-arrivals page: current techno compilations and releases, adjacent/emerging bass/dub/experimental labels, and overlooked Music Man/Sähkö catalogue material. Written attributed descriptions and exact listings only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Juno's September 7–13 techno listings, with exact current pages for COW, Alexander Kowalski remixers, PS11 and VVAA008. https://www.juno.co.uk/techno/this-week/",
-      "ADJACENT / EMERGING WINDOW: Umay newcomer COW, student-remix entrant GZI, and TraTraTrax's current cross-regional club sampler. https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/ ; https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/ ; https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
-      "OVERLOOKED CATALOGUE WINDOW: Juno's electro back catalogue, including 710 Exit, Acid Jesus and 50DIX. https://www.juno.co.uk/electro/back-cat/"
+      "CURRENT RELEASE WINDOW: Hard Wax current arrivals, including HYS007 and Carrier — Thresholds, checked 2026-09-13. https://hardwax.com/",
+      "ADJACENT / EMERGING WINDOW: Carrier, Ruff Kutz, Nullpunkt, Erik Jabari, Samurai Music and Mole Audio bass/dub/experimental releases, with exact Bandcamp/Eastern Bloc corroboration where available. https://hardwax.com/ ; https://d-b-1.bandcamp.com/ ; https://www.easternblocrecords.com/",
+      "OVERLOOKED CATALOGUE WINDOW: Music Man's Ignacio remaster and Sähkö's Ø — Metri catalogue material. https://hardwax.com/"
     ],
     "exclusions": [
-      "Completed Runs 209–213 source fields and ranked identities, failed Run 212 identities, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
-      "The repetition check compared the previous five completed discovery runs (208, 209, 210, 211 and 213). None of the nine primary placements repeats their selected-candidate boundaries; failed Run 212 boundaries were also avoided.",
-      "Nine honest leads survived with concrete source evidence, constitution-relevant belonging hypotheses and adjacent current-ledger URI pairs. Ranking balances current, emerging/adjacent and overlooked catalogue information gain without imposing a quota.",
-      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Completed Runs 210, 211, 213 and 214 plus Run 209's selected identities and source fields were excluded; failed Run 212 identities were not reused.",
+      "Every exact artist/title pair below was checked against the canonical ledger, target discoveries, local discovery pool, active rejections, PARKED revisit queue and global utility ledger before ranking; none was present.",
+      "The repetition check compared the previous five completed discovery runs (209, 210, 211, 213 and 214). None of the nine placements repeats a selected-candidate boundary from those runs.",
+      "Nine honest leads survived without padding. The protected Transparency → When We Froze → Stardancer internal order and both protected handoffs remain untouched. No Spotify connector, raw audio, invented identity or metadata-to-feeling inference was used."
     ],
     "rankedLeadSummary": [
-      "1. COW — Velvet",
-      "2. Alexander Kowalski — Sinee - GZI Remix",
-      "3. 710 Exit — Strat",
-      "4. Acid Jesus — Radium",
-      "5. PS11 — Mid Point",
-      "6. 50DIX — If U Want 2",
-      "7. DJ Sodeyama — Atlas",
-      "8. Anthony Naples — Perk",
-      "9. COW — Dead Air"
+      "1. Carrier — Black Channels",
+      "2. Sub Basics & Pugilist — 20-25",
+      "3. DB1 — Fluktuation #2",
+      "4. Temudo & Kwartz — Recentering",
+      "5. Ignacio — Organon",
+      "6. Erik Jabari — Dust Illusion",
+      "7. Pugilist — Woven",
+      "8. Ø — Muuntaja",
+      "9. Delikwe — Agna Street [Words Create Vibrations]"
     ]
   },
   "leads": [
     {
-      "artist": "COW",
-      "track": "Velvet",
-      "album": "Open The Closed",
-      "releaseDate": "2026-09-08",
+      "artist": "Carrier",
+      "track": "Black Channels",
+      "album": "Thresholds",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/",
-      "fitHypothesis": "Its individually described liquid motion and cutting percussion make it a current, non-formulaic techno proposition for the selection lens.",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The current release's described drum-and-bass/electronic/bass fusion supplies a serious rhythm-system proposition for the volume without treating hybridity as merit by itself.",
       "proposedPlacements": [
         {
-          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "position": "Between Pulse I and Roxellana",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
           "incomingBpm": 136,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether Velvet turns controlled continuation into a useful fluid precondition for triplet derailment, or inserts a self-contained scene before an already purposeful rupture."
+          "purpose": "Test whether the bass-science redirection can turn Pulse I's controlled pulse into a deliberate altered condition before Roxellana, or merely interrupts a direct deepening relation."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Velvet as having liquid flow, with sharper percussion cutting through, inside an EP built around movement rather than one fixed sound.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Velvet turns controlled continuation into a useful fluid precondition for triplet derailment, or inserts a self-contained scene before an already purposeful rupture."
+        "attributedDescription": "Hard Wax describes Thresholds as razor-edge, bold drum-and-bass/electronic/bass fusion; the Bandcamp exact-track page identifies Black Channels within that release.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether the bass-science redirection can turn Pulse I's controlled pulse into a deliberate altered condition before Roxellana, or merely interrupts a direct deepening relation."
       }
     },
     {
-      "artist": "Alexander Kowalski",
-      "track": "Sinee - GZI Remix",
-      "album": "Sinee Remixes",
-      "releaseDate": "2026-09-11",
+      "artist": "Sub Basics & Pugilist",
+      "track": "20-25",
+      "album": "Control",
+      "releaseDate": "2026-07-17",
       "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
+      "bpm": 128,
+      "bpmSource": "https://www.easternblocrecords.com/",
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/alexander-kowalski-sinee-remixes-vinyl/1172004-01/",
-      "fitHypothesis": "The exact GZI remix is described as broken, nearly two-step techno: a direct structural-freedom test rather than a novelty claim.",
-      "proposedPlacements": [
-        {
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the remix makes Hypnic Jerks' acceleration crisis resolve through a new broken intermediate state before opposed-speed balance, or delays that existing answer."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno identifies GZI's exact remix as the broken, nearly two-step outlier among respectful versions that evolve the original rhythmic dub-techno material.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the remix makes Hypnic Jerks' acceleration crisis resolve through a new broken intermediate state before opposed-speed balance, or delays that existing answer."
-      }
-    },
-    {
-      "artist": "710 Exit",
-      "track": "Strat",
-      "album": "Close To The Sun",
-      "releaseDate": "2026-06-18",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
-      "fitHypothesis": "Its understated funk groove carrying warped guitar and soul samples is a credible overlooked adjacent-world test with a concrete rhythmic proposition.",
-      "proposedPlacements": [
-        {
-          "position": "Between Serpentine Tale and Too Much Time",
-          "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": 130,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether Strat changes the coiling low-slung consequence into a distinct funk-mediated state before renewed widening, or merely lengthens the held passage."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Strat as the more experimental side of the release, with warped guitar and soul samples taking on an almost vocal quality over an understated infectious funk groove.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Strat changes the coiling low-slung consequence into a distinct funk-mediated state before renewed widening, or merely lengthens the held passage."
-      }
-    },
-    {
-      "artist": "Acid Jesus",
-      "track": "Radium",
-      "album": "Radium",
-      "releaseDate": "1995",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
-      "fitHypothesis": "Its proto-minimal motifs, object-like percussion and machine-drum framework make an overlooked catalogue proposition for bodily repetition under unusual texture.",
-      "proposedPlacements": [
-        {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether Radium turns Foundry's unstable direction into a tangible machine-percussion condition before Worn Down's weight threshold, or adds another complete threshold."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Radium as alien electro sonics and proto-minimal techno motifs with pots-and-pans percussion around deep bass and hypnotic machine drums.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Radium turns Foundry's unstable direction into a tangible machine-percussion condition before Worn Down's weight threshold, or adds another complete threshold."
-      }
-    },
-    {
-      "artist": "PS11",
-      "track": "Mid Point",
-      "album": "Stratos EP",
-      "releaseDate": "2026-09-07",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/ps11-stratos-ep-vinyl/1168229-01/",
-      "fitHypothesis": "Its exact broken-beat and wide-view construction is a current contrast proposition that can be tested without inferring spaciousness or energy as measurement.",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The release's percussion-led bass/techno development and verified 128 BPM make a credible structural-freedom test; tempo remains metadata rather than flow evidence.",
       "proposedPlacements": [
         {
           "position": "Between Worn Down and Atlantis",
           "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
           "incomingBpm": null,
-          "candidateBpm": null,
+          "candidateBpm": 128,
           "outgoingBpm": null,
-          "purpose": "Test whether the broken-beat stage gives Worn Down a useful release before Atlantis converts micro-repetition into continuum, or weakens the direct weight-to-continuum relation."
+          "purpose": "Test whether the percussion/bass stage turns Worn Down's weight threshold into a useful altered route toward Atlantis, or delays the existing weight-to-continuum hinge."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Eastern Bloc lists the exact track at 128 BPM.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Mid Point as a serene, spacious sound with a broken beat and widescreen outlook; those terms remain attributed prose rather than measured feeling.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the broken-beat stage gives Worn Down a useful release before Atlantis converts micro-repetition into continuum, or weakens the direct weight-to-continuum relation."
+        "attributedDescription": "Hard Wax describes the Control EP as crunchy, atmospheric-to-intensifying percussion techno/bass grooves; Eastern Bloc lists 20-25 at 128 BPM.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether the percussion/bass stage turns Worn Down's weight threshold into a useful altered route toward Atlantis, or delays the existing weight-to-continuum hinge."
       }
     },
     {
-      "artist": "50DIX",
-      "track": "If U Want 2",
-      "album": "Go Ahead! EP",
-      "releaseDate": "2025-03-03",
+      "artist": "DB1",
+      "track": "Fluktuation #2",
+      "album": "Fluktuationen",
+      "releaseDate": "2026-07-26",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/electro/back-cat/",
-      "fitHypothesis": "The exact combination of frenzied drums and soothing pads offers an overlooked broken-world tension without relying on genre prestige.",
+      "discoverySource": "https://d-b-1.bandcamp.com/",
+      "fitHypothesis": "The exact half-step bass proposition is relevant to rhythmic freedom without requiring a four-on-the-floor techno identity.",
       "proposedPlacements": [
         {
-          "position": "Between Crawl and Fulledge (Empty-40 Mix)",
-          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "position": "Between Jjochstubn and Rabbit Hole",
+          "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its opposed materials sharpen sustained motion into Fulledge's dissolution, or insert another foreground conflict before a direct break."
+          "purpose": "Test whether half-step motion converts Jjochstubn's damaged residue into a more legible descent before Rabbit Hole, or over-articulates an already established disappearance."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes If U Want 2 through frenzied drums and soothing pads within a footwork, UK bass, funk, jazz and acid blend.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its opposed materials sharpen sustained motion into Fulledge's dissolution, or insert another foreground conflict before a direct break."
+        "attributedDescription": "DB1's Bandcamp lists the exact track on Fluktuationen; Hard Wax attributes gloomy half-stepping bass cuts to the release and gives this track a 6:07 duration.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether half-step motion converts Jjochstubn's damaged residue into a more legible descent before Rabbit Hole, or over-articulates an already established disappearance."
       }
     },
     {
-      "artist": "DJ Sodeyama",
-      "track": "Atlas",
-      "album": "VVAA008",
-      "releaseDate": "2026-09-10",
+      "artist": "Temudo & Kwartz",
+      "track": "Recentering",
+      "album": "HYS007",
+      "releaseDate": "2026-09-04",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "fitHypothesis": "Its exact streamlined rolling construction with phased movement offers a current continuation test rather than a claim that smoothness is inherently useful.",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The current Hayes compilation context supports a deep, impactful techno proposition that may test re-centering as a structural act rather than a genre-purity claim.",
       "proposedPlacements": [
         {
-          "position": "Between Style Teef and Same Way",
-          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "incomingBpm": null,
+          "position": "Between Abundance and Foundry",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "incomingBpm": 135,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its shifting roller translates frazzled grid pressure into Same Way's body-pressure hinge, or adds a complete scene before an existing threshold."
+          "purpose": "Test whether Recentering gives Abundance a purposeful consolidation before Foundry's instability, or adds a redundant formed stage."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Atlas as a streamlined roller with phased lines shifting through the mix and psychedelic colour bubbling through the bass.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether its shifting roller translates frazzled grid pressure into Same Way's body-pressure hinge, or adds a complete scene before an existing threshold."
+        "attributedDescription": "Hard Wax identifies Temudo & Kwartz's Recentering on HYS007 and describes the compilation as deep, impactful techno.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Recentering gives Abundance a purposeful consolidation before Foundry's instability, or adds a redundant formed stage."
       }
     },
     {
-      "artist": "Anthony Naples",
-      "track": "Perk",
-      "album": "Los Totes Vol 3",
-      "releaseDate": "2026-09-10",
+      "artist": "Ignacio",
+      "track": "Organon",
+      "album": "Organa",
+      "releaseDate": null,
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/maoupa-mazzocchetti-wost-anthony-los-totes-vol-3-vinyl/1174563-01/",
-      "fitHypothesis": "Its exact bouncy, drum-laden weight is a credible adjacent-club proposition for rhythmic physicality without assuming a canonical role.",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The remastered extended, trippy and space-flavoured groove is an overlooked catalogue proposition for sustained form rather than novelty.",
       "proposedPlacements": [
         {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "position": "Between Tides Alternate and Serpentine Tale",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether Perk changes body pressure into a more elastic preparation for U Belong 2 Me's threshold, or redundantly extends the foreground stage."
+          "outgoingBpm": 130,
+          "purpose": "Test whether Organon turns Tides Alternate's opposed-speed balance into a distinct sustained state before Serpentine Tale, or duplicates the latter's held consequence."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno describes Perk as bouncy and drum-laden within an imaginative club-focused compilation spanning Colombian and adjacent rhythmic approaches.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Perk changes body pressure into a more elastic preparation for U Belong 2 Me's threshold, or redundantly extends the foreground stage."
+        "attributedDescription": "Hard Wax lists Organon at 7:00 and attributes an extended, upbuilding, trippy, space-flavoured groove to the remastered Organa release.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Organon turns Tides Alternate's opposed-speed balance into a distinct sustained state before Serpentine Tale, or duplicates the latter's held consequence."
       }
     },
     {
-      "artist": "COW",
-      "track": "Dead Air",
-      "album": "Open The Closed",
-      "releaseDate": "2026-09-08",
+      "artist": "Erik Jabari",
+      "track": "Dust Illusion",
+      "album": "Sky Sailor",
+      "releaseDate": null,
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://www.juno.co.uk/products/cow-open-the-closed-vinyl/1170190-01/",
-      "fitHypothesis": "Its individually described unsettled endpoint offers a second exact current proposition from an EP organized around movement instead of one fixed sound.",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The dubby-to-sub-heavy techno framing offers an emerging-label continuation/redirection question while leaving perceived weight and space unknown.",
       "proposedPlacements": [
         {
-          "position": "Between Nukumori and Jjochstubn",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
-          "incomingBpm": null,
+          "position": "Between Truth in Noise and Style Teef",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "incomingBpm": 138,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether Dead Air changes Nukumori's flare into a distinct unsettled condition before Jjochstubn's damaged residue, or over-articulates the late descent."
+          "purpose": "Test whether Dust Illusion makes Truth in Noise's established state turn deliberately toward Style Teef, or inserts another complete scene before that deformation."
         }
       ],
       "evidence": {
         "measured": [
-          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Juno says Dead Air leaves the release feeling unsettled within a tense, unpredictable techno set that still has somewhere to go.",
-        "craftConvention": "Attributed exact-track or release evidence supports a serious editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Dead Air changes Nukumori's flare into a distinct unsettled condition before Jjochstubn's damaged residue, or over-articulates the late descent."
+        "attributedDescription": "Hard Wax lists Dust Illusion at 5:05 on Sky Sailor and describes the EP as feisty dubby to stone-cold sub-heavy techno.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Dust Illusion makes Truth in Noise's established state turn deliberately toward Style Teef, or inserts another complete scene before that deformation."
+      }
+    },
+    {
+      "artist": "Pugilist",
+      "track": "Woven",
+      "album": "Triads",
+      "releaseDate": null,
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The heavyweight bass context makes Woven a credible adjacent rhythmic proposition whose canonical value depends on sequence consequence, not bass-scene status.",
+      "proposedPlacements": [
+        {
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Woven changes Migration's post-protected pivot into a useful bass-led route toward Eyes of the Wind, or postpones that existing production-world move."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Hard Wax lists Woven at 7:43 on Triads and describes the release as heavyweight bass music.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Woven changes Migration's post-protected pivot into a useful bass-led route toward Eyes of the Wind, or postpones that existing production-world move."
+      }
+    },
+    {
+      "artist": "Ø",
+      "track": "Muuntaja",
+      "album": "Metri",
+      "releaseDate": null,
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "This overlooked minimalist-techno catalogue track offers a long-form repetition proposition without using canonical prestige as evidence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Tender Is The Night and Egue into hs",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Muuntaja gives Tender Is The Night's suspension a productive minimalist mutation before Egue into hs, or overextends the suspended passage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Hard Wax lists Muuntaja at 6:54 on Metri and identifies the album as foundational minimalist techno; historical importance is not treated as admission evidence.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Muuntaja gives Tender Is The Night's suspension a productive minimalist mutation before Egue into hs, or overextends the suspended passage."
+      }
+    },
+    {
+      "artist": "Delikwe",
+      "track": "Agna Street [Words Create Vibrations]",
+      "album": "Agna Street",
+      "releaseDate": null,
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://hardwax.com/",
+      "fitHypothesis": "The dub-techno/dubstep transformation context is a credible adjacent-world test of structural mutation rather than an assumption about atmosphere or energy.",
+      "proposedPlacements": [
+        {
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 130,
+          "purpose": "Test whether Agna Street changes Never Met's transit into a deliberate transformation before Trompe L'oeil's reset, or adds another complete intermediate world."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist/title or exact release tracklist, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Hard Wax lists the exact track on Agna Street and describes the release through dynamic dub-techno/dubstep transformations; felt effects remain unknown.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether Agna Street changes Never Met's transit into a deliberate transformation before Trompe L'oeil's reset, or adds another complete intermediate world."
       }
     }
   ]
