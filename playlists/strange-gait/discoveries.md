@@ -150,6 +150,84 @@ The target automation and Scout, Evaluator and Auditor contracts now require a f
 
 # STRANGE GAIT — Discovery Log
 
+## Run 203 — EXPLORE — low-slung consequence after opposed-speed balance — 2026-09-13
+
+**runId:** `2026-09-13T05:51:30Z-explore-203`
+
+### Pre-audit and exploration receipt
+
+Pre-audit found no new actionable REPAIR. Run 200's repeated-evidence/placement correction had already produced specific placement decisions in Run 201; Run 202's resolver completed normally despite a second recent zero-resolution field. STRANGE GAIT entered with 52 unique canonical tracks, no active listener discussion or current TRIGGERED revisit, exact-order generated state, and protected `Transparency → When We Froze → Stardancer` at positions 44–46. The lane was therefore EXPLORE.
+
+Approximately 61 named tracks, release cuts, current reviews and catalogue references were inspected across Juno's live September 2026 techno window, official/label Bandcamp pages, current digital listings and newly recirculated Trelik, PAL SL and Smaul catalogue material. Recent Runs 194–202 fields, prior ranked leads and alternates, canonical identities, active rejects, untriggered PARKED revisits and existing utility identities were excluded. The ranked field deliberately favoured exact digital availability plus differentiated form evidence after two recent zero-resolution runs; this was an information-gain response, not a platform or style quota.
+
+### Resolver integrity
+
+- **sourceCommit:** `0c7fa0b43511032b34608557dd0a91d25d5474d5`
+- **request commit:** `c3e9fdef0ec65fb1478e4e862cf24f61b40d03f9`
+- **snapshot commit:** `a7e9b52b2ea16122bff06d6932f0ba16098ec7ff`
+- **request fingerprint:** `57975cf59bc9a918cec02828cf978a8fc69d85b343c262068532005f75f9324c`
+- **result:** internally valid schemaVersion 2 `PARTIAL`; nine requested, three exact resolutions, three selected candidates and six unresolved; no duplicates, alternates, substitutions, relinkings or technical failures.
+
+Selected exact identities:
+
+1. Acid Pauli — *Gwar Is Not The Answer* — `spotify:track:1e6fOHSRMbWqR6C8o6ZG4v`; Spotify release `2026-09-04`; 6:18.
+2. Vinicius Honorio — *Labyrinth of Sin* — `spotify:track:3RkjahuTkrxdYUvZLZKfSf`; Spotify release `2026-09-11`; 4:18.
+3. Baby Ford — *Serpentine Tale* — `spotify:track:1J2HLUmgLEf9Nun0Stg0qj`; Spotify release `2022-05-20`; 6:01; 130 BPM from the declared Eastern Bloc source.
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- G.rush — *Seduction*
+- G.rush — *Spectra*
+- Vinicius Honorio, Atonism — *Nothing To Prove*
+- Lenson — *Firgot*
+- Unique Reason — *B-Groove*
+- Soul Capsule — *Overcome*
+
+Warnings preserved exactly:
+
+- Acid Pauli — *Gwar Is Not The Answer*: `Exact title/artist matched with release metadata variance: release date requested "2007" but Spotify returned "2026-09-04"`
+- Vinicius Honorio — *Labyrinth Of Sin*: `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2026-09-11"`
+- Baby Ford — *Serpentine Tale*: `Exact title/artist matched with release metadata variance: release date requested "1998" but Spotify returned "2022-05-20"`
+
+### Canonical evaluation — Acid Pauli — Gwar Is Not The Answer
+
+- **Volume fit:** PASS. Juno's exact-track review describes compressed, twisted rave logic from a rule-flouting free-party context. It clears the selection lens through form behaviour rather than generic acid coding.
+- **Immediate transition:** plausible but insufficient at `Foundry → candidate → Worn Down`. The candidate can intensify Foundry's unstable direction, but its own 6:18 fully stated rave scene delays Worn Down's existing threshold rather than clarifying the outgoing relation.
+- **Three-to-five-track run:** FAIL proportionally for `Abundance → Foundry → candidate → Worn Down → Atlantis`. The current run already moves from swung continuation through unstable direction into threatened coherence and perceived continuum; the candidate adds a second large disruption before that threshold.
+- **Long-form journey:** FAIL for this placement only. It increases early segmentation without changing the downstream acceleration crisis.
+- **Verdict:** placement-specific **REJECT**; retain as genuinely interesting.
+
+### Canonical evaluation — Vinicius Honorio — Labyrinth of Sin
+
+- **Volume fit:** PASS. Juno differentiates the exact track as an ancient-sounding, forceful musical maze. The structural proposition is relevant without relying on novelty.
+- **Immediate transition:** plausible but insufficient at `Moonwake → candidate → Raataja`. Maze-like force may connect two intense states, but another complete stage between intensification and burst/disappearance weakens the direct crisis relation.
+- **Three-to-five-track run:** FAIL proportionally for `Freepass for Them → Moonwake → candidate → Raataja → Crawl`. The candidate repeats escalation before the abrupt disappearance and re-formation that already give the run its consequence.
+- **Long-form journey:** FAIL for this placement only. A 4:18 intervention extends an already articulated build without opening a different later path.
+- **Verdict:** placement-specific **REJECT**; retain as genuinely interesting.
+
+### Canonical evaluation — Baby Ford — Serpentine Tale
+
+- **Volume fit:** PASS. Eastern Bloc and Boomkat describe the exact track as coiling through hissing rhythms and shadowy bass pressure. Its sustained, stripped form is a credible counterweight to overt fracture.
+- **Immediate transition:** provisional PASS at `Tides Alternate → candidate → Too Much Time`. Tides Alternate's documented opposed-speed balance can yield to a measured 130 BPM low-slung consequence before Too Much Time returns the numerical path to 140. The tempo relation is deliberately conspicuous and does not prove seamlessness, perceived pulse or mixability.
+- **Three-to-five-track run:** PASS. `Hypnic Jerks → Tides Alternate → Serpentine Tale → Too Much Time → Freepass for Them` reads as acceleration crisis → opposed-speed balance → coiling low-slung consequence → widening → preserved groove pivot. The candidate changes what Too Much Time widens from rather than merely inserting another texture.
+- **Long-form journey:** PASS provisionally. The 6:01 duration is material, but it gives the early acceleration/balance passage a concrete held consequence before renewed motion without touching protected state or imposing a fixed macro-arc.
+- **Verdict:** **ADD** between *Tides Alternate* and *Too Much Time*. Phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The immutable request and terminal snapshot match on schemaVersion, runId, sourceCommit, mode, target and fingerprint. Nine requested identities reconcile to three selected exact candidates plus six unresolved identities. All three warnings and six exact resolver errors are preserved. Each selected candidate was evaluated separately at volume-fit, immediate-transition, local-run and long-form scales. The ADD rests on a specific two-sided passage consequence; BPM is supporting evidence rather than energy or flow. Both rejects are placement-specific and remain musically interesting. The protected trio remains contiguous and untouched.
+
+### Durable result
+
+- STRANGE GAIT increases **52 → 53 canonical tracks**; add Baby Ford — *Serpentine Tale* at position 16.
+- Protected `Transparency → When We Froze → Stardancer` shifts intact to positions 45–47.
+- Acid Pauli — *Gwar Is Not The Answer* and Vinicius Honorio — *Labyrinth of Sin* are retained locally and globally as exact interesting placement-specific rejects.
+- Six unresolved leads are retained locally as research without verdict or utility identity.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **415 → 418 exact tracks** with the three selected exact identities.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 61 inspected → 9 ranked leads → 3 exact resolutions + 6 unresolved → 3 evaluations → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Inspection-to-lead conversion is **14.8%**; resolution yield is **33.3%**; selected-candidate-to-ADD conversion is **33.3%**. Across completed discovery Runs 87–203, excluding process repairs and failed Runs 164, 167, 175, 177, 180, 184, 194 and 195: **891 leads from approximately 5,316 inspections; 38 ADDs from 270 selected candidates**. The recent comparable ADD rate remains **2/10**, and the seven-completed-run no-ADD streak after Run 191 resets to zero. The result does not prove that STRANGE GAIT needs continuous expansion: one concrete placement consequence passed while two equally relevant exact forms failed proportionally.
+
 ## Run 199 — REPAIR — stale canonical-count statements — 2026-09-13
 
 **runId:** `2026-09-13T02:55:16Z-repair-199`
