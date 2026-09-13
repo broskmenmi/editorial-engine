@@ -1,5 +1,91 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 206 — EXPLORE — intermediate motion must change the consequence — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique canonical tracks, an exact-order 53-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 418 contiguous unique tracks. Automatic publishing was enabled. The last completed exploration, Run 203, produced a canonical ADD; Repairs 204–205 closed technical and representation defects without creating a new musical trigger.
+
+**Fresh exploration:** approximately 60 named tracks, release cuts, current listings and catalogue references were inspected across Active Systems' September 11 debut, Soiree's current Detroit-rooted `Immortal` circulation and the September 11 reissue of James Ruskin's 1998 `Further Design`. Recent Runs 196–205 fields, prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. Nine differentiated leads survived without padding.
+
+- **runId:** `2026-09-13T07:50:37Z-explore-206`
+- **sourceCommit:** `465bc2a177b24c26e3e7203c405237b3fb2c5dc5`
+- **request commit:** `feab4920cc5cf3fbba8b226d82f38406d0402b7d`
+- **snapshot commit:** `cfcd7a6b9a2d84b8abff37e00b43b805892a94b6`
+- **request fingerprint:** `1693ada09046ab0bee24bd033faee9c0442063a97b6132ac0938344f6023bd70`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 8 exact resolutions, 3 selected candidates, 5 exact unselected alternates and 1 unresolved ambiguity; no duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict:
+
+- James Ruskin — *The Divide*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6hvMe4IwK39hV9Z0T7Zi9z, 6fCwakqA0Xgl60xrz6fzry)`
+
+Exact but unselected and unevaluated alternates:
+
+- DJ Mourad — *Dreams Of An Insomniac* — `spotify:track:6BnBfTlcogkcYBISZC1T4K`
+- Active Systems — *Avoid* — `spotify:track:0AHL7aQpWeMUZ9PtqkQ1Dh`
+- Drivetrain — *Feel Me* — `spotify:track:20W5eaSknMuGoCdHZ2D6uC`
+- Jay Strata — *Something 4 U* — `spotify:track:395HWxAaptEp7pn9THgfH1`
+- James Ruskin — *Indirect World* — `spotify:track:1KM7UIiL4evTq5Hr82qppt`
+
+Warning preserved exactly:
+
+- James Ruskin — *Indirect World*: `Exact title/artist matched with release metadata variance: release date requested "1998" but Spotify returned "1998-01-01"`
+
+### Canonical evaluations
+
+#### Active Systems — Gabbol — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:1MPIKytvZvjq9zWQYSH7oI`; 3:49; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. The exact-track source documents a glacial hip-hop beat and starlit melancholia inside a debut built from off-kilter electronics. That rhythmic displacement fits the selection lens without treating strangeness or debut status as sufficient.
+- **Immediate transition:** FAIL only at `Worn Down → candidate → Atlantis`. The current pair turns a rumble-to-weight threshold directly into Atlantis's documented micro-repetition/continuum ambiguity. Gabbol supplies a distinct slowed broken-beat scene, but the evidence does not show it changing that consequence rather than inserting a self-contained pause.
+- **Surrounding three-to-five-track run:** FAIL for `Foundry → Worn Down → candidate → Atlantis → Hypnic Jerks`. The candidate adds another articulated state between the weight threshold and the continuum-to-acceleration crisis; its exact description does not establish a direction or endpoint that the existing run needs.
+- **Long-form journey:** FAIL proportionally for this placement. The opening third already contains a later opposed-speed balance and the newly added low-slung consequence before renewed widening. Another under-evidenced slowdown lengthens that part of the journey without a distinct proven gain.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### DJ Sinjin — Things On My Mind — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:5pYko1oRFN8pgzRNXofcJP`; 5:53; Spotify release date 2026-06-29.
+- **Volume fit:** PASS. Clone differentiates the exact track through a fierce bass line, aggressive dialogue and direct funky construction. The foreground action is a valid selection proposition; vocal presence and Detroit lineage are not admission arguments.
+- **Immediate transition:** FAIL only at `Style Teef → candidate → Same Way`. Style Teef already moves from a familiar grid into a frazzled fault line, after which Same Way alternates drums and bass as body pressure. The candidate introduces another complete bass-and-foreground statement between those distinct actions and does not make either handoff more consequential on the available evidence.
+- **Surrounding three-to-five-track run:** FAIL for `Truth in Noise → Style Teef → candidate → Same Way → U Belong 2 Me`. The direct funky stage and Same Way's alternating pressure become consecutive foreground articulations before the threshold, extending the passage without a new result.
+- **Long-form journey:** FAIL proportionally for this placement. Its 5:53 duration delays U Belong 2 Me's existing threshold into the protected block; duration is not the veto, but no distinct long-form gain offsets that added stage.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Active Systems — Itsover — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:25HzDbwdA0lAOdaXORUKkS`; 3:28; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. The exact-track source documents skippy, restless rhythms, a concrete rhythmic proposition that fits the selection lens without requiring a novel chapter role.
+- **Immediate transition:** FAIL only at `Crawl → candidate → Fulledge (Empty-40 Mix)`. Crawl's sustained invariant roll currently gives Fulledge's fake-out metric dissolution a specific state to break. Itsover plausibly changes the motion, but its description does not establish why an intermediate restless stage improves that direct consequence.
+- **Surrounding three-to-five-track run:** FAIL for `Raataja → Crawl → candidate → Fulledge (Empty-40 Mix) → Capa`. The candidate adds another instability stage between sustained motion and its completed dissolution before redirection. Its concise duration lowers cost but does not itself supply a changed endpoint.
+- **Long-form journey:** FAIL proportionally for this placement. The early-to-middle passage already develops disappearance, sustained motion, dissolution and redirection clearly; an extra transition stage explains that change twice without evidence of a new long-form result.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The matching snapshot preserves all nine outcomes, the exact ambiguity, the exact warning and all five unselected alternates. Only the three resolver-selected identities were evaluated, each separately at volume, immediate-transition, surrounding-run and long-form scales. The verdicts do not infer sonic properties from metadata, do not use missing audio as an automatic veto, and do not turn placement-specific conflicts into global rejection. Canonical order, the two listener-protected handoffs and all feedback boundaries remain intact. The three exact selected tracks are explicitly retained as genuinely interesting and therefore approved for the doctrine-free global utility ledger.
+
+### Durable result
+
+- STRANGE GAIT remains **53 canonical tracks** with no reorder.
+- Add three Run 206 placement-specific rejections to the active rejection ledger.
+- Add the three exact selected tracks to the target-local inspiration layer and add one concrete set direction.
+- EDITORIAL ENGINE — DISCOVERY POOL increases **418 → 421 exact tracks**, appending Gabbol, Things On My Mind and Itsover.
+- The five exact alternates remain resolver accounting only; they are unevaluated and are not retained or added globally.
+- The unresolved James Ruskin lead remains research only and receives no verdict or utility entry.
+- No actionable REPAIR emerges. Audio analysis and live mixing remain untested.
+
+### RUN ANALYSIS
+
+`~60 inspected → 9 leads → 8 exact resolutions + 1 unresolved ambiguity → 3 evaluations + 5 exact alternates → 0 ADD + 3 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion was **15.0%**, resolution yield was **88.9%**, and selected-candidate-to-ADD conversion was **0/3**.
+
+Across completed discovery Runs 87–206, excluding process repairs and failed runs: **900 leads from approximately 5,376 inspections; 38 ADDs from 273 selected candidates**. The recent comparable ADD rate remains **2/10**. The musical no-ADD streak is one completed run after Run 203.
+
+The differentiated decisions show neither resolver identity loss nor an UNKNOWN-to-PARK loop: two candidates conflict with already-consequential local relations, while the third lacks a changed endpoint at its tested placement. This is playlist maturity at those boundaries, not evidence that the tracks lack another home or that STRANGE GAIT is complete.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Repair Run 205 — discovery-log structural continuity — 2026-09-13
 
 **runId:** `2026-09-13T06:49:03Z-repair-205`

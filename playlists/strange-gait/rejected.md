@@ -10,6 +10,9 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Active Systems | Gabbol | Run 206 rejects only `Worn Down → candidate → Atlantis`. Its exact glacial hip-hop construction remains interesting, but it inserts another distinct slowed scene between the existing weight threshold and micro-repetition/continuum hinge without a changed local or long-form consequence. | 2026-09-13 |
+| DJ Sinjin | Things On My Mind | Run 206 rejects only `Style Teef → candidate → Same Way`. Its exact direct bass-and-dialogue construction remains interesting, but it creates a second complete foreground-pressure stage before the existing threshold into the protected block. | 2026-09-13 |
+| Active Systems | Itsover | Run 206 rejects only `Crawl → candidate → Fulledge (Empty-40 Mix)`. Its exact restless skippy rhythm remains interesting, but it mediates the existing sustained-motion-to-dissolution relation without evidence that the intermediate stage changes the endpoint. | 2026-09-13 |
 | Acid Pauli | Gwar Is Not The Answer | Run 203 rejects only `Foundry → candidate → Worn Down`. Its exact compressed, twisted rave construction remains interesting, but the 6:18 insertion adds a second fully stated disruption before the existing rumble-to-weight threshold and perceived-continuum passage. | 2026-09-13 |
 | Vinicius Honorio | Labyrinth of Sin | Run 203 rejects only `Moonwake → candidate → Raataja`. Its forceful maze construction remains interesting, but another complete stage weakens the direct intensification-to-burst/disappearance crisis. | 2026-09-13 |
 | Pierce | Detachment | Run 201 rejects only `Té de Cabello Blanco → candidate → Ikoyi`. Its exact nervy, twitching acid construction remains interesting, but another articulated instability would intervene before Ikoyi's existing dissolution-and-mutation consequence. | 2026-09-13 |

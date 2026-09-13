@@ -422,6 +422,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 416 | Acid Pauli | Gwar Is Not The Answer | spotify:track:1e6fOHSRMbWqR6C8o6ZG4v | STRANGE GAIT Run 203 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 417 | Vinicius Honorio | Labyrinth of Sin | spotify:track:3RkjahuTkrxdYUvZLZKfSf | STRANGE GAIT Run 203 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 418 | Baby Ford | Serpentine Tale | spotify:track:1J2HLUmgLEf9Nun0Stg0qj | STRANGE GAIT Run 203 | ADD / interesting | 2026-09-13 |
+| 419 | Active Systems | Gabbol | spotify:track:1MPIKytvZvjq9zWQYSH7oI | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 420 | DJ Sinjin | Things On My Mind | spotify:track:5pYko1oRFN8pgzRNXofcJP | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 421 | Active Systems | Itsover | spotify:track:25HzDbwdA0lAOdaXORUKkS | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

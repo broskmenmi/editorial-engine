@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 206
+
+### Intermediate motion must change the consequence
+
+**Direction:** When a direct canonical relation already turns one state into another, test an extra restless or contrasting stage only if it changes the successor's meaning rather than merely narrating the transition in more detail.
+
+**Ingredients:**
+
+- T++ — *Worn Down* → Maxime Denuc — *Atlantis* — existing threshold-to-continuum relation
+- DjRUM — *Crawl* → Demdike Stare — *Fulledge (Empty-40 Mix)* — existing sustained-motion-to-dissolution relation
+- Blawan — *Style Teef* → Cooly G — *Same Way* — existing fault-line-to-alternating-pressure relation
+- Active Systems — *Gabbol* and *Itsover*; DJ Sinjin — *Things On My Mind* — exact interesting counterexamples whose Run 206 placements were rejected
+
+**Why interesting:** Restlessness, character change and concision can all be useful, but none automatically improves a long-form passage. The strongest intermediate stage leaves the following event newly consequential.
+
+**Boundary:** This is a set direction, not a proven sequence or live-mixing edge. The three candidate tracks are not globally rejected; exact handoffs, phrase fit, perceived pulse, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 203
 
 ### Let balance acquire a low-slung consequence

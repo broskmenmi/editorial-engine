@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 206 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Active Systems | Gabbol | `spotify:track:1MPIKytvZvjq9zWQYSH7oI` · https://open.spotify.com/track/1MPIKytvZvjq9zWQYSH7oI · https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep | Rejected only at *Worn Down → Atlantis*; its glacial hip-hop construction remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DJ Sinjin | Things On My Mind | `spotify:track:5pYko1oRFN8pgzRNXofcJP` · https://open.spotify.com/track/5pYko1oRFN8pgzRNXofcJP · https://clonedistribution.com/release/84644?play=28 | Rejected only at *Style Teef → Same Way*; its direct fierce-bass and dialogue construction remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Active Systems | Itsover | `spotify:track:25HzDbwdA0lAOdaXORUKkS` · https://open.spotify.com/track/25HzDbwdA0lAOdaXORUKkS · https://www.dancingvinyl.com/release/1786728497/active-systems-the-red-ep | Rejected only at *Crawl → Fulledge (Empty-40 Mix)*; its restless skippy rhythm remains genuinely interesting. Added globally. |
+| RESEARCH LEAD / UNRESOLVED | James Ruskin | The Divide | https://www.normanrecords.com/features/upcoming-album-releases/known-delays | Resolver returned `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6hvMe4IwK39hV9Z0T7Zi9z, 6fCwakqA0Xgl60xrz6fzry)`. No verdict or utility addition. |
+| RELEASE WATCH | Active Systems / Split Lip; Soiree; James Ruskin / Blueprint | The Red EP; Immortal; Further Design reissue | Run 206 sources | Current debut, adjacent Detroit material and overlooked catalogue remain useful research windows. Exact unselected alternates are not retained by implication. |
+| SET DIRECTION | — | Intermediate motion must change the consequence | target-local idea only | A restless or contrasting middle stage earns sequence space only when it changes what the next event means; concise duration or smooth adjacency is not proof. |
+
+### Placement and inspiration boundaries
+
+- The three exact rejects are not globally rejected; only their Run 206 placements are rejected.
+- Five resolver-confirmed alternates remain unselected, unevaluated and absent from the global utility ledger.
+- The unresolved *The Divide* lead receives no musical verdict and does not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 203 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
