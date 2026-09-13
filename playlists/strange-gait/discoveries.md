@@ -14,7 +14,7 @@ Approximately 61 named tracks, releases, reviews and catalogue references were i
 
 Two requests failed before musical resolution and are preserved as technical non-completions:
 
-- Run 194, `2026-09-13T00:51:26Z-explore-194`, is `REQUEST_NOT_COMPLETED`. Several proposed-placement neighbour URIs did not match the current canonical ledger, so validation stopped before Spotify lookup. No Run 194 identity received a verdict or utility addition.
+- Run 194, `2026-09-13T00:51:26Z-explore-194`, is `REQUEST_NOT_COMPLETED`. Validation returned exactly: `Error: Lead 1 placement 1 must reference two current canonical ledger URIs`. Validation stopped before Spotify lookup; no Run 194 identity received a verdict or utility addition.
 - Run 195, `2026-09-13T01:03:00Z-explore-195`, is `REQUEST_NOT_COMPLETED`. Validation returned exactly: `Error: Recovery request must preserve the source run mode, target, receipt, and ranked leads exactly`. No Run 195 identity received a verdict or utility addition.
 
 Run 196 used source commit `4018c002325252662018fe30a8d9b5b89609edf1`. Its matching schemaVersion 2 snapshot is internally valid and `PARTIAL`: nine requested, five exact resolutions, three selected candidates, two alternates and four unresolved identities. There were no duplicates, substitutions, relinkings or technical failures.
