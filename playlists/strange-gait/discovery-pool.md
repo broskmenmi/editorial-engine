@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 219 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| PARKED / EXACT | EDC | EDC1_1; EDC1_3 | https://open.spotify.com/track/2VCzAhyXi4l9VteKVtpNBJ · https://open.spotify.com/track/7lFUadxKw6ziPB1ZfFCipI | Exact selected identities; both pass volume fit but remain individually underdescribed after two placement tests each. Retained as interesting; reopen only for materially richer exact-track evidence, changed structural need, lawful audio evidence or explicit listener evidence. |
+| PARKED / EXACT | Stefàn Dubs | Lion Last | https://open.spotify.com/track/7oUKzN6K4DJHFDWDLPrBoE | Exact selected catalogue identity; volume fit passes, while individual development, endpoint and tested handoffs remain decision-critical unknowns. |
+| UNRESOLVED | Al Wootton, Irene Bianco; Stefan Dubs | Spring; Horses; Whispers; Bassbin Tremor Dub | https://trule.bandcamp.com/album/rope · https://trule.bandcamp.com/album/spring-tones | Four exact-title leads, each returning `no exact Spotify title/artist search match in market SE`; no verdict or utility row. |
+| EXACT ALTERNATES | EDC; Stefàn Dubs | EDC1_2; Untitled Version | See discoveries.md Run 219 | Resolved but unselected and unevaluated; not retained as editorial decisions and absent from the utility ledger. |
+| WATCH | TRULE; EDC; Al Wootton & Irene Bianco | EDC1; Rope; Spring Tones | Sources above | Current, emerging and overlooked-catalogue windows; release-level language must not be promoted into individual felt claims. |
+
+### Placement and inspiration boundaries
+
+- The three exact tracks are PARKED, not rejected or canonically sequenced.
+- The four unresolved leads remain identity questions only.
+- Set direction: use circular or cross-form material to ask what changes downstream.
+- No BPM, phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 218 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

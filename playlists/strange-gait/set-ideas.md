@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 219
+
+### Ask what the circle leaves behind
+
+**Direction:** Circular hardware processes and cross-form dub vocabularies are useful programming propositions when they create a different downstream condition. Shared release descriptions should form questions, not stand in for individual track behavior.
+
+**Ingredients:**
+
+- EDC — *EDC1_1* and *EDC1_3* — exact PARKED identities with different tested boundaries
+- Stefàn Dubs — *Lion Last* — exact PARKED catalogue identity
+- Al Wootton & Irene Bianco — *Spring*, *Horses* and *Whispers* — unresolved current free-form research leads
+
+**Why interesting:** The field links repetition, improvisation and version-form thinking without assuming they produce one vibe or a correct sequencing template.
+
+**Unknown / risk:** Individual direction, development, endpoint, phrase fit, perceived pulse, energy, density, space and live mixability remain unestablished. These are set directions, not proven sequences.
+
 ## Current additions — Run 218
 
 ### Hold programming questions open across identity loss

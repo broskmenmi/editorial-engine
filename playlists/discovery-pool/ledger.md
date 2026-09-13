@@ -445,6 +445,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 439 | Carrier | Black Channels | spotify:track:4SewdQqfUDoE6ekxb5rkMo | STRANGE GAIT Run 217 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 440 | DB1 | Fluktuation #2 | spotify:track:4lJEyJzwFZuo7GGWMewhCD | STRANGE GAIT Run 217 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 441 | Ignacio | Organon | spotify:track:2hmDaPETmX0LvfGloRRhiz | STRANGE GAIT Run 217 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 442 | EDC | EDC1_1 | spotify:track:2VCzAhyXi4l9VteKVtpNBJ | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
+| 443 | EDC | EDC1_3 | spotify:track:7lFUadxKw6ziPB1ZfFCipI | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
+| 444 | Stefàn Dubs | Lion Last | spotify:track:7oUKzN6K4DJHFDWDLPrBoE | STRANGE GAIT Run 219 | PARKED / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,79 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 219 — EXPLORE — shared release framing cannot choose an individual consequence — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 441 contiguous unique tracks. Automatic publishing was enabled. Run 218's two duplicate outcomes remained documented as non-actionable and were not reopened.
+
+**Fresh exploration:** Run `2026-09-13T17:48:10Z-explore-219` inspected approximately 72 named tracks across roughly seventeen current, adjacent/emerging and overlooked-catalogue releases, label pages and editorial roundups. The surviving field centered on Al Wootton & Irene Bianco's current free-form collaboration, EDC's emerging hardware-rhythm EP and Stefàn Dubs' overlooked 2021 catalogue. Completed Runs 211, 213, 214, 217 and 218 fields were excluded, every exact pair was checked across persistent state, and all nine placements avoided their selected-candidate boundaries. Nine honest leads survived without padding.
+
+- **runId:** `2026-09-13T17:48:10Z-explore-219`
+- **sourceCommit:** `5a13e87e98bbbe073a6b4cfa9bb9f8f2610e2d6e`
+- **request commit:** `7bfb87ea385768283782c16bdf2a72bc3be62cde`
+- **snapshot commit:** `e77c8c8f18c085f0a18963590153e7745683a4be`
+- **request fingerprint:** `b74fe267633a416cadf6dc9526ab31f6a0a3692b40c8bd5f671c0b6cb7db3c21`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 5 exact resolutions, 3 selected candidates, 2 resolved alternates and 4 Spotify-SE misses; no warnings, duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Al Wootton, Irene Bianco — *Spring*
+- Stefan Dubs — *Bassbin Tremor Dub*
+- Al Wootton, Irene Bianco — *Horses*
+- Al Wootton, Irene Bianco — *Whispers*
+
+Resolved but unselected and unevaluated:
+
+- EDC — *EDC1_2* — `spotify:track:4zHFJXKd1iAqJsaCASPxwU`
+- Stefàn Dubs — *Untitled Version* — `spotify:track:7piKH6G7NNsTHuW0CroAAe`
+
+### Candidate evaluation
+
+**EDC — EDC1_1 — PARKED.**
+
+- **Volume fit:** PASS. An exact 346,306-ms identity and the source's circular minimal-hardware-rhythm frame make it a serious structural-freedom proposition without treating hardware or minimalism as merit.
+- **Immediate transition:** UNKNOWN at `Never Met → candidate → Trompe L'oeil`. The shared EP description does not establish this track's individual direction, development or endpoint, so it cannot show whether the candidate changes the reset.
+- **Local run:** UNKNOWN through `Sarniezz → Never Met → candidate → Trompe L'oeil → FELT`. A second reasonable test at `Roxellana → candidate → backsliding` reaches the same blocker: the evidence cannot establish either handoff or what the candidate leaves behind.
+- **Long form:** UNKNOWN. Placement responsibility, not missing listener confirmation, is decision-critical. The bar is not stricter than for existing provisional ADDs: those admissions had candidate-specific structure or consequence evidence; this candidate has one shared release sentence.
+
+**EDC — EDC1_3 — PARKED.**
+
+- **Volume fit:** PASS. The exact 296,480-ms identity belongs to the same relevant circular hardware-rhythm experiment.
+- **Immediate transition:** UNKNOWN at `U Belong 2 Me → candidate → Transparency`; both protected internal handoffs would remain intact, but the shared framing cannot establish a purposeful pre-block condition.
+- **Local run:** UNKNOWN through `Same Way → U Belong 2 Me → candidate → Transparency → When We Froze`. A second test at `Worn Down → candidate → Atlantis` remains undecidable for the same individual-direction and endpoint gap.
+- **Long form:** UNKNOWN. Duration and release method do not prove whether the track sharpens, delays or duplicates either passage. The evidence bar matches the historically accepted requirement for a specific downstream consequence.
+
+**Stefàn Dubs — Lion Last — PARKED.**
+
+- **Volume fit:** PASS. The exact 361,291-ms catalogue identity and attributed cross-form vocabulary make it a lawful contender without treating genre range or dancefloor focus as proof.
+- **Immediate transition:** UNKNOWN at `Migration → candidate → Eyes of the Wind`. The EP-level description does not distinguish *Lion Last*'s individual behavior or exit.
+- **Local run:** UNKNOWN through `Stardancer → Migration → candidate → Eyes of the Wind → Nukumori`. A second test at `Trompe L'oeil → candidate → FELT` remains blocked by the same missing track-specific development and endpoint evidence.
+- **Long form:** UNKNOWN. The candidate may redirect, extend or merely duplicate a transition; the best available evidence cannot choose responsibly among those possibilities.
+
+### Auditor decision
+
+APPROVED: preserve all four unresolved identities and both exact alternates; PARK the three selected exact candidates; make no canonical, annotation, rejection or order change; retain the three PARKED identities as genuinely interesting locally and in the global utility ledger.
+
+This is the second clustered PARK outcome within the previous five comparable completed discovery runs driven by the same shared-release description gap: Run 211 parked three François X tracks, and Run 219 parks three more exact tracks despite different placements and release contexts. Six exact retained candidates now share an individual direction/development/endpoint blocker. Under the workflow-health contract this is one actionable Scout/evidence-diversity defect, not six musical failures. Repair Run 220 must execute next by hardening the post-recurrence lead floor before any ordinary EXPLORE resumes.
+
+### Discovery harvest
+
+- Retain EDC — *EDC1_1*, EDC — *EDC1_3* and Stefàn Dubs — *Lion Last* as exact PARKED inspiration and global utility entries.
+- Preserve four Spotify-SE misses as distinct current/catalogue research leads.
+- Retain TRULE, EDC and the Al Wootton / Irene Bianco collaboration as label, emerging-artist and current-release watches.
+- Preserve the set direction: use circular or cross-form material to ask what changes downstream, without claiming a proven sequence.
+- Keep the two exact alternates unevaluated and outside the utility ledger.
+
+### Run analysis
+
+`~72 inspected → 9 leads → 5 exact resolutions + 4 unresolved → 3 evaluations + 2 alternates → 0 ADD + 3 PARKED → 3 utility additions`
+
+Inspection-to-lead conversion: 12.5%. Resolution yield: 55.6%. Selected-candidate-to-ADD conversion: 0/3. Across completed discovery Runs 87–219, excluding process repairs and failed runs: 990 leads from approximately 6,048 inspections; 40 ADDs from 296 selected candidates. The recent comparable ADD rate remains 2/10, and the musical no-ADD streak is three completed runs after Run 214. Six exact genuinely interesting tracks have been retained since that ADD.
+
+The strongest counterargument is that three different placements could justify three independent PARK decisions without a process repair. The individual decisions are valid, but the repeated shared-description blocker across Runs 211 and 219 is now itself actionable under the explicit workflow-health rule. This run proves a recurring evidence-selection problem; it does not prove that any candidate belongs canonically, that the playlist is complete, or that the tracks share one sound.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 218 — EXPLORE — identity absence preserves distinct programming questions — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 441 contiguous unique tracks. Automatic publishing was enabled.
