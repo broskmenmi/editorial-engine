@@ -1,454 +1,384 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "b74fe267633a416cadf6dc9526ab31f6a0a3692b40c8bd5f671c0b6cb7db3c21",
-  "generatedAt": "2026-09-13T17:55:05.870Z",
-  "runId": "2026-09-13T17:48:10Z-explore-219",
-  "sourceCommit": "5a13e87e98bbbe073a6b4cfa9bb9f8f2610e2d6e",
+  "requestFingerprint": "95c898a67b8fc87acd491e6d17117dad8ac60b8822ed9dc2887c47bc8c0de3c9",
+  "generatedAt": "2026-09-13T19:00:49.596Z",
+  "runId": "2026-09-13T18:53:10Z-explore-221",
+  "sourceCommit": "c756a151ca7945f7664694bbab4c66027c1de43a",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 72 named tracks across roughly seventeen releases, label pages and editorial roundups: current August–September electronic releases, emerging hardware-rhythm work, adjacent free-form electronic material and overlooked TRULE catalogue. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 84 named tracks across current techno and experimental listings, adjacent bass/electronic releases, emerging-label pages and overlooked electronic, dub and sound-system catalogue. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "Completed Runs 211, 213, 214, 217 and 218 source fields and selected identities were excluded; failed Run 212 identities were not reused.",
+      "Completed Runs 213, 214, 217, 218 and 219 selected identities and source fields were excluded; failed Run 212 identities and the six unresolved Mark Fell leads from Run 197 were not reused.",
       "Every exact artist/title pair below was checked against the canonical ledger, target discoveries, local discovery pool, active rejections, PARKED revisit queue and global utility ledger before ranking; none was present.",
-      "The repetition check compared the previous five completed discovery runs (211, 213, 214, 217 and 218). None of the nine placements repeats a selected-candidate boundary from those runs.",
+      "The repetition check compared the previous five completed discovery runs (213, 214, 217, 218 and 219). None of the nine placements repeats a selected-candidate boundary from those runs.",
+      "Run 220's activated evidence guard is applied: all nine leads come from different releases, and the three strongest slots carry candidate-specific descriptions of direction, development or material rather than shared release framing.",
       "Nine honest leads survived without padding. The protected Transparency → When We Froze → Stardancer internal order and both protected handoffs remain untouched. No Spotify connector, raw audio, invented identity or metadata-to-feeling inference was used."
     ],
     "rankedLeadSummary": [
-      "1. Al Wootton, Irene Bianco — Spring",
-      "2. EDC — EDC1_1",
-      "3. Stefan Dubs — Bassbin Tremor Dub",
-      "4. Al Wootton, Irene Bianco — Horses",
-      "5. EDC — EDC1_3",
-      "6. Stefan Dubs — Lion Last",
-      "7. Al Wootton, Irene Bianco — Whispers",
-      "8. EDC — EDC1_2",
-      "9. Stefan Dubs — Untitled Version"
+      "1. Sabre — Brisket",
+      "2. TLIC — USB Stick In Quarantine",
+      "3. Romain Azzaro — Fusion",
+      "4. Boards of Canada — The Word Becomes Flesh",
+      "5. G Rush — Seduction",
+      "6. Lisovskyi — Dyr Dyr",
+      "7. Johnny Clarke — Nuclear War",
+      "8. Lee Perry — Groovy Dub",
+      "9. The Actions — Music Like Dirt"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Al Wootton & Irene Bianco — Rope, released 2026-08-07. https://trule.bandcamp.com/album/rope",
-      "ADJACENT / EMERGING WINDOW: EDC — EDC1, released 2026-05-01. https://trule.bandcamp.com/album/edc1",
-      "OVERLOOKED CATALOGUE WINDOW: Stefan Dubs — Spring Tones, released 2021-07-16. https://trule.bandcamp.com/album/spring-tones",
-      "BROADER CURRENT SURVEY: Resident Advisor's Best Music 2026: August and Bandcamp Daily's Best New Electronic Music on Bandcamp, August 2026 were inspected before the narrower label field was selected. https://ra.co/features/4490 ; https://daily.bandcamp.com/best-electronic/the-best-new-electronic-music-on-bandcamp-august-2026"
+      "CURRENT RELEASE WINDOW: Sabre — Big Cat EP and TLIC — Winterplague Adopt, Juno current experimental/electronic listings, released 2026-09-10 and 2026-09-09. https://www.juno.co.uk/experimental-electronic/this-week/",
+      "ADJACENT / EMERGING WINDOW: Kuboraum Sound Residency Vol. 2, G Rush — Spectra EP and Lisovskyi's LIS 003 field. https://boomkat.com/products/digital-sound-residency-vol-2 ; https://www.juno.co.uk/techno/this-week/",
+      "OVERLOOKED / CROSS-FORM CATALOGUE WINDOW: Johnny Clarke — Yard Style, Lee Perry — Megaton Dub 2 and The Actions — Music Like Dirt. https://boomkat.com/new-releases",
+      "BROADER SURVEY: Boomkat's live new-release field plus Juno's current techno, bass and experimental/electronic catalogues were inspected before the nine-release field was frozen. https://boomkat.com/new-releases ; https://www.juno.co.uk/techno/this-week/ ; https://www.juno.co.uk/bass/this-week/"
     ],
-    "timestampUtc": "2026-09-13T17:48:10Z"
+    "timestampUtc": "2026-09-13T18:53:10Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 5,
+  "resolvedCount": 3,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Al Wootton, Irene Bianco",
-      "track": "Spring",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Sabre",
+      "track": "Brisket",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0Jd52Ad25Ms6D6sMJwME7r, 1IYMHen0VlcvxWVvfokSLO)",
       "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
+        "album": "Big Cat EP",
+        "artist": "Sabre",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Spring at 7:09.",
+          "attributedDescription": "Juno describes Brisket as setting the EP's tone with a Krust nod, a skittish course prone to surprises, and playfulness beneath tension.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the improvisational stage changes the widening-to-swung continuation, or inserts another complete scene.",
+          "editorialInterpretation": "Test whether its documented skittish surprises change the rhythm-to-dissonance collapse before opposed temporal strain, or add a second instability scene.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current free-form rhythmic proposition; improvisation and contrast invite evaluation but are not admission criteria.",
+        "fitHypothesis": "A current structurally mobile drum-and-bass/electronic proposition; surprise is a question for sequence consequence, not merit by itself.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether the improvisational stage changes the widening-to-swung continuation, or inserts another complete scene."
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "purpose": "Test whether its documented skittish surprises change the rhythm-to-dissonance collapse before opposed temporal strain, or add a second instability scene."
           }
         ],
-        "releaseDate": "2026-08-07",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Spring"
+        "track": "Brisket"
       }
     },
     {
-      "artist": "Stefan Dubs",
-      "track": "Bassbin Tremor Dub",
+      "artist": "TLIC",
+      "track": "USB Stick In Quarantine",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
+        "album": "Winterplague Adopt",
+        "artist": "TLIC",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Bassbin Tremor Dub at 6:25.",
+          "attributedDescription": "Juno describes the exact track as a cacophony of staccato laser beams and high-end details like metal slicing through thin air; the listing gives a 3:54 duration.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the driving re-escalation before Drummz, or adds another rhythm statement.",
+          "editorialInterpretation": "Test whether the sharply articulated intermediate field changes consolidation into Truth in Noise, or merely postpones it.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked catalogue cross-form proposition whose value depends on downstream consequence, not genre range.",
+        "fitHypothesis": "A current concise electronic proposition with exact-track material evidence; brevity and abrasion do not establish placement value.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": null,
             "outgoingBpm": 138,
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether it changes the driving re-escalation before Drummz, or adds another rhythm statement."
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "purpose": "Test whether the sharply articulated intermediate field changes consolidation into Truth in Noise, or merely postpones it."
           }
         ],
-        "releaseDate": "2021-07-16",
+        "releaseDate": "2026-09-09",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Bassbin Tremor Dub"
+        "track": "USB Stick In Quarantine"
       }
     },
     {
-      "artist": "Al Wootton, Irene Bianco",
-      "track": "Horses",
+      "artist": "G Rush",
+      "track": "Seduction",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
+        "album": "Spectra EP",
+        "artist": "G Rush",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Horses at 4:51.",
+          "attributedDescription": "Juno distinguishes Seduction as lifting the EP's preceding fog into a bass-led construction punctuated by involuntary vocal utterances; the listing gives a 7:51 duration.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the hand-drum mutation before self-stripping instability, or over-explains that passage.",
+          "editorialInterpretation": "Test whether its documented fog-lifting state changes Worn Down's threatened-coherence threshold, or adds an oversized foreground stage.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A concise current free-form proposition without assuming its shorter duration improves flow.",
+        "fitHypothesis": "An emerging exact-track change-of-state proposition; attributed bass emphasis and length require proportional evaluation rather than inferred energy.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether it changes the hand-drum mutation before self-stripping instability, or over-explains that passage."
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether its documented fog-lifting state changes Worn Down's threatened-coherence threshold, or adds an oversized foreground stage."
           }
         ],
-        "releaseDate": "2026-08-07",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Horses"
+        "track": "Seduction"
       }
     },
     {
-      "artist": "Al Wootton, Irene Bianco",
-      "track": "Whispers",
+      "artist": "Lisovskyi",
+      "track": "Dyr Dyr",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
+        "album": "LIS 003",
+        "artist": "Lisovskyi",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Whispers at 6:22.",
+          "attributedDescription": "Juno describes Dyr Dyr as Ukrainian-dubbed Police Academy dialogue over a harsh broken-beat percussion construction; the listing gives a 5:55 duration.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the live-band left turn's exit into passing foreground, or merely prolongs the detour.",
+          "editorialInterpretation": "Test whether its dialogue-over-broken-beat construction changes the move from deformation to competing emphasis, or over-explains that conflict.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current extended free-form proposition; title and duration are not felt evidence.",
+        "fitHypothesis": "An emerging broken-beat and spoken-sample proposition; harshness and dialogue are evidence of material, not energy or sequence success.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": null,
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": 138,
             "outgoingBpm": null,
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether it changes the live-band left turn's exit into passing foreground, or merely prolongs the detour."
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "purpose": "Test whether its dialogue-over-broken-beat construction changes the move from deformation to competing emphasis, or over-explains that conflict."
           }
         ],
-        "releaseDate": "2026-08-07",
+        "releaseDate": "2026-09-11",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Whispers"
+        "track": "Dyr Dyr"
+      }
+    },
+    {
+      "artist": "Johnny Clarke",
+      "track": "Nuclear War",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Yard Style",
+        "artist": "Johnny Clarke",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat identifies Nuclear War through puckered halfstep and dread themes within Mad Professor's early electronic Ariwa production.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the halfstep/dread scene changes the flare into contaminated-song disassembly, or creates another descent premise.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked cross-form catalogue proposition; historical importance and halfstep vocabulary are not canonical proof.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether the halfstep/dread scene changes the flare into contaminated-song disassembly, or creates another descent premise."
+          }
+        ],
+        "releaseDate": "1983",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Nuclear War"
+      }
+    },
+    {
+      "artist": "Lee Perry",
+      "track": "Groovy Dub",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "album": "Megaton Dub 2",
+        "artist": "Lee Perry",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat describes Groovy Dub as super-slow and wide, bathed in effects, within a reissue of late-1970s Black Ark material first issued in 1984.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the wide dub stage gives the post-protected piano/break pivot a changed departure state, or delays the stronger character turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked dub-production proposition relevant to structural freedom; catalogue stature, width and slowness do not determine flow.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether the wide dub stage gives the post-protected piano/break pivot a changed departure state, or delays the stronger character turn."
+          }
+        ],
+        "releaseDate": "1984",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Groovy Dub"
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "artist": "The Actions",
+      "track": "Music Like Dirt",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026\" but Spotify returned \"2026-09-11\""
+    }
+  ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
+        "album": "Big Cat EP",
+        "artist": "Sabre",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Spring at 7:09.",
+          "attributedDescription": "Juno describes Brisket as setting the EP's tone with a Krust nod, a skittish course prone to surprises, and playfulness beneath tension.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the improvisational stage changes the widening-to-swung continuation, or inserts another complete scene.",
+          "editorialInterpretation": "Test whether its documented skittish surprises change the rhythm-to-dissonance collapse before opposed temporal strain, or add a second instability scene.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current free-form rhythmic proposition; improvisation and contrast invite evaluation but are not admission criteria.",
+        "fitHypothesis": "A current structurally mobile drum-and-bass/electronic proposition; surprise is a question for sequence consequence, not merit by itself.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "incomingBpm": 134,
-            "outgoingBpm": 135,
-            "position": "Between Cave and Abundance",
-            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-            "purpose": "Test whether the improvisational stage changes the widening-to-swung continuation, or inserts another complete scene."
-          }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Spring"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
-        "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_1 at 5:46.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An emerging hardware-rhythm proposition directly relevant to structural freedom without using minimalism as merit.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
             "incomingBpm": null,
-            "outgoingBpm": 130,
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "purpose": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil."
+            "outgoingBpm": null,
+            "position": "Between backsliding and Mildew Swoosh",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "purpose": "Test whether its documented skittish surprises change the rhythm-to-dissonance collapse before opposed temporal strain, or add a second instability scene."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "2026-09-10",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "EDC1_1"
+        "track": "Brisket"
       },
-      "spotifyTrackId": "2VCzAhyXi4l9VteKVtpNBJ",
-      "selected": true
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0Jd52Ad25Ms6D6sMJwME7r, 1IYMHen0VlcvxWVvfokSLO)"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
+        "album": "Winterplague Adopt",
+        "artist": "TLIC",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Bassbin Tremor Dub at 6:25.",
+          "attributedDescription": "Juno describes the exact track as a cacophony of staccato laser beams and high-end details like metal slicing through thin air; the listing gives a 3:54 duration.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the driving re-escalation before Drummz, or adds another rhythm statement.",
+          "editorialInterpretation": "Test whether the sharply articulated intermediate field changes consolidation into Truth in Noise, or merely postpones it.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked catalogue cross-form proposition whose value depends on downstream consequence, not genre range.",
+        "fitHypothesis": "A current concise electronic proposition with exact-track material evidence; brevity and abrasion do not establish placement value.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "incomingBpm": 140,
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": null,
             "outgoingBpm": 138,
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "purpose": "Test whether it changes the driving re-escalation before Drummz, or adds another rhythm statement."
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "purpose": "Test whether the sharply articulated intermediate field changes consolidation into Truth in Noise, or merely postpones it."
           }
         ],
-        "releaseDate": "2021-07-16",
+        "releaseDate": "2026-09-09",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Bassbin Tremor Dub"
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
-        "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Horses at 4:51.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the hand-drum mutation before self-stripping instability, or over-explains that passage.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A concise current free-form proposition without assuming its shorter duration improves flow.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "purpose": "Test whether it changes the hand-drum mutation before self-stripping instability, or over-explains that passage."
-          }
-        ],
-        "releaseDate": "2026-08-07",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Horses"
+        "track": "USB Stick In Quarantine"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
+        "album": "Kuboraum Sound Residency Vol. 2",
+        "artist": "Romain Azzaro",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
+        "discoverySource": "https://boomkat.com/products/digital-sound-residency-vol-2",
         "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_3 at 4:56.",
+          "attributedDescription": "Boomkat identifies Fusion as a trap-gamelan hybrid and says its motion carries forward from the preceding groove-led cut; the official Kuboraum listing confirms the exact artist/title.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched.",
+          "editorialInterpretation": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An emerging circular-rhythm proposition; hardware method alone confers no sequence value.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "outgoingBpm": 143,
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "EDC1_3"
-      },
-      "spotifyTrackId": "7lFUadxKw6ziPB1ZfFCipI",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
-        "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Lion Last at 6:01.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked catalogue hybrid proposition without treating genre crossing or functionality as proof.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage."
-          }
-        ],
-        "releaseDate": "2021-07-16",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Lion Last"
-      },
-      "spotifyTrackId": "7oUKzN6K4DJHFDWDLPrBoE",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "album": "Rope",
-        "artist": "Al Wootton, Irene Bianco",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/rope",
-        "evidence": {
-          "attributedDescription": "TRULE describes Rope as collaborative improvisation pairing hardware processing and multiple instruments with experimental percussion, yielding free-form compositions. The cited source lists Whispers at 6:22.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the live-band left turn's exit into passing foreground, or merely prolongs the detour.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current extended free-form proposition; title and duration are not felt evidence.",
+        "fitHypothesis": "An adjacent cross-form rhythmic proposition; hybrid vocabulary creates a placement question but does not prove volume fit or flow.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
@@ -457,462 +387,468 @@
             "outgoingBpm": null,
             "position": "Between Sarniezz and Never Met",
             "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "purpose": "Test whether it changes the live-band left turn's exit into passing foreground, or merely prolongs the detour."
+            "purpose": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met."
           }
         ],
-        "releaseDate": "2026-08-07",
+        "releaseDate": "2026-07-03",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Whispers"
+        "track": "Fusion"
+      },
+      "spotifyTrackId": "2EMoo3kbKTHrIiYZvyfVWG",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "album": "Inferno",
+        "artist": "Boards of Canada",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat describes the exact track as balancing dystopian robot voices with squelchy acid gurgles; Warp confirms the exact 5:20 identity on Inferno.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current electronic contrast with candidate-specific material evidence; prominence and production world are not admission criteria.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "purpose": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake."
+          }
+        ],
+        "releaseDate": "2026-05-29",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "The Word Becomes Flesh"
+      },
+      "spotifyTrackId": "2zKrt7YUpsKWEQagjS4rOQ",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Spectra EP",
+        "artist": "G Rush",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno distinguishes Seduction as lifting the EP's preceding fog into a bass-led construction punctuated by involuntary vocal utterances; the listing gives a 7:51 duration.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether its documented fog-lifting state changes Worn Down's threatened-coherence threshold, or adds an oversized foreground stage.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An emerging exact-track change-of-state proposition; attributed bass emphasis and length require proportional evaluation rather than inferred energy.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "purpose": "Test whether its documented fog-lifting state changes Worn Down's threatened-coherence threshold, or adds an oversized foreground stage."
+          }
+        ],
+        "releaseDate": "2026-09-10",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Seduction"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "LIS 003",
+        "artist": "Lisovskyi",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "evidence": {
+          "attributedDescription": "Juno describes Dyr Dyr as Ukrainian-dubbed Police Academy dialogue over a harsh broken-beat percussion construction; the listing gives a 5:55 duration.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether its dialogue-over-broken-beat construction changes the move from deformation to competing emphasis, or over-explains that conflict.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An emerging broken-beat and spoken-sample proposition; harshness and dialogue are evidence of material, not energy or sequence success.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": 138,
+            "outgoingBpm": null,
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "purpose": "Test whether its dialogue-over-broken-beat construction changes the move from deformation to competing emphasis, or over-explains that conflict."
+          }
+        ],
+        "releaseDate": "2026-09-11",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Dyr Dyr"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Yard Style",
+        "artist": "Johnny Clarke",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat identifies Nuclear War through puckered halfstep and dread themes within Mad Professor's early electronic Ariwa production.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the halfstep/dread scene changes the flare into contaminated-song disassembly, or creates another descent premise.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked cross-form catalogue proposition; historical importance and halfstep vocabulary are not canonical proof.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "outgoingBpm": null,
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "purpose": "Test whether the halfstep/dread scene changes the flare into contaminated-song disassembly, or creates another descent premise."
+          }
+        ],
+        "releaseDate": "1983",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Nuclear War"
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "album": "Megaton Dub 2",
+        "artist": "Lee Perry",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat describes Groovy Dub as super-slow and wide, bathed in effects, within a reissue of late-1970s Black Ark material first issued in 1984.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the wide dub stage gives the post-protected piano/break pivot a changed departure state, or delays the stronger character turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked dub-production proposition relevant to structural freedom; catalogue stature, width and slowness do not determine flow.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "incomingBpm": 137,
+            "outgoingBpm": null,
+            "position": "Between Stardancer and Migration",
+            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+            "purpose": "Test whether the wide dub stage gives the post-protected piano/break pivot a changed departure state, or delays the stronger character turn."
+          }
+        ],
+        "releaseDate": "1984",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Groovy Dub"
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
+        "album": "Music Like Dirt / I'll Give It To You",
+        "artist": "The Actions",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
+        "discoverySource": "https://boomkat.com/new-releases",
         "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_2 at 4:15.",
+          "attributedDescription": "Boomkat describes Music Like Dirt as a rude vocal duet over an ear-catching bassline with reverse-tape stabs likened to boisterous screeches.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation.",
+          "editorialInterpretation": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A concise emerging hardware-rhythm proposition without inferring force or economy from duration.",
+        "fitHypothesis": "An overlooked reggae/electronic-production edge case; distinctive effects are a volume-fit question, not proof of techno belonging.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Hypnic Jerks and Tides Alternate",
-            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "purpose": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation."
+            "outgoingBpm": 134,
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "purpose": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain."
           }
         ],
-        "releaseDate": "2026-05-01",
+        "releaseDate": "2026",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "EDC1_2"
+        "track": "Music Like Dirt"
       },
-      "spotifyTrackId": "4zHFJXKd1iAqJsaCASPxwU",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
-        "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Untitled Version at 6:00.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked catalogue version-form proposition without assuming dub lineage improves the journey.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "outgoingBpm": 136,
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "purpose": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup."
-          }
-        ],
-        "releaseDate": "2021-07-16",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Untitled Version"
-      },
-      "spotifyTrackId": "7piKH6G7NNsTHuW0CroAAe",
-      "selected": false
+      "spotifyTrackId": "4F6eHWVK4BidJCXrFuVX2g",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "2VCzAhyXi4l9VteKVtpNBJ",
-      "uri": "spotify:track:2VCzAhyXi4l9VteKVtpNBJ",
-      "name": "EDC1_1",
+      "id": "2EMoo3kbKTHrIiYZvyfVWG",
+      "uri": "spotify:track:2EMoo3kbKTHrIiYZvyfVWG",
+      "name": "Fusion",
       "artists": [
-        "EDC"
+        "Romain Azzaro"
       ],
-      "album": "EDC1",
-      "releaseDate": "2026-05-01",
-      "durationMs": 346306,
-      "spotifyUrl": "https://open.spotify.com/track/2VCzAhyXi4l9VteKVtpNBJ",
+      "album": "Kuboraum Sound Residency Vol. 2",
+      "releaseDate": "2026-07-03",
+      "durationMs": 259609,
+      "spotifyUrl": "https://open.spotify.com/track/2EMoo3kbKTHrIiYZvyfVWG",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://trule.bandcamp.com/album/edc1",
+      "discoverySource": "https://boomkat.com/products/digital-sound-residency-vol-2",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
           "candidateBpm": null,
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "outgoingBpm": 130,
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "purpose": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil."
-        }
-      ],
-      "fitHypothesis": "An emerging hardware-rhythm proposition directly relevant to structural freedom without using minimalism as merit.",
-      "evidence": {
-        "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_1 at 5:46.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
-        "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_1 at 5:46.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An emerging hardware-rhythm proposition directly relevant to structural freedom without using minimalism as merit.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "outgoingBpm": 130,
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "purpose": "Test whether the circular rhythm experiment creates a changed reset, or merely delays Trompe L'oeil."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "EDC1_1"
-      }
-    },
-    {
-      "id": "7lFUadxKw6ziPB1ZfFCipI",
-      "uri": "spotify:track:7lFUadxKw6ziPB1ZfFCipI",
-      "name": "EDC1_3",
-      "artists": [
-        "EDC"
-      ],
-      "album": "EDC1",
-      "releaseDate": "2026-05-01",
-      "durationMs": 296480,
-      "spotifyUrl": "https://open.spotify.com/track/7lFUadxKw6ziPB1ZfFCipI",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://trule.bandcamp.com/album/edc1",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": null,
-          "outgoingBpm": 143,
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "purpose": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched."
-        }
-      ],
-      "fitHypothesis": "An emerging circular-rhythm proposition; hardware method alone confers no sequence value.",
-      "evidence": {
-        "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_3 at 4:56.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
-        "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_3 at 4:56.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An emerging circular-rhythm proposition; hardware method alone confers no sequence value.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "outgoingBpm": 143,
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "purpose": "Test whether it creates a purposeful pre-block condition before Transparency, while leaving both protected internal handoffs untouched."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "EDC1_3"
-      }
-    },
-    {
-      "id": "7oUKzN6K4DJHFDWDLPrBoE",
-      "uri": "spotify:track:7oUKzN6K4DJHFDWDLPrBoE",
-      "name": "Lion Last",
-      "artists": [
-        "Stefàn Dubs"
-      ],
-      "album": "Spring Tones",
-      "releaseDate": "2021-07-16",
-      "durationMs": 361291,
-      "spotifyUrl": "https://open.spotify.com/track/7oUKzN6K4DJHFDWDLPrBoE",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "outgoingBpm": null,
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "purpose": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage."
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "purpose": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met."
         }
       ],
-      "fitHypothesis": "An overlooked catalogue hybrid proposition without treating genre crossing or functionality as proof.",
+      "fitHypothesis": "An adjacent cross-form rhythmic proposition; hybrid vocabulary creates a placement question but does not prove volume fit or flow.",
       "evidence": {
-        "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Lion Last at 6:01.",
+        "attributedDescription": "Boomkat identifies Fusion as a trap-gamelan hybrid and says its motion carries forward from the preceding groove-led cut; the official Kuboraum listing confirms the exact artist/title.",
         "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage.",
+        "editorialInterpretation": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
           "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
       "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
+        "album": "Kuboraum Sound Residency Vol. 2",
+        "artist": "Romain Azzaro",
         "bpm": null,
         "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
+        "discoverySource": "https://boomkat.com/products/digital-sound-residency-vol-2",
         "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Lion Last at 6:01.",
+          "attributedDescription": "Boomkat identifies Fusion as a trap-gamelan hybrid and says its motion carries forward from the preceding groove-led cut; the official Kuboraum listing confirms the exact artist/title.",
           "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage.",
+          "editorialInterpretation": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked catalogue hybrid proposition without treating genre crossing or functionality as proof.",
+        "fitHypothesis": "An adjacent cross-form rhythmic proposition; hybrid vocabulary creates a placement question but does not prove volume fit or flow.",
         "proposedPlacements": [
           {
             "candidateBpm": null,
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "outgoingBpm": null,
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "purpose": "Test whether it changes the piano-to-liminal-percussion pivot, or inserts a redundant cross-form stage."
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "purpose": "Test whether the trap-gamelan hybrid changes the live-band pulse illusion's exit into passing foreground, or creates another complete premise before Never Met."
           }
         ],
-        "releaseDate": "2021-07-16",
+        "releaseDate": "2026-07-03",
         "searchIntent": "BOTH",
         "spotifyTrackId": null,
-        "track": "Lion Last"
+        "track": "Fusion"
+      }
+    },
+    {
+      "id": "2zKrt7YUpsKWEQagjS4rOQ",
+      "uri": "spotify:track:2zKrt7YUpsKWEQagjS4rOQ",
+      "name": "The Word Becomes Flesh",
+      "artists": [
+        "Boards of Canada"
+      ],
+      "album": "Inferno",
+      "releaseDate": "2026-05-29",
+      "durationMs": 320100,
+      "spotifyUrl": "https://open.spotify.com/track/2zKrt7YUpsKWEQagjS4rOQ",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://boomkat.com/new-releases",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "incomingBpm": null,
+          "outgoingBpm": 140,
+          "position": "Between Freepass for Them and Moonwake",
+          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "purpose": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake."
+        }
+      ],
+      "fitHypothesis": "A current electronic contrast with candidate-specific material evidence; prominence and production world are not admission criteria.",
+      "evidence": {
+        "attributedDescription": "Boomkat describes the exact track as balancing dystopian robot voices with squelchy acid gurgles; Warp confirms the exact 5:20 identity on Inferno.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "Inferno",
+        "artist": "Boards of Canada",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat describes the exact track as balancing dystopian robot voices with squelchy acid gurgles; Warp confirms the exact 5:20 identity on Inferno.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current electronic contrast with candidate-specific material evidence; prominence and production world are not admission criteria.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": null,
+            "outgoingBpm": 140,
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "purpose": "Test whether its voice/acid opposition gives intensification a changed object, or interrupts an already direct pivot into Moonwake."
+          }
+        ],
+        "releaseDate": "2026-05-29",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "The Word Becomes Flesh"
+      }
+    },
+    {
+      "id": "4F6eHWVK4BidJCXrFuVX2g",
+      "uri": "spotify:track:4F6eHWVK4BidJCXrFuVX2g",
+      "name": "Music Like Dirt",
+      "artists": [
+        "The Actions"
+      ],
+      "album": "Music Like Dirt / I'll Give It To You",
+      "releaseDate": "2026-09-11",
+      "durationMs": 116160,
+      "spotifyUrl": "https://open.spotify.com/track/4F6eHWVK4BidJCXrFuVX2g",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://boomkat.com/new-releases",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "candidateBpm": null,
+          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "incomingBpm": null,
+          "outgoingBpm": 134,
+          "position": "Between Egue into hs and Cave",
+          "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "purpose": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain."
+        }
+      ],
+      "fitHypothesis": "An overlooked reggae/electronic-production edge case; distinctive effects are a volume-fit question, not proof of techno belonging.",
+      "evidence": {
+        "attributedDescription": "Boomkat describes Music Like Dirt as a rude vocal duet over an ear-catching bassline with reverse-tape stabs likened to boisterous screeches.",
+        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ]
+      },
+      "requestedIdentity": {
+        "album": "Music Like Dirt / I'll Give It To You",
+        "artist": "The Actions",
+        "bpm": null,
+        "bpmSource": null,
+        "discoverySource": "https://boomkat.com/new-releases",
+        "evidence": {
+          "attributedDescription": "Boomkat describes Music Like Dirt as a rude vocal duet over an ear-catching bassline with reverse-tape stabs likened to boisterous screeches.",
+          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-13.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An overlooked reggae/electronic-production edge case; distinctive effects are a volume-fit question, not proof of techno belonging.",
+        "proposedPlacements": [
+          {
+            "candidateBpm": null,
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "outgoingBpm": 134,
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "purpose": "Test whether the vocal/effects left turn changes the fixed-kick re-entry into Cave's widening, or breaks the opening run without downstream gain."
+          }
+        ],
+        "releaseDate": "2026",
+        "searchIntent": "BOTH",
+        "spotifyTrackId": null,
+        "track": "Music Like Dirt"
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "4zHFJXKd1iAqJsaCASPxwU",
-      "uri": "spotify:track:4zHFJXKd1iAqJsaCASPxwU",
-      "name": "EDC1_2",
-      "artists": [
-        "EDC"
-      ],
-      "album": "EDC1",
-      "releaseDate": "2026-05-01",
-      "durationMs": 255946,
-      "spotifyUrl": "https://open.spotify.com/track/4zHFJXKd1iAqJsaCASPxwU",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://trule.bandcamp.com/album/edc1",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "incomingBpm": null,
-          "outgoingBpm": null,
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "purpose": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation."
-        }
-      ],
-      "fitHypothesis": "A concise emerging hardware-rhythm proposition without inferring force or economy from duration.",
-      "evidence": {
-        "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_2 at 4:15.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "EDC1",
-        "artist": "EDC",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/edc1",
-        "evidence": {
-          "attributedDescription": "TRULE frames EDC1 as minimal hardware rhythm experiments in ever-decreasing circles. The cited source lists EDC1_2 at 4:15.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A concise emerging hardware-rhythm proposition without inferring force or economy from duration.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "incomingBpm": null,
-            "outgoingBpm": null,
-            "position": "Between Hypnic Jerks and Tides Alternate",
-            "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-            "purpose": "Test whether it gives the acceleration crisis a changed route into opposed-speed balance, or narrates an existing relation."
-          }
-        ],
-        "releaseDate": "2026-05-01",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "EDC1_2"
-      }
-    },
-    {
-      "id": "7piKH6G7NNsTHuW0CroAAe",
-      "uri": "spotify:track:7piKH6G7NNsTHuW0CroAAe",
-      "name": "Untitled Version",
-      "artists": [
-        "Stefàn Dubs"
-      ],
-      "album": "Spring Tones",
-      "releaseDate": "2021-07-16",
-      "durationMs": 360872,
-      "spotifyUrl": "https://open.spotify.com/track/7piKH6G7NNsTHuW0CroAAe",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": 139,
-          "outgoingBpm": 136,
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "purpose": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup."
-        }
-      ],
-      "fitHypothesis": "An overlooked catalogue version-form proposition without assuming dub lineage improves the journey.",
-      "evidence": {
-        "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Untitled Version at 6:00.",
-        "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "album": "Spring Tones",
-        "artist": "Stefan Dubs",
-        "bpm": null,
-        "bpmSource": null,
-        "discoverySource": "https://trule.bandcamp.com/album/spring-tones",
-        "evidence": {
-          "attributedDescription": "TRULE attributes the Spring Tones EP to a dub-influenced vocabulary spanning garage, techno, house and jungle, built around dancefloor-focused cross-form construction. The cited source lists Untitled Version at 6:00.",
-          "craftConvention": "Attributed exact-track or release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release tracklist, checked 2026-09-13.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked catalogue version-form proposition without assuming dub lineage improves the journey.",
-        "proposedPlacements": [
-          {
-            "candidateBpm": null,
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
-            "outgoingBpm": 136,
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "purpose": "Test whether it changes funk re-grounding before crooked accumulation, or adds a second complete setup."
-          }
-        ],
-        "releaseDate": "2021-07-16",
-        "searchIntent": "BOTH",
-        "spotifyTrackId": null,
-        "track": "Untitled Version"
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
