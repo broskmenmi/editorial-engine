@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 203 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / ADD | Baby Ford | Serpentine Tale | `spotify:track:1J2HLUmgLEf9Nun0Stg0qj` · https://open.spotify.com/track/1J2HLUmgLEf9Nun0Stg0qj · https://www.easternblocrecords.com/products/baby-ford-bford-14-reissue | Canonical ADD only between *Tides Alternate* and *Too Much Time*; 130 BPM is context, not flow proof. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Acid Pauli | Gwar Is Not The Answer | `spotify:track:1e6fOHSRMbWqR6C8o6ZG4v` · https://open.spotify.com/track/1e6fOHSRMbWqR6C8o6ZG4v · https://www.juno.co.uk/products/acid-pauli-gwar-is-not-the-answer-vinyl/1170462-01/ | Rejected only at *Foundry → Worn Down*; compressed, twisted rave logic remains genuinely interesting. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Vinicius Honorio | Labyrinth of Sin | `spotify:track:3RkjahuTkrxdYUvZLZKfSf` · https://open.spotify.com/track/3RkjahuTkrxdYUvZLZKfSf · https://www.juno.co.uk/techno/this-week/ | Rejected only at *Moonwake → Raataja*; forceful maze construction remains genuinely interesting. Added globally. |
+| RESEARCH LEADS / UNRESOLVED | G.rush | Seduction; Spectra | https://memoriarecords.bandcamp.com/ · https://www.juno.co.uk/techno/this-week/ | Exact-title current-release leads; each returned `no exact Spotify title/artist search match in market SE`. No verdict or utility addition. |
+| RESEARCH LEADS / UNRESOLVED | Vinicius Honorio, Atonism; Lenson; Unique Reason; Soul Capsule | Nothing To Prove; Firgot; B-Groove; Overcome | sources in Run 203 request | Exact-title current/catalogue leads; each returned the same exact no-match error. No verdict or utility addition. |
+| SET DIRECTION | — | Let opposed-speed balance acquire a consequence | target-local idea only | A tempo and character change may pass when it makes the next widening more meaningful; the numerical path remains evidence, not a mixing claim. |
+
+### Placement and inspiration boundaries
+
+- The two exact rejects are not globally rejected; only the Run 203 placements are rejected.
+- The six unresolved leads receive no musical verdict and do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 202 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
