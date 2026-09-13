@@ -1,351 +1,351 @@
 {
+  "schemaVersion": 2,
+  "runId": "2026-09-13T05:51:30Z-explore-203",
+  "sourceCommit": "0c7fa0b43511032b34608557dd0a91d25d5474d5",
+  "mode": "EXPLORE",
+  "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 58 named tracks, release cuts, reviews and catalogue references across Juno's live September 2026 electro and experimental/electronic windows, Freaking Tricks, Kyiv label Lisosmuha, Studio Barnhus, EC Underground and Keplar's remastered Arovane catalogue. Written metadata and attributed descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T05:51:30Z",
+    "approximateInspectedScope": "Approximately 61 named tracks, release cuts, current reviews and catalogue references across Juno's live September 2026 techno window, official/label Bandcamp pages, current digital listings and newly recirculated Trelik, PAL SL and Smaul catalogue material. Written metadata and attributed descriptions only; no audio audition.",
+    "sourceWindows": [
+      "CURRENT RELEASE WINDOW: Juno's live September 2026 techno page supplied G.rush, Vinicius Honorio, Lenson and Unique Reason releases with exact tracklists and differentiated track descriptions. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: Memoria's Thessaloniki producer G.rush, Mord's Brazil/London/Berlin collaboration field and Rotterdam's Tar Hallow supplied fixed-grid, murky, bass-led, scatterbrained and filtered propositions without treating one genre room as mandatory. https://memoriarecords.bandcamp.com/ ; https://thtarhallow.bandcamp.com/",
+      "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: the 2026 Acid Pauli, Baby Ford and Soul Capsule reissue/repress cycle supplied exact older forms newly in circulation. https://www.juno.co.uk/products/acid-pauli-gwar-is-not-the-answer-vinyl/1170462-01/ ; https://www.easternblocrecords.com/products/baby-ford-bford-14-reissue ; https://ra.co/reviews/12344"
+    ],
     "exclusions": [
-      "Recent Runs 193–201 source fields, canonical identities, active placement-specific rejects, untriggered PARKED revisits, prior unresolved titles, prior ranked leads, exact alternates and global utility identities were excluded.",
-      "The five-run repetition check avoided every boundary planned in Runs 197, 198 and 201 and the recurring Cave → Abundance, Raataja → Crawl and Rabbit Hole → Can I live cluster. Each placement pair was re-derived from the current 52-track ledger and checked for adjacency.",
-      "Top slots represent a straight repeated-vocal proposition, a harsh broken-beat proposition and an overlooked nonlinear/proto-dubstep catalogue proposition. This is information-gain ranking, not a role or style quota.",
-      "Current electro/experimental pages also exposed generic release-level IDM, ambient and straight techno material; entries lacking a credible track-specific belonging proposition or not likely to change a passage were inspected but not promoted.",
-      "The protected Transparency → When We Froze → Stardancer sequence remains untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
+      "Recent Runs 194–202 source fields, all prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
+      "The five-run repetition check avoided all boundaries planned in Runs 197, 198, 201 and 202, except Tender Is The Night → Egue into hs was reopened for Firgot because its documented fixed-grid machine-pressure proposition directly tests whether the newly added two-track suspension/re-entry passage can support an intermediate articulation; this is the only repeated current boundary and its reason is candidate-specific.",
+      "Top slots prioritize exact digital availability plus differentiated form evidence after two recent zero-resolution runs. This is an information-gain response to resolver identity loss, not a role, artist, texture or platform quota.",
+      "Many current listings supplied only release-level straight techno descriptions; these were inspected but not promoted where individual behavior or a plausible journey consequence was absent.",
+      "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Nick Fasoli — Express Thyself",
-      "2. Lisovskyi — Dyr Dyr",
-      "3. Arovane — Revart Amx",
-      "4. Nick Fasoli — All You",
-      "5. Vitya Payal'nik — Zikr Atagi",
-      "6. MOLO — Fluff",
-      "7. Arovane — Nonlin R",
-      "8. MOLO — Bump",
-      "9. Xorsia — Cash For Sex"
-    ],
-    "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Juno's live electro page supplied the September 10 False Shuffle EP and September 11 LIS 003 compilation with exact tracklists and differentiated track descriptions. https://www.juno.co.uk/electro/this-week/",
-      "ADJACENT / EMERGING WINDOW: Kyiv label Lisosmuha's LIS 003 artists and Studio Barnhus debut-album material supplied harsh broken-beat, glitched and shuffling propositions outside the recent techno-only scan. https://www.juno.co.uk/electro/this-week/ ; https://www.juno.co.uk/experimental-electronic/this-week/",
-      "OVERLOOKED / NEWLY CONTEXTUALIZED WINDOW: Keplar's September 9 remaster of Arovane's 1999 Atol Scrap supplied exact nonlinear, ambient-dub and proto-dubstep catalogue paths newly in circulation. https://www.juno.co.uk/experimental-electronic/this-week/"
-    ],
-    "timestampUtc": "2026-09-13T04:52:23Z"
+      "1. Acid Pauli — Gwar Is Not The Answer",
+      "2. G.rush — Seduction",
+      "3. G.rush — Spectra",
+      "4. Vinicius Honorio — Labyrinth Of Sin",
+      "5. Vinicius Honorio, Atonism — Nothing To Prove",
+      "6. Lenson — Firgot",
+      "7. Unique Reason — B-Groove",
+      "8. Baby Ford — Serpentine Tale",
+      "9. Soul Capsule — Overcome"
+    ]
   },
   "leads": [
     {
-      "album": "False Shuffle EP",
-      "artist": "Nick Fasoli",
+      "artist": "Acid Pauli",
+      "track": "Gwar Is Not The Answer",
+      "album": "Gwar Is Not The Answer",
+      "releaseDate": "2007",
+      "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/electro/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes the exact track as repeating a self-expression injunction militantly through a signal-clipped speakerphone effect over a manically straight beat.",
-        "craftConvention": "A straight beat can belong under the selection lens. Exact-track prose supports evaluation but does not prove energy, density, space, hypnosis, emotion, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether emphatic repetition makes consolidation turn purposefully toward the existing fault line, or simply adds another fully stated scene.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-10.",
-          "Exact duration is not stated in the available listing.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "Militant repetition over an explicitly straight beat is a credible test of structural freedom through insistence rather than surface irregularity.",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/products/acid-pauli-gwar-is-not-the-answer-vinyl/1170462-01/",
+      "fitHypothesis": "A rule-flouting rave construction is a credible selection-lens test because its resistance concerns how the form behaves, not surface weirdness.",
       "proposedPlacements": [
         {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": null,
           "candidateBpm": null,
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": 138,
           "outgoingBpm": null,
-          "position": "Between Truth in Noise and Style Teef",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "purpose": "Test whether emphatic straight-grid repetition sharpens groove consolidation into the familiar-grid fault line, or duplicates a completed setup."
+          "purpose": "Test whether its compacted rave logic makes unstable direction tighten into the rumble-to-weight threshold, or adds another fully declared disruption."
         }
       ],
-      "releaseDate": "2026-09-10",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Express Thyself"
+      "evidence": {
+        "measured": [
+          "Original track released in 2007; Juno lists the current remastered reissue on 2026-09-04.",
+          "Exact duration and BPM are not stated in the cited listing.",
+          "Exact phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the remastered original as compressed, twisted rave music from a rule-flouting free-party psyche rather than treating acid as a generic 303 signifier.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its compacted rave logic makes unstable direction tighten into the rumble-to-weight threshold, or adds another fully declared disruption."
+      }
     },
     {
-      "album": "LIS 003",
-      "artist": "Lisovskyi",
+      "artist": "G.rush",
+      "track": "Seduction",
+      "album": "Spectra EP",
+      "releaseDate": "2026-08-30",
+      "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/electro/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes the exact track as Ukrainian-dubbed Police Academy dialogue over a harsh broken-beat percussion construction.",
-        "craftConvention": "Harshness and broken rhythm are attributed materials, not measured energy or proof of placement. Canonical admission still requires all three sequencing scales.",
-        "editorialInterpretation": "Test whether the broken percussion makes cross-rhythmic conflict resolve more deliberately into funk re-grounding, or crowds an already clear consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-11.",
-          "Juno lists duration 5:55.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "A dialogue-bearing harsh broken-beat construction offers a concrete mutable rhythmic proposition without relying on genre prestige.",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "Its documented release-internal change of state gives a concrete direction rather than mere genre fit.",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "position": "Between Amor and Elemental Dream",
+          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
           "incomingBpm": null,
-          "outgoingBpm": 139,
-          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-          "purpose": "Test whether broken percussion changes cross-rhythmic conflict into a more consequential re-grounding, or repeats conflict before the same answer."
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a fog-lifting bass and vocal intervention makes hand-drum mutation turn purposefully into self-stripping instability, or interrupts that direct consequence."
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Dyr Dyr"
+      "evidence": {
+        "measured": [
+          "Bandcamp lists the digital release on 2026-08-30; Juno lists the vinyl on 2026-09-10.",
+          "Juno lists duration 7:51.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the exact track as lifting the preceding dark, murky fog into a bass-led construction punctuated by involuntary vocal utterances.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether a fog-lifting bass and vocal intervention makes hand-drum mutation turn purposefully into self-stripping instability, or interrupts that direct consequence."
+      }
     },
     {
-      "album": "Atol Scrap",
-      "artist": "Arovane",
+      "artist": "G.rush",
+      "track": "Spectra",
+      "album": "Spectra EP",
+      "releaseDate": "2026-08-30",
+      "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno identifies the exact remastered catalogue cut as a proto-dubstep banger inside an album of abstract nonlinear beat shapes.",
-        "craftConvention": "The historical proto-dubstep description supports adjacent-world interest but does not establish exact direction, endpoint, handoff or mixability.",
-        "editorialInterpretation": "Test whether a concise beat-world intervention creates a purposeful first rhythmic consequence after drone suspension, or merely pre-empts the fixed-kick re-entry.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Original album date 1999; current remastered circulation listed 2026-09-09.",
-          "Juno lists duration 4:57.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "Its nonlinear-album context and specifically identified proto-dubstep construction make it a credible overlooked catalogue contender for this volume.",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://memoriarecords.bandcamp.com/",
+      "fitHypothesis": "A documented gradual darkening can belong as a directional proposition without requiring one sonic room.",
       "proposedPlacements": [
         {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
           "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 143,
+          "purpose": "Test whether gradual darkening deepens the four-on-the-floor-to-funereal threshold before the protected block opener, or merely delays the protected arrival."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Bandcamp lists the digital release on 2026-08-30; Juno lists the vinyl on 2026-09-10.",
+          "Juno lists duration 6:48.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the exact title track as beginning an increasingly dark, murky and swirling textural turn shaped by experience and restraint.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether gradual darkening deepens the four-on-the-floor-to-funereal threshold before the protected block opener, or merely delays the protected arrival."
+      }
+    },
+    {
+      "artist": "Vinicius Honorio",
+      "track": "Labyrinth Of Sin",
+      "album": "Inframundo EP",
+      "releaseDate": "2026",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "The maze proposition offers structural resistance that is specific enough to test and does not depend on novelty alone.",
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Raataja",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "incomingBpm": 140,
+          "candidateBpm": null,
           "outgoingBpm": null,
+          "purpose": "Test whether maze-like force turns intensification into the burst-and-disappearance crisis with added consequence, or crowds an already complete escalation."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Spotify publicly lists Inframundo EP as a five-track 2026 release; Juno lists the vinyl on 2026-09-10.",
+          "Juno lists duration 4:22.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno differentiates the exact track as an ancient-sounding, forceful construction conceived as a musical maze.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether maze-like force turns intensification into the burst-and-disappearance crisis with added consequence, or crowds an already complete escalation."
+      }
+    },
+    {
+      "artist": "Vinicius Honorio, Atonism",
+      "track": "Nothing To Prove",
+      "album": "Inframundo EP",
+      "releaseDate": "2026",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "The attributed scatterbrain/depth opposition is a concrete mutable-form proposition, not a claim about measured energy or density.",
+      "proposedPlacements": [
+        {
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 137,
+          "purpose": "Test whether the collaboration converts metric dissolution into rhythmic redirection, or adds another instability stage before Capa performs the same work."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Spotify publicly lists Inframundo EP as a five-track 2026 release; Juno lists the vinyl on 2026-09-10.",
+          "Juno lists duration 6:34.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno differentiates the exact collaboration as a guttural, scatterbrained deep construction.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the collaboration converts metric dissolution into rhythmic redirection, or adds another instability stage before Capa performs the same work."
+      }
+    },
+    {
+      "artist": "Lenson",
+      "track": "Firgot",
+      "album": "TAR 47",
+      "releaseDate": "2026-09",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "Its filtered-strange treatment of a fixed floor grid gives a credible test of freedom within convention.",
+      "proposedPlacements": [
+        {
           "position": "Between Tender Is The Night and Egue into hs",
           "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-          "purpose": "Test whether a compact beat-world turn makes suspension yield to fixed-grid re-entry, or creates redundant re-entry."
-        }
-      ],
-      "releaseDate": "1999",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Revart Amx"
-    },
-    {
-      "album": "False Shuffle EP",
-      "artist": "Nick Fasoli",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/electro/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno says the EP grows increasingly ethereal and ends on the exact track with death-toll tuned bells and fizzing basslines.",
-        "craftConvention": "An attributed ending function and materials do not prove emotional effect, space, energy or a canonical handoff.",
-        "editorialInterpretation": "Test whether the documented ending proposition can open a deliberate post-block route into Migration, or merely inserts another ending.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-10.",
-          "Exact duration is not stated in the available listing.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "An explicitly differentiated ending within an electro-turning EP provides endpoint evidence for a conspicuous adjacent-world test.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "incomingBpm": 137,
-          "outgoingBpm": null,
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "purpose": "Test whether an ethereal documented ending meaningfully hands the protected block into the piano-to-break pivot, or delays that pivot."
-        }
-      ],
-      "releaseDate": "2026-09-10",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "All You"
-    },
-    {
-      "album": "LIS 003",
-      "artist": "Vitya Payal'nik",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/electro/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno groups the exact track with Victor B's Stt as sparking an increasingly glitched-up fuse within Lisosmuha's techno and breakbeat compilation.",
-        "craftConvention": "The grouped movement description is useful release evidence but does not establish this track's individual endpoint, perceived pulse or handoffs.",
-        "editorialInterpretation": "Test whether a glitched-up fuse changes dissolution into temporal strain, or adds another instability stage before the established driving re-entry.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-11.",
-          "Juno lists duration 6:50.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "A glitched techno/breakbeat proposition is constitution-relevant while its shared description keeps individual direction honestly uncertain.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
           "incomingBpm": null,
+          "candidateBpm": null,
           "outgoingBpm": null,
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "purpose": "Test whether glitch escalation makes rhythm-to-dissonance dissolution feed temporal strain, or over-articulates instability."
+          "purpose": "Test whether filtered machine pressure gives drone suspension a purposeful intermediate articulation before fixed-kick re-entry, or duplicates that re-entry."
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Zikr Atagi"
+      "evidence": {
+        "measured": [
+          "Tar Hallow lists TAR 47 in September 2026; Juno lists the vinyl on 2026-09-10.",
+          "Juno lists duration 6:32.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno identifies the exact A-side track as part of TAR 47's filtered and strange opening pair; the label context describes raw machine rhythms and tense four-to-the-floor pressure.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether filtered machine pressure gives drone suspension a purposeful intermediate articulation before fixed-kick re-entry, or duplicates that re-entry."
+      }
     },
     {
-      "album": "Fold",
-      "artist": "MOLO",
+      "artist": "Unique Reason",
+      "track": "B-Groove",
+      "album": "Buried",
+      "releaseDate": "2026-09-08",
+      "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno differentiates the exact track as bouncy, shuffling euphoric techno within an album that gradually moves from ambient material toward club cuts.",
-        "craftConvention": "Bounce, shuffle and euphoria remain attributed language. They do not establish measured energy, exact structure, handoffs or mixability.",
-        "editorialInterpretation": "Test whether a shuffling adjacent-world turn deepens the balance between opposed-speed material and physical widening, or adds a self-contained club scene.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-11.",
-          "Juno lists duration 4:39.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "A specifically identified shuffling techno cut from a cross-tempo album is a credible adjacent-world candidate without requiring sonic-room sameness.",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "fitHypothesis": "Loose groove and rough sampling provide a quieter form-resistance proposition that can compete without being presumed smooth.",
       "proposedPlacements": [
         {
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "incomingBpm": 138,
           "candidateBpm": null,
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-          "incomingBpm": null,
-          "outgoingBpm": 140,
+          "outgoingBpm": null,
+          "purpose": "Test whether loose funk gives bodily deformation a useful recoil before cross-rhythmic conflict, or weakens the direct pressure-to-conflict relation."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "Juno lists the release on 2026-09-08.",
+          "Juno lists duration 5:27.",
+          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the exact original as loose and funky with intentionally rough MPC edges, distinct from the grittier Shinedoe remix.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether loose funk gives bodily deformation a useful recoil before cross-rhythmic conflict, or weakens the direct pressure-to-conflict relation."
+      }
+    },
+    {
+      "artist": "Baby Ford",
+      "track": "Serpentine Tale",
+      "album": "Bford 14",
+      "releaseDate": "1998",
+      "spotifyTrackId": null,
+      "bpm": 130,
+      "bpmSource": "https://www.easternblocrecords.com/products/baby-ford-bford-14-reissue",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.easternblocrecords.com/products/baby-ford-bford-14-reissue",
+      "fitHypothesis": "Coiling rhythmic continuity is a credible overlooked-catalogue counterweight to overt fracture, with individual material and duration documented.",
+      "proposedPlacements": [
+        {
           "position": "Between Tides Alternate and Too Much Time",
           "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "purpose": "Test whether shuffle redirects opposed-speed balance into physical widening, or inserts a complete scene before it."
-        }
-      ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Fluff"
-    },
-    {
-      "album": "Atol Scrap",
-      "artist": "Arovane",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno describes the exact 41-second introduction as nonlinear and underlaid by rapid-panned metal rustling.",
-        "craftConvention": "Extreme brevity lowers proportional cost but does not prove connective function, phrase fit, energy or a usable transition.",
-        "editorialInterpretation": "Test whether a nonlinear micro-interruption clarifies the existing strain-to-drive turn, or merely decorates it.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Original album date 1999; current remastered circulation listed 2026-09-09.",
-          "Juno lists duration 0:41.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "A concise nonlinear introduction could function as a structural punctuation rather than a full chapter or novelty token.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
           "incomingBpm": null,
+          "candidateBpm": 130,
           "outgoingBpm": 140,
-          "position": "Between Mildew Swoosh and Fragments",
-          "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
-          "purpose": "Test whether a micro-interruption makes temporal strain snap into driving re-entry, or weakens the direct consequence."
+          "purpose": "Test whether the coiling 130 BPM passage gives opposed-speed balance a deliberate low-slung consequence before 140 BPM widening, or prolongs the balance without gain."
         }
       ],
+      "evidence": {
+        "measured": [
+          "Original production dated 1998; current 2026 reissue circulation is documented.",
+          "Eastern Bloc lists 130 BPM; Juno and Bandcamp list duration 6:01.",
+          "Tempo is supporting metadata only; phrase fit, perceived pulse and live mixability remain unknown."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Eastern Bloc describes the exact track as coiling through hissing rhythms and shadowy bass pressure; Baby Ford's official Bandcamp identifies it as written and produced in 1998 and now recirculated.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether the coiling 130 BPM passage gives opposed-speed balance a deliberate low-slung consequence before 140 BPM widening, or prolongs the balance without gain."
+      }
+    },
+    {
+      "artist": "Soul Capsule",
+      "track": "Overcome",
+      "album": "Overcome / Lady Science (NYC Sunrise)",
       "releaseDate": "1999",
-      "searchIntent": "BOTH",
       "spotifyTrackId": null,
-      "track": "Nonlin R"
-    },
-    {
-      "album": "Fold",
-      "artist": "MOLO",
       "bpm": null,
       "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
-      "evidence": {
-        "attributedDescription": "Juno differentiates the exact track as moody breaks within Fold's gradual ambient-to-club development.",
-        "craftConvention": "A category and mood description support an adjacent lead but do not establish individual development, endpoint, energy, density or handoffs.",
-        "editorialInterpretation": "Test whether a breaks proposition gives swung continuation a useful route into unstable direction, or adds another completed middle stage.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "Juno lists release date 2026-09-11.",
-          "Juno lists duration 4:53.",
-          "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "An exact breaks cut inside a cross-tempo album is a credible belonging lead, while its individual structure remains underdescribed.",
+      "searchIntent": "BOTH",
+      "discoverySource": "https://ra.co/reviews/12344",
+      "fitHypothesis": "A long rolling-and-shuffling catalogue form can test whether continuity rather than fracture meaningfully extends the escape passage.",
       "proposedPlacements": [
         {
+          "position": "Between Can I live and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "incomingBpm": null,
           "candidateBpm": null,
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "incomingBpm": 135,
           "outgoingBpm": null,
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "purpose": "Test whether breaks redirect swung continuation toward unstable direction, or insert another complete proposition before it."
+          "purpose": "Test whether its sustained shuffle turns restrained footwork re-entry into a more deliberate route toward the electro-soul afterword, or replaces that concise arrival with an overlong final stage."
         }
       ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Bump"
-    },
-    {
-      "album": "LIS 003",
-      "artist": "Xorsia",
-      "bpm": null,
-      "bpmSource": null,
-      "discoverySource": "https://www.juno.co.uk/electro/this-week/",
       "evidence": {
-        "attributedDescription": "Juno identifies the exact compilation opener and situates it inside Lisosmuha's seedy techno-and-breakbeat field; it does not provide an individual structure or endpoint description.",
-        "craftConvention": "Concrete release context can earn identity resolution, but missing individual form must remain unknown and cannot be treated as a canonical advantage.",
-        "editorialInterpretation": "Test whether the exact identity offers a credible intervention between controlled continuation and triplet derailment; do not infer its actual behavior from title or label.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "Juno lists release date 2026-09-11.",
-          "Juno lists duration 4:30.",
+          "Original session and release date are 1999; the currently circulating remaster/repress is documented by Trelik and retailers.",
+          "Juno lists duration 9:00.",
           "Exact BPM, phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "The exact opener's emerging Kyiv techno/breakbeat context clears the permissive lead floor, while track-specific behavior remains unknown for evaluation.",
-      "proposedPlacements": [
-        {
-          "candidateBpm": null,
-          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-          "incomingBpm": 136,
-          "outgoingBpm": null,
-          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
-          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
-          "purpose": "Test whether the exact track alters controlled continuation before derailment, or simply adds an unproven stage."
-        }
-      ],
-      "releaseDate": "2026-09-11",
-      "searchIntent": "BOTH",
-      "spotifyTrackId": null,
-      "track": "Cash For Sex"
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Resident Advisor describes the exact track as taut and vocal-hook driven; Juno's exact listing attributes rolling, shuffling garage-style beats, bubbling bass, pads and intermittent vocals.",
+        "craftConvention": "Attributed production language and metadata support a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether its sustained shuffle turns restrained footwork re-entry into a more deliberate route toward the electro-soul afterword, or replaces that concise arrival with an overlong final stage."
+      }
     }
-  ],
-  "mode": "EXPLORE",
-  "runId": "2026-09-13T04:52:23Z-explore-202",
-  "schemaVersion": 2,
-  "sourceCommit": "3777bc78887ab423b664eac972a78dab0fecc502",
-  "target": "playlists/strange-gait"
+  ]
 }
