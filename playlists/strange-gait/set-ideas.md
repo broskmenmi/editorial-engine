@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 225
+
+### A new rhythmic world must change the next job
+
+**Direction:** Separate a credible new internal world from a consequential intermediate stage. Shared release development can justify resolution, while exact-track framing can establish interest; neither automatically proves what the successor must do differently.
+
+**Ingredients:**
+
+- Decoder — *Abundance* → Yu Su — *Foundry* — existing swung continuation into unstable direction
+- Joshua Calleja — *Space Metric* — exact PARKED current proposition whose individual development and exit remain unknown
+- Jayson Wynters — *Tehutis Law* → Peverelist — *Pulse I* — existing re-grounding into crooked accumulation
+- Connective Zone — *Electrons* — exact fractured-bleep counterexample, rejected only between those tracks
+
+**Why interesting:** The comparison distinguishes current techno context from candidate-specific consequence without demanding one vibe, a new groove quota or an invisible transition.
+
+**Boundary:** This is a set direction, not a proven sequence, phrase-fit claim or live-mixing edge. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred. The frozen *Carried* region is not part of the idea.
+
 ## Current additions — Run 223
 
 ### A rhythmic vocabulary still needs a knowable exit

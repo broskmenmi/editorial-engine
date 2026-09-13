@@ -1,5 +1,68 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 225 — EXPLORE — exact interest survives a low-resolution field — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations and an exact-order 54-track/53-transition map. The listener-authorized *Sawa* removal remained complete and protected from ordinary resurfacing. Lotic — *Carried* had a newer `AWAITING CLARIFICATION` discussion, so `Encasadelciegoeltuerco → Carried → Tender Is The Night` remained frozen and was excluded from scouting. There was no current TRIGGERED revisit or other actionable repair. The protected `Transparency → When We Froze → Stardancer` order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 453 contiguous unique tracks. Automatic publishing was enabled.
+
+**Fresh exploration:** Run `2026-09-13T21:53:08Z-explore-225` inspected approximately 74 named tracks across current 2026 Molecular Recordings, Cold Blow and Keplar/Bandcamp windows, adjacent techno/bass review trails and overlooked 2007–2021 catalogue reviews. Completed Runs 218, 219, 221, 222 and 223 were excluded. Nine honest unused leads survived without padding, and no proposed boundary repeated a selected-candidate boundary from those five runs. The active frozen region and the removed *Sawa* identity were not used.
+
+### Resolver chain
+
+- **runId:** `2026-09-13T21:53:08Z-explore-225`
+- **sourceCommit:** `156de4defa4ea0cd4f3e890053b15a8e81ad8649`
+- **request commit:** `cbfffb76c4f1d9fd49fdb6c84f8e08c08685c41e`
+- **snapshot commit:** `abf49f06f8ad055e20c825de140f513cb822bee1`
+- **request fingerprint:** `e78efb4bda0ff75e6b53e467a71782c5e981d4ebf7d6d7db8c10300805348d63`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 2 exact resolutions, 2 selected candidates and 7 unresolved identities. No alternates, duplicates, substitutions, relinkings or technical failures occurred.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict; each returned `no exact Spotify title/artist search match in market SE`:
+
+- Jonny L — *Piper (Overmono Remix)*
+- Flore — *Congos (LCY Remix)*
+- Asusu — *Trephine*
+- Ezekiel Honig — *Displacement*
+- Permutation — *Atlas*
+- CiM — *Lead Point*
+- Linkwood — *Ignorance Is Bliss (Live Mix)*
+
+Warning preserved exactly:
+
+- Connective Zone — *Electrons*: `Exact title/artist matched with release metadata variance: album requested "Documents of Different Reality" but Spotify returned "Dat Tapes"; release date requested "2026-07-10" but Spotify returned "2021-08-19"`
+
+### Evaluator decisions
+
+#### Joshua Calleja — Space Metric — `spotify:track:4ONiVfg3mkAGlzmZFCLyqS` — PARKED
+
+- **Volume fit:** PASS provisionally. The exact 404,142-ms identity belongs to a current techno release whose attributed copy describes evolving percussion and purposeful movement across the EP. That is credible volume context, not proof of this track's individual behaviour.
+- **Immediate transition:** UNKNOWN at `Abundance → candidate → Foundry`. The source does not distinguish *Space Metric*'s direction, endpoint or either handoff. The alternative `Foundry → candidate → Worn Down` has the same blocker.
+- **Surrounding three-to-five-track run:** UNDECIDABLE. A 6:44 stage could deepen or merely extend `Cave → Abundance → Foundry → Worn Down`, but shared EP language cannot choose responsibly between those effects.
+- **Long-form journey:** UNDECIDABLE for the same candidate-specific reason. Missing phrase audio is not the veto; the unavailable individual development and exit are decision-critical.
+- **Verdict:** **PARKED** for materially richer exact-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### Connective Zone — Electrons — `spotify:track:69eNnnAsVfB2QCjxCIX0Uh` — placement-specific REJECT
+
+- **Volume fit:** PASS. The exact 333,500-ms identity is specifically characterized as a fractured bleep proposition inside a machine-soul catalogue context. The Spotify packaging/date variance does not undermine identity.
+- **Immediate transition:** FAIL only at `Tehutis Law → candidate → Pulse I`. The candidate inserts another complete fractured premise between re-grounding and *Pulse I*'s documented crooked accumulation without evidence that its endpoint changes the successor's work.
+- **Surrounding three-to-five-track run:** FAIL proportionally. `LOVE YOUR ENEMIES → Tehutis Law → Electrons → Pulse I → Roxellana` would specify another intermediate world before the existing accumulation-to-surge relation.
+- **Long-form journey:** FAIL for this insertion only. The added 5:33.5 stage elaborates a legible passage without establishing a new consequence.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT** for this boundary; retain the exact track as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable request is pinned to the live pre-request SHA and the matching schemaVersion 2 snapshot has the correct runId, sourceCommit, mode, target and fingerprint. Accounting reconciles: 9 requested = 2 exact selected candidates + 7 unresolved identities. The exact warning and all resolver errors are preserved. Only the two exact candidates were evaluated, separately, at volume, immediate-transition, local-run and long-form scales. *Space Metric* is PARKED for a specific individual-evidence blocker after an alternate placement check; *Electrons* is rejected only at its tested boundary. Neither decision relies on BPM, genre purity, novelty, metadata-to-feeling inference or the frozen listener region. Auditor approves no canonical change, two local inspiration retentions and two global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **54 → 54 canonical tracks**; no reorder or annotation change.
+- The `Encasadelciegoeltuerco → Carried → Tender Is The Night` discussion remains frozen at `AWAITING CLARIFICATION`.
+- Local inspiration: two exact interesting tracks and seven unresolved research leads retained; Molecular Recordings, Cold Blow and Keplar remain watches.
+- EDITORIAL ENGINE — DISCOVERY POOL: **453 → 455 exact tracks**, adding *Space Metric* and *Electrons*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 74 inspected → 9 ranked leads → 2 exact resolutions + 7 unresolved → 2 selected evaluations → **0 ADD + 1 PARKED + 1 placement-specific REJECT** → 2 utility additions. Lead conversion is **9/74 (12.2%)**; exact-resolution conversion is **2/9 (22.2%)**; selected-candidate-to-ADD conversion is **0/2**. Across completed discovery Runs 87–225, excluding repairs and failed requests: **1,026 leads from approximately 6,371 inspections; 40 ADDs from 307 selected candidates**. The recent comparable ADD rate remains **1/10**; the musical no-ADD streak is seven completed runs after Run 214. Seventeen exact interesting tracks have been retained since that ADD. The strongest counterargument is that seven misses—especially the three highest-ranked, candidate-specific catalogue leads—make this primarily a platform-identity result. That is partly correct: the run does not prove those seven tracks fail, nor that STRANGE GAIT is complete. The resolver completed normally and resolved two lower-ranked leads, so the evidence supports Spotify-SE identity loss rather than a technical defect. No actionable workflow REPAIR emerges.
+
 ## Run 223 — EXPLORE recovery — two scoped rejections, one PARK and one completed boundary-validator repair — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 55 unique canonical tracks, 55 matching annotations, an exact-order 55-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable musical repair. The protected `Transparency → When We Froze → Stardancer` order remained contiguous at positions 46–48. EDITORIAL ENGINE — DISCOVERY POOL entered with 450 contiguous unique tracks. Automatic publishing was enabled.

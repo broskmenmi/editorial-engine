@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 225 — EXPLORE — frozen listener region, low resolution, two exact retentions
+
+Pre-audit found no actionable repair. The listener-authorized *Sawa* removal remains complete. Lotic — *Carried* is now an active `AWAITING CLARIFICATION` discussion, so `Encasadelciegoeltuerco → Carried → Tender Is The Night` remained frozen and outside all nine placement hypotheses.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, two exact selected candidates and seven Spotify-SE misses. Joshua Calleja — *Space Metric* (`spotify:track:4ONiVfg3mkAGlzmZFCLyqS`) is PARKED because shared EP prose cannot establish its individual direction, endpoint or either tested passage consequence. Connective Zone — *Electrons* (`spotify:track:69eNnnAsVfB2QCjxCIX0Uh`) is rejected only at `Tehutis Law → candidate → Pulse I`; its fractured-bleep premise adds another complete stage without changing *Pulse I*'s task. The Dat Tapes / 2021 Spotify packaging variance is preserved.
+
+STRANGE GAIT remains 54 tracks; the protected trio remains positions 45–47. The global utility ledger becomes 455 tracks by retaining both exact identities. Audio and live mixing were not tested.
+
+Run 225: `~74 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 0 ADD + 1 PARKED + 1 scoped REJECT → 2 utility additions`. Across completed Runs 87–225: 1,026 leads / ~6,371 inspections / 40 ADDs / 307 selected candidates. Recent comparable ADD rate: 1/10. The musical no-ADD streak is seven; 17 exact interesting tracks have been retained since Run 214. Low resolution is a platform-identity signal, not an actionable resolver defect or evidence of musical completion.
+
 ## Run 199 — REPAIR — stale canonical-count statements
 
 Final validation after Run 198 found two stale human-readable counts in the ledger footer even though the canonical table, journey map and Spotify receipt all showed 52 tracks. The statements reporting 50 and forty-eight tracks are corrected to 52 / fifty-two. No identity, BPM, verdict, role, order, annotation, protected handoff or Spotify membership changes.

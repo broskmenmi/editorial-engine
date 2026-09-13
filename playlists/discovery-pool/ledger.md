@@ -457,6 +457,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 451 | Shed | Rave Predator | spotify:track:3TWdJBkUtFCJwoToOPN4NU | STRANGE GAIT Run 223 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 452 | Answer Code Request | Fading Shadows | spotify:track:50r49UidENUN3NYaGBnvJ9 | STRANGE GAIT Run 223 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 453 | Planetary Assault Systems | Sermon of the Light Tides | spotify:track:3YPZHSb9Q648r7a4OUBBD4 | STRANGE GAIT Run 223 | PARKED / interesting | 2026-09-13 |
+| 454 | Joshua Calleja | Space Metric | spotify:track:4ONiVfg3mkAGlzmZFCLyqS | STRANGE GAIT Run 225 | PARKED / interesting | 2026-09-13 |
+| 455 | Connective Zone | Electrons | spotify:track:69eNnnAsVfB2QCjxCIX0Uh | STRANGE GAIT Run 225 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

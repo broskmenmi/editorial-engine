@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 225 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| PARKED / EXACT | Joshua Calleja | Space Metric | `spotify:track:4ONiVfg3mkAGlzmZFCLyqS` · https://open.spotify.com/track/4ONiVfg3mkAGlzmZFCLyqS · https://moleculartechno.bandcamp.com/album/joshua-calleja-breaking-patterns | Exact 6:44.142 current identity. Shared EP evidence supports interest but not individual direction, endpoint or either tested passage consequence. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Connective Zone | Electrons | `spotify:track:69eNnnAsVfB2QCjxCIX0Uh` · https://open.spotify.com/track/69eNnnAsVfB2QCjxCIX0Uh · https://coldblowrecords.bandcamp.com/album/documents-of-different-reality | Exact 5:33.500 identity; rejected only at *Tehutis Law → Pulse I*. Its fractured-bleep proposition remains interesting and entered the global utility ledger. Spotify packaging/date variance preserved. |
+| UNRESOLVED | Jonny L; Flore; Asusu; Ezekiel Honig; Permutation; CiM; Linkwood | Piper (Overmono Remix); Congos (LCY Remix); Trephine; Displacement; Atlas; Lead Point; Ignorance Is Bliss (Live Mix) | See discoveries.md Run 225 | Seven Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| WATCH | Molecular Recordings; Cold Blow; Keplar | Breaking Patterns; Documents of Different Reality; 2026 remaster programme | Sources above and https://ezekiel-honig.bandcamp.com/album/surfaces-of-a-broken-marching-band-2026-remaster | Current and reissue windows retained without promoting collection prose into exact-track behaviour. |
+
+### Placement and inspiration boundaries
+
+- *Space Metric* is PARKED, not rejected or admitted. Its second boundary is a research check, not a proven sequence.
+- *Electrons* is not globally rejected.
+- The seven unresolved identities receive no musical verdict and do not enter the global utility ledger.
+- The active `Encasadelciegoeltuerco → Carried → Tender Is The Night` listener region remained untouched. No phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 223 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
