@@ -8,6 +8,34 @@ None.
 
 ## Resolved reviews
 
+### 2026-09-13 — Jay Mitta — Sawa
+
+**Affected region before repair:**
+
+`Sawa → Stadium Drive → Marauder`
+
+**Listener report:**
+
+> “Sawa? What the fuck? That gave me the biggest anxiety attack I've ever had! I was afraid but was still trying to listen to see if it becomes techno! Or something! This is was by far one of the most frightening things I've experienced.”
+
+**Original editorial role:**
+
+Run 172 placed *Sawa* as a provisional hyper-rhythmic cold open before *Stadium Drive*. The paper model treated its documented disorientation as a deliberate rupture before the playlist assembled into the existing techno journey.
+
+**Listener-evidence diagnosis:**
+
+The actual ordered-listening experience contradicts that paper role. For this listener, the opening did not function as productive destabilization or useful rhythmic freedom; it produced extreme fear and anxiety, while the listener kept enduring it because they expected the sequence to become techno. Direct listener evidence outranks the earlier editorial interpretation. This does not establish a general ban on intensity, disorientation, singeli, hardstyle influence, or conspicuous left turns.
+
+**User action command:** “Run the repair”
+
+**Status:** `APPROVED — REMOVE` — exact single-track removal authorized.
+
+**Resolution:**
+
+Remove Jay Mitta — *Sawa* (`spotify:track:19htZ2qdGDXVIFxI1ugYtW`) from the STRANGE GAIT canonical ledger and Spotify publication. Purelink — *Stadium Drive* becomes the opener by consequence of the removal. No replacement, bridge, additional reorder, neighbour removal, or wider redesign is authorized. The listener-protected `Transparency → When We Froze → Stardancer` internal order is unchanged.
+
+Do not resurface *Sawa* as an ordinary STRANGE GAIT candidate without explicit listener instruction or materially new listener evidence. Historical records of Run 172 remain preserved rather than rewritten. Its separate doctrine-free Discovery Pool retention is outside this repair scope and remains unchanged.
+
 ### 2026-09-06 — Opening vibe / energy continuity
 
 **Affected region before repair:**
