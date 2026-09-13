@@ -1,340 +1,341 @@
 {
   "schemaVersion": 2,
-  "runId": "2026-09-13T11:50:27Z-explore-210",
-  "sourceCommit": "be878527478efd35aabf433ee53a52793b5eb50e",
+  "runId": "2026-09-13T12:53:25Z-explore-211",
+  "sourceCommit": "f07ebf5d3041ba066303778feca333a8dfd10a02",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "timestampUtc": "2026-09-13T11:50:27Z",
-    "approximateInspectedScope": "Approximately 61 named tracks across Clone's current Breaks catalogue, the 2026 Ilian Tape field and Animalia's emerging-artist catalogue. Written catalogue metadata and attributed release or exact-track descriptions only; no audio audition.",
+    "timestampUtc": "2026-09-13T12:53:25Z",
+    "approximateInspectedScope": "Approximately 64 named tracks and releases across Juno's September 7–13 techno field, SK Eleven's current Confusion album, XX Lab's current François X release, and adjacent/reissue catalogue windows. Written catalogue metadata and attributed release or exact-track descriptions only; no audio audition.",
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Delta Division's August 2026 Dead Channels Ritual release supplied broken-system, tension and grit propositions across techno, bass and breaks. https://clone.nl/item84189.html",
-      "ADJACENT / EMERGING WINDOW: Aedis's 2026 Animalia debut supplied off-centre, dub-tinged, small-shift groove propositions without requiring one production world. https://clone.nl/item81667.html",
-      "OVERLOOKED / CATALOGUE WINDOW: Skee Mask's February 2026 ISS012 field supplied four groovy, wobbly techno-hybrid exact-title questions from the Ilian Tape catalogue. https://clone.nl/item82428.html"
+      "CURRENT RELEASE WINDOW: Confusion's In Cycles, released September 11, supplied exact-title restless-techno propositions, with In Cycles and Space individually described. https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "ADJACENT / EMERGING WINDOW: François X's Bound States on XX Lab supplied four hypnotic-techno identity questions rooted in Black American dance music and shaped through European club culture. https://www.kma60.com/",
+      "OVERLOOKED / CATALOGUE WINDOW: Juno and Clone back-catalogue/reissue lanes were inspected across Dubwax, Blueprint Archives, Repetitive Rhythm Research and early-tech-house returns; previously ranked, unresolved, rejected, PARKED or utility-retained identities were excluded rather than recycled. https://www.juno.co.uk/techno/this-week/"
     ],
     "exclusions": [
-      "Run 209's entire source field, completed Runs 203 and 206–209 source fields, every prior ranked lead and alternate found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits, and existing global utility identities were excluded.",
-      "The five-completed-exploration repetition check avoided every selected candidate boundary from Runs 203, 206, 207, 208 and 209. Placements are candidate-specific hypotheses, not a boundary-distribution quota.",
-      "Nine leads survived because each has an exact title, concrete current/emerging/catalogue source context, a constitution-relevant belonging hypothesis and a lawful placement question; no list slot was padded.",
+      "Runs 206–210 source fields, every prior ranked lead or alternate found in current state, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded.",
+      "The five-completed-exploration repetition check avoided every selected boundary from Runs 206–209 and every proposed boundary from zero-resolution Run 210. Placements remain candidate-specific hypotheses, not a boundary-distribution quota.",
+      "Previously resolved or unresolved current-week material including Los Totes Vol. 3, Sinee Remixes, End Of Perception, Active Systems, COW, Arovane, G.rush, PS11 and Moving Pressure was not recycled.",
+      "Nine leads survived because each has an exact title, concrete current-release context, a constitution-relevant belonging hypothesis and a lawful placement question. Lower-ranked co-release tracks preserve their individual-direction uncertainty; no slot was padded.",
       "The protected Transparency → When We Froze → Stardancer internal order and both listener-protected handoffs remain untouched. No Spotify connector, raw audio, audio-feature inference or invented identity was used."
     ],
     "rankedLeadSummary": [
-      "1. Skee Mask — The Usual Suspects",
-      "2. Aedis — Saense",
-      "3. Delta Division — Rupture",
-      "4. Skee Mask — Primotiv",
-      "5. Aedis — Extarnel",
-      "6. Delta Division — ST600",
-      "7. Skee Mask — Highkey Phasing",
-      "8. Aedis — Ortogon",
-      "9. Delta Division — Dead Channel Rituals"
+      "1. Confusion — In Cycles",
+      "2. Confusion — Space",
+      "3. François X — Bound State",
+      "4. Confusion — Clay Bound",
+      "5. Confusion — Object Definition",
+      "6. Confusion — Red 96",
+      "7. François X — Bones & Harmony",
+      "8. François X — Type X",
+      "9. François X — Just A Feeling"
     ]
   },
   "leads": [
     {
-      "artist": "Skee Mask",
-      "track": "The Usual Suspects",
-      "album": "ISS012",
-      "releaseDate": "2026-02-20",
+      "artist": "Confusion",
+      "track": "In Cycles",
+      "album": "In Cycles",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item82428.html",
-      "fitHypothesis": "A track from an explicitly groovy, wobbly techno-hybrid release offers a serious test of flexible bodily propulsion without assuming the release-level description proves the individual form.",
+      "discoverySource": "https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "fitHypothesis": "Juno explicitly describes this exact track as operating in dark, brisk, unsettled space within a restless techno cycle, making it a serious structural-freedom contender rather than a novelty pick.",
       "proposedPlacements": [
         {
-          "position": "Between Abundance and Foundry",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "incomingBpm": 135,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether this exact track can redirect swung continuation toward Foundry's instability, or adds a self-contained hybrid stage without changing the handoff."
-      }
-    },
-    {
-      "artist": "Aedis",
-      "track": "Saense",
-      "album": "Saense",
-      "releaseDate": "2026-01-12",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item81667.html",
-      "fitHypothesis": "Off-centre, dub-tinged groove built from small shifts fits the selection lens and merits an exact-track test without treating minimal structure as automatically connective.",
-      "proposedPlacements": [
-        {
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": 139,
-          "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the Saense EP collectively as off-centre, deep and dub-tinged, with rhythm upfront and small shifts and textures doing the work.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Saense changes funk re-grounding into a useful off-centre condition for crooked accumulation, or merely delays Pulse I."
-      }
-    },
-    {
-      "artist": "Delta Division",
-      "track": "Rupture",
-      "album": "Dead Channels Ritual",
-      "releaseDate": "2026-08-12",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/all/tag/Breaks",
-      "fitHypothesis": "A track explicitly associated with surgical tension inside a broken-system rhythmic release offers a serious structural-freedom test beyond novelty.",
-      "proposedPlacements": [
-        {
-          "position": "Between Fragments and Drummz",
-          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "incomingBpm": 140,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes Rupture through surgical tension within an EP of ritualistic rhythms born from broken systems.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Rupture gives driving re-escalation a precise constriction before Drummz's unpredictability, or stacks another complete disruption."
-      }
-    },
-    {
-      "artist": "Skee Mask",
-      "track": "Primotiv",
-      "album": "ISS012",
-      "releaseDate": "2026-02-20",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item82428.html",
-      "fitHypothesis": "A second exact title from the groovy, wobbly hybrid release offers a distinct identity-resolution question; its individual mechanics remain unknown.",
-      "proposedPlacements": [
-        {
-          "position": "Between Egue into hs and Cave",
-          "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-          "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 134,
-          "purpose": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes ISS012 collectively as a mad groovy and wobbly techno hybrid EP; it does not distinguish Primotiv's individual direction.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Primotiv makes fixed-kick re-entry develop before Cave widens the passage, or inserts an undocumented extra scene."
-      }
-    },
-    {
-      "artist": "Aedis",
-      "track": "Extarnel",
-      "album": "Saense",
-      "releaseDate": "2026-01-12",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item81667.html",
-      "fitHypothesis": "Release-level off-centre groove and subtle evolution make Extarnel a credible contender while leaving its individual endpoint open.",
-      "proposedPlacements": [
-        {
-          "position": "Between Fulledge (Empty-40 Mix) and Capa",
-          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 137,
-          "purpose": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
-        }
-      ],
-      "evidence": {
-        "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
-          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
-        ],
-        "listenerEvidence": "No candidate-specific listener report.",
-        "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the Saense EP collectively through dub-tinged groove, minimal structure and small shifts rather than individual track mechanics.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Extarnel gives metric dissolution a gradual off-centre re-formation before Capa redirects it, or over-articulates the reset."
-      }
-    },
-    {
-      "artist": "Delta Division",
-      "track": "ST600",
-      "album": "Dead Channels Ritual",
-      "releaseDate": "2026-08-12",
-      "spotifyTrackId": null,
-      "bpm": null,
-      "bpmSource": null,
-      "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/all/tag/Breaks",
-      "fitHypothesis": "The source's explicit grit makes ST600 a concrete bodily-material proposition inside a broken-rhythm frame, without proving its direction or placement.",
-      "proposedPlacements": [
-        {
-          "position": "Between Freepass for Them and Moonwake",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "position": "Between Mildew Swoosh and Fragments",
+          "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": 140,
-          "purpose": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
+          "purpose": "Test whether In Cycles turns opposed temporal strain into a purposeful unsettled condition before driving re-entry, or merely adds another complete dark stage."
         }
       ],
       "evidence": {
         "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone identifies ST600 with grit and places it inside a release framed around distortion as language and ritualistic rhythms.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether ST600 gives the unrelenting groove pivot a materially distinct consequence before Moonwake intensifies, or adds redundant pressure."
+        "attributedDescription": "Juno describes In Cycles specifically as resounding in umbral space and aiming to unsettle and motivate, inside an eight-track LP of restless techno.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether In Cycles turns opposed temporal strain into a purposeful unsettled condition before driving re-entry, or merely adds another complete dark stage."
       }
     },
     {
-      "artist": "Skee Mask",
-      "track": "Highkey Phasing",
-      "album": "ISS012",
-      "releaseDate": "2026-02-20",
+      "artist": "Confusion",
+      "track": "Space",
+      "album": "In Cycles",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item82428.html",
-      "fitHypothesis": "The exact title is a credible hybrid-techno contender from a release explicitly framed by groove and wobble; individual phasing behavior must remain unknown until stronger evidence.",
+      "discoverySource": "https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "fitHypothesis": "Juno names Space alongside the title track as a dark, brisk exact-track proposition inside a restless techno LP; that documented intent merits a late-run placement test.",
       "proposedPlacements": [
         {
-          "position": "Between Amor and Elemental Dream",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "position": "Between Jjochstubn and Rabbit Hole",
+          "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
+          "purpose": "Test whether Space converts contaminated-song disassembly into a distinct condition for Rabbit Hole to erase, or delays the existing descent without changing it."
         }
       ],
       "evidence": {
         "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes ISS012 collectively as a groovy and wobbly techno hybrid EP; no individual sonic claim is assigned to Highkey Phasing.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the exact track develops Amor's machine-to-hand-drum mutation toward Elemental Dream's self-stripping instability, or narrates the same change twice."
+        "attributedDescription": "Juno describes Space specifically as resounding in umbral space and aiming to unsettle and motivate, inside an eight-track LP of restless techno.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Space converts contaminated-song disassembly into a distinct condition for Rabbit Hole to erase, or delays the existing descent without changing it."
       }
     },
     {
-      "artist": "Aedis",
-      "track": "Ortogon",
-      "album": "Saense",
-      "releaseDate": "2026-01-12",
+      "artist": "François X",
+      "track": "Bound State",
+      "album": "Bound States",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/item81667.html",
-      "fitHypothesis": "A debut-release track from an off-centre groove system offers a credible exact identity question for the late passage without assuming title or genre proves geometry.",
+      "discoverySource": "https://www.kma60.com/",
+      "fitHypothesis": "Official/current retail context frames Bound States as hypnotic techno rooted in Black American dance music and shaped through European club culture; the exact title is a credible bodily and structural test while its individual direction remains unknown.",
       "proposedPlacements": [
         {
-          "position": "Between Eyes of the Wind and Nukumori",
-          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "position": "Between Raataja and Crawl",
+          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
+          "purpose": "Test whether Bound State gives burst-and-disappearance a deliberate re-formation before sustained motion, or inserts a generic consolidation stage."
         }
       ],
       "evidence": {
         "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone describes the Saense EP collectively as deep, dub-tinged and movement-anchored, with small shifts carrying its development.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether Ortogon turns liminal percussion toward Nukumori's flare with a useful intermediate grammar, or postpones an already legible change."
+        "attributedDescription": "KMA60 describes Bound States collectively as hypnotic techno rooted in Black American dance music and shaped through European club culture; it does not distinguish this track's individual direction.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Bound State gives burst-and-disappearance a deliberate re-formation before sustained motion, or inserts a generic consolidation stage."
       }
     },
     {
-      "artist": "Delta Division",
-      "track": "Dead Channel Rituals",
-      "album": "Dead Channels Ritual",
-      "releaseDate": "2026-08-12",
+      "artist": "Confusion",
+      "track": "Clay Bound",
+      "album": "In Cycles",
+      "releaseDate": "2026-09-11",
       "spotifyTrackId": null,
       "bpm": null,
       "bpmSource": null,
       "searchIntent": "BOTH",
-      "discoverySource": "https://clone.nl/all/tag/Breaks",
-      "fitHypothesis": "A title track framed around communication through collapse and broken-system ritual offers a credible structural proposition for the final re-entry-to-afterword relation.",
+      "discoverySource": "https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "fitHypothesis": "The exact title belongs to a newly released LP Juno describes as restless techno; it is credible for resolution while its individual development remains unknown.",
       "proposedPlacements": [
         {
-          "position": "Between Can I live and Invisible Warriors Of Light",
-          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
+          "position": "Between Tender Is The Night and Egue into hs",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
+          "purpose": "Test whether Clay Bound makes drone suspension arrive at a concrete state before fixed-kick re-entry, or prolongs suspension without changing the return."
         }
       ],
       "evidence": {
         "measured": [
-          "Clone lists the exact title and release in its 2026 catalogue, checked 2026-09-13.",
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
           "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
         ],
         "listenerEvidence": "No candidate-specific listener report.",
         "lawfulAudioEvidence": null,
-        "attributedDescription": "Clone frames Dead Channel Rituals through communication beyond collapse, ritualistic rhythms and distortion becoming language.",
-        "craftConvention": "Release and exact-title evidence support identity resolution and a concrete editorial test; they do not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
-        "editorialInterpretation": "Test whether the title track makes restrained re-entry arrive at a distinct transformed state before the afterword, or converts a concise ending into another full chapter."
+        "attributedDescription": "Juno describes the album collectively as eight tracks of restless techno; no individual direction is assigned to Clay Bound.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Clay Bound makes drone suspension arrive at a concrete state before fixed-kick re-entry, or prolongs suspension without changing the return."
+      }
+    },
+    {
+      "artist": "Confusion",
+      "track": "Object Definition",
+      "album": "In Cycles",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "fitHypothesis": "A precise exact-title identity from a restless-techno album offers a serious reassembly test without assuming the title proves its structure.",
+      "proposedPlacements": [
+        {
+          "position": "Between Té de Cabello Blanco and Ikoyi",
+          "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Object Definition changes false stability into a purposeful state before foreground dissolution, or over-explains the existing reassembly-to-dissolution relation."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the album collectively as restless techno intended to unsettle and motivate; Object Definition's individual mechanics remain unspecified.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Object Definition changes false stability into a purposeful state before foreground dissolution, or over-explains the existing reassembly-to-dissolution relation."
+      }
+    },
+    {
+      "artist": "Confusion",
+      "track": "Red 96",
+      "album": "In Cycles",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.juno.co.uk/products/confusion-in-cycles-vinyl/1174157-01/",
+      "fitHypothesis": "The exact title is part of the same restless current album and offers a credible identity-resolution question for the widening-to-groove-pivot passage.",
+      "proposedPlacements": [
+        {
+          "position": "Between Too Much Time and Freepass for Them",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Red 96 gives physical widening a distinct restless consequence before the groove pivot, or merely adds another fully formed stage."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "Juno describes the album collectively as restless techno; its review identifies Red 96 as one of the LP's distant-system-like titles but does not claim individual sonic mechanics.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Red 96 gives physical widening a distinct restless consequence before the groove pivot, or merely adds another fully formed stage."
+      }
+    },
+    {
+      "artist": "François X",
+      "track": "Bones & Harmony",
+      "album": "Bound States",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.kma60.com/",
+      "fitHypothesis": "The release's documented hypnotic, cross-cultural techno frame makes this exact opener a credible contender for the current sequence's cold-open reassembly question.",
+      "proposedPlacements": [
+        {
+          "position": "Between Sawa and Stadium Drive",
+          "precedingUri": "spotify:track:19htZ2qdGDXVIFxI1ugYtW",
+          "followingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Bones & Harmony gives the hyper-rhythmic cold open a purposeful intermediate settling before the overture, or weakens the direct contrast."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "KMA60 describes Bound States collectively as hypnotic techno rooted in Black American dance music and shaped through European club culture; no individual direction is assigned to Bones & Harmony.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Bones & Harmony gives the hyper-rhythmic cold open a purposeful intermediate settling before the overture, or weakens the direct contrast."
+      }
+    },
+    {
+      "artist": "François X",
+      "track": "Type X",
+      "album": "Bound States",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.kma60.com/",
+      "fitHypothesis": "A track from a current hypnotic-techno EP shaped across dance-music traditions is a credible bodily proposition for the conflict-to-re-grounding passage, with individual behavior still unknown.",
+      "proposedPlacements": [
+        {
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": 139,
+          "purpose": "Test whether Type X converts cross-rhythmic conflict into a useful intermediate state before funk re-grounding, or delays an already proportionate return."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "KMA60 describes Bound States collectively as hypnotic techno rooted in Black American dance music and shaped through European club culture; no individual direction is assigned to Type X.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Type X converts cross-rhythmic conflict into a useful intermediate state before funk re-grounding, or delays an already proportionate return."
+      }
+    },
+    {
+      "artist": "François X",
+      "track": "Just A Feeling",
+      "album": "Bound States",
+      "releaseDate": "2026-09-11",
+      "spotifyTrackId": null,
+      "bpm": null,
+      "bpmSource": null,
+      "searchIntent": "BOTH",
+      "discoverySource": "https://www.kma60.com/",
+      "fitHypothesis": "The exact closer from a current hypnotic-techno release offers a credible late-run re-entry question without inferring emotion from its title.",
+      "proposedPlacements": [
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether Just A Feeling changes dead-space descent into a deliberate condition for restrained footwork re-entry, or interrupts the current direct return."
+        }
+      ],
+      "evidence": {
+        "measured": [
+          "The cited source lists the exact artist, title and release context, checked 2026-09-13.",
+          "Exact Spotify identity, duration, BPM, phrase fit, perceived pulse and live mixability require resolver evidence."
+        ],
+        "listenerEvidence": "No candidate-specific listener report.",
+        "lawfulAudioEvidence": null,
+        "attributedDescription": "KMA60 describes Bound States collectively as hypnotic techno rooted in Black American dance music and shaped through European club culture; the title is not treated as emotional evidence.",
+        "craftConvention": "Attributed release or exact-track evidence supports identity resolution and a concrete editorial test; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or live mixability.",
+        "editorialInterpretation": "Test whether Just A Feeling changes dead-space descent into a deliberate condition for restrained footwork re-entry, or interrupts the current direct return."
       }
     }
   ]
