@@ -336,8 +336,10 @@
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-13T20:50:45Z-explore-223",
+  "runId": "2026-09-13T20:58:30Z-explore-223-recovery",
   "schemaVersion": 2,
   "sourceCommit": "faf4704ef12dbd8d6698be7e2707c83bbcd85065",
-  "target": "playlists/strange-gait"
+  "target": "playlists/strange-gait",
+  "recoveryOfRunId": "2026-09-13T20:50:45Z-explore-223",
+  "recoveryReason": "Recover exact identity resolution after the resolver rejected a lawful before-opener boundary; preserve the failed Run 223 field without claiming another scan."
 }
