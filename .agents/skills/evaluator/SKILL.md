@@ -94,7 +94,15 @@ Before finalizing a PARK/REVISIT, ask:
 4. Would I accept the same evidence standard for an ADD already in the ledger? If not, explain the difference.
 5. Is the candidate being punished for being difficult to describe rather than weak for the journey?
 
-A repeated answer of “no direct handoff evidence” across many candidates is a workflow-health signal for Auditor review, not  many independent musical failures.
+A repeated answer of “no direct handoff evidence” across many candidates is a workflow-health signal for Auditor review, not many independent musical failures.
+
+### Repetition-aware placement check
+For each selected candidate, compare the planned placement and principal blocker with the previous five completed discovery runs. When the same boundary or evidence gap recurs:
+- state what materially new candidate evidence makes the test informative;
+- otherwise test a stronger non-frozen alternative supplied by Scout;
+- do not PARK merely to preserve the familiar unanswered question.
+
+A repeated boundary can still be the best placement, and a specific decision-critical unknown can still justify PARK. The requirement is an explicit information-gain rationale, not novelty for its own sake.
 
 ## Relaxation-first rule
 The Evaluator makes the decision. Never assign A/B comparisons, rankings, prescribed sessions or required subjective confirmation. Natural listener feedback may reopen any ADD later.

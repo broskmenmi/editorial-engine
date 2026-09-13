@@ -138,6 +138,16 @@ When a no-ADD streak coexists with growing retained-interest inventory, diagnose
 
 If evidence supports 4–6, Auditor must emit an actionable workflow REPAIR before another ordinary EXPLORE. Do **not** force an ADD to improve metrics.
 
+### Evidence-and-placement diversity repair
+When repeated PARK outcomes are driven by the same evidence gap or the same small group of placement boundaries:
+- classify the repeated pattern as one workflow-health defect rather than many independent musical failures;
+- for the next outward scan, prefer sources that distinguish exact-track direction, development or endpoint over shared release-level descriptions;
+- compare planned placements against the previous five completed discovery runs and avoid a recently repeated boundary unless materially new candidate evidence gives a specific reason to retest it;
+- do not impose a boundary-diversity quota: a repeated boundary may remain best, but Scout must state why it survives the repetition check;
+- rank the top candidate slots for information gain as well as canonical potential, so the run can distinguish playlist maturity from evidence or placement-search failure.
+
+This repair changes search and evaluation discipline, not the ADD bar. It never authorizes padding, forced novelty or automatic admission.
+
 The Run 55–85 drought is historical evidence of this failure mode and must remain visible in comparative analysis rather than being forgotten after one successful ADD.
 
 ## Inspiration layer

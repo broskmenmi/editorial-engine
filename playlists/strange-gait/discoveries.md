@@ -1,3 +1,21 @@
+## Run 200 — REPAIR — repeated evidence-gap and placement-search loop — 2026-09-13
+
+**runId:** `2026-09-13T03:52:11Z-repair-200`
+
+### Auditor-confirmed defect
+
+The five completed discovery runs after Run 191 produced 12 exact genuinely interesting selected tracks and no canonical ADD. Eight of those 12 were PARKED. The dominant blocker repeated: shared or incomplete descriptions did not establish individual direction or endpoint. The same small boundary set also recurred, especially `Cave → Abundance`, `Raataja → Crawl` and `Rabbit Hole → Can I live`. Run 198 then lost all nine leads at identity resolution. The no-ADD count alone is not the defect; the retained-interest inventory, eight similar PARK outcomes and recycled boundary questions together establish repeated epistemic and placement-search behavior under workflow-health causes 5–6.
+
+### Repair
+
+The target automation and Scout, Evaluator and Auditor contracts now require a five-run repetition check. After repeated PARK outcomes, the next scan must prefer decision-specific exact-track direction/development/endpoint evidence when honest alternatives exist, avoid a recently repeated boundary unless materially new candidate evidence justifies it, and rank scarce selected slots for information gain as well as canonical potential. Repetition remains allowed when candidate-specific evidence supports it; no boundary-diversity quota, ADD quota, novelty requirement or lower admission bar is created.
+
+### Auditor approval
+
+**APPROVED process repair.** The change addresses the evidenced workflow loop without altering canonical music, protected/frozen state, listener authority, resolver identity rules, publication semantics or the distinction between UNKNOWN and FAIL. STRANGE GAIT remains 52 tracks; EDITORIAL ENGINE — DISCOVERY POOL remains 412 tracks. Audio analysis and live mixing are **NOT TESTED**.
+
+**RUN ANALYSIS:** Five completed post-Run-191 discovery runs → 12 exact retained selected tracks → 8 PARKED with repeated direction/endpoint gaps + recurring boundary hypotheses → 1 actionable workflow/process defect → 4 coherent contract updates → 0 musical verdicts, canonical changes or utility additions. This repair proves the repetition is now explicit and testable; it does not prove that any parked track belongs canonically or that the playlist is immature.
+
 # STRANGE GAIT — Discovery Log
 
 ## Run 199 — REPAIR — stale canonical-count statements — 2026-09-13

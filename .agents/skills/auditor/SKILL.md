@@ -109,6 +109,15 @@ When a sustained no-ADD streak coexists with growing retained-interest inventory
 
 If the evidence supports 4–6, return an actionable process REPAIR recommendation to be executed before the next ordinary EXPLORE. Never call a no-ADD streak alone a defect.
 
+### Repetition-repair verification
+After a repair for repeated evidence or placement search, require the next completed discovery run to show:
+- which previous five-run evidence gap and boundary pattern it was designed to break;
+- whether the selected candidates carried more decision-specific exact-track evidence;
+- whether repeated boundaries were avoided or justified by materially new evidence;
+- whether outcomes became more differentiated.
+
+Success means higher information quality, not necessarily an ADD. If the run reproduces the same blockers without a candidate-specific reason, keep the repair open rather than treating each PARK as fresh musical evidence.
+
 ## Resolver integrity
 New requests must use schemaVersion 2, fresh runId, current pre-request `sourceCommit`, one to nine honest `leads`, and no request-side candidates. Require matching terminal `scout-data.json` and valid fingerprint.
 

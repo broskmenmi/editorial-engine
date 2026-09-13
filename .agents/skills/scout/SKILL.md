@@ -83,6 +83,13 @@ When the scan supports it, let the top candidates represent materially different
 
 These are not quotas or required roles.
 
+### Repetition-break check
+Before freezing the ranking, compare the proposed boundaries and principal evidence classes with the previous five completed discovery runs.
+
+If repeated PARK outcomes share one decision-critical evidence gap, prefer top-ranked leads with exact-track evidence about direction, development or endpoint when honest alternatives exist. If the same boundary has been tested repeatedly without materially new evidence, choose a different lawful placement or state the candidate-specific reason that boundary remains the strongest test.
+
+This is an information-gain rule, not a diversity quota. It does not disqualify shared release prose, repeated boundaries, subtle continuations or adjacent styles; it prevents the resolver's scarce selected slots from reproducing the same unanswered question by habit.
+
 ## Procedure
 1. Pre-audit `under-review.md`, `notes.md`, `revisit.md`, recent discoveries and the current ledger.
 2. In REPAIR, search the concrete repair target. In EXPLORE, search all three source families freshly.
