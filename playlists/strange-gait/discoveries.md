@@ -1,5 +1,78 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 207 — EXPLORE — contaminated residue before descent — 2026-09-13
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique canonical tracks, an exact-order 53-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 421 contiguous unique tracks. Automatic publishing was enabled. Run 206 was the only completed no-ADD exploration after Run 203; Repairs 204–205 were closed and did not create a current repair trigger.
+
+**Fresh exploration:** approximately 63 named tracks, current cuts and catalogue references were inspected across Rene Wise and Planet Rhythm releases dated September 10, Curbside Lambsear's September 11 debut, PRIDI/Nesreh, Vakula/Pure Delay and Limousine Dream's 2026 compilation field. Recent Runs 198–206 fields, all prior ranked leads and alternates, canonical identities, active placement-specific rejects, untriggered PARKED revisits and existing global utility identities were excluded. The five-run repetition check avoided every boundary proposed in Runs 198, 201, 202, 203 and 206. Nine differentiated leads survived without padding.
+
+- **runId:** `2026-09-13T08:50:47Z-explore-207`
+- **sourceCommit:** `4c6e637cc31d656524af582986fdb6af361a4f4e`
+- **request commit:** `7d3032cf33cf1c36357ad325477ae2a2b0f5d063`
+- **snapshot commit:** `f3e8c28d8229434a4a1eae4738e7e8ff0ecfd5c2`
+- **request fingerprint:** `2abf218a0069f489c5fb5fa0873685bc7b5a5b00c386940e30caa50b22cb85fb`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested, 3 exact resolutions, 3 selected candidates, 6 unresolved identities and no alternates, duplicates, substitutions, relinkings or technical failures.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict, each returning exactly `no exact Spotify title/artist search match in market SE`:
+
+- Vakula — *Pulsation*
+- PRIDI — *Disembarkation*
+- Planet Rhythm — *What Time Is Love*
+- Mungo Sound Machine — *Spiral Run*
+- Vakula — *Spaceman*
+- PRIDI — *Hollow Whispers*
+
+Warning preserved exactly:
+
+- Rene Wise — *Night Time Swim*: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-09-11"`
+
+### Canonical evaluations
+
+#### Rene Wise — Night Time Swim — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:4m2Ck8iySn7iNk56a7LuSo`; 6:05; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. Juno's exact-track account identifies stereo-panned bass reaching instability. That internal escalation fits the selection lens; currentness, artist familiarity and techno orthodoxy are not admission arguments.
+- **Immediate transition:** FAIL only at `Marauder → candidate → The Witching Hour`. The candidate creates a fully stated bass escalation between the 136 BPM anchor and 136 BPM controlled continuation; the matching neighbour tempos are metadata, not evidence of a useful handoff.
+- **Surrounding three-to-five-track run:** FAIL for `Stadium Drive → Marauder → candidate → The Witching Hour → Encasadelciegoeltuerco`. The 6:05 stage makes The Witching Hour function as a second stabilization before the later triplet derailment without evidence that the extra turn changes either consequence.
+- **Long-form journey:** FAIL proportionally for this placement. The opening already forms, anchors, continues and derails before self-emptying; another complete escalation lengthens that exposition rather than sharpening it.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Curbside Lambsear — Jjochstubn — canonical ADD / retained discovery
+
+- **Exact identity:** `spotify:track:5czyvXZq06uxrrKVp28FTb`; 6:38; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. Boomkat documents time-stretched voice, crooked slowed drums and malfunctioning-electrical texture pulling apart the traces of a song. The rhythmic and structural dismantling fits the lens without requiring club orthodoxy or surface weirdness.
+- **Immediate transition:** provisional PASS at `Nukumori → candidate → Rabbit Hole`. The change from a brief hardcore-remnant flare into a slowed, contaminated song form is conspicuous and purposeful; the candidate's documented unresolved residue gives Rabbit Hole's dead-space descent a state to erase. Seamlessness and mixability are not claimed.
+- **Surrounding three-to-five-track run:** PASS for `Eyes of the Wind → Nukumori → candidate → Rabbit Hole → Can I live`: liminal percussion → flare → damaged song-disassembly → dead-space descent → restrained re-entry. The candidate changes both neighbouring relations instead of merely mediating them.
+- **Long-form journey:** provisional PASS. The 6:38 duration is a real cost late in the playlist, but it creates a distinct contaminated aftermath between flare and disappearance rather than another afterword or second ending. The protected block and its two handoffs remain untouched.
+- **Verdict:** ADD at this placement. Exact entry, exit, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+#### Curbside Lambsear — Avril — placement-specific REJECT / retained discovery
+
+- **Exact identity:** `spotify:track:0Ho2e61IcKT57H3CttlyPy`; 5:19; Spotify release date 2026-09-11.
+- **Volume fit:** PASS. Boomkat documents casual voice, euphoric noise, hyper-compressed drums and feedback cohering into a near-pop form. That production-world redirection is eligible; vocal presence and novelty do not earn admission.
+- **Immediate transition:** FAIL only at `Same Way → candidate → U Belong 2 Me`. Avril supplies another complete foreground scene after Same Way's alternating drum/bass body pressure and before U Belong 2 Me's four-on-the-floor-to-funereal threshold.
+- **Surrounding three-to-five-track run:** FAIL for `Style Teef → Same Way → candidate → U Belong 2 Me → Transparency`. The noise-pop statement delays the established pressure-to-threshold-to-protected-block passage without evidence that U Belong 2 Me's collapse gains a new task.
+- **Long-form journey:** FAIL proportionally for this placement. At 5:19 it enlarges the approach to the listener-protected trio with another resolved scene, reducing rather than strengthening the threshold's clarity.
+- **Verdict:** REJECT this placement only; retain as genuinely interesting. Exact handoffs, BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect and live mixability remain UNKNOWN.
+
+### Auditor approval
+
+**APPROVED.** The request and snapshot match on schemaVersion, runId, sourceCommit, target, mode, receipt and fingerprint. Only the three selected exact identities were evaluated; all six resolver misses and the exact metadata warning are preserved. The resolver's exact 397,986-ms duration supersedes the request's imprecise source note that called *Jjochstubn* roughly four minutes. No identity, tempo, audio or mix claim was invented. The protected handoffs remain contiguous and untouched.
+
+Auditor accepts *Jjochstubn* provisionally because the documented form gives both neighbours new consequences at transition, five-track-run and long-form scales. The strongest counterargument is late-run overextension: 6:38 of additional song-disassembly could make the post-protected descent feel too elaborate. That cost is proportionate here because the track is not another ending or generic bridge; it converts Nukumori's flare into contaminated residue before Rabbit Hole removes it. Direct listening could overturn this provisional judgment.
+
+All three selected exact tracks are retained as genuinely interesting and enter the global utility ledger. The six unresolved leads remain research only. No actionable REPAIR emerges.
+
+### Run analysis
+
+`~63 inspected → 9 leads → 3 exact resolutions + 6 unresolved → 3 evaluations → 1 ADD + 2 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion is 14.3%; resolution yield is 33.3%; selected-candidate-to-ADD conversion is 33.3%. Across completed discovery Runs 87–207, excluding process repairs and failed runs: 909 leads from approximately 5,439 inspections; 39 ADDs from 276 selected candidates. The recent comparable ADD rate remains 2/10, and the one-run no-ADD streak after Run 203 resets to zero.
+
+This run supports the current placement-search discipline: differentiated evidence at a fresh boundary produced one specific addition and two scoped rejections without an UNKNOWN-to-PARK cascade. It does not prove the new handoffs, energy, density, phrase fit, perceived pulse or live mixability. Audio analysis and live mixing were NOT TESTED.
+
 ## Run 206 — EXPLORE — intermediate motion must change the consequence — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique canonical tracks, an exact-order 53-track map, no active listener discussion, no current TRIGGERED revisit and no objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 418 contiguous unique tracks. Automatic publishing was enabled. The last completed exploration, Run 203, produced a canonical ADD; Repairs 204–205 closed technical and representation defects without creating a new musical trigger.

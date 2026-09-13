@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 207
+
+### Let rupture leave residue before descent
+
+**Direction:** After a brief flare, test whether an extended damaged or half-dismantled form can leave a residue that gives the next disappearance something specific to erase.
+
+**Ingredients:**
+
+- Azu Tiwaline — *Eyes of the Wind* → foodman — *Nukumori* — existing liminal passage and brief flare
+- Curbside Lambsear — *Jjochstubn* — exact 6:38 contaminated song-disassembly; canonical only at the tested boundary
+- Jlin — *Rabbit Hole* → TYGAPAW, Precious Okoyomon — *Can I live* — existing dead-space descent and restrained re-entry
+- Rene Wise — *Night Time Swim* and Curbside Lambsear — *Avril* — exact interesting counterexamples whose Run 207 placements were rejected
+
+**Why interesting:** Disappearance is more consequential when it removes a clearly documented residue. The useful intermediate stage changes both neighbours rather than functioning as a generic bridge or another ending.
+
+**Boundary:** This is a set direction, not a proven live sequence or mixing edge. The two rejected tracks are not globally rejected; exact handoffs, phrase fit, perceived pulse, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 206
 
 ### Intermediate motion must change the consequence

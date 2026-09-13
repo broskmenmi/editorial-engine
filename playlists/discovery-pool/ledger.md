@@ -425,6 +425,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 419 | Active Systems | Gabbol | spotify:track:1MPIKytvZvjq9zWQYSH7oI | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 420 | DJ Sinjin | Things On My Mind | spotify:track:5pYko1oRFN8pgzRNXofcJP | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
 | 421 | Active Systems | Itsover | spotify:track:25HzDbwdA0lAOdaXORUKkS | STRANGE GAIT Run 206 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 422 | Rene Wise | Night Time Swim | spotify:track:4m2Ck8iySn7iNk56a7LuSo | STRANGE GAIT Run 207 | Placement-specific REJECT / interesting | 2026-09-13 |
+| 423 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | STRANGE GAIT Run 207 | ADD / interesting | 2026-09-13 |
+| 424 | Curbside Lambsear | Avril | spotify:track:0Ho2e61IcKT57H3CttlyPy | STRANGE GAIT Run 207 | Placement-specific REJECT / interesting | 2026-09-13 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 207 harvest — 2026-09-13
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Rene Wise | Night Time Swim | `spotify:track:4m2Ck8iySn7iNk56a7LuSo` · https://open.spotify.com/track/4m2Ck8iySn7iNk56a7LuSo · https://www.juno.co.uk/products/rene-wise-moving-pressure-07-vinyl/1168066-01/ | Rejected only at *Marauder → The Witching Hour*; its unstable stereo-bass action remains genuinely interesting. Added globally. |
+| EXACT TRACK / ADD | Curbside Lambsear | Jjochstubn | `spotify:track:5czyvXZq06uxrrKVp28FTb` · https://open.spotify.com/track/5czyvXZq06uxrrKVp28FTb · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands | Canonical only between *Nukumori* and *Rabbit Hole*; contaminated song-disassembly changes both neighbours. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Curbside Lambsear | Avril | `spotify:track:0Ho2e61IcKT57H3CttlyPy` · https://open.spotify.com/track/0Ho2e61IcKT57H3CttlyPy · https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands | Rejected only at *Same Way → U Belong 2 Me*; its compressed noise-pop construction remains genuinely interesting. Added globally. |
+| RESEARCH LEADS / UNRESOLVED | Vakula; PRIDI; Planet Rhythm; Mungo Sound Machine | Pulsation; Disembarkation; What Time Is Love; Spiral Run; Spaceman; Hollow Whispers | Run 207 request sources | Each returned `no exact Spotify title/artist search match in market SE`; no verdict or utility entry. |
+| RELEASE / LABEL WATCH | Moving Pressure; Nesreh; Pure Delay; Scenic Route; Limousine Dream | current and overlooked 2026 fields | Run 207 sources | Exact-track descriptions spanning stereo instability, polyrhythm, muddy deep techno and dismantled song remain useful research windows. |
+| SET DIRECTION | — | Let rupture leave residue before descent | target-local idea only | After a brief flare, an extended damaged form can make a later disappearance more consequential when it changes both neighbours. |
+
+### Placement and inspiration boundaries
+
+- The two exact rejects are not globally rejected; only their Run 207 placements are rejected.
+- The six unresolved leads receive no musical verdict and do not enter EDITORIAL ENGINE — DISCOVERY POOL.
+- *Jjochstubn* is canonical only at the tested boundary; its 6:38 duration is a proportional cost, not proof of depth or energy.
+- No phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live mixability was inferred.
+
 ## Run 206 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

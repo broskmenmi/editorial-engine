@@ -10,6 +10,8 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Rene Wise | Night Time Swim | Run 207 rejects only `Marauder → candidate → The Witching Hour`. Its exact stereo-bass escalation remains interesting, but the 6:05 insertion adds another complete opening assertion before controlled continuation and later derailment without changing either consequence. | 2026-09-13 |
+| Curbside Lambsear | Avril | Run 207 rejects only `Same Way → candidate → U Belong 2 Me`. Its exact compressed noise-pop scene remains interesting, but the 5:19 insertion delays the existing body-pressure-to-funereal-threshold passage into the protected block. | 2026-09-13 |
 | Active Systems | Gabbol | Run 206 rejects only `Worn Down → candidate → Atlantis`. Its exact glacial hip-hop construction remains interesting, but it inserts another distinct slowed scene between the existing weight threshold and micro-repetition/continuum hinge without a changed local or long-form consequence. | 2026-09-13 |
 | DJ Sinjin | Things On My Mind | Run 206 rejects only `Style Teef → candidate → Same Way`. Its exact direct bass-and-dialogue construction remains interesting, but it creates a second complete foreground-pressure stage before the existing threshold into the protected block. | 2026-09-13 |
 | Active Systems | Itsover | Run 206 rejects only `Crawl → candidate → Fulledge (Empty-40 Mix)`. Its exact restless skippy rhythm remains interesting, but it mediates the existing sustained-motion-to-dissolution relation without evidence that the intermediate stage changes the endpoint. | 2026-09-13 |
