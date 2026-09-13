@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 203
+
+### Let balance acquire a low-slung consequence
+
+**Direction:** After an explicit acceleration crisis and an opposed-speed balance, test a sustained lower-tempo coil before the sequence widens and resumes forward motion.
+
+**Ingredients:**
+
+- Rian Treanor — *Hypnic Jerks* — existing acceleration-to-orientation crisis
+- John Beltran, Placid Angles, Tom VR — *Tides Alternate* — existing opposed-speed balance
+- Baby Ford — *Serpentine Tale* — exact coiling 130 BPM proposition; canonical only at the tested boundary
+- Sciahri — *Too Much Time* — existing 140 BPM physical widening
+- Acid Pauli — *Gwar Is Not The Answer* and Vinicius Honorio — *Labyrinth of Sin* — exact interesting tracks whose Run 203 placements were rejected
+
+**Why interesting:** The useful move is not “slower as relief.” It is giving the preceding balance a concrete consequence so the next widening changes meaning.
+
+**Boundary:** This is a set direction, not a proven live sequence or mixing edge. BPM is metadata; exact handoffs, phrase fit, perceived pulse and live mixing remain untested.
+
 ## Current additions — Run 202
 
 ### Keep identity loss separate from editorial maturity
