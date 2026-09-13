@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 215 — REPAIR — restore Discovery Pool ledger continuity — 2026-09-13
+
+**Pre-audit:** REPAIR. Automatic publication of EDITORIAL ENGINE — DISCOVERY POOL failed closed after Run 214 with the exact receipt error `Ledger contains a track row after table termination on row 444.` STRANGE GAIT itself had already verified COMPLETE at 55/55, and the 55-track canonical ledger, regenerated journey map and listener-protected trio were intact.
+
+- **runId:** `2026-09-13T15:02:00Z-repair-215`
+- **trigger:** actionable objective global-utility ledger defect created during Run 214 finalization
+- **evidence:** a blank line followed global row 436 and prematurely terminated the Markdown table before new rows 437–438
+- **repair:** removed only that blank line, restoring one contiguous 438-row table
+- **musical state:** unchanged; 0 new verdicts, 0 canonical changes, 0 utility identity changes
+- **protected state:** `Transparency → When We Froze → Stardancer` remains contiguous at positions 46–48
+- **validation:** 438 contiguous unique utility rows; STRANGE GAIT remains 55 unique canonical tracks with 55 annotations and exact generated-map order
+
+**RUN ANALYSIS:** 1 premature table terminator → 1 structural correction → 0 musical decisions → 55 canonical and 438 utility identities preserved. This repair addresses the publication blocker only and does not change Run 214's approved editorial evidence or outcomes.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 214 — EXPLORE — opposed materials can give dissolution a concrete object — 2026-09-13
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 54 unique canonical tracks, 54 matching annotations, an exact-order 54-track generated map, no active listener discussion, no current TRIGGERED revisit and no actionable objective defect. The protected `Transparency → When We Froze → Stardancer` internal order remained contiguous at positions 45–47. EDITORIAL ENGINE — DISCOVERY POOL entered with 436 contiguous unique tracks. Automatic publishing was enabled.
