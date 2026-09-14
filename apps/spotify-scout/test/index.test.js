@@ -8,6 +8,7 @@ import {
   identityLookupMiss,
   persistentExclusions,
   persistentIdentityError,
+  persistentRequestedIdentityError,
   releaseMismatchWarning,
   recordResolution,
   snapshotStateForRequest,
@@ -165,8 +166,8 @@ test('Spotify market relinking is explicit and unrelated substitution is rejecte
 
 test('REPAIR may reopen non-ledger persistent identities while EXPLORE may not', () => {
   const sources = {
-    'playlists/groove-over-noise/ledger.md': 'spotify:track:1111111111111111111111',
-    'playlists/groove-over-noise/rejected.md': 'spotify:track:2222222222222222222222',
+    'playlists/groove-over-noise/ledger.md': '| Pos | Artist | Track | URI |\n|---:|---|---|---|\n| 1 | Ledger Artist | Ledger Track | spotify:track:1111111111111111111111 |',
+    'playlists/groove-over-noise/rejected.md': '| Artist | Track | Reason |\n|---|---|---|\n| Rejected Artist | Rejected Track | prior verdict |\nspotify:track:2222222222222222222222',
     'playlists/groove-over-noise/revisit.md': 'spotify:track:3333333333333333333333',
     'playlists/groove-over-noise/discoveries.md': 'spotify:track:4444444444444444444444',
   };
@@ -176,12 +177,18 @@ test('REPAIR may reopen non-ledger persistent identities while EXPLORE may not',
   assert.equal(persistentIdentityError(repair, '2222222222222222222222'), null);
   assert.equal(persistentIdentityError(repair, '3333333333333333333333'), null);
   assert.equal(persistentIdentityError(repair, '4444444444444444444444'), null);
+  assert.equal(persistentRequestedIdentityError(repair, { artist: 'Rejected Artist', track: 'Rejected Track' }), null);
 
   const explore = persistentExclusions('EXPLORE', sources);
   assert.equal(persistentIdentityError(explore, '1111111111111111111111'), 'already present in persistent state');
   assert.equal(persistentIdentityError(explore, '2222222222222222222222'), 'already present in persistent state');
   assert.equal(persistentIdentityError(explore, '3333333333333333333333'), 'already present in persistent state');
   assert.equal(persistentIdentityError(explore, '4444444444444444444444'), 'already present in persistent state');
+  assert.equal(
+    persistentRequestedIdentityError(explore, { artist: 'rejected artist', track: 'Rejected Track' }),
+    'already present in persistent state',
+  );
+  assert.equal(persistentRequestedIdentityError(explore, { artist: 'New Artist', track: 'New Track' }), null);
 });
 
 test('duplicate resolved identities cannot occupy multiple candidate slots', () => {

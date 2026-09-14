@@ -41,22 +41,68 @@ export function directTrackRelinkResult(track, requestedId) {
 }
 
 export function persistentIdentityError(excluded, ...ids) {
-  return ids.some((id) => id && excluded.has(id)) ? 'already present in persistent state' : null;
+  const excludedIds = excluded instanceof Set ? excluded : excluded.ids;
+  return ids.some((id) => id && excludedIds.has(id)) ? 'already present in persistent state' : null;
 }
 
 function idsFromText(text) {
   return new Set([...text.matchAll(/spotify:track:([A-Za-z0-9]{22})/g)].map((match) => match[1]));
 }
 
-export function persistentExclusions(mode, sourceTexts) {
-  const paths = mode === 'REPAIR' ? [SOURCE_PATHS[0]] : SOURCE_PATHS;
-  const excluded = new Set();
+function identityKey(artist, track) {
+  return `${normalized(artist)}\u0000${normalized(track)}`;
+}
 
-  for (const path of paths) {
-    for (const id of idsFromText(sourceTexts[path] ?? '')) excluded.add(id);
+function tableIdentitiesFromText(text) {
+  const identities = new Set();
+  let artistIndex = -1;
+  let trackIndex = -1;
+
+  for (const line of String(text ?? '').split('\n')) {
+    if (!line.startsWith('|')) {
+      artistIndex = -1;
+      trackIndex = -1;
+      continue;
+    }
+
+    const columns = line.split('|').slice(1, -1).map((column) => column.trim());
+    const normalizedColumns = columns.map((column) => normalized(column));
+    const headerArtistIndex = normalizedColumns.indexOf('artist');
+    const headerTrackIndex = normalizedColumns.indexOf('track');
+    if (headerArtistIndex >= 0 && headerTrackIndex >= 0) {
+      artistIndex = headerArtistIndex;
+      trackIndex = headerTrackIndex;
+      continue;
+    }
+
+    if (artistIndex < 0 || trackIndex < 0 || /^[-:]+$/.test(columns[artistIndex] ?? '')) continue;
+    const artist = columns[artistIndex];
+    const track = columns[trackIndex];
+    if (artist && track) identities.add(identityKey(artist, track));
   }
 
-  return excluded;
+  return identities;
+}
+
+export function persistentRequestedIdentityError(excluded, requested) {
+  if (excluded instanceof Set) return null;
+  return excluded.identities.has(identityKey(requested.artist, requested.track))
+    ? 'already present in persistent state'
+    : null;
+}
+
+export function persistentExclusions(mode, sourceTexts) {
+  const paths = mode === 'REPAIR' ? [SOURCE_PATHS[0]] : SOURCE_PATHS;
+  const ids = new Set();
+  const identities = new Set();
+
+  for (const path of paths) {
+    const text = sourceTexts[path] ?? '';
+    for (const id of idsFromText(text)) ids.add(id);
+    for (const identity of tableIdentitiesFromText(text)) identities.add(identity);
+  }
+
+  return { ids, identities };
 }
 
 function canonicalLedgerTracks(ledgerText) {
@@ -455,6 +501,9 @@ async function searchExactTrack(token, requested) {
 }
 
 async function resolveRequestedTrack(token, requested, excluded) {
+  const existingRequestedIdentityError = persistentRequestedIdentityError(excluded, requested);
+  if (existingRequestedIdentityError) return { error: existingRequestedIdentityError };
+
   if (requested.spotifyTrackId) {
     const id = requested.spotifyTrackId;
     const existingIdentityError = persistentIdentityError(excluded, id);
