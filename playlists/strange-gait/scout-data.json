@@ -1,148 +1,226 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "16b7ce5d3de014d9a5eafc399fb4017d0104aface9fa929d8af868456d3ccd9a",
-  "generatedAt": "2026-09-14T14:56:18.554Z",
-  "runId": "2026-09-14T14:50:00Z-explore-247",
-  "sourceCommit": "55618c652da8e42be991ac6acdbaf5ff331452a0",
+  "requestFingerprint": "c2479f722feefb13018213af27d5d7d5809d82d0c6de0ade0b76fa44088c9d17",
+  "generatedAt": "2026-09-14T15:55:50.428Z",
+  "runId": "2026-09-14T15:50:00Z-explore-248",
+  "sourceCommit": "4fc2fbebab3b01a1e8be9f49f67042127c4c59f6",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 93 named tracks/releases across Boomkat's September 14 new-release pages, Juno's complete current-techno page, current label/artist pages and an overlooked catalogue/reissue window. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 97 named tracks/releases across Juno's September 14 current-techno pages, the September minimal/tech-house chart, today's new techno listings and the linked reissue/catalogue window. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. Explicit threat- or panic-coded propositions were deprioritized without creating a blanket intensity or genre ban.",
-      "Completed discovery Runs 239–245 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
+      "Completed discovery Runs 243–247 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
       "All ranked artist/title pairs were checked against canonical state, target-local discovery/rejection/PARKED history and the global utility ledger; none was found.",
-      "Five Paired Works tracks are retained because Boomkat describes them individually and the source resolves their separate artist credits. They are independently placed and must receive independent verdicts; same-release membership is not evidence of fit.",
-      "No proposed placement touches either protected internal handoff in Transparency → When We Froze → Stardancer."
+      "The three top-ranked leads come from distinct releases and test distinct non-frozen current boundaries. No proposed placement touches either protected internal handoff in Transparency → When We Froze → Stardancer.",
+      "Current listings with generic release-level framing, no individual-track proposition, or a recently repeated placement hypothesis were deprioritized rather than padded into the top slots."
     ],
     "rankedLeadSummary": [
-      "1. Justine Perry — Beyond The Line",
-      "2. Paula Koski — Maeve",
-      "3. Justine Perry — Opaline",
-      "4. Paula Koski — Adnexa",
-      "5. Paula Koski — Held In Place",
-      "6. Steve Bug — Back From Eternity",
-      "7. Patrik Berg — Epos Digital",
-      "8. Antonio Fevola — If The Choice Was Mine",
-      "9. Funkhaus — Lumen"
+      "1. Chris Pascoe, Daniel Poli — Cross The Eyes",
+      "2. DJ Natas — Stay Deep",
+      "3. Terry Francis — Bonjour Charles",
+      "4. Creature — Tom's D",
+      "5. Satoshi Tomiie — R02",
+      "6. Terry Francis — Funky Future",
+      "7. Creature — Orbitar",
+      "8. The Real — Debbie Does Deptford",
+      "9. DJ Natas — Abracadabra"
     ],
     "sourceWindows": [
-      "CURRENT / EMERGING WINDOW: Justine Perry and Paula Koski — Paired Works, newly surfaced on Boomkat's September 14 page; release metadata and artist credits cross-checked against Kompakt. https://boomkat.com/products/paired-works · https://kompakt.fm/releases/paired_works",
-      "CURRENT CLUB WINDOW: Patrik Berg/Exzess, Antonio Fevola/Analogue Network and Funkhaus/Transition on current Juno and label pages. https://www.juno.co.uk/techno/this-week/ · https://analoguenetwork.bandcamp.com/ · https://transitionofc.bandcamp.com/",
-      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Steve Bug — Back From Eternity, originally released 2024 and newly visible in the current Dubwax vinyl window. https://dbh-music.bandcamp.com/"
+      "CURRENT RELEASE WINDOW: DJ Natas — Natas Spin EP, released September 14, 2026 on UFO Series, individually described by Juno. https://www.juno.co.uk/techno-music/today/",
+      "ADJACENT / EMERGING WINDOW: Juno Recommends Minimal/Tech House: September 2026, including Terry Francis and Satoshi Tomiie material whose swing, breaks, dub reduction and rhythmic movement plausibly cross into the volume lens. https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Creature — Tom's D / Orbitar, Chris Pascoe & Daniel Poli — Cross The Eyes and The Real — Debbie Does Deptford, newly recirculated in 2026 reissues of older UK/European club material on Juno's September chart. https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart"
     ],
-    "timestampUtc": "2026-09-14T14:50:00Z"
+    "timestampUtc": "2026-09-14T15:50:00Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 5,
-  "candidateCount": 3,
-  "resolutionStatus": "PARTIAL",
+  "resolvedCount": 0,
+  "candidateCount": 0,
+  "resolutionStatus": "NONE",
   "unresolved": [
     {
-      "artist": "Steve Bug",
-      "track": "Back From Eternity",
+      "artist": "Chris Pascoe, Daniel Poli",
+      "track": "Cross The Eyes",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Steve Bug",
-        "track": "Back From Eternity",
-        "album": "The Dark Lion",
-        "releaseDate": "2024-09-30",
+        "artist": "Chris Pascoe, Daniel Poli",
+        "track": "Cross The Eyes",
+        "album": "Dogbite (reissue)",
+        "releaseDate": "2026-08-17",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://dbh-music.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
           "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "DBH Music's artist-hosted Bandcamp lists Back From Eternity as the second exact track on The Dark Lion; the current Juno listing gives a duration of 7:38 but no individual construction description.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Cross The Eyes as skating on rolling drums with percussion tapping at the frame while wisps of vocal keep appearing.",
+          "editorialInterpretation": "Use only the cited construction as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 8:35 duration and 2026-08-17 reissue context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "An overlooked catalogue identity worth testing as a possible formed return between Never Met and Trompe L'oeil.",
+        "fitHypothesis": "An overlooked rolling-percussion construction that could give Never Met a framed rhythmic surface from which its passing foreground can detach.",
         "proposedPlacements": [
           {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve the exact identity; if selected, preserve construction and handoff uncertainty rather than infer direction from title or duration."
+            "purpose": "Test whether recurring frame percussion and vocal wisps create a legible surface for Never Met's passing foreground rather than adding another self-contained groove."
           }
         ]
       }
     },
     {
-      "artist": "Patrik Berg",
-      "track": "Epos Digital",
+      "artist": "DJ Natas",
+      "track": "Stay Deep",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Patrik Berg",
-        "track": "Epos Digital",
-        "album": "Mensch & Maschine",
-        "releaseDate": "2026-09-10",
+        "artist": "DJ Natas",
+        "track": "Stay Deep",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "discoverySource": "https://www.juno.co.uk/techno-music/today/",
         "searchIntent": "BOTH",
         "evidence": {
           "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno's current listing identifies Epos Digital as a 6:31 track on Mensch & Maschine; no individual construction description is supplied.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Stay Deep as sparser and darker, using textured acid and spoken-word material.",
+          "editorialInterpretation": "Use only the cited material description; exact direction, entry, exit, endpoint, perceived pulse and mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 6:54 duration and 2026-09-14 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current exact-title lead for the accumulation-to-surge region after Pulse I.",
+        "fitHypothesis": "A current sparse acid proposition that could turn Egue into hs's fixed-kick re-entry into a bounded stripped state before Cave widens the journey.",
         "proposedPlacements": [
           {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve identity only; if selected, do not infer movement from title, release framing or duration."
+            "outgoingBpm": 134,
+            "purpose": "Test whether the documented sparseness leaves Cave a materially different widening task rather than merely delaying it."
           }
         ]
       }
     },
     {
-      "artist": "Antonio Fevola",
-      "track": "If The Choice Was Mine",
+      "artist": "Terry Francis",
+      "track": "Bonjour Charles",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Antonio Fevola",
-        "track": "If The Choice Was Mine",
-        "album": "ANWAX 001",
-        "releaseDate": "2026-09-11",
+        "artist": "Terry Francis",
+        "track": "Bonjour Charles",
+        "album": "Digitec: Addendum",
+        "releaseDate": "2026-08-31",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://analoguenetwork.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "craftConvention": "Attributed exact-track evidence supports evaluation; house lineage is descriptive context and not evidence for or against volume fit.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Analogue Network's artist/label Bandcamp lists If The Choice Was Mine as the exact A1; Juno lists a 6:02 duration but supplies no individual construction description.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Bonjour Charles through sexy swing, low-end menace, a gloopy bassline and deft dubby tech rhythms.",
+          "editorialInterpretation": "Use the cited swing/bass/rhythm description only; exact direction, endpoint, entry, exit and perceived effect remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 6:58 duration and 2026-08-31 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current emerging exact-title lead for the segmented-pressure threshold before U Belong 2 Me.",
+        "fitHypothesis": "An adjacent-house swing proposition that could establish a recognizable low-end state for Pulse I's crooked accumulation to destabilize.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test whether the documented swing gives the successor a formed state to accumulate crookedly rather than duplicating funk re-grounding."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Creature",
+      "track": "Tom's D",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Creature",
+        "track": "Tom's D",
+        "album": "Tom's D (reissue)",
+        "releaseDate": "2026-08-24",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; source-material familiarity is not canonical value by itself.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Tom's D as delay-laden vocal snippets and spacey pads over a booming bassline and infectious house breaks.",
+          "editorialInterpretation": "Use only the documented material relations; emotional effect, direction, endpoint and handoff feel remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 6:23 duration and 2026-08-24 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A catalogue breaks-and-vocal construction that could form an explicit object before LOVE YOUR ENEMIES introduces cross-rhythmic conflict.",
+        "proposedPlacements": [
+          {
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its bounded break/vocal pattern gives the successor a clearer object to conflict with rather than adding a parallel broken-beat scene."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Satoshi Tomiie",
+      "track": "R02",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Satoshi Tomiie",
+        "track": "R02",
+        "album": "Subtract Infinity Part 1",
+        "releaseDate": "2026-08-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; colder or dissolved source language does not establish emotion, space or energy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes R02 as closing its release on a colder, more dissolved note within a stripped dub-techno programme.",
+          "editorialInterpretation": "Use only the documented dissolution/closure relation; exact direction, endpoint, handoffs and perceived effect remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title and 2026-08-03 release context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A stripped catalogue/current hybrid that could create a bounded dissolution after Same Way before U Belong 2 Me's threshold.",
         "proposedPlacements": [
           {
             "position": "Between Same Way and U Belong 2 Me",
@@ -151,46 +229,163 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve identity only; do not treat release position, title or duration as transition evidence."
+            "purpose": "Test whether documented dissolution changes what the threshold track receives rather than restating the transition."
           }
         ]
       }
     },
     {
-      "artist": "Funkhaus",
-      "track": "Lumen",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5HOn3OrmBpB6uxG20Q12F0, 5UshB55t9orl8jk3WzJQ5F)",
+      "artist": "Terry Francis",
+      "track": "Funky Future",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Funkhaus",
-        "track": "Lumen",
-        "album": "Delirium Vol IV",
-        "releaseDate": "2026-08-28",
+        "artist": "Terry Francis",
+        "track": "Funky Future",
+        "album": "Digitec: Addendum",
+        "releaseDate": "2026-08-31",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://transitionofc.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "craftConvention": "Attributed exact-track evidence supports evaluation; house lineage and title are not evidence of volume fit by themselves.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Transition's label-hosted Bandcamp and Juno list Funkhaus — Lumen exactly on Delirium Vol IV; available prose is compilation-level rather than individual-track construction evidence.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno describes Funky Future as dry, dubby and driving with a swirling vocal over crisp, sharp tech drums.",
+          "editorialInterpretation": "Use only the cited construction; exact entry, exit, endpoint, energy, density and mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 8:56 duration and 2026-08-31 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current compilation lead whose exact identity could later support a distinct test near the drive-to-instability handoff.",
+        "fitHypothesis": "An adjacent-world dry dub/drum construction that could mediate Foundry's unstable direction into Worn Down's threshold.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve identity only; preserve unknown development, endpoint and both handoffs if selected."
+            "purpose": "Test whether the dry vocal/drum condition changes the threshold rather than adding another complete scene."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Creature",
+      "track": "Orbitar",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Creature",
+        "track": "Orbitar",
+        "album": "Tom's D (reissue)",
+        "releaseDate": "2026-08-24",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; psychedelic language is not an inferred emotional or mix effect.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Orbitar as looping punchier rhythm sections with deep hazy chords, trippy vocal samples and TB-303 lines.",
+          "editorialInterpretation": "Use only the documented looping/material additions; direction, endpoint, handoff feel and perceived effect remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 8:46 duration and 2026-08-24 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A catalogue looping proposition that could give Hypnic Jerks a recognizable repeated field to accelerate or disorient.",
+        "proposedPlacements": [
+          {
+            "position": "Between Atlantis and Hypnic Jerks",
+            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its loop/chord/vocal field changes the successor's acceleration-orientation task rather than over-articulating preparation."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "The Real",
+      "track": "Debbie Does Deptford",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "The Real",
+        "track": "Debbie Does Deptford",
+        "album": "Debbie Does Deptford (reissue)",
+        "releaseDate": "2026-08-31",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; stylistic adjacency is descriptive, not a hierarchy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno distinguishes Debbie Does Deptford through deeper designer breaks apparently outside the usual beat-sample source.",
+          "editorialInterpretation": "Use only the cited break construction; direction, endpoint, entry, exit, emotional effect and mixability remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 7:16 duration and 2026-08-31 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An overlooked designer-break proposition that could leave Jjochstubn a formed rhythmic residue to disassemble after Nukumori.",
+        "proposedPlacements": [
+          {
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the deeper break pattern changes what Jjochstubn contaminates and disassembles rather than extending the flare."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "DJ Natas",
+      "track": "Abracadabra",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "DJ Natas",
+        "track": "Abracadabra",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno-music/today/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports identity resolution but thin individual prose must not be inflated into direction, emotion or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno lists Abracadabra as the 7:17 closer and attributes a hint of psychedelic magic; no more specific construction description is supplied.",
+          "editorialInterpretation": "The thin attributed description supports a research lead only; exact materials, direction, endpoint and both handoffs remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 7:17 duration and 2026-09-14 release context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A current closing-track identity worth resolving for a possible late-middle transformation test without inferring properties from its title.",
+        "proposedPlacements": [
+          {
+            "position": "Between Mildew Swoosh and Fragments",
+            "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "candidateBpm": 140,
+            "outgoingBpm": 140,
+            "purpose": "Resolve exact identity; if selected, preserve the absence of individual directional evidence rather than inferring a transition."
           }
         ]
       }
@@ -199,233 +394,38 @@
   "warnings": [],
   "outcomes": [
     {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Justine Perry",
-        "track": "Beyond The Line",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Beyond The Line as a stealth build within Justine Perry's side of Paired Works.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current emerging-artist track whose stealth build could form pressure between dissolved shape and Serpentine Tale's existing coiling motion.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the stealth build leaves Serpentine Tale a formed pressure state to coil, rather than merely inserting another build."
-          }
-        ]
-      },
-      "spotifyTrackId": "5Yjx9De5NogsxrZsPLvbPt",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Maeve",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Maeve as a concentrated, urgent canter with a plucky bassline.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A compact current proposition that could give Sarniezz's apparent live-band pulse a clearly electronic canter to replace.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented canter changes the source-of-pulse handoff into Sarniezz without over-articulating the run."
-          }
-        ]
-      },
-      "spotifyTrackId": "4mftfHYunpgYqn7UCvNPzh",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Justine Perry",
-        "track": "Opaline",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Opaline as finely poised, teasing pressure.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A restrained pressure proposition that could create a legible return from Rabbit Hole's dead-space descent before Can I live opens the closing song-form turn.",
-        "proposedPlacements": [
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether teasing pressure forms a new condition for Can I live rather than delaying the existing closing turn."
-          }
-        ]
-      },
-      "spotifyTrackId": "7ir0tACmOnxKeDThXyEyA6",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Adnexa",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Adnexa as riding dub chords.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current dub-chord construction that could establish a bounded machine condition after Amor's pulse mutation before Elemental Dream's melodic foothold.",
-        "proposedPlacements": [
-          {
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the chord-riding state changes what Elemental Dream stabilizes rather than adding another complete scene."
-          }
-        ]
-      },
-      "spotifyTrackId": "3XQItglUCx7mQQS8AAZyHP",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Held In Place",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually singles out Held In Place for Fadi Mohem-esque elegance; the label frames Koski's side through dubby, texture-driven structures.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current textural proposition that could mediate Worn Down's threshold into Atlantis's micro-repetition continuum.",
-        "proposedPlacements": [
-          {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the described structure leaves Atlantis different work, without treating elegance as flow evidence."
-          }
-        ]
-      },
-      "spotifyTrackId": "4qDxe8xJcZUJ5TAPpnOELE",
-      "selected": false
-    },
-    {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Steve Bug",
-        "track": "Back From Eternity",
-        "album": "The Dark Lion",
-        "releaseDate": "2024-09-30",
+        "artist": "Chris Pascoe, Daniel Poli",
+        "track": "Cross The Eyes",
+        "album": "Dogbite (reissue)",
+        "releaseDate": "2026-08-17",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://dbh-music.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
           "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "DBH Music's artist-hosted Bandcamp lists Back From Eternity as the second exact track on The Dark Lion; the current Juno listing gives a duration of 7:38 but no individual construction description.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Cross The Eyes as skating on rolling drums with percussion tapping at the frame while wisps of vocal keep appearing.",
+          "editorialInterpretation": "Use only the cited construction as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 8:35 duration and 2026-08-17 reissue context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "An overlooked catalogue identity worth testing as a possible formed return between Never Met and Trompe L'oeil.",
+        "fitHypothesis": "An overlooked rolling-percussion construction that could give Never Met a framed rhythmic surface from which its passing foreground can detach.",
         "proposedPlacements": [
           {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve the exact identity; if selected, preserve construction and handoff uncertainty rather than infer direction from title or duration."
+            "purpose": "Test whether recurring frame percussion and vocal wisps create a legible surface for Never Met's passing foreground rather than adding another self-contained groove."
           }
         ]
       },
@@ -434,36 +434,36 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Patrik Berg",
-        "track": "Epos Digital",
-        "album": "Mensch & Maschine",
-        "releaseDate": "2026-09-10",
+        "artist": "DJ Natas",
+        "track": "Stay Deep",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "discoverySource": "https://www.juno.co.uk/techno-music/today/",
         "searchIntent": "BOTH",
         "evidence": {
           "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno's current listing identifies Epos Digital as a 6:31 track on Mensch & Maschine; no individual construction description is supplied.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Stay Deep as sparser and darker, using textured acid and spoken-word material.",
+          "editorialInterpretation": "Use only the cited material description; exact direction, entry, exit, endpoint, perceived pulse and mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 6:54 duration and 2026-09-14 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current exact-title lead for the accumulation-to-surge region after Pulse I.",
+        "fitHypothesis": "A current sparse acid proposition that could turn Egue into hs's fixed-kick re-entry into a bounded stripped state before Cave widens the journey.",
         "proposedPlacements": [
           {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve identity only; if selected, do not infer movement from title, release framing or duration."
+            "outgoingBpm": 134,
+            "purpose": "Test whether the documented sparseness leaves Cave a materially different widening task rather than merely delaying it."
           }
         ]
       },
@@ -472,27 +472,103 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Antonio Fevola",
-        "track": "If The Choice Was Mine",
-        "album": "ANWAX 001",
-        "releaseDate": "2026-09-11",
+        "artist": "Terry Francis",
+        "track": "Bonjour Charles",
+        "album": "Digitec: Addendum",
+        "releaseDate": "2026-08-31",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://analoguenetwork.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "craftConvention": "Attributed exact-track evidence supports evaluation; house lineage is descriptive context and not evidence for or against volume fit.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Analogue Network's artist/label Bandcamp lists If The Choice Was Mine as the exact A1; Juno lists a 6:02 duration but supplies no individual construction description.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno individually describes Bonjour Charles through sexy swing, low-end menace, a gloopy bassline and deft dubby tech rhythms.",
+          "editorialInterpretation": "Use the cited swing/bass/rhythm description only; exact direction, endpoint, entry, exit and perceived effect remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 6:58 duration and 2026-08-31 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current emerging exact-title lead for the segmented-pressure threshold before U Belong 2 Me.",
+        "fitHypothesis": "An adjacent-house swing proposition that could establish a recognizable low-end state for Pulse I's crooked accumulation to destabilize.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": 139,
+            "candidateBpm": null,
+            "outgoingBpm": 136,
+            "purpose": "Test whether the documented swing gives the successor a formed state to accumulate crookedly rather than duplicating funk re-grounding."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Creature",
+        "track": "Tom's D",
+        "album": "Tom's D (reissue)",
+        "releaseDate": "2026-08-24",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; source-material familiarity is not canonical value by itself.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Tom's D as delay-laden vocal snippets and spacey pads over a booming bassline and infectious house breaks.",
+          "editorialInterpretation": "Use only the documented material relations; emotional effect, direction, endpoint and handoff feel remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 6:23 duration and 2026-08-24 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A catalogue breaks-and-vocal construction that could form an explicit object before LOVE YOUR ENEMIES introduces cross-rhythmic conflict.",
+        "proposedPlacements": [
+          {
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its bounded break/vocal pattern gives the successor a clearer object to conflict with rather than adding a parallel broken-beat scene."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Satoshi Tomiie",
+        "track": "R02",
+        "album": "Subtract Infinity Part 1",
+        "releaseDate": "2026-08-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; colder or dissolved source language does not establish emotion, space or energy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes R02 as closing its release on a colder, more dissolved note within a stripped dub-techno programme.",
+          "editorialInterpretation": "Use only the documented dissolution/closure relation; exact direction, endpoint, handoffs and perceived effect remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title and 2026-08-03 release context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A stripped catalogue/current hybrid that could create a bounded dissolution after Same Way before U Belong 2 Me's threshold.",
         "proposedPlacements": [
           {
             "position": "Between Same Way and U Belong 2 Me",
@@ -501,7 +577,7 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve identity only; do not treat release position, title or duration as transition evidence."
+            "purpose": "Test whether documented dissolution changes what the threshold track receives rather than restating the transition."
           }
         ]
       },
@@ -510,409 +586,156 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Funkhaus",
-        "track": "Lumen",
-        "album": "Delirium Vol IV",
-        "releaseDate": "2026-08-28",
+        "artist": "Terry Francis",
+        "track": "Funky Future",
+        "album": "Digitec: Addendum",
+        "releaseDate": "2026-08-31",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://transitionofc.bandcamp.com/",
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "craftConvention": "Attributed exact-track evidence supports evaluation; house lineage and title are not evidence of volume fit by themselves.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Transition's label-hosted Bandcamp and Juno list Funkhaus — Lumen exactly on Delirium Vol IV; available prose is compilation-level rather than individual-track construction evidence.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+          "attributedDescription": "Juno describes Funky Future as dry, dubby and driving with a swirling vocal over crisp, sharp tech drums.",
+          "editorialInterpretation": "Use only the cited construction; exact entry, exit, endpoint, energy, density and mixability remain unknown.",
           "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
+            "Juno lists the exact artist/title, 8:56 duration and 2026-08-31 release context; checked 2026-09-14.",
             "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current compilation lead whose exact identity could later support a distinct test near the drive-to-instability handoff.",
+        "fitHypothesis": "An adjacent-world dry dub/drum construction that could mediate Foundry's unstable direction into Worn Down's threshold.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Resolve identity only; preserve unknown development, endpoint and both handoffs if selected."
+            "purpose": "Test whether the dry vocal/drum condition changes the threshold rather than adding another complete scene."
           }
         ]
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5HOn3OrmBpB6uxG20Q12F0, 5UshB55t9orl8jk3WzJQ5F)"
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Creature",
+        "track": "Orbitar",
+        "album": "Tom's D (reissue)",
+        "releaseDate": "2026-08-24",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; psychedelic language is not an inferred emotional or mix effect.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Orbitar as looping punchier rhythm sections with deep hazy chords, trippy vocal samples and TB-303 lines.",
+          "editorialInterpretation": "Use only the documented looping/material additions; direction, endpoint, handoff feel and perceived effect remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 8:46 duration and 2026-08-24 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A catalogue looping proposition that could give Hypnic Jerks a recognizable repeated field to accelerate or disorient.",
+        "proposedPlacements": [
+          {
+            "position": "Between Atlantis and Hypnic Jerks",
+            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether its loop/chord/vocal field changes the successor's acceleration-orientation task rather than over-articulating preparation."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "The Real",
+        "track": "Debbie Does Deptford",
+        "album": "Debbie Does Deptford (reissue)",
+        "releaseDate": "2026-08-31",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports evaluation; stylistic adjacency is descriptive, not a hierarchy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno distinguishes Debbie Does Deptford through deeper designer breaks apparently outside the usual beat-sample source.",
+          "editorialInterpretation": "Use only the cited break construction; direction, endpoint, entry, exit, emotional effect and mixability remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 7:16 duration and 2026-08-31 reissue context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An overlooked designer-break proposition that could leave Jjochstubn a formed rhythmic residue to disassemble after Nukumori.",
+        "proposedPlacements": [
+          {
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the deeper break pattern changes what Jjochstubn contaminates and disassembles rather than extending the flare."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "DJ Natas",
+        "track": "Abracadabra",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno-music/today/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Attributed exact-track evidence supports identity resolution but thin individual prose must not be inflated into direction, emotion or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno lists Abracadabra as the 7:17 closer and attributes a hint of psychedelic magic; no more specific construction description is supplied.",
+          "editorialInterpretation": "The thin attributed description supports a research lead only; exact materials, direction, endpoint and both handoffs remain unknown.",
+          "measured": [
+            "Juno lists the exact artist/title, 7:17 duration and 2026-09-14 release context; checked 2026-09-14.",
+            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A current closing-track identity worth resolving for a possible late-middle transformation test without inferring properties from its title.",
+        "proposedPlacements": [
+          {
+            "position": "Between Mildew Swoosh and Fragments",
+            "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "incomingBpm": null,
+            "candidateBpm": 140,
+            "outgoingBpm": 140,
+            "purpose": "Resolve exact identity; if selected, preserve the absence of individual directional evidence rather than inferring a transition."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
-  "candidates": [
-    {
-      "id": "5Yjx9De5NogsxrZsPLvbPt",
-      "uri": "spotify:track:5Yjx9De5NogsxrZsPLvbPt",
-      "name": "Beyond The Line",
-      "artists": [
-        "Justine Perry"
-      ],
-      "album": "Paired Works",
-      "releaseDate": "2026-07-24",
-      "durationMs": 333913,
-      "spotifyUrl": "https://open.spotify.com/track/5Yjx9De5NogsxrZsPLvbPt",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/paired-works",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Tides Alternate and Serpentine Tale",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the stealth build leaves Serpentine Tale a formed pressure state to coil, rather than merely inserting another build."
-        }
-      ],
-      "fitHypothesis": "A current emerging-artist track whose stealth build could form pressure between dissolved shape and Serpentine Tale's existing coiling motion.",
-      "evidence": {
-        "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually describes Beyond The Line as a stealth build within Justine Perry's side of Paired Works.",
-        "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Justine Perry",
-        "track": "Beyond The Line",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Beyond The Line as a stealth build within Justine Perry's side of Paired Works.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current emerging-artist track whose stealth build could form pressure between dissolved shape and Serpentine Tale's existing coiling motion.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the stealth build leaves Serpentine Tale a formed pressure state to coil, rather than merely inserting another build."
-          }
-        ]
-      }
-    },
-    {
-      "id": "4mftfHYunpgYqn7UCvNPzh",
-      "uri": "spotify:track:4mftfHYunpgYqn7UCvNPzh",
-      "name": "Maeve",
-      "artists": [
-        "Paula Koski"
-      ],
-      "album": "Paired Works",
-      "releaseDate": "2026-07-24",
-      "durationMs": 354782,
-      "spotifyUrl": "https://open.spotify.com/track/4mftfHYunpgYqn7UCvNPzh",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/paired-works",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the documented canter changes the source-of-pulse handoff into Sarniezz without over-articulating the run."
-        }
-      ],
-      "fitHypothesis": "A compact current proposition that could give Sarniezz's apparent live-band pulse a clearly electronic canter to replace.",
-      "evidence": {
-        "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually describes Maeve as a concentrated, urgent canter with a plucky bassline.",
-        "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Maeve",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Maeve as a concentrated, urgent canter with a plucky bassline.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A compact current proposition that could give Sarniezz's apparent live-band pulse a clearly electronic canter to replace.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented canter changes the source-of-pulse handoff into Sarniezz without over-articulating the run."
-          }
-        ]
-      }
-    },
-    {
-      "id": "7ir0tACmOnxKeDThXyEyA6",
-      "uri": "spotify:track:7ir0tACmOnxKeDThXyEyA6",
-      "name": "Opaline",
-      "artists": [
-        "Justine Perry"
-      ],
-      "album": "Paired Works",
-      "releaseDate": "2026-07-24",
-      "durationMs": 339130,
-      "spotifyUrl": "https://open.spotify.com/track/7ir0tACmOnxKeDThXyEyA6",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/paired-works",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether teasing pressure forms a new condition for Can I live rather than delaying the existing closing turn."
-        }
-      ],
-      "fitHypothesis": "A restrained pressure proposition that could create a legible return from Rabbit Hole's dead-space descent before Can I live opens the closing song-form turn.",
-      "evidence": {
-        "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually describes Opaline as finely poised, teasing pressure.",
-        "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Justine Perry",
-        "track": "Opaline",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Opaline as finely poised, teasing pressure.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A restrained pressure proposition that could create a legible return from Rabbit Hole's dead-space descent before Can I live opens the closing song-form turn.",
-        "proposedPlacements": [
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether teasing pressure forms a new condition for Can I live rather than delaying the existing closing turn."
-          }
-        ]
-      }
-    }
-  ],
-  "resolvedAlternates": [
-    {
-      "id": "3XQItglUCx7mQQS8AAZyHP",
-      "uri": "spotify:track:3XQItglUCx7mQQS8AAZyHP",
-      "name": "Adnexa",
-      "artists": [
-        "Paula Koski"
-      ],
-      "album": "Paired Works",
-      "releaseDate": "2026-07-24",
-      "durationMs": 375652,
-      "spotifyUrl": "https://open.spotify.com/track/3XQItglUCx7mQQS8AAZyHP",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/paired-works",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Amor and Elemental Dream",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the chord-riding state changes what Elemental Dream stabilizes rather than adding another complete scene."
-        }
-      ],
-      "fitHypothesis": "A current dub-chord construction that could establish a bounded machine condition after Amor's pulse mutation before Elemental Dream's melodic foothold.",
-      "evidence": {
-        "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually describes Adnexa as riding dub chords.",
-        "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Adnexa",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually describes Adnexa as riding dub chords.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current dub-chord construction that could establish a bounded machine condition after Amor's pulse mutation before Elemental Dream's melodic foothold.",
-        "proposedPlacements": [
-          {
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the chord-riding state changes what Elemental Dream stabilizes rather than adding another complete scene."
-          }
-        ]
-      }
-    },
-    {
-      "id": "4qDxe8xJcZUJ5TAPpnOELE",
-      "uri": "spotify:track:4qDxe8xJcZUJ5TAPpnOELE",
-      "name": "Held In Place",
-      "artists": [
-        "Paula Koski"
-      ],
-      "album": "Paired Works",
-      "releaseDate": "2026-07-24",
-      "durationMs": 354782,
-      "spotifyUrl": "https://open.spotify.com/track/4qDxe8xJcZUJ5TAPpnOELE",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/paired-works",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Worn Down and Atlantis",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the described structure leaves Atlantis different work, without treating elegance as flow evidence."
-        }
-      ],
-      "fitHypothesis": "A current textural proposition that could mediate Worn Down's threshold into Atlantis's micro-repetition continuum.",
-      "evidence": {
-        "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually singles out Held In Place for Fadi Mohem-esque elegance; the label frames Koski's side through dubby, texture-driven structures.",
-        "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Paula Koski",
-        "track": "Held In Place",
-        "album": "Paired Works",
-        "releaseDate": "2026-07-24",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/paired-works",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Attributed exact-track evidence supports evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Boomkat individually singles out Held In Place for Fadi Mohem-esque elegance; the label frames Koski's side through dubby, texture-driven structures.",
-          "editorialInterpretation": "Use only the cited construction or listing as track-specific evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context; checked 2026-09-14.",
-            "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current textural proposition that could mediate Worn Down's threshold into Atlantis's micro-repetition continuum.",
-        "proposedPlacements": [
-          {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the described structure leaves Atlantis different work, without treating elegance as flow evidence."
-          }
-        ]
-      }
-    }
-  ]
+  "candidates": [],
+  "resolvedAlternates": []
 }
