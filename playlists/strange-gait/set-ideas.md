@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 247
+
+### Pressure stages still need downstream consequence
+
+**Direction:** Test a documented build, canter or poised-pressure state by what new work it leaves the successor. A legible intermediate proposition can remain valuable even when it only lengthens formation.
+
+**Ingredients:**
+
+- Justine Perry — *Beyond The Line* — exact placement-specific counterexample between *Tides Alternate* and *Serpentine Tale*
+- Paula Koski — *Maeve* — exact placement-specific counterexample between *Capa* and *Sarniezz*
+- Justine Perry — *Opaline* — exact placement-specific counterexample between *Rabbit Hole* and *Can I live*
+- Paula Koski — *Adnexa* and *Held In Place* — exact but unevaluated alternates
+- Steve Bug, Patrik Berg, Antonio Fevola and Funkhaus — unresolved catalogue/current research leads
+
+**Why interesting:** These tracks need not share one sonic room and their conspicuousness is not the issue. The tested placements fail because each adds a complete intermediate state while the following track retains its existing task.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-effect claim or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 245
 
 ### Unstable re-entry can give a plateau different work

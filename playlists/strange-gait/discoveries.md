@@ -1,5 +1,69 @@
 # STRANGE GAIT — Discoveries
 
+## Run 247 — 2026-09-14T14:50:00Z-explore-247
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `55618c652da8e42be991ac6acdbaf5ff331452a0`, requestFingerprint `16b7ce5d3de014d9a5eafc399fb4017d0104aface9fa929d8af868456d3ccd9a`, PARTIAL. Requested 9; resolved 5; selected 3; two exact unselected alternates and four unresolved identities. No warnings, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
+
+### Evaluated exact candidates
+
+#### Justine Perry — Beyond The Line — `spotify:track:5Yjx9De5NogsxrZsPLvbPt` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://boomkat.com/products/paired-works  
+Spotify: https://open.spotify.com/track/5Yjx9De5NogsxrZsPLvbPt  
+Exact resolver duration: 333,913 ms (5:33.913). BPM unavailable.
+
+Boomkat individually describes *Beyond The Line* as a stealth build. This establishes internal direction but not exact entry, endpoint, either handoff, perceived pulse or mixability.
+
+- Volume fit: PASS. A stealth build is lawful under the selection lens and needs no weirdness, novelty or chapter role.
+- Immediate transition: FAIL only at `Tides Alternate → Beyond The Line → Serpentine Tale`. The candidate adds a complete build after opposed-speed balance and before the existing coiling motion; available evidence does not show that *Serpentine Tale* receives different work.
+- Surrounding run: FAIL proportionally through `Hypnic Jerks → Tides Alternate → Beyond The Line → Serpentine Tale → Too Much Time`. The build lengthens formation between balance and widening rather than changing the five-track relation.
+- Long-form effect: FAIL at this placement. The extra pressure stage is legible, but its documented direction does not create a new downstream condition.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+#### Paula Koski — Maeve — `spotify:track:4mftfHYunpgYqn7UCvNPzh` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://boomkat.com/products/paired-works  
+Spotify: https://open.spotify.com/track/4mftfHYunpgYqn7UCvNPzh  
+Exact resolver duration: 354,782 ms (5:54.782). BPM unavailable.
+
+Boomkat individually describes *Maeve* as a concentrated, urgent canter with a plucky bassline. This establishes a complete motion proposition without establishing exact entry, exit, endpoint or mixability.
+
+- Volume fit: PASS.
+- Immediate transition: FAIL only at `Capa → Maeve → Sarniezz`. The canter supplies another formed pulse before *Sarniezz* changes the apparent source of pulse; that successor still performs the same task.
+- Surrounding run: FAIL proportionally through `Fulledge → Capa → Maeve → Sarniezz → Never Met`. The candidate over-articulates pulse formation before the existing live-band illusion and return.
+- Long-form effect: FAIL at this placement because the added proposition does not change the later return.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+#### Justine Perry — Opaline — `spotify:track:7ir0tACmOnxKeDThXyEyA6` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://boomkat.com/products/paired-works  
+Spotify: https://open.spotify.com/track/7ir0tACmOnxKeDThXyEyA6  
+Exact resolver duration: 339,130 ms (5:39.130). BPM unavailable.
+
+Boomkat individually describes *Opaline* as finely poised, teasing pressure. This establishes a pressure proposition, not emotional effect, exact endpoint or either handoff.
+
+- Volume fit: PASS.
+- Immediate transition: FAIL only at `Rabbit Hole → Opaline → Can I live`. The candidate inserts another complete return-pressure stage after the descent while *Can I live* still performs the same song-form opening.
+- Surrounding run: FAIL proportionally through `Jjochstubn → Rabbit Hole → Opaline → Can I live → Invisible Warriors Of Light`. The existing disassembly–descent–song-form–finale relation gains an extra premise without a changed consequence.
+- Long-form effect: FAIL at this placement; the closing turn remains structurally the same.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+### Exact unselected alternates — no musical verdict
+
+- Paula Koski — *Adnexa* — `spotify:track:3XQItglUCx7mQQS8AAZyHP`
+- Paula Koski — *Held In Place* — `spotify:track:4qDxe8xJcZUJ5TAPpnOELE`
+
+Both resolved exactly but were not selected. They were not evaluated, explicitly retained as interesting or added to the global utility ledger.
+
+### Preserved resolver outcomes without musical verdict
+
+- Steve Bug — *Back From Eternity*: `no exact Spotify title/artist search match in market SE`
+- Patrik Berg — *Epos Digital*: `no exact Spotify title/artist search match in market SE`
+- Antonio Fevola — *If The Choice Was Mine*: `no exact Spotify title/artist search match in market SE`
+- Funkhaus — *Lumen*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5HOn3OrmBpB6uxG20Q12F0, 5UshB55t9orl8jk3WzJQ5F)`
+
+No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
+
 ## Run 245 — 2026-09-14T14:24:00Z-explore-245
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `80fbfaeb196095eda1807879ac038561ade97c3e`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate and five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All four resolver warnings and every exact resolver error are preserved below.

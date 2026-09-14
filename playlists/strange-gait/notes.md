@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 247 — EXPLORE — pressure stages still need downstream consequence
+
+Pre-audit reconciled 58 canonical identities and annotations, 57 generated transitions, both verified Spotify receipts, the empty clarification queue, no TRIGGERED revisit and no audio or live-mixing evidence. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 48–50. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 93 current-release, adjacent/emerging and overlooked-catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot is PARTIAL: five exact resolutions, three selected candidates, two exact unselected alternates, four unresolved identities and no warnings. Justine Perry — *Beyond The Line*, Paula Koski — *Maeve* and Justine Perry — *Opaline* each pass the volume lens but are rejected only at the tested placements. The documented stealth build, urgent canter and teasing pressure are each complete intermediate propositions; at the tested immediate, exact five-track and long-form scales, none changes the successor's existing work.
+
+STRANGE GAIT remains 58 tracks. The listener-protected trio remains internally exact at positions 48–50. The doctrine-free global utility ledger becomes 491 tracks by retaining all three evaluated exact identities. *Adnexa* and *Held In Place* remain exact but unselected and unevaluated outside that ledger; four unresolved identities receive no musical verdict. No actionable REPAIR emerges. Audio and live mixing were not tested.
+
+Run 247: `~93 inspected → 9 leads → 5 exact + 4 unresolved → 3 evaluations + 2 alternates → 0 ADD + 3 scoped REJECT → 3 utility additions`.
+
 ## Run 246 — REPAIR — utility-table continuity
 
 The first Run 245 utility publication failed closed with `Ledger contains a track row after table termination on row 493.` Repair Run `2026-09-14T14:35:00Z-repair-246` removes the blank line between utility rows 485 and 486. It changes no identity, row number, retained status, canonical decision, sequence, annotation, metadata or cover instruction. Publication is retriggered for EDITORIAL ENGINE — DISCOVERY POOL only.

@@ -492,6 +492,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 486 | Forest On Stasys | Return To The Source | spotify:track:5oCvktLKjVtrMz4RMltixN | STRANGE GAIT Run 245 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 487 | Brian Sanhaji, FORMS, Monoloc | Ingress | spotify:track:0FFIqD4nHctz7eI1fmBKgA | STRANGE GAIT Run 245 | Canonical ADD / retained | 2026-09-14 |
 | 488 | Forest On Stasys | Reptile Genetics | spotify:track:67qtw6b7g2W920KXzYsxil | STRANGE GAIT Run 245 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 489 | Justine Perry | Beyond The Line | spotify:track:5Yjx9De5NogsxrZsPLvbPt | STRANGE GAIT Run 247 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 490 | Paula Koski | Maeve | spotify:track:4mftfHYunpgYqn7UCvNPzh | STRANGE GAIT Run 247 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 491 | Justine Perry | Opaline | spotify:track:7ir0tACmOnxKeDThXyEyA6 | STRANGE GAIT Run 247 | Placement-specific REJECT / interesting | 2026-09-14 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

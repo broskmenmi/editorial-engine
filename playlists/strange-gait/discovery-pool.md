@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 247 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Justine Perry | Beyond The Line | `spotify:track:5Yjx9De5NogsxrZsPLvbPt` · https://open.spotify.com/track/5Yjx9De5NogsxrZsPLvbPt · https://boomkat.com/products/paired-works | Exact 5:33.913 stealth-build proposition remains interesting; rejected only between *Tides Alternate* and *Serpentine Tale*. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Paula Koski | Maeve | `spotify:track:4mftfHYunpgYqn7UCvNPzh` · https://open.spotify.com/track/4mftfHYunpgYqn7UCvNPzh · https://boomkat.com/products/paired-works | Exact 5:54.782 canter/bassline proposition remains interesting; rejected only between *Capa* and *Sarniezz*. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Justine Perry | Opaline | `spotify:track:7ir0tACmOnxKeDThXyEyA6` · https://open.spotify.com/track/7ir0tACmOnxKeDThXyEyA6 · https://boomkat.com/products/paired-works | Exact 5:39.130 pressure proposition remains interesting; rejected only between *Rabbit Hole* and *Can I live*. Added globally. |
+| EXACT / UNEVALUATED | Paula Koski | Adnexa | `spotify:track:3XQItglUCx7mQQS8AAZyHP` | Exact unselected alternate; no musical verdict, interesting-track retention or utility row. |
+| EXACT / UNEVALUATED | Paula Koski | Held In Place | `spotify:track:4qDxe8xJcZUJ5TAPpnOELE` | Exact unselected alternate; no musical verdict, interesting-track retention or utility row. |
+| UNRESOLVED RESEARCH | Steve Bug; Patrik Berg; Antonio Fevola; Funkhaus | Back From Eternity; Epos Digital; If The Choice Was Mine; Lumen | Sources in scout-request.json | Three Spotify-SE misses and one exact-title ambiguity. No verdict or utility addition. |
+| RELEASE / LABEL WATCH | Ostgut Ton; Dubwax/DBH; Exzess; Analogue Network; Transition | Paired Works and distinct current/catalogue windows | https://boomkat.com/products/paired-works · https://www.juno.co.uk/techno/this-week/ | Continue only as distinct source windows; do not promote release-level framing into track behavior. |
+
+### Placement and inspiration boundaries
+
+- The three rejected placements do not create global rejection or proven live-mixing claims.
+- Same-release membership did not merge the evaluations: each selected identity received separate volume, immediate, exact-run and long-form tests.
+- Exact alternates remain unevaluated and outside the global utility ledger.
+- Set direction: distinguish a complete intermediate pressure stage from a stage that changes the successor's work.
+
 ## Run 245 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
