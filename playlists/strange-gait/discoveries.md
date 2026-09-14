@@ -1,5 +1,15 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 229 — REPAIR — Discovery Pool ledger continuity after Run 228 — 2026-09-14
+
+**Trigger:** Run 228's approved utility additions were committed in exact row order, but the automatic publisher failed closed at `2026-09-14T01:01:01.168Z` with `Ledger contains a track row after table termination on row 466.` Inspection showed a premature blank line between existing row 458 and new row 459. Spotify was not mutated by the failed attempt.
+
+**Repair:** Removed only that premature blank line so rows 1–461 form one contiguous Markdown table. No track identity, order, verdict, source, canonical state, target-local inspiration state, metadata, cover or publication flag changed.
+
+**Auditor:** **APPROVED.** The objective ledger invariant is restored: 461 contiguous rows, 461 unique Spotify URIs and no row after table termination. The repair commit is `3a27ebbdaba109cfd465dde07851342e746dc4d5`. Automatic publication then verified **COMPLETE — 461/461** at `2026-09-14T01:01:57.433Z`; the receipt's `ledgerCommit` matches the repair commit and verifies exact membership, configured metadata and cover.
+
+**RUN ANALYSIS:** 1 table-continuity defect → 1 formatting correction → 0 musical decisions → 461 utility identities verified. Run 228's discovery totals, verdicts and no-ADD streak are unchanged. This repair is excluded from discovery statistics.
+
 ## Run 228 — EXPLORE — internal resolutions that spend the successor's task — 2026-09-14
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique sequential canonical tracks, 53 matching annotations, an exact-order 53-track/52-transition generated map and a matching COMPLETE Spotify receipt. Both severe-anxiety listener repairs remain settled: Jay Mitta — *Sawa* and Lotic — *Carried* are absent, while Luigi Tozzi — *Tender Is The Night* remains canonical under explicit positive listener evidence. The clarification queue is empty, no REVISIT is TRIGGERED, and no objective defect is actionable. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 44–46. Automatic publishing is enabled. The repaired opening was excluded from placement testing.
