@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 240
+
+### A compact form can change the residue
+
+**Direction:** Test short, sharply bounded intermediate worlds by what they make legible later. A concise insertion can earn space when its formed material changes the condition interrupted by the next track and the residue transformed after that.
+
+**Ingredients:**
+
+- Bonobo — *Migration* → Azu Tiwaline — *Eyes of the Wind* → foodman — *Nukumori* → Curbside Lambsear — *Jjochstubn* — existing pivot, liminal passage, flare and contaminated-song disassembly
+- Oscar Later — *It Never Made Sense* — exact canonical ADD supplying the tested razor-cut two-step formation
+- Oscar Later — *Yaya* — exact placement-specific counterexample whose synth stage over-articulates the *Fragments → Drummz* passage
+- Jay Strata — *Something 4 U* — exact PARKED candidate separating shared sampler framing from individual direction
+- Arovane — *Thaem Nue*; PS11 — *Mile High*; Dea — *Fairlight*, *Noctara*; Type-303 — *Morning (Ambient Mix)* — unresolved research leads
+
+**Why interesting:** The comparison avoids both seamless-transition dogma and automatic praise for novelty: the relevant question is whether the inserted world changes what the following tracks can do.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
+
 ## Current additions — Run 239
 
 ### Release movement is not track direction

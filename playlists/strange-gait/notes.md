@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 240 — EXPLORE — compact form can change the residue
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, four exact resolutions, three selected candidates, one exact unselected alternate and five Spotify-SE misses. Oscar Later — *It Never Made Sense* is added between *Eyes of the Wind* and *Nukumori*: its documented compact razor-cut two-step form gives the existing flare a bounded state to interrupt and leaves the later contaminated-song disassembly a more legible residue. Oscar Later — *Yaya* is rejected only between *Fragments* and *Drummz* because its documented pitching sawtooth premise over-articulates the existing re-escalation before restless rhythm and reassembly. Jay Strata — *Something 4 U* is parked because its exact identity and shared sampler context do not establish individual direction, endpoint or passage consequence.
+
+STRANGE GAIT becomes 55 tracks. The global utility ledger becomes 477 tracks by retaining all three evaluated exact identities. DJ Mourad — *Dreams Of An Insomniac* is exact but unselected and unevaluated; five unresolved identities receive no musical verdict. All four resolver warnings are preserved. There were no duplicates, substitutions, relinkings or technical failures. Audio and live mixing were not tested.
+
+Run 240: `~94 inspected → 9 leads → 4 exact + 5 unresolved → 3 evaluations + 1 alternate → 1 ADD + 1 scoped REJECT + 1 PARKED → 3 utility additions`. Across completed Runs 87–240, excluding repairs and failed requests: 1,107 leads / ~7,148 inspections / 42 ADDs / 329 selected candidates. Inspection-to-lead conversion was 9.6%, resolution yield 44.4% and selected-candidate-to-ADD conversion 33.3%. The recent comparable ADD rate becomes 2/10. Run 240 ends the five-run musical no-ADD streak after Run 231.
+
 ## Run 239 — EXPLORE — exact identity is not individual direction
 
 Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.

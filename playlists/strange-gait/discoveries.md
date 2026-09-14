@@ -1,5 +1,59 @@
 # STRANGE GAIT — Discoveries
 
+## Run 240 — 2026-09-14T07:51:23Z-explore-240
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `4bef0fb01e001e72c8a30567693a53fd9f2b08f9`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate and five unresolved identities. No duplicates, substitutions, relinkings or technical failures. All four resolver warnings are preserved below.
+
+### Evaluated exact candidates
+
+#### Oscar Later — It Never Made Sense — `spotify:track:0ZB4fbiKEhhUxHMXklcCPD`
+
+- Evidence: Spotify exact title/artist identity, 246,500 ms, album `The Moon Belongs To You`, release date `2026-09-03`; Boomkat individually distinguishes the track as the EP's trimmest razor-cut 2-step pop cut.
+- Volume fit: PASS. The compact formed turn fits the selection lens without requiring weirdness, a fixed chapter role or one production room.
+- Immediate transition: provisional PASS at `Eyes of the Wind → candidate → Nukumori`. Liminal percussion gives way to a sharply bounded two-step form before the existing hardcore-remnant flare; the contrast is conspicuous but legible at transition scale.
+- Surrounding run: provisional PASS in the exact five-track window `Migration → Eyes of the Wind → It Never Made Sense → Nukumori → Jjochstubn`. The candidate gives Nukumori a formed grid to interrupt and leaves the later contaminated-song disassembly a more legible residue.
+- Long-form effect: provisional PASS. The 4:06.500 insertion adds a concise late-journey condition before flare and erosion rather than extending one fixed mood or manufacturing a new summit.
+- Verdict: ADD between `Eyes of the Wind` and `Nukumori`. Exact entry, exit, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown.
+- Resolver warning: `Exact title/artist matched with release metadata variance: album requested "The Moon belongs to you EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-04" but Spotify returned "2026-09-03"`.
+
+#### Oscar Later — Yaya — `spotify:track:4QTZixR1zHdvPyt12x7MEo`
+
+- Evidence: Spotify exact title/artist identity, 276,500 ms, album `The Moon Belongs To You`, release date `2026-09-03`; Boomkat individually distinguishes pitching big-room sawtooth synths.
+- Volume fit: PASS. The exact synth proposition is lawful; the attributed material is not converted into measured energy, scale or climax.
+- Immediate transition: FAIL only at `Fragments → candidate → Drummz`. The pitching sawtooth stage inserts another fully stated escalation between the existing driving re-escalation and unpredictable-rhythm hinge without establishing a different condition for Drummz.
+- Surrounding run: FAIL in the exact five-track window `Mildew Swoosh → Fragments → Yaya → Drummz → Té de Cabello Blanco`. The added premise over-articulates the passage before its existing restless-groove and reassembly consequences.
+- Long-form effect: FAIL for this insertion because the extra 4:36.500 stage elaborates the middle-late escalation without a distinct downstream change.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; retained as genuinely interesting.
+- Resolver warning: `Exact title/artist matched with release metadata variance: album requested "The Moon belongs to you EP" but Spotify returned "The Moon Belongs To You"; release date requested "2026-09-04" but Spotify returned "2026-09-03"`.
+
+#### Jay Strata — Something 4 U — `spotify:track:395HWxAaptEp7pn9THgfH1`
+
+- Evidence: Spotify exact title/artist/album identity, 386,889 ms, album `Immortal`, release date `2026-06-29`; Juno verifies the exact listing but supplies only shared cosmic-house sampler context.
+- Volume fit: provisional PASS. The adjacent-world identity supports interest without making genre orthodoxy or novelty an admission argument.
+- Immediate transition: UNKNOWN at `Abundance → candidate → Foundry`. Shared release language does not establish individual materials, direction, endpoint or either handoff.
+- Surrounding run: UNKNOWN in the exact five-track window `Cave → Abundance → Something 4 U → Foundry → Worn Down`. Available evidence cannot show whether it changes swung continuation into unstable direction or merely inserts another scene.
+- Long-form effect: UNKNOWN. The 6:26.889 duration is a real proportional cost, but metadata and compilation framing cannot prove a journey gain.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer exact-track direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Resolver warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-06-29"`.
+
+### Exact alternate not selected or evaluated
+
+- DJ Mourad — *Dreams Of An Insomniac* — `spotify:track:6BnBfTlcogkcYBISZC1T4K`, 394,341 ms, album `Immortal`, Spotify release date `2026-06-29`.
+- Resolver warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-06-29"`.
+- This exact alternate receives no musical verdict and no utility-ledger row because it was not selected for evaluation.
+
+### Preserved unresolved identities
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Arovane — *Thaem Nue*
+- PS11 — *Mile High*
+- Dea — *Fairlight*
+- Type-303 — *Morning (Ambient Mix)*
+- Dea — *Noctara*
+
+These five outcomes receive no musical verdict and no utility-ledger row. Audio analysis and live mixing were not tested.
+
 ## Run 239 — 2026-09-14T06:53:50Z-explore-239
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `f6da3dd2a48a14da4ddd7cb19bbb7823bd3dd0a6`, PARTIAL. Requested 9; resolved 1; selected 1; no exact alternates, duplicates, substitutions, relinkings or technical failures. One resolver warning is preserved below.

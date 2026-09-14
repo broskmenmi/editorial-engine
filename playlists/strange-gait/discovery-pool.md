@@ -1,5 +1,26 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 240 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Oscar Later | It Never Made Sense | `spotify:track:0ZB4fbiKEhhUxHMXklcCPD` · https://open.spotify.com/track/0ZB4fbiKEhhUxHMXklcCPD · https://boomkat.com/products/the-moon-belongs-to-you-ep | Exact 4:06.500 identity; added between *Eyes of the Wind* and *Nukumori*. Its documented razor-cut two-step form creates a concise condition before the flare/disassembly passage. Entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Oscar Later | Yaya | `spotify:track:4QTZixR1zHdvPyt12x7MEo` · https://open.spotify.com/track/4QTZixR1zHdvPyt12x7MEo · https://boomkat.com/products/the-moon-belongs-to-you-ep | Exact 4:36.500 identity; rejected only at *Fragments → Drummz*. Its documented pitching sawtooth proposition remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PARKED | Jay Strata | Something 4 U | `spotify:track:395HWxAaptEp7pn9THgfH1` · https://open.spotify.com/track/395HWxAaptEp7pn9THgfH1 · https://www.juno.co.uk/techno/this-week/ | Exact 6:26.889 identity; current sampler context supports interest while individual direction, endpoint and passage consequence remain unknown. Entered the global utility ledger. |
+| EXACT ALTERNATE / UNEVALUATED | DJ Mourad | Dreams Of An Insomniac | `spotify:track:6BnBfTlcogkcYBISZC1T4K` · https://open.spotify.com/track/6BnBfTlcogkcYBISZC1T4K | Exact resolver identity with preserved release-date variance; not selected, not evaluated and not added to the utility ledger. |
+| UNRESOLVED | Arovane; PS11; Dea; Type-303; Dea | Thaem Nue; Mile High; Fairlight; Morning (Ambient Mix); Noctara | See discoveries.md Run 240 | Five Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| WATCH | Oscar Later; n5MD/Arovane; Rush Hour/Dea; Cold Blow/Type-303; Soiree/Immortal | Current, emerging, remaster and overlooked-catalogue windows | Sources in scout-request.json | Useful windows retained without turning release language, reputation or unresolved identity into sequence claims. |
+
+### Placement and inspiration boundaries
+
+- *It Never Made Sense* is canonical at its documented late boundary.
+- *Yaya* is retained as interesting but rejected only at the documented placement; it is not globally rejected.
+- *Something 4 U* is parked only for a candidate-specific individual-evidence gap.
+- *Dreams Of An Insomniac* remains exact but unevaluated; five unresolved identities remain research leads.
+- Set direction retained: test whether a compact formed world changes the residue carried into later disassembly.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 239 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

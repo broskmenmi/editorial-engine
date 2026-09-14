@@ -53,15 +53,18 @@
 | 47 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
 | 48 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
 | 49 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 50 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
-| 51 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
-| 52 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 53 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
-| 54 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 50 | Oscar Later | It Never Made Sense | spotify:track:0ZB4fbiKEhhUxHMXklcCPD | — | ADD | Escape — provisional razor-cut two-step formation before remnant flare | 2026-09-14 |
+| 51 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
+| 52 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
+| 53 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 54 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 55 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 54 canonical tracks.**
+**ACTIVE EXPANSION — 55 canonical tracks.**
+
+EXPLORE run `2026-09-14T07:51:23Z-explore-240` adds Oscar Later — *It Never Made Sense* (`spotify:track:0ZB4fbiKEhhUxHMXklcCPD`) between Azu Tiwaline — *Eyes of the Wind* and foodman — *Nukumori*. Boomkat distinguishes the exact 4:06.500 track as the EP's trimmest razor-cut 2-step pop cut; the resolver verifies the exact Spotify identity while preserving album-title capitalization and release-date variance. Editorially, `Migration → Eyes of the Wind → It Never Made Sense → Nukumori → Jjochstubn` moves from the post-block character pivot through liminal percussion into a concise formed two-step turn, then the existing hardcore-remnant flare and contaminated-song disassembly. The insertion passes at transition, exact five-track and long-form scales because it gives the flare a sharply bounded form to interrupt and leaves the later disassembly a more legible song-shaped residue. Exact entry, exit, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. *Yaya* is rejected only between *Fragments* and *Drummz*; *Something 4 U* is parked for individual-evidence limits. Five unresolved identities and one exact unselected alternate receive no musical verdict.
 
 REPAIR run `2026-09-14T05:56:05Z-repair-237` corrects the stale current-state headline from 53 to 54 and clarifies that the protected trio occupied positions 44–46 at the conclusion of Repair 226 and currently occupies positions 45–47 after the Run 231 addition. The ordered 54-row table, Spotify identities, BPM fields, decisions, structural roles, annotations, listener protections and publication order are unchanged.
 
