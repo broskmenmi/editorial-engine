@@ -1,5 +1,11 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 230 — REPAIR — Run 228 local-window representation — 2026-09-14
+
+**Trigger and repair:** Final read-back found that the *Clear Sky 909* surrounding-run line named six tracks even though the evaluator contract requires a three-to-five-track window. The evidence span was corrected from `Migration → Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole` to the exact five-track run `Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole`. The candidate, placement, evidence and placement-specific REJECT verdict are unchanged.
+
+**Auditor:** **APPROVED.** This is a representation correction only: 0 musical decisions, 0 ledger changes and 0 publication changes. Run 228 statistics remain unchanged.
+
 ## Run 229 — REPAIR — Discovery Pool ledger continuity after Run 228 — 2026-09-14
 
 **Trigger:** Run 228's approved utility additions were committed in exact row order, but the automatic publisher failed closed at `2026-09-14T01:01:01.168Z` with `Ledger contains a track row after table termination on row 466.` Inspection showed a premature blank line between existing row 458 and new row 459. Spotify was not mutated by the failed attempt.
@@ -57,7 +63,7 @@ Warning preserved exactly:
 
 - **Volume fit:** PASS. Clone gives exact-track evidence of a deep-techno proposition with warm textures and fluid movement; warmth is not treated as listener emotion. The exact identity is 460,026 ms.
 - **Immediate transition:** FAIL only at `Nukumori → candidate → Jjochstubn`. The long, fluid reorientation creates a separate settled stage between *Nukumori*'s flare and *Jjochstubn*'s contaminated disassembly, while the source does not establish an endpoint that changes the successor's task.
-- **Surrounding three-to-five-track run:** FAIL proportionally through `Migration → Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole`. A conspicuous redirection is permitted, but this 7:40 insertion interrupts the already legible flare-to-disassembly-to-dead-space descent rather than changing it.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole`. A conspicuous redirection is permitted, but this 7:40 insertion interrupts the already legible flare-to-disassembly-to-dead-space descent rather than changing it.
 - **Long-form journey:** FAIL for this insertion only. The candidate remains a valuable different-world discovery; the tested late-run placement adds a new room without altering the descent that follows.
 - **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
 
