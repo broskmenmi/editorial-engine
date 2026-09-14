@@ -475,7 +475,6 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 469 | Takuya Matsumoto | Jump Rope Music | spotify:track:0yaokMg3ZegDO08b6VE0qy | STRANGE GAIT Run 233 | PARKED / interesting | 2026-09-14 |
 | 470 | Yuu Udagawa | Little Secrets | spotify:track:4vg2vRYM5Pfx0vpfLa6E97 | STRANGE GAIT Run 233 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 471 | François X | Just A Feeling | spotify:track:0q3x9BtRvRWEuSYb5px1EF | STRANGE GAIT Run 235 | PARKED / interesting | 2026-09-14 |
-
 | 472 | Buttechno | Green | spotify:track:1RMghTiaPSRwXWWUZNrfus | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 473 | Buttechno | Funk 33 | spotify:track:4U5mfFSmc6GNqpf5Nu6SDM | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
 

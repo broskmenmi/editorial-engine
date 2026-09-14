@@ -1,5 +1,9 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 238 — REPAIR — utility-table continuity
+
+The first Run 236 utility publication failed closed with `Ledger contains a track row after table termination on row 479.` Repair Run `2026-09-14T06:02:10Z-repair-238` removes the blank line between utility rows 471 and 472. It changes no identity, row number, retained status, canonical decision, sequence, annotation, metadata or cover instruction. Publication is retriggered for EDITORIAL ENGINE — DISCOVERY POOL only.
+
 ## Run 237 — REPAIR — current-state count reconciliation
 
 Final Auditor read-back after Run 236 found one actionable objective defect: the canonical table and verified live state contain 54 tracks, while the ledger's current-state headline still said 53 and the Carried repair paragraph used a stale “now” position for the protected trio. Repair Run `2026-09-14T05:56:05Z-repair-237` changes the headline to 54 and distinguishes the trio's positions at the conclusion of Repair 226 (44–46) from its current positions after Run 231 (45–47). Canonical membership, order, annotations, roles, BPM fields, listener protections and publication intent are unchanged. No further actionable REPAIR remains.
