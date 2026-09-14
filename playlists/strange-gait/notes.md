@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 239 — EXPLORE — exact identity is not individual direction
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, one exact selected candidate and eight unresolved identities. COW — *Cobra* (`spotify:track:76Rhr61g9O7s2DMqoIqGhn`) is PARKED at `LOVE YOUR ENEMIES → candidate → Tehutis Law`. Its exact 353,867-ms identity and current movement-led techno release context support volume interest, but release-level language does not establish individual direction, endpoint, either handoff, the exact five-track consequence or long-form gain. Spotify returned `2026-09-01` for requested `2026-09-08`.
+
+STRANGE GAIT remains 54 tracks. The global utility ledger becomes 474 tracks by retaining the one evaluated exact identity. Eight unresolved identities receive no musical verdict or utility row. There were no exact alternates, duplicates, substitutions, relinkings or technical failures. Audio and live mixing were not tested.
+
+Run 239: `~87 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 0 ADD + 1 PARKED → 1 utility addition`. Across completed Runs 87–239, excluding repairs and failed requests: 1,098 leads / ~7,054 inspections / 41 ADDs / 326 selected candidates. Inspection-to-lead conversion was 10.3%, resolution yield 11.1% and selected-candidate-to-ADD conversion 0/1. Recent comparable ADD rate remains 1/10. The musical no-ADD streak is five completed runs after Run 231; ten exact interesting tracks have been retained since that ADD. One PARKED result does not activate the recurrence guard, and resolver loss dominates this run, so it is not evidence that the playlist is complete.
+
 ## Run 238 — REPAIR — utility-table continuity
 
 The first Run 236 utility publication failed closed with `Ledger contains a track row after table termination on row 479.` Repair Run `2026-09-14T06:02:10Z-repair-238` removes the blank line between utility rows 471 and 472. It changes no identity, row number, retained status, canonical decision, sequence, annotation, metadata or cover instruction. Publication is retriggered for EDITORIAL ENGINE — DISCOVERY POOL only.

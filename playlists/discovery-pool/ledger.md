@@ -477,6 +477,7 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 471 | François X | Just A Feeling | spotify:track:0q3x9BtRvRWEuSYb5px1EF | STRANGE GAIT Run 235 | PARKED / interesting | 2026-09-14 |
 | 472 | Buttechno | Green | spotify:track:1RMghTiaPSRwXWWUZNrfus | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 473 | Buttechno | Funk 33 | spotify:track:4U5mfFSmc6GNqpf5Nu6SDM | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 474 | COW | Cobra | spotify:track:76Rhr61g9O7s2DMqoIqGhn | STRANGE GAIT Run 239 | PARKED / interesting | 2026-09-14 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

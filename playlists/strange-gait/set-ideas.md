@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 239
+
+### Release movement is not track direction
+
+**Direction:** Test whether a movement-led release description survives track-level scrutiny. Exact identity and a credible changing-texture frame can justify retention, but only individual evidence can establish what a candidate leaves for its successor.
+
+**Ingredients:**
+
+- Slave To Society — *Thick to Handle* → DJ Stingray 313 — *LOVE YOUR ENEMIES* → TYGAPAW — *Tehutis Law* → Kirk Degiorgio — *Pulse I* — existing exact five-track context around the tested insertion
+- COW — *Cobra* — exact PARKED candidate whose identity and duration are known while individual direction and endpoint remain unknown
+- Arovane — *Scapen Te*; Soichi Terada — *Good Morning*, *Voices From Beyond*, *Purple Haze (Edit)*; Shin Watanabe — *Red Zone Trax II*, *Red Zone Trax III*, *Ethos Mama Trax VII*; Soichi Terada, Manabu Nagayama — *Low Tension (Alternative Version)* — unresolved catalogue/current-release research leads
+
+**Why interesting:** The comparison protects a broad selection lens while preventing shared release language from being promoted into invented transition knowledge.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
+
 ## Current additions — Run 236
 
 ### A different gait must leave different work behind

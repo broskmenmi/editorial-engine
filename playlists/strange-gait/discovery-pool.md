@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 239 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | COW | Cobra | `spotify:track:76Rhr61g9O7s2DMqoIqGhn` · https://open.spotify.com/track/76Rhr61g9O7s2DMqoIqGhn · https://www.juno.co.uk/techno/this-week/ | Exact 5:53.867 identity; current movement-led techno release context supports interest, while individual direction, endpoint and the tested passage consequence remain decision-critical unknowns. Entered the global utility ledger. |
+| UNRESOLVED | Arovane; Soichi Terada; Shin Watanabe; Soichi Terada, Manabu Nagayama; Shin Watanabe; Soichi Terada; Shin Watanabe; Soichi Terada | Scapen Te; Good Morning; Red Zone Trax III; Low Tension (Alternative Version); Red Zone Trax II; Voices From Beyond; Ethos Mama Trax VII; Purple Haze (Edit) | See discoveries.md Run 239 | Six Spotify-SE misses and two ambiguous exact matches remain distinct research questions; no musical verdict or utility row. |
+| WATCH | n5MD/Arovane; Far East Recordings/Soichi Terada; L.I.E.S./Shin Watanabe; Undersound/COW | Current remaster, overlooked catalogue and adjacent current-release windows | Sources in scout-request.json | Useful windows retained without turning release language, reputation or unresolved identity into sequence claims. |
+
+### Placement and inspiration boundaries
+
+- *Cobra* is retained as interesting and parked only at the documented boundary; it is not rejected.
+- Eight unresolved identities remain research leads without musical verdicts or utility rows.
+- Set direction retained: distinguish release-level movement from an individual track's knowable exit.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 236 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

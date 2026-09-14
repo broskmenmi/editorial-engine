@@ -1,5 +1,34 @@
 # STRANGE GAIT — Discoveries
 
+## Run 239 — 2026-09-14T06:53:50Z-explore-239
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `f6da3dd2a48a14da4ddd7cb19bbb7823bd3dd0a6`, PARTIAL. Requested 9; resolved 1; selected 1; no exact alternates, duplicates, substitutions, relinkings or technical failures. One resolver warning is preserved below.
+
+### Evaluated exact candidate
+
+#### COW — Cobra — `spotify:track:76Rhr61g9O7s2DMqoIqGhn`
+
+- Evidence: Spotify exact title/artist/album identity, 353,867 ms, album `Open The Closed`, release date `2026-09-01`; the current Juno techno listing supplies only release-level movement-led and texture-change context, not an individual track description.
+- Volume fit: provisional PASS. The exact current-techno identity and release context support interest without requiring weirdness, one sonic room or a predefined chapter role.
+- Immediate transition: UNKNOWN at `LOVE YOUR ENEMIES → candidate → Tehutis Law`. Identity, duration and release-level framing do not establish Cobra's individual direction, endpoint, incoming handoff or outgoing handoff.
+- Surrounding run: UNKNOWN in the exact five-track window `Thick to Handle → LOVE YOUR ENEMIES → Cobra → Tehutis Law → Pulse I`. The available evidence cannot show whether Cobra changes the conflict-to-re-grounding passage or merely inserts an opaque extra stage.
+- Long-form effect: UNKNOWN. The 5:53.867 duration is a proportional cost, but metadata and shared release language cannot prove a journey gain.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer exact-track structure/direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Resolver warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-08" but Spotify returned "2026-09-01"`.
+
+### Preserved unresolved identities
+
+- Arovane — *Scapen Te*: `no exact Spotify title/artist search match in market SE`
+- Soichi Terada — *Good Morning*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3YEHBRaPG8hwZaYmXMgLkk, 6anaN39KiJtI8LUSXB60Gm)`
+- Shin Watanabe — *Red Zone Trax III*: `no exact Spotify title/artist search match in market SE`
+- Soichi Terada, Manabu Nagayama — *Low Tension (Alternative Version)*: `no exact Spotify title/artist search match in market SE`
+- Shin Watanabe — *Red Zone Trax II*: `no exact Spotify title/artist search match in market SE`
+- Soichi Terada — *Voices From Beyond*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7yR9bvcHc8KKUA5YVUyoEH, 3WpmZnl7WV0b0zFJhJUR2T)`
+- Shin Watanabe — *Ethos Mama Trax VII*: `no exact Spotify title/artist search match in market SE`
+- Soichi Terada — *Purple Haze (Edit)*: `no exact Spotify title/artist search match in market SE`
+
+These eight outcomes receive no musical verdict and no utility-ledger row. Audio analysis and live mixing were not tested.
+
 ## Run 236 — 2026-09-14T05:49:41Z-explore-236
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `1a775dc29cc253c98cee4ab1fd80bd94399bd78e`, PARTIAL. Requested 9; resolved 2; selected 2; no exact alternates, warnings, substitutions, relinkings, duplicates or technical failures.
