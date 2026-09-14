@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 248
+
+### Recirculated rhythm can be a research direction before it is a candidate
+
+**Direction:** Track current and reissued records whose descriptions foreground rolling percussion, breaks, swing or dub reduction, while keeping identity resolution separate from sequence judgment.
+
+**Ingredients:**
+
+- Chris Pascoe & Daniel Poli — *Cross The Eyes* — unresolved rolling-percussion/vocal-wisp research lead
+- DJ Natas — *Stay Deep* and *Abracadabra* — unresolved current-release leads
+- Terry Francis — *Bonjour Charles* and *Funky Future* — unresolved adjacent swing/dub leads
+- Creature — *Tom's D* and *Orbitar*; The Real — *Debbie Does Deptford* — unresolved recirculated breaks material
+- Satoshi Tomiie — *R02* — unresolved stripped/dissolved dub-techno research lead
+
+**Why interesting:** The scan exposes a catalogue path where older rhythmic constructions are newly visible beside current techno. Their descriptions can guide future search without being mistaken for exact Spotify identity, canonical fit or a proven transition.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-effect claim or live-mixing edge. All nine identities remain unresolved; audio analysis and live mixing remain untested.
+
+
 ## Current additions — Run 247
 
 ### Pressure stages still need downstream consequence

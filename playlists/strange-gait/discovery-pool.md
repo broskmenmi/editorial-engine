@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 248 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| UNRESOLVED RESEARCH | Chris Pascoe & Daniel Poli; DJ Natas; Terry Francis; Creature; Satoshi Tomiie; The Real | *Cross The Eyes*; *Stay Deep*; *Bonjour Charles*; *Tom's D*; *R02*; *Funky Future*; *Orbitar*; *Debbie Does Deptford*; *Abracadabra* | Sources preserved in scout-request.json | Nine Spotify-SE misses. No musical verdict, exact-track retention or global utility addition. |
+| CURRENT RELEASE WATCH | DJ Natas / UFO Series | *Natas Spin EP* | https://www.juno.co.uk/techno-music/today/ | September 14 current-release window with individually attributed sparse-acid and closing-track propositions; identities remain unresolved. |
+| ADJACENT / CATALOGUE WATCH | Terry Francis / Sushitech; Satoshi Tomiie / Dubwax | *Digitec: Addendum*; *Subtract Infinity Part 1* | https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart | Swing, dub reduction and rhythmic-material window retained without promoting house lineage or review language into sequence facts. |
+| REISSUE / CATALOGUE WATCH | Creature; Chris Pascoe & Daniel Poli; The Real | *Tom's D*; *Dogbite*; *Debbie Does Deptford* | https://www.juno.co.uk/charts/juno-recommends/631037-Juno_Recommends_Minimal_Tech/33361873-Chart | Recirculated breaks, rolling-percussion and designer-break material worth tracking; no Spotify identity or mix claim is asserted. |
+
+### Run 248 boundaries
+
+- The valid terminal snapshot is NONE: nine requested, zero exact resolutions and nine completed Spotify-SE misses.
+- No candidate was selected or evaluated, so the run creates no ADD, PARKED or REJECT verdict.
+- No unresolved lead enters the doctrine-free global utility ledger.
+- Set direction: use recirculated rolling percussion, breaks and dub reduction as research propositions only until exact identity and candidate selection exist.
+
+
 ## Run 247 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
