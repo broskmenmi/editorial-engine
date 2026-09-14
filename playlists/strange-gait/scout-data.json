@@ -1,37 +1,37 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "93893fa2f82f055bfc5150b88f46ba656919e71ceab85981791ef6884ea98fcf",
-  "generatedAt": "2026-09-14T18:00:33.076Z",
-  "runId": "2026-09-14T17:50:41Z-explore-250",
-  "sourceCommit": "63ec42fc45db4ac40c5a2b08ffb4f310aca0aaab",
+  "requestFingerprint": "72da4e275076789f3ef95db4ac8af340686d581ba741f05f5045f9c737b5716d",
+  "generatedAt": "2026-09-14T19:07:20.419Z",
+  "runId": "2026-09-14T18:53:32Z-explore-251",
+  "sourceCommit": "d018ab5520a20db989e5488299b3a15720f11a62",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 103 named tracks across Juno's current-week techno listings, Boomkat's current electronic/reissue pages, Meakusma's exact 666ridims tracklist and linked label/catalogue pages. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 102 named tracks across Juno's current techno bestsellers and product pages, Boomkat's current new-release feed and exact product pages, plus linked official/current catalogue windows. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. Explicit threat- or panic-coded propositions were deprioritized without creating a blanket intensity or genre ban.",
-      "Completed discovery Runs 245–249 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
-      "Previously unresolved 666ridims identities Rain Riddim, very66killa, 0to100mimi5fast, hubble and ogenepop9bita3dani were not retried. The five ranked compilation tracks are distinct exact artist/title pairs not previously requested.",
-      "The top three leads come from distinct releases or catalogues and test distinct non-frozen boundaries. No proposed placement touches either protected internal handoff in Transparency → When We Froze → Stardancer.",
-      "The previous run's ADD is not treated as a mandate to continue adding. Candidate order reflects evidence quality, canonical potential and information gain rather than resolver convenience."
+      "Completed discovery Runs 245–250 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
+      "Rene Wise — Night Time Swim, Mark Fell — Servitude In Context titles, Mike Dehnert — One O Eight, Confusion — In Cycles titles, Aquarian — Kool Ranch FM and the previously unresolved Los Totes remixes were screened but excluded as persistent-state repeats.",
+      "The top three leads come from distinct current, adjacent and overlooked-catalogue releases and test distinct non-frozen boundaries. No proposed placement splits or reorders either protected internal handoff in Transparency → When We Froze → Stardancer.",
+      "Run 250's no-ADD outcome and Run 249's ADD do not control this run. Candidate order reflects differentiated exact-track evidence, canonical potential and information gain rather than novelty, artist diversity or resolver convenience."
     ],
     "rankedLeadSummary": [
-      "1. Telefon Tel Aviv — Fahrenheit Fair Enough",
-      "2. dj hanakitopo x JTRIPP — piano miow",
-      "3. Habgud — Deviation",
-      "4. Philippe Petit — PBP2",
-      "5. Remco Beekwilder — Looping Motif",
-      "6. oscar4eva — Still Kukin Master Revision",
-      "7. opo — Shepard",
-      "8. names9s — Its Free",
-      "9. 5indaSauce — 5222s5 Master"
+      "1. Oscar Escapa, Horacio Cruz — Bazaar Star",
+      "2. Violeta García, Hora Lunga — emotional baggage allowance",
+      "3. Charles Dodge — In Celebration",
+      "4. Oscar Escapa, Horacio Cruz — Proud Generation",
+      "5. Baby Ford — Night D3 Died",
+      "6. Violeta García, Hora Lunga — la ola or i miss u",
+      "7. Oscar Escapa, Horacio Cruz — Awakening Education",
+      "8. Oscar Escapa, Horacio Cruz — In The Wall",
+      "9. Baby Ford — The Introducer"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Juno's current-week techno listings, especially Transition's Delirium Vol. IV and Philippe Petit's Phase One, checked 2026-09-14. https://www.juno.co.uk/techno/this-week/",
-      "ADJACENT / EMERGING WINDOW: Meakusma's 666ridims (2020–2026), whose exact tracklist and collection notes foreground transformed grids, odd meters, polyrhythm, improvisation and sample-chop collaboration. https://meakusma.bandcamp.com/album/666ridims-2020-2026",
-      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Telefon Tel Aviv's Fahrenheit Fair Enough, an exact 2001 work recirculating for its 25th anniversary in 2026; current reissue notes and exact-track criticism were inspected without treating prestige as fit. https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough"
+      "CURRENT RELEASE WINDOW: Juno's current techno bestseller and exact product pages, especially Oscar Escapa and Horacio Cruz's Proud Generation EP on Special Series, released 2026-09-03 and checked 2026-09-14. https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
+      "ADJACENT / EMERGING WINDOW: Violeta García and Hora Lunga's 4ever on -OUS, released digitally in September 2026, whose current notes foreground interrupted and restarted fragments, unpredictable redirection and unstable song surfaces without implying techno orthodoxy. https://boomkat.com/products/4ever-4673ce4b-bbd9-4f14-a453-1f5ca4cb1b16",
+      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Charles Dodge's 1976 Synthesized Voices, reissued by Death Is Not The End in 2026, and Baby Ford's Bford 14, reissued 2026-07-13. Exact-track criticism was used without treating historical prestige as fit. https://boomkat.com/products/synthesized-voices · https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/"
     ],
-    "timestampUtc": "2026-09-14T17:50:41Z"
+    "timestampUtc": "2026-09-14T18:53:32Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
@@ -40,274 +40,274 @@
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "dj hanakitopo x JTRIPP",
-      "track": "piano miow",
+      "artist": "Oscar Escapa, Horacio Cruz",
+      "track": "Bazaar Star",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "dj hanakitopo x JTRIPP",
-        "track": "piano miow",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Bazaar Star",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "The exact tracklist and uniquely attributable collaboration note support lead status; they do not establish pulse, energy, density, phrase fit or mixability.",
+          "craftConvention": "Exact-track criticism supports evaluation but does not establish entry, exit, perceived pulse, energy, density, emotional effect, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma states that Japanese Barcelona-based DJ Hanakito contributes to one track using samples and chops from her vinyl imports; piano miow is the only credited Hanakito collaboration on the exact tracklist.",
-          "editorialInterpretation": "This supports a very short sample-chop intervention, not its exact direction, endpoint, emotional effect or either handoff.",
+          "attributedDescription": "Juno distinguishes Bazaar Star as the EP's paddy, giddy and airy counterpart to its denser moving-rhythm tracks.",
+          "editorialInterpretation": "Use only the attributed light-footed material relation as evidence; do not infer smoothness, intensity or an endpoint.",
           "measured": [
-            "Juno lists piano miow at 0:35 and the album at 2026-09-09; Bandcamp lists the digital release at 2026-09-03.",
-            "Exact Spotify identity and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A sub-minute sample-chop punctuation could make the liminal-to-formed late turn conspicuous without installing another full scene.",
-        "proposedPlacements": [
-          {
-            "position": "Between Eyes of the Wind and It Never Made Sense",
-            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "followingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a concise chopped punctuation makes the two-step formation arrive as a deliberate re-entry rather than adding a separate late chapter."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Habgud",
-      "track": "Deviation",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3V9Ka63dxPpkht02kKFNav, 3FTdOdO10nvnjt63uwwsq8)",
-      "requestedIdentity": {
-        "artist": "Habgud",
-        "track": "Deviation",
-        "album": "Delirium, Vol. IV",
-        "releaseDate": "2026-09-10",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Exact listing plus artist-specific release context is enough for serious evaluation, but not enough to infer the track's direction, endpoint, energy, density or live behavior.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Transition's exact track page identifies Deviation inside Delirium Vol. IV; current artist framing places Habgud between atmospheric depth and percussive, driving groove and texture.",
-          "editorialInterpretation": "Treat the atmospheric/percussive relation as context only until an exact selected identity is returned. Do not project release-level ancient-pulse language onto this track.",
-          "measured": [
-            "Juno lists the exact artist/title at 4:37 and the compilation at 2026-09-10; Shazam lists the track at 2026-08-28.",
+            "Juno lists the exact artist/title at 5:28 and the EP at 2026-09-03.",
             "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A percussive deviation with atmospheric context could redirect simultaneous competing emphasis before the existing funk re-grounding.",
+        "fitHypothesis": "A giddier, airier rhythmic state could turn the directed surge into a changed condition before recoil, rather than another dense accumulation.",
         "proposedPlacements": [
           {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "position": "Between Roxellana and backsliding",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the deviation changes Tehutis Law's re-grounding task rather than extending the existing conflict."
+            "purpose": "Test whether the conspicuous character change gives backsliding a distinct condition to pull against instead of merely interrupting the surge."
           }
         ]
       }
     },
     {
-      "artist": "Remco Beekwilder",
-      "track": "Looping Motif",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (33FgUoQvnKQwlRoeG3qQXt, 47yJiV378CT3WoORNKRd7L)",
-      "requestedIdentity": {
-        "artist": "Remco Beekwilder",
-        "track": "Looping Motif",
-        "album": "Delirium, Vol. IV",
-        "releaseDate": "2026-09-10",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "An exact current listing and exact public Spotify result support lookup; the title and metadata do not prove repetition behavior, energy, density, endpoint, phrase structure or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno lists Looping Motif inside Transition's twelve-track compilation, whose review distinguishes a plunging techno field and late label-regular sequence. It does not individually describe this track.",
-          "editorialInterpretation": "Do not infer loop structure from the title. If selected, treat compilation framing as context rather than exact behavior.",
-          "measured": [
-            "Juno lists the exact track at 4:40 and the compilation at 2026-09-10; public Spotify search exposes an exact song result.",
-            "Exact market-SE identity, duration and release metadata require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A current Transition track could test whether crooked accumulation benefits from an intermediate recirculation before the directed surge.",
-        "proposedPlacements": [
-          {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an intermediate track changes the surge's source or merely delays it; the title itself supplies no behavior claim."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "oscar4eva",
-      "track": "Still Kukin Master Revision",
+      "artist": "Violeta García, Hora Lunga",
+      "track": "emotional baggage allowance",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "oscar4eva",
-        "track": "Still Kukin Master Revision",
-        "album": "666ridims (2020 - 2026)",
-        "releaseDate": "2026-09-03",
+        "artist": "Violeta García, Hora Lunga",
+        "track": "emotional baggage allowance",
+        "album": "4ever",
+        "releaseDate": "2026-09-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://boomkat.com/products/emotional-baggage-allowance-6b572933-a815-4077-b1ab-7cd80407f573",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact tracklist and collection-level rhythmic framing justify resolution; they do not distinguish this track's individual form.",
+          "craftConvention": "An exact current single page and album-level artist statement justify resolution; they do not distinguish this track's individual form, tempo, energy, density, endpoint or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma frames the collection around transformed rhythm, swing, odd meters, polyrhythm, improvisation and speculative club forms. No individual description was found for Still Kukin Master Revision.",
-          "editorialInterpretation": "Treat the collection framing as a belonging hypothesis only; do not infer the individual track's direction, endpoint or handoffs.",
+          "attributedDescription": "Boomkat identifies the exact single within an album built from cello, synths, samples and field recordings, with fragments interrupted and restarted across unstable song surfaces. No differentiated exact-track prose was found.",
+          "editorialInterpretation": "Treat the album construction as a belonging hypothesis only. If selected, candidate-specific transition and journey effects remain unknown unless lawful exact-track evidence appears.",
           "measured": [
-            "Juno lists Still Kukin at 4:06; Bandcamp and Clone preserve the longer Master Revision title variant.",
-            "Exact Spotify identity, duration and title normalization require resolver evidence."
+            "Boomkat exposes the exact artist/title single page and current 4ever release context.",
+            "Public Spotify search exposes a seven-track 2026 album; the resolver must verify the market-SE exact identity and duration."
           ]
         },
-        "fitHypothesis": "A concise speculative-grid construction could interrupt the opening derailment before suspension if it creates a bounded consequence rather than another premise.",
+        "fitHypothesis": "A compact adjacent song-surface could alter the late flare-to-disassembly relation if its exact individual direction becomes knowable.",
         "proposedPlacements": [
           {
-            "position": "Between Encasadelciegoeltuerco and Tender Is The Night",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a compact grid study gives the positively retained suspension a changed incoming condition rather than crowding the opening."
+            "purpose": "Test whether an adjacent unstable surface changes Nukumori's interruption task rather than inserting another unproven scene."
           }
         ]
       }
     },
     {
-      "artist": "opo",
-      "track": "Shepard",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Charles Dodge",
+      "track": "In Celebration",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3R0wychYSY8oTVZn73JdSA, 3NUtFPJQpzIuofu94vZxcy)",
       "requestedIdentity": {
-        "artist": "opo",
-        "track": "Shepard",
-        "album": "666ridims (2020 - 2026)",
-        "releaseDate": "2026-09-03",
+        "artist": "Charles Dodge",
+        "track": "In Celebration",
+        "album": "Synthesized Voices",
+        "releaseDate": "2026-09-04",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://boomkat.com/products/synthesized-voices",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact tracklist and collection-level evidence justify resolution but do not establish individual sonic facts.",
+          "craftConvention": "Exact-track criticism and current reissue metadata support evaluation but do not establish entry, exit, energy, density, perceived pulse, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma places Shepard inside a collection of transformed grids, improvisation, odd meters and polyrhythm. No differentiated track description was found.",
-          "editorialInterpretation": "Do not infer scalar illusion, rising motion or endpoint from the title Shepard.",
+          "attributedDescription": "Boomkat describes the eight-minute In Celebration as synthetic speech that shreds and re-forms Mark Strand's poem, radically changing speed, pitch, formants and syllable duration into barrages and decelerated harmonies.",
+          "editorialInterpretation": "Use the documented speech transformation and variable duration behavior only. Do not infer a beat, fixed pulse, emotional effect or transition compatibility.",
           "measured": [
-            "Juno lists Shepard at 2:21 on the September 2026 compilation.",
+            "The 1975 composition appears on the 1976 collection Synthesized Voices; digital reissue listings give 2026-09-04.",
             "Exact Spotify identity and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A short transformed-grid study could create a bounded threshold before the exact protected trio begins without splitting either protected handoff.",
+        "fitHypothesis": "A long synthetic-language transformation could give the broken-fragment passage a formed linguistic object before Drummz, if the run remains proportionate.",
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a concise threshold changes Transparency's re-entry condition while preserving both listener-protected handoffs."
+            "purpose": "Test whether changing speech duration creates a consequential object for unpredictable rhythm or merely over-articulates fracture."
           }
         ]
       }
     },
     {
-      "artist": "names9s",
-      "track": "Its Free",
+      "artist": "Oscar Escapa, Horacio Cruz",
+      "track": "Proud Generation",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "names9s",
-        "track": "Its Free",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Proud Generation",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact tracklist and collection framing justify lookup; they do not prove individual form or sequence consequence.",
+          "craftConvention": "Exact-track criticism supports resolution and evaluation but not unreported tempo, energy, density, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "The collection joins freestyle/songwriting outlines and speculative club forms in odd meters. No exact-track description distinguishes Its Free.",
-          "editorialInterpretation": "Keep the outline/club-form ambiguity explicit; title and short duration do not establish lightness, release or mixability.",
+          "attributedDescription": "Juno describes Proud Generation as loopy and rattling, with automated factory-in-overdrive movement inside tightly woven rhythms.",
+          "editorialInterpretation": "Use the exact loopy/rattling movement as attributed evidence; factory language is metaphor, not a measured density or energy value.",
           "measured": [
-            "Juno lists Its Free at 1:20 on the September 2026 compilation.",
-            "Exact Spotify identity and duration require resolver evidence."
+            "Juno lists the exact artist/title at 5:39 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A very short outline could test whether the live-band pulse illusion needs a concise release before foreground transit.",
+        "fitHypothesis": "A rattling automated loop-state could make the pressure-to-handoff passage change source before Pulse I.",
         "proposedPlacements": [
           {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a concise outline changes the live-band-to-transit handoff or merely interrupts it."
+            "purpose": "Test whether the loop-state changes Pulse I's accumulation task rather than adding another complete buildup."
           }
         ]
       }
     },
     {
-      "artist": "5indaSauce",
-      "track": "5222s5 Master",
+      "artist": "Violeta García, Hora Lunga",
+      "track": "la ola or i miss u",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "5indaSauce",
-        "track": "5222s5 Master",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Violeta García, Hora Lunga",
+        "track": "la ola or i miss u",
+        "album": "4ever",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://boomkat.com/products/la-ola-or-i-miss-u-0e74d2f3-44da-4585-98ab-5302ec04c14b",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "An exact current single page and album-level statement justify lookup but do not establish individual direction, endpoint or live behavior.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Boomkat exposes the exact single within 4ever's shared cello/electronic unstable-surface framing; no differentiated exact-track description was found.",
+          "editorialInterpretation": "Do not transfer album-wide fragment, loop or redirection claims to this exact track. If selected, identity and duration alone cannot complete the sequencing tests.",
+          "measured": [
+            "Boomkat exposes an exact artist/title single page under the current 4ever release.",
+            "Exact market-SE Spotify identity, duration and release metadata require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An adjacent current single could test the move from burst-and-disappearance into unstable re-entry without assuming a shared techno grammar.",
+        "proposedPlacements": [
+          {
+            "position": "Between Raataja and Ingress",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether an adjacent surface changes Ingress's restart task or merely lengthens the disappearance."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Oscar Escapa, Horacio Cruz",
+      "track": "Awakening Education",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Awakening Education",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "The exact tracklist, duration and collection framing justify resolution; they do not establish individual direction, pulse or endpoint.",
+          "craftConvention": "Exact-track criticism supports lookup and evaluation but does not prove energy, density, perceived pulse, phrase fit or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Bandcamp exposes 5222s5 as one of only two currently streamable tracks in a collection framed by strange meters, polyrhythm and transformed grids, but supplies no differentiated prose.",
-          "editorialInterpretation": "Availability is not audio analysis. Do not infer behavior from the title or collection-wide framing.",
+          "attributedDescription": "Juno describes Awakening Education as infectious and unrelenting in onward motion, with soft metal percussion and frantic drums.",
+          "editorialInterpretation": "Use the exact percussion and continuing-motion description; adjectives do not supply a measured energy value.",
           "measured": [
-            "Bandcamp lists 5222s5 at 1:31; Juno lists 5222s5 Master at 1:34.",
-            "Exact Spotify identity, title and duration require resolver evidence."
+            "Juno lists the exact artist/title at 5:26 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A compact grid fragment could punctuate foreground dissolution before machine-to-hand-drum mutation without becoming a second complete groove.",
+        "fitHypothesis": "A continuing soft-metal/frantic-drum state could test whether the established opposed-speed passage needs a sharper directed consequence.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a short fragment changes the dissolution-to-mutation relation rather than adding an unproven novelty beat."
+            "purpose": "Test whether the directed motion changes Serpentine Tale's coiling task or repeats a complete pressure stage."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Oscar Escapa, Horacio Cruz",
+      "track": "In The Wall",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "In The Wall",
+        "album": "Proud Generation EP",
+        "releaseDate": "2026-09-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Exact-track criticism supports lookup but does not provide entry, exit, endpoint, perceived pulse, energy, phrase structure or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes In The Wall as a dense, layered tapestry of loops that cannot be penetrated.",
+          "editorialInterpretation": "Treat density and layering as attributed criticism, not measurement. Test only whether the stated complete loop-world has a downstream consequence.",
+          "measured": [
+            "Juno lists the exact artist/title at 5:29 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A sealed layered loop-world could give the dubwise reset a distinct object to clear before FELT begins formation.",
+        "proposedPlacements": [
+          {
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the sealed loop-state makes FELT's formation newly necessary or merely delays it."
           }
         ]
       }
@@ -315,242 +315,241 @@
   ],
   "warnings": [
     {
-      "artist": "Telefon Tel Aviv",
-      "track": "Fahrenheit Fair Enough",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2001-09-18\" but Spotify returned \"2001\""
+      "artist": "Baby Ford",
+      "track": "Night D3 Died",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-13\" but Spotify returned \"2022-05-20\""
     },
     {
-      "artist": "Philippe Petit",
-      "track": "PBP2",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-10\" but Spotify returned \"2026-06-05\""
+      "artist": "Baby Ford",
+      "track": "The Introducer",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-13\" but Spotify returned \"2022-05-20\""
     }
   ],
   "outcomes": [
     {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Telefon Tel Aviv",
-        "track": "Fahrenheit Fair Enough",
-        "album": "Fahrenheit Fair Enough",
-        "releaseDate": "2001-09-18",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Exact-track and official reissue evidence supports resolution and evaluation; it does not establish energy, density, emotional effect, phrase structure, perceived pulse or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Current reissue coverage identifies the title track's soft-flashing arpeggios and electronic slide bass; official catalogue framing places the work between IDM, experimental electronics, bass, hip-hop and soul rather than one fixed genre.",
-          "editorialInterpretation": "Use only the attributed material and cross-form construction as musical evidence. Exact entry, exit, endpoint and handoffs remain unknown.",
-          "measured": [
-            "Spotify web search exposes the exact artist/title album identity; the resolver must determine the selected market-SE track identity and duration.",
-            "The original album date is 2001-09-18; current 25th-anniversary reissue notices were checked 2026-09-14."
-          ]
-        },
-        "fitHypothesis": "A processed organic/electronic title-track matrix could give the late machine-to-groove passage a deliberate intermediate reassembly without requiring the same production world.",
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a formed reprocessed matrix changes Truth in Noise from direct consolidation into a response to newly assembled material rather than delaying it."
-          }
-        ]
-      },
-      "spotifyTrackId": "43eLl2gwEr0fgbFgS11uOh",
-      "selected": true
-    },
-    {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "dj hanakitopo x JTRIPP",
-        "track": "piano miow",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Bazaar Star",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "The exact tracklist and uniquely attributable collaboration note support lead status; they do not establish pulse, energy, density, phrase fit or mixability.",
+          "craftConvention": "Exact-track criticism supports evaluation but does not establish entry, exit, perceived pulse, energy, density, emotional effect, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma states that Japanese Barcelona-based DJ Hanakito contributes to one track using samples and chops from her vinyl imports; piano miow is the only credited Hanakito collaboration on the exact tracklist.",
-          "editorialInterpretation": "This supports a very short sample-chop intervention, not its exact direction, endpoint, emotional effect or either handoff.",
+          "attributedDescription": "Juno distinguishes Bazaar Star as the EP's paddy, giddy and airy counterpart to its denser moving-rhythm tracks.",
+          "editorialInterpretation": "Use only the attributed light-footed material relation as evidence; do not infer smoothness, intensity or an endpoint.",
           "measured": [
-            "Juno lists piano miow at 0:35 and the album at 2026-09-09; Bandcamp lists the digital release at 2026-09-03.",
-            "Exact Spotify identity and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A sub-minute sample-chop punctuation could make the liminal-to-formed late turn conspicuous without installing another full scene.",
-        "proposedPlacements": [
-          {
-            "position": "Between Eyes of the Wind and It Never Made Sense",
-            "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-            "followingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a concise chopped punctuation makes the two-step formation arrive as a deliberate re-entry rather than adding a separate late chapter."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Habgud",
-        "track": "Deviation",
-        "album": "Delirium, Vol. IV",
-        "releaseDate": "2026-09-10",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Exact listing plus artist-specific release context is enough for serious evaluation, but not enough to infer the track's direction, endpoint, energy, density or live behavior.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Transition's exact track page identifies Deviation inside Delirium Vol. IV; current artist framing places Habgud between atmospheric depth and percussive, driving groove and texture.",
-          "editorialInterpretation": "Treat the atmospheric/percussive relation as context only until an exact selected identity is returned. Do not project release-level ancient-pulse language onto this track.",
-          "measured": [
-            "Juno lists the exact artist/title at 4:37 and the compilation at 2026-09-10; Shazam lists the track at 2026-08-28.",
+            "Juno lists the exact artist/title at 5:28 and the EP at 2026-09-03.",
             "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A percussive deviation with atmospheric context could redirect simultaneous competing emphasis before the existing funk re-grounding.",
+        "fitHypothesis": "A giddier, airier rhythmic state could turn the directed surge into a changed condition before recoil, rather than another dense accumulation.",
         "proposedPlacements": [
           {
-            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
-            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "position": "Between Roxellana and backsliding",
+            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the deviation changes Tehutis Law's re-grounding task rather than extending the existing conflict."
+            "purpose": "Test whether the conspicuous character change gives backsliding a distinct condition to pull against instead of merely interrupting the surge."
           }
         ]
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3V9Ka63dxPpkht02kKFNav, 3FTdOdO10nvnjt63uwwsq8)"
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Violeta García, Hora Lunga",
+        "track": "emotional baggage allowance",
+        "album": "4ever",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://boomkat.com/products/emotional-baggage-allowance-6b572933-a815-4077-b1ab-7cd80407f573",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "An exact current single page and album-level artist statement justify resolution; they do not distinguish this track's individual form, tempo, energy, density, endpoint or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Boomkat identifies the exact single within an album built from cello, synths, samples and field recordings, with fragments interrupted and restarted across unstable song surfaces. No differentiated exact-track prose was found.",
+          "editorialInterpretation": "Treat the album construction as a belonging hypothesis only. If selected, candidate-specific transition and journey effects remain unknown unless lawful exact-track evidence appears.",
+          "measured": [
+            "Boomkat exposes the exact artist/title single page and current 4ever release context.",
+            "Public Spotify search exposes a seven-track 2026 album; the resolver must verify the market-SE exact identity and duration."
+          ]
+        },
+        "fitHypothesis": "A compact adjacent song-surface could alter the late flare-to-disassembly relation if its exact individual direction becomes knowable.",
+        "proposedPlacements": [
+          {
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether an adjacent unstable surface changes Nukumori's interruption task rather than inserting another unproven scene."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Charles Dodge",
+        "track": "In Celebration",
+        "album": "Synthesized Voices",
+        "releaseDate": "2026-09-04",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://boomkat.com/products/synthesized-voices",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Exact-track criticism and current reissue metadata support evaluation but do not establish entry, exit, energy, density, perceived pulse, phrase structure or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Boomkat describes the eight-minute In Celebration as synthetic speech that shreds and re-forms Mark Strand's poem, radically changing speed, pitch, formants and syllable duration into barrages and decelerated harmonies.",
+          "editorialInterpretation": "Use the documented speech transformation and variable duration behavior only. Do not infer a beat, fixed pulse, emotional effect or transition compatibility.",
+          "measured": [
+            "The 1975 composition appears on the 1976 collection Synthesized Voices; digital reissue listings give 2026-09-04.",
+            "Exact Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A long synthetic-language transformation could give the broken-fragment passage a formed linguistic object before Drummz, if the run remains proportionate.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether changing speech duration creates a consequential object for unpredictable rhythm or merely over-articulates fracture."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3R0wychYSY8oTVZn73JdSA, 3NUtFPJQpzIuofu94vZxcy)"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Proud Generation",
+        "album": "Proud Generation EP",
+        "releaseDate": "2026-09-03",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Exact-track criticism supports resolution and evaluation but not unreported tempo, energy, density, phrase structure or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Proud Generation as loopy and rattling, with automated factory-in-overdrive movement inside tightly woven rhythms.",
+          "editorialInterpretation": "Use the exact loopy/rattling movement as attributed evidence; factory language is metaphor, not a measured density or energy value.",
+          "measured": [
+            "Juno lists the exact artist/title at 5:39 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A rattling automated loop-state could make the pressure-to-handoff passage change source before Pulse I.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tehutis Law and Pulse I",
+            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the loop-state changes Pulse I's accumulation task rather than adding another complete buildup."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Philippe Petit",
-        "track": "PBP2",
-        "album": "Phase One",
-        "releaseDate": "2026-09-10",
+        "artist": "Baby Ford",
+        "track": "Night D3 Died",
+        "album": "Bford 14",
+        "releaseDate": "2026-07-13",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A current exact techno listing and established label context justify resolution, but do not establish individual sonic behavior, direction, endpoint or mixability.",
+          "craftConvention": "Exact-track reissue criticism supports evaluation; it does not establish entry, exit, endpoint, energy, perceived pulse, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno and artist-hosted Knotweed pages identify PBP2 as the opening exact track of Phase One. No differentiated exact-track prose was found.",
-          "editorialInterpretation": "Use the exact listing only to justify lookup. If selected, individual sequencing claims must remain limited to resolver facts and any lawful exact-track evidence available at evaluation.",
+          "attributedDescription": "Juno distinguishes Night D3 Died through crunchy drums paired with mournful synth chords.",
+          "editorialInterpretation": "Use the documented drum/chord pairing only. Do not infer that shared release context with canonical Serpentine Tale proves a compatible room or sequence.",
           "measured": [
-            "Juno lists PBP2 at 6:40 on KW063, released 2026-09-10; Discogs lists 6:38.",
-            "Exact Spotify identity and duration require resolver evidence."
+            "Juno lists the exact artist/title at 6:24 on the 2026-07-13 Bford 14 reissue.",
+            "Exact Spotify identity, duration and original-release packaging require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current Knotweed techno construction could test whether the reset-to-deformation passage benefits from a separately formed pressure stage.",
+        "fitHypothesis": "A drum-and-chord state could change the early widening passage before Egue into hs if it leaves the successor a different re-entry task.",
         "proposedPlacements": [
           {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "position": "Between Tender Is The Night and Egue into hs",
+            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current construction gives bodily deformation a new object or merely inserts another formed stage."
+            "purpose": "Test whether the chorded drum-state makes Egue into hs re-form a distinct residue rather than crowding the positively retained suspension."
           }
         ]
       },
-      "spotifyTrackId": "2DzdG7aehc5LyHLoAgdZys",
+      "spotifyTrackId": "2gGFSLPMYaslXwdbT9Vlpc",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Remco Beekwilder",
-        "track": "Looping Motif",
-        "album": "Delirium, Vol. IV",
-        "releaseDate": "2026-09-10",
+        "artist": "Violeta García, Hora Lunga",
+        "track": "la ola or i miss u",
+        "album": "4ever",
+        "releaseDate": "2026-09-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "discoverySource": "https://boomkat.com/products/la-ola-or-i-miss-u-0e74d2f3-44da-4585-98ab-5302ec04c14b",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "An exact current listing and exact public Spotify result support lookup; the title and metadata do not prove repetition behavior, energy, density, endpoint, phrase structure or mixability.",
+          "craftConvention": "An exact current single page and album-level statement justify lookup but do not establish individual direction, endpoint or live behavior.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno lists Looping Motif inside Transition's twelve-track compilation, whose review distinguishes a plunging techno field and late label-regular sequence. It does not individually describe this track.",
-          "editorialInterpretation": "Do not infer loop structure from the title. If selected, treat compilation framing as context rather than exact behavior.",
+          "attributedDescription": "Boomkat exposes the exact single within 4ever's shared cello/electronic unstable-surface framing; no differentiated exact-track description was found.",
+          "editorialInterpretation": "Do not transfer album-wide fragment, loop or redirection claims to this exact track. If selected, identity and duration alone cannot complete the sequencing tests.",
           "measured": [
-            "Juno lists the exact track at 4:40 and the compilation at 2026-09-10; public Spotify search exposes an exact song result.",
-            "Exact market-SE identity, duration and release metadata require resolver evidence."
+            "Boomkat exposes an exact artist/title single page under the current 4ever release.",
+            "Exact market-SE Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current Transition track could test whether crooked accumulation benefits from an intermediate recirculation before the directed surge.",
+        "fitHypothesis": "An adjacent current single could test the move from burst-and-disappearance into unstable re-entry without assuming a shared techno grammar.",
         "proposedPlacements": [
           {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "position": "Between Raataja and Ingress",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether an intermediate track changes the surge's source or merely delays it; the title itself supplies no behavior claim."
-          }
-        ]
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (33FgUoQvnKQwlRoeG3qQXt, 47yJiV378CT3WoORNKRd7L)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "oscar4eva",
-        "track": "Still Kukin Master Revision",
-        "album": "666ridims (2020 - 2026)",
-        "releaseDate": "2026-09-03",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Exact tracklist and collection-level rhythmic framing justify resolution; they do not distinguish this track's individual form.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma frames the collection around transformed rhythm, swing, odd meters, polyrhythm, improvisation and speculative club forms. No individual description was found for Still Kukin Master Revision.",
-          "editorialInterpretation": "Treat the collection framing as a belonging hypothesis only; do not infer the individual track's direction, endpoint or handoffs.",
-          "measured": [
-            "Juno lists Still Kukin at 4:06; Bandcamp and Clone preserve the longer Master Revision title variant.",
-            "Exact Spotify identity, duration and title normalization require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A concise speculative-grid construction could interrupt the opening derailment before suspension if it creates a bounded consequence rather than another premise.",
-        "proposedPlacements": [
-          {
-            "position": "Between Encasadelciegoeltuerco and Tender Is The Night",
-            "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
-            "followingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a compact grid study gives the positively retained suspension a changed incoming condition rather than crowding the opening."
+            "purpose": "Test whether an adjacent surface changes Ingress's restart task or merely lengthens the disappearance."
           }
         ]
       },
@@ -559,36 +558,36 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "opo",
-        "track": "Shepard",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "Awakening Education",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact tracklist and collection-level evidence justify resolution but do not establish individual sonic facts.",
+          "craftConvention": "Exact-track criticism supports lookup and evaluation but does not prove energy, density, perceived pulse, phrase fit or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Meakusma places Shepard inside a collection of transformed grids, improvisation, odd meters and polyrhythm. No differentiated track description was found.",
-          "editorialInterpretation": "Do not infer scalar illusion, rising motion or endpoint from the title Shepard.",
+          "attributedDescription": "Juno describes Awakening Education as infectious and unrelenting in onward motion, with soft metal percussion and frantic drums.",
+          "editorialInterpretation": "Use the exact percussion and continuing-motion description; adjectives do not supply a measured energy value.",
           "measured": [
-            "Juno lists Shepard at 2:21 on the September 2026 compilation.",
-            "Exact Spotify identity and duration require resolver evidence."
+            "Juno lists the exact artist/title at 5:26 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A short transformed-grid study could create a bounded threshold before the exact protected trio begins without splitting either protected handoff.",
+        "fitHypothesis": "A continuing soft-metal/frantic-drum state could test whether the established opposed-speed passage needs a sharper directed consequence.",
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a concise threshold changes Transparency's re-entry condition while preserving both listener-protected handoffs."
+            "purpose": "Test whether the directed motion changes Serpentine Tale's coiling task or repeats a complete pressure stage."
           }
         ]
       },
@@ -597,223 +596,224 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "names9s",
-        "track": "Its Free",
-        "album": "666ridims (2020 - 2026)",
+        "artist": "Oscar Escapa, Horacio Cruz",
+        "track": "In The Wall",
+        "album": "Proud Generation EP",
         "releaseDate": "2026-09-03",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact tracklist and collection framing justify lookup; they do not prove individual form or sequence consequence.",
+          "craftConvention": "Exact-track criticism supports lookup but does not provide entry, exit, endpoint, perceived pulse, energy, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "The collection joins freestyle/songwriting outlines and speculative club forms in odd meters. No exact-track description distinguishes Its Free.",
-          "editorialInterpretation": "Keep the outline/club-form ambiguity explicit; title and short duration do not establish lightness, release or mixability.",
+          "attributedDescription": "Juno describes In The Wall as a dense, layered tapestry of loops that cannot be penetrated.",
+          "editorialInterpretation": "Treat density and layering as attributed criticism, not measurement. Test only whether the stated complete loop-world has a downstream consequence.",
           "measured": [
-            "Juno lists Its Free at 1:20 on the September 2026 compilation.",
-            "Exact Spotify identity and duration require resolver evidence."
+            "Juno lists the exact artist/title at 5:29 and the EP at 2026-09-03.",
+            "Exact Spotify identity, duration and release metadata require resolver evidence."
           ]
         },
-        "fitHypothesis": "A very short outline could test whether the live-band pulse illusion needs a concise release before foreground transit.",
+        "fitHypothesis": "A sealed layered loop-world could give the dubwise reset a distinct object to clear before FELT begins formation.",
         "proposedPlacements": [
           {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+            "position": "Between Trompe L'oeil and FELT",
+            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a concise outline changes the live-band-to-transit handoff or merely interrupts it."
+            "purpose": "Test whether the sealed loop-state makes FELT's formation newly necessary or merely delays it."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "UNRESOLVED",
+      "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "5indaSauce",
-        "track": "5222s5 Master",
-        "album": "666ridims (2020 - 2026)",
-        "releaseDate": "2026-09-03",
+        "artist": "Baby Ford",
+        "track": "The Introducer",
+        "album": "Bford 14",
+        "releaseDate": "2026-07-13",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+        "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "The exact tracklist, duration and collection framing justify resolution; they do not establish individual direction, pulse or endpoint.",
+          "craftConvention": "Exact-track reissue criticism supports lookup and evaluation but not unreported tempo, emotional effect, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Bandcamp exposes 5222s5 as one of only two currently streamable tracks in a collection framed by strange meters, polyrhythm and transformed grids, but supplies no differentiated prose.",
-          "editorialInterpretation": "Availability is not audio analysis. Do not infer behavior from the title or collection-wide framing.",
+          "attributedDescription": "Juno distinguishes the closing The Introducer as drifting into warm, spacious territory.",
+          "editorialInterpretation": "Use the exact drift and spatial attribution only; do not infer an endpoint shape, calmness, release function or compatibility.",
           "measured": [
-            "Bandcamp lists 5222s5 at 1:31; Juno lists 5222s5 Master at 1:34.",
-            "Exact Spotify identity, title and duration require resolver evidence."
+            "Juno lists the exact artist/title at 8:11 on the 2026-07-13 Bford 14 reissue.",
+            "Exact Spotify identity, duration and original-release packaging require resolver evidence."
           ]
         },
-        "fitHypothesis": "A compact grid fragment could punctuate foreground dissolution before machine-to-hand-drum mutation without becoming a second complete groove.",
+        "fitHypothesis": "A long spacious drift could change the closing descent-to-re-entry relation if it creates new work rather than another decompression stage.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "position": "Between Rabbit Hole and Can I live",
+            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a short fragment changes the dissolution-to-mutation relation rather than adding an unproven novelty beat."
+            "purpose": "Test whether the drift changes Can I live's hesitant beginning or only extends the existing descent."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
+      "spotifyTrackId": "6cZiXQkDeR0NRg48zu9Ogw",
+      "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "43eLl2gwEr0fgbFgS11uOh",
-      "uri": "spotify:track:43eLl2gwEr0fgbFgS11uOh",
-      "name": "Fahrenheit Fair Enough",
+      "id": "2gGFSLPMYaslXwdbT9Vlpc",
+      "uri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
+      "name": "Night D3 Died",
       "artists": [
-        "Telefon Tel Aviv"
+        "Baby Ford"
       ],
-      "album": "Fahrenheit Fair Enough",
-      "releaseDate": "2001",
-      "durationMs": 400293,
-      "spotifyUrl": "https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh",
+      "album": "Bford 14",
+      "releaseDate": "2022-05-20",
+      "durationMs": 384524,
+      "spotifyUrl": "https://open.spotify.com/track/2gGFSLPMYaslXwdbT9Vlpc",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough",
+      "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "position": "Between Tender Is The Night and Egue into hs",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a formed reprocessed matrix changes Truth in Noise from direct consolidation into a response to newly assembled material rather than delaying it."
+          "purpose": "Test whether the chorded drum-state makes Egue into hs re-form a distinct residue rather than crowding the positively retained suspension."
         }
       ],
-      "fitHypothesis": "A processed organic/electronic title-track matrix could give the late machine-to-groove passage a deliberate intermediate reassembly without requiring the same production world.",
+      "fitHypothesis": "A drum-and-chord state could change the early widening passage before Egue into hs if it leaves the successor a different re-entry task.",
       "evidence": {
-        "craftConvention": "Exact-track and official reissue evidence supports resolution and evaluation; it does not establish energy, density, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact-track reissue criticism supports evaluation; it does not establish entry, exit, endpoint, energy, perceived pulse, phrase structure or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Current reissue coverage identifies the title track's soft-flashing arpeggios and electronic slide bass; official catalogue framing places the work between IDM, experimental electronics, bass, hip-hop and soul rather than one fixed genre.",
-        "editorialInterpretation": "Use only the attributed material and cross-form construction as musical evidence. Exact entry, exit, endpoint and handoffs remain unknown.",
+        "attributedDescription": "Juno distinguishes Night D3 Died through crunchy drums paired with mournful synth chords.",
+        "editorialInterpretation": "Use the documented drum/chord pairing only. Do not infer that shared release context with canonical Serpentine Tale proves a compatible room or sequence.",
         "measured": [
-          "Spotify web search exposes the exact artist/title album identity; the resolver must determine the selected market-SE track identity and duration.",
-          "The original album date is 2001-09-18; current 25th-anniversary reissue notices were checked 2026-09-14."
+          "Juno lists the exact artist/title at 6:24 on the 2026-07-13 Bford 14 reissue.",
+          "Exact Spotify identity, duration and original-release packaging require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Telefon Tel Aviv",
-        "track": "Fahrenheit Fair Enough",
-        "album": "Fahrenheit Fair Enough",
-        "releaseDate": "2001-09-18",
+        "artist": "Baby Ford",
+        "track": "Night D3 Died",
+        "album": "Bford 14",
+        "releaseDate": "2026-07-13",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough",
+        "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Exact-track and official reissue evidence supports resolution and evaluation; it does not establish energy, density, emotional effect, phrase structure, perceived pulse or mixability.",
+          "craftConvention": "Exact-track reissue criticism supports evaluation; it does not establish entry, exit, endpoint, energy, perceived pulse, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Current reissue coverage identifies the title track's soft-flashing arpeggios and electronic slide bass; official catalogue framing places the work between IDM, experimental electronics, bass, hip-hop and soul rather than one fixed genre.",
-          "editorialInterpretation": "Use only the attributed material and cross-form construction as musical evidence. Exact entry, exit, endpoint and handoffs remain unknown.",
+          "attributedDescription": "Juno distinguishes Night D3 Died through crunchy drums paired with mournful synth chords.",
+          "editorialInterpretation": "Use the documented drum/chord pairing only. Do not infer that shared release context with canonical Serpentine Tale proves a compatible room or sequence.",
           "measured": [
-            "Spotify web search exposes the exact artist/title album identity; the resolver must determine the selected market-SE track identity and duration.",
-            "The original album date is 2001-09-18; current 25th-anniversary reissue notices were checked 2026-09-14."
+            "Juno lists the exact artist/title at 6:24 on the 2026-07-13 Bford 14 reissue.",
+            "Exact Spotify identity, duration and original-release packaging require resolver evidence."
           ]
         },
-        "fitHypothesis": "A processed organic/electronic title-track matrix could give the late machine-to-groove passage a deliberate intermediate reassembly without requiring the same production world.",
+        "fitHypothesis": "A drum-and-chord state could change the early widening passage before Egue into hs if it leaves the successor a different re-entry task.",
         "proposedPlacements": [
           {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "position": "Between Tender Is The Night and Egue into hs",
+            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a formed reprocessed matrix changes Truth in Noise from direct consolidation into a response to newly assembled material rather than delaying it."
+            "purpose": "Test whether the chorded drum-state makes Egue into hs re-form a distinct residue rather than crowding the positively retained suspension."
           }
         ]
       }
     },
     {
-      "id": "2DzdG7aehc5LyHLoAgdZys",
-      "uri": "spotify:track:2DzdG7aehc5LyHLoAgdZys",
-      "name": "Pbp2",
+      "id": "6cZiXQkDeR0NRg48zu9Ogw",
+      "uri": "spotify:track:6cZiXQkDeR0NRg48zu9Ogw",
+      "name": "The Introducer",
       "artists": [
-        "Philippe Petit"
+        "Baby Ford"
       ],
-      "album": "Phase One",
-      "releaseDate": "2026-06-05",
-      "durationMs": 397852,
-      "spotifyUrl": "https://open.spotify.com/track/2DzdG7aehc5LyHLoAgdZys",
+      "album": "Bford 14",
+      "releaseDate": "2022-05-20",
+      "durationMs": 491428,
+      "spotifyUrl": "https://open.spotify.com/track/6cZiXQkDeR0NRg48zu9Ogw",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Goink and Thick to Handle",
-          "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the current construction gives bodily deformation a new object or merely inserts another formed stage."
+          "purpose": "Test whether the drift changes Can I live's hesitant beginning or only extends the existing descent."
         }
       ],
-      "fitHypothesis": "A current Knotweed techno construction could test whether the reset-to-deformation passage benefits from a separately formed pressure stage.",
+      "fitHypothesis": "A long spacious drift could change the closing descent-to-re-entry relation if it creates new work rather than another decompression stage.",
       "evidence": {
-        "craftConvention": "A current exact techno listing and established label context justify resolution, but do not establish individual sonic behavior, direction, endpoint or mixability.",
+        "craftConvention": "Exact-track reissue criticism supports lookup and evaluation but not unreported tempo, emotional effect, phrase structure or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno and artist-hosted Knotweed pages identify PBP2 as the opening exact track of Phase One. No differentiated exact-track prose was found.",
-        "editorialInterpretation": "Use the exact listing only to justify lookup. If selected, individual sequencing claims must remain limited to resolver facts and any lawful exact-track evidence available at evaluation.",
+        "attributedDescription": "Juno distinguishes the closing The Introducer as drifting into warm, spacious territory.",
+        "editorialInterpretation": "Use the exact drift and spatial attribution only; do not infer an endpoint shape, calmness, release function or compatibility.",
         "measured": [
-          "Juno lists PBP2 at 6:40 on KW063, released 2026-09-10; Discogs lists 6:38.",
-          "Exact Spotify identity and duration require resolver evidence."
+          "Juno lists the exact artist/title at 8:11 on the 2026-07-13 Bford 14 reissue.",
+          "Exact Spotify identity, duration and original-release packaging require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Philippe Petit",
-        "track": "PBP2",
-        "album": "Phase One",
-        "releaseDate": "2026-09-10",
+        "artist": "Baby Ford",
+        "track": "The Introducer",
+        "album": "Bford 14",
+        "releaseDate": "2026-07-13",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "discoverySource": "https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A current exact techno listing and established label context justify resolution, but do not establish individual sonic behavior, direction, endpoint or mixability.",
+          "craftConvention": "Exact-track reissue criticism supports lookup and evaluation but not unreported tempo, emotional effect, phrase structure or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno and artist-hosted Knotweed pages identify PBP2 as the opening exact track of Phase One. No differentiated exact-track prose was found.",
-          "editorialInterpretation": "Use the exact listing only to justify lookup. If selected, individual sequencing claims must remain limited to resolver facts and any lawful exact-track evidence available at evaluation.",
+          "attributedDescription": "Juno distinguishes the closing The Introducer as drifting into warm, spacious territory.",
+          "editorialInterpretation": "Use the exact drift and spatial attribution only; do not infer an endpoint shape, calmness, release function or compatibility.",
           "measured": [
-            "Juno lists PBP2 at 6:40 on KW063, released 2026-09-10; Discogs lists 6:38.",
-            "Exact Spotify identity and duration require resolver evidence."
+            "Juno lists the exact artist/title at 8:11 on the 2026-07-13 Bford 14 reissue.",
+            "Exact Spotify identity, duration and original-release packaging require resolver evidence."
           ]
         },
-        "fitHypothesis": "A current Knotweed techno construction could test whether the reset-to-deformation passage benefits from a separately formed pressure stage.",
+        "fitHypothesis": "A long spacious drift could change the closing descent-to-re-entry relation if it creates new work rather than another decompression stage.",
         "proposedPlacements": [
           {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "position": "Between Rabbit Hole and Can I live",
+            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the current construction gives bodily deformation a new object or merely inserts another formed stage."
+            "purpose": "Test whether the drift changes Can I live's hesitant beginning or only extends the existing descent."
           }
         ]
       }
