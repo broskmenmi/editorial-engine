@@ -1,228 +1,149 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "79437a6d53f5228280b6873f5f8c0cbbad8e7b32a56e63ff94ee55f1f0f59165",
-  "generatedAt": "2026-09-14T05:53:33.349Z",
-  "runId": "2026-09-14T05:49:41Z-explore-236",
-  "sourceCommit": "1a775dc29cc253c98cee4ab1fd80bd94399bd78e",
+  "requestFingerprint": "e75e91d53afaf44ef5169615a1d995a811b2fb60908038694415f40e912126c3",
+  "generatedAt": "2026-09-14T07:03:34.097Z",
+  "runId": "2026-09-14T06:53:50Z-explore-239",
+  "sourceCommit": "f6da3dd2a48a14da4ddd7cb19bbb7823bd3dd0a6",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 84 named tracks/releases across Boomkat current September 2026 releases and preorders, Resident Advisor current reviews, Juno's current techno window, Bandcamp exact release pages, and targeted overlooked-catalogue cross-checks. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 87 named tracks/releases across Boomkat's September 14 new-release index, Resident Advisor current reviews, Juno's current techno and experimental-electronic windows, official Bandcamp release pages, and targeted persistent-state cross-checks. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. No threat- or panic-coded proposition was advanced.",
-      "Completed Runs 228, 231, 232, 233 and 235 selected identities and their exact boundaries were compared before ranking. The three highest-ranked boundaries do not repeat those runs.",
-      "Every ranked artist/title pair was checked against canonical state, target-local discovery/rejection/PARKED history and the global utility ledger. Existing retained Sa Pa — World Saving Banger and previously retained Buttechno identities were excluded.",
-      "Sa Pa — Rhythm From Ambient moved from a prior release watch to a current exact four-track release on 2026-09-14; this is new outward evidence, not a triggered canonical repair.",
-      "The Sa Pa and Buttechno groups have differentiated exact-track prose. Multiple same-release leads are ranked independently for resolver identity; no artist, texture or novelty quota is applied.",
+      "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. Threat- or panic-coded propositions were not advanced.",
+      "Completed Runs 231, 232, 233, 235 and 236 selected identities and boundaries were compared before ranking. The top three boundaries do not repeat those runs.",
+      "Every ranked artist/title pair was checked against canonical state, target-local discovery/rejection/PARKED history and the global utility ledger. Previously evaluated COW — Dead Air and Velvet, unresolved Arovane — Revart Amx and Nonlin R, unresolved Soichi Terada — Rising Sun Up, and previously requested Shin Watanabe tracks I, VI and X were excluded.",
+      "Red Zone Trax III, Red Zone Trax II, Ethos Mama Trax VII, Good Morning, Low Tension (Alternative Version), Voices From Beyond, Purple Haze (Edit), Scapen Te and Cobra are newly ranked exact-title leads, not triggered revisits.",
+      "Multiple same-release leads have differentiated individual prose except lower-ranked Cobra, whose evidence gap is explicit. No artist, texture, novelty or genre quota is applied.",
       "No proposed placement splits Transparency → When We Froze → Stardancer."
     ],
     "rankedLeadSummary": [
-      "1. Sa Pa — Rhythm From Ambient",
-      "2. Sa Pa — Rhythm",
-      "3. Buttechno — green",
-      "4. Sa Pa — Last Dance (Ballroom Dub)",
-      "5. Buttechno — new pink",
-      "6. SANDWELL DISTRICT — Grey Cut Out (Extended Version)",
-      "7. Sa Pa — Bo Riddim",
-      "8. Buttechno — disko june",
-      "9. Buttechno — funk 33"
+      "1. Arovane — Scapen Te",
+      "2. Soichi Terada — Good Morning",
+      "3. Shin Watanabe — Red Zone Trax III",
+      "4. Soichi Terada, Manabu Nagayama — Low Tension (Alternative Version)",
+      "5. Shin Watanabe — Red Zone Trax II",
+      "6. Soichi Terada — Voices From Beyond",
+      "7. Shin Watanabe — Ethos Mama Trax VII",
+      "8. Soichi Terada — Purple Haze (Edit)",
+      "9. COW — Cobra"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Sa Pa — Rhythm From Ambient, exact four-track Bandcamp release dated 2026-09-14 and Boomkat review/preorder window checked 2026-09-14. https://sa-pa.bandcamp.com/album/rhythm-from-ambient ; https://boomkat.com/products/rhythm-from-ambient",
-      "CURRENT INDEX WINDOW: Boomkat new releases/preorders, Resident Advisor reviews and Juno Techno This Week checked 2026-09-14. https://boomkat.com/new-releases ; https://ra.co/reviews ; https://www.juno.co.uk/techno/this-week/",
-      "ADJACENT / EMERGING WINDOW: Dub Techno For Life/Sa Pa and Fortune Signal/Sopp catalogues were inspected; Sopp lacked track-level titles/evidence and was not padded into the request.",
-      "OVERLOOKED CATALOGUE WINDOW: Buttechno — Minimal Cuts II and Sandwell District catalogue/current extended-version listings were inspected for exact track-level propositions. https://boomkat.com/products/minimal-cuts-ii ; https://boomkat.com/products/grey-cut-out-extended-version"
+      "CURRENT RELEASE WINDOW: Boomkat New Releases and Juno Techno This Week checked 2026-09-14; Shin Watanabe's May 2026 L.I.E.S. album newly appeared in Boomkat's current index. https://boomkat.com/new-releases ; https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: COW — Open The Closed and L.I.E.S./Shin Watanabe exact-title fields were inspected; previously retained or unresolved identities were excluded.",
+      "OVERLOOKED CATALOGUE WINDOW: Arovane — Atol Scrap remaster and Soichi Terada — Sounds From The Far East 2025 reissue/2015 exact compilation were inspected for track-specific propositions. https://www.juno.co.uk/experimental-electronic/this-week/ ; https://soichiterada.bandcamp.com/album/sounds-from-the-far-east"
     ],
-    "timestampUtc": "2026-09-14T05:49:41Z"
+    "timestampUtc": "2026-09-14T06:53:50Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 2,
-  "candidateCount": 2,
+  "resolvedCount": 1,
+  "candidateCount": 1,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Sa Pa",
-      "track": "Rhythm From Ambient",
+      "artist": "Arovane",
+      "track": "Scapen Te",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Rhythm From Ambient",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Arovane",
+        "track": "Scapen Te",
+        "album": "Atol Scrap",
+        "releaseDate": "1999-01-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes a roughly ten-minute title track that unfolds murky offbeat grooves within elemental dub-techno material.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test a long, explicitly developing offbeat scene without assuming duration or dub context proves flow.",
+          "attributedDescription": "Juno distinguishes Scapen Te as an ambient-dub interval whose rhythms reward close attention within the newly circulated Atol Scrap remaster.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test an understated interval whose rhythmic action is present but not foregrounded, without treating ambience or dub language as proof of flow.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track offbeat-groove proposition with individual duration and development framing; murkiness is not treated as emotional effect.",
+        "fitHypothesis": "An overlooked exact-track interval where submerged rhythm could alter the move from temporal strain into driving re-entry.",
         "proposedPlacements": [
           {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "position": "Between Mildew Swoosh and Fragments",
+            "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the extended offbeat development deepens swung continuation into unstable direction or merely delays the hinge."
+            "purpose": "Test whether the interval changes opposed temporal strain into driving re-entry rather than merely delaying it."
           }
         ]
       }
     },
     {
-      "artist": "Sa Pa",
-      "track": "Rhythm",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Soichi Terada",
+      "track": "Good Morning",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3YEHBRaPG8hwZaYmXMgLkk, 6anaN39KiJtI8LUSXB60Gm)",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Rhythm",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Soichi Terada",
+        "track": "Good Morning",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat says Rhythm brings the rhythm forward and relates it to a more forceful MDR-era techno line.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether a more explicit rhythmic foreground creates a useful intermediate state rather than another complete premise.",
+          "attributedDescription": "Boomkat distinguishes Good Morning by angular bleeps and a tricky 1990s computer-game comparison; the official Bandcamp page verifies the exact 4:42 track and 2015 compilation context.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test a conspicuous early-house material turn without assuming playfulness, nostalgia or emotional safety.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track proposition whose described forward rhythmic emphasis is directly relevant to the selection lens.",
+        "fitHypothesis": "An exact catalogue house proposition whose angular bleep construction could create a distinct passing foreground.",
         "proposedPlacements": [
           {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the forward rhythmic emphasis changes redirection into the live-band pulse illusion."
+            "purpose": "Test whether the angular stage changes pulse-illusion into passing foreground rather than becoming another complete diversion."
           }
         ]
       }
     },
     {
-      "artist": "Sa Pa",
-      "track": "Last Dance (Ballroom Dub)",
+      "artist": "Shin Watanabe",
+      "track": "Red Zone Trax III",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Last Dance (Ballroom Dub)",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Shin Watanabe",
+        "track": "Red Zone Trax III",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Last Dance (Ballroom Dub) as the release's most reserved and regular piece, joining classic Berlin dub-house language with gritty sound design.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a straight/regular candidate without assuming it belongs because it contrasts with prior listener-negative tracks.",
+          "attributedDescription": "Boomkat individually distinguishes Red Zone Trax III through a Lynchian-chord comparison; the official L.I.E.S. page verifies the exact 5:40 title on the May 1, 2026 album.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Treat the chord description as material evidence only and test whether it changes the consolidation-to-fault-line relation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track regularity proposition relevant to the constitution's permission for straight, dubby or restrained material.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tender Is The Night and Egue into hs",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the reserved stage gives the existing fixed-kick re-entry different work without inferring safety from prose."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Buttechno",
-      "track": "new pink",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "new pink",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes new pink by a Chicago-style wiggle within the record's slick 1990s Japanese-house comparison.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Retain a distinct groove proposition without assuming style language establishes endpoint or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked exact-track wiggle proposition with credible rhythmic-form relevance.",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the wiggle alters deformation into cross-rhythmic conflict."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "SANDWELL DISTRICT",
-      "track": "Grey Cut Out (Extended Version)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "SANDWELL DISTRICT",
-        "track": "Grey Cut Out (Extended Version)",
-        "album": "Grey Cut Out (Extended Version)",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/grey-cut-out-extended-version",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat lists an exact newly circulated extended version of Grey Cut Out on Point Of Departure; the listing establishes identity/version but supplies no new individual structure description.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Treat the exact extended version as a resolver lead while keeping direction and endpoint unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked canonical-techno version lead whose exact extended identity warrants resolution; reputation and title do not establish sequence value.",
+        "fitHypothesis": "A current exact raw-house proposition with individual harmonic description; emotional effect and endpoint remain unknown.",
         "proposedPlacements": [
           {
             "position": "Between Truth in Noise and Style Teef",
@@ -231,37 +152,76 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the extended version changes consolidation into the fault line rather than adding another complete threshold."
+            "purpose": "Test whether the harmonic stage changes consolidation into the fault line rather than adding another complete scene."
           }
         ]
       }
     },
     {
-      "artist": "Sa Pa",
-      "track": "Bo Riddim",
+      "artist": "Soichi Terada, Manabu Nagayama",
+      "track": "Low Tension (Alternative Version)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Bo Riddim",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Soichi Terada, Manabu Nagayama",
+        "track": "Low Tension (Alternative Version)",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://soichiterada.bandcamp.com/album/sounds-from-the-far-east",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Bo Riddim as the release's move into dub abstraction after the more regular ballroom-dub piece.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Keep an abstract exact-track lead without treating abstraction as automatic value.",
+          "attributedDescription": "Boomkat distinguishes Low Tension (Alternative Version) through FM flute and bassline material; the official Bandcamp page verifies the exact 5:44 collaboration.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test a clearly described instrumental proposition after the positively retained Tender Is The Night without inferring listener safety from its title or prose.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track abstraction proposition relevant to structural freedom; emotional and spatial effects remain unknown.",
+        "fitHypothesis": "An exact early-house collaboration whose instrumental vocabulary could articulate suspension into fixed-kick re-entry.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tender Is The Night and Egue into hs",
+            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the instrumental stage changes suspension into re-entry while preserving Tender Is The Night."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Shin Watanabe",
+      "track": "Red Zone Trax II",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Shin Watanabe",
+        "track": "Red Zone Trax II",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://liesrecords.bandcamp.com/album/red-zone-ethos-mama-trax",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually compares Red Zone Trax II to the Burrell Brothers; the official L.I.E.S. page verifies the exact 6:51 title.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Keep the historical-house comparison as limited material context; direction, endpoint and handoffs remain unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current exact deep-house proposition that may offer a lawful production-world change without needing to prove novelty.",
         "proposedPlacements": [
           {
             "position": "Between Rabbit Hole and Can I live",
@@ -270,86 +230,170 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the abstract stage changes dead-space descent into restrained re-entry."
+            "purpose": "If selected, test whether the deep-house stage changes dead-space descent into restrained re-entry."
           }
         ]
       }
     },
     {
-      "artist": "Buttechno",
-      "track": "disko june",
-      "error": "no exact Spotify title/artist search match in market SE",
+      "artist": "Soichi Terada",
+      "track": "Voices From Beyond",
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7yR9bvcHc8KKUA5YVUyoEH, 3WpmZnl7WV0b0zFJhJUR2T)",
       "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "disko june",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
+        "artist": "Soichi Terada",
+        "track": "Voices From Beyond",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
+        "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes disko june by a darkroom canter within the release's four different house-gait variations.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Retain a described groove variant while leaving all felt intensity and handoffs unknown.",
+          "attributedDescription": "Boomkat individually calls Voices From Beyond a percolated track; the official Bandcamp page verifies the exact 4:45 identity.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Use the percolation description as rhythmic evidence without turning it into an energy, density or mixability claim.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked exact-track canter proposition with credible bodily-rhythm relevance.",
+        "fitHypothesis": "An exact catalogue house proposition with concise rhythmic description and plausible placement relevance.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the canter changes driving re-entry into the unpredictable-rhythm hinge."
+            "purpose": "If selected, test whether the percolated stage changes redirection into the live-band pulse illusion."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Shin Watanabe",
+      "track": "Ethos Mama Trax VII",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Shin Watanabe",
+        "track": "Ethos Mama Trax VII",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually describes Ethos Mama Trax VII through warehouse-house movement; the official L.I.E.S. page verifies the exact 4:33 title.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Retain the movement description as attributed prose only and test downstream consequence rather than club efficacy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current exact house-movement proposition whose scale may be proportionate but whose direction and endpoint remain unknown.",
+        "proposedPlacements": [
+          {
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the house stage changes sustained groove into intensification instead of duplicating it."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Soichi Terada",
+      "track": "Purple Haze (Edit)",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Soichi Terada",
+        "track": "Purple Haze (Edit)",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://soichiterada.bandcamp.com/album/sounds-from-the-far-east",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually characterizes Purple Haze (Edit) as smooth material; the official Bandcamp page verifies the exact 3:58 edit.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "A smooth-source descriptor cannot prove a smooth transition; test the concise edit only by its surrounding consequence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An exact short catalogue edit that could function as a proportionate intermediate scene, pending identity and fuller evidence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the edit changes foreground dissolution into hand-drum mutation."
           }
         ]
       }
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "artist": "COW",
+      "track": "Cobra",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-08\" but Spotify returned \"2026-09-01\""
+    }
+  ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Rhythm From Ambient",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Arovane",
+        "track": "Scapen Te",
+        "album": "Atol Scrap",
+        "releaseDate": "1999-01-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://www.juno.co.uk/experimental-electronic/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes a roughly ten-minute title track that unfolds murky offbeat grooves within elemental dub-techno material.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test a long, explicitly developing offbeat scene without assuming duration or dub context proves flow.",
+          "attributedDescription": "Juno distinguishes Scapen Te as an ambient-dub interval whose rhythms reward close attention within the newly circulated Atol Scrap remaster.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test an understated interval whose rhythmic action is present but not foregrounded, without treating ambience or dub language as proof of flow.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track offbeat-groove proposition with individual duration and development framing; murkiness is not treated as emotional effect.",
+        "fitHypothesis": "An overlooked exact-track interval where submerged rhythm could alter the move from temporal strain into driving re-entry.",
         "proposedPlacements": [
           {
-            "position": "Between Abundance and Foundry",
-            "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-            "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "position": "Between Mildew Swoosh and Fragments",
+            "precedingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+            "followingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the extended offbeat development deepens swung continuation into unstable direction or merely delays the hinge."
+            "purpose": "Test whether the interval changes opposed temporal strain into driving re-entry rather than merely delaying it."
           }
         ]
       },
@@ -358,180 +402,65 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Rhythm",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Soichi Terada",
+        "track": "Good Morning",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat says Rhythm brings the rhythm forward and relates it to a more forceful MDR-era techno line.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether a more explicit rhythmic foreground creates a useful intermediate state rather than another complete premise.",
+          "attributedDescription": "Boomkat distinguishes Good Morning by angular bleeps and a tricky 1990s computer-game comparison; the official Bandcamp page verifies the exact 4:42 track and 2015 compilation context.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test a conspicuous early-house material turn without assuming playfulness, nostalgia or emotional safety.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track proposition whose described forward rhythmic emphasis is directly relevant to the selection lens.",
+        "fitHypothesis": "An exact catalogue house proposition whose angular bleep construction could create a distinct passing foreground.",
         "proposedPlacements": [
           {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the forward rhythmic emphasis changes redirection into the live-band pulse illusion."
+            "purpose": "Test whether the angular stage changes pulse-illusion into passing foreground rather than becoming another complete diversion."
           }
         ]
       },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "green",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes green by a winking bleep melody and an electro-house gait within the release's 1990s house frame.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test a clearly described gait change at a non-protected late-middle boundary.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked exact-track electro-house-gait proposition; house vocabulary is lawful and not a genre veto.",
-        "proposedPlacements": [
-          {
-            "position": "Between Style Teef and Same Way",
-            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the electro-house gait redirects the fault line into body pressure or completes that redirection too early."
-          }
-        ]
-      },
-      "spotifyTrackId": "1RMghTiaPSRwXWWUZNrfus",
-      "selected": true
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3YEHBRaPG8hwZaYmXMgLkk, 6anaN39KiJtI8LUSXB60Gm)"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Last Dance (Ballroom Dub)",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Shin Watanabe",
+        "track": "Red Zone Trax III",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Last Dance (Ballroom Dub) as the release's most reserved and regular piece, joining classic Berlin dub-house language with gritty sound design.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a straight/regular candidate without assuming it belongs because it contrasts with prior listener-negative tracks.",
+          "attributedDescription": "Boomkat individually distinguishes Red Zone Trax III through a Lynchian-chord comparison; the official L.I.E.S. page verifies the exact 5:40 title on the May 1, 2026 album.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Treat the chord description as material evidence only and test whether it changes the consolidation-to-fault-line relation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track regularity proposition relevant to the constitution's permission for straight, dubby or restrained material.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tender Is The Night and Egue into hs",
-            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the reserved stage gives the existing fixed-kick re-entry different work without inferring safety from prose."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "new pink",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes new pink by a Chicago-style wiggle within the record's slick 1990s Japanese-house comparison.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Retain a distinct groove proposition without assuming style language establishes endpoint or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked exact-track wiggle proposition with credible rhythmic-form relevance.",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the wiggle alters deformation into cross-rhythmic conflict."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "SANDWELL DISTRICT",
-        "track": "Grey Cut Out (Extended Version)",
-        "album": "Grey Cut Out (Extended Version)",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/grey-cut-out-extended-version",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat lists an exact newly circulated extended version of Grey Cut Out on Point Of Departure; the listing establishes identity/version but supplies no new individual structure description.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Treat the exact extended version as a resolver lead while keeping direction and endpoint unknown.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked canonical-techno version lead whose exact extended identity warrants resolution; reputation and title do not establish sequence value.",
+        "fitHypothesis": "A current exact raw-house proposition with individual harmonic description; emotional effect and endpoint remain unknown.",
         "proposedPlacements": [
           {
             "position": "Between Truth in Noise and Style Teef",
@@ -540,7 +469,7 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the extended version changes consolidation into the fault line rather than adding another complete threshold."
+            "purpose": "Test whether the harmonic stage changes consolidation into the fault line rather than adding another complete scene."
           }
         ]
       },
@@ -549,27 +478,65 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sa Pa",
-        "track": "Bo Riddim",
-        "album": "Rhythm From Ambient",
-        "releaseDate": "2026-09-14",
+        "artist": "Soichi Terada, Manabu Nagayama",
+        "track": "Low Tension (Alternative Version)",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/rhythm-from-ambient",
+        "discoverySource": "https://soichiterada.bandcamp.com/album/sounds-from-the-far-east",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Bo Riddim as the release's move into dub abstraction after the more regular ballroom-dub piece.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Keep an abstract exact-track lead without treating abstraction as automatic value.",
+          "attributedDescription": "Boomkat distinguishes Low Tension (Alternative Version) through FM flute and bassline material; the official Bandcamp page verifies the exact 5:44 collaboration.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test a clearly described instrumental proposition after the positively retained Tender Is The Night without inferring listener safety from its title or prose.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current exact-track abstraction proposition relevant to structural freedom; emotional and spatial effects remain unknown.",
+        "fitHypothesis": "An exact early-house collaboration whose instrumental vocabulary could articulate suspension into fixed-kick re-entry.",
+        "proposedPlacements": [
+          {
+            "position": "Between Tender Is The Night and Egue into hs",
+            "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the instrumental stage changes suspension into re-entry while preserving Tender Is The Night."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Shin Watanabe",
+        "track": "Red Zone Trax II",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://liesrecords.bandcamp.com/album/red-zone-ethos-mama-trax",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually compares Red Zone Trax II to the Burrell Brothers; the official L.I.E.S. page verifies the exact 6:51 title.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Keep the historical-house comparison as limited material context; direction, endpoint and handoffs remain unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current exact deep-house proposition that may offer a lawful production-world change without needing to prove novelty.",
         "proposedPlacements": [
           {
             "position": "Between Rabbit Hole and Can I live",
@@ -578,7 +545,7 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the abstract stage changes dead-space descent into restrained re-entry."
+            "purpose": "If selected, test whether the deep-house stage changes dead-space descent into restrained re-entry."
           }
         ]
       },
@@ -587,36 +554,112 @@
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "disko june",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
+        "artist": "Soichi Terada",
+        "track": "Voices From Beyond",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
+        "discoverySource": "https://boomkat.com/products/sounds-from-the-far-east-2025-edition",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes disko june by a darkroom canter within the release's four different house-gait variations.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Retain a described groove variant while leaving all felt intensity and handoffs unknown.",
+          "attributedDescription": "Boomkat individually calls Voices From Beyond a percolated track; the official Bandcamp page verifies the exact 4:45 identity.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Use the percolation description as rhythmic evidence without turning it into an energy, density or mixability claim.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked exact-track canter proposition with credible bodily-rhythm relevance.",
+        "fitHypothesis": "An exact catalogue house proposition with concise rhythmic description and plausible placement relevance.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Drummz",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the canter changes driving re-entry into the unpredictable-rhythm hinge."
+            "purpose": "If selected, test whether the percolated stage changes redirection into the live-band pulse illusion."
+          }
+        ]
+      },
+      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (7yR9bvcHc8KKUA5YVUyoEH, 3WpmZnl7WV0b0zFJhJUR2T)"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Shin Watanabe",
+        "track": "Ethos Mama Trax VII",
+        "album": "RED ZONE-ETHOS MAMA TRAX",
+        "releaseDate": "2026-05-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://boomkat.com/products/red-zone-ethos-mama-trax",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually describes Ethos Mama Trax VII through warehouse-house movement; the official L.I.E.S. page verifies the exact 4:33 title.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Retain the movement description as attributed prose only and test downstream consequence rather than club efficacy.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current exact house-movement proposition whose scale may be proportionate but whose direction and endpoint remain unknown.",
+        "proposedPlacements": [
+          {
+            "position": "Between Freepass for Them and Moonwake",
+            "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
+            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the house stage changes sustained groove into intensification instead of duplicating it."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Soichi Terada",
+        "track": "Purple Haze (Edit)",
+        "album": "Sounds From The Far East",
+        "releaseDate": "2015-06-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://soichiterada.bandcamp.com/album/sounds-from-the-far-east",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Boomkat individually characterizes Purple Haze (Edit) as smooth material; the official Bandcamp page verifies the exact 3:58 edit.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "A smooth-source descriptor cannot prove a smooth transition; test the concise edit only by its surrounding consequence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "An exact short catalogue edit that could function as a proportionate intermediate scene, pending identity and fuller evidence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Ikoyi and Amor",
+            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the edit changes foreground dissolution into hand-drum mutation."
           }
         ]
       },
@@ -625,186 +668,113 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "funk 33",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
+        "artist": "COW",
+        "track": "Cobra",
+        "album": "Open The Closed",
+        "releaseDate": "2026-09-08",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes funk 33 through an amino-acid tweak and a heavier house comparison.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a concise exact-track lead without inferring density, energy or endpoint from colourful prose.",
+          "attributedDescription": "Juno lists the exact 5:52 Cobra on Open The Closed and describes the EP as movement-led techno that permits changing textures, but does not distinguish Cobra's individual form.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Keep a lower-ranked exact resolver lead while explicitly preserving the absence of individual direction and endpoint evidence.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked exact-track acid/funk proposition with plausible selection-lens relevance.",
+        "fitHypothesis": "A current exact title within a movement-led emerging release; individual canonical value remains unknown.",
         "proposedPlacements": [
           {
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the acid/funk stage changes body pressure into the threshold."
+            "purpose": "If selected, test whether Cobra changes cross-rhythmic conflict into funk re-grounding."
           }
         ]
       },
-      "spotifyTrackId": "4U5mfFSmc6GNqpf5Nu6SDM",
+      "spotifyTrackId": "76Rhr61g9O7s2DMqoIqGhn",
       "selected": true
     }
   ],
   "candidates": [
     {
-      "id": "1RMghTiaPSRwXWWUZNrfus",
-      "uri": "spotify:track:1RMghTiaPSRwXWWUZNrfus",
-      "name": "Green",
+      "id": "76Rhr61g9O7s2DMqoIqGhn",
+      "uri": "spotify:track:76Rhr61g9O7s2DMqoIqGhn",
+      "name": "Cobra",
       "artists": [
-        "Buttechno"
+        "COW"
       ],
-      "album": "Minimal Cuts II",
-      "releaseDate": "2023-03-10",
-      "durationMs": 410626,
-      "spotifyUrl": "https://open.spotify.com/track/1RMghTiaPSRwXWWUZNrfus",
+      "album": "Open The Closed",
+      "releaseDate": "2026-09-01",
+      "durationMs": 353867,
+      "spotifyUrl": "https://open.spotify.com/track/76Rhr61g9O7s2DMqoIqGhn",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Style Teef and Same Way",
-          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the electro-house gait redirects the fault line into body pressure or completes that redirection too early."
+          "purpose": "If selected, test whether Cobra changes cross-rhythmic conflict into funk re-grounding."
         }
       ],
-      "fitHypothesis": "An overlooked exact-track electro-house-gait proposition; house vocabulary is lawful and not a genre veto.",
+      "fitHypothesis": "A current exact title within a movement-led emerging release; individual canonical value remains unknown.",
       "evidence": {
-        "attributedDescription": "Boomkat distinguishes green by a winking bleep melody and an electro-house gait within the release's 1990s house frame.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test a clearly described gait change at a non-protected late-middle boundary.",
+        "attributedDescription": "Juno lists the exact 5:52 Cobra on Open The Closed and describes the EP as movement-led techno that permits changing textures, but does not distinguish Cobra's individual form.",
+        "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Keep a lower-ranked exact resolver lead while explicitly preserving the absence of individual direction and endpoint evidence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+          "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
           "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
       "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "green",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
+        "artist": "COW",
+        "track": "Cobra",
+        "album": "Open The Closed",
+        "releaseDate": "2026-09-08",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes green by a winking bleep melody and an electro-house gait within the release's 1990s house frame.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test a clearly described gait change at a non-protected late-middle boundary.",
+          "attributedDescription": "Juno lists the exact 5:52 Cobra on Open The Closed and describes the EP as movement-led techno that permits changing textures, but does not distinguish Cobra's individual form.",
+          "craftConvention": "Attributed exact-track or clearly bounded release evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Keep a lower-ranked exact resolver lead while explicitly preserving the absence of individual direction and endpoint evidence.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "The cited sources list the exact artist/title and release context; indexes were checked 2026-09-14.",
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An overlooked exact-track electro-house-gait proposition; house vocabulary is lawful and not a genre veto.",
+        "fitHypothesis": "A current exact title within a movement-led emerging release; individual canonical value remains unknown.",
         "proposedPlacements": [
           {
-            "position": "Between Style Teef and Same Way",
-            "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the electro-house gait redirects the fault line into body pressure or completes that redirection too early."
-          }
-        ]
-      }
-    },
-    {
-      "id": "4U5mfFSmc6GNqpf5Nu6SDM",
-      "uri": "spotify:track:4U5mfFSmc6GNqpf5Nu6SDM",
-      "name": "Funk 33",
-      "artists": [
-        "Buttechno"
-      ],
-      "album": "Minimal Cuts II",
-      "releaseDate": "2023-03-10",
-      "durationMs": 290081,
-      "spotifyUrl": "https://open.spotify.com/track/4U5mfFSmc6GNqpf5Nu6SDM",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether the acid/funk stage changes body pressure into the threshold."
-        }
-      ],
-      "fitHypothesis": "An overlooked exact-track acid/funk proposition with plausible selection-lens relevance.",
-      "evidence": {
-        "attributedDescription": "Boomkat distinguishes funk 33 through an amino-acid tweak and a heavier house comparison.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve a concise exact-track lead without inferring density, energy or endpoint from colourful prose.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Buttechno",
-        "track": "funk 33",
-        "album": "Minimal Cuts II",
-        "releaseDate": null,
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/minimal-cuts-ii",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes funk 33 through an amino-acid tweak and a heavier house comparison.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a concise exact-track lead without inferring density, energy or endpoint from colourful prose.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An overlooked exact-track acid/funk proposition with plausible selection-lens relevance.",
-        "proposedPlacements": [
-          {
-            "position": "Between Same Way and U Belong 2 Me",
-            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the acid/funk stage changes body pressure into the threshold."
+            "purpose": "If selected, test whether Cobra changes cross-rhythmic conflict into funk re-grounding."
           }
         ]
       }
