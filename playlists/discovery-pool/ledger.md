@@ -481,6 +481,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 475 | Oscar Later | It Never Made Sense | spotify:track:0ZB4fbiKEhhUxHMXklcCPD | STRANGE GAIT Run 240 | Canonical ADD / retained | 2026-09-14 |
 | 476 | Oscar Later | Yaya | spotify:track:4QTZixR1zHdvPyt12x7MEo | STRANGE GAIT Run 240 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 477 | Jay Strata | Something 4 U | spotify:track:395HWxAaptEp7pn9THgfH1 | STRANGE GAIT Run 240 | PARKED / interesting | 2026-09-14 |
+| 478 | Coki | Humanoidz | spotify:track:1lha9e4J2T1mHL9ChS6uB7 | STRANGE GAIT Run 241 | Canonical ADD / retained | 2026-09-14 |
+| 479 | Active Systems | Maus | spotify:track:6snthPSJb2QFwg10yHqHky | STRANGE GAIT Run 241 | PARKED / interesting | 2026-09-14 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

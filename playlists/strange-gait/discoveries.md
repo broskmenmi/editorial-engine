@@ -1,5 +1,64 @@
 # STRANGE GAIT — Discoveries
 
+## Run 241 — 2026-09-14T08:53:39Z-explore-241
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `7e2f276190852747bf5befc71f3003facce33527`, PARTIAL. Requested 9; resolved 2; selected 2; no exact unselected alternates and seven unresolved identities. No duplicates, substitutions, relinkings or technical failures.
+
+### Evaluated exact candidates
+
+#### Coki — Humanoidz — `spotify:track:1lha9e4J2T1mHL9ChS6uB7` — ADD
+
+Source: https://boomkat.com/products/red-rocks  
+Spotify: https://open.spotify.com/track/1lha9e4J2T1mHL9ChS6uB7  
+Exact resolver duration: 279,138 ms (4:39.138). BPM unavailable.
+
+Boomkat distinguishes the individual track through a “drunken-lurch” construction. The phrase is source evidence about the track's construction, not an inference about energy, density, space, hypnosis, emotional effect, perceived pulse, phrase fit or mixability.
+
+- Volume fit: PASS. The individually documented off-axis construction fits the volume's selection lens without needing to prove weirdness, novelty or a new chapter.
+- Immediate transition: provisional PASS at `Freepass for Them → Humanoidz → Moonwake`. An unrelenting-groove pivot into a compact lurch and then renewed intensification is a deliberate turn rather than an accidental detour; smoothness is not claimed.
+- Surrounding run: provisional PASS through the exact five-track window `Too Much Time → Freepass for Them → Humanoidz → Moonwake → Raataja`. The lurch becomes a bounded consequence of the groove pivot before intensification and burst-and-disappearance.
+- Long-form journey: provisional PASS. The 4:39.138 insertion sharpens one local gait rupture without imposing a summit, fixed wave or sonic-room requirement.
+- Strongest counterargument: it could merely add another bass-world scene. It passes because the individual exact-track evidence gives the compact left turn a specific relation to two different existing tasks, while no known evidence contradicts the placement.
+- Unknown: exact entry, exit and endpoint; BPM; perceived pulse; energy; density; space; hypnosis; emotional effect; phrase structure; mixability; audio transition feel.
+- Auditor verdict: APPROVED ADD between *Freepass for Them* and *Moonwake*.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: album requested "Red Rocks" but Spotify returned "Red Rocks - EP"; release date requested "2026-09-04" but Spotify returned "2026-08-28"`
+
+#### Active Systems — Maus — `spotify:track:6snthPSJb2QFwg10yHqHky` — PARKED
+
+Source: https://www.juno.co.uk/techno/this-week/  
+Spotify: https://open.spotify.com/track/6snthPSJb2QFwg10yHqHky  
+Exact resolver duration: 311,358 ms (5:11.358). BPM unavailable.
+
+The current listing verifies the exact track and provides shared *The Red EP* framing around IDM, electro and dancefloor nostalgia. It does not establish *Maus*'s individual materials, movement, development, endpoint or exit.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Moonwake → Maus → Raataja`; UNKNOWN at the alternate `Sarniezz → Maus → Never Met`.
+- Surrounding run: UNKNOWN through `Freepass for Them → Moonwake → Maus → Raataja → Crawl`; UNKNOWN through `Capa → Sarniezz → Maus → Never Met → Trompe L'oeil`.
+- Long-form journey: UNKNOWN. Shared release framing cannot establish whether *Maus* creates a useful false floor or merely delays the existing collapse/passing-foreground work.
+- Decision-critical unknown: individual direction, endpoint and what either successor receives.
+- Auditor verdict: PARKED pending materially new individual-track evidence, changed structural need or explicit listener instruction.
+
+This is not a stricter bar than the Humanoidz ADD: *Humanoidz* has individual exact-track construction evidence; *Maus* has only shared release-level framing.
+
+### Unresolved without musical verdict
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Elori Saxl & Henry Solomon — *Symmetries*
+- Yabby You & Mad Professor — *Fake News Dub*
+- Section 6 — *Infinitas*
+- Elori Saxl & Henry Solomon — *A Thousand Steps*
+- Yabby You & Mad Professor — *Jahovia*
+- Selassie I Rockers — *Night Ravers Dub*
+- Section 6 — *Wings Of The Sky Crows*
+
+No unresolved identity entered either ledger. The resolver snapshot is internally valid and PARTIAL; the unresolved outcomes are not musical zeroes. No actionable REPAIR emerges. The PARK recurrence guard does not activate because this run contains one PARK outcome, not two or more from the same shared release-level evidence gap.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 240 — 2026-09-14T07:51:23Z-explore-240
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `4bef0fb01e001e72c8a30567693a53fd9f2b08f9`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate and five unresolved identities. No duplicates, substitutions, relinkings or technical failures. All four resolver warnings are preserved below.

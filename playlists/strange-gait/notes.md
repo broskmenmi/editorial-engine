@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 241 — EXPLORE — compact lurch before renewed intensification
+
+Pre-audit reconciled 55 canonical identities, 55 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 45–47. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 91 current-release, adjacent/emerging and overlooked-catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot resolved two selected exact identities and left seven distinct Spotify-SE misses. Coki — *Humanoidz* is added between *Freepass for Them* and *Moonwake* after separate volume, immediate-transition, exact five-track and long-form tests. Active Systems — *Maus* is parked after two placement tests because its individual direction and endpoint remain unknown. Both evaluated exact identities enter the doctrine-free global utility ledger; unresolved leads do not.
+
+The protected sequence remains internally exact after the insertion, now at positions 46–48: `Transparency → When We Froze → Stardancer`. No actionable REPAIR emerges.
+
 ## Run 240 — EXPLORE — compact form can change the residue
 
 Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 241 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Coki | Humanoidz | `spotify:track:1lha9e4J2T1mHL9ChS6uB7` · https://open.spotify.com/track/1lha9e4J2T1mHL9ChS6uB7 · https://boomkat.com/products/red-rocks | Exact 4:39.138 identity; added between *Freepass for Them* and *Moonwake*. Individually documented drunken-lurch construction makes a compact off-axis turn legible. Added to the global utility ledger. |
+| EXACT TRACK / PARKED | Active Systems | Maus | `spotify:track:6snthPSJb2QFwg10yHqHky` · https://open.spotify.com/track/6snthPSJb2QFwg10yHqHky · https://www.juno.co.uk/techno/this-week/ | Exact 5:11.358 identity; interesting shared electro/IDM release context, but individual direction and endpoint are unknown after two placement tests. Added to the global utility ledger. |
+| UNRESOLVED RESEARCH | Elori Saxl & Henry Solomon; Yabby You & Mad Professor; Section 6; Selassie I Rockers | *Symmetries*; *Fake News Dub*; *Infinitas*; *A Thousand Steps*; *Jahovia*; *Night Ravers Dub*; *Wings Of The Sky Crows* | https://pitchfork.com/reviews/albums/elori-saxl-henry-solomon-seeing-is-forgetting/ · https://boomkat.com/products/jahovia-fake-news-dub · https://repetitiverhythmresearch.bandcamp.com/album/section-6-part-2 | Seven distinct Spotify-SE misses. No musical verdict and no utility-ledger addition. |
+| RELEASE / LABEL WATCH | Various | True Panther / Elori Saxl & Henry Solomon; Ariwa / Yabby You & Mad Professor; Repetitive Rhythm Research / Section 6; Split Lip / Active Systems; Tempa / Coki | Source pages above plus https://boomkat.com/new-releases | Current, adjacent/emerging and catalogue windows worth retaining without inventing identities or track-level sonic facts. |
+
+### Run 241 boundaries
+
+- Canonical: *Humanoidz* passes only at `Freepass for Them → candidate → Moonwake`; this is not a global placement claim.
+- Parked: *Maus* remains unresolved at both `Moonwake → candidate → Raataja` and `Sarniezz → candidate → Never Met`.
+- Global utility: both evaluated exact identities are genuinely interesting and retained doctrine-free.
+- Seven unresolved identities remain research leads only.
+
 ## Run 240 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 241
+
+### A compact lurch can sharpen renewed intensification
+
+**Direction:** Let a short, individually evidenced off-axis construction turn an established groove pivot into a new condition before renewed intensification. Judge the move by its immediate relation, exact local run and later consequence—not by whether it shares a room or mixes invisibly.
+
+**Ingredients:**
+
+- Sciahri — *Too Much Time* → 96 Back — *Freepass for Them* → Coki — *Humanoidz* → Sciahri — *Moonwake* → Vladislav Delay — *Raataja*
+- Active Systems — *Maus* remains a separate parked proposition at two boundaries; shared release framing cannot establish its individual exit.
+- Elori Saxl & Henry Solomon, Yabby You & Mad Professor, Section 6 and Selassie I Rockers remain unresolved research directions.
+
+**Why it is interesting:** *Humanoidz* supplies an individually documented compact lurch between a groove pivot and intensification. The idea is useful because the left turn changes the local relation without requiring a fixed chapter, a new summit or a single production world.
+
+**Boundary:** This records an editorial set direction, not a proven live sequence, phrase fit, technical mixing edge, energy curve or emotional-safety claim. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 240
 
 ### A compact form can change the residue
