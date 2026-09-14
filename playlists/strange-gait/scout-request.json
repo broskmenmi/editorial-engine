@@ -6,7 +6,8 @@
       "Completed Runs 235, 236, 239, 240 and 241 were compared before ranking. None of the top three proposed boundaries repeats an evaluated boundary from those runs.",
       "Every ranked artist/title pair was checked against canonical state, target-local discovery/rejection/PARKED history and the global utility ledger. Recent unresolved and evaluated identities were excluded, including Section 6 — Infinitas, Active Systems — Maus, COW — Cobra, Oscar Later selections and the Run 241 Coki selections.",
       "The nine ranked identities are exact-title leads with individual descriptions or explicitly bounded evidence limits. Same-release leads are differentiated by track-specific prose; no artist, texture, novelty, genre or boundary-diversity quota is applied.",
-      "No proposed placement splits Transparency → When We Froze → Stardancer. The Miniteca Selvatica placement tests only the unprotected entry into the trio."
+      "No proposed placement splits Transparency → When We Froze → Stardancer. The Miniteca Selvatica placement tests only the unprotected entry into the trio.",
+      "Run 242 was REQUEST_NOT_COMPLETED before identity resolution. Exact resolver error: \"Lead 9 placement 1 must reference current canonical ledger URIs\". This recovery uses a new runId, cites failed request commit ba7b9705f40016f87f97e92a13ff755c268081a2, preserves the scan, and derives the corrected Lead 9 pair from the current ledger."
     ],
     "rankedLeadSummary": [
       "1. Darren Nye — Lunar Refraction",
@@ -24,7 +25,7 @@
       "ADJACENT / EMERGING WINDOW: System One/Darren Nye, SUDD WAX/Unique Reason, TraTraTrax/Wost & Entranas and Repetitive Rhythm Research/Section 6.",
       "OVERLOOKED CATALOGUE WINDOW: Reggie Dokes and Gene Hunt on SUDD WAX, Jim Thompson on System One, and Arovane's remastered 1999 debut."
     ],
-    "timestampUtc": "2026-09-14T09:53:36Z"
+    "timestampUtc": "2026-09-14T10:15:00Z"
   },
   "leads": [
     {
@@ -324,8 +325,8 @@
       "proposedPlacements": [
         {
           "position": "Between Tender Is The Night and Egue into hs",
-          "precedingUri": "spotify:track:0es4AEWQB7L6mSLHMcYZ7F",
-          "followingUri": "spotify:track:6jgLeUmgpCtdnCE8vOggny",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
@@ -335,8 +336,8 @@
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-14T09:53:36Z-explore-242",
+  "runId": "2026-09-14T10:15:00Z-explore-243",
   "schemaVersion": 2,
-  "sourceCommit": "a1b7285e45b9d1b5294eeb2c14b8557b5d42c6fb",
+  "sourceCommit": "ba7b9705f40016f87f97e92a13ff755c268081a2",
   "target": "playlists/strange-gait"
 }
