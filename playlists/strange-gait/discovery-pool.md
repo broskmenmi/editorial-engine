@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 250 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Telefon Tel Aviv | Fahrenheit Fair Enough | `spotify:track:43eLl2gwEr0fgbFgS11uOh` · https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh · https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough | Exact 6:40.293 cross-form material matrix remains interesting; rejected only between *Elemental Dream* and *Truth in Noise*. Added globally. |
+| EXACT TRACK / PARKED | Philippe Petit | Pbp2 | `spotify:track:2DzdG7aehc5LyHLoAgdZys` · https://open.spotify.com/track/2DzdG7aehc5LyHLoAgdZys · https://www.juno.co.uk/techno/this-week/ | Exact 6:37.852 current techno identity remains interesting; two placements lack individual direction and endpoint evidence. Added globally. |
+| UNRESOLVED RESEARCH | dj hanakitopo x JTRIPP; Habgud; Remco Beekwilder; oscar4eva; opo; names9s; 5indaSauce | *piano miow*; *Deviation*; *Looping Motif*; *Still Kukin Master Revision*; *Shepard*; *Its Free*; *5222s5 Master* | Sources preserved in scout-request.json | Five Spotify-SE misses and two exact-title ambiguities. No verdict or utility addition. |
+| RELEASE / LABEL WATCH | Ghostly; Knotweed / Phase One; Transition / Delirium; Meakusma / 666ridims | Current, adjacent and catalogue windows | https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough · https://www.juno.co.uk/techno/this-week/ · https://meakusma.bandcamp.com/album/666ridims-2020-2026 | Continue as distinct source windows without promoting collection or label language into individual track behavior. |
+
+### Run 250 boundaries
+
+- Placement-specific reject: *Fahrenheit Fair Enough* remains interesting outside `Elemental Dream → candidate → Truth in Noise`.
+- PARKED: *Pbp2* remains unresolved at both `Goink → candidate → Thick to Handle` and `Cave → candidate → Abundance` pending materially richer individual evidence.
+- Both evaluated exact identities enter the doctrine-free global utility ledger.
+- Seven unresolved identities remain research leads only.
+- Set direction: separate a complete material matrix from a knowable directional consequence.
+
 ## Run 249 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

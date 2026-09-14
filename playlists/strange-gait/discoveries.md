@@ -1,5 +1,56 @@
 # STRANGE GAIT — Discoveries
 
+## Run 250 — 2026-09-14T17:50:41Z-explore-250
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `63ec42fc45db4ac40c5a2b08ffb4f310aca0aaab`, requestFingerprint `93893fa2f82f055bfc5150b88f46ba656919e71ceab85981791ef6884ea98fcf`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.
+
+### Evaluated exact candidates
+
+#### Telefon Tel Aviv — Fahrenheit Fair Enough — `spotify:track:43eLl2gwEr0fgbFgS11uOh` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough
+Spotify: https://open.spotify.com/track/43eLl2gwEr0fgbFgS11uOh
+Exact resolver duration: 400,293 ms (6:40.293). BPM unavailable.
+
+Ghostly's exact-track reissue note describes soft-flashing arpeggios and electronic slide bass. This establishes a complete cross-form material matrix, not exact entry, exit, endpoint, perceived pulse, energy, density, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The combination of rhythmic and structural vocabularies is lawful under the selection lens without needing prestige, weirdness or a fixed chapter role.
+- Immediate transition: UNKNOWN at `Elemental Dream → Fahrenheit Fair Enough → Truth in Noise`. Exact handoffs and endpoint were not tested.
+- Surrounding run: FAIL proportionally through `Amor → Elemental Dream → Fahrenheit Fair Enough → Truth in Noise → Style Teef`. The 6:40.293 candidate inserts another complete reassembly between self-stripping and consolidation; available evidence does not show that *Truth in Noise* receives different work.
+- Long-form effect: FAIL at this placement. The late journey gains a substantial new premise without an evidenced downstream condition that changes the existing consolidation and fault-line sequence.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2001-09-18" but Spotify returned "2001"`
+
+#### Philippe Petit — Pbp2 — `spotify:track:2DzdG7aehc5LyHLoAgdZys` — PARKED
+
+Sources: https://www.juno.co.uk/techno/this-week/ · https://www.discogs.com/release/36349643-Philippe-Petit-Phase-One
+Spotify: https://open.spotify.com/track/2DzdG7aehc5LyHLoAgdZys
+Exact resolver duration: 397,852 ms (6:37.852). BPM unavailable.
+
+The current listings establish an exact techno identity and duration, but provide no differentiated individual-track description. They do not establish direction, development, endpoint, either handoff, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: provisional PASS. Exact identity, current Knotweed context and duration support a concrete volume test without proving admission.
+- Immediate transition: UNKNOWN at both `Goink → Pbp2 → Thick to Handle` and the distinct alternative `Cave → Pbp2 → Abundance`.
+- Surrounding runs: UNKNOWN through both `FELT → Goink → Pbp2 → Thick to Handle → LOVE YOUR ENEMIES` and `Same Way → Cave → Pbp2 → Abundance → Foundry`. Individual direction and endpoint are decision-critical at the 6:37.852 proportional cost.
+- Long-form effect: UNKNOWN. Available evidence cannot distinguish a formed redirection from sustained pressure or determine what work either successor would receive.
+- Evidence bar: unchanged. Recent provisional ADDs had individually attributed construction or direction; exact identity, duration and label context alone do not supply that evidence here.
+- Verdict: PARKED. Reopen only for materially richer individual-track direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener instruction.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-06-05"`
+
+### Preserved resolver outcomes without musical verdict
+
+- dj hanakitopo x JTRIPP — *piano miow*: `no exact Spotify title/artist search match in market SE`
+- Habgud — *Deviation*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3V9Ka63dxPpkht02kKFNav, 3FTdOdO10nvnjt63uwwsq8)`
+- Remco Beekwilder — *Looping Motif*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (33FgUoQvnKQwlRoeG3qQXt, 47yJiV378CT3WoORNKRd7L)`
+- oscar4eva — *Still Kukin Master Revision*: `no exact Spotify title/artist search match in market SE`
+- opo — *Shepard*: `no exact Spotify title/artist search match in market SE`
+- names9s — *Its Free*: `no exact Spotify title/artist search match in market SE`
+- 5indaSauce — *5222s5 Master*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
+
 ## Run 249 — 2026-09-14T16:53:44Z-explore-249
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `df99232660adebc7100b8b6f14e4ac8ff6ef178c`, requestFingerprint `3a5491a69eb85ad468abaecdbadfeb3d9991f840a14bddf900960268ffb5ed16`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.

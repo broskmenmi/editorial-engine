@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 250
+
+### Material identity is not directional consequence
+
+**Direction:** Test whether a complete cross-form matrix changes the work of the next track, while keeping exact identity and duration separate from unknown individual direction. A richly specified material world can fail one passage; an exact techno identity can remain parked when its movement is unspecified.
+
+**Ingredients:**
+
+- Telefon Tel Aviv — *Fahrenheit Fair Enough* — exact placement-specific counterexample between *Elemental Dream* and *Truth in Noise*
+- Philippe Petit — *Pbp2* — exact PARKED test at `Goink → candidate → Thick to Handle` and `Cave → candidate → Abundance`
+- dj hanakitopo x JTRIPP, Habgud, Remco Beekwilder, oscar4eva, opo, names9s and 5indaSauce — unresolved current and adjacent research directions
+
+**Why interesting:** *Fahrenheit Fair Enough* has a differentiated exact-track material description but creates another substantial reassembly before an existing consolidation passage. *Pbp2* has exact identity and proportional cost but no individual evidence that distinguishes redirection from continuation.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-effect claim or live-mixing edge. Exact handoffs, endpoints and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 249
 
 ### Internal disturbance can give broader strain an object
