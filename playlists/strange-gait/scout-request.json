@@ -1,372 +1,372 @@
 {
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 76 named tracks across current September 2026 Clone charts, Bandcamp releases and Boomkat pre-orders, Resident Advisor's current field, adjacent June–August releases and overlooked catalogue windows. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 89 named tracks across Juno's current September 2026 techno releases, adjacent house/electro listings, Hard Wax current arrivals, Boomkat new releases and overlooked catalogue windows. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "The repaired opening remained outside placement testing: Jay Mitta — Sawa and Lotic — Carried stay removed after severe listener feedback, while Luigi Tozzi — Tender Is The Night remains positively retained.",
-      "Completed Runs 222, 223, 225, 227 and 228 selected identities and tested boundaries were excluded; unresolved, duplicate, rejected and untriggered PARKED identities were not reused.",
-      "Every ranked artist/title pair was checked against canonical state, discoveries, target-local discovery pool, active rejection/PARKED state and the global utility ledger. Drift was not a prior lead even though other Exhale titles were inspected in Run 100.",
-      "No proposed placement splits Transparency → When We Froze → Stardancer or repeats a selected-candidate boundary from the previous five completed discovery runs.",
-      "The three strongest leads come from three different releases and carry candidate-specific rhythmic or developmental evidence. Lower-ranked same-release and pre-release leads preserve their information limits instead of borrowing shared descriptions.",
-      "Explicit panic-, threat- and punishment-coded propositions were deprioritized after direct listener evidence from Sawa and Carried. This is a run-level selection decision, not a blanket genre or intensity ban."
+      "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. The repaired opening was excluded from placement testing.",
+      "Completed Runs 222, 223, 225, 227, 228 and 231 selected identities were excluded; the last five completed discovery-run boundary sets were not repeated.",
+      "Every ranked artist/title pair was checked against canonical state, target-local discovery history, rejection/PARKED state and the global utility ledger.",
+      "No proposed placement splits Transparency → When We Froze → Stardancer.",
+      "The top three leads come from three different releases and carry candidate-specific evidence. Lower-ranked same-release leads preserve their individual evidence rather than borrowing a generic release description.",
+      "Explicit panic-, threat-, suspense- and punishment-coded propositions were deprioritized after direct listener evidence from Sawa and Carried. This remains a run-level selection decision, not a blanket intensity or genre ban."
     ],
     "rankedLeadSummary": [
-      "1. DEAS — I Won't Cry",
-      "2. gyrofield — Great Jobs (Don't Wanna)",
-      "3. Batu, Donato Dozzy — Drift",
-      "4. DEAS — Waterfall",
-      "5. DEAS — Silent Tension",
-      "6. DEAS — Where Do They Go",
-      "7. DEAS — Here Again",
-      "8. YL Hooi — Running Around (83)",
-      "9. UFO95 — Feed manipulation"
+      "1. Unique Reason — B-Groove",
+      "2. Alex Wilcox — Summer Sunday",
+      "3. Extrawelt — How Much Is The Quiche?",
+      "4. Inter Gritty — Ycean Habitat",
+      "5. DJ Sinjin — Things On My Mind",
+      "6. Drivetrain — Feel Me",
+      "7. Lenson — Plexus",
+      "8. Alex Wilcox — Berlin Bells",
+      "9. Unique Reason — Get Down"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: DEAS — CROWD012: Silent Tension, released 2026-09-10, with candidate-specific notes for all five tracks. https://deas.bandcamp.com/album/crowd012-silent-tension",
-      "CURRENT / EMERGING WINDOW: gyrofield — Great Jobs (Don't Wanna), released as a pre-album single in September 2026; exact-track construction from Boomkat and official album listing. https://boomkat.com/products/great-jobs ; https://gyrofield.bandcamp.com/album/great-jobs",
-      "ADJACENT CURRENT WINDOW: Batu & Donato Dozzy — Drift, released 2026-06-30; exact developmental evidence from Crack Magazine and the artists' Bandcamp. https://crackmagazine.net/article/profiles/batu-donato-dozzy-cover-story-interview/ ; https://batutimedance.bandcamp.com/album/exhale-2",
-      "PRE-RELEASE / SAME-DAY WATCHES: YL Hooi — Running Around (83) and UFO95 — Feed manipulation supplied exact identities/listings with deliberately limited individual evidence. https://ylhooi.bandcamp.com/track/running-around-83 ; https://ufo95.bandcamp.com/",
-      "BROADER SURVEY: Clone's September 2026 DEAS chart, Boomkat current/pre-order electronic listings, Bandcamp Daily's August 2026 electronic survey and Resident Advisor current reviews/news were inspected outward before ranking."
+      "CURRENT RELEASE WINDOW: Unique Reason — Buried, released 2026-09-08, with exact-track descriptions for B-Groove, Get Down and The Basic. https://www.juno.co.uk/techno/this-week/",
+      "CURRENT / ADJACENT WINDOW: Alex Wilcox — Rumpelstiltskin, released 2026-09-10, with individual notes for Summer Sunday, Berlin Bells, Recess, Drowsy Outside and I Never Know. https://www.juno.co.uk/techno/this-week/",
+      "CURRENT RELEASE WINDOW: Extrawelt — Jamborghini EP, released 2026-09-11, with How Much Is The Quiche? singled out for electro-percussive construction. https://www.juno.co.uk/techno/this-week/",
+      "EMERGING / VARIOUS-ARTIST WINDOWS: Inter Gritty on End Of Perception and DJ Sinjin / Drivetrain on Soiree, all released 2026-09-10 with exact-track descriptions. https://www.juno.co.uk/techno/this-week/",
+      "OVERLOOKED / LABEL WINDOW: Lenson — TAR 47 on Tar Hallow, released 2026-09-10, plus broader current Hard Wax and Boomkat survey."
     ],
-    "timestampUtc": "2026-09-14T01:51:57Z"
+    "timestampUtc": "2026-09-14T02:50:16Z"
   },
   "leads": [
     {
-      "artist": "DEAS",
-      "track": "I Won't Cry",
-      "album": "CROWD012: Silent Tension",
-      "releaseDate": "2026-09-10",
+      "artist": "Unique Reason",
+      "track": "B-Groove",
+      "album": "Buried",
+      "releaseDate": "2026-09-08",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://deas.bandcamp.com/album/crowd012-silent-tension",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "DEAS's official Bandcamp notes distinguish I Won't Cry through Loleatta Holloway vocal sampling, warm chord progressions and rolling swung percussion anchored by bass.",
+        "attributedDescription": "Juno distinguishes B-Groove as loose and funky, deliberately retaining an unpolished character; the exact listing gives a 5:27 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether its documented swing and vocal/chord construction creates a consequential turn between Hypnic Jerks and Tides Alternate, or supplies another complete premise before the opposed-speed balance.",
+        "editorialInterpretation": "Test whether the attributed loose, rough-edged groove changes Cave's widening into Abundance's swung-funk continuation, or simply duplicates the successor's task.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A newly released groove proposition with candidate-specific rhythmic and material evidence; warmth is not converted into listener emotion.",
+      "fitHypothesis": "A current raw house/techno proposition whose individual groove character is described; funk or roughness alone does not grant admission.",
       "proposedPlacements": [
         {
-          "position": "Between Hypnic Jerks and Tides Alternate",
-          "precedingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "followingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "position": "Between Cave and Abundance",
+          "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the documented swing changes the handoff from pulse reinterpretation into opposed-speed balance without resolving that balance in advance."
+          "purpose": "Test whether the candidate creates a distinct intermediate condition rather than restating Abundance's continuation."
         },
         {
-          "position": "Between Moonwake and Raataja",
-          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "position": "Between Worn Down and Atlantis",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its rolling construction gives Raataja a different object to destabilize, or delays an already direct intensification-to-rupture move."
+          "purpose": "Test whether its looseness alters the threshold into micro-repetition rather than merely delaying it."
         }
       ]
     },
     {
-      "artist": "gyrofield",
-      "track": "Great Jobs (Don't Wanna)",
-      "album": "Great Jobs",
-      "releaseDate": "2026-09-07",
+      "artist": "Alex Wilcox",
+      "track": "Summer Sunday",
+      "album": "Rumpelstiltskin",
+      "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/great-jobs",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Boomkat distinguishes Great Jobs (Don't Wanna) as a spongiform digi-dub/cyber-pop mutation within an album using tricksy time signatures; the exact single is listed at 4:27.",
+        "attributedDescription": "Juno distinguishes Summer Sunday as the EP's lighter, more playful 4:24 movement.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether its documented mutation changes the camouflage-to-formation passage between Trompe L'oeil and FELT, or introduces a self-contained side-world without downstream consequence.",
+        "editorialInterpretation": "Test whether a concise attributed tonal turn makes the physical-widening-to-groove-pivot passage more deliberate, or inserts a self-contained release before Freepass for Them.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current pre-release single whose cross-form construction and exact duration are individually described; unfamiliarity or technical novelty do not grant admission.",
+      "fitHypothesis": "A current cross-form techno proposition with individual contrast evidence; the cited mood is not converted into a listener-emotion prediction.",
       "proposedPlacements": [
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "position": "Between Too Much Time and Freepass for Them",
+          "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the documented digi-dub/cyber-pop mutation changes FELT's formation task rather than merely widening the passage."
+          "purpose": "Test whether the concise contrast changes Freepass for Them's pivot task."
         },
         {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "position": "Between Can I live and Invisible Warriors Of Light",
+          "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the cross-form mutation makes the threshold-to-lock turn deliberate without splitting either protected internal handoff."
+          "purpose": "Test whether a playful side-turn strengthens the afterword or competes with its settled close."
         }
       ]
     },
     {
-      "artist": "Batu, Donato Dozzy",
-      "track": "Drift",
-      "album": "Exhale",
-      "releaseDate": "2026-06-30",
+      "artist": "Extrawelt",
+      "track": "How Much Is The Quiche?",
+      "album": "Jamborghini EP",
+      "releaseDate": "2026-09-11",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://batutimedance.bandcamp.com/album/exhale-2",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "Crack Magazine distinguishes Drift as tensely swung drums that unknot into a techno thump; the artists' Bandcamp separately describes thick vapour, spiralling arpeggios and pronounced scaled peaks.",
+        "attributedDescription": "Juno singles out How Much Is The Quiche? as the EP's peak electro-percussive construction; the exact listing gives a 5:02 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the documented swing-to-thump development changes the move from Atlantis into Hypnic Jerks or from Elemental Dream into Truth in Noise, rather than performing the successor's task early.",
+        "editorialInterpretation": "Test whether its documented electro-percussive emphasis creates a consequential redirection between passing foreground and dubwise reset, or spends Trompe L'oeil's task early.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current collaborative track with candidate-specific developmental evidence from two attributed sources; its described tension is not inferred as listener anxiety.",
+      "fitHypothesis": "A current electro-techno hybrid with exact-track construction evidence; stylistic hybridity is not treated as automatic fit.",
       "proposedPlacements": [
         {
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "position": "Between Never Met and Trompe L'oeil",
+          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the documented swing-to-thump unknitting gives Hypnic Jerks a changed pulse problem, or completes that reinterpretation before it arrives."
+          "purpose": "Test whether the candidate changes the reset condition rather than adding another complete foreground mechanism."
         },
         {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether its scaled development creates a different release into Truth in Noise without over-articulating an already effective turn."
+          "purpose": "Test whether the production-world change gives the closing passage a new condition without crowding its liminal-percussion task."
         }
       ]
     },
     {
-      "artist": "DEAS",
-      "track": "Waterfall",
-      "album": "CROWD012: Silent Tension",
+      "artist": "Inter Gritty",
+      "track": "Ycean Habitat",
+      "album": "VVAA008",
       "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://deas.bandcamp.com/album/crowd012-silent-tension",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "DEAS's official notes distinguish Waterfall through bleepy modular sequences, chopped vocal fragments and a sweeping drone above rolling bass.",
+        "attributedDescription": "Juno distinguishes Ycean Habitat through shining kicks, Detroit-informed synth material and a steady ascent; the exact listing gives a 6:50 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve as an exact current lead; do not select ahead of three-release candidate diversity.",
+        "editorialInterpretation": "Preserve a current exact-track proposition whose development is described; test only if selected.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current modular-and-vocal proposition with individual material evidence.",
+      "fitHypothesis": "A current deep-techno lead with individual directional evidence; the source's metaphor is not treated as a measured emotional effect.",
       "proposedPlacements": [
         {
-          "position": "Between Same Way and U Belong 2 Me",
-          "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
-          "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "If selected, test whether its layered material changes the body-pressure-to-threshold passage."
+          "purpose": "If selected, test whether the documented ascent changes the unstable-directional hinge into the rumble-to-weight threshold."
         }
       ]
     },
     {
-      "artist": "DEAS",
-      "track": "Silent Tension",
-      "album": "CROWD012: Silent Tension",
+      "artist": "DJ Sinjin",
+      "track": "Things On My Mind",
+      "album": "Immortal",
       "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://deas.bandcamp.com/album/crowd012-silent-tension",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "DEAS's official notes distinguish Silent Tension through crisp clap fills, subtle vocal chops and delayed chord repetitions in a slow-burning groove.",
+        "attributedDescription": "Juno distinguishes Things On My Mind by an oscillatory robot-voice repetition built around the phrase “back and forth”; the exact listing gives a 5:53 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve as an exact current lead; individual placement consequence remains to be tested only if selected.",
+        "editorialInterpretation": "Preserve a current voice-and-repetition proposition; do not infer hypnosis or emotional effect from the description.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current repetition-led proposition with individual construction evidence.",
+      "fitHypothesis": "An adjacent Detroit/house-techno lead with individually described repetition.",
       "proposedPlacements": [
         {
-          "position": "Between backsliding and Mildew Swoosh",
-          "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "If selected, test whether delayed repetition changes the dissolution-to-strain relation."
+          "purpose": "If selected, test whether oscillatory repetition changes the pulse-illusion-to-passing-foreground handoff."
         }
       ]
     },
     {
-      "artist": "DEAS",
-      "track": "Where Do They Go",
-      "album": "CROWD012: Silent Tension",
+      "artist": "Drivetrain",
+      "track": "Feel Me",
+      "album": "Immortal",
       "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://deas.bandcamp.com/album/crowd012-silent-tension",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "DEAS's official notes distinguish Where Do They Go through low-end weight, fast dubby chord stabs and sharply placed vocal cuts.",
+        "attributedDescription": "Juno distinguishes Feel Me through wide-spread pads and whisper-like effects; the exact listing gives a 6:57 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve as an exact current lead without inferring density, energy or emotional effect.",
+        "editorialInterpretation": "Preserve an adjacent production-world proposition; do not infer depth, space or calm beyond the attributed wording.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current dub-chord proposition with individual material evidence.",
+      "fitHypothesis": "A Detroit-adjacent lead with individual material evidence and unknown sequence consequence.",
       "proposedPlacements": [
         {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "If selected, test whether its chord/vocal construction changes the reboot-to-displacement relation."
+          "purpose": "If selected, test whether its sustained materials alter the dead-space-to-re-entry passage."
         }
       ]
     },
     {
-      "artist": "DEAS",
-      "track": "Here Again",
-      "album": "CROWD012: Silent Tension",
+      "artist": "Lenson",
+      "track": "Plexus",
+      "album": "TAR 47",
       "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://deas.bandcamp.com/album/crowd012-silent-tension",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "DEAS's official notes distinguish Here Again through repetitive synth stabs that gradually transform into a hook over stripped percussion and kick.",
+        "attributedDescription": "Juno distinguishes Plexus through its prominent bloop-based construction; the exact listing gives a 6:40 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve as an exact current lead; gradual transformation does not itself prove a canonical role.",
+        "editorialInterpretation": "Preserve an emerging Rotterdam techno lead without inferring energy, density or phrase structure.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A current gradual-transformation proposition with individual evidence.",
+      "fitHypothesis": "A current sound-design proposition with track-specific evidence but limited directional detail.",
       "proposedPlacements": [
         {
-          "position": "Between Raataja and Crawl",
-          "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "position": "Between Amor and Elemental Dream",
+          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "If selected, test whether gradual hook formation changes the rupture-to-crawl handoff."
+          "purpose": "If selected, test whether its articulated material changes the hand-drum-mutation-to-self-stripping passage."
         }
       ]
     },
     {
-      "artist": "YL Hooi",
-      "track": "Running Around (83)",
-      "album": "Running Around (83)",
-      "releaseDate": "2026-09-02",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": "4lbR2kD63JRNSL8F9qPjuG",
-      "discoverySource": "https://ylhooi.bandcamp.com/track/running-around-83",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "attributedDescription": "The exact pre-release single is listed by the artist and Spotify; Resident Advisor frames the project as atmospheric dub techno, but no stronger candidate-specific development claim is available.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Resolve identity and preserve as an adjacent release watch; do not infer this track's space, direction or sequence effect from project-level copy.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "fitHypothesis": "An exact pre-release adjacent-world lead whose individual behavior remains under-described.",
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and Style Teef",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected despite the evidence limit, test whether it changes the release-to-fracture relation."
-        }
-      ]
-    },
-    {
-      "artist": "UFO95",
-      "track": "Feed manipulation",
-      "album": "Feed manipulation",
-      "releaseDate": "2026-09-14",
+      "artist": "Alex Wilcox",
+      "track": "Berlin Bells",
+      "album": "Rumpelstiltskin",
+      "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://ufo95.bandcamp.com/",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "attributedDescription": "UFO95's official Bandcamp and TSSRCT announcement list the exact title as the second track of a four-track EP released September 14, 2026; no reliable individual sonic description was found.",
+        "attributedDescription": "Juno distinguishes Berlin Bells through glassy, chiptune-tinged clarity and sharp edges softened by synth material; the exact listing gives a 5:38 duration.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve as an emerging same-day release lead; identity resolution is useful, but metadata alone cannot support sequencing evaluation.",
+        "editorialInterpretation": "Preserve a second individually described exact lead from the release; do not elevate it above three-release candidate coverage.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
         ]
       },
-      "fitHypothesis": "A same-day emerging techno lead with exact listing but intentionally limited individual evidence.",
+      "fitHypothesis": "A current IDM/techno crossover proposition with exact-track material contrast.",
       "proposedPlacements": [
         {
-          "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "If selected despite the evidence limit, test only from lawful resolver/source evidence; do not infer behavior from title or label context."
+          "purpose": "If selected, test whether material contrast changes the unstable-directional hinge before threshold."
+        }
+      ]
+    },
+    {
+      "artist": "Unique Reason",
+      "track": "Get Down",
+      "album": "Buried",
+      "releaseDate": "2026-09-08",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "attributedDescription": "Juno places Get Down between deep house and raw techno and attributes its battered character to MPC construction; the exact listing gives a 5:20 duration.",
+        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "editorialInterpretation": "Preserve a lower-ranked exact current lead; shared pairing with The Basic is acknowledged and no individual development claim is invented.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "measured": [
+          "The cited source lists the exact artist/title, duration and release context, checked 2026-09-14.",
+          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+        ]
+      },
+      "fitHypothesis": "A current rough-edged house/techno lead with useful material context but weaker individual development evidence than B-Groove.",
+      "proposedPlacements": [
+        {
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "If selected, test whether its raw construction changes the passing-foreground task."
         }
       ]
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-14T01:51:57Z-explore-231",
+  "runId": "2026-09-14T02:50:16Z-explore-232",
   "schemaVersion": 2,
-  "sourceCommit": "a5d753f55789413cf614a6708cedf355c9281406",
+  "sourceCommit": "7493074df22c51b8f9775117db64c9863de45a1b",
   "target": "playlists/strange-gait"
 }
