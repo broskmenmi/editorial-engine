@@ -1,5 +1,79 @@
 # STRANGE GAIT — Discoveries
 
+## Run 242 — 2026-09-14T09:53:36Z-explore-242 — REQUEST_NOT_COMPLETED
+
+The immutable schemaVersion 2 request was committed at `ba7b9705f40016f87f97e92a13ff755c268081a2`, but the resolver failed closed before Spotify lookup with exact error:
+
+`Lead 9 placement 1 must reference current canonical ledger URIs`
+
+Lead 9 used stale URIs for the current `Tender Is The Night → Egue into hs` boundary. No identities were resolved, no candidates were evaluated and no musical zero result is inferred. Run 243 used a new runId, sourceCommit and current ledger-derived URIs; Run 242 was not mutated or reused.
+
+## Run 243 — 2026-09-14T10:15:00Z-explore-243
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `ba7b9705f40016f87f97e92a13ff755c268081a2`, PARTIAL. Requested 9; resolved 3; selected 3; no exact unselected alternates and six unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All three resolver warnings are preserved below.
+
+### Evaluated exact candidates
+
+#### Darren Nye — Lunar Refraction — `spotify:track:15QwzS2tWIwjCQqe0YekiV` — PARKED
+
+Source: https://www.juno.co.uk/labels/System%2BOne/  
+Spotify: https://open.spotify.com/track/15QwzS2tWIwjCQqe0YekiV  
+Exact resolver duration: 366,149 ms (6:06.149). BPM unavailable.
+
+Juno individually documents the opening construction through an intergalactic sweep, swirling pads and bubbling bass. That establishes materials at the entrance, not the individual endpoint or either handoff.
+
+- Volume fit: provisional PASS. The exact techno/adjacent-world proposition fits the selection lens without needing to prove novelty, a new groove or one chapter role.
+- Immediate transition: UNKNOWN at `Stardancer → Lunar Refraction → Migration`. The protected `When We Froze → Stardancer` handoff remains untouched, but no evidence establishes what *Lunar Refraction* leaves for *Migration*.
+- Surrounding run: UNKNOWN through `When We Froze → Stardancer → Lunar Refraction → Migration → Eyes of the Wind`. The evidence cannot distinguish a consequential post-block side-world from another complete destination before the existing character pivot.
+- Long-form journey: UNKNOWN for the same endpoint gap; 6:06.149 is a material proportional cost.
+- Auditor verdict: PARKED pending materially richer individual direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener instruction.
+- Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-08-28"`
+
+#### Jim Thompson — High Score Table — `spotify:track:3LL9DxpNOS1i1kkH7SKhd4` — PARKED
+
+Source: https://www.juno.co.uk/labels/System%2BOne/  
+Spotify: https://open.spotify.com/track/3LL9DxpNOS1i1kkH7SKhd4  
+Exact resolver duration: 413,188 ms (6:53.188). BPM unavailable.
+
+Juno individually attributes a mid-tempo acidic chug and pads to the track. Those materials establish interest, but the listing does not establish its development, endpoint or either boundary handoff.
+
+- Volume fit: provisional PASS. The exact construction is lawful under the broad selection lens.
+- Immediate transition: UNKNOWN at `Mildew Swoosh → High Score Table → Fragments`.
+- Surrounding run: UNKNOWN through `Silent Tension → Mildew Swoosh → High Score Table → Fragments → Drummz`. The evidence cannot show whether the candidate creates a distinct state for *Fragments* to break apart or delays the existing re-escalation.
+- Long-form journey: UNKNOWN. Its 6:53.188 duration is a real cost, while the downstream consequence remains unproven.
+- Auditor verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener instruction.
+- Warning: `Exact title/artist matched with release metadata variance: album requested "High Score Table" but Spotify returned "High Score Table EP"; release date requested "2026-06-23" but Spotify returned "2026-06-26"`
+
+#### Darren Nye — Solar Drift — `spotify:track:1bLKSA8NVmrREjqjUXpjQd` — PARKED
+
+Source: https://www.juno.co.uk/labels/System%2BOne/  
+Spotify: https://open.spotify.com/track/1bLKSA8NVmrREjqjUXpjQd  
+Exact resolver duration: 280,150 ms (4:40.150). BPM unavailable.
+
+Juno individually identifies an unexpected kosmische-krautrock flavour. That supports a conspicuous material proposition, not the track's direction, endpoint, energy, density, emotional effect or mixability.
+
+- Volume fit: provisional PASS. A strong production-world change is allowed, but difference alone does not prove admission.
+- Immediate transition: UNKNOWN at `Elemental Dream → Solar Drift → Truth in Noise`.
+- Surrounding run: UNKNOWN through `Amor → Elemental Dream → Solar Drift → Truth in Noise → Style Teef`. The evidence cannot show whether the left turn changes self-stripping instability into consolidation or remains an isolated detour.
+- Long-form journey: UNKNOWN for the same individual direction/endpoint gap.
+- Auditor verdict: PARKED pending materially richer individual direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener instruction.
+- Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-08-28"`
+
+### Preserved resolver outcomes without musical verdict
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Unique Reason — *B-Groove (Shinedoe remix)*
+- Reggie Dokes — *CoCo*
+- Wost & Entranas — *Miniteca Selvatica (Pangaea remix)*
+- Gene Hunt — *Telephone House*
+- Section 6 — *Boaz*
+- Arovane — *Nonlin R*
+
+No unresolved identity entered either ledger. The three PARK outcomes share a decision-critical direction/endpoint gap, but the recurrence guard does not activate: none of the previous five completed discovery runs contained two or more PARK outcomes from that same gap. No actionable REPAIR emerges.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 241 — 2026-09-14T08:53:39Z-explore-241
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `7e2f276190852747bf5befc71f3003facce33527`, PARTIAL. Requested 9; resolved 2; selected 2; no exact unselected alternates and seven unresolved identities. No duplicates, substitutions, relinkings or technical failures.

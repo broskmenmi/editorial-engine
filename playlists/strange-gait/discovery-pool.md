@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 243 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Darren Nye | Lunar Refraction | `spotify:track:15QwzS2tWIwjCQqe0YekiV` · https://open.spotify.com/track/15QwzS2tWIwjCQqe0YekiV · https://www.juno.co.uk/labels/System%2BOne/ | Exact 6:06.149 identity and individually documented opening construction support interest; individual endpoint, handoffs and post-block consequence remain unknown. Added to the global utility ledger. |
+| EXACT TRACK / PARKED | Jim Thompson | High Score Table | `spotify:track:3LL9DxpNOS1i1kkH7SKhd4` · https://open.spotify.com/track/3LL9DxpNOS1i1kkH7SKhd4 · https://www.juno.co.uk/labels/System%2BOne/ | Exact 6:53.188 identity and individually documented acidic-chug/pad construction support interest; development, endpoint and the tested five-track consequence remain unknown. Added to the global utility ledger. |
+| EXACT TRACK / PARKED | Darren Nye | Solar Drift | `spotify:track:1bLKSA8NVmrREjqjUXpjQd` · https://open.spotify.com/track/1bLKSA8NVmrREjqjUXpjQd · https://www.juno.co.uk/labels/System%2BOne/ | Exact 4:40.150 identity and individually documented kosmische-krautrock reference support a conspicuous proposition; direction, endpoint and consolidation consequence remain unknown. Added to the global utility ledger. |
+| UNRESOLVED RESEARCH | Unique Reason; Reggie Dokes; Wost & Entranas; Gene Hunt; Section 6; Arovane | *B-Groove (Shinedoe remix)*; *CoCo*; *Miniteca Selvatica (Pangaea remix)*; *Telephone House*; *Boaz*; *Nonlin R* | Juno current and label pages cited in scout-request.json | Six distinct Spotify-SE misses. No musical verdict and no utility-ledger addition. |
+| RELEASE / LABEL WATCH | Various | System One / Darren Nye and Jim Thompson; SUDD WAX / Unique Reason, Reggie Dokes and Gene Hunt; TraTraTrax / Wost & Entranas; RRR / Section 6; Keplar / Arovane | https://www.juno.co.uk/techno/this-week/ · https://boomkat.com/new-releases | Current, adjacent and overlooked-catalogue windows worth retaining without inventing identities or track-level behavior. |
+
+### Run 243 boundaries
+
+- All three exact candidates are PARKED at their documented placements; none is globally rejected.
+- Their individual material descriptions establish interest but not direction, endpoint or downstream consequence.
+- Global utility: all three evaluated exact identities are genuinely interesting and retained doctrine-free.
+- Six unresolved identities remain research leads only.
+- Failed Run 242 is preserved separately as REQUEST_NOT_COMPLETED; it produced no resolution or musical verdict.
+
 ## Run 241 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 243
+
+### Individual material is not an exit
+
+**Direction:** Explore how a clearly described opening, rhythmic material or production-world reference develops and ends before assigning it a place. A track can be exact, interesting and lawful while its consequence for the successor remains unknown.
+
+**Ingredients:**
+
+- Len Faki — *Stardancer* → Bonobo — *Migration* → Azu Tiwaline — *Eyes of the Wind* — existing protected-block exit and character pivot
+- Darren Nye — *Lunar Refraction* — exact PARKED candidate with a documented opening construction but unknown endpoint
+- FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments* → Clotur — *Drummz* — existing strain, re-escalation and restless hinge
+- Jim Thompson — *High Score Table* — exact PARKED candidate with documented acidic-chug/pad material but unknown development and exit
+- Valesuchi — *Amor* → Shackleton — *Elemental Dream* → Inspired Groove — *Truth in Noise* → Blawan — *Style Teef* — existing mutation, instability, consolidation and fault line
+- Darren Nye — *Solar Drift* — exact PARKED adjacent-world proposition with an individual stylistic reference but unknown direction
+
+**Why interesting:** The comparison separates track-specific materials from track-specific trajectory. This keeps conspicuous left turns available without treating a vivid description as proof of what the next track receives.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 241
 
 ### A compact lurch can sharpen renewed intensification
