@@ -10,6 +10,7 @@ These remain active only for the documented placement/sequence. They do not clai
 
 | Artist | Track | Reason | Rejected |
 |---|---|---|---|
+| Steve Stoll | Ciclos de Plata | Run 249 rejects only `Atlantis → candidate → Hypnic Jerks`. The exact 4:27.076 textured, pent-up-tension proposition remains genuinely interesting, but it adds another preparatory tension stage before the existing acceleration crisis without changing that successor's task. Spotify returned 2026-06-26 for requested 2026-06-29. Not a global rejection. | 2026-09-14 |
 | Justine Perry | Beyond The Line | Run 247 rejects only `Tides Alternate → candidate → Serpentine Tale`. The exact 5:33.913 stealth-build proposition remains genuinely interesting, but it adds a complete pressure formation before Serpentine Tale without changing that successor's coiling task. Not a global rejection. | 2026-09-14 |
 | Paula Koski | Maeve | Run 247 rejects only `Capa → candidate → Sarniezz`. The exact 5:54.782 urgent-canter/plucky-bassline proposition remains genuinely interesting, but it adds a formed pulse before Sarniezz's existing source-of-pulse change without changing that task. Not a global rejection. | 2026-09-14 |
 | Justine Perry | Opaline | Run 247 rejects only `Rabbit Hole → candidate → Can I live`. The exact 5:39.130 poised-pressure proposition remains genuinely interesting, but it adds a complete return stage before Can I live's existing song-form opening without changing the closing turn. Not a global rejection. | 2026-09-14 |

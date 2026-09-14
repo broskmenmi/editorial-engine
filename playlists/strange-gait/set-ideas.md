@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 249
+
+### Internal disturbance can give broader strain an object
+
+**Direction:** Test whether a candidate creates a recognizable rhythmic world that is repeatedly disturbed, so the successor can amplify or reorient that condition. Distinguish this from inserting another complete tension stage before an already legible crisis.
+
+**Ingredients:**
+
+- aya — *backsliding* → Deas — *Silent Tension* → Ignez — *Us In The Sand* → FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments*
+- Steve Stoll — *Ciclos de Plata* — exact placement-specific counterexample between *Atlantis* and *Hypnic Jerks*
+- Carl Finlow, Koloah, Federsen & Estray, Steve Stoll and Galaxy 2 Galaxy — unresolved current/catalogue research directions
+
+**Why interesting:** *Us In The Sand* is not justified by oddness or by adding a new groove. Its documented repeated disturbances occur inside a formed beat-and-melody world, which gives the following temporal-strain hinge an identifiable condition to work on. *Ciclos de Plata* instead adds a tension premise while leaving the existing acceleration crisis unchanged.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-effect claim or live-mixing edge. Exact handoffs, endpoints and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 248
 
 ### Recirculated rhythm can be a research direction before it is a candidate

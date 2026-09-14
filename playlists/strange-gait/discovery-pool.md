@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 249 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Steve Stoll | Ciclos de Plata | `spotify:track:71CH0804dq8lZySXgt1C3I` · https://open.spotify.com/track/71CH0804dq8lZySXgt1C3I · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 4:27.076 textured-tension proposition remains interesting; rejected only between *Atlantis* and *Hypnic Jerks*. Added globally. |
+| EXACT TRACK / CANONICAL ADD | Ignez | Us In The Sand | `spotify:track:0il4PYxomh6pH0aY4FSk9U` · https://open.spotify.com/track/0il4PYxomh6pH0aY4FSk9U · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 5:48.507 identity; added between *Silent Tension* and *Mildew Swoosh*. Repeated disturbances inside a formed beat-world give the successor an existing condition to amplify and reorient. Added globally. |
+| UNRESOLVED RESEARCH | Carl Finlow; Koloah; Federsen & Estray; Steve Stoll; Galaxy 2 Galaxy | *Artifact*; *Elevator*; *Mareas Tranquilas*; *Ugar De Alegria*; *Perpetual*; *Hi-Tech Jazz (The Science)*; *Gatekeeper* | Sources preserved in scout-request.json | Six Spotify-SE misses and one exact-title ambiguity. No verdict or utility addition. |
+| RELEASE / LABEL WATCH | Superconscious; Random Records; Space Material; Planet E; Sincopat | Current, adjacent and catalogue windows | https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/ · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Continue as distinct source windows without promoting review language into identity, handoff or mix facts. |
+
+### Run 249 boundaries
+
+- Canonical: *Us In The Sand* passes only at `Silent Tension → candidate → Mildew Swoosh`; this is not a global placement claim.
+- Placement-specific reject: *Ciclos de Plata* remains interesting outside `Atlantis → candidate → Hypnic Jerks`.
+- Both evaluated exact identities enter the doctrine-free global utility ledger.
+- Seven unresolved identities remain research leads only.
+- Set direction: distinguish disturbance inside a formed rhythmic world from another complete preparatory tension stage.
+
 ## Run 248 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

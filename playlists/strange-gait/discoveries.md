@@ -1,5 +1,55 @@
 # STRANGE GAIT — Discoveries
 
+## Run 249 — 2026-09-14T16:53:44Z-explore-249
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `df99232660adebc7100b8b6f14e4ac8ff6ef178c`, requestFingerprint `3a5491a69eb85ad468abaecdbadfeb3d9991f840a14bddf900960268ffb5ed16`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.
+
+### Evaluated exact candidates
+
+#### Steve Stoll — Ciclos de Plata — `spotify:track:71CH0804dq8lZySXgt1C3I` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart
+Spotify: https://open.spotify.com/track/71CH0804dq8lZySXgt1C3I
+Exact resolver duration: 267,076 ms (4:27.076). BPM unavailable.
+
+Juno individually describes *Ciclos De Plata* as more textured and carrying pent-up tension. This establishes a compact tension proposition, not exact entry, exit, endpoint, perceived pulse, energy, density, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. Textured tension is lawful under the selection lens and needs no novelty, genre purity or fixed chapter role.
+- Immediate transition: FAIL only at `Atlantis → Ciclos de Plata → Hypnic Jerks`. The candidate adds another preparatory tension stage between the existing continuum hinge and acceleration crisis; available evidence does not show that *Hypnic Jerks* receives different work.
+- Surrounding run: FAIL proportionally through `Worn Down → Atlantis → Ciclos de Plata → Hypnic Jerks → Tides Alternate`. The insertion lengthens preparation before the crisis and opposed-speed consequence rather than changing either.
+- Long-form effect: FAIL at this placement. The compact duration does not offset the absence of a distinct downstream condition.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-06-26"`
+
+#### Ignez — Us In The Sand — `spotify:track:0il4PYxomh6pH0aY4FSk9U` — ADD
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart
+Spotify: https://open.spotify.com/track/0il4PYxomh6pH0aY4FSk9U
+Exact resolver duration: 348,507 ms (5:48.507). BPM unavailable.
+
+Juno individually describes sodden, sedimented caving beats and twinkling melodies repeatedly interrupted by ripping disturbances. This establishes a formed beat-and-melody world with internal disruption, not exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The internally disturbed construction directly serves the volume's selection lens without requiring weirdness, novelty or a chapter quota.
+- Immediate transition: provisional PASS at `Silent Tension → Us In The Sand → Mildew Swoosh`. After delayed-repetition reformation, the candidate establishes a bounded beat-world that is repeatedly disturbed; *Mildew Swoosh* can then amplify and reorient that condition as broader opposed-temporal strain. Smoothness and exact handoffs remain unknown.
+- Surrounding run: provisional PASS through `backsliding → Silent Tension → Us In The Sand → Mildew Swoosh → Fragments`. The run moves from dissolution through reformation and internal disturbance into opposed-temporal strain, then driving re-entry. The candidate changes the successor from first instability after reformation into escalation of an already disturbed formed state.
+- Long-form effect: provisional PASS. The 5:48.507 insertion creates one bounded middle-late disturbance stage without imposing a new summit, sonic room or fixed chapter and without touching the protected trio.
+- Verdict: ADD between *Silent Tension* and *Mildew Swoosh*.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: album requested "SMV 017" but Spotify returned "SMV017"; release date requested "2026-06-22" but Spotify returned "2026-06-19"`
+
+### Preserved resolver outcomes without musical verdict
+
+- Carl Finlow — *Artifact*: `no exact Spotify title/artist search match in market SE`
+- Koloah — *Elevator*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (5Vs5qeiOIYCijL5EymtyQE, 6xk4lWLXHs13NCHgzSNrPz)`
+- Federsen, Estray — *Mareas Tranquilas*: `no exact Spotify title/artist search match in market SE`
+- Steve Stoll — *Ugar De Alegria*: `no exact Spotify title/artist search match in market SE`
+- Carl Finlow — *Perpetual*: `no exact Spotify title/artist search match in market SE`
+- Galaxy 2 Galaxy — *Hi-Tech Jazz (The Science)*: `no exact Spotify title/artist search match in market SE`
+- Carl Finlow — *Gatekeeper*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
+
 ## Run 247 — 2026-09-14T14:50:00Z-explore-247
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `55618c652da8e42be991ac6acdbaf5ff331452a0`, requestFingerprint `16b7ce5d3de014d9a5eafc399fb4017d0104aface9fa929d8af868456d3ccd9a`, PARTIAL. Requested 9; resolved 5; selected 3; two exact unselected alternates and four unresolved identities. No warnings, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
@@ -619,4 +669,3 @@ Each returned exactly `no exact Spotify title/artist search match in market SE`:
 - G Rush — *Just Friendz*
 
 No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
-

@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 249 — EXPLORE — internal disturbance can give temporal strain an object
+
+Pre-audit reconciled 58 canonical identities and annotations, 57 generated transitions, both verified Spotify receipts, the empty clarification queue, no TRIGGERED revisit and no audio or live-mixing evidence. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 48–50. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 104 current-release, adjacent/emerging and overlooked-catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot is PARTIAL: two exact resolutions, two selected candidates, seven unresolved identities and two metadata warnings. Ignez — *Us In The Sand* is added between *Silent Tension* and *Mildew Swoosh* after separate volume, immediate-transition, exact five-track and long-form tests. Its documented formed beat-and-melody world with repeated ripping disturbances gives *Mildew Swoosh* an already disturbed state to amplify and reorient. Steve Stoll — *Ciclos de Plata* is rejected only between *Atlantis* and *Hypnic Jerks* because its compact textured tension adds another preparatory stage without changing the acceleration crisis.
+
+STRANGE GAIT becomes 59 tracks. The listener-protected trio remains internally exact and shifts to positions 49–51. The doctrine-free global utility ledger becomes 493 tracks by retaining both evaluated exact identities. Seven unresolved identities receive no musical verdict or utility row. No actionable REPAIR emerges. Audio and live mixing were not tested.
+
+Run 249: `~104 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 1 ADD + 1 scoped REJECT → 2 utility additions`. Across completed discovery Runs 87–249, excluding repairs and failed requests: 1,170 leads / ~7,800 inspections / 46 ADDs / 345 selected candidates. Inspection-to-lead conversion was 8.7%, resolution yield 22.2% and selected-candidate-to-ADD conversion 50%. The recent comparable ADD rate remains 4/10. Run 249 ends the two-run musical no-ADD streak after Run 245.
+
 ## Run 247 — EXPLORE — pressure stages still need downstream consequence
 
 Pre-audit reconciled 58 canonical identities and annotations, 57 generated transitions, both verified Spotify receipts, the empty clarification queue, no TRIGGERED revisit and no audio or live-mixing evidence. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 48–50. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
