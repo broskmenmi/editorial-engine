@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 245 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Forest On Stasys | Return To The Source | `spotify:track:5oCvktLKjVtrMz4RMltixN` · https://open.spotify.com/track/5oCvktLKjVtrMz4RMltixN · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 6:34.000 airy percussive-closing proposition remains interesting; rejected only between *Jjochstubn* and *Rabbit Hole*. Added to the global utility ledger. |
+| EXACT TRACK / CANONICAL ADD | Brian Sanhaji, FORMS, Monoloc | Ingress | `spotify:track:0FFIqD4nHctz7eI1fmBKgA` · https://open.spotify.com/track/0FFIqD4nHctz7eI1fmBKgA · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 6:13.680 identity; added between *Raataja* and *Crawl*. The documented off-balance rhythm and peeling pads create an unstable re-entry before sustained motion. Added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Forest On Stasys | Reptile Genetics | `spotify:track:67qtw6b7g2W920KXzYsxil` · https://open.spotify.com/track/67qtw6b7g2W920KXzYsxil · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 6:43.570 loop-and-passing-foreground proposition remains interesting; rejected only between *Worn Down* and *Atlantis*. Added to the global utility ledger. |
+| EXACT / UNEVALUATED | Gëinst | Ecosens | `spotify:track:5ED5Ya4SOe1VgG4SEFdS0n` | Exact unselected alternate with preserved album/date variance. It received no musical verdict, interesting-track retention or utility row. |
+| UNRESOLVED RESEARCH | Phunkey Rhythm Doctor; Format; Freaky Chakra; Opal M; Aubrey | *Jazz Maze*; *Ya Can't Stop Me*; *Backflash*; *On The Railway*; *Complex Vortex* | Source preserved in scout-request.json and discoveries.md | Four Spotify-SE misses and one ambiguity. No musical verdict and no utility-ledger addition. |
+| RELEASE / LABEL WATCH | Various | Hybrid / Phunkey Rhythm Doctor; Only One / Format; Delsin Inertia / Forest On Stasys; Modularz / Forms; Planet Rhythm / Opal M; Crayon / Freaky Chakra; Solid Groove / Aubrey; ARTS / Gëinst | https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Current, adjacent/emerging and catalogue/reissue windows retained without inventing identity or track behavior. |
+
+### Run 245 boundaries
+
+- Canonical: *Ingress* passes only at `Raataja → candidate → Crawl`; this is not a global placement claim.
+- Placement-specific rejects: *Return To The Source* and *Reptile Genetics* remain interesting outside their tested boundaries.
+- Global utility: all three evaluated exact identities are retained doctrine-free.
+- *Ecosens* remains exact but unevaluated; five unresolved identities remain research leads only.
+
 ## Run 244 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

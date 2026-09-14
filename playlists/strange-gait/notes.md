@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 245 — EXPLORE — unstable re-entry can give a plateau different work
+
+Pre-audit reconciled 57 canonical identities, 57 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 47–49. Run 243's same-gap PARK cluster was followed by Run 244's better-evidenced candidate scan, so the recurrence guard did not activate. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 88 current-release, adjacent/emerging and overlooked/reissued catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot is PARTIAL: four exact resolutions, three selected candidates, one exact unselected alternate, five unresolved outcomes and four metadata warnings. Brian Sanhaji, FORMS and Monoloc — *Ingress* is added between *Raataja* and *Crawl* after separate volume, immediate-transition, exact five-track and long-form tests. Its documented off-balance rhythm and peeling-pad relation create a bounded unstable re-entry after disappearance, leaving *Crawl* the distinct task of stabilizing motion. Forest On Stasys — *Return To The Source* and *Reptile Genetics* are rejected only at their tested placements because each inserts another complete intermediate state without changing the successor's work.
+
+STRANGE GAIT becomes 58 tracks. The listener-protected trio remains internally exact and shifts to positions 48–50. The doctrine-free global utility ledger becomes 488 tracks by retaining all three evaluated exact identities. *Ecosens* remains exact but unevaluated and outside that ledger; five unresolved identities receive no musical verdict. No actionable REPAIR emerges. Audio and live mixing were not tested.
+
+Run 245: `~88 inspected → 9 leads → 4 exact + 5 unresolved → 3 evaluations + 1 alternate → 1 ADD + 2 scoped REJECT → 3 utility additions`. Across completed discovery Runs 87–245, excluding repairs and failed requests: 1,143 leads / ~7,506 inspections / 45 ADDs / 340 selected candidates. Inspection-to-lead conversion was 10.2%, resolution yield 44.4% and selected-candidate-to-ADD conversion 33.3%. The recent comparable ADD rate remains 4/10 because Run 231 leaves the ten-run window as Run 245 enters it. Runs 244 and 245 are consecutive ADD runs.
+
 ## Run 244 — EXPLORE — recurrence can give deformation an object
 
 Pre-audit reconciled 56 canonical identities, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 46–48. Run 243's three same-gap PARK outcomes did not activate the recurrence guard because no second recent completed run contained two or more PARK outcomes from that gap. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.

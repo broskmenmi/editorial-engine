@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 245
+
+### Unstable re-entry can give a plateau different work
+
+**Direction:** Test whether an intermediate off-balance state is sufficiently formed to change a successor from direct reconstruction into stabilization. Reject intermediate states that merely lengthen decompression or duplicate the next track's repetition task.
+
+**Ingredients:**
+
+- Sciahri — *Moonwake* → Vladislav Delay — *Raataja* → Brian Sanhaji, FORMS, Monoloc — *Ingress* → DjRUM — *Crawl* → 50Dix — *IF U WANT 2*
+- Forest On Stasys — *Return To The Source* — exact placement-specific counterexample between *Jjochstubn* and *Rabbit Hole*
+- Forest On Stasys — *Reptile Genetics* — exact placement-specific counterexample between *Worn Down* and *Atlantis*
+- Gëinst — *Ecosens* — exact but unevaluated alternate
+- Phunkey Rhythm Doctor, Format, Freaky Chakra, Opal M and Aubrey — unresolved current/catalogue research directions
+
+**Why interesting:** *Ingress* does not need to smooth the crisis-to-plateau move. Its documented off-balance motion and separating pads establish a bounded restart, so *Crawl* can perform stabilization. The rejected candidates add complete states while leaving their successors' work unchanged.
+
+**Boundary:** This is an editorial set direction, not a proven live sequence, phrase-fit claim, emotional-safety claim or mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 244
 
 ### Recurrence can give deformation an object

@@ -1,5 +1,85 @@
 # STRANGE GAIT — Discoveries
 
+## Run 245 — 2026-09-14T14:24:00Z-explore-245
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `80fbfaeb196095eda1807879ac038561ade97c3e`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate and five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All four resolver warnings and every exact resolver error are preserved below.
+
+### Evaluated exact candidates
+
+#### Forest On Stasys — Return To The Source — `spotify:track:5oCvktLKjVtrMz4RMltixN` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
+Spotify: https://open.spotify.com/track/5oCvktLKjVtrMz4RMltixN  
+Exact resolver duration: 394,000 ms (6:34.000). BPM unavailable.
+
+Juno individually describes *Return To The Source* as serene and airy, closing with percussive patter compared to rain on a roof. That establishes an airy percussive-closing proposition without establishing emotional safety, exact entry or mixability.
+
+- Volume fit: PASS. The percussive proposition is lawful under the selection lens without needing weirdness, novelty or a chapter role.
+- Immediate transition: FAIL only at `Jjochstubn → Return To The Source → Rabbit Hole`. The candidate installs a complete airy afterimage between contaminated-song disassembly and the existing dead-space descent; *Rabbit Hole* still performs the same descent.
+- Surrounding run: FAIL proportionally through `It Never Made Sense → Nukumori → Jjochstubn → Return To The Source → Rabbit Hole`. The passage already moves from formed two-step through flare and contaminated disassembly into descent; the candidate adds another decompression stage rather than changing the descent's object.
+- Long-form journey: FAIL at this placement. The 6:34 insertion materially extends the late release without an evidenced downstream consequence.
+- Auditor verdict: placement-specific REJECT. The exact track remains genuinely interesting; no global incompatibility is claimed.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026-07-20" but Spotify returned "2026-07-03"`
+
+#### Brian Sanhaji, FORMS, Monoloc — Ingress — `spotify:track:0FFIqD4nHctz7eI1fmBKgA` — ADD
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
+Spotify: https://open.spotify.com/track/0FFIqD4nHctz7eI1fmBKgA  
+Exact resolver duration: 373,680 ms (6:13.680). BPM unavailable.
+
+Juno lists the closer as *Ingress* and individually describes it as hurrying along with an off-balance rhythm while haunting pads peel off the groove; the prose renders the title once as *Ingres*. The exact Spotify identity resolves *Ingress* to Brian Sanhaji, FORMS and Monoloc.
+
+- Volume fit: PASS. The off-balance rhythm and separating-pad relation fit the volume's structural-freedom lens.
+- Immediate transition: provisional PASS at `Raataja → Ingress → Crawl`. After burst-and-disappearance crisis, the candidate establishes a bounded unstable re-entry; *Crawl* can then stabilize sustained motion instead of directly rebuilding from absence.
+- Surrounding run: provisional PASS through `Moonwake → Raataja → Ingress → Crawl → IF U WANT 2`. Intensification breaks into disappearance, restarts off balance, stabilizes into a plateau and then meets opposed-material tension.
+- Long-form journey: provisional PASS. The 6:13.680 insertion changes the relation between crisis and plateau without imposing one summit, fixed wave or sonic room.
+- Strongest counterargument: *Ingress* may merely extend instability after *Raataja*. The individual peeling relation gives it a formed internal condition, while *Crawl* still receives the distinct task of making motion continuous.
+- Unknown: exact entry, exit and endpoint; BPM; perceived pulse; energy; density; space; hypnosis; emotional effect; phrase structure; mixability; audio transition feel.
+- Auditor verdict: APPROVED ADD between *Raataja* and *Crawl*.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-07-03"`
+
+#### Forest On Stasys — Reptile Genetics — `spotify:track:67qtw6b7g2W920KXzYsxil` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
+Spotify: https://open.spotify.com/track/67qtw6b7g2W920KXzYsxil  
+Exact resolver duration: 403,570 ms (6:43.570). BPM unavailable.
+
+Juno individually describes *Reptile Genetics* as loopy techno with aquatic droplets and synths likened to passing spacecraft. This establishes stable loop and passing-foreground relations without establishing hypnosis, space, density, endpoint or mixability.
+
+- Volume fit: PASS. The loop/foreground construction is lawful under the selection lens.
+- Immediate transition: FAIL only at `Worn Down → Reptile Genetics → Atlantis`. The candidate installs a complete loop-and-passing-foreground state before *Atlantis*' existing micro-repetition-to-continuum task.
+- Surrounding run: FAIL proportionally through `Foundry → Worn Down → Reptile Genetics → Atlantis → Hypnic Jerks`. The added stable loop over-articulates repetition before the continuum hinge and acceleration crisis.
+- Long-form journey: FAIL at this placement. The 6:43.570 cost does not change what *Atlantis* or *Hypnic Jerks* subsequently accomplish.
+- Auditor verdict: placement-specific REJECT. The exact track remains genuinely interesting; no global incompatibility is claimed.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026-07-20" but Spotify returned "2026-07-03"`
+
+### Exact but unselected and unevaluated
+
+- Gëinst — *Ecosens* — `spotify:track:5ED5Ya4SOe1VgG4SEFdS0n` — https://open.spotify.com/track/5ED5Ya4SOe1VgG4SEFdS0n — 503,003 ms (8:23.003). Warning: `Exact title/artist matched with release metadata variance: album requested "Arts Gallery I" but Spotify returned "Gallery EP"; release date requested "2026-07-20" but Spotify returned "2018-01-22"`
+
+The alternate was not evaluated, retained as an exact interesting track or added to either ledger.
+
+### Preserved unresolved outcomes without musical verdict
+
+- Phunkey Rhythm Doctor — *Jazz Maze*: `no exact Spotify title/artist search match in market SE`
+- Format — *Ya Can't Stop Me*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1WXE8EJiJ27fGitQdd7SJR, 2AvcnxEJ2LLGarZ2EM7AGe, 41NBHs5u2q5zT5vwvqsZii)`
+- Freaky Chakra — *Backflash*: `no exact Spotify title/artist search match in market SE`
+- Opal M — *On The Railway*: `no exact Spotify title/artist search match in market SE`
+- Aubrey — *Complex Vortex*: `no exact Spotify title/artist search match in market SE`
+
+No unresolved identity entered either ledger. These outcomes are not musical zeroes. No actionable REPAIR emerges.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 244 — 2026-09-14T11:56:00Z-explore-244
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `159362338b46b7ca48c978a3c8bf563a95118490`, PARTIAL. Requested 9; resolved 5; selected 3; two exact unselected alternates and four unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All five resolver warnings are preserved below.
