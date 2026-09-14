@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 235
+
+### An exact listing can establish identity without establishing direction
+
+**Direction:** Separate exact availability from sequence knowledge. A current exact Spotify identity and credible techno context can justify retention while still leaving two very different canonical placements undecidable.
+
+**Ingredients:**
+
+- DjRUM — *Crawl* → 50Dix — *IF U WANT 2* — existing sustained-motion into opposed-material passage
+- Maxime Denuc — *Atlantis* → Buttechno — *Hypnic Jerks* — existing continuum hinge into acceleration crisis
+- François X — *Just A Feeling* — exact PARKED identity tested at both boundaries; direction and endpoint remain unknown
+- G Rush, Kaufmann, Steve Bug, Section 6 and Havantepe — unresolved current release leads with no musical verdict
+
+**Why interesting:** The comparison keeps an exact discovery available without treating Spotify resolution, artist reputation, title or release context as proof of transition or long-form function.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
+
 ## Current additions — Run 233
 
 ### A reset must leave different work for formation

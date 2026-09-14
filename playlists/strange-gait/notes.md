@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 235 — EXPLORE — identity without direction
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. Run 233's single candidate-specific PARK did not activate the recurrence guard, so the lane remained EXPLORE.
+
+Run 234 was `REQUEST_NOT_COMPLETED`: its first placement carried a stale preceding URI and the resolver failed closed before Spotify lookup with `Lead 1 placement 1 must reference current canonical ledger URIs`. A new immutable Run 235 request derived every pair from the live ledger and preserved the failed run in history.
+
+Run 235's matching schemaVersion 2 snapshot is PARTIAL: nine requested, one exact resolution, one selected candidate and eight Spotify-SE misses. François X — *Just A Feeling* (`spotify:track:0q3x9BtRvRWEuSYb5px1EF`) is PARKED after `Crawl → candidate → IF U WANT 2` and `Atlantis → candidate → Hypnic Jerks` tests. Exact identity and current release context support interest, but do not establish direction, endpoint, either handoff, either five-track consequence or long-form gain. The release-date warning is preserved.
+
+STRANGE GAIT remains 54 tracks. The global utility ledger becomes 471 tracks by retaining the sole evaluated exact identity. Eight unresolved identities receive no musical verdict or utility row. Audio and live mixing were not tested.
+
+Run 235: `~86 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 0 ADD + 1 PARKED → 1 utility addition`. Across completed Runs 87–235, excluding repairs and failed requests: 1,080 leads / ~6,883 inspections / 41 ADDs / 323 selected candidates. Recent comparable ADD rate remains 1/10. The musical no-ADD streak is three completed runs after Run 231; seven exact interesting tracks have been retained since that ADD. The low 11.1% resolution yield is identity loss, not musical maturity or an epistemic veto. One PARK in each of Runs 232, 233 and 235 does not meet the activated two-PARK-per-run recurrence guard. No further actionable REPAIR emerges.
+
 ## Run 233 — EXPLORE — intermediate worlds and successor work
 
 Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No actionable REPAIR emerged, so the lane was EXPLORE.

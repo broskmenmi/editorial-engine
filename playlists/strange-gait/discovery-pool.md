@@ -1,5 +1,21 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 235 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | François X | Just A Feeling | `spotify:track:0q3x9BtRvRWEuSYb5px1EF` · https://open.spotify.com/track/0q3x9BtRvRWEuSYb5px1EF · https://www.juno.co.uk/techno/this-week/ | Exact 6:09.500 identity; current techno context supports interest, while individual direction, endpoint and two tested passage consequences remain decision-critical unknowns. Entered the global utility ledger. |
+| UNRESOLVED | G Rush; Kaufmann; G Rush feat. Lucie; G Rush; Steve Bug; Section 6; Havantepe; G Rush | Seduction; People Are Strange; Tus Manos; Spectra; Ebb & Flow; Yamamoto; Converge; Just Friendz | See discoveries.md Run 235 | Eight Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| WATCH | Memoria / G Rush; Drumcode / Kaufmann; Dubwax / Steve Bug; Repetitive Rhythm Research / Section 6; Berg Audio / Havantepe | Current September releases and forthcoming adjacent windows | Sources above and in scout-request.json | Useful current, emerging and adjacent windows retained without promoting listing prose into untested behavior. |
+
+### Placement and inspiration boundaries
+
+- *Just A Feeling* is PARKED, not rejected or admitted. Neither tested placement is asserted to work.
+- Unresolved outcomes receive no musical verdict and do not enter the utility ledger.
+- Run 234 was a technical `REQUEST_NOT_COMPLETED`, not a discovery result.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 233 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

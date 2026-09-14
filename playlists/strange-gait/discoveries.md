@@ -100,3 +100,43 @@ Matching resolver snapshot: schemaVersion 2, sourceCommit `f6ed82d491a075beb6c95
 
 No musical zero result is inferred from unresolved outcomes. Exact alternates were not evaluated and did not enter the utility ledger. Audio analysis and live mixing were not tested.
 
+
+## Run 234 — 2026-09-14T04:48:10Z-explore-234 — REQUEST_NOT_COMPLETED
+
+The immutable schemaVersion 2 request was committed at `1624d5ce0194f1ace803ecbe762af533264f2250`, but the resolver failed closed before Spotify lookup with exact error:
+
+`Lead 1 placement 1 must reference current canonical ledger URIs`
+
+The request had used a stale preceding URI and stale prose title for the current `LOVE YOUR ENEMIES → Tehutis Law` boundary. No identities were resolved, no candidates were evaluated, and no musical zero result is inferred. Run 235 used a new runId and current ledger-derived URIs; Run 234 was not mutated or reused.
+
+## Run 235 — 2026-09-14T04:56:30Z-explore-235
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `1624d5ce0194f1ace803ecbe762af533264f2250`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities; no alternates, substitutions, relinkings, duplicates or technical resolver failures.
+
+### Evaluated exact candidate
+
+#### François X — Just A Feeling — `spotify:track:0q3x9BtRvRWEuSYb5px1EF`
+
+- Evidence: Spotify exact title/artist/album identity, 369,500 ms, album `Bound States`, release date `2026-06-19`; Juno lists the exact title as 6:10 on the current release page but supplies no individual structure or endpoint description.
+- Volume fit: PASS provisionally. The exact techno identity is relevant to the selection lens; François X's standing or the track title supplies no admission value.
+- Immediate transition: UNKNOWN at `Crawl → candidate → IF U WANT 2` and alternative `Atlantis → candidate → Hypnic Jerks`. The evidence does not establish the candidate's direction, endpoint or either handoff.
+- Surrounding run: UNKNOWN in exact five-track windows `Raataja → Crawl → Just A Feeling → IF U WANT 2 → Fulledge` and `Worn Down → Atlantis → Just A Feeling → Hypnic Jerks → Tides Alternate`. The available evidence cannot show whether the candidate changes either successor's task.
+- Long-form effect: UNKNOWN at both placements for the same candidate-specific structural gap.
+- Verdict: PARKED. Reopen only for materially richer exact-track direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-11" but Spotify returned "2026-06-19"`
+
+### Preserved resolver outcomes without musical verdict
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- G Rush — *Seduction*
+- Kaufmann — *People Are Strange*
+- G Rush feat. Lucie — *Tus Manos*
+- G Rush — *Spectra*
+- Steve Bug — *Ebb & Flow*
+- Section 6 — *Yamamoto*
+- Havantepe — *Converge*
+- G Rush — *Just Friendz*
+
+No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
+
