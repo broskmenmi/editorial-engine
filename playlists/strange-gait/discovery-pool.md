@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 227 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Al Chem | The Red Tower | `spotify:track:6BvxIk0z8fiqmjHls2HiB4` · https://open.spotify.com/track/6BvxIk0z8fiqmjHls2HiB4 · https://boomkat.com/products/weird-fiction-2026-edition | Exact 5:38.093 identity; rejected only at *Style Teef → Same Way*. The dub-house proposition remains genuinely interesting and entered the global utility ledger. Album/date reissue variance preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | D.Dan | Falling Forward Into The Future | `spotify:track:7lkYxeHhZkFZ6My5g7DGhJ` · https://open.spotify.com/track/7lkYxeHhZkFZ6My5g7DGhJ · https://ra.co/reviews/34581 | Exact 7:52.986 identity; rejected only at *Stardancer → Migration*. Its documented progressive/trance transformation remains genuinely interesting and entered the global utility ledger. Date variance preserved. |
+| PARKED / EXACT | James Ruskin | Work | `spotify:track:5LS86S4NO74ElntT7C8HP2` · https://open.spotify.com/track/5LS86S4NO74ElntT7C8HP2 · https://boomkat.com/products/further-design-2026-remaster | Exact 4:57.386 identity. “Streamlined tool” supports volume interest but not individual direction, endpoint or either tested passage consequence. Added globally; remaster/original packaging variance preserved. |
+| UNRESOLVED | Picture; Jan Jelinek; Decoder; o.utlier; T.C.O. | Waaaaaaa; Rocky in the Video Age; Open Up; Evaporation; Retouched | See discoveries.md Run 227 | Five Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| EXACT ALTERNATE | Psalm Star Electric | S-Block | `spotify:track:679LEJnRm3Ae6CIaPPy2Qp` · https://open.spotify.com/track/679LEJnRm3Ae6CIaPPy2Qp | Resolved but unselected and unevaluated; absent from the utility ledger. Date warning preserved in discoveries.md. |
+| WATCH | Short Span; Art Yard; Blueprint; Faitiche; Animalia; NESREH | Current September–October releases and catalogue reissues | Sources above and https://clone.nl/ | Useful current, emerging and catalogue windows retained without promoting listing prose into exact-track behaviour. |
+
+### Placement and inspiration boundaries
+
+- Both rejections are scoped to the named insertions; neither track is globally rejected.
+- *Work* is PARKED, not rejected or admitted. Its alternative placement is a research check, not a proven sequence.
+- The five unresolved leads and exact alternate receive no musical verdict and do not enter the global utility ledger.
+- The repaired opening and protected trio were untouched. No BPM, phrase fit, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 225 harvest — 2026-09-13
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

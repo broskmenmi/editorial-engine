@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 227 — EXPLORE — distinct intermediate worlds after listener repair — 2026-09-14
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique sequential canonical tracks, 53 matching annotations, an exact-order 53-track/52-transition generated map and a matching COMPLETE Spotify receipt. Both severe-anxiety listener repairs are settled: Jay Mitta — *Sawa* and Lotic — *Carried* are absent, while Luigi Tozzi — *Tender Is The Night* remains canonical under explicit positive listener evidence. The clarification queue is empty, no REVISIT is TRIGGERED, and no objective defect is actionable. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 44–46. Automatic publishing is enabled. The repaired opening was excluded from placement testing.
+
+**Fresh exploration:** Run `2026-09-13T23:51:08Z-explore-227` inspected approximately 81 named tracks across current September–October 2026 Boomkat and Clone windows, Bandcamp's August electronic survey, a current Resident Advisor album review, adjacent/emerging label trails and overlooked 1998–2021 catalogue material. Completed Runs 219, 221, 222, 223 and 225 were excluded. Nine honest unused leads survived without padding, and no proposed boundary repeated a selected-candidate boundary from those five completed discovery runs.
+
+### Resolver chain
+
+- **runId:** `2026-09-13T23:51:08Z-explore-227`
+- **sourceCommit:** `069d8ea44d0b35e60cf68a83f6568b0ca25e433e`
+- **request commit:** `abd5fa12a8df6b47ec33408d33bb6140cc740c8e`
+- **snapshot commit:** `772aa4acaf5f74c5ad65610c4f1b5329620e7306`
+- **request fingerprint:** `48c11a987bc30212e9937efb0f062dd4bee9f3accc8aedd6020f9565e30ca5ab`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested = 3 exact selected candidates + 1 exact unevaluated alternate + 5 unresolved identities. No duplicates, substitutions, relinkings or technical failures occurred.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict; each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Picture — *Waaaaaaa*
+- Jan Jelinek — *Rocky in the Video Age*
+- Decoder — *Open Up*
+- o.utlier — *Evaporation*
+- T.C.O. — *Retouched*
+
+Exact but unselected and unevaluated:
+
+- Psalm Star Electric — *S-Block* — `spotify:track:679LEJnRm3Ae6CIaPPy2Qp` — *American Dub Electronics*, `2026-08-21`, 278,627 ms.
+
+Warnings preserved exactly:
+
+- Al Chem — *The Red Tower*: `Exact title/artist matched with release metadata variance: album requested "WEIRD FICTION (2026 EDITION)" but Spotify returned "Weird Fiction"; release date requested "2026-09-18" but Spotify returned "2017-07-14"`
+- D.Dan — *Falling Forward Into The Future*: `Exact title/artist matched with release metadata variance: release date requested "2021-12-03" but Spotify returned "2021-12-17"`
+- James Ruskin — *Work*: `Exact title/artist matched with release metadata variance: album requested "Further Design (2026 Remaster)" but Spotify returned "Further Design"; release date requested "2026-09-18" but Spotify returned "1998-01-01"`
+- Psalm Star Electric — *S-Block*: `Exact title/artist matched with release metadata variance: release date requested "2026-08-20" but Spotify returned "2026-08-21"`
+
+### Evaluator decisions
+
+#### Al Chem — The Red Tower — `spotify:track:6BvxIk0z8fiqmjHls2HiB4` — placement-specific REJECT
+
+- **Volume fit:** PASS. Boomkat's exact-track description identifies a dub-house proposition inside an electro-dub outlier. The exact 338,093-ms Spotify identity confirms the 2017 package; the 2026 listing is a reissue context, not a different recording claim.
+- **Immediate transition:** FAIL only at `Style Teef → candidate → Same Way`. The documented muscular dub-house scene creates another complete re-grounding after *Style Teef*'s fault line, but the source does not establish an endpoint that changes *Same Way*'s alternating drum/bass task.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Truth in Noise → Style Teef → candidate → Same Way → U Belong 2 Me`. The insertion elaborates the route from consolidation to threshold without proving a different consequence.
+- **Long-form journey:** FAIL for this insertion only. A conspicuous production-world change is lawful, but this 5:38 stage does not establish a net journey gain at the tested boundary.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
+
+#### D.Dan — Falling Forward Into The Future — `spotify:track:7lkYxeHhZkFZ6My5g7DGhJ` — placement-specific REJECT
+
+- **Volume fit:** PASS. Resident Advisor gives candidate-specific evidence of a 7:52 progressive-house/trance turn built from elastic synth layers and juxtaposed with the robust techno before it. Genre adjacency is neither a veto nor an admission reason.
+- **Immediate transition:** FAIL only at `Stardancer → candidate → Migration`. The candidate supplies a complete post-block transformation before *Migration*'s existing piano-led character pivot without showing that its endpoint changes *Migration*'s task.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `When We Froze → Stardancer → candidate → Migration → Eyes of the Wind`. Both listener-protected internal handoffs remain intact, but the added destination overstates the release from the block before the established migration into liminal percussion.
+- **Long-form journey:** FAIL for this insertion only. The left turn is legitimate; its 7:53 duration and documented completeness make it another destination rather than an evidenced change to the downstream journey.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
+
+#### James Ruskin — Work — `spotify:track:5LS86S4NO74ElntT7C8HP2` — PARKED
+
+- **Volume fit:** PASS provisionally. Boomkat identifies *Work* as a streamlined techno tool within Ruskin's 1998 sci-fi-minimalist debut; the exact identity is 297,386 ms. Catalogue importance is not used as admission evidence.
+- **Immediate transition:** UNKNOWN at `Fragments → candidate → Drummz`. “Streamlined tool” establishes candidate-specific function but not individual development, endpoint or either handoff. The alternative `Pulse I → candidate → Roxellana` reaches the same blocker.
+- **Surrounding three-to-five-track run:** UNDECIDABLE through `Mildew Swoosh → Fragments → candidate → Drummz → Té de Cabello Blanco`. The available evidence cannot distinguish useful pressure continuity from a redundant tool stage.
+- **Long-form journey:** UNDECIDABLE. Missing phrase audio is not itself the veto; the undocumented endpoint and downstream consequence are decision-critical.
+- **Verdict:** **PARKED** for materially richer exact-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Auditor approval
+
+**APPROVED.** The immutable request was written only after reading live source SHA `069d8ea44d0b35e60cf68a83f6568b0ca25e433e`. The matching schemaVersion 2 snapshot has the correct runId, sourceCommit, target, mode and fingerprint. Accounting reconciles: 9 requested = 3 exact selected candidates + 1 exact alternate + 5 unresolved. All four warnings and five exact errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, surrounding-run and long-form scales. The two rejections are placement-specific; the PARK has a concrete evidence blocker and an alternate boundary check. No verdict relies on BPM, metadata-to-feeling inference, genre purity, novelty, one sonic room or the repaired opening. Auditor approves no canonical change, three local inspiration retentions and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **53 → 53 canonical tracks**; no reorder or annotation change.
+- The repaired opening remains untouched; *Tender Is The Night* remains canonical.
+- The protected trio remains exact and contiguous at positions 44–46.
+- Local inspiration: three exact interesting tracks, five unresolved research leads, one exact unevaluated alternate and current Boomkat/Clone/Animalia/NESREH watches retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **455 → 458 exact tracks**, adding *The Red Tower*, *Falling Forward Into The Future* and *Work*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 81 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 selected evaluations + 1 unevaluated alternate → **0 ADD + 2 placement-specific REJECT + 1 PARKED** → 3 utility additions. Lead conversion is **9/81 (11.1%)**; exact-resolution conversion is **4/9 (44.4%)**; selected-candidate-to-ADD conversion is **0/3**. Across completed discovery Runs 87–227, excluding repairs and failed requests: **1,035 leads from approximately 6,452 inspections; 40 ADDs from 310 selected candidates**. The recent comparable ADD rate remains **1/10**; the musical no-ADD streak is eight completed discovery runs after Run 214. Twenty exact interesting tracks have been retained since that ADD. The run shows that strong selection-lens fit and track-specific material can still fail to improve a tested passage, while insufficient endpoint evidence remains a PARK rather than an invented rejection. It does not prove any track globally incompatible, STRANGE GAIT complete, or any phrase/live transition result.
+
 ## Run 226 — REPAIR — listener-authorized Carried removal — 2026-09-14
 
 **Pre-audit:** REPAIR. STRANGE GAIT entered with 54 unique sequential canonical tracks, 54 matching annotations and an exact-order 54-track/53-transition generated map. Lotic — *Carried* was canonical at position 5 inside the frozen `Encasadelciegoeltuerco → Carried → Tender Is The Night` discussion. The discussion was `AWAITING CLARIFICATION` after the listener reported “Holy fuck, carried by lotic was the same,” explicitly referring to the severe fear/anxiety response documented for *Sawa*. The new command “Loved tender is the night tho. Yes remove carried exactly” supplies exact removal authorization and separately protects *Tender Is The Night* from implication. The `Transparency → When We Froze → Stardancer` handoffs were contiguous and protected at positions 45–47. Automatic publishing was enabled.

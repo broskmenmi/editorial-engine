@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 227
+
+### A complete side-world must alter the return
+
+**Direction:** Test whether a vivid intermediate production world changes the successor's job or merely inserts another destination. When the endpoint remains undocumented, keep the question PARKED rather than converting a strong track label into imagined direction.
+
+**Ingredients:**
+
+- Blawan — *Style Teef* → Cooly G — *Same Way* — existing fault-line-to-body-pressure relation
+- Al Chem — *The Red Tower* — exact dub-house counterexample, rejected only between those tracks
+- Len Faki — *Stardancer* → Bonobo — *Migration* — existing protected-block exit into a character pivot
+- D.Dan — *Falling Forward Into The Future* — exact progressive/trance counterexample before that pivot
+- CHANCEKNOT — *Fragments* → Clotur — *Drummz* — existing re-entry-to-unpredictable-rhythm relation
+- James Ruskin — *Work* — exact PARKED tool proposition whose individual exit remains unknown
+
+**Why interesting:** The comparison permits dub-house, trance, minimal techno and a catalogue tool to change character conspicuously while asking one long-form question: does the inserted world transform the return?
+
+**Boundary:** These are placement lessons and research directions, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred. The repaired opening is outside this idea.
+
 ## Current additions — Run 225
 
 ### A new rhythmic world must change the next job

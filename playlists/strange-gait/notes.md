@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 227 — EXPLORE — post-repair outward scan
+
+Pre-audit found both severe-anxiety listener repairs fully settled: *Sawa* and *Carried* are absent, *Tender Is The Night* remains canonical under positive listener evidence, the clarification queue is empty, and the protected trio is intact at positions 44–46. No actionable REPAIR or TRIGGERED revisit remained, so the repaired opening was excluded and the workflow returned to EXPLORE.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, three exact selected candidates, one exact unevaluated alternate and five Spotify-SE misses. Al Chem — *The Red Tower* (`spotify:track:6BvxIk0z8fiqmjHls2HiB4`) is rejected only at `Style Teef → candidate → Same Way`; its documented dub-house scene adds another complete re-grounding without changing *Same Way*'s task. D.Dan — *Falling Forward Into The Future* (`spotify:track:7lkYxeHhZkFZ6My5g7DGhJ`) is rejected only at `Stardancer → candidate → Migration`; its complete progressive/trance turn inserts another destination before the established character pivot. James Ruskin — *Work* (`spotify:track:5LS86S4NO74ElntT7C8HP2`) is PARKED after `Fragments → candidate → Drummz` and alternative `Pulse I → candidate → Roxellana` tests because “streamlined tool” does not establish individual development, endpoint or downstream consequence.
+
+STRANGE GAIT remains 53 tracks. The global utility ledger becomes 458 tracks by retaining all three evaluated identities. All four packaging/date warnings, five unresolved errors and the unevaluated *S-Block* alternate remain preserved. Audio and live mixing were not tested.
+
+Run 227: `~81 inspected → 9 leads → 4 exact + 5 unresolved → 3 evaluations + 1 alternate → 0 ADD + 2 scoped REJECT + 1 PARKED → 3 utility additions`. Across completed Runs 87–227: 1,035 leads / ~6,452 inspections / 40 ADDs / 310 selected candidates. Recent comparable ADD rate: 1/10. The musical no-ADD streak is eight; 20 exact interesting tracks have been retained since Run 214. No actionable REPAIR emerges.
+
 ## Run 226 — REPAIR — remove Carried, retain Tender Is The Night
 
 The listener's report that Lotic — *Carried* caused “the same” severe fear/anxiety response as *Sawa* was previously frozen at `AWAITING CLARIFICATION`. The exact command “Loved tender is the night tho. Yes remove carried exactly” now authorizes one action: remove *Carried* and keep Luigi Tozzi — *Tender Is The Night*.
