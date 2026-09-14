@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 232 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Alex Wilcox | Summer Sunday | `spotify:track:281Sxhz9RiWXSZ1qepzG4C` · https://open.spotify.com/track/281Sxhz9RiWXSZ1qepzG4C · https://www.juno.co.uk/techno/this-week/ | Exact 4:42.000 Spotify identity; rejected only at *Too Much Time → Freepass for Them* and *Can I live → Invisible Warriors Of Light*. The attributed lighter/playful turn remains genuinely interesting and entered the global utility ledger. Juno listed 4:24; the date warning is preserved in discoveries.md. |
+| PARKED / EXACT | Lenson | Plexus | `spotify:track:7xe6mb1S6c1x81mLQbZZ8C` · https://open.spotify.com/track/7xe6mb1S6c1x81mLQbZZ8C · https://www.juno.co.uk/techno/this-week/ | Exact 6:41.824 identity. Bloop-based construction establishes interest, while individual direction, endpoint and the *Amor → Elemental Dream* consequence remain unknown. Added globally; album/date warning preserved. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Alex Wilcox | Berlin Bells | `spotify:track:6rGqiwPd5Mdsx5Wxg9rKnL` · https://open.spotify.com/track/6rGqiwPd5Mdsx5Wxg9rKnL · https://www.juno.co.uk/techno/this-week/ | Exact 5:48.138 Spotify identity; rejected only at *Foundry → Worn Down*. Its sharp/soft material opposition remains genuinely interesting and entered the global utility ledger. Juno listed 5:38; the date warning is preserved. |
+| UNRESOLVED | Unique Reason; Extrawelt; Inter Gritty; Unique Reason | B-Groove; How Much Is The Quiche?; Ycean Habitat; Get Down | See discoveries.md Run 232 | Three Spotify-SE misses and one ambiguous two-ID Extrawelt result remain distinct research questions; no musical verdict or utility row. |
+| DUPLICATE STATE | DJ Sinjin; Drivetrain | Things On My Mind; Feel Me | See discoveries.md Run 232 | Already present in persistent state; not re-evaluated or re-added. Their inclusion is preserved as an exclusion-execution miss. |
+| WATCH | Sudd Wax; трип / Alex Wilcox; Turbo / Extrawelt; End Of Perception; Soiree; Tar Hallow | Current September releases and adjacent Detroit/Rotterdam windows | https://www.juno.co.uk/techno/this-week/ | Useful current, emerging and adjacent windows retained without promoting listing prose into untested behavior. |
+
+### Placement and inspiration boundaries
+
+- Both rejections are scoped to the named insertions; neither Alex Wilcox track is globally rejected.
+- *Plexus* is PARKED, not rejected or admitted.
+- Unresolved and duplicate outcomes receive no new musical verdict and do not enter the utility ledger.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 231 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

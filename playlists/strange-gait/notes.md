@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 232 — EXPLORE — contrast without invented direction
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the exact-order generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No actionable REPAIR emerged, so the lane was EXPLORE and the repaired opening stayed outside placement testing.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, three exact selected candidates and six unresolved/duplicate outcomes. Alex Wilcox — *Summer Sunday* (`spotify:track:281Sxhz9RiWXSZ1qepzG4C`) is rejected only at `Too Much Time → candidate → Freepass for Them` and `Can I live → candidate → Invisible Warriors Of Light`; the attributed lighter/playful turn adds another complete contrast without changing either successor's task. Alex Wilcox — *Berlin Bells* (`spotify:track:6rGqiwPd5Mdsx5Wxg9rKnL`) is rejected only at `Foundry → candidate → Worn Down`; its documented sharp/soft material opposition adds another complete stage before the existing threshold. Lenson — *Plexus* (`spotify:track:7xe6mb1S6c1x81mLQbZZ8C`) is PARKED at `Amor → candidate → Elemental Dream` because the exact material vocabulary is known while direction, endpoint and downstream consequence are not.
+
+STRANGE GAIT remains 54 tracks. The global utility ledger becomes 467 tracks by retaining all three evaluated identities. Four unresolved identities, two persistent duplicates, all three resolver warnings and the Juno/Spotify duration variances remain preserved. The duplicate inclusion is an exclusion-execution miss, not a musical result or a recurring process defect. Audio and live mixing were not tested.
+
+Run 232: `~89 inspected → 9 leads → 3 exact + 4 unresolved + 2 duplicates → 3 evaluations → 0 ADD + 2 scoped REJECT + 1 PARKED → 3 utility additions`. Across completed Runs 87–232: 1,062 leads / ~6,705 inspections / 41 ADDs / 319 selected candidates. Recent comparable ADD rate: 1/10. The musical no-ADD streak is one completed run after Run 231. No actionable REPAIR emerges.
+
 ## Run 231 — EXPLORE — reformation before strain
 
 Pre-audit reconciled both listener-authorized removals, the empty clarification queue, no TRIGGERED revisit, 53 canonical identities, 53 annotations, the 53-track generated map, both Spotify receipts and completed Repairs 229–230. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. No actionable REPAIR remained, so the lane was EXPLORE and the repaired opening stayed outside placement testing.

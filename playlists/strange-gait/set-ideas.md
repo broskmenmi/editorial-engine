@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 232
+
+### Material contrast still needs a direction
+
+**Direction:** Separate a vivid attributed contrast from a consequential intermediate stage. A lighter turn, a sharp/soft opposition, or an articulated sound vocabulary can all be worth retaining while still failing—or remaining unknowable—at a particular boundary.
+
+**Ingredients:**
+
+- Baby Ford — *Serpentine Tale* → Sciahri — *Too Much Time* → 96 Back — *Freepass for Them* — existing coiling, widening and groove-pivot passage
+- Alex Wilcox — *Summer Sunday* — exact concise contrast rejected only at the two tested placements
+- Yu Su — *Foundry* → T++ — *Worn Down* → Maxime Denuc — *Atlantis* — existing unstable-direction-to-threshold-to-continuum passage
+- Alex Wilcox — *Berlin Bells* — exact material-opposition counterexample before that threshold
+- Valesuchi — *Amor* → Shackleton — *Elemental Dream* — existing hand-drum mutation into self-stripping instability
+- Lenson — *Plexus* — exact PARKED vocabulary whose individual direction and exit remain unknown
+
+**Why interesting:** The comparison keeps different production worlds available without assuming that a strong description proves where a track goes or what the successor must do differently.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
+
 ## Current additions — Run 231
 
 ### Reformation can sharpen the next instability
