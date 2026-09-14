@@ -2,339 +2,339 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-14T16:53:44Z-explore-249",
-  "sourceCommit": "df99232660adebc7100b8b6f14e4ac8ff6ef178c",
+  "runId": "2026-09-14T17:50:41Z-explore-250",
+  "sourceCommit": "63ec42fc45db4ac40c5a2b08ffb4f310aca0aaab",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 104 named tracks across Juno Recommends Techno: September 2026, Juno Recommends Electro: September 2026 and linked current/reissue catalogue pages. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 103 named tracks across Juno's current-week techno listings, Boomkat's current electronic/reissue pages, Meakusma's exact 666ridims tracklist and linked label/catalogue pages. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. Explicit threat- or panic-coded propositions were deprioritized without creating a blanket intensity or genre ban.",
-      "Completed discovery Runs 244–248 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
-      "All ranked artist/title pairs were checked against canonical state, target-local discovery/rejection/PARKED history and the global utility ledger; none was found.",
-      "The top three leads come from distinct releases and test distinct non-frozen boundaries. No proposed placement touches either protected internal handoff in Transparency → When We Froze → Stardancer.",
-      "The previous run's zero-resolution outcome was not reused. This scan moved to different current, adjacent-electro and catalogue windows rather than retrying its identities."
+      "Completed discovery Runs 245–249 and persistent target/global discovery state were compared before ranking. Previously evaluated, parked, rejected, unresolved, duplicate and exact-alternate identities were excluded.",
+      "Previously unresolved 666ridims identities Rain Riddim, very66killa, 0to100mimi5fast, hubble and ogenepop9bita3dani were not retried. The five ranked compilation tracks are distinct exact artist/title pairs not previously requested.",
+      "The top three leads come from distinct releases or catalogues and test distinct non-frozen boundaries. No proposed placement touches either protected internal handoff in Transparency → When We Froze → Stardancer.",
+      "The previous run's ADD is not treated as a mandate to continue adding. Candidate order reflects evidence quality, canonical potential and information gain rather than resolver convenience."
     ],
     "rankedLeadSummary": [
-      "1. Steve Stoll — Ciclos De Plata",
-      "2. Carl Finlow — Artifact",
-      "3. Ignez — Us In The Sand",
-      "4. Koloah — Elevator",
-      "5. Federsen, Estray — Mareas Tranquilas",
-      "6. Steve Stoll — Ugar De Alegria",
-      "7. Carl Finlow — Perpetual",
-      "8. Galaxy 2 Galaxy — Hi-Tech Jazz (The Science)",
-      "9. Carl Finlow — Gatekeeper"
+      "1. Telefon Tel Aviv — Fahrenheit Fair Enough",
+      "2. dj hanakitopo x JTRIPP — piano miow",
+      "3. Habgud — Deviation",
+      "4. Philippe Petit — PBP2",
+      "5. Remco Beekwilder — Looping Motif",
+      "6. oscar4eva — Still Kukin Master Revision",
+      "7. opo — Shepard",
+      "8. names9s — Its Free",
+      "9. 5indaSauce — 5222s5 Master"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Juno Recommends Techno: September 2026, especially Steve Stoll and Ignez releases with differentiated exact-track descriptions. https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-      "ADJACENT / EMERGING WINDOW: Juno Recommends Electro: September 2026, including Carl Finlow and Koloah material with machine-funk, slowing and vocal/electro movement relevant to the selection lens. https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/",
-      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Galaxy 2 Galaxy's 2026 reissue and Federsen/Estray's cross-rhythmic dub collaboration, inspected as recirculated and adjacent catalogue propositions rather than prestige picks. https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart"
+      "CURRENT RELEASE WINDOW: Juno's current-week techno listings, especially Transition's Delirium Vol. IV and Philippe Petit's Phase One, checked 2026-09-14. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING WINDOW: Meakusma's 666ridims (2020–2026), whose exact tracklist and collection notes foreground transformed grids, odd meters, polyrhythm, improvisation and sample-chop collaboration. https://meakusma.bandcamp.com/album/666ridims-2020-2026",
+      "OVERLOOKED CATALOGUE / REISSUE WINDOW: Telefon Tel Aviv's Fahrenheit Fair Enough, an exact 2001 work recirculating for its 25th anniversary in 2026; current reissue notes and exact-track criticism were inspected without treating prestige as fit. https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough"
     ],
-    "timestampUtc": "2026-09-14T16:53:44Z"
+    "timestampUtc": "2026-09-14T17:50:41Z"
   },
   "leads": [
     {
-      "artist": "Steve Stoll",
-      "track": "Ciclos De Plata",
-      "album": "Evolucion Acida",
-      "releaseDate": "2026-06-29",
+      "artist": "Telefon Tel Aviv",
+      "track": "Fahrenheit Fair Enough",
+      "album": "Fahrenheit Fair Enough",
+      "releaseDate": "2001-09-18",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "discoverySource": "https://ghostly.com/products/telefon-tel-aviv-fahrenheit-fair-enough",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact-track and official reissue evidence supports resolution and evaluation; it does not establish energy, density, emotional effect, phrase structure, perceived pulse or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Ciclos De Plata as a more textured construction carrying pent-up tension.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Current reissue coverage identifies the title track's soft-flashing arpeggios and electronic slide bass; official catalogue framing places the work between IDM, experimental electronics, bass, hip-hop and soul rather than one fixed genre.",
+        "editorialInterpretation": "Use only the attributed material and cross-form construction as musical evidence. Exact entry, exit, endpoint and handoffs remain unknown.",
         "measured": [
-          "Juno lists the exact artist/title, 4:23 duration and 2026-06-29 release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Spotify web search exposes the exact artist/title album identity; the resolver must determine the selected market-SE track identity and duration.",
+          "The original album date is 2001-09-18; current 25th-anniversary reissue notices were checked 2026-09-14."
         ]
       },
-      "fitHypothesis": "A compact tension-bearing construction could interpose a bounded tightening before the existing acceleration-to-orientation crisis.",
+      "fitHypothesis": "A processed organic/electronic title-track matrix could give the late machine-to-groove passage a deliberate intermediate reassembly without requiring the same production world.",
       "proposedPlacements": [
         {
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether compact textured tension changes Hypnic Jerks from direct acceleration into a response to a formed tightness rather than adding another crisis."
+          "purpose": "Test whether a formed reprocessed matrix changes Truth in Noise from direct consolidation into a response to newly assembled material rather than delaying it."
         }
       ]
     },
     {
-      "artist": "Carl Finlow",
-      "track": "Artifact",
-      "album": "The Rawax Trilogy Part One",
-      "releaseDate": "2026-08-17",
+      "artist": "dj hanakitopo x JTRIPP",
+      "track": "piano miow",
+      "album": "666ridims (2020 - 2026)",
+      "releaseDate": "2026-09-03",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/",
+      "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "The exact tracklist and uniquely attributable collaboration note support lead status; they do not establish pulse, energy, density, phrase fit or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Artifact as coiled-up electro-funk with a sense of adventure.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Meakusma states that Japanese Barcelona-based DJ Hanakito contributes to one track using samples and chops from her vinyl imports; piano miow is the only credited Hanakito collaboration on the exact tracklist.",
+        "editorialInterpretation": "This supports a very short sample-chop intervention, not its exact direction, endpoint, emotional effect or either handoff.",
         "measured": [
-          "Juno lists the exact artist/title, 5:56 duration and 2026-08-17 release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists piano miow at 0:35 and the album at 2026-09-09; Bandcamp lists the digital release at 2026-09-03.",
+          "Exact Spotify identity and duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A coiled electro-funk state could redirect the current funk re-grounding into a different form before crooked accumulation.",
+      "fitHypothesis": "A sub-minute sample-chop punctuation could make the liminal-to-formed late turn conspicuous without installing another full scene.",
       "proposedPlacements": [
         {
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "position": "Between Eyes of the Wind and It Never Made Sense",
+          "precedingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "followingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the coiled electro-funk proposition gives Pulse I a new accumulation source instead of duplicating the existing re-grounding."
+          "purpose": "Test whether a concise chopped punctuation makes the two-step formation arrive as a deliberate re-entry rather than adding a separate late chapter."
         }
       ]
     },
     {
-      "artist": "Ignez",
-      "track": "Us In The Sand",
-      "album": "SMV 017",
-      "releaseDate": "2026-06-22",
+      "artist": "Habgud",
+      "track": "Deviation",
+      "album": "Delirium, Vol. IV",
+      "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact listing plus artist-specific release context is enough for serious evaluation, but not enough to infer the track's direction, endpoint, energy, density or live behavior.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Us In The Sand through sodden, sedimented caving beats and twinkling melodies repeatedly upset by ripping disturbances.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Transition's exact track page identifies Deviation inside Delirium Vol. IV; current artist framing places Habgud between atmospheric depth and percussive, driving groove and texture.",
+        "editorialInterpretation": "Treat the atmospheric/percussive relation as context only until an exact selected identity is returned. Do not project release-level ancient-pulse language onto this track.",
         "measured": [
-          "Juno lists the exact artist/title and 2026-06-22 release context; duration is not shown in the listing; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists the exact artist/title at 4:37 and the compilation at 2026-09-10; Shazam lists the track at 2026-08-28.",
+          "Exact Spotify identity, duration and release metadata require resolver evidence."
         ]
       },
-      "fitHypothesis": "A formed organic beat-world repeatedly disturbed from within could make the later opposed-temporal strain answer a more legible instability.",
+      "fitHypothesis": "A percussive deviation with atmospheric context could redirect simultaneous competing emphasis before the existing funk re-grounding.",
       "proposedPlacements": [
         {
-          "position": "Between Silent Tension and Mildew Swoosh",
-          "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
-          "followingUri": "spotify:track:51HYsxmD3pQ0aLT3619uWP",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether repeated internal disturbance changes Mildew Swoosh's strain task rather than over-articulating instability."
+          "purpose": "Test whether the deviation changes Tehutis Law's re-grounding task rather than extending the existing conflict."
         }
       ]
     },
     {
-      "artist": "Koloah",
-      "track": "Elevator",
-      "album": "Residual Future",
-      "releaseDate": "2026-08-31",
+      "artist": "Philippe Petit",
+      "track": "PBP2",
+      "album": "Phase One",
+      "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "A current exact techno listing and established label context justify resolution, but do not establish individual sonic behavior, direction, endpoint or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually distinguishes Elevator as slowing the release into a hypnotic, introspective descent.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Juno and artist-hosted Knotweed pages identify PBP2 as the opening exact track of Phase One. No differentiated exact-track prose was found.",
+        "editorialInterpretation": "Use the exact listing only to justify lookup. If selected, individual sequencing claims must remain limited to resolver facts and any lawful exact-track evidence available at evaluation.",
         "measured": [
-          "Juno lists the exact artist/title and 2026-08-31 release context; duration is not shown in the listing; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists PBP2 at 6:40 on KW063, released 2026-09-10; Discogs lists 6:38.",
+          "Exact Spotify identity and duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "An introspective electro descent could create a deliberate low-gravity interruption between razor-cut formation and remnant flare.",
+      "fitHypothesis": "A current Knotweed techno construction could test whether the reset-to-deformation passage benefits from a separately formed pressure stage.",
       "proposedPlacements": [
         {
-          "position": "Between It Never Made Sense and Nukumori",
-          "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "position": "Between Goink and Thick to Handle",
+          "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the slower descent changes Nukumori's flare from direct interruption into re-ignition rather than postponing it."
+          "purpose": "Test whether the current construction gives bodily deformation a new object or merely inserts another formed stage."
         }
       ]
     },
     {
-      "artist": "Federsen, Estray",
-      "track": "Mareas Tranquilas",
-      "album": "Dubalearic",
-      "releaseDate": "2026-06-29",
+      "artist": "Remco Beekwilder",
+      "track": "Looping Motif",
+      "album": "Delirium, Vol. IV",
+      "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "An exact current listing and exact public Spotify result support lookup; the title and metadata do not prove repetition behavior, energy, density, endpoint, phrase structure or mixability.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno identifies Mareas Tranquilas as the exploratory tech-house choice within a collaboration joining analogue restraint and tape delay to rhythm schisms informed by African and Latin structures.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Juno lists Looping Motif inside Transition's twelve-track compilation, whose review distinguishes a plunging techno field and late label-regular sequence. It does not individually describe this track.",
+        "editorialInterpretation": "Do not infer loop structure from the title. If selected, treat compilation framing as context rather than exact behavior.",
         "measured": [
-          "Juno lists the exact track and 2026-06-29 release context; duration is not shown in the excerpt; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists the exact track at 4:40 and the compilation at 2026-09-10; public Spotify search exposes an exact song result.",
+          "Exact market-SE identity, duration and release metadata require resolver evidence."
         ]
       },
-      "fitHypothesis": "A restrained exploratory hybrid could mediate machine-to-hand-drum mutation before self-stripping percussion without requiring one sonic room.",
+      "fitHypothesis": "A current Transition track could test whether crooked accumulation benefits from an intermediate recirculation before the directed surge.",
       "proposedPlacements": [
         {
-          "position": "Between Amor and Elemental Dream",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "position": "Between Pulse I and Roxellana",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether restrained hybrid rhythm gives Elemental Dream a new material to strip rather than inserting another complete groove."
+          "purpose": "Test whether an intermediate track changes the surge's source or merely delays it; the title itself supplies no behavior claim."
         }
       ]
     },
     {
-      "artist": "Steve Stoll",
-      "track": "Ugar De Alegria",
-      "album": "Evolucion Acida",
-      "releaseDate": "2026-06-29",
+      "artist": "oscar4eva",
+      "track": "Still Kukin Master Revision",
+      "album": "666ridims (2020 - 2026)",
+      "releaseDate": "2026-09-03",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact tracklist and collection-level rhythmic framing justify resolution; they do not distinguish this track's individual form.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Ugar De Alegria as the roomier and more atmospheric track on the release.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Meakusma frames the collection around transformed rhythm, swing, odd meters, polyrhythm, improvisation and speculative club forms. No individual description was found for Still Kukin Master Revision.",
+        "editorialInterpretation": "Treat the collection framing as a belonging hypothesis only; do not infer the individual track's direction, endpoint or handoffs.",
         "measured": [
-          "Juno lists the exact artist/title, 5:53 duration and 2026-06-29 release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists Still Kukin at 4:06; Bandcamp and Clone preserve the longer Master Revision title variant.",
+          "Exact Spotify identity, duration and title normalization require resolver evidence."
         ]
       },
-      "fitHypothesis": "A roomier atmospheric state could test whether the opening suspension needs a more defined intermediate space before fixed-kick re-entry.",
+      "fitHypothesis": "A concise speculative-grid construction could interrupt the opening derailment before suspension if it creates a bounded consequence rather than another premise.",
       "proposedPlacements": [
         {
-          "position": "Between Tender Is The Night and Egue into hs",
-          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
-          "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+          "position": "Between Encasadelciegoeltuerco and Tender Is The Night",
+          "precedingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "followingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether an intermediate spacious state changes the fixed-kick re-entry or merely lengthens the positively retained suspension."
+          "purpose": "Test whether a compact grid study gives the positively retained suspension a changed incoming condition rather than crowding the opening."
         }
       ]
     },
     {
-      "artist": "Carl Finlow",
-      "track": "Perpetual",
-      "album": "The Rawax Trilogy Part One",
-      "releaseDate": "2026-08-17",
+      "artist": "opo",
+      "track": "Shepard",
+      "album": "666ridims (2020 - 2026)",
+      "releaseDate": "2026-09-03",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/",
+      "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact tracklist and collection-level evidence justify resolution but do not establish individual sonic facts.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Perpetual as loosening its grip into a laid-back, colourful cosmic jaunt through incidental melodies and silky metallic pads.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Meakusma places Shepard inside a collection of transformed grids, improvisation, odd meters and polyrhythm. No differentiated track description was found.",
+        "editorialInterpretation": "Do not infer scalar illusion, rising motion or endpoint from the title Shepard.",
         "measured": [
-          "Juno lists the exact artist/title, 6:12 duration and 2026-08-17 release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists Shepard at 2:21 on the September 2026 compilation.",
+          "Exact Spotify identity and duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A loosened electro-cosmic passage could redirect the post-block character pivot before liminal percussion.",
+      "fitHypothesis": "A short transformed-grid study could create a bounded threshold before the exact protected trio begins without splitting either protected handoff.",
       "proposedPlacements": [
         {
-          "position": "Between Migration and Eyes of the Wind",
-          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether loosened incidental motion changes the liminal passage into an arrival rather than adding another complete side-world."
+          "purpose": "Test whether a concise threshold changes Transparency's re-entry condition while preserving both listener-protected handoffs."
         }
       ]
     },
     {
-      "artist": "Galaxy 2 Galaxy",
-      "track": "Hi-Tech Jazz (The Science)",
-      "album": "Galaxy 2 Galaxy (reissue)",
-      "releaseDate": "2026-06-22",
+      "artist": "names9s",
+      "track": "Its Free",
+      "album": "666ridims (2020 - 2026)",
+      "releaseDate": "2026-09-03",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
+      "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "Exact tracklist and collection framing justify lookup; they do not prove individual form or sequence consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno identifies Hi-Tech Jazz as the defining Detroit techno-and-jazz fusion highlight of the reissued EP.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "The collection joins freestyle/songwriting outlines and speculative club forms in odd meters. No exact-track description distinguishes Its Free.",
+        "editorialInterpretation": "Keep the outline/club-form ambiguity explicit; title and short duration do not establish lightness, release or mixability.",
         "measured": [
-          "Juno lists the exact artist/title, 8:12 duration and 2026-06-22 reissue context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Juno lists Its Free at 1:20 on the September 2026 compilation.",
+          "Exact Spotify identity and duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A long techno-jazz formation could give the dubwise staggered reset a deliberately different precursor, subject to proportionality.",
+      "fitHypothesis": "A very short outline could test whether the live-band pulse illusion needs a concise release before foreground transit.",
       "proposedPlacements": [
         {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the jazz-techno formation changes Trompe L'oeil's reset task or becomes an oversized complete scene before it."
+          "purpose": "Test whether a concise outline changes the live-band-to-transit handoff or merely interrupts it."
         }
       ]
     },
     {
-      "artist": "Carl Finlow",
-      "track": "Gatekeeper",
-      "album": "The Rawax Trilogy Part One",
-      "releaseDate": "2026-08-17",
+      "artist": "5indaSauce",
+      "track": "5222s5 Master",
+      "album": "666ridims (2020 - 2026)",
+      "releaseDate": "2026-09-03",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/charts/juno-recommends/629638-Juno_Recommends_Electro/33361863-Chart/",
+      "discoverySource": "https://meakusma.bandcamp.com/album/666ridims-2020-2026",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Attributed exact-track or clearly scoped release evidence supports resolution and evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+        "craftConvention": "The exact tracklist, duration and collection framing justify resolution; they do not establish individual direction, pulse or endpoint.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Gatekeeper as slowing into a heavyweight plod whose drums still kick.",
-        "editorialInterpretation": "Use only the cited construction as musical evidence; exact entry, exit, endpoint, perceived pulse and live mixability remain unknown.",
+        "attributedDescription": "Bandcamp exposes 5222s5 as one of only two currently streamable tracks in a collection framed by strange meters, polyrhythm and transformed grids, but supplies no differentiated prose.",
+        "editorialInterpretation": "Availability is not audio analysis. Do not infer behavior from the title or collection-wide framing.",
         "measured": [
-          "Juno lists the exact artist/title, 5:19 duration and 2026-08-17 release context; checked 2026-09-14.",
-          "Exact Spotify identity, duration and any unavailable BPM require resolver evidence."
+          "Bandcamp lists 5222s5 at 1:31; Juno lists 5222s5 Master at 1:34.",
+          "Exact Spotify identity, title and duration require resolver evidence."
         ]
       },
-      "fitHypothesis": "A slower heavyweight electro-plod could deepen the low-slung passage before renewed widening without relying on BPM smoothness.",
+      "fitHypothesis": "A compact grid fragment could punctuate foreground dissolution before machine-to-hand-drum mutation without becoming a second complete groove.",
       "proposedPlacements": [
         {
-          "position": "Between Serpentine Tale and Too Much Time",
-          "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+          "position": "Between Ikoyi and Amor",
+          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the plodding intermediate state gives renewed widening a different departure point or only extends the low-slung consequence."
+          "purpose": "Test whether a short fragment changes the dissolution-to-mutation relation rather than adding an unproven novelty beat."
         }
       ]
     }
