@@ -1,5 +1,79 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 228 — EXPLORE — internal resolutions that spend the successor's task — 2026-09-14
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique sequential canonical tracks, 53 matching annotations, an exact-order 53-track/52-transition generated map and a matching COMPLETE Spotify receipt. Both severe-anxiety listener repairs remain settled: Jay Mitta — *Sawa* and Lotic — *Carried* are absent, while Luigi Tozzi — *Tender Is The Night* remains canonical under explicit positive listener evidence. The clarification queue is empty, no REVISIT is TRIGGERED, and no objective defect is actionable. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 44–46. Automatic publishing is enabled. The repaired opening was excluded from placement testing.
+
+**Fresh exploration:** Run `2026-09-14T00:49:06Z-explore-228` inspected approximately 88 named tracks across current August–September 2026 Boomkat, Bandcamp and Third Room windows, Bandcamp Daily's August electronic survey, adjacent/emerging label trails and overlooked catalogue material. Completed Runs 221, 222, 223, 225 and 227 were excluded. Nine honest unused leads survived without padding, and no proposed boundary repeated a selected-candidate boundary from those five completed discovery runs.
+
+### Resolver chain
+
+- **runId:** `2026-09-14T00:49:06Z-explore-228`
+- **sourceCommit:** `021ec0a17f06bc2a672f13dd0507ff4d8cd8544e`
+- **request commit:** `b124acff6449e36bbc5acfd9139b9a95fd18cf80`
+- **snapshot commit:** `e43dacb8ba06dac24e9d7686469d5da71a2f34db`
+- **request fingerprint:** `fd38c6fbff5a16bbe7e668baee4112538d7d2a8ac509cb0dc9cf8ff777acf7de`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested = 3 exact selected candidates + 1 exact unevaluated alternate + 5 unresolved identities. No duplicates, substitutions, relinkings or technical failures occurred.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict; each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Verraco feat. Tils — *Untitled (Teamgeist Mix)*
+- Hyppia — *IVXVIII (MR TC Remix)*
+- Substance & Vainqueur — *Libration (Stone Version)*
+- Automatisme & Stefan Paulus — *Signal Body (Torpor Space)*
+- Acid Arab — *Mogador*
+
+Exact but unselected and unevaluated:
+
+- Immersion — *Megafauna* — `spotify:track:1XZnOcLIZkr1qRreGs2r4J` — *Megafauna*, `2026-06-17`, 294,706 ms.
+
+Warning preserved exactly:
+
+- Immersion — *Megafauna*: `Exact title/artist matched with release metadata variance: album requested "What Is Lost Will Return" but Spotify returned "Megafauna"; release date requested "2026-09-04" but Spotify returned "2026-06-17"`
+
+### Evaluator decisions
+
+#### DJ Carpenter — Tatiana — `spotify:track:58AdHNWPznp7kJ6C9RzxYE` — placement-specific REJECT
+
+- **Volume fit:** PASS. Steel City Dance Discs gives candidate-specific evidence of driving bass, rupturing drums and a sharp internal switch from dubstep toward techno and intermediate forms. “Rupturing” is not converted into listener emotion; the exact Spotify identity is 205,715 ms.
+- **Immediate transition:** FAIL only at the two tested placements. At `Tides Alternate → candidate → Serpentine Tale`, the candidate completes another internal cross-form switch after the opposed-speed balance, leaving *Serpentine Tale* to restate rather than transform the coiled consequence. At `Fulledge (Empty-40 Mix) → candidate → Capa`, the candidate inserts a complete switch after dissolution before *Capa*'s existing redirection, without changing *Capa*'s task.
+- **Surrounding three-to-five-track run:** FAIL proportionally through both `Hypnic Jerks → Tides Alternate → candidate → Serpentine Tale → Too Much Time` and `IF U WANT 2 → Fulledge (Empty-40 Mix) → candidate → Capa → Sarniezz`. Its concise duration does not remove the duplicated transformation logic.
+- **Long-form journey:** FAIL for these insertions only. The cross-form move is lawful and interesting, but each tested slot spends a transition already carried by the surrounding sequence.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT** at both Run 228 placements. Retain as genuinely interesting.
+
+#### Skee Mask — Clear Sky 909 — `spotify:track:5vn6SuYtShZP6leaOHff7Z` — placement-specific REJECT
+
+- **Volume fit:** PASS. Clone gives exact-track evidence of a deep-techno proposition with warm textures and fluid movement; warmth is not treated as listener emotion. The exact identity is 460,026 ms.
+- **Immediate transition:** FAIL only at `Nukumori → candidate → Jjochstubn`. The long, fluid reorientation creates a separate settled stage between *Nukumori*'s flare and *Jjochstubn*'s contaminated disassembly, while the source does not establish an endpoint that changes the successor's task.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Migration → Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole`. A conspicuous redirection is permitted, but this 7:40 insertion interrupts the already legible flare-to-disassembly-to-dead-space descent rather than changing it.
+- **Long-form journey:** FAIL for this insertion only. The candidate remains a valuable different-world discovery; the tested late-run placement adds a new room without altering the descent that follows.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
+
+#### Groove Armada — Body Action — `spotify:track:2Ln7sf8PIr0vsChmfAz7sH` — placement-specific REJECT
+
+- **Volume fit:** PASS. The artist's Bandcamp copy distinguishes the exact track as a stripped-back 808 workout. The exact Spotify identity is 331,508 ms; artist familiarity and adjacency carry no admission weight.
+- **Immediate transition:** FAIL only at `Drummz → candidate → Té de Cabello Blanco`. The candidate supplies a complete grounding stage after *Drummz*'s unpredictable-rhythm hinge, making *Té de Cabello Blanco*'s agitation-to-reassembly task less consequential rather than different.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Fragments → Drummz → candidate → Té de Cabello Blanco → Ikoyi`. The stripped construction resolves the local instability before the existing false-stability-to-dissolution passage can perform that work.
+- **Long-form journey:** FAIL for this insertion only. Simplicity and a clear 808 premise are lawful; here they make the middle passage more explicit without producing a new downstream condition.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
+
+### Auditor approval
+
+**APPROVED.** The immutable request was written only after reading live source SHA `021ec0a17f06bc2a672f13dd0507ff4d8cd8544e`. The matching schemaVersion 2 snapshot has the correct runId, sourceCommit, target, mode and fingerprint. Accounting reconciles: 9 requested = 3 exact selected candidates + 1 exact alternate + 5 unresolved. The exact warning and all five resolver errors are preserved. Only the three selected exact identities were evaluated, separately, at volume, immediate-transition, surrounding-run and long-form scales. Each rejection is limited to its named insertion or insertions; none relies on BPM, metadata-to-feeling inference, genre purity, novelty, one sonic room or the repaired opening. Auditor approves no canonical change, three local inspiration retentions and three doctrine-free global utility additions.
+
+### Durable result
+
+- STRANGE GAIT: **53 → 53 canonical tracks**; no reorder or annotation change.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains canonical.
+- The protected trio remains exact and contiguous at positions 44–46.
+- Local inspiration: three exact interesting tracks, five unresolved research leads, one exact unevaluated alternate and current Third Room / Steel City Dance Discs / Phase Group / Groove Armada / Automatisme windows retained.
+- EDITORIAL ENGINE — DISCOVERY POOL: **458 → 461 exact tracks**, adding *Tatiana*, *Clear Sky 909* and *Body Action*.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 88 inspected → 9 ranked leads → 4 exact resolutions + 5 unresolved → 3 selected evaluations + 1 unevaluated alternate → **0 ADD + 3 placement-specific REJECT** → 3 utility additions. Lead conversion is **9/88 (10.2%)**; exact-resolution conversion is **4/9 (44.4%)**; selected-candidate-to-ADD conversion is **0/3**. Across completed discovery Runs 87–228, excluding repairs and failed requests: **1,044 leads from approximately 6,540 inspections; 40 ADDs from 313 selected candidates**. The recent comparable ADD rate remains **1/10**; the musical no-ADD streak is nine completed discovery runs after Run 214. Twenty-three exact interesting tracks have been retained since that ADD. The run distinguishes three local costs—duplicated transformation, interrupted descent and premature grounding—without turning them into a general preference for smoothness or one sonic room. It does not prove any track globally incompatible, STRANGE GAIT complete, or any phrase/live transition result.
+
 ## Run 227 — EXPLORE — distinct intermediate worlds after listener repair — 2026-09-14
 
 **Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique sequential canonical tracks, 53 matching annotations, an exact-order 53-track/52-transition generated map and a matching COMPLETE Spotify receipt. Both severe-anxiety listener repairs are settled: Jay Mitta — *Sawa* and Lotic — *Carried* are absent, while Luigi Tozzi — *Tender Is The Night* remains canonical under explicit positive listener evidence. The clarification queue is empty, no REVISIT is TRIGGERED, and no objective defect is actionable. The protected `Transparency → When We Froze → Stardancer` order remains contiguous at positions 44–46. Automatic publishing is enabled. The repaired opening was excluded from placement testing.

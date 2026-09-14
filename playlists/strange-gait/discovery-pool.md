@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 228 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DJ Carpenter | Tatiana | `spotify:track:58AdHNWPznp7kJ6C9RzxYE` · https://open.spotify.com/track/58AdHNWPznp7kJ6C9RzxYE · https://steelcitydancediscs.bandcamp.com/track/tatiana | Exact 3:25.715 identity; rejected only at *Tides Alternate → Serpentine Tale* and *Fulledge (Empty-40 Mix) → Capa*. Its documented dubstep-to-techno switch remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Skee Mask | Clear Sky 909 | `spotify:track:5vn6SuYtShZP6leaOHff7Z` · https://open.spotify.com/track/5vn6SuYtShZP6leaOHff7Z · https://clone.nl/item83812.html | Exact 7:40.026 identity; rejected only at *Nukumori → Jjochstubn*. Its documented deep-techno fluid movement remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Groove Armada | Body Action | `spotify:track:2Ln7sf8PIr0vsChmfAz7sH` · https://open.spotify.com/track/2Ln7sf8PIr0vsChmfAz7sH · https://groovearmada.bandcamp.com/album/body-action | Exact 5:31.508 identity; rejected only at *Drummz → Té de Cabello Blanco*. The stripped-back 808 proposition remains genuinely interesting and entered the global utility ledger. |
+| UNRESOLVED | Verraco feat. Tils; Hyppia; Substance & Vainqueur; Automatisme & Stefan Paulus; Acid Arab | Untitled (Teamgeist Mix); IVXVIII (MR TC Remix); Libration (Stone Version); Signal Body (Torpor Space); Mogador | See discoveries.md Run 228 | Five Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| EXACT ALTERNATE | Immersion | Megafauna | `spotify:track:1XZnOcLIZkr1qRreGs2r4J` · https://open.spotify.com/track/1XZnOcLIZkr1qRreGs2r4J | Resolved but unselected and unevaluated; absent from the utility ledger. Album/date warning preserved in discoveries.md. |
+| WATCH | Third Room; Steel City Dance Discs; Phase Group; Groove Armada; Automatisme | Current August–September releases and compilation window | Sources above | Useful current, emerging and adjacent windows retained without promoting source language into energy, emotion, phrase fit or mixability. |
+
+### Placement and inspiration boundaries
+
+- All three rejections are scoped to the named insertions; none of the tracks is globally rejected.
+- The five unresolved leads and exact alternate receive no musical verdict and do not enter the global utility ledger.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. The protected trio was untouched.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 227 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

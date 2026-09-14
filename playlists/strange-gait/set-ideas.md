@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 228
+
+### Internal resolution can spend the next track's job
+
+**Direction:** Test whether a candidate's own switch, reorientation or grounding creates a new downstream condition. A complete internal movement can be compelling yet weaken a sequence when it performs the successor's existing task in advance.
+
+**Ingredients:**
+
+- Donato Dozzy — *Tides Alternate* → Baby Ford — *Serpentine Tale* — existing opposed-speed balance into coiled consequence
+- DJ Carpenter — *Tatiana* — exact cross-form switch rejected only at the two tested Run 228 placements
+- DJRUM — *Nukumori* → Curbside Lambsear — *Jjochstubn* — existing flare into contaminated disassembly
+- Skee Mask — *Clear Sky 909* — exact long fluid reorientation rejected only between those tracks
+- Clotur — *Drummz* → Piezo — *Té de Cabello Blanco* — existing unpredictable hinge into agitation and reassembly
+- Groove Armada — *Body Action* — exact stripped 808 grounding rejected only between those tracks
+
+**Why interesting:** The comparison preserves hard left turns and different production worlds while asking whether the candidate changes the successor's work or quietly completes it too early.
+
+**Boundary:** These are placement lessons and set directions, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred. The repaired opening is outside this idea.
+
 ## Current additions — Run 227
 
 ### A complete side-world must alter the return
