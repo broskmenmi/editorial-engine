@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 233 — EXPLORE — intermediate worlds and successor work
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No actionable REPAIR emerged, so the lane was EXPLORE.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, six exact resolutions, three selected candidates, three exact unevaluated alternates and three unresolved identities. K Wata — *Looking Glass* (`spotify:track:3RGXDuOq0wgDShBGeFgpKt`) is rejected only at `Trompe L'oeil → candidate → FELT`; its long rugged dub-material stage extends the existing reset without changing FELT's task. Yuu Udagawa — *Little Secrets* (`spotify:track:4vg2vRYM5Pfx0vpfLa6E97`) is rejected only at `Never Met → candidate → Trompe L'oeil`; its full groove premise delays the existing reset without an evidenced changed consequence. Takuya Matsumoto — *Jump Rope Music* (`spotify:track:0yaokMg3ZegDO08b6VE0qy`) is PARKED after two placement tests because analogue warmth does not establish direction, endpoint or either local-run consequence.
+
+STRANGE GAIT remains 54 tracks. The global utility ledger becomes 470 tracks by retaining all three evaluated exact identities. Three unresolved errors, three exact alternates and all six resolver warnings remain preserved. Audio and live mixing were not tested.
+
+Run 233: `~92 inspected → 9 leads → 6 exact + 3 unresolved → 3 evaluations + 3 alternates → 0 ADD + 2 scoped REJECT + 1 PARKED → 3 utility additions`. Across completed Runs 87–233: 1,071 leads / ~6,797 inspections / 41 ADDs / 322 selected candidates. Recent comparable ADD rate: 1/10. The musical no-ADD streak is two completed runs after Run 231; six exact interesting tracks have been retained since that ADD. The varied boundary set and candidate-specific evidence support playlist maturity over a repeated placement or epistemic-veto defect. No actionable REPAIR emerges.
+
 ## Run 232 — EXPLORE — contrast without invented direction
 
 Pre-audit reconciled 54 canonical identities, 54 annotations, the exact-order generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. No actionable REPAIR emerged, so the lane was EXPLORE and the repaired opening stayed outside placement testing.

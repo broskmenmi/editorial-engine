@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 233 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | K Wata | Looking Glass | `spotify:track:3RGXDuOq0wgDShBGeFgpKt` · https://open.spotify.com/track/3RGXDuOq0wgDShBGeFgpKt · https://boomkat.com/products/give-u-space | Exact 7:13.599 identity; rejected only at *Trompe L'oeil → FELT*. Its reserved, rugged dub-noise construction remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PARKED | Takuya Matsumoto | Jump Rope Music | `spotify:track:0yaokMg3ZegDO08b6VE0qy` · https://open.spotify.com/track/0yaokMg3ZegDO08b6VE0qy · https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3 | Exact 5:51.062 identity; analogue-warmth evidence supports interest, while direction and endpoint remain decision-critical unknowns. Entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Yuu Udagawa | Little Secrets | `spotify:track:4vg2vRYM5Pfx0vpfLa6E97` · https://open.spotify.com/track/4vg2vRYM5Pfx0vpfLa6E97 · https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3 | Exact 6:04.958 identity; rejected only at *Never Met → Trompe L'oeil*. Its high-tech jazz-house groove remains genuinely interesting and entered the global utility ledger. |
+| UNRESOLVED | Lusine; DJ Eiji Takehana feat. Yusuke Nakamura; AcidGelge | Bird's Eye; Deep Track Jazz; Fatality 4 | See discoveries.md Run 233 | One ambiguous exact match and two Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| EXACT ALTERNATES | K Wata; XTAL; K Wata | There Will Be Love; Skygazer; I Gotta | See discoveries.md Run 233 | Resolved but unselected and unevaluated; absent from the utility ledger. |
+| WATCH | Ghostly International / Lusine; Short Span / K Wata; Cosmocities | Current September release and adjacent-world windows | Sources above and in scout-request.json | Useful current, emerging and adjacent windows retained without promoting source prose into untested behavior. |
+
+### Placement and inspiration boundaries
+
+- Both rejections are scoped to the named insertions; neither track is globally rejected.
+- *Jump Rope Music* is PARKED, not rejected or admitted.
+- Unresolved outcomes and exact alternates receive no musical verdict and do not enter the utility ledger.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 232 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

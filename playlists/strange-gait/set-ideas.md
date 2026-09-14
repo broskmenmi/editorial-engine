@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 233
+
+### A reset must leave different work for formation
+
+**Direction:** Compare intermediate dub or groove scenes by what they leave the successor to accomplish. A compelling material world can remain useful discovery even when it merely prolongs a reset or supplies a complete premise before another reset.
+
+**Ingredients:**
+
+- Sam Prekop — *Never Met* → Wheelman — *Trompe L'oeil* → JWords — *FELT* — existing passing-foreground, dubwise-reset and groove-formation passage
+- K Wata — *Looking Glass* — exact rugged dub-noise counterexample rejected only between *Trompe L'oeil* and *FELT*
+- Yuu Udagawa — *Little Secrets* — exact high-tech jazz-house groove counterexample rejected only between *Never Met* and *Trompe L'oeil*
+- Piezo — *Té de Cabello Blanco* → Ibrahim Alfa Jnr — *Ikoyi* → Valesuchi — *Amor* — existing reassembly, foreground dissolution and mutation passage
+- Takuya Matsumoto — *Jump Rope Music* — exact PARKED adjacent-world proposition whose direction and exit remain unknown
+
+**Why interesting:** The comparison keeps dub, jazz-house and analogue electronic worlds available while asking whether the insertion creates a changed downstream condition.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, emotional-safety claim, phrase-fit statement or live-mixing edge.
+
 ## Current additions — Run 232
 
 ### Material contrast still needs a direction

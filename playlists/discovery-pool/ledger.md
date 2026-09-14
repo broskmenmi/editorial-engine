@@ -471,6 +471,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 465 | Alex Wilcox | Summer Sunday | spotify:track:281Sxhz9RiWXSZ1qepzG4C | STRANGE GAIT Run 232 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 466 | Lenson | Plexus | spotify:track:7xe6mb1S6c1x81mLQbZZ8C | STRANGE GAIT Run 232 | PARKED / interesting | 2026-09-14 |
 | 467 | Alex Wilcox | Berlin Bells | spotify:track:6rGqiwPd5Mdsx5Wxg9rKnL | STRANGE GAIT Run 232 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 468 | K Wata | Looking Glass | spotify:track:3RGXDuOq0wgDShBGeFgpKt | STRANGE GAIT Run 233 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 469 | Takuya Matsumoto | Jump Rope Music | spotify:track:0yaokMg3ZegDO08b6VE0qy | STRANGE GAIT Run 233 | PARKED / interesting | 2026-09-14 |
+| 470 | Yuu Udagawa | Little Secrets | spotify:track:4vg2vRYM5Pfx0vpfLa6E97 | STRANGE GAIT Run 233 | Placement-specific REJECT / interesting | 2026-09-14 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
