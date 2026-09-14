@@ -36,27 +36,28 @@
 | 30 | Peverelist | Pulse I | spotify:track:2PiW1SaL42KqLTpNSit9zY | 136 | ADD | Tilt — provisional crooked accumulation hinge | 2026-09-08 |
 | 31 | Shoal | Roxellana | spotify:track:3H1Vwgq7XXbfaOPhdL6NZt | — | ADD | Tilt — provisional uncontained-directed surge | 2026-09-09 |
 | 32 | aya | backsliding | spotify:track:7nPQD8wXUbAEaxGoLJxcWd | — | ADD | Tilt — provisional rhythm-to-dissonance dissolution hinge | 2026-09-10 |
-| 33 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | — | ADD | Tilt — provisional opposed-temporal-strain hinge before driving re-entry | 2026-09-11 |
-| 34 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
-| 35 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
-| 36 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | — | ADD | Tilt — provisional agitation-to-reassembly false-stability hinge | 2026-09-11 |
-| 37 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
-| 38 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
-| 39 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
-| 40 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 41 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional familiar-grid-to-frazzled fault line | 2026-09-12 |
-| 42 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
-| 43 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
-| 44 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 45 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 46 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 47 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
-| 48 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 49 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
-| 50 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
-| 51 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 52 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
-| 53 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 33 | Deas | Silent Tension | spotify:track:5itmPmAf94EtsfhSmTTEkg | — | ADD | Tilt — provisional delayed-repetition reformation before opposed temporal strain | 2026-09-14 |
+| 34 | FIS | Mildew Swoosh | spotify:track:51HYsxmD3pQ0aLT3619uWP | — | ADD | Tilt — provisional opposed-temporal-strain hinge before driving re-entry | 2026-09-11 |
+| 35 | CHANCEKNOT | Fragments | spotify:track:3wsskKLpimIuiDDCb6eHVv | 140 | ADD | Tilt — provisional driving re-escalation | 2026-09-06 |
+| 36 | Clotur | Drummz | spotify:track:6K07a5OAl8J6wqlcnCoT8i | 138 | ADD | Tilt — provisional unpredictable-rhythm hinge | 2026-09-07 |
+| 37 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | — | ADD | Tilt — provisional agitation-to-reassembly false-stability hinge | 2026-09-11 |
+| 38 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
+| 39 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
+| 40 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
+| 41 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 42 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional familiar-grid-to-frazzled fault line | 2026-09-12 |
+| 43 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
+| 44 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
+| 45 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 46 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 47 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 48 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
+| 49 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
+| 50 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
+| 51 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
+| 52 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 53 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 54 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
@@ -154,7 +155,7 @@ Whole-journey repair `2026-09-07T12:15:11Z-repair-whole-journey-52a` corrected t
 
 The user directly reports that Linear System — Transparency → Ignez — When We Froze → Len Faki — Stardancer comes in "perfect harmony" in this exact internal order when using Spotify Mix. That report protects only the two internal handoffs `Transparency → When We Froze` and `When We Froze → Stardancer`. `Truth in Noise → Transparency` remains provisional and unprotected.
 
-All fifty-three individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
+All fifty-four individual tracks remain provisional. No opener or ending is protected; only the two documented internal trio handoffs are protected.
 
 Pulse I uses 136 BPM as the working canonical tempo because Beatport reports 136 BPM; Newtone reports a conflicting 133 BPM. The conflict remains explicitly documented and must not be used to infer energy or mixability.
 
@@ -170,9 +171,9 @@ Do not add tracks merely to demonstrate another groove, texture, artist, product
 
 ## Current measured / working tempo trajectory
 
-`— → 136 → 136 → — → — → — → 134 → 135 → — → — → — → — → — → 130 → 140 → — → 140 → — → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → 140 → 138 → — → — → — → — → 138 → — → — → — → 143 → 140 → 137 → — → — → — → — → — → — → — BPM`
+`— → 136 → 136 → — → — → — → 134 → 135 → — → — → — → — → — → 130 → 140 → — → 140 → — → — → — → — → 137 → — → — → 130 → — → 138 → — → 139 → 136 → — → — → — → — → 140 → 138 → — → — → — → — → 138 → — → — → — → 143 → 140 → 137 → — → — → — → — → — → — → — BPM`
 
-`— Stadium Drive, Encasadelciegoeltuerco, Tender Is The Night, Egue into hs, Foundry, Worn Down, Atlantis, Hypnic Jerks, Tides Alternate, Freepass for Them, Raataja, Crawl, IF U WANT 2, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, Style Teef, Same Way, U Belong 2 Me, Migration, Eyes of the Wind, Nukumori, Jjochstubn, Rabbit Hole, Can I live, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
+`— Stadium Drive, Encasadelciegoeltuerco, Tender Is The Night, Egue into hs, Foundry, Worn Down, Atlantis, Hypnic Jerks, Tides Alternate, Freepass for Them, Raataja, Crawl, IF U WANT 2, Fulledge (Empty-40 Mix), Sarniezz, Never Met, FELT, LOVE YOUR ENEMIES, Roxellana, backsliding, Silent Tension, Mildew Swoosh, Té de Cabello Blanco, Ikoyi, Amor, Elemental Dream, Style Teef, Same Way, U Belong 2 Me, Migration, Eyes of the Wind, Nukumori, Jjochstubn, Rabbit Hole, Can I live, Invisible Warriors Of Light BPMs are unresolved; no tempo, perceived-pulse or energy inference is made for them.`
 
 `* Pulse I tempo conflict preserved: Beatport 136 BPM; Newtone 133 BPM.`
 

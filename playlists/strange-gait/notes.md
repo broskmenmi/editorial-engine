@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 231 — EXPLORE — reformation before strain
+
+Pre-audit reconciled both listener-authorized removals, the empty clarification queue, no TRIGGERED revisit, 53 canonical identities, 53 annotations, the 53-track generated map, both Spotify receipts and completed Repairs 229–230. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. No actionable REPAIR remained, so the lane was EXPLORE and the repaired opening stayed outside placement testing.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, seven exact resolutions, three selected candidates, four exact unevaluated alternates and two Spotify-SE misses. Deas — *I Won't Cry* is rejected only at `Hypnic Jerks → candidate → Tides Alternate` and `Moonwake → candidate → Raataja`; its swung vocal/chord scene adds another complete premise without changing either successor's task. Deas — *Waterfall* is rejected only at `Same Way → candidate → U Belong 2 Me`; its modular/vocal scene adds another body-pressure transformation before the existing threshold.
+
+**ADD Deas — *Silent Tension*** (`spotify:track:5itmPmAf94EtsfhSmTTEkg`) between *backsliding* and *Mildew Swoosh*. Its candidate-specific delayed chord repetitions, crisp clap fills and subtle vocal chops create a re-formed rhythmic state after dissolution, giving *Mildew Swoosh* a concrete state to strain. The exact five-track run is `Roxellana → backsliding → Silent Tension → Mildew Swoosh → Fragments`. This is provisional best-evidence sequencing; no emotional safety, phrase fit or live mixability is claimed.
+
+STRANGE GAIT becomes 54 tracks. The protected trio remains contiguous, now at positions 45–47. The global utility ledger becomes 464 tracks by retaining all three evaluated identities. Audio and live mixing were not tested.
+
+Run 231: `~76 inspected → 9 leads → 7 exact + 2 unresolved → 3 evaluations + 4 alternates → 1 ADD + 2 scoped REJECT → 3 utility additions`. Across completed Runs 87–231: 1,053 leads / ~6,616 inspections / 41 ADDs / 316 selected candidates. Recent comparable ADD rate: 1/10. Run 231 ends the nine-run no-ADD streak after Run 214. No actionable REPAIR emerges.
+
 ## Run 227 — EXPLORE — post-repair outward scan
 
 Pre-audit found both severe-anxiety listener repairs fully settled: *Sawa* and *Carried* are absent, *Tender Is The Night* remains canonical under positive listener evidence, the clarification queue is empty, and the protected trio is intact at positions 44–46. No actionable REPAIR or TRIGGERED revisit remained, so the repaired opening was excluded and the workflow returned to EXPLORE.

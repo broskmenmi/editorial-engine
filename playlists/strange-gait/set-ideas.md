@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 231
+
+### Reformation can sharpen the next instability
+
+**Direction:** Test whether an intermediate track creates a concrete re-formed state that makes the following destabilization more consequential. The same release can yield different sequence results when each track has individual evidence and a distinct downstream effect.
+
+**Ingredients:**
+
+- Dino Sabatini — *Roxellana* → Holy Tongue — *backsliding* — existing directed surge into rhythm-to-dissonance dissolution
+- Deas — *Silent Tension* — exact delayed-repetition reformation, provisionally added before temporal strain
+- FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments* — existing opposed temporal strain into driving re-entry
+- Deas — *I Won't Cry* and *Waterfall* — exact counterexamples retained after their tested insertions added premises without changing successors
+
+**Why interesting:** The comparison separates useful reformation from extra scene-setting. A candidate earns sequence space when the new state gives the successor different work, not merely because its groove or production world is strong.
+
+**Boundary:** This is an editorial set direction, not a proven transition, phrase-fit claim, emotional-safety claim or live-mixing edge. The repaired opening remains outside the idea.
+
 ## Current additions — Run 228
 
 ### Internal resolution can spend the next track's job

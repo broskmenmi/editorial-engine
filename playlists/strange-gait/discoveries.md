@@ -1,5 +1,75 @@
 # STRANGE GAIT — Discovery Log
 
+## Run 231 — EXPLORE — reformation before strain — 2026-09-14
+
+**Pre-audit:** EXPLORE. STRANGE GAIT entered with 53 unique sequential canonical tracks, 53 matching annotations, an exact-order 53-track/52-transition map and a matching COMPLETE Spotify receipt. Both listener repairs remain settled: Jay Mitta — *Sawa* and Lotic — *Carried* are absent, while Luigi Tozzi — *Tender Is The Night* remains canonical under positive listener evidence. The clarification queue is empty, no REVISIT is TRIGGERED and no objective defect is actionable. The protected `Transparency → When We Froze → Stardancer` order is contiguous at positions 44–46. Automatic publishing is enabled.
+
+**Fresh exploration:** Run `2026-09-14T01:51:57Z-explore-231` inspected approximately 76 named tracks across current September 2026 Clone charts, Bandcamp releases and Boomkat pre-orders, Resident Advisor's current field, adjacent June–August releases and overlooked catalogue windows. Completed Runs 222, 223, 225, 227 and 228 selected identities and boundaries were excluded. The repaired opening was not tested. Nine honest leads survived without padding.
+
+### Resolver chain
+
+- **runId:** `2026-09-14T01:51:57Z-explore-231`
+- **sourceCommit:** `a5d753f55789413cf614a6708cedf355c9281406`
+- **request commit:** `bb8b79ea8ae2c716c29150e6f17d8e04726bd2c9`
+- **snapshot commit:** `9e0cfaaf8e08ac85018696679547ed26e9af7341`
+- **request fingerprint:** `a885ce33d1fbc5043cba2e6d0a4f02deafc92b46c7fa7baf57ec57a18f65f473`
+- **resolver:** internally valid schemaVersion 2 `PARTIAL`; 9 requested = 3 exact selected candidates + 4 exact unevaluated alternates + 2 unresolved identities. No warnings, duplicates, substitutions, relinkings or technical failures occurred.
+
+### Resolver outcomes preserved
+
+Unresolved without musical verdict; both returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- gyrofield — *Great Jobs (Don't Wanna)*
+- Batu, Donato Dozzy — *Drift*
+
+Exact but unselected and unevaluated:
+
+- Deas — *Where Do They Go* — `spotify:track:60GMp85P9xhal79T4LeYtw` — 264,805 ms.
+- Deas — *Here Again* — `spotify:track:7fhUtoLMFGcYlGTx8pAiWl` — 346,162 ms.
+- YL Hooi — *Running Around (83)* — `spotify:track:4lbR2kD63JRNSL8F9qPjuG` — 254,243 ms.
+- UFO95 — *Feed manipulation* — `spotify:track:0qa9ct2I7phL5LquhChST2` — 322,442 ms.
+
+### Evaluator decisions
+
+#### Deas — I Won't Cry — `spotify:track:35RdpkmUUsWja57u6jHWHT` — placement-specific REJECT
+
+- **Volume fit:** PASS. The official exact-track notes distinguish vocal sampling, warm chord progressions and rolling swung percussion anchored by bass. Warmth is not converted into listener emotion. Exact duration: 293,745 ms.
+- **Immediate transition:** FAIL only at the tested placements. At `Hypnic Jerks → candidate → Tides Alternate`, the track adds a complete swung vocal/chord premise between acceleration-orientation crisis and the existing opposed-speed balance. At `Moonwake → candidate → Raataja`, it inserts another settled rolling scene before the existing burst-and-disappearance crisis. Neither documented endpoint changes the successor's task.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Atlantis → Hypnic Jerks → candidate → Tides Alternate → Serpentine Tale` and `Freepass for Them → Moonwake → candidate → Raataja → Crawl`. Both runs become more explicit without gaining a different consequence.
+- **Long-form journey:** FAIL for these insertions only. The track remains a lawful different-world proposition, but both slots add another premise before an already consequential turn.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT** at both Run 231 placements. Retain as genuinely interesting.
+
+#### Deas — Waterfall — `spotify:track:53HydDXD3LmThmVp2ynk6U` — placement-specific REJECT
+
+- **Volume fit:** PASS. The official exact-track notes distinguish bleepy modular sequences, chopped vocal fragments and a sweeping drone above rolling bass. Exact duration: 306,600 ms; no sonic dimension is inferred from metadata alone.
+- **Immediate transition:** FAIL only at `Same Way → candidate → U Belong 2 Me`. The candidate adds a complete modular/vocal scene after alternating drum-bass body pressure, while the evidence does not establish an endpoint that changes *U Belong 2 Me*'s threshold transformation.
+- **Surrounding three-to-five-track run:** FAIL proportionally through `Style Teef → Same Way → candidate → U Belong 2 Me → Transparency`. The new scene lengthens the fault-line-to-threshold passage without changing its protected-block entry.
+- **Long-form journey:** FAIL for this insertion only. Its different production vocabulary is lawful, but the tested slot gains detail rather than direction.
+- **Verdict:** **PLACEMENT-SPECIFIC REJECT**. Retain as genuinely interesting.
+
+#### Deas — Silent Tension — `spotify:track:5itmPmAf94EtsfhSmTTEkg` — ADD
+
+- **Volume fit:** PASS. The official exact-track notes distinguish crisp clap fills, subtle vocal chops and delayed chord repetitions in a slow-burning groove. Exact duration: 363,207 ms. “Slow-burning” is an attributed construction description, not an inferred energy or emotional score.
+- **Immediate transition:** PASS provisionally at `backsliding → candidate → Mildew Swoosh`. After *backsliding* moves from rhythm toward dissonant dissolution, the candidate's delayed repetitions create a documented re-formed state; *Mildew Swoosh* can then impose opposed temporal strain on something concrete.
+- **Surrounding three-to-five-track run:** PASS provisionally through `Roxellana → backsliding → Silent Tension → Mildew Swoosh → Fragments`. Surge → dissolution → reformation → strain → driving re-entry is legible at local-run scale without requiring one sonic room or an invisible transition.
+- **Long-form journey:** PASS provisionally. The insertion creates a genuine new condition between dissolution and strain, strengthening the late-middle return rather than duplicating its next task.
+- **Verdict:** **ADD** between *backsliding* and *Mildew Swoosh*. The placement is provisional; audio, phrase fit, perceived pulse and live mixing remain untested.
+
+### Auditor approval
+
+**APPROVED.** The immutable request was written only after reading live source SHA `a5d753f55789413cf614a6708cedf355c9281406`. The matching schemaVersion 2 snapshot has the exact runId, sourceCommit, target, mode and fingerprint. Accounting reconciles: 9 requested = 3 selected exact candidates + 4 exact alternates + 2 unresolved. All resolver errors are preserved and there were no warnings or technical failures. Only selected exact identities were evaluated, separately, at volume, immediate-transition, exact three-to-five-track and long-form scales. The selected trio shares a release but not borrowed evidence: each has candidate-specific construction evidence, so the completed Repair 220 information-quality defect does not recur. Direct listener evidence was respected without inventing a blanket intensity ban. Both protected handoffs remain intact. Auditor approves one ADD, two placement-specific rejections, three local/global retentions and no other mutation.
+
+### Durable result
+
+- STRANGE GAIT: **53 → 54 canonical tracks**; add Deas — *Silent Tension* between *backsliding* and *Mildew Swoosh*.
+- Protected internal order remains `Transparency → When We Froze → Stardancer`, now positions 45–47.
+- Local inspiration retains all three evaluated exact tracks, two unresolved research leads, four exact unevaluated alternates and the current DEAS/CROWD, Field Research, Timedance/!K7, Efficient Space and TSSRCT windows.
+- EDITORIAL ENGINE — DISCOVERY POOL: **461 → 464 exact tracks**, adding the three evaluated identities.
+- Journey annotations add *Silent Tension* as a provisional delayed-repetition reformation before opposed temporal strain; generated map outputs are left to GitHub Actions.
+- Audio analysis: **NOT TESTED**. Live mixing: **NOT TESTED**.
+
+**RUN ANALYSIS:** Approximately 76 inspected → 9 ranked leads → 7 exact resolutions + 2 unresolved → 3 evaluations + 4 unevaluated alternates → **1 ADD + 2 placement-specific REJECT** → 3 utility additions. Across completed discovery Runs 87–231, excluding repairs and failed requests: **1,053 leads from approximately 6,616 inspections; 41 ADDs from 316 selected candidates**. Inspection-to-lead conversion is **11.8%**, resolution yield **77.8%**, and selected-candidate-to-ADD conversion is **33.3%**. The recent comparable ADD rate is **1/10**. Run 231 ends the nine-completed-run no-ADD streak after Run 214. The result does not prove any live transition or phrase fit, does not globally reject *I Won't Cry* or *Waterfall*, and does not turn Spotify-SE identity loss into a musical verdict.
+
 ## Run 230 — REPAIR — Run 228 local-window representation — 2026-09-14
 
 **Trigger and repair:** Final read-back found that the *Clear Sky 909* surrounding-run line named six tracks even though the evaluator contract requires a three-to-five-track window. The evidence span was corrected from `Migration → Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole` to the exact five-track run `Eyes of the Wind → Nukumori → candidate → Jjochstubn → Rabbit Hole`. The candidate, placement, evidence and placement-specific REJECT verdict are unchanged.

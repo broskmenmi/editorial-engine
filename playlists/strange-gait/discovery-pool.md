@@ -1,5 +1,24 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 231 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Deas | I Won't Cry | `spotify:track:35RdpkmUUsWja57u6jHWHT` · https://open.spotify.com/track/35RdpkmUUsWja57u6jHWHT · https://deas.bandcamp.com/album/crowd012-silent-tension | Exact 4:53.745 identity; rejected only at *Hypnic Jerks → Tides Alternate* and *Moonwake → Raataja*. Its swung vocal/chord construction remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Deas | Waterfall | `spotify:track:53HydDXD3LmThmVp2ynk6U` · https://open.spotify.com/track/53HydDXD3LmThmVp2ynk6U · https://deas.bandcamp.com/album/crowd012-silent-tension | Exact 5:06.600 identity; rejected only at *Same Way → U Belong 2 Me*. Its modular sequence, vocal-fragment and drone construction remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / CANONICAL ADD | Deas | Silent Tension | `spotify:track:5itmPmAf94EtsfhSmTTEkg` · https://open.spotify.com/track/5itmPmAf94EtsfhSmTTEkg · https://deas.bandcamp.com/album/crowd012-silent-tension | Exact 6:03.207 identity; added between *backsliding* and *Mildew Swoosh*. Delayed chord repetitions create a re-formed state before opposed temporal strain. Also entered the global utility ledger. |
+| UNRESOLVED | gyrofield; Batu, Donato Dozzy | Great Jobs (Don't Wanna); Drift | See discoveries.md Run 231 | Two Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| EXACT ALTERNATES | Deas; Deas; YL Hooi; UFO95 | Where Do They Go; Here Again; Running Around (83); Feed manipulation | See discoveries.md Run 231 | Resolved but unselected and unevaluated; absent from the utility ledger. |
+| WATCH | CROWD / DEAS; Field Research / gyrofield; Timedance / !K7; Efficient Space; TSSRCT | Current and forthcoming release windows | Sources above and in scout-request.json | Useful current, emerging and adjacent windows retained without promoting listing prose into untested behavior. |
+
+### Placement and inspiration boundaries
+
+- Both rejections are scoped to the named insertions; neither track is globally rejected.
+- *Silent Tension* is a provisional canonical ADD, not a phrase-fit or live-mixing claim.
+- The two unresolved leads and four exact alternates receive no musical verdict and do not enter the global utility ledger.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 228 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
