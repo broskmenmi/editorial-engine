@@ -1,65 +1,64 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "8addefdcc79b6fe331d612fb82f6c51bcf768db434061e4a865e684042d65f61",
-  "generatedAt": "2026-09-14T03:58:28.727Z",
-  "runId": "2026-09-14T03:53:59Z-explore-233",
-  "sourceCommit": "f6ed82d491a075beb6c954a3d56c2e38d76e6c1c",
+  "requestFingerprint": "54d4997dc97072a867ab51dc492db00e6372500818d79987b47efe1006c606d5",
+  "generatedAt": "2026-09-14T04:56:09.789Z",
+  "runId": "2026-09-14T04:56:30Z-explore-235",
+  "sourceCommit": "1624d5ce0194f1ace803ecbe762af533264f2250",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 92 named tracks across Boomkat's current September 2026 electronic/techno arrivals, targeted Ghostly, Short Span, TraTraTrax and Cosmocities pages, plus current Bandcamp and catalogue cross-checks. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 86 named tracks across Juno's current September 2026 techno arrivals and preorders, Resident Advisor's current singles/albums reviews, Boomkat's new-release index, plus targeted adjacent and overlooked-catalogue cross-checks. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. No placement disturbs those resolved decisions.",
-      "Completed Runs 227, 228, 231 and 232 selected identities were excluded; proposed boundaries were compared against the previous five completed discovery runs and recently repeated candidate boundaries were avoided.",
-      "Every ranked artist/title pair was checked against canonical state, target-local discovery history, rejection/PARKED state and the global utility ledger.",
+      "Jay Mitta — Sawa and Lotic — Carried remain removed after severe listener feedback; Luigi Tozzi — Tender Is The Night remains positively retained. Threat- and panic-coded propositions were deprioritized without creating a genre or intensity ban.",
+      "Completed Runs 227, 228, 231, 232 and 233 selected identities were excluded. Top-three proposed boundaries were compared against those five runs and none repeats a recently tested boundary.",
+      "Every ranked artist/title pair was checked against canonical state, target-local discovery history, rejection/PARKED state and the global utility ledger. Previously retained COW, Rene Wise, Alex Wilcox, K Wata, Arovane, RHR, Reptant and Anthony Naples identities were excluded.",
       "No proposed placement splits Transparency → When We Froze → Stardancer.",
-      "The top three leads come from three different releases and all carry candidate-specific evidence. Lower-ranked same-release leads retain individual descriptions; I Gotta is explicitly ranked last because its evidence is weaker.",
-      "Ghost Dubs' current Oblique material was inspected but excluded because its source foregrounds dread, cinematic darkness and related threat-coded framing. This is a run-level prioritization after direct listener evidence, not a blanket intensity, dub or genre ban."
+      "The top three carry candidate-specific descriptions. Seduction and Tus Manos share a release but document materially different directions; their independent ranking is informational, not an artist or texture quota.",
+      "Run 234 was REQUEST_NOT_COMPLETED before identity resolution because its first preceding URI was stale. This new runId preserves the scan while deriving every placement URI from the current canonical ledger."
     ],
     "rankedLeadSummary": [
-      "1. Lusine — Bird's Eye",
-      "2. K Wata — Looking Glass",
-      "3. DJ Eiji Takehana feat. Yusuke Nakamura — Deep Track Jazz",
-      "4. Takuya Matsumoto — Jump Rope Music",
-      "5. Yuu Udagawa — Little Secrets",
-      "6. K Wata — There Will Be Love",
-      "7. AcidGelge — Fatality 4",
-      "8. XTAL — Skygazer",
-      "9. K Wata — I Gotta"
+      "1. G Rush — Seduction",
+      "2. Kaufmann — People Are Strange",
+      "3. G Rush feat. Lucie — Tus Manos",
+      "4. G Rush — Spectra",
+      "5. Steve Bug — Ebb & Flow",
+      "6. François X — Just A Feeling",
+      "7. Section 6 — Yamamoto",
+      "8. Havantepe — Converge",
+      "9. G Rush — Just Friendz"
     ],
     "sourceWindows": [
-      "CURRENT RELEASE WINDOW: Lusine — Melting Days, with exact notes for Bird's Eye and other individually described tracks. https://boomkat.com/products/melting-days",
-      "CURRENT / EMERGING WINDOW: K Wata — Give U Space on Short Span, with individual notes for Looking Glass, There Will Be Love and I Gotta. https://boomkat.com/products/give-u-space",
-      "ADJACENT / COMPILATION WINDOW: Denshi Ongaku No Bigaku Vol. 3 on Cosmocities, with individual descriptions for Deep Track Jazz, Jump Rope Music, Little Secrets, Fatality 4 and Skygazer. https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-      "CURRENT CROSS-CHECK: Boomkat new releases and TraTraTrax's Los Totes Vol. 3 were inspected; previously retained or persistent identities were excluded.",
-      "OVERLOOKED / CATALOGUE CROSS-CHECK: Bandcamp rhythm-led catalogue material and Deepblak/Cold Blow context were inspected without padding the final lead set."
+      "CURRENT RELEASE WINDOW: Juno Techno This Week, 72 current techno releases plus adjacent and preorder listings, checked 2026-09-14. https://www.juno.co.uk/techno/this-week/",
+      "CURRENT REVIEW WINDOW: Resident Advisor reviews index and current Reptant, RHR and Fauzia reviews were inspected; persistent identities were excluded. https://ra.co/reviews",
+      "CURRENT CROSS-CHECK: Boomkat new releases was inspected for non-duplicate release windows. https://boomkat.com/new-releases",
+      "OVERLOOKED / CATALOGUE CROSS-CHECK: reissues and back-catalogue-linked entries within the same current windows were inspected; persistent Arovane, Eddie Richards and François X identities were excluded except the exact unrecorded Just A Feeling lead."
     ],
-    "timestampUtc": "2026-09-14T03:53:59Z"
+    "timestampUtc": "2026-09-14T04:56:30Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 6,
-  "candidateCount": 3,
+  "resolvedCount": 1,
+  "candidateCount": 1,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Lusine",
-      "track": "Bird's Eye",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3eQS0faku2vB0dP8WTne9v, 6TQ3NtTlkAcAStLEfTarrZ)",
+      "artist": "G Rush",
+      "track": "Seduction",
+      "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Lusine",
-        "track": "Bird's Eye",
-        "album": "Melting Days",
-        "releaseDate": "2026-09-18",
+        "artist": "G Rush",
+        "track": "Seduction",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/melting-days",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Bird's Eye by metallic hits fluttering around an eroded central rhythm while pads remain in the background.",
+          "attributedDescription": "Juno distinguishes Seduction as the point where the release lifts its preceding fog into a bass-led movement with vocal utterances.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the documented eroded-rhythm construction makes the micro-repetition-to-acceleration passage more consequential rather than merely slowing its arrival.",
+          "editorialInterpretation": "Test whether the documented clearing movement creates a consequential bridge from cross-rhythmic conflict into funk re-grounding rather than adding another complete scene.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -67,47 +66,38 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current ambient/IDM/techno-adjacent proposition with exact-track rhythmic evidence; ambient framing alone neither grants nor denies belonging.",
+        "fitHypothesis": "A current techno proposition with an individually described structural change; vocal and bass language is relevant to rhythmic-form freedom without guaranteeing sequence value.",
         "proposedPlacements": [
           {
-            "position": "Between Atlantis and Hypnic Jerks",
-            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether eroded rhythm creates a distinct threshold before acceleration crisis."
-          },
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether backgrounded pads and eroded rhythm alter the foreground-dissolution-to-hand-drum mutation passage."
+            "purpose": "Test whether a documented clearing movement changes the conflict-to-re-grounding handoff."
           }
         ]
       }
     },
     {
-      "artist": "DJ Eiji Takehana feat. Yusuke Nakamura",
-      "track": "Deep Track Jazz",
+      "artist": "Kaufmann",
+      "track": "People Are Strange",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DJ Eiji Takehana feat. Yusuke Nakamura",
-        "track": "Deep Track Jazz",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "Kaufmann",
+        "track": "People Are Strange",
+        "album": "A-Sides Vol. 14 V5",
+        "releaseDate": "2026-09-09",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat describes Deep Track Jazz individually as a futuristic techno-swing fusion.",
+          "attributedDescription": "Juno says People Are Strange flips a familiar vocal hook into a tougher, more physical form.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether this documented adjacent-world movement redirects the piano-to-break pivot into liminal percussion without making the change feel accidental.",
+          "editorialInterpretation": "Test whether the documented vocal transformation gives the pulse-illusion-to-passing-foreground handoff a changed premise rather than merely another hook.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -115,38 +105,38 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A cross-form techno/jazz proposition whose exact-track rhythmic fusion is relevant to the selection lens; novelty is not an admission reason.",
+        "fitHypothesis": "A current vocal-transformation proposition; recognisability or physicality alone is not an admission reason.",
         "proposedPlacements": [
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether techno-swing fusion creates a changed condition for the liminal-percussion passage."
+            "purpose": "Test whether the transformed hook changes the existing metric-left-turn to passing-foreground relation."
           }
         ]
       }
     },
     {
-      "artist": "AcidGelge",
-      "track": "Fatality 4",
+      "artist": "G Rush feat. Lucie",
+      "track": "Tus Manos",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "AcidGelge",
-        "track": "Fatality 4",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "G Rush feat. Lucie",
+        "track": "Tus Manos",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat describes Fatality 4 individually as a spacey, atmospheric finale suspended between club and cosmic material.",
+          "attributedDescription": "Juno distinguishes Tus Manos as the release's return from the preceding bass-led lift toward a lighter movement.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a possible post-afterword continuation without inferring calm, safety or emotional effect from the source metaphor.",
+          "editorialInterpretation": "Test whether the documented return movement creates a deliberate re-entry between suspension and widening without inferring emotional safety from the source language.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -154,16 +144,211 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An adjacent electronic finale proposition with a plausible long-form extension hypothesis.",
+        "fitHypothesis": "A current techno/tech-house proposition with an individually described directional return; mood wording is not treated as listener-effect evidence.",
         "proposedPlacements": [
           {
-            "position": "After Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "followingUri": null,
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether it extends the afterword with consequence rather than replacing a complete close."
+            "purpose": "Test whether a documented return movement changes fixed-kick re-entry into widening."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "G Rush",
+      "track": "Spectra",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "G Rush",
+        "track": "Spectra",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno describes Spectra as the opening movement of an increasingly dark and murky textural turn across the release's first pair.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Preserve an exact current lead whose directional development is described, while leaving emotional effect unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current textural-development proposition with plausible volume fit.",
+        "proposedPlacements": [
+          {
+            "position": "Between Rabbit Hole and Can I live",
+            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether gradual textural development changes the afterword approach."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Steve Bug",
+      "track": "Ebb & Flow",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Steve Bug",
+        "track": "Ebb & Flow",
+        "album": "The Dark Lion",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno lists Ebb & Flow as a 5:41 exact track on Steve Bug's current Dubwax release.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Treat the exact current dub-tech identity as a credible resolver lead; direction and endpoint remain unproven.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current dub-tech lead whose title and label context justify serious resolution but not a verdict.",
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the dub-tech proposition deepens widening into swung continuation."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Section 6",
+      "track": "Yamamoto",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Section 6",
+        "track": "Yamamoto",
+        "album": "Section 6: Part 2",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno lists Yamamoto as a 5:34 exact track on Repetitive Rhythm Research.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "The exact current identity and label context justify resolution, not inferred repetition, groove or mixability.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current techno lead from a rhythm-focused imprint with provisional selection-lens relevance.",
+        "proposedPlacements": [
+          {
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether it changes deformation into cross-rhythmic conflict."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Havantepe",
+      "track": "Converge",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Havantepe",
+        "track": "Converge",
+        "album": "Conform EP",
+        "releaseDate": "2026-10-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno distinguishes Converge with a harmonic-slosh description on Havantepe's forthcoming Conform EP.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Preserve a forthcoming exact lead with individual material evidence; release availability and identity require resolver confirmation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A forthcoming dub-tech proposition with candidate-specific material framing.",
+        "proposedPlacements": [
+          {
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the harmonic proposition changes self-stripping into the truth threshold."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "G Rush",
+      "track": "Just Friendz",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "G Rush",
+        "track": "Just Friendz",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno co-describes Just Friendz as the continuation of Spectra's increasingly dark and murky textural turn.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Ranked below individually clearer movements because the evidence is shared across the pair; preserve it without inventing an endpoint.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current techno lead with weaker shared development evidence than the higher-ranked exact candidates.",
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the textural turn changes micro-repetition into crooked accumulation; this boundary is lower-ranked because it appeared in Run 227."
           }
         ]
       }
@@ -171,53 +356,28 @@
   ],
   "warnings": [
     {
-      "artist": "K Wata",
-      "track": "Looking Glass",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-25\" but Spotify returned \"2026-05-15\""
-    },
-    {
-      "artist": "Takuya Matsumoto",
-      "track": "Jump Rope Music",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Denshi Ongaku No Bigaku Vol. 3\" but Spotify returned \"Drafting Under the Stars (Remaster)\"; release date requested \"2026-09-25\" but Spotify returned \"2010-01-01\""
-    },
-    {
-      "artist": "Yuu Udagawa",
-      "track": "Little Secrets",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Denshi Ongaku No Bigaku Vol. 3\" but Spotify returned \"Little Secrets\"; release date requested \"2026-09-25\" but Spotify returned \"2024-08-23\""
-    },
-    {
-      "artist": "K Wata",
-      "track": "There Will Be Love",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-25\" but Spotify returned \"2026-05-15\""
-    },
-    {
-      "artist": "XTAL",
-      "track": "Skygazer",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Denshi Ongaku No Bigaku Vol. 3\" but Spotify returned \"Skygazer\"; release date requested \"2026-09-25\" but Spotify returned \"2016-02-01\""
-    },
-    {
-      "artist": "K Wata",
-      "track": "I Gotta",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-25\" but Spotify returned \"2026-05-15\""
+      "artist": "François X",
+      "track": "Just A Feeling",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-11\" but Spotify returned \"2026-06-19\""
     }
   ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Lusine",
-        "track": "Bird's Eye",
-        "album": "Melting Days",
-        "releaseDate": "2026-09-18",
+        "artist": "G Rush",
+        "track": "Seduction",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/melting-days",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Bird's Eye by metallic hits fluttering around an eroded central rhythm while pads remain in the background.",
+          "attributedDescription": "Juno distinguishes Seduction as the point where the release lifts its preceding fog into a bass-led movement with vocal utterances.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the documented eroded-rhythm construction makes the micro-repetition-to-acceleration passage more consequential rather than merely slowing its arrival.",
+          "editorialInterpretation": "Test whether the documented clearing movement creates a consequential bridge from cross-rhythmic conflict into funk re-grounding rather than adding another complete scene.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -225,85 +385,37 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current ambient/IDM/techno-adjacent proposition with exact-track rhythmic evidence; ambient framing alone neither grants nor denies belonging.",
+        "fitHypothesis": "A current techno proposition with an individually described structural change; vocal and bass language is relevant to rhythmic-form freedom without guaranteeing sequence value.",
         "proposedPlacements": [
           {
-            "position": "Between Atlantis and Hypnic Jerks",
-            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+            "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether eroded rhythm creates a distinct threshold before acceleration crisis."
-          },
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether backgrounded pads and eroded rhythm alter the foreground-dissolution-to-hand-drum mutation passage."
+            "purpose": "Test whether a documented clearing movement changes the conflict-to-re-grounding handoff."
           }
         ]
       },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3eQS0faku2vB0dP8WTne9v, 6TQ3NtTlkAcAStLEfTarrZ)"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "Looking Glass",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes Looking Glass by reserved yet rugged dub noise.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the exact-track material creates a useful hinge from dubwise staggered swing into groove formation without borrowing the album's broader mood claims.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A current dub-tech proposition with exact-track material evidence and plausible rhythmic freedom.",
-        "proposedPlacements": [
-          {
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether rugged dub noise changes FELT's formation task rather than restating the reset."
-          }
-        ]
-      },
-      "spotifyTrackId": "3RGXDuOq0wgDShBGeFgpKt",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "DJ Eiji Takehana feat. Yusuke Nakamura",
-        "track": "Deep Track Jazz",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "Kaufmann",
+        "track": "People Are Strange",
+        "album": "A-Sides Vol. 14 V5",
+        "releaseDate": "2026-09-09",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat describes Deep Track Jazz individually as a futuristic techno-swing fusion.",
+          "attributedDescription": "Juno says People Are Strange flips a familiar vocal hook into a tougher, more physical form.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether this documented adjacent-world movement redirects the piano-to-break pivot into liminal percussion without making the change feel accidental.",
+          "editorialInterpretation": "Test whether the documented vocal transformation gives the pulse-illusion-to-passing-foreground handoff a changed premise rather than merely another hook.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -311,16 +423,130 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A cross-form techno/jazz proposition whose exact-track rhythmic fusion is relevant to the selection lens; novelty is not an admission reason.",
+        "fitHypothesis": "A current vocal-transformation proposition; recognisability or physicality alone is not an admission reason.",
         "proposedPlacements": [
           {
-            "position": "Between Migration and Eyes of the Wind",
-            "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether techno-swing fusion creates a changed condition for the liminal-percussion passage."
+            "purpose": "Test whether the transformed hook changes the existing metric-left-turn to passing-foreground relation."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "G Rush feat. Lucie",
+        "track": "Tus Manos",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno distinguishes Tus Manos as the release's return from the preceding bass-led lift toward a lighter movement.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Test whether the documented return movement creates a deliberate re-entry between suspension and widening without inferring emotional safety from the source language.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current techno/tech-house proposition with an individually described directional return; mood wording is not treated as listener-effect evidence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Egue into hs and Cave",
+            "precedingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "followingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a documented return movement changes fixed-kick re-entry into widening."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "G Rush",
+        "track": "Spectra",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno describes Spectra as the opening movement of an increasingly dark and murky textural turn across the release's first pair.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Preserve an exact current lead whose directional development is described, while leaving emotional effect unknown.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current textural-development proposition with plausible volume fit.",
+        "proposedPlacements": [
+          {
+            "position": "Between Rabbit Hole and Can I live",
+            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether gradual textural development changes the afterword approach."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Steve Bug",
+        "track": "Ebb & Flow",
+        "album": "The Dark Lion",
+        "releaseDate": "2026-09-11",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "attributedDescription": "Juno lists Ebb & Flow as a 5:41 exact track on Steve Bug's current Dubwax release.",
+          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
+          "editorialInterpretation": "Treat the exact current dub-tech identity as a credible resolver lead; direction and endpoint remain unproven.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "measured": [
+            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
+            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
+          ]
+        },
+        "fitHypothesis": "A current dub-tech lead whose title and label context justify serious resolution but not a verdict.",
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "If selected, test whether the dub-tech proposition deepens widening into swung continuation."
           }
         ]
       },
@@ -329,19 +555,19 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Takuya Matsumoto",
-        "track": "Jump Rope Music",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "François X",
+        "track": "Just A Feeling",
+        "album": "Bound States",
+        "releaseDate": "2026-09-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Jump Rope Music by analogue warmth within the compilation's movement from experimental electronics toward high-tech jazz-house groove.",
+          "attributedDescription": "Juno lists Just A Feeling as a 6:10 exact track on François X's current Bound States EP.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a current exact-track adjacent-world lead; warmth is attributed material language, not an inferred listener-emotion guarantee.",
+          "editorialInterpretation": "Treat the exact current identity as a credible techno lead while leaving all felt and structural properties unknown until exact evaluation evidence exists.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -349,116 +575,38 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An adjacent electronic proposition that may create useful contrast if its exact identity and placement evidence survive resolution.",
+        "fitHypothesis": "A current techno lead from an established artist; prestige supplies no admission value.",
         "proposedPlacements": [
           {
-            "position": "Between Té de Cabello Blanco and Ikoyi",
-            "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
+            "position": "Between Crawl and IF U WANT 2",
+            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the analogue-material turn changes Ikoyi's foreground-dissolution task."
+            "purpose": "If selected, test whether it alters sustained motion into opposed-material tension."
           }
         ]
       },
-      "spotifyTrackId": "0yaokMg3ZegDO08b6VE0qy",
+      "spotifyTrackId": "0q3x9BtRvRWEuSYb5px1EF",
       "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Yuu Udagawa",
-        "track": "Little Secrets",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat describes Little Secrets individually as a sophisticated high-tech jazz-house groove.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an exact groove proposition and test only if selected; sophistication or genre hybridity does not establish sequence value.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A high-tech jazz-house adjacent lead with exact-track groove framing and plausible STRANGE GAIT belonging.",
-        "proposedPlacements": [
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the groove changes the passing-foreground-to-dubwise-reset relation."
-          }
-        ]
-      },
-      "spotifyTrackId": "4vg2vRYM5Pfx0vpfLa6E97",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "There Will Be Love",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes There Will Be Love as a thirteen-minute expansive dub construction.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a long-form dub proposition while treating duration as evidence of scale, not proof of patience, hypnosis or emotional effect.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A long-form dub-tech proposition that could belong but carries a substantial sequence-space cost requiring exact evaluation.",
-        "proposedPlacements": [
-          {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the extended dub construction changes the formation-to-deformation passage rather than delaying it."
-          }
-        ]
-      },
-      "spotifyTrackId": "7zLQN2wFqkf6v9WkvEuWbW",
-      "selected": false
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "AcidGelge",
-        "track": "Fatality 4",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "Section 6",
+        "track": "Yamamoto",
+        "album": "Section 6: Part 2",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat describes Fatality 4 individually as a spacey, atmospheric finale suspended between club and cosmic material.",
+          "attributedDescription": "Juno lists Yamamoto as a 5:34 exact track on Repetitive Rhythm Research.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a possible post-afterword continuation without inferring calm, safety or emotional effect from the source metaphor.",
+          "editorialInterpretation": "The exact current identity and label context justify resolution, not inferred repetition, groove or mixability.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -466,37 +614,37 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An adjacent electronic finale proposition with a plausible long-form extension hypothesis.",
+        "fitHypothesis": "A current techno lead from a rhythm-focused imprint with provisional selection-lens relevance.",
         "proposedPlacements": [
           {
-            "position": "After Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "followingUri": null,
+            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether it extends the afterword with consequence rather than replacing a complete close."
+            "purpose": "If selected, test whether it changes deformation into cross-rhythmic conflict."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "XTAL",
-        "track": "Skygazer",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
+        "artist": "Havantepe",
+        "track": "Converge",
+        "album": "Conform EP",
+        "releaseDate": "2026-10-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Skygazer as the compilation's experimental-electronics movement.",
+          "attributedDescription": "Juno distinguishes Converge with a harmonic-slosh description on Havantepe's forthcoming Conform EP.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an experimental exact-track lead while acknowledging that the available description does not establish its direction or endpoint.",
+          "editorialInterpretation": "Preserve a forthcoming exact lead with individual material evidence; release availability and identity require resolver confirmation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -504,38 +652,37 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "An experimental electronic proposition with provisional selection-lens relevance and limited decision evidence.",
+        "fitHypothesis": "A forthcoming dub-tech proposition with candidate-specific material framing.",
         "proposedPlacements": [
           {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "position": "Between Elemental Dream and Truth in Noise",
+            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether its experimental turn changes the mutation passage."
+            "purpose": "If selected, test whether the harmonic proposition changes self-stripping into the truth threshold."
           }
         ]
       },
-      "spotifyTrackId": "5a6eapDIZEXRztFSPwuQLl",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "I Gotta",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
+        "artist": "G Rush",
+        "track": "Just Friendz",
+        "album": "Spectra EP",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat places I Gotta in relation to I-Sound's work with To Rococo Rot; this is weaker candidate-specific evidence than the higher-ranked K Wata tracks.",
+          "attributedDescription": "Juno co-describes Just Friendz as the continuation of Spectra's increasingly dark and murky textural turn.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an honest lower-ranked adjacent-world lead without inventing development, endpoint or mixability.",
+          "editorialInterpretation": "Ranked below individually clearer movements because the evidence is shared across the pair; preserve it without inventing an endpoint.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -543,55 +690,54 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A dub-tech adjacent catalogue connection with weaker individual evidence, ranked below better-described contenders.",
+        "fitHypothesis": "A current techno lead with weaker shared development evidence than the higher-ranked exact candidates.",
         "proposedPlacements": [
           {
-            "position": "Between Roxellana and backsliding",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "If selected, test whether the candidate changes surge-to-dissolution rather than adding an opaque intermediate stage."
+            "purpose": "If selected, test whether the textural turn changes micro-repetition into crooked accumulation; this boundary is lower-ranked because it appeared in Run 227."
           }
         ]
       },
-      "spotifyTrackId": "0j7NWqy5jJ6IX859FwuSur",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "3RGXDuOq0wgDShBGeFgpKt",
-      "uri": "spotify:track:3RGXDuOq0wgDShBGeFgpKt",
-      "name": "Looking Glass",
+      "id": "0q3x9BtRvRWEuSYb5px1EF",
+      "uri": "spotify:track:0q3x9BtRvRWEuSYb5px1EF",
+      "name": "Just A Feeling",
       "artists": [
-        "K Wata"
+        "François X"
       ],
-      "album": "Give U Space",
-      "releaseDate": "2026-05-15",
-      "durationMs": 433599,
-      "spotifyUrl": "https://open.spotify.com/track/3RGXDuOq0wgDShBGeFgpKt",
+      "album": "Bound States",
+      "releaseDate": "2026-06-19",
+      "durationMs": 369500,
+      "spotifyUrl": "https://open.spotify.com/track/0q3x9BtRvRWEuSYb5px1EF",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/give-u-space",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "position": "Between Crawl and IF U WANT 2",
+          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether rugged dub noise changes FELT's formation task rather than restating the reset."
+          "purpose": "If selected, test whether it alters sustained motion into opposed-material tension."
         }
       ],
-      "fitHypothesis": "A current dub-tech proposition with exact-track material evidence and plausible rhythmic freedom.",
+      "fitHypothesis": "A current techno lead from an established artist; prestige supplies no admission value.",
       "evidence": {
-        "attributedDescription": "Boomkat distinguishes Looking Glass by reserved yet rugged dub noise.",
+        "attributedDescription": "Juno lists Just A Feeling as a 6:10 exact track on François X's current Bound States EP.",
         "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Test whether the exact-track material creates a useful hinge from dubwise staggered swing into groove formation without borrowing the album's broader mood claims.",
+        "editorialInterpretation": "Treat the exact current identity as a credible techno lead while leaving all felt and structural properties unknown until exact evaluation evidence exists.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
         "measured": [
@@ -600,19 +746,19 @@
         ]
       },
       "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "Looking Glass",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
+        "artist": "François X",
+        "track": "Just A Feeling",
+        "album": "Bound States",
+        "releaseDate": "2026-09-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "attributedDescription": "Boomkat distinguishes Looking Glass by reserved yet rugged dub noise.",
+          "attributedDescription": "Juno lists Just A Feeling as a 6:10 exact track on François X's current Bound States EP.",
           "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Test whether the exact-track material creates a useful hinge from dubwise staggered swing into groove formation without borrowing the album's broader mood claims.",
+          "editorialInterpretation": "Treat the exact current identity as a credible techno lead while leaving all felt and structural properties unknown until exact evaluation evidence exists.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
           "measured": [
@@ -620,387 +766,20 @@
             "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
           ]
         },
-        "fitHypothesis": "A current dub-tech proposition with exact-track material evidence and plausible rhythmic freedom.",
+        "fitHypothesis": "A current techno lead from an established artist; prestige supplies no admission value.",
         "proposedPlacements": [
           {
-            "position": "Between Trompe L'oeil and FELT",
-            "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "position": "Between Crawl and IF U WANT 2",
+            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+            "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether rugged dub noise changes FELT's formation task rather than restating the reset."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0yaokMg3ZegDO08b6VE0qy",
-      "uri": "spotify:track:0yaokMg3ZegDO08b6VE0qy",
-      "name": "Jump Rope Music",
-      "artists": [
-        "Takuya Matsumoto"
-      ],
-      "album": "Drafting Under the Stars (Remaster)",
-      "releaseDate": "2010-01-01",
-      "durationMs": 351062,
-      "spotifyUrl": "https://open.spotify.com/track/0yaokMg3ZegDO08b6VE0qy",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Té de Cabello Blanco and Ikoyi",
-          "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether the analogue-material turn changes Ikoyi's foreground-dissolution task."
-        }
-      ],
-      "fitHypothesis": "An adjacent electronic proposition that may create useful contrast if its exact identity and placement evidence survive resolution.",
-      "evidence": {
-        "attributedDescription": "Boomkat distinguishes Jump Rope Music by analogue warmth within the compilation's movement from experimental electronics toward high-tech jazz-house groove.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve a current exact-track adjacent-world lead; warmth is attributed material language, not an inferred listener-emotion guarantee.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Takuya Matsumoto",
-        "track": "Jump Rope Music",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes Jump Rope Music by analogue warmth within the compilation's movement from experimental electronics toward high-tech jazz-house groove.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a current exact-track adjacent-world lead; warmth is attributed material language, not an inferred listener-emotion guarantee.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An adjacent electronic proposition that may create useful contrast if its exact identity and placement evidence survive resolution.",
-        "proposedPlacements": [
-          {
-            "position": "Between Té de Cabello Blanco and Ikoyi",
-            "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the analogue-material turn changes Ikoyi's foreground-dissolution task."
-          }
-        ]
-      }
-    },
-    {
-      "id": "4vg2vRYM5Pfx0vpfLa6E97",
-      "uri": "spotify:track:4vg2vRYM5Pfx0vpfLa6E97",
-      "name": "Little Secrets",
-      "artists": [
-        "Yuu Udagawa"
-      ],
-      "album": "Little Secrets",
-      "releaseDate": "2024-08-23",
-      "durationMs": 364958,
-      "spotifyUrl": "https://open.spotify.com/track/4vg2vRYM5Pfx0vpfLa6E97",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether the groove changes the passing-foreground-to-dubwise-reset relation."
-        }
-      ],
-      "fitHypothesis": "A high-tech jazz-house adjacent lead with exact-track groove framing and plausible STRANGE GAIT belonging.",
-      "evidence": {
-        "attributedDescription": "Boomkat describes Little Secrets individually as a sophisticated high-tech jazz-house groove.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve an exact groove proposition and test only if selected; sophistication or genre hybridity does not establish sequence value.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Yuu Udagawa",
-        "track": "Little Secrets",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat describes Little Secrets individually as a sophisticated high-tech jazz-house groove.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an exact groove proposition and test only if selected; sophistication or genre hybridity does not establish sequence value.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A high-tech jazz-house adjacent lead with exact-track groove framing and plausible STRANGE GAIT belonging.",
-        "proposedPlacements": [
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the groove changes the passing-foreground-to-dubwise-reset relation."
+            "purpose": "If selected, test whether it alters sustained motion into opposed-material tension."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "7zLQN2wFqkf6v9WkvEuWbW",
-      "uri": "spotify:track:7zLQN2wFqkf6v9WkvEuWbW",
-      "name": "There Will Be Love",
-      "artists": [
-        "K Wata"
-      ],
-      "album": "Give U Space",
-      "releaseDate": "2026-05-15",
-      "durationMs": 812085,
-      "spotifyUrl": "https://open.spotify.com/track/7zLQN2wFqkf6v9WkvEuWbW",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/give-u-space",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between FELT and Thick to Handle",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether the extended dub construction changes the formation-to-deformation passage rather than delaying it."
-        }
-      ],
-      "fitHypothesis": "A long-form dub-tech proposition that could belong but carries a substantial sequence-space cost requiring exact evaluation.",
-      "evidence": {
-        "attributedDescription": "Boomkat distinguishes There Will Be Love as a thirteen-minute expansive dub construction.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve a long-form dub proposition while treating duration as evidence of scale, not proof of patience, hypnosis or emotional effect.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "There Will Be Love",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes There Will Be Love as a thirteen-minute expansive dub construction.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve a long-form dub proposition while treating duration as evidence of scale, not proof of patience, hypnosis or emotional effect.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A long-form dub-tech proposition that could belong but carries a substantial sequence-space cost requiring exact evaluation.",
-        "proposedPlacements": [
-          {
-            "position": "Between FELT and Thick to Handle",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the extended dub construction changes the formation-to-deformation passage rather than delaying it."
-          }
-        ]
-      }
-    },
-    {
-      "id": "5a6eapDIZEXRztFSPwuQLl",
-      "uri": "spotify:track:5a6eapDIZEXRztFSPwuQLl",
-      "name": "Skygazer",
-      "artists": [
-        "XTAL",
-        "Crue-L Grand Orchestra"
-      ],
-      "album": "Skygazer",
-      "releaseDate": "2016-02-01",
-      "durationMs": 424626,
-      "spotifyUrl": "https://open.spotify.com/track/5a6eapDIZEXRztFSPwuQLl",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Ikoyi and Amor",
-          "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-          "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether its experimental turn changes the mutation passage."
-        }
-      ],
-      "fitHypothesis": "An experimental electronic proposition with provisional selection-lens relevance and limited decision evidence.",
-      "evidence": {
-        "attributedDescription": "Boomkat distinguishes Skygazer as the compilation's experimental-electronics movement.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve an experimental exact-track lead while acknowledging that the available description does not establish its direction or endpoint.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "XTAL",
-        "track": "Skygazer",
-        "album": "Denshi Ongaku No Bigaku Vol. 3",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/denshi-ongaku-no-bigaku-vol-3",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat distinguishes Skygazer as the compilation's experimental-electronics movement.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an experimental exact-track lead while acknowledging that the available description does not establish its direction or endpoint.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "An experimental electronic proposition with provisional selection-lens relevance and limited decision evidence.",
-        "proposedPlacements": [
-          {
-            "position": "Between Ikoyi and Amor",
-            "precedingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32",
-            "followingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether its experimental turn changes the mutation passage."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0j7NWqy5jJ6IX859FwuSur",
-      "uri": "spotify:track:0j7NWqy5jJ6IX859FwuSur",
-      "name": "I Gotta",
-      "artists": [
-        "K Wata"
-      ],
-      "album": "Give U Space",
-      "releaseDate": "2026-05-15",
-      "durationMs": 261267,
-      "spotifyUrl": "https://open.spotify.com/track/0j7NWqy5jJ6IX859FwuSur",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://boomkat.com/products/give-u-space",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Roxellana and backsliding",
-          "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-          "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "If selected, test whether the candidate changes surge-to-dissolution rather than adding an opaque intermediate stage."
-        }
-      ],
-      "fitHypothesis": "A dub-tech adjacent catalogue connection with weaker individual evidence, ranked below better-described contenders.",
-      "evidence": {
-        "attributedDescription": "Boomkat places I Gotta in relation to I-Sound's work with To Rococo Rot; this is weaker candidate-specific evidence than the higher-ranked K Wata tracks.",
-        "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-        "editorialInterpretation": "Preserve an honest lower-ranked adjacent-world lead without inventing development, endpoint or mixability.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "measured": [
-          "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-          "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "K Wata",
-        "track": "I Gotta",
-        "album": "Give U Space",
-        "releaseDate": "2026-09-25",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://boomkat.com/products/give-u-space",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "attributedDescription": "Boomkat places I Gotta in relation to I-Sound's work with To Rococo Rot; this is weaker candidate-specific evidence than the higher-ranked K Wata tracks.",
-          "craftConvention": "Attributed exact-track evidence supports identity resolution and serious evaluation; it does not establish energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse or mixability.",
-          "editorialInterpretation": "Preserve an honest lower-ranked adjacent-world lead without inventing development, endpoint or mixability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "measured": [
-            "The cited source lists the exact artist/title and release context, checked 2026-09-14.",
-            "Exact Spotify identity and any unavailable BPM require resolver evidence; phrase fit, perceived pulse and live mixability remain unknown."
-          ]
-        },
-        "fitHypothesis": "A dub-tech adjacent catalogue connection with weaker individual evidence, ranked below better-described contenders.",
-        "proposedPlacements": [
-          {
-            "position": "Between Roxellana and backsliding",
-            "precedingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "followingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "If selected, test whether the candidate changes surge-to-dissolution rather than adding an opaque intermediate stage."
-          }
-        ]
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
