@@ -1,5 +1,23 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 244 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Someone Else | Goink | `spotify:track:1XmkA4bRwLKUX1QfxvcOcQ` · https://open.spotify.com/track/1XmkA4bRwLKUX1QfxvcOcQ · https://ezekiel-honig.bandcamp.com/track/goink | Exact 4:51.160 identity; added between *FELT* and *Thick to Handle*. The documented recurring broken-to-whole vocoder figure creates a legible object before bodily deformation. Added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Human Safari | Lido | `spotify:track:7evzDzdLGcmyaxk1mucfHx` · https://open.spotify.com/track/7evzDzdLGcmyaxk1mucfHx · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 4:59.931 rhythmic/brass construction remains interesting; rejected only between *Tides Alternate* and *Serpentine Tale*. Added to the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | FANK | Divine | `spotify:track:5RBcoiaLr5H7QIL34UIPvl` · https://open.spotify.com/track/5RBcoiaLr5H7QIL34UIPvl · https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart | Exact 4:58.976 syncopated softened-pad construction remains interesting; rejected only between *Drummz* and *Té de Cabello Blanco*. Added to the global utility ledger. |
+| EXACT / UNEVALUATED | No Valentia; The Southern | *Spiral*; *Ultrasound* | `spotify:track:0FMXTP5ANxzd2Is4VANY5D`; `spotify:track:695BtpKVqQogjrLPS53dDz` | Two exact unselected alternates. Neither received a musical verdict, explicit interesting-track retention or a utility-ledger row. |
+| UNRESOLVED RESEARCH | Autokinetic; Picture; Jan Jelinek; Truncate | *New Cult*; *Heeeeeee*; *Moiré (piano & organ)*; *Wheres My Mind* | Sources preserved in scout-request.json and discoveries.md | Four distinct Spotify-SE misses. No musical verdict and no utility-ledger addition. |
+| RELEASE / LABEL WATCH | Various | R&S / Human Safari; Molekul / FANK and No Valentia; Short Span / Picture; Different Times / Autokinetic; Mutual Rytm / The Southern; Faitiche / Jan Jelinek; Macrofun / Someone Else | Source pages above plus https://boomkat.com/new-releases | Current, adjacent/emerging and catalogue windows worth retaining without inventing identities or track-level behavior. |
+
+### Run 244 boundaries
+
+- Canonical: *Goink* passes only at `FELT → candidate → Thick to Handle`; this is not a global placement claim.
+- Placement-specific rejects: *Lido* and *Divine* remain interesting outside their tested boundaries.
+- Global utility: all three evaluated exact identities are retained doctrine-free.
+- Two exact alternates remain unevaluated; four unresolved identities remain research leads only.
+
 ## Run 243 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

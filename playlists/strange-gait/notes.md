@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 244 — EXPLORE — recurrence can give deformation an object
+
+Pre-audit reconciled 56 canonical identities, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 46–48. Run 243's three same-gap PARK outcomes did not activate the recurrence guard because no second recent completed run contained two or more PARK outcomes from that gap. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 86 current-release, adjacent/emerging and overlooked-catalogue items produced nine new exact-title leads. The matching schemaVersion 2 snapshot is PARTIAL: five exact resolutions, three selected candidates, two exact unselected alternates, four Spotify-SE misses and five metadata warnings. Someone Else — *Goink* is added between *FELT* and *Thick to Handle* after separate volume, immediate-transition, exact five-track and long-form tests. Its documented recurring broken-to-whole vocoder figure creates a legible object for the existing bodily-deformation successor. Human Safari — *Lido* and FANK — *Divine* are rejected only at their tested placements because each adds another fully stated intermediate premise without changing the successor's work.
+
+STRANGE GAIT becomes 57 tracks. The listener-protected trio remains internally exact and shifts to positions 47–49. The doctrine-free global utility ledger becomes 485 tracks by retaining all three evaluated exact identities. The two exact alternates remain unevaluated and outside the utility ledger; four unresolved identities receive no musical verdict. No actionable REPAIR emerges. Audio and live mixing were not tested.
+
+Run 244: `~86 inspected → 9 leads → 5 exact + 4 unresolved → 3 evaluations + 2 alternates → 1 ADD + 2 scoped REJECT → 3 utility additions`. Across completed discovery Runs 87–244, excluding repairs and failed requests: 1,134 leads / ~7,418 inspections / 44 ADDs / 337 selected candidates. Inspection-to-lead conversion was 10.5%, resolution yield 55.6% and selected-candidate-to-ADD conversion 33.3%. The recent comparable ADD rate is 4/10. Run 244 ends the one-run musical no-ADD streak after Run 241.
+
 ## Run 243 — EXPLORE — individual material is not an exit
 
 Pre-audit reconciled 56 canonical identities, 56 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 46–48. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.

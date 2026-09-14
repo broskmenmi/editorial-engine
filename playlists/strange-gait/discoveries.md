@@ -1,5 +1,87 @@
 # STRANGE GAIT — Discoveries
 
+## Run 244 — 2026-09-14T11:56:00Z-explore-244
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `159362338b46b7ca48c978a3c8bf563a95118490`, PARTIAL. Requested 9; resolved 5; selected 3; two exact unselected alternates and four unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All five resolver warnings are preserved below.
+
+### Evaluated exact candidates
+
+#### Someone Else — Goink — `spotify:track:1XmkA4bRwLKUX1QfxvcOcQ` — ADD
+
+Source: https://ezekiel-honig.bandcamp.com/track/goink  
+Spotify: https://open.spotify.com/track/1XmkA4bRwLKUX1QfxvcOcQ  
+Exact resolver duration: 291,160 ms (4:51.160). BPM unavailable.
+
+The artist-hosted page individually documents a static-filled click rhythm, bass hooks, a vocoded mini-phrase that repeatedly enters as broken syllables and sometimes becomes whole, plus intermittent crowd and woody-snare interjections. That establishes a recurring fragment/utterance relation without establishing perceived intensity, exact entry, exit, phrase fit or mixability.
+
+- Volume fit: PASS. The exact rhythm-and-fragment construction fits the volume's selection lens without needing weirdness, novelty or a chapter role.
+- Immediate transition: provisional PASS at `FELT → Goink → Thick to Handle`. *FELT*'s rolling formation gives way to a repeatable click/vocal object that *Thick to Handle* can deform; the left turn is deliberate even though smoothness is not claimed.
+- Surrounding run: provisional PASS through `Never Met → Trompe L'oeil → FELT → Goink → Thick to Handle`. Passing foreground becomes a dubwise reset, then rolling formation, a bounded recurring-fragment state and broken-beat bodily deformation.
+- Long-form journey: provisional PASS. The 4:51.160 insertion makes the midpoint deformation act on a more legible object without imposing a new summit, fixed wave or sonic room.
+- Strongest counterargument: broken syllables could spend *Thick to Handle*'s deformation task in advance. They do not do so on the available evidence: the source describes a stable recurrence that occasionally resolves into a whole utterance, while *Thick to Handle* retains the downstream bodily-deformation task.
+- Unknown: exact entry, exit and endpoint; BPM; perceived pulse; energy; density; space; hypnosis; emotional effect; phrase structure; mixability; audio transition feel.
+- Auditor verdict: APPROVED ADD between *FELT* and *Thick to Handle*.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: album requested "Macrofun Volume 3" but Spotify returned "Macrofun Collection #1"; release date requested "2005-08-02" but Spotify returned "2008-04-02"`
+
+#### Human Safari — Lido — `spotify:track:7evzDzdLGcmyaxk1mucfHx` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
+Spotify: https://open.spotify.com/track/7evzDzdLGcmyaxk1mucfHx  
+Exact resolver duration: 299,931 ms (4:59.931). BPM unavailable.
+
+Juno individually documents a deeper groove with Latin-leaning rhythmic detail and reverberant brass, and identifies *Lido* as its release closer. The description establishes an exact material premise but not its playlist-scale exit.
+
+- Volume fit: PASS. The rhythmic/brass construction is lawful under the broad selection lens.
+- Immediate transition: FAIL only at `Tides Alternate → Lido → Serpentine Tale`. The candidate adds another complete groove world after opposed-speed balance before the existing low-slung consequence; release-closing status does not show that *Serpentine Tale* receives a different task.
+- Surrounding run: FAIL proportionally through `Hypnic Jerks → Tides Alternate → Lido → Serpentine Tale → Too Much Time`. The added premise delays the established crisis-to-balance-to-coiling-to-widening logic without a demonstrated downstream change.
+- Long-form journey: FAIL at this placement. 4:59.931 is a meaningful cost and the following two tracks still perform the same coiling and widening work.
+- Auditor verdict: placement-specific REJECT. The exact track remains genuinely interesting; no global incompatibility is claimed.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-03-13"`
+
+#### FANK — Divine — `spotify:track:5RBcoiaLr5H7QIL34UIPvl` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
+Spotify: https://open.spotify.com/track/5RBcoiaLr5H7QIL34UIPvl  
+Exact resolver duration: 298,976 ms (4:58.976). BPM unavailable.
+
+Juno individually documents syncopation, softened fuzzy edges and pads after the collaborative release separates into solo statements. Those materials establish interest but do not make another intermediate re-forming stage necessary.
+
+- Volume fit: PASS. The exact construction fits the selection lens.
+- Immediate transition: FAIL only at `Drummz → Divine → Té de Cabello Blanco`. The syncopated softened premise partially re-forms the unpredictable-rhythm passage before *Té de Cabello Blanco*'s existing agitation-to-reassembly task.
+- Surrounding run: FAIL proportionally through `Fragments → Drummz → Divine → Té de Cabello Blanco → Ikoyi`. The candidate over-articulates the move from irregularity into false stability before foreground dissolution.
+- Long-form journey: FAIL at this placement. The 4:58.976 insertion adds another stated premise without altering the later reassembly or dissolution work.
+- Auditor verdict: placement-specific REJECT. The track remains genuinely interesting; no global incompatibility is claimed.
+
+Resolver warning preserved exactly:
+
+`Exact title/artist matched with release metadata variance: album requested "Wavecycle EP" but Spotify returned "Wavecycle"; release date requested "2026-06-29" but Spotify returned "2026-05-26"`
+
+### Exact but unselected and unevaluated
+
+- No Valentia — *Spiral* — `spotify:track:0FMXTP5ANxzd2Is4VANY5D` — https://open.spotify.com/track/0FMXTP5ANxzd2Is4VANY5D — 356,438 ms (5:56.438). Warning: `Exact title/artist matched with release metadata variance: album requested "Wavecycle EP" but Spotify returned "Wavecycle"; release date requested "2026-06-29" but Spotify returned "2026-05-26"`
+- The Southern — *Ultrasound* — `spotify:track:695BtpKVqQogjrLPS53dDz` — https://open.spotify.com/track/695BtpKVqQogjrLPS53dDz — 328,951 ms (5:28.951). Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-06-26"`
+
+Neither alternate was evaluated, retained as an exact interesting track or added to either ledger.
+
+### Preserved unresolved outcomes without musical verdict
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Autokinetic — *New Cult*
+- Picture — *Heeeeeee*
+- Jan Jelinek — *Moiré (piano & organ)*
+- Truncate — *Wheres My Mind*
+
+No unresolved identity entered either ledger. The unresolved outcomes are not musical zeroes. No actionable REPAIR emerges.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 242 — 2026-09-14T09:53:36Z-explore-242 — REQUEST_NOT_COMPLETED
 
 The immutable schemaVersion 2 request was committed at `ba7b9705f40016f87f97e92a13ff755c268081a2`, but the resolver failed closed before Spotify lookup with exact error:

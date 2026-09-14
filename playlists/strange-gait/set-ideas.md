@@ -1,5 +1,23 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 244
+
+### Recurrence can give deformation an object
+
+**Direction:** Test whether a recurring fragment pattern forms a stable enough object for the next track to deform. Reject intermediate worlds that merely state another groove or partially complete the successor's reassembly task.
+
+**Ingredients:**
+
+- Sam Prekop — *Never Met* → Wheelman — *Trompe L'oeil* → JWords — *FELT* → Someone Else — *Goink* → brenner — *Thick to Handle*
+- Human Safari — *Lido* — exact placement-specific counterexample between *Tides Alternate* and *Serpentine Tale*
+- FANK — *Divine* — exact placement-specific counterexample between *Drummz* and *Té de Cabello Blanco*
+- No Valentia — *Spiral* and The Southern — *Ultrasound* — exact but unevaluated alternates
+- Autokinetic, Picture, Jan Jelinek and Truncate — unresolved current/catalogue research directions
+
+**Why interesting:** A fragment is not automatically a fracture. *Goink*'s documented repeated syllables and occasional whole utterance establish recurrence; that leaves the following broken-beat track a distinct deformation task. The rejected candidates instead add complete intermediate premises without altering their successors.
+
+**Boundary:** This is an editorial set direction, not a proven live sequence, phrase-fit claim, emotional-safety claim or mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 243
 
 ### Individual material is not an exit
