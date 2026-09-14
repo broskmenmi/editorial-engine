@@ -3,6 +3,25 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 253 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Boulderhead | Sunshine | `spotify:track:3mOJEriZnRM8YLKGU1wZqc` · https://open.spotify.com/track/3mOJEriZnRM8YLKGU1wZqc · https://hawscardiff.bandcamp.com/album/sunshine | Exact 5:44.888 title track remains interesting; shared wonky/glitched EP framing does not establish its individual direction, endpoint or consequence between *Trompe L'oeil* and *FELT*. Added globally. |
+| EXACT TRACK / PARKED | UFO95 | Contre mesure | `spotify:track:6EQB8Lec4vfdgYnxHMcQP2` · https://open.spotify.com/track/6EQB8Lec4vfdgYnxHMcQP2 · https://ufo95.bandcamp.com/album/feed-manipulation | Exact 5:53.587 current track remains interesting; shared minimalist-release framing does not establish whether it changes or postpones the *IF U WANT 2 → Fulledge* dissolution. Added globally. |
+| EXACT TRACK / PARKED | Jon Head | Broken Bells | `spotify:track:5yV9GpxjIaRmtzWlj6X3ml` · https://open.spotify.com/track/5yV9GpxjIaRmtzWlj6X3ml · https://planetrhythm.bandcamp.com/album/broken-bells-ep | Exact 4:34.891 overlooked-catalogue identity remains interesting; title and label framing do not establish individual behavior between *Moonwake* and *Raataja*. Added globally. |
+| UNRESOLVED RESEARCH | BLNDR; Oscar Mulero; Patient; Ø; Exium | *Tidal Veil*; *Blackstar*; *Arwing*; *Rhythm Dancer*; *Röntgen*; *Raw Visions* | Sources preserved in scout-request.json | Four Spotify-SE misses and two exact-title ambiguities. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Danza Nativa / BLNDR; Haŵs / Boulderhead; TSSRCT / UFO95; Vault Records / Patient | *Mangrove*; *Sunshine*; *Feed manipulation*; *Rhythm Dancer EP* | Sources above and in scout-request.json | Same-day and 2026 current-release paths remain useful without transferring shared release descriptions into exact-track structure. |
+| CATALOGUE / REISSUE WATCH | Perc Trax / Pole Group; Sähkö; Planet Rhythm | *Perc Trax vs Pole Group Pt.2*; *Röntgen*; *Broken Bells EP* | https://perctrax.bandcamp.com/album/perc-trax-vs-pole-group-pt-2 · https://sahkorecordings.bandcamp.com/album/r-ntgen · https://planetrhythm.bandcamp.com/album/broken-bells-ep | Broken-beat/dub, early Sähkö and overlooked Planet Rhythm paths remain research windows; ambiguous or unresolved identities are not promoted into track claims. |
+
+### Run 253 boundaries
+
+- All three exact candidates are PARKED only at their documented placements; none is globally rejected.
+- Shared release or label framing establishes interest but not individual direction, endpoint or successor consequence.
+- All three evaluated exact identities enter the doctrine-free global utility ledger.
+- Six unresolved identities remain research leads only.
+- Set direction: separate release-world permission from the individual trajectory needed to assign a successor new work.
+
 ## Run 252 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

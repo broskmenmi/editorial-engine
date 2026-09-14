@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 253
+
+### Release-world permission is not individual trajectory
+
+**Direction:** Keep current wonky-club, minimalist-techno and overlooked catalogue identities available as exact ingredients, while testing whether title-track direction and endpoint give the next track genuinely different work.
+
+**Ingredients:**
+
+- Boulderhead — *Sunshine* — exact PARKED test between *Trompe L'oeil* and *FELT*
+- UFO95 — *Contre mesure* — exact PARKED test between *IF U WANT 2* and *Fulledge (Empty-40 Mix)*
+- Jon Head — *Broken Bells* — exact PARKED test between *Moonwake* and *Raataja*
+- BLNDR, Oscar Mulero, Patient, Ø and Exium — unresolved current, reissue and catalogue research directions
+
+**Why interesting:** Release framing can authorize a broad material proposition without proving how one title moves or ends. These three exact identities preserve different research paths, but each needs individual trajectory evidence before a transition, local-run or long-form consequence can be claimed.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, energy claim, density claim, hypnosis claim, phrase-fit claim, emotional-effect claim or live-mixing edge. Audio analysis and live mixing remain untested.
+
 ## Current additions — Run 252
 
 ### Material propositions must become identities before they become transitions

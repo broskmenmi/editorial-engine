@@ -1,5 +1,70 @@
 # STRANGE GAIT — Discoveries
 
+## Run 253 — 2026-09-14T20:51:16Z-explore-253
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `6fe7b496e2d1f6e461e529f25ef1df21182c65f0`, requestFingerprint `e6d490e72f2350cda06256f4dc8406f07c948b61405bd5dde64650424d001aab`, PARTIAL. Requested 9; resolved 3; selected 3; six unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
+
+### Evaluated exact candidates
+
+#### Boulderhead — Sunshine — `spotify:track:3mOJEriZnRM8YLKGU1wZqc` — PARKED
+
+Source: https://hawscardiff.bandcamp.com/album/sunshine
+
+Spotify: https://open.spotify.com/track/3mOJEriZnRM8YLKGU1wZqc
+
+Exact resolver duration: 344,888 ms (5:44.888). BPM unavailable.
+
+Haŵs frames the *Sunshine* EP as wonky club cuts built from warped textures, hypnotic grooves and glitched effects. This is release-level evidence, not a title-track-specific account of direction, development, endpoint, perceived pulse, energy, density, hypnosis, phrase structure or mixability.
+
+- Volume fit: provisional PASS. The exact current identity and shared wonky/glitched proposition support a concrete test under the selection lens without requiring one sonic room or a chapter role.
+- Immediate transition: UNKNOWN at `Trompe L'oeil → Sunshine → FELT`. The source does not establish *Sunshine*'s individual direction, endpoint or either handoff.
+- Surrounding run: UNKNOWN through `Never Met → Trompe L'oeil → Sunshine → FELT → Goink`. Individual trajectory is decision-critical: the track could give *FELT* a warped condition to formalize, or it could add another complete club-world premise before the existing formation and fragment sequence.
+- Long-form effect: UNKNOWN. The 5:44.888 proportional cost is known, but the available evidence cannot distinguish useful central redirection from over-elaboration.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer title-track direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### UFO95 — Contre mesure — `spotify:track:6EQB8Lec4vfdgYnxHMcQP2` — PARKED
+
+Source: https://ufo95.bandcamp.com/album/feed-manipulation
+
+Spotify: https://open.spotify.com/track/6EQB8Lec4vfdgYnxHMcQP2
+
+Exact resolver duration: 353,587 ms (5:53.587). BPM unavailable.
+
+TSSRCT frames *Feed manipulation* as powerful minimalist work focused on textures, tension and atmosphere, raw in impact and subtle in detail. This is shared release-level language, not an individual account of *Contre mesure*'s structure or endpoint; no energy, density, atmosphere, emotional effect, phrase structure or mixability is inferred.
+
+- Volume fit: provisional PASS. The exact current techno identity and shared minimalist proposition support interest without proving canonical admission.
+- Immediate transition: UNKNOWN at `IF U WANT 2 → Contre mesure → Fulledge (Empty-40 Mix)`. The candidate's direction, endpoint and both handoffs are unestablished.
+- Surrounding run: UNKNOWN through `Ingress → Crawl → IF U WANT 2 → Contre mesure → Fulledge (Empty-40 Mix)`. The evidence cannot show whether the candidate creates a focused intermediate state or postpones the existing fake-out dissolution.
+- Long-form effect: UNKNOWN. At 5:53.587, the insertion needs a distinct downstream consequence that shared EP prose cannot establish.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer title-track structure/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### Jon Head — Broken Bells — `spotify:track:5yV9GpxjIaRmtzWlj6X3ml` — PARKED
+
+Source: https://planetrhythm.bandcamp.com/album/broken-bells-ep
+
+Spotify: https://open.spotify.com/track/5yV9GpxjIaRmtzWlj6X3ml
+
+Exact resolver duration: 274,891 ms (4:34.891). BPM unavailable.
+
+Planet Rhythm supplies the exact catalogue identity and a broad statement about techno not being limited to one direction, but no individual sonic or structural description. The title does not establish bells, broken rhythm, direction, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: provisional PASS. The exact overlooked-catalogue identity is sufficiently concrete to test, while label scope and title carry no admission value.
+- Immediate transition: UNKNOWN at `Moonwake → Broken Bells → Raataja`. No individual behavior or handoff evidence is available.
+- Surrounding run: UNKNOWN through `Humanoidz → Moonwake → Broken Bells → Raataja → Ingress`. The concise 4:34.891 duration makes a bounded intervention possible, but does not show whether the candidate changes the intensification-to-disappearance relation.
+- Long-form effect: UNKNOWN. Exact identity and duration cannot establish whether *Raataja* receives different work.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer exact-track behavior or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Preserved resolver outcomes without musical verdict
+
+- BLNDR — *Tidal Veil*: `no exact Spotify title/artist search match in market SE`
+- Oscar Mulero — *Blackstar*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (79cgXVRLWuiblCtYCpS3Qp, 2Zoop0EYsvfSbZ3MoHUTaF)`
+- BLNDR — *Arwing*: `no exact Spotify title/artist search match in market SE`
+- Patient — *Rhythm Dancer*: `no exact Spotify title/artist search match in market SE`
+- Ø — *Röntgen*: `no exact Spotify title/artist search match in market SE`
+- Exium — *Raw Visions*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6QkaqkVMcQjf3hOKSrV7aM, 18ig66BFGtCne2kvn9cbLc)`
+
+No musical zero result is inferred from any unresolved outcome. This is the first completed multi-PARK result in the recent five-run window; the recurrence guard does not trigger. Audio analysis and live mixing were not tested.
+
 ## Run 251 — 2026-09-14T18:53:32Z-explore-251
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `d018ab5520a20db989e5488299b3a15720f11a62`, requestFingerprint `72da4e275076789f3ef95db4ac8af340686d581ba741f05f5045f9c737b5716d`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions or relinkings. Every warning and exact resolver error is preserved below.
