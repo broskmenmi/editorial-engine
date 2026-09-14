@@ -6,7 +6,8 @@
       "Completed Runs 227, 228, 231, 232 and 233 selected identities were excluded. Top-three proposed boundaries were compared against those five runs and none repeats a recently tested boundary.",
       "Every ranked artist/title pair was checked against canonical state, target-local discovery history, rejection/PARKED state and the global utility ledger. Previously retained COW, Rene Wise, Alex Wilcox, K Wata, Arovane, RHR, Reptant and Anthony Naples identities were excluded.",
       "No proposed placement splits Transparency → When We Froze → Stardancer.",
-      "The top three carry candidate-specific descriptions. Seduction and Tus Manos share a release but document materially different directions; their independent ranking is informational, not an artist or texture quota."
+      "The top three carry candidate-specific descriptions. Seduction and Tus Manos share a release but document materially different directions; their independent ranking is informational, not an artist or texture quota.",
+      "Run 234 was REQUEST_NOT_COMPLETED before identity resolution because its first preceding URI was stale. This new runId preserves the scan while deriving every placement URI from the current canonical ledger."
     ],
     "rankedLeadSummary": [
       "1. G Rush — Seduction",
@@ -25,7 +26,7 @@
       "CURRENT CROSS-CHECK: Boomkat new releases was inspected for non-duplicate release windows. https://boomkat.com/new-releases",
       "OVERLOOKED / CATALOGUE CROSS-CHECK: reissues and back-catalogue-linked entries within the same current windows were inspected; persistent Arovane, Eddie Richards and François X identities were excluded except the exact unrecorded Just A Feeling lead."
     ],
-    "timestampUtc": "2026-09-14T04:48:10Z"
+    "timestampUtc": "2026-09-14T04:56:30Z"
   },
   "leads": [
     {
@@ -52,8 +53,8 @@
       "fitHypothesis": "A current techno proposition with an individually described structural change; vocal and bass language is relevant to rhythmic-form freedom without guaranteeing sequence value.",
       "proposedPlacements": [
         {
-          "position": "Between LOVE IS RANDOM BUT I HOPE IT FINDS ME and Tehutis Law",
-          "precedingUri": "spotify:track:6Uq3M9Tp0NoQhW40USGKMC",
+          "position": "Between LOVE YOUR ENEMIES and Tehutis Law",
+          "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
           "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
           "incomingBpm": null,
           "candidateBpm": null,
@@ -155,8 +156,8 @@
       "proposedPlacements": [
         {
           "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rer7XPy85cPMUoKzTz9x0",
-          "followingUri": "spotify:track:62MyMMLhMH4hq8BiCl7XGj",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
@@ -190,7 +191,7 @@
         {
           "position": "Between Cave and Abundance",
           "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
-          "followingUri": "spotify:track:33HIbXsX4PdGBktEsQ8slr",
+          "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
@@ -256,9 +257,9 @@
       "fitHypothesis": "A current techno lead from a rhythm-focused imprint with provisional selection-lens relevance.",
       "proposedPlacements": [
         {
-          "position": "Between Thick to Handle and LOVE IS RANDOM BUT I HOPE IT FINDS ME",
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
           "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "followingUri": "spotify:track:6Uq3M9Tp0NoQhW40USGKMC",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
@@ -291,8 +292,8 @@
       "proposedPlacements": [
         {
           "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckqnYglMBPsds94SqsDQz",
-          "followingUri": "spotify:track:12xuO5Lh0eWVG9qPmyJE98",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
@@ -325,7 +326,7 @@
       "proposedPlacements": [
         {
           "position": "Between Pulse I and Roxellana",
-          "precedingUri": "spotify:track:2Pi1KPRpQDl5NOtFkRnr4M",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
           "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
           "incomingBpm": null,
           "candidateBpm": null,
@@ -336,8 +337,8 @@
     }
   ],
   "mode": "EXPLORE",
-  "runId": "2026-09-14T04:48:10Z-explore-234",
+  "runId": "2026-09-14T04:56:30Z-explore-235",
   "schemaVersion": 2,
-  "sourceCommit": "c0a28953dcef9a925801be584c6d657057a2f593",
+  "sourceCommit": "1624d5ce0194f1ace803ecbe762af533264f2250",
   "target": "playlists/strange-gait"
 }
