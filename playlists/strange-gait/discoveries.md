@@ -1,5 +1,47 @@
 # STRANGE GAIT — Discoveries
 
+## Run 256 — 2026-09-14T22:56:07Z-explore-256
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `8152c20d3be940dca1d42a70cded6873ba106c64`, requestFingerprint `4e1e2d490bb330856bd41c4c827a30afa4572bd364ee12050178d9768c3825d4`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.
+
+### Evaluated exact candidate
+
+#### Truncate — Where I Wanna Be — `spotify:track:2hUDsg1TEPrT4Cq3pISTWg` — ADD
+
+Source: https://www.juno.co.uk/products/truncate-where-i-wanna-be-vinyl/1163639-01/
+
+Spotify: https://open.spotify.com/track/2hUDsg1TEPrT4Cq3pISTWg
+
+Exact resolver duration: 271,906 ms (4:31.906). BPM unavailable.
+
+Juno individually describes paranoid vocals, swigging drums, pinging kicks and wobbly 303s. This establishes a compact acid-vocal/drum matrix, not its exact entry, exit, endpoint, perceived pulse, energy, density, space, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The track's documented combination of voice, drums, kick events and acid line supports rhythmic and structural plurality under the selection lens; neither Truncate's reputation nor acid convention is used as a substitute for fit.
+- Immediate transition: provisional PASS at `Truth in Noise → Where I Wanna Be → Style Teef`. The compact formed matrix makes the move out of consolidation deliberate and gives the successor a legible object to deform. Exact handoffs and endpoint remain UNKNOWN.
+- Surrounding run: provisional PASS through `Elemental Dream → Truth in Noise → Where I Wanna Be → Style Teef → Same Way`. The passage moves from self-stripping percussive instability through groove consolidation into a separately formed acid-vocal state, then frazzled fault-line deformation and a different drum/bass body-pressure condition. Its character changes are consequential at local-run scale without requiring sonic sameness.
+- Long-form effect: provisional PASS. *Style Teef* no longer initiates the first post-consolidation disruption; it fractures an identifiable compact premise before *Same Way* redirects bodily pressure and the journey approaches the protected trio.
+- Proportional challenge: the insertion could over-articulate a turn that already worked. It passes because 4:31.906 is bounded and the documented construction changes the successor's function rather than merely postponing it.
+- Verdict: ADD between *Truth in Noise* and *Style Teef*.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026-06-26" but Spotify returned "2026-08-21"`
+
+### Unresolved identities — no musical verdict
+
+- Farron — *Vert Button*: `no exact Spotify title/artist search match in market SE`
+- B.Love — *Rhythm Freq (Madvilla dub)*: `no exact Spotify title/artist search match in market SE`
+- Surgeon — *Brownian Motion (Justyn Nell remix)*: `no exact Spotify title/artist search match in market SE`
+- Mike Dehnert — *One O Eight*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (49rqlrfw0PVaGoBefBz2c8, 4UKAi2qPtxJRNuKYfpuiIJ)`
+- Confusion — *In Cycles*: `no exact Spotify title/artist search match in market SE`
+- Planet Rhythm — *What Time Is Love*: `no exact Spotify title/artist search match in market SE`
+- Gerald Mitchell — *You Got To Stay*: `no exact Spotify title/artist search match in market SE`
+- Surgeon — *Coaster (Norbak remix)*: `no exact Spotify title/artist search match in market SE`
+
+### Auditor decision
+
+APPROVED. The request is fresh against canonical, active decision and unresolved persistent state; the repaired normalized artist/track exclusion guard did not admit any stale selected identity. The matching snapshot is internally valid. The exact candidate receives all four required tests separately, the inference boundary is preserved and the protected trio remains contiguous and internally unchanged. *Where I Wanna Be* is retained as genuinely interesting and therefore enters the doctrine-free global utility ledger. The eight unresolved leads do not.
+
+Run 256: `~96 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 1 ADD → 1 utility addition`. Across completed discovery Runs 87–256, excluding repairs and failed requests: 1,215 leads / ~8,286 inspections / 48 ADDs / 353 selected candidates. Inspection-to-lead conversion was 9.4%, resolution yield 11.1% and selected-candidate-to-ADD conversion 100%. Five of the last ten comparable completed discovery runs contain an ADD. Run 256 ends the two-run musical no-ADD streak after Run 251; three exact interesting tracks were retained during that interval. Resolver loss remains dominant and is not evidence of playlist completion. Audio analysis and live mixing were not tested.
+
 ## Run 253 — 2026-09-14T20:51:16Z-explore-253
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `6fe7b496e2d1f6e461e529f25ef1df21182c65f0`, requestFingerprint `e6d490e72f2350cda06256f4dc8406f07c948b61405bd5dde64650424d001aab`, PARTIAL. Requested 9; resolved 3; selected 3; six unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
