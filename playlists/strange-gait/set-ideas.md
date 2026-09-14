@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 236
+
+### A different gait must leave different work behind
+
+**Direction:** Compare vivid groove substitutions by their downstream consequence. A candidate can be fully lawful, memorable and rhythmically distinct while still repeating work the following track already performs.
+
+**Ingredients:**
+
+- Inspired Groove — *Truth in Noise* → Blawan — *Style Teef* → Cooly G — *Same Way* → RP Boo — *U Belong 2 Me* — existing consolidation, fault line, body-pressure hinge and threshold
+- Buttechno — *Green* — exact electro-house-gait counterexample rejected only at two tested boundaries
+- Buttechno — *Funk 33* — exact acid/funk counterexample rejected only at two tested boundaries
+- Sa Pa — *Rhythm From Ambient*, *Rhythm*, *Last Dance (Ballroom Dub)* and *Bo Riddim* — unresolved current-release research leads with differentiated external descriptions
+
+**Why interesting:** The comparison separates a compelling new gait from a changed successor task and keeps unresolved current material available without pretending its Spotify identity or transition behavior is known.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
+
 ## Current additions — Run 235
 
 ### An exact listing can establish identity without establishing direction

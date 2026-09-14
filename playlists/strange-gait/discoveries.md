@@ -1,5 +1,43 @@
 # STRANGE GAIT — Discoveries
 
+## Run 236 — 2026-09-14T05:49:41Z-explore-236
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `1a775dc29cc253c98cee4ab1fd80bd94399bd78e`, PARTIAL. Requested 9; resolved 2; selected 2; no exact alternates, warnings, substitutions, relinkings, duplicates or technical failures.
+
+### Evaluated exact candidates
+
+#### Buttechno — Green — `spotify:track:1RMghTiaPSRwXWWUZNrfus`
+
+- Evidence: Spotify exact title/artist/album identity, 410,626 ms, album `Minimal Cuts II`, release date `2023-03-10`; Boomkat distinguishes the track by a winking bleep melody and an electro-house gait.
+- Volume fit: PASS. The documented gait change is lawful under the selection lens; house vocabulary is not a genre veto.
+- Immediate transition: FAIL only at `Style Teef → candidate → Same Way` and alternative `Cave → candidate → Abundance`. At the first boundary the candidate inserts another fully formed redirection between the frazzled fault line and Same Way's existing body-pressure hinge; at the second it inserts a separate formed gait between widening and the existing swung continuation.
+- Surrounding run: FAIL in exact five-track windows `Truth in Noise → Style Teef → Green → Same Way → U Belong 2 Me` and `Egue into hs → Cave → Green → Abundance → Foundry`. Both passages gain a vivid additional premise without leaving either successor different work.
+- Long-form effect: FAIL for the tested insertions because the added 6:50.626 stage elaborates a local change without a distinct downstream consequence.
+- Verdict: PLACEMENT-SPECIFIC REJECT at both tested boundaries; retained as genuinely interesting.
+
+#### Buttechno — Funk 33 — `spotify:track:4U5mfFSmc6GNqpf5Nu6SDM`
+
+- Evidence: Spotify exact title/artist/album identity, 290,081 ms, album `Minimal Cuts II`, release date `2023-03-10`; Boomkat distinguishes the track through an amino-acid tweak and a heavier-house comparison.
+- Volume fit: PASS. The exact acid/funk proposition is relevant without inferring energy, density or emotional effect.
+- Immediate transition: FAIL only at `Same Way → candidate → U Belong 2 Me` and alternative `Tehutis Law → candidate → Pulse I`. The first adds another body-pressure premise before the existing threshold; the second adds another funk/acid premise between re-grounding and the existing crooked accumulation.
+- Surrounding run: FAIL in exact five-track windows `Style Teef → Same Way → Funk 33 → U Belong 2 Me → Transparency` and `LOVE YOUR ENEMIES → Tehutis Law → Funk 33 → Pulse I → Roxellana`. In both, the candidate restates the local proposition without changing the successor's task.
+- Long-form effect: FAIL for the tested insertions because the concise additional scene does not create a distinct downstream condition.
+- Verdict: PLACEMENT-SPECIFIC REJECT at both tested boundaries; retained as genuinely interesting.
+
+### Preserved resolver outcomes without musical verdict
+
+Each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Sa Pa — *Rhythm From Ambient*
+- Sa Pa — *Rhythm*
+- Sa Pa — *Last Dance (Ballroom Dub)*
+- Buttechno — *new pink*
+- SANDWELL DISTRICT — *Grey Cut Out (Extended Version)*
+- Sa Pa — *Bo Riddim*
+- Buttechno — *disko june*
+
+No musical zero result is inferred from any unresolved identity. Audio analysis and live mixing were not tested.
+
 ## Run 232 — 2026-09-14T02:50:16Z-explore-232
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `7493074df22c51b8f9775117db64c9863de45a1b`, PARTIAL. Requested 9; resolved 3; selected 3; no alternates, substitutions, relinkings or technical failures.

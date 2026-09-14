@@ -476,6 +476,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 470 | Yuu Udagawa | Little Secrets | spotify:track:4vg2vRYM5Pfx0vpfLa6E97 | STRANGE GAIT Run 233 | Placement-specific REJECT / interesting | 2026-09-14 |
 | 471 | François X | Just A Feeling | spotify:track:0q3x9BtRvRWEuSYb5px1EF | STRANGE GAIT Run 235 | PARKED / interesting | 2026-09-14 |
 
+| 472 | Buttechno | Green | spotify:track:1RMghTiaPSRwXWWUZNrfus | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
+| 473 | Buttechno | Funk 33 | spotify:track:4U5mfFSmc6GNqpf5Nu6SDM | STRANGE GAIT Run 236 | Placement-specific REJECT / interesting | 2026-09-14 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.

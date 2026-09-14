@@ -1,5 +1,19 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 237 — REPAIR — current-state count reconciliation
+
+Final Auditor read-back after Run 236 found one actionable objective defect: the canonical table and verified live state contain 54 tracks, while the ledger's current-state headline still said 53 and the Carried repair paragraph used a stale “now” position for the protected trio. Repair Run `2026-09-14T05:56:05Z-repair-237` changes the headline to 54 and distinguishes the trio's positions at the conclusion of Repair 226 (44–46) from its current positions after Run 231 (45–47). Canonical membership, order, annotations, roles, BPM fields, listener protections and publication intent are unchanged. No further actionable REPAIR remains.
+
+## Run 236 — EXPLORE — a different gait is not yet a different consequence
+
+Pre-audit reconciled 54 canonical identities, 54 annotations, the empty clarification queue, no TRIGGERED revisit, both verified Spotify receipts and the protected trio. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. No musical repair was actionable, so the lane was EXPLORE.
+
+The matching schemaVersion 2 snapshot is PARTIAL: nine requested, two exact selected candidates and seven Spotify-SE misses. Buttechno — *Green* (`spotify:track:1RMghTiaPSRwXWWUZNrfus`) is rejected only at `Style Teef → candidate → Same Way` and `Cave → candidate → Abundance`; its documented electro-house gait creates a vivid extra premise without changing either successor's task. Buttechno — *Funk 33* (`spotify:track:4U5mfFSmc6GNqpf5Nu6SDM`) is rejected only at `Same Way → candidate → U Belong 2 Me` and `Tehutis Law → candidate → Pulse I`; its exact acid/funk proposition restates the local work rather than altering the threshold or accumulation that follows.
+
+STRANGE GAIT remains 54 tracks. The global utility ledger becomes 473 tracks by retaining both evaluated exact identities. Seven unresolved identities receive no musical verdict or utility row. There were no resolver warnings, alternates, duplicates or technical failures. Audio and live mixing were not tested.
+
+Run 236: `~84 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 0 ADD + 2 scoped REJECT → 2 utility additions`. Across completed Runs 87–236, excluding repairs and failed requests: 1,089 leads / ~6,967 inspections / 41 ADDs / 325 selected candidates. Inspection-to-lead conversion was 10.7%, resolution yield 22.2% and selected-candidate-to-ADD conversion 0/2. Recent comparable ADD rate remains 1/10. The musical no-ADD streak is four completed runs after Run 231; nine exact interesting tracks have been retained since that ADD. The outcome is dominated by resolver loss and a same-release late-middle test, so it is not evidence that the playlist is complete.
+
 ## Run 235 — EXPLORE — identity without direction
 
 Pre-audit reconciled 54 canonical identities, 54 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained; the protected trio remains contiguous. Run 233's single candidate-specific PARK did not activate the recurrence guard, so the lane remained EXPLORE.

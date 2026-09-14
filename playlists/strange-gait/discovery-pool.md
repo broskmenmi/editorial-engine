@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 236 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Buttechno | Green | `spotify:track:1RMghTiaPSRwXWWUZNrfus` · https://open.spotify.com/track/1RMghTiaPSRwXWWUZNrfus · https://boomkat.com/products/minimal-cuts-ii | Exact 6:50.626 identity; rejected only at *Style Teef → Same Way* and *Cave → Abundance*. Its documented electro-house gait remains genuinely interesting and entered the global utility ledger. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Buttechno | Funk 33 | `spotify:track:4U5mfFSmc6GNqpf5Nu6SDM` · https://open.spotify.com/track/4U5mfFSmc6GNqpf5Nu6SDM · https://boomkat.com/products/minimal-cuts-ii | Exact 4:50.081 identity; rejected only at *Same Way → U Belong 2 Me* and *Tehutis Law → Pulse I*. Its documented acid/funk proposition remains genuinely interesting and entered the global utility ledger. |
+| UNRESOLVED | Sa Pa; Sa Pa; Sa Pa; Buttechno; SANDWELL DISTRICT; Sa Pa; Buttechno | Rhythm From Ambient; Rhythm; Last Dance (Ballroom Dub); new pink; Grey Cut Out (Extended Version); Bo Riddim; disko june | See discoveries.md Run 236 | Seven Spotify-SE misses remain distinct research questions; no musical verdict or utility row. |
+| WATCH | Dub Techno For Life / Sa Pa; Fortune Signal / Sopp; Point Of Departure / Sandwell District; Buttechno catalogue | Current September release, adjacent/emerging and overlooked-catalogue windows | Sources above and in scout-request.json | Useful windows retained without promoting listing prose, reputation or unresolved identity into sequence claims. |
+
+### Placement and inspiration boundaries
+
+- Both exact Buttechno tracks are retained as interesting but rejected only at the documented placements; neither is globally rejected.
+- The Sa Pa release remains an exact external research lead despite Spotify-SE resolution misses.
+- Unresolved identities receive no musical verdict and do not enter the utility ledger.
+- *Sawa* and *Carried* remain absent; *Tender Is The Night* remains positively retained. Both protected handoffs remain intact.
+- No BPM, phrase fit, perceived pulse, energy, density, space, hypnosis, emotional effect or live-mixing edge is claimed.
+
 ## Run 235 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
