@@ -1,5 +1,9 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 246 — REPAIR — utility-table continuity
+
+The first Run 245 utility publication failed closed with `Ledger contains a track row after table termination on row 493.` Repair Run `2026-09-14T14:35:00Z-repair-246` removes the blank line between utility rows 485 and 486. It changes no identity, row number, retained status, canonical decision, sequence, annotation, metadata or cover instruction. Publication is retriggered for EDITORIAL ENGINE — DISCOVERY POOL only.
+
 ## Run 245 — EXPLORE — unstable re-entry can give a plateau different work
 
 Pre-audit reconciled 57 canonical identities, 57 annotations, the exact generated map, both verified Spotify receipts, the empty clarification queue and no TRIGGERED revisit. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 47–49. Run 243's same-gap PARK cluster was followed by Run 244's better-evidenced candidate scan, so the recurrence guard did not activate. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.
