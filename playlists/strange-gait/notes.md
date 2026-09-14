@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 251 — EXPLORE — a formed drum state can change the return
+
+Pre-audit reconciled 59 canonical identities and annotations, 58 generated transitions, both verified Spotify receipts, the empty clarification queue, no TRIGGERED revisit and no audio or live-mixing evidence. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 49–51. No objective, listener-authorized or workflow-health repair was actionable, so the lane was EXPLORE.
+
+A fresh scan of approximately 102 current-release, adjacent/emerging and overlooked-catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot is PARTIAL: two exact resolutions, two selected candidates, seven unresolved identities and two metadata warnings. The first workflow attempt failed on a transient Spotify Search 503 and persisted nothing; retrying the same failed job produced the valid matching snapshot without changing the request.
+
+Baby Ford — *Night D3 Died* is added between *Tender Is The Night* and *Egue into hs* after separate volume, immediate-transition, exact five-track and long-form tests. Its documented crunchy drums and mournful synth chords establish a formed state that changes *Egue into hs* from first rhythmic return into a tighter fixed-grid re-entry before widening. Baby Ford — *The Introducer* is rejected only between *Rabbit Hole* and *Can I live*: its 8:11.428 warm, spacious drift adds another extended retreat without evidence that the existing restrained re-entry receives different work.
+
+STRANGE GAIT becomes 60 tracks. The listener-protected trio remains internally exact and shifts to positions 50–52. The doctrine-free global utility ledger becomes 497 tracks by retaining both evaluated exact identities. Seven unresolved identities receive no musical verdict or utility row. No actionable REPAIR emerges. Audio and live mixing were not tested.
+
+Run 251: `~102 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 1 ADD + 1 scoped REJECT → 2 utility additions`. Across completed discovery Runs 87–251, excluding repairs and failed requests: 1,188 leads / ~8,005 inspections / 47 ADDs / 349 selected candidates. Inspection-to-lead conversion was 8.8%, resolution yield 22.2% and selected-candidate-to-ADD conversion 50%. Six of the last ten completed discovery runs contain an ADD. Run 251 ends the one-run musical no-ADD streak after Run 249.
+
 ## Run 249 — EXPLORE — internal disturbance can give temporal strain an object
 
 Pre-audit reconciled 58 canonical identities and annotations, 57 generated transitions, both verified Spotify receipts, the empty clarification queue, no TRIGGERED revisit and no audio or live-mixing evidence. *Sawa* and *Carried* remained absent; *Tender Is The Night* remained positively retained; the protected trio remained contiguous at positions 48–50. No objective or listener-authorized repair was actionable, so the lane was EXPLORE.

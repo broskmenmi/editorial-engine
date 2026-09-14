@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 251
+
+### Formation can change the meaning of a return
+
+**Direction:** Test whether an intermediate formed state gives the next track a narrower transformation task. Contrast that with long drift passages whose material identity is clear but whose endpoint does not alter the successor's work.
+
+**Ingredients:**
+
+- Debit — *Encasadelciegoeltuerco* → Luigi Tozzi — *Tender Is The Night* → Baby Ford — *Night D3 Died* → Alexander Holm, Francesca Burattelli — *Egue into hs* → Rene Wise — *Cave*
+- Baby Ford — *The Introducer* — exact placement-specific counterexample between *Rabbit Hole* and *Can I live*
+- Oscar Escapa & Horacio Cruz, Violeta García & Hora Lunga and Charles Dodge — unresolved current, adjacent and catalogue research directions
+
+**Why interesting:** *Night D3 Died* establishes a separately formed drum-and-chord state, so the fixed-kick successor can tighten the grid rather than initiate the first rhythmic return. *The Introducer* demonstrates the opposite case: an extended drift may belong, yet still leave the existing re-entry unchanged.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-effect claim or live-mixing edge. Exact handoffs, endpoints and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 250
 
 ### Material identity is not directional consequence

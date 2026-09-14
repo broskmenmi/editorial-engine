@@ -1,5 +1,22 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 251 harvest — 2026-09-14
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Baby Ford | Night D3 Died | `spotify:track:2gGFSLPMYaslXwdbT9Vlpc` · https://open.spotify.com/track/2gGFSLPMYaslXwdbT9Vlpc · https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/ | Exact 6:24.524 drum-and-chord state; added between *Tender Is The Night* and *Egue into hs*. It gives the fixed-kick successor a tighter grid-re-entry task. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Baby Ford | The Introducer | `spotify:track:6cZiXQkDeR0NRg48zu9Ogw` · https://open.spotify.com/track/6cZiXQkDeR0NRg48zu9Ogw · https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/ | Exact 8:11.428 warm, spacious drift remains interesting; rejected only between *Rabbit Hole* and *Can I live*. Added globally. |
+| UNRESOLVED RESEARCH | Oscar Escapa & Horacio Cruz; Violeta García & Hora Lunga; Charles Dodge | *Bazaar Star*; *emotional baggage allowance*; *In Celebration*; *Proud Generation*; *la ola or i miss u*; *Awakening Education*; *In The Wall* | Sources preserved in scout-request.json | Six Spotify-SE misses and one exact-title ambiguity. No musical verdict or utility addition. |
+| RELEASE / LABEL WATCH | Special Series / Proud Generation; -OUS / 4ever; Death Is Not The End / Synthesized Voices | Current, adjacent and catalogue/reissue windows | https://www.juno.co.uk/products/oscar-escapa-horacio-cruz-proud-generation-ep-vinyl/1174238-01/ · https://boomkat.com/products/4ever-4673ce4b-bbd9-4f14-a453-1f5ca4cb1b16 · https://boomkat.com/products/synthesized-voices | Continue as exact-title research windows; do not transfer release-level behavior to unresolved identities. |
+
+### Run 251 boundaries
+
+- Canonical: *Night D3 Died* passes only at `Tender Is The Night → candidate → Egue into hs`; exact handoffs and endpoint remain unknown.
+- Placement-specific reject: *The Introducer* remains interesting outside `Rabbit Hole → candidate → Can I live`.
+- Both evaluated exact identities enter the doctrine-free global utility ledger.
+- Seven unresolved identities remain research leads only.
+- Set direction: distinguish a formed drum state that changes a grid return from an extended drift that merely lengthens retreat.
+
 ## Run 250 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

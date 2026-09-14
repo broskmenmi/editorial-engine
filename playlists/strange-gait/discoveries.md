@@ -1,5 +1,58 @@
 # STRANGE GAIT — Discoveries
 
+## Run 251 — 2026-09-14T18:53:32Z-explore-251
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `d018ab5520a20db989e5488299b3a15720f11a62`, requestFingerprint `72da4e275076789f3ef95db4ac8af340686d581ba741f05f5045f9c737b5716d`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions or relinkings. Every warning and exact resolver error is preserved below.
+
+The first resolver attempt failed during Spotify lookup and did not persist candidate data: `Spotify /search?q=track%3A%22Night+D3+Died%22+artist%3A%22Baby+Ford%22&type=track&market=SE&limit=10 failed: 503 ""`. The request-history, source-state and lifecycle validations had passed. A retry of the same failed workflow job completed successfully and produced the matching immutable snapshot; no request or editorial input changed.
+
+### Evaluated exact candidates
+
+#### Baby Ford — Night D3 Died — `spotify:track:2gGFSLPMYaslXwdbT9Vlpc` — ADD
+
+Source: https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/
+Spotify: https://open.spotify.com/track/2gGFSLPMYaslXwdbT9Vlpc
+Exact resolver duration: 384,524 ms (6:24.524). BPM unavailable.
+
+Juno distinguishes the exact track through crunchy drums paired with mournful synth chords. This establishes a formed drum-and-chord state, not exact entry, exit, endpoint, perceived pulse, energy, density, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The documented drum/chord pairing belongs under the selection lens without relying on the Baby Ford catalogue association or the track's difference from its neighbours.
+- Immediate transition: provisional PASS at `Tender Is The Night → Night D3 Died → Egue into hs`. A formed drum-and-chord state creates a deliberate change after the positively retained drone suspension and gives the following fixed-kick construction a more specific grid-tightening task. Exact handoffs and endpoint remain UNKNOWN.
+- Surrounding run: provisional PASS through `Encasadelciegoeltuerco → Tender Is The Night → Night D3 Died → Egue into hs → Cave`. The run moves from emptying through suspended drone, chorded drum formation, fixed-grid electro-acoustic re-entry and widening. The conspicuous character change is legible at run scale without requiring a shared sonic room.
+- Long-form effect: provisional PASS. *Egue into hs* no longer performs the first rhythmic return after suspension; it narrows a separately formed drum state into its documented unrelenting fixed-kick condition before *Cave* widens the passage.
+- Proportional challenge: 6:24.524 is substantial early in the journey, but the candidate changes the downstream task rather than adding an unaccounted extra scene.
+- Verdict: ADD between *Tender Is The Night* and *Egue into hs*.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026-07-13" but Spotify returned "2022-05-20"`
+
+#### Baby Ford — The Introducer — `spotify:track:6cZiXQkDeR0NRg48zu9Ogw` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/baby-ford-bford-14-vinyl/1143060-01/
+Spotify: https://open.spotify.com/track/6cZiXQkDeR0NRg48zu9Ogw
+Exact resolver duration: 491,428 ms (8:11.428). BPM unavailable.
+
+Juno distinguishes the exact track as drifting into warm, spacious territory. This establishes an extended drift state, not its exact endpoint, perceived pulse, energy, density, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. An extended spatial drift can belong without proving a chapter role or one-room continuity.
+- Immediate transition: UNKNOWN at `Rabbit Hole → The Introducer → Can I live`; exact handoffs and the candidate endpoint were not tested.
+- Surrounding run: FAIL proportionally through `Nukumori → Jjochstubn → Rabbit Hole → The Introducer → Can I live`. The 8:11.428 candidate adds another extended retreat after the existing dead-space descent, while available evidence does not show that *Can I live* receives a different restrained re-entry task.
+- Long-form effect: FAIL at this placement. The closing passage becomes longer and more spatially stated, but no evidenced downstream condition changes the existing descent-to-re-entry-to-afterword relation.
+- Verdict: placement-specific REJECT, not a global rejection. Retained as genuinely interesting.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: release date requested "2026-07-13" but Spotify returned "2022-05-20"`
+
+### Preserved resolver outcomes without musical verdict
+
+- Oscar Escapa, Horacio Cruz — *Bazaar Star*: `no exact Spotify title/artist search match in market SE`
+- Violeta García, Hora Lunga — *emotional baggage allowance*: `no exact Spotify title/artist search match in market SE`
+- Charles Dodge — *In Celebration*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (3R0wychYSY8oTVZn73JdSA, 3NUtFPJQpzIuofu94vZxcy)`
+- Oscar Escapa, Horacio Cruz — *Proud Generation*: `no exact Spotify title/artist search match in market SE`
+- Violeta García, Hora Lunga — *la ola or i miss u*: `no exact Spotify title/artist search match in market SE`
+- Oscar Escapa, Horacio Cruz — *Awakening Education*: `no exact Spotify title/artist search match in market SE`
+- Oscar Escapa, Horacio Cruz — *In The Wall*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred from any unresolved outcome. Audio analysis and live mixing were not tested.
+
 ## Run 250 — 2026-09-14T17:50:41Z-explore-250
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `63ec42fc45db4ac40c5a2b08ffb4f310aca0aaab`, requestFingerprint `93893fa2f82f055bfc5150b88f46ba656919e71ceab85981791ef6884ea98fcf`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.
