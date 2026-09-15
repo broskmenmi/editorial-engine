@@ -2,13 +2,13 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T23:57:00Z-explore-285",
-  "sourceCommit": "f5df51bcd1c48169f6a832eb04951fd6499b6540",
+  "runId": "2026-09-15T23:58:00Z-explore-286",
+  "sourceCommit": "7c9b1786b748cda84198c1449ade30b31f4a5809",
   "explorationReceipt": {
     "approximateInspectedScope": "Approximately 102 named tracks and releases across current Juno techno, minimal/tech-house and adjacent deep-house bestseller and new-release windows, catalogue represses, current label paths and the full canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no REPAIR is actionable.",
-      "Run 284 failed before Spotify lookup because one placement URI did not match the canonical ledger; this new immutable request corrects that input under a new runId and preserves the same fresh scan.",
+      "Runs 284–285 failed before Spotify lookup because the Fulledge boundary first used the wrong URI and then omitted its mix suffix in placement prose; this new immutable request corrects both inputs under a new runId and preserves the same fresh scan.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved alternate, unresolved identity and repository-wide utility identity was excluded.",
       "Nine leads come from nine releases; no release supplies more than one lead.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
@@ -123,7 +123,7 @@
       "fitHypothesis": "Its Detroit-techno context could be tested as a club-state between Fulledge and Capa without presuming how it sounds.",
       "proposedPlacements": [
         {
-          "position": "Between Fulledge and Capa",
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
           "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
           "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
           "incomingBpm": null,
