@@ -3,6 +3,16 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 274 — exact inspiration retained
+
+- dgoHn — *Waiting For* — `spotify:track:71Sm1Ap2v2OvXpsUSNSs70` — exact 4:38.093 identity; PARKED at `It Never Made Sense → candidate → Nukumori` because the current evidence does not distinguish individual development or endpoint.
+- Maxime Denuc — *Hallucinogen* — `spotify:track:0rGjgJxRWezdF7x9V7zbAV` — selected by the resolver but excluded after audit because the global utility ledger already retains the identity from STRANGE GAIT Run 182; no new verdict or utility row.
+- Curbside Lambsear — *No Ordinary Word* — `spotify:track:3WCThy2BDfxnwVGfoa1r9J` — exact 5:45.653 identity; placement-specific reject at `Can I live → candidate → Invisible Warriors Of Light`, retained for its processed-guitar, loping-drum song-form.
+- Exact alternates without verdict: Actress — *Withending*; Carmen Villain — *Hope Synapses*; Haruomi Hosono — *Rojiura (Walking Vibration)*.
+- Research leads preserved without verdict: MARK FELL — *time-slur*; HALLUCINATOR — *Goldcoast*; Low End Activist meets SeekersInternational — *MUZIKON V*.
+- Source direction: current Boomkat recommendations, artist-hosted Bandcamp and Planet Mu catalogue. Set direction retained: distinguish a vivid intermediate turn from one whose exit changes the successor.
+- Audio analysis and live mixing were not tested.
+
 ## Run 273 — exact inspiration retained
 
 - Lurka — *Point Noise Behaviours* — `spotify:track:39D649DMmwerovJZ5h6kcV` — exact 5:13.996 identity; placement-specific reject at `Capa → candidate → Sarniezz`, retained for its attributed sputtering-and-slamming pressure state.

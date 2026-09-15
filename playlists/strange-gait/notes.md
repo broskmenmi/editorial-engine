@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 274 — EXPLORE — a vivid turn still needs a changed successor
+
+Pre-audit passed and selected EXPLORE. Approximately 108 current, adjacent and overlooked-catalogue items produced nine immutable leads from nine releases. The matching PARTIAL resolver snapshot resolved six identities and selected dgoHn — *Waiting For*, Maxime Denuc — *Hallucinogen* and Curbside Lambsear — *No Ordinary Word*. Post-resolution audit found *Hallucinogen* already retained globally from STRANGE GAIT Run 182, so it receives no new musical verdict or duplicate utility row; three exact alternates and three unresolved identities likewise receive no verdict.
+
+*Waiting For* passes the volume lens provisionally but remains PARKED between *It Never Made Sense* and *Nukumori*: the exact identity and release/artist framing establish a compact break-led possibility, not the individual track's development, endpoint or downstream consequence. *No Ordinary Word* passes the volume lens but is rejected only between *Can I live* and *Invisible Warriors Of Light*, where it creates a second song-form afterword without evidence that the existing final track receives different work.
+
+STRANGE GAIT remains 64 tracks and its protected trio remains exact at positions 54–56. The doctrine-free Discovery Pool becomes 529 tracks by retaining the two eligible evaluated exact identities. Utility publication verification is pending; the unchanged target receipt remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z. The target journey-map inputs are unchanged. The recurring-PARK repair threshold is not met. The global-persistence miss is an actionable workflow defect; Repair Run 275 follows immediately. Audio analysis and live mixing were not tested.
+
+Run 274: `~108 inspected → 9 leads → 6 exact (3 selected + 3 alternates) + 3 unresolved → 1 selected persistent exclusion + 2 evaluations → 0 ADD + 1 placement-specific REJECT + 1 PARKED → 2 utility additions`. Completed discovery totals through Run 274 are 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates.
+
 ## Run 273 — EXPLORE — vivid intermediate states still need exit evidence
 
 Pre-audit passed and selected EXPLORE. Approximately 121 current, adjacent and overlooked-catalogue items produced nine immutable leads from nine releases. The matching PARTIAL resolver snapshot selected two exact identities: Lurka — *Point Noise Behaviours* and Bliss Inc — *In Blur*. Seven outcomes remain unresolved or already persistent and receive no musical verdict.

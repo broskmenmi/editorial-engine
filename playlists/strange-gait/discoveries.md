@@ -1,5 +1,82 @@
 # STRANGE GAIT — Discoveries
 
+## Run 274 — 2026-09-15T14:50:09Z-explore-274
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `4526f971b9f33715e20039ff8833a65a4188e120`, requestFingerprint `a8ea01c79e3c8f49238fcac248995cf62369fb6db745cd2666b422bb345a1dda`, PARTIAL. Requested 9; resolved 6; selected 3; three resolved alternates; three unresolved identities. Two metadata warnings were preserved. No substitutions, relinkings or terminal technical resolver failures occurred. Post-resolution audit found that selected identity Maxime Denuc — *Hallucinogen* was already present in the global utility ledger from STRANGE GAIT Run 182. It therefore receives no new musical verdict or utility row. The remaining two selected identities were eligible for evaluation, and the planned boundaries avoided the previous five completed discovery runs.
+
+### Evaluated exact candidates
+
+#### dgoHn — Waiting For — `spotify:track:71Sm1Ap2v2OvXpsUSNSs70` — PARKED
+
+Source: https://dgohn-music.bandcamp.com/album/tessares
+
+Spotify: https://open.spotify.com/track/71Sm1Ap2v2OvXpsUSNSs70
+
+Exact resolver duration: 278,093 ms (4:38.093). BPM unavailable. Spotify returned album *Tessares* and release date 2026-06-26 without metadata variance.
+
+The artist-hosted page verifies *Waiting For* as the opener and Planet Mu describes dgoHn's catalogue through break-led twists joining jungle with jazz, funk and classical material. That is meaningful release/artist context, but it does not distinguish this track's individual development or endpoint.
+
+- Volume fit: PASS provisionally. A compact break-led twist is a lawful altered-gait proposition without relying on genre purity or novelty.
+- Immediate transition: UNKNOWN at `It Never Made Sense → Waiting For → Nukumori`; neither handoff was heard or metrically documented.
+- Surrounding run: UNKNOWN through `Migration → Eyes of the Wind → It Never Made Sense → Waiting For → Nukumori`. The framing permits a fracture hypothesis but cannot establish whether the candidate redirects the razor-cut formation or merely inserts another break state.
+- Long-form effect: UNKNOWN. Its 4:38.093 duration is bounded, but the source does not establish an exit that changes *Nukumori*'s remnant-flare task.
+- Strongest alternative: reject because another break-led turn crowds the escape. That would convert missing individual trajectory evidence into failure.
+- Verdict: PARKED at the tested boundary. Reopen only for materially richer exact-track development or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. Retained as genuinely interesting.
+
+#### Maxime Denuc — Hallucinogen — `spotify:track:0rGjgJxRWezdF7x9V7zbAV` — PERSISTENT EXCLUSION
+
+The resolver selected the exact identity, but the global utility ledger already retains it from STRANGE GAIT Run 182. Run 274 therefore records no new musical verdict, rejected/revisit mutation or utility addition for this track. The immutable request and snapshot remain preserved as evidence of the cross-ledger exclusion gap.
+
+#### Curbside Lambsear — No Ordinary Word — `spotify:track:3WCThy2BDfxnwVGfoa1r9J` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://boomkat.com/products/put-rings-on-all-my-fingers-to-weigh-down-my-hands
+
+Spotify: https://open.spotify.com/track/3WCThy2BDfxnwVGfoa1r9J
+
+Exact resolver duration: 345,653 ms (5:45.653). BPM unavailable. Spotify returned the requested album and release date 2026-09-11 without metadata variance.
+
+Boomkat individually describes *No Ordinary Word* through chugging processed guitars, loping drums and an insouciant vocal between post-rock and experimental pop. Exact handoffs, endpoint and other sonic measurements remain unknown.
+
+- Volume fit: PASS. Its processed song-form can serve the volume's production-world and character-change lenses.
+- Immediate transition: UNKNOWN at `Can I live → No Ordinary Word → Invisible Warriors Of Light`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally across `Jjochstubn → Rabbit Hole → Can I live → No Ordinary Word → Invisible Warriors Of Light`. After dead-space descent and restrained re-entry, the candidate adds another fully stated song-object before the existing electro-soul afterword.
+- Long-form effect: FAIL only at this placement. At 5:45.653 it creates a second afterword gesture without evidence that the final track acquires a different task.
+- Strongest alternative: the loping processed song could make the last electro-soul turn more surprising. Surprise alone does not establish downstream consequence.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+### Resolved alternates
+
+These exact identities were not selected and receive no musical verdict or utility row:
+
+- Actress — *Withending* — `spotify:track:6WrqLxFkIlHcBT8DmnYmRL`
+- Carmen Villain — *Hope Synapses* — `spotify:track:5TiNz395LKUohBqq93mUaX`
+- Haruomi Hosono — *Rojiura (Walking Vibration)* — `spotify:track:4dpYPoluzkZe0FzUA79ngN`
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- MARK FELL — *time-slur*: `no exact Spotify title/artist search match in market SE`
+- HALLUCINATOR — *Goldcoast*: `no exact Spotify title/artist search match in market SE`
+- Low End Activist meets SeekersInternational — *MUZIKON V*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-18" but Spotify returned "2026-09-11"`
+- `Exact title/artist matched with release metadata variance: album requested "Radical Frame" but Spotify returned "Withending"; release date requested "2026-09-18" but Spotify returned "2026-08-19"`
+
+### Auditor decision
+
+APPROVED WITH ONE PERSISTENT EXCLUSION. Pre-audit lawfully selected EXPLORE and the immutable request and matching terminal snapshot are internally valid. Post-resolution audit caught *Hallucinogen* in the global utility ledger, so it receives no new verdict or duplicate row. The two eligible exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; the rejection remains proportional and placement-specific; the PARK preserves decision-critical unknowns; alternates and unresolved identities receive no verdict; and both genuinely interesting evaluated identities enter the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact, and no other canonical playlist is mutated. The cross-ledger resolver gap is an actionable workflow defect and is repaired immediately after this run.
+
+### Persistence, publication and map state
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 529 tracks by retaining the two eligible evaluated exact identities. Utility publication verification is pending the approved editorial commit.
+
+### Run analysis
+
+Run 274: `~108 inspected → 9 leads → 6 exact (3 selected + 3 alternates) + 3 unresolved → 1 selected persistent exclusion + 2 evaluations → 0 ADD + 1 placement-specific REJECT + 1 PARKED → 2 utility additions`. Inspection-to-lead conversion was 8.3%, resolution yield 66.7% and eligible-evaluated-candidate-to-ADD conversion 0/2. Across completed discovery Runs 87–274, excluding repairs and failed requests: 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates. Three of the last ten comparable runs contain an ADD. The musical no-ADD streak is four completed runs after Run 270, with eight exact interesting tracks retained since that ADD. Resolver loss remains material but is not evidence of playlist completion. The recurring-PARK repair threshold is not met. The global-persistence miss is an actionable process defect, not a new musical outcome; Repair Run 275 extends EXPLORE exclusions to the global utility ledger. Audio analysis and live mixing were not tested.
+
 ## Run 273 — 2026-09-15T13:53:26Z-explore-273
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `dd046ab31df96135790287744d5921ef6b44bdd7`, requestFingerprint `01f56928d61a329a72f4a928a28dddf85c49a491a5adb4142341f691027d816f`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or terminal technical resolver failures. The nine leads came from nine releases and avoided boundaries evaluated in the previous five completed discovery runs. The resolver correctly blocked Darren Nye — *Solar Drift* as already present in persistent state; that exact identity therefore receives no new musical verdict.

@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 274
+
+### Vivid turn versus changed successor
+
+**Direction:** Test break-led, resonant and processed-song propositions by the condition they leave behind, not by the conspicuousness of the material change alone.
+
+**Ingredients:**
+
+- Bonobo — *Migration* → Azu Tiwaline — *Eyes of the Wind* → Oscar Later — *It Never Made Sense* → dgoHn — *Waiting For* → foodman — *Nukumori* — parked placement hypothesis; candidate development, endpoint and exact handoffs unknown
+- Maxime Denuc — *Hallucinogen* — selected then excluded as already persistent in the global utility ledger; no new placement verdict
+- Curbside Lambsear — *Jjochstubn* → Jlin — *Rabbit Hole* → TYGAPAW / Precious Okoyomon — *Can I live* → Curbside Lambsear — *No Ordinary Word* → Steve Rachmad — *Invisible Warriors Of Light* — rejected placement hypothesis; exact handoffs and endpoint unknown
+- MARK FELL, HALLUCINATOR and Low End Activist meets SeekersInternational — unresolved exact-title research directions
+
+**Why interesting:** The eligible exact candidates offer distinct turns. The canonical question remains what their exit changes: release-level break framing keeps one question open, while the processed-song placement adds a complete closing stage without changing the successor's task. *Hallucinogen* separately exposed a cross-ledger persistence defect.
+
+**Boundary:** These are editorial directions, a parked hypothesis and placement counterexamples, not proven live sequences or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse, endpoints and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 273
 
 ### Material vividness versus documented exit
