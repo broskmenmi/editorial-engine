@@ -2,154 +2,344 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T12:49:06Z-explore-272",
-  "sourceCommit": "12acb8e5c8c886f53a737d4bdcb814a79cd7ef24",
+  "runId": "2026-09-15T13:53:26Z-explore-273",
+  "sourceCommit": "dd046ab31df96135790287744d5921ef6b44bdd7",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 118 named tracks and releases across Juno's September 15 same-day and weekly techno pages, current techno and electro back-in-stock windows, and overlooked catalogue/reissue material. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 121 named tracks and releases across Juno's September 15 same-day techno page, current weekly electro and experimental/electronic windows, Bleep's overlooked catalogue listings, and artist/label-hosted exact-track pages. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "The canonical ledger, annotations, journey map, discussion and revisit queues, rejected and discovery histories, inspiration files, publication state and global utility ledger were audited first. UTF-8, JSON, count, map-order, receipt and protected-order checks passed; no objective defect, listener authorization, triggered revisit or unfinished repair required REPAIR.",
       "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. Nine fresh exact-title leads remain; no ranking slot was filled for resolver convenience.",
-      "The recurring-PARK evidence guard was applied. One lead per release was retained. Each of the first three ranked leads has differentiated exact-track prose; lower-ranked release-context leads remain serious contenders without being promoted into track-specific behavioral claims.",
+      "The recurring-PARK evidence guard was applied. One lead per release was retained, and every selected release has materially distinct exact-track prose or an exact artist-hosted listing.",
       "Planned placements were compared with the previous five completed discovery runs. Recently evaluated boundaries were avoided, while incomplete requests remained excluded from musical evidence.",
-      "Generic current preorders, unreviewed listings, prestige-only reissues, persistent identities and tracks supported only by genre labels were inspected but excluded from the resolver request.",
+      "Generic preorders, unreviewed listings, prestige-only reissues, persistent identities and tracks supported only by genre labels were inspected but excluded.",
       "Source descriptions remain attributed prose, not measurements. No energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse, mixability or transition quality was inferred. Neither listener-protected handoff was split.",
       "Rank reflects evidence specificity, selection-lens relevance, canonical potential and information gain, not novelty, orthodoxy, diversity, technical cleverness, artist prestige or a fixed chapter map."
     ],
     "rankedLeadSummary": [
-      "1. Blauert — Alienation",
-      "2. Kotai — Sucker DJ",
-      "3. SancrA — Orchestral Glitch",
-      "4. Phil Berg — Tempest",
-      "5. Borusiade — Infatuation",
-      "6. John Beltran — Begin Again (Luke Hess remix)",
-      "7. KOGUI — Hope Pression",
-      "8. Natural Goofy — Continuous",
-      "9. Kid Bucle — Mawkish Orbit"
+      "1. ANGAMA — Burning",
+      "2. Lurka — Point Noise Behaviours",
+      "3. Bliss Inc — In Blur",
+      "4. Nick Fasoli — Express Thyself",
+      "5. Calagad 13 — Graves Quimicos (Breaks)",
+      "6. AZARYC — New Nice Pop Song",
+      "7. Jay Tripwire — Irene",
+      "8. Darren Nye — Solar Drift",
+      "9. Howie B, Hiraki Sawa — Stick 2"
     ],
     "sourceWindows": [
-      "CURRENT: Juno's September 15 same-day and weekly techno pages were screened across 74 weekly vinyl listings, including 21 reviewed releases, checked 2026-09-15. Current exact identities already persisted in prior runs were excluded. https://www.juno.co.uk/techno-music/today/ and https://www.juno.co.uk/techno-music/this-week/",
-      "ADJACENT / EMERGING: Juno's current electro back-in-stock window supplied SancrA, Natural Goofy, KOGUI, Kotai and Kid Bucle propositions spanning scruffy metal percussion, progressive harshening, dub restraint, post-punk electro and slow-reveal IDM, checked 2026-09-15. https://www.juno.co.uk/electro/back-in-stock/",
-      "OVERLOOKED CATALOGUE / RECIRCULATION: Juno's techno restock window returned Blauert, Phil Berg, Borusiade and John Beltran/Luke Hess records whose exact descriptions support fresh structural questions without treating recirculation or reputation as admission evidence, checked 2026-09-15. https://www.juno.co.uk/techno-music/back-in-stock/"
+      "CURRENT: Juno's September 15 same-day techno page exposed 34 releases, including five reviewed records; ANGAMA, Bliss Inc and Jay Tripwire supplied exact differentiated propositions, checked 2026-09-15. https://www.juno.co.uk/techno-music/today/",
+      "ADJACENT / EMERGING: Juno's weekly electro window supplied 15 releases, including six reviewed records; Nick Fasoli, Calagad 13, AZARYC and Darren Nye supplied exact differentiated propositions, checked 2026-09-15. https://www.juno.co.uk/electro/this-week/",
+      "OVERLOOKED CATALOGUE / LEFTFIELD: Bleep, Timedance, artist-hosted Bandcamp and current experimental/electronic listings supplied Lurka and Howie B/Hiraki Sawa propositions outside the repeated techno-restock source family, checked 2026-09-15. https://bleep.com/ and https://timedance.music/"
     ],
-    "timestampUtc": "2026-09-15T12:49:06Z"
+    "timestampUtc": "2026-09-15T13:53:26Z"
   },
   "leads": [
     {
-      "artist": "Blauert", "track": "Alienation", "album": "Resonanz", "releaseDate": "2026-07-15", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/blauert-resonanz-vinyl/1164957-01/", "searchIntent": "BOTH",
+      "artist": "ANGAMA",
+      "track": "Burning",
+      "album": "025420",
+      "releaseDate": "2026-09-15",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/angama-025420-vinyl/1170266-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A gradual surrender of one texture to a formed rhythm can give the next surge a specific state to exceed, but development language does not prove either handoff.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Alienation as letting spiralling dub effects gradually give way to a nimble rhythm.",
-        "editorialInterpretation": "Test the documented textural-to-rhythmic change before Roxellana without converting reviewer language into measured energy, density, space, hypnosis, emotion, endpoint, perceived pulse, phrasing or mixability.",
-        "measured": ["Juno lists Alienation at 8:38 on Resonanz, catalogue 200 052, released 2026-07-15.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno identifies Burning as the second side and describes it as blanketing the record's drum-and-blip design in live, organic, developmental texture.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists Burning at 7:02 on 025420, catalogue DTR 011, released 2026-09-15.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Alienation could turn Pulse I's crooked accumulation into a long-form shift from dub effects toward nimble rhythm, giving Roxellana a formed rhythmic state to exceed, or it could merely insert another substantial accumulation.",
-      "proposedPlacements": [{"position": "Between Pulse I and Roxellana", "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY", "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt", "incomingBpm": 136, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether gradual formation gives the uncontained surge a defined object or only prolongs accumulation."}]
+      "fitHypothesis": "Burning could turn Moonwake's intensification into an organically developed drum-and-blip state that Raataja fragments, or merely extend the build before the existing crisis.",
+      "proposedPlacements": [
+        {
+          "position": "Between Moonwake and Raataja",
+          "precedingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "followingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+          "incomingBpm": 140,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether documented developmental texture gives the burst-and-disappearance crisis a defined object."
+        }
+      ]
     },
     {
-      "artist": "Kotai", "track": "Sucker DJ", "album": "Sucker DJ", "releaseDate": "2026-08-18", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/kotai-sucker-dj-vinyl/1168422-01/", "searchIntent": "BOTH",
+      "artist": "Lurka",
+      "track": "Point Noise Behaviours",
+      "album": "Rhythm Hi-Tek",
+      "releaseDate": "2020-05-08",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://lurka.bandcamp.com/album/rhythm-hi-tek",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A conspicuous production-world and vocal change can sharpen an opening anchor when it transforms the overture rather than adding a second preface.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Sucker DJ as a roughly 150-BPM post-punk masher with desiccated textures, cold synth styling and forceful vocals.",
-        "editorialInterpretation": "Test a deliberately conspicuous post-punk/electro interruption between transformation-led overture and techno anchor while keeping exact tempo, energy, density, space, hypnosis, emotional effect, entry, exit, phrasing and mixability unknown.",
-        "measured": ["Juno lists Sucker DJ at 5:06 on the 2026 reissue, catalogue KOMPAKT 507, released 2026-08-18.", "The approximately 150 BPM statement is attributed reviewer prose, not a measured BPM value; exact market-SE identity and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Bleep distinguishes Point Noise Behaviours as sputtering and slamming; the artist-hosted page verifies the exact title and release sequence.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "The artist-hosted release lists Point Noise Behaviours at 5:13 on Rhythm Hi-Tek, released 2020-05-08.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Sucker DJ could make Stadium Drive's transformation erupt into a jagged vocalized side-world that Marauder re-anchors, or delay the anchor with another complete overture.",
-      "proposedPlacements": [{"position": "Between Stadium Drive and Marauder", "precedingUri": "spotify:track:54XRZaNSCrGuNTrFHmXVKP", "followingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": 136, "purpose": "Test whether the conspicuous post-punk interruption sharpens re-anchoring or becomes a second preface."}]
+      "fitHypothesis": "Point Noise Behaviours could establish a hard-edged pressure object after Capa that Sarniezz turns into a live-band pulse illusion, or merely add another conspicuous formation.",
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "incomingBpm": 137,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the exact pressure state sharpens the live-band left turn."
+        }
+      ]
     },
     {
-      "artist": "SancrA", "track": "Orchestral Glitch", "album": "Celestial Resonance", "releaseDate": "2026-07-30", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/electro/back-in-stock/", "searchIntent": "BOTH",
+      "artist": "Bliss Inc",
+      "track": "In Blur",
+      "album": "Echo Chambered",
+      "releaseDate": "2026-09-15",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/bliss-inc-echo-chambered-vinyl/1170044-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A scruffy metal-drum and pad construction may create a material body for a following remnant flare to transform, but surface contrast alone is not downstream consequence.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Orchestral Glitch through glitchy, scruffy metal texture in the drums and brooding intensity in the pads.",
-        "editorialInterpretation": "Test the documented drum/pad opposition before Nukumori without treating reviewer mood language as measured energy, density, space, hypnosis, emotion, development, endpoint, perceived pulse, phrasing or mixability.",
-        "measured": ["Juno lists Orchestral Glitch on Celestial Resonance, catalogue FO 005, released 2026-07-30; the listing exposes no duration.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno individually describes In Blur as shifting the release into deeper, noise-layered, leaden tunnels.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists In Blur at 6:31 on Echo Chambered, catalogue PNCT 011, released 2026-09-15.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Orchestral Glitch could turn the razor-cut two-step state into a rough metallic body whose pads make Nukumori's remnant flare read as transformation, or it could crowd an already articulated escape passage.",
-      "proposedPlacements": [{"position": "Between It Never Made Sense and Nukumori", "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD", "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether a metallic drum/pad body changes the remnant flare or crowds the existing escape sequence."}]
+      "fitHypothesis": "In Blur could darken Abundance into a leaden noise state from which Tecky Alexander's subtly shifting loops reform pattern, or simply delay that formation.",
+      "proposedPlacements": [
+        {
+          "position": "Between Abundance and Tecky Alexander",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:70qozbBOD7hfoG4ac2h5nl",
+          "incomingBpm": 135,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a documented tunnel changes patterned reformation or only lengthens the early passage."
+        }
+      ]
     },
     {
-      "artist": "Phil Berg", "track": "Tempest", "album": "Darin", "releaseDate": "2026-07-16", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/phil-berg-darin-vinyl/1165098-01/", "searchIntent": "BOTH",
+      "artist": "Nick Fasoli",
+      "track": "Express Thyself",
+      "album": "False Shuffle EP",
+      "releaseDate": "2026-09-10",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/nick-fasoli-false-shuffle-ep-vinyl/1167418-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Structured bass withdrawals and returns can give a later foreground dissolution something concrete to erase, but bar-count framing does not establish an endpoint or transition.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno groups Tempest with Darin as favouring 16-bar bass sacrifices and re-drops within a no-frills, kick-forward construction.",
-        "editorialInterpretation": "Test the attributed bass withdrawal/return structure before Ikoyi without converting it into measured energy, density, space, hypnosis, emotion, endpoint, perceived pulse, phrasing or mixability.",
-        "measured": ["Juno lists Tempest at 5:21 on Darin, catalogue MR 047, released 2026-07-16.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno individually describes Express Thyself through a self-expression injunction repeated militantly via clipped speakerphone over a manically straight beat.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists Express Thyself on False Shuffle EP, catalogue FT 002, released 2026-09-10; the listing exposes no duration.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Tempest could establish a recurring bass architecture after Té de Cabello Blanco so Ikoyi dissolves a defined foreground, or it could add another complete reassembly before an already effective disappearance.",
-      "proposedPlacements": [{"position": "Between Té de Cabello Blanco and Ikoyi", "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo", "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether recurring bass architecture gives foreground dissolution a specific object."}]
+      "fitHypothesis": "Express Thyself could turn Style Teef's frazzled matrix into a rigid repeated-vocal object that Same Way bodily alternates, or add another complete declaration before the threshold sequence.",
+      "proposedPlacements": [
+        {
+          "position": "Between Style Teef and Same Way",
+          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether rigid vocal repetition changes the successor's alternating body pressure."
+        }
+      ]
     },
     {
-      "artist": "Borusiade", "track": "Infatuation", "album": "Promises & Infatuation", "releaseDate": "2017-06-12", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/borusiade-the-sixteen-steps-promises-infatuation-vinyl/651702-01/", "searchIntent": "BOTH",
+      "artist": "Calagad 13",
+      "track": "Graves Quimicos (Breaks)",
+      "album": "Cyberphunk Clausura",
+      "releaseDate": "2026-09-09",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/calagad-13-cyberphunk-clausura-vinyl/1167938-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Mechanical acid movement with blurred vocals can bridge fragment recurrence into bodily deformation, but vocabulary overlap is not transition proof.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Infatuation through mechanical acid bumps guided by eerie vocal blurs.",
-        "editorialInterpretation": "Test the described acid/vocal mechanism after Goink while keeping energy, density, space, hypnosis, emotion, development, endpoint, perceived pulse, phrasing and mixability unknown.",
-        "measured": ["Juno lists Infatuation at 5:28 on Promises & Infatuation, catalogue CITI 022, released 2017-06-12.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno distinguishes Graves Quimicos (Breaks) as helping loosen the album into tougher breakbeat territory within heavy sub-bass and fractured-rhythm framing.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists Graves Quimicos (Breaks) at 6:46 on Cyberphunk Clausura, catalogue CT 020, released 2026-09-09.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Infatuation could translate Goink's recurring fragments into a mechanical vocalized body that Thick to Handle deforms, or merely add another formed process before the existing break.",
-      "proposedPlacements": [{"position": "Between Goink and Thick to Handle", "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ", "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": 138, "purpose": "Test whether mechanical acid/vocal motion changes the following deformation or only extends formation."}]
+      "fitHypothesis": "Graves Quimicos (Breaks) could redirect Crawl's sustained motion into tougher broken terrain before IF U WANT 2's opposed-material tension, or merely add a second motion state.",
+      "proposedPlacements": [
+        {
+          "position": "Between Crawl and IF U WANT 2",
+          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether tougher breakbeat loosening changes the following opposed-material tension."
+        }
+      ]
     },
     {
-      "artist": "John Beltran", "track": "Begin Again (Luke Hess remix)", "album": "The Peninsula", "releaseDate": "2022-05-04", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/john-beltran-luke-hess-the-peninsula-warehouse-find-vinyl/869994-01/", "searchIntent": "BOTH",
+      "artist": "AZARYC",
+      "track": "New Nice Pop Song",
+      "album": "√∆2",
+      "releaseDate": "2026-04-11",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://ricocasazza.bandcamp.com/track/new-nice-pop-song",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "An upbeat acid re-entry may make a final electro-soul afterword feel earned, but melodic lineage and artist familiarity cannot establish the exact handoff.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno identifies Luke Hess's Begin Again remix as bringing his traditional upbeat 303 sound to Beltran's ambient Detroit/Chicago material.",
-        "editorialInterpretation": "Test the attributed upbeat 303 reframing before Invisible Warriors Of Light without inferring measured energy, density, space, hypnosis, emotion, development, endpoint, perceived pulse, phrasing or mixability.",
-        "measured": ["Juno lists Begin Again (Luke Hess remix) at 5:45 on The Peninsula, catalogue NPM 003, released 2022-05-04.", "Exact market-SE title, artist credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno individually describes New Nice Pop Song through steppy electro rhythms backed by pensive chords; the artist-hosted page verifies the exact title and release.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "The artist-hosted page lists New Nice Pop Song at 4:10 and released 2026-04-11; Juno lists the physical compilation at 4:08.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "The remix could convert Can I live's restrained re-entry into a clearer rhythmic reopening that the low-slung electro-soul closer resolves, or it could turn the afterword into another unnecessary stage.",
-      "proposedPlacements": [{"position": "Between Can I live and Invisible Warriors Of Light", "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh", "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether upbeat acid re-entry gives the afterword a changed function or delays the close."}]
+      "fitHypothesis": "New Nice Pop Song could convert Migration's character pivot into a compact electro-chord formation that Eyes of the Wind thins into liminal percussion, or crowd the existing pivot.",
+      "proposedPlacements": [
+        {
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a compact rhythmic/chordal state changes the liminal passage."
+        }
+      ]
     },
     {
-      "artist": "KOGUI", "track": "Hope Pression", "album": "Hope Pression", "releaseDate": "2026-07-20", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/kogui-jay-ka-hope-pression-vinyl/1155150-01/", "searchIntent": "BOTH",
+      "artist": "Jay Tripwire",
+      "track": "Irene",
+      "album": "Irene",
+      "releaseDate": "2026-09-14",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/jay-tripwire-thomas-melchior-irene-vinyl/1169379-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A restrained dub pulse may turn rhythmic redirection into a held state before a conspicuous live-band left turn, but release sequencing cannot prove the candidate's endpoint.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno identifies Hope Pression as the opening cut and describes it as channelling Jamaican vocal consciousness into a minimalist soundscape within a dub-techno record built from hypnotic basslines and spacious electronic textures.",
-        "editorialInterpretation": "Test the attributed minimalist dub state before Sarniezz while keeping energy, density, space, hypnosis, emotion, development, endpoint, perceived pulse, phrasing and mixability unknown.",
-        "measured": ["Juno lists Hope Pression at 5:40 on Hope Pression, catalogue JKR 002, released 2026-07-20.", "Exact market-SE identity, artist credit and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno individually describes Irene through smoothly flowing drums, delicate layered pads and wordless vocals drifting in and out.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists Irene at 8:49 on Irene, catalogue SNDRV 8, released 2026-09-14.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Hope Pression could suspend Capa's redirection so Sarniezz becomes a sharper production-world rupture, or it could insert another self-contained reset before that turn.",
-      "proposedPlacements": [{"position": "Between Capa and Sarniezz", "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB", "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt", "incomingBpm": 137, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether restraint sharpens the live-band left turn or becomes an extra reset."}]
+      "fitHypothesis": "Irene could turn Rabbit Hole's dead-space descent into a long suspended body that Can I live re-enters from, or insert an oversized afterword before the existing afterword.",
+      "proposedPlacements": [
+        {
+          "position": "Between Rabbit Hole and Can I live",
+          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a long suspended state changes restrained footwork re-entry or delays the close."
+        }
+      ]
     },
     {
-      "artist": "Natural Goofy", "track": "Continuous", "album": "Continuous EP", "releaseDate": "2026-09-03", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/natural-goofy-continuous-ep-vinyl/1169269-01/", "searchIntent": "BOTH",
+      "artist": "Darren Nye",
+      "track": "Solar Drift",
+      "album": "Lunar Refraction EP",
+      "releaseDate": "2026-09-10",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/darren-nye-lunar-refraction-ep-vinyl/1168980-01/",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "An electro side-world can deepen a character pivot when it hands a changed posture to liminal percussion, but release-wide progression cannot establish an individual track's direction.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno places Continuous at the opening of an EP spanning space-landing electro and cybernetic soundscapes that grow increasingly harsh across the release.",
-        "editorialInterpretation": "Treat space-landing electro and progressive harshening as release context only; test the opener as an adjacent-world possibility while leaving its individual trajectory, endpoint and all scalar or mixing claims unknown.",
-        "measured": ["Juno lists Continuous at 6:52 on Continuous EP, catalogue PLNK 008, released 2026-09-03.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno individually describes Solar Drift as pulling an unexpected kosmische krautrock flavour into the EP.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "Juno lists Solar Drift at 4:39 on Lunar Refraction EP, catalogue 12SYST 1003, released 2026-09-10.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Continuous could extend Migration's character pivot into an electro environment that Eyes of the Wind refracts into liminal percussion, or it could dilute an already clear piano-to-break turn.",
-      "proposedPlacements": [{"position": "Between Migration and Eyes of the Wind", "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x", "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether an electro side-world changes the liminal passage or dilutes the existing pivot."}]
+      "fitHypothesis": "Solar Drift could give Atlantis's continuum a distinct kosmische detour that Hypnic Jerks ruptures, or become an ornamental side trip before an already effective crisis.",
+      "proposedPlacements": [
+        {
+          "position": "Between Atlantis and Hypnic Jerks",
+          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the textural world gives acceleration a changed structural task."
+        }
+      ]
     },
     {
-      "artist": "Kid Bucle", "track": "Mawkish Orbit", "album": "Memorabilia EP", "releaseDate": "2026-08-20", "bpm": null, "bpmSource": null, "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/electro/back-in-stock/", "searchIntent": "BOTH",
+      "artist": "Howie B, Hiraki Sawa",
+      "track": "Stick 2",
+      "album": "3 Sticks",
+      "releaseDate": "2026-09-11",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://wordandsound.net/release/168665-DT004-Howie-B--Hiraki-Sawa-3-Sticks",
+      "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A slowly revealing IDM-scale proposition may turn disappearance into patient re-formation, but slow reveal is not evidence of how an exact track exits.",
-        "lawfulAudioEvidence": null, "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno names Mawkish Orbit among the EP tracks that reveal themselves slowly and reward repeated listening; the six interconnected pieces use fluid, detailed sound design with an IDM reference.",
-        "editorialInterpretation": "Treat interconnectedness and gradual reveal as attributed release context, not an exact endpoint; test the individual identity before Ingress while leaving scalar and mixing claims unknown.",
-        "measured": ["Juno lists Mawkish Orbit at 4:36 on Memorabilia EP, catalogue IS 3, released 2026-08-20.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "craftConvention": "A documented intermediate state may change its successor's work, but source prose does not prove either handoff.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno distinguishes Stick 2 as the more pointed of the three live-built pieces, with horns and plucked bassline; the distributor describes the release's transition from building funk through discordant reprieve toward a questioning beat.",
+        "editorialInterpretation": "Test the attributed construction at the proposed placement while leaving exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+        "measured": [
+          "The distributor lists Stick 2 at 5:30 on 3 Sticks, catalogue DT004, released 2026-09-11.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "Mawkish Orbit could make Raataja's disappearance open into a patient detailed field before Ingress re-enters off balance, or it could pre-empt the existing restart without a changed successor.",
-      "proposedPlacements": [{"position": "Between Raataja and Ingress", "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF", "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether gradual revelation deepens re-formation or pre-empts Ingress's restart."}]
+      "fitHypothesis": "Stick 2 could turn Jjochstubn's contaminated-song disassembly into a pointed live-collage interlude that makes Rabbit Hole's dead-space descent deliberate, or interrupt the closing arc with an unsupported aside.",
+      "proposedPlacements": [
+        {
+          "position": "Between Jjochstubn and Rabbit Hole",
+          "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a pointed live interlude changes the descent or merely interrupts disassembly."
+        }
+      ]
     }
   ]
 }
+
