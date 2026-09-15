@@ -1,235 +1,314 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "6bca49452d161494517c0a40c09882897785df13bf08751bda613a46752e23bb",
-  "generatedAt": "2026-09-15T11:02:01.940Z",
-  "runId": "2026-09-15T10:50:33Z-explore-270",
-  "sourceCommit": "52aa597220c0423c95730d755de2d9ec8250fd60",
+  "requestFingerprint": "e75ec2aa9096158e8acf2753acf5f931a8c017e8dfcf3a3fe7df0ef197fb8980",
+  "generatedAt": "2026-09-15T12:04:13.497Z",
+  "runId": "2026-09-15T11:51:12Z-explore-271",
+  "sourceCommit": "92e1e529cc74f9630091e5c646cf584af02d4a75",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 102 named tracks and releases across Juno's same-day and weekly techno pages, current back-in-stock records, adjacent electro and drum-and-bass releases, and overlooked catalogue/repress material. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 105 named tracks and releases across Juno's September 15 same-day and weekly techno pages, current back-in-stock techno records, adjacent electro and drum-and-bass releases, and overlooked catalogue/reissue material. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "The canonical ledger, annotations, journey map, discussion and revisit queues, rejected and discovery histories, inspiration files, publication state and global utility ledger were audited first. UTF-8, JSON, count, map-order, receipt and protected-order checks passed; no objective defect, listener authorization, triggered revisit or unfinished repair required REPAIR.",
       "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. Eight fresh exact-title leads remain; no ranking slot was filled for resolver convenience.",
-      "Run 261's evidence guard was applied. One lead per release was selected, and every ranked lead has materially differentiating exact-track prose rather than shared release framing alone.",
-      "Planned placements were compared with the previous five completed discovery runs. Recently repeated evaluated boundaries were avoided; Run 269's vetoed, unevaluated request hypotheses were not treated as musical decisions.",
-      "Source descriptions remain attributed prose, not measurements. No energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality was inferred. Neither protected handoff was split.",
+      "The post-recurrence evidence guard was applied. One lead per release was retained, and each selected-slot contender has differentiated exact-track prose rather than shared release framing alone.",
+      "Planned placements were compared with the previous five completed discovery runs. Recently evaluated boundaries were avoided; the incomplete Run 269 request was preserved as a failed request rather than treated as musical evidence.",
+      "Generic current preorders, unreviewed listings, prestige-only reissues, recent persistent identities and tracks supported only by album-level genre framing were inspected but excluded from the resolver request.",
+      "Source descriptions remain attributed prose, not measurements. No energy, density, space, hypnosis, emotional effect, phrase structure, perceived pulse, mixability or transition quality was inferred. Neither listener-protected handoff was split.",
       "Rank reflects evidence specificity, selection-lens relevance, canonical potential and information gain, not novelty, orthodoxy, diversity, technical cleverness, artist prestige or a fixed chapter map."
     ],
     "rankedLeadSummary": [
-      "1. Pugilist — Rune",
-      "2. Kenji Hina — Witness",
-      "3. Nathan Pinder — Call Me",
-      "4. DJ Teeth — Gemini-Scorpio Veil",
-      "5. C-System — Original Force",
-      "6. Dax J — Baghdad",
-      "7. Francisco — Well Well Well (Phase’s Futurism Reorder)",
-      "8. Dimi Angélis — Gemx"
+      "1. ANGAMA — Burning",
+      "2. DJ Sneak — La Clave Boricua",
+      "3. A Morgan — Cloudfall",
+      "4. Michelle — Is It Me?",
+      "5. Barnt — Geffen (2026 Remaster)",
+      "6. Last Life — Norma",
+      "7. LNS — Blue Acid",
+      "8. DJ Natas — F The Pain"
     ],
     "sourceWindows": [
-      "CURRENT: Juno's same-day and weekly techno pages were screened across current releases and preorders, checked 2026-09-15. https://www.juno.co.uk/techno-music/today/ and https://www.juno.co.uk/techno-music/this-week/",
-      "ADJACENT / EMERGING: Juno's current back-in-stock window supplied exact-track accounts spanning Kenji Hina's garage-techno/tool vocabulary, Francisco's electro reorder, DJ Teeth's acid-house adjacency and Pugilist's technoid drum-and-bass restraint, checked 2026-09-15. https://www.juno.co.uk/techno-music/back-in-stock/",
-      "OVERLOOKED CATALOGUE / RECIRCULATION: Back-in-stock and repress paths returned Dimi Angélis, Nathan Pinder and other 2026 catalogue records with track-specific descriptions; generic or previously decided identities were excluded. https://www.juno.co.uk/techno-music/back-in-stock/"
+      "CURRENT: Juno's September 15 same-day and weekly techno pages were screened across releases, reviewed stock and preorders, checked 2026-09-15. ANGAMA's same-day Dotei record supplied a fresh exact-track development proposition. https://www.juno.co.uk/techno-music/today/ and https://www.juno.co.uk/techno-music/this-week/",
+      "ADJACENT / EMERGING: Juno's current back-in-stock window supplied exact-track accounts spanning Michelle's electro, Last Life's halftime and LNS's broken-beat acid, checked 2026-09-15. https://www.juno.co.uk/techno-music/back-in-stock/",
+      "OVERLOOKED CATALOGUE / RECIRCULATION: Back-in-stock and catalogue paths returned DJ Sneak's May 2026 loop construction, A Morgan's August 2026 linear-drum record and Barnt's 15th-anniversary remaster; recent persistent identities and generic listings were excluded. https://www.juno.co.uk/techno-music/back-in-stock/"
     ],
-    "timestampUtc": "2026-09-15T10:50:33Z"
+    "timestampUtc": "2026-09-15T11:51:12Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 8,
-  "resolvedCount": 3,
-  "candidateCount": 3,
+  "resolvedCount": 1,
+  "candidateCount": 1,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Kenji Hina",
-      "track": "Witness",
+      "artist": "ANGAMA",
+      "track": "Burning",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Kenji Hina",
-        "track": "Witness",
-        "album": "TOOLS 01",
+        "artist": "ANGAMA",
+        "track": "Burning",
+        "album": "025420",
+        "releaseDate": "2026-09-15",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/angama-025420-vinyl/1177065-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A developing patterned state may give a later rhythmic derailment a defined object to interrupt, but developmental language does not prove an exact handoff or endpoint.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno maps the second side to Burning and individually describes it as blanketing the record's drum-and-blip design in live, organic, developmental texture.",
+          "editorialInterpretation": "Test the documented internal development before Encasadelciegoeltuerco without converting organic or progressive language into measured energy, density, space, hypnosis, emotion, perceived pulse, phrasing or mixability.",
+          "measured": [
+            "Juno lists Burning at 7:02 on 025420, catalogue DTR 011, released 2026-09-15.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The live developmental layer could establish a changing patterned field that Encasadelciegoeltuerco deliberately derails after The Witching Hour, or add an overlong extra opening stage.",
+        "proposedPlacements": [
+          {
+            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "incomingBpm": 136,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether documented internal development gives the following triplet derailment a formed field to interrupt."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "DJ Sneak",
+      "track": "La Clave Boricua",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "DJ Sneak",
+        "track": "La Clave Boricua",
+        "album": "Future EP",
+        "releaseDate": "2026-05-13",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/dj-sneak-future-ep-vinyl/1152176-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Loose loop-building may create a consequential bodily state before a threshold, but vocal and drum vocabulary alone cannot prove that the threshold changes function.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes La Clave Boricua as getting loose and wild while building loops with flair-filled yelped vocals and tribal drum vocabulary.",
+          "editorialInterpretation": "Test the loop-building process before U Belong 2 Me while keeping scalar energy, density, space, hypnosis, emotional effect, endpoint, perceived pulse, phrasing and mixability unknown.",
+          "measured": [
+            "Juno lists La Clave Boricua at 6:44 on Future EP, catalogue RTC 006, released 2026-05-13.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A loose loop-built bodily field could make U Belong 2 Me's four-on-the-floor-to-funereal collapse a sharper threshold after Same Way, or merely add another complete body-pressure scene.",
+        "proposedPlacements": [
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether loose loop-building changes the following threshold or only lengthens the existing body-pressure passage."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "A Morgan",
+      "track": "Cloudfall",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "A Morgan",
+        "track": "Cloudfall",
+        "album": "Nothing Is Lost",
+        "releaseDate": "2026-08-20",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/a-morgan-nothing-is-lost-vinyl/1168080-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A linear rhythmic return after dissolution may make later delayed repetition legible, but linearity and synth colour are not proof of downstream consequence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes Cloudfall as layering uneasy, distant cosmic synth refrains over linear drums.",
+          "editorialInterpretation": "Test the documented linear-drum formation after backsliding's dissolution without inferring measured anxiety, energy, density, space, emotional effect, endpoint, perceived pulse, phrasing or mixability.",
+          "measured": [
+            "Juno lists Cloudfall at 5:34 on Nothing Is Lost, catalogue SIDEB 005, released 2026-08-20.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "Cloudfall could re-form a linear state after backsliding so Silent Tension can delay and distort an established repetition, or pre-empt Silent Tension's existing reformation task.",
+        "proposedPlacements": [
+          {
+            "position": "Between backsliding and Silent Tension",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a linear-drum return gives delayed repetition a defined object or duplicates reformation."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Michelle",
+      "track": "Is It Me?",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Michelle",
+        "track": "Is It Me?",
+        "album": "Unfailing Love",
         "releaseDate": "2026-08-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno-music/back-in-stock/",
+        "discoverySource": "https://www.juno.co.uk/products/michelle-unfailing-love-vinyl/1168345-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A muscular hybrid rhythm may fit the selection lens, but samples and chord detail do not justify admission unless the successor receives different work.",
+          "craftConvention": "Cycling synth and percussion can establish renewed motion after an off-balance re-entry, but a described material state is not proof that Crawl receives different work.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Witness as beginning with a muscular, glitchy techno rhythm embedded with a hip-hop sample and twinkling chords.",
-          "editorialInterpretation": "Test the attributed hybrid formation before renewed intensification without inferring perceived pulse, scalar energy, density, space, emotional effect, endpoint, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Is It Me? through percussion moving around guttural squelches and cycling synths.",
+          "editorialInterpretation": "Test the documented cyclic formation before Crawl without converting reviewer mood language into measured energy, density, space, hypnosis, emotion, endpoint, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists Witness at 5:06 on TOOLS 01, catalogue TOOLS 01, released 2026-08-11.",
+            "Juno lists Is It Me? at 6:32 on Unfailing Love, catalogue OYSTER 80, released 2026-08-11.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The hybrid patterned body could give Moonwake a more specific launch after Humanoidz, or crowd an already compact-lurch-to-intensification relation.",
+        "fitHypothesis": "The cycling electro formation could give Crawl a defined machine pattern to sustain after Ingress, or insert another complete motion state before the plateau.",
         "proposedPlacements": [
           {
-            "position": "Between Humanoidz and Moonwake",
-            "precedingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+            "position": "Between Ingress and Crawl",
+            "precedingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether a hybrid patterned state changes renewed intensification or merely inserts another formed body."
+            "outgoingBpm": null,
+            "purpose": "Test whether the cyclic formation changes sustained motion or merely inserts another complete stage."
           }
         ]
       }
     },
     {
-      "artist": "Nathan Pinder",
-      "track": "Call Me",
+      "artist": "Barnt",
+      "track": "Geffen (2026 Remaster)",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Nathan Pinder",
-        "track": "Call Me",
-        "album": "Range Of Strange",
-        "releaseDate": "2026-08-05",
+        "artist": "Barnt",
+        "track": "Geffen (2026 Remaster)",
+        "album": "Geffen (15th Anniversary Edition)",
+        "releaseDate": "2026-08-25",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/nathan-pinder-range-of-strange-vinyl/1103352-01/",
+        "discoverySource": "https://www.juno.co.uk/products/barnt-geffen-15th-anniversary-edition-vinyl/1173648-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Subtle internal evolution may establish consequential continuity, but hypnosis language cannot substitute for knowing how a track exits into the following widening.",
+          "craftConvention": "A stripped and strongly unified state may sharpen a later acceleration crisis, but rawness and production economy are not sequencing evidence by themselves.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Call Me as shifting into a bass-driven groove that evolves subtly underneath.",
-          "editorialInterpretation": "Use the documented internal evolution as a serious proposition while keeping perceived pulse, energy, density, space, emotional effect, endpoint, phrasing and mixability unknown.",
+          "attributedDescription": "Juno describes the remaster as preserving the original's few-stem rawness, tin-foil-like synths and gated drums, with bass unifying the materials through liquid, rubbery warmth.",
+          "editorialInterpretation": "Test the documented unified minimal construction before Hypnic Jerks while keeping energy, density, space, hypnosis, emotional effect, endpoint, perceived pulse, phrasing and mixability unknown.",
           "measured": [
-            "Juno lists Call Me at 5:38 on Range Of Strange, catalogue PSNA 002, released 2026-08-05.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
+            "Juno lists Geffen (2026 Remaster) at 8:02 on Geffen (15th Anniversary Edition), catalogue MAGAZINE GEFFEN, released 2026-08-25.",
+            "Exact market-SE identity, version, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "Subtle internal change could turn Serpentine Tale's coiling consequence into a defined evolving state before Too Much Time widens, or simply delay that widening.",
+        "fitHypothesis": "A long unified raw construction could give Hypnic Jerks a more defined stable body to throw into acceleration crisis after Atlantis, or overextend the existing continuum stage.",
         "proposedPlacements": [
           {
-            "position": "Between Serpentine Tale and Too Much Time",
-            "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 130,
+            "position": "Between Atlantis and Hypnic Jerks",
+            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether subtle internal evolution changes renewed widening or only postpones it."
+            "outgoingBpm": null,
+            "purpose": "Test whether a unified minimal body sharpens the acceleration crisis or merely prolongs the continuum."
           }
         ]
       }
     },
     {
-      "artist": "DJ Teeth",
-      "track": "Gemini-Scorpio Veil",
+      "artist": "LNS",
+      "track": "Blue Acid",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "DJ Teeth",
-        "track": "Gemini-Scorpio Veil",
-        "album": "Romancer",
-        "releaseDate": "2026-07-10",
+        "artist": "LNS",
+        "track": "Blue Acid",
+        "album": "LNS ID Vol 2",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dj-teeth-romancer-vinyl/1161363-01/",
+        "discoverySource": "https://www.juno.co.uk/products/lns-id-vol-2-vinyl/1125297-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Wonky acid and jagged machine rhythm can belong without genre purity, but their presence matters canonically only if the local deformation-to-conflict relation gains consequence.",
+          "craftConvention": "A light broken-beat state can bridge character after disappearance, but acid/broken-beat vocabulary alone cannot establish a re-entry function.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Gemini-Scorpio Veil through wonky acid and jagged machine rhythms.",
-          "editorialInterpretation": "Test the attributed rhythmic proposition without inferring scalar energy, density, space, hypnosis, emotional effect, development, endpoint, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Blue Acid as a loopy, light broken beat; the release context pairs acid lines with drum-machine rhythms and fractured breaks.",
+          "editorialInterpretation": "Test the documented broken-beat proposition before Ingress without converting reviewer emotion or atmosphere language into measured energy, density, space, hypnosis, endpoint, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists Gemini-Scorpio Veil at 8:27 on Romancer, catalogue PRZ 12, released 2026-07-10.",
+            "Juno lists Blue Acid at 6:54 on LNS ID Vol 2, catalogue ERS 066, released 2026-07-21.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A long jagged machine state could give LOVE YOUR ENEMIES a concrete grid to contest after Thick to Handle, or over-articulate a transition already carrying rhythmic deformation.",
+        "fitHypothesis": "Blue Acid could provide a light, looping intermediate formation after Raataja's disappearance before Ingress re-enters off balance, or weaken that existing restart by pre-forming it.",
         "proposedPlacements": [
           {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+            "position": "Between Raataja and Ingress",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the light broken-beat loop deepens re-formation or pre-empts Ingress's restart."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "DJ Natas",
+      "track": "F The Pain",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "DJ Natas",
+        "track": "F The Pain",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/dj-natas-natas-spin-ep-vinyl/1155040-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A metallic-drum stage with a contrasting pad layer may give reassembly material to transform, but material contrast is not automatic structural consequence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes F The Pain as riding stomping metallic drums with eerie pads shimmering behind them.",
+          "editorialInterpretation": "Test the documented percussion/pad opposition before Té de Cabello Blanco without inferring measured energy, density, space, hypnosis, emotional effect, development, endpoint, perceived pulse, phrasing or mixability.",
+          "measured": [
+            "Juno lists F The Pain at 7:05 on Natas Spin EP, catalogue UFOS 008, released 2026-09-14.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The metallic-drum and pad opposition could give Té de Cabello Blanco a defined state to reassemble after Drummz, or add another fully stated rhythmic body before the existing false stability.",
+        "proposedPlacements": [
+          {
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether jagged machine rhythm gives cross-rhythmic conflict new work or over-articulates existing deformation."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "C-System",
-      "track": "Original Force",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "C-System",
-        "track": "Original Force",
-        "album": "The Resistance Of The Chosen Ones EP",
-        "releaseDate": "2026-09-03",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/c-system-spectrums-the-resistance-of-the-chosen-vinyl/1166694-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Loop-driven tension can form a useful condition before disturbed rhythm, but the loop itself is not evidence that the successor changes function.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Original Force as tense, loop-driven UK techno with grinding tension.",
-          "editorialInterpretation": "Test the documented loop condition before Us In The Sand while keeping energy, density, space, hypnosis, emotional effect, endpoint, phrasing and mixability unknown.",
-          "measured": [
-            "Juno lists Original Force at 5:09 on The Resistance Of The Chosen Ones EP, catalogue EAR 039, released 2026-09-03.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The loop-driven condition could make Us In The Sand's internal disturbance a mutation of something fixed after Silent Tension, or add a redundant tension stage.",
-        "proposedPlacements": [
-          {
-            "position": "Between Silent Tension and Us In The Sand",
-            "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
-            "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether loop-driven tension changes the successor's disturbed beat-world or merely duplicates tension."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Francisco",
-      "track": "Well Well Well (Phase’s Futurism Reorder)",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Francisco",
-        "track": "Well Well Well (Phase’s Futurism Reorder)",
-        "album": "Catch It",
-        "releaseDate": "2026-04-21",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/francisco-catch-it-vinyl/1139220-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A conspicuous electro reorder can redirect character, but its technical edge is insufficient unless local and long-form consequence survives.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Phase O'Matic's Futurism Reorder as a clamorous reframing with a forward-fearsome electro edge.",
-          "editorialInterpretation": "Test a deliberate redirection before groove consolidation without inferring perceived pulse, scalar energy, density, space, emotional effect, development, endpoint, phrasing or mixability.",
-          "measured": [
-            "Juno lists the reorder at 6:28 on Catch It, catalogue GNC 003, released 2026-04-21.",
-            "Exact market-SE title, remix credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The electro reframing could make Truth in Noise's consolidation feel earned after Elemental Dream, or insert a new declaration that leaves the successor unchanged.",
-        "proposedPlacements": [
-          {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether electro reframing changes groove consolidation or merely adds a declaration."
+            "purpose": "Test whether the opposed percussion/pad state changes reassembly or adds another complete rhythmic body."
           }
         ]
       }
@@ -237,208 +316,197 @@
   ],
   "warnings": [
     {
-      "artist": "Pugilist",
-      "track": "Rune",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-16\" but Spotify returned \"2026-06-26\""
-    },
-    {
-      "artist": "Dax J",
-      "track": "Baghdad",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-03\" but Spotify returned \"2026-07-03\""
-    },
-    {
-      "artist": "Dimi Angélis",
-      "track": "Gemx",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-08\" but Spotify returned \"2026-07-10\""
+      "artist": "Last Life",
+      "track": "Norma",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Samurai Saibai 5\" but Spotify returned \"侍栽培五\"; release date requested \"2026-08-06\" but Spotify returned \"2026-08-14\""
     }
   ],
   "outcomes": [
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Pugilist",
-        "track": "Rune",
-        "album": "Triads",
-        "releaseDate": "2026-07-16",
+        "artist": "ANGAMA",
+        "track": "Burning",
+        "album": "025420",
+        "releaseDate": "2026-09-15",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/pugilist-triads-vinyl/1162863-01/",
+        "discoverySource": "https://www.juno.co.uk/products/angama-025420-vinyl/1177065-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Restrained propulsion can support a conspicuous structural turn, but it earns insertion only if its exit changes the following dissolution rather than adding another complete state.",
+          "craftConvention": "A developing patterned state may give a later rhythmic derailment a defined object to interrupt, but developmental language does not prove an exact handoff or endpoint.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Rune as opening on technoid propulsion and brooding bass snarls within a record framed around restraint.",
-          "editorialInterpretation": "Test the documented propulsion before metric dissolution without converting bass language into measured density, energy, space, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno maps the second side to Burning and individually describes it as blanketing the record's drum-and-blip design in live, organic, developmental texture.",
+          "editorialInterpretation": "Test the documented internal development before Encasadelciegoeltuerco without converting organic or progressive language into measured energy, density, space, hypnosis, emotion, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists Rune on Triads, catalogue SMDE 58, released 2026-07-16.",
+            "Juno lists Burning at 7:02 on 025420, catalogue DTR 011, released 2026-09-15.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A restrained propulsive state could give Fulledge's fake-out and dissolution a defined formation to undo, or merely prolong the existing opposed-material passage.",
+        "fitHypothesis": "The live developmental layer could establish a changing patterned field that Encasadelciegoeltuerco deliberately derails after The Witching Hour, or add an overlong extra opening stage.",
         "proposedPlacements": [
           {
-            "position": "Between IF U WANT 2 and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
-            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-            "incomingBpm": null,
+            "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+            "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+            "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+            "incomingBpm": 136,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether restrained propulsion changes the subsequent fake-out and dissolution or adds another complete stage."
+            "purpose": "Test whether documented internal development gives the following triplet derailment a formed field to interrupt."
           }
         ]
       },
-      "spotifyTrackId": "6QaulOZHbIII39RhkCL0Zz",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Kenji Hina",
-        "track": "Witness",
-        "album": "TOOLS 01",
+        "artist": "DJ Sneak",
+        "track": "La Clave Boricua",
+        "album": "Future EP",
+        "releaseDate": "2026-05-13",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/dj-sneak-future-ep-vinyl/1152176-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Loose loop-building may create a consequential bodily state before a threshold, but vocal and drum vocabulary alone cannot prove that the threshold changes function.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes La Clave Boricua as getting loose and wild while building loops with flair-filled yelped vocals and tribal drum vocabulary.",
+          "editorialInterpretation": "Test the loop-building process before U Belong 2 Me while keeping scalar energy, density, space, hypnosis, emotional effect, endpoint, perceived pulse, phrasing and mixability unknown.",
+          "measured": [
+            "Juno lists La Clave Boricua at 6:44 on Future EP, catalogue RTC 006, released 2026-05-13.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A loose loop-built bodily field could make U Belong 2 Me's four-on-the-floor-to-funereal collapse a sharper threshold after Same Way, or merely add another complete body-pressure scene.",
+        "proposedPlacements": [
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether loose loop-building changes the following threshold or only lengthens the existing body-pressure passage."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "A Morgan",
+        "track": "Cloudfall",
+        "album": "Nothing Is Lost",
+        "releaseDate": "2026-08-20",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/a-morgan-nothing-is-lost-vinyl/1168080-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A linear rhythmic return after dissolution may make later delayed repetition legible, but linearity and synth colour are not proof of downstream consequence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually describes Cloudfall as layering uneasy, distant cosmic synth refrains over linear drums.",
+          "editorialInterpretation": "Test the documented linear-drum formation after backsliding's dissolution without inferring measured anxiety, energy, density, space, emotional effect, endpoint, perceived pulse, phrasing or mixability.",
+          "measured": [
+            "Juno lists Cloudfall at 5:34 on Nothing Is Lost, catalogue SIDEB 005, released 2026-08-20.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "Cloudfall could re-form a linear state after backsliding so Silent Tension can delay and distort an established repetition, or pre-empt Silent Tension's existing reformation task.",
+        "proposedPlacements": [
+          {
+            "position": "Between backsliding and Silent Tension",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a linear-drum return gives delayed repetition a defined object or duplicates reformation."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Michelle",
+        "track": "Is It Me?",
+        "album": "Unfailing Love",
         "releaseDate": "2026-08-11",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/techno-music/back-in-stock/",
+        "discoverySource": "https://www.juno.co.uk/products/michelle-unfailing-love-vinyl/1168345-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A muscular hybrid rhythm may fit the selection lens, but samples and chord detail do not justify admission unless the successor receives different work.",
+          "craftConvention": "Cycling synth and percussion can establish renewed motion after an off-balance re-entry, but a described material state is not proof that Crawl receives different work.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Witness as beginning with a muscular, glitchy techno rhythm embedded with a hip-hop sample and twinkling chords.",
-          "editorialInterpretation": "Test the attributed hybrid formation before renewed intensification without inferring perceived pulse, scalar energy, density, space, emotional effect, endpoint, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Is It Me? through percussion moving around guttural squelches and cycling synths.",
+          "editorialInterpretation": "Test the documented cyclic formation before Crawl without converting reviewer mood language into measured energy, density, space, hypnosis, emotion, endpoint, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists Witness at 5:06 on TOOLS 01, catalogue TOOLS 01, released 2026-08-11.",
+            "Juno lists Is It Me? at 6:32 on Unfailing Love, catalogue OYSTER 80, released 2026-08-11.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The hybrid patterned body could give Moonwake a more specific launch after Humanoidz, or crowd an already compact-lurch-to-intensification relation.",
+        "fitHypothesis": "The cycling electro formation could give Crawl a defined machine pattern to sustain after Ingress, or insert another complete motion state before the plateau.",
         "proposedPlacements": [
           {
-            "position": "Between Humanoidz and Moonwake",
-            "precedingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
-            "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether a hybrid patterned state changes renewed intensification or merely inserts another formed body."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Nathan Pinder",
-        "track": "Call Me",
-        "album": "Range Of Strange",
-        "releaseDate": "2026-08-05",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/nathan-pinder-range-of-strange-vinyl/1103352-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Subtle internal evolution may establish consequential continuity, but hypnosis language cannot substitute for knowing how a track exits into the following widening.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Call Me as shifting into a bass-driven groove that evolves subtly underneath.",
-          "editorialInterpretation": "Use the documented internal evolution as a serious proposition while keeping perceived pulse, energy, density, space, emotional effect, endpoint, phrasing and mixability unknown.",
-          "measured": [
-            "Juno lists Call Me at 5:38 on Range Of Strange, catalogue PSNA 002, released 2026-08-05.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "Subtle internal change could turn Serpentine Tale's coiling consequence into a defined evolving state before Too Much Time widens, or simply delay that widening.",
-        "proposedPlacements": [
-          {
-            "position": "Between Serpentine Tale and Too Much Time",
-            "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
-            "incomingBpm": 130,
-            "candidateBpm": null,
-            "outgoingBpm": 140,
-            "purpose": "Test whether subtle internal evolution changes renewed widening or only postpones it."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Teeth",
-        "track": "Gemini-Scorpio Veil",
-        "album": "Romancer",
-        "releaseDate": "2026-07-10",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dj-teeth-romancer-vinyl/1161363-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Wonky acid and jagged machine rhythm can belong without genre purity, but their presence matters canonically only if the local deformation-to-conflict relation gains consequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Gemini-Scorpio Veil through wonky acid and jagged machine rhythms.",
-          "editorialInterpretation": "Test the attributed rhythmic proposition without inferring scalar energy, density, space, hypnosis, emotional effect, development, endpoint, phrasing or mixability.",
-          "measured": [
-            "Juno lists Gemini-Scorpio Veil at 8:27 on Romancer, catalogue PRZ 12, released 2026-07-10.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A long jagged machine state could give LOVE YOUR ENEMIES a concrete grid to contest after Thick to Handle, or over-articulate a transition already carrying rhythmic deformation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
-            "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether jagged machine rhythm gives cross-rhythmic conflict new work or over-articulates existing deformation."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "C-System",
-        "track": "Original Force",
-        "album": "The Resistance Of The Chosen Ones EP",
-        "releaseDate": "2026-09-03",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/c-system-spectrums-the-resistance-of-the-chosen-vinyl/1166694-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Loop-driven tension can form a useful condition before disturbed rhythm, but the loop itself is not evidence that the successor changes function.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Original Force as tense, loop-driven UK techno with grinding tension.",
-          "editorialInterpretation": "Test the documented loop condition before Us In The Sand while keeping energy, density, space, hypnosis, emotional effect, endpoint, phrasing and mixability unknown.",
-          "measured": [
-            "Juno lists Original Force at 5:09 on The Resistance Of The Chosen Ones EP, catalogue EAR 039, released 2026-09-03.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The loop-driven condition could make Us In The Sand's internal disturbance a mutation of something fixed after Silent Tension, or add a redundant tension stage.",
-        "proposedPlacements": [
-          {
-            "position": "Between Silent Tension and Us In The Sand",
-            "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
-            "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
+            "position": "Between Ingress and Crawl",
+            "precedingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
+            "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether loop-driven tension changes the successor's disturbed beat-world or merely duplicates tension."
+            "purpose": "Test whether the cyclic formation changes sustained motion or merely inserts another complete stage."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Barnt",
+        "track": "Geffen (2026 Remaster)",
+        "album": "Geffen (15th Anniversary Edition)",
+        "releaseDate": "2026-08-25",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/products/barnt-geffen-15th-anniversary-edition-vinyl/1173648-01/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A stripped and strongly unified state may sharpen a later acceleration crisis, but rawness and production economy are not sequencing evidence by themselves.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes the remaster as preserving the original's few-stem rawness, tin-foil-like synths and gated drums, with bass unifying the materials through liquid, rubbery warmth.",
+          "editorialInterpretation": "Test the documented unified minimal construction before Hypnic Jerks while keeping energy, density, space, hypnosis, emotional effect, endpoint, perceived pulse, phrasing and mixability unknown.",
+          "measured": [
+            "Juno lists Geffen (2026 Remaster) at 8:02 on Geffen (15th Anniversary Edition), catalogue MAGAZINE GEFFEN, released 2026-08-25.",
+            "Exact market-SE identity, version, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A long unified raw construction could give Hypnic Jerks a more defined stable body to throw into acceleration crisis after Atlantis, or overextend the existing continuum stage.",
+        "proposedPlacements": [
+          {
+            "position": "Between Atlantis and Hypnic Jerks",
+            "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a unified minimal body sharpens the acceleration crisis or merely prolongs the continuum."
           }
         ]
       },
@@ -447,336 +515,189 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Dax J",
-        "track": "Baghdad",
-        "album": "Sphinx EP",
-        "releaseDate": "2026-09-03",
+        "artist": "Last Life",
+        "track": "Norma",
+        "album": "Samurai Saibai 5",
+        "releaseDate": "2026-08-06",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dax-j-sphinx-ep-vinyl/1161750-01/",
+        "discoverySource": "https://www.juno.co.uk/products/last-life-samurai-saibai-5-vinyl/1169090-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A clearly related bass-and-percussion construction may prepare a stripping process, but ritual framing is not proof of transition, phrase fit or long-form need.",
+          "craftConvention": "A slow-motion halftime proposition can make a character turn deliberate, but described spaciousness and bodily effect remain attributed prose rather than measurement or transition proof.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Baghdad as carrying ritual weight through deep bass resonance and sharp percussion working in tandem.",
-          "editorialInterpretation": "Test the documented tandem construction before Elemental Dream's self-stripping without turning ritual language into measured hypnosis, emotion, energy, density, space, endpoint, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Norma as an elastic, slow-motion dub bump within a record positioned between drum-and-bass and techno.",
+          "editorialInterpretation": "Test the exact adjacent-world rhythmic proposition after Tides Alternate while keeping energy, density, space, hypnosis, emotional effect, development, endpoint, perceived pulse, phrasing and mixability unknown.",
           "measured": [
-            "Juno lists Baghdad at 6:27 on Sphinx EP, catalogue MONNOM 040, released 2026-09-03.",
+            "Juno lists Norma at 5:28 on Samurai Saibai 5, catalogue SAIBAI 5, released 2026-08-06.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A bass-and-percussion formation could give Elemental Dream a specific relationship to strip away after Amor, or merely add another percussive statement before consolidation.",
+        "fitHypothesis": "Norma could turn Tides Alternate's opposed-speed balance into an explicit slow-motion pocket before Serpentine Tale coils forward, or add a detour with no changed successor task.",
         "proposedPlacements": [
           {
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a tandem bass-percussion formation changes the successor's self-stripping task."
+            "outgoingBpm": 130,
+            "purpose": "Test whether slow-motion halftime makes the opposed-speed turn consequential or becomes an isolated detour."
           }
         ]
       },
-      "spotifyTrackId": "0Uq3u6aQcfjGc03AtGmD8I",
+      "spotifyTrackId": "09rBCjtoX4ELPPtU37f5kZ",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Francisco",
-        "track": "Well Well Well (Phase’s Futurism Reorder)",
-        "album": "Catch It",
-        "releaseDate": "2026-04-21",
+        "artist": "LNS",
+        "track": "Blue Acid",
+        "album": "LNS ID Vol 2",
+        "releaseDate": "2026-07-21",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/francisco-catch-it-vinyl/1139220-01/",
+        "discoverySource": "https://www.juno.co.uk/products/lns-id-vol-2-vinyl/1125297-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A conspicuous electro reorder can redirect character, but its technical edge is insufficient unless local and long-form consequence survives.",
+          "craftConvention": "A light broken-beat state can bridge character after disappearance, but acid/broken-beat vocabulary alone cannot establish a re-entry function.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Phase O'Matic's Futurism Reorder as a clamorous reframing with a forward-fearsome electro edge.",
-          "editorialInterpretation": "Test a deliberate redirection before groove consolidation without inferring perceived pulse, scalar energy, density, space, emotional effect, development, endpoint, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Blue Acid as a loopy, light broken beat; the release context pairs acid lines with drum-machine rhythms and fractured breaks.",
+          "editorialInterpretation": "Test the documented broken-beat proposition before Ingress without converting reviewer emotion or atmosphere language into measured energy, density, space, hypnosis, endpoint, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists the reorder at 6:28 on Catch It, catalogue GNC 003, released 2026-04-21.",
-            "Exact market-SE title, remix credits and duration require resolver evidence."
+            "Juno lists Blue Acid at 6:54 on LNS ID Vol 2, catalogue ERS 066, released 2026-07-21.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The electro reframing could make Truth in Noise's consolidation feel earned after Elemental Dream, or insert a new declaration that leaves the successor unchanged.",
+        "fitHypothesis": "Blue Acid could provide a light, looping intermediate formation after Raataja's disappearance before Ingress re-enters off balance, or weaken that existing restart by pre-forming it.",
         "proposedPlacements": [
           {
-            "position": "Between Elemental Dream and Truth in Noise",
-            "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "position": "Between Raataja and Ingress",
+            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
+            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether electro reframing changes groove consolidation or merely adds a declaration."
+            "outgoingBpm": null,
+            "purpose": "Test whether the light broken-beat loop deepens re-formation or pre-empts Ingress's restart."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Dimi Angélis",
-        "track": "Gemx",
-        "album": "Time Capsule",
-        "releaseDate": "2026-07-08",
+        "artist": "DJ Natas",
+        "track": "F The Pain",
+        "album": "Natas Spin EP",
+        "releaseDate": "2026-09-14",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dimi-angelis-time-capsule-vinyl/1164989-01/",
+        "discoverySource": "https://www.juno.co.uk/products/dj-natas-natas-spin-ep-vinyl/1155040-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A forceful loop-and-siren foreground can belong to STRANGE GAIT, but sonic force is not a substitute for successor consequence.",
+          "craftConvention": "A metallic-drum stage with a contrasting pad layer may give reassembly material to transform, but material contrast is not automatic structural consequence.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Gemx through surging sirens and constantly looping, harassing drums over a blistered march.",
-          "editorialInterpretation": "Test the attributed foreground after groove consolidation without inferring measured energy, density, space, hypnosis, emotion, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno individually describes F The Pain as riding stomping metallic drums with eerie pads shimmering behind them.",
+          "editorialInterpretation": "Test the documented percussion/pad opposition before Té de Cabello Blanco without inferring measured energy, density, space, hypnosis, emotional effect, development, endpoint, perceived pulse, phrasing or mixability.",
           "measured": [
-            "Juno lists Gemx at 5:02 on Time Capsule, catalogue DKMNTL UFOWHT1, released 2026-07-08.",
+            "Juno lists F The Pain at 7:05 on Natas Spin EP, catalogue UFOS 008, released 2026-09-14.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The forceful looping foreground could give Where I Wanna Be a more specific compact formation to condense before Style Teef, or over-articulate the already formed fault-line passage.",
+        "fitHypothesis": "The metallic-drum and pad opposition could give Té de Cabello Blanco a defined state to reassemble after Drummz, or add another fully stated rhythmic body before the existing false stability.",
         "proposedPlacements": [
           {
-            "position": "Between Truth in Noise and Where I Wanna Be",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
             "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a forceful looping foreground changes compact formation before deformation or merely lengthens it."
+            "purpose": "Test whether the opposed percussion/pad state changes reassembly or adds another complete rhythmic body."
           }
         ]
       },
-      "spotifyTrackId": "7au2Y259FlJsyG3NAPV8U4",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "6QaulOZHbIII39RhkCL0Zz",
-      "uri": "spotify:track:6QaulOZHbIII39RhkCL0Zz",
-      "name": "Rune",
+      "id": "09rBCjtoX4ELPPtU37f5kZ",
+      "uri": "spotify:track:09rBCjtoX4ELPPtU37f5kZ",
+      "name": "Norma",
       "artists": [
-        "Pugilist"
+        "Last Life"
       ],
-      "album": "Triads",
-      "releaseDate": "2026-06-26",
-      "durationMs": 306365,
-      "spotifyUrl": "https://open.spotify.com/track/6QaulOZHbIII39RhkCL0Zz",
+      "album": "侍栽培五",
+      "releaseDate": "2026-08-14",
+      "durationMs": 327642,
+      "spotifyUrl": "https://open.spotify.com/track/09rBCjtoX4ELPPtU37f5kZ",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/pugilist-triads-vinyl/1162863-01/",
+      "discoverySource": "https://www.juno.co.uk/products/last-life-samurai-saibai-5-vinyl/1169090-01/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between IF U WANT 2 and Fulledge (Empty-40 Mix)",
-          "precedingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
-          "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "position": "Between Tides Alternate and Serpentine Tale",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
           "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether restrained propulsion changes the subsequent fake-out and dissolution or adds another complete stage."
+          "outgoingBpm": 130,
+          "purpose": "Test whether slow-motion halftime makes the opposed-speed turn consequential or becomes an isolated detour."
         }
       ],
-      "fitHypothesis": "A restrained propulsive state could give Fulledge's fake-out and dissolution a defined formation to undo, or merely prolong the existing opposed-material passage.",
+      "fitHypothesis": "Norma could turn Tides Alternate's opposed-speed balance into an explicit slow-motion pocket before Serpentine Tale coils forward, or add a detour with no changed successor task.",
       "evidence": {
-        "craftConvention": "Restrained propulsion can support a conspicuous structural turn, but it earns insertion only if its exit changes the following dissolution rather than adding another complete state.",
+        "craftConvention": "A slow-motion halftime proposition can make a character turn deliberate, but described spaciousness and bodily effect remain attributed prose rather than measurement or transition proof.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Rune as opening on technoid propulsion and brooding bass snarls within a record framed around restraint.",
-        "editorialInterpretation": "Test the documented propulsion before metric dissolution without converting bass language into measured density, energy, space, endpoint, phrase structure or mixability.",
+        "attributedDescription": "Juno individually describes Norma as an elastic, slow-motion dub bump within a record positioned between drum-and-bass and techno.",
+        "editorialInterpretation": "Test the exact adjacent-world rhythmic proposition after Tides Alternate while keeping energy, density, space, hypnosis, emotional effect, development, endpoint, perceived pulse, phrasing and mixability unknown.",
         "measured": [
-          "Juno lists Rune on Triads, catalogue SMDE 58, released 2026-07-16.",
+          "Juno lists Norma at 5:28 on Samurai Saibai 5, catalogue SAIBAI 5, released 2026-08-06.",
           "Exact market-SE identity, credits and duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Pugilist",
-        "track": "Rune",
-        "album": "Triads",
-        "releaseDate": "2026-07-16",
+        "artist": "Last Life",
+        "track": "Norma",
+        "album": "Samurai Saibai 5",
+        "releaseDate": "2026-08-06",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/pugilist-triads-vinyl/1162863-01/",
+        "discoverySource": "https://www.juno.co.uk/products/last-life-samurai-saibai-5-vinyl/1169090-01/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Restrained propulsion can support a conspicuous structural turn, but it earns insertion only if its exit changes the following dissolution rather than adding another complete state.",
+          "craftConvention": "A slow-motion halftime proposition can make a character turn deliberate, but described spaciousness and bodily effect remain attributed prose rather than measurement or transition proof.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Rune as opening on technoid propulsion and brooding bass snarls within a record framed around restraint.",
-          "editorialInterpretation": "Test the documented propulsion before metric dissolution without converting bass language into measured density, energy, space, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno individually describes Norma as an elastic, slow-motion dub bump within a record positioned between drum-and-bass and techno.",
+          "editorialInterpretation": "Test the exact adjacent-world rhythmic proposition after Tides Alternate while keeping energy, density, space, hypnosis, emotional effect, development, endpoint, perceived pulse, phrasing and mixability unknown.",
           "measured": [
-            "Juno lists Rune on Triads, catalogue SMDE 58, released 2026-07-16.",
+            "Juno lists Norma at 5:28 on Samurai Saibai 5, catalogue SAIBAI 5, released 2026-08-06.",
             "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A restrained propulsive state could give Fulledge's fake-out and dissolution a defined formation to undo, or merely prolong the existing opposed-material passage.",
+        "fitHypothesis": "Norma could turn Tides Alternate's opposed-speed balance into an explicit slow-motion pocket before Serpentine Tale coils forward, or add a detour with no changed successor task.",
         "proposedPlacements": [
           {
-            "position": "Between IF U WANT 2 and Fulledge (Empty-40 Mix)",
-            "precedingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
-            "followingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "position": "Between Tides Alternate and Serpentine Tale",
+            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether restrained propulsion changes the subsequent fake-out and dissolution or adds another complete stage."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0Uq3u6aQcfjGc03AtGmD8I",
-      "uri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
-      "name": "Baghdad",
-      "artists": [
-        "Dax J"
-      ],
-      "album": "Sphinx EP",
-      "releaseDate": "2026-07-03",
-      "durationMs": 387042,
-      "spotifyUrl": "https://open.spotify.com/track/0Uq3u6aQcfjGc03AtGmD8I",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/dax-j-sphinx-ep-vinyl/1161750-01/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Amor and Elemental Dream",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a tandem bass-percussion formation changes the successor's self-stripping task."
-        }
-      ],
-      "fitHypothesis": "A bass-and-percussion formation could give Elemental Dream a specific relationship to strip away after Amor, or merely add another percussive statement before consolidation.",
-      "evidence": {
-        "craftConvention": "A clearly related bass-and-percussion construction may prepare a stripping process, but ritual framing is not proof of transition, phrase fit or long-form need.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Baghdad as carrying ritual weight through deep bass resonance and sharp percussion working in tandem.",
-        "editorialInterpretation": "Test the documented tandem construction before Elemental Dream's self-stripping without turning ritual language into measured hypnosis, emotion, energy, density, space, endpoint, phrasing or mixability.",
-        "measured": [
-          "Juno lists Baghdad at 6:27 on Sphinx EP, catalogue MONNOM 040, released 2026-09-03.",
-          "Exact market-SE identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Dax J",
-        "track": "Baghdad",
-        "album": "Sphinx EP",
-        "releaseDate": "2026-09-03",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dax-j-sphinx-ep-vinyl/1161750-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A clearly related bass-and-percussion construction may prepare a stripping process, but ritual framing is not proof of transition, phrase fit or long-form need.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Baghdad as carrying ritual weight through deep bass resonance and sharp percussion working in tandem.",
-          "editorialInterpretation": "Test the documented tandem construction before Elemental Dream's self-stripping without turning ritual language into measured hypnosis, emotion, energy, density, space, endpoint, phrasing or mixability.",
-          "measured": [
-            "Juno lists Baghdad at 6:27 on Sphinx EP, catalogue MONNOM 040, released 2026-09-03.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A bass-and-percussion formation could give Elemental Dream a specific relationship to strip away after Amor, or merely add another percussive statement before consolidation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Amor and Elemental Dream",
-            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-            "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a tandem bass-percussion formation changes the successor's self-stripping task."
-          }
-        ]
-      }
-    },
-    {
-      "id": "7au2Y259FlJsyG3NAPV8U4",
-      "uri": "spotify:track:7au2Y259FlJsyG3NAPV8U4",
-      "name": "GEMx",
-      "artists": [
-        "Dimi Angélis"
-      ],
-      "album": "Time Capsule",
-      "releaseDate": "2026-07-10",
-      "durationMs": 302909,
-      "spotifyUrl": "https://open.spotify.com/track/7au2Y259FlJsyG3NAPV8U4",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/dimi-angelis-time-capsule-vinyl/1164989-01/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Truth in Noise and Where I Wanna Be",
-          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
-          "incomingBpm": 138,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a forceful looping foreground changes compact formation before deformation or merely lengthens it."
-        }
-      ],
-      "fitHypothesis": "The forceful looping foreground could give Where I Wanna Be a more specific compact formation to condense before Style Teef, or over-articulate the already formed fault-line passage.",
-      "evidence": {
-        "craftConvention": "A forceful loop-and-siren foreground can belong to STRANGE GAIT, but sonic force is not a substitute for successor consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Gemx through surging sirens and constantly looping, harassing drums over a blistered march.",
-        "editorialInterpretation": "Test the attributed foreground after groove consolidation without inferring measured energy, density, space, hypnosis, emotion, endpoint, phrase structure or mixability.",
-        "measured": [
-          "Juno lists Gemx at 5:02 on Time Capsule, catalogue DKMNTL UFOWHT1, released 2026-07-08.",
-          "Exact market-SE identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Dimi Angélis",
-        "track": "Gemx",
-        "album": "Time Capsule",
-        "releaseDate": "2026-07-08",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/dimi-angelis-time-capsule-vinyl/1164989-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A forceful loop-and-siren foreground can belong to STRANGE GAIT, but sonic force is not a substitute for successor consequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Gemx through surging sirens and constantly looping, harassing drums over a blistered march.",
-          "editorialInterpretation": "Test the attributed foreground after groove consolidation without inferring measured energy, density, space, hypnosis, emotion, endpoint, phrase structure or mixability.",
-          "measured": [
-            "Juno lists Gemx at 5:02 on Time Capsule, catalogue DKMNTL UFOWHT1, released 2026-07-08.",
-            "Exact market-SE identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The forceful looping foreground could give Where I Wanna Be a more specific compact formation to condense before Style Teef, or over-articulate the already formed fault-line passage.",
-        "proposedPlacements": [
-          {
-            "position": "Between Truth in Noise and Where I Wanna Be",
-            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-            "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
-            "incomingBpm": 138,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a forceful looping foreground changes compact formation before deformation or merely lengthens it."
+            "outgoingBpm": 130,
+            "purpose": "Test whether slow-motion halftime makes the opposed-speed turn consequential or becomes an isolated detour."
           }
         ]
       }
