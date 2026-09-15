@@ -1,5 +1,72 @@
 # STRANGE GAIT — Discoveries
 
+## Run 266 — 2026-09-15T06:55:50Z-explore-266
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `2a62c8d417d1c64964745cc87c8288604399a99a`, requestFingerprint `1b1aedd6384eac019881458f0822ce11a0841d9c73f48f454c060ed9839cdfcc`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate; five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases, persistent-history exclusion passed, and Repair Run 261's exact-track evidence guard was respected.
+
+### Evaluated exact candidates
+
+#### Biz — Monozukuri — `spotify:track:34SbdNILggB48O7QBSsuLb` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/biz-limited-series-3-vinyl/1144764-01/
+
+Spotify: https://open.spotify.com/track/34SbdNILggB48O7QBSsuLb
+
+Exact resolver duration: 328,125 ms (5:28.125). BPM unavailable. Spotify returned album *Monozukuri* and release date 2024-06-10; the request's *Biz Limited Series #3* / 2026-06-29 packaging variance is preserved below.
+
+Juno attributes prickly metallic percussion and a forlorn lead to the exact track. Volume fit passes. Immediate handoffs remain unknown. The surrounding run `Sarniezz → Never Met → Monozukuri → Trompe L'oeil → FELT` fails proportionally: the candidate adds a complete foreground between the passing-foreground hinge and the existing staggered-swing reset without evidence that *Trompe L'oeil* receives different work. The long-form test fails only at this placement for the same reason. This is not a global rejection.
+
+#### Panasonic — Muuntaja — `spotify:track:0ZIymS51WdXMoB4KUG1n6V` — PARKED
+
+Source: https://www.juno.co.uk/products/panasonic-pan-sonic-muuntaja-vinyl/1155044-01/
+
+Spotify: https://open.spotify.com/track/0ZIymS51WdXMoB4KUG1n6V
+
+Exact resolver duration: 593,831 ms (9:53.831). BPM unavailable. Spotify returned album *Muuntaja / Murtaja* and release date 1994-05-05; the request's *Muuntaja* / 2026-07-27 packaging variance is preserved below.
+
+The source frames the two-track release through nonlinear noise, clip-distorted kicks, hat rattles and subs, but does not establish the title track's individual development or endpoint. Volume fit passes provisionally. Immediate transition, the five-track run `Foundry → Worn Down → Muuntaja → Atlantis → Hypnic Jerks`, and long-form gain remain unknown. At nearly ten minutes, admission would require individual trajectory evidence rather than release-world plausibility. Reopen only for materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### Nizre — One Layer — `spotify:track:6UqTikPxBfOqGzmdJnjOpY` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/nizre-detained-vinyl/1161726-01/
+
+Spotify: https://open.spotify.com/track/6UqTikPxBfOqGzmdJnjOpY
+
+Exact resolver duration: 305,434 ms (5:05.434). BPM unavailable. Spotify returned release date 2026-07-09; the request's 2026-07-06 variance is preserved below.
+
+Juno attributes foreboding low end and synths stretched and pulled over drums to the exact track. Volume fit passes. Immediate handoffs remain unknown. The surrounding run `LOVE YOUR ENEMIES → Tehutis Law → One Layer → Pulse I → Roxellana` fails proportionally: the candidate adds another complete instability layer between re-grounding and the existing crooked accumulation without evidence that *Pulse I* receives different work. The long-form test fails only at this placement for the same reason. This is not a global rejection.
+
+All three evaluated exact identities remain genuinely interesting and are retained in the target-local inspiration layer and the doctrine-free global Discovery Pool.
+
+### Exact unselected alternate
+
+- Sabotak — *Fracture* — `spotify:track:1Ln3Rer1aiRrUMjjaXu0UM` — exact 302,686-ms identity on *Silent Takeover*, release date 2026-07-07. Not selected, evaluated or retained; no musical verdict or utility row.
+
+### Unresolved identities
+
+- Format — *Deep Sleep*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4007gbRE2JluIYuH5G6Kym, 6TzVtpJwNi5DscuvQ1dLuw)`
+- Sohrab — *Color Of Love*: `no exact Spotify title/artist search match in market SE`
+- Tensal — *Suspence*: `no exact Spotify title/artist search match in market SE`
+- Jay Tripwire, Maher Daniel — *Wristband Daddy*: `no exact Spotify title/artist search match in market SE`
+- Sans I — *Science*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: album requested "Biz Limited Series #3" but Spotify returned "Monozukuri"; release date requested "2026-06-29" but Spotify returned "2024-06-10"`
+- `Exact title/artist matched with release metadata variance: album requested "Muuntaja" but Spotify returned "Muuntaja / Murtaja"; release date requested "2026-07-27" but Spotify returned "1994-05-05"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-07-06" but Spotify returned "2026-07-09"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-06-29" but Spotify returned "2026-07-07"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; the immutable request and matching terminal snapshot are internally valid; all selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; the two rejections remain placement-specific; the PARKED verdict records unknown individual trajectory without weakening the canonical threshold; the alternate and unresolved identities receive no musical verdict; and all three genuinely interesting evaluated exact identities enter the global utility ledger. STRANGE GAIT membership and order remain unchanged, and the protected trio remains contiguous and internally exact.
+
+### Run metrics
+
+`~96 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`
+
+Inspection-to-lead conversion: 9.4%. Resolution yield: 44.4%. Selected-candidate-to-ADD conversion: 0/3. Across completed discovery Runs 87–266, excluding repairs and failed requests: 1,269 leads from approximately 8,864 inspections; 50 ADDs from 368 selected candidates. Four of the last ten comparable discovery runs contain an ADD. The musical no-ADD streak is one completed run after Run 265, with three exact interesting tracks retained since that ADD. Audio analysis: NOT TESTED. Live mixing: NOT TESTED. No actionable REPAIR emerges.
+
 ## Run 265 — 2026-09-15T05:51:08Z-explore-265
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `c0871c0dac55678029af65e9efbffb8b64e32add`, requestFingerprint `49386ddbf6da8cb38092a370ef8ce1931029b94f7cc48ed44cc800325ef30ae4`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate; five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases, persistent-history exclusion passed, and Repair Run 261's exact-track evidence guard was respected.

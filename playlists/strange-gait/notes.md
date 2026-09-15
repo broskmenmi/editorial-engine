@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 266 — EXPLORE — material identity is not directional consequence
+
+Pre-audit passed and selected EXPLORE. Approximately 96 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: four exact identities, three selected candidates, one exact unselected alternate, five unresolved identities, four preserved metadata warnings and no technical failure.
+
+Biz — *Monozukuri* and Nizre — *One Layer* pass the volume lens and remain genuinely interesting, but are rejected only at their tested placements. Each supplies a complete material state without evidence that the successor's existing work changes at surrounding-run or long-form scale. Panasonic — *Muuntaja* is PARKED at `Worn Down → candidate → Atlantis`: its nearly ten-minute exact identity and shared release framing establish interest, but not individual development, endpoint, handoffs or downstream consequence.
+
+STRANGE GAIT remains 63 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 53–55. The doctrine-free global Discovery Pool becomes 516 tracks by retaining all three evaluated exact identities. The exact unselected alternate and five unresolved identities receive no musical verdict or utility row. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred. No actionable REPAIR emerges.
+
+Run 266: `~96 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`. Across completed discovery Runs 87–266, excluding repairs and failed requests: 1,269 leads / ~8,864 inspections / 50 ADDs / 368 selected candidates. Inspection-to-lead conversion was 9.4%, resolution yield 44.4% and selected-candidate-to-ADD conversion 0/3. Four of the last ten comparable discovery runs contain an ADD. Audio analysis and live mixing were not tested.
+
 ## Run 265 — EXPLORE — patterned change can prepare directional break
 
 Pre-audit passed and selected EXPLORE. Approximately 98 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: four exact identities, three selected candidates, one exact unselected alternate, five unresolved identities, four preserved metadata warnings and no technical failure.

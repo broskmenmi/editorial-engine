@@ -3,6 +3,21 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 266
+
+### Material identity versus directional consequence
+
+**Direction:** Test sharply identified material states by what their exit makes the successor do; retain the track as inspiration when its material is compelling even if the tested insertion does not alter the run.
+
+**Ingredients:**
+
+- Sarniezz — *Never Met* → Biz — *Monozukuri* → Newa — *Trompe L'oeil* → Kangding Ray — *FELT* — rejected placement hypothesis, exact handoffs unknown
+- T++ — *Worn Down* → Panasonic — *Muuntaja* → Peter Van Hoesen — *Atlantis* → Special Request — *Hypnic Jerks* — parked placement hypothesis, individual trajectory and exact handoffs unknown
+- Geza — *LOVE YOUR ENEMIES* → JakoJako — *Tehutis Law* → Nizre — *One Layer* → Sol Ortega — *Pulse I* → Wata Igarashi — *Roxellana* — rejected placement hypothesis, exact handoffs unknown
+- Format, Sohrab, Tensal, Jay Tripwire / Maher Daniel and Sans I — unresolved research directions
+
+**Why interesting:** The three exact tracks offer distinct material propositions. The set question is whether an exit creates downstream consequence, not whether the intermediate state is stylistically compatible or technically vivid.
+
 ## Current additions — Run 265
 
 ### Patterned change before directional break
