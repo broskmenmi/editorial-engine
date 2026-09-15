@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 263 — EXPLORE — a formed exit can justify a long process
+
+Pre-audit passed and selected EXPLORE. Approximately 101 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: two exact selected identities, seven unresolved identities, no warnings, alternates or technical failure.
+
+Taoyema — *Dark Necessity* is added between *Fragments* and *Drummz*. Its exact-track source documents a muted slow burn that builds through winding peaks and locks into a stable state. In `Us In The Sand → Mildew Swoosh → Fragments → Dark Necessity → Drummz`, that fixed exit gives *Drummz* a specific state to destabilize. The candidate's 9:12.000 duration is substantial, but it creates downstream work rather than merely lengthening escalation. Ma Haiping — *Velocity Unlocked* passes the volume lens provisionally and remains PARKED between *Foundry* and *Worn Down*: exact identity and 5:07.565 duration are known, but shared release framing cannot establish its individual development, endpoint or effect on the threshold.
+
+STRANGE GAIT becomes 62 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 52–54. The doctrine-free global Discovery Pool becomes 510 tracks by retaining both evaluated exact identities; seven unresolved identities receive no utility row. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred. No actionable REPAIR emerges.
+
+Run 263: `~101 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 1 ADD + 1 PARKED → 2 utility additions`. Across completed discovery Runs 87–263, excluding repairs and failed requests: 1,251 leads / ~8,670 inspections / 49 ADDs / 362 selected candidates. Inspection-to-lead conversion was 8.9%, resolution yield 22.2% and selected-candidate-to-ADD conversion 50%. Four of the last ten comparable completed discovery runs contain an ADD. Run 263 ends the three-run musical no-ADD streak after Run 256. Audio analysis and live mixing were not tested.
+
 ## Run 262 — EXPLORE — complete states still require downstream consequence
 
 Pre-audit passed and selected EXPLORE. Repair Run 261's evidence guard was applied to approximately 97 current-release, adjacent/emerging and overlooked-catalogue inspections: nine honest leads came from nine releases, and selected slots favored differentiated exact-track evidence. The matching schemaVersion 2 snapshot is PARTIAL: seven exact identities, three selected candidates, four exact unselected alternates, two unresolved identities, one metadata warning and no technical failure.

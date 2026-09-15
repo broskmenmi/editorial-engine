@@ -3,6 +3,25 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 263 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Taoyema | Dark Necessity | `spotify:track:2kSeffr4MXOwACEmwFPhGK` · https://open.spotify.com/track/2kSeffr4MXOwACEmwFPhGK · https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/ | Exact 9:12.000 muted-build-to-lock process; added between *Fragments* and *Drummz*. Its documented late fixed state gives the successor a specific object to destabilize. Added globally. |
+| EXACT TRACK / PARKED | Ma Haiping | Velocity Unlocked | `spotify:track:498Z7ThNeETb2M6SY37ge4` · https://open.spotify.com/track/498Z7ThNeETb2M6SY37ge4 · https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked | Exact 5:07.565 title track remains interesting. Shared release framing does not establish individual development, endpoint or consequence between *Foundry* and *Worn Down*. Added globally. |
+| UNRESOLVED RESEARCH | Antonella Zambrano; Lee Osborne; Esteban Miranda; Arsonist Recorder; Sebastian Swarm; Blyer; Kev D | *Mentally Deranged*; *Ceremony*; *Gripen*; *Home early*; *Tomb of Ligeia*; *Sea of Acid*; *Double Zero* | Exact sources preserved in `scout-request.json` | Seven Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Rausch Trax / Antonella Zambrano; Italo Moderni / Lee Osborne; BLACK SHAPES / TAOYEMA; Molecular / Ma Haiping; Arkada / Arsonist Recorder | Current singles, EPs and split-release continuations | Sources preserved in `scout-request.json` | Continue where exact-track evidence distinguishes individual direction, development and endpoint. |
+| CURRENT / CATALOGUE WATCH | In The Dark Again / Sebastian Swarm; Dosis / Blyer; Keep On Techno / Kev D | Current vinyl, acid-techno and groove-techno paths | Sources preserved in `scout-request.json` | Useful exact-title research paths; promotional labels and release taxonomies remain identity evidence, not sonic facts. |
+
+### Run 263 boundaries
+
+- *Dark Necessity* passes at `Fragments → candidate → Drummz`: its documented late lock gives *Drummz* a specific stable object to unsettle. Exact handoffs remain unknown.
+- *Velocity Unlocked* remains PARKED at `Foundry → candidate → Worn Down`; shared release framing cannot establish individual trajectory or downstream consequence.
+- Both evaluated exact identities enter the doctrine-free global utility ledger.
+- Seven unresolved identities remain research leads only.
+- Set direction: distinguish a long complete process whose exit creates successor work from a release-world proposition whose individual exit is still unknown.
+- No actionable REPAIR emerges.
+
 ## Run 262 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

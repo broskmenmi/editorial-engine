@@ -3,6 +3,22 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 263
+
+### A formed exit can justify a long process
+
+**Direction:** Test long reset-and-build constructions by whether their documented exit creates specific work for the next track; keep shared release-world propositions separate until individual trajectory is known.
+
+**Ingredients:**
+
+- Ignez — *Us In The Sand* → FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments* → Taoyema — *Dark Necessity* → Clotur — *Drummz* — canonical editorial direction
+- Decoder — *Abundance* → Yu Su — *Foundry* → Ma Haiping — *Velocity Unlocked* → T++ — *Worn Down* → Maxime Denuc — *Atlantis* — parked placement hypothesis
+- Antonella Zambrano / Rausch Trax, Lee Osborne / Italo Moderni, Esteban Miranda / WNVA, Arsonist Recorder / Arkada, Sebastian Swarm / In The Dark Again, Blyer / Dosis and Kev D / Keep On Techno — unresolved research directions
+
+**Why interesting:** *Dark Necessity*'s attributed muted-build-to-lock trajectory gives *Drummz* a fixed state to destabilize, so its substantial duration has a downstream consequence. *Velocity Unlocked* remains useful but its shared release framing cannot establish the same relation.
+
+**Boundary:** These are editorial directions and placement hypotheses, not proven live sequences, energy claims, density claims, space claims, hypnosis claims, phrase-fit claims, emotional-effect claims or mixing edges. Exact handoffs, perceived pulse and BPM remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 262
 
 ### A complete state matters only when its exit changes the next track

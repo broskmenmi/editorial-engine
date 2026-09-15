@@ -1,5 +1,61 @@
 # STRANGE GAIT — Discoveries
 
+## Run 263 — 2026-09-15T03:48:23Z-explore-263
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `4a80a1a959175998fbeadd21a70169c224a404a4`, requestFingerprint `a1b9238f21e8ea92b72109751735892d07f84c785bd4ad76fc478bd5cdf1e961`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases and persistent-history exclusion passed.
+
+### Evaluated exact candidates
+
+#### Taoyema — Dark Necessity — `spotify:track:2kSeffr4MXOwACEmwFPhGK` — ADD
+
+Source: https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/
+
+Spotify: https://open.spotify.com/track/2kSeffr4MXOwACEmwFPhGK
+
+Exact resolver duration: 552,000 ms (9:12.000). BPM unavailable. Spotify returned album *ZeroFour* and release date 2026-09-07.
+
+Club Furies describes the exact track as beginning with a muted, slow-burning fuse, building steadily through industrial mass and winding peaks, then locking into a stable high-impact state. Those are attributed construction and direction claims; exact endpoint sound, both handoffs, perceived pulse, energy, density, space, phrase structure and mixability remain unknown.
+
+- Volume fit: PASS. A long construction that changes from muted formation through winding peaks into a fixed state fits the selection lens through internal structural change, not novelty, weirdness or chapter assignment.
+- Immediate transition: provisional PASS at `Fragments → Dark Necessity → Drummz`. The conspicuous muted reset after *Fragments* can make the turn deliberate; the documented late lock gives *Drummz* a formed state to destabilize. Exact handoffs remain UNKNOWN.
+- Surrounding run: provisional PASS through `Us In The Sand → Mildew Swoosh → Fragments → Dark Necessity → Drummz`. Internal disturbance broadens into opposed temporal strain, returns to driving motion, undergoes a long reset-and-lock process, then loses predictability. The candidate changes *Drummz* from a further irregularity statement into the disruption of a documented fixed state.
+- Long-form effect: provisional PASS. The 9:12.000 insertion is substantial, but its ending condition creates downstream consequence rather than merely extending escalation: *Drummz* now breaks a lock before the later false-stability and dissolution sequence.
+- Strongest counterargument: the candidate may over-extend the already active post-*Mildew Swoosh* re-escalation and behave like a second complete summit. It passes because the muted restart and eventual lock do not merely increase scale; they establish the specific stable object that *Drummz* then unsettles.
+- Verdict: ADD between *Fragments* and *Drummz*. Retained as genuinely interesting and added to the doctrine-free global utility ledger.
+
+#### Ma Haiping — Velocity Unlocked — `spotify:track:498Z7ThNeETb2M6SY37ge4` — PARKED
+
+Source: https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked
+
+Spotify: https://open.spotify.com/track/498Z7ThNeETb2M6SY37ge4
+
+Exact resolver duration: 307,565 ms (5:07.565). BPM unavailable. Spotify returned album *Velocity Unlocked* and release date 2026-09-04.
+
+Molecular frames the four-track release around hypnotic rhythms, futuristic textures, evolving arrangements, pulsating grooves, intricate layers and atmospheric synths, while stating that each track develops its own character. It does not distinguish the title track's individual materials, direction, development or endpoint.
+
+- Volume fit: provisional PASS. The exact current techno proposition is compatible with the selection lens; shared release vocabulary is permission, not an admission reason.
+- Immediate transition: UNKNOWN at `Foundry → Velocity Unlocked → Worn Down`. Exact endpoints and handoffs are untested.
+- Surrounding run: UNKNOWN through `Abundance → Foundry → Velocity Unlocked → Worn Down → Atlantis`. Shared framing cannot establish whether the candidate changes the unstable-directional hinge into a new condition for *Worn Down* or merely inserts another complete state.
+- Long-form effect: UNKNOWN. At 5:07.565, the insertion needs an individual trajectory and exit that changes the threshold; release-level language cannot establish that gain.
+- No alternative placement was tested because the same missing candidate-specific direction and endpoint would remain decision-critical elsewhere.
+- Verdict: PARKED. Retained as genuinely interesting and added to the doctrine-free global utility ledger. Reopen only for materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Unresolved identities — no musical verdict
+
+- Antonella Zambrano — *Mentally Deranged*: `no exact Spotify title/artist search match in market SE`
+- Lee Osborne — *Ceremony*: `no exact Spotify title/artist search match in market SE`
+- Esteban Miranda — *Gripen*: `no exact Spotify title/artist search match in market SE`
+- Arsonist Recorder — *Home early*: `no exact Spotify title/artist search match in market SE`
+- Sebastian Swarm — *Tomb of Ligeia*: `no exact Spotify title/artist search match in market SE`
+- Blyer — *Sea of Acid*: `no exact Spotify title/artist search match in market SE`
+- Kev D — *Double Zero*: `no exact Spotify title/artist search match in market SE`
+
+### Auditor decision
+
+APPROVED. Required state passed UTF-8, JSON, protected-order, persistent-history and publication pre-audits. The request is fresh, its matching snapshot is internally valid, and only its two selected exact identities were evaluated. Each receives separate volume, immediate-transition, surrounding-run and long-form tests; UNKNOWN is not converted to musical failure. *Dark Necessity* has candidate-specific development evidence and changes *Drummz*'s downstream task, while *Velocity Unlocked* is honestly PARKED because its evidence remains shared release framing. Both evaluated exact identities remain genuinely interesting and enter the doctrine-free global utility ledger. No actionable REPAIR emerges.
+
+Run 263: `~101 inspected → 9 leads → 2 exact + 7 unresolved → 2 evaluations → 1 ADD + 1 PARKED → 2 utility additions`. Across completed discovery Runs 87–263, excluding repairs and failed requests: 1,251 leads / ~8,670 inspections / 49 ADDs / 362 selected candidates. Inspection-to-lead conversion was 8.9%, resolution yield 22.2% and selected-candidate-to-ADD conversion 50%. Four of the last ten comparable completed discovery runs contain an ADD. Run 263 ends the three-run musical no-ADD streak after Run 256. Audio analysis and live mixing were not tested.
+
 ## Run 262 — 2026-09-15T02:51:21Z-explore-262
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `86fe0e61d37b8eba532eb4c47dfbe2f55bab0310`, requestFingerprint `e5ca00db634aba42192e8efa08ca914e38eecd090f94c8802fdbd1942e1815a6`, PARTIAL. Requested 9; resolved 7; selected 3; four exact unselected alternates; two unresolved identities; one warning. No duplicates, substitutions, relinkings or technical resolver failures. Repair Run 261's evidence guard was applied: the nine leads came from nine releases, and only exact-track evidence earned multiple differentiated judgments.
