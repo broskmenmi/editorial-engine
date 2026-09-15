@@ -1,5 +1,45 @@
 # STRANGE GAIT — Discoveries
 
+## Run 269 — 2026-09-15T09:49:17Z-explore-269 — EXPLORE_NOT_COMPLETED
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `bfcff77a8afed1c49d822f4274492a6d44faa86d`, requestFingerprint `ead628558a2d539eb6fd2f8bcf4bd1736a4318e7105a92e9e79d19a4d4830d1b`, PARTIAL. Requested 8; resolved 1; selected 1; seven unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures.
+
+### Auditor veto
+
+The immutable request fails the current Scout lead-floor contract. Dopplereffekt — *Collapse of Simultaneity* and DJ Natas — *The Titan Of Terror* carried materially differentiating exact-track prose, but the other six ranked entries explicitly stated that their sources supplied no individual sonic description. Those six were exact release listings only. `automation.md` allows reliable context when it supports serious evaluation but says generic metadata alone is insufficient; artist, title, label, date and a hypothetical placement do not create a constitution-relevant belonging basis.
+
+Because six of eight leads were padded below the lawful floor, the exploration receipt's claim that all eight were fresh honest leads is invalid. Auditor veto precedes candidate evaluation. The resolver's selected exact identity, Dopplereffekt — *Collapse of Simultaneity* (`spotify:track:1BZu2lxjwVKS4usBtIaJIn`, exact 400,135 ms / 6:40.135), therefore receives no ADD, PARKED or REJECT verdict and is not retained in either discovery layer. Its proposed `Pulse I → candidate → Roxellana` placement was not evaluated.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- DJ Natas — *The Titan Of Terror*: `no exact Spotify title/artist search match in market SE`
+- Damaged Clock — *Viajes Sin Terminar (Umwelt remix)*: `no exact Spotify title/artist search match in market SE`
+- A:G — *Hand Me The Piano*: `no exact Spotify title/artist search match in market SE`
+- Genex — *Alloverme*: `no exact Spotify title/artist search match in market SE`
+- Japp Beats, Spel, Guerra — *Groove Riders*: `no exact Spotify title/artist search match in market SE`
+- Wav4ms, Priori — *Colossi*: `no exact Spotify title/artist search match in market SE`
+- Wolfdrifta — *Sunwalker*: `no exact Spotify title/artist search match in market SE`
+
+### State and publication audit
+
+STRANGE GAIT remains 63 tracks with no membership, order or annotation change. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 53–55. Its journey map remains exact at 63 tracks, 62 transitions and 6h 18m, generated `2026-09-15T06:12:25.542Z`, with 45 unavailable BPM values preserved as gaps.
+
+Automatic publishing remains enabled, but neither publication input changed. STRANGE GAIT therefore retains its last verified `COMPLETE — 63/63` receipt at `2026-09-15T06:12:37.448Z`; this run makes no new live-verification claim. EDITORIAL ENGINE — DISCOVERY POOL remains 518 tracks and retains its last verified `COMPLETE — 518/518` receipt at `2026-09-15T09:04:48.218Z`; this run makes no new live-verification claim.
+
+### Run analysis
+
+`~96 inspected → 8 submitted leads (2 evidence-bearing + 6 metadata-only) → 1 exact selected + 7 unresolved → AUDITOR VETO → EXPLORE_NOT_COMPLETED → 0 musical evaluations → 0 ADD → 0 utility additions`
+
+Inspection-to-submitted-lead conversion was 8.3% and apparent exact-resolution yield was 12.5%, but usable-candidate yield is 0% because the lead set violated the Scout floor. Candidate-to-ADD conversion is not applicable. Completed discovery totals remain unchanged through Run 268: 1,275 leads from approximately 8,958 inspections; 50 ADDs from 370 selected candidates. The completed musical no-ADD streak remains two runs after Run 265, with five exact genuinely interesting tracks retained since that ADD.
+
+The strongest alternative explanation is that exact newly announced release listings are useful research even without individual prose. They may be useful watches, but the repository explicitly distinguishes watches from resolver leads: release metadata alone cannot establish a credible volume-belonging hypothesis. The request itself repeatedly acknowledged this absence, so the six entries cannot be defended as reliable contextual contenders.
+
+This run proves that the Auditor caught below-floor request padding before it could become a musical or utility decision. It does not show that *Collapse of Simultaneity* fails the volume, that the unresolved tracks lack musical value, or that STRANGE GAIT is complete. The rule already exists and the veto contains the defect; no additional code or doctrine REPAIR is justified by this single occurrence. The next ordinary EXPLORE must use evidence-bearing leads and may reconsider any identity only through a fresh lawful request.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 268 — 2026-09-15T08:49:39Z-explore-268
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `9ab3144c37ab3ff049834c41e42725637ba84e21`, requestFingerprint `bace8ed6f57da966b1e6f86ef7a94dd2392c43016746a90d62476b0c30b5eafb`, PARTIAL. Requested 6; resolved 2; selected 2; four unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The six leads came from six releases, persistent-history exclusion passed, recent placement boundaries were not recycled, and Repair Run 261's evidence-quality guard was respected.

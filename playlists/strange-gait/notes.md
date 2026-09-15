@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 269 — EXPLORE_NOT_COMPLETED — metadata-only listings are not resolver leads
+
+Pre-audit passed and selected EXPLORE. Approximately 96 current, adjacent/emerging and overlooked-catalogue items produced an eight-entry request and a matching internally valid PARTIAL resolver snapshot: one exact selected identity, seven Spotify-SE misses, and no warnings, alternates or technical failure.
+
+Auditor vetoed before musical evaluation because six submitted entries were exact release listings with no individual sonic description or reliable constitution-relevant context. The current Scout contract explicitly says generic metadata alone is insufficient. A title, label, release date and hypothetical placement cannot be padded into the resolver merely because the release is new. The exploration receipt was therefore invalid even though the immutable resolver lifecycle itself completed correctly.
+
+Dopplereffekt — *Collapse of Simultaneity* resolved exactly at 6:40.135 but receives no musical verdict or inspiration retention from the invalid request. Seven resolver misses are preserved exactly in `discoveries.md` and `scout-data.json`. STRANGE GAIT remains 63 tracks; the protected trio remains contiguous at positions 53–55; the global Discovery Pool remains 518 tracks; neither publication input nor the 63-track map changes.
+
+Run 269: `~96 inspected → 8 submitted leads (2 evidence-bearing + 6 metadata-only) → 1 exact + 7 unresolved → AUDITOR VETO → EXPLORE_NOT_COMPLETED → 0 evaluations → 0 ADD → 0 utility additions`. Apparent inspection-to-lead conversion was 8.3% and resolution yield 12.5%, but usable-candidate yield was 0 because the Scout floor was not met. Completed discovery totals remain 1,275 leads / ~8,958 inspections / 50 ADDs / 370 selected candidates through Run 268. The existing rule caught a single contained execution defect; no further actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 268 — EXPLORE — richer material does not guarantee a changed successor
 
 Pre-audit passed and selected EXPLORE. Approximately 94 current, adjacent/emerging and overlooked-catalogue items produced six fresh leads from six releases. The matching schemaVersion 2 snapshot is PARTIAL: two exact selected identities, four unresolved identities, two preserved packaging warnings and no technical failure.
