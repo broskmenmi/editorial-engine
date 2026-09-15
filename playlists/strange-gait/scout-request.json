@@ -2,28 +2,28 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T16:50:25Z-explore-278",
-  "sourceCommit": "3a0bb9404591ba0d986c32e670a3772d095cacf6",
+  "runId": "2026-09-15T17:48:11Z-explore-279",
+  "sourceCommit": "0a1448a07eaeebd51426bd09a42d443a604e7c40",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 102 named tracks and releases across Juno's September 15 current-techno pages, current charts, release pages and adjacent catalogue paths. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 99 named tracks and releases across current September techno pages, label catalogues and adjacent overlooked-release paths. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no REPAIR is actionable.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved alternate, unresolved identity and repository-wide utility identity was excluded.",
       "Nine leads come from nine releases; the recurring-PARK evidence guard was applied.",
-      "Planned boundaries avoid those evaluated in the previous five completed discovery runs. Failed Run 276 supplies no musical evidence.",
+      "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
       "Release prose is attributed rather than measured; exact identity and musical dimensions require resolver or lawful evidence.",
       "Neither listener-protected internal handoff is split."
     ],
     "rankedLeadSummary": [
-      "1. Exos — In The South",
-      "2. Steve Bug — Lost Sector",
-      "3. Patrik Berg — System Alive",
-      "4. Unique Reason — The Basic",
-      "5. Planet Rhythm — Party Time (Hypno Drive)",
-      "6. Active Systems — Avoid",
-      "7. Antonio Fevola — Monday",
-      "8. Darren Nye — Positive Energy",
-      "9. DJ Ultramars — Crab Carlo"
+      "1. Hyden — Neon Pale",
+      "2. VNNN., Nadia Struiwigh — Prava Ljubav (Nadia Struiwigh Jungle Remix)",
+      "3. _studio416 x Sender Berlin — MazanA",
+      "4. JAMES BONG — Overthinking",
+      "5. Matthias Springer — Deep Blue Latency",
+      "6. Commodore 69 — Cold War Acid",
+      "7. Code Zero — Dark Memories",
+      "8. Teknopappa — Code Of Cosmos",
+      "9. A Mystical Facez & Phyrgian — Andromeda"
     ],
     "sourcesCheckedAt": "2026-09-15",
     "audioAnalysis": "NOT TESTED",
@@ -31,310 +31,311 @@
   },
   "leads": [
     {
-      "artist": "Exos",
-      "track": "In The South",
-      "album": "Delirium Vol IV",
+      "artist": "Hyden",
+      "track": "Neon Pale",
+      "album": "To Whom It May Concern",
+      "releaseDate": "2025-09-19",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://mutual-rytm.bandcamp.com/album/to-whom-it-may-concern",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Mutual Rytm individually describes Neon Pale as a synthetic dreamscape about fading beauty under artificial light, a melancholy ode to cities at night and lost warmth.",
+        "editorialInterpretation": "Documented synthetic melancholy; development and endpoint remain unknown.",
+        "measured": [
+          "Official page lists the exact 4:41 title and artist.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "It could turn Tender Is The Night's suspension into a synthetic melancholy that Night D3 Died gives rhythmic form, or duplicate the passage's mournful function.",
+      "proposedPlacements": [
+        {
+          "position": "Between Tender Is The Night and Night D3 Died",
+          "precedingUri": "spotify:track:42WjfDtnP5Ktt8GzpPAwkq",
+          "followingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a synthetic dream-state changes the chorded-drum formation."
+        }
+      ]
+    },
+    {
+      "artist": "VNNN., Nadia Struiwigh",
+      "track": "Prava Ljubav (Nadia Struiwigh Jungle Remix)",
+      "album": "TECH042",
+      "releaseDate": "2026-09-03",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://technorecords.bandcamp.com/album/tech042",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "TECHNO Records says Nadia Struiwigh reroutes Prava Ljubav's central hook into a junglistic firework, a contrasting genre deviation from the noir-toned hypnotic techno originals.",
+        "editorialInterpretation": "Documented hook-rerouting and deviation; trajectory and endpoint remain unknown.",
+        "measured": [
+          "Official page lists the exact 4:53 title and artist.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "Its rerouted jungle hook could make the move from controlled continuation into triplet derailment consequential, or overstate an existing rupture.",
+      "proposedPlacements": [
+        {
+          "position": "Between The Witching Hour and Encasadelciegoeltuerco",
+          "precedingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "followingUri": "spotify:track:2uMjhKjJVQrECuucVOKNGB",
+          "incomingBpm": 136,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a hook-rerouting deviation changes the triplet derailment."
+        }
+      ]
+    },
+    {
+      "artist": "_studio416 x Sender Berlin",
+      "track": "MazanA",
+      "album": "MazanA",
+      "releaseDate": "2026-09-04",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://snorkenterprises.bandcamp.com/album/mazana",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Snork Enterprises identifies MazanA as danceable, not-too-fast Berlin techno making excursions into Detroit and dub techno; individual development is not supplied.",
+        "editorialInterpretation": "Production-world evidence only; trajectory remains unknown.",
+        "measured": [
+          "Official page lists the exact 6:03 title and artist.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "It could give Atlantis's micro-continuum a dub/Detroit body that Hypnic Jerks shatters, or prolong the pre-crisis threshold.",
+      "proposedPlacements": [
+        {
+          "position": "Between Atlantis and Hypnic Jerks",
+          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a dub/Detroit excursion changes the acceleration crisis."
+        }
+      ]
+    },
+    {
+      "artist": "JAMES BONG",
+      "track": "Overthinking",
+      "album": "Hard Carry",
+      "releaseDate": "2026-09-02",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://newrhythmic-records.bandcamp.com/album/hard-carry",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Newrhythmic frames the EP through heavyweight rhythms, hypnotic synth patterns and abrasive industrial textures moving from stripped grooves to peak-time territory; this is shared release-level evidence.",
+        "editorialInterpretation": "Do not transfer sibling-track form or endpoint.",
+        "measured": [
+          "Official page lists the exact 5:51 title and artist.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "It could establish an industrial formation for LOVE YOUR ENEMIES to turn cross-rhythmic, or duplicate Thick to Handle's deformation.",
+      "proposedPlacements": [
+        {
+          "position": "Between Thick to Handle and LOVE YOUR ENEMIES",
+          "precedingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "followingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL",
+          "incomingBpm": 138,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether an industrial formation changes the cross-rhythmic conflict."
+        }
+      ]
+    },
+    {
+      "artist": "Matthias Springer",
+      "track": "Deep Blue Latency",
+      "album": "Deep Blue Latency",
       "releaseDate": "2026-09-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://hypnoticroom.bandcamp.com/album/deep-blue-latency",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 5:10 track on TRSN's multi-artist Delirium Vol IV; no individual trajectory prose is supplied.",
-        "editorialInterpretation": "Treat the listing as identity evidence only.",
+        "attributedDescription": "Hypnotic Room lists the title track within deep-house, Detroit-techno, dub-techno and minimal-techno release tags; no individual movement or endpoint prose is supplied.",
+        "editorialInterpretation": "Taxonomy is release context, not exact-track behavior.",
         "measured": [
-          "Exact title, artist, duration listing and release context are present.",
+          "Official page lists the exact 6:59 title and artist.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "It could create a distinct post-block state before Migration's piano/break pivot, or merely delay that pivot.",
+      "fitHypothesis": "It could make Pulse I's accumulation recede into a latent dub state that Roxellana breaks open, or delay the surge.",
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-          "incomingBpm": 137,
+          "position": "Between Pulse I and Roxellana",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "incomingBpm": 136,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a distinct post-block state changes the piano/break pivot."
+          "purpose": "Test whether a latent dub state changes the uncontained surge."
         }
       ]
     },
     {
-      "artist": "Steve Bug",
-      "track": "Lost Sector",
-      "album": "The Dark Lion",
-      "releaseDate": "2026-09-11",
+      "artist": "Commodore 69",
+      "track": "Cold War Acid",
+      "album": "UKR495 Downtown EP",
+      "releaseDate": "2026-09-09",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://urbankickzrecordings.bandcamp.com/album/ukr495-downtown-ep",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Lost Sector as a speedier but soft-edged, warm dub-techno groove.",
-        "editorialInterpretation": "Test only that attributed material relation; direction and endpoint remain unknown.",
+        "attributedDescription": "Urban Kickz lists the exact title on an underground-techno EP but supplies no individual sonic or trajectory prose.",
+        "editorialInterpretation": "Do not infer acid behavior from the title alone.",
         "measured": [
-          "Juno lists the exact 6:43 title and release.",
+          "Official page lists the exact 6:15 title and artist.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "It could soften Humanoidz's lurch into a warmer moving object that Moonwake intensifies, or blunt the lurch's consequence.",
+      "fitHypothesis": "It could harden Silent Tension into a bounded object before Us In The Sand disturbs it, or add an unsupported state.",
       "proposedPlacements": [
         {
-          "position": "Between Humanoidz and Moonwake",
-          "precedingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 140,
-          "purpose": "Test whether warm dub motion changes renewed intensification."
-        }
-      ]
-    },
-    {
-      "artist": "Patrik Berg",
-      "track": "System Alive",
-      "album": "Mensch & Maschine",
-      "releaseDate": "2026-09-10",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 5:11 album track but supplies no individual construction or endpoint prose.",
-        "editorialInterpretation": "Treat title and duration as listing facts only.",
-        "measured": [
-          "Exact title, artist, duration and release are listed.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "It could become a machine-state that Truth in Noise consolidates after Elemental Dream strips itself, or add an unsupported stage.",
-      "proposedPlacements": [
-        {
-          "position": "Between Elemental Dream and Truth in Noise",
-          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
-          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 138,
-          "purpose": "Test whether a machine-state changes consolidation."
-        }
-      ]
-    },
-    {
-      "artist": "Unique Reason",
-      "track": "The Basic",
-      "album": "Buried",
-      "releaseDate": "2026-09-08",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno frames the release through frayed, dusty MPC edges between deep house and raw techno; this is shared release-level evidence.",
-        "editorialInterpretation": "Do not transfer sibling-track behavior into this title.",
-        "measured": [
-          "Juno lists the exact 5:32 title and release.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "It could roughen Foundry's unstable direction before Worn Down's weight threshold, or simply decorate the same work.",
-      "proposedPlacements": [
-        {
-          "position": "Between Foundry and Worn Down",
-          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
-          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "position": "Between Silent Tension and Us In The Sand",
+          "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+          "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether rough MPC texture changes the weight threshold."
+          "purpose": "Test whether a bounded state changes the disturbed beat-world."
         }
       ]
     },
     {
-      "artist": "Planet Rhythm",
-      "track": "Party Time (Hypno Drive)",
-      "album": "What Time Is Love EP",
-      "releaseDate": "2026-09-10",
+      "artist": "Code Zero",
+      "track": "Dark Memories",
+      "album": "Oldskool House vs. Techno",
+      "releaseDate": "2026-09-04",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://jonayakapeejay.bandcamp.com/album/oldskool-house-vs-techno",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 6:00 track within an anonymous-artist hardcore-revival techno release; no individual prose is supplied.",
-        "editorialInterpretation": "Do not infer behavior from the release framing or title.",
+        "attributedDescription": "The artist-hosted page lists the exact track within an old-school house-and-techno release tagged acid, breakbeat, hardcore and underground; it supplies no individual construction or endpoint.",
+        "editorialInterpretation": "Keep behavior unknown rather than collapsing taxonomy into a track claim.",
         "measured": [
-          "Exact title and duration are listed.",
-          "Artist credit and market-SE identity require resolver evidence."
-        ]
-      },
-      "fitHypothesis": "It could fracture Crawl's sustained plateau before IF U WANT 2's opposed materials, or crowd the dissolution passage.",
-      "proposedPlacements": [
-        {
-          "position": "Between Crawl and IF U WANT 2",
-          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a hardcore-revival state changes the dissolution passage."
-        }
-      ]
-    },
-    {
-      "artist": "Active Systems",
-      "track": "Avoid",
-      "album": "The Red EP",
-      "releaseDate": "2026-09-10",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 3:45 track on The Red EP without individual movement or endpoint prose.",
-        "editorialInterpretation": "Keep all candidate behavior unknown until exact evidence exists.",
-        "measured": [
-          "Exact title, artist, duration and release are listed.",
+          "Official page lists the exact 6:09 title and artist.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its concision could turn FELT's rolling formation into a brief refusal before Goink forms recurring fragments, or add an empty interlude.",
+      "fitHypothesis": "It could leave Baghdad's bass-percussion lock as a darker form that Elemental Dream strips apart, or duplicate the formation.",
       "proposedPlacements": [
         {
-          "position": "Between FELT and Goink",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
+          "position": "Between Baghdad and Elemental Dream",
+          "precedingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
+          "followingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a concise refusal changes recurring-fragment formation."
+          "purpose": "Test whether a dark old-school state changes self-stripping instability."
         }
       ]
     },
     {
-      "artist": "Antonio Fevola",
-      "track": "Monday",
-      "album": "ANWAX 001",
-      "releaseDate": "2026-09-11",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 5:27 track on ANWAX 001 without individual musical prose.",
-        "editorialInterpretation": "Treat title and duration as listing facts only.",
-        "measured": [
-          "Exact title, artist, duration and release are listed.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "It could interrupt Never Met's passing foreground before Trompe L'oeil resets the grid, or weaken the direct reset.",
-      "proposedPlacements": [
-        {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether an intermediate track changes the dubwise reset."
-        }
-      ]
-    },
-    {
-      "artist": "Darren Nye",
-      "track": "Positive Energy",
-      "album": "Lunar Refraction EP",
-      "releaseDate": "2026-09-10",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact 5:01 track within a release framed by deep-tech-soul lineage; no individual trajectory is supplied.",
-        "editorialInterpretation": "Do not turn release lineage into a track-specific claim.",
-        "measured": [
-          "Exact title, artist, duration and release are listed.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "It could establish a lucid state after Nukumori's flare that Jjochstubn contaminates, or sentimentalize the descent.",
-      "proposedPlacements": [
-        {
-          "position": "Between Nukumori and Jjochstubn",
-          "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a lucid state changes contaminated-song disassembly."
-        }
-      ]
-    },
-    {
-      "artist": "DJ Ultramars",
-      "track": "Crab Carlo",
-      "album": "Cab Carlo",
+      "artist": "Teknopappa",
+      "track": "Code Of Cosmos",
+      "album": "Code Of Cosmos",
       "releaseDate": "2026-09-07",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://darkimpactrecords.bandcamp.com/album/code-of-cosmos",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno lists the exact one-sided release track but gives no construction or endpoint prose.",
-        "editorialInterpretation": "Keep every musical dimension unknown pending exact evidence.",
+        "attributedDescription": "Dark Impact/Amsys lists the title track within a driving, peak-time, hardcore and industrial techno taxonomy; no individual movement or endpoint prose is supplied.",
+        "editorialInterpretation": "Taxonomy is release context only.",
         "measured": [
-          "Exact title, artist and release are listed.",
-          "Market-SE identity and duration require resolver evidence."
+          "Official page lists the exact 6:15 title and artist.",
+          "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "It could add an off-axis object between Tehutis Law's re-grounding and Pulse I's crooked accumulation, or duplicate the hinge.",
+      "fitHypothesis": "It could intensify Where I Wanna Be into a coded industrial state for Style Teef to deform, or double the matrix.",
       "proposedPlacements": [
         {
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": 139,
+          "position": "Between Where I Wanna Be and Style Teef",
+          "precedingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
+          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether an off-axis object changes crooked accumulation."
+          "outgoingBpm": null,
+          "purpose": "Test whether a coded industrial state changes the frazzled fault line."
+        }
+      ]
+    },
+    {
+      "artist": "A Mystical Facez & Phyrgian",
+      "track": "Andromeda",
+      "album": "Medieval",
+      "releaseDate": "2026-09-09",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://parallelthoughtsrecords.bandcamp.com/album/medieval",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Parallel Thoughts lists the exact collaboration within hard-techno, hardgroove, industrial and raw-techno release tags; no individual form or endpoint is described.",
+        "editorialInterpretation": "Do not infer behavior from title or packaging.",
+        "measured": [
+          "Official page lists the exact 5:48 title and artist.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "It could create an industrial afterimage of Migration before Eyes of the Wind, or blunt the piano/break pivot.",
+      "proposedPlacements": [
+        {
+          "position": "Between Migration and Eyes of the Wind",
+          "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether an industrial afterimage changes the liminal passage."
         }
       ]
     }
   ]
 }
+
