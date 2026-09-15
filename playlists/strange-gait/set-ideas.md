@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 277
+
+### Material state versus consequential trajectory
+
+**Direction:** Test electro-dub expansion, broken-acid hinges and pulse-bearing suspension by how the documented state develops into its successor, not by material vividness alone.
+
+**Ingredients:**
+
+- Blawan — *Style Teef* → DJ Qu — *Same Way* → Al Chem — *Baudelaire* → Pangaea — *U Belong 2 Me* → Linear System — *Transparency* — rejected placement hypothesis; exact endpoint and handoffs unknown
+- Terrence Dixon — *Tides Alternate* → Aa Sudd — *Serpentine Tale* → Zvrra — *Illusory* → Sciahri — *Too Much Time* → Kloke — *Freepass for Them* — rejected placement hypothesis; later candidate development and exact handoffs unknown
+- Curbside Lambsear — *Jjochstubn* → Jlin — *Rabbit Hole* → Purelink — *Kite Scene* → TYGAPAW / Precious Okoyomon — *Can I live* → Steve Rachmad — *Invisible Warriors Of Light* — parked placement hypothesis; whether the pulse persists into the exit is decision-critical
+- Type-303, Ezekiel Honig, Ghost Dubs, DJ Plead and ADILR — unresolved exact-title research directions; Deep Narratives — *Ghetto Gong* — exact unselected alternate
+
+**Why interesting:** All three exact candidates establish a distinct state. The canonical distinction is trajectory: two make already purposeful turns more elaborate, while *Kite Scene* preserves a credible alternate reading because the same documented suspension could either prepare or postpone embodied re-entry.
+
+**Boundary:** These are editorial directions, a parked hypothesis and placement counterexamples, not proven live sequences or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse beyond attributed prose, endpoints and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 274
 
 ### Vivid turn versus changed successor

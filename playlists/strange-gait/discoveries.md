@@ -1,5 +1,103 @@
 # STRANGE GAIT — Discoveries
 
+## Run 276 — 2026-09-15T15:48:55Z-explore-276 — REQUEST_NOT_COMPLETED
+
+The immutable schemaVersion 2 request was committed at `8e2ac4d60b74e0e3adc23eba22a13c3047938a51`, but resolver workflow run `34991839203` failed closed before Spotify lookup with exact error:
+
+`Lead 2 placement 1 must reference current canonical ledger URIs`
+
+Several manually transcribed placement URIs did not match the current canonical ledger. No identities were resolved, no snapshot was persisted, no candidates were evaluated and no musical zero result is inferred. Because correcting request data would change immutable lead content, Run 276 was not mutated or retried as a recovery. Run 277 used a new runId, current ledger-derived adjacent URI pairs and the same ranked research pool with complete source receipt.
+
+## Run 277 — 2026-09-15T15:58:30Z-explore-277
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `8e2ac4d60b74e0e3adc23eba22a13c3047938a51`, requestFingerprint `76f4d260345c9c2f4f0069f273828bad5ad71fe105e773d39de16dca3a34460a`, generated 2026-09-15T15:59:50.617Z, PARTIAL. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. Four metadata warnings were preserved. No duplicates, substitutions, relinkings or terminal technical resolver failures occurred. The nine leads came from nine releases, applied the activated one-track-per-release evidence guard and avoided every boundary evaluated in Runs 270–274.
+
+### Evaluated exact candidates
+
+#### Al Chem — Baudelaire — `spotify:track:2ZFtn3bX1Qv09VOJaBwJ4n` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://boomkat.com/products/weird-fiction-2026-edition
+
+Spotify: https://open.spotify.com/track/2ZFtn3bX1Qv09VOJaBwJ4n
+
+Exact resolver duration: 484,626 ms (8:04.626). BPM unavailable. Spotify returned album *Weird Fiction* and release date 2017-07-14 for requested year 2017.
+
+Boomkat individually describes *Baudelaire* as expansive, time-stretching electro-dub built around a gloaming silhouette. This establishes a distinct long-form material state, not its exact endpoint, either handoff, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. Electro-dub expansion is a lawful production-world and duration proposition under the selection lens.
+- Immediate transition: UNKNOWN at `Same Way → Baudelaire → U Belong 2 Me`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Style Teef → Same Way → Baudelaire → U Belong 2 Me → Transparency`. *Same Way* already redirects the fault line into the compact sharpening threshold; the candidate inserts another fully stated eight-minute redirection without evidence that *U Belong 2 Me* receives different work.
+- Long-form effect: FAIL only at this placement. The substantial time-stretched scene dilutes the direct route into the protected approach rather than establishing a new downstream condition.
+- Strongest alternative: its shadowed expansion could deepen the change of production world. That material gain is credible, but at this boundary it remains an additional complete state rather than a consequential exit.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Zvrra — Illusory — `spotify:track:69pBDgIvuyntXQJzFKQQ0g` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://zvrra.bandcamp.com/album/anion
+
+Spotify: https://open.spotify.com/track/69pBDgIvuyntXQJzFKQQ0g
+
+Exact resolver duration: 382,549 ms (6:22.549). BPM unavailable. Spotify returned album *Anion* and release date 2025-06-17 for requested year 2026.
+
+The artist-hosted page says *Illusory* opens on a broken pulse with an acid loop against a cosmic backdrop. This supports a differentiated opening proposition; later development, endpoint, both handoffs and all unmeasured sonic qualities remain unknown.
+
+- Volume fit: PASS. Broken pulse and acid-loop construction are relevant without implying a genre hierarchy or measured energy.
+- Immediate transition: UNKNOWN at `Serpentine Tale → Illusory → Too Much Time`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Tides Alternate → Serpentine Tale → Illusory → Too Much Time → Freepass for Them`. The candidate adds a complete broken-acid hinge between the existing low-slung consequence and renewed physical widening.
+- Long-form effect: FAIL only at this placement. At 6:22.549, the added hinge articulates the turn more heavily without evidence that *Too Much Time* acquires a different widening task.
+- Strongest alternative: the broken pulse could fracture *Serpentine Tale* before the later widening. Its documented opening makes that plausible, but no sourced development or exit distinguishes the result from an extra intermediate mechanism.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Purelink — Kite Scene — `spotify:track:3zJwlKvwTTLvJyBtSW0xkR` — PARKED
+
+Source: https://boomkat.com/products/faith-d30e4f32-fd28-4857-9edb-e769a5b38e27
+
+Spotify: https://open.spotify.com/track/3zJwlKvwTTLvJyBtSW0xkR
+
+Exact resolver duration: 366,206 ms (6:06.206). BPM unavailable. Spotify returned album *Faith* and release date 2025-06-06 for requested year 2026.
+
+Boomkat individually describes *Kite Scene* through anti-gravity pads buoyed by a systolic pulse. This establishes a pulse-bearing suspended state but not how it develops or exits.
+
+- Volume fit: PASS. A buoyant pulse inside an anti-gravity field is a lawful adjacent-world proposition for the disassembly and afterword passage.
+- Immediate transition: UNKNOWN at `Rabbit Hole → Kite Scene → Can I live`; neither handoff was heard or metrically documented.
+- Surrounding run: UNKNOWN through `Jjochstubn → Rabbit Hole → Kite Scene → Can I live → Invisible Warriors Of Light`. The candidate could make the floorless descent resolve into a held pulse before restrained song-form re-entry, or act as a decorative cushion that delays the same re-entry.
+- Long-form effect: UNKNOWN. At 6:06.206, whether the documented pulse remains structurally present or diffuses before the exit is decision-critical: those interpretations would make *Can I live* either a purposeful embodied return or an unnecessarily postponed one.
+- Strongest alternative: provisionally add it because the exact material contrast already gives the move a clear purpose. The purpose is legible, but the missing individual development and endpoint determine opposite readings of the same six-minute insertion; this is more than absent mix-detail evidence.
+- Verdict: PARKED at the tested boundary. Reopen only for materially richer exact-track development or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. Retained as genuinely interesting.
+
+### Exact alternate without musical verdict
+
+- Deep Narratives — *Ghetto Gong* — `spotify:track:4hiJe0xOMn132fpYiFsHGT` — exact 328,500-ms identity, album *Mzansi Bass*, Spotify release date 2026-06-12. It was not selected and receives no musical verdict or utility row.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row and returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Type-303 — *Module 303*
+- Ezekiel Honig — *A Brief Visual Pattern*
+- Ghost Dubs — *Almost a Structure*
+- DJ Plead — *Right-on Time*
+- ADILR — *Whispers From Pleiades*
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2017" but Spotify returned "2017-07-14"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2025-06-17"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026" but Spotify returned "2025-06-06"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-18" but Spotify returned "2026-06-12"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; Run 276 failed before resolution and was preserved without musical inference; Run 277's immutable request and matching terminal snapshot are internally valid. All three selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect. The two failures remain proportional and placement-specific. *Kite Scene*'s PARK identifies a concrete decision-critical trajectory question rather than treating missing handoff audio as a veto. The alternate and unresolved identities receive no verdict. All three genuinely interesting evaluated exact identities enter the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact; no other canonical playlist is mutated.
+
+### Persistence, publication and map state
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 532 tracks by retaining the three evaluated exact identities. Utility publication verification is pending from the editorial commit.
+
+### Run analysis
+
+Run 277: `~117 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`. Inspection-to-lead conversion was 7.7%, resolution yield 44.4% and selected-candidate-to-ADD conversion 0/3. Across completed discovery Runs 87–277, excluding repairs and failed requests: 1,327 leads / ~9,629 inspections / 51 ADDs / 384 eligible evaluated candidates. Three of the last ten comparable runs contain an ADD. The musical no-ADD streak is five completed runs after Run 270, with eleven exact interesting tracks retained since that ADD. The selected candidates carried differentiated exact-track evidence and used fresh boundaries; mixed REJECT/PARK outcomes show that the evaluator distinguished proportional cost from a genuinely decision-critical trajectory gap. The no-ADD streak plus growing utility inventory is a maturation signal, but resolver loss remains material and neither Scout over-filtering, repetitive placement search nor a recurring shared-release PARK pattern is evidenced. No actionable REPAIR emerges. The existing resolver guard correctly stopped Run 276 before lookup; the operator transcription error is documented and corrected without weakening immutability. Audio analysis and live mixing were not tested.
+
 ## Repair Run 275 — 2026-09-15T15:08:56Z-repair-275
 
 Run 274's post-resolution audit found Maxime Denuc — *Hallucinogen* already retained at row 379 of the repository-wide Discovery Pool from STRANGE GAIT Run 182, although the EXPLORE resolver selected the exact URI again. The immutable Run 274 request and terminal snapshot remain preserved, but the selected identity correctly received no new verdict or duplicate utility row. The miss demonstrated that global utility state was absent from both persistent exclusions and resolver-source immutability checks.

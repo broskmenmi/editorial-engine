@@ -3,6 +3,16 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 277 — exact inspiration retained
+
+- Al Chem — *Baudelaire* — `spotify:track:2ZFtn3bX1Qv09VOJaBwJ4n` — exact 8:04.626 identity; placement-specific reject at `Same Way → candidate → U Belong 2 Me`, retained for its attributed expansive, time-stretching electro-dub state.
+- Zvrra — *Illusory* — `spotify:track:69pBDgIvuyntXQJzFKQQ0g` — exact 6:22.549 identity; placement-specific reject at `Serpentine Tale → candidate → Too Much Time`, retained for its artist-described broken pulse, acid loop and cosmic backdrop.
+- Purelink — *Kite Scene* — `spotify:track:3zJwlKvwTTLvJyBtSW0xkR` — exact 6:06.206 identity; PARKED at `Rabbit Hole → candidate → Can I live` because its pulse-bearing suspension is documented but individual development and endpoint remain decision-critical.
+- Exact alternate without verdict: Deep Narratives — *Ghetto Gong*.
+- Research leads preserved without verdict: Type-303 — *Module 303*; Ezekiel Honig — *A Brief Visual Pattern*; Ghost Dubs — *Almost a Structure*; DJ Plead — *Right-on Time*; ADILR — *Whispers From Pleiades*.
+- Source direction: current Boomkat, artist/label-hosted Bandcamp, current preorders and adjacent catalogue paths. Set direction retained: distinguish a material state that thickens a turn from a trajectory whose exit changes the successor.
+- Failed Run 276 stopped before Spotify lookup because of invalid boundary-URI transcription; it supplies no musical evidence. Run 277 used corrected adjacent current-ledger pairs. Audio analysis and live mixing were not tested.
+
 ## Run 274 — exact inspiration retained
 
 - dgoHn — *Waiting For* — `spotify:track:71Sm1Ap2v2OvXpsUSNSs70` — exact 4:38.093 identity; PARKED at `It Never Made Sense → candidate → Nukumori` because the current evidence does not distinguish individual development or endpoint.
