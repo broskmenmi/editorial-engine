@@ -542,6 +542,8 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 536 | James Bong | Overthinking | spotify:track:7nnPcVzgcL7nGiMEGdgR50 | STRANGE GAIT Run 279 | PARKED / interesting | 2026-09-15 |
 | 537 | Matthias Springer | Deep Blue Latency | spotify:track:2ujg1xfueCDA0d7pytyHms | STRANGE GAIT Run 279 | PARKED / interesting | 2026-09-15 |
 
+| 538 | King Doudou | LSDLNG | spotify:track:36S0ca8n3dV9wh8yvNjEu8 | STRANGE GAIT Run 280 | Placement-specific REJECT / interesting | 2026-09-15 |
+
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 
 Historical backfill policy: GROOVE OVER NOISE imports approved discovery ADDs, still-PARKED exact tracks, and explicit current-journey-only rejects that remained artistically plausible or interesting. Listener-rejected tracks, unresolved identities, ordinary hard rejects, and unresolved listener-review tracks are excluded.
