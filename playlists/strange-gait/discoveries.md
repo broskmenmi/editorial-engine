@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discoveries
 
+## Repair Run 264 — 2026-09-15T04:48:44Z-repair-264
+
+Pre-audit found two objective state defects left by the already approved Run 263 addition of Taoyema — *Dark Necessity* (`spotify:track:2kSeffr4MXOwACEmwFPhGK`). The canonical table contained 62 exact identities, but the current-state headline still declared 61. The same new identity was absent from `journey-annotations.json`, so the generated map classified it as unmapped and emitted `Missing annotation for Taoyema — Dark Necessity; fallback role was used.`
+
+The repair restores the missing exact annotation as chapter `tilt`, story band `lock`, provisional status, with labels `muted-build-to-lock-formation`, `fixed-state-before-rhythmic-destabilization` and `explore-run-263-add`. It also corrects the declared canonical count to 62 and restores Run 263's current-state summary. These values express the approved construction and downstream role already recorded in Run 263; they do not infer energy, density, space, hypnosis, emotional effect, phrasing or mixability.
+
+### Auditor decision
+
+APPROVED. The defects are objective and directly actionable under repository rules requiring canonical ledger and journey-annotation changes to remain in one coherent approved state. No musical verdict was reopened. Canonical membership, order, Spotify identities, BPM fields, listener protections, rejected/revisit state, global utility membership and publication configuration remain unchanged. No Scout request or resolver snapshot was required because this repair resolves no new identity and evaluates no candidate.
+
+Repair Run 264: `pre-audit → 2 objective state defects → direct repair → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,251 leads / ~8,670 inspections / 49 ADDs / 362 selected candidates through Run 263. Audio analysis and live mixing were not tested.
+
 ## Run 263 — 2026-09-15T03:48:23Z-explore-263
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `4a80a1a959175998fbeadd21a70169c224a404a4`, requestFingerprint `a1b9238f21e8ea92b72109751735892d07f84c785bd4ad76fc478bd5cdf1e961`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases and persistent-history exclusion passed.

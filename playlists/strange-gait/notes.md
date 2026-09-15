@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Repair Run 264 — restore Run 263 annotation and canonical count
+
+Pre-audit found that Run 263's approved canonical addition was present in the 62-row ledger but absent from `journey-annotations.json`, leaving Taoyema — *Dark Necessity* unmapped in the generated journey map. The ledger's current-state headline also still declared 61 canonical tracks.
+
+The repair adds the exact identity's approved `tilt` chapter, `lock` story band, provisional status and role labels; corrects the headline to 62; and restores Run 263's current-state summary. This is representational state repair only: the canonical order, protected trio, all musical verdicts, global Discovery Pool and publication flag remain unchanged. No Scout request, identity resolution, audio analysis or live-mixing test was required.
+
+Repair Run 264: `pre-audit → 2 objective state defects → direct repair → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,251 leads / ~8,670 inspections / 49 ADDs / 362 selected candidates through Run 263.
+
 ## Run 263 — EXPLORE — a formed exit can justify a long process
 
 Pre-audit passed and selected EXPLORE. Approximately 101 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: two exact selected identities, seven unresolved identities, no warnings, alternates or technical failure.
