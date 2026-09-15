@@ -375,6 +375,7 @@ Run 273: `~121 inspected → 9 leads → 2 exact selected + 7 unresolved/persist
 Matching resolver snapshot: schemaVersion 2, sourceCommit `12acb8e5c8c886f53a737d4bdcb814a79cd7ef24`, requestFingerprint `cb6c26d9d8f813380579d24a774d45ff9541d2253de1e28502dbd69981d5e90b`, PARTIAL. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. No duplicates, substitutions, relinkings or terminal technical resolver failures. The first workflow attempt encountered a transient Spotify HTTP 502 before producing a snapshot; the same immutable request was retried successfully without mutation. The nine leads came from nine releases, passed persistent-history exclusion and avoided boundaries evaluated in the previous five completed discovery runs.
 
 ### Evaluated exact candidates
+
 #### Kotai — Sucker DJ — `spotify:track:4ViieujwVyqpT5tL3s0X0B` — PLACEMENT-SPECIFIC REJECT
 
 Source: https://www.juno.co.uk/products/kotai-sucker-dj-vinyl/1168422-01/
@@ -474,6 +475,7 @@ Spotify: https://open.spotify.com/track/09rBCjtoX4ELPPtU37f5kZ
 Exact resolver duration: 327,642 ms (5:27.642). BPM unavailable. Spotify returned album *侍栽培五* and release date 2026-08-14; the request's *Samurai Saibai 5* / 2026-08-06 variance is preserved below.
 
 Juno individually describes the track as an elastic, slow-motion dub bump within a release positioned between drum-and-bass and techno. This supports an adjacent-world rhythmic proposition; it does not measure bodily effect, perceived pulse, energy, density, space, hypnosis, emotion, development, endpoint, phrase structure or mixability.
+
 - Volume fit: PASS. The exact halftime/dub proposition fits a volume interested in rhythmic and structural freedom without requiring genre purity, weirdness or one sonic room.
 - Immediate transition: UNKNOWN at `Tides Alternate → Norma → Serpentine Tale`; neither handoff was heard or metrically documented. The outgoing 130 BPM is evidence only, not a proxy for flow.
 - Surrounding run: FAIL proportionally through `Hypnic Jerks → Tides Alternate → Norma → Serpentine Tale → Too Much Time`. *Tides Alternate* already handles opposed-speed balance and *Serpentine Tale* supplies the following low-slung consequence. The candidate adds another complete slow-motion stage without evidence that *Serpentine Tale* receives different work.
@@ -573,6 +575,7 @@ Juno individually describes surging sirens and constantly looping, harassing dru
 ### Unresolved identities
 
 Each receives no musical verdict or utility row:
+
 - Kenji Hina — *Witness*: `no exact Spotify title/artist search match in market SE`
 - Nathan Pinder — *Call Me*: `no exact Spotify title/artist search match in market SE`
 - DJ Teeth — *Gemini-Scorpio Veil*: `no exact Spotify title/artist search match in market SE`
@@ -722,6 +725,7 @@ Auditor decision: APPROVED. The repair is narrowly representational, restores th
 Repair Run 267: `pre-audit → 1 objective UTF-8/history defect → exact approved-source restoration → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,269 leads / ~8,864 inspections / 50 ADDs / 368 selected candidates through Run 266. Audio analysis and live mixing were not tested.
 
 ## Run 266 — 2026-09-15T06:55:50Z-explore-266
+
 Matching resolver snapshot: schemaVersion 2, sourceCommit `2a62c8d417d1c64964745cc87c8288604399a99a`, requestFingerprint `1b1aedd6384eac019881458f0822ce11a0841d9c73f48f454c060ed9839cdfcc`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate; five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases, persistent-history exclusion passed, and Repair Run 261's exact-track evidence guard was respected.
 
 ### Evaluated exact candidates
@@ -771,6 +775,7 @@ All three evaluated exact identities remain genuinely interesting and are retain
 - Sans I — *Science*: `no exact Spotify title/artist search match in market SE`
 
 ### Resolver warnings
+
 - `Exact title/artist matched with release metadata variance: album requested "Biz Limited Series #3" but Spotify returned "Monozukuri"; release date requested "2026-06-29" but Spotify returned "2024-06-10"`
 - `Exact title/artist matched with release metadata variance: album requested "Muuntaja" but Spotify returned "Muuntaja / Murtaja"; release date requested "2026-07-27" but Spotify returned "1994-05-05"`
 - `Exact title/artist matched with release metadata variance: release date requested "2026-07-06" but Spotify returned "2026-07-09"`
@@ -870,6 +875,7 @@ The repair restores the missing exact annotation as chapter `tilt`, story band `
 ### Auditor decision
 
 APPROVED. The defects are objective and directly actionable under repository rules requiring canonical ledger and journey-annotation changes to remain in one coherent approved state. No musical verdict was reopened. Canonical membership, order, Spotify identities, BPM fields, listener protections, rejected/revisit state, global utility membership and publication configuration remain unchanged. No Scout request or resolver snapshot was required because this repair resolves no new identity and evaluates no candidate.
+
 Repair Run 264: `pre-audit → 2 objective state defects → direct repair → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,251 leads / ~8,670 inspections / 49 ADDs / 362 selected candidates through Run 263. Audio analysis and live mixing were not tested.
 
 ## Run 263 — 2026-09-15T03:48:23Z-explore-263
@@ -969,6 +975,7 @@ The exact-track source identifies a breaksy electro workout with Detroit swing m
 - Verdict: REJECT only at the two tested placements. Retained as genuinely interesting and added to the doctrine-free global utility ledger. This is not a global rejection. The protected `Transparency → When We Froze → Stardancer` order remains untouched.
 
 #### KEIN NAME — Respiratory — `spotify:track:30udh9P4t0t620GnM9jtOo` — PARKED
+
 Source: https://www.waveformtransmitter.com/p/kein-name-respiratory
 
 Spotify: https://open.spotify.com/track/30udh9P4t0t620GnM9jtOo
@@ -1068,6 +1075,7 @@ Current listings establish the exact identity and duration. The source frames th
 Source: https://boomkat.com/products/estreez
 
 Spotify: https://open.spotify.com/track/3r89KdbEVzXA3pb60Zr4Ww
+
 Exact resolver duration: 378,763 ms (6:18.763). BPM unavailable. Spotify returned album *Estreez* and release date 2026-09-11.
 
 Current listings establish the exact identity and duration. Boomkat supplies dub-techno release framing, not *Saint Clair*'s individual construction, development or endpoint.
@@ -1267,6 +1275,7 @@ Planet Rhythm supplies the exact catalogue identity and a broad statement about 
 - Patient — *Rhythm Dancer*: `no exact Spotify title/artist search match in market SE`
 - Ø — *Röntgen*: `no exact Spotify title/artist search match in market SE`
 - Exium — *Raw Visions*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (6QkaqkVMcQjf3hOKSrV7aM, 18ig66BFGtCne2kvn9cbLc)`
+
 No musical zero result is inferred from any unresolved outcome. This is the first completed multi-PARK result in the recent five-run window; the recurrence guard does not trigger. Audio analysis and live mixing were not tested.
 
 ## Run 251 — 2026-09-14T18:53:32Z-explore-251
@@ -1516,6 +1525,7 @@ Resolver warning preserved exactly:
 Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
 Spotify: https://open.spotify.com/track/0FFIqD4nHctz7eI1fmBKgA  
 Exact resolver duration: 373,680 ms (6:13.680). BPM unavailable.
+
 Juno lists the closer as *Ingress* and individually describes it as hurrying along with an off-balance rhythm while haunting pads peel off the groove; the prose renders the title once as *Ingres*. The exact Spotify identity resolves *Ingress* to Brian Sanhaji, FORMS and Monoloc.
 
 - Volume fit: PASS. The off-balance rhythm and separating-pad relation fit the volume's structural-freedom lens.
@@ -1565,6 +1575,7 @@ The alternate was not evaluated, retained as an exact interesting track or added
 No unresolved identity entered either ledger. These outcomes are not musical zeroes. No actionable REPAIR emerges.
 
 **Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 244 — 2026-09-14T11:56:00Z-explore-244
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `159362338b46b7ca48c978a3c8bf563a95118490`, PARTIAL. Requested 9; resolved 5; selected 3; two exact unselected alternates and four unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. All five resolver warnings are preserved below.
@@ -1614,6 +1625,7 @@ Resolver warning preserved exactly:
 Source: https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart  
 Spotify: https://open.spotify.com/track/5RBcoiaLr5H7QIL34UIPvl  
 Exact resolver duration: 298,976 ms (4:58.976). BPM unavailable.
+
 Juno individually documents syncopation, softened fuzzy edges and pads after the collaborative release separates into solo statements. Those materials establish interest but do not make another intermediate re-forming stage necessary.
 
 - Volume fit: PASS. The exact construction fits the selection lens.
@@ -1863,6 +1875,7 @@ Matching resolver snapshot: schemaVersion 2, sourceCommit `f6da3dd2a48a14da4ddd7
 These eight outcomes receive no musical verdict and no utility-ledger row. Audio analysis and live mixing were not tested.
 
 ## Run 236 — 2026-09-14T05:49:41Z-explore-236
+
 Matching resolver snapshot: schemaVersion 2, sourceCommit `1a775dc29cc253c98cee4ab1fd80bd94399bd78e`, PARTIAL. Requested 9; resolved 2; selected 2; no exact alternates, warnings, substitutions, relinkings, duplicates or technical failures.
 
 ### Evaluated exact candidates

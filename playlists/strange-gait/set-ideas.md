@@ -15,6 +15,11 @@
 
 **Boundary:** This is a placement lesson and research direction, not a proven live sequence or a claim about phrase fit, mixability, measured BPM, perceived pulse, energy, density, space, hypnosis or emotional effect. The protected handoffs are outside the idea.
 
+Warning: truncated output (original token count: 48004)
+Total output lines: 2370
+
+# STRANGE GAIT — Set Ideas
+
 ## Current additions — Run 279
 
 ### Mood, taxonomy and downstream consequence
@@ -49,6 +54,7 @@
 **Boundary:** No audio audition, phrase fit, mixability, perceived pulse, energy, density, space, hypnosis or emotional effect is established.
 
 ## Current additions — Run 277
+
 ### Material state versus consequential trajectory
 
 **Direction:** Test electro-dub expansion, broken-acid hinges and pulse-bearing suspension by how the documented state develops into its successor, not by material vividness alone.
@@ -88,6 +94,7 @@
 **Direction:** Test exact pressure and tunnel states by whether their exit changes the successor, keeping an individually vivid description separate from evidence of trajectory.
 
 **Ingredients:**
+
 - Demdike Stare — *Fulledge (Empty-40 Mix)* → Nørbak — *Capa* → Lurka — *Point Noise Behaviours* → Angine de Poitrine — *Sarniezz* → Sam Prekop — *Never Met* — rejected placement hypothesis; exact handoffs and candidate endpoint unknown
 - Rene Wise — *Cave* → Decoder — *Abundance* → Bliss Inc — *In Blur* → Omar S — *Tecky Alexander* → Yu Su — *Foundry* — parked placement hypothesis; candidate development, endpoint and exact handoffs unknown
 - ANGAMA, Nick Fasoli, Calagad 13, AZARYC, Jay Tripwire and Howie B / Hiraki Sawa — unresolved exact-title research directions
@@ -127,6 +134,7 @@
 **Why interesting:** *Norma* supplies a documented slow-motion dub proposition and can make a character turn conspicuous. The canonical test remains downstream consequence: at this boundary, *Serpentine Tale* retains the same low-slung follow-through rather than acquiring new work.
 
 **Boundary:** These are editorial directions and a placement counterexample, not a proven live sequence or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse, development, endpoint and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 270
 
 ### Formed relationship before self-stripping
@@ -406,6 +414,7 @@
 - Forest On Stasys — *Reptile Genetics* — exact placement-specific counterexample between *Worn Down* and *Atlantis*
 - Gëinst — *Ecosens* — exact but unevaluated alternate
 - Phunkey Rhythm Doctor, Format, Freaky Chakra, Opal M and Aubrey — unresolved current/catalogue research directions
+
 **Why interesting:** *Ingress* does not need to smooth the crisis-to-plateau move. Its documented off-balance motion and separating pads establish a bounded restart, so *Crawl* can perform stabilization. The rejected candidates add complete states while leaving their successors' work unchanged.
 
 **Boundary:** This is an editorial set direction, not a proven live sequence, phrase-fit claim, emotional-safety claim or mixing edge. Audio analysis and live mixing remain untested.
@@ -565,6 +574,7 @@
 - Lenson — *Plexus* — exact PARKED vocabulary whose individual direction and exit remain unknown
 
 **Why interesting:** The comparison keeps different production worlds available without assuming that a strong description proves where a track goes or what the successor must do differently.
+
 **Boundary:** This is an editorial set direction, not a proven sequence, phrase-fit claim, emotional-safety claim or live-mixing edge.
 
 ## Current additions — Run 231
@@ -604,6 +614,7 @@
 **Boundary:** These are placement lessons and set directions, not proven sequences, phrase-fit claims or live-mixing edges. No BPM, perceived pulse, energy, density, space, hypnosis, emotional effect or mixability is inferred. The repaired opening is outside this idea.
 
 ## Current additions — Run 227
+
 ### A complete side-world must alter the return
 
 **Direction:** Test whether a vivid intermediate production world changes the successor's job or merely inserts another destination. When the endpoint remains undocumented, keep the question PARKED rather than converting a strong track label into imagined direction.
@@ -643,6 +654,7 @@
 ### A rhythmic vocabulary still needs a knowable exit
 
 **Direction:** Distinguish an interesting internal vocabulary from a consequential intermediate stage. Sparse steps, evolving fractals and scrambled bell sequences can all justify attention; canonical placement depends on what each construction changes downstream.
+
 **Ingredients:**
 
 - brenner — *Thick to Handle* → SHERELLE, Cameo Blush — *LOVE YOUR ENEMIES* — existing deformation-to-cross-rhythmic-conflict relation
@@ -802,6 +814,7 @@
 **Why interesting:** Strong source language can identify a serious programming proposition without proving its downstream consequence. The gap itself yields precise questions about re-formation, opening proportion and re-grounding.
 
 **Boundary:** This is a set direction, not a proven sequence or live-mixing edge. All three candidates are PARKED; their individual direction, endpoint, handoffs, BPM, phrase fit, perceived pulse, energy, density, key and mixability remain untested.
+
 ## Current additions — Run 210
 
 ### Platform absence preserves the musical question
@@ -1001,6 +1014,7 @@
 ### Let short form earn consequence
 
 **Direction:** Explore concise exact tracks as possible intermediate turns at established boundaries, while refusing to treat short duration or a shared jam-archive description as proof of connection.
+
 **Ingredients:**
 
 - Rezzett — *Dread* and *Third Shoe* — exact PARKED identities at the *Raataja → Crawl* boundary
@@ -1080,6 +1094,7 @@
 **Why interesting:** A playlist built from structural turns can benefit from a stretch that refuses to turn. The point is not smoothness or tempo continuity; it is to make the next rupture act on a clearly sustained condition.
 
 **Unknown / risk:** *Crawl*'s 8:17 duration is a material long-form cost. The review-attributed 170 BPM is not resolver-measured audio. Perceived pulse, energy, density, phrasing, mixability and all new handoffs remain unknown. These are set directions, not proven sequences or live-mixing edges.
+
 ## Run 124 — Passage can create arrival
 
 **Direction:** Explore liminal tracks whose endpoint makes a following afterword, re-entry or anchor feel like arrival, while distinguishing them from self-contained recoveries and extra development stages.
@@ -1159,6 +1174,7 @@
 **Why interesting:** An internal transformation can be musically complete while remaining redundant in a particular long-form sequence. The useful test is whether its exit makes the next anchor, recovery or formation newly necessary.
 
 **Unknown / risk:** BPM, exact handoffs, phrase fit, perceived pulse, energy, density, key and live mixability were not established. The two DJ POPS identities have release-level rather than individual sonic evidence. No listed pairing is asserted to be a proven sequence or live edge.
+
 ## Run 119 — Mediation is useful only when it changes the next task
 
 **Direction:** Explore bridges and ruptures that do more than describe an existing relation: the inserted track should alter what the following formation, transit or recovery must accomplish.
@@ -1198,6 +1214,7 @@
 **Direction:** Explore collapse-and-return forms where the ending of one track gives the following rhythm a specific re-formation task, while resisting consecutive derailments that merely restate instability.
 
 **Ingredients:**
+
 - Shoal — *Roxellana* — canonical provisional directed surge.
 - aya — *backsliding* — exact Run 117 canonical ADD; a sub-heavy rhythm dissolves into backmasked icy dissonance.
 - CHANCEKNOT — *Fragments* — canonical provisional driving re-entry after the new dissolution.
@@ -1317,6 +1334,7 @@
 
 **Unknown / risk:** BPM, phrase structure, perceived pulse, energy, density, exact handoffs and live mixability remain UNKNOWN. The three rejects are placement-specific; unresolved identities have no verdict.
 
+
 ## Current additions — Run 110
 
 ### Conflict can prepare re-grounding
@@ -1356,6 +1374,7 @@
 ## Current additions — Run 108
 
 ### Transformation is not transition
+
 **Direction:** Explore music whose internal materials clearly change state while keeping separate whether that transformation improves the sequence around it.
 
 **Ingredients:**
@@ -1435,6 +1454,7 @@
 - Basic Rhythm — *Weed Killer* — exact placement-specific reject; documented distorted-kick and wobble-breakdown mutation.
 - DJ Plead — *Shush* — unresolved exact-identity research into a groove structured through silence.
 - STRANGE GAIT's `Truth in Noise → Transparency → When We Froze` and `Ikoyi → Amor → Truth in Noise` remain canonical reference structures, not claimed mixes with these ingredients.
+
 **Why interesting:** Restoration inside a track can be powerful because it makes earlier material newly legible. In a long-form sequence, another restoration is useful only when it changes the listener's understanding of the following passage; otherwise it can repeat a function already supplied by consolidation or reassembly.
 
 **Unknown/risk:** This is not a proven DJ mix. BPM, phrase structure, perceived pulse, density, exact felt states and every pairwise handoff remain UNKNOWN. Shush is unresolved, and the three exact rejects are scoped only to their tested canonical positions.
@@ -1554,6 +1574,7 @@ This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledg
 **Unknown/risk:** No sequence or live mix is proven. The Cloud Canyons identities are unresolved, while BPM, pulse, phrasing, density and the actual felt transitions remain UNKNOWN.
 
 ## Current additions — Run 97
+
 ### Weight can change without intensity rising
 
 **Direction:** Explore techno and electro in which the listener's posture changes through rhythmic grammar, pitch motion or spectral brightness rather than through a simple escalation. Lighter electro can follow harder techno without becoming inconsequential; celestial highs can make heavy breaks feel less enclosing; a steady frame can feel loose when pitch and reverb destabilize its surfaces.
@@ -1593,6 +1614,7 @@ This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledg
 ### Rhythmic granularity is not the same as direction
 
 **Direction:** Explore how chopped breaks, jazz-layered drums and dense micro-events can change the amount of rhythmic information without automatically moving a set into a new long-form state.
+
 **Ingredients:**
 
 - Jason Hogans — For My Solids — exact Run 95 placement-specific reject; documented chopped-up breaks and jazz layering
@@ -1672,6 +1694,7 @@ This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledg
 - Inigo Kennedy — The Witching Hour — canonical controlled continuation
 - RHR — PULSAÇÃO — exact PARKED current contrast with finger-drumming/live-remixing and acid-whiplash evidence
 - Yazzus — Human Error Processor — exact placement-specific reject whose electro-techno fusion remains interesting outside the tested slots
+
 **Why interesting:** A boundary can change character sharply yet still feel intentional when the candidate's own form constructs the route into the existing journey.
 
 **Unknown / risk:** No pairwise phrase fit, perceived-pulse relation, BPM relation, energy, density, key, mixability or live edge is established. Stadium Drive's placement is provisional; the other discoveries are not asserted to mix with it or the canonical opening.
@@ -1711,6 +1734,7 @@ This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledg
 **Why interesting:** The repaired funnel should value quiet structural usefulness as well as conspicuous deformation; a small change in rhythmic articulation may carry a larger move.
 
 **Unknown / risk:** No pairwise phrase fit, perceived-pulse relation, energy, density, key, mixability or live edge has been established. Abundance is provisional; Basma and Mini Mood are not asserted to mix with the canonical ingredients.
+
 ## Current additions — Run 88
 
 ### Internal transformation before consolidation
@@ -1750,6 +1774,7 @@ This is a **non-canonical DJ/set inspiration layer**. Nothing here changes `ledg
 ### Crooked accumulation between grounding and drive
 
 **Direction:** Explore tracks whose structure gradually accumulates irregular or skeletal rhythmic elements after a more grounded passage and before a clearer driving passage.
+
 **Ingredients:**
 
 - Peverelist — Pulse I — exact Run 86 canonical ADD; exact review documents crooked broken-techno percussion and gradual skeletal accumulation

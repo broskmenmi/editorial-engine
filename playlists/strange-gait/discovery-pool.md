@@ -7,6 +7,11 @@
 - Source direction: current Juno and Boomkat pages, official artist/label catalogues and adjacent house, UK-garage, electro and reggaeton windows checked 2026-09-15. Set direction retained: a vivid cadence earns canonical space only when its exit changes the successor's work.
 - Audio analysis and live mixing were not tested.
 
+Warning: truncated output (original token count: 86102)
+Total output lines: 2417
+
+# STRANGE GAIT — Discovery Pool
+
 ## Run 279 — exact inspiration retained
 
 - Hyden — *Neon Pale* — `spotify:track:0ucUOXmKwDCscDWbVIgyVb` — exact 4:41.564 identity; placement-specific reject at `Tender Is The Night → candidate → Night D3 Died`, retained for its individually documented synthetic city-night melancholy.
@@ -81,6 +86,7 @@
 | UNRESOLVED RESEARCH | ANGAMA; DJ Sneak; A Morgan; Michelle; Barnt; LNS; DJ Natas | *Burning*; *La Clave Boricua*; *Cloudfall*; *Is It Me?*; *Geffen (2026 Remaster)*; *Blue Acid*; *F The Pain* | Exact sources preserved in `scout-request.json` | Seven Spotify-SE misses. No musical verdict or utility addition. |
 | CURRENT / ADJACENT WATCH | Dotei / ANGAMA; Kalahari Oyster Cult / Michelle; Samurai Music / Last Life; LNS | Current developmental techno, electro, halftime and broken-beat paths | Sources preserved in `scout-request.json` | Continue only where exact identity resolves; the descriptions remain research evidence, not canonical verdicts. |
 | CATALOGUE WATCH | Respect Craft / DJ Sneak; Side B / A Morgan; Magazine / Barnt; UFO Series / DJ Natas | 2026 recirculation, remaster and back-in-stock paths | Sources preserved in `scout-request.json` | Useful exact-track catalogue paths without treating artist, label, release date or stylistic adjacency as admission evidence. |
+
 ### Run 271 boundaries
 
 - *Norma* passes the volume lens but is rejected only at `Tides Alternate → candidate → Serpentine Tale`; a deliberate halftime turn still needs a changed successor task.
@@ -120,6 +126,7 @@
 | CATALOGUE WATCH | Dekmantel / Dimi Angelis; Steve Rachmad; Simo Cell with Abdullah Miniawy | *Time Capsule*; *3 6 9*; *Dying Is The Internet* | https://www.juno.co.uk/labels/Dekmantel%2BHolland/ | Exact-title catalogue paths remain useful without treating artist familiarity, label context or unresolved identities as musical verdicts. |
 
 ### Run 268 boundaries
+
 - *Hydrophobia* and *Firgot* pass the volume lens but are rejected only at their documented placements; both remain genuinely interesting.
 - Exact handoffs remain unknown. The rejections instead rest on proportional five-track and long-form cost: neither successor receives different work.
 - Both evaluated exact identities enter the doctrine-free global utility ledger; four unresolved identities do not.
@@ -159,6 +166,7 @@
 - No actionable REPAIR emerges.
 
 ## Run 263 harvest — 2026-09-15
+
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
 |---|---|---|---|---|
 | EXACT TRACK / CANONICAL ADD | Taoyema | Dark Necessity | `spotify:track:2kSeffr4MXOwACEmwFPhGK` · https://open.spotify.com/track/2kSeffr4MXOwACEmwFPhGK · https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/ | Exact 9:12.000 muted-build-to-lock process; added between *Fragments* and *Drummz*. Its documented late fixed state gives the successor a specific object to destabilize. Added globally. |
@@ -438,6 +446,7 @@
 - Parked: *Maus* remains unresolved at both `Moonwake → candidate → Raataja` and `Sarniezz → candidate → Never Met`.
 - Global utility: both evaluated exact identities are genuinely interesting and retained doctrine-free.
 - Seven unresolved identities remain research leads only.
+
 ## Run 240 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
@@ -637,6 +646,7 @@
 
 
 ## Run 222 harvest — 2026-09-13
+
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
 |---|---|---|---|---|
 | EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Ghost Dubs | Low Times | `spotify:track:501l8DGrbXhdoTZmuQ5RVk` · https://open.spotify.com/track/501l8DGrbXhdoTZmuQ5RVk · https://boomkat.com/products/oblique-5169cab1-f744-4a88-b474-d4e93e427748 | Exact 5:25.194 identity; rejected only at *Mildew Swoosh → Fragments*. Its rolling dub-pressure construction remains genuinely interesting and entered the global utility ledger. Album/date warning preserved. |
@@ -996,6 +1006,7 @@ This file is a **target-local inspiration layer, not a Spotify publication input
 | RESEARCH LEAD | Box 5ive | Silicate | https://ra.co/reviews/25100 | Resolver error `no exact Spotify title/artist search match in market SE`; no musical verdict. |
 | RELEASE WATCH | Steve Rachmad | Light And Time | https://sterac.bandcamp.com/album/light-and-time | Current 2026 album remains useful for hand-played, orchestral and abstract-rhythm research. Alternate Encrypted Instructions was resolved but not selected or evaluated. |
 | RELEASE WATCH | Launaea | Adai | https://semanticarecords.bandcamp.com/album/adai-semantica-206 | Current Semantica EP remains a label/release watch. The title track resolved as an alternate but was not selected or evaluated. |
+
 ### Placement and inspiration boundaries
 
 - Invisible Warriors Of Light's canonical afterword is provisional; no seamless handoff, exact felt state or live-mixing edge is asserted.
@@ -1035,6 +1046,7 @@ This file is a **target-local inspiration layer, not a Spotify publication input
 | RESEARCH LEAD | Spekki Webu | Floating In Acheron | https://ra.co/reviews/36356 | Resolver error `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1GqoCaV3J5ItsbP3rtN3ey, 1PBsmqEvdGNwqmUTeHtt7v)`; no musical verdict. |
 
 ### Placement and inspiration boundaries
+
 - Ashes In the Sand is not globally rejected; only the two Run 92 placements fail.
 - The eight unresolved leads receive no ADD, REJECT or PARKED verdict and do not enter the global utility ledger.
 - Current Spekki Webu identities remain ambiguous because the supplied release metadata did not choose between exact Spotify matches.
@@ -1114,6 +1126,7 @@ This file is a **target-local inspiration layer, not a Spotify publication input
 - Nuel — Ballet is unresolved and does not enter the global utility ledger.
 - The four resolved alternates were not selected or evaluated and are not retained here as editorial decisions.
 - Release watches are research directions only and are not publication inputs.
+
 ## Run 87 harvest — 2026-09-08
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |
