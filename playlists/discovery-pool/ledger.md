@@ -506,6 +506,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 500 | Jon Head | Broken Bells | spotify:track:5yV9GpxjIaRmtzWlj6X3ml | STRANGE GAIT Run 253 | PARKED / interesting | 2026-09-14 |
 | 501 | Truncate | Where I Wanna Be | spotify:track:2hUDsg1TEPrT4Cq3pISTWg | STRANGE GAIT Run 256 | Canonical ADD / retained | 2026-09-14 |
 | 502 | DJ Carpenter | Open The Bag | spotify:track:40s3OtHMP4nUpxwye1VGKs | STRANGE GAIT Run 259 | Placement-specific REJECT / interesting | 2026-09-15 |
+| 503 | Hiss is Bliss | Estreez | spotify:track:7H8gPX9JyAYwvGiYopsWCK | STRANGE GAIT Run 260 | PARKED / interesting | 2026-09-15 |
+| 504 | Hiss is Bliss | Epte part1 | spotify:track:3snOOvfXSVCv9lfJLRKcBV | STRANGE GAIT Run 260 | PARKED / interesting | 2026-09-15 |
+| 505 | Hiss is Bliss | Saint Clair | spotify:track:3r89KdbEVzXA3pb60Zr4Ww | STRANGE GAIT Run 260 | PARKED / interesting | 2026-09-15 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

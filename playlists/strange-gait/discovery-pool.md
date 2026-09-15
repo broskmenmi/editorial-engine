@@ -3,6 +3,24 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 260 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PARKED | Hiss is Bliss | Estreez | `spotify:track:7H8gPX9JyAYwvGiYopsWCK` · https://open.spotify.com/track/7H8gPX9JyAYwvGiYopsWCK · https://boomkat.com/products/estreez | Exact 5:43.097 title track remains interesting. Shared dub-techno release framing does not establish its individual direction, endpoint or consequence between *Trompe L'oeil* and *FELT*. Added globally. |
+| EXACT TRACK / PARKED | Hiss is Bliss | Epte part1 | `spotify:track:3snOOvfXSVCv9lfJLRKcBV` · https://open.spotify.com/track/3snOOvfXSVCv9lfJLRKcBV · https://boomkat.com/products/estreez | Exact 5:22.292 track remains interesting. Shared release framing cannot distinguish formation, mutation or withholding before *Ingress*. Added globally. |
+| EXACT TRACK / PARKED | Hiss is Bliss | Saint Clair | `spotify:track:3r89KdbEVzXA3pb60Zr4Ww` · https://open.spotify.com/track/3r89KdbEVzXA3pb60Zr4Ww · https://boomkat.com/products/estreez | Exact 6:18.763 track remains interesting. Shared release framing does not show whether it redirects or prolongs the restart between *Ingress* and *Crawl*. Added globally. |
+| UNRESOLVED RESEARCH | Colomboi; Picture; Hiss Is Bliss, Ras Lys | *Need*; *Tyyyyyy*; *Yeeeeeee*; *Keeeeeee*; *Qeeeeeee*; *Epte Part2* | Sources preserved in `scout-request.json` | Six Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Mob Museum / Hiss Is Bliss; Short Span / Picture; Illegal Alien / Colomboi | *Estreez*; *eeeeeeee*; *Need* | https://boomkat.com/products/estreez · https://boomkat.com/products/eeeeeeee · https://clubfuries.com.mx/2026/09/06/cfs-colomboi-need-iar402/ | Useful dub-techno, chord-and-kick and agile/rugged progression windows; release-level language is not transferred to unresolved or individually undescribed tracks. |
+
+### Run 260 boundaries
+
+- All three exact tracks pass the volume lens and remain PARKED at their tested placements; immediate transitions, surrounding runs and long-form effects remain UNKNOWN.
+- The three evaluated exact identities enter the doctrine-free global utility ledger.
+- Six unresolved identities remain research leads only.
+- Set direction: distinguish release-world permission from an individual trajectory that changes its successor.
+- This target-local file is an inspiration record, not a Spotify publication input.
+
 ## Run 259 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

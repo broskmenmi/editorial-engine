@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 260 — EXPLORE — shared release framing does not establish individual trajectory
+
+Pre-audit passed and selected EXPLORE. The matching schemaVersion 2 snapshot resolved three of nine fresh leads: Hiss is Bliss — *Estreez*, *Epte part1* and *Saint Clair*. Each passes the volume lens but remains PARKED because the available exact-release framing does not establish individual direction, development, endpoint, either immediate handoff, surrounding-run consequence or long-form gain. Six identities remain unresolved with their exact Spotify-SE errors preserved in `discoveries.md`.
+
+STRANGE GAIT remains 61 tracks and the protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally unchanged. All three exact PARKED tracks remain genuinely interesting and enter the doctrine-free global Discovery Pool, increasing it from 502 to 505 tracks.
+
+Together with Run 253, this is the second completed discovery run within five completed outward scans to PARK multiple candidates for the same shared-release-evidence gap. The post-recurrence evidence guard is triggered; Repair Run 261 executes next before another ordinary EXPLORE.
+
 ## Run 259 — EXPLORE — an intermediate lock still needs an altered successor
 
 Pre-audit reconciled 61 canonical identities and annotations, the repaired target histories, exact generated map, both verified Spotify receipts, empty clarification queue, no TRIGGERED revisit and no active objective repair. The protected trio remained contiguous at positions 51–53. Only Run 253 contained a recent multi-PARK result, so the recurrence guard did not trigger. The lane was EXPLORE.

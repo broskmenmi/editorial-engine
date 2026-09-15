@@ -1,5 +1,79 @@
 # STRANGE GAIT — Discoveries
 
+## Run 260 — 2026-09-15T01:53:04Z-explore-260
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `ab9ee63240d04162d2d55edaca4e7fb3fae8ee25`, requestFingerprint `a965a714dd84c750b420aa4c46693b8ca73ae28b6ae0b7105e6b3dcbfa5376ce`, PARTIAL. Requested 9; resolved 3; selected 3; six unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
+
+### Evaluated exact candidates
+
+#### Hiss is Bliss — Estreez — `spotify:track:7H8gPX9JyAYwvGiYopsWCK` — PARKED
+
+Source: https://boomkat.com/products/estreez
+
+Spotify: https://open.spotify.com/track/7H8gPX9JyAYwvGiYopsWCK
+
+Exact resolver duration: 343,097 ms (5:43.097). BPM unavailable. Spotify returned album *Estreez* and release date 2026-09-11.
+
+Boomkat places the exact release in dub-techno territory, while current listings verify the exact title and duration. The available prose does not distinguish the title track's individual materials, direction, development or endpoint.
+
+- Volume fit: PASS. The exact dub-techno release context is compatible with rhythmic and structural freedom under the selection lens; genre membership is permission, not an admission reason.
+- Immediate transition: UNKNOWN at `Trompe L'oeil → Estreez → FELT`. Exact endpoints and handoffs are untested.
+- Surrounding run: UNKNOWN through `Never Met → Trompe L'oeil → Estreez → FELT → Goink`. The candidate might deepen, redirect or merely prolong the reset-to-formation passage; the shared release framing cannot choose among those materially different readings.
+- Long-form effect: UNKNOWN. At 5:43.097 the insertion is substantial enough that its effect on *FELT* must be individual rather than assumed from dub-techno vocabulary.
+- Decision-critical uncertainty: whether the title track develops or exits in a way that changes *FELT*'s rolling-formation task rather than repeating *Trompe L'oeil*'s dubwise reset.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer individual direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### Hiss is Bliss — Epte part1 — `spotify:track:3snOOvfXSVCv9lfJLRKcBV` — PARKED
+
+Source: https://boomkat.com/products/estreez
+
+Spotify: https://open.spotify.com/track/3snOOvfXSVCv9lfJLRKcBV
+
+Exact resolver duration: 322,292 ms (5:22.292). BPM unavailable. Spotify returned album *Estreez* and release date 2026-09-11.
+
+Current listings establish the exact identity and duration. The source frames the parent release as dub techno but supplies no title-specific direction, development or endpoint for *Epte part1*.
+
+- Volume fit: PASS. The release-world proposition is lawful under the selection lens without requiring one sonic room or chapter role.
+- Immediate transition: UNKNOWN at `Raataja → Epte part1 → Ingress`. Exact endpoints and handoffs remain untested.
+- Surrounding run: UNKNOWN through `Moonwake → Raataja → Epte part1 → Ingress → Crawl`. The candidate could form a distinct state after disappearance or could turn *Ingress* into a redundant second re-entry; release-level genre cannot resolve that difference.
+- Long-form effect: UNKNOWN. The 5:22.292 insertion needs a candidate-specific consequence after the existing burst-and-disappearance crisis.
+- Decision-critical uncertainty: whether *Epte part1* establishes, mutates or withholds rhythmic formation before *Ingress*; those reasonable alternatives lead to different canonical verdicts.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer individual direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+#### Hiss is Bliss — Saint Clair — `spotify:track:3r89KdbEVzXA3pb60Zr4Ww` — PARKED
+
+Source: https://boomkat.com/products/estreez
+
+Spotify: https://open.spotify.com/track/3r89KdbEVzXA3pb60Zr4Ww
+
+Exact resolver duration: 378,763 ms (6:18.763). BPM unavailable. Spotify returned album *Estreez* and release date 2026-09-11.
+
+Current listings establish the exact identity and duration. Boomkat supplies dub-techno release framing, not *Saint Clair*'s individual construction, development or endpoint.
+
+- Volume fit: PASS. A dub-techno proposition may belong to STRANGE GAIT without proving novelty, weirdness or a fixed structural role.
+- Immediate transition: UNKNOWN at `Ingress → Saint Clair → Crawl`. Exact endpoints and handoffs remain untested.
+- Surrounding run: UNKNOWN through `Raataja → Ingress → Saint Clair → Crawl → IF U WANT 2`. The candidate could redirect the formed restart or simply lengthen it before the sustained-motion plateau.
+- Long-form effect: UNKNOWN. At 6:18.763, the candidate needs an individual trajectory that gives *Crawl* different work; shared release context cannot establish that gain.
+- Decision-critical uncertainty: whether *Saint Clair* changes the restart-to-plateau relation or creates another complete intermediate state.
+- Verdict: PARKED. Retained as genuinely interesting; reopen only for materially richer individual direction/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Unresolved identities — no musical verdict
+
+- Colomboi — *Need*: `no exact Spotify title/artist search match in market SE`
+- Picture — *Tyyyyyy*: `no exact Spotify title/artist search match in market SE`
+- Picture — *Yeeeeeee*: `no exact Spotify title/artist search match in market SE`
+- Picture — *Keeeeeee*: `no exact Spotify title/artist search match in market SE`
+- Picture — *Qeeeeeee*: `no exact Spotify title/artist search match in market SE`
+- Hiss Is Bliss, Ras Lys — *Epte Part2*: `no exact Spotify title/artist search match in market SE`
+
+### Auditor decision
+
+APPROVED. Required state passed UTF-8, JSON, protected-order, persistent-history and publication pre-audits. The request is fresh, the matching snapshot is internally valid and only its three selected exact identities were evaluated. Each receives separate volume, immediate-transition, surrounding-run and long-form tests; UNKNOWN is not converted to FAIL. The shared release-level evidence creates a specific decision-critical ambiguity for each proposed placement, so all three PARK outcomes are honest rather than mechanical. All three remain genuinely interesting and enter the doctrine-free global utility ledger; unresolved leads do not.
+
+Together with Run 253, this is the second completed discovery run within the previous five to PARK two or more selected candidates because shared release-level framing cannot distinguish individual direction, development or endpoint. The post-recurrence evidence guard is therefore triggered and Repair Run 261 must execute next, before another ordinary EXPLORE.
+
+Run 260: `~92 inspected → 9 leads → 3 exact + 6 unresolved → 3 evaluations → 0 ADD + 3 PARKED → 3 utility additions`. Across completed discovery Runs 87–260, excluding repairs and failed requests: 1,233 leads / ~8,472 inspections / 48 ADDs / 357 selected candidates. Inspection-to-lead conversion was 9.8%, resolution yield 33.3% and selected-candidate-to-ADD conversion 0/3. Three of the last ten comparable completed discovery runs contain an ADD. The musical no-ADD streak is two completed runs after Run 256, with four exact interesting tracks retained since that ADD. Resolver loss remains material; the repeated shared-evidence PARK pattern is a separate information-quality defect, not evidence of playlist completion. Audio analysis and live mixing were not tested.
+
 ## Run 259 — 2026-09-15T00:48:13Z-explore-259
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `73c22ba1b2d805702c0107d325c3c96dfa5dbe91`, requestFingerprint `94348c9999532653e80b34212708c1d4c6bd4dce2cde1d2710a1e5701254ae53`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.

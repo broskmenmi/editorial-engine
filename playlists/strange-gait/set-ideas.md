@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 260
+
+### Shared release-world permission is not individual trajectory
+
+**Direction:** Test dub-techno propositions by individual development and exit, especially where a candidate would sit between an existing restart and the next formed state.
+
+**Ingredients:**
+
+- Wheelman — *Trompe L'oeil* → Hiss is Bliss — *Estreez* → JWords — *FELT* — parked placement hypothesis
+- Loidis — *Raataja* → Hiss is Bliss — *Epte part1* → Skee Mask — *Ingress* — parked placement hypothesis
+- Skee Mask — *Ingress* → Hiss is Bliss — *Saint Clair* → Barker — *Crawl* — parked placement hypothesis
+- Picture / Short Span and Colomboi / Illegal Alien — unresolved adjacent research directions
+
+**Why interesting:** The release context permits all three propositions, but only individual direction and endpoint evidence can show whether each candidate deepens, redirects or merely prolongs the existing passage.
+
+**Boundary:** These are editorial placement hypotheses, not proven sequences, energy claims, density claims, space claims, phrase-fit claims, emotional-effect claims or live-mixing edges. Exact handoffs, endpoints and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 259
 
 ### A lock-and-break process still needs downstream consequence
