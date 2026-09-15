@@ -2,206 +2,202 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T08:49:39Z-explore-268",
-  "sourceCommit": "9ab3144c37ab3ff049834c41e42725637ba84e21",
+  "runId": "2026-09-15T09:49:17Z-explore-269",
+  "sourceCommit": "bfcff77a8afed1c49d822f4274492a6d44faa86d",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 94 named tracks and releases across Juno's 75-item current techno window, adjacent label pages and overlooked 2026 catalogue/reissue paths. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 96 named tracks and releases across Juno's same-day techno page, newly announced preorder listings, current-release label paths, Boomkat's preorder window and overlooked catalogue/repress material. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "The target state, canonical ledger, annotations, discussion and revisit queues, rejected state, discoveries, inspiration files, publication state and global utility ledger were audited first. UTF-8, JSON, count, map-order, receipt and protected-order checks passed; no objective defect, listener authorization, triggered revisit or open workflow repair required REPAIR.",
-      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. Six fresh leads from six distinct releases remain; no ranking slot was filled for resolver convenience.",
-      "Run 261's evidence guard was applied: one lead per release, and exact-track prose was not transferred to siblings.",
+      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. Eight fresh exact-title leads from eight distinct releases remain; no ranking slot was filled for resolver convenience.",
+      "Run 261's evidence guard was applied: one lead per release, and DJ Natas and Dopplereffekt alone have materially differentiating exact-track prose; release listings for the other six leads are treated only as identity and release-context evidence.",
       "Source descriptions remain attributed prose, not measurements. No energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality was inferred. Neither protected handoff was split.",
       "Rank reflects evidence specificity, selection-lens relevance and information gain, not novelty, orthodoxy, diversity, technical cleverness or a fixed chapter map."
     ],
     "rankedLeadSummary": [
-      "1. Steve Rachmad — 9 Completion & Delivery",
-      "2. Dimi Angelis — Hydrophobia",
-      "3. Simo Cell, Abdullah Miniawy — The Dala Effect",
-      "4. Lenson — Firgot",
-      "5. PS11 — Mariana Trench",
-      "6. Confusion — Space"
+      "1. Dopplereffekt — Collapse of Simultaneity",
+      "2. DJ Natas — The Titan Of Terror",
+      "3. Damaged Clock — Viajes Sin Terminar (Umwelt remix)",
+      "4. A:G — Hand Me The Piano",
+      "5. Genex — Alloverme",
+      "6. Japp Beats, Spel, Guerra — Groove Riders",
+      "7. Wav4ms, Priori — Colossi",
+      "8. Wolfdrifta — Sunwalker"
     ],
     "sourceWindows": [
-      "CURRENT: Juno's 75-item techno-this-week window, including Lenson, PS11 and Confusion, checked 2026-09-15. https://www.juno.co.uk/techno/this-week/",
-      "ADJACENT / EMERGING: Current windows around Dekmantel/UFO, Moving Pressure, End Of Perception, Tar Hallow and Downside Up were cross-checked against persistent state, checked 2026-09-15.",
-      "OVERLOOKED CATALOGUE: Dimi Angelis' Time Capsule, Steve Rachmad's 3 6 9 and Simo Cell with Abdullah Miniawy's Dying Is The Internet were revisited as exact-track catalogue paths, not artist-familiarity claims. https://www.juno.co.uk/labels/Dekmantel%2BHolland/"
+      "CURRENT: Juno's same-day techno page and individually linked product listings, including Damaged Clock's 2026-09-15 release and DJ Natas' 2026-09-14 release, checked 2026-09-15. https://www.juno.co.uk/techno-music/today/",
+      "ADJACENT / EMERGING: Newly announced forthcoming records from Nocturnal Expeditions, Concrete Soul, Planet Rhythm, Osmosis and Wolves That Drift were inspected at one exact track per release, checked 2026-09-15. https://www.juno.co.uk/techno-music/today/",
+      "OVERLOOKED CATALOGUE / RECIRCULATION: Dopplereffekt's Metasymmetry returned through a 2026 repress; Boomkat's exact-track account distinguishes Collapse of Simultaneity, while the original digital release date is preserved. https://boomkat.com/products/metasymmetry"
     ],
-    "timestampUtc": "2026-09-15T08:49:39Z"
+    "timestampUtc": "2026-09-15T09:49:17Z"
   },
   "leads": [
     {
-      "artist": "Steve Rachmad",
-      "track": "9 Completion & Delivery",
-      "album": "3 6 9",
-      "releaseDate": "2026-06-17",
+      "artist": "Dopplereffekt",
+      "track": "Collapse of Simultaneity",
+      "album": "Metasymmetry",
+      "releaseDate": "2025-12-12",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
+      "discoverySource": "https://boomkat.com/products/metasymmetry",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A long-form track can justify a conspicuous post-block turn when its internal process gives the following pivot new work; an accomplished build is insufficient by itself.",
+        "craftConvention": "A sharply formed electro-techno statement earns insertion only if its exit changes the following surge; propulsion and technical definition are insufficient by themselves.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes 9 Completion & Delivery as riding arpeggiated waves before breaking into oceanic grandeur.",
-        "editorialInterpretation": "Test the documented internal change after Migration without treating the metaphor as measured energy, density, space, emotional effect, endpoint, phrasing or mixability.",
-        "measured": ["Juno lists the track at 7:11 on 3 6 9, released 2026-06-17.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Boomkat individually describes Collapse of Simultaneity through pistoning Detroit electro-techno combustion and three-dimensional synth planes.",
+        "editorialInterpretation": "Test the documented formed statement between crooked accumulation and uncontained direction without turning propulsion, geometry or stylistic reference into measured energy, space, endpoint, phrase structure or mixability.",
+        "measured": ["The artist-hosted release page dates Metasymmetry to 2025-12-12; Boomkat identifies the current 2026 repress.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "The documented wave-to-break process could give Eyes of the Wind a formed melodic object to abstract, or merely add a second complete post-Migration statement.",
-      "proposedPlacements": [{
-        "position": "Between Migration and Eyes of the Wind",
-        "precedingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-        "followingUri": "spotify:track:1CrwshR68Lrx9KDeOHtfyz",
-        "incomingBpm": null,
-        "candidateBpm": null,
-        "outgoingBpm": null,
-        "purpose": "Test whether the documented break changes the liminal successor or only adds a complete post-pivot stage."
-      }]
+      "fitHypothesis": "A compact, strongly articulated body-state could give Roxellana a more specific launch condition after Pulse I, or merely add another complete formation before the surge.",
+      "proposedPlacements": [{"position": "Between Pulse I and Roxellana", "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY", "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt", "incomingBpm": 136, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether the formed statement changes the directed surge or only inserts another complete stage."}]
     },
     {
-      "artist": "Dimi Angelis",
-      "track": "Hydrophobia",
-      "album": "Time Capsule",
-      "releaseDate": "2026-07-08",
+      "artist": "DJ Natas",
+      "track": "The Titan Of Terror",
+      "album": "Natas Spin EP",
+      "releaseDate": "2026-09-14",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
+      "discoverySource": "https://www.juno.co.uk/products/dj-natas-natas-spin-ep-vinyl/1155040-01/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Sparse unstable detail can prepare a reset without a new groove, but it earns space only if the reset becomes a consequence rather than a delayed event.",
+        "craftConvention": "Busy acid-industrial material can remain legible inside an altered-gait passage, but it earns space only if its exit makes the subsequent dissolution consequential.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Hydrophobia as more spare, with a paranoid edge created by synths like trapped flies drifting through the mix.",
-        "editorialInterpretation": "Test the proposition before Never Met while leaving direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
-        "measured": ["Juno lists the track at 5:55 on Time Capsule, released 2026-07-08.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Juno individually describes The Titan Of Terror as busy, hard-hitting material laced with wiry synths and acid prickles.",
+        "editorialInterpretation": "Test the documented busy state after false stability without inferring perceived pulse, scalar energy, density, space, emotional effect, endpoint, phrasing or mixability.",
+        "measured": ["Juno lists the track at 6:26 on Natas Spin EP, released 2026-09-14.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "Sparse unstable foreground could turn Never Met into a passing response before Trompe L'oeil resets the passage, or crowd an already articulate left turn.",
-      "proposedPlacements": [{
-        "position": "Between Sarniezz and Never Met",
-        "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-        "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-        "incomingBpm": null,
-        "candidateBpm": null,
-        "outgoingBpm": null,
-        "purpose": "Test whether unstable sparseness changes the passing-foreground hinge or merely adds another foreground."
-      }]
+      "fitHypothesis": "The busy formed state could give Ikoyi a concrete foreground to dissolve after Te de Cabello Blanco, or crowd an already articulate instability-to-dissolution relation.",
+      "proposedPlacements": [{"position": "Between Te de Cabello Blanco and Ikoyi", "precedingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo", "followingUri": "spotify:track:2sq9nJXmO5OtwWemr30z32", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether a busy acid state gives foreground dissolution new work or merely adds another instability stage."}]
     },
     {
-      "artist": "Simo Cell, Abdullah Miniawy",
-      "track": "The Dala Effect",
-      "album": "Dying Is The Internet",
-      "releaseDate": "2026-03-18",
+      "artist": "Damaged Clock",
+      "track": "Viajes Sin Terminar (Umwelt remix)",
+      "album": "Reparando El Clock EP",
+      "releaseDate": "2026-09-15",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
+      "discoverySource": "https://www.juno.co.uk/products/damaged-clock-reparando-el-clock-ep-vinyl/1123764-01/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Percussive form outside a fixed techno grid can belong at the tail when it changes the relation between a sharp formation and a brief flare; hybridity alone proves nothing.",
+        "craftConvention": "A same-day remix proposition can make a conspicuous tail turn, but release identity alone cannot prove its material, internal development or consequence.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually highlights The Dala Effect for hypnotic percussion and clapping.",
-        "editorialInterpretation": "Use the description only as a material proposition; do not infer hypnosis as a listener effect, development, endpoint, energy, density, space, phrasing or mixability.",
-        "measured": ["Juno lists the track at 4:31 on Dying Is The Internet, released 2026-03-18, credited to both artists.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Juno's exact release listing identifies Viajes Sin Terminar (Umwelt remix) on Damaged Clock's five-track Reparando El Clock EP; it supplies no individual sonic description.",
+        "editorialInterpretation": "Treat the exact listing as identity context only. Material, direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists the EP as released 2026-09-15 on Soil Spain, catalogue SOIL 033.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "The compact percussion-and-clap frame could make Nukumori a remnant flare after a differently organized body-state, or add another complete tail vignette.",
-      "proposedPlacements": [{
-        "position": "Between It Never Made Sense and Nukumori",
-        "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-        "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-        "incomingBpm": null,
-        "candidateBpm": null,
-        "outgoingBpm": null,
-        "purpose": "Test whether the compact percussive frame changes the remnant flare or only inserts another tail scene."
-      }]
+      "fitHypothesis": "If resolved, test whether an otherwise unknown same-day proposition changes the flare-to-disassembly relation; do not infer a function from artist, remix credit or title.",
+      "proposedPlacements": [{"position": "Between Nukumori and Jjochstubn", "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory", "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test only with exact evidence whether the candidate changes disassembly after the flare."}]
     },
     {
-      "artist": "Lenson",
-      "track": "Firgot",
-      "album": "TAR 47",
-      "releaseDate": "2026-09-10",
+      "artist": "A:G",
+      "track": "Hand Me The Piano",
+      "album": "Genetic Experience EP",
+      "releaseDate": "2026-10-10",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://www.juno.co.uk/products/a-g-genetic-experience-ep-vinyl/1180373-01/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A filtered strange state can follow metric dissolution if its exit changes the next redirection; weirdness is not a reason to admit it.",
+        "craftConvention": "A forthcoming exact identity is a research lead, not structural evidence; title language cannot stand in for instrumentation or transition behavior.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually groups Firgot on TAR 47's filtery-weird A-side.",
-        "editorialInterpretation": "The description establishes material, not development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing or mixability.",
-        "measured": ["Juno lists the track at 6:32 on TAR 47, released 2026-09-10.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Juno's newly announced exact release listing identifies Hand Me The Piano on A:G's Genetic Experience EP; it supplies no individual sonic description.",
+        "editorialInterpretation": "Do not infer instrumentation from the title. Development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists the EP as forthcoming 2026-10-10 on Nocturnal Expeditions, catalogue NE 003.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "A filtered re-formation could give Capa a specific redirection task after Fulledge, or delay an already successful reset.",
-      "proposedPlacements": [{
-        "position": "Between Fulledge (Empty-40 Mix) and Capa",
-        "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
-        "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-        "incomingBpm": null,
-        "candidateBpm": null,
-        "outgoingBpm": 137,
-        "purpose": "Test whether the filtered state gives redirection new work or merely postpones it."
-      }]
+      "fitHypothesis": "If resolved, test the unknown proposition between chorded formation and fixed-grid re-entry; release context alone cannot establish need.",
+      "proposedPlacements": [{"position": "Between Night D3 Died and Egue into hs", "precedingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc", "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test only with exact evidence whether the candidate changes the fixed-grid re-entry."}]
     },
     {
-      "artist": "PS11",
-      "track": "Mariana Trench",
-      "album": "Stratos EP",
-      "releaseDate": "2026-09-07",
+      "artist": "Genex",
+      "track": "Alloverme",
+      "album": "Weeks & Weeks EP",
+      "releaseDate": "2026-10-02",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://www.juno.co.uk/products/genex-weeks-weeks-ep-vinyl/1180384-01/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A descent can prepare delayed-repetition reformation only when the following track reads differently; dark atmosphere alone is not structural evidence.",
+        "craftConvention": "A newly announced exact title is eligible for resolution, but release placement and label context cannot prove a rhythmic or structural role.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually says Mariana Trench sinks into the darkness associated with the world's deepest ocean.",
-        "editorialInterpretation": "Treat this as metaphorical framing, not measured energy, density, space, emotional effect, trajectory, endpoint, phrase structure or mixability.",
-        "measured": ["Juno lists the track at 5:11 on Stratos EP, released 2026-09-07.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Juno's newly announced exact release listing identifies Alloverme on Genex's Weeks & Weeks EP; it supplies no individual sonic description.",
+        "editorialInterpretation": "Material, direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists the EP as forthcoming 2026-10-02 on Concrete Soul Netherlands, catalogue CONSOUL 001.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "The descent could make Silent Tension's delayed-repetition pattern a consequential re-formation after backsliding, or simply lengthen dissolution.",
-      "proposedPlacements": [{
-        "position": "Between backsliding and Silent Tension",
-        "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
-        "followingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
-        "incomingBpm": null,
-        "candidateBpm": null,
-        "outgoingBpm": null,
-        "purpose": "Test whether a descent changes the following re-formation or only extends dissolution."
-      }]
+      "fitHypothesis": "If resolved, test whether the unknown proposition changes the compact-lurch-to-intensification move; do not infer fit from current-release status.",
+      "proposedPlacements": [{"position": "Between Humanoidz and Moonwake", "precedingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7", "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": 140, "purpose": "Test only with exact evidence whether the candidate changes renewed intensification."}]
     },
     {
-      "artist": "Confusion",
-      "track": "Space",
-      "album": "In Cycles",
-      "releaseDate": "2026-09-10",
+      "artist": "Japp Beats, Spel, Guerra",
+      "track": "Groove Riders",
+      "album": "Discotek EP",
+      "releaseDate": "2026-09-18",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+      "discoverySource": "https://www.juno.co.uk/products/japp-beats-discotek-ep-vinyl/1180380-01/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A brisk unsettled state can sit after rhythmic destabilization only if the following false-stability hinge becomes a consequence rather than another accumulation.",
+        "craftConvention": "Artist and title language must not be promoted into groove evidence; an exact forthcoming identity needs individual evidence before it can support sequencing.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno names Space among In Cycles' tracks that resound in umbral space and aim to unsettle and motivate in dark, brisk fashion.",
-        "editorialInterpretation": "The shared sentence supplies a proposition, not individual development, endpoint, perceived pulse, energy, density, space as measurement, emotional effect, phrasing or mixability.",
-        "measured": ["Juno lists the track at 5:38 on In Cycles, released 2026-09-10.", "Exact market-SE identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Juno's exact release listing identifies Groove Riders featuring Spel and Guerra on Japp Beats' Discotek EP; it supplies no individual sonic description.",
+        "editorialInterpretation": "Do not infer groove from the title. Development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists the EP as forthcoming 2026-09-18 on Planet Rhythm, catalogue 90GRVZ 004.", "Exact market-SE identity, credits and duration require resolver evidence."]
       },
-      "fitHypothesis": "The brisk unsettled state could give Té de Cabello Blanco an explicit reassembly task after Drummz, or insert another instability stage without changing the run.",
-      "proposedPlacements": [{
-        "position": "Between Drummz and Té de Cabello Blanco",
-        "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-        "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-        "incomingBpm": 138,
-        "candidateBpm": null,
-        "outgoingBpm": null,
-        "purpose": "Test whether unsettled continuation changes reassembly or merely adds another instability stage."
-      }]
+      "fitHypothesis": "If resolved, test whether the unknown proposition changes sustained motion before opposed-material tension; release metadata alone cannot answer.",
+      "proposedPlacements": [{"position": "Between Crawl and IF U WANT 2", "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF", "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test only with exact evidence whether the candidate changes opposed-material tension."}]
+    },
+    {
+      "artist": "Wav4ms, Priori",
+      "track": "Colossi",
+      "album": "Osmosis I",
+      "releaseDate": "2026-10-02",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/wav4ms-priori-phorum-xphresh-mor-f-osmosis-i-vinyl/1180382-01/",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A compilation track can be selected without genre purity, but artist adjacency and title scale are not evidence of journey consequence.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno's newly announced exact compilation listing identifies Colossi by Wav4ms and Priori on Osmosis I; it supplies no individual sonic description.",
+        "editorialInterpretation": "Do not infer scale or texture from the title. Development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists Osmosis I as forthcoming 2026-10-02 on Osmosis, catalogue OSMO 001.", "Exact market-SE identity, credits and duration require resolver evidence."]
+      },
+      "fitHypothesis": "If resolved, test whether the unknown proposition changes the afterword's arrival after restrained re-entry; exact identity alone proves nothing about the move.",
+      "proposedPlacements": [{"position": "Between Can I live and Invisible Warriors Of Light", "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh", "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test only with exact evidence whether the candidate changes the afterword's arrival."}]
+    },
+    {
+      "artist": "Wolfdrifta",
+      "track": "Sunwalker",
+      "album": "Peckham 1991",
+      "releaseDate": "2026-10-10",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.juno.co.uk/products/wolfdrifta-peckham-1991-vinyl/1180376-01/",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A future exact title may be worth resolving, but neither the artist name nor title can establish pulse, brightness, motion or a chapter role.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno's newly announced exact release listing identifies Sunwalker on Wolfdrifta's Peckham 1991; it supplies no individual sonic description.",
+        "editorialInterpretation": "Material, direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability remain unknown.",
+        "measured": ["Juno lists the release as forthcoming 2026-10-10 on Wolves That Drift, catalogue WTD 004.", "Exact market-SE identity, credits and duration require resolver evidence."]
+      },
+      "fitHypothesis": "If resolved, test whether the unknown proposition changes the move from coiling consequence to physical widening; current listing status is not sequencing evidence.",
+      "proposedPlacements": [{"position": "Between Serpentine Tale and Too Much Time", "precedingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj", "followingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO", "incomingBpm": 130, "candidateBpm": null, "outgoingBpm": 140, "purpose": "Test only with exact evidence whether the candidate changes renewed widening."}]
     }
   ]
 }
