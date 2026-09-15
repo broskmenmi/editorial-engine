@@ -1,5 +1,95 @@
 # STRANGE GAIT — Discoveries
 
+## Run 272 — 2026-09-15T12:49:06Z-explore-272
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `12acb8e5c8c886f53a737d4bdcb814a79cd7ef24`, requestFingerprint `cb6c26d9d8f813380579d24a774d45ff9541d2253de1e28502dbd69981d5e90b`, PARTIAL. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. No duplicates, substitutions, relinkings or terminal technical resolver failures. The first workflow attempt encountered a transient Spotify HTTP 502 before producing a snapshot; the same immutable request was retried successfully without mutation. The nine leads came from nine releases, passed persistent-history exclusion and avoided boundaries evaluated in the previous five completed discovery runs.
+
+### Evaluated exact candidates
+
+#### Kotai — Sucker DJ — `spotify:track:4ViieujwVyqpT5tL3s0X0B` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/kotai-sucker-dj-vinyl/1168422-01/
+
+Spotify: https://open.spotify.com/track/4ViieujwVyqpT5tL3s0X0B
+
+Exact resolver duration: 303,833 ms (5:03.833). BPM unavailable; Juno's roughly 150-BPM statement remains attributed prose rather than a measurement. Spotify returned album *Sucker DJ* and release date 2026-08-14; the request's 2026-08-18 variance is preserved below.
+
+Juno individually describes a post-punk masher with desiccated textures, cold synth styling and forceful vocals. This supports a conspicuous adjacent-world proposition; it does not establish exact entry, exit, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. Production-world and vocal contrast are allowed when they serve the journey rather than a novelty requirement.
+- Immediate transition: UNKNOWN at `Stadium Drive → Sucker DJ → Marauder`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Stadium Drive → Sucker DJ → Marauder → The Witching Hour → Encasadelciegoeltuerco`. The candidate creates a complete second overture between the opening transformation and the existing techno anchor without evidence that *Marauder* receives different work.
+- Long-form effect: FAIL only at this placement. Five additional minutes of conspicuous foreground delay the anchor but do not establish a changed downstream condition.
+- Strongest alternative: the vocal post-punk rupture could make the opening transformation bolder. That distinction remains genuinely interesting, but boldness alone does not justify a second preface when the successor still performs the same re-anchoring task.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Phil Berg — Tempest — `spotify:track:0hxDjs2EykM7gjzkDngEJt` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/phil-berg-darin-vinyl/1165098-01/
+
+Spotify: https://open.spotify.com/track/0hxDjs2EykM7gjzkDngEJt
+
+Exact resolver duration: 316,251 ms (5:16.251). BPM unavailable. Spotify returned album *Dārin* and release date 2026-07-17; the request's 2026-07-16 date variance is preserved below.
+
+Juno groups *Tempest* with *Darin* as favouring 16-bar bass sacrifices and re-drops within a no-frills, kick-forward construction. This is differentiated track-pair evidence, not proof of the exact track's endpoint or either handoff.
+
+- Volume fit: PASS. Structured withdrawal and return fit a volume concerned with transformation and downstream consequence.
+- Immediate transition: UNKNOWN at `Té de Cabello Blanco → Tempest → Ikoyi`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Drummz → Té de Cabello Blanco → Tempest → Ikoyi → Amor`. The candidate adds another complete reassembly after *Té de Cabello Blanco*'s false stability before the existing foreground dissolution, without evidence that *Ikoyi* receives a different object or task.
+- Long-form effect: FAIL only at this placement. The documented bass architecture is structurally legible, but the successor already dissolves the preceding foreground and the insertion does not change the later relation.
+- Strongest alternative: repeated bass withdrawal and return could give *Ikoyi* a more explicit construction to erase. Without an individually documented endpoint or heard handoff, that remains a plausible hypothesis rather than sufficient evidence for five additional minutes.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Borusiade — Infatuation — `spotify:track:4VufGFB9crJXiW2fzICUvb` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/borusiade-the-sixteen-steps-promises-infatuation-vinyl/651702-01/
+
+Spotify: https://open.spotify.com/track/4VufGFB9crJXiW2fzICUvb
+
+Exact resolver duration: 329,562 ms (5:29.562). BPM unavailable. Spotify returned album *Promises and Infatuation* and release date 2017-08-08; the request's *Promises & Infatuation* / 2017-06-12 variance is preserved below.
+
+Juno individually describes mechanical acid bumps guided by eerie vocal blurs. This supports a distinct acid/vocal mechanism; vocabulary overlap does not establish transition quality or downstream transformation.
+
+- Volume fit: PASS. The mechanical vocalized body is compatible with the playlist's freedom of production world and rhythmic character.
+- Immediate transition: UNKNOWN at `Goink → Infatuation → Thick to Handle`; neither handoff was heard or metrically documented. The outgoing 138 BPM is evidence only, not a proxy for flow.
+- Surrounding run: FAIL proportionally through `FELT → Goink → Infatuation → Thick to Handle → LOVE YOUR ENEMIES`. The candidate adds another complete formed process between fragment recurrence and the existing broken-beat deformation without evidence that *Thick to Handle* receives different work.
+- Long-form effect: FAIL only at this placement. The insertion extends formation before a deformation whose function is already clear.
+- Strongest alternative: the acid bumps and blurred vocals could give *Thick to Handle* a more tactile body to deform. That proposition remains interesting, but the documented vocabulary does not establish a changed exit or successor task.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+### Resolved alternate
+
+Kid Bucle — *Mawkish Orbit* resolved exactly as `spotify:track:2vztKj30IO55ureSbT1R18`, 275,381 ms (4:35.381), album *Memorabilia*, release date 2026-07-10. It was not selected, receives no musical verdict and is not retained in the utility ledger.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- Blauert — *Alienation*: `no exact Spotify title/artist search match in market SE`
+- SancrA — *Orchestral Glitch*: `no exact Spotify title/artist search match in market SE`
+- John Beltran — *Begin Again (Luke Hess remix)*: `no exact Spotify title/artist search match in market SE`
+- KOGUI — *Hope Pression*: `no exact Spotify title/artist search match in market SE`
+- Natural Goofy — *Continuous*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-08-18" but Spotify returned "2026-08-14"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-07-16" but Spotify returned "2026-07-17"`
+- `Exact title/artist matched with release metadata variance: album requested "Promises & Infatuation" but Spotify returned "Promises and Infatuation"; release date requested "2017-06-12" but Spotify returned "2017-08-08"`
+- `Exact title/artist matched with release metadata variance: album requested "Memorabilia EP" but Spotify returned "Memorabilia"; release date requested "2026-08-20" but Spotify returned "2026-07-10"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; all nine ranked leads met the current evidence floor; the immutable request and matching terminal snapshot are internally valid; the transient 502 retry preserved the request identity; only the three selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; each rejection remains proportional and placement-specific; unknown handoffs were not converted into failure; the alternate, warnings and unresolved errors remain exact; and the three genuinely interesting exact identities enter the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact, and no other canonical playlist is mutated.
+
+### Persistence, publication and map state
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 525 tracks by retaining the three evaluated exact identities. Automatic utility publication and matching receipt are pending the editorial commit.
+
+### Run analysis
+
+Run 272: `~118 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 0 ADD + 3 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion was 7.6%, resolution yield 44.4% and selected-candidate-to-ADD conversion 0/3. Across completed discovery Runs 87–272, excluding repairs and failed requests: 1,300 leads / ~9,283 inspections / 51 ADDs / 377 selected candidates. Three of the last ten comparable runs contain an ADD. The musical no-ADD streak is two completed runs after Run 270, with four exact interesting tracks retained since that ADD. Resolver loss remains material but is not evidence of playlist completion. No recurring PARK or actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 271 — 2026-09-15T11:51:12Z-explore-271
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `92e1e529cc74f9630091e5c646cf584af02d4a75`, requestFingerprint `e75ec2aa9096158e8acf2753acf5f931a8c017e8dfcf3a3fe7df0ef197fb8980`, PARTIAL. Requested 8; resolved 1; selected 1; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The eight leads came from eight releases, carried materially differentiating exact-track prose, passed persistent-history exclusion, and avoided boundaries evaluated in the previous five completed discovery runs.

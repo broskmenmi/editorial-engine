@@ -3,6 +3,26 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 272 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Kotai | Sucker DJ | `spotify:track:4ViieujwVyqpT5tL3s0X0B` · https://open.spotify.com/track/4ViieujwVyqpT5tL3s0X0B · https://www.juno.co.uk/products/kotai-sucker-dj-vinyl/1168422-01/ | Exact 5:03.833 vocal post-punk proposition remains interesting; rejected only between *Stadium Drive* and *Marauder* because it creates a second complete overture without changing the successor's anchor task. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Phil Berg | Tempest | `spotify:track:0hxDjs2EykM7gjzkDngEJt` · https://open.spotify.com/track/0hxDjs2EykM7gjzkDngEJt · https://www.juno.co.uk/products/phil-berg-darin-vinyl/1165098-01/ | Exact 5:16.251 bass-withdrawal/re-drop proposition remains interesting; rejected only between *Té de Cabello Blanco* and *Ikoyi* because it adds another reassembly without changing the successor's dissolution task. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Borusiade | Infatuation | `spotify:track:4VufGFB9crJXiW2fzICUvb` · https://open.spotify.com/track/4VufGFB9crJXiW2fzICUvb · https://www.juno.co.uk/products/borusiade-the-sixteen-steps-promises-infatuation-vinyl/651702-01/ | Exact 5:29.562 mechanical acid/vocal proposition remains interesting; rejected only between *Goink* and *Thick to Handle* because it adds another formation without changing the successor's deformation task. Added globally. |
+| EXACT ALTERNATE / NO VERDICT | Kid Bucle | Mawkish Orbit | `spotify:track:2vztKj30IO55ureSbT1R18` · https://open.spotify.com/track/2vztKj30IO55ureSbT1R18 | Exact 4:35.381 alternate was not selected. No musical verdict or utility addition. |
+| UNRESOLVED RESEARCH | Blauert; SancrA; John Beltran; KOGUI; Natural Goofy | *Alienation*; *Orchestral Glitch*; *Begin Again (Luke Hess remix)*; *Hope Pression*; *Continuous* | Exact sources preserved in `scout-request.json` | Five Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Floorobjects / SancrA; Pressure Traxx / Natural Goofy; JKR / KOGUI; Kompakt / Kotai; Isophlux / Kid Bucle | Current metal-drum, electro, dub, post-punk and slow-reveal IDM paths | Sources preserved in `scout-request.json` | Continue only where exact identity resolves and evidence differentiates the track; release context remains research evidence, not canonical verdict. |
+| CATALOGUE WATCH | 200 Records / Blauert; Mutual Rytm / Phil Berg; Cititrax / Borusiade; New Plastic Music / John Beltran and Luke Hess | Restock and recirculation paths with exact descriptions | Sources preserved in `scout-request.json` | Useful exact-track or track-pair catalogue paths without treating recirculation, label or artist familiarity as admission evidence. |
+
+### Run 272 boundaries
+
+- *Sucker DJ*, *Tempest* and *Infatuation* pass the volume lens but are rejected only at their tested placements; each distinct foreground leaves the successor's existing task unchanged.
+- Exact handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, endpoint, phrase structure and mixability remain unknown.
+- The three selected exact candidates enter the doctrine-free global utility ledger; the alternate and five unresolved identities do not.
+- Set direction: distinguish material contrast and legible internal structure from a formation whose exit creates downstream consequence.
+- The transient resolver 502 cleared on an immutable retry; no recurring PARK or actionable REPAIR emerges.
+
 ## Run 271 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

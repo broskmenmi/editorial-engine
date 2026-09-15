@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 272
+
+### Distinct foreground versus changed successor
+
+**Direction:** Test conspicuous production-world changes and internally legible processes by whether their exit alters the successor's work, not by material distinction alone.
+
+**Ingredients:**
+
+- Karenn — *Stadium Drive* → Kotai — *Sucker DJ* → Surgeon — *Marauder* → Function — *The Witching Hour* → Siete Catorce — *Encasadelciegoeltuerco* — rejected placement hypothesis; exact handoffs and endpoint unknown
+- TAOYEMA — *Dark Necessity* → Simoncino — *Drummz* → Valesuchi — *Té de Cabello Blanco* → Phil Berg — *Tempest* → Ibrahim Alfa Jnr — *Ikoyi* — rejected placement hypothesis; exact handoffs and candidate endpoint unknown
+- Mr. G — *FELT* → Wata Igarashi — *Goink* → Borusiade — *Infatuation* → Bruce — *Thick to Handle* → Voiski — *LOVE YOUR ENEMIES* — rejected placement hypothesis; exact handoffs and endpoint unknown
+- Blauert, SancrA, John Beltran, KOGUI and Natural Goofy — unresolved exact-title research directions
+
+**Why interesting:** Each exact candidate carries a differentiated material proposition—vocal post-punk rupture, bass withdrawal/re-drop architecture, or mechanical acid with vocal blur. At the tested boundary, each adds a complete foreground while the following track retains its existing anchor, dissolution or deformation task.
+
+**Boundary:** These are editorial directions and placement counterexamples, not proven live sequences or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse, endpoints and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 271
 
 ### Slow-motion stage versus changed consequence
