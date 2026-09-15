@@ -1,5 +1,9 @@
 # STRANGE GAIT — Editorial Notes
 
+## Repair Run 261 — evidence-quality guard activated
+
+Runs 253 and 260 each PARKED three selected exact tracks because shared release-level framing could not establish individual direction, development or endpoint. The recurrence guard therefore activates for the next ordinary EXPLORE: use at most one selected slot per release when only shared framing exists, prefer exact-track trajectory evidence, and select multiple tracks from one release only when lawful evidence materially differentiates them. This changes selection evidence discipline, not musical standards, prior verdicts or playlist membership. No ADD pressure is introduced.
+
 ## Run 260 — EXPLORE — shared release framing does not establish individual trajectory
 
 Pre-audit passed and selected EXPLORE. The matching schemaVersion 2 snapshot resolved three of nine fresh leads: Hiss is Bliss — *Estreez*, *Epte part1* and *Saint Clair*. Each passes the volume lens but remains PARKED because the available exact-release framing does not establish individual direction, development, endpoint, either immediate handoff, surrounding-run consequence or long-form gain. Six identities remain unresolved with their exact Spotify-SE errors preserved in `discoveries.md`.

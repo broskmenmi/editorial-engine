@@ -1,5 +1,20 @@
 # STRANGE GAIT — Discoveries
 
+## Repair Run 261 — 2026-09-15T02:06:00Z-repair-261
+
+Auditor-approved information-quality repair triggered by the recurrence guard. Runs 253 and 260 are the second and third most recent completed outward scans and each PARKED three selected exact identities because shared release-level framing could not distinguish individual direction, development or endpoint.
+
+Affected Run 253 identities: Boulderhead — *Sunshine*; UFO95 — *Contre mesure*; Jon Head — *Broken Bells*. Affected Run 260 identities: Hiss is Bliss — *Estreez*; Hiss is Bliss — *Epte part1*; Hiss is Bliss — *Saint Clair*. The common actionable defect is not the PARK verdicts: it is allowing multiple selected slots from one evidence class when the available evidence cannot support candidate-specific trajectory judgments.
+
+The next ordinary outward scan must apply the activated evidence guard:
+
+- select at most one candidate per release when only shared release-level musical framing is available;
+- prefer exact-track evidence about direction, development or endpoint before using a selected slot;
+- permit multiple candidates from one release only when exact, lawful evidence materially differentiates their individual trajectories;
+- preserve honest zero-candidate or low-resolution outcomes and create no ADD pressure.
+
+No canonical identity, order, annotation, protected state, existing verdict, global utility membership, publication setting or Spotify metadata changes in this repair. The guard remains active for the next ordinary EXPLORE; that completed outward scan must record whether candidate-specific information quality improved. No further actionable repair is open.
+
 ## Run 260 — 2026-09-15T01:53:04Z-explore-260
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `ab9ee63240d04162d2d55edaca4e7fb3fae8ee25`, requestFingerprint `a965a714dd84c750b420aa4c46693b8ca73ae28b6ae0b7105e6b3dcbfa5376ce`, PARTIAL. Requested 9; resolved 3; selected 3; six unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
