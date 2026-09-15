@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 262
+
+### A complete state matters only when its exit changes the next track
+
+**Direction:** Test suspended acid formations, concise electro declarations and substantial hardgroove propositions by downstream consequence, not by stylistic compatibility or the mere legibility of a left turn.
+
+**Ingredients:**
+
+- Reeko — *Tides Alternate* → ATMTD — *Stasis* → Neil Landstrumm — *Serpentine Tale* — placement-specific counterexample
+- Len Faki — *Stardancer* → DJ Godfather — *Blast Off* → JakoJako — *Migration* — placement-specific counterexample; protected internal trio remains untouched
+- JWords — *FELT* → Rhyw — *Goink* → KEIN NAME — *Respiratory* → Identified Patient — *Thick to Handle* → Piezo — *LOVE* — parked placement hypothesis
+- Not Charlie / Subsist and The DirtBirdz / WYTE — unresolved current research directions
+
+**Why interesting:** Exact-track evidence makes the first two complete states legible but does not show that their exits alter the next track's function. The third remains useful precisely because its individual trajectory is still unknown.
+
+**Boundary:** These are editorial placement hypotheses and counterexamples, not proven sequences, energy claims, density claims, space claims, hypnosis claims, phrase-fit claims, emotional-effect claims or live-mixing edges. Exact handoffs, endpoints and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 260
 
 ### Shared release-world permission is not individual trajectory

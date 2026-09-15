@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 262 — EXPLORE — complete states still require downstream consequence
+
+Pre-audit passed and selected EXPLORE. Repair Run 261's evidence guard was applied to approximately 97 current-release, adjacent/emerging and overlooked-catalogue inspections: nine honest leads came from nine releases, and selected slots favored differentiated exact-track evidence. The matching schemaVersion 2 snapshot is PARTIAL: seven exact identities, three selected candidates, four exact unselected alternates, two unresolved identities, one metadata warning and no technical failure.
+
+ATMTD — *Stasis* and DJ Godfather — *Blast Off* each pass the volume lens but are rejected only at two tested placements. Their exact-track sources make their complete processes legible, yet neither candidate changes the successor's established work at transition, five-track or long-form scale. KEIN NAME — *Respiratory* passes provisionally and is PARKED at two placements because exact-single hardgroove framing does not establish individual development, endpoint or downstream consequence. Immediate handoffs remain unknown for all three; no energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred.
+
+STRANGE GAIT remains 61 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 51–53. The doctrine-free global Discovery Pool becomes 508 tracks by retaining the three evaluated exact identities; four unselected alternates and two unresolved identities receive no utility row. The evidence guard improved candidate-specific information quality, produced only one evidence-limited PARK and triggers no further REPAIR.
+
+Run 262: `~97 inspected → 9 leads → 7 exact (3 selected + 4 alternates) + 2 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`. Across completed discovery Runs 87–262, excluding repairs and failed requests: 1,242 leads / ~8,569 inspections / 48 ADDs / 360 selected candidates. Inspection-to-lead conversion was 9.3%, resolution yield 77.8% and selected-candidate-to-ADD conversion 0/3. Three of the last ten comparable completed discovery runs contain an ADD; the musical no-ADD streak is three completed runs after Run 256, with seven exact interesting tracks retained since that ADD. Audio analysis and live mixing were not tested.
+
 ## Repair Run 261 — evidence-quality guard activated
 
 Runs 253 and 260 each PARKED three selected exact tracks because shared release-level framing could not establish individual direction, development or endpoint. The recurrence guard therefore activates for the next ordinary EXPLORE: use at most one selected slot per release when only shared framing exists, prefer exact-track trajectory evidence, and select multiple tracks from one release only when lawful evidence materially differentiates them. This changes selection evidence discipline, not musical standards, prior verdicts or playlist membership. No ADD pressure is introduced.

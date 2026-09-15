@@ -3,6 +3,25 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 262 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | ATMTD | Stasis | `spotify:track:2rp4KJcTlt3HwvEcNzy95M` · https://open.spotify.com/track/2rp4KJcTlt3HwvEcNzy95M · https://www.waveformtransmitter.com/p/atmtd-stasis | Exact 6:49.411 acid-line, oscillating-synth and insistent-kick suspension remains interesting; rejected only at two tested placements because neither changes the successor's established work. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DJ Godfather | Blast Off | `spotify:track:3a58ewIFGxOQb4sytkGQ7Y` · https://open.spotify.com/track/3a58ewIFGxOQb4sytkGQ7Y · https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off | Exact 4:10.327 breaksy electro/Detroit-swing construction remains interesting; rejected only at two tested placements because it adds a complete declaration without altering the successor. Added globally. |
+| EXACT TRACK / PARKED | KEIN NAME | Respiratory | `spotify:track:30udh9P4t0t620GnM9jtOo` · https://open.spotify.com/track/30udh9P4t0t620GnM9jtOo · https://www.waveformtransmitter.com/p/kein-name-respiratory | Exact 6:35.270 single remains interesting. Hardgroove framing does not establish individual development, endpoint or consequence at either tested placement. Added globally. |
+| UNRESOLVED RESEARCH | Not Charlie; The DirtBirdz | *Causalidad*; *Surgical Strike* | https://www.waveformtransmitter.com/p/not-charlie-inconformista · https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/ | Two Spotify-SE misses. Exact source propositions remain research leads; no musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | rndm / ATMTD; Databass / DJ Godfather; Unsync / KEIN NAME; Subsist / Not Charlie; WYTE / The DirtBirdz | Current singles and release continuations | Exact sources preserved in `scout-request.json` | Nine releases supplied nine honest leads under Repair Run 261's guard; continue only where exact-track evidence differentiates individual behavior. |
+
+### Run 262 boundaries
+
+- *Stasis* and *Blast Off* pass the volume lens but are rejected only at their two documented placements; exact handoffs and endpoints remain unknown.
+- *Respiratory* passes provisionally and remains PARKED because exact-single framing does not establish individual trajectory or downstream consequence.
+- All three evaluated exact identities enter the doctrine-free global utility ledger; four exact unselected alternates do not.
+- Two unresolved identities remain research leads only.
+- Set direction: distinguish a complete, interesting state from a state whose exit actually changes what follows.
+- Repair Run 261's evidence guard improved the selected set and remains satisfied; no further repair is triggered.
+
 ## Run 260 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -1,5 +1,86 @@
 # STRANGE GAIT — Discoveries
 
+## Run 262 — 2026-09-15T02:51:21Z-explore-262
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `86fe0e61d37b8eba532eb4c47dfbe2f55bab0310`, requestFingerprint `e5ca00db634aba42192e8efa08ca914e38eecd090f94c8802fdbd1942e1815a6`, PARTIAL. Requested 9; resolved 7; selected 3; four exact unselected alternates; two unresolved identities; one warning. No duplicates, substitutions, relinkings or technical resolver failures. Repair Run 261's evidence guard was applied: the nine leads came from nine releases, and only exact-track evidence earned multiple differentiated judgments.
+
+### Evaluated exact candidates
+
+#### ATMTD — Stasis — `spotify:track:2rp4KJcTlt3HwvEcNzy95M` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.waveformtransmitter.com/p/atmtd-stasis
+
+Spotify: https://open.spotify.com/track/2rp4KJcTlt3HwvEcNzy95M
+
+Exact resolver duration: 409,411 ms (6:49.411). BPM unavailable. Spotify returned album *Stasis* and release date 2026-07-31.
+
+The exact-track source documents intertwined acid lines, oscillating and panning synths, insistent kicks, and a deliberately suspended state. It does not establish the endpoint, either handoff or live mixability.
+
+- Volume fit: PASS. A sustained state whose elements continually reconfigure fits the selection lens without needing novelty, weirdness or a fixed chapter role.
+- Immediate transition: UNKNOWN at `Tides Alternate → Stasis → Serpentine Tale`; exact endpoints and handoffs are untested.
+- Surrounding run: FAIL proportionally through `Hypnic Jerks → Tides Alternate → Stasis → Serpentine Tale → Too Much Time`. The 6:49.411 candidate inserts another complete held formation between opposed-speed balance and the existing coiling consequence without evidence that *Serpentine Tale* receives different work.
+- Long-form effect: FAIL at this placement. The new suspended stage lengthens an already articulated balance-to-coiling passage rather than changing its downstream function.
+- Reasonable alternative: `Atlantis → Stasis → Hypnic Jerks`, tested through `Worn Down → Atlantis → Stasis → Hypnic Jerks → Tides Alternate`. Immediate handoffs remain UNKNOWN; surrounding-run and long-form tests FAIL because another suspended preparation does not alter *Hypnic Jerks*' existing acceleration-crisis task.
+- Verdict: REJECT only at the two tested placements. Retained as genuinely interesting and added to the doctrine-free global utility ledger. This is not a global rejection.
+
+#### DJ Godfather — Blast Off — `spotify:track:3a58ewIFGxOQb4sytkGQ7Y` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off
+
+Spotify: https://open.spotify.com/track/3a58ewIFGxOQb4sytkGQ7Y
+
+Exact resolver duration: 250,327 ms (4:10.327). BPM unavailable. Spotify returned album *1000 Musik* and release date 2026-09-04.
+
+The exact-track source identifies a breaksy electro workout with Detroit swing made on one Roland TR-1000. It does not establish the endpoint, either handoff or live mixability.
+
+- Volume fit: PASS. The formed electro proposition is compatible with the selection lens and may create a conspicuous but lawful character change.
+- Immediate transition: UNKNOWN at `Stardancer → Blast Off → Migration`; exact endpoints and handoffs are untested.
+- Surrounding run: FAIL proportionally through `When We Froze → Stardancer → Blast Off → Migration → Eyes of Wind`. The candidate creates a complete electro declaration immediately before the existing piano-to-break character pivot without evidence that *Migration* receives different work.
+- Long-form effect: FAIL at this placement. It adds another fully stated turn after the protected trio rather than changing the established pivot.
+- Reasonable alternative: `Style Teef → Blast Off → Same Way`, tested through `Where I Wanna Be → Style Teef → Blast Off → Same Way → U Belong 2 Me`. Immediate handoffs remain UNKNOWN; surrounding-run and long-form tests FAIL because the new formed electro state does not evidence a change to *Same Way*'s existing redirection.
+- Verdict: REJECT only at the two tested placements. Retained as genuinely interesting and added to the doctrine-free global utility ledger. This is not a global rejection. The protected `Transparency → When We Froze → Stardancer` order remains untouched.
+
+#### KEIN NAME — Respiratory — `spotify:track:30udh9P4t0t620GnM9jtOo` — PARKED
+
+Source: https://www.waveformtransmitter.com/p/kein-name-respiratory
+
+Spotify: https://open.spotify.com/track/30udh9P4t0t620GnM9jtOo
+
+Exact resolver duration: 395,270 ms (6:35.270). BPM unavailable. Spotify returned album *Respiratory* and release date 2026-09-11.
+
+The exact-single source frames the track in early-2000s hardgroove terms but supplies no individual development or endpoint. No energy, density, space, hypnosis, phrase or mixability claim is inferred from that framing.
+
+- Volume fit: provisional PASS. The exact rhythmic proposition is compatible with the selection lens; genre framing is permission, not an admission reason.
+- Immediate transition: UNKNOWN at `Goink → Respiratory → Thick to Handle`; exact endpoints and handoffs remain untested.
+- Surrounding run: UNKNOWN through `FELT → Goink → Respiratory → Thick to Handle → LOVE`. The available evidence cannot establish whether the substantial candidate changes *Thick to Handle* or merely inserts another complete stage.
+- Long-form effect: UNKNOWN. At 6:35.270, downstream consequence cannot be assumed from hardgroove framing.
+- Reasonable alternative: `Tehutis Law → Respiratory → Pulse I`, tested through `LOVE → Tehutis Law → Respiratory → Pulse I → Roxellana`. Immediate transition, five-track consequence and long-form gain remain UNKNOWN for the same missing individual-trajectory evidence.
+- Verdict: PARKED. Retained as genuinely interesting and added to the doctrine-free global utility ledger. Reopen only for materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Exact unselected alternates — no musical verdict
+
+- Volumate / Various Artists — *Viking* — `spotify:track:081N5NFKZ1pTQT2qYp2iFK`
+- Vijunns — *1991* — `spotify:track:7jqxN5MMcapbZXo1cBZPxQ`
+- T.A.M — *Dalequetupuedada* — `spotify:track:7fH21p0aPylN4qi8hwgOTz`
+- Menson — *Testify* — `spotify:track:0jQFEmhk9E6oaluHFIKUGP`
+
+These exact resolver alternates were not selected and therefore received no volume, transition, run or journey verdict and no inspiration or utility retention.
+
+### Unresolved identities — no musical verdict
+
+- Not Charlie — *Causalidad*: `no exact Spotify title/artist search match in market SE`
+- The DirtBirdz — *Surgical Strike*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warning
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-08-21" but Spotify returned "2026-08-20"`
+
+### Auditor decision
+
+APPROVED. Required state passed UTF-8, JSON, protected-order, persistent-history and publication pre-audits. The request is fresh, its matching snapshot is internally valid, and only the three selected exact identities were evaluated. Each receives separate volume, immediate-transition, surrounding-run and long-form tests; UNKNOWN is not converted to musical failure. Repair Run 261's evidence guard improved candidate-specific information quality: *Stasis* and *Blast Off* have differentiated exact-track process evidence, while the one candidate lacking trajectory evidence is honestly PARKED. Two scoped rejections and one PARKED identity remain genuinely interesting and enter the doctrine-free global utility ledger. No canonical ADD or actionable REPAIR emerges.
+
+Run 262: `~97 inspected → 9 leads → 7 exact (3 selected + 4 alternates) + 2 unresolved → 3 evaluations → 0 ADD + 2 placement-specific REJECT + 1 PARKED → 3 utility additions`. Across completed discovery Runs 87–262, excluding repairs and failed requests: 1,242 leads / ~8,569 inspections / 48 ADDs / 360 selected candidates. Inspection-to-lead conversion was 9.3%, resolution yield 77.8% and selected-candidate-to-ADD conversion 0/3. Three of the last ten comparable completed discovery runs contain an ADD. The musical no-ADD streak is three completed runs after Run 256, with seven exact interesting tracks retained since that ADD. Audio analysis and live mixing were not tested.
+
 ## Repair Run 261 — 2026-09-15T02:06:00Z-repair-261
 
 Auditor-approved information-quality repair triggered by the recurrence guard. Runs 253 and 260 are the second and third most recent completed outward scans and each PARKED three selected exact identities because shared release-level framing could not distinguish individual direction, development or endpoint.
