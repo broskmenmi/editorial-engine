@@ -2,224 +2,332 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T01:53:04Z-explore-260",
-  "sourceCommit": "ab9ee63240d04162d2d55edaca4e7fb3fae8ee25",
+  "runId": "2026-09-15T02:51:21Z-explore-262",
+  "sourceCommit": "86fe0e61d37b8eba532eb4c47dfbe2f55bab0310",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 92 named tracks and releases across current September 2026 Waveform Transmitter coverage, Boomkat and ANOST Short Span pages, Club Furies current techno premieres, live Juno listings, and adjacent dub-techno/catalogue windows. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 97 named tracks and releases across the live Waveform Transmitter September 2026 feed and archive, current Club Furies signals and reviews, Boomkat's current techno/electronic storefront, exact label and retailer pages, and overlooked June-August catalogue material. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "The repaired target state, canonical ledger, active discussions, live revisit queue, rejected state, discoveries, both target-local inspiration files, publication state and global utility ledger were audited first. UTF-8 and JSON integrity checks passed; no objective defect, active listener authorization, triggered revisit or open workflow repair required REPAIR.",
-      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. This includes Picture — Waaaaaaa and Heeeeeee, all Run 259 identities and Extrawelt — Burned Filters from Auditor-vetoed Run 257; no prior identity was recycled here.",
-      "The scan covered current techno, adjacent/emerging dub-techno and a current re-press of overlooked catalogue material. Nine honest fresh leads survived durable-history exclusion; no ranking slot was filled for resolver convenience.",
-      "Individual descriptions remain attributed prose, not measurements. No wording was converted into inferred energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality. No placement splits either protected handoff in Transparency → When We Froze → Stardancer.",
-      "Rank reflects evidence specificity, fit hypothesis and information gain rather than novelty, genre orthodoxy, artist diversity, technical cleverness or a fixed chapter map. Sawa and Carried remain removed; Tender Is The Night remains positively retained."
+      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. This includes Run 259's DJ Carpenter and Shcuro/Vil/YUNX identities, Run 260's Picture/Hiss Is Bliss/Colomboi identities, and all Sa Pa Rhythm From Ambient titles already unresolved in Run 236.",
+      "Repair Run 261's evidence-quality guard was applied: these nine leads come from nine distinct releases, each with exact-track evidence or exact-single framing; no shared release description was multiplied into multiple candidates.",
+      "Candidate boundaries differ from the last three EXPLORE runs. No placement splits or reorders Transparency → When We Froze → Stardancer; the proposed Menson boundary is before Transparency and therefore outside the two protected internal handoffs.",
+      "Individual descriptions remain attributed prose, not measurements. No wording was converted into inferred energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality. Rank reflects evidence specificity, fit hypothesis and information gain rather than novelty, genre orthodoxy, artist diversity, technical cleverness or a fixed chapter map."
     ],
     "rankedLeadSummary": [
-      "1. Colomboi — Need",
-      "2. Picture — Tyyyyyy",
-      "3. Picture — Yeeeeeee",
-      "4. Picture — Keeeeeee",
-      "5. Picture — Qeeeeeee",
-      "6. Hiss Is Bliss — Estreez",
-      "7. Hiss Is Bliss — Epte Part1",
-      "8. Hiss Is Bliss — Saint Clair",
-      "9. Hiss Is Bliss, Ras Lys — Epte Part2"
+      "1. Not Charlie — Causalidad",
+      "2. ATMTD — Stasis",
+      "3. DJ Godfather — Blast Off",
+      "4. The DirtBirdz — Surgical Strike",
+      "5. KEIN NAME — Respiratory",
+      "6. Volumate — Viking",
+      "7. Vijunns — 1991",
+      "8. T.A.M — Dalequetupuedada",
+      "9. Menson — Testify"
     ],
     "sourceWindows": [
-      "CURRENT TECHNO / EMERGING: Club Furies exact Colomboi premiere, published 2026-09-06 for a 2026-09-11 release and checked 2026-09-15. https://clubfuries.com.mx/2026/09/06/cfs-colomboi-need-iar402/",
-      "CURRENT RE-PRESS / OVERLOOKED CATALOGUE: Boomkat and ANOST exact Picture / Short Span pages, checked 2026-09-15; the two titles already unresolved in persistent state were excluded. https://boomkat.com/products/eeeeeeee · https://www.anost.net/release/BF98/picture%2Feeeeeeee",
-      "ADJACENT DUB TECHNO: Boomkat live Estreez page plus current exact digital tracklist/date listings, checked 2026-09-15. https://boomkat.com/products/estreez · https://www.deejay.de/Hiss_Is_Bliss_Estreez_MOB003__1120769"
+      "CURRENT TECHNO / EMERGING: Waveform Transmitter's live September feed and exact reviews for Not Charlie, ATMTD, KEIN NAME and The DirtBirdz, checked 2026-09-15. https://www.waveformtransmitter.com/ · https://www.waveformtransmitter.com/p/not-charlie-inconformista · https://www.waveformtransmitter.com/p/atmtd-stasis · https://www.waveformtransmitter.com/p/kein-name-respiratory · https://www.waveformtransmitter.com/p/dirtbirdz-death-march",
+      "CURRENT / ADJACENT RHYTHMIC WORLDS: exact Waveform pages for DJ Godfather, T.A.M and the Forest Voltage compilation plus Club Furies' exact Surgical Strike signal, checked 2026-09-15. https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off · https://www.waveformtransmitter.com/p/tam-16d-ep · https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage · https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/",
+      "OVERLOOKED CATALOGUE / ADJACENT: exact June-August Waveform reviews for Vijunns and Menson, checked 2026-09-15, with current Boomkat and retailer pages used only to broaden the scan and confirm release windows. https://www.waveformtransmitter.com/p/vijunns-1991-review · https://www.waveformtransmitter.com/p/menson-testify · https://boomkat.com/"
     ],
-    "timestampUtc": "2026-09-15T01:53:04Z"
+    "timestampUtc": "2026-09-15T02:51:21Z"
   },
   "leads": [
     {
-      "artist": "Colomboi",
-      "track": "Need",
-      "album": "Alchemy",
+      "artist": "Not Charlie",
+      "track": "Causalidad",
+      "album": "Inconformista",
+      "releaseDate": "2026-09-04",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/not-charlie-inconformista",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Waveform Transmitter describes insistent percussion and a brooding bottom end interrupted by radar beeps and insect-like clicks, with a midpoint breakdown.",
+        "editorialInterpretation": "Test the documented propulsion-to-breakdown process before Foundry while keeping exact endpoint, handoffs, perceived pulse, energy, density, space, phrasing and mixability unknown.",
+        "measured": [
+          "The source identifies Causalidad on Inconformista with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A formed process that explicitly breaks midway could give Foundry a more concrete unstable condition to redirect, or could duplicate Foundry's own directional work.",
+      "proposedPlacements": [
+        {
+          "position": "Between Abundance and Foundry",
+          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+          "followingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the internal breakdown changes Foundry's work or merely adds another instability stage."
+        }
+      ]
+    },
+    {
+      "artist": "ATMTD",
+      "track": "Stasis",
+      "album": "Stasis",
+      "releaseDate": "2026-07-31",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/atmtd-stasis",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Waveform Transmitter describes intertwined acid lines, oscillating and panning synths, and insistent kicks; the artist frames the title as a suspended moment where sound and picture merge.",
+        "editorialInterpretation": "Treat the description as an internal relation, not measurement of hypnosis, space or groove; test whether the formed suspension changes Serpentine Tale's continuation.",
+        "measured": [
+          "The source identifies Stasis on Stasis with release date 2026-07-31; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A sustained acid-and-kick construction may make Serpentine Tale answer a more explicit suspended grid after Tides Alternate, or may merely prolong a stable middle state.",
+      "proposedPlacements": [
+        {
+          "position": "Between Tides Alternate and Serpentine Tale",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether suspension produces a consequential continuation rather than another compatible room."
+        }
+      ]
+    },
+    {
+      "artist": "DJ Godfather",
+      "track": "Blast Off",
+      "album": "1000 Musik",
+      "releaseDate": "2026-09-04",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Waveform Transmitter identifies a breakbeat-led electro workout with Detroit swing, made entirely on a Roland TR-1000.",
+        "editorialInterpretation": "Use the described rhythmic construction and method only; do not infer energy, mixability or endpoint. Test it after the protected trio, which remains intact.",
+        "measured": [
+          "The source identifies Blast Off on 1000 Musik with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A concise breakbeat-electro formation could make Migration a deliberate cooling translation after the trio, or could insert an unnecessary second declaration.",
+      "proposedPlacements": [
+        {
+          "position": "Between Stardancer and Migration",
+          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
+          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the electro left turn changes Migration's arrival without touching either protected internal handoff."
+        }
+      ]
+    },
+    {
+      "artist": "The DirtBirdz",
+      "track": "Surgical Strike",
+      "album": "Warcrimes",
       "releaseDate": "2026-09-11",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://clubfuries.com.mx/2026/09/06/cfs-colomboi-need-iar402/",
+      "discoverySource": "https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Contrasting elements can support an intentional left turn when their internal relation changes the successor's work; contrast alone is insufficient.",
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Club Furies describes Need as agile against rugged edges, with a dense, deep progression joining contrasting qualities in one construction.",
-        "editorialInterpretation": "Test the documented internal duality before Worn Down; do not treat the review's agility, depth or density language as measurement or infer endpoint and handoff quality.",
-        "measured": ["Club Furies lists Need as track 2 of Alchemy, released 2026-09-11.", "Exact market-SE Spotify identity, credits and duration require resolver evidence."]
+        "attributedDescription": "Club Furies describes relentless percussion over a saturated distorted bassline, a piercing drone that builds throughout, and motion between peak intensity and brooding valleys.",
+        "editorialInterpretation": "Treat intensity and sonic texture as attributed language, not measurement; test the documented continuous build before Pulse I without inferring mixability.",
+        "measured": [
+          "The source identifies Surgical Strike on Warcrimes with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "A bounded internally contrasted formation could give Worn Down a specific coherence to threaten after Foundry's unstable motion, or could over-explain that threshold.",
-      "proposedPlacements": [{"position": "Between Foundry and Worn Down", "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen", "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether internal duality changes the threshold's work or merely inserts another complete state."}]
+      "fitHypothesis": "A continuous percussion-and-drone process could give Pulse I a specific skeletal accumulation to reframe after Tehutis Law, or could crowd the existing conflict-to-accumulation relation.",
+      "proposedPlacements": [
+        {
+          "position": "Between Tehutis Law and Pulse I",
+          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
+          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the build changes Pulse I's gradual accumulation or duplicates it."
+        }
+      ]
     },
     {
-      "artist": "Picture",
-      "track": "Tyyyyyy",
-      "album": "Eeeeeeee",
-      "releaseDate": "2026-09-25",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/eeeeeeee",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A chord-and-kick relation can belong without sharing a sonic room when it gives the surrounding run a deliberate new condition.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat groups Tyyyyyy and Yeeeeeee around feathered chord-and-kick interplay; ANOST verifies Tyyyyyy as a 7:55 track on the six-track Short Span release.",
-        "editorialInterpretation": "Test the pair-attributed construction before Tehutis Law while keeping individual development, endpoint, energy, density, space, phrase fit and mixability unknown.",
-        "measured": ["ANOST lists Tyyyyyy at 7:55; Boomkat estimates the re-press for 2026-09-25.", "Exact market-SE Spotify identity and duration require resolver evidence."]
-      },
-      "fitHypothesis": "The long chord-and-kick formation could let Tehutis Law re-ground a more explicit interlocking condition, but may crowd the active deformation-to-conflict run.",
-      "proposedPlacements": [{"position": "Between LOVE YOUR ENEMIES and Tehutis Law", "precedingUri": "spotify:track:6UqZGPmUv9OUibCZbqYubL", "followingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": 139, "purpose": "Test whether the formation changes re-grounding or adds a second complete conflict resolution."}]
-    },
-    {
-      "artist": "Picture",
-      "track": "Yeeeeeee",
-      "album": "Eeeeeeee",
-      "releaseDate": "2026-09-25",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/eeeeeeee",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "Shared descriptive evidence can justify identity resolution and a bounded test, but cannot prove individual trajectory.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat groups Yeeeeeee with Tyyyyyy around feathered chord-and-kick interplay; ANOST verifies Yeeeeeee as a 5:22 track.",
-        "editorialInterpretation": "Test the pair-attributed proposition after the fault line without assigning individual direction or any unmeasured sonic quality.",
-        "measured": ["ANOST lists Yeeeeeee at 5:22; Boomkat estimates the re-press for 2026-09-25.", "Exact market-SE Spotify identity and duration require resolver evidence."]
-      },
-      "fitHypothesis": "A shorter chord-and-kick scene might turn Style Teef's deformation into a new formed condition before Same Way, or merely postpone the existing body-pressure hinge.",
-      "proposedPlacements": [{"position": "Between Style Teef and Same Way", "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo", "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether the candidate changes the hinge or delays it with another formation."}]
-    },
-    {
-      "artist": "Picture",
-      "track": "Keeeeeee",
-      "album": "Eeeeeeee",
-      "releaseDate": "2026-09-25",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/eeeeeeee",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "Dub-techno vocabulary may redirect a passage, but stylistic connective tissue does not itself establish transition or journey value.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat groups Keeeeeee and Qeeeeeee as the release's move into deep dub techno; ANOST verifies Keeeeeee as a 6:40 track.",
-        "editorialInterpretation": "Test the pair-attributed dub proposition before FELT while keeping individual direction, endpoint, density, space, hypnosis and mixability unknown.",
-        "measured": ["ANOST lists Keeeeeee at 6:40; Boomkat estimates the re-press for 2026-09-25.", "Exact market-SE Spotify identity and duration require resolver evidence."]
-      },
-      "fitHypothesis": "A sustained dub-techno state could make FELT a newly distinct rolling formation after Trompe L'oeil, but may duplicate the reset's existing dubwise work.",
-      "proposedPlacements": [{"position": "Between Trompe L'oeil and FELT", "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba", "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR", "incomingBpm": 130, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether a longer dub state changes FELT's task or repeats the reset."}]
-    },
-    {
-      "artist": "Picture",
-      "track": "Qeeeeeee",
-      "album": "Eeeeeeee",
-      "releaseDate": "2026-09-25",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/eeeeeeee",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A dub-techno after-state can be a left turn if the ending gains a distinct consequence; genre alone cannot supply that function.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat groups Qeeeeeee and Keeeeeee as the release's move into deep dub techno; ANOST verifies Qeeeeeee as a 5:08 track.",
-        "editorialInterpretation": "Test the pair-attributed proposition before the final electro-soul afterword without inferring individual endpoint, atmosphere, emotion or handoff quality.",
-        "measured": ["ANOST lists Qeeeeeee at 5:08; Boomkat estimates the re-press for 2026-09-25.", "Exact market-SE Spotify identity and duration require resolver evidence."]
-      },
-      "fitHypothesis": "A concise dub-techno scene after restrained footwork might give Invisible Warriors Of Light a transformed arrival, or over-articulate an ending that already resolves clearly.",
-      "proposedPlacements": [{"position": "Between Can I live and Invisible Warriors Of Light", "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh", "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether the inserted state changes the afterword or merely adds another ending scene."}]
-    },
-    {
-      "artist": "Hiss Is Bliss",
-      "track": "Estreez",
-      "album": "Estreez",
+      "artist": "KEIN NAME",
+      "track": "Respiratory",
+      "album": "Respiratory",
       "releaseDate": "2026-09-11",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/estreez",
+      "discoverySource": "https://www.waveformtransmitter.com/p/kein-name-respiratory",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "An exact title from a relevant release can be resolved without pretending release-level genre supplies individual movement.",
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat identifies Estreez as a Hiss Is Bliss release on Mob Museum in dub-techno territory; available prose does not distinguish the title track's behavior.",
-        "editorialInterpretation": "Resolve and test only if exact; expect direction, endpoint and all transition claims to remain unknown without richer evidence.",
-        "measured": ["Current digital listings identify Estreez as a 5:43 track released 2026-09-11.", "Exact market-SE Spotify identity and duration require resolver evidence."]
+        "attributedDescription": "Waveform Transmitter identifies the single as early-2000s-referenced hardgroove-style techno and says it thunders; no finer individual development or endpoint is documented.",
+        "editorialInterpretation": "Use the exact single framing only; keep trajectory, endpoint, transition quality, energy, density, space, phrasing and mixability unknown.",
+        "measured": [
+          "The source identifies Respiratory on Respiratory with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "A bounded dub-techno title track may be worth preserving near the reset, but release-level framing cannot yet establish whether it changes FELT's work.",
-      "proposedPlacements": [{"position": "Between Trompe L'oeil and FELT", "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba", "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR", "incomingBpm": 130, "candidateBpm": null, "outgoingBpm": null, "purpose": "Resolve whether exact identity creates an evidence-worthy future test without assuming a transition."}]
+      "fitHypothesis": "A compact hardgroove proposition may give Thick to Handle a contrasting deformation target after Goink, but present evidence may prove too broad for a sequence claim.",
+      "proposedPlacements": [
+        {
+          "position": "Between Goink and Thick to Handle",
+          "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
+          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Resolve whether the exact single supports a consequential contrast without assuming its handoffs."
+        }
+      ]
     },
     {
-      "artist": "Hiss Is Bliss",
-      "track": "Epte Part1",
-      "album": "Estreez",
-      "releaseDate": "2026-09-11",
+      "artist": "Volumate",
+      "track": "Viking",
+      "album": "FOREST VOLTAGE",
+      "releaseDate": "2026-08-28",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/estreez",
+      "discoverySource": "https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Exact identity and duration can support bounded editorial triage, but not an invented individual trajectory.",
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat places the Estreez release in dub-techno territory; the available prose does not distinguish Epte Part1 from its release context.",
-        "editorialInterpretation": "Treat release framing as selection permission only; keep individual materials, direction, endpoint and all handoffs unknown.",
-        "measured": ["Current digital listings identify Epte Part1 as a 5:22 track released 2026-09-11.", "Exact market-SE Spotify identity and duration require resolver evidence."]
+        "attributedDescription": "Waveform Transmitter describes heavy breakbeat action with tribal chanting and cult-like percussion, functioning as the compilation's rousing introduction.",
+        "editorialInterpretation": "Test the documented breakbeat-and-chant relation before Sarniezz; do not turn the review's affective language into measured energy or emotional effect.",
+        "measured": [
+          "The source identifies Viking on FOREST VOLTAGE with release date 2026-08-28; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "The exact track may preserve a useful dub-techno research path, but present evidence cannot show whether it changes the Raataja-to-Ingress re-entry.",
-      "proposedPlacements": [{"position": "Between Raataja and Ingress", "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF", "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Resolve whether exact identity warrants a future placement claim while preserving current uncertainty."}]
+      "fitHypothesis": "The ritual breakbeat formation could make Sarniezz's live-meter reinterpretation a meaningful second left turn, or could stack two self-contained spectacles.",
+      "proposedPlacements": [
+        {
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the different rhythmic world gives Sarniezz new work or merely lengthens the detour."
+        }
+      ]
     },
     {
-      "artist": "Hiss Is Bliss",
-      "track": "Saint Clair",
-      "album": "Estreez",
-      "releaseDate": "2026-09-11",
+      "artist": "Vijunns",
+      "track": "1991",
+      "album": "1991",
+      "releaseDate": "2026-06-09",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/estreez",
+      "discoverySource": "https://www.waveformtransmitter.com/p/vijunns-1991-review",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "A release-world proposition may fit the selection lens while remaining insufficient for sequencing judgment.",
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat places the Estreez release in dub-techno territory; the available prose does not distinguish Saint Clair's individual construction.",
-        "editorialInterpretation": "Resolve the exact title without transferring release-level genre into individual space, hypnosis, energy, structure or mixability claims.",
-        "measured": ["Current digital listings identify Saint Clair as a 6:18 track released 2026-09-11.", "Exact market-SE Spotify identity and duration require resolver evidence."]
+        "attributedDescription": "Waveform Transmitter describes a low-slung breakbeat surrounded by low-end frequencies, joined by shimmering pads and an acid line before a crescendo carries the track out.",
+        "editorialInterpretation": "Use the documented start-to-exit development but do not infer measured density, space, energy or emotional effect; test the exit before Nukumori.",
+        "measured": [
+          "The source identifies 1991 on 1991 with release date 2026-06-09; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "The exact track could preserve a catalogue path around post-crisis formation, but no present evidence shows whether Crawl would receive different work.",
-      "proposedPlacements": [{"position": "Between Ingress and Crawl", "precedingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA", "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF", "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Resolve an exact identity without presuming that shared release context improves the plateau."}]
+      "fitHypothesis": "A breakbeat-to-crescendo process could let Nukumori arrive as a deliberate material release after It Never Made Sense, or could over-compose the late disassembly.",
+      "proposedPlacements": [
+        {
+          "position": "Between It Never Made Sense and Nukumori",
+          "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the documented exit changes Nukumori's role or inserts another complete late arc."
+        }
+      ]
     },
     {
-      "artist": "Hiss Is Bliss, Ras Lys",
-      "track": "Epte Part2",
-      "album": "Estreez",
-      "releaseDate": "2026-09-11",
+      "artist": "T.A.M",
+      "track": "Dalequetupuedada",
+      "album": "16D EP",
+      "releaseDate": "2026-08-21",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/estreez",
+      "discoverySource": "https://www.waveformtransmitter.com/p/tam-16d-ep",
       "searchIntent": "BOTH",
       "evidence": {
-        "craftConvention": "Additional credits and release context are identity evidence, not proof of a special chapter or ending role.",
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Current listings credit Hiss Is Bliss with Ras Lys on Epte Part2; Boomkat places the parent release in dub-techno territory but gives no individual behavioral description.",
-        "editorialInterpretation": "Resolve the credited identity while keeping voice use, direction, endpoint, emotional effect, phrase structure and transition quality unknown.",
-        "measured": ["Current digital listings identify Epte Part2 featuring Ras Lys as a 5:23 track released 2026-09-11.", "Exact market-SE Spotify identity, canonical credits and duration require resolver evidence."]
+        "attributedDescription": "Waveform Transmitter describes a hardgroove roller with salsa, cumbia and Caribbean percussion references, a chainsaw-like breakdown around 1:20, a midpoint build and an operatic vocal.",
+        "editorialInterpretation": "Treat timestamps and described events as source evidence while keeping exact handoffs, perceived pulse, scalar energy, density, space, phrasing and mixability unknown.",
+        "measured": [
+          "The source identifies Dalequetupuedada on 16D EP with release date 2026-08-21; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
       },
-      "fitHypothesis": "The credited exact track may be interesting beyond the canonical ending, but shared release framing cannot establish a distinct afterword consequence.",
-      "proposedPlacements": [{"position": "After Invisible Warriors Of Light", "precedingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG", "followingUri": null, "incomingBpm": null, "candidateBpm": null, "outgoingBpm": null, "purpose": "Test whether the exact identity merits retention without assuming a second afterword."}]
+      "fitHypothesis": "The explicit breakdown-and-build could give Té de Cabello Blanco a complex rhythmic state to answer after Drummz, or could add a redundant complete escalation.",
+      "proposedPlacements": [
+        {
+          "position": "Between Drummz and Té de Cabello Blanco",
+          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether the candidate changes the successor's work across the three-track hinge."
+        }
+      ]
+    },
+    {
+      "artist": "Menson",
+      "track": "Testify",
+      "album": "Testify",
+      "releaseDate": "2026-08-14",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://www.waveformtransmitter.com/p/menson-testify",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Menson tells Waveform Transmitter that the track is built around gospel or chant-like repetition, where a repeated thought becomes larger than its words.",
+        "editorialInterpretation": "Use the artist's compositional account without assigning emotional effect, hypnosis, energy or mixability; test its repetition before Transparency without treating that incoming boundary as protected.",
+        "measured": [
+          "The source identifies Testify on Testify with release date 2026-08-14; exact market-SE Spotify identity, credits and duration require resolver evidence."
+        ]
+      },
+      "fitHypothesis": "A voice-led repetition process could make Transparency a deliberate abstraction after U Belong 2 Me, or could repeat an already explicit vocal-collapse idea.",
+      "proposedPlacements": [
+        {
+          "position": "Between U Belong 2 Me and Transparency",
+          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a new repetition process changes the approach to the protected trio while preserving both internal handoffs."
+        }
+      ]
     }
   ]
 }
