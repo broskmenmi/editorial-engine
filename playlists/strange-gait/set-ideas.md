@@ -3,6 +3,22 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 259
+
+### A lock-and-break process still needs downstream consequence
+
+**Direction:** Test concise hybrid locking processes by whether their exit changes the next track's work, not by whether they smooth a conspicuous production-world turn.
+
+**Ingredients:**
+
+- Angine de Poitrine — *Sarniezz* → Sam Prekop — *Never Met* → DJ Carpenter — *Open The Bag* → Wheelman — *Trompe L'oeil* → JWords — *FELT* — placement-specific counterexample
+- Sciahri — *Too Much Time* → 96 Back — *Freepass for Them* → DJ Carpenter — *Open The Bag* → Coki — *Humanoidz* → Sciahri — *Moonwake* — reasonable alternative counterexample
+- Shcuro & Vil / Paraíso and Yunx / Neo Ouija — unresolved current and adjacent research directions
+
+**Why interesting:** The exact track's documented convergence and midpoint interruption provide a concrete intermediate process. The useful question is whether its exit makes a following reset or lurch newly consequential; at both tested placements, that evidence is absent.
+
+**Boundary:** This is an editorial set direction, not a proven sequence, energy claim, density claim, space claim, phrase-fit claim, emotional-effect claim or live-mixing edge. Exact handoffs, endpoint and perceived pulse remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 256
 
 ### Formation can give a fault line an object

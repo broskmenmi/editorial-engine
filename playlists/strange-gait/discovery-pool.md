@@ -3,6 +3,24 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 259 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | DJ Carpenter | Open The Bag | `spotify:track:40s3OtHMP4nUpxwye1VGKs` · https://open.spotify.com/track/40s3OtHMP4nUpxwye1VGKs · https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books | Exact 3:09.750 lock-and-break process remains interesting; rejected only at the two tested placements because neither changes the successor's established work. Added globally. |
+| UNRESOLVED RESEARCH | Shcuro & Vil; Yunx; DJ Carpenter | *Motorik*; *Emergence Dub*; *Human Beats*; *Off the Books*; *Two Lazy Sisters*; *Origins*; *Funk in the Freezer*; *The Light in the North is Shining* | Sources preserved in scout-request.json | Eight Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT TECHNO WATCH | Paraíso / Shcuro & Vil | *Repercussions Part 2* | https://www.waveformtransmitter.com/p/shcuro-vil-repercussions-part-two · https://discosparaiso.bandcamp.com/album/repercussions-part-2 | Controlled mutation, dub-rooted formation and stripped rhythmic experiments remain useful research paths; unresolved identities are not promoted into track claims. |
+| ADJACENT / EMERGING WATCH | Neo Ouija / Yunx; Steel City Dance Discs / DJ Carpenter | *Iconiconical*; *Off The Books* | https://www.waveformtransmitter.com/p/yunx-iconiconical · https://neoouija.bandcamp.com/album/iconiconical · https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books | Hybrid electro, acid, breaks, UKG and techno constructions remain useful windows without transferring release-level descriptions to unresolved identities. |
+| CATALOGUE / REMASTER WATCH | Blueprint / James Ruskin; Arovane | *Further Design (2026 Remaster)*; *Atol Scrap (2026 Remaster)* | https://boomkat.com/products/further-design-2026-remaster · https://www.juno.co.uk/techno/this-week/ | Inspected as overlooked recirculation paths; persistent prior decisions were excluded and no fresh lawful lead was padded into the request. |
+
+### Run 259 boundaries
+
+- *Open The Bag* passes the volume lens but is rejected only at `Never Met → candidate → Trompe L'oeil` and `Freepass for Them → candidate → Humanoidz`.
+- Exact handoffs and endpoint remain unknown; both surrounding-run and long-form tests fail because the available evidence does not give either successor different work.
+- The evaluated exact identity enters the doctrine-free global utility ledger.
+- Eight unresolved identities remain research leads only.
+- Set direction: distinguish an interesting intermediate locking process from one that actually changes the next reset or lurch.
+
 ## Run 256 harvest — 2026-09-14
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

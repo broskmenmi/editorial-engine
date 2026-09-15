@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 259 — EXPLORE — an intermediate lock still needs an altered successor
+
+Pre-audit reconciled 61 canonical identities and annotations, the repaired target histories, exact generated map, both verified Spotify receipts, empty clarification queue, no TRIGGERED revisit and no active objective repair. The protected trio remained contiguous at positions 51–53. Only Run 253 contained a recent multi-PARK result, so the recurrence guard did not trigger. The lane was EXPLORE.
+
+A fresh scan of approximately 94 current-release, adjacent/emerging and overlooked-catalogue items produced nine honest leads. The matching schemaVersion 2 snapshot is PARTIAL: one exact selected identity, eight unresolved identities, no warnings and no technical failures. DJ Carpenter — *Open The Bag* passes the volume lens but is rejected only at two tested placements. Its documented UKG/grime lock-and-break process creates an interesting intermediate state, yet the available evidence establishes neither an endpoint nor a downstream change to *Trompe L'oeil*'s reset or *Humanoidz*'s compact-lurch task.
+
+STRANGE GAIT remains 61 tracks. The protected trio remains contiguous and internally exact at positions 51–53. The doctrine-free global utility ledger becomes 502 tracks by retaining the evaluated exact identity. Eight unresolved identities receive no musical verdict or utility row. No actionable REPAIR emerged. Audio analysis and live mixing were not tested.
+
+Run 259: `~94 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`. Across completed discovery Runs 87–259, excluding repairs and failed requests: 1,224 leads / ~8,380 inspections / 48 ADDs / 354 selected candidates. Inspection-to-lead conversion was 9.6%, resolution yield 11.1% and selected-candidate-to-ADD conversion 0/1. Four of the last ten comparable completed discovery runs contain an ADD; the musical no-ADD streak is one completed run after Run 256.
+
 ## Repair Run 258 — restore target-local editorial histories
 
 Run `2026-09-15T00:07:00Z-repair-258` repairs an objective durable-state defect discovered during Run 257's pre-publication integrity check. Approved Run 256 had collapsed `discovery-pool.md` and `notes.md` into one line of non-UTF-8 data and converted `set-ideas.md` to non-UTF-8 data. The repair restores the exact three histories from the Run 256 resolver parent and reapplies only Run 256's already approved discovery harvest, set direction and editorial note. It changes no playlist identity, order, annotation, utility membership, publication configuration or protected state.

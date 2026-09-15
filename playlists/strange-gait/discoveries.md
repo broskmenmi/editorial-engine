@@ -1,5 +1,45 @@
 # STRANGE GAIT — Discoveries
 
+## Run 259 — 2026-09-15T00:48:13Z-explore-259
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `73c22ba1b2d805702c0107d325c3c96dfa5dbe91`, requestFingerprint `94348c9999532653e80b34212708c1d4c6bd4dce2cde1d2710a1e5701254ae53`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures. Every exact resolver error is preserved below.
+
+### Evaluated exact candidate
+
+#### DJ Carpenter — Open The Bag — `spotify:track:40s3OtHMP4nUpxwye1VGKs` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books
+
+Spotify: https://open.spotify.com/track/40s3OtHMP4nUpxwye1VGKs
+
+Exact resolver duration: 189,750 ms (3:09.750). BPM unavailable. Spotify returned album *Off The Books* and release date 2026-09-10.
+
+Waveform Transmitter individually describes a dark UKG vein with a grime-style vocal, elements locking together and a midpoint breakdown. This establishes a concise lock-and-break process, not its exact entry, exit, endpoint, perceived pulse, energy, density, space, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The documented UKG/grime vocabulary, convergence and internal interruption support rhythmic and structural freedom under the selection lens. The decision does not require genre orthodoxy, novelty or one production room.
+- Immediate transition: UNKNOWN at `Never Met → Open The Bag → Trompe L'oeil`. Exact endpoints and handoffs remain untested; a shared rhythmic vocabulary is not treated as mix evidence.
+- Surrounding run: FAIL proportionally through `Sarniezz → Never Met → Open The Bag → Trompe L'oeil → FELT`. The candidate supplies a complete intermediate lock-and-break process, but the source does not establish an exit that changes *Trompe L'oeil*'s existing dubwise staggered-swing reset. The insertion mediates an already legible production-world turn rather than redirecting the run.
+- Long-form effect: FAIL at this placement. The concise duration limits sprawl, but boundedness alone does not create consequence. *Trompe L'oeil* still performs the same reset before *FELT* forms a rolling groove.
+- Reasonable alternative: `Too Much Time → Freepass for Them → Open The Bag → Humanoidz → Moonwake` also receives an UNKNOWN immediate-transition test and FAILS at local-run and long-form scales. The documented lock-and-break process would add another complete rhythmic scene after the groove pivot, while the available evidence does not change *Humanoidz*'s existing compact-lurch task before renewed intensification.
+- Verdict: REJECT only at both tested placements. This is not a global rejection; the exact track remains genuinely interesting and enters the doctrine-free global utility ledger.
+
+### Unresolved identities — no musical verdict
+
+- Shcuro & Vil — *Motorik*: `no exact Spotify title/artist search match in market SE`
+- Shcuro & Vil — *Emergence Dub*: `no exact Spotify title/artist search match in market SE`
+- Yunx — *Human Beats*: `no exact Spotify title/artist search match in market SE`
+- DJ Carpenter — *Off the Books*: `no exact Spotify title/artist search match in market SE`
+- Yunx — *Two Lazy Sisters*: `no exact Spotify title/artist search match in market SE`
+- Shcuro & Vil — *Origins*: `no exact Spotify title/artist search match in market SE`
+- Yunx — *Funk in the Freezer*: `no exact Spotify title/artist search match in market SE`
+- Yunx — *The Light in the North is Shining*: `no exact Spotify title/artist search match in market SE`
+
+### Auditor decision
+
+APPROVED. The repaired target state passed UTF-8, JSON, protected-order, persistent-history and publication pre-audits. No objective defect, active listener authorization, TRIGGERED revisit or recurring same-gap PARK cluster required REPAIR. The request is fresh against canonical and persistent decision state, the matching snapshot is internally valid, and only its selected exact identity was evaluated. All four required tests are separate, the reasonable alternative placement is recorded, the inference boundary is preserved and the protected trio remains contiguous and internally unchanged. *Open The Bag* is retained as genuinely interesting and therefore enters the doctrine-free global utility ledger; the eight unresolved leads do not.
+
+Run 259: `~94 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`. Across completed discovery Runs 87–259, excluding repairs and failed requests: 1,224 leads / ~8,380 inspections / 48 ADDs / 354 selected candidates. Inspection-to-lead conversion was 9.6%, resolution yield 11.1% and selected-candidate-to-ADD conversion 0/1. Four of the last ten comparable completed discovery runs contain an ADD. The musical no-ADD streak is one completed run after Run 256, with one exact interesting track retained since that ADD. Resolver loss remains dominant and is not evidence of playlist completion. Audio analysis and live mixing were not tested.
+
 ## Repair Run 258 — 2026-09-15T00:07:00Z-repair-258
 
 Auditor-approved objective repair after the pre-publication integrity check for Run 257. Approved Run 256 commit `e4cfe1689073b7b8e92c963c2545e2d07e454430` had replaced the 912-line target-local `discovery-pool.md` and 1,203-line `notes.md` histories with single lines of non-UTF-8 data and converted the 1,522-line `set-ideas.md` history to non-UTF-8 data. The repair restores all three exact histories from Run 256's resolver parent `82a6e41d409df2761e464e54df897c6a1baf9c50`, then reapplies the intended Run 256 discovery harvest, set direction and editorial note from the already approved exact resolver evidence and canonical decision.
