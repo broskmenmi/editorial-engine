@@ -10,7 +10,7 @@ Several manually transcribed placement URIs did not match the current canonical 
 
 ## Run 277 — 2026-09-15T15:58:30Z-explore-277
 
-Matching resolver snapshot: schemaVersion 2, sourceCommit `8e2ac4d60b74e0e3adc23eba22a13c3047938a51`, requestFingerprint `76f4d260345c9c2f4f0069f273828bad5ad71fe105e773d39de16dca3a34460a`, generated 2026-09-15T15:59:50.617Z, PARTIAL. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. Four metadata warnings were preserved. No duplicates, substitutions, relinkings or terminal technical resolver failures occurred. The nine leads came from nine releases, applied the activated one-track-per-release evidence guard and avoided every boundary evaluated in Runs 270–274.
+Matching resolver snapshot: schemaVersion 2, sourceCommit `8e2ac4d60b74e0e3adc23eba22a13c3047938a51`, requestFingerprint `76f4d260345c9c2f4f0069f273828bad5ad71fe105e773d39de16dca3a34460a`, generated 2026-09-15T15:59:50.617Z, PARTIAL. The immutable request commit is `9edeb32d1451954c62c81acb820814f1aefab7b9`; resolver workflow `34992098574` persisted the terminal snapshot at commit `5245062a43c72c97111a3cf7aee7509a4d827455`. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. Four metadata warnings were preserved. No duplicates, substitutions, relinkings or terminal technical resolver failures occurred. The nine leads came from nine releases, applied the activated one-track-per-release evidence guard and avoided every boundary evaluated in Runs 270–274.
 
 ### Evaluated exact candidates
 
