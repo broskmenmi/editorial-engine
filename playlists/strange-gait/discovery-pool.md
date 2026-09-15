@@ -1,5 +1,15 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 282 — exact inspiration retained
+
+- Nene H — *Back to Beste* — `spotify:track:3ujgu4rHM2fLvVv643Hgso` — exact 3:15.727 identity; placement-specific reject at `Fragments → candidate → Dark Necessity`, retained for its documented industrial-techno declaration and self-affirming album-stage function.
+- OK EG — *Pressure* — `spotify:track:3sl4K2Skt38DSI8dkunjUV` — exact 7:31.127 identity; PARKED at `Goink → candidate → Thick to Handle` because release-level pulse and tension/release framing does not establish individual development or endpoint.
+- ESTADO DE BIENESTAR — *Open Your Dub* — `spotify:track:1Fx0Rt0SNceZ7BV76d3nkc` — exact 4:56.126 identity; PARKED at `IF U WANT 2 → candidate → Fulledge (Empty-40 Mix)` because release-level tribal-dub/electro/ambient framing does not establish individual trajectory.
+- Machine Emotion — *E-Search* resolved exactly as an unselected alternate and received no musical verdict or utility retention.
+- Research leads without verdict: Marcal — *Smoke From Respawn*; Crystal Waters — *Gypsy Woman (Rave Yard mix)*; Versalife — *Machine Life (Roman Flügel Remix)*; Arkajo — *Writhe*; Acoustic Vision — *Pollen Street*.
+- Source direction: current official Bandcamp, Juno, Deejay.de and exact review pages across techno, dub, electro, breaks and adjacent experimental windows checked 2026-09-15. Set direction retained: a stronger declaration creates contrast; structural admission still depends on changed downstream consequence.
+- Audio analysis and live mixing were not tested.
+
 ## Run 281 — exact inspiration retained
 
 - Villager — *KEEP IT GOING* — `spotify:track:1GpjGo1Kaz9h9zpVmzKy2d` — exact 4:31.934 identity; PARKED at `Style Teef → candidate → Same Way` because the official listing does not establish individual development or endpoint.

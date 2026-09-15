@@ -1,5 +1,24 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 282
+
+### Declaration versus downstream consequence
+
+**Direction:** Test strong foreground states by whether their exit changes the successor, while keeping release-level rhythmic vocabulary separate from individual trajectory.
+
+**Ingredients:**
+
+- FIS — *Mildew Swoosh* → CHANCEKNOT — *Fragments* → Nene H — *Back to Beste* → Taoyema — *Dark Necessity* → Clotur — *Drummz* — placement-specific reject; the industrial declaration increases contrast but does not change the existing muted-build-to-lock and destabilization tasks
+- JWords — *FELT* → Someone Else — *Goink* → OK EG — *Pressure* → brenner — *Thick to Handle* → SHERELLE / Cameo Blush — *LOVE YOUR ENEMIES* — parked; release-level pulse and tension/release language cannot establish the candidate's individual exit
+- DjRUM — *Crawl* → 50Dix — *IF U WANT 2* → ESTADO DE BIENESTAR — *Open Your Dub* → Demdike Stare — *Fulledge (Empty-40 Mix)* → Nørbak — *Capa* — parked; broad tribal-dub/electro/ambient framing cannot determine threshold consequence
+- Marcal, Crystal Waters, Versalife, Arkajo and Acoustic Vision — unresolved exact-title research directions; Machine Emotion remained an unselected exact alternate
+
+**Why interesting:** One short, forceful exact track shows that a more dramatic reset is not automatically a changed reset. The two longer exact candidates preserve different rhythmic and dub questions, but their shared release-level evidence cannot support individual sequencing claims.
+
+**Boundary:** The Nene H verdict rejects only the tested placement. The two PARKED hypotheses require materially richer track-specific or listener evidence, lawful audio evidence or a changed journey need. The alternate and unresolved identities received no musical verdict.
+
+**Unknown / risk:** Exact handoffs, endpoints, BPM, perceived pulse, energy, density, space, hypnosis, emotion, phrasing and mixability remain unknown. Audio analysis and live mixing were not tested.
+
 ## Current additions — Run 281
 
 ### Release context versus individual trajectory

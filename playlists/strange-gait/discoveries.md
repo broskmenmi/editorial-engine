@@ -1,5 +1,59 @@
 # STRANGE GAIT — Discoveries
 
+## Run 282 — 2026-09-15T21:49:26Z-explore-282
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `c784cf8acd8afa42e09ce6f3cfb77fdfb1d68e65`, requestFingerprint `fd51b423b39bd959d0c84d1ccc69901a4620f303d1c1834f9b477c8753b9ec28`, generated 2026-09-15T21:54:47.991Z, PARTIAL. Immutable request commit `c5b231ab7ae6b599defe24e152c7ff64ba57881a`; resolver workflow `35028196643`; terminal snapshot commit `39a91aea141544d6c45080f0bcffe92b71b9d871`. Requested 9; resolved 4; selected 3; one unselected exact alternate; five unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+### Nene H — Back to Beste — `spotify:track:3ujgu4rHM2fLvVv643Hgso` — placement-specific REJECT
+
+Exact duration 195,727 ms; Spotify album *Second Skin*, release date 2026-03-27. A Closer Listen identifies the exact track as a techno-industrial banger with a devastating bassline; Rolling Stone MENA places it within the album's movement toward faster, muscular self-affirmation.
+
+- Volume fit: PASS.
+- Immediate transition: UNKNOWN at `Fragments → Back to Beste → Dark Necessity`; neither handoff was heard or documented.
+- Five-track consequence: FAIL proportionally through `Mildew Swoosh → Fragments → Back to Beste → Dark Necessity → Drummz`. The candidate adds another complete hard declaration after the existing driving re-escalation.
+- Long-form effect: FAIL at this placement. Greater contrast makes *Dark Necessity*'s muted restart more dramatic, but does not change its existing build-to-lock task or *Drummz*'s later destabilization.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and exact handoffs.
+
+### OK EG — Pressure — `spotify:track:3sl4K2Skt38DSI8dkunjUV` — PARKED
+
+Exact duration 451,127 ms; Spotify album *GEKO02*, release date 2026-09-15. The available source describes the release's detailed synth/percussion work, pulse, bounce and tension/release, not *Pressure*'s individual trajectory.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Goink → Pressure → Thick to Handle`.
+- Five-track consequence: UNKNOWN through `FELT → Goink → Pressure → Thick to Handle → LOVE YOUR ENEMIES`.
+- Long-form effect: UNKNOWN. The evidence cannot distinguish whether the 7:31.127 insertion establishes a consequential intermediate formation or merely lengthens the existing deformation setup.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: individual materials, development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and exact handoffs.
+
+### ESTADO DE BIENESTAR — Open Your Dub — `spotify:track:1Fx0Rt0SNceZ7BV76d3nkc` — PARKED
+
+Exact duration 296,126 ms; Spotify album *GRANDES SHITS*, release date 2026-08-14. Oráculo Records frames the source release through tribal dub, primitive electro, hypnotic ambient and classical-piano structures, but does not establish the individual track's development or endpoint.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `IF U WANT 2 → Open Your Dub → Fulledge (Empty-40 Mix)`.
+- Five-track consequence: UNKNOWN through `Crawl → IF U WANT 2 → Open Your Dub → Fulledge (Empty-40 Mix) → Capa`.
+- Long-form effect: UNKNOWN. Release vocabulary cannot determine whether the 4:56.126 insertion creates a consequential threshold or overfills the existing metric dissolution.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Warning: `Exact title/artist matched with release metadata variance: album requested "Capítulo IV: La Fiesta Seria y Nuevas Formas de Tecnaco" but Spotify returned "GRANDES SHITS"`
+- Unknown: individual materials, development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and exact handoffs.
+
+### Preserved resolver outcomes without musical verdict
+
+Machine Emotion — *E-Search* resolved exactly as `spotify:track:592CglDaBsZygutOxpZfaA` (397,893 ms; Spotify album *Biophobia*, 2026-09-15) but remained an unselected alternate. It received no musical verdict or utility retention.
+
+Warning: `Exact title/artist matched with release metadata variance: album requested "Biophobia [TE0270]" but Spotify returned "Biophobia"`
+
+Each unresolved identity returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Marcal — *Smoke From Respawn*
+- Crystal Waters — *Gypsy Woman (Rave Yard mix)*
+- Versalife — *Machine Life (Roman Flügel Remix)*
+- Arkajo — *Writhe*
+- Acoustic Vision — *Pollen Street*
+
+No musical zero result is inferred from unresolved outcomes. Audio analysis and live mixing were not tested.
+
 ## Run 281 — 2026-09-15T20:52:02Z-explore-281
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `a3f3e79d15d0cc477cb87a98ad2865036fef326b`, requestFingerprint `4087cc324f9b2a8bef4baae47226f56e488dbacde49675c098598eac07bb1036`, generated 2026-09-15T20:57:37.652Z, PARTIAL. Immutable request commit `ff6408936b0ea165cbf935f0b7784cfb80905888`; resolver workflow `35022685869`; terminal snapshot commit `47b0fe563fa0b769a1cf5dbc5da3b8dd24ab39d9`. Requested 9; resolved 2; selected 2; seven unresolved; no warnings, alternates, duplicates, substitutions, relinkings or terminal technical failure.
