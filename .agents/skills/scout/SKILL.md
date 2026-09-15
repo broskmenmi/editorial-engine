@@ -95,6 +95,7 @@ If two completed discovery runs within the previous five each PARK two or more s
 ## Procedure
 1. Pre-audit `under-review.md`, `notes.md`, `revisit.md`, recent discoveries and the current ledger.
 2. In REPAIR, search the concrete repair target. In EXPLORE, search all three source families freshly.
+   In EXPLORE, treat the repository-wide Discovery Pool ledger as persistent exclusion state by exact Spotify URI and normalized artist/title identity. REPAIR may reopen non-canonical utility identities when the concrete repair target requires it, but never an identity already in the target canonical ledger.
 3. Inspect the current journey **inside-out** as well as the catalogue outside-in: ask where a new track could deepen, sharpen, release, redirect or extend the existing sequence, without inventing rigid chapter roles.
 4. Rank one to nine honest leads. Do not pad weak or metadata-only entries.
 5. Immediately before request write, read current repository SHA.

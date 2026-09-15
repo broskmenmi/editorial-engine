@@ -107,6 +107,10 @@ jobs:
             "$PLAYLIST_DIR/revisit.md"
             "$PLAYLIST_DIR/discoveries.md"
           )
+          request_mode="$(node -e 'const fs=require("fs"); process.stdout.write(JSON.parse(fs.readFileSync(process.argv[1], "utf8")).mode ?? "REPAIR")' "$request_path")"
+          if [[ "$request_mode" == "EXPLORE" ]]; then
+            resolver_inputs+=("playlists/discovery-pool/ledger.md")
+          fi
           if ! git diff --quiet "$source_commit" "$GITHUB_SHA" -- "${resolver_inputs[@]}"; then
             echo "Resolver inputs changed after scout-request sourceCommit; create a new runId from current state."
             exit 1
@@ -126,6 +130,7 @@ jobs:
           sandbox="$(mktemp -d)"
           mkdir -p "$sandbox/playlists"
           ln -s "$GITHUB_WORKSPACE/$PLAYLIST_DIR" "$sandbox/playlists/groove-over-noise"
+          ln -s "$GITHUB_WORKSPACE/playlists/discovery-pool" "$sandbox/playlists/discovery-pool"
           (
             cd "$sandbox"
             node "$GITHUB_WORKSPACE/apps/spotify-scout/src/index.js"
@@ -163,6 +168,10 @@ jobs:
               "apps/spotify-scout"
               ".github/workflows/spotify-scout.yml"
             )
+            request_mode="$(node -e 'const fs=require("fs"); process.stdout.write(JSON.parse(fs.readFileSync(process.argv[1], "utf8")).mode ?? "REPAIR")' "$request_path")"
+            if [[ "$request_mode" == "EXPLORE" ]]; then
+              resolver_inputs+=("playlists/discovery-pool/ledger.md")
+            fi
             if ! git diff --quiet "$GITHUB_SHA"..origin/main -- "${resolver_inputs[@]}"; then
               echo "A newer scout request or resolver input exists; skipping stale candidate data."
               exit 0

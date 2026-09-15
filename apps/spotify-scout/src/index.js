@@ -8,11 +8,13 @@ const REQUEST = 'playlists/groove-over-noise/scout-request.json';
 const OUTPUT = 'playlists/groove-over-noise/scout-data.json';
 const CURRENT_SCHEMA_VERSION = 2;
 const SPOTIFY_TRACK_ID = /^[A-Za-z0-9]{22}$/;
+const GLOBAL_DISCOVERY_POOL_LEDGER = 'playlists/discovery-pool/ledger.md';
 const SOURCE_PATHS = [
   'playlists/groove-over-noise/ledger.md',
   'playlists/groove-over-noise/rejected.md',
   'playlists/groove-over-noise/revisit.md',
   'playlists/groove-over-noise/discoveries.md',
+  GLOBAL_DISCOVERY_POOL_LEDGER,
 ];
 
 export class SpotifyApiError extends Error {

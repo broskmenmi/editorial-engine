@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Repair Run 275 — include global utility state in EXPLORE exclusions
+
+Run 274's post-resolution audit found Maxime Denuc — *Hallucinogen* already retained in the repository-wide Discovery Pool from STRANGE GAIT Run 182 even though the EXPLORE resolver selected it again. The existing target-local exclusion logic worked as designed, but the resolver neither read the global utility ledger nor included it in source-state immutability checks. This was an objective workflow defect, not a musical reopening.
+
+The resolver now reads `playlists/discovery-pool/ledger.md` for EXPLORE, excluding both exact Spotify URIs and normalized artist/title identities already retained globally. The workflow exposes that ledger inside the resolver sandbox and protects it in both pre-resolution source validation and stale-output race checks. REPAIR remains intentionally limited to the target canonical ledger so a concrete repair may reopen a non-canonical utility identity. The Scout skill now states the same repository-wide exclusion contract. The 19-test resolver lifecycle suite and 12-test publisher routing suite pass, including new assertions that EXPLORE blocks a global utility URI and normalized identity while REPAIR may reopen it.
+
+STRANGE GAIT remains 64 tracks and the global Discovery Pool remains 529 tracks. No musical verdict, target ledger, rejected/revisit state, utility membership, publication input or journey-map input changes in this repair. Existing receipts remain COMPLETE at 64/64 for STRANGE GAIT and 529/529 for the Discovery Pool. The protected trio remains exact at positions 54–56. No further actionable REPAIR remains.
+
+Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
+
 ## Run 274 — EXPLORE — a vivid turn still needs a changed successor
 
 Pre-audit passed and selected EXPLORE. Approximately 108 current, adjacent and overlooked-catalogue items produced nine immutable leads from nine releases. The matching PARTIAL resolver snapshot resolved six identities and selected dgoHn — *Waiting For*, Maxime Denuc — *Hallucinogen* and Curbside Lambsear — *No Ordinary Word*. Post-resolution audit found *Hallucinogen* already retained globally from STRANGE GAIT Run 182, so it receives no new musical verdict or duplicate utility row; three exact alternates and three unresolved identities likewise receive no verdict.

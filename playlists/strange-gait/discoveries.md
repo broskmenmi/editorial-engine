@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discoveries
 
+## Repair Run 275 — 2026-09-15T15:08:56Z-repair-275
+
+Run 274's post-resolution audit found Maxime Denuc — *Hallucinogen* already retained at row 379 of the repository-wide Discovery Pool from STRANGE GAIT Run 182, although the EXPLORE resolver selected the exact URI again. The immutable Run 274 request and terminal snapshot remain preserved, but the selected identity correctly received no new verdict or duplicate utility row. The miss demonstrated that global utility state was absent from both persistent exclusions and resolver-source immutability checks.
+
+Repair 275 adds `playlists/discovery-pool/ledger.md` to EXPLORE's exact-URI and normalized artist/title exclusions. The GitHub workflow now mounts that repository-wide ledger in the resolver sandbox, validates that it has not changed since `sourceCommit`, and includes it in stale-output race checks. REPAIR continues to exclude only the target canonical ledger so a concrete repair can lawfully reopen non-canonical utility material. `.agents/skills/scout/SKILL.md` now makes that mode distinction explicit.
+
+The complete 19-test resolver lifecycle suite passes, including URI and normalized-identity coverage for global utility exclusions in EXPLORE and lawful reopening in REPAIR. The 12-test publisher routing suite also passes. Static diff validation passes. Auditor verdict: APPROVED. The repair closes the exact cross-ledger persistence gap observed in Run 274 without altering musical doctrine or converting a historical global retention into a fresh candidate verdict.
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The global Discovery Pool remains 529 tracks. No canonical decision, rejected/revisit verdict, utility membership, publication input or journey-map input changes; existing Spotify receipts remain COMPLETE at 64/64 and 529/529, and the exact 64-track / 63-transition / 6h 24m map remains unchanged.
+
+Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
+
 ## Run 274 — 2026-09-15T14:50:09Z-explore-274
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `4526f971b9f33715e20039ff8833a65a4188e120`, requestFingerprint `a8ea01c79e3c8f49238fcac248995cf62369fb6db745cd2666b422bb345a1dda`, PARTIAL. Requested 9; resolved 6; selected 3; three resolved alternates; three unresolved identities. Two metadata warnings were preserved. No substitutions, relinkings or terminal technical resolver failures occurred. Post-resolution audit found that selected identity Maxime Denuc — *Hallucinogen* was already present in the global utility ledger from STRANGE GAIT Run 182. It therefore receives no new musical verdict or utility row. The remaining two selected identities were eligible for evaluation, and the planned boundaries avoided the previous five completed discovery runs.
