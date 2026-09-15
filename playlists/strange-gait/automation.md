@@ -196,14 +196,29 @@ When true, GitHub Actions automatically publish only affected playlist inputs an
 
 Report COMPLETE only from exact matching `spotify-status.json` read-back. On no-change runs, distinguish last verified receipt from new verification.
 
-If the global Discovery Pool ledger changes, explicitly report **EDITORIAL ENGINE — DISCOVERY POOL**, its Spotify URL, before→after count, exact status and exact `verifiedAt` after bounded finalization.
+If the global Discovery Pool ledger changes, explicitly record **EDITORIAL ENGINE — DISCOVERY POOL**, its Spotify URL, before→after count, exact status and exact `verifiedAt` after bounded finalization in the durable GitHub run record.
 
 Single detailed site: https://broskmenmi.github.io/editorial-engine/ . STRANGE GAIT uses its own `journey-map.json` subsection. Never create a separate site.
 
 Never use the ChatGPT Spotify connector for canonical search, publication or verification. Never mutate GROOVE OVER NOISE in this workflow.
 
-## User-facing response
-Use exactly five numbered sections:
+## Output modes
+
+### Unattended scheduled hourly runs — GitHub-only
+The recurring hourly task is an unattended execution channel. Its substantive output belongs in GitHub, not in ChatGPT conversation history.
+
+For every unattended scheduled run:
+- perform the full workflow with the same evidence, audit, persistence, publication and map rules;
+- persist every substantive evaluated result and the complete run analysis in repository state (`discoveries.md` and the other authoritative files as applicable);
+- include publication receipts, Discovery Pool changes, workflow-health metrics, blockers and exact runId in GitHub state when they are substantively part of the run;
+- **do not emit the five-section user-facing report, compact map, Discovery harvest, or RUN ANALYSIS into ChatGPT**;
+- **finish silently with no user-facing chat message when the run completes normally**, whether or not editorial state changed;
+- if a genuine technical blocker or owner-only intervention prevents completion, emit only a very short blocker message naming the exact required intervention. Do not reproduce the full run report in chat.
+
+This silent-output rule changes only delivery. It must never reduce the depth of research, evaluation, auditing, GitHub persistence, Spotify verification, or map generation.
+
+### Manual or explicitly chat-invoked runs — full report
+When the user explicitly asks in a conversation to run, rerun, inspect, or report the workflow, use exactly five numbered sections:
 1. `TODAY'S DECISION` / `TODAY'S DECISIONS`
 2. `LEDGER CHANGE`
 3. `SPOTIFY STATUS`
