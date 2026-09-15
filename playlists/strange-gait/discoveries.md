@@ -1,5 +1,73 @@
 # STRANGE GAIT — Discoveries
 
+## Run 268 — 2026-09-15T08:49:39Z-explore-268
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `9ab3144c37ab3ff049834c41e42725637ba84e21`, requestFingerprint `bace8ed6f57da966b1e6f86ef7a94dd2392c43016746a90d62476b0c30b5eafb`, PARTIAL. Requested 6; resolved 2; selected 2; four unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The six leads came from six releases, persistent-history exclusion passed, recent placement boundaries were not recycled, and Repair Run 261's evidence-quality guard was respected.
+
+### Evaluated exact candidates
+
+#### Dimi Angélis — Hydrophobia — `spotify:track:0rtVLPViuQkjjOL7a67GeK` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/labels/Dekmantel%2BHolland/
+
+Spotify: https://open.spotify.com/track/0rtVLPViuQkjjOL7a67GeK
+
+Exact resolver duration: 356,693 ms (5:56.693). BPM unavailable. Spotify returned artist styling *Dimi Angélis*, album *Time Capsule* and release date 2026-07-10; the request's 2026-07-08 date variance is preserved below.
+
+Juno individually describes the track as spare, with a paranoid edge created by synths like trapped flies drifting through the mix. These are attributed material claims; exact development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing, mixability and both handoffs remain unknown.
+
+- Volume fit: PASS. Sparse, unstable detail is a valid selection-lens proposition without requiring a new groove, weirdness or one sonic room.
+- Immediate transition: UNKNOWN at `Sarniezz → Hydrophobia → Never Met`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Capa → Sarniezz → Hydrophobia → Never Met → Trompe L'oeil`. The exact material adds another complete unstable foreground between the live-band left turn and the existing passing-foreground/reset relation, without evidence that *Never Met* or *Trompe L'oeil* receives different work.
+- Long-form effect: FAIL only at this placement for the same reason. The candidate enriches the passage but makes the transition into reset more elaborate without a new downstream consequence.
+- Strongest alternative: its sparseness could make *Never Met* feel more clearly transitional. That remains plausible inspiration value, but the best available evidence does not show a structural gain large enough to justify a 5:56.693 insertion.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Lenson — Firgot — `spotify:track:1f1d6GB3JUQGhhyYtzqc5S` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/techno/this-week/
+
+Spotify: https://open.spotify.com/track/1f1d6GB3JUQGhhyYtzqc5S
+
+Exact resolver duration: 394,285 ms (6:34.285). BPM unavailable. Spotify returned album *TAR047* and release date 2026-09-14; the request's *TAR 47* / 2026-09-10 packaging variance is preserved below.
+
+Juno individually groups *Firgot* on the release's “filtery-weird” A-side. That bounded material description does not establish development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing, mixability or either handoff.
+
+- Volume fit: PASS provisionally. Filtered, unstable material may fit the volume, but weirdness and current-release novelty carry no admission value.
+- Immediate transition: UNKNOWN at `Fulledge (Empty-40 Mix) → Firgot → Capa`.
+- Surrounding run: FAIL proportionally through `IF U WANT 2 → Fulledge (Empty-40 Mix) → Firgot → Capa → Sarniezz`. The candidate inserts a substantial re-formation between metric dissolution and an already explicit rhythmic redirection.
+- Long-form effect: FAIL only at this placement. No available evidence shows that *Capa* receives different work; its existing redirection is postponed rather than transformed.
+- Strongest alternative: a filtered re-formation could make *Capa* a more legible second turn. Legibility alone is insufficient when the successor's function stays the same.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- Steve Rachmad — *9 Completion & Delivery*: `no exact Spotify title/artist search match in market SE`
+- Simo Cell, Abdullah Miniawy — *The Dala Effect*: `no exact Spotify title/artist search match in market SE`
+- PS11 — *Mariana Trench*: `no exact Spotify title/artist search match in market SE`
+- Confusion — *Space*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-07-08" but Spotify returned "2026-07-10"`
+- `Exact title/artist matched with release metadata variance: album requested "TAR 47" but Spotify returned "TAR047"; release date requested "2026-09-10" but Spotify returned "2026-09-14"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; the immutable request and matching terminal snapshot are internally valid; only the two selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; both failures are proportional and placement-specific rather than metadata-driven; unresolved identities receive no musical verdict; and both genuinely interesting exact tracks enter the target-local inspiration layer and doctrine-free global utility ledger. STRANGE GAIT membership and order remain unchanged, and the protected trio remains contiguous and internally exact.
+
+### Run analysis
+
+`~94 inspected → 6 leads → 2 exact selected + 4 unresolved → 2 evaluations → 0 ADD + 2 placement-specific REJECT → 2 utility additions`
+
+Inspection-to-lead conversion: 6.4%. Resolution yield: 33.3%. Selected-candidate-to-ADD conversion: 0/2. Across completed discovery Runs 87–268, excluding repairs and failed requests: 1,275 leads from approximately 8,958 inspections; 50 ADDs from 370 selected candidates. Four of the last ten comparable discovery runs contain an ADD. The musical no-ADD streak is two completed runs after Run 265, with five exact genuinely interesting tracks retained since that ADD.
+
+The run supports resolver/identity loss and placement-specific proportional cost, not playlist completion, Scout over-filtering, repeated epistemic veto or repetitive placement search. Neither rejection converts UNKNOWN handoffs into failure: each fails because the documented material adds a complete intermediate state while the successor's existing work remains unchanged. The two exact descriptions are candidate-specific, so the shared-release multi-PARK recurrence guard does not trigger. No actionable REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Repair Run 267 — 2026-09-15T07:51:12Z-repair-267
 
 Pre-audit found one actionable objective state defect before discovery began: `playlists/strange-gait/discovery-pool.md` was not valid UTF-8. Its first 92,820 bytes matched the intended approved Run 266 file exactly, after which the repository blob contained malformed binary data and lost the remainder of the retained discovery history.

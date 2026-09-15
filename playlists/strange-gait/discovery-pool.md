@@ -3,6 +3,24 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 268 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Dimi Angélis | Hydrophobia | `spotify:track:0rtVLPViuQkjjOL7a67GeK` · https://open.spotify.com/track/0rtVLPViuQkjjOL7a67GeK · https://www.juno.co.uk/labels/Dekmantel%2BHolland/ | Exact 5:56.693 spare and paranoid-synth proposition remains interesting; rejected only between *Sarniezz* and *Never Met* because the existing transit/reset relation does not gain a changed successor. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Lenson | Firgot | `spotify:track:1f1d6GB3JUQGhhyYtzqc5S` · https://open.spotify.com/track/1f1d6GB3JUQGhhyYtzqc5S · https://www.juno.co.uk/techno/this-week/ | Exact 6:34.285 filtered-material proposition remains interesting; rejected only between *Fulledge (Empty-40 Mix)* and *Capa* because the existing redirection is postponed rather than changed. Added globally. |
+| UNRESOLVED RESEARCH | Steve Rachmad; Simo Cell, Abdullah Miniawy; PS11; Confusion | *9 Completion & Delivery*; *The Dala Effect*; *Mariana Trench*; *Space* | Exact sources preserved in `scout-request.json` | Four Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Tar Hallow / Lenson; Downside Up / PS11; SK Eleven / Confusion | Current September 2026 releases | https://www.juno.co.uk/techno/this-week/ | Continue where exact-track evidence distinguishes development and endpoint; current-release status and descriptive material are not sequencing proof. |
+| CATALOGUE WATCH | Dekmantel / Dimi Angelis; Steve Rachmad; Simo Cell with Abdullah Miniawy | *Time Capsule*; *3 6 9*; *Dying Is The Internet* | https://www.juno.co.uk/labels/Dekmantel%2BHolland/ | Exact-title catalogue paths remain useful without treating artist familiarity, label context or unresolved identities as musical verdicts. |
+
+### Run 268 boundaries
+
+- *Hydrophobia* and *Firgot* pass the volume lens but are rejected only at their documented placements; both remain genuinely interesting.
+- Exact handoffs remain unknown. The rejections instead rest on proportional five-track and long-form cost: neither successor receives different work.
+- Both evaluated exact identities enter the doctrine-free global utility ledger; four unresolved identities do not.
+- Set direction: distinguish a materially vivid intermediate state from one whose presence changes the successor's function.
+- No actionable REPAIR emerges.
+
 ## Run 266 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

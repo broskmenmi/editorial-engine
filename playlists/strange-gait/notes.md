@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 268 — EXPLORE — richer material does not guarantee a changed successor
+
+Pre-audit passed and selected EXPLORE. Approximately 94 current, adjacent/emerging and overlooked-catalogue items produced six fresh leads from six releases. The matching schemaVersion 2 snapshot is PARTIAL: two exact selected identities, four unresolved identities, two preserved packaging warnings and no technical failure.
+
+Dimi Angélis — *Hydrophobia* and Lenson — *Firgot* pass the volume lens and remain genuinely interesting, but each is rejected only at its tested placement. *Hydrophobia* inserts another complete unstable foreground between *Sarniezz* and the existing *Never Met → Trompe L'oeil* transit/reset relation. *Firgot* inserts a substantial filtered re-formation between *Fulledge (Empty-40 Mix)* and *Capa*. Exact handoffs remain unknown, but neither verdict depends on that unknown: both surrounding-run and long-form tests fail because the successor's existing task is postponed rather than changed.
+
+STRANGE GAIT remains 63 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 53–55. The doctrine-free global Discovery Pool becomes 518 tracks by retaining both evaluated exact identities. Four unresolved identities receive no musical verdict or utility row. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred.
+
+Run 268: `~94 inspected → 6 leads → 2 exact + 4 unresolved → 2 evaluations → 0 ADD + 2 placement-specific REJECT → 2 utility additions`. Across completed discovery Runs 87–268, excluding repairs and failed requests: 1,275 leads / ~8,958 inspections / 50 ADDs / 370 selected candidates. Inspection-to-lead conversion was 6.4%, resolution yield 33.3% and selected-candidate-to-ADD conversion 0/2. Four of the last ten comparable runs contain an ADD. The musical no-ADD streak is two completed runs after Run 265, with five exact interesting tracks retained since that ADD. Resolver loss and proportional placement cost remain the principal explanations; no actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Repair Run 267 — restore target-local discovery history encoding
 
 Pre-audit found `discovery-pool.md` invalid at byte 92,820. The valid prefix matched the already approved Run 266 source exactly; malformed binary data then replaced the remaining history. The target-local discovery file is restored byte-for-byte from that validated source, preserving Run 266 and every prior retained discovery entry.

@@ -3,6 +3,22 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 268
+
+### Material vividness versus successor consequence
+
+**Direction:** Test sparse unstable states and filtered re-formations by whether the next track acquires different work, not by whether the intermediate material makes a transition more conspicuous or legible.
+
+**Ingredients:**
+
+- Nørbak — *Capa* → Angine de Poitrine — *Sarniezz* → Dimi Angélis — *Hydrophobia* → Sam Prekop — *Never Met* → Wheelman — *Trompe L'oeil* — rejected placement hypothesis, exact handoffs unknown
+- 50Dix — *IF U WANT 2* → Demdike Stare — *Fulledge (Empty-40 Mix)* → Lenson — *Firgot* → Nørbak — *Capa* → Angine de Poitrine — *Sarniezz* — rejected placement hypothesis, exact handoffs unknown
+- Steve Rachmad, Simo Cell / Abdullah Miniawy, PS11 and Confusion — unresolved exact-title research directions
+
+**Why interesting:** Both exact tracks give the proposed passages sharper material identity. Their tested placements fail because the following transit, reset or redirection keeps the same task; this distinction remains useful for future set construction outside the canonical sequence.
+
+**Boundary:** These are editorial directions and counterexamples, not proven live sequences, energy, density, space, hypnosis, phrase-fit, emotional-effect or mixing claims. Exact development, endpoints, handoffs, perceived pulse and BPM remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 266
 
 ### Material identity versus directional consequence
