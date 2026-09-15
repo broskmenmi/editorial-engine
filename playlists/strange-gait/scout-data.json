@@ -1,109 +1,67 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "1b1aedd6384eac019881458f0822ce11a0841d9c73f48f454c060ed9839cdfcc",
-  "generatedAt": "2026-09-15T07:08:30.267Z",
-  "runId": "2026-09-15T06:55:50Z-explore-266",
-  "sourceCommit": "2a62c8d417d1c64964745cc87c8288604399a99a",
+  "requestFingerprint": "bace8ed6f57da966b1e6f86ef7a94dd2392c43016746a90d62476b0c30b5eafb",
+  "generatedAt": "2026-09-15T08:58:47.255Z",
+  "runId": "2026-09-15T08:49:39Z-explore-268",
+  "sourceCommit": "9ab3144c37ab3ff049834c41e42725637ba84e21",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 96 named tracks and releases across Juno Recommends Techno's September 2026 chart, current Boomkat preorder and release listings, current Bandcamp techno/electronic releases, and overlooked 1990s-to-2000s catalogue/reissue paths. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 94 named tracks and releases across Juno's 75-item current techno window, adjacent label pages and overlooked 2026 catalogue/reissue paths. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
-      "The repaired target state, canonical ledger, journey annotations, active discussions, live revisit queue, rejected state, discoveries, target-local discovery pool and set ideas, publication state and global utility ledger were audited first. UTF-8, JSON, count, annotation, map-order, publication-receipt and protected-order checks passed; no objective defect, active listener authorization, triggered revisit or open workflow repair required REPAIR.",
-      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. The current request contains nine fresh exact artist/title leads from nine distinct releases; no ranking slot was filled for resolver convenience.",
-      "Repair Run 261's evidence-quality guard was applied: one lead per release. Exact-track prose is identified where available and is not transferred to sibling tracks; shared release framing is labelled as such.",
-      "Individual descriptions remain attributed prose, not measurements. No wording was converted into inferred energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality. No placement splits either protected handoff in Transparency → When We Froze → Stardancer.",
-      "Rank reflects evidence specificity, selection-lens relevance and information gain rather than novelty, genre orthodoxy, artist or texture diversity, technical cleverness or a fixed chapter map. Sawa and Carried remain removed; Tender Is The Night remains positively retained."
+      "The target state, canonical ledger, annotations, discussion and revisit queues, rejected state, discoveries, inspiration files, publication state and global utility ledger were audited first. UTF-8, JSON, count, map-order, receipt and protected-order checks passed; no objective defect, listener authorization, triggered revisit or open workflow repair required REPAIR.",
+      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. Six fresh leads from six distinct releases remain; no ranking slot was filled for resolver convenience.",
+      "Run 261's evidence guard was applied: one lead per release, and exact-track prose was not transferred to siblings.",
+      "Source descriptions remain attributed prose, not measurements. No energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality was inferred. Neither protected handoff was split.",
+      "Rank reflects evidence specificity, selection-lens relevance and information gain, not novelty, orthodoxy, diversity, technical cleverness or a fixed chapter map."
     ],
     "rankedLeadSummary": [
-      "1. Format — Deep Sleep",
-      "2. Sohrab — Color Of Love",
-      "3. BIZ — Monozukuri",
-      "4. Panasonic — Muuntaja",
-      "5. Tensal — Suspence",
-      "6. Jay Tripwire, Maher Daniel — Wristband Daddy",
-      "7. Nizre — One Layer",
-      "8. Sans I — Science",
-      "9. Sabotak — Fracture"
+      "1. Steve Rachmad — 9 Completion & Delivery",
+      "2. Dimi Angelis — Hydrophobia",
+      "3. Simo Cell, Abdullah Miniawy — The Dala Effect",
+      "4. Lenson — Firgot",
+      "5. PS11 — Mariana Trench",
+      "6. Confusion — Space"
     ],
     "sourceWindows": [
-      "CURRENT: Juno Recommends Techno's September 2026 chart and exact June-July release pages, checked 2026-09-15. The chart's 60 current and reissue entries were cross-checked against persistent state. https://www.juno.co.uk/charts/juno-recommends/629051-Juno_Recommends_Techno/33361884-Chart",
-      "ADJACENT / EMERGING: Boomkat's September 14-18 preorder/current listings and Bandcamp's September 2026 techno, electro, broken-beat and experimental releases, including current Sa Pa, James Bong, Viels, Fugitive Artifact and Schematic windows, checked 2026-09-15. Persistent or evidence-light exact titles were excluded rather than padded into the request.",
-      "OVERLOOKED CATALOGUE: Juno's Format, Panasonic/Pan Sonic, Basic Bastard and Communique/Cold Blow reissue paths, plus Boomkat's Hallucinator and Al Chem catalogue editions, checked 2026-09-15."
+      "CURRENT: Juno's 75-item techno-this-week window, including Lenson, PS11 and Confusion, checked 2026-09-15. https://www.juno.co.uk/techno/this-week/",
+      "ADJACENT / EMERGING: Current windows around Dekmantel/UFO, Moving Pressure, End Of Perception, Tar Hallow and Downside Up were cross-checked against persistent state, checked 2026-09-15.",
+      "OVERLOOKED CATALOGUE: Dimi Angelis' Time Capsule, Steve Rachmad's 3 6 9 and Simo Cell with Abdullah Miniawy's Dying Is The Internet were revisited as exact-track catalogue paths, not artist-familiarity claims. https://www.juno.co.uk/labels/Dekmantel%2BHolland/"
     ],
-    "timestampUtc": "2026-09-15T06:55:50Z"
+    "timestampUtc": "2026-09-15T08:49:39Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
-  "requestedCount": 9,
-  "resolvedCount": 4,
-  "candidateCount": 3,
+  "requestedCount": 6,
+  "resolvedCount": 2,
+  "candidateCount": 2,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Format",
-      "track": "Deep Sleep",
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4007gbRE2JluIYuH5G6Kym, 6TzVtpJwNi5DscuvQ1dLuw)",
-      "requestedIdentity": {
-        "artist": "Format",
-        "track": "Deep Sleep",
-        "album": "Format #1",
-        "releaseDate": "2026-07-27",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/format-1-vinyl/1168941-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A slower house-tempo bleep formation can create a purposeful character change when it changes the following break-led pivot; catalogue stature alone cannot justify admission.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Deep Sleep as a house-tempo fusion of deep Detroit material, Larry Heard textures and UK-style bleep melodies.",
-          "editorialInterpretation": "Test the exact track after the protected trio without turning source language into measured energy, density, space, emotional effect, endpoint, phrase structure or mixability.",
-          "measured": [
-            "Juno lists Format — Deep Sleep at 5:39 on the 2026 reissue of Format #1, originally released in 1991.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The slower bleep formation could make Migration's piano-to-break pivot a second purposeful change of character, or it could pre-empt and dilute that existing pivot.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a distinct post-block formation changes the successor's pivot or merely adds another character change."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Sohrab",
-      "track": "Color Of Love",
+      "artist": "Steve Rachmad",
+      "track": "9 Completion & Delivery",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Sohrab",
-        "track": "Color Of Love",
-        "album": "Memories Of Ghetto",
-        "releaseDate": "2026-07-13",
+        "artist": "Steve Rachmad",
+        "track": "9 Completion & Delivery",
+        "album": "3 6 9",
+        "releaseDate": "2026-06-17",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/sohrab-memories-of-ghetto-vinyl/1143000-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A broken-beat comedown can belong if it creates a consequential relation between an existing melodic pivot and liminal percussion; comedown function alone is insufficient.",
+          "craftConvention": "A long-form track can justify a conspicuous post-block turn when its internal process gives the following pivot new work; an accomplished build is insufficient by itself.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually calls Color Of Love a post-club broken-beat comedown.",
-          "editorialInterpretation": "Test the concise exact-track proposition after Migration while leaving its internal development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
+          "attributedDescription": "Juno individually describes 9 Completion & Delivery as riding arpeggiated waves before breaking into oceanic grandeur.",
+          "editorialInterpretation": "Test the documented internal change after Migration without treating the metaphor as measured energy, density, space, emotional effect, endpoint, phrasing or mixability.",
           "measured": [
-            "Juno lists Sohrab — Color Of Love at 5:40 on Memories Of Ghetto, released 2026-07-13.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 7:11 on 3 6 9, released 2026-06-17.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A broken-beat comedown after Migration could give Eyes of the Wind a quieter rhythmic premise to abstract, or it could add an extra post-pivot scene without changing that successor.",
+        "fitHypothesis": "The documented wave-to-break process could give Eyes of the Wind a formed melodic object to abstract, or merely add a second complete post-Migration statement.",
         "proposedPlacements": [
           {
             "position": "Between Migration and Eyes of the Wind",
@@ -112,124 +70,124 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the broken-beat comedown changes the liminal successor or only lengthens the pivot."
+            "purpose": "Test whether the documented break changes the liminal successor or only adds a complete post-pivot stage."
           }
         ]
       }
     },
     {
-      "artist": "Tensal",
-      "track": "Suspence",
+      "artist": "Simo Cell, Abdullah Miniawy",
+      "track": "The Dala Effect",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Tensal",
-        "track": "Suspence",
-        "album": "When Are You From Vol 02",
-        "releaseDate": "2026-07-27",
+        "artist": "Simo Cell, Abdullah Miniawy",
+        "track": "The Dala Effect",
+        "album": "Dying Is The Internet",
+        "releaseDate": "2026-03-18",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/tensal-stanislav-tolkachev-when-are-you-from-vol-vinyl/1164994-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Tightly controlled rhythmic-bass pressure can matter when its exit changes a successor's directed surge; control or intensity alone is not a reason to add.",
+          "craftConvention": "Percussive form outside a fixed techno grid can belong at the tail when it changes the relation between a sharp formation and a brief flare; hybridity alone proves nothing.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Suspence as a tightly controlled storm of rhythmic bass.",
-          "editorialInterpretation": "Test the exact track before Roxellana without converting the metaphor into measured energy, density, space, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno individually highlights The Dala Effect for hypnotic percussion and clapping.",
+          "editorialInterpretation": "Use the description only as a material proposition; do not infer hypnosis as a listener effect, development, endpoint, energy, density, space, phrasing or mixability.",
           "measured": [
-            "Juno lists Tensal — Suspence at 5:40 on When Are You From Vol 02, released 2026-07-27.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 4:31 on Dying Is The Internet, released 2026-03-18, credited to both artists.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A controlled bass formation could give Roxellana a bounded state to escape, or could duplicate the existing crooked-accumulation-to-surge escalation.",
+        "fitHypothesis": "The compact percussion-and-clap frame could make Nukumori a remnant flare after a differently organized body-state, or add another complete tail vignette.",
         "proposedPlacements": [
           {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether controlled pressure changes the surge or only inserts another escalation."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Jay Tripwire, Maher Daniel",
-      "track": "Wristband Daddy",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Jay Tripwire, Maher Daniel",
-        "track": "Wristband Daddy",
-        "album": "Low & Slow EP",
-        "releaseDate": "2026-07-20",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/jay-tripwire-maher-daniel-low-slow-ep-vinyl/1142425-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Minimal wonkiness and rhythm-source contrast can support a conspicuous left turn, but collaboration and stylistic hybridity do not prove placement.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Wristband Daddy as blurring quirky minimal beats, unusual samples, South American-inspired rhythms and angular tech-house in a dubbed-out construction.",
-          "editorialInterpretation": "Test the attributed hybrid after Capa without inferring measured energy, density, space, emotional effect, endpoint, phrase structure or mixability.",
-          "measured": [
-            "Juno lists Wristband Daddy at 6:52 on Low & Slow EP, released 2026-07-20, credited to Jay Tripwire and Maher Daniel.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The hybrid rhythmic frame could make Sarniezz's live-band pulse illusion a sharper production-world turn, or could crowd an already deliberate redirection.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the hybrid frame changes the live-band left turn or merely adds another redirection."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Sans I",
-      "track": "Science",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Sans I",
-        "track": "Science",
-        "album": "Fenno Dub",
-        "releaseDate": "2026-06-22",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/sans-i-fenno-dub-vinyl/1153509-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A dub-and-bass continuum can form a threshold without belonging to one sonic room, but it must preserve the protected block and create a long-form consequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno describes both Fenno Dub tracks as approaching cavernous dub and bass science from different angles, with bass suspension and reverb trails; Science is the opener.",
-          "editorialInterpretation": "Treat this as shared two-track framing rather than individual trajectory proof; keep endpoint, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
-          "measured": [
-            "Juno lists Sans I — Science at 6:38 on Fenno Dub, released 2026-06-22.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A dub-bass threshold could make Transparency a more explicit return to linear focus without splitting the protected trio, or it could delay an already proportionate entry into the block.",
-        "proposedPlacements": [
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test whether the threshold changes the block entrance while leaving both protected internal handoffs intact."
+            "outgoingBpm": null,
+            "purpose": "Test whether the compact percussive frame changes the remnant flare or only inserts another tail scene."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "PS11",
+      "track": "Mariana Trench",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "PS11",
+        "track": "Mariana Trench",
+        "album": "Stratos EP",
+        "releaseDate": "2026-09-07",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A descent can prepare delayed-repetition reformation only when the following track reads differently; dark atmosphere alone is not structural evidence.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno individually says Mariana Trench sinks into the darkness associated with the world's deepest ocean.",
+          "editorialInterpretation": "Treat this as metaphorical framing, not measured energy, density, space, emotional effect, trajectory, endpoint, phrase structure or mixability.",
+          "measured": [
+            "Juno lists the track at 5:11 on Stratos EP, released 2026-09-07.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The descent could make Silent Tension's delayed-repetition pattern a consequential re-formation after backsliding, or simply lengthen dissolution.",
+        "proposedPlacements": [
+          {
+            "position": "Between backsliding and Silent Tension",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a descent changes the following re-formation or only extends dissolution."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Confusion",
+      "track": "Space",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Confusion",
+        "track": "Space",
+        "album": "In Cycles",
+        "releaseDate": "2026-09-10",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A brisk unsettled state can sit after rhythmic destabilization only if the following false-stability hinge becomes a consequence rather than another accumulation.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno names Space among In Cycles' tracks that resound in umbral space and aim to unsettle and motivate in dark, brisk fashion.",
+          "editorialInterpretation": "The shared sentence supplies a proposition, not individual development, endpoint, perceived pulse, energy, density, space as measurement, emotional effect, phrasing or mixability.",
+          "measured": [
+            "Juno lists the track at 5:38 on In Cycles, released 2026-09-10.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The brisk unsettled state could give Té de Cabello Blanco an explicit reassembly task after Drummz, or insert another instability stage without changing the run.",
+        "proposedPlacements": [
+          {
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": 138,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether unsettled continuation changes reassembly or merely adds another instability stage."
           }
         ]
       }
@@ -237,89 +195,41 @@
   ],
   "warnings": [
     {
-      "artist": "BIZ",
-      "track": "Monozukuri",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Biz Limited Series #3\" but Spotify returned \"Monozukuri\"; release date requested \"2026-06-29\" but Spotify returned \"2024-06-10\""
+      "artist": "Dimi Angelis",
+      "track": "Hydrophobia",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-08\" but Spotify returned \"2026-07-10\""
     },
     {
-      "artist": "Panasonic",
-      "track": "Muuntaja",
-      "warning": "Exact title/artist matched with release metadata variance: album requested \"Muuntaja\" but Spotify returned \"Muuntaja / Murtaja\"; release date requested \"2026-07-27\" but Spotify returned \"1994-05-05\""
-    },
-    {
-      "artist": "Nizre",
-      "track": "One Layer",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-06\" but Spotify returned \"2026-07-09\""
-    },
-    {
-      "artist": "Sabotak",
-      "track": "Fracture",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-06-29\" but Spotify returned \"2026-07-07\""
+      "artist": "Lenson",
+      "track": "Firgot",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"TAR 47\" but Spotify returned \"TAR047\"; release date requested \"2026-09-10\" but Spotify returned \"2026-09-14\""
     }
   ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Format",
-        "track": "Deep Sleep",
-        "album": "Format #1",
-        "releaseDate": "2026-07-27",
+        "artist": "Steve Rachmad",
+        "track": "9 Completion & Delivery",
+        "album": "3 6 9",
+        "releaseDate": "2026-06-17",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/format-1-vinyl/1168941-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A slower house-tempo bleep formation can create a purposeful character change when it changes the following break-led pivot; catalogue stature alone cannot justify admission.",
+          "craftConvention": "A long-form track can justify a conspicuous post-block turn when its internal process gives the following pivot new work; an accomplished build is insufficient by itself.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Deep Sleep as a house-tempo fusion of deep Detroit material, Larry Heard textures and UK-style bleep melodies.",
-          "editorialInterpretation": "Test the exact track after the protected trio without turning source language into measured energy, density, space, emotional effect, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno individually describes 9 Completion & Delivery as riding arpeggiated waves before breaking into oceanic grandeur.",
+          "editorialInterpretation": "Test the documented internal change after Migration without treating the metaphor as measured energy, density, space, emotional effect, endpoint, phrasing or mixability.",
           "measured": [
-            "Juno lists Format — Deep Sleep at 5:39 on the 2026 reissue of Format #1, originally released in 1991.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 7:11 on 3 6 9, released 2026-06-17.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The slower bleep formation could make Migration's piano-to-break pivot a second purposeful change of character, or it could pre-empt and dilute that existing pivot.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a distinct post-block formation changes the successor's pivot or merely adds another character change."
-          }
-        ]
-      },
-      "error": "ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (4007gbRE2JluIYuH5G6Kym, 6TzVtpJwNi5DscuvQ1dLuw)"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Sohrab",
-        "track": "Color Of Love",
-        "album": "Memories Of Ghetto",
-        "releaseDate": "2026-07-13",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/sohrab-memories-of-ghetto-vinyl/1143000-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A broken-beat comedown can belong if it creates a consequential relation between an existing melodic pivot and liminal percussion; comedown function alone is insufficient.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually calls Color Of Love a post-club broken-beat comedown.",
-          "editorialInterpretation": "Test the concise exact-track proposition after Migration while leaving its internal development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
-          "measured": [
-            "Juno lists Sohrab — Color Of Love at 5:40 on Memories Of Ghetto, released 2026-07-13.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A broken-beat comedown after Migration could give Eyes of the Wind a quieter rhythmic premise to abstract, or it could add an extra post-pivot scene without changing that successor.",
+        "fitHypothesis": "The documented wave-to-break process could give Eyes of the Wind a formed melodic object to abstract, or merely add a second complete post-Migration statement.",
         "proposedPlacements": [
           {
             "position": "Between Migration and Eyes of the Wind",
@@ -328,7 +238,7 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the broken-beat comedown changes the liminal successor or only lengthens the pivot."
+            "purpose": "Test whether the documented break changes the liminal successor or only adds a complete post-pivot stage."
           }
         ]
       },
@@ -337,152 +247,75 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "BIZ",
-        "track": "Monozukuri",
-        "album": "Biz Limited Series #3",
-        "releaseDate": "2026-06-29",
+        "artist": "Dimi Angelis",
+        "track": "Hydrophobia",
+        "album": "Time Capsule",
+        "releaseDate": "2026-07-08",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/biz-limited-series-3-vinyl/1144764-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A prickly percussive formation can resist fixed techno form, but it earns sequence space only when its exit changes the following reset or deformation.",
+          "craftConvention": "Sparse unstable detail can prepare a reset without a new groove, but it earns space only if the reset becomes a consequence rather than a delayed event.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Monozukuri as becoming pricklier through metallic percussive textures and a forlorn lead.",
-          "editorialInterpretation": "Test the material proposition after Never Met without inferring direction, endpoint, energy, density, space, emotional effect, phrase structure or mixability.",
+          "attributedDescription": "Juno individually describes Hydrophobia as more spare, with a paranoid edge created by synths like trapped flies drifting through the mix.",
+          "editorialInterpretation": "Test the proposition before Never Met while leaving direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
           "measured": [
-            "Juno lists BIZ — Monozukuri at 5:21 on Biz Limited Series #3, released 2026-06-29.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 5:55 on Time Capsule, released 2026-07-08.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The metallic-percussion state could give Trompe L'oeil a distinct object to reset, or it could add another foreground episode between passing motion and the existing reset.",
+        "fitHypothesis": "Sparse unstable foreground could turn Never Met into a passing response before Trompe L'oeil resets the passage, or crowd an already articulate left turn.",
         "proposedPlacements": [
           {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether the formed percussion changes the reset's work or only delays it."
-          }
-        ]
-      },
-      "spotifyTrackId": "34SbdNILggB48O7QBSsuLb",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Panasonic",
-        "track": "Muuntaja",
-        "album": "Muuntaja",
-        "releaseDate": "2026-07-27",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/panasonic-pan-sonic-muuntaja-vinyl/1155044-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Industrial reduction and nonlinear noise can function as a hinge if the following micro-repetition becomes a consequence rather than another isolated mechanism.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno describes the two-track Muuntaja reissue through nonlinear noisiness that turns clip-distorted kicks, hat rattles and subs into set functions; the title track is the A-side.",
-          "editorialInterpretation": "Treat the description as shared release framing, not proof of the title track's individual development, endpoint, energy, density, space, phrasing or mixability.",
-          "measured": [
-            "Juno lists Panasonic — Muuntaja at 9:50 on the 2026 Sähkö reissue of an early two-track release.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The long reduced construction could turn Atlantis into a micro-repetitive recomposition after abrasion, or it could add a second complete mechanism before the existing acceleration crisis.",
-        "proposedPlacements": [
-          {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether reduction gives micro-repetition new work or merely adds another long mechanism."
+            "purpose": "Test whether unstable sparseness changes the passing-foreground hinge or merely adds another foreground."
           }
         ]
       },
-      "spotifyTrackId": "0ZIymS51WdXMoB4KUG1n6V",
+      "spotifyTrackId": "0rtVLPViuQkjjOL7a67GeK",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Tensal",
-        "track": "Suspence",
-        "album": "When Are You From Vol 02",
-        "releaseDate": "2026-07-27",
+        "artist": "Simo Cell, Abdullah Miniawy",
+        "track": "The Dala Effect",
+        "album": "Dying Is The Internet",
+        "releaseDate": "2026-03-18",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/tensal-stanislav-tolkachev-when-are-you-from-vol-vinyl/1164994-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Tightly controlled rhythmic-bass pressure can matter when its exit changes a successor's directed surge; control or intensity alone is not a reason to add.",
+          "craftConvention": "Percussive form outside a fixed techno grid can belong at the tail when it changes the relation between a sharp formation and a brief flare; hybridity alone proves nothing.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Suspence as a tightly controlled storm of rhythmic bass.",
-          "editorialInterpretation": "Test the exact track before Roxellana without converting the metaphor into measured energy, density, space, endpoint, phrase structure or mixability.",
+          "attributedDescription": "Juno individually highlights The Dala Effect for hypnotic percussion and clapping.",
+          "editorialInterpretation": "Use the description only as a material proposition; do not infer hypnosis as a listener effect, development, endpoint, energy, density, space, phrasing or mixability.",
           "measured": [
-            "Juno lists Tensal — Suspence at 5:40 on When Are You From Vol 02, released 2026-07-27.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 4:31 on Dying Is The Internet, released 2026-03-18, credited to both artists.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A controlled bass formation could give Roxellana a bounded state to escape, or could duplicate the existing crooked-accumulation-to-surge escalation.",
+        "fitHypothesis": "The compact percussion-and-clap frame could make Nukumori a remnant flare after a differently organized body-state, or add another complete tail vignette.",
         "proposedPlacements": [
           {
-            "position": "Between Pulse I and Roxellana",
-            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
-            "incomingBpm": 136,
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether controlled pressure changes the surge or only inserts another escalation."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Jay Tripwire, Maher Daniel",
-        "track": "Wristband Daddy",
-        "album": "Low & Slow EP",
-        "releaseDate": "2026-07-20",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/jay-tripwire-maher-daniel-low-slow-ep-vinyl/1142425-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Minimal wonkiness and rhythm-source contrast can support a conspicuous left turn, but collaboration and stylistic hybridity do not prove placement.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Wristband Daddy as blurring quirky minimal beats, unusual samples, South American-inspired rhythms and angular tech-house in a dubbed-out construction.",
-          "editorialInterpretation": "Test the attributed hybrid after Capa without inferring measured energy, density, space, emotional effect, endpoint, phrase structure or mixability.",
-          "measured": [
-            "Juno lists Wristband Daddy at 6:52 on Low & Slow EP, released 2026-07-20, credited to Jay Tripwire and Maher Daniel.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The hybrid rhythmic frame could make Sarniezz's live-band pulse illusion a sharper production-world turn, or could crowd an already deliberate redirection.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": 137,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the hybrid frame changes the live-band left turn or merely adds another redirection."
+            "purpose": "Test whether the compact percussive frame changes the remnant flare or only inserts another tail scene."
           }
         ]
       },
@@ -491,414 +324,266 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Nizre",
-        "track": "One Layer",
-        "album": "Detained",
-        "releaseDate": "2026-07-06",
+        "artist": "Lenson",
+        "track": "Firgot",
+        "album": "TAR 47",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/nizre-detained-vinyl/1161726-01/",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A stretched-synth layer can destabilize a groove without introducing a new rhythm, but it must alter the following accumulation to justify insertion.",
+          "craftConvention": "A filtered strange state can follow metric dissolution if its exit changes the next redirection; weirdness is not a reason to admit it.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes One Layer as foreboding low end with synths stretched and pulled over the drums.",
-          "editorialInterpretation": "Test the exact track after Tehutis Law while leaving perceived pulse, energy, density, space, hypnosis, emotional effect, endpoint, phrasing and mixability unknown.",
+          "attributedDescription": "Juno individually groups Firgot on TAR 47's filtery-weird A-side.",
+          "editorialInterpretation": "The description establishes material, not development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing or mixability.",
           "measured": [
-            "Juno lists Nizre — One Layer at 4:59 on Detained, released 2026-07-06.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 6:32 on TAR 47, released 2026-09-10.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The stretched overlay could make Pulse I's crooked accumulation a response to destabilized re-grounding, or it could add an unnecessary darkening stage before that existing hinge.",
+        "fitHypothesis": "A filtered re-formation could give Capa a specific redirection task after Fulledge, or delay an already successful reset.",
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether the overlay changes accumulation or only lengthens the passage."
+            "outgoingBpm": 137,
+            "purpose": "Test whether the filtered state gives redirection new work or merely postpones it."
           }
         ]
       },
-      "spotifyTrackId": "6UqTikPxBfOqGzmdJnjOpY",
+      "spotifyTrackId": "1f1d6GB3JUQGhhyYtzqc5S",
       "selected": true
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sans I",
-        "track": "Science",
-        "album": "Fenno Dub",
-        "releaseDate": "2026-06-22",
+        "artist": "PS11",
+        "track": "Mariana Trench",
+        "album": "Stratos EP",
+        "releaseDate": "2026-09-07",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/sans-i-fenno-dub-vinyl/1153509-01/",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A dub-and-bass continuum can form a threshold without belonging to one sonic room, but it must preserve the protected block and create a long-form consequence.",
+          "craftConvention": "A descent can prepare delayed-repetition reformation only when the following track reads differently; dark atmosphere alone is not structural evidence.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno describes both Fenno Dub tracks as approaching cavernous dub and bass science from different angles, with bass suspension and reverb trails; Science is the opener.",
-          "editorialInterpretation": "Treat this as shared two-track framing rather than individual trajectory proof; keep endpoint, energy, density, space, hypnosis, emotional effect, phrasing and mixability unknown.",
+          "attributedDescription": "Juno individually says Mariana Trench sinks into the darkness associated with the world's deepest ocean.",
+          "editorialInterpretation": "Treat this as metaphorical framing, not measured energy, density, space, emotional effect, trajectory, endpoint, phrase structure or mixability.",
           "measured": [
-            "Juno lists Sans I — Science at 6:38 on Fenno Dub, released 2026-06-22.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 5:11 on Stratos EP, released 2026-09-07.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A dub-bass threshold could make Transparency a more explicit return to linear focus without splitting the protected trio, or it could delay an already proportionate entry into the block.",
+        "fitHypothesis": "The descent could make Silent Tension's delayed-repetition pattern a consequential re-formation after backsliding, or simply lengthen dissolution.",
         "proposedPlacements": [
           {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "position": "Between backsliding and Silent Tension",
+            "precedingUri": "spotify:track:7nPQD8wXUbAEaxGoLJxcWd",
+            "followingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
             "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 143,
-            "purpose": "Test whether the threshold changes the block entrance while leaving both protected internal handoffs intact."
+            "outgoingBpm": null,
+            "purpose": "Test whether a descent changes the following re-formation or only extends dissolution."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
     },
     {
-      "status": "RESOLVED",
+      "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Sabotak",
-        "track": "Fracture",
-        "album": "Silent Takeover",
-        "releaseDate": "2026-06-29",
+        "artist": "Confusion",
+        "track": "Space",
+        "album": "In Cycles",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/silent-takeover-vinyl/1147803-01/",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Sharp driving texture is not valuable merely because it sounds fractured; it must make the following recurring-fragment state or deformation newly consequential.",
+          "craftConvention": "A brisk unsettled state can sit after rhythmic destabilization only if the following false-stability hinge becomes a consequence rather than another accumulation.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually groups Sabotak's Fracture among the compilation's sharp, driving textures.",
-          "editorialInterpretation": "The description establishes a bounded material proposition but not individual direction, endpoint, energy, density, space, emotional effect, phrasing or mixability.",
+          "attributedDescription": "Juno names Space among In Cycles' tracks that resound in umbral space and aim to unsettle and motivate in dark, brisk fashion.",
+          "editorialInterpretation": "The shared sentence supplies a proposition, not individual development, endpoint, perceived pulse, energy, density, space as measurement, emotional effect, phrasing or mixability.",
           "measured": [
-            "Juno lists Sabotak — Fracture at 5:05 on Silent Takeover, released 2026-06-29.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 5:38 on In Cycles, released 2026-09-10.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A sharp driving insertion could prepare Goink's recurring fragments as a reduction, or it could add another complete forward-motion state before the existing deformation.",
+        "fitHypothesis": "The brisk unsettled state could give Té de Cabello Blanco an explicit reassembly task after Drummz, or insert another instability stage without changing the run.",
         "proposedPlacements": [
           {
-            "position": "Between FELT and Goink",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "incomingBpm": null,
+            "position": "Between Drummz and Té de Cabello Blanco",
+            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
+            "incomingBpm": 138,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether driving texture changes the recurring-fragment successor or simply delays it."
+            "purpose": "Test whether unsettled continuation changes reassembly or merely adds another instability stage."
           }
         ]
       },
-      "spotifyTrackId": "1Ln3Rer1aiRrUMjjaXu0UM",
-      "selected": false
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "34SbdNILggB48O7QBSsuLb",
-      "uri": "spotify:track:34SbdNILggB48O7QBSsuLb",
-      "name": "Monozukuri",
+      "id": "0rtVLPViuQkjjOL7a67GeK",
+      "uri": "spotify:track:0rtVLPViuQkjjOL7a67GeK",
+      "name": "Hydrophobia",
       "artists": [
-        "Biz"
+        "Dimi Angélis"
       ],
-      "album": "Monozukuri",
-      "releaseDate": "2024-06-10",
-      "durationMs": 328125,
-      "spotifyUrl": "https://open.spotify.com/track/34SbdNILggB48O7QBSsuLb",
+      "album": "Time Capsule",
+      "releaseDate": "2026-07-10",
+      "durationMs": 356693,
+      "spotifyUrl": "https://open.spotify.com/track/0rtVLPViuQkjjOL7a67GeK",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/biz-limited-series-3-vinyl/1144764-01/",
+      "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Never Met and Trompe L'oeil",
-          "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-          "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether the formed percussion changes the reset's work or only delays it."
-        }
-      ],
-      "fitHypothesis": "The metallic-percussion state could give Trompe L'oeil a distinct object to reset, or it could add another foreground episode between passing motion and the existing reset.",
-      "evidence": {
-        "craftConvention": "A prickly percussive formation can resist fixed techno form, but it earns sequence space only when its exit changes the following reset or deformation.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Monozukuri as becoming pricklier through metallic percussive textures and a forlorn lead.",
-        "editorialInterpretation": "Test the material proposition after Never Met without inferring direction, endpoint, energy, density, space, emotional effect, phrase structure or mixability.",
-        "measured": [
-          "Juno lists BIZ — Monozukuri at 5:21 on Biz Limited Series #3, released 2026-06-29.",
-          "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "BIZ",
-        "track": "Monozukuri",
-        "album": "Biz Limited Series #3",
-        "releaseDate": "2026-06-29",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/biz-limited-series-3-vinyl/1144764-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A prickly percussive formation can resist fixed techno form, but it earns sequence space only when its exit changes the following reset or deformation.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes Monozukuri as becoming pricklier through metallic percussive textures and a forlorn lead.",
-          "editorialInterpretation": "Test the material proposition after Never Met without inferring direction, endpoint, energy, density, space, emotional effect, phrase structure or mixability.",
-          "measured": [
-            "Juno lists BIZ — Monozukuri at 5:21 on Biz Limited Series #3, released 2026-06-29.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The metallic-percussion state could give Trompe L'oeil a distinct object to reset, or it could add another foreground episode between passing motion and the existing reset.",
-        "proposedPlacements": [
-          {
-            "position": "Between Never Met and Trompe L'oeil",
-            "precedingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "followingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether the formed percussion changes the reset's work or only delays it."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0ZIymS51WdXMoB4KUG1n6V",
-      "uri": "spotify:track:0ZIymS51WdXMoB4KUG1n6V",
-      "name": "Muuntaja",
-      "artists": [
-        "Panasonic"
-      ],
-      "album": "Muuntaja / Murtaja",
-      "releaseDate": "1994-05-05",
-      "durationMs": 593831,
-      "spotifyUrl": "https://open.spotify.com/track/0ZIymS51WdXMoB4KUG1n6V",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/panasonic-pan-sonic-muuntaja-vinyl/1155044-01/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Worn Down and Atlantis",
-          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+          "position": "Between Sarniezz and Never Met",
+          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether reduction gives micro-repetition new work or merely adds another long mechanism."
+          "purpose": "Test whether unstable sparseness changes the passing-foreground hinge or merely adds another foreground."
         }
       ],
-      "fitHypothesis": "The long reduced construction could turn Atlantis into a micro-repetitive recomposition after abrasion, or it could add a second complete mechanism before the existing acceleration crisis.",
+      "fitHypothesis": "Sparse unstable foreground could turn Never Met into a passing response before Trompe L'oeil resets the passage, or crowd an already articulate left turn.",
       "evidence": {
-        "craftConvention": "Industrial reduction and nonlinear noise can function as a hinge if the following micro-repetition becomes a consequence rather than another isolated mechanism.",
+        "craftConvention": "Sparse unstable detail can prepare a reset without a new groove, but it earns space only if the reset becomes a consequence rather than a delayed event.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno describes the two-track Muuntaja reissue through nonlinear noisiness that turns clip-distorted kicks, hat rattles and subs into set functions; the title track is the A-side.",
-        "editorialInterpretation": "Treat the description as shared release framing, not proof of the title track's individual development, endpoint, energy, density, space, phrasing or mixability.",
+        "attributedDescription": "Juno individually describes Hydrophobia as more spare, with a paranoid edge created by synths like trapped flies drifting through the mix.",
+        "editorialInterpretation": "Test the proposition before Never Met while leaving direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
         "measured": [
-          "Juno lists Panasonic — Muuntaja at 9:50 on the 2026 Sähkö reissue of an early two-track release.",
-          "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          "Juno lists the track at 5:55 on Time Capsule, released 2026-07-08.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Panasonic",
-        "track": "Muuntaja",
-        "album": "Muuntaja",
-        "releaseDate": "2026-07-27",
+        "artist": "Dimi Angelis",
+        "track": "Hydrophobia",
+        "album": "Time Capsule",
+        "releaseDate": "2026-07-08",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/panasonic-pan-sonic-muuntaja-vinyl/1155044-01/",
+        "discoverySource": "https://www.juno.co.uk/labels/Dekmantel%2BHolland/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "Industrial reduction and nonlinear noise can function as a hinge if the following micro-repetition becomes a consequence rather than another isolated mechanism.",
+          "craftConvention": "Sparse unstable detail can prepare a reset without a new groove, but it earns space only if the reset becomes a consequence rather than a delayed event.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno describes the two-track Muuntaja reissue through nonlinear noisiness that turns clip-distorted kicks, hat rattles and subs into set functions; the title track is the A-side.",
-          "editorialInterpretation": "Treat the description as shared release framing, not proof of the title track's individual development, endpoint, energy, density, space, phrasing or mixability.",
+          "attributedDescription": "Juno individually describes Hydrophobia as more spare, with a paranoid edge created by synths like trapped flies drifting through the mix.",
+          "editorialInterpretation": "Test the proposition before Never Met while leaving direction, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing and mixability unknown.",
           "measured": [
-            "Juno lists Panasonic — Muuntaja at 9:50 on the 2026 Sähkö reissue of an early two-track release.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 5:55 on Time Capsule, released 2026-07-08.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The long reduced construction could turn Atlantis into a micro-repetitive recomposition after abrasion, or it could add a second complete mechanism before the existing acceleration crisis.",
+        "fitHypothesis": "Sparse unstable foreground could turn Never Met into a passing response before Trompe L'oeil resets the passage, or crowd an already articulate left turn.",
         "proposedPlacements": [
           {
-            "position": "Between Worn Down and Atlantis",
-            "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
-            "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+            "position": "Between Sarniezz and Never Met",
+            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether reduction gives micro-repetition new work or merely adds another long mechanism."
+            "purpose": "Test whether unstable sparseness changes the passing-foreground hinge or merely adds another foreground."
           }
         ]
       }
     },
     {
-      "id": "6UqTikPxBfOqGzmdJnjOpY",
-      "uri": "spotify:track:6UqTikPxBfOqGzmdJnjOpY",
-      "name": "One Layer",
+      "id": "1f1d6GB3JUQGhhyYtzqc5S",
+      "uri": "spotify:track:1f1d6GB3JUQGhhyYtzqc5S",
+      "name": "Firgot",
       "artists": [
-        "Nizre"
+        "Lenson"
       ],
-      "album": "Detained",
-      "releaseDate": "2026-07-09",
-      "durationMs": 305434,
-      "spotifyUrl": "https://open.spotify.com/track/6UqTikPxBfOqGzmdJnjOpY",
+      "album": "TAR047",
+      "releaseDate": "2026-09-14",
+      "durationMs": 394285,
+      "spotifyUrl": "https://open.spotify.com/track/1f1d6GB3JUQGhhyYtzqc5S",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/nizre-detained-vinyl/1161726-01/",
+      "discoverySource": "https://www.juno.co.uk/techno/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Tehutis Law and Pulse I",
-          "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-          "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-          "incomingBpm": 139,
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "incomingBpm": null,
           "candidateBpm": null,
-          "outgoingBpm": 136,
-          "purpose": "Test whether the overlay changes accumulation or only lengthens the passage."
+          "outgoingBpm": 137,
+          "purpose": "Test whether the filtered state gives redirection new work or merely postpones it."
         }
       ],
-      "fitHypothesis": "The stretched overlay could make Pulse I's crooked accumulation a response to destabilized re-grounding, or it could add an unnecessary darkening stage before that existing hinge.",
+      "fitHypothesis": "A filtered re-formation could give Capa a specific redirection task after Fulledge, or delay an already successful reset.",
       "evidence": {
-        "craftConvention": "A stretched-synth layer can destabilize a groove without introducing a new rhythm, but it must alter the following accumulation to justify insertion.",
+        "craftConvention": "A filtered strange state can follow metric dissolution if its exit changes the next redirection; weirdness is not a reason to admit it.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes One Layer as foreboding low end with synths stretched and pulled over the drums.",
-        "editorialInterpretation": "Test the exact track after Tehutis Law while leaving perceived pulse, energy, density, space, hypnosis, emotional effect, endpoint, phrasing and mixability unknown.",
+        "attributedDescription": "Juno individually groups Firgot on TAR 47's filtery-weird A-side.",
+        "editorialInterpretation": "The description establishes material, not development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing or mixability.",
         "measured": [
-          "Juno lists Nizre — One Layer at 4:59 on Detained, released 2026-07-06.",
-          "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          "Juno lists the track at 6:32 on TAR 47, released 2026-09-10.",
+          "Exact market-SE identity, credits and duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Nizre",
-        "track": "One Layer",
-        "album": "Detained",
-        "releaseDate": "2026-07-06",
+        "artist": "Lenson",
+        "track": "Firgot",
+        "album": "TAR 47",
+        "releaseDate": "2026-09-10",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/nizre-detained-vinyl/1161726-01/",
+        "discoverySource": "https://www.juno.co.uk/techno/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A stretched-synth layer can destabilize a groove without introducing a new rhythm, but it must alter the following accumulation to justify insertion.",
+          "craftConvention": "A filtered strange state can follow metric dissolution if its exit changes the next redirection; weirdness is not a reason to admit it.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually describes One Layer as foreboding low end with synths stretched and pulled over the drums.",
-          "editorialInterpretation": "Test the exact track after Tehutis Law while leaving perceived pulse, energy, density, space, hypnosis, emotional effect, endpoint, phrasing and mixability unknown.",
+          "attributedDescription": "Juno individually groups Firgot on TAR 47's filtery-weird A-side.",
+          "editorialInterpretation": "The description establishes material, not development, endpoint, perceived pulse, energy, density, space, emotional effect, phrasing or mixability.",
           "measured": [
-            "Juno lists Nizre — One Layer at 4:59 on Detained, released 2026-07-06.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Juno lists the track at 6:32 on TAR 47, released 2026-09-10.",
+            "Exact market-SE identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "The stretched overlay could make Pulse I's crooked accumulation a response to destabilized re-grounding, or it could add an unnecessary darkening stage before that existing hinge.",
+        "fitHypothesis": "A filtered re-formation could give Capa a specific redirection task after Fulledge, or delay an already successful reset.",
         "proposedPlacements": [
           {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": 139,
+            "position": "Between Fulledge (Empty-40 Mix) and Capa",
+            "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+            "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "incomingBpm": null,
             "candidateBpm": null,
-            "outgoingBpm": 136,
-            "purpose": "Test whether the overlay changes accumulation or only lengthens the passage."
+            "outgoingBpm": 137,
+            "purpose": "Test whether the filtered state gives redirection new work or merely postpones it."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "1Ln3Rer1aiRrUMjjaXu0UM",
-      "uri": "spotify:track:1Ln3Rer1aiRrUMjjaXu0UM",
-      "name": "Fracture",
-      "artists": [
-        "Sabotak"
-      ],
-      "album": "Silent Takeover",
-      "releaseDate": "2026-07-07",
-      "durationMs": 302686,
-      "spotifyUrl": "https://open.spotify.com/track/1Ln3Rer1aiRrUMjjaXu0UM",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.juno.co.uk/products/silent-takeover-vinyl/1147803-01/",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between FELT and Goink",
-          "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-          "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether driving texture changes the recurring-fragment successor or simply delays it."
-        }
-      ],
-      "fitHypothesis": "A sharp driving insertion could prepare Goink's recurring fragments as a reduction, or it could add another complete forward-motion state before the existing deformation.",
-      "evidence": {
-        "craftConvention": "Sharp driving texture is not valuable merely because it sounds fractured; it must make the following recurring-fragment state or deformation newly consequential.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually groups Sabotak's Fracture among the compilation's sharp, driving textures.",
-        "editorialInterpretation": "The description establishes a bounded material proposition but not individual direction, endpoint, energy, density, space, emotional effect, phrasing or mixability.",
-        "measured": [
-          "Juno lists Sabotak — Fracture at 5:05 on Silent Takeover, released 2026-06-29.",
-          "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Sabotak",
-        "track": "Fracture",
-        "album": "Silent Takeover",
-        "releaseDate": "2026-06-29",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.juno.co.uk/products/silent-takeover-vinyl/1147803-01/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "Sharp driving texture is not valuable merely because it sounds fractured; it must make the following recurring-fragment state or deformation newly consequential.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Juno individually groups Sabotak's Fracture among the compilation's sharp, driving textures.",
-          "editorialInterpretation": "The description establishes a bounded material proposition but not individual direction, endpoint, energy, density, space, emotional effect, phrasing or mixability.",
-          "measured": [
-            "Juno lists Sabotak — Fracture at 5:05 on Silent Takeover, released 2026-06-29.",
-            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A sharp driving insertion could prepare Goink's recurring fragments as a reduction, or it could add another complete forward-motion state before the existing deformation.",
-        "proposedPlacements": [
-          {
-            "position": "Between FELT and Goink",
-            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
-            "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether driving texture changes the recurring-fragment successor or simply delays it."
-          }
-        ]
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
