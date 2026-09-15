@@ -1,5 +1,21 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 283
+
+### A short foreground is still a foreground
+
+**Direction:** Test concise vocal-bass propositions by downstream consequence rather than assuming that short duration makes an intermediate declaration structurally harmless.
+
+**Ingredients:**
+
+- Truncate — *Where I Wanna Be* → Blawan — *Style Teef* → Cooly G — *Same Way* → Christian Burkhardt — *Content Creator* → RP Boo — *U Belong 2 Me* → protected trio — placement-specific reject; the exact candidate's bouncing bass, aloof vocal and terse strut add another explicit foreground without changing the existing threshold
+- Claudio Solis, Pulsinger & Irl, Dibe, No Valentina, Giacomo Silvestri & Andrea Giuliani, Bruno Pronsato, Roel Funcken and Regal86 — unresolved exact-title research directions
+
+**Why interesting:** A compact state can be vivid and genuinely useful without earning this particular slot. The relevant test is not duration but whether the exit changes the successor's work.
+
+**Boundary:** The Christian Burkhardt verdict rejects only `Same Way → candidate → U Belong 2 Me`. Immediate handoffs, exact endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotion, phrasing and mixability remain unknown. The unresolved identities received no musical verdict.
+
+
 ## Current additions — Run 282
 
 ### Declaration versus downstream consequence

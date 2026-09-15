@@ -1,5 +1,13 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 283 — exact inspiration retained
+
+- Christian Burkhardt — *Content Creator* — `spotify:track:2gQKv4rZXffhI5tCj7pOxF` — exact 2:46.593 identity; placement-specific reject at `Same Way → candidate → U Belong 2 Me`, retained for its documented bouncing bass, aloof vocal and terse quirky strut.
+- Research leads without verdict: Claudio Solis — *Rompeolas*; Pulsinger & Irl — *Siren*; Dibe — *Pressure*; No Valentina — *They've Always Been Here*; Giacomo Silvestri & Andrea Giuliani — *Feelings*; Bruno Pronsato — *Shelly Play The Bells (You Nasty Thing)*; Roel Funcken — *Citer*; Regal86 — *Lenguajes*.
+- Source direction: current Juno techno, minimal/tech-house and experimental/electronic windows across deep/dub, broken, hypnotic, electro and adjacent experimental material, checked 2026-09-15. Set direction retained: concision can lower proportional cost without changing an already articulated threshold.
+- Audio analysis and live mixing were not tested.
+
+
 ## Run 282 — exact inspiration retained
 
 - Nene H — *Back to Beste* — `spotify:track:3ujgu4rHM2fLvVv643Hgso` — exact 3:15.727 identity; placement-specific reject at `Fragments → candidate → Dark Necessity`, retained for its documented industrial-techno declaration and self-affirming album-stage function.

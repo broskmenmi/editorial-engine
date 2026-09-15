@@ -1,5 +1,26 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 283 — EXPLORE — concision does not erase redundant foreground
+
+Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, both COMPLETE Spotify receipts, the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. No objective, listener-authorized or workflow-health repair was actionable, so the lane was EXPLORE. Approximately 104 current, adjacent and overlooked catalogue items produced nine fresh leads from nine releases at boundaries not used in the previous five completed discovery runs.
+
+Run `2026-09-15T22:51:52Z-explore-283` committed its immutable schemaVersion 2 request at `af8de3e3fa60c0342a2f6f84b89a636740d7080e`. Resolver workflow `35033541065` succeeded and persisted a matching PARTIAL snapshot at `935acff1b477ba58894e62a498130fadc7f460a5`: nine requested, one exact resolution, one selected candidate and eight unresolved identities. The snapshot contains one exact metadata-variance warning and no alternates, duplicates, substitutions, relinkings or terminal technical failure. Request fingerprint: `cf85948381dd649a06bd54b54fb446ef647d474aaa1e12f43fdfef17b24df1ac`.
+
+Christian Burkhardt — *Content Creator* (`spotify:track:2gQKv4rZXffhI5tCj7pOxF`, 2:46.593) passes the volume lens but is rejected only at `Same Way → candidate → U Belong 2 Me`. Juno's exact-track description establishes a bouncing-ball bass, aloof vocal line and quirky terse strut. Immediate handoffs, endpoint and phrasing remain unknown. The exact five-track test `Style Teef → Same Way → Content Creator → U Belong 2 Me → Transparency` fails proportionally because the candidate adds another explicit foreground between the existing body-pressure hinge and threshold. Its brevity lowers cost but does not change *U Belong 2 Me*'s four-on-the-floor-to-funereal task or the protected block that follows. The track remains genuinely interesting and enters the doctrine-free global Discovery Pool.
+
+The exact resolver warning is preserved: `Exact title/artist matched with release metadata variance: album requested "Content Creator EP" but Spotify returned "Content Creator"; release date requested "2026-09-10" but Spotify returned "2026-09-11"`.
+
+Eight identities remain unresolved without musical verdict: Claudio Solis — *Rompeolas*; Pulsinger & Irl — *Siren*; Dibe — *Pressure*; No Valentina — *They've Always Been Here*; Giacomo Silvestri & Andrea Giuliani — *Feelings*; Bruno Pronsato — *Shelly Play The Bells (You Nasty Thing)*; Roel Funcken — *Citer*; Regal86 — *Lenguajes*. Each returned exactly `no exact Spotify title/artist search match in market SE`.
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. Canonical publication inputs and journey annotations did not change, so the existing 64-track, 63-transition journey map remains the correct artifact and target Spotify verification remains unchanged. The global Discovery Pool advances 543 → 544 rows pending publisher verification at the editorial approval point.
+
+Workflow health: `~104 inspected → 9 leads → 1 exact + 8 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`. Inspection-to-lead conversion is 8.7%; resolution yield is 11.1%; selected-candidate-to-ADD conversion is 0/1. Across completed discovery Runs 87–283, excluding repairs and failed requests: 1,381 leads from approximately 10,224 inspections; 51 ADDs from 396 selected candidates. None of the last ten comparable runs contains an ADD. The musical no-ADD streak is eleven completed runs after Run 270, with 23 exact interesting tracks retained since that ADD. Resolver loss remains dominant, while exact outcomes continue to receive differentiated PARK/REJECT treatment rather than one repeated epistemic veto; no workflow REPAIR is yet actionable.
+
+Auditor: APPROVED. The resolver lifecycle is immutable and matched, the evaluation is evidence-bounded at all four required scales, the rejection is placement-specific, unresolved identities receive no verdict, utility retention is doctrine-free, protected handoffs are untouched and canonical state is not altered.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
+
 ## Run 282 — EXPLORE — a stronger declaration is not yet changed consequence
 
 Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, both COMPLETE Spotify receipts, the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. No objective, listener-authorized or workflow-health repair was actionable, so the lane was EXPLORE. Approximately 101 current, adjacent and overlooked catalogue items produced nine fresh leads from nine releases at boundaries not used in the previous five completed discovery runs.
