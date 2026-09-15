@@ -1,5 +1,14 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 281 — exact inspiration retained
+
+- Villager — *KEEP IT GOING* — `spotify:track:1GpjGo1Kaz9h9zpVmzKy2d` — exact 4:31.934 identity; PARKED at `Style Teef → candidate → Same Way` because the official listing does not establish individual development or endpoint.
+- UFO95 — *Feed manipulation* — `spotify:track:0qa9ct2I7phL5LquhChST2` — exact 5:22.442 identity; PARKED at `Tides Alternate → candidate → Serpentine Tale` because focused release framing does not establish the title track's individual trajectory.
+- Research leads without verdict: Tao Andra / Stone van Brooken — *Altan*; Lysnings — *Lost*; Inhmost — *Analog Dreams*; Hertz & Mhonolink — *Linus (2026 Remaster)*; Senmove — *97c*; Barrier — *Depose*; Bandikoot & Chôkô — *Veil Of Embers*.
+- Source direction: current official Bandcamp, Juno, Clone and HHV pages across techno, dub, electro, hypnotic and adjacent experimental windows checked 2026-09-15. Set direction retained: exact identity opens a placement question; individual trajectory determines consequence.
+- Audio analysis and live mixing were not tested.
+
+
 ## Run 280 — exact inspiration retained
 
 - King Doudou — *LSDLNG* — `spotify:track:36S0ca8n3dV9wh8yvNjEu8` — exact 3:30.573 identity; placement-specific reject at `Amor → candidate → Baghdad`, retained for its individually documented swinging reggaeton, tight snare cadence, rude horns and electronic skew.

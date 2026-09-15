@@ -1,5 +1,22 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 281
+
+### Release context versus individual trajectory
+
+**Direction:** Test exact electronic and techno identities by the condition each track leaves for its successor, not by title, taxonomy or coherent release framing alone.
+
+**Ingredients:**
+
+- Truncate — *Where I Wanna Be* → Blawan — *Style Teef* → Villager — *KEEP IT GOING* → DJ Qu — *Same Way* → Pangaea — *U Belong 2 Me* — parked; exact identity and release context do not establish development, endpoint or whether the candidate changes the recovery
+- Pearson Sound — *Hypnic Jerks* → Terrence Dixon — *Tides Alternate* → UFO95 — *Feed manipulation* → Aa Sudd — *Serpentine Tale* → Sciahri — *Too Much Time* — parked; focused EP framing does not establish the title track's individual process or exit
+- Tao Andra / Stone van Brooken, Lysnings, Inhmost, Hertz & Mhonolink, Senmove, Barrier and Bandikoot / Chôkô — unresolved exact-title research directions across melodic, dub, analogue, catalogue, hypnotic and acid-tribe windows
+
+**Why interesting:** Both exact candidates are current and structurally plausible, but exact identity plus release coherence cannot answer whether either exit alters the successor. The PARK verdict preserves those questions without treating missing evidence as failure.
+
+**Boundary:** These are parked hypotheses and research directions, not proven sequences or claims about phrase fit, mixability, measured BPM, perceived pulse, energy, density, space, hypnosis or emotional effect. The protected handoffs are outside the ideas.
+
+
 ## Current additions — Run 280
 
 ### Cadence versus changed formation

@@ -1,5 +1,44 @@
 # STRANGE GAIT — Discoveries
 
+## Run 281 — 2026-09-15T20:52:02Z-explore-281
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `a3f3e79d15d0cc477cb87a98ad2865036fef326b`, requestFingerprint `4087cc324f9b2a8bef4baae47226f56e488dbacde49675c098598eac07bb1036`, generated 2026-09-15T20:57:37.652Z, PARTIAL. Immutable request commit `ff6408936b0ea165cbf935f0b7784cfb80905888`; resolver workflow `35022685869`; terminal snapshot commit `47b0fe563fa0b769a1cf5dbc5da3b8dd24ab39d9`. Requested 9; resolved 2; selected 2; seven unresolved; no warnings, alternates, duplicates, substitutions, relinkings or terminal technical failure.
+
+### Villager — KEEP IT GOING — `spotify:track:1GpjGo1Kaz9h9zpVmzKy2d` — PARKED
+
+Exact duration 271,934 ms; Spotify album *NOWHERE FM: VIVA LA VILLAGER*, release date 2026-09-11. The official page verifies the exact track inside an electronic, electro, experimental and techno release but supplies no individual development or endpoint.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Style Teef → KEEP IT GOING → Same Way`; neither handoff was heard or documented.
+- Five-track consequence: UNKNOWN through `Where I Wanna Be → Style Teef → KEEP IT GOING → Same Way → U Belong 2 Me`.
+- Long-form effect: UNKNOWN. The evidence cannot distinguish whether the 4:31.934 insertion creates a continuation state that changes *Same Way* or redundantly announces the existing recovery.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: individual materials, development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and exact handoffs.
+
+### UFO95 — Feed manipulation — `spotify:track:0qa9ct2I7phL5LquhChST2` — PARKED
+
+Exact duration 322,442 ms; Spotify album *Feed manipulation*, release date 2026-09-14. The official page and current distributor/retailer listings verify the exact title track in a focused four-track TSSRCT continuation, but the available prose applies to the release rather than the title track's individual trajectory.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Tides Alternate → Feed manipulation → Serpentine Tale`; neither handoff was heard or documented.
+- Five-track consequence: UNKNOWN through `Hypnic Jerks → Tides Alternate → Feed manipulation → Serpentine Tale → Too Much Time`.
+- Long-form effect: UNKNOWN. Release-level continuity cannot establish whether the 5:22.442 process changes *Serpentine Tale*'s held formation or repeats the deformation already present.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: individual materials, development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrasing, mixability and exact handoffs.
+
+### Unresolved without musical verdict
+
+- Tao Andra, Stone van Brooken — *Altan*: `no exact Spotify title/artist search match in market SE`
+- Lysnings — *Lost*: `no exact Spotify title/artist search match in market SE`
+- Inhmost — *Analog Dreams*: `no exact Spotify title/artist search match in market SE`
+- Hertz & Mhonolink — *Linus (2026 Remaster)*: `no exact Spotify title/artist search match in market SE`
+- Senmove — *97c*: `no exact Spotify title/artist search match in market SE`
+- Barrier — *Depose*: `no exact Spotify title/artist search match in market SE`
+- Bandikoot & Chôkô — *Veil Of Embers*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred. Audio analysis and live mixing were not tested.
+
+
 ## Run 280 — 2026-09-15T19:48:08Z-explore-280
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `f85dc078929ead7e65b7f7d75b6936e1ea920862`, requestFingerprint `3dad79a040233b5f0c74c3355bf4517b67cf1238c30349f3bbe8b998f79341f9`, generated 2026-09-15T19:53:47.520Z, PARTIAL. Immutable request commit `98fea91aee8f5a560ba4a859896b37ed4c06d822`; resolver workflow `35016316375`; terminal snapshot commit `873e624aaf7c358ce9efe2af015e9afec7f293bf`. Requested 9; resolved 1; selected 1; eight unresolved; no warnings, alternates, duplicates, substitutions, relinkings or terminal technical failure.
