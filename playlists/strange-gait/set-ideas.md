@@ -3,6 +3,22 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 273
+
+### Material vividness versus documented exit
+
+**Direction:** Test exact pressure and tunnel states by whether their exit changes the successor, keeping an individually vivid description separate from evidence of trajectory.
+
+**Ingredients:**
+
+- Demdike Stare — *Fulledge (Empty-40 Mix)* → Nørbak — *Capa* → Lurka — *Point Noise Behaviours* → Angine de Poitrine — *Sarniezz* → Sam Prekop — *Never Met* — rejected placement hypothesis; exact handoffs and candidate endpoint unknown
+- Rene Wise — *Cave* → Decoder — *Abundance* → Bliss Inc — *In Blur* → Omar S — *Tecky Alexander* → Yu Su — *Foundry* — parked placement hypothesis; candidate development, endpoint and exact handoffs unknown
+- ANGAMA, Nick Fasoli, Calagad 13, AZARYC, Jay Tripwire and Howie B / Hiraki Sawa — unresolved exact-title research directions
+
+**Why interesting:** Both exact candidates supply legible material states. The canonical distinction remains downstream consequence: one demonstrably lengthens an already articulated passage, while the other preserves an open question because its exit is undocumented.
+
+**Boundary:** These are editorial directions and placement counterexamples, not proven live sequences or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse, endpoints and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 272
 
 ### Distinct foreground versus changed successor

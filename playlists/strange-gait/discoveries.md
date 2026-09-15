@@ -1,5 +1,73 @@
 # STRANGE GAIT — Discoveries
 
+## Run 273 — 2026-09-15T13:53:26Z-explore-273
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `dd046ab31df96135790287744d5921ef6b44bdd7`, requestFingerprint `01f56928d61a329a72f4a928a28dddf85c49a491a5adb4142341f691027d816f`, PARTIAL. Requested 9; resolved 2; selected 2; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or terminal technical resolver failures. The nine leads came from nine releases and avoided boundaries evaluated in the previous five completed discovery runs. The resolver correctly blocked Darren Nye — *Solar Drift* as already present in persistent state; that exact identity therefore receives no new musical verdict.
+
+### Evaluated exact candidates
+
+#### Lurka — Point Noise Behaviours — `spotify:track:39D649DMmwerovJZ5h6kcV` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://lurka.bandcamp.com/album/rhythm-hi-tek
+
+Spotify: https://open.spotify.com/track/39D649DMmwerovJZ5h6kcV
+
+Exact resolver duration: 313,996 ms (5:13.996). BPM unavailable. Spotify returned album *Rhythm Hi-Tek* and release date 2020-05-08 without metadata variance.
+
+Bleep distinguishes the exact track as sputtering and slamming, while the artist-hosted release verifies its title, duration and position. This supports a hard-edged pressure state; it does not establish exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure or mixability.
+
+- Volume fit: PASS. The documented pressure construction fits the selection lens without requiring genre purity, weirdness or a fixed chapter role.
+- Immediate transition: UNKNOWN at `Capa → Point Noise Behaviours → Sarniezz`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Fulledge (Empty-40 Mix) → Capa → Point Noise Behaviours → Sarniezz → Never Met`. *Capa* already redirects the rhythm and *Sarniezz* supplies a conspicuous live-band pulse illusion. The candidate adds another complete high-definition pressure stage without evidence that *Sarniezz* receives different work.
+- Long-form effect: FAIL only at this placement. The added 5:13.996 sharpens material contrast but lengthens an already articulated redirection-to-left-turn-to-transit passage without a changed downstream condition.
+- Strongest alternative: the exact pressure state could make the live-band left turn more dramatic. That remains genuinely interesting, but contrast and drama alone do not establish that the successor has acquired a new task.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+#### Bliss Inc — In Blur — `spotify:track:54ayylyImuauSbuxmJhKH7` — PARKED
+
+Source: https://www.juno.co.uk/products/bliss-inc-echo-chambered-vinyl/1170044-01/
+
+Spotify: https://open.spotify.com/track/54ayylyImuauSbuxmJhKH7
+
+Exact resolver duration: 391,615 ms (6:31.615). BPM unavailable. Spotify returned album *echo-chambered* and release date 2026-09-04; the requested *Echo Chambered* / 2026-09-15 variance is preserved below.
+
+Juno individually describes *In Blur* as shifting the record into deeper, noise-layered, leaden tunnels. This establishes a distinct material state, but not the track's development after that shift, endpoint or either handoff.
+
+- Volume fit: PASS. A deep noise-layered tunnel is a lawful production-world proposition and need not satisfy a chapter quota.
+- Immediate transition: UNKNOWN at `Abundance → In Blur → Tecky Alexander`; neither handoff was heard or metrically documented.
+- Surrounding run: UNKNOWN through `Cave → Abundance → In Blur → Tecky Alexander → Foundry`. The exact description permits a reformation hypothesis, but cannot show whether *Tecky Alexander* emerges from the tunnel as a changed patterned state or merely follows another complete scene.
+- Long-form effect: UNKNOWN. At 6:31.615, the cost is substantial; the source does not establish an exit that changes the existing patterned-formation-to-directional-break relation.
+- Strongest alternative: reject the placement because the candidate delays *Tecky Alexander*. That would convert an undocumented exit into failure. PARK preserves the exact question without lowering the ADD threshold.
+- Verdict: PARKED at the tested boundary. Reopen only for materially richer exact-track development or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. Retained as genuinely interesting.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- ANGAMA — *Burning*: `no exact Spotify title/artist search match in market SE`
+- Nick Fasoli — *Express Thyself*: `no exact Spotify title/artist search match in market SE`
+- Calagad 13 — *Graves Quimicos (Breaks)*: `no exact Spotify title/artist search match in market SE`
+- AZARYC — *New Nice Pop Song*: `no exact Spotify title/artist search match in market SE`
+- Jay Tripwire — *Irene*: `no exact Spotify title/artist search match in market SE`
+- Darren Nye — *Solar Drift*: `already present in persistent state`
+- Howie B, Hiraki Sawa — *Stick 2*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warning
+
+- `Exact title/artist matched with release metadata variance: album requested "Echo Chambered" but Spotify returned "echo-chambered"; release date requested "2026-09-15" but Spotify returned "2026-09-04"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; the immutable request and matching terminal snapshot are internally valid; only the two selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; the rejection remains proportional and placement-specific; the PARK preserves decision-critical unknowns; unresolved and persistent-state errors remain exact; and both genuinely interesting exact identities enter the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact, and no other canonical playlist is mutated.
+
+### Persistence, publication and map state
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 527 tracks by retaining the two evaluated exact identities. Its publication receipt is pending the editorial commit at this stage.
+
+### Run analysis
+
+Run 273: `~121 inspected → 9 leads → 2 exact selected + 7 unresolved/persistent → 2 evaluations → 0 ADD + 1 placement-specific REJECT + 1 PARKED → 2 utility additions`. Inspection-to-lead conversion was 7.4%, resolution yield 22.2% and selected-candidate-to-ADD conversion 0/2. Across completed discovery Runs 87–273, excluding repairs and failed requests: 1,309 leads / ~9,404 inspections / 51 ADDs / 379 selected candidates. Three of the last ten comparable runs contain an ADD. The musical no-ADD streak is three completed runs after Run 270, with six exact interesting tracks retained since that ADD. Resolver loss remains material but is not evidence of playlist completion. One PARK does not trigger the recurring evidence-gap guard; no actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 272 — 2026-09-15T12:49:06Z-explore-272
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `12acb8e5c8c886f53a737d4bdcb814a79cd7ef24`, requestFingerprint `cb6c26d9d8f813380579d24a774d45ff9541d2253de1e28502dbd69981d5e90b`, PARTIAL. Requested 9; resolved 4; selected 3; one resolved alternate; five unresolved identities. No duplicates, substitutions, relinkings or terminal technical resolver failures. The first workflow attempt encountered a transient Spotify HTTP 502 before producing a snapshot; the same immutable request was retried successfully without mutation. The nine leads came from nine releases, passed persistent-history exclusion and avoided boundaries evaluated in the previous five completed discovery runs.

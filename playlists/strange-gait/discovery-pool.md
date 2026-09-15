@@ -3,6 +3,14 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 273 — exact inspiration retained
+
+- Lurka — *Point Noise Behaviours* — `spotify:track:39D649DMmwerovJZ5h6kcV` — exact 5:13.996 identity; placement-specific reject at `Capa → candidate → Sarniezz`, retained for its attributed sputtering-and-slamming pressure state.
+- Bliss Inc — *In Blur* — `spotify:track:54ayylyImuauSbuxmJhKH7` — exact 6:31.615 identity; PARKED at `Abundance → candidate → Tecky Alexander`, retained for its individually attributed shift into a deep, noise-layered, leaden tunnel.
+- Research leads preserved without verdict: ANGAMA — *Burning*; Nick Fasoli — *Express Thyself*; Calagad 13 — *Graves Quimicos (Breaks)*; AZARYC — *New Nice Pop Song*; Jay Tripwire — *Irene*; Howie B, Hiraki Sawa — *Stick 2*. Darren Nye — *Solar Drift* was excluded by the resolver as already persistent.
+- Source direction: current Juno techno/electro, Bleep/Timedance catalogue and artist-hosted exact-track pages. Set direction retained: distinguish a materially vivid pressure or tunnel from an intermediate state whose exit demonstrably changes the successor.
+- Audio analysis and live mixing were not tested.
+
 ## Run 272 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

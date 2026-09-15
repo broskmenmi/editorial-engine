@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 273 — EXPLORE — vivid intermediate states still need exit evidence
+
+Pre-audit passed and selected EXPLORE. Approximately 121 current, adjacent and overlooked-catalogue items produced nine immutable leads from nine releases. The matching PARTIAL resolver snapshot selected two exact identities: Lurka — *Point Noise Behaviours* and Bliss Inc — *In Blur*. Seven outcomes remain unresolved or already persistent and receive no musical verdict.
+
+*Point Noise Behaviours* passes the volume lens but is rejected only between *Capa* and *Sarniezz*: its exact pressure state makes the move more dramatic without evidence that the following live-band pulse illusion receives different work. *In Blur* passes the volume lens and remains PARKED between *Abundance* and *Tecky Alexander*: its exact material shift is documented, but later development, endpoint and downstream consequence remain unknown.
+
+STRANGE GAIT remains 64 tracks and its protected trio remains exact at positions 54–56. The doctrine-free Discovery Pool becomes 527 tracks by retaining both evaluated exact identities. The target journey-map inputs are unchanged. One PARK does not trigger the recurring evidence-gap guard; no actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
+Run 273: `~121 inspected → 9 leads → 2 exact selected + 7 unresolved/persistent → 2 evaluations → 0 ADD + 1 placement-specific REJECT + 1 PARKED → 2 utility additions`. Completed discovery totals through Run 273 are 1,309 leads / ~9,404 inspections / 51 ADDs / 379 selected candidates.
+
 ## Run 272 — EXPLORE — a distinct foreground still needs a changed successor
 
 Pre-audit passed and selected EXPLORE. Approximately 118 named tracks and releases across current, adjacent/emerging and overlooked-catalogue windows produced nine fresh evidence-bearing leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: four exact resolutions, three selected candidates, one alternate, five unresolved identities, four preserved metadata warnings and no terminal technical failure. The first workflow attempt met a transient Spotify HTTP 502; the same immutable request succeeded on retry.
