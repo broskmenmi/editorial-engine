@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 279
+
+### Mood, taxonomy and downstream consequence
+
+**Direction:** Test synthetic melancholy, industrial release framing and dub taxonomy by the condition each candidate leaves for its successor, not by mood or genre vocabulary alone.
+
+**Ingredients:**
+
+- Debit — *Encasadelciegoeltuerco* → Luigi Tozzi — *Tender Is The Night* → Hyden — *Neon Pale* → Baby Ford — *Night D3 Died* → Alexander Holm / Francesca Burattelli — *Egue into hs* — rejected placement hypothesis; the candidate duplicates the successor's mournful function
+- Someone Else — *Goink* → brenner — *Thick to Handle* → James Bong — *Overthinking* → SHERELLE / Cameo Blush — *LOVE YOUR ENEMIES* → Jayson Wynters — *Tehutis Law* — parked; individual development, endpoint and handoffs unknown
+- Jayson Wynters — *Tehutis Law* → Peverelist — *Pulse I* → Matthias Springer — *Deep Blue Latency* → Shoal — *Roxellana* → aya — *backsliding* — parked; release taxonomy cannot decide the seven-minute trajectory
+- VNNN. / Nadia Struiwigh, _studio416 / Sender Berlin, Code Zero, Teknopappa and A Mystical Facez / Phyrgian — unresolved exact-title research directions; Commodore 69 — *Cold War Acid* — exact unselected alternate
+
+**Why interesting:** The exact candidates cover an individually described mood, shared industrial framing and dub/Detroit taxonomy. Only the first supports a scoped negative verdict; the others remain open because exact identity does not supply the development or exit needed to judge consequence.
+
+**Boundary:** No audio audition, phrase fit, mixability, perceived pulse, measured energy, density, space, hypnosis or emotional response is established.
+
 ## Current additions — Run 278
 
 ### Exact identity versus individual trajectory

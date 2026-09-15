@@ -3,6 +3,16 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 279 — exact inspiration retained
+
+- Hyden — *Neon Pale* — `spotify:track:0ucUOXmKwDCscDWbVIgyVb` — exact 4:41.564 identity; placement-specific reject at `Tender Is The Night → candidate → Night D3 Died`, retained for its individually documented synthetic city-night melancholy.
+- James Bong — *Overthinking* — `spotify:track:7nnPcVzgcL7nGiMEGdgR50` — exact 5:51.294 identity; PARKED at `Thick to Handle → candidate → LOVE YOUR ENEMIES` because shared release framing does not establish individual development or endpoint.
+- Matthias Springer — *Deep Blue Latency* — `spotify:track:2ujg1xfueCDA0d7pytyHms` — exact 6:59.016 identity; PARKED at `Pulse I → candidate → Roxellana` because release taxonomy does not establish individual trajectory.
+- Exact alternate without verdict: Commodore 69 — *Cold War Acid*.
+- Research leads without verdict: VNNN., Nadia Struiwigh — *Prava Ljubav (Nadia Struiwigh Jungle Remix)*; _studio416 x Sender Berlin — *MazanA*; Code Zero — *Dark Memories*; Teknopappa — *Code Of Cosmos*; A Mystical Facez & Phyrgian — *Andromeda*.
+- Source direction: current and adjacent artist/label-hosted techno pages checked 2026-09-15. Set direction retained: distinguish a mood or release-world proposition from a trajectory whose exit changes the successor.
+- Audio analysis and live mixing were not tested.
+
 ## Run 278 — exact inspiration retained
 
 - Active Systems — *Avoid* — `spotify:track:0AHL7aQpWeMUZ9PtqkQ1Dh` — exact 4:43.610 identity; PARKED at `FELT → candidate → Goink` because individual development, endpoint and downstream consequence remain unknown.

@@ -1,5 +1,54 @@
 # STRANGE GAIT — Discoveries
 
+## Run 279 — 2026-09-15T17:48:11Z-explore-279
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `0a1448a07eaeebd51426bd09a42d443a604e7c40`, requestFingerprint `e49d5a9b343c3aeca4d1c00cd7d54f1ca4718b6c0732104208cf192c0f4ca849`, generated 2026-09-15T17:55:33.234Z, PARTIAL. Immutable request commit `eb32d5559c6c36b245367b41555641e625d5aa28`; resolver workflow `35004244156`; terminal snapshot commit `66513bb146c278f17e9f15557956a9583a251203`. Requested 9; resolved 4; selected 3; one alternate; five unresolved; two warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+### Hyden — Neon Pale — `spotify:track:0ucUOXmKwDCscDWbVIgyVb` — PLACEMENT-SPECIFIC REJECT
+
+Exact duration 281,564 ms; Spotify album *To Whom It May Concern*, release date 2025-09-19. Mutual Rytm individually describes a synthetic dreamscape about fading beauty under artificial light, a melancholy ode to cities at night and lost warmth.
+
+- Volume fit: PASS.
+- Immediate transition: UNKNOWN at `Tender Is The Night → Neon Pale → Night D3 Died`; neither handoff was heard or documented.
+- Five-track consequence: FAIL proportionally through `Encasadelciegoeltuerco → Tender Is The Night → Neon Pale → Night D3 Died → Egue into hs`. The candidate repeats the following track's mournful function rather than giving it a different object.
+- Long-form effect: FAIL at this placement. A second complete melancholy state lengthens the suspension-to-formation passage without changing the fixed-grid re-entry that follows.
+- Verdict: placement-specific REJECT. This is not a global rejection.
+
+### James Bong — Overthinking — `spotify:track:7nnPcVzgcL7nGiMEGdgR50` — PARKED
+
+Exact duration 351,294 ms; Spotify album *Hard Carry EP*, release date 2026-09-04. Newrhythmic's heavyweight-rhythm, hypnotic-synth and abrasive-industrial description applies to the four-track release rather than this track's individual trajectory.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Thick to Handle → Overthinking → LOVE YOUR ENEMIES`.
+- Five-track consequence: UNKNOWN through `Goink → Thick to Handle → Overthinking → LOVE YOUR ENEMIES → Tehutis Law`.
+- Long-form effect: UNKNOWN. The evidence cannot show whether it establishes a formed industrial object or duplicates the existing deformation.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Warning: `Exact title/artist matched with release metadata variance: album requested "Hard Carry" but Spotify returned "Hard Carry EP"; release date requested "2026-09-02" but Spotify returned "2026-09-04"`
+
+### Matthias Springer — Deep Blue Latency — `spotify:track:2ujg1xfueCDA0d7pytyHms` — PARKED
+
+Exact duration 419,016 ms; Spotify album *Deep Blue Latency*, release date 2026-09-10. The official page supplies deep-house, Detroit-techno, dub-techno and minimal-techno release taxonomy but no individual development or endpoint.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Pulse I → Deep Blue Latency → Roxellana`.
+- Five-track consequence: UNKNOWN through `Tehutis Law → Pulse I → Deep Blue Latency → Roxellana → backsliding`.
+- Long-form effect: UNKNOWN. Taxonomy cannot establish whether the seven-minute insertion creates a latent state that changes the surge or merely delays it.
+- Verdict: PARKED under the same evidence conditions.
+
+### Exact alternate without musical verdict
+
+- Commodore 69 — *Cold War Acid* — `spotify:track:0J9B5weNr6yPuuaZZSfgkK`, 375,428 ms. Warning: `Exact title/artist matched with release metadata variance: album requested "UKR495 Downtown EP" but Spotify returned "Downtown EP"`
+
+### Unresolved without musical verdict
+
+- VNNN., Nadia Struiwigh — *Prava Ljubav (Nadia Struiwigh Jungle Remix)*: `no exact Spotify title/artist search match in market SE`
+- _studio416 x Sender Berlin — *MazanA*: `no exact Spotify title/artist search match in market SE`
+- Code Zero — *Dark Memories*: `no exact Spotify title/artist search match in market SE`
+- Teknopappa — *Code Of Cosmos*: `no exact Spotify title/artist search match in market SE`
+- A Mystical Facez & Phyrgian — *Andromeda*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred. Audio analysis and live mixing were not tested.
+
 ## Run 278 — 2026-09-15T16:50:25Z-explore-278
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `3a0bb9404591ba0d986c32e670a3772d095cacf6`, requestFingerprint `ad9abe8a3537499c4884c334bce115c33b84fb5acb68ca8d56a336c7de81252d`, generated 2026-09-15T16:56:35.772Z, PARTIAL. Immutable request commit `e79ca0cf8c7b7eeb877a6a3b59d614d3a37ea33e`; resolver workflow `34998119926`; terminal snapshot commit `6d0d5a0ad311ae0c9848838f477bbdd9ac88419c`. Requested 9; resolved 2; selected 2; seven unresolved; no alternates, duplicates, substitutions, relinkings or terminal technical failure.
