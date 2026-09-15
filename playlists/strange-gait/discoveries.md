@@ -1,5 +1,15 @@
 # STRANGE GAIT — Discoveries
 
+## Repair Run 267 — 2026-09-15T07:51:12Z-repair-267
+
+Pre-audit found one actionable objective state defect before discovery began: `playlists/strange-gait/discovery-pool.md` was not valid UTF-8. Its first 92,820 bytes matched the intended approved Run 266 file exactly, after which the repository blob contained malformed binary data and lost the remainder of the retained discovery history.
+
+The file is restored byte-for-byte from the already validated Run 266 editorial source, including the complete Run 266 harvest and every earlier retained discovery entry. No musical verdict was reopened, no Scout request was required, and no canonical, rejected, revisit, protected or global utility decision changed.
+
+Auditor decision: APPROVED. The repair is narrowly representational, restores the last known approved target-local inspiration history, preserves all canonical and listener-protected state, and introduces no new identity or musical claim. UTF-8, history continuity, canonical count, journey-map count, Spotify receipt and protected-order checks pass after restoration. No further actionable REPAIR remains.
+
+Repair Run 267: `pre-audit → 1 objective UTF-8/history defect → exact approved-source restoration → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,269 leads / ~8,864 inspections / 50 ADDs / 368 selected candidates through Run 266. Audio analysis and live mixing were not tested.
+
 ## Run 266 — 2026-09-15T06:55:50Z-explore-266
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `2a62c8d417d1c64964745cc87c8288604399a99a`, requestFingerprint `1b1aedd6384eac019881458f0822ce11a0841d9c73f48f454c060ed9839cdfcc`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate; five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases, persistent-history exclusion passed, and Repair Run 261's exact-track evidence guard was respected.

@@ -1,5 +1,13 @@
 # STRANGE GAIT — Editorial Notes
 
+## Repair Run 267 — restore target-local discovery history encoding
+
+Pre-audit found `discovery-pool.md` invalid at byte 92,820. The valid prefix matched the already approved Run 266 source exactly; malformed binary data then replaced the remaining history. The target-local discovery file is restored byte-for-byte from that validated source, preserving Run 266 and every prior retained discovery entry.
+
+This is representational state repair only. No Scout request, musical evaluation, canonical decision, rejected/revisit change, global utility change, Spotify publication input or journey-map input is involved. STRANGE GAIT remains 63 tracks; the protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 53–55. Auditor approval follows successful UTF-8, history, count, map, publication-receipt and protected-order checks. No further actionable REPAIR remains.
+
+Repair Run 267: `pre-audit → 1 objective UTF-8/history defect → exact approved-source restoration → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,269 leads / ~8,864 inspections / 50 ADDs / 368 selected candidates through Run 266. Audio analysis and live mixing were not tested.
+
 ## Run 266 — EXPLORE — material identity is not directional consequence
 
 Pre-audit passed and selected EXPLORE. Approximately 96 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: four exact identities, three selected candidates, one exact unselected alternate, five unresolved identities, four preserved metadata warnings and no technical failure.
