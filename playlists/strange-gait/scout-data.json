@@ -1,69 +1,304 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "e5ca00db634aba42192e8efa08ca914e38eecd090f94c8802fdbd1942e1815a6",
-  "generatedAt": "2026-09-15T02:59:25.872Z",
-  "runId": "2026-09-15T02:51:21Z-explore-262",
-  "sourceCommit": "86fe0e61d37b8eba532eb4c47dfbe2f55bab0310",
+  "requestFingerprint": "a1b9238f21e8ea92b72109751735892d07f84c785bd4ad76fc478bd5cdf1e961",
+  "generatedAt": "2026-09-15T03:54:08.788Z",
+  "runId": "2026-09-15T03:48:23Z-explore-263",
+  "sourceCommit": "4a80a1a959175998fbeadd21a70169c224a404a4",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 97 named tracks and releases across the live Waveform Transmitter September 2026 feed and archive, current Club Furies signals and reviews, Boomkat's current techno/electronic storefront, exact label and retailer pages, and overlooked June-August catalogue material. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 101 named tracks and releases across current September 2026 Waveform Transmitter and Club Furies coverage, live Juno and Boomkat listings, label pages, adjacent electro/dub/hardgroove windows and overlooked catalogue material. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "The repaired target state, canonical ledger, active discussions, live revisit queue, rejected state, discoveries, both target-local inspiration files, publication state and global utility ledger were audited first. UTF-8 and JSON integrity checks passed; no objective defect, active listener authorization, triggered revisit or open workflow repair required REPAIR.",
-      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. This includes Run 259's DJ Carpenter and Shcuro/Vil/YUNX identities, Run 260's Picture/Hiss Is Bliss/Colomboi identities, and all Sa Pa Rhythm From Ambient titles already unresolved in Run 236.",
-      "Repair Run 261's evidence-quality guard was applied: these nine leads come from nine distinct releases, each with exact-track evidence or exact-single framing; no shared release description was multiplied into multiple candidates.",
-      "Candidate boundaries differ from the last three EXPLORE runs. No placement splits or reorders Transparency → When We Froze → Stardancer; the proposed Menson boundary is before Transparency and therefore outside the two protected internal handoffs.",
-      "Individual descriptions remain attributed prose, not measurements. No wording was converted into inferred energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality. Rank reflects evidence specificity, fit hypothesis and information gain rather than novelty, genre orthodoxy, artist diversity, technical cleverness or a fixed chapter map."
+      "Every canonical, previously evaluated, active PARKED, placement-specific REJECT and previously unresolved exact artist/title identity was excluded. The current request contains nine fresh exact artist/title leads from nine distinct releases; no ranking slot was filled for resolver convenience.",
+      "Repair Run 261's evidence-quality guard was applied: one lead per release because several sources provide only shared release framing. Exact-track prose is identified where available and is not transferred to sibling tracks.",
+      "Individual descriptions remain attributed prose, not measurements. No wording was converted into inferred energy, density, space, hypnosis, emotional effect, phrase structure, mixability or transition quality. No placement splits either protected handoff in Transparency → When We Froze → Stardancer.",
+      "Rank reflects evidence specificity, fit hypothesis and information gain rather than novelty, genre orthodoxy, artist diversity, technical cleverness or a fixed chapter map. Sawa and Carried remain removed; Tender Is The Night remains positively retained."
     ],
     "rankedLeadSummary": [
-      "1. Not Charlie — Causalidad",
-      "2. ATMTD — Stasis",
-      "3. DJ Godfather — Blast Off",
-      "4. The DirtBirdz — Surgical Strike",
-      "5. KEIN NAME — Respiratory",
-      "6. Volumate — Viking",
-      "7. Vijunns — 1991",
-      "8. T.A.M — Dalequetupuedada",
-      "9. Menson — Testify"
+      "1. Antonella Zambrano — Mentally Deranged",
+      "2. Lee Osborne — Ceremony",
+      "3. TAOYEMA — DARK NECESSITY",
+      "4. Esteban Miranda — Gripen",
+      "5. Ma Haiping — Velocity Unlocked",
+      "6. Arsonist Recorder — Home early",
+      "7. Sebastian Swarm — Tomb of Ligeia",
+      "8. Blyer — Sea of Acid",
+      "9. Kev D — Double Zero"
     ],
     "sourceWindows": [
-      "CURRENT TECHNO / EMERGING: Waveform Transmitter's live September feed and exact reviews for Not Charlie, ATMTD, KEIN NAME and The DirtBirdz, checked 2026-09-15. https://www.waveformtransmitter.com/ · https://www.waveformtransmitter.com/p/not-charlie-inconformista · https://www.waveformtransmitter.com/p/atmtd-stasis · https://www.waveformtransmitter.com/p/kein-name-respiratory · https://www.waveformtransmitter.com/p/dirtbirdz-death-march",
-      "CURRENT / ADJACENT RHYTHMIC WORLDS: exact Waveform pages for DJ Godfather, T.A.M and the Forest Voltage compilation plus Club Furies' exact Surgical Strike signal, checked 2026-09-15. https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off · https://www.waveformtransmitter.com/p/tam-16d-ep · https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage · https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/",
-      "OVERLOOKED CATALOGUE / ADJACENT: exact June-August Waveform reviews for Vijunns and Menson, checked 2026-09-15, with current Boomkat and retailer pages used only to broaden the scan and confirm release windows. https://www.waveformtransmitter.com/p/vijunns-1991-review · https://www.waveformtransmitter.com/p/menson-testify · https://boomkat.com/"
+      "CURRENT TECHNO / EXACT-TRACK PREMIERES: Club Furies pages for Antonella Zambrano, TAOYEMA, Esteban Miranda and Lee Osborne, published 2026-09-06 through 2026-09-12 and checked 2026-09-15. https://clubfuries.com.mx/2026/09/06/cfs-antonella-zambrano-mentally-deranged-rauschtrax/ · https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/ · https://clubfuries.com.mx/2026/09/12/cfs-esteban-miranda-gripen-wnva002/ · https://clubfuries.com.mx/2026/09/12/cfs-lee-osborne-ceremony-itmv008/",
+      "CURRENT / ADJACENT: Waveform Transmitter pages for Blyer, Sebastian Swarm, Ma Haiping, Arkada #005 and Kev D, published 2026-09-12 through 2026-09-13 and checked 2026-09-15. https://www.waveformtransmitter.com/p/blyer-sea-of-acid · https://www.waveformtransmitter.com/p/sebastian-swarm-tomb-of-ligeia · https://www.waveformtransmitter.com/p/ma-haiping-velocity-unlocked · https://www.waveformtransmitter.com/p/arsonist-recorder-sigma-algebra-arkada-five · https://www.waveformtransmitter.com/p/kev-d-double-zero-keep-on-techno",
+      "LABEL / RETAILER VERIFICATION: Molecular, Arkada and Melting Pot exact release pages plus Traxsource exact listing, checked 2026-09-15. https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked · https://arkada.bandcamp.com/album/arkada-005 · https://www.meltingpot-records.net/producto/in-the-dark-again-14/ · https://www.traxsource.com/title/2835448/double-zero-ep"
     ],
-    "timestampUtc": "2026-09-15T02:51:21Z"
+    "timestampUtc": "2026-09-15T03:48:23Z"
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 7,
-  "candidateCount": 3,
+  "resolvedCount": 2,
+  "candidateCount": 2,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Not Charlie",
-      "track": "Causalidad",
+      "artist": "Antonella Zambrano",
+      "track": "Mentally Deranged",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Not Charlie",
-        "track": "Causalidad",
-        "album": "Inconformista",
-        "releaseDate": "2026-09-04",
+        "artist": "Antonella Zambrano",
+        "track": "Mentally Deranged",
+        "album": "Antonella Zambrano EP",
+        "releaseDate": "2026-09-15",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/not-charlie-inconformista",
+        "discoverySource": "https://clubfuries.com.mx/2026/09/06/cfs-antonella-zambrano-mentally-deranged-rauschtrax/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+          "craftConvention": "Gradually altered repetition can create structural freedom inside a stable rhythmic premise when the change matters downstream.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes insistent percussion and a brooding bottom end interrupted by radar beeps and insect-like clicks, with a midpoint breakdown.",
-          "editorialInterpretation": "Test the documented propulsion-to-breakdown process before Foundry while keeping exact endpoint, handoffs, perceived pulse, energy, density, space, phrasing and mixability unknown.",
+          "attributedDescription": "Club Furies describes the exact title track through persistent groove, tightly wound textures, growing pressure and circular rhythm whose weight shifts gradually with slightly altered repetitions.",
+          "editorialInterpretation": "Test the documented internal alteration before Abundance without converting the source's pressure language into measured energy, density, endpoint or handoff quality.",
           "measured": [
-            "The source identifies Causalidad on Inconformista with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Club Furies identifies Mentally Deranged as the title track of a Rausch Trax release dated 2026-09-15.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A formed process that explicitly breaks midway could give Foundry a more concrete unstable condition to redirect, or could duplicate Foundry's own directional work.",
+        "fitHypothesis": "A formed but continually reweighted loop could make Abundance a consequential release after Cave, or merely add another complete early rhythmic state.",
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether internal reweighting changes Abundance's work or only postpones it."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Lee Osborne",
+      "track": "Ceremony",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Lee Osborne",
+        "track": "Ceremony",
+        "album": "Ceremony EP",
+        "releaseDate": "2026-09-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/12/cfs-lee-osborne-ceremony-itmv008/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A progressive internal continuum may earn a left turn if its exit changes the successor, not merely because it is coherent.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes the exact title track as subtle serpentine movement with echoed grooves and a progressive crescendo that builds a continuum.",
+          "editorialInterpretation": "Test the documented development between Silent Tension and Us In The Sand while leaving exact endpoint, perceived pulse, energy, space, phrasing and mixability unknown.",
+          "measured": [
+            "Club Furies lists Ceremony at 5:35 and dates the Italo Moderni release to 2026-09-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A continuous serpentine build could give Us In The Sand a formed state to disturb, or over-articulate a passage already moving from tension into instability.",
+        "proposedPlacements": [
+          {
+            "position": "Between Silent Tension and Us In The Sand",
+            "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+            "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the continuum changes the successor's disturbance or adds a redundant preparation."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Esteban Miranda",
+      "track": "Gripen",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Esteban Miranda",
+        "track": "Gripen",
+        "album": "WNVA002",
+        "releaseDate": "2026-09-18",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/12/cfs-esteban-miranda-gripen-wnva002/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Precise sequence work can fit the volume when pressure changes form rather than simply adding technical polish.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes Gripen through steady precise sequences and crisp, bright, cold layers that condense under pressure.",
+          "editorialInterpretation": "Test the described condensation before Roxellana while keeping exact development, endpoint, energy, density, emotion, phrase structure and mixability unknown.",
+          "measured": [
+            "Club Furies identifies Gripen on WNVA002 with a 2026-09-18 release date.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A precise condensing process could sharpen Roxellana's arrival after Pulse I, or add a technically legible state without downstream consequence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether condensation changes the arrival or merely lengthens precision."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Arsonist Recorder",
+      "track": "Home early",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Arsonist Recorder",
+        "track": "Home early",
+        "album": "ARKADA #005",
+        "releaseDate": "2026-08-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://arkada.bandcamp.com/album/arkada-005",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Breakbeat/electro framing may support structural freedom, but shared release vocabulary does not prove an individual left turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Arkada describes the split release through nu-school breaks, futuristic electro, industrial breakbeats, lo-fi grit, raw hammering rhythms and pulsating grooves without distinguishing Home early's individual behavior.",
+          "editorialInterpretation": "Resolve the exact title while keeping its individual direction, endpoint, density, energy, emotional effect, phrase structure and mixability unknown.",
+          "measured": [
+            "Arkada lists Home early at 6:39 on ARKADA #005, released 2026-08-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The long exact title could preserve an adjacent breakbeat/electro path near Capa, but available evidence cannot show whether Sarniezz would receive new work.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Resolve one exact identity without transferring split-release framing into a sequence claim."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Sebastian Swarm",
+      "track": "Tomb of Ligeia",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Sebastian Swarm",
+        "track": "Tomb of Ligeia",
+        "album": "In The Dark Again 14",
+        "releaseDate": "2026-09-28",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.meltingpot-records.net/producto/in-the-dark-again-14/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A conspicuous catalogue-world turn before a protected sequence can pass if the move makes local and long-form sense; an anthem label is not sufficient.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Melting Pot calls Tomb of Ligeia the opening track and a 'stunning anthem' on In The Dark Again 14; the current premiere confirms the exact title but supplies no individual development or endpoint.",
+          "editorialInterpretation": "Test only after exact resolution; do not convert promotional language into energy, emotion, density, phrase fit, endpoint or transition quality.",
+          "measured": [
+            "The retailer and premiere identify Sebastian Swarm — Tomb of Ligeia on In The Dark Again 14, due 2026-09-28.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An individually unresolved but exact opening statement may be worth testing before Transparency, provided it does not turn the protected trio into a generic climax or split its internal order.",
+        "proposedPlacements": [
+          {
+            "position": "Between U Belong 2 Me and Transparency",
+            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test the unprotected incoming boundary while preserving both protected internal handoffs."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Blyer",
+      "track": "Sea of Acid",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Blyer",
+        "track": "Sea of Acid",
+        "album": "Sea of Acid",
+        "releaseDate": "2026-09-18",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.waveformtransmitter.com/p/blyer-sea-of-acid",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "An acid-labelled exact title may be a valid late left turn, but title and release taxonomy cannot establish its rhythmic or structural behavior.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Waveform Transmitter premieres Sea of Acid and identifies it as one of two techno tracks on Blyer's forthcoming Dosis Records release; no individual construction or exit is described.",
+          "editorialInterpretation": "Resolve the exact identity without inferring acid-line behavior, energy, density, trajectory, endpoint or mixability from the title and release category.",
+          "measured": [
+            "The premiere dates Sea of Acid to 2026-09-18.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The exact title may preserve a current acid-techno research path near the late disassembly, but source evidence cannot yet show whether Jjochstubn changes function.",
+        "proposedPlacements": [
+          {
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Resolve a current exact title without presuming late-run consequence."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Kev D",
+      "track": "Double Zero",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Kev D",
+        "track": "Double Zero",
+        "album": "Double Zero EP",
+        "releaseDate": "2026-08-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.traxsource.com/title/2835448/double-zero-ep",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A groove-focused track may fit without supplying a novel groove; shared label framing cannot prove its individual sequence value.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Waveform Transmitter frames the EP within Keep On Techno's hardgroove, tribal, funky and electro remit and calls it groove-laden; the prose does not distinguish Double Zero's individual development.",
+          "editorialInterpretation": "Treat the shared framing as a resolution lead only; keep individual energy, density, direction, endpoint, phrase structure and mixability unknown.",
+          "measured": [
+            "Traxsource lists Double Zero at 5:44 on the EP released 2026-08-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The exact title may preserve a contemporary groove-techno path between Abundance and Foundry, but no present evidence shows whether it changes the local run.",
         "proposedPlacements": [
           {
             "position": "Between Abundance and Foundry",
@@ -72,81 +307,344 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the internal breakdown changes Foundry's work or merely adds another instability stage."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "The DirtBirdz",
-      "track": "Surgical Strike",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "The DirtBirdz",
-        "track": "Surgical Strike",
-        "album": "Warcrimes",
-        "releaseDate": "2026-09-11",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Club Furies describes relentless percussion over a saturated distorted bassline, a piercing drone that builds throughout, and motion between peak intensity and brooding valleys.",
-          "editorialInterpretation": "Treat intensity and sonic texture as attributed language, not measurement; test the documented continuous build before Pulse I without inferring mixability.",
-          "measured": [
-            "The source identifies Surgical Strike on Warcrimes with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A continuous percussion-and-drone process could give Pulse I a specific skeletal accumulation to reframe after Tehutis Law, or could crowd the existing conflict-to-accumulation relation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the build changes Pulse I's gradual accumulation or duplicates it."
+            "purpose": "Resolve one exact title without mistaking release remit for downstream consequence."
           }
         ]
       }
     }
   ],
-  "warnings": [
-    {
-      "artist": "T.A.M",
-      "track": "Dalequetupuedada",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-08-21\" but Spotify returned \"2026-08-20\""
-    }
-  ],
+  "warnings": [],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Not Charlie",
-        "track": "Causalidad",
-        "album": "Inconformista",
+        "artist": "Antonella Zambrano",
+        "track": "Mentally Deranged",
+        "album": "Antonella Zambrano EP",
+        "releaseDate": "2026-09-15",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/06/cfs-antonella-zambrano-mentally-deranged-rauschtrax/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Gradually altered repetition can create structural freedom inside a stable rhythmic premise when the change matters downstream.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes the exact title track through persistent groove, tightly wound textures, growing pressure and circular rhythm whose weight shifts gradually with slightly altered repetitions.",
+          "editorialInterpretation": "Test the documented internal alteration before Abundance without converting the source's pressure language into measured energy, density, endpoint or handoff quality.",
+          "measured": [
+            "Club Furies identifies Mentally Deranged as the title track of a Rausch Trax release dated 2026-09-15.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A formed but continually reweighted loop could make Abundance a consequential release after Cave, or merely add another complete early rhythmic state.",
+        "proposedPlacements": [
+          {
+            "position": "Between Cave and Abundance",
+            "precedingUri": "spotify:track:2Z0j3jb573fveL4Pf3NkP1",
+            "followingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether internal reweighting changes Abundance's work or only postpones it."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Lee Osborne",
+        "track": "Ceremony",
+        "album": "Ceremony EP",
+        "releaseDate": "2026-09-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/12/cfs-lee-osborne-ceremony-itmv008/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A progressive internal continuum may earn a left turn if its exit changes the successor, not merely because it is coherent.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes the exact title track as subtle serpentine movement with echoed grooves and a progressive crescendo that builds a continuum.",
+          "editorialInterpretation": "Test the documented development between Silent Tension and Us In The Sand while leaving exact endpoint, perceived pulse, energy, space, phrasing and mixability unknown.",
+          "measured": [
+            "Club Furies lists Ceremony at 5:35 and dates the Italo Moderni release to 2026-09-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A continuous serpentine build could give Us In The Sand a formed state to disturb, or over-articulate a passage already moving from tension into instability.",
+        "proposedPlacements": [
+          {
+            "position": "Between Silent Tension and Us In The Sand",
+            "precedingUri": "spotify:track:5itmPmAf94EtsfhSmTTEkg",
+            "followingUri": "spotify:track:0il4PYxomh6pH0aY4FSk9U",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the continuum changes the successor's disturbance or adds a redundant preparation."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "TAOYEMA",
+        "track": "DARK NECESSITY",
+        "album": "ZEROFOUR",
+        "releaseDate": "2026-09-07",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A slow-forming construction can matter when its later lock changes a following track's task; scale alone does not prove sequence value.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes DARK NECESSITY as beginning with a muted, slow-burning fuse, building steadily through industrial mass and winding peaks, then locking into a high-impact stable state.",
+          "editorialInterpretation": "Test the documented formation before Drummz without treating impact, mass or stability language as measured energy, density, mixability or transition proof.",
+          "measured": [
+            "Club Furies identifies TAOYEMA as track 1 of BLACK SHAPES — ZEROFOUR, released 2026-09-07.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A gradual move into a fixed state could make Drummz a deliberate reconfiguration after Fragments, or burden the run with another complete escalation.",
+        "proposedPlacements": [
+          {
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether the late lock gives Drummz new work or duplicates an existing escalation."
+          }
+        ]
+      },
+      "spotifyTrackId": "2kSeffr4MXOwACEmwFPhGK",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Esteban Miranda",
+        "track": "Gripen",
+        "album": "WNVA002",
+        "releaseDate": "2026-09-18",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://clubfuries.com.mx/2026/09/12/cfs-esteban-miranda-gripen-wnva002/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Precise sequence work can fit the volume when pressure changes form rather than simply adding technical polish.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Club Furies describes Gripen through steady precise sequences and crisp, bright, cold layers that condense under pressure.",
+          "editorialInterpretation": "Test the described condensation before Roxellana while keeping exact development, endpoint, energy, density, emotion, phrase structure and mixability unknown.",
+          "measured": [
+            "Club Furies identifies Gripen on WNVA002 with a 2026-09-18 release date.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A precise condensing process could sharpen Roxellana's arrival after Pulse I, or add a technically legible state without downstream consequence.",
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether condensation changes the arrival or merely lengthens precision."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Ma Haiping",
+        "track": "Velocity Unlocked",
+        "album": "Velocity Unlocked",
         "releaseDate": "2026-09-04",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/not-charlie-inconformista",
+        "discoverySource": "https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+          "craftConvention": "Release-level evidence can justify resolving one exact title but cannot establish its individual trajectory.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes insistent percussion and a brooding bottom end interrupted by radar beeps and insect-like clicks, with a midpoint breakdown.",
-          "editorialInterpretation": "Test the documented propulsion-to-breakdown process before Foundry while keeping exact endpoint, handoffs, perceived pulse, energy, density, space, phrasing and mixability unknown.",
+          "attributedDescription": "Molecular frames the four-track release around hypnotic rhythms, futuristic textures, evolving arrangements, pulsating grooves, intricate layers and atmospheric synths, while stating that each track develops its own character; it does not distinguish the title track's development.",
+          "editorialInterpretation": "Treat the shared release language as selection permission only; do not infer individual hypnosis, atmosphere, density, energy, endpoint or transition quality.",
           "measured": [
-            "The source identifies Causalidad on Inconformista with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Molecular lists Velocity Unlocked at 5:07 and released the EP on 2026-09-04.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A formed process that explicitly breaks midway could give Foundry a more concrete unstable condition to redirect, or could duplicate Foundry's own directional work.",
+        "fitHypothesis": "The exact title may preserve a useful current hypnotic-techno path near Foundry, but shared framing cannot yet show whether Worn Down receives different work.",
+        "proposedPlacements": [
+          {
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Resolve one representative identity without presuming individual consequence."
+          }
+        ]
+      },
+      "spotifyTrackId": "498Z7ThNeETb2M6SY37ge4",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Arsonist Recorder",
+        "track": "Home early",
+        "album": "ARKADA #005",
+        "releaseDate": "2026-08-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://arkada.bandcamp.com/album/arkada-005",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Breakbeat/electro framing may support structural freedom, but shared release vocabulary does not prove an individual left turn.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Arkada describes the split release through nu-school breaks, futuristic electro, industrial breakbeats, lo-fi grit, raw hammering rhythms and pulsating grooves without distinguishing Home early's individual behavior.",
+          "editorialInterpretation": "Resolve the exact title while keeping its individual direction, endpoint, density, energy, emotional effect, phrase structure and mixability unknown.",
+          "measured": [
+            "Arkada lists Home early at 6:39 on ARKADA #005, released 2026-08-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The long exact title could preserve an adjacent breakbeat/electro path near Capa, but available evidence cannot show whether Sarniezz would receive new work.",
+        "proposedPlacements": [
+          {
+            "position": "Between Capa and Sarniezz",
+            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Resolve one exact identity without transferring split-release framing into a sequence claim."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Sebastian Swarm",
+        "track": "Tomb of Ligeia",
+        "album": "In The Dark Again 14",
+        "releaseDate": "2026-09-28",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.meltingpot-records.net/producto/in-the-dark-again-14/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A conspicuous catalogue-world turn before a protected sequence can pass if the move makes local and long-form sense; an anthem label is not sufficient.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Melting Pot calls Tomb of Ligeia the opening track and a 'stunning anthem' on In The Dark Again 14; the current premiere confirms the exact title but supplies no individual development or endpoint.",
+          "editorialInterpretation": "Test only after exact resolution; do not convert promotional language into energy, emotion, density, phrase fit, endpoint or transition quality.",
+          "measured": [
+            "The retailer and premiere identify Sebastian Swarm — Tomb of Ligeia on In The Dark Again 14, due 2026-09-28.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An individually unresolved but exact opening statement may be worth testing before Transparency, provided it does not turn the protected trio into a generic climax or split its internal order.",
+        "proposedPlacements": [
+          {
+            "position": "Between U Belong 2 Me and Transparency",
+            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test the unprotected incoming boundary while preserving both protected internal handoffs."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Blyer",
+        "track": "Sea of Acid",
+        "album": "Sea of Acid",
+        "releaseDate": "2026-09-18",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.waveformtransmitter.com/p/blyer-sea-of-acid",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "An acid-labelled exact title may be a valid late left turn, but title and release taxonomy cannot establish its rhythmic or structural behavior.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Waveform Transmitter premieres Sea of Acid and identifies it as one of two techno tracks on Blyer's forthcoming Dosis Records release; no individual construction or exit is described.",
+          "editorialInterpretation": "Resolve the exact identity without inferring acid-line behavior, energy, density, trajectory, endpoint or mixability from the title and release category.",
+          "measured": [
+            "The premiere dates Sea of Acid to 2026-09-18.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The exact title may preserve a current acid-techno research path near the late disassembly, but source evidence cannot yet show whether Jjochstubn changes function.",
+        "proposedPlacements": [
+          {
+            "position": "Between Nukumori and Jjochstubn",
+            "precedingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "followingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Resolve a current exact title without presuming late-run consequence."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Kev D",
+        "track": "Double Zero",
+        "album": "Double Zero EP",
+        "releaseDate": "2026-08-17",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.traxsource.com/title/2835448/double-zero-ep",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A groove-focused track may fit without supplying a novel groove; shared label framing cannot prove its individual sequence value.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Waveform Transmitter frames the EP within Keep On Techno's hardgroove, tribal, funky and electro remit and calls it groove-laden; the prose does not distinguish Double Zero's individual development.",
+          "editorialInterpretation": "Treat the shared framing as a resolution lead only; keep individual energy, density, direction, endpoint, phrase structure and mixability unknown.",
+          "measured": [
+            "Traxsource lists Double Zero at 5:44 on the EP released 2026-08-17.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "The exact title may preserve a contemporary groove-techno path between Abundance and Foundry, but no present evidence shows whether it changes the local run.",
         "proposedPlacements": [
           {
             "position": "Between Abundance and Foundry",
@@ -155,816 +653,160 @@
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the internal breakdown changes Foundry's work or merely adds another instability stage."
+            "purpose": "Resolve one exact title without mistaking release remit for downstream consequence."
           }
         ]
       },
       "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "ATMTD",
-        "track": "Stasis",
-        "album": "Stasis",
-        "releaseDate": "2026-07-31",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/atmtd-stasis",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes intertwined acid lines, oscillating and panning synths, and insistent kicks; the artist frames the title as a suspended moment where sound and picture merge.",
-          "editorialInterpretation": "Treat the description as an internal relation, not measurement of hypnosis, space or groove; test whether the formed suspension changes Serpentine Tale's continuation.",
-          "measured": [
-            "The source identifies Stasis on Stasis with release date 2026-07-31; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A sustained acid-and-kick construction may make Serpentine Tale answer a more explicit suspended grid after Tides Alternate, or may merely prolong a stable middle state.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether suspension produces a consequential continuation rather than another compatible room."
-          }
-        ]
-      },
-      "spotifyTrackId": "2rp4KJcTlt3HwvEcNzy95M",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Godfather",
-        "track": "Blast Off",
-        "album": "1000 Musik",
-        "releaseDate": "2026-09-04",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies a breakbeat-led electro workout with Detroit swing, made entirely on a Roland TR-1000.",
-          "editorialInterpretation": "Use the described rhythmic construction and method only; do not infer energy, mixability or endpoint. Test it after the protected trio, which remains intact.",
-          "measured": [
-            "The source identifies Blast Off on 1000 Musik with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A concise breakbeat-electro formation could make Migration a deliberate cooling translation after the trio, or could insert an unnecessary second declaration.",
-        "proposedPlacements": [
-          {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the electro left turn changes Migration's arrival without touching either protected internal handoff."
-          }
-        ]
-      },
-      "spotifyTrackId": "3a58ewIFGxOQb4sytkGQ7Y",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "The DirtBirdz",
-        "track": "Surgical Strike",
-        "album": "Warcrimes",
-        "releaseDate": "2026-09-11",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://clubfuries.com.mx/2026/09/04/cfs-the-dirtbirz-surgical-strike-wyte0001/",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Club Furies describes relentless percussion over a saturated distorted bassline, a piercing drone that builds throughout, and motion between peak intensity and brooding valleys.",
-          "editorialInterpretation": "Treat intensity and sonic texture as attributed language, not measurement; test the documented continuous build before Pulse I without inferring mixability.",
-          "measured": [
-            "The source identifies Surgical Strike on Warcrimes with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A continuous percussion-and-drone process could give Pulse I a specific skeletal accumulation to reframe after Tehutis Law, or could crowd the existing conflict-to-accumulation relation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tehutis Law and Pulse I",
-            "precedingUri": "spotify:track:79yeMWxkbiNZ4su5UuhS6z",
-            "followingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the build changes Pulse I's gradual accumulation or duplicates it."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "KEIN NAME",
-        "track": "Respiratory",
-        "album": "Respiratory",
-        "releaseDate": "2026-09-11",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kein-name-respiratory",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies the single as early-2000s-referenced hardgroove-style techno and says it thunders; no finer individual development or endpoint is documented.",
-          "editorialInterpretation": "Use the exact single framing only; keep trajectory, endpoint, transition quality, energy, density, space, phrasing and mixability unknown.",
-          "measured": [
-            "The source identifies Respiratory on Respiratory with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A compact hardgroove proposition may give Thick to Handle a contrasting deformation target after Goink, but present evidence may prove too broad for a sequence claim.",
-        "proposedPlacements": [
-          {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve whether the exact single supports a consequential contrast without assuming its handoffs."
-          }
-        ]
-      },
-      "spotifyTrackId": "30udh9P4t0t620GnM9jtOo",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Volumate",
-        "track": "Viking",
-        "album": "FOREST VOLTAGE",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes heavy breakbeat action with tribal chanting and cult-like percussion, functioning as the compilation's rousing introduction.",
-          "editorialInterpretation": "Test the documented breakbeat-and-chant relation before Sarniezz; do not turn the review's affective language into measured energy or emotional effect.",
-          "measured": [
-            "The source identifies Viking on FOREST VOLTAGE with release date 2026-08-28; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The ritual breakbeat formation could make Sarniezz's live-meter reinterpretation a meaningful second left turn, or could stack two self-contained spectacles.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the different rhythmic world gives Sarniezz new work or merely lengthens the detour."
-          }
-        ]
-      },
-      "spotifyTrackId": "081N5NFKZ1pTQT2qYp2iFK",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Vijunns",
-        "track": "1991",
-        "album": "1991",
-        "releaseDate": "2026-06-09",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/vijunns-1991-review",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes a low-slung breakbeat surrounded by low-end frequencies, joined by shimmering pads and an acid line before a crescendo carries the track out.",
-          "editorialInterpretation": "Use the documented start-to-exit development but do not infer measured density, space, energy or emotional effect; test the exit before Nukumori.",
-          "measured": [
-            "The source identifies 1991 on 1991 with release date 2026-06-09; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A breakbeat-to-crescendo process could let Nukumori arrive as a deliberate material release after It Never Made Sense, or could over-compose the late disassembly.",
-        "proposedPlacements": [
-          {
-            "position": "Between It Never Made Sense and Nukumori",
-            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented exit changes Nukumori's role or inserts another complete late arc."
-          }
-        ]
-      },
-      "spotifyTrackId": "7jqxN5MMcapbZXo1cBZPxQ",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "T.A.M",
-        "track": "Dalequetupuedada",
-        "album": "16D EP",
-        "releaseDate": "2026-08-21",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/tam-16d-ep",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes a hardgroove roller with salsa, cumbia and Caribbean percussion references, a chainsaw-like breakdown around 1:20, a midpoint build and an operatic vocal.",
-          "editorialInterpretation": "Treat timestamps and described events as source evidence while keeping exact handoffs, perceived pulse, scalar energy, density, space, phrasing and mixability unknown.",
-          "measured": [
-            "The source identifies Dalequetupuedada on 16D EP with release date 2026-08-21; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The explicit breakdown-and-build could give Té de Cabello Blanco a complex rhythmic state to answer after Drummz, or could add a redundant complete escalation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate changes the successor's work across the three-track hinge."
-          }
-        ]
-      },
-      "spotifyTrackId": "7fH21p0aPylN4qi8hwgOTz",
-      "selected": false
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Menson",
-        "track": "Testify",
-        "album": "Testify",
-        "releaseDate": "2026-08-14",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/menson-testify",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Menson tells Waveform Transmitter that the track is built around gospel or chant-like repetition, where a repeated thought becomes larger than its words.",
-          "editorialInterpretation": "Use the artist's compositional account without assigning emotional effect, hypnosis, energy or mixability; test its repetition before Transparency without treating that incoming boundary as protected.",
-          "measured": [
-            "The source identifies Testify on Testify with release date 2026-08-14; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A voice-led repetition process could make Transparency a deliberate abstraction after U Belong 2 Me, or could repeat an already explicit vocal-collapse idea.",
-        "proposedPlacements": [
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a new repetition process changes the approach to the protected trio while preserving both internal handoffs."
-          }
-        ]
-      },
-      "spotifyTrackId": "0jQFEmhk9E6oaluHFIKUGP",
-      "selected": false
     }
   ],
   "candidates": [
     {
-      "id": "2rp4KJcTlt3HwvEcNzy95M",
-      "uri": "spotify:track:2rp4KJcTlt3HwvEcNzy95M",
-      "name": "Stasis",
+      "id": "2kSeffr4MXOwACEmwFPhGK",
+      "uri": "spotify:track:2kSeffr4MXOwACEmwFPhGK",
+      "name": "Dark Necessity",
       "artists": [
-        "ATMTD"
+        "Taoyema"
       ],
-      "album": "Stasis",
-      "releaseDate": "2026-07-31",
-      "durationMs": 409411,
-      "spotifyUrl": "https://open.spotify.com/track/2rp4KJcTlt3HwvEcNzy95M",
+      "album": "ZeroFour",
+      "releaseDate": "2026-09-07",
+      "durationMs": 552000,
+      "spotifyUrl": "https://open.spotify.com/track/2kSeffr4MXOwACEmwFPhGK",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/atmtd-stasis",
+      "discoverySource": "https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Tides Alternate and Serpentine Tale",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+          "position": "Between Fragments and Drummz",
+          "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether suspension produces a consequential continuation rather than another compatible room."
+          "purpose": "Test whether the late lock gives Drummz new work or duplicates an existing escalation."
         }
       ],
-      "fitHypothesis": "A sustained acid-and-kick construction may make Serpentine Tale answer a more explicit suspended grid after Tides Alternate, or may merely prolong a stable middle state.",
+      "fitHypothesis": "A gradual move into a fixed state could make Drummz a deliberate reconfiguration after Fragments, or burden the run with another complete escalation.",
       "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "craftConvention": "A slow-forming construction can matter when its later lock changes a following track's task; scale alone does not prove sequence value.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter describes intertwined acid lines, oscillating and panning synths, and insistent kicks; the artist frames the title as a suspended moment where sound and picture merge.",
-        "editorialInterpretation": "Treat the description as an internal relation, not measurement of hypnosis, space or groove; test whether the formed suspension changes Serpentine Tale's continuation.",
+        "attributedDescription": "Club Furies describes DARK NECESSITY as beginning with a muted, slow-burning fuse, building steadily through industrial mass and winding peaks, then locking into a high-impact stable state.",
+        "editorialInterpretation": "Test the documented formation before Drummz without treating impact, mass or stability language as measured energy, density, mixability or transition proof.",
         "measured": [
-          "The source identifies Stasis on Stasis with release date 2026-07-31; exact market-SE Spotify identity, credits and duration require resolver evidence."
+          "Club Furies identifies TAOYEMA as track 1 of BLACK SHAPES — ZEROFOUR, released 2026-09-07.",
+          "Exact market-SE Spotify identity, credits and duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "ATMTD",
-        "track": "Stasis",
-        "album": "Stasis",
-        "releaseDate": "2026-07-31",
+        "artist": "TAOYEMA",
+        "track": "DARK NECESSITY",
+        "album": "ZEROFOUR",
+        "releaseDate": "2026-09-07",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/atmtd-stasis",
+        "discoverySource": "https://clubfuries.com.mx/2026/09/09/cfr-black-shapes-zerofour/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+          "craftConvention": "A slow-forming construction can matter when its later lock changes a following track's task; scale alone does not prove sequence value.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes intertwined acid lines, oscillating and panning synths, and insistent kicks; the artist frames the title as a suspended moment where sound and picture merge.",
-          "editorialInterpretation": "Treat the description as an internal relation, not measurement of hypnosis, space or groove; test whether the formed suspension changes Serpentine Tale's continuation.",
+          "attributedDescription": "Club Furies describes DARK NECESSITY as beginning with a muted, slow-burning fuse, building steadily through industrial mass and winding peaks, then locking into a high-impact stable state.",
+          "editorialInterpretation": "Test the documented formation before Drummz without treating impact, mass or stability language as measured energy, density, mixability or transition proof.",
           "measured": [
-            "The source identifies Stasis on Stasis with release date 2026-07-31; exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Club Furies identifies TAOYEMA as track 1 of BLACK SHAPES — ZEROFOUR, released 2026-09-07.",
+            "Exact market-SE Spotify identity, credits and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A sustained acid-and-kick construction may make Serpentine Tale answer a more explicit suspended grid after Tides Alternate, or may merely prolong a stable middle state.",
+        "fitHypothesis": "A gradual move into a fixed state could make Drummz a deliberate reconfiguration after Fragments, or burden the run with another complete escalation.",
         "proposedPlacements": [
           {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
+            "position": "Between Fragments and Drummz",
+            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
+            "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether suspension produces a consequential continuation rather than another compatible room."
+            "purpose": "Test whether the late lock gives Drummz new work or duplicates an existing escalation."
           }
         ]
       }
     },
     {
-      "id": "3a58ewIFGxOQb4sytkGQ7Y",
-      "uri": "spotify:track:3a58ewIFGxOQb4sytkGQ7Y",
-      "name": "Blast Off",
+      "id": "498Z7ThNeETb2M6SY37ge4",
+      "uri": "spotify:track:498Z7ThNeETb2M6SY37ge4",
+      "name": "Velocity Unlocked",
       "artists": [
-        "DJ Godfather"
+        "Ma Haiping"
       ],
-      "album": "1000 Musik",
+      "album": "Velocity Unlocked",
       "releaseDate": "2026-09-04",
-      "durationMs": 250327,
-      "spotifyUrl": "https://open.spotify.com/track/3a58ewIFGxOQb4sytkGQ7Y",
+      "durationMs": 307565,
+      "spotifyUrl": "https://open.spotify.com/track/498Z7ThNeETb2M6SY37ge4",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off",
+      "discoverySource": "https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Stardancer and Migration",
-          "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-          "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether the electro left turn changes Migration's arrival without touching either protected internal handoff."
+          "purpose": "Resolve one representative identity without presuming individual consequence."
         }
       ],
-      "fitHypothesis": "A concise breakbeat-electro formation could make Migration a deliberate cooling translation after the trio, or could insert an unnecessary second declaration.",
+      "fitHypothesis": "The exact title may preserve a useful current hypnotic-techno path near Foundry, but shared framing cannot yet show whether Worn Down receives different work.",
       "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+        "craftConvention": "Release-level evidence can justify resolving one exact title but cannot establish its individual trajectory.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies a breakbeat-led electro workout with Detroit swing, made entirely on a Roland TR-1000.",
-        "editorialInterpretation": "Use the described rhythmic construction and method only; do not infer energy, mixability or endpoint. Test it after the protected trio, which remains intact.",
+        "attributedDescription": "Molecular frames the four-track release around hypnotic rhythms, futuristic textures, evolving arrangements, pulsating grooves, intricate layers and atmospheric synths, while stating that each track develops its own character; it does not distinguish the title track's development.",
+        "editorialInterpretation": "Treat the shared release language as selection permission only; do not infer individual hypnosis, atmosphere, density, energy, endpoint or transition quality.",
         "measured": [
-          "The source identifies Blast Off on 1000 Musik with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+          "Molecular lists Velocity Unlocked at 5:07 and released the EP on 2026-09-04.",
+          "Exact market-SE Spotify identity and duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "DJ Godfather",
-        "track": "Blast Off",
-        "album": "1000 Musik",
+        "artist": "Ma Haiping",
+        "track": "Velocity Unlocked",
+        "album": "Velocity Unlocked",
         "releaseDate": "2026-09-04",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/first-contact-dj-godfather-blast-off",
+        "discoverySource": "https://moleculartechno.bandcamp.com/album/ma-haiping-velocity-unlocked",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
+          "craftConvention": "Release-level evidence can justify resolving one exact title but cannot establish its individual trajectory.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies a breakbeat-led electro workout with Detroit swing, made entirely on a Roland TR-1000.",
-          "editorialInterpretation": "Use the described rhythmic construction and method only; do not infer energy, mixability or endpoint. Test it after the protected trio, which remains intact.",
+          "attributedDescription": "Molecular frames the four-track release around hypnotic rhythms, futuristic textures, evolving arrangements, pulsating grooves, intricate layers and atmospheric synths, while stating that each track develops its own character; it does not distinguish the title track's development.",
+          "editorialInterpretation": "Treat the shared release language as selection permission only; do not infer individual hypnosis, atmosphere, density, energy, endpoint or transition quality.",
           "measured": [
-            "The source identifies Blast Off on 1000 Musik with release date 2026-09-04; exact market-SE Spotify identity, credits and duration require resolver evidence."
+            "Molecular lists Velocity Unlocked at 5:07 and released the EP on 2026-09-04.",
+            "Exact market-SE Spotify identity and duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A concise breakbeat-electro formation could make Migration a deliberate cooling translation after the trio, or could insert an unnecessary second declaration.",
+        "fitHypothesis": "The exact title may preserve a useful current hypnotic-techno path near Foundry, but shared framing cannot yet show whether Worn Down receives different work.",
         "proposedPlacements": [
           {
-            "position": "Between Stardancer and Migration",
-            "precedingUri": "spotify:track:6i3HRqnSMoSohzwSgq035u",
-            "followingUri": "spotify:track:61g7oQKm8DFEL7r2g9LS8x",
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether the electro left turn changes Migration's arrival without touching either protected internal handoff."
-          }
-        ]
-      }
-    },
-    {
-      "id": "30udh9P4t0t620GnM9jtOo",
-      "uri": "spotify:track:30udh9P4t0t620GnM9jtOo",
-      "name": "Respiratory",
-      "artists": [
-        "KEIN NAME"
-      ],
-      "album": "Respiratory",
-      "releaseDate": "2026-09-11",
-      "durationMs": 395270,
-      "spotifyUrl": "https://open.spotify.com/track/30udh9P4t0t620GnM9jtOo",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/kein-name-respiratory",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Goink and Thick to Handle",
-          "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-          "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Resolve whether the exact single supports a consequential contrast without assuming its handoffs."
-        }
-      ],
-      "fitHypothesis": "A compact hardgroove proposition may give Thick to Handle a contrasting deformation target after Goink, but present evidence may prove too broad for a sequence claim.",
-      "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies the single as early-2000s-referenced hardgroove-style techno and says it thunders; no finer individual development or endpoint is documented.",
-        "editorialInterpretation": "Use the exact single framing only; keep trajectory, endpoint, transition quality, energy, density, space, phrasing and mixability unknown.",
-        "measured": [
-          "The source identifies Respiratory on Respiratory with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "KEIN NAME",
-        "track": "Respiratory",
-        "album": "Respiratory",
-        "releaseDate": "2026-09-11",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kein-name-respiratory",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies the single as early-2000s-referenced hardgroove-style techno and says it thunders; no finer individual development or endpoint is documented.",
-          "editorialInterpretation": "Use the exact single framing only; keep trajectory, endpoint, transition quality, energy, density, space, phrasing and mixability unknown.",
-          "measured": [
-            "The source identifies Respiratory on Respiratory with release date 2026-09-11; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A compact hardgroove proposition may give Thick to Handle a contrasting deformation target after Goink, but present evidence may prove too broad for a sequence claim.",
-        "proposedPlacements": [
-          {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Resolve whether the exact single supports a consequential contrast without assuming its handoffs."
+            "purpose": "Resolve one representative identity without presuming individual consequence."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "081N5NFKZ1pTQT2qYp2iFK",
-      "uri": "spotify:track:081N5NFKZ1pTQT2qYp2iFK",
-      "name": "Viking",
-      "artists": [
-        "Various Artists",
-        "Volumate"
-      ],
-      "album": "FOREST VOLTAGE",
-      "releaseDate": "2026-08-28",
-      "durationMs": 274285,
-      "spotifyUrl": "https://open.spotify.com/track/081N5NFKZ1pTQT2qYp2iFK",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Capa and Sarniezz",
-          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the different rhythmic world gives Sarniezz new work or merely lengthens the detour."
-        }
-      ],
-      "fitHypothesis": "The ritual breakbeat formation could make Sarniezz's live-meter reinterpretation a meaningful second left turn, or could stack two self-contained spectacles.",
-      "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter describes heavy breakbeat action with tribal chanting and cult-like percussion, functioning as the compilation's rousing introduction.",
-        "editorialInterpretation": "Test the documented breakbeat-and-chant relation before Sarniezz; do not turn the review's affective language into measured energy or emotional effect.",
-        "measured": [
-          "The source identifies Viking on FOREST VOLTAGE with release date 2026-08-28; exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Volumate",
-        "track": "Viking",
-        "album": "FOREST VOLTAGE",
-        "releaseDate": "2026-08-28",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/album-review-various-artists-forest-voltage",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes heavy breakbeat action with tribal chanting and cult-like percussion, functioning as the compilation's rousing introduction.",
-          "editorialInterpretation": "Test the documented breakbeat-and-chant relation before Sarniezz; do not turn the review's affective language into measured energy or emotional effect.",
-          "measured": [
-            "The source identifies Viking on FOREST VOLTAGE with release date 2026-08-28; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The ritual breakbeat formation could make Sarniezz's live-meter reinterpretation a meaningful second left turn, or could stack two self-contained spectacles.",
-        "proposedPlacements": [
-          {
-            "position": "Between Capa and Sarniezz",
-            "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
-            "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the different rhythmic world gives Sarniezz new work or merely lengthens the detour."
-          }
-        ]
-      }
-    },
-    {
-      "id": "7jqxN5MMcapbZXo1cBZPxQ",
-      "uri": "spotify:track:7jqxN5MMcapbZXo1cBZPxQ",
-      "name": "1991",
-      "artists": [
-        "Vijunns"
-      ],
-      "album": "1991",
-      "releaseDate": "2026-06-09",
-      "durationMs": 279779,
-      "spotifyUrl": "https://open.spotify.com/track/7jqxN5MMcapbZXo1cBZPxQ",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/vijunns-1991-review",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between It Never Made Sense and Nukumori",
-          "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-          "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the documented exit changes Nukumori's role or inserts another complete late arc."
-        }
-      ],
-      "fitHypothesis": "A breakbeat-to-crescendo process could let Nukumori arrive as a deliberate material release after It Never Made Sense, or could over-compose the late disassembly.",
-      "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter describes a low-slung breakbeat surrounded by low-end frequencies, joined by shimmering pads and an acid line before a crescendo carries the track out.",
-        "editorialInterpretation": "Use the documented start-to-exit development but do not infer measured density, space, energy or emotional effect; test the exit before Nukumori.",
-        "measured": [
-          "The source identifies 1991 on 1991 with release date 2026-06-09; exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Vijunns",
-        "track": "1991",
-        "album": "1991",
-        "releaseDate": "2026-06-09",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/vijunns-1991-review",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes a low-slung breakbeat surrounded by low-end frequencies, joined by shimmering pads and an acid line before a crescendo carries the track out.",
-          "editorialInterpretation": "Use the documented start-to-exit development but do not infer measured density, space, energy or emotional effect; test the exit before Nukumori.",
-          "measured": [
-            "The source identifies 1991 on 1991 with release date 2026-06-09; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A breakbeat-to-crescendo process could let Nukumori arrive as a deliberate material release after It Never Made Sense, or could over-compose the late disassembly.",
-        "proposedPlacements": [
-          {
-            "position": "Between It Never Made Sense and Nukumori",
-            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
-            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the documented exit changes Nukumori's role or inserts another complete late arc."
-          }
-        ]
-      }
-    },
-    {
-      "id": "7fH21p0aPylN4qi8hwgOTz",
-      "uri": "spotify:track:7fH21p0aPylN4qi8hwgOTz",
-      "name": "Dalequetupuedada",
-      "artists": [
-        "T.A.M"
-      ],
-      "album": "16D EP",
-      "releaseDate": "2026-08-20",
-      "durationMs": 299160,
-      "spotifyUrl": "https://open.spotify.com/track/7fH21p0aPylN4qi8hwgOTz",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/tam-16d-ep",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether the candidate changes the successor's work across the three-track hinge."
-        }
-      ],
-      "fitHypothesis": "The explicit breakdown-and-build could give Té de Cabello Blanco a complex rhythmic state to answer after Drummz, or could add a redundant complete escalation.",
-      "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter describes a hardgroove roller with salsa, cumbia and Caribbean percussion references, a chainsaw-like breakdown around 1:20, a midpoint build and an operatic vocal.",
-        "editorialInterpretation": "Treat timestamps and described events as source evidence while keeping exact handoffs, perceived pulse, scalar energy, density, space, phrasing and mixability unknown.",
-        "measured": [
-          "The source identifies Dalequetupuedada on 16D EP with release date 2026-08-21; exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "T.A.M",
-        "track": "Dalequetupuedada",
-        "album": "16D EP",
-        "releaseDate": "2026-08-21",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/tam-16d-ep",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes a hardgroove roller with salsa, cumbia and Caribbean percussion references, a chainsaw-like breakdown around 1:20, a midpoint build and an operatic vocal.",
-          "editorialInterpretation": "Treat timestamps and described events as source evidence while keeping exact handoffs, perceived pulse, scalar energy, density, space, phrasing and mixability unknown.",
-          "measured": [
-            "The source identifies Dalequetupuedada on 16D EP with release date 2026-08-21; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "The explicit breakdown-and-build could give Té de Cabello Blanco a complex rhythmic state to answer after Drummz, or could add a redundant complete escalation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Drummz and Té de Cabello Blanco",
-            "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-            "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether the candidate changes the successor's work across the three-track hinge."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0jQFEmhk9E6oaluHFIKUGP",
-      "uri": "spotify:track:0jQFEmhk9E6oaluHFIKUGP",
-      "name": "Testify",
-      "artists": [
-        "Menson"
-      ],
-      "album": "Testify",
-      "releaseDate": "2026-08-14",
-      "durationMs": 193555,
-      "spotifyUrl": "https://open.spotify.com/track/0jQFEmhk9E6oaluHFIKUGP",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/menson-testify",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between U Belong 2 Me and Transparency",
-          "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-          "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a new repetition process changes the approach to the protected trio while preserving both internal handoffs."
-        }
-      ],
-      "fitHypothesis": "A voice-led repetition process could make Transparency a deliberate abstraction after U Belong 2 Me, or could repeat an already explicit vocal-collapse idea.",
-      "evidence": {
-        "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Menson tells Waveform Transmitter that the track is built around gospel or chant-like repetition, where a repeated thought becomes larger than its words.",
-        "editorialInterpretation": "Use the artist's compositional account without assigning emotional effect, hypnosis, energy or mixability; test its repetition before Transparency without treating that incoming boundary as protected.",
-        "measured": [
-          "The source identifies Testify on Testify with release date 2026-08-14; exact market-SE Spotify identity, credits and duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Menson",
-        "track": "Testify",
-        "album": "Testify",
-        "releaseDate": "2026-08-14",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/menson-testify",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A candidate earns sequence value only if its documented internal process changes the work of the surrounding passage; style, novelty and technical method are insufficient alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Menson tells Waveform Transmitter that the track is built around gospel or chant-like repetition, where a repeated thought becomes larger than its words.",
-          "editorialInterpretation": "Use the artist's compositional account without assigning emotional effect, hypnosis, energy or mixability; test its repetition before Transparency without treating that incoming boundary as protected.",
-          "measured": [
-            "The source identifies Testify on Testify with release date 2026-08-14; exact market-SE Spotify identity, credits and duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A voice-led repetition process could make Transparency a deliberate abstraction after U Belong 2 Me, or could repeat an already explicit vocal-collapse idea.",
-        "proposedPlacements": [
-          {
-            "position": "Between U Belong 2 Me and Transparency",
-            "precedingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
-            "followingUri": "spotify:track:6vBGCwTYRiKYCDD52zXZtf",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a new repetition process changes the approach to the protected trio while preserving both internal handoffs."
-          }
-        ]
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
