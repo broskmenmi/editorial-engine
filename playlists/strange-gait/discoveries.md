@@ -1,5 +1,60 @@
 # STRANGE GAIT — Discoveries
 
+## Run 271 — 2026-09-15T11:51:12Z-explore-271
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `92e1e529cc74f9630091e5c646cf584af02d4a75`, requestFingerprint `e75ec2aa9096158e8acf2753acf5f931a8c017e8dfcf3a3fe7df0ef197fb8980`, PARTIAL. Requested 8; resolved 1; selected 1; seven unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The eight leads came from eight releases, carried materially differentiating exact-track prose, passed persistent-history exclusion, and avoided boundaries evaluated in the previous five completed discovery runs.
+
+### Evaluated exact candidate
+
+#### Last Life — Norma — `spotify:track:09rBCjtoX4ELPPtU37f5kZ` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/last-life-samurai-saibai-5-vinyl/1169090-01/
+
+Spotify: https://open.spotify.com/track/09rBCjtoX4ELPPtU37f5kZ
+
+Exact resolver duration: 327,642 ms (5:27.642). BPM unavailable. Spotify returned album *侍栽培五* and release date 2026-08-14; the request's *Samurai Saibai 5* / 2026-08-06 variance is preserved below.
+
+Juno individually describes the track as an elastic, slow-motion dub bump within a release positioned between drum-and-bass and techno. This supports an adjacent-world rhythmic proposition; it does not measure bodily effect, perceived pulse, energy, density, space, hypnosis, emotion, development, endpoint, phrase structure or mixability.
+
+- Volume fit: PASS. The exact halftime/dub proposition fits a volume interested in rhythmic and structural freedom without requiring genre purity, weirdness or one sonic room.
+- Immediate transition: UNKNOWN at `Tides Alternate → Norma → Serpentine Tale`; neither handoff was heard or metrically documented. The outgoing 130 BPM is evidence only, not a proxy for flow.
+- Surrounding run: FAIL proportionally through `Hypnic Jerks → Tides Alternate → Norma → Serpentine Tale → Too Much Time`. *Tides Alternate* already handles opposed-speed balance and *Serpentine Tale* supplies the following low-slung consequence. The candidate adds another complete slow-motion stage without evidence that *Serpentine Tale* receives different work.
+- Long-form effect: FAIL only at this placement. The 5:27 insertion lengthens an already articulated balance-to-consequence-to-widening passage without establishing a changed downstream condition.
+- Strongest alternative: the halftime proposition could make the character change more deliberate, and a conspicuous production-world turn is fully permitted. That material distinction remains interesting, but legibility and adjacency do not justify five additional minutes when the successor retains its existing task.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- ANGAMA — *Burning*: `no exact Spotify title/artist search match in market SE`
+- DJ Sneak — *La Clave Boricua*: `no exact Spotify title/artist search match in market SE`
+- A Morgan — *Cloudfall*: `no exact Spotify title/artist search match in market SE`
+- Michelle — *Is It Me?*: `no exact Spotify title/artist search match in market SE`
+- Barnt — *Geffen (2026 Remaster)*: `no exact Spotify title/artist search match in market SE`
+- LNS — *Blue Acid*: `no exact Spotify title/artist search match in market SE`
+- DJ Natas — *F The Pain*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warning
+
+- `Exact title/artist matched with release metadata variance: album requested "Samurai Saibai 5" but Spotify returned "侍栽培五"; release date requested "2026-08-06" but Spotify returned "2026-08-14"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; all eight ranked leads met the current evidence floor; the immutable request and matching terminal snapshot are internally valid; only the selected exact identity was evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; the rejection does not convert unknown handoffs into failure and remains proportional and placement-specific; the warning and every unresolved error remain exact; and the genuinely interesting exact identity enters the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact, and no other canonical playlist is mutated.
+
+### State, publication and map handling
+
+STRANGE GAIT remains 64 tracks. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 54–56. EDITORIAL ENGINE — DISCOVERY POOL becomes 522 tracks by appending *Norma*. Automatic publishing is enabled. At this editorial commit, the utility synchronization is pending GitHub Actions verification. STRANGE GAIT's unchanged receipt remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z; this is not a new live verification. Its unchanged generated map remains exact at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z.
+
+### Run analysis
+
+`~105 inspected → 8 leads → 1 exact selected + 7 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`
+
+Inspection-to-lead conversion: 7.6%. Resolution yield: 12.5%. Selected-candidate-to-ADD conversion: 0/1. Across completed discovery Runs 87–271, excluding repairs and failed requests: 1,291 leads from approximately 9,165 inspections; 51 ADDs from 374 selected candidates. Three of the last ten comparable discovery runs contain an ADD. The completed musical no-ADD streak is one run after Run 270; one exact genuinely interesting track has been retained since that ADD.
+
+The scan does not support playlist completion or an actionable resolver-health repair. Seven of eight exact identities remain absent from Spotify-SE search, so resolver loss is the dominant constraint in this run rather than evidence of exhausted musical opportunity. The sole exact candidate carried differentiated track evidence and produced a placement-specific verdict without a recurring PARK. Its tested boundary was fresh, and the failure rests on proportional downstream cost rather than missing handoff evidence. No actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 270 — 2026-09-15T10:50:33Z-explore-270
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `52aa597220c0423c95730d755de2d9ec8250fd60`, requestFingerprint `6bca49452d161494517c0a40c09882897785df13bf08751bda613a46752e23bb`, PARTIAL. Requested 8; resolved 3; selected 3; five unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The eight leads came from eight releases, carried materially differentiating exact-track prose, passed persistent-history exclusion, and avoided boundaries evaluated in the previous five completed discovery runs.

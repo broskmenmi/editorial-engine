@@ -3,6 +3,23 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 271 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Last Life | Norma | `spotify:track:09rBCjtoX4ELPPtU37f5kZ` · https://open.spotify.com/track/09rBCjtoX4ELPPtU37f5kZ · https://www.juno.co.uk/products/last-life-samurai-saibai-5-vinyl/1169090-01/ | Exact 5:27.642 slow-motion dub proposition remains interesting; rejected only between *Tides Alternate* and *Serpentine Tale* because it adds another complete slow-motion stage without changing the successor's work. Added globally. |
+| UNRESOLVED RESEARCH | ANGAMA; DJ Sneak; A Morgan; Michelle; Barnt; LNS; DJ Natas | *Burning*; *La Clave Boricua*; *Cloudfall*; *Is It Me?*; *Geffen (2026 Remaster)*; *Blue Acid*; *F The Pain* | Exact sources preserved in `scout-request.json` | Seven Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Dotei / ANGAMA; Kalahari Oyster Cult / Michelle; Samurai Music / Last Life; LNS | Current developmental techno, electro, halftime and broken-beat paths | Sources preserved in `scout-request.json` | Continue only where exact identity resolves; the descriptions remain research evidence, not canonical verdicts. |
+| CATALOGUE WATCH | Respect Craft / DJ Sneak; Side B / A Morgan; Magazine / Barnt; UFO Series / DJ Natas | 2026 recirculation, remaster and back-in-stock paths | Sources preserved in `scout-request.json` | Useful exact-track catalogue paths without treating artist, label, release date or stylistic adjacency as admission evidence. |
+
+### Run 271 boundaries
+
+- *Norma* passes the volume lens but is rejected only at `Tides Alternate → candidate → Serpentine Tale`; a deliberate halftime turn still needs a changed successor task.
+- Exact handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, development, endpoint, phrase structure and mixability remain unknown.
+- The exact candidate enters the doctrine-free global utility ledger; seven unresolved identities do not.
+- Set direction: distinguish a conspicuous slow-motion stage from a character turn whose exit creates downstream consequence.
+- No actionable REPAIR emerges.
+
 ## Run 270 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

@@ -525,6 +525,7 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 519 | Pugilist | Rune | spotify:track:6QaulOZHbIII39RhkCL0Zz | STRANGE GAIT Run 270 | PARKED / interesting | 2026-09-15 |
 | 520 | Dax J | Baghdad | spotify:track:0Uq3u6aQcfjGc03AtGmD8I | STRANGE GAIT Run 270 | Canonical ADD / retained | 2026-09-15 |
 | 521 | Dimi Angélis | GEMx | spotify:track:7au2Y259FlJsyG3NAPV8U4 | STRANGE GAIT Run 270 | Placement-specific REJECT / interesting | 2026-09-15 |
+| 522 | Last Life | Norma | spotify:track:09rBCjtoX4ELPPtU37f5kZ | STRANGE GAIT Run 271 | Placement-specific REJECT / interesting | 2026-09-15 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

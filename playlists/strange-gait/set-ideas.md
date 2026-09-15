@@ -3,6 +3,21 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 271
+
+### Slow-motion stage versus changed consequence
+
+**Direction:** Test conspicuous halftime and adjacent-world turns by what their exit makes the successor do, not by whether the contrast makes a local move more deliberate.
+
+**Ingredients:**
+
+- Special Request — *Hypnic Jerks* → Terrence Dixon — *Tides Alternate* → Last Life — *Norma* → Aa Sudd — *Serpentine Tale* → Sciahri — *Too Much Time* — rejected placement hypothesis; exact handoffs and candidate development unknown
+- ANGAMA, DJ Sneak, A Morgan, Michelle, Barnt, LNS and DJ Natas — unresolved exact-title research directions
+
+**Why interesting:** *Norma* supplies a documented slow-motion dub proposition and can make a character turn conspicuous. The canonical test remains downstream consequence: at this boundary, *Serpentine Tale* retains the same low-slung follow-through rather than acquiring new work.
+
+**Boundary:** These are editorial directions and a placement counterexample, not a proven live sequence or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM, perceived pulse, development, endpoint and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 270
 
 ### Formed relationship before self-stripping

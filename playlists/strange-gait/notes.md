@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 271 — EXPLORE — a deliberate turn still needs changed consequence
+
+Pre-audit passed and selected EXPLORE. Approximately 105 current, adjacent/emerging and overlooked-catalogue items produced eight fresh evidence-bearing leads from eight releases. The matching schemaVersion 2 snapshot is PARTIAL: one exact selected identity, seven unresolved identities, one preserved album/date warning and no technical failure.
+
+Last Life — *Norma* passes the volume lens and remains genuinely interesting, but is rejected only between *Tides Alternate* and *Serpentine Tale*. Juno's exact description establishes an elastic, slow-motion dub proposition and the resolver verifies the 5:27.642 Spotify identity. In `Hypnic Jerks → Tides Alternate → Norma → Serpentine Tale → Too Much Time`, the candidate makes the character change explicit but adds another complete slow-motion stage without evidence that *Serpentine Tale* receives different work. Exact handoffs and development remain unknown; the failure rests on proportional downstream cost rather than those unknowns.
+
+STRANGE GAIT remains 64 tracks; the protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The doctrine-free global Discovery Pool becomes 522 tracks by retaining *Norma*. Seven unresolved identities receive no musical verdict or utility row. Automatic publishing is enabled; utility synchronization is pending a matching bot receipt. The unchanged STRANGE GAIT receipt remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z, and its unchanged map remains exact at 64 tracks, 63 transitions and 6h 24m. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred.
+
+Run 271: `~105 inspected → 8 leads → 1 exact selected + 7 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`. Across completed discovery Runs 87–271, excluding repairs and failed requests: 1,291 leads / ~9,165 inspections / 51 ADDs / 374 selected candidates. Inspection-to-lead conversion was 7.6%, resolution yield 12.5% and selected-candidate-to-ADD conversion 0/1. Three of the last ten comparable runs contain an ADD. The musical no-ADD streak is one completed run after Run 270. Resolver loss dominates this run and is not evidence of playlist completion; no recurring PARK or actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 270 — EXPLORE — a formed relationship can give self-stripping an object
 
 Pre-audit passed and selected EXPLORE. Approximately 102 current, adjacent/emerging and overlooked-catalogue items produced eight fresh evidence-bearing leads from eight releases. The matching schemaVersion 2 snapshot is PARTIAL: three exact selected identities, five unresolved identities, three preserved release-date warnings and no technical failure.
