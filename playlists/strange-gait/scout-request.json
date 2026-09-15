@@ -2,28 +2,28 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T19:48:08Z-explore-280",
-  "sourceCommit": "f85dc078929ead7e65b7f7d75b6936e1ea920862",
+  "runId": "2026-09-15T20:52:02Z-explore-281",
+  "sourceCommit": "a3f3e79d15d0cc477cb87a98ad2865036fef326b",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 96 named tracks and releases across current Juno and Boomkat pages, official artist and label catalogues, adjacent house, UK-garage, electro and reggaeton windows, and overlooked spring/summer catalogue paths. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 93 named tracks and releases across current official Bandcamp label and artist catalogues, current Juno and Boomkat pages, deep/dub-techno, electro, hypnotic, rhythmic and adjacent experimental windows, plus overlooked September catalogue paths. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no REPAIR is actionable.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved alternate, unresolved identity and repository-wide utility identity was excluded.",
-      "Nine leads come from nine releases; each selected path has exact-track-differentiating evidence and the recurring-PARK evidence guard was applied.",
+      "Nine leads come from nine releases; no release supplies more than one lead, satisfying the recurring-PARK evidence guard.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
-      "Release prose is attributed rather than measured; exact identity and musical dimensions require resolver or lawful evidence.",
+      "Release prose and genre tags are attributed rather than measured; exact identity and musical dimensions require resolver or lawful evidence.",
       "Neither listener-protected internal handoff is split."
     ],
     "rankedLeadSummary": [
-      "1. Sweely — Mmmhh, Eazy",
-      "2. Djebali, Politics Of Dancing — Question",
-      "3. T3X3 — Rhythm Of The Babylone",
-      "4. Lincus — Feel The Rhythm",
-      "5. Bass Cab — Rhythm Puzzle",
-      "6. Sascha Dive — Rhythm For The Night",
-      "7. King Doudou — LSDLNG",
-      "8. Viikatory x Manao — TRACK8",
-      "9. Vakula — PULSATION"
+      "1. Tao Andra, Stone van Brooken — Altan",
+      "2. Lysnings — Lost",
+      "3. Inhmost — Analog Dreams",
+      "4. Villager — KEEP IT GOING",
+      "5. Hertz & Mhonolink — Linus (2026 Remaster)",
+      "6. UFO95 — Feed manipulation",
+      "7. Senmove — 97c",
+      "8. Barrier — Depose",
+      "9. Bandikoot & Chôkô — Veil Of Embers"
     ],
     "sourcesCheckedAt": "2026-09-15",
     "audioAnalysis": "NOT TESTED",
@@ -31,308 +31,308 @@
   },
   "leads": [
     {
-      "artist": "Sweely",
-      "track": "Mmmhh, Eazy",
-      "album": "A Call From Heaven EP",
+      "artist": "Tao Andra, Stone van Brooken",
+      "track": "Altan",
+      "album": "Altan",
+      "releaseDate": "2026-09-10",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://voltarecords.bandcamp.com/album/altan",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Volta Records describes Altan through Mongolian-inspired vocals against driving melodic and peak-time techno production.",
+        "editorialInterpretation": "Documented vocal foreground and drive; development and endpoint remain unknown.",
+        "measured": [
+          "The official listing gives the exact 5:15 title, artists and release date.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "Its vocalized drive could turn Elemental Dream's suspension into a declared state before Truth in Noise, or make the transition too explicit.",
+      "proposedPlacements": [
+        {
+          "position": "Between Elemental Dream and Truth in Noise",
+          "precedingUri": "spotify:track:3ckYxax9zApx7ofjyIeSyU",
+          "followingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a declared vocal drive changes Truth in Noise's sharpening task."
+        }
+      ]
+    },
+    {
+      "artist": "Lysnings",
+      "track": "Lost",
+      "album": "Where Nothing Remains",
+      "releaseDate": "2026-09-04",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://slopepoint.bandcamp.com/album/where-nothing-remains",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Slope Point lists Lost within a release tagged ambient, deep techno, dub techno and experimental techno.",
+        "editorialInterpretation": "Documented release vocabulary; individual trajectory and endpoint remain unknown.",
+        "measured": [
+          "The official listing gives the exact title, artist and release date.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "Its deep-dub context could deepen Ingress before Crawl's restart, or merely prolong the existing withholding.",
+      "proposedPlacements": [
+        {
+          "position": "Between Ingress and Crawl",
+          "precedingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
+          "followingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a deep-dub insertion changes Crawl's restart."
+        }
+      ]
+    },
+    {
+      "artist": "Inhmost",
+      "track": "Analog Dreams",
+      "album": "Orange Space",
+      "releaseDate": "2026-09-07",
+      "bpm": null,
+      "bpmSource": null,
+      "spotifyTrackId": null,
+      "discoverySource": "https://stasisrecordings.bandcamp.com/album/orange-space",
+      "searchIntent": "BOTH",
+      "evidence": {
+        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Stasis Recordings lists Analog Dreams exactly within Inhmost's Orange Space release.",
+        "editorialInterpretation": "Exact official identity; individual form and endpoint remain unknown.",
+        "measured": [
+          "The official listing gives the exact title, artist and release date.",
+          "Market-SE identity requires resolver evidence."
+        ]
+      },
+      "fitHypothesis": "Its implied analog-space proposition could give Worn Down a softened object before Atlantis, or blur an already effective descent.",
+      "proposedPlacements": [
+        {
+          "position": "Between Worn Down and Atlantis",
+          "precedingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "followingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether an analog-space state changes Atlantis's opening of the acceleration passage."
+        }
+      ]
+    },
+    {
+      "artist": "Villager",
+      "track": "KEEP IT GOING",
+      "album": "NOWHERE FM: VIVA LA VILLAGER",
       "releaseDate": "2026-09-11",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/sweely-a-call-from-heaven-ep-vinyl/1161148-01/",
+      "discoverySource": "https://villagersound.bandcamp.com/album/nowhere-fm-viva-la-villager",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Mmmhh, Eazy as packed with bounce and weaving through pixelated atmosphere.",
-        "editorialInterpretation": "Documented bounce and atmosphere; development and endpoint remain unknown.",
+        "attributedDescription": "Villager's official album page lists KEEP IT GOING within an electronic, electro, experimental and techno release.",
+        "editorialInterpretation": "Exact official identity and release context; individual trajectory remains unknown.",
         "measured": [
-          "The listing gives the exact title and artist.",
+          "The official listing gives the exact title, artist and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its pixelated bounce could turn Freepass for Them's elastic passage into a lighter articulated state before Humanoidz, or merely decorate the existing continuation.",
+      "fitHypothesis": "Its continuation premise could hold Style Teef's rupture before Same Way, or redundantly announce the existing recovery.",
       "proposedPlacements": [
         {
-          "position": "Between Freepass for Them and Humanoidz",
-          "precedingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
-          "followingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
+          "position": "Between Style Teef and Same Way",
+          "precedingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+          "followingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether pixelated bounce changes the move into Humanoidz's distorted declaration."
+          "purpose": "Test whether a continuation state changes Same Way's redirection."
         }
       ]
     },
     {
-      "artist": "Djebali, Politics Of Dancing",
-      "track": "Question",
-      "album": "The Moment EP",
-      "releaseDate": "2026-09-01",
+      "artist": "Hertz & Mhonolink",
+      "track": "Linus (2026 Remaster)",
+      "album": "SWAY 7-8-9 (2026 Remaster)",
+      "releaseDate": "2026-09-11",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/djebali-politics-of-dancing-the-moment-ep-vinyl/1148852-01/",
+      "discoverySource": "https://swayrecords.bandcamp.com/album/sway-7-8-9-2026-remaster",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Question as looser and wobbly, with fleshy bass and snappy snares providing contrast.",
-        "editorialInterpretation": "Documented wobble and internal contrast; exact endpoint remains unknown.",
+        "attributedDescription": "SWAY's official page lists the remastered Linus identity within the label's techno catalogue.",
+        "editorialInterpretation": "Exact catalogue identity; musical development and remaster-specific endpoint remain unknown.",
         "measured": [
-          "The listing gives the exact 6:34 title and artists.",
+          "The official listing gives the exact title, artists and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its looser bass-and-snare motion could destabilize Humanoidz before Moonwake's collapse, or overstate an already unstable handoff.",
+      "fitHypothesis": "Its catalogue-techno formation could reinforce Dark Necessity's lock before Drummz, or merely duplicate the formed state already present.",
       "proposedPlacements": [
         {
-          "position": "Between Humanoidz and Moonwake",
-          "precedingUri": "spotify:track:1lha9e4J2T1mHL9ChS6uB7",
-          "followingUri": "spotify:track:3Hyop0Bj9V3eCSFT6Hbe6j",
+          "position": "Between Dark Necessity and Drummz",
+          "precedingUri": "spotify:track:2kSeffr4MXOwACEmwFPhGK",
+          "followingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a wobbly contrasting state changes Moonwake's collapse."
+          "purpose": "Test whether a remastered catalogue formation changes Drummz's destabilization."
         }
       ]
     },
     {
-      "artist": "T3X3",
-      "track": "Rhythm Of The Babylone",
-      "album": "Rhythm Of The Babylone",
-      "releaseDate": "2026-06-25",
+      "artist": "UFO95",
+      "track": "Feed manipulation",
+      "album": "Feed manipulation",
+      "releaseDate": "2026-09-14",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/t3x3-rhythm-of-the-babylone-vinyl/1161781-01/",
+      "discoverySource": "https://ufo95.bandcamp.com/album/feed-manipulation",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes the title track through shuffling interlocked rhythms, pinpoint bass and raga vocals.",
-        "editorialInterpretation": "Documented interlock and vocal material; development and endpoint remain unknown.",
+        "attributedDescription": "UFO95's official page lists Feed manipulation as a four-track TSSRCT release.",
+        "editorialInterpretation": "Exact official release identity; title-track trajectory and endpoint remain unknown.",
         "measured": [
-          "The listing gives the exact 5:16 title and artist.",
+          "The official listing gives the exact title, artist and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its interlocked shuffle and raga voice could make Crawl's restart mutate before IF U WANT 2, or add another complete rhythmic statement without changing the successor.",
+      "fitHypothesis": "Its manipulation premise could turn Tides Alternate into a more explicit process before Serpentine Tale, or repeat an already established deformation.",
       "proposedPlacements": [
         {
-          "position": "Between Crawl and IF U WANT 2",
-          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
+          "position": "Between Tides Alternate and Serpentine Tale",
+          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
+          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether interlocked vocal shuffle changes the slanted lift."
+          "purpose": "Test whether a manipulated process changes Serpentine Tale's held formation."
         }
       ]
     },
     {
-      "artist": "Lincus",
-      "track": "Feel The Rhythm",
-      "album": "Feel The Rhythm",
-      "releaseDate": "2026-04-17",
+      "artist": "Senmove",
+      "track": "97c",
+      "album": "Full Tied EP",
+      "releaseDate": "2026-09-13",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/lincus-feel-the-rhythm-vinyl/1115722-01/",
+      "discoverySource": "https://monarecords.bandcamp.com/track/97c",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Feel The Rhythm through swagger and syncopation, bold bass, heavy kicks and a woozy late-night synth.",
-        "editorialInterpretation": "Documented syncopated weight and woozy foreground; exact ending remains unknown.",
+        "attributedDescription": "Mona Records lists 97c exactly within a release tagged acid, deep, hypnotic and minimal techno.",
+        "editorialInterpretation": "Documented release vocabulary; individual development and endpoint remain unknown.",
         "measured": [
-          "The listing gives the exact 6:12 title and artist.",
+          "The official listing gives the exact title, artist and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its woozy syncopation could give Marauder's pressure a swaying form that The Witching Hour redirects, or make the opening over-explicit.",
+      "fitHypothesis": "Its acid-hypnotic context could give Capa a focused afterimage before Sarniezz, or add another complete state without changing the reset.",
       "proposedPlacements": [
         {
-          "position": "Between Marauder and The Witching Hour",
-          "precedingUri": "spotify:track:4YhLd9gtkp0vLWu4RNJ716",
-          "followingUri": "spotify:track:6zBPgkGHHiZfxg5eSjSCRd",
+          "position": "Between Capa and Sarniezz",
+          "precedingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
+          "followingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a weighted syncopated sway changes the transition into The Witching Hour."
+          "purpose": "Test whether an acid-hypnotic afterimage changes Sarniezz's reset."
         }
       ]
     },
     {
-      "artist": "Bass Cab",
-      "track": "Rhythm Puzzle",
-      "album": "Rhythm Puzzle",
-      "releaseDate": "2026-06-02",
+      "artist": "Barrier",
+      "track": "Depose",
+      "album": "Depose",
+      "releaseDate": "2026-09-14",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/bass-cab-rhythm-puzzle-vinyl/1145454-01/",
+      "discoverySource": "https://vague-activity.bandcamp.com/album/depose",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Rhythm Puzzle with dub-techno synths and very deep sonics around chunky house beats and a warm sub-heavy bassline.",
-        "editorialInterpretation": "Documented deep dub-house body; individual development and exit remain unknown.",
+        "attributedDescription": "Vague Activity lists Depose exactly as Barrier's current release.",
+        "editorialInterpretation": "Exact official identity; individual construction and endpoint remain unknown.",
         "measured": [
-          "The listing gives the exact title and artist.",
+          "The official listing gives the exact title, artist and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its warm sub-heavy dub body could turn Trompe L'oeil's reset into a grounded object that FELT dissolves, or soften the existing transformation.",
+      "fitHypothesis": "Its displacement premise could destabilize Truth in Noise before Where I Wanna Be, or weaken that boundary's existing directness.",
       "proposedPlacements": [
         {
-          "position": "Between Trompe L'oeil and FELT",
-          "precedingUri": "spotify:track:4xJgdoF9E3vyBKsYvEXTba",
-          "followingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+          "position": "Between Truth in Noise and Where I Wanna Be",
+          "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+          "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether a grounded dub-house body changes FELT's dissolution."
+          "purpose": "Test whether displacement changes the move into the late-loop proposition."
         }
       ]
     },
     {
-      "artist": "Sascha Dive",
-      "track": "Rhythm For The Night",
-      "album": "Rhythm For The Night",
-      "releaseDate": "2026-05-28",
+      "artist": "Bandikoot & Chôkô",
+      "track": "Veil Of Embers",
+      "album": "Veil Of Embers",
+      "releaseDate": "2026-09-12",
       "bpm": null,
       "bpmSource": null,
       "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/sascha-dive-rhythm-for-the-night-vinyl/1148039-01/",
+      "discoverySource": "https://bandikoot34.bandcamp.com/track/bandikoot-ch-k-veil-of-embers-phosphene-hs-01",
       "searchIntent": "BOTH",
       "evidence": {
         "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually describes Rhythm For The Night as the more driven rhythm, with sparking chords adding light up top.",
-        "editorialInterpretation": "Documented drive and bright chord layer; development and endpoint remain unknown.",
+        "attributedDescription": "Bandikoot's official page lists Veil Of Embers exactly within a techno, acid and tribe context.",
+        "editorialInterpretation": "Exact official identity and release context; individual trajectory remains unknown.",
         "measured": [
-          "The listing gives the exact 7:16 title and artist.",
+          "The official listing gives the exact title, artists and release date.",
           "Market-SE identity requires resolver evidence."
         ]
       },
-      "fitHypothesis": "Its driven chorded state could clarify Abundance before Tecky Alexander's internal shift, or duplicate the patterned formation Tecky already supplies.",
+      "fitHypothesis": "Its acid-tribe context could turn Fulledge's break into a ritualized state before Capa, or overfill the existing pivot.",
       "proposedPlacements": [
         {
-          "position": "Between Abundance and Tecky Alexander",
-          "precedingUri": "spotify:track:33HI2gasxwfGyvWrd9yG5c",
-          "followingUri": "spotify:track:70qozbBOD7hfoG4ac2h5nl",
+          "position": "Between Fulledge (Empty-40 Mix) and Capa",
+          "precedingUri": "spotify:track:2azFGCXgxFGmyHYCvzVw4R",
+          "followingUri": "spotify:track:5np6Qsak6d5kIdkktjblRB",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether driven bright chords change Tecky Alexander's patterned task."
-        }
-      ]
-    },
-    {
-      "artist": "King Doudou",
-      "track": "LSDLNG",
-      "album": "LSDLNG",
-      "releaseDate": null,
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://boomkat.com/products/lsdlng",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Boomkat individually describes LSDLNG as tight swinging reggaeton driven by killer snare cadences and rude horns, playfully skewed by scurrying electronic artifacts.",
-        "editorialInterpretation": "Documented cadence, horn foreground and skew; exact endpoint remains unknown.",
-        "measured": [
-          "The listing gives the exact title and artist.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "Its skewed reggaeton cadence could redirect Amor's low-slung pocket into Baghdad's bass-percussion lock, or make the passage too declarative.",
-      "proposedPlacements": [
-        {
-          "position": "Between Amor and Baghdad",
-          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
-          "followingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether skewed snare cadence changes Baghdad's locking function."
-        }
-      ]
-    },
-    {
-      "artist": "Viikatory x Manao",
-      "track": "TRACK8",
-      "album": "Dance Trax Vol. 60",
-      "releaseDate": "2023-11-10",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://viikatory.bandcamp.com/album/dance-trax-vol-60",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Viikatory's official page lists TRACK8 exactly; Boomkat describes the corresponding cut, printed there as TRACKS, as breakbeat-spliced ghettotech.",
-        "editorialInterpretation": "Official identity and differentiated external description align except for Boomkat's printed title variant; exact development and endpoint remain unknown.",
-        "measured": [
-          "The official page gives the exact 5:21 title, artists and release date.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "Its breakbeat-spliced ghettotech could give Atlantis a sharply articulated detour for Hypnic Jerks to fracture, or pre-empt the crisis.",
-      "proposedPlacements": [
-        {
-          "position": "Between Atlantis and Hypnic Jerks",
-          "precedingUri": "spotify:track:4KFH3vH0uHTAleEXpYYxyA",
-          "followingUri": "spotify:track:5diM5dnRKTuJaZ2CqzFwsu",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a breakbeat-spliced detour changes the acceleration crisis."
-        }
-      ]
-    },
-    {
-      "artist": "Vakula",
-      "track": "PULSATION",
-      "album": "PULSATION",
-      "releaseDate": "2026-03-30",
-      "bpm": null,
-      "bpmSource": null,
-      "spotifyTrackId": null,
-      "discoverySource": "https://www.juno.co.uk/products/vakula-pulsation-vinyl/1127922-01/",
-      "searchIntent": "BOTH",
-      "evidence": {
-        "craftConvention": "A vivid state earns placement only when its exit changes the successor's work.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Juno individually frames PULSATION as Livity- and Timedance-inspired, polyrhythmic and tribal-infused techno.",
-        "editorialInterpretation": "Documented polyrhythmic vocabulary; individual form and endpoint remain unknown.",
-        "measured": [
-          "Vakula's official catalogue and Juno list the exact title and artist.",
-          "Market-SE identity requires resolver evidence."
-        ]
-      },
-      "fitHypothesis": "Its polyrhythmic state could make Drummz's disruption resolve into a bodily pulse before Té de Cabello Blanco, or repeat the surrounding rhythmic mutation.",
-      "proposedPlacements": [
-        {
-          "position": "Between Drummz and Té de Cabello Blanco",
-          "precedingUri": "spotify:track:6K07a5OAl8J6wqlcnCoT8i",
-          "followingUri": "spotify:track:3G1MYH7RObW238TbgMXzHo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether polyrhythmic resolution changes the handoff into Té de Cabello Blanco."
+          "purpose": "Test whether an acid-tribe state changes Capa's atmospheric handoff."
         }
       ]
     }
