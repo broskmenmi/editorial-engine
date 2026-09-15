@@ -1,5 +1,43 @@
 # STRANGE GAIT — Discoveries
 
+## Run 278 — 2026-09-15T16:50:25Z-explore-278
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `3a0bb9404591ba0d986c32e670a3772d095cacf6`, requestFingerprint `ad9abe8a3537499c4884c334bce115c33b84fb5acb68ca8d56a336c7de81252d`, generated 2026-09-15T16:56:35.772Z, PARTIAL. Immutable request commit `e79ca0cf8c7b7eeb877a6a3b59d614d3a37ea33e`; resolver workflow `34998119926`; terminal snapshot commit `6d0d5a0ad311ae0c9848838f477bbdd9ac88419c`. Requested 9; resolved 2; selected 2; seven unresolved; no alternates, duplicates, substitutions, relinkings or terminal technical failure.
+
+### Active Systems — Avoid — `spotify:track:0AHL7aQpWeMUZ9PtqkQ1Dh` — PARKED
+
+Exact duration 283,610 ms; Spotify album *The Red EP*, release date 2026-09-11. Juno listed 3:45 and 2026-09-10 but supplied no individual movement or endpoint prose.
+
+- Volume fit: provisional PASS; a concise refusal is compatible with the selection lens.
+- Immediate transition: UNKNOWN at `FELT → Avoid → Goink`; neither handoff was heard or documented.
+- Five-track consequence: UNKNOWN through `Trompe L'oeil → FELT → Avoid → Goink → Thick to Handle`.
+- Long-form effect: UNKNOWN. It could sharpen the change from rolling formation to recurring fragments or add an empty interlude.
+- Verdict: PARKED pending materially richer exact-track development/endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-09-11"`
+
+### Darren Nye — Positive Energy — `spotify:track:61LO7amNoPwSdKPHFUTH9p` — PARKED
+
+Exact duration 305,430 ms; Spotify album *Lunar Refraction EP*, release date 2026-08-28. Juno listed 5:01 and supplied shared deep-tech-soul lineage rather than an individual trajectory.
+
+- Volume fit: provisional PASS.
+- Immediate transition: UNKNOWN at `Nukumori → Positive Energy → Jjochstubn`.
+- Five-track consequence: UNKNOWN through `It Never Made Sense → Nukumori → Positive Energy → Jjochstubn → Rabbit Hole`.
+- Long-form effect: UNKNOWN. It could establish a lucid condition for contaminated-song disassembly or sentimentalize the descent without changing its task.
+- Verdict: PARKED under the same evidence conditions.
+- Warning: `Exact title/artist matched with release metadata variance: release date requested "2026-09-10" but Spotify returned "2026-08-28"`
+
+### Unresolved without musical verdict
+
+- Exos — *In The South*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0ODH9Uk4JUDKnQ0HlJwbNu, 79aGnQhQ1vxgkdvo4uUa98)`
+- Steve Bug — *Lost Sector*: `no exact Spotify title/artist search match in market SE`
+- Patrik Berg — *System Alive*: `no exact Spotify title/artist search match in market SE`
+- Unique Reason — *The Basic*: `no exact Spotify title/artist search match in market SE`
+- Planet Rhythm — *Party Time (Hypno Drive)*: `no exact Spotify title/artist search match in market SE`
+- Antonio Fevola — *Monday*: `no exact Spotify title/artist search match in market SE`
+- DJ Ultramars — *Crab Carlo*: `no exact Spotify title/artist search match in market SE`
+
+No musical zero result is inferred. Audio analysis and live mixing were not tested.
+
 ## Run 276 — 2026-09-15T15:48:55Z-explore-276 — REQUEST_NOT_COMPLETED
 
 The immutable schemaVersion 2 request was committed at `8e2ac4d60b74e0e3adc23eba22a13c3047938a51`, but resolver workflow run `34991839203` failed closed before Spotify lookup with exact error:

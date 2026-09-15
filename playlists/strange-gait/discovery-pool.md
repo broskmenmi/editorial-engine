@@ -3,6 +3,14 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 278 — exact inspiration retained
+
+- Active Systems — *Avoid* — `spotify:track:0AHL7aQpWeMUZ9PtqkQ1Dh` — exact 4:43.610 identity; PARKED at `FELT → candidate → Goink` because individual development, endpoint and downstream consequence remain unknown.
+- Darren Nye — *Positive Energy* — `spotify:track:61LO7amNoPwSdKPHFUTH9p` — exact 5:05.430 identity; PARKED at `Nukumori → candidate → Jjochstubn` because shared release lineage does not establish individual trajectory.
+- Research leads without verdict: Exos — *In The South*; Steve Bug — *Lost Sector*; Patrik Berg — *System Alive*; Unique Reason — *The Basic*; Planet Rhythm — *Party Time (Hypno Drive)*; Antonio Fevola — *Monday*; DJ Ultramars — *Crab Carlo*.
+- Source direction: Juno current-techno pages and adjacent catalogue paths, checked 2026-09-15. Set direction retained: exact identity establishes a bounded question, not the trajectory that answers it.
+- Audio analysis and live mixing were not tested.
+
 ## Run 277 — exact inspiration retained
 
 - Al Chem — *Baudelaire* — `spotify:track:2ZFtn3bX1Qv09VOJaBwJ4n` — exact 8:04.626 identity; placement-specific reject at `Same Way → candidate → U Belong 2 Me`, retained for its attributed expansive, time-stretching electro-dub state.

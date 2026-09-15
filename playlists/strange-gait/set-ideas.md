@@ -3,6 +3,22 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 278
+
+### Exact identity versus individual trajectory
+
+**Direction:** Test concise refusal and lucid deep-tech-soul states by what they leave for the successor, not by title, duration or release lineage.
+
+**Ingredients:**
+
+- Wheelman — *Trompe L'oeil* → JWords — *FELT* → Active Systems — *Avoid* → Someone Else — *Goink* → brenner — *Thick to Handle* — parked; candidate development, endpoint and both handoffs unknown
+- Oscar Later — *It Never Made Sense* → foodman — *Nukumori* → Darren Nye — *Positive Energy* → Curbside Lambsear — *Jjochstubn* → Jlin — *Rabbit Hole* — parked; individual trajectory and contaminated-song consequence unknown
+- Exos, Steve Bug, Patrik Berg, Unique Reason, Planet Rhythm, Antonio Fevola and DJ Ultramars — unresolved exact-title research directions
+
+**Why interesting:** Both exact candidates are concise enough to seem connective, yet connection is not consequence. Their exits must change the following track's work before either can enter the canonical sequence.
+
+**Boundary:** No audio audition, phrase fit, mixability, perceived pulse, energy, density, space, hypnosis or emotional effect is established.
+
 ## Current additions — Run 277
 
 ### Material state versus consequential trajectory
