@@ -10,7 +10,7 @@ The complete 19-test resolver lifecycle suite passes, including URI and normaliz
 
 STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The global Discovery Pool remains 529 tracks. No canonical decision, rejected/revisit verdict, utility membership, publication input or journey-map input changes; existing Spotify receipts remain COMPLETE at 64/64 and 529/529, and the exact 64-track / 63-transition / 6h 24m map remains unchanged.
 
-Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
+Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Approved repair commit: `746a19797d3933fef11bbba9cd3936ae4117fbe1`; the repository resolver workflow completed successfully as run `34986773833` at 2026-09-15T15:11:48Z. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
 
 ## Run 274 — 2026-09-15T14:50:09Z-explore-274
 

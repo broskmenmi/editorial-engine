@@ -8,7 +8,7 @@ The resolver now reads `playlists/discovery-pool/ledger.md` for EXPLORE, excludi
 
 STRANGE GAIT remains 64 tracks and the global Discovery Pool remains 529 tracks. No musical verdict, target ledger, rejected/revisit state, utility membership, publication input or journey-map input changes in this repair. Existing receipts remain COMPLETE at 64/64 for STRANGE GAIT and 529/529 for the Discovery Pool. The protected trio remains exact at positions 54–56. No further actionable REPAIR remains.
 
-Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
+Repair Run 275: `Run 274 cross-ledger persistent exclusion miss → resolver + workflow + skill contract repair → 19 lifecycle tests + 12 publisher tests pass → Auditor approval → 0 musical evaluations → 0 ADD → 0 utility additions`. Approved repair commit: `746a19797d3933fef11bbba9cd3936ae4117fbe1`; the repository resolver workflow completed successfully as run `34986773833` at 2026-09-15T15:11:48Z. Completed discovery totals remain 1,318 leads / ~9,512 inspections / 51 ADDs / 381 eligible evaluated candidates through Run 274. Audio analysis and live mixing were not tested.
 
 ## Run 274 — EXPLORE — a vivid turn still needs a changed successor
 
