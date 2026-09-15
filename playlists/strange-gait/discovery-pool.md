@@ -3,6 +3,26 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 270 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Dax J | Baghdad | `spotify:track:0Uq3u6aQcfjGc03AtGmD8I` · https://open.spotify.com/track/0Uq3u6aQcfjGc03AtGmD8I · https://www.juno.co.uk/products/dax-j-sphinx-ep-vinyl/1161750-01/ | Exact 6:27.042 bass-resonance and sharp-percussion formation; added between *Amor* and *Elemental Dream* because the documented tandem relationship gives the successor a specific construction to strip. Added globally. |
+| EXACT TRACK / PARKED | Pugilist | Rune | `spotify:track:6QaulOZHbIII39RhkCL0Zz` · https://open.spotify.com/track/6QaulOZHbIII39RhkCL0Zz · https://www.juno.co.uk/products/pugilist-triads-vinyl/1162863-01/ | Exact 5:06.365 restrained-propulsion proposition remains interesting; parked between *IF U WANT 2* and *Fulledge (Empty-40 Mix)* because development after the documented opening and the endpoint remain unknown. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | Dimi Angélis | GEMx | `spotify:track:7au2Y259FlJsyG3NAPV8U4` · https://open.spotify.com/track/7au2Y259FlJsyG3NAPV8U4 · https://www.juno.co.uk/products/dimi-angelis-time-capsule-vinyl/1164989-01/ | Exact 5:02.909 loop-and-siren proposition remains interesting; rejected only between *Truth in Noise* and *Where I Wanna Be* because it lengthens the existing formation-before-deformation passage without changing either successor. Added globally. |
+| UNRESOLVED RESEARCH | Kenji Hina; Nathan Pinder; DJ Teeth; C-System; Francisco | *Witness*; *Call Me*; *Gemini-Scorpio Veil*; *Original Force*; *Well Well Well (Phase’s Futurism Reorder)* | Exact sources preserved in `scout-request.json` | Five Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | EC2A / Kenji Hina; Persona / Nathan Pinder; Prozpektiva / DJ Teeth; GNC / Francisco | Current garage-techno, acid/electro and adjacent rhythmic paths | Sources preserved in `scout-request.json` | Continue where exact identity resolves; the current exact-track descriptions remain research evidence, not canonical verdicts. |
+| CATALOGUE WATCH | Samurai Music / Pugilist; Monnom Black / Dax J; Earwiggle / C-System; Dekmantel / Dimi Angélis | 2026 recirculation and back-in-stock paths | Sources preserved in `scout-request.json` | Useful track-specific catalogue paths without treating label or artist familiarity as admission evidence. |
+
+### Run 270 boundaries
+
+- *Baghdad* passes because its documented bass-percussion relationship gives *Elemental Dream* a specific construction to strip before consolidation.
+- *Rune* remains parked because opening behavior does not establish later development or exit; *GEMx* fails only at a tested placement where another complete foreground leaves successor work unchanged.
+- Exact handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown.
+- All three evaluated exact identities enter the doctrine-free global utility ledger; five unresolved identities do not.
+- Set direction: distinguish a formed relationship that changes self-stripping from a vivid foreground that merely lengthens formation.
+- No actionable REPAIR emerges.
+
 ## Run 268 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

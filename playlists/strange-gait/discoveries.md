@@ -1,5 +1,96 @@
 # STRANGE GAIT — Discoveries
 
+## Run 270 — 2026-09-15T10:50:33Z-explore-270
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `52aa597220c0423c95730d755de2d9ec8250fd60`, requestFingerprint `6bca49452d161494517c0a40c09882897785df13bf08751bda613a46752e23bb`, PARTIAL. Requested 8; resolved 3; selected 3; five unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. The eight leads came from eight releases, carried materially differentiating exact-track prose, passed persistent-history exclusion, and avoided boundaries evaluated in the previous five completed discovery runs.
+
+### Evaluated exact candidates
+
+#### Pugilist — Rune — `spotify:track:6QaulOZHbIII39RhkCL0Zz` — PARKED
+
+Source: https://www.juno.co.uk/products/pugilist-triads-vinyl/1162863-01/
+
+Spotify: https://open.spotify.com/track/6QaulOZHbIII39RhkCL0Zz
+
+Exact resolver duration: 306,365 ms (5:06.365). BPM unavailable. Spotify returned album *Triads* and release date 2026-06-26; the request's 2026-07-16 listing-date variance is preserved below.
+
+Juno individually describes the track as opening on technoid propulsion and brooding bass snarls within a record framed around restraint. This establishes a serious material proposition but not its development after the opening or its endpoint.
+
+- Volume fit: PASS. Restrained technoid propulsion with a bass-led foreground fits the selection lens without requiring genre purity or formal novelty.
+- Immediate transition: UNKNOWN at `IF U WANT 2 → Rune → Fulledge (Empty-40 Mix)`; neither handoff was heard or metrically documented.
+- Surrounding run: UNKNOWN through `Crawl → IF U WANT 2 → Rune → Fulledge (Empty-40 Mix) → Capa`. The opening evidence permits a formed-state hypothesis but cannot show whether the track maintains, redirects or releases that state before *Fulledge*.
+- Long-form effect: UNKNOWN. The candidate could give the following fake-out and dissolution a defined propulsive object to undo, but could also add another complete stage to an already articulate opposed-material-to-dissolution passage.
+- Strongest alternative: reject the tested placement proportionally because a 5:06 insertion delays *Fulledge*. That would turn an undocumented exit into failure. PARK preserves the exact question without weakening the ADD threshold.
+- Verdict: PARKED at the tested boundary. Reopen only for materially richer exact-track development or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence. Retained as genuinely interesting.
+
+#### Dax J — Baghdad — `spotify:track:0Uq3u6aQcfjGc03AtGmD8I` — ADD
+
+Source: https://www.juno.co.uk/products/dax-j-sphinx-ep-vinyl/1161750-01/
+
+Spotify: https://open.spotify.com/track/0Uq3u6aQcfjGc03AtGmD8I
+
+Exact resolver duration: 387,042 ms (6:27.042). BPM unavailable. Spotify returned album *Sphinx EP* and release date 2026-07-03; the request's 2026-09-03 listing-date variance is preserved below.
+
+Juno individually describes deep bass resonance and sharp percussion working in tandem, attributing ritual weight to the exact track. “Ritual” remains source language rather than a measured hypnosis or emotional claim.
+
+- Volume fit: PASS. A clearly related bass-and-percussion construction fits a volume interested in rhythmic and structural freedom without needing to prove weirdness, a new groove or one sonic room.
+- Immediate transition: provisional PASS at `Amor → Baghdad → Elemental Dream`. Exact handoffs remain unknown, but the documented tandem construction makes the move from *Amor*'s machine-to-hand-drum mutation into *Elemental Dream*'s self-stripping process editorially legible.
+- Surrounding run: provisional PASS through `Ikoyi → Amor → Baghdad → Elemental Dream → Truth in Noise`. The sequence now moves from foreground dissolution through mutation into a formed bass-percussion relationship, then strips that relationship before consolidation.
+- Long-form effect: provisional PASS. The 6:27 insertion changes *Elemental Dream*'s work: it no longer follows the mutation directly, but dismantles a documented formed relationship before *Truth in Noise* consolidates what remains.
+- Strongest alternative: the existing `Amor → Elemental Dream` move already made sense, and an extra percussive formation could over-explain it. The insertion passes because the exact candidate evidence supplies a specific object for the successor to strip rather than merely another compatible texture.
+- Verdict: ADD between *Amor* and *Elemental Dream*. Exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. Retained as genuinely interesting.
+
+#### Dimi Angélis — GEMx — `spotify:track:7au2Y259FlJsyG3NAPV8U4` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/dimi-angelis-time-capsule-vinyl/1164989-01/
+
+Spotify: https://open.spotify.com/track/7au2Y259FlJsyG3NAPV8U4
+
+Exact resolver duration: 302,909 ms (5:02.909). BPM unavailable. Spotify returned capitalization *GEMx*, album *Time Capsule* and release date 2026-07-10; the request's *Gemx* / 2026-07-08 variance is preserved below.
+
+Juno individually describes surging sirens and constantly looping, harassing drums over a blistered march. These are attributed material claims, not measured energy or density.
+
+- Volume fit: PASS. The forceful repeating foreground is a credible selection-lens proposition.
+- Immediate transition: UNKNOWN at `Truth in Noise → GEMx → Where I Wanna Be`; neither handoff was heard or metrically documented.
+- Surrounding run: FAIL proportionally through `Elemental Dream → Truth in Noise → GEMx → Where I Wanna Be → Style Teef`. The candidate adds a fully stated loop-and-siren foreground between consolidation and the existing compact acid-vocal formation without evidence that *Where I Wanna Be* or *Style Teef* receives different work.
+- Long-form effect: FAIL only at this placement. The insertion lengthens an already explicit formation-before-deformation passage; material vividness does not create a new downstream consequence.
+- Strongest alternative: the forceful foreground could make *Where I Wanna Be* feel more compact by contrast. That is plausible, but contrast alone does not justify five additional minutes when the successor still performs the same formation task.
+- Verdict: PLACEMENT-SPECIFIC REJECT at the tested boundary; not a global rejection. Retained as genuinely interesting.
+
+### Unresolved identities
+
+Each receives no musical verdict or utility row:
+
+- Kenji Hina — *Witness*: `no exact Spotify title/artist search match in market SE`
+- Nathan Pinder — *Call Me*: `no exact Spotify title/artist search match in market SE`
+- DJ Teeth — *Gemini-Scorpio Veil*: `no exact Spotify title/artist search match in market SE`
+- C-System — *Original Force*: `no exact Spotify title/artist search match in market SE`
+- Francisco — *Well Well Well (Phase’s Futurism Reorder)*: `no exact Spotify title/artist search match in market SE`
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-07-16" but Spotify returned "2026-06-26"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-03" but Spotify returned "2026-07-03"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-07-08" but Spotify returned "2026-07-10"`
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; all eight ranked leads met the current evidence floor; the immutable request and matching terminal snapshot are internally valid; only the three selected exact identities were evaluated separately across volume fit, immediate transition, surrounding run and long-form effect; the ADD remains provisional where handoffs are unknown; the PARK preserves decision-critical uncertainty; the rejection is proportional and placement-specific; all warnings and unresolved errors remain exact; and all three genuinely interesting exact identities enter the independent inspiration layer and doctrine-free global utility ledger. The protected trio remains contiguous and internally exact, and no other canonical playlist is mutated.
+
+### State, publication and map handling
+
+STRANGE GAIT becomes 64 tracks with *Baghdad* at position 47. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 54–56. EDITORIAL ENGINE — DISCOVERY POOL becomes 521 tracks by appending the three evaluated exact identities. Automatic publishing is enabled. At this editorial commit, both affected playlist synchronizations and the regenerated 64-track journey map are pending GitHub Actions verification; exact completion may be claimed only by subsequent matching `spotify-status.json` and generated-map receipts.
+
+### Run analysis
+
+`~102 inspected → 8 leads → 3 exact selected + 5 unresolved → 3 evaluations → 1 ADD + 1 PARKED + 1 placement-specific REJECT → 3 utility additions`
+
+Inspection-to-lead conversion: 7.8%. Resolution yield: 37.5%. Selected-candidate-to-ADD conversion: 1/3 (33.3%). Across completed discovery Runs 87–270, excluding repairs and failed requests: 1,283 leads from approximately 9,060 inspections; 51 ADDs from 373 selected candidates. Four of the last ten comparable discovery runs contain an ADD. Run 270 ends the two-run completed musical no-ADD streak after Run 265; three exact genuinely interesting tracks have been retained in this run.
+
+The scan does not support playlist completion or a resolver-health defect. Five of eight identities remain absent from exact Spotify-SE search, but all three selected candidates carried differentiated exact-track prose and produced distinct ADD, PARKED and placement-specific REJECT outcomes. That spread shows the current candidate evidence can distinguish downstream consequence from uncertainty and proportional cost. The recurrent-PARK guard does not trigger: only one candidate is parked, its evidence gap is individual post-opening development/endpoint, and its boundary was not evaluated in the previous five completed discovery runs. No actionable REPAIR emerges.
+
+Audio analysis: NOT TESTED. Live mixing: NOT TESTED.
+
 ## Run 269 — 2026-09-15T09:49:17Z-explore-269 — EXPLORE_NOT_COMPLETED
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `bfcff77a8afed1c49d822f4274492a6d44faa86d`, requestFingerprint `ead628558a2d539eb6fd2f8bcf4bd1736a4318e7105a92e9e79d19a4d4830d1b`, PARTIAL. Requested 8; resolved 1; selected 1; seven unresolved identities. No warnings, alternates, duplicates, substitutions, relinkings or technical resolver failures.

@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 270
+
+### Formed relationship before self-stripping
+
+**Direction:** Test whether a candidate creates a specific relationship for the successor to dismantle, rather than merely adding another material foreground before an already legible turn.
+
+**Ingredients:**
+
+- Ibrahim Alfa Jnr — *Ikoyi* → Valesuchi — *Amor* → Dax J — *Baghdad* → Shackleton — *Elemental Dream* → Inspired Groove — *Truth in Noise* — canonical editorial direction
+- DjRUM — *Crawl* → 50Dix — *IF U WANT 2* → Pugilist — *Rune* → Demdike Stare — *Fulledge (Empty-40 Mix)* → Nørbak — *Capa* — parked placement hypothesis; exact exit and handoffs unknown
+- Shackleton — *Elemental Dream* → Inspired Groove — *Truth in Noise* → Dimi Angélis — *GEMx* → Truncate — *Where I Wanna Be* → Blawan — *Style Teef* — rejected placement hypothesis; exact handoffs unknown
+- Kenji Hina, Nathan Pinder, DJ Teeth, C-System and Francisco — unresolved exact-title research directions
+
+**Why interesting:** *Baghdad* supplies a documented relationship that changes the successor's task; *Rune* tests unresolved direction after an evidenced opening; *GEMx* shows how a vivid foreground can remain useful even when its tested placement only lengthens an already formed passage.
+
+**Boundary:** These are editorial directions, not proven live sequences or claims about energy, density, space, hypnosis, emotional effect, phrase fit or mixability. BPM and exact handoffs remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 268
 
 ### Material vividness versus successor consequence

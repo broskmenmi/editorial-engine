@@ -1,5 +1,15 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 270 — EXPLORE — a formed relationship can give self-stripping an object
+
+Pre-audit passed and selected EXPLORE. Approximately 102 current, adjacent/emerging and overlooked-catalogue items produced eight fresh evidence-bearing leads from eight releases. The matching schemaVersion 2 snapshot is PARTIAL: three exact selected identities, five unresolved identities, three preserved release-date warnings and no technical failure.
+
+Dax J — *Baghdad* is added between Valesuchi — *Amor* and Shackleton — *Elemental Dream*. Juno distinguishes the exact track through deep bass resonance and sharp percussion working in tandem; the resolver verifies the exact 6:27.042 Spotify identity. In `Ikoyi → Amor → Baghdad → Elemental Dream → Truth in Noise`, the formed relationship gives *Elemental Dream* a specific construction to strip before consolidation. Pugilist — *Rune* is PARKED because exact evidence establishes its opening propulsion but not later development or endpoint. Dimi Angélis — *GEMx* is rejected only at `Truth in Noise → candidate → Where I Wanna Be` because another fully stated foreground lengthens the existing formation-before-deformation passage without changing either successor's work.
+
+STRANGE GAIT becomes 64 tracks; the protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The doctrine-free global Discovery Pool becomes 521 tracks by retaining all three evaluated exact identities. Five unresolved identities receive no musical verdict or utility row. Automatic publishing is enabled; exact Spotify and map completion remain pending subsequent matching bot receipts at the editorial commit. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred.
+
+Run 270: `~102 inspected → 8 leads → 3 exact selected + 5 unresolved → 3 evaluations → 1 ADD + 1 PARKED + 1 placement-specific REJECT → 3 utility additions`. Across completed discovery Runs 87–270, excluding repairs and failed requests: 1,283 leads / ~9,060 inspections / 51 ADDs / 373 selected candidates. Inspection-to-lead conversion was 7.8%, resolution yield 37.5% and selected-candidate-to-ADD conversion 33.3%. Four of the last ten comparable runs contain an ADD. Run 270 ends the two-run completed musical no-ADD streak after Run 265. The mixed verdicts show evidence can distinguish consequence, uncertainty and proportional cost; no actionable REPAIR emerges. Audio analysis and live mixing were not tested.
+
 ## Run 269 — EXPLORE_NOT_COMPLETED — metadata-only listings are not resolver leads
 
 Pre-audit passed and selected EXPLORE. Approximately 96 current, adjacent/emerging and overlooked-catalogue items produced an eight-entry request and a matching internally valid PARTIAL resolver snapshot: one exact selected identity, seven Spotify-SE misses, and no warnings, alternates or technical failure.

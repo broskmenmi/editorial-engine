@@ -50,27 +50,30 @@
 | 44 | RRUCCULLA | Té de Cabello Blanco | spotify:track:3G1MYH7RObW238TbgMXzHo | — | ADD | Tilt — provisional agitation-to-reassembly false-stability hinge | 2026-09-11 |
 | 45 | Ibrahim Alfa Jnr | Ikoyi | spotify:track:2sq9nJXmO5OtwWemr30z32 | — | ADD | Tilt — provisional foreground-dissolution hinge | 2026-09-09 |
 | 46 | Valesuchi | Amor | spotify:track:6sFAOCWU1adeWUEZaKWtEy | — | ADD | Tilt — provisional machine-to-hand-drum mutation | 2026-09-09 |
-| 47 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
-| 48 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
-| 49 | Truncate | Where I Wanna Be | spotify:track:2hUDsg1TEPrT4Cq3pISTWg | — | ADD | Tilt — provisional compact acid-vocal formation before fault-line deformation | 2026-09-14 |
-| 50 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional formed-matrix-to-frazzled fault line | 2026-09-12 |
-| 51 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
-| 52 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
-| 53 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
-| 54 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
-| 55 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
-| 56 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
-| 57 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
-| 58 | Oscar Later | It Never Made Sense | spotify:track:0ZB4fbiKEhhUxHMXklcCPD | — | ADD | Escape — provisional razor-cut two-step formation before remnant flare | 2026-09-14 |
-| 59 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
-| 60 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
-| 61 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
-| 62 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
-| 63 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
+| 47 | Dax J | Baghdad | spotify:track:0Uq3u6aQcfjGc03AtGmD8I | — | ADD | Tilt — provisional bass-percussion formation before self-stripping instability | 2026-09-15 |
+| 48 | Shackleton | Elemental Dream | spotify:track:3ckYxax9zApx7ofjyIeSyU | — | ADD | Tilt — provisional self-stripping percussive instability before consolidation | 2026-09-11 |
+| 49 | Inspired Groove | Truth in Noise | spotify:track:12xuyGHICBNwJnQYqBlKcY | 138 | ADD | Tilt — provisional groove consolidation | 2026-09-06 |
+| 50 | Truncate | Where I Wanna Be | spotify:track:2hUDsg1TEPrT4Cq3pISTWg | — | ADD | Tilt — provisional compact acid-vocal formation before fault-line deformation | 2026-09-14 |
+| 51 | Blawan | Style Teef | spotify:track:0KeJYT04VhNp6xKA3PYOgo | — | ADD | Tilt — provisional formed-matrix-to-frazzled fault line | 2026-09-12 |
+| 52 | Cooly G | Same Way | spotify:track:34Fsg91zY7EAGvowez5DOf | — | ADD | Tilt — provisional alternating drum/bass body-pressure hinge before threshold | 2026-09-11 |
+| 53 | RP Boo | U Belong 2 Me | spotify:track:4gmfU2GXNxmyiEKidTcj3Y | — | ADD | Tilt — provisional four-on-the-floor-to-funereal threshold | 2026-09-10 |
+| 54 | Linear System | Transparency | spotify:track:6vBGCwTYRiKYCDD52zXZtf | 143 | ADD | Tilt — provisional listener-block opener | 2026-09-06 |
+| 55 | Ignez | When We Froze | spotify:track:1POzqasdMpIDgI4gQSdPrV | 140 | ADD | Tilt — listener-confirmed internal continuation | 2026-09-06 |
+| 56 | Len Faki | Stardancer | spotify:track:6i3HRqnSMoSohzwSgq035u | 137 | ADD | Tilt — listener-confirmed block close | 2026-09-06 |
+| 57 | Bonobo | Migration | spotify:track:61g7oQKm8DFEL7r2g9LS8x | — | ADD | Escape — provisional piano-to-break character pivot before liminal percussion | 2026-09-12 |
+| 58 | Azu Tiwaline | Eyes of the Wind | spotify:track:1CrwshR68Lrx9KDeOHtfyz | — | ADD | Escape — provisional liminal-percussion passage | 2026-09-10 |
+| 59 | Oscar Later | It Never Made Sense | spotify:track:0ZB4fbiKEhhUxHMXklcCPD | — | ADD | Escape — provisional razor-cut two-step formation before remnant flare | 2026-09-14 |
+| 60 | foodman | Nukumori | spotify:track:0QNuxTFGRqgcNrcuomQory | — | ADD | Escape — provisional hardcore-remnant flare before descent | 2026-09-11 |
+| 61 | Curbside Lambsear | Jjochstubn | spotify:track:5czyvXZq06uxrrKVp28FTb | — | ADD | Escape — provisional contaminated-song disassembly between flare and dead-space descent | 2026-09-13 |
+| 62 | Jlin | Rabbit Hole | spotify:track:1rerXSJBaWBKdmUzWKMzlJ | — | ADD | Escape — provisional dead-space descent before afterword | 2026-09-10 |
+| 63 | TYGAPAW, Precious Okoyomon | Can I live | spotify:track:62MyAepcRwleCdrXXRgPmh | — | ADD | Escape — provisional restrained-footwork re-entry before afterword | 2026-09-11 |
+| 64 | Steve Rachmad | Invisible Warriors Of Light | spotify:track:28lWAlCwtanGjnDcqCS0rG | — | ADD | Escape — provisional low-slung electro-soul afterword | 2026-09-09 |
 
 ## Current state
 
-**ACTIVE EXPANSION — 63 canonical tracks.**
+**ACTIVE EXPANSION — 64 canonical tracks.**
+
+EXPLORE run `2026-09-15T10:50:33Z-explore-270` adds Dax J — *Baghdad* (`spotify:track:0Uq3u6aQcfjGc03AtGmD8I`) between Valesuchi — *Amor* and Shackleton — *Elemental Dream*. Juno distinguishes the exact track through deep bass resonance and sharp percussion working in tandem; the resolver verifies the exact 6:27.042 Spotify identity while preserving the requested 2026-09-03 versus Spotify 2026-07-03 date variance. Editorially, `Ikoyi → Amor → Baghdad → Elemental Dream → Truth in Noise` moves from foreground dissolution through machine-to-hand-drum mutation into a formed bass-percussion relationship, then self-stripping instability and consolidation. The insertion passes provisionally at volume, immediate-transition, exact five-track and long-form scales because *Elemental Dream* now strips a documented tandem construction rather than continuing directly from the mutation. Exact entry, exit, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. Pugilist — *Rune* is PARKED at `IF U WANT 2 → candidate → Fulledge (Empty-40 Mix)`; Dimi Angélis — *GEMx* is rejected only between *Truth in Noise* and *Where I Wanna Be*. Five unresolved identities receive no musical verdict.
 
 EXPLORE run `2026-09-15T05:51:08Z-explore-265` adds Omar S — *Tecky Alexander* (`spotify:track:70qozbBOD7hfoG4ac2h5nl`) between Decoder — *Abundance* and Yu Su — *Foundry*. Juno distinguishes the exact track through jittery rhythms, poppy melodies and subtly shifting loops; the resolver verifies the exact 7:12.448 Spotify identity while preserving the requested 2008 packaging against Spotify's *The Further You Look - The Less You Will See* / 2024-11-01 metadata. Editorially, `Cave → Abundance → Tecky Alexander → Foundry → Worn Down` moves from widening through swung continuation into a long patterned but internally shifting loop, then unstable multi-directional motion and a rumble-to-weight threshold. The insertion passes provisionally at volume, immediate-transition, exact five-track and long-form scales because *Foundry* now destabilizes a documented subtly shifting object instead of extending directly from Abundance. Exact entry, exit, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown. *Overcome* and *Inebriating* are rejected only at their tested placements; one exact unselected alternate and five unresolved identities receive no musical verdict.
 
