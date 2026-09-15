@@ -1,5 +1,32 @@
 # STRANGE GAIT — Discoveries
 
+## Repair Run 258 — 2026-09-15T00:07:00Z-repair-258
+
+Auditor-approved objective repair after the pre-publication integrity check for Run 257. Approved Run 256 commit `e4cfe1689073b7b8e92c963c2545e2d07e454430` had replaced the 912-line target-local `discovery-pool.md` and 1,203-line `notes.md` histories with single lines of non-UTF-8 data and converted the 1,522-line `set-ideas.md` history to non-UTF-8 data. The repair restores all three exact histories from Run 256's resolver parent `82a6e41d409df2761e464e54df897c6a1baf9c50`, then reapplies the intended Run 256 discovery harvest, set direction and editorial note from the already approved exact resolver evidence and canonical decision.
+
+No canonical identity, order, annotation, Spotify metadata, cover instruction, protected state, rejected/revisit verdict, global utility identity or publication setting changes. The 61-track canonical ledger and 501-track utility ledger remain authoritative. UTF-8 decoding, line-count recovery and Run 256 retention checks pass. This repair closes the objective state-integrity defect; no further actionable REPAIR remains.
+
+## Run 257 — 2026-09-14T23:56:00Z-explore-257 — EXPLORE_NOT_COMPLETED
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `5205d2e081af10c453f27ca80867414805e0a531`, requestFingerprint `42fc30f230a5092f7b82bfed28d6778793816e26a017205c6166e519b40461cc`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures.
+
+Auditor vetoed the editorial draft before any musical verdict. The request was written while three required target-local state files were corrupt from Run 256, so its pre-audit completeness receipt was false even though the request/snapshot pair is internally valid. Extrawelt — *Burned Filters* (`spotify:track:7HJfDRIIR85INsOiSoQSY2`) therefore receives no ADD, PARKED or REJECT decision and no local inspiration or global utility retention. The exact identity is preserved only in the immutable resolver snapshot.
+
+Resolver warning preserved exactly: `Exact title/artist matched with release metadata variance: album requested "Jamborghini EP" but Spotify returned "Jamborghini"; release date requested "2026-09-11" but Spotify returned "2026-08-14"`
+
+Unresolved outcomes preserved exactly:
+
+- Alexander Kowalski — *Sinee (GZI remix)*: `no exact Spotify title/artist search match in market SE`
+- Maoupa Mazzocchetti feat. Clara! — *Mantequilla (Pariah remix)*: `no exact Spotify title/artist search match in market SE`
+- DJ Babatr — *Cabo E (Substance remix)*: `no exact Spotify title/artist search match in market SE`
+- DJ Sodeyama — *Atlas*: `no exact Spotify title/artist search match in market SE`
+- Lowsystem — *Cantilever*: `no exact Spotify title/artist search match in market SE`
+- Su01 — *Echoes From A Distant Future*: `no exact Spotify title/artist search match in market SE`
+- Steve Bug — *Shadow Master*: `no exact Spotify title/artist search match in market SE`
+- COW — *Shinkansen*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (1kPWR3vFh6FsrPzR26OD66, 2d0nCcpfyi48hddDnjWhno)`
+
+Run 257: `~91 inspected → 9 leads → 1 exact + 8 unresolved → AUDITOR VETO → EXPLORE_NOT_COMPLETED → 0 musical evaluations → 0 ADD → 0 utility additions`. Inspection-to-lead conversion was 9.9%; apparent exact-resolution yield was 11.1%, but usable-candidate yield was 0% because the required-state pre-audit was invalid. Completed-discovery totals remain unchanged through Run 256: 1,215 leads / ~8,286 inspections / 48 ADDs / 353 selected candidates. Audio analysis and live mixing were not tested.
+
 ## Run 256 — 2026-09-14T22:56:07Z-explore-256
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `8152c20d3be940dca1d42a70cded6873ba106c64`, requestFingerprint `4e1e2d490bb330856bd41c4c827a30afa4572bd364ee12050178d9768c3825d4`, PARTIAL. Requested 9; resolved 1; selected 1; eight unresolved identities. No alternates, duplicates, substitutions, relinkings or technical resolver failures. Every warning and exact resolver error is preserved below.
