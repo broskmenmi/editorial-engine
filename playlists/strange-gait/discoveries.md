@@ -62,7 +62,7 @@ APPROVED. Pre-audit lawfully selected EXPLORE; the immutable request and matchin
 
 ### Persistence, publication and map state
 
-STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 527 tracks by retaining the two evaluated exact identities. Its publication receipt is pending the editorial commit at this stage.
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. The target publication inputs and exact 64-track / 63-transition / 6h 24m journey map are unchanged; its existing Spotify receipt remains COMPLETE at 64/64, verified 2026-09-15T11:12:11.075Z. The global Discovery Pool becomes 527 tracks by retaining the two evaluated exact identities. Automatic utility publication is COMPLETE at 527/527 with exact membership, configured metadata and cover verified at 2026-09-15T14:09:24.145Z against editorial commit `a7da4e534c9b2493c7eab1ad9aee5e74871689e5`.
 
 ### Run analysis
 
