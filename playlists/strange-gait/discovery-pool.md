@@ -3,6 +3,26 @@ Total output lines: 2417
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 265 harvest — 2026-09-15
+
+| Kind | Artist | Track / release | Exact identity / source | Retention note |
+|---|---|---|---|---|
+| EXACT TRACK / CANONICAL ADD | Omar S | Tecky Alexander | `spotify:track:70qozbBOD7hfoG4ac2h5nl` · https://open.spotify.com/track/70qozbBOD7hfoG4ac2h5nl · https://www.juno.co.uk/products/omar-s-the-further-you-look-the-less-vinyl/320010-01/ | Exact 7:12.448 patterned, subtly shifting formation; added between *Abundance* and *Foundry*. Its documented internal shifts give the successor a specific object to destabilize. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | 2562 | Overcome | `spotify:track:6iJDNEH3iOs5TQVq6Ck5wp` · https://open.spotify.com/track/6iJDNEH3iOs5TQVq6Ck5wp · https://www.juno.co.uk/techno/back-cat/ | Exact 5:43.500 tricky-shuffle proposition remains interesting; rejected only between *Eyes of the Wind* and *It Never Made Sense* because the successor's existing sharpening task does not change. Added globally. |
+| EXACT TRACK / PLACEMENT-SPECIFIC REJECT | 1C3Man | Inebriating | `spotify:track:6Ubs9ah3B6HjkLPqfdnpzl` · https://open.spotify.com/track/6Ubs9ah3B6HjkLPqfdnpzl · https://www.juno.co.uk/products/1c3man-gate-ep-vinyl/1124661-01/ | Exact 6:04.312 booming-low-end and peeling-glitch-motif proposition remains interesting; rejected only between *Cave* and *Abundance* because the existing continuation-to-instability hinge does not change. Added globally. |
+| EXACT UNSELECTED ALTERNATE | 10CATE | Haunted | `spotify:track:2UPKFmfUc5uBDyYJwpADMb` · resolver snapshot only | Exact identity resolved but was not selected, evaluated or retained. No musical verdict or utility row. |
+| UNRESOLVED RESEARCH | 1DredFaces, Animate!; 10 000 BC; 2601; 616; 1Morning | *Siarnac*; *Funchal*; *Track 2*; *Shuttle Control*; *A Bastards Work Is Never Done* | Exact sources preserved in `scout-request.json` | Five Spotify-SE misses. No musical verdict or utility addition. |
+| CURRENT / ADJACENT WATCH | Tectonic Sound / 2562; 1DredFaces / Animate!; Gate EP / 1C3Man; DBX-002 / 10 000 BC | Current, adjacent and emerging release paths | Sources preserved in `scout-request.json` | Continue where exact-track evidence distinguishes development and exit; labels and release frames remain research context rather than sonic proof. |
+| CATALOGUE WATCH | FXHE / Omar S; Gated Recordings / 616; 10CATE; 1Morning | Overlooked Detroit, electro, acid and early-morning catalogue paths | Sources preserved in `scout-request.json` | Useful exact-title paths; resolve identity before assigning any musical or sequencing claim. |
+
+### Run 265 boundaries
+
+- *Tecky Alexander* passes at `Abundance → candidate → Foundry`: its documented subtly shifting patterned state gives *Foundry* a specific object to destabilize. Exact handoffs remain unknown.
+- *Overcome* and *Inebriating* fail only at their tested placements because their successors retain the same work; both remain genuinely interesting.
+- All three evaluated exact identities enter the doctrine-free global utility ledger. *Haunted* and the five unresolved identities do not.
+- Set direction: distinguish a patterned state whose internal change creates a consequential exit from a complete intermediate state that merely lengthens an already articulated passage.
+- No actionable REPAIR emerges.
+
 ## Run 263 harvest — 2026-09-15
 
 | Kind | Artist | Track / release | Exact identity / source | Retention note |

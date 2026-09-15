@@ -3,6 +3,23 @@ Total output lines: 2370
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 265
+
+### Patterned change before directional break
+
+**Direction:** Test long loop-led formations by whether their attributed internal shifts create a defined object for the successor to disrupt; reject complete intermediate states when the following track keeps the same task.
+
+**Ingredients:**
+
+- Rene Wise — *Cave* → Decoder — *Abundance* → Omar S — *Tecky Alexander* → Yu Su — *Foundry* → T++ — *Worn Down* — canonical editorial direction
+- Azu Tiwaline, Cinna Peyghamy — *Eyes of the Wind* → 2562 — *Overcome* → DjRUM — *It Never Made Sense* → Kassem Mosse — *Nukumori* — rejected placement hypothesis, exact handoffs unknown
+- Alexander Holm, Francesca Burattelli — *Egue into hs* → Rene Wise — *Cave* → 1C3Man — *Inebriating* → Decoder — *Abundance* → Yu Su — *Foundry* — rejected placement hypothesis, exact handoffs unknown
+- 1DredFaces / Animate!, 10 000 BC, 2601, 616 and 1Morning — unresolved research directions
+
+**Why interesting:** *Tecky Alexander*'s attributed subtle shifts create a patterned object before *Foundry*'s unstable motion. The other exact tracks remain useful outside their tested placements, but neither changes its proposed successor's established work.
+
+**Boundary:** These are editorial directions and placement hypotheses, not proven live sequences, energy claims, density claims, space claims, hypnosis claims, phrase-fit claims, emotional-effect claims or mixing edges. Exact handoffs, perceived pulse and BPM remain unknown; audio analysis and live mixing remain untested.
+
 ## Current additions — Run 263
 
 ### A formed exit can justify a long process

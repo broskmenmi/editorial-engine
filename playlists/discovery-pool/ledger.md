@@ -514,6 +514,9 @@ Doctrine-free global retention ledger. Row order is append history only and has 
 | 508 | KEIN NAME | Respiratory | spotify:track:30udh9P4t0t620GnM9jtOo | STRANGE GAIT Run 262 | PARKED / interesting | 2026-09-15 |
 | 509 | Taoyema | Dark Necessity | spotify:track:2kSeffr4MXOwACEmwFPhGK | STRANGE GAIT Run 263 | Canonical ADD / retained | 2026-09-15 |
 | 510 | Ma Haiping | Velocity Unlocked | spotify:track:498Z7ThNeETb2M6SY37ge4 | STRANGE GAIT Run 263 | PARKED / interesting | 2026-09-15 |
+| 511 | 2562 | Overcome | spotify:track:6iJDNEH3iOs5TQVq6Ck5wp | STRANGE GAIT Run 265 | Placement-specific REJECT / interesting | 2026-09-15 |
+| 512 | 1C3Man | Inebriating | spotify:track:6Ubs9ah3B6HjkLPqfdnpzl | STRANGE GAIT Run 265 | Placement-specific REJECT / interesting | 2026-09-15 |
+| 513 | Omar S | Tecky Alexander | spotify:track:70qozbBOD7hfoG4ac2h5nl | STRANGE GAIT Run 265 | Canonical ADD / retained | 2026-09-15 |
 
 Listener-supplied tracks are not automatically backfilled merely because they appear in a canonical playlist. They enter only through a discovery-run retention decision or explicit user instruction.
 

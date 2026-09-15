@@ -1,5 +1,80 @@
 # STRANGE GAIT — Discoveries
 
+## Run 265 — 2026-09-15T05:51:08Z-explore-265
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `c0871c0dac55678029af65e9efbffb8b64e32add`, requestFingerprint `49386ddbf6da8cb38092a370ef8ce1931029b94f7cc48ed44cc800325ef30ae4`, PARTIAL. Requested 9; resolved 4; selected 3; one exact unselected alternate; five unresolved identities. No duplicates, substitutions, relinkings or technical resolver failures. The nine leads came from nine releases, persistent-history exclusion passed, and Repair Run 261's exact-track evidence guard was respected.
+
+### Evaluated exact candidates
+
+#### Omar S — Tecky Alexander — `spotify:track:70qozbBOD7hfoG4ac2h5nl` — ADD
+
+Source: https://www.juno.co.uk/products/omar-s-the-further-you-look-the-less-vinyl/320010-01/
+
+Spotify: https://open.spotify.com/track/70qozbBOD7hfoG4ac2h5nl
+
+Exact resolver duration: 432,448 ms (7:12.448). BPM unavailable. Spotify returned album *The Further You Look - The Less You Will See* and release date 2024-11-01; the request's 2008-08-01 packaging variance is preserved below.
+
+Juno distinguishes the exact track through jittery rhythms, poppy melodies and subtly shifting loops. These are attributed individual-track claims; exact entry, exit, endpoint, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability remain unknown.
+
+- Volume fit: PASS. Internal patterned change fits the selection lens without relying on catalogue stature, novelty, genre orthodoxy or a chapter quota.
+- Immediate transition: provisional PASS at `Abundance → Tecky Alexander → Foundry`. The documented patterned-but-shifting object makes the move deliberate; *Foundry*'s already documented unstable multi-directional motion becomes destabilization of that object. Exact handoffs remain UNKNOWN.
+- Surrounding run: provisional PASS through `Cave → Abundance → Tecky Alexander → Foundry → Worn Down`. Widening and swung continuation enter a long subtly shifting formation, which gives way to unstable motion and a rumble-to-weight threshold.
+- Long-form effect: provisional PASS. The 7:12.448 duration is a real proportional cost, but the candidate changes *Foundry* from direct continuation into rupture of a specific formed pattern before the later threshold.
+- Strongest counterargument: it may be an extra long loop between swing and instability. It passes because its attributed internal shifts create a defined condition that changes the successor's work rather than merely smoothing the passage.
+
+#### 2562 — Overcome — `spotify:track:6iJDNEH3iOs5TQVq6Ck5wp` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/techno/back-cat/
+
+Spotify: https://open.spotify.com/track/6iJDNEH3iOs5TQVq6Ck5wp
+
+Exact resolver duration: 343,500 ms (5:43.500). BPM unavailable. Juno describes the exact track through a numerological, tricky shuffle within broader broken-beat and dark-garage framing.
+
+- Volume fit: PASS. The documented shuffle is a valid rhythmic-freedom proposition.
+- Immediate transition: provisional PASS at `Eyes of the Wind → Overcome → It Never Made Sense`; liminal percussion into explicit shuffle and then the successor's already documented razor-cut 2-step is legible, while exact handoffs remain UNKNOWN.
+- Surrounding run: FAIL proportionally through `Migration → Eyes of the Wind → Overcome → It Never Made Sense → Nukumori`. The complete 5:43.500 shuffle crowds an escape passage that already forms a concise two-step object before its melodic flare.
+- Long-form effect: FAIL at this placement. *It Never Made Sense* retains the same sharpening-and-flaring task, so the insertion adds a second complete formation without demonstrated downstream change.
+- Verdict scope: rejected only at the tested placement. The exact track remains genuinely interesting and is retained in both discovery layers.
+
+#### 1C3Man — Inebriating — `spotify:track:6Ubs9ah3B6HjkLPqfdnpzl` — PLACEMENT-SPECIFIC REJECT
+
+Source: https://www.juno.co.uk/products/1c3man-gate-ep-vinyl/1124661-01/
+
+Spotify: https://open.spotify.com/track/6Ubs9ah3B6HjkLPqfdnpzl
+
+Exact resolver duration: 364,312 ms (6:04.312). BPM unavailable. Juno distinguishes the exact track through booming low end, glitchy motifs peeling away and a sense of pace.
+
+- Volume fit: PASS. The documented motif shedding is a valid structural-freedom proposition.
+- Immediate transition: provisional PASS at `Cave → Inebriating → Abundance`; motif shedding into the successor's already documented swung continuation is legible, while exact handoffs remain UNKNOWN.
+- Surrounding run: FAIL proportionally through `Egue into hs → Cave → Inebriating → Abundance → Foundry`. The candidate adds a complete motion state between widening and the existing continuation-to-instability hinge.
+- Long-form effect: FAIL at this placement. Neither *Abundance* nor *Foundry* receives materially different work, so the insertion lengthens an already articulated early formation.
+- Verdict scope: rejected only at the tested placement. The exact track remains genuinely interesting and is retained in both discovery layers.
+
+### Unselected and unresolved outcomes
+
+10CATE — *Haunted* (`spotify:track:2UPKFmfUc5uBDyYJwpADMb`) resolved exactly but remained an unselected alternate. It received no musical verdict and no utility retention.
+
+Five identities remain unresolved without musical verdict; each returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- 1DredFaces, Animate! — *Siarnac*
+- 10 000 BC — *Funchal*
+- 2601 — *Track 2*
+- 616 — *Shuttle Control*
+- 1Morning — *A Bastards Work Is Never Done*
+
+Warnings preserved exactly:
+
+- `Exact title/artist matched with release metadata variance: album requested "Tectonic Sound Part 3" but Spotify returned "Tectonic Sound"; release date requested "2025-08-12" but Spotify returned "2025-07-18"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-03-05" but Spotify returned "2026-03-06"`
+- `Exact title/artist matched with release metadata variance: album requested "The Further You Look The Less You Will See" but Spotify returned "The Further You Look - The Less You Will See"; release date requested "2008-08-01" but Spotify returned "2024-11-01"`
+- `Exact title/artist matched with release metadata variance: release date requested "2025-10-16" but Spotify returned "2025-10-03"`
+
+### Auditor decision
+
+APPROVED. The pre-audit selected EXPLORE, the request and matching snapshot are internally valid, and only the three selected exact identities were evaluated. The ADD passes volume, immediate-transition, exact five-track and long-form tests provisionally; both rejections are placement-specific and preserve their inspiration value. The exact alternate and unresolved identities receive no verdict or utility row. Canonical identity/order, annotation, rejection history, target-local inspiration state and three doctrine-free utility additions form one coherent durable change. Feedback boundaries and the protected `Transparency → When We Froze → Stardancer` order remain intact. No actionable REPAIR emerges.
+
+Run 265: `~98 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 1 ADD + 2 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion was 9.2%, resolution yield 44.4% and selected-candidate-to-ADD conversion 33.3%. Across completed discovery Runs 87–265, excluding repairs and failed requests: 1,260 leads / ~8,768 inspections / 50 ADDs / 365 selected candidates. Four of the last ten comparable runs contain an ADD. Audio analysis and live mixing were not tested.
+
 ## Repair Run 264 — 2026-09-15T04:48:44Z-repair-264
 
 Pre-audit found two objective state defects left by the already approved Run 263 addition of Taoyema — *Dark Necessity* (`spotify:track:2kSeffr4MXOwACEmwFPhGK`). The canonical table contained 62 exact identities, but the current-state headline still declared 61. The same new identity was absent from `journey-annotations.json`, so the generated map classified it as unmapped and emitted `Missing annotation for Taoyema — Dark Necessity; fallback role was used.`

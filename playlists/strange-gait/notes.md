@@ -1,5 +1,17 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 265 — EXPLORE — patterned change can prepare directional break
+
+Pre-audit passed and selected EXPLORE. Approximately 98 current-release, adjacent/emerging and overlooked-catalogue items produced nine fresh leads from nine releases. The matching schemaVersion 2 snapshot is PARTIAL: four exact identities, three selected candidates, one exact unselected alternate, five unresolved identities, four preserved metadata warnings and no technical failure.
+
+Omar S — *Tecky Alexander* is added between *Abundance* and *Foundry*. Juno distinguishes the exact track through jittery rhythms, poppy melodies and subtly shifting loops. In `Cave → Abundance → Tecky Alexander → Foundry → Worn Down`, that patterned internal change gives *Foundry* a specific object to destabilize before the threshold. The 7:12.448 duration is substantial, but it creates downstream consequence rather than merely lengthening the early passage.
+
+2562 — *Overcome* and 1C3Man — *Inebriating* pass the volume lens and remain genuinely interesting, but are rejected only at their tested placements. Each adds a complete intermediate rhythmic state without changing the successor's established work at surrounding-run or long-form scale. Their exact handoffs remain unknown. The exact unselected alternate and five unresolved identities receive no musical verdict or global utility row.
+
+STRANGE GAIT becomes 63 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 53–55. The doctrine-free global Discovery Pool becomes 513 tracks by retaining all three evaluated exact identities. No energy, density, space, hypnosis, emotional, phrase or mixability claim was inferred. No actionable REPAIR emerges.
+
+Run 265: `~98 inspected → 9 leads → 4 exact (3 selected + 1 alternate) + 5 unresolved → 3 evaluations → 1 ADD + 2 placement-specific REJECT → 3 utility additions`. Across completed discovery Runs 87–265, excluding repairs and failed requests: 1,260 leads / ~8,768 inspections / 50 ADDs / 365 selected candidates. Inspection-to-lead conversion was 9.2%, resolution yield 44.4% and selected-candidate-to-ADD conversion 33.3%. Four of the last ten comparable discovery runs contain an ADD. Audio analysis and live mixing were not tested.
+
 ## Repair Run 264 — restore Run 263 annotation and canonical count
 
 Pre-audit found that Run 263's approved canonical addition was present in the 62-row ledger but absent from `journey-annotations.json`, leaving Taoyema — *Dark Necessity* unmapped in the generated journey map. The ledger's current-state headline also still declared 61 canonical tracks.
