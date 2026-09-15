@@ -2,13 +2,13 @@
   "schemaVersion": 2,
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
-  "runId": "2026-09-15T23:58:00Z-explore-286",
-  "sourceCommit": "7c9b1786b748cda84198c1449ade30b31f4a5809",
+  "runId": "2026-09-15T23:59:00Z-explore-287",
+  "sourceCommit": "a739a5de66862569cb0316db5f2befe3fc91b413",
   "explorationReceipt": {
     "approximateInspectedScope": "Approximately 102 named tracks and releases across current Juno techno, minimal/tech-house and adjacent deep-house bestseller and new-release windows, catalogue represses, current label paths and the full canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no REPAIR is actionable.",
-      "Runs 284–285 failed before Spotify lookup because the Fulledge boundary first used the wrong URI and then omitted its mix suffix in placement prose; this new immutable request corrects both inputs under a new runId and preserves the same fresh scan.",
+      "Runs 284–286 failed before Spotify lookup because two placement URI values and one mix-suffixed neighbour name were invalid; this new immutable request corrects every adjacency against the current ledger under a new runId and preserves the same fresh scan.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved alternate, unresolved identity and repository-wide utility identity was excluded.",
       "Nine leads come from nine releases; no release supplies more than one lead.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
@@ -158,8 +158,8 @@
       "proposedPlacements": [
         {
           "position": "Between Jjochstubn and Rabbit Hole",
-          "precedingUri": "spotify:track:5czOId9bGxYFHoSxQoS1Qt",
-          "followingUri": "spotify:track:1rerqAaAJfqcI8ZAteo3Mg",
+          "precedingUri": "spotify:track:5czyvXZq06uxrrKVp28FTb",
+          "followingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
