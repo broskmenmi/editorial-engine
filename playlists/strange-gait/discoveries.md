@@ -45,7 +45,7 @@ APPROVED. Pre-audit lawfully selected EXPLORE; all eight ranked leads met the cu
 
 ### State, publication and map handling
 
-STRANGE GAIT remains 64 tracks. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 54–56. EDITORIAL ENGINE — DISCOVERY POOL becomes 522 tracks by appending *Norma*. Automatic publishing is enabled. At this editorial commit, the utility synchronization is pending GitHub Actions verification. STRANGE GAIT's unchanged receipt remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z; this is not a new live verification. Its unchanged generated map remains exact at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z.
+STRANGE GAIT remains 64 tracks. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous and internally exact at positions 54–56. EDITORIAL ENGINE — DISCOVERY POOL becomes 522 tracks by appending *Norma*. Automatic publishing is enabled. The utility synchronization is COMPLETE at 522/522 with exact membership, configured metadata and cover verified at 2026-09-15T12:10:50.545Z; its receipt matches editorial commit `f9c5da441c1b81cea42ab3e4dd56d05f115eb66e`. STRANGE GAIT's unchanged receipt remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z; this is not a new live verification. Its unchanged generated map remains exact at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z.
 
 ### Run analysis
 
