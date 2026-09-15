@@ -1,21 +1,16 @@
 {
-  "status": "COMPLETE",
-  "playlistId": "1a1HuQF55fFfVJS83qe4WV",
-  "playlistUrl": "https://open.spotify.com/playlist/1a1HuQF55fFfVJS83qe4WV",
-  "ledgerCommit": "2fce3a64c4882b7bd45dad6a0a34dedc7f2bebc7",
-  "ledgerFingerprint": "57799befed5f3c00e8430befb8aa61ddb5298027a281fd89086d3194ef08ae21",
-  "ledgerTrackCount": 543,
-  "spotifyTrackCount": 543,
-  "metadataVerified": true,
-  "metadataChecks": {
-    "nameMatch": true,
-    "descriptionMatch": true,
-    "privacyMatch": true
-  },
-  "coverConfigured": true,
-  "coverUploaded": true,
-  "coverPresent": true,
-  "verifiedAt": "2026-09-15T21:58:38.254Z",
-  "snapshotId": "AAADhHF2r0YQE315SFM/JdUpzt1Qtnb+",
-  "error": null
+  "status": "FAILED",
+  "playlistId": null,
+  "playlistUrl": null,
+  "ledgerCommit": "3e2549347593ddbf57f04f088235af575f3eac08",
+  "ledgerFingerprint": null,
+  "ledgerTrackCount": null,
+  "spotifyTrackCount": null,
+  "metadataVerified": false,
+  "coverConfigured": null,
+  "coverUploaded": false,
+  "coverPresent": false,
+  "verifiedAt": "2026-09-15T23:02:44.308Z",
+  "snapshotId": null,
+  "error": "Ledger contains a track row after table termination on row 551."
 }
