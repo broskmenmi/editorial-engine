@@ -3,6 +3,18 @@ Total output lines: 1226
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 292 — exact inspiration retained
+
+- DJ Carpenter — *Backhanders* — `spotify:track:2EeOkQxNAU2qchRrajkNqU` — exact 3:55.000 identity; canonical ADD between *Tides Alternate* and *Serpentine Tale* for its documented pad-to-elastic-synth trajectory and formed euphoric endpoint.
+- Kristin Velvet — *The Traveller* — `spotify:track:5OAWGwZyScwFzWWGK7BBee` — exact 2:49.804 identity; PARKED at `Sarniezz → candidate → Never Met` because shared two-track house framing does not establish individual development or endpoint.
+- Dan be — *Closer* — `spotify:track:1ncoNFSdfwxqPVqFX9bRye` — exact 5:11.804 identity; PARKED at `Crawl → candidate → IF U WANT 2` because old-school UK-garage framing does not establish individual development or endpoint.
+
+Four Spotify-SE misses remain research leads: Loddj & Davide Messina — *KIDS & GROOVE*; Not Charlie — *Servicio Social*; CAZ — *Smooth Tip*; S.K.A.T.I. — *Thirtythree*. Kaval — *Funky Vamp* and TOKiMONSTA — *Memory on the Run* remain exact unselected alternates without musical verdict or utility retention.
+
+Useful current and adjacent paths: Waveform Transmitter's current release coverage, DJ Carpenter / System Error, Kristin Velvet / Arms & Legs, Dan be / Time Is Now, Loddj / Davide Messina, Not Charlie, CAZ, S.K.A.T.I., Kaval and TOKiMONSTA.
+
+Set direction retained: a documented peak becomes structural when its exit makes the following reduction newly consequential; style-only propositions remain parked until their individual trajectory is known.
+
 ## Run 291 — exact inspiration retained
 
 - Bliss Inc — *Carousel* — `spotify:track:6cIDyrqWG1bbXRIX8UfJbD` — exact 6:21.818 identity; placement-specific reject at `Migration → candidate → Eyes of the Wind`, retained for its documented ticklish, bubbling circulation.

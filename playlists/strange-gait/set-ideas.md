@@ -3,6 +3,22 @@ Total output lines: 1901
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 292
+
+### A formed summit creates a consequential reduction
+
+**Direction:** Test concise peaks by whether their documented endpoint gives the following reduction a new structural task, while parking style-only propositions whose individual exit remains unknown.
+
+**Ingredients:**
+
+- *Hypnic Jerks* → *Tides Alternate* → DJ Carpenter — *Backhanders* → *Serpentine Tale* → *Too Much Time* — ADD; the documented pad-to-elastic-synth trajectory reaches a formed peak that makes the successor a deliberate coiling reduction before renewed widening
+- *Capa* → *Sarniezz* → Kristin Velvet — *The Traveller* → *Never Met* → *Trompe L'oeil* — PARKED; exact two-track house framing does not establish the title track's individual trajectory or exit
+- *Ingress* → *Crawl* → Dan be — *Closer* → *IF U WANT 2* → *Fulledge (Empty-40 Mix)* — PARKED; exact-single UK-garage framing does not establish whether the candidate redirects or prolongs the plateau
+- Loddj & Davide Messina, Not Charlie, CAZ and S.K.A.T.I. — unresolved exact-title research directions without musical verdict
+- preserve `Transparency → When We Froze → Stardancer` as a listener-protected internal block
+
+**Working principle:** A peak earns space when its endpoint gives the successor a newly legible reduction; a style label cannot supply that consequence.
+
 ## Current additions — Run 291
 
 ### Playful circulation is not yet directional consequence

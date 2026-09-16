@@ -3,6 +3,62 @@ Total output lines: 2384
 
 # STRANGE GAIT — Discoveries
 
+## Run 292 — 2026-09-16T04:48:40Z-explore-292
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `b2c4e14a8ec7ce34dee69cb6aba366a292dffd65`, requestFingerprint `e4714658a5cbf6a70bc750f266d0467ec326c6ab25f4e3a941898e4348284728`, generated 2026-09-16T04:56:19.612Z, PARTIAL. Immutable request commit `29f563ab6e5eaf38677dd125cf69c90e8e5127ad`; resolver workflow `35057524930`; terminal snapshot commit `4491e59a9e77ba29715ca6aaca4b0039094254f4`. Requested 9; resolved 5; selected 3; two exact unselected alternates; four unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+The exact intended request bytes passed `validate-proposed-placements.js` against the current canonical ledger before the immutable commit.
+
+### DJ Carpenter — Backhanders — `spotify:track:2EeOkQxNAU2qchRrajkNqU` — ADD
+
+Exact Spotify duration 235,000 ms; Spotify album *Off The Books*, release date 2026-09-10. [Waveform Transmitter](https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books), checked 2026-09-16, describes the exact track's movement from soaring trance pads into rubber-band synths and a euphoric peak.
+
+- Volume fit: PASS. The documented trajectory offers a concise formed summit inside the ground chapter without becoming a genre or purity test.
+- Immediate transition: provisional PASS at `Tides Alternate → Backhanders → Serpentine Tale`. Exact handoffs and phrasing are unknown, but the documented endpoint makes the successor's coiling reduction structurally legible.
+- Five-track consequence: provisional PASS through `Hypnic Jerks → Tides Alternate → Backhanders → Serpentine Tale → Too Much Time`. Acceleration crisis resolves into opposed-speed balance, the candidate forms a peak, *Serpentine Tale* reduces it and *Too Much Time* widens again.
+- Long-form effect: provisional PASS. The 3:55.000 insertion creates a crest-and-reduction relation rather than another complete intermediate destination; it changes the successor's work and does not disturb either protected handoff.
+- Unknowns: exact entry and exit, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+- Verdict: ADD between *Tides Alternate* and *Serpentine Tale*.
+
+### Kristin Velvet — The Traveller — `spotify:track:5OAWGwZyScwFzWWGK7BBee` — PARKED
+
+Exact Spotify duration 169,804 ms; Spotify album *The Traveller / Joy*, release date 2026-09-11. [Waveform Transmitter](https://www.waveformtransmitter.com/p/kristin-velvet-traveller-joy), checked 2026-09-16, identifies the release's two house tracks but does not distinguish this track's individual materials, development or endpoint.
+
+- Volume fit: provisional PASS. A concise house proposition is lawful in the volume.
+- Immediate transition: UNKNOWN at `Sarniezz → The Traveller → Never Met`.
+- Five-track consequence: UNKNOWN through `Capa → Sarniezz → The Traveller → Never Met → Trompe L'oeil`.
+- Long-form effect: UNKNOWN. Exact identity and short duration do not establish a consequential exit.
+- Verdict: PARKED pending materially richer individual trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Dan be — Closer — `spotify:track:1ncoNFSdfwxqPVqFX9bRye` — PARKED
+
+Exact Spotify duration 311,804 ms; Spotify album *Closer*, release date 2026-08-07. [Waveform Transmitter](https://www.waveformtransmitter.com/p/dan-be-closer), checked 2026-09-16, calls the exact single an old-school UK garage bumper but does not establish its individual development or endpoint.
+
+- Volume fit: provisional PASS. The stated rhythmic vocabulary is a lawful proposition for the volume.
+- Immediate transition: UNKNOWN at `Crawl → Closer → IF U WANT 2`.
+- Five-track consequence: UNKNOWN through `Ingress → Crawl → Closer → IF U WANT 2 → Fulledge (Empty-40 Mix)`.
+- Long-form effect: UNKNOWN. Style framing alone cannot show whether the candidate redirects the sustained-motion plateau or merely extends it.
+- Verdict: PARKED pending materially richer individual trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+### Exact unselected alternates — no musical verdict
+
+- Kaval — *Funky Vamp* — `spotify:track:0KxneLxIIx3r8SdNmjMy26`
+- TOKiMONSTA — *Memory on the Run* — `spotify:track:0c6VeRgmmFBN46EFDwsG41`
+
+These identities were not selected for editorial evaluation and receive no utility retention.
+
+### Resolver warnings preserved exactly
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-13" but Spotify returned "2026-09-10"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-13" but Spotify returned "2026-09-11"`
+
+### Unresolved identities — no musical verdict
+
+- Loddj & Davide Messina — *KIDS & GROOVE*: `no exact Spotify title/artist search match in market SE`
+- Not Charlie — *Servicio Social*: `no exact Spotify title/artist search match in market SE`
+- CAZ — *Smooth Tip*: `no exact Spotify title/artist search match in market SE`
+- S.K.A.T.I. — *Thirtythree*: `no exact Spotify title/artist search match in market SE`
+
 ## Run 291 — 2026-09-16T03:52:36Z-explore-291
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `ba5127792b0deca3a39f5ec50181ce0265288f5a`, requestFingerprint `72e9bfdd34a6c5490dffa8edae0090ce208912c6d0eb16b96c8d099ba9830e3c`, generated 2026-09-16T04:00:47.361Z, PARTIAL. Immutable request commit `51a4481fbf7776b9d5c24dceeb69e73974a35f40`; resolver workflow `35053935103`; terminal snapshot commit `acedbef7ad0dbaf99e7a12e2d739be19e41b3108`. Requested 9; resolved 1; selected 1; no alternates; eight unresolved; one metadata-variance warning; no duplicates, substitutions, relinkings or terminal technical failure.
