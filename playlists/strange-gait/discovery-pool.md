@@ -3,6 +3,17 @@ Total output lines: 1226
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 294 — exact inspiration retained
+
+- Dopplereffekt — *Olbers Paradox* — `spotify:track:2e9qArVMTQlN1hk9Iltj4a` — exact 4:59.264 identity; placement-specific reject at `Trompe L'oeil → candidate → FELT`, retained for its documented opening into melancholic astral scenery.
+- P Lastozi — *Desperado* — `spotify:track:18OozJQ3pV43qB6DWhAfOw` — exact 5:44.000 identity; placement-specific reject at `Drummz → candidate → Té de Cabello Blanco`, retained for its documented rise, fall-away and return to full stride.
+
+Seven Spotify-SE misses remain research leads: Konduku — *Kastanje*; Dimensional Holofonic Sound — *From Outerspace*; Stephen Brown — *Move It*; PS11 — *Mid Point*; Terry Francis — *Love Tiger*; Mathoyizi — *Gamer*; Mrkiick — *911*.
+
+Useful current and adjacent paths: Juno's current techno windows, Bandcamp Daily's September 15 gqom report, VALA / Konduku, DHS / Tino Corp, Stephen Brown / Stepback, PS11 / Downside Up, Terry Francis / Sushitech, Dopplereffekt / Tresor, P Lastozi, Mathoyizi / Unticipated Soundz and Mrkiick.
+
+Set direction retained: an opened-out scene or complete return becomes structural only when its exit changes the successor's work.
+
 ## Run 293 — exact inspiration retained
 
 - Luke Alessi — *Dr Bongo* — `spotify:track:7FB8G0UrQEsQSgGv5lLiec` — exact 3:46.648 identity; placement-specific reject at `Amor → candidate → Baghdad`, retained for its documented fluttering hand-drum patterns and rolling groove science.

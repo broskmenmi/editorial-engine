@@ -3,6 +3,21 @@ Total output lines: 1901
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 294
+
+### A complete intermediate return is not downstream change
+
+**Direction:** Test opened-out scenes and rise/fall/return trajectories by the condition their exit leaves for the successor, not by material vividness alone.
+
+**Ingredients:**
+
+- *Never Met* → *Trompe L'oeil* → Dopplereffekt — *Olbers Paradox* → *FELT* → *Goink* — placement-specific REJECT; the astral scene lengthens reset-to-formation without changing formation or fragmentation
+- *Dark Necessity* → *Drummz* → P Lastozi — *Desperado* → *Té de Cabello Blanco* → *Ikoyi* — placement-specific REJECT; a complete fall-away-to-full-stride return over-articulates the existing instability-to-reassembly-to-dissolution passage
+- Konduku, Dimensional Holofonic Sound, Stephen Brown, PS11, Terry Francis, Mathoyizi and Mrkiick — unresolved exact-title research directions without musical verdict
+- preserve `Transparency → When We Froze → Stardancer` as a listener-protected internal block
+
+**Working principle:** A complete intermediate return matters only when its exit changes what follows.
+
 ## Current additions — Run 293
 
 ### Formed material is not changed consequence

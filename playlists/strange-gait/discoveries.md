@@ -3,6 +3,55 @@ Total output lines: 2384
 
 # STRANGE GAIT — Discoveries
 
+## Run 294 — 2026-09-16T06:58:45Z-explore-294
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `8ce108940829d3b0c4e90db1e0a6d0024edf5178`, requestFingerprint `4c42d174c77ea5ba49ff21a254952c5a026f13eff36edf10237817deec528bc5`, generated 2026-09-16T07:04:34.092Z, PARTIAL. Immutable request commit `f001138ccad86102817da74d42bc69ae1e010b93`; terminal snapshot commit `02a8b1ece7303fb809dfd9e4c9223a053ac018a2`. Requested 9; resolved 2; selected 2; no exact unselected alternates; seven unresolved; one metadata-variance warning; no duplicates, substitutions, relinkings or terminal technical failure.
+
+The exact intended request bytes passed `validate-proposed-placements.js` against the current canonical ledger before the immutable commit.
+
+### Dopplereffekt — Olbers Paradox — `spotify:track:2e9qArVMTQlN1hk9Iltj4a` — placement-specific REJECT
+
+Exact Spotify duration 299,264 ms; Spotify album *Metasymmetry*, release date 2025-12-12. [Boomkat](https://boomkat.com/products/metasymmetry), checked 2026-09-16, describes the exact track as wide-eyed astral projection opening into beautifully melancholic scenery, like an alien ensemble in a Martian cathedral; the [artist-hosted page](https://dopplereffekt.bandcamp.com/album/metasymmetry) verifies the exact identity.
+
+- Volume fit: PASS. The opened-out electro/ambient proposition lawfully changes production world.
+- Immediate transition: UNKNOWN at `Trompe L'oeil → Olbers Paradox → FELT`; neither handoff nor phrasing was heard or documented.
+- Five-track consequence: FAIL proportionally through `Never Met → Trompe L'oeil → Olbers Paradox → FELT → Goink`. The candidate supplies another complete scene after the dubwise reset without changing *FELT*'s rolling-formation task or *Goink*'s following fragmentation.
+- Long-form effect: FAIL at this placement. The 4:59.264 insertion lengthens reset-to-formation without a new downstream consequence.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact endpoint, both handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### P Lastozi — Desperado — `spotify:track:18OozJQ3pV43qB6DWhAfOw` — placement-specific REJECT
+
+Exact Spotify duration 344,000 ms; Spotify album *Sub Defaulter*, release date 2026-06-21. [Bandcamp Daily](https://daily.bandcamp.com/scene-report/gqom-album-guide), checked 2026-09-16, documents rising electric melodies, rough bass and sharp snares, a middle fall-away into lead melody and choral vocals, and a return to full stride with stuttering kicks and bass. The [artist-hosted page](https://plastozi2.bandcamp.com/album/lunatic) lists the title in *Lunatic*.
+
+- Volume fit: PASS. The documented iSqinsi trajectory offers genuine rhythmic mutation and internal contrast.
+- Immediate transition: UNKNOWN at `Drummz → Desperado → Té de Cabello Blanco`; neither handoff nor phrase relation was heard.
+- Five-track consequence: FAIL proportionally through `Dark Necessity → Drummz → Desperado → Té de Cabello Blanco → Ikoyi`. The candidate completes its own fall-away-to-full-stride return between the unpredictable-rhythm hinge and the successor's existing agitation-to-reassembly false stability.
+- Long-form effect: FAIL at this placement. A full intermediate return makes the passage richer but does not change *Té de Cabello Blanco*'s task or *Ikoyi*'s following dissolution.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact handoffs, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+- Resolver warning: `Exact title/artist matched with release metadata variance: album requested "Lunatic" but Spotify returned "Sub Defaulter"; release date requested "2026-06-13" but Spotify returned "2026-06-21"`
+
+### Unresolved identities — no musical verdict
+
+- Konduku — *Kastanje*: `no exact Spotify title/artist search match in market SE`
+- Dimensional Holofonic Sound — *From Outerspace*: `no exact Spotify title/artist search match in market SE`
+- Stephen Brown — *Move It*: `no exact Spotify title/artist search match in market SE`
+- PS11 — *Mid Point*: `no exact Spotify title/artist search match in market SE`
+- Terry Francis — *Love Tiger*: `no exact Spotify title/artist search match in market SE`
+- Mathoyizi — *Gamer*: `no exact Spotify title/artist search match in market SE`
+- Mrkiick — *911*: `no exact Spotify title/artist search match in market SE`
+
+### Workflow health
+
+The pre-commit placement guard passed the Run 294 request, and one immutable request reached a successful terminal snapshot. Seven of nine identities were unavailable in Spotify market SE. Both selected exact identities had individual track-specific evidence, and both failed only where a complete intermediate scene or return did not change the successor. No shared-release PARK recurrence, repetitive placement search or lifecycle defect is reproduced, so no actionable process repair emerges.
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; approximately 109 inspected items produced nine fresh leads from nine releases, prior identities were excluded, recent boundaries were avoided and the validated request matches the terminal snapshot. Only the two selected exact identities were evaluated at volume, immediate-transition, five-track and long-form scales. Both rejections are placement-specific, evidence-bound and proportional. Unresolved identities receive no musical verdict, both protected internal handoffs remain untouched, the global utility retention rule is followed and no metadata-only sonic claim was made.
+
+Audio analysis and live mixing were not tested.
+
 ## Run 293 — 2026-09-16T05:57:38Z-explore-293
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `36a955a12eefc69a50fa71edebc50413f474006d`, requestFingerprint `1ea396f46dcf55f33fada8b943073566b8f3bf8bf3f14426a0f4d664d0e77d07`, generated 2026-09-16T06:00:52.396Z, PARTIAL. Immutable request commit `95fd2ef32778991558fa09106e5f00a908b842ce`; terminal snapshot commit `241cb35c9ff0a06a4da7b9798a9d13e2b8664399`. Requested 9; resolved 3; selected 3; no exact unselected alternates; six unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
