@@ -1,5 +1,20 @@
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 289
+
+### Material identity still needs a consequential exit
+
+**Direction:** Test long pressure, scarred-delay and vocal-dub states by successor consequence rather than admitting them for vivid material identity alone.
+
+**Ingredients:**
+
+- Sarniezz → *Never Met* → Bruno Pronsato, Richard Rozen — *Sue Can Wait* → *Trompe L'oeil* → *FELT* — PARKED; shared release framing cannot establish the candidate's individual trajectory or exit
+- *Pulse I* → *Roxellana* → Hiss Is Bliss — *Euterpe* → *backsliding* → *Silent Tension* — PARKED; a scarred delay field is documented, but whether *backsliding* ruptures or merely continues it remains unknown
+- *When We Froze* → *Stardancer* → Deadbeat, Paul St. Hilaire — *Dopa* → *Migration* → *Eyes of the Wind* — placement-specific REJECT; vocal-dub suspension does not demonstrably change the existing piano-to-break pivot
+- preserve `Transparency → When We Froze → Stardancer` as a listener-protected internal block
+
+**Working principle:** A vivid intermediate state becomes structural only when its exit changes the successor's work.
+
 ## Current additions — Run 287
 
 ### Formation is not changed consequence

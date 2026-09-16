@@ -1,5 +1,17 @@
 # STRANGE GAIT — Discovery Pool
 
+## Run 289 — exact inspiration retained
+
+- Bruno Pronsato, Richard Rozen — *Sue Can Wait* — `spotify:track:72Tyvf2OWEe2z9kZMJ1wJn` — exact 8:31.789 identity; PARKED at `Never Met → candidate → Trompe L'oeil` because shared two-track pressure framing does not establish individual development, endpoint or consequential exit.
+- Hiss Is Bliss — *Euterpe* — `spotify:track:4thrXF2mVFR7Oy75NnxvQn` — exact 7:16.999 identity; PARKED at `Roxellana → candidate → backsliding` because the documented scarred delay field lacks development and endpoint evidence needed to distinguish rupture from prolonged dissolution.
+- Deadbeat, Paul St. Hilaire — *Dopa* — `spotify:track:34KGNYp4XBzmYft3HHMaKC` — exact 5:35.153 identity; placement-specific reject at `Stardancer → candidate → Migration`, retained for its spacious roots-vocal dub construction and half-/double-time ambiguity.
+
+Six Spotify-SE misses remain research leads: Shonky — *Centro Sociale*; Yansima — *Catchplay*; Tywi — *Off Axis*; Ilario Liburni — *What Is Time Travel*; The Dining Rooms — *On & On - Futureslowdubdisco Remix*; The Trip — *Body Talk*.
+
+Useful current and adjacent paths: Shonky's official release catalogue, Logistic Records / Bruno Pronsato, Yansima, Tywi, Ilario Liburni, Hiss Is Bliss, The Dining Rooms, The Trip and Deadbeat / Paul St. Hilaire.
+
+Set direction retained: distinct pressure, scarred-delay and vocal-dub states become structural only when their exit changes the successor's work.
+
 ## Run 287 — exact inspiration retained
 
 - Lenson — *Paladin* — `spotify:track:7o4AjVpGYE1o0cwE54d0IS` — exact 5:43.992 identity; PARKED at `Tecky Alexander → candidate → Foundry` because release-side framing does not establish individual development or endpoint.

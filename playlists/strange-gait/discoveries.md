@@ -1,5 +1,71 @@
 # STRANGE GAIT — Discoveries
 
+## Run 289 — 2026-09-16T01:50:55Z-explore-289
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `6f2b843e60898917cbdb0575ec03068a75e322d7`, requestFingerprint `f94b9bdf981630a9db855c5d4021b997c132bfb1b8ca1eb378039c3a07f7acc2`, generated 2026-09-16T01:56:57.753Z, PARTIAL. Immutable request commit `332846b85b3f02a935a8651594d8ab6df002e3ff`; resolver workflow `35046052159`; terminal snapshot commit `bcb34a5539ea70d2a2fe6610b376c136bf82cbd4`. Requested 9; resolved 3; selected 3; no alternates; six unresolved; three metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.
+
+The exact intended request bytes passed `validate-proposed-placements.js` against the current canonical ledger before the immutable commit.
+
+### Bruno Pronsato, Richard Rozen — Sue Can Wait — `spotify:track:72Tyvf2OWEe2z9kZMJ1wJn` — PARKED
+
+Exact Spotify duration 511,789 ms; Spotify album *EP2*, release date 2026-06-12. [Logistic Records' official page](https://logistic-records.bandcamp.com/album/ep2), checked 2026-09-16, frames the two-track release as raw, analog-driven, stripped-back and pressure-filled minimalist techno.
+
+- Volume fit: provisional PASS. The long concentrated pressure proposition is constitution-relevant.
+- Immediate transition: UNKNOWN at `Never Met → Sue Can Wait → Trompe L'oeil`; neither handoff, exact development, endpoint nor phrasing was heard or individually documented.
+- Five-track consequence: UNKNOWN through `Sarniezz → Never Met → Sue Can Wait → Trompe L'oeil → FELT`. Shared two-track framing cannot show whether the candidate forms a useful pressure state for *Trompe L'oeil* to reset or only lengthens the existing passage.
+- Long-form effect: UNKNOWN. At 8:31.789 the proportional cost is substantial, and individual trajectory/exit evidence is decision-critical.
+- Verdict: PARKED. Reopen only for materially richer exact-track trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Hiss Is Bliss — Euterpe — `spotify:track:4thrXF2mVFR7Oy75NnxvQn` — PARKED
+
+Exact Spotify duration 436,999 ms; Spotify album *Terpenes EP (Incl. Steve O'Sullivan Remix)*, release date 2026-06-12. [Juno](https://www.juno.co.uk/products/hiss-is-bliss-terpenes-ep-vinyl/1146754-01/), checked 2026-09-16, describes the exact track as comparatively numb yet compelling, built from scarring, swirling delays.
+
+- Volume fit: provisional PASS. The exact material state is distinct and constitution-relevant.
+- Immediate transition: UNKNOWN at `Roxellana → Euterpe → backsliding`; neither handoff, later development, endpoint nor phrasing was heard or documented.
+- Five-track consequence: UNKNOWN through `Pulse I → Roxellana → Euterpe → backsliding → Silent Tension`. The scarred field could give *backsliding* a formed object to rupture, or could merely prolong the current dissolution.
+- Long-form effect: UNKNOWN. Exact individual material is known, but trajectory and exit remain decision-critical for a 7:16.999 insertion.
+- Verdict: PARKED. Reopen only for materially richer exact-track trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+- Unknown: BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Deadbeat, Paul St. Hilaire — Dopa — `spotify:track:34KGNYp4XBzmYft3HHMaKC` — placement-specific REJECT
+
+Exact Spotify duration 335,153 ms; Spotify album *The Infinity Dub Sessions*, release date 2014-03-03. [Juno](https://www.juno.co.uk/products/deadbeat-paul-st-the-infinity-dub-sessions-2026-vinyl/1135910-01/), checked 2026-09-16, places the exact track among spacious, delay-soaked constructions with roots-inflected vocals that hold half- and double-time in productive ambiguity.
+
+- Volume fit: PASS.
+- Immediate transition: UNKNOWN at `Stardancer → Dopa → Migration`; neither handoff, exact endpoint nor phrasing was heard or documented.
+- Five-track consequence: FAIL proportionally through `When We Froze → Stardancer → Dopa → Migration → Eyes of the Wind`. The candidate adds a complete vocal-dub suspension after the protected block without evidence that its exit changes *Migration*'s existing piano-to-break pivot.
+- Long-form effect: FAIL at this placement. The half-/double-time ambiguity is a vivid state, but no available evidence shows a changed successor task or a stronger liminal passage.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase structure and mixability.
+
+### Unresolved identities
+
+Each receives no musical verdict and returned exactly `no exact Spotify title/artist search match in market SE`:
+
+- Shonky — *Centro Sociale*
+- Yansima — *Catchplay*
+- Tywi — *Off Axis*
+- Ilario Liburni — *What Is Time Travel*
+- The Dining Rooms — *On & On - Futureslowdubdisco Remix*
+- The Trip — *Body Talk*
+
+### Resolver warnings
+
+- `Exact title/artist matched with release metadata variance: release date requested "2026-09-07" but Spotify returned "2026-06-12"`
+- `Exact title/artist matched with release metadata variance: album requested "Terpenes EP" but Spotify returned "Terpenes EP (Incl. Steve O'Sullivan Remix)"`
+- `Exact title/artist matched with release metadata variance: release date requested "2026-06-22" but Spotify returned "2014-03-03"`
+
+### Workflow health
+
+Run 288's pre-commit guard passed the exact intended Run 289 request on its first ordinary use. One immutable request reached a successful terminal snapshot without the neighbour-name/URI transcription failures seen in Runs 284–286. Resolver loss remains material at six of nine identities, so this run is not evidence of playlist completion and creates no further actionable repair by itself.
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; all nine leads came from different releases, prior persistent identities were excluded and the validated immutable request matches the terminal snapshot. Only the three selected exact identities were evaluated across volume fit, immediate transition, surrounding run and long-form effect. Both PARKED verdicts preserve decision-critical trajectory and endpoint unknowns; the rejection is placement-specific; unresolved identities receive no musical verdict; no metadata-only BPM, energy or mixability claim was made; and the protected internal handoffs remain untouched.
+
+Audio analysis and live mixing were not tested.
+
 ## Run 287 — 2026-09-15T23:59:00Z-explore-287
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `a739a5de66862569cb0316db5f2befe3fc91b413`, requestFingerprint `dc965cf6b73a8197e4d2f8b450c5ed94f2181dd8bb4b172cebf3377ca41996ea`, generated 2026-09-15T23:58:58.527Z, PARTIAL. Immutable request commit `bab1258b359b8b49eab85b2b8e197aed4dff5737`; resolver workflow `35037997992`; terminal snapshot commit `c56bc8f6345896a764dfa10480c5f5e5111cf56c`. Requested 9; resolved 4; selected 3; one unselected exact alternate; five unresolved; four metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.

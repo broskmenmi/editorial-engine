@@ -1,5 +1,37 @@
 # STRANGE GAIT — Editorial Notes
 
+## Run 289 — EXPLORE — material identity still needs a consequential exit
+
+Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, COMPLETE Spotify receipts for STRANGE GAIT (64/64) and the global Discovery Pool (547/547), the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. Run 288 had closed the only actionable workflow-health defect, and no objective, listener-authorized or revisit repair remained. The lane was therefore EXPLORE.
+
+Run `2026-09-16T01:50:55Z-explore-289` inspected approximately 98 named tracks and releases across official Bandcamp pages, current Juno techno/minimal/dub and adjacent dance windows, recent label catalogues, overlooked 2025–2026 material and the full 64-track boundary map. Nine fresh leads came from nine releases, excluded all durable prior identities and avoided boundaries used in the previous five completed discovery runs. The exact intended request bytes passed the new credential-free placement validator before their immutable commit:
+
+`Validated 9 proposed placements across 9 leads for 2026-09-16T01:50:55Z-explore-289`
+
+The immutable schemaVersion 2 request was committed at `332846b85b3f02a935a8651594d8ab6df002e3ff`. Resolver workflow `35046052159` succeeded and persisted a matching PARTIAL terminal snapshot at `bcb34a5539ea70d2a2fe6610b376c136bf82cbd4`: nine requested, three exact resolutions, three selected candidates and six unresolved identities. There were three metadata-variance warnings and no alternates, duplicates, substitutions, relinkings or terminal technical failure. Request fingerprint: `f94b9bdf981630a9db855c5d4021b997c132bfb1b8ca1eb378039c3a07f7acc2`; snapshot generated 2026-09-16T01:56:57.753Z from source commit `6f2b843e60898917cbdb0575ec03068a75e322d7`.
+
+Bruno Pronsato, Richard Rozen — *Sue Can Wait* (`spotify:track:72Tyvf2OWEe2z9kZMJ1wJn`, 8:31.789) is PARKED at `Never Met → candidate → Trompe L'oeil`. The official EP framing establishes raw, analog-driven, stripped-back pressure and the exact identity passes the volume lens, but shared two-track prose cannot establish this title's individual development, endpoint, either handoff, five-track consequence through `Sarniezz → Never Met → Sue Can Wait → Trompe L'oeil → FELT`, or long-form gain. Reopen only for materially richer exact-track trajectory or endpoint evidence, lawful audio evidence, changed journey need or explicit listener evidence.
+
+Hiss Is Bliss — *Euterpe* (`spotify:track:4thrXF2mVFR7Oy75NnxvQn`, 7:16.999) is PARKED at `Roxellana → candidate → backsliding`. Juno's exact-track description identifies a numb, scarred field of swirling delays, so the proposition is more specific than generic dub-techno compatibility. Its development, endpoint and both handoffs remain undocumented, however. The five-track run `Pulse I → Roxellana → Euterpe → backsliding → Silent Tension` could either give *backsliding* a formed field to rupture or merely prolong dissolution; immediate, surrounding-run and long-form consequence therefore remain unknown. Reopen under the same materially new evidence conditions.
+
+Deadbeat, Paul St. Hilaire — *Dopa* (`spotify:track:34KGNYp4XBzmYft3HHMaKC`, 5:35.153) is rejected only at `Stardancer → candidate → Migration`. Its documented spacious, delay-soaked, roots-vocal construction and half-/double-time ambiguity pass the volume lens and remain genuinely interesting. Immediate handoffs are unknown. The five-track context `When We Froze → Stardancer → Dopa → Migration → Eyes of the Wind` fails proportionally at this placement: the candidate adds a complete vocal-dub suspension after the listener-protected block without evidence that its exit changes *Migration*'s existing piano-to-break pivot or the following liminal passage. This is not a global rejection, and neither protected handoff is split.
+
+Six identities remain unresolved without musical verdict; each returned exactly `no exact Spotify title/artist search match in market SE`: Shonky — *Centro Sociale*; Yansima — *Catchplay*; Tywi — *Off Axis*; Ilario Liburni — *What Is Time Travel*; The Dining Rooms — *On & On - Futureslowdubdisco Remix*; The Trip — *Body Talk*.
+
+Resolver warnings are preserved exactly in `discoveries.md`: Spotify returned 2026-06-12 for *Sue Can Wait*'s requested 2026-09-07; *Terpenes EP (Incl. Steve O'Sullivan Remix)* for *Euterpe*'s requested *Terpenes EP*; and 2014-03-03 for *Dopa*'s requested 2026-06-22 reissue date.
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. Canonical publication inputs and journey annotations did not change, so the existing map remains current at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z with both protected handoffs present and 46 unavailable BPM values explicit. Target Spotify verification remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z; this is not a new live target verification. Three evaluated exact identities were appended to the global Discovery Pool, advancing it 547 → 550 rows.
+
+__RUN289_PUBLICATION__
+
+Workflow health: `~98 inspected → 9 leads → 3 exact selected + 6 unresolved → 3 evaluations → 0 ADD + 2 PARKED + 1 placement-specific REJECT → 3 utility additions`. Inspection-to-lead conversion is 9.2%; resolution yield is 33.3%; selected-candidate-to-ADD conversion is 0/3. Across completed discovery Runs 87–289, excluding repairs and failed requests, totals are 1,399 leads from approximately 10,424 inspections and 51 ADDs from 402 selected candidates. None of the last ten comparable runs contains an ADD. The musical no-ADD streak is 13 completed discovery runs after Run 270, with 29 exact interesting tracks retained since that ADD.
+
+The scan does not establish playlist maturity. Resolver loss remains material, and the three exact tracks received differentiated verdicts rather than a repeated generic outcome. Run 288's guard worked on its first ordinary use: one locally validated immutable request completed without the neighbour-name/URI transcription failures seen in Runs 284–286. No further actionable process repair emerges.
+
+Auditor: APPROVED. EXPLORE was lawfully selected; research was broad, nine releases supplied nine leads, prior persistent identities were excluded, and the immutable request/snapshot pair is internally valid. Only selected exact identities were evaluated; the PARKED verdicts preserve decision-critical unknowns, the rejection is placement-specific, unresolved identities receive no musical verdict, both protected handoffs remain intact, and no metadata-only energy, BPM or mixability claim was made.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 288 — REPAIR — validate placement drafts before immutable request commits
 
 Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, COMPLETE Spotify receipts for STRANGE GAIT (64/64) and the global Discovery Pool (547/547), the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. Run 287's Auditor-confirmed workflow finding was actionable: three consecutive request-construction attempts failed only after their immutable commits because neighbour names or URIs were transcribed incorrectly. The lane was therefore REPAIR.
