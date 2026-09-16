@@ -1,32 +1,32 @@
 {
   "schemaVersion": 2,
-  "requestFingerprint": "e4714658a5cbf6a70bc750f266d0467ec326c6ab25f4e3a941898e4348284728",
-  "generatedAt": "2026-09-16T04:56:19.612Z",
-  "runId": "2026-09-16T04:48:40Z-explore-292",
-  "sourceCommit": "b2c4e14a8ec7ce34dee69cb6aba366a292dffd65",
+  "requestFingerprint": "1ea396f46dcf55f33fada8b943073566b8f3bf8bf3f14426a0f4d664d0e77d07",
+  "generatedAt": "2026-09-16T06:00:52.396Z",
+  "runId": "2026-09-16T05:57:38Z-explore-293",
+  "sourceCommit": "36a955a12eefc69a50fa71edebc50413f474006d",
   "mode": "EXPLORE",
   "target": "playlists/strange-gait",
   "explorationReceipt": {
-    "approximateInspectedScope": "Approximately 106 named tracks and releases across current Waveform Transmitter, Juno, Boomkat and Bandcamp windows, current and adjacent house, UKG, electro, acid and techno catalogues, overlooked 2026 material and the full 64-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
+    "approximateInspectedScope": "Approximately 103 named tracks and releases across the current Juno techno bestseller and new-release windows, current Waveform Transmitter recommendations, Boomkat catalogue windows, adjacent electro, house and dub-techno paths, overlooked Detroit and early-2000s catalogue material, and the full 65-track canonical boundary map. Written attributed descriptions and exact listings only; no audio audition.",
     "exclusions": [
       "All required canonical, discussion, revisit, history, map and publication state passed pre-audit; no objective, listener-authorized, revisit or workflow-health REPAIR is actionable.",
       "Every canonical, previously evaluated, PARKED, placement-specific REJECT, preserved exact alternate, unresolved exact identity and repository-wide utility identity was excluded; same-title tracks by different artists were not conflated.",
       "Nine leads come from nine releases; no release supplies more than one lead and no shared release framing is used to select multiple titles.",
       "Planned boundaries avoid those evaluated in the previous five completed discovery runs.",
-      "Current-release scanning is balanced with adjacent house, UKG, electro and overlooked catalogue material rather than treated as a recency quota.",
-      "Retailer, label and magazine prose is attributed rather than measured; identity, duration and all other musical dimensions require resolver or lawful evidence.",
+      "Current-release scanning is balanced with adjacent electro and house plus overlooked Detroit and early-2000s catalogue material rather than treated as a recency quota.",
+      "Retailer, artist-hosted and label prose is attributed rather than measured; identity, duration and all other musical dimensions require resolver or lawful evidence.",
       "Neither listener-protected internal handoff is split."
     ],
     "rankedLeadSummary": [
-      "1. Loddj & Davide Messina — KIDS & GROOVE",
-      "2. DJ Carpenter — Backhanders",
-      "3. Not Charlie — Servicio Social",
-      "4. CAZ — Smooth Tip",
-      "5. Kristin Velvet — The Traveller",
-      "6. Dan be — Closer",
-      "7. S.K.A.T.I. — Thirtythree",
-      "8. Kaval — Funky Vamp",
-      "9. TOKiMONSTA — Memory On The Run"
+      "1. Model 500 — IDLE",
+      "2. Thor & Luke Hess — Induction",
+      "3. Luke Alessi — Dr Bongo",
+      "4. K Alexi Shelby — House Music De Chicago",
+      "5. Mark Ambrose — Reflections",
+      "6. Underground Resistance — Midnight Sunshine",
+      "7. Galaxy 2 Galaxy — Astral Apache",
+      "8. Black Meteoric Star — 5am Open Air Sunrise",
+      "9. Investigations Of A Dog — 11 July"
     ],
     "sourcesCheckedAt": "2026-09-16",
     "audioAnalysis": "NOT TESTED",
@@ -34,162 +34,240 @@
   },
   "source": "Exact Spotify identity verified from a supplied public track ID or one unambiguous exact Spotify search match; BPM from the declared external source.",
   "requestedCount": 9,
-  "resolvedCount": 5,
+  "resolvedCount": 3,
   "candidateCount": 3,
   "resolutionStatus": "PARTIAL",
   "unresolved": [
     {
-      "artist": "Loddj & Davide Messina",
-      "track": "KIDS & GROOVE",
+      "artist": "Model 500",
+      "track": "IDLE",
       "error": "no exact Spotify title/artist search match in market SE",
       "requestedIdentity": {
-        "artist": "Loddj & Davide Messina",
-        "track": "KIDS & GROOVE",
-        "album": "KIDS & GROOVE",
-        "releaseDate": "2026-09-13",
+        "artist": "Model 500",
+        "track": "IDLE",
+        "album": "IDLE (remixes)",
+        "releaseDate": "2026-08-20",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/loddj-davide-messina-kids-groove",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A bodily left turn earns a place when its exit changes the afterword rather than merely offering relief.",
+          "craftConvention": "A crystalline electro-funk state matters when its exit gives the following compact formation a new consolidation task.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes the exact single as supremely bumpy prime-time house whose initial breakdown cracks open around vocal snippets and a siren.",
-          "editorialInterpretation": "The exact-track account supplies a concise breakdown-led body state before the restrained-footwork-to-electro-soul close.",
+          "attributedDescription": "Juno describes IDLE as cyborg funk built from cantering basslines, crystalline electro rhythms, ice-cold machinery and withering vocals.",
+          "editorialInterpretation": "The exact-track description supplies a sharply formed mechanical-soul state before Where I Wanna Be's compact acid-vocal formation.",
           "measured": [
-            "Waveform Transmitter published the exact-single review on September 13, 2026 and says the track is out now.",
-            "Market-SE identity, release metadata and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A bumpy breakdown-led declaration could make Invisible Warriors Of Light a consequential cooling after Can I live rather than a parallel afterword.",
-        "proposedPlacements": [
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a breakdown-led body state gives the electro-soul afterword a consequential cooling task."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "Not Charlie",
-      "track": "Servicio Social",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "Not Charlie",
-        "track": "Servicio Social",
-        "album": "Inconformista",
-        "releaseDate": "2026-09-06",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/not-charlie-inconformista",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A sharply articulated signal field matters when the successor reorganizes it rather than merely continuing instability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes Servicio Social through wildly oscillating radio frequencies and alien chirruping set amid solid four-on-the-floor motion and hissing cymbals.",
-          "editorialInterpretation": "The exact-track description supplies a bounded signal-heavy grid before the current off-balance re-entry.",
-          "measured": [
-            "Waveform Transmitter published the album review on September 6, 2026 and identifies the exact title within the twelve-track release.",
-            "Market-SE identity, album release date and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A solid grid crowded by oscillating signals could make Ingress's off-balance rhythm a consequential reorganization after Raataja's disappearance.",
-        "proposedPlacements": [
-          {
-            "position": "Between Raataja and Ingress",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a signal-heavy fixed grid gives Ingress a consequential off-balance reorganization task."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "CAZ",
-      "track": "Smooth Tip",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "CAZ",
-        "track": "Smooth Tip",
-        "album": "Smooth Tip",
-        "releaseDate": "2026-09-15",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/caz-smooth-tip",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A vocal house state may belong when its exit sharpens the following deformation rather than merely adding accessibility.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Smooth Tip as an Irish tech-house single, issued in extended and radio versions, with a vocal by the same singer as CAZ's Sweet Tea.",
-          "editorialInterpretation": "The exact-single framing supplies a vocal house proposition, but individual development and endpoint remain undocumented.",
-          "measured": [
-            "Waveform Transmitter published the recommendation on September 15, 2026 and says the single is out now.",
-            "Exact version, market-SE identity, release metadata and Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A vocal house formation could give Thick to Handle a more legible broken-beat deformation after Goink's recurring fragment object.",
-        "proposedPlacements": [
-          {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether a vocal house state gives Thick to Handle a consequential broken-beat deformation task."
-          }
-        ]
-      }
-    },
-    {
-      "artist": "S.K.A.T.I.",
-      "track": "Thirtythree",
-      "error": "no exact Spotify title/artist search match in market SE",
-      "requestedIdentity": {
-        "artist": "S.K.A.T.I.",
-        "track": "Thirtythree",
-        "album": "Thirtythree",
-        "releaseDate": "2026-09-18",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://skati.bandcamp.com/track/thirtythree",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A raw hypnotic state is structural only if its exit changes the following lock process.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "The artist-hosted Bandcamp page describes Thirtythree as continuing S.K.A.T.I.'s raw, hypnotic techno sound.",
-          "editorialInterpretation": "The exact-single framing supplies a raw hypnotic proposition before Dark Necessity's muted build-to-lock, while individual development remains undocumented.",
-          "measured": [
-            "The artist-hosted page lists September 18, 2026 as the release date.",
+            "Juno lists the original mix at 5:25 and the release date as August 20, 2026.",
             "Market-SE identity and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A raw hypnotic state could make Dark Necessity's muted build and eventual lock a consequential refinement after Fragments.",
+        "fitHypothesis": "A crystalline cyborg-funk state could make Where I Wanna Be a consequential tightening after Truth in Noise rather than another parallel formation.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Dark Necessity",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:2kSeffr4MXOwACEmwFPhGK",
+            "position": "Between Truth in Noise and Where I Wanna Be",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether crystalline mechanical soul gives Where I Wanna Be a consequential compacting task."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Thor & Luke Hess",
+      "track": "Induction",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Thor & Luke Hess",
+        "track": "Induction",
+        "album": "Third Wave",
+        "releaseDate": "2026-06-29",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A restrained drive earns space when its exit changes the successor's pivot rather than extending the same plateau.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Induction as a crisp but deep drive formed by analogue machines and rare samples, within a collaboration joining warm Detroit pulse to stripped-back Icelandic minimalism.",
+          "editorialInterpretation": "The exact-track description supplies a restrained tactile drive before Freepass for Them's insistent-groove-to-square-wave pivot.",
+          "measured": [
+            "Juno lists Induction at 6:22 and the release date as June 29, 2026.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A crisp deep drive could give Freepass for Them a specific restrained formation to pivot away from after Too Much Time's widening.",
+        "proposedPlacements": [
+          {
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a raw hypnotic state gives Dark Necessity a consequential refinement-and-lock task."
+            "purpose": "Test whether a restrained tactile drive gives Freepass for Them a consequential pivot task."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "K Alexi Shelby",
+      "track": "House Music De Chicago",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "K Alexi Shelby",
+        "track": "House Music De Chicago",
+        "album": "QRV 205DTON26",
+        "releaseDate": "2026-07-28",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A recognisable house grammar can be structural when the following fragment process materially transforms it.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes House Music De Chicago as jazzy, unpretentious Latin-vocal-sample house with a low wind-tunnelling whoosh adding weight to its structure.",
+          "editorialInterpretation": "The exact-track description supplies a recognisable vocal-house object before Goink's recurring broken-syllable fragment process.",
+          "measured": [
+            "Juno lists House Music De Chicago at 8:02 and the release date as July 28, 2026.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A long vocal-house object could make Goink's fragmented utterance recurrence a consequential decomposition after FELT.",
+        "proposedPlacements": [
+          {
+            "position": "Between FELT and Goink",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a recognisable vocal-house object gives Goink a consequential fragmentation task."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Mark Ambrose",
+      "track": "Reflections",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Mark Ambrose",
+        "track": "Reflections",
+        "album": "Star System EP",
+        "releaseDate": "2026-05-15",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Reflective electro earns a threshold placement only when its exit changes the successor's transformation task.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Reflections through meaningful inward-looking chords, ice-cold drums and a Mini Moog bassline.",
+          "editorialInterpretation": "The exact-track description supplies a reflective electro state before U Belong 2 Me's established four-on-the-floor-to-funereal threshold.",
+          "measured": [
+            "Juno lists Reflections at 7:03 and the release date as May 15, 2026.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A reflective electro state could make U Belong 2 Me's transformation into the protected-block opener more consequential after Same Way.",
+        "proposedPlacements": [
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether reflective electro changes U Belong 2 Me's threshold transformation."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Underground Resistance",
+      "track": "Midnight Sunshine",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Underground Resistance",
+        "track": "Midnight Sunshine",
+        "album": "Dark Energy",
+        "releaseDate": "2011-08-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A rough melodic formation can deepen a late passage when its exit changes the following flare rather than delaying it.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno identifies Midnight Sunshine through gorgeously rough key progressions within the austere-techno-to-thumping-house range of Dark Energy.",
+          "editorialInterpretation": "The exact-track description supplies a rough-keyed formation before Nukumori's brief flare.",
+          "measured": [
+            "Juno lists the Dark Energy pressing with an August 1, 2011 release date and no duration for this title.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A rough melodic formation could give Nukumori a concrete keyed state to flare out of after It Never Made Sense.",
+        "proposedPlacements": [
+          {
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a rough keyed formation gives Nukumori a consequential flare task."
+          }
+        ]
+      }
+    },
+    {
+      "artist": "Investigations Of A Dog",
+      "track": "11 July",
+      "error": "no exact Spotify title/artist search match in market SE",
+      "requestedIdentity": {
+        "artist": "Investigations Of A Dog",
+        "track": "11 July",
+        "album": "Physics Of The Human Mind",
+        "releaseDate": "2022-11-14",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A sunny bubbling state can sharpen contrast when its exit changes the next rhythmic re-entry.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes 11 July as sunny and gently bubbling in a release whose electro combines lively motion, dreamy optimism and subtle restraint.",
+          "editorialInterpretation": "The exact-track description supplies a bright restrained electro state before Egue into hs and Cave rebuild the early body grammar.",
+          "measured": [
+            "Juno lists 11 July at 3:49 and the release date as November 14, 2022.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A bright restrained electro state could give Egue into hs a more consequential re-entry after Night D3 Died's mournful chord passage.",
+        "proposedPlacements": [
+          {
+            "position": "Between Night D3 Died and Egue into hs",
+            "precedingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether bright restrained electro gives Egue into hs a consequential rhythmic re-entry task."
           }
         ]
       }
@@ -197,281 +275,88 @@
   ],
   "warnings": [
     {
-      "artist": "DJ Carpenter",
-      "track": "Backhanders",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-13\" but Spotify returned \"2026-09-10\""
+      "artist": "Luke Alessi",
+      "track": "Dr Bongo",
+      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-07-01\" but Spotify returned \"2026-06-25\""
     },
     {
-      "artist": "Kristin Velvet",
-      "track": "The Traveller",
-      "warning": "Exact title/artist matched with release metadata variance: release date requested \"2026-09-13\" but Spotify returned \"2026-09-11\""
+      "artist": "Galaxy 2 Galaxy",
+      "track": "Astral Apache",
+      "warning": "Exact title/artist matched with release metadata variance: album requested \"Galaxy 2 Galaxy\" but Spotify returned \"Galaxy 2 Galaxy: A High Tech Jazz Compilation\"; release date requested \"2026-06-18\" but Spotify returned \"2005\""
     }
   ],
   "outcomes": [
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "Loddj & Davide Messina",
-        "track": "KIDS & GROOVE",
-        "album": "KIDS & GROOVE",
-        "releaseDate": "2026-09-13",
+        "artist": "Model 500",
+        "track": "IDLE",
+        "album": "IDLE (remixes)",
+        "releaseDate": "2026-08-20",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/loddj-davide-messina-kids-groove",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A bodily left turn earns a place when its exit changes the afterword rather than merely offering relief.",
+          "craftConvention": "A crystalline electro-funk state matters when its exit gives the following compact formation a new consolidation task.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes the exact single as supremely bumpy prime-time house whose initial breakdown cracks open around vocal snippets and a siren.",
-          "editorialInterpretation": "The exact-track account supplies a concise breakdown-led body state before the restrained-footwork-to-electro-soul close.",
+          "attributedDescription": "Juno describes IDLE as cyborg funk built from cantering basslines, crystalline electro rhythms, ice-cold machinery and withering vocals.",
+          "editorialInterpretation": "The exact-track description supplies a sharply formed mechanical-soul state before Where I Wanna Be's compact acid-vocal formation.",
           "measured": [
-            "Waveform Transmitter published the exact-single review on September 13, 2026 and says the track is out now.",
-            "Market-SE identity, release metadata and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A bumpy breakdown-led declaration could make Invisible Warriors Of Light a consequential cooling after Can I live rather than a parallel afterword.",
-        "proposedPlacements": [
-          {
-            "position": "Between Can I live and Invisible Warriors Of Light",
-            "precedingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "followingUri": "spotify:track:28lWAlCwtanGjnDcqCS0rG",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a breakdown-led body state gives the electro-soul afterword a consequential cooling task."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "DJ Carpenter",
-        "track": "Backhanders",
-        "album": "Off The Books",
-        "releaseDate": "2026-09-13",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A euphoric peak is useful only when its exit changes the following low-slung consequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter says Backhanders moves through soaring trance pads into a rubber-band synth and a euphoric peak.",
-          "editorialInterpretation": "The exact-track trajectory offers a formed peak whose exit can be tested against Serpentine Tale's coiling reduction.",
-          "measured": [
-            "Waveform Transmitter published the EP review on September 13, 2026 and says the complete four-track release is out now.",
-            "Market-SE identity, release metadata and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A pad-to-rubber-band peak could give Serpentine Tale a specific euphoric state to coil down after Tides Alternate.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether a formed euphoric peak gives Serpentine Tale a consequential coiling-down task."
-          }
-        ]
-      },
-      "spotifyTrackId": "2EeOkQxNAU2qchRrajkNqU",
-      "selected": true
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "Not Charlie",
-        "track": "Servicio Social",
-        "album": "Inconformista",
-        "releaseDate": "2026-09-06",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/not-charlie-inconformista",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A sharply articulated signal field matters when the successor reorganizes it rather than merely continuing instability.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter describes Servicio Social through wildly oscillating radio frequencies and alien chirruping set amid solid four-on-the-floor motion and hissing cymbals.",
-          "editorialInterpretation": "The exact-track description supplies a bounded signal-heavy grid before the current off-balance re-entry.",
-          "measured": [
-            "Waveform Transmitter published the album review on September 6, 2026 and identifies the exact title within the twelve-track release.",
-            "Market-SE identity, album release date and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A solid grid crowded by oscillating signals could make Ingress's off-balance rhythm a consequential reorganization after Raataja's disappearance.",
-        "proposedPlacements": [
-          {
-            "position": "Between Raataja and Ingress",
-            "precedingUri": "spotify:track:5zLxgXlxNvKbzWSrEcPrTF",
-            "followingUri": "spotify:track:0FFIqD4nHctz7eI1fmBKgA",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a signal-heavy fixed grid gives Ingress a consequential off-balance reorganization task."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "UNRESOLVED",
-      "requestedIdentity": {
-        "artist": "CAZ",
-        "track": "Smooth Tip",
-        "album": "Smooth Tip",
-        "releaseDate": "2026-09-15",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/caz-smooth-tip",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A vocal house state may belong when its exit sharpens the following deformation rather than merely adding accessibility.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Smooth Tip as an Irish tech-house single, issued in extended and radio versions, with a vocal by the same singer as CAZ's Sweet Tea.",
-          "editorialInterpretation": "The exact-single framing supplies a vocal house proposition, but individual development and endpoint remain undocumented.",
-          "measured": [
-            "Waveform Transmitter published the recommendation on September 15, 2026 and says the single is out now.",
-            "Exact version, market-SE identity, release metadata and Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A vocal house formation could give Thick to Handle a more legible broken-beat deformation after Goink's recurring fragment object.",
-        "proposedPlacements": [
-          {
-            "position": "Between Goink and Thick to Handle",
-            "precedingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
-            "followingUri": "spotify:track:7CUodG7GLLbzOtO6qXGJxT",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 138,
-            "purpose": "Test whether a vocal house state gives Thick to Handle a consequential broken-beat deformation task."
-          }
-        ]
-      },
-      "error": "no exact Spotify title/artist search match in market SE"
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Kristin Velvet",
-        "track": "The Traveller",
-        "album": "The Traveller / Joy",
-        "releaseDate": "2026-09-13",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kristin-velvet-traveller-joy",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "An adjacent house proposition needs an individual trajectory and a changed successor task, not genre compatibility alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies The Traveller as one of two house tracks on Kristin Velvet's Arms & Legs release and distinguishes the pair from her recent hip-house work, but gives no individual development account.",
-          "editorialInterpretation": "The title supplies an adjacent house-world proposition before Never Met's passing foreground; trajectory and endpoint remain unknown.",
-          "measured": [
-            "Waveform Transmitter published the exact release listing on September 13, 2026 and says it is out now.",
-            "Market-SE identity, exact release date and Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A house state could give Never Met a consequential crossing task after Sarniezz, provided the candidate's individual exit supports the turn.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an adjacent house state gives Never Met a consequential passing-foreground task."
-          }
-        ]
-      },
-      "spotifyTrackId": "5OAWGwZyScwFzWWGK7BBee",
-      "selected": true
-    },
-    {
-      "status": "RESOLVED",
-      "requestedIdentity": {
-        "artist": "Dan be",
-        "track": "Closer",
-        "album": "Closer",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/dan-be-closer",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A compact UKG state matters when its exit changes the following opposed-material tension.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Closer as an old-school UK garage bumper by Dan be.",
-          "editorialInterpretation": "The exact-single description supplies a concise adjacent rhythmic proposition before IF U WANT 2's opposed drum-and-pad state.",
-          "measured": [
-            "Waveform Transmitter lists the single's release date as August 7, 2026.",
+            "Juno lists the original mix at 5:25 and the release date as August 20, 2026.",
             "Market-SE identity and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "An old-school UKG bumper could make IF U WANT 2's frenzied-drum and soothing-pad opposition a consequential internal contradiction after Crawl.",
+        "fitHypothesis": "A crystalline cyborg-funk state could make Where I Wanna Be a consequential tightening after Truth in Noise rather than another parallel formation.",
         "proposedPlacements": [
           {
-            "position": "Between Crawl and IF U WANT 2",
-            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
+            "position": "Between Truth in Noise and Where I Wanna Be",
+            "precedingUri": "spotify:track:12xuyGHICBNwJnQYqBlKcY",
+            "followingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a UKG formation gives IF U WANT 2 a consequential opposed-material task."
+            "purpose": "Test whether crystalline mechanical soul gives Where I Wanna Be a consequential compacting task."
           }
         ]
       },
-      "spotifyTrackId": "1ncoNFSdfwxqPVqFX9bRye",
-      "selected": true
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "UNRESOLVED",
       "requestedIdentity": {
-        "artist": "S.K.A.T.I.",
-        "track": "Thirtythree",
-        "album": "Thirtythree",
-        "releaseDate": "2026-09-18",
+        "artist": "Thor & Luke Hess",
+        "track": "Induction",
+        "album": "Third Wave",
+        "releaseDate": "2026-06-29",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://skati.bandcamp.com/track/thirtythree",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A raw hypnotic state is structural only if its exit changes the following lock process.",
+          "craftConvention": "A restrained drive earns space when its exit changes the successor's pivot rather than extending the same plateau.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "The artist-hosted Bandcamp page describes Thirtythree as continuing S.K.A.T.I.'s raw, hypnotic techno sound.",
-          "editorialInterpretation": "The exact-single framing supplies a raw hypnotic proposition before Dark Necessity's muted build-to-lock, while individual development remains undocumented.",
+          "attributedDescription": "Juno describes Induction as a crisp but deep drive formed by analogue machines and rare samples, within a collaboration joining warm Detroit pulse to stripped-back Icelandic minimalism.",
+          "editorialInterpretation": "The exact-track description supplies a restrained tactile drive before Freepass for Them's insistent-groove-to-square-wave pivot.",
           "measured": [
-            "The artist-hosted page lists September 18, 2026 as the release date.",
+            "Juno lists Induction at 6:22 and the release date as June 29, 2026.",
             "Market-SE identity and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A raw hypnotic state could make Dark Necessity's muted build and eventual lock a consequential refinement after Fragments.",
+        "fitHypothesis": "A crisp deep drive could give Freepass for Them a specific restrained formation to pivot away from after Too Much Time's widening.",
         "proposedPlacements": [
           {
-            "position": "Between Fragments and Dark Necessity",
-            "precedingUri": "spotify:track:3wsskKLpimIuiDDCb6eHVv",
-            "followingUri": "spotify:track:2kSeffr4MXOwACEmwFPhGK",
+            "position": "Between Too Much Time and Freepass for Them",
+            "precedingUri": "spotify:track:7db90RzgCxJSu9XzKJhxKO",
+            "followingUri": "spotify:track:6W7R8Juu9iycysgvKB5IZW",
             "incomingBpm": 140,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a raw hypnotic state gives Dark Necessity a consequential refinement-and-lock task."
+            "purpose": "Test whether a restrained tactile drive gives Freepass for Them a consequential pivot task."
           }
         ]
       },
@@ -480,449 +365,494 @@
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "Kaval",
-        "track": "Funky Vamp",
-        "album": "Funky Vamp",
-        "releaseDate": "2026-07-17",
+        "artist": "Luke Alessi",
+        "track": "Dr Bongo",
+        "album": "Sex Machine EP",
+        "releaseDate": "2026-07-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kaval-funky-vamp",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A borrowed club motif matters when its exit gives the next deformation a different object to work on.",
+          "craftConvention": "A hand-drum proposition matters when its exit changes the next lock rather than merely restating percussion.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Funky Vamp as the title track of a four-track UK-funky release and says it edits Outlander's 1991 Vamp for club-ready house use.",
-          "editorialInterpretation": "The exact-title framing supplies a recognizably edited club motif before Style Teef's formed-matrix deformation.",
+          "attributedDescription": "Juno describes Dr Bongo through fluttering hand-drum patterns and rolling groove science.",
+          "editorialInterpretation": "The exact-track description supplies a percussion-led rolling formation before Baghdad's existing lock.",
           "measured": [
-            "Waveform Transmitter lists July 17, 2026 as the release date.",
+            "Juno lists Dr Bongo at 5:31 and the release date as July 1, 2026.",
             "Market-SE identity and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A club-ready edited motif could give Style Teef a consequential object to frazzle after Where I Wanna Be's compact acid-vocal formation.",
+        "fitHypothesis": "A rolling hand-drum formation could make Baghdad a consequential hard lock after Amor's machine-to-hand-drum mutation.",
         "proposedPlacements": [
           {
-            "position": "Between Where I Wanna Be and Style Teef",
-            "precedingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
+            "position": "Between Amor and Baghdad",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "followingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether an edited club motif gives Style Teef a consequential formed-matrix deformation task."
+            "purpose": "Test whether a rolling hand-drum formation gives Baghdad a consequential hard-lock task."
           }
         ]
       },
-      "spotifyTrackId": "0KxneLxIIx3r8SdNmjMy26",
-      "selected": false
+      "spotifyTrackId": "7FB8G0UrQEsQSgGv5lLiec",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "K Alexi Shelby",
+        "track": "House Music De Chicago",
+        "album": "QRV 205DTON26",
+        "releaseDate": "2026-07-28",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A recognisable house grammar can be structural when the following fragment process materially transforms it.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes House Music De Chicago as jazzy, unpretentious Latin-vocal-sample house with a low wind-tunnelling whoosh adding weight to its structure.",
+          "editorialInterpretation": "The exact-track description supplies a recognisable vocal-house object before Goink's recurring broken-syllable fragment process.",
+          "measured": [
+            "Juno lists House Music De Chicago at 8:02 and the release date as July 28, 2026.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A long vocal-house object could make Goink's fragmented utterance recurrence a consequential decomposition after FELT.",
+        "proposedPlacements": [
+          {
+            "position": "Between FELT and Goink",
+            "precedingUri": "spotify:track:2Z8Zw8lZlhFXbmNbnlozPR",
+            "followingUri": "spotify:track:1XmkA4bRwLKUX1QfxvcOcQ",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a recognisable vocal-house object gives Goink a consequential fragmentation task."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Mark Ambrose",
+        "track": "Reflections",
+        "album": "Star System EP",
+        "releaseDate": "2026-05-15",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "Reflective electro earns a threshold placement only when its exit changes the successor's transformation task.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Reflections through meaningful inward-looking chords, ice-cold drums and a Mini Moog bassline.",
+          "editorialInterpretation": "The exact-track description supplies a reflective electro state before U Belong 2 Me's established four-on-the-floor-to-funereal threshold.",
+          "measured": [
+            "Juno lists Reflections at 7:03 and the release date as May 15, 2026.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A reflective electro state could make U Belong 2 Me's transformation into the protected-block opener more consequential after Same Way.",
+        "proposedPlacements": [
+          {
+            "position": "Between Same Way and U Belong 2 Me",
+            "precedingUri": "spotify:track:34Fsg91zY7EAGvowez5DOf",
+            "followingUri": "spotify:track:4gmfU2GXNxmyiEKidTcj3Y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether reflective electro changes U Belong 2 Me's threshold transformation."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Underground Resistance",
+        "track": "Midnight Sunshine",
+        "album": "Dark Energy",
+        "releaseDate": "2011-08-01",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A rough melodic formation can deepen a late passage when its exit changes the following flare rather than delaying it.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno identifies Midnight Sunshine through gorgeously rough key progressions within the austere-techno-to-thumping-house range of Dark Energy.",
+          "editorialInterpretation": "The exact-track description supplies a rough-keyed formation before Nukumori's brief flare.",
+          "measured": [
+            "Juno lists the Dark Energy pressing with an August 1, 2011 release date and no duration for this title.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A rough melodic formation could give Nukumori a concrete keyed state to flare out of after It Never Made Sense.",
+        "proposedPlacements": [
+          {
+            "position": "Between It Never Made Sense and Nukumori",
+            "precedingUri": "spotify:track:0ZB4fbiKEhhUxHMXklcCPD",
+            "followingUri": "spotify:track:0QNuxTFGRqgcNrcuomQory",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a rough keyed formation gives Nukumori a consequential flare task."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     },
     {
       "status": "RESOLVED",
       "requestedIdentity": {
-        "artist": "TOKiMONSTA",
-        "track": "Memory On The Run",
-        "album": "Memory On The Run",
-        "releaseDate": "2026-08-07",
+        "artist": "Galaxy 2 Galaxy",
+        "track": "Astral Apache",
+        "album": "Galaxy 2 Galaxy",
+        "releaseDate": "2026-06-18",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/tokimonsta-memory-on-the-run",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A vocal house state can deepen the escape only if its exit changes restrained re-entry rather than completing another afterword.",
+          "craftConvention": "An intergalactic techno-jazz proposition matters when its exit changes the following submerged drift.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Memory On The Run as a house single on Young Art Records with TOKiMONSTA herself on vocals.",
-          "editorialInterpretation": "The exact-single framing supplies a vocal house proposition between dead-space descent and restrained-footwork re-entry; individual trajectory remains undocumented.",
+          "attributedDescription": "Juno describes Astral Apache as carrying intergalactic energy within a release combining acid, synth-heavy jazz, analogue drums and futuristic vision.",
+          "editorialInterpretation": "The exact-title description supplies a techno-jazz state before Roxellana's submerged drift and backsliding's later rupture.",
           "measured": [
-            "Waveform Transmitter lists August 7, 2026 as the release date.",
-            "Market-SE identity and exact Spotify duration require resolver evidence."
+            "Juno lists Astral Apache at 5:17 and the repress date as June 18, 2026.",
+            "Market-SE identity, original release metadata and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "A vocal house state could give Can I live a consequential stripped re-entry after Rabbit Hole, provided the candidate's exit supports the change.",
+        "fitHypothesis": "An intergalactic techno-jazz state could give Roxellana a consequential submergence after Pulse I's accumulation.",
         "proposedPlacements": [
           {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a vocal house state gives Can I live a consequential restrained-footwork re-entry task."
+            "purpose": "Test whether techno-jazz formation gives Roxellana a consequential submergence task."
           }
         ]
       },
-      "spotifyTrackId": "0c6VeRgmmFBN46EFDwsG41",
-      "selected": false
+      "spotifyTrackId": "4gKMXEIv5piKHsTd2mnMPX",
+      "selected": true
+    },
+    {
+      "status": "RESOLVED",
+      "requestedIdentity": {
+        "artist": "Black Meteoric Star",
+        "track": "5am Open Air Sunrise",
+        "album": "Wet",
+        "releaseDate": "2026-09-16",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://blackmeteoricstar.bandcamp.com/album/wet",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A stripped electro horizon is useful when its exit changes the next rumble-to-weight threshold.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "The artist-hosted release notes position Wet as a continuation of Black Meteoric Star's dance-music, electro and political-spiritual project; Juno describes the album's world as sleek, stripped-back electro with sci-fi overtones and retro machines.",
+          "editorialInterpretation": "The exact title and album framing supply a possible open-air electro horizon before Worn Down's rumble-to-weight threshold, while individual development remains undocumented.",
+          "measured": [
+            "The artist-hosted Bandcamp page lists 5am Open Air Sunrise on Wet and releases the album September 16, 2026; Juno lists the track at 4:38.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A stripped electro horizon could make Worn Down's threshold more consequential after Foundry, provided the candidate's individual exit supports the change.",
+        "proposedPlacements": [
+          {
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a stripped electro horizon gives Worn Down a consequential threshold task."
+          }
+        ]
+      },
+      "spotifyTrackId": "4MjOKTdPBfF1egVNN01bdx",
+      "selected": true
+    },
+    {
+      "status": "UNRESOLVED",
+      "requestedIdentity": {
+        "artist": "Investigations Of A Dog",
+        "track": "11 July",
+        "album": "Physics Of The Human Mind",
+        "releaseDate": "2022-11-14",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A sunny bubbling state can sharpen contrast when its exit changes the next rhythmic re-entry.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes 11 July as sunny and gently bubbling in a release whose electro combines lively motion, dreamy optimism and subtle restraint.",
+          "editorialInterpretation": "The exact-track description supplies a bright restrained electro state before Egue into hs and Cave rebuild the early body grammar.",
+          "measured": [
+            "Juno lists 11 July at 3:49 and the release date as November 14, 2022.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A bright restrained electro state could give Egue into hs a more consequential re-entry after Night D3 Died's mournful chord passage.",
+        "proposedPlacements": [
+          {
+            "position": "Between Night D3 Died and Egue into hs",
+            "precedingUri": "spotify:track:2gGFSLPMYaslXwdbT9Vlpc",
+            "followingUri": "spotify:track:2HiLKItrGfvkF6F9KjJlRV",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether bright restrained electro gives Egue into hs a consequential rhythmic re-entry task."
+          }
+        ]
+      },
+      "error": "no exact Spotify title/artist search match in market SE"
     }
   ],
   "candidates": [
     {
-      "id": "2EeOkQxNAU2qchRrajkNqU",
-      "uri": "spotify:track:2EeOkQxNAU2qchRrajkNqU",
-      "name": "Backhanders",
+      "id": "7FB8G0UrQEsQSgGv5lLiec",
+      "uri": "spotify:track:7FB8G0UrQEsQSgGv5lLiec",
+      "name": "Dr Bongo",
       "artists": [
-        "DJ Carpenter"
+        "Luke Alessi"
       ],
-      "album": "Off The Books",
-      "releaseDate": "2026-09-10",
-      "durationMs": 235000,
-      "spotifyUrl": "https://open.spotify.com/track/2EeOkQxNAU2qchRrajkNqU",
+      "album": "Sex Machine EP",
+      "releaseDate": "2026-06-25",
+      "durationMs": 226648,
+      "spotifyUrl": "https://open.spotify.com/track/7FB8G0UrQEsQSgGv5lLiec",
       "bpm": null,
       "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books",
+      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
       "searchIntent": "BOTH",
       "proposedPlacements": [
         {
-          "position": "Between Tides Alternate and Serpentine Tale",
-          "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-          "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": 130,
-          "purpose": "Test whether a formed euphoric peak gives Serpentine Tale a consequential coiling-down task."
-        }
-      ],
-      "fitHypothesis": "A pad-to-rubber-band peak could give Serpentine Tale a specific euphoric state to coil down after Tides Alternate.",
-      "evidence": {
-        "craftConvention": "A euphoric peak is useful only when its exit changes the following low-slung consequence.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter says Backhanders moves through soaring trance pads into a rubber-band synth and a euphoric peak.",
-        "editorialInterpretation": "The exact-track trajectory offers a formed peak whose exit can be tested against Serpentine Tale's coiling reduction.",
-        "measured": [
-          "Waveform Transmitter published the EP review on September 13, 2026 and says the complete four-track release is out now.",
-          "Market-SE identity, release metadata and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "DJ Carpenter",
-        "track": "Backhanders",
-        "album": "Off The Books",
-        "releaseDate": "2026-09-13",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/dj-carpenter-off-the-books",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A euphoric peak is useful only when its exit changes the following low-slung consequence.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter says Backhanders moves through soaring trance pads into a rubber-band synth and a euphoric peak.",
-          "editorialInterpretation": "The exact-track trajectory offers a formed peak whose exit can be tested against Serpentine Tale's coiling reduction.",
-          "measured": [
-            "Waveform Transmitter published the EP review on September 13, 2026 and says the complete four-track release is out now.",
-            "Market-SE identity, release metadata and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A pad-to-rubber-band peak could give Serpentine Tale a specific euphoric state to coil down after Tides Alternate.",
-        "proposedPlacements": [
-          {
-            "position": "Between Tides Alternate and Serpentine Tale",
-            "precedingUri": "spotify:track:1eWvrBLXd763F0nyrjOzBw",
-            "followingUri": "spotify:track:1J2HLUmgLEf9Nun0Stg0qj",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": 130,
-            "purpose": "Test whether a formed euphoric peak gives Serpentine Tale a consequential coiling-down task."
-          }
-        ]
-      }
-    },
-    {
-      "id": "5OAWGwZyScwFzWWGK7BBee",
-      "uri": "spotify:track:5OAWGwZyScwFzWWGK7BBee",
-      "name": "The Traveller",
-      "artists": [
-        "Kristin Velvet"
-      ],
-      "album": "The Traveller / Joy",
-      "releaseDate": "2026-09-11",
-      "durationMs": 169804,
-      "spotifyUrl": "https://open.spotify.com/track/5OAWGwZyScwFzWWGK7BBee",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/kristin-velvet-traveller-joy",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Sarniezz and Never Met",
-          "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-          "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
+          "position": "Between Amor and Baghdad",
+          "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+          "followingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
           "incomingBpm": null,
           "candidateBpm": null,
           "outgoingBpm": null,
-          "purpose": "Test whether an adjacent house state gives Never Met a consequential passing-foreground task."
+          "purpose": "Test whether a rolling hand-drum formation gives Baghdad a consequential hard-lock task."
         }
       ],
-      "fitHypothesis": "A house state could give Never Met a consequential crossing task after Sarniezz, provided the candidate's individual exit supports the turn.",
+      "fitHypothesis": "A rolling hand-drum formation could make Baghdad a consequential hard lock after Amor's machine-to-hand-drum mutation.",
       "evidence": {
-        "craftConvention": "An adjacent house proposition needs an individual trajectory and a changed successor task, not genre compatibility alone.",
+        "craftConvention": "A hand-drum proposition matters when its exit changes the next lock rather than merely restating percussion.",
         "lawfulAudioEvidence": null,
         "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies The Traveller as one of two house tracks on Kristin Velvet's Arms & Legs release and distinguishes the pair from her recent hip-house work, but gives no individual development account.",
-        "editorialInterpretation": "The title supplies an adjacent house-world proposition before Never Met's passing foreground; trajectory and endpoint remain unknown.",
+        "attributedDescription": "Juno describes Dr Bongo through fluttering hand-drum patterns and rolling groove science.",
+        "editorialInterpretation": "The exact-track description supplies a percussion-led rolling formation before Baghdad's existing lock.",
         "measured": [
-          "Waveform Transmitter published the exact release listing on September 13, 2026 and says it is out now.",
-          "Market-SE identity, exact release date and Spotify duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Kristin Velvet",
-        "track": "The Traveller",
-        "album": "The Traveller / Joy",
-        "releaseDate": "2026-09-13",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kristin-velvet-traveller-joy",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "An adjacent house proposition needs an individual trajectory and a changed successor task, not genre compatibility alone.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies The Traveller as one of two house tracks on Kristin Velvet's Arms & Legs release and distinguishes the pair from her recent hip-house work, but gives no individual development account.",
-          "editorialInterpretation": "The title supplies an adjacent house-world proposition before Never Met's passing foreground; trajectory and endpoint remain unknown.",
-          "measured": [
-            "Waveform Transmitter published the exact release listing on September 13, 2026 and says it is out now.",
-            "Market-SE identity, exact release date and Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A house state could give Never Met a consequential crossing task after Sarniezz, provided the candidate's individual exit supports the turn.",
-        "proposedPlacements": [
-          {
-            "position": "Between Sarniezz and Never Met",
-            "precedingUri": "spotify:track:6iDKiCR13L8Ba6bkK6cqqt",
-            "followingUri": "spotify:track:7C9lRN0idP1MYfMXyyXmDU",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an adjacent house state gives Never Met a consequential passing-foreground task."
-          }
-        ]
-      }
-    },
-    {
-      "id": "1ncoNFSdfwxqPVqFX9bRye",
-      "uri": "spotify:track:1ncoNFSdfwxqPVqFX9bRye",
-      "name": "Closer",
-      "artists": [
-        "Dan be"
-      ],
-      "album": "Closer",
-      "releaseDate": "2026-08-07",
-      "durationMs": 311804,
-      "spotifyUrl": "https://open.spotify.com/track/1ncoNFSdfwxqPVqFX9bRye",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/dan-be-closer",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Crawl and IF U WANT 2",
-          "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-          "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a UKG formation gives IF U WANT 2 a consequential opposed-material task."
-        }
-      ],
-      "fitHypothesis": "An old-school UKG bumper could make IF U WANT 2's frenzied-drum and soothing-pad opposition a consequential internal contradiction after Crawl.",
-      "evidence": {
-        "craftConvention": "A compact UKG state matters when its exit changes the following opposed-material tension.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies Closer as an old-school UK garage bumper by Dan be.",
-        "editorialInterpretation": "The exact-single description supplies a concise adjacent rhythmic proposition before IF U WANT 2's opposed drum-and-pad state.",
-        "measured": [
-          "Waveform Transmitter lists the single's release date as August 7, 2026.",
+          "Juno lists Dr Bongo at 5:31 and the release date as July 1, 2026.",
           "Market-SE identity and exact Spotify duration require resolver evidence."
         ]
       },
       "requestedIdentity": {
-        "artist": "Dan be",
-        "track": "Closer",
-        "album": "Closer",
-        "releaseDate": "2026-08-07",
+        "artist": "Luke Alessi",
+        "track": "Dr Bongo",
+        "album": "Sex Machine EP",
+        "releaseDate": "2026-07-01",
         "bpm": null,
         "bpmSource": null,
         "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/dan-be-closer",
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
         "searchIntent": "BOTH",
         "evidence": {
-          "craftConvention": "A compact UKG state matters when its exit changes the following opposed-material tension.",
+          "craftConvention": "A hand-drum proposition matters when its exit changes the next lock rather than merely restating percussion.",
           "lawfulAudioEvidence": null,
           "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Closer as an old-school UK garage bumper by Dan be.",
-          "editorialInterpretation": "The exact-single description supplies a concise adjacent rhythmic proposition before IF U WANT 2's opposed drum-and-pad state.",
+          "attributedDescription": "Juno describes Dr Bongo through fluttering hand-drum patterns and rolling groove science.",
+          "editorialInterpretation": "The exact-track description supplies a percussion-led rolling formation before Baghdad's existing lock.",
           "measured": [
-            "Waveform Transmitter lists the single's release date as August 7, 2026.",
+            "Juno lists Dr Bongo at 5:31 and the release date as July 1, 2026.",
             "Market-SE identity and exact Spotify duration require resolver evidence."
           ]
         },
-        "fitHypothesis": "An old-school UKG bumper could make IF U WANT 2's frenzied-drum and soothing-pad opposition a consequential internal contradiction after Crawl.",
+        "fitHypothesis": "A rolling hand-drum formation could make Baghdad a consequential hard lock after Amor's machine-to-hand-drum mutation.",
         "proposedPlacements": [
           {
-            "position": "Between Crawl and IF U WANT 2",
-            "precedingUri": "spotify:track:1QUcUBNLU27po17WyQ27jF",
-            "followingUri": "spotify:track:1GwYTxRVL5uhtUGVmmkT4s",
+            "position": "Between Amor and Baghdad",
+            "precedingUri": "spotify:track:6sFAOCWU1adeWUEZaKWtEy",
+            "followingUri": "spotify:track:0Uq3u6aQcfjGc03AtGmD8I",
             "incomingBpm": null,
             "candidateBpm": null,
             "outgoingBpm": null,
-            "purpose": "Test whether a UKG formation gives IF U WANT 2 a consequential opposed-material task."
+            "purpose": "Test whether a rolling hand-drum formation gives Baghdad a consequential hard-lock task."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4gKMXEIv5piKHsTd2mnMPX",
+      "uri": "spotify:track:4gKMXEIv5piKHsTd2mnMPX",
+      "name": "Astral Apache",
+      "artists": [
+        "Galaxy 2 Galaxy"
+      ],
+      "album": "Galaxy 2 Galaxy: A High Tech Jazz Compilation",
+      "releaseDate": "2005",
+      "durationMs": 320453,
+      "spotifyUrl": "https://open.spotify.com/track/4gKMXEIv5piKHsTd2mnMPX",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Pulse I and Roxellana",
+          "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+          "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether techno-jazz formation gives Roxellana a consequential submergence task."
+        }
+      ],
+      "fitHypothesis": "An intergalactic techno-jazz state could give Roxellana a consequential submergence after Pulse I's accumulation.",
+      "evidence": {
+        "craftConvention": "An intergalactic techno-jazz proposition matters when its exit changes the following submerged drift.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "Juno describes Astral Apache as carrying intergalactic energy within a release combining acid, synth-heavy jazz, analogue drums and futuristic vision.",
+        "editorialInterpretation": "The exact-title description supplies a techno-jazz state before Roxellana's submerged drift and backsliding's later rupture.",
+        "measured": [
+          "Juno lists Astral Apache at 5:17 and the repress date as June 18, 2026.",
+          "Market-SE identity, original release metadata and exact Spotify duration require resolver evidence."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Galaxy 2 Galaxy",
+        "track": "Astral Apache",
+        "album": "Galaxy 2 Galaxy",
+        "releaseDate": "2026-06-18",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://www.juno.co.uk/techno/charts/bestsellers/this-week/",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "An intergalactic techno-jazz proposition matters when its exit changes the following submerged drift.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "Juno describes Astral Apache as carrying intergalactic energy within a release combining acid, synth-heavy jazz, analogue drums and futuristic vision.",
+          "editorialInterpretation": "The exact-title description supplies a techno-jazz state before Roxellana's submerged drift and backsliding's later rupture.",
+          "measured": [
+            "Juno lists Astral Apache at 5:17 and the repress date as June 18, 2026.",
+            "Market-SE identity, original release metadata and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "An intergalactic techno-jazz state could give Roxellana a consequential submergence after Pulse I's accumulation.",
+        "proposedPlacements": [
+          {
+            "position": "Between Pulse I and Roxellana",
+            "precedingUri": "spotify:track:2PiW1SaL42KqLTpNSit9zY",
+            "followingUri": "spotify:track:3H1Vwgq7XXbfaOPhdL6NZt",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether techno-jazz formation gives Roxellana a consequential submergence task."
+          }
+        ]
+      }
+    },
+    {
+      "id": "4MjOKTdPBfF1egVNN01bdx",
+      "uri": "spotify:track:4MjOKTdPBfF1egVNN01bdx",
+      "name": "5am Open Air Sunrise",
+      "artists": [
+        "Black Meteoric Star",
+        "Gavilán Rayna Russom"
+      ],
+      "album": "Wet",
+      "releaseDate": "2026-09-16",
+      "durationMs": 282500,
+      "spotifyUrl": "https://open.spotify.com/track/4MjOKTdPBfF1egVNN01bdx",
+      "bpm": null,
+      "tempoSource": null,
+      "discoverySource": "https://blackmeteoricstar.bandcamp.com/album/wet",
+      "searchIntent": "BOTH",
+      "proposedPlacements": [
+        {
+          "position": "Between Foundry and Worn Down",
+          "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+          "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+          "incomingBpm": null,
+          "candidateBpm": null,
+          "outgoingBpm": null,
+          "purpose": "Test whether a stripped electro horizon gives Worn Down a consequential threshold task."
+        }
+      ],
+      "fitHypothesis": "A stripped electro horizon could make Worn Down's threshold more consequential after Foundry, provided the candidate's individual exit supports the change.",
+      "evidence": {
+        "craftConvention": "A stripped electro horizon is useful when its exit changes the next rumble-to-weight threshold.",
+        "lawfulAudioEvidence": null,
+        "listenerEvidence": "No candidate-specific listener report.",
+        "attributedDescription": "The artist-hosted release notes position Wet as a continuation of Black Meteoric Star's dance-music, electro and political-spiritual project; Juno describes the album's world as sleek, stripped-back electro with sci-fi overtones and retro machines.",
+        "editorialInterpretation": "The exact title and album framing supply a possible open-air electro horizon before Worn Down's rumble-to-weight threshold, while individual development remains undocumented.",
+        "measured": [
+          "The artist-hosted Bandcamp page lists 5am Open Air Sunrise on Wet and releases the album September 16, 2026; Juno lists the track at 4:38.",
+          "Market-SE identity and exact Spotify duration require resolver evidence."
+        ]
+      },
+      "requestedIdentity": {
+        "artist": "Black Meteoric Star",
+        "track": "5am Open Air Sunrise",
+        "album": "Wet",
+        "releaseDate": "2026-09-16",
+        "bpm": null,
+        "bpmSource": null,
+        "spotifyTrackId": null,
+        "discoverySource": "https://blackmeteoricstar.bandcamp.com/album/wet",
+        "searchIntent": "BOTH",
+        "evidence": {
+          "craftConvention": "A stripped electro horizon is useful when its exit changes the next rumble-to-weight threshold.",
+          "lawfulAudioEvidence": null,
+          "listenerEvidence": "No candidate-specific listener report.",
+          "attributedDescription": "The artist-hosted release notes position Wet as a continuation of Black Meteoric Star's dance-music, electro and political-spiritual project; Juno describes the album's world as sleek, stripped-back electro with sci-fi overtones and retro machines.",
+          "editorialInterpretation": "The exact title and album framing supply a possible open-air electro horizon before Worn Down's rumble-to-weight threshold, while individual development remains undocumented.",
+          "measured": [
+            "The artist-hosted Bandcamp page lists 5am Open Air Sunrise on Wet and releases the album September 16, 2026; Juno lists the track at 4:38.",
+            "Market-SE identity and exact Spotify duration require resolver evidence."
+          ]
+        },
+        "fitHypothesis": "A stripped electro horizon could make Worn Down's threshold more consequential after Foundry, provided the candidate's individual exit supports the change.",
+        "proposedPlacements": [
+          {
+            "position": "Between Foundry and Worn Down",
+            "precedingUri": "spotify:track:0OFx2GTUHYkT575CD3uuen",
+            "followingUri": "spotify:track:01HP3HuPytbIpSdOCqpx2y",
+            "incomingBpm": null,
+            "candidateBpm": null,
+            "outgoingBpm": null,
+            "purpose": "Test whether a stripped electro horizon gives Worn Down a consequential threshold task."
           }
         ]
       }
     }
   ],
-  "resolvedAlternates": [
-    {
-      "id": "0KxneLxIIx3r8SdNmjMy26",
-      "uri": "spotify:track:0KxneLxIIx3r8SdNmjMy26",
-      "name": "Funky Vamp",
-      "artists": [
-        "Kaval"
-      ],
-      "album": "Funky Vamp",
-      "releaseDate": "2026-07-17",
-      "durationMs": 252125,
-      "spotifyUrl": "https://open.spotify.com/track/0KxneLxIIx3r8SdNmjMy26",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/kaval-funky-vamp",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Where I Wanna Be and Style Teef",
-          "precedingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
-          "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether an edited club motif gives Style Teef a consequential formed-matrix deformation task."
-        }
-      ],
-      "fitHypothesis": "A club-ready edited motif could give Style Teef a consequential object to frazzle after Where I Wanna Be's compact acid-vocal formation.",
-      "evidence": {
-        "craftConvention": "A borrowed club motif matters when its exit gives the next deformation a different object to work on.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies Funky Vamp as the title track of a four-track UK-funky release and says it edits Outlander's 1991 Vamp for club-ready house use.",
-        "editorialInterpretation": "The exact-title framing supplies a recognizably edited club motif before Style Teef's formed-matrix deformation.",
-        "measured": [
-          "Waveform Transmitter lists July 17, 2026 as the release date.",
-          "Market-SE identity and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "Kaval",
-        "track": "Funky Vamp",
-        "album": "Funky Vamp",
-        "releaseDate": "2026-07-17",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/kaval-funky-vamp",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A borrowed club motif matters when its exit gives the next deformation a different object to work on.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Funky Vamp as the title track of a four-track UK-funky release and says it edits Outlander's 1991 Vamp for club-ready house use.",
-          "editorialInterpretation": "The exact-title framing supplies a recognizably edited club motif before Style Teef's formed-matrix deformation.",
-          "measured": [
-            "Waveform Transmitter lists July 17, 2026 as the release date.",
-            "Market-SE identity and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A club-ready edited motif could give Style Teef a consequential object to frazzle after Where I Wanna Be's compact acid-vocal formation.",
-        "proposedPlacements": [
-          {
-            "position": "Between Where I Wanna Be and Style Teef",
-            "precedingUri": "spotify:track:2hUDsg1TEPrT4Cq3pISTWg",
-            "followingUri": "spotify:track:0KeJYT04VhNp6xKA3PYOgo",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether an edited club motif gives Style Teef a consequential formed-matrix deformation task."
-          }
-        ]
-      }
-    },
-    {
-      "id": "0c6VeRgmmFBN46EFDwsG41",
-      "uri": "spotify:track:0c6VeRgmmFBN46EFDwsG41",
-      "name": "Memory on the Run",
-      "artists": [
-        "TOKiMONSTA"
-      ],
-      "album": "Memory on the Run",
-      "releaseDate": "2026-08-07",
-      "durationMs": 222013,
-      "spotifyUrl": "https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41",
-      "bpm": null,
-      "tempoSource": null,
-      "discoverySource": "https://www.waveformtransmitter.com/p/tokimonsta-memory-on-the-run",
-      "searchIntent": "BOTH",
-      "proposedPlacements": [
-        {
-          "position": "Between Rabbit Hole and Can I live",
-          "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-          "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-          "incomingBpm": null,
-          "candidateBpm": null,
-          "outgoingBpm": null,
-          "purpose": "Test whether a vocal house state gives Can I live a consequential restrained-footwork re-entry task."
-        }
-      ],
-      "fitHypothesis": "A vocal house state could give Can I live a consequential stripped re-entry after Rabbit Hole, provided the candidate's exit supports the change.",
-      "evidence": {
-        "craftConvention": "A vocal house state can deepen the escape only if its exit changes restrained re-entry rather than completing another afterword.",
-        "lawfulAudioEvidence": null,
-        "listenerEvidence": "No candidate-specific listener report.",
-        "attributedDescription": "Waveform Transmitter identifies Memory On The Run as a house single on Young Art Records with TOKiMONSTA herself on vocals.",
-        "editorialInterpretation": "The exact-single framing supplies a vocal house proposition between dead-space descent and restrained-footwork re-entry; individual trajectory remains undocumented.",
-        "measured": [
-          "Waveform Transmitter lists August 7, 2026 as the release date.",
-          "Market-SE identity and exact Spotify duration require resolver evidence."
-        ]
-      },
-      "requestedIdentity": {
-        "artist": "TOKiMONSTA",
-        "track": "Memory On The Run",
-        "album": "Memory On The Run",
-        "releaseDate": "2026-08-07",
-        "bpm": null,
-        "bpmSource": null,
-        "spotifyTrackId": null,
-        "discoverySource": "https://www.waveformtransmitter.com/p/tokimonsta-memory-on-the-run",
-        "searchIntent": "BOTH",
-        "evidence": {
-          "craftConvention": "A vocal house state can deepen the escape only if its exit changes restrained re-entry rather than completing another afterword.",
-          "lawfulAudioEvidence": null,
-          "listenerEvidence": "No candidate-specific listener report.",
-          "attributedDescription": "Waveform Transmitter identifies Memory On The Run as a house single on Young Art Records with TOKiMONSTA herself on vocals.",
-          "editorialInterpretation": "The exact-single framing supplies a vocal house proposition between dead-space descent and restrained-footwork re-entry; individual trajectory remains undocumented.",
-          "measured": [
-            "Waveform Transmitter lists August 7, 2026 as the release date.",
-            "Market-SE identity and exact Spotify duration require resolver evidence."
-          ]
-        },
-        "fitHypothesis": "A vocal house state could give Can I live a consequential stripped re-entry after Rabbit Hole, provided the candidate's exit supports the change.",
-        "proposedPlacements": [
-          {
-            "position": "Between Rabbit Hole and Can I live",
-            "precedingUri": "spotify:track:1rerXSJBaWBKdmUzWKMzlJ",
-            "followingUri": "spotify:track:62MyAepcRwleCdrXXRgPmh",
-            "incomingBpm": null,
-            "candidateBpm": null,
-            "outgoingBpm": null,
-            "purpose": "Test whether a vocal house state gives Can I live a consequential restrained-footwork re-entry task."
-          }
-        ]
-      }
-    }
-  ]
+  "resolvedAlternates": []
 }
