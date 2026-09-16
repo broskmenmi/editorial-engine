@@ -23,7 +23,7 @@ Six identities remain unresolved without musical verdict; each returned exactly 
 
 STRANGE GAIT remains 65 tracks. The listener-protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 55–57. Canonical publication inputs and journey annotations do not change. The three selected exact identities are appended to the global Discovery Pool, advancing it 557 → 560 rows.
 
-Automatic publication is enabled. The approved Discovery Pool change requires exact Spotify publication and read-back verification. Until that receipt is persisted, STRANGE GAIT remains COMPLETE at 65/65 from its last verified receipt at 2026-09-16T05:06:01.590Z and the Discovery Pool's last verified state is COMPLETE at 557/557 from 2026-09-16T05:06:00.170Z. These are not new live verifications.
+Automatic publication is enabled. Editorial commit `4f9c117c95767f533c73f38958bd009406e55966` changed only the global Discovery Pool ledger. The publisher newly verified that playlist COMPLETE at 560/560 tracks at 2026-09-16T06:11:16.687Z; receipt commit `e9678c056ee7c58946fc54ed00af74d91213b693` records the matching editorial commit and fingerprint `a8781dd1710170c2034f54f2eb36cec646ff149dbf39d8d73b085bf86651e260`, with exact membership, configured metadata and cover confirmed. STRANGE GAIT remains COMPLETE at 65/65 from its unchanged receipt at 2026-09-16T05:06:01.590Z; this is not a new live target verification.
 
 The unchanged STRANGE GAIT map remains exact at 65 tracks, 64 transitions and 6h 30m, generated 2026-09-16T05:05:44.311Z. Forty-seven unavailable BPM values remain explicit gaps, and both listener-protected handoffs are present at positions 55→56 and 56→57.
 
