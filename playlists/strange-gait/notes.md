@@ -3,6 +3,34 @@ Total output lines: 1612
 
 # STRANGE GAIT — Editorial Notes
 
+## Run 291 — EXPLORE — playful circulation is not directional consequence
+
+Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, COMPLETE Spotify receipts for STRANGE GAIT (64/64) and the global Discovery Pool (553/553), the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. Run 290 left no actionable workflow-health defect, and no objective, listener-authorized or revisit repair remained. The lane was therefore EXPLORE.
+
+Run `2026-09-16T03:52:36Z-explore-291` inspected approximately 112 named tracks and releases across the current Juno techno chart and release windows, current Waveform Transmitter and Boomkat windows, adjacent electro/dub/leftfield catalogues, overlooked reissues and the full 64-track canonical boundary map. Nine fresh leads came from nine releases, excluded all durable prior identities and avoided boundaries used in the previous five completed discovery runs. The exact intended request bytes passed the credential-free placement validator before their immutable commit:
+
+`Validated 9 proposed placements across 9 leads for 2026-09-16T03:52:36Z-explore-291`
+
+The immutable schemaVersion 2 request was committed at `51a4481fbf7776b9d5c24dceeb69e73974a35f40`. Resolver workflow `35053935103` succeeded and persisted a matching PARTIAL terminal snapshot at `acedbef7ad0dbaf99e7a12e2d739be19e41b3108`: nine requested, one exact resolution, one selected candidate and eight unresolved identities. There was one album/date variance warning and no alternates, duplicates, substitutions, relinkings or terminal technical failure. Request fingerprint: `72e9bfdd34a6c5490dffa8edae0090ce208912c6d0eb16b96c8d099ba9830e3c`; snapshot generated 2026-09-16T04:00:47.361Z from source commit `ba5127792b0deca3a39f5ec50181ce0265288f5a`.
+
+Bliss Inc — *Carousel* (`spotify:track:6cIDyrqWG1bbXRIX8UfJbD`, 6:21.818) is rejected only at `Migration → candidate → Eyes of the Wind`. Juno calls the exact track a ticklish, bubbling front-side cut. That playful circulating state passes the volume lens and is not rejected for lightness or genre. Immediate handoffs, later development, endpoint and phrasing remain unknown. The five-track context `Stardancer → Migration → Carousel → Eyes of the Wind → It Never Made Sense` nevertheless fails proportionally: *Migration* already performs the post-protected piano-to-break character pivot, *Eyes of the Wind* already provides liminal thinning and *It Never Made Sense* already sharpens into a concise formed grid. The candidate becomes another complete destination between pivot and thinning without changing either successor's task. Its exact 6:21.818 duration therefore crowds the articulated escape rather than creating a new downstream condition. This is not a global rejection.
+
+Eight identities remain unresolved without musical verdict: Eddie Richards — *Destiny*; Joey Beltram — *SW37A*; DJ Natas — *The Titan Of Terror*; Menta Sauce — *Stress*; DJ Babatr — *Cabo E - Substance Remix*; Confusion — *Red 96*; Mike Dehnert — *Black Smoke*; Planet Rhythm — *Rougher & Tougher (Bassline Fever)*. Seven returned exactly `no exact Spotify title/artist search match in market SE`; *Black Smoke* returned exactly `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0CqWRNztljDUXVCeT8lkwd, 2VdvCbPXZZSs6ilPGqE1mL)`.
+
+The resolver warning is preserved exactly in `discoveries.md`: `Exact title/artist matched with release metadata variance: album requested "Echo Chambered" but Spotify returned "echo-chambered"; release date requested "2026-09-15" but Spotify returned "2026-09-04"`.
+
+STRANGE GAIT remains 64 tracks. The protected `Transparency → When We Froze → Stardancer` sequence remains contiguous at positions 54–56. Canonical publication inputs and journey annotations did not change, so the existing map remains current at 64 tracks, 63 transitions and 6h 24m, generated 2026-09-15T11:11:56.183Z with both protected handoffs present and 46 unavailable BPM values explicit. Target Spotify verification remains COMPLETE at 64/64, last verified 2026-09-15T11:12:11.075Z; this is not a new live target verification. The exact evaluated identity is appended to the global Discovery Pool, advancing it 553 → 554 rows.
+
+Automatic publication is enabled. The Discovery Pool publication and exact Spotify read-back are pending the approved editorial commit. This statement must be replaced with the terminal workflow/receipt result before the run is closed.
+
+Workflow health: `~112 inspected → 9 leads → 1 exact selected + 8 unresolved → 1 evaluation → 0 ADD + 1 placement-specific REJECT → 1 utility addition`. Inspection-to-lead conversion is 8.0%; resolution yield is 11.1%; selected-candidate-to-ADD conversion is 0/1. Across completed discovery Runs 87–291, excluding repairs and failed requests, totals are 1,417 leads from approximately 10,640 inspections and 51 ADDs from 406 selected candidates. None of the last ten comparable runs contains an ADD. The musical no-ADD streak is 15 completed discovery runs after Run 270, with 33 exact interesting tracks retained since that ADD.
+
+The result does not establish playlist maturity. Resolver loss dominates this run, and the sole exact candidate received a concrete proportional judgment rather than an automatic UNKNOWN veto. The request guard again passed on first use; one immutable request reached a successful terminal snapshot. The selected evidence was exact-track-specific, the boundary was not used in the previous five completed discovery runs, and no recurring shared-release blocker was reproduced. No new actionable process repair emerges.
+
+Auditor: APPROVED. EXPLORE was lawfully selected; research was broad, nine releases supplied nine leads, prior persistent identities were excluded and the immutable request/snapshot pair is internally valid. Only the selected exact identity was evaluated. Its rejection is placement-specific and rests on cumulative journey structure rather than absent handoff audio. Unresolved identities receive no musical verdict, both protected handoffs remain intact, and no metadata-only energy, BPM or mixability claim was made.
+
+**Audio analysis: NOT TESTED. Live mixing: NOT TESTED.**
+
 ## Run 290 — EXPLORE — a second lock is not a second consequence
 
 Pre-audit reconciled 64 canonical identities and annotations, 63 generated transitions, COMPLETE Spotify receipts for STRANGE GAIT (64/64) and the global Discovery Pool (550/550), the empty active-discussion queue, no TRIGGERED revisit, exact protected order, valid UTF-8/JSON and no audio or live-mixing evidence. Run 289 had left no actionable workflow-health defect, and no objective, listener-authorized or revisit repair remained. The lane was therefore EXPLORE.

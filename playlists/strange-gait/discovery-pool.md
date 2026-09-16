@@ -3,6 +3,16 @@ Total output lines: 1226
 
 # STRANGE GAIT — Discovery Pool
 
+## Run 291 — exact inspiration retained
+
+- Bliss Inc — *Carousel* — `spotify:track:6cIDyrqWG1bbXRIX8UfJbD` — exact 6:21.818 identity; placement-specific reject at `Migration → candidate → Eyes of the Wind`, retained for its documented ticklish, bubbling circulation.
+
+Eight Spotify-SE resolution misses remain research leads: Eddie Richards — *Destiny*; Joey Beltram — *SW37A*; DJ Natas — *The Titan Of Terror*; Menta Sauce — *Stress*; DJ Babatr — *Cabo E - Substance Remix*; Confusion — *Red 96*; Mike Dehnert — *Black Smoke*; Planet Rhythm — *Rougher & Tougher (Bassline Fever)*.
+
+Useful current and adjacent paths: Juno's current techno bestseller and reissue windows, Eddie Richards, Joey Beltram, DJ Natas, Menta Sauce, DJ Babatr / Substance, Confusion, Mike Dehnert / Fachwerk, Planet Rhythm and Bliss Inc.
+
+Set direction retained: playful circulation creates a distinct state, but a late intermediate destination is structural only when its exit changes the successor's work.
+
 ## Run 290 — exact inspiration retained
 
 - Fizch — *Oxidized* — `spotify:track:7kC5JMd80504Bn3OHn5VqL` — exact 4:33.433 identity; placement-specific reject at `Dark Necessity → candidate → Drummz`, retained for its documented unhurried breakdown-to-relentless-lock trajectory and echoing vocal snippets.

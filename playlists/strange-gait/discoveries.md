@@ -3,6 +3,47 @@ Total output lines: 2384
 
 # STRANGE GAIT — Discoveries
 
+## Run 291 — 2026-09-16T03:52:36Z-explore-291
+
+Matching resolver snapshot: schemaVersion 2, sourceCommit `ba5127792b0deca3a39f5ec50181ce0265288f5a`, requestFingerprint `72e9bfdd34a6c5490dffa8edae0090ce208912c6d0eb16b96c8d099ba9830e3c`, generated 2026-09-16T04:00:47.361Z, PARTIAL. Immutable request commit `51a4481fbf7776b9d5c24dceeb69e73974a35f40`; resolver workflow `35053935103`; terminal snapshot commit `acedbef7ad0dbaf99e7a12e2d739be19e41b3108`. Requested 9; resolved 1; selected 1; no alternates; eight unresolved; one metadata-variance warning; no duplicates, substitutions, relinkings or terminal technical failure.
+
+The exact intended request bytes passed `validate-proposed-placements.js` against the current canonical ledger before the immutable commit.
+
+### Bliss Inc — Carousel — `spotify:track:6cIDyrqWG1bbXRIX8UfJbD` — placement-specific REJECT
+
+Exact Spotify duration 381,818 ms; Spotify album *echo-chambered*, release date 2026-09-04. [Juno](https://www.juno.co.uk/techno/charts/bestsellers/this-week/), checked 2026-09-16, calls the exact track a ticklish, bubbling front-side cut.
+
+- Volume fit: PASS. The documented playful circulating state is a lawful proposition for the volume and is not rejected for lightness or genre.
+- Immediate transition: UNKNOWN at `Migration → Carousel → Eyes of the Wind`; neither handoff, later development, endpoint nor phrasing was heard or documented.
+- Five-track consequence: FAIL proportionally through `Stardancer → Migration → Carousel → Eyes of the Wind → It Never Made Sense`. *Migration* already makes the post-protected piano-to-break character pivot and *Eyes of the Wind* already performs the liminal thinning; the candidate inserts another complete destination between them without changing either successor's established work.
+- Long-form effect: FAIL at this placement. The exact 6:21.818 state is genuinely interesting, but it crowds the already articulated escape from protected close through pivot, liminal percussion and razor-cut formation rather than creating a new downstream condition.
+- Verdict: placement-specific REJECT. The track remains genuinely interesting and is not globally rejected.
+- Unknown: exact development, endpoint, BPM, perceived pulse, energy, density, space, hypnosis, emotional effect, phrase relation and mixability.
+- Resolver warning: `Exact title/artist matched with release metadata variance: album requested "Echo Chambered" but Spotify returned "echo-chambered"; release date requested "2026-09-15" but Spotify returned "2026-09-04"`
+
+### Unresolved identities
+
+- Eddie Richards — *Destiny*: `no exact Spotify title/artist search match in market SE`
+- Joey Beltram — *SW37A*: `no exact Spotify title/artist search match in market SE`
+- DJ Natas — *The Titan Of Terror*: `no exact Spotify title/artist search match in market SE`
+- Menta Sauce — *Stress*: `no exact Spotify title/artist search match in market SE`
+- DJ Babatr — *Cabo E - Substance Remix*: `no exact Spotify title/artist search match in market SE`
+- Confusion — *Red 96*: `no exact Spotify title/artist search match in market SE`
+- Mike Dehnert — *Black Smoke*: `ambiguous exact Spotify title/artist match; requested release metadata did not disambiguate (0CqWRNztljDUXVCeT8lkwd, 2VdvCbPXZZSs6ilPGqE1mL)`
+- Planet Rhythm — *Rougher & Tougher (Bassline Fever)*: `no exact Spotify title/artist search match in market SE`
+
+These eight outcomes receive no musical verdict.
+
+### Workflow health
+
+The pre-commit placement guard passed the exact intended Run 291 request on first use, and one immutable request reached a successful terminal snapshot. Resolver loss dominates at eight of nine identities, so the result does not establish playlist maturity. The single selected exact candidate receives a concrete placement-specific verdict rather than an epistemic veto. No actionable process repair emerges.
+
+### Auditor decision
+
+APPROVED. Pre-audit lawfully selected EXPLORE; nine releases supplied nine fresh leads, prior persistent identities were excluded, recent boundaries were avoided and the validated immutable request matches the terminal snapshot. Only the selected exact identity was evaluated at volume, transition, five-track and long-form scales. Its rejection is scoped to the tested boundary and rests on proportional duplication of an already articulated escape, not missing audio. Unresolved identities receive no musical verdict, the protected internal handoffs remain untouched and no metadata-only BPM, energy or mixability claim was made.
+
+Audio analysis and live mixing were not tested.
+
 ## Run 290 — 2026-09-16T02:53:53Z-explore-290
 
 Matching resolver snapshot: schemaVersion 2, sourceCommit `45acad35266cb2c29002eb769fd812d76c6030ef`, requestFingerprint `559d74afe682db498e3ad1a1a83ca4ebcac16290a1fb0a8af1e5d3a0c50db92d`, generated 2026-09-16T03:02:19.448Z, PARTIAL. Immutable request commit `b0961c073c91419a537872d9b1d7df848ca6f46e`; resolver workflow `35050244990`; terminal snapshot commit `ff72d1932a670afcd64de698b1fbc87a89b20c37`. Requested 9; resolved 3; selected 3; no alternates; six unresolved; two metadata-variance warnings; no duplicates, substitutions, relinkings or terminal technical failure.

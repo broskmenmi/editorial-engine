@@ -3,6 +3,20 @@ Total output lines: 1901
 
 # STRANGE GAIT — Set Ideas
 
+## Current additions — Run 291
+
+### Playful circulation is not yet directional consequence
+
+**Direction:** Test lighter circulating states as genuine contrast while requiring their placement to preserve or improve the escape rather than adding an intermediate destination.
+
+**Ingredients:**
+
+- *When We Froze* → *Stardancer* → *Migration* → Bliss Inc — *Carousel* → *Eyes of the Wind* → *It Never Made Sense* — placement-specific REJECT; the ticklish bubbling state is interesting, but it crowds the existing pivot-to-liminal-to-razor-cut passage without changing either successor's task
+- Eddie Richards, Joey Beltram, DJ Natas, Menta Sauce, DJ Babatr / Substance, Confusion, Mike Dehnert and Planet Rhythm — unresolved exact-title research directions without musical verdict
+- preserve `Transparency → When We Froze → Stardancer` as a listener-protected internal block
+
+**Working principle:** Contrast can be playful and still fail proportionally when it becomes another destination before an already articulated release.
+
 ## Current additions — Run 290
 
 ### A second lock is not a second consequence
